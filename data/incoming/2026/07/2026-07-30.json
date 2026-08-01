@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T08:00:00Z",
+  "period": "daily",
+  "sources": [
+    "all",
+    "python",
+    "javascript",
+    "typescript",
+    "rust"
+  ],
+  "repository_count": 8,
+  "repositories": [
+    {
+      "full_name": "tensorflow/tensorflow",
+      "owner": "tensorflow",
+      "name": "tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "primary_language": "Python",
+      "topics": ["machine-learning", "deep-learning", "tensorflow", "ai", "neural-networks"],
+      "license": "Apache-2.0",
+      "stars": 182000,
+      "forks": 74000,
+      "created_at": "2015-11-07T01:19:20Z",
+      "updated_at": "2026-07-30T07:45:00Z",
+      "pushed_at": "2026-07-30T07:30:00Z",
+      "appearances": [
+        {
+          "source_type": "overall",
+          "source_slug": "all",
+          "rank": 1,
+          "stars_gained": 450
+        },
+        {
+          "source_type": "language",
+          "source_slug": "python",
+          "rank": 1,
+          "stars_gained": 450
+        }
+      ]
+    },
+    {
+      "full_name": "pytorch/pytorch",
+      "owner": "pytorch",
+      "name": "pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "primary_language": "Python",
+      "topics": ["pytorch", "deep-learning", "machine-learning", "neural-networks", "gpu"],
+      "license": "BSD-3-Clause",
+      "stars": 75000,
+      "forks": 21000,
+      "created_at": "2016-08-13T17:41:19Z",
+      "updated_at": "2026-07-30T07:50:00Z",
+      "pushed_at": "2026-07-30T07:40:00Z",
+      "appearances": [
+        {
+          "source_type": "overall",
+          "source_slug": "all",
+          "rank": 2,
+          "stars_gained": 320
+        },
+        {
+          "source_type": "language",
+          "source_slug": "python",
+          "rank": 2,
+          "stars_gained": 320
+        }
+      ]
+    },
+    {
+      "full_name": "facebook/react",
+      "owner": "facebook",
+      "name": "react",
+      "url": "https://github.com/facebook/react",
+      "description": "The library for web and native user interfaces",
+      "primary_language": "JavaScript",
+      "topics": ["react", "javascript", "ui", "framework", "frontend"],
+      "license": "MIT",
+      "stars": 219000,
+      "forks": 45000,
+      "created_at": "2013-05-24T16:15:54Z",
+      "updated_at": "2026-07-30T07:55:00Z",
+      "pushed_at": "2026-07-30T07:45:00Z",
+      "appearances": [
+        {
+          "source_type": "overall",
+          "source_slug": "all",
+          "rank": 3,
+          "stars_gained": 280
+        },
+        {
+          "source_type": "language",
+          "source_slug": "javascript",
+          "rank": 1,
+          "stars_gained": 280
+        }
+      ]
+    },
+    {
+      "full_name": "microsoft/vscode",
+      "owner": "microsoft",
+      "name": "vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "primary_language": "TypeScript",
+      "topics": ["editor", "typescript", "electron", "ide", "vscode"],
+      "license": "MIT",
+      "stars": 156000,
+      "forks": 27000,
+      "created_at": "2015-09-03T20:05:47Z",
+      "updated_at": "2026-07-30T07:40:00Z",
+      "pushed_at": "2026-07-30T07:25:00Z",
+      "appearances": [
+        {
+          "source_type": "overall",
+          "source_slug": "all",
+          "rank": 4,
+          "stars_gained": 200
+        },
+        {
+          "source_type": "language",
+          "source_slug": "typescript",
+          "rank": 1,
+          "stars_gained": 200
+        }
+      ]
+    },
+    {
+      "full_name": "rust-lang/rust",
+      "owner": "rust-lang",
+      "name": "rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software",
+      "primary_language": "Rust",
+      "topics": ["rust", "compiler", "programming-language", "systems-programming"],
+      "license": "Apache-2.0",
+      "stars": 92000,
+      "forks": 12000,
+      "created_at": "2010-06-16T20:39:03Z",
+      "updated_at": "2026-07-30T07:35:00Z",
+      "pushed_at": "2026-07-30T07:20:00Z",
+      "appearances": [
+        {
+          "source_type": "overall",
+          "source_slug": "all",
+          "rank": 5,
+          "stars_gained": 180
+        },
+        {
+          "source_type": "language",
+          "source_slug": "rust",
+          "rank": 1,
+          "stars_gained": 180
+        }
+      ]
+    },
+    {
+      "full_name": "vercel/next.js",
+      "owner": "vercel",
+      "name": "next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework for Production",
+      "primary_language": "JavaScript",
+      "topics": ["react", "nextjs", "ssr", "framework", "javascript"],
+      "license": "MIT",
+      "stars": 118000,
+      "forks": 25000,
+      "created_at": "2016-10-05T00:12:42Z",
+      "updated_at": "2026-07-30T07:30:00Z",
+      "pushed_at": "2026-07-30T07:15:00Z",
+      "appearances": [
+        {
+          "source_type": "overall",
+          "source_slug": "all",
+          "rank": 8,
+          "stars_gained": 150
+        },
+        {
+          "source_type": "language",
+          "source_slug": "javascript",
+          "rank": 3,
+          "stars_gained": 150
+        }
+      ]
+    },
+    {
+      "full_name": "tauri-apps/tauri",
+      "owner": "tauri-apps",
+      "name": "tauri",
+      "url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop applications with a web frontend",
+      "primary_language": "Rust",
+      "topics": ["tauri", "rust", "desktop", "electron-alternative", "webview"],
+      "license": "Apache-2.0",
+      "stars": 76000,
+      "forks": 6500,
+      "created_at": "2019-07-13T09:17:30Z",
+      "updated_at": "2026-07-30T07:25:00Z",
+      "pushed_at": "2026-07-30T07:10:00Z",
+      "appearances": [
+        {
+          "source_type": "overall",
+          "source_slug": "all",
+          "rank": 10,
+          "stars_gained": 220
+        },
+        {
+          "source_type": "language",
+          "source_slug": "rust",
+          "rank": 2,
+          "stars_gained": 220
+        }
+      ]
+    },
+    {
+      "full_name": "denoland/deno",
+      "owner": "denoland",
+      "name": "deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript",
+      "primary_language": "Rust",
+      "topics": ["deno", "typescript", "javascript", "runtime", "v8"],
+      "license": "MIT",
+      "stars": 93000,
+      "forks": 5100,
+      "created_at": "2018-05-15T16:09:11Z",
+      "updated_at": "2026-07-30T07:20:00Z",
+      "pushed_at": "2026-07-30T07:05:00Z",
+      "appearances": [
+        {
+          "source_type": "overall",
+          "source_slug": "all",
+          "rank": 12,
+          "stars_gained": 190
+        },
+        {
+          "source_type": "language",
+          "source_slug": "rust",
+          "rank": 3,
+          "stars_gained": 190
+        }
+      ]
+    }
+  ]
+}

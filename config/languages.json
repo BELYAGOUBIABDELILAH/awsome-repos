@@ -1,0 +1,457 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-07-31T22:15:00Z",
+  "description": "Registry of programming languages supported by GitHub Trending tracking",
+  "languages": {
+    "python": {
+      "name": "Python",
+      "slug": "python",
+      "github_trending_slug": "python",
+      "aliases": ["py"],
+      "enabled": true,
+      "icon": "🐍",
+      "color": "#3776ab"
+    },
+    "javascript": {
+      "name": "JavaScript",
+      "slug": "javascript",
+      "github_trending_slug": "javascript",
+      "aliases": ["js"],
+      "enabled": true,
+      "icon": "📜",
+      "color": "#f1e05a"
+    },
+    "typescript": {
+      "name": "TypeScript",
+      "slug": "typescript",
+      "github_trending_slug": "typescript",
+      "aliases": ["ts"],
+      "enabled": true,
+      "icon": "📘",
+      "color": "#3178c6"
+    },
+    "rust": {
+      "name": "Rust",
+      "slug": "rust",
+      "github_trending_slug": "rust",
+      "aliases": ["rs"],
+      "enabled": true,
+      "icon": "🦀",
+      "color": "#dea584"
+    },
+    "go": {
+      "name": "Go",
+      "slug": "go",
+      "github_trending_slug": "go",
+      "aliases": ["golang"],
+      "enabled": true,
+      "icon": "🐹",
+      "color": "#00add8"
+    },
+    "java": {
+      "name": "Java",
+      "slug": "java",
+      "github_trending_slug": "java",
+      "aliases": [],
+      "enabled": true,
+      "icon": "☕",
+      "color": "#b07219"
+    },
+    "cpp": {
+      "name": "C++",
+      "slug": "cpp",
+      "github_trending_slug": "c++",
+      "aliases": ["c++", "cxx"],
+      "enabled": true,
+      "icon": "⚡",
+      "color": "#f34b7d"
+    },
+    "c": {
+      "name": "C",
+      "slug": "c",
+      "github_trending_slug": "c",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🔧",
+      "color": "#555555"
+    },
+    "csharp": {
+      "name": "C#",
+      "slug": "csharp",
+      "github_trending_slug": "c%23",
+      "aliases": ["cs", "c-sharp"],
+      "enabled": true,
+      "icon": "💎",
+      "color": "#178600"
+    },
+    "php": {
+      "name": "PHP",
+      "slug": "php",
+      "github_trending_slug": "php",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🐘",
+      "color": "#4f5d95"
+    },
+    "ruby": {
+      "name": "Ruby",
+      "slug": "ruby",
+      "github_trending_slug": "ruby",
+      "aliases": ["rb"],
+      "enabled": true,
+      "icon": "💎",
+      "color": "#701516"
+    },
+    "swift": {
+      "name": "Swift",
+      "slug": "swift",
+      "github_trending_slug": "swift",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🦅",
+      "color": "#f05138"
+    },
+    "kotlin": {
+      "name": "Kotlin",
+      "slug": "kotlin",
+      "github_trending_slug": "kotlin",
+      "aliases": ["kt"],
+      "enabled": true,
+      "icon": "🎯",
+      "color": "#a97bff"
+    },
+    "scala": {
+      "name": "Scala",
+      "slug": "scala",
+      "github_trending_slug": "scala",
+      "aliases": [],
+      "enabled": true,
+      "icon": "📐",
+      "color": "#c22d40"
+    },
+    "shell": {
+      "name": "Shell",
+      "slug": "shell",
+      "github_trending_slug": "shell",
+      "aliases": ["bash", "sh"],
+      "enabled": true,
+      "icon": "🐚",
+      "color": "#89e051"
+    },
+    "dart": {
+      "name": "Dart",
+      "slug": "dart",
+      "github_trending_slug": "dart",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🎯",
+      "color": "#00b4ab"
+    },
+    "r": {
+      "name": "R",
+      "slug": "r",
+      "github_trending_slug": "r",
+      "aliases": [],
+      "enabled": true,
+      "icon": "📊",
+      "color": "#198ce7"
+    },
+    "julia": {
+      "name": "Julia",
+      "slug": "julia",
+      "github_trending_slug": "julia",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🔮",
+      "color": "#a270ba"
+    },
+    "lua": {
+      "name": "Lua",
+      "slug": "lua",
+      "github_trending_slug": "lua",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🌙",
+      "color": "#000080"
+    },
+    "haskell": {
+      "name": "Haskell",
+      "slug": "haskell",
+      "github_trending_slug": "haskell",
+      "aliases": ["hs"],
+      "enabled": true,
+      "icon": "λ",
+      "color": "#5e5086"
+    },
+    "elixir": {
+      "name": "Elixir",
+      "slug": "elixir",
+      "github_trending_slug": "elixir",
+      "aliases": [],
+      "enabled": true,
+      "icon": "💧",
+      "color": "#6e4a7e"
+    },
+    "clojure": {
+      "name": "Clojure",
+      "slug": "clojure",
+      "github_trending_slug": "clojure",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🍀",
+      "color": "#db5855"
+    },
+    "ocaml": {
+      "name": "OCaml",
+      "slug": "ocaml",
+      "github_trending_slug": "ocaml",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🐫",
+      "color": "#3be133"
+    },
+    "erlang": {
+      "name": "Erlang",
+      "slug": "erlang",
+      "github_trending_slug": "erlang",
+      "aliases": [],
+      "enabled": true,
+      "icon": "📞",
+      "color": "#b83998"
+    },
+    "perl": {
+      "name": "Perl",
+      "slug": "perl",
+      "github_trending_slug": "perl",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🐪",
+      "color": "#0298c3"
+    },
+    "html": {
+      "name": "HTML",
+      "slug": "html",
+      "github_trending_slug": "html",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🌐",
+      "color": "#e34c26"
+    },
+    "css": {
+      "name": "CSS",
+      "slug": "css",
+      "github_trending_slug": "css",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🎨",
+      "color": "#563d7c"
+    },
+    "vue": {
+      "name": "Vue",
+      "slug": "vue",
+      "github_trending_slug": "vue",
+      "aliases": ["vuejs"],
+      "enabled": true,
+      "icon": "🖖",
+      "color": "#41b883"
+    },
+    "objective-c": {
+      "name": "Objective-C",
+      "slug": "objective-c",
+      "github_trending_slug": "objective-c",
+      "aliases": ["objc"],
+      "enabled": true,
+      "icon": "🍎",
+      "color": "#438eff"
+    },
+    "zig": {
+      "name": "Zig",
+      "slug": "zig",
+      "github_trending_slug": "zig",
+      "aliases": [],
+      "enabled": true,
+      "icon": "⚡",
+      "color": "#ec915c"
+    },
+    "vim-script": {
+      "name": "Vim Script",
+      "slug": "vim-script",
+      "github_trending_slug": "vim%20script",
+      "aliases": ["vim", "viml"],
+      "enabled": true,
+      "icon": "📝",
+      "color": "#199f4b"
+    },
+    "powershell": {
+      "name": "PowerShell",
+      "slug": "powershell",
+      "github_trending_slug": "powershell",
+      "aliases": ["ps1", "pwsh"],
+      "enabled": true,
+      "icon": "⚡",
+      "color": "#012456"
+    },
+    "groovy": {
+      "name": "Groovy",
+      "slug": "groovy",
+      "github_trending_slug": "groovy",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🎵",
+      "color": "#4298b8"
+    },
+    "f-sharp": {
+      "name": "F#",
+      "slug": "f-sharp",
+      "github_trending_slug": "f%23",
+      "aliases": ["fsharp", "fs"],
+      "enabled": true,
+      "icon": "💎",
+      "color": "#b845fc"
+    },
+    "assembly": {
+      "name": "Assembly",
+      "slug": "assembly",
+      "github_trending_slug": "assembly",
+      "aliases": ["asm"],
+      "enabled": true,
+      "icon": "⚙️",
+      "color": "#6e4c13"
+    },
+    "fortran": {
+      "name": "Fortran",
+      "slug": "fortran",
+      "github_trending_slug": "fortran",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🔢",
+      "color": "#4d41b1"
+    },
+    "nim": {
+      "name": "Nim",
+      "slug": "nim",
+      "github_trending_slug": "nim",
+      "aliases": [],
+      "enabled": true,
+      "icon": "👑",
+      "color": "#ffc200"
+    },
+    "crystal": {
+      "name": "Crystal",
+      "slug": "crystal",
+      "github_trending_slug": "crystal",
+      "aliases": [],
+      "enabled": true,
+      "icon": "💎",
+      "color": "#000100"
+    },
+    "d": {
+      "name": "D",
+      "slug": "d",
+      "github_trending_slug": "d",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🎯",
+      "color": "#ba595e"
+    },
+    "v": {
+      "name": "V",
+      "slug": "v",
+      "github_trending_slug": "v",
+      "aliases": ["vlang"],
+      "enabled": true,
+      "icon": "✌️",
+      "color": "#4f87c4"
+    },
+    "coffeescript": {
+      "name": "CoffeeScript",
+      "slug": "coffeescript",
+      "github_trending_slug": "coffeescript",
+      "aliases": ["coffee"],
+      "enabled": true,
+      "icon": "☕",
+      "color": "#244776"
+    },
+    "hack": {
+      "name": "Hack",
+      "slug": "hack",
+      "github_trending_slug": "hack",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🔨",
+      "color": "#878787"
+    },
+    "racket": {
+      "name": "Racket",
+      "slug": "racket",
+      "github_trending_slug": "racket",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🎾",
+      "color": "#3c5caa"
+    },
+    "scheme": {
+      "name": "Scheme",
+      "slug": "scheme",
+      "github_trending_slug": "scheme",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🔮",
+      "color": "#1e4aec"
+    },
+    "common-lisp": {
+      "name": "Common Lisp",
+      "slug": "common-lisp",
+      "github_trending_slug": "common%20lisp",
+      "aliases": ["lisp"],
+      "enabled": true,
+      "icon": "🔮",
+      "color": "#3fb68b"
+    },
+    "solidity": {
+      "name": "Solidity",
+      "slug": "solidity",
+      "github_trending_slug": "solidity",
+      "aliases": ["sol"],
+      "enabled": true,
+      "icon": "💠",
+      "color": "#aa6746"
+    },
+    "vhdl": {
+      "name": "VHDL",
+      "slug": "vhdl",
+      "github_trending_slug": "vhdl",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🔌",
+      "color": "#adb2cb"
+    },
+    "verilog": {
+      "name": "Verilog",
+      "slug": "verilog",
+      "github_trending_slug": "verilog",
+      "aliases": [],
+      "enabled": true,
+      "icon": "🔌",
+      "color": "#b2b7f8"
+    },
+    "matlab": {
+      "name": "MATLAB",
+      "slug": "matlab",
+      "github_trending_slug": "matlab",
+      "aliases": [],
+      "enabled": true,
+      "icon": "📐",
+      "color": "#e16737"
+    },
+    "sas": {
+      "name": "SAS",
+      "slug": "sas",
+      "github_trending_slug": "sas",
+      "aliases": [],
+      "enabled": true,
+      "icon": "📊",
+      "color": "#b34936"
+    }
+  }
+}

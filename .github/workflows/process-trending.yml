@@ -1,0 +1,179 @@
+name: Process GitHub Trending Data
+
+on:
+  push:
+    branches: [main]
+    paths: 
+      - "data/incoming/**/*.json"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Date to reprocess (YYYY-MM-DD)'
+        required: false
+        type: string
+      force:
+        description: 'Force reprocess existing data'
+        required: false
+        type: boolean
+        default: false
+
+concurrency:
+  group: process-trending
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  process-trending:
+    runs-on: ubuntu-latest
+    name: Process Trending Data and Generate Content
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ github.token }}
+        fetch-depth: 0
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+        cache-dependency-path: 'package-lock.json'
+
+    - name: Verify environment
+      run: |
+        echo "Node version: $(node --version)"
+        echo "npm version: $(npm --version)"
+        echo "Working directory: $(pwd)"
+        echo "Checking for package files:"
+        ls -la package.json package-lock.json || echo "Missing package files!"
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Identify changed files
+      id: changes
+      run: |
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            # Manual execution with specific date
+            date_input="${{ github.event.inputs.date }}"
+            year=${date_input:0:4}
+            month=${date_input:5:2}
+            file_path="data/incoming/${year}/${month}/${date_input}.json"
+            
+            if [ -f "$file_path" ]; then
+              echo "file_path=$file_path" >> $GITHUB_OUTPUT
+              echo "date=$date_input" >> $GITHUB_OUTPUT
+              echo "Processing manually specified date: $date_input"
+            else
+              echo "Error: File $file_path does not exist"
+              exit 1
+            fi
+          else
+            echo "Error: Date parameter required for manual execution"
+            exit 1
+          fi
+        else
+          # Automatic execution - find changed JSON files
+          changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- 'data/incoming/**/*.json')
+          
+          if [ -z "$changed_files" ]; then
+            echo "No incoming JSON files changed"
+            exit 0
+          fi
+          
+          # Take the first changed file (should only be one per n8n commit)
+          file_path=$(echo "$changed_files" | head -n 1)
+          
+          # Extract date from file path: data/incoming/YYYY/MM/YYYY-MM-DD.json
+          filename=$(basename "$file_path" .json)
+          
+          echo "file_path=$file_path" >> $GITHUB_OUTPUT
+          echo "date=$filename" >> $GITHUB_OUTPUT
+          echo "Processing changed file: $file_path"
+        fi
+
+    - name: Validate incoming data
+      run: |
+        echo "Validating ${{ steps.changes.outputs.file_path }}"
+        node scripts/validate-data.js "${{ steps.changes.outputs.file_path }}"
+
+    - name: Process trending data
+      run: |
+        echo "Processing trending data for ${{ steps.changes.outputs.date }}"
+        node scripts/process-trending.js "${{ steps.changes.outputs.file_path }}" ${{ github.event.inputs.force == 'true' && '--force' || '' }}
+
+    - name: Generate daily archive
+      run: |
+        echo "Generating daily archive for ${{ steps.changes.outputs.date }}"
+        node scripts/generate-reports.js "${{ steps.changes.outputs.date }}"
+
+    - name: Generate topic pages
+      run: |
+        echo "Generating topic pages"
+        node scripts/generate-topics.js
+
+    - name: Generate language pages  
+      run: |
+        echo "Generating language pages"
+        node scripts/generate-languages.js
+
+    - name: Generate repository profiles
+      run: |
+        echo "Generating repository profiles"
+        node scripts/generate-repositories.js
+
+    - name: Generate repository passports
+      run: |
+        echo "Generating repository passports"
+        node scripts/generate-passports.js
+
+    - name: Generate hidden gems
+      run: |
+        echo "Generating hidden gems"
+        node scripts/generate-hidden-gems.js
+
+    - name: Generate statistics
+      run: |
+        echo "Generating statistics"
+        node scripts/generate-stats.js
+
+    - name: Update README
+      run: |
+        echo "Updating README with latest data"
+        node scripts/update-readme.js
+
+    - name: Validate generated content
+      run: |
+        echo "Validating all generated content"
+        node scripts/validate-generated.js
+
+    - name: Configure git
+      run: |
+        git config --local user.email "belyagoubiabdelilah@gmail.com"
+        git config --local user.name "Abdelilah Belyagoubi"
+
+    - name: Commit generated content
+      run: |
+        # Add all generated files
+        git add data/snapshots/ data/index/ archive/ topics/ languages/ repos/ stats/ hidden-gems/ README.md
+        
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          echo "No generated content changes to commit"
+        else
+          # Commit all changes atomically
+          git commit -m "chore: process GitHub trending ${{ steps.changes.outputs.date }}"
+          git push
+          echo "Successfully committed and pushed generated content"
+        fi
+
+    - name: Summary
+      run: |
+        echo "✅ Processing completed for ${{ steps.changes.outputs.date }}"
+        echo "📊 Check the archive at: archive/${{ steps.changes.outputs.date }}"
+        echo "🔗 Repository updated at: $(git log -1 --format='%H')"

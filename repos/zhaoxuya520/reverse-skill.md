@@ -1,0 +1,95 @@
+# zhaoxuya520&#x2F;reverse-skill
+
+> Reverse Engineering &#x2F; Authorized Penetration Testing &#x2F; Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向&#x2F;渗透&#x2F;安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code &#x2F; Kiro &#x2F; Cursor &#x2F; Cline 等代码 AI 客户端
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;zhaoxuya520&#x2F;reverse-skill) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | PowerShell |
+| **License** | MIT |
+| **Stars** | ⭐ 10,701 |
+| **Forks** | 🍴 1,652 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #1 |
+
+| **First Seen** | Aug 1, 2026 |
+| **Last Seen** | Aug 1, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in PowerShell or similar-topics*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #1
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+
+
+### Curated Categories
+`General` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
+| **Maturity** | Experimental | New project, evolving rapidly |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in PowerShell
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: Reached #1
+
+
+---
+
+*Last updated: 2026-08-01T00:25:34.156Z*  
+*Data from 1 trending reports*

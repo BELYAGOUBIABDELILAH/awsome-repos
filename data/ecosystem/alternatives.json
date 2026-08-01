@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-07-31T00:00:00Z",
+  "description": "Alternative repositories solving similar problems",
+  "mappings": {
+    "tensorflow/tensorflow": {
+      "alternatives": ["pytorch/pytorch"],
+      "category": "Deep Learning Framework",
+      "note": "Both are popular deep learning frameworks with different APIs and ecosystems"
+    },
+    "pytorch/pytorch": {
+      "alternatives": ["tensorflow/tensorflow"],
+      "category": "Deep Learning Framework",
+      "note": "PyTorch emphasizes flexibility and research; TensorFlow focuses on production deployment"
+    },
+    "facebook/react": {
+      "alternatives": [],
+      "category": "UI Library",
+      "note": "Leading UI library; alternatives include Vue and Angular but serve different philosophies"
+    },
+    "vercel/next.js": {
+      "alternatives": [],
+      "category": "React Framework",
+      "note": "Production-ready React framework; alternatives include Remix and Gatsby"
+    },
+    "microsoft/vscode": {
+      "alternatives": [],
+      "category": "Code Editor",
+      "note": "Most popular code editor; alternatives include JetBrains IDEs, Sublime, and Vim"
+    },
+    "tauri-apps/tauri": {
+      "alternatives": [],
+      "category": "Desktop App Framework",
+      "note": "Modern Electron alternative using native webviews and Rust"
+    },
+    "rust-lang/rust": {
+      "alternatives": ["golang/go"],
+      "category": "Systems Programming Language",
+      "note": "Both offer memory safety; Rust emphasizes zero-cost abstractions, Go emphasizes simplicity"
+    },
+    "golang/go": {
+      "alternatives": ["rust-lang/rust"],
+      "category": "Systems Programming Language",
+      "note": "Go prioritizes simplicity and fast compilation; Rust prioritizes safety and performance"
+    },
+    "denoland/deno": {
+      "alternatives": [],
+      "category": "JavaScript Runtime",
+      "note": "Modern alternative to Node.js with built-in TypeScript support and security features"
+    },
+    "astral-sh/uv": {
+      "alternatives": [],
+      "category": "Python Package Manager",
+      "note": "Fast alternative to pip written in Rust; also competes with Poetry and PDM"
+    },
+    "shadcn-ui/ui": {
+      "alternatives": [],
+      "category": "UI Component Library",
+      "note": "Copy-paste component approach; alternatives include Material-UI, Chakra UI, Ant Design"
+    },
+    "huggingface/transformers": {
+      "alternatives": [],
+      "category": "NLP Library",
+      "note": "De facto standard for transformers; alternatives include spaCy and Allen NLP for specific tasks"
+    },
+    "openai/whisper": {
+      "alternatives": [],
+      "category": "Speech Recognition",
+      "note": "State-of-the-art speech recognition; alternatives include DeepSpeech and Wav2Vec"
+    },
+    "anthropics/anthropic-sdk-python": {
+      "alternatives": [],
+      "category": "LLM SDK",
+      "note": "Official SDK for Claude; similar to OpenAI Python SDK"
+    },
+    "excalidraw/excalidraw": {
+      "alternatives": [],
+      "category": "Diagramming Tool",
+      "note": "Hand-drawn style diagrams; alternatives include draw.io, Miro, and FigJam"
+    }
+  }
+}

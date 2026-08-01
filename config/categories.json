@@ -1,0 +1,207 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-07-31T00:00:00Z",
+  "description": "Curated project categories for organizing repositories beyond language and raw topics",
+  "categories": {
+    "artificial-intelligence": {
+      "slug": "artificial-intelligence",
+      "name": "Artificial Intelligence",
+      "description": "AI, machine learning, and neural networks",
+      "icon": "🤖",
+      "aliases": ["ai", "artificial-intelligence", "machine-learning", "ml", "deep-learning", "neural-network", "neural-networks"],
+      "priority": 1
+    },
+    "llm": {
+      "slug": "llm",
+      "name": "Large Language Models",
+      "description": "LLMs, GPT, transformers, and natural language processing",
+      "icon": "🧠",
+      "aliases": ["llm", "large-language-model", "large-language-models", "gpt", "transformer", "transformers", "nlp", "natural-language-processing", "chatbot", "langchain", "anthropic", "claude"],
+      "priority": 2
+    },
+    "generative-ai": {
+      "slug": "generative-ai",
+      "name": "Generative AI",
+      "description": "Image, text, and content generation using AI",
+      "icon": "🎨",
+      "aliases": ["generative-ai", "stable-diffusion", "diffusion", "text-to-image", "image-generation", "ai-art"],
+      "priority": 3
+    },
+    "computer-vision": {
+      "slug": "computer-vision",
+      "name": "Computer Vision",
+      "description": "Image and video analysis, object detection, and visual AI",
+      "icon": "👁️",
+      "aliases": ["computer-vision", "cv", "image-processing", "object-detection", "image-recognition", "yolo"],
+      "priority": 4
+    },
+    "data-science": {
+      "slug": "data-science",
+      "name": "Data Science",
+      "description": "Data analysis, visualization, and scientific computing",
+      "icon": "📊",
+      "aliases": ["data-science", "data-analysis", "jupyter", "pandas", "numpy", "scipy", "matplotlib", "seaborn", "plotly", "data-visualization"],
+      "priority": 5
+    },
+    "data-engineering": {
+      "slug": "data-engineering",
+      "name": "Data Engineering",
+      "description": "Data pipelines, ETL, and data infrastructure",
+      "icon": "🔧",
+      "aliases": ["data-engineering", "etl", "data-pipeline", "airflow", "spark", "kafka", "streaming"],
+      "priority": 6
+    },
+    "web-development": {
+      "slug": "web-development",
+      "name": "Web Development",
+      "description": "Frontend, backend, and full-stack web development",
+      "icon": "🌐",
+      "aliases": ["web", "frontend", "backend", "fullstack", "full-stack", "react", "vue", "angular", "nodejs", "express", "nextjs", "svelte"],
+      "priority": 7
+    },
+    "frontend": {
+      "slug": "frontend",
+      "name": "Frontend Development",
+      "description": "UI frameworks, component libraries, and client-side development",
+      "icon": "🎨",
+      "aliases": ["frontend", "ui", "components", "design-system", "css", "html", "sass"],
+      "priority": 8
+    },
+    "backend": {
+      "slug": "backend",
+      "name": "Backend Development",
+      "description": "Server-side development, APIs, and backend frameworks",
+      "icon": "⚙️",
+      "aliases": ["backend", "api", "rest", "graphql", "server", "microservices"],
+      "priority": 9
+    },
+    "mobile": {
+      "slug": "mobile",
+      "name": "Mobile Development",
+      "description": "iOS, Android, and cross-platform mobile apps",
+      "icon": "📱",
+      "aliases": ["mobile", "ios", "android", "react-native", "flutter", "kotlin", "swift", "xamarin", "mobile-app"],
+      "priority": 10
+    },
+    "devops": {
+      "slug": "devops",
+      "name": "DevOps & CI/CD",
+      "description": "Continuous integration, deployment, and infrastructure automation",
+      "icon": "🚀",
+      "aliases": ["devops", "ci-cd", "github-actions", "jenkins", "gitlab-ci", "automation", "deployment"],
+      "priority": 11
+    },
+    "cloud": {
+      "slug": "cloud",
+      "name": "Cloud & Infrastructure",
+      "description": "Cloud platforms, infrastructure as code, and distributed systems",
+      "icon": "☁️",
+      "aliases": ["cloud", "aws", "azure", "gcp", "infrastructure", "terraform", "cloudformation", "serverless"],
+      "priority": 12
+    },
+    "containers": {
+      "slug": "containers",
+      "name": "Containers & Orchestration",
+      "description": "Docker, Kubernetes, and container orchestration",
+      "icon": "🐳",
+      "aliases": ["docker", "kubernetes", "k8s", "containers", "orchestration", "helm"],
+      "priority": 13
+    },
+    "databases": {
+      "slug": "databases",
+      "name": "Databases",
+      "description": "SQL, NoSQL, and data storage solutions",
+      "icon": "💾",
+      "aliases": ["database", "sql", "nosql", "postgres", "mysql", "mongodb", "redis", "elasticsearch"],
+      "priority": 14
+    },
+    "security": {
+      "slug": "security",
+      "name": "Cybersecurity",
+      "description": "Security tools, vulnerability research, and cryptography",
+      "icon": "🔒",
+      "aliases": ["security", "cybersecurity", "penetration-testing", "vulnerability", "encryption", "cryptography", "infosec"],
+      "priority": 15
+    },
+    "blockchain": {
+      "slug": "blockchain",
+      "name": "Blockchain & Web3",
+      "description": "Cryptocurrency, DeFi, and decentralized applications",
+      "icon": "⛓️",
+      "aliases": ["blockchain", "cryptocurrency", "bitcoin", "ethereum", "web3", "defi", "smart-contract", "solidity", "crypto"],
+      "priority": 16
+    },
+    "game-development": {
+      "slug": "game-development",
+      "name": "Game Development",
+      "description": "Game engines, graphics, and interactive entertainment",
+      "icon": "🎮",
+      "aliases": ["game", "gamedev", "game-development", "unity", "unreal", "godot", "graphics", "3d", "opengl", "vulkan"],
+      "priority": 17
+    },
+    "systems-programming": {
+      "slug": "systems-programming",
+      "name": "Systems Programming",
+      "description": "Operating systems, compilers, and low-level programming",
+      "icon": "⚙️",
+      "aliases": ["systems", "operating-system", "os", "compiler", "kernel", "embedded", "c", "assembly", "low-level"],
+      "priority": 18
+    },
+    "developer-tools": {
+      "slug": "developer-tools",
+      "name": "Developer Tools",
+      "description": "IDEs, editors, CLI tools, and productivity software",
+      "icon": "🛠️",
+      "aliases": ["developer-tools", "tools", "cli", "editor", "ide", "vscode", "productivity"],
+      "priority": 19
+    },
+    "testing": {
+      "slug": "testing",
+      "name": "Testing & QA",
+      "description": "Testing frameworks, automation, and quality assurance",
+      "icon": "✅",
+      "aliases": ["testing", "test", "qa", "unit-testing", "integration-testing", "e2e", "selenium", "jest", "pytest"],
+      "priority": 20
+    },
+    "automation": {
+      "slug": "automation",
+      "name": "Automation",
+      "description": "Task automation, workflow tools, and scripting",
+      "icon": "🤖",
+      "aliases": ["automation", "workflow", "scripting", "bot", "rpa"],
+      "priority": 21
+    },
+    "robotics": {
+      "slug": "robotics",
+      "name": "Robotics",
+      "description": "Robot control, simulation, and autonomous systems",
+      "icon": "🤖",
+      "aliases": ["robotics", "robot", "ros", "autonomous", "simulation"],
+      "priority": 22
+    },
+    "iot": {
+      "slug": "iot",
+      "name": "Internet of Things",
+      "description": "IoT devices, embedded systems, and edge computing",
+      "icon": "📡",
+      "aliases": ["iot", "internet-of-things", "embedded", "esp32", "arduino", "raspberry-pi"],
+      "priority": 23
+    },
+    "education": {
+      "slug": "education",
+      "name": "Education & Learning",
+      "description": "Educational resources, tutorials, and learning platforms",
+      "icon": "📚",
+      "aliases": ["education", "learning", "tutorial", "course", "teaching", "awesome"],
+      "priority": 24
+    },
+    "documentation": {
+      "slug": "documentation",
+      "name": "Documentation",
+      "description": "Documentation tools, generators, and static site builders",
+      "icon": "📖",
+      "aliases": ["documentation", "docs", "static-site", "markdown", "wiki"],
+      "priority": 25
+    }
+  }
+}

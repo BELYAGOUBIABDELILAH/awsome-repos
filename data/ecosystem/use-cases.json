@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-07-31T00:00:00Z",
+  "description": "Use case mappings for repositories",
+  "mappings": {
+    "tensorflow/tensorflow": {
+      "best_for": ["AI", "Machine Learning", "Deep Learning", "Neural Networks", "Computer Vision", "NLP", "Production ML"],
+      "use_cases": ["Training deep learning models", "Image classification", "Natural language processing", "Production deployment"]
+    },
+    "pytorch/pytorch": {
+      "best_for": ["AI", "Machine Learning", "Deep Learning", "Research", "Computer Vision", "NLP"],
+      "use_cases": ["ML research", "Prototyping neural networks", "Transfer learning", "Custom model architectures"]
+    },
+    "facebook/react": {
+      "best_for": ["Frontend", "Web Development", "UI", "SPAs", "Mobile"],
+      "use_cases": ["Building web interfaces", "Single-page applications", "Component-based UIs", "React Native mobile apps"]
+    },
+    "vercel/next.js": {
+      "best_for": ["Frontend", "Full-stack", "SSR", "Web Development", "Production"],
+      "use_cases": ["Server-side rendering", "Static site generation", "Full-stack React apps", "E-commerce sites"]
+    },
+    "microsoft/vscode": {
+      "best_for": ["Developer Tools", "IDE", "Code Editor", "Extensions"],
+      "use_cases": ["Writing code", "Debugging", "Git integration", "Extension development"]
+    },
+    "huggingface/transformers": {
+      "best_for": ["NLP", "LLMs", "AI", "Machine Learning", "Text Generation"],
+      "use_cases": ["Fine-tuning language models", "Text classification", "Question answering", "Named entity recognition"]
+    },
+    "tauri-apps/tauri": {
+      "best_for": ["Desktop", "Cross-platform", "Rust", "Electron Alternative"],
+      "use_cases": ["Building desktop apps", "Cross-platform applications", "Lightweight native apps", "Web-to-desktop"]
+    },
+    "rust-lang/rust": {
+      "best_for": ["Systems Programming", "Performance", "Safety", "WebAssembly"],
+      "use_cases": ["System tools", "Performance-critical applications", "WebAssembly modules", "Embedded systems"]
+    },
+    "golang/go": {
+      "best_for": ["Backend", "Cloud Native", "Microservices", "CLI Tools"],
+      "use_cases": ["Web servers", "Cloud services", "Command-line tools", "Concurrent applications"]
+    },
+    "denoland/deno": {
+      "best_for": ["Backend", "CLI", "TypeScript", "Secure Runtime"],
+      "use_cases": ["Modern JavaScript/TypeScript apps", "Secure scripting", "Edge functions", "CLI tools"]
+    },
+    "astral-sh/uv": {
+      "best_for": ["Python", "Package Management", "DevOps", "Build Tools"],
+      "use_cases": ["Fast Python package installation", "Dependency resolution", "CI/CD pipelines", "Project setup"]
+    },
+    "shadcn-ui/ui": {
+      "best_for": ["Frontend", "UI Components", "Design System", "React"],
+      "use_cases": ["Building accessible UIs", "Design systems", "Component libraries", "Rapid prototyping"]
+    },
+    "openai/whisper": {
+      "best_for": ["AI", "Speech Recognition", "Audio Processing", "Transcription"],
+      "use_cases": ["Speech-to-text", "Audio transcription", "Subtitle generation", "Voice interfaces"]
+    },
+    "anthropics/anthropic-sdk-python": {
+      "best_for": ["AI", "LLMs", "Claude", "Chatbots", "SDK"],
+      "use_cases": ["Integrating Claude AI", "Building chatbots", "Text generation", "AI assistants"]
+    },
+    "excalidraw/excalidraw": {
+      "best_for": ["Collaboration", "Diagramming", "Design", "Whiteboard"],
+      "use_cases": ["Creating diagrams", "Visual brainstorming", "Technical documentation", "Design mockups"]
+    }
+  }
+}

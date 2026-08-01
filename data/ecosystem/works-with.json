@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-07-31T00:00:00Z",
+  "description": "Ecosystem mappings showing which repositories work well together",
+  "mappings": {
+    "tensorflow/tensorflow": {
+      "works_with": ["huggingface/transformers", "pytorch/pytorch", "openai/whisper"],
+      "complements": ["Python", "Machine Learning", "Data Science"]
+    },
+    "pytorch/pytorch": {
+      "works_with": ["huggingface/transformers", "tensorflow/tensorflow", "openai/whisper"],
+      "complements": ["Python", "Deep Learning", "Neural Networks"]
+    },
+    "facebook/react": {
+      "works_with": ["vercel/next.js", "shadcn-ui/ui", "microsoft/vscode"],
+      "complements": ["JavaScript", "TypeScript", "UI Development"]
+    },
+    "vercel/next.js": {
+      "works_with": ["facebook/react", "shadcn-ui/ui", "microsoft/vscode"],
+      "complements": ["React", "SSR", "Full-stack"]
+    },
+    "microsoft/vscode": {
+      "works_with": ["golang/go", "rust-lang/rust", "denoland/deno"],
+      "complements": ["Development Tools", "IDE", "Extensions"]
+    },
+    "huggingface/transformers": {
+      "works_with": ["tensorflow/tensorflow", "pytorch/pytorch", "anthropics/anthropic-sdk-python"],
+      "complements": ["NLP", "LLM", "AI Models"]
+    },
+    "tauri-apps/tauri": {
+      "works_with": ["facebook/react", "vercel/next.js", "rust-lang/rust"],
+      "complements": ["Desktop Apps", "Electron Alternative", "Web Technologies"]
+    },
+    "shadcn-ui/ui": {
+      "works_with": ["facebook/react", "vercel/next.js", "microsoft/vscode"],
+      "complements": ["UI Components", "Design System", "Tailwind CSS"]
+    },
+    "astral-sh/uv": {
+      "works_with": ["tensorflow/tensorflow", "pytorch/pytorch", "huggingface/transformers"],
+      "complements": ["Python", "Package Management", "Build Tools"]
+    },
+    "anthropics/anthropic-sdk-python": {
+      "works_with": ["huggingface/transformers", "openai/whisper"],
+      "complements": ["Claude AI", "LLM APIs", "Python SDKs"]
+    },
+    "openai/whisper": {
+      "works_with": ["tensorflow/tensorflow", "pytorch/pytorch", "huggingface/transformers"],
+      "complements": ["Speech Recognition", "Audio Processing", "AI"]
+    },
+    "excalidraw/excalidraw": {
+      "works_with": ["facebook/react", "microsoft/vscode"],
+      "complements": ["Diagramming", "Collaboration", "Visualization"]
+    },
+    "rust-lang/rust": {
+      "works_with": ["tauri-apps/tauri", "astral-sh/uv", "microsoft/vscode"],
+      "complements": ["Systems Programming", "Performance", "Safety"]
+    },
+    "denoland/deno": {
+      "works_with": ["microsoft/vscode", "facebook/react"],
+      "complements": ["JavaScript Runtime", "TypeScript", "Modern Tooling"]
+    },
+    "golang/go": {
+      "works_with": ["microsoft/vscode"],
+      "complements": ["Backend", "Cloud Native", "Concurrency"]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-07-31T00:00:00Z",
+  "description": "Configuration for identifying and scoring Hidden Gems - repositories with low popularity but high potential",
+  "scoring_weights": {
+    "low_popularity": 0.25,
+    "recent_growth": 0.25,
+    "trending_appearances": 0.20,
+    "repository_activity": 0.15,
+    "contributor_count": 0.10,
+    "community_engagement": 0.05
+  },
+  "thresholds": {
+    "maximum_stars": 25000,
+    "minimum_stars": 100,
+    "minimum_trending_days": 1,
+    "minimum_growth_rate": 50,
+    "maximum_age_months": 36,
+    "minimum_contributors_estimate": 2,
+    "recent_commit_window_days": 90,
+    "minimum_activity_score": 30
+  },
+  "scoring_formulas": {
+    "low_popularity_score": "min(100, (maximum_stars - stars) / maximum_stars * 100)",
+    "recent_growth_score": "min(100, (stars_gained_per_day / minimum_growth_rate) * 100)",
+    "trending_score": "min(100, trending_days * 20)",
+    "activity_score": "based on days_since_last_commit and commit_frequency",
+    "contributor_score": "estimated from forks and topics count",
+    "engagement_score": "based on forks_to_stars_ratio and topic_diversity"
+  },
+  "notes": [
+    "All thresholds are configurable and can be adjusted based on community feedback",
+    "Gem Score is calculated as weighted average of all component scores",
+    "Repositories must meet all minimum thresholds to be considered",
+    "Scores are normalized to 0-100 scale for consistency"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "curated_topics": {
+    "artificial-intelligence": {
+      "slug": "artificial-intelligence",
+      "name": "Artificial Intelligence",
+      "description": "AI, machine learning, and neural networks",
+      "aliases": ["ai", "artificial-intelligence", "machine-learning", "ml", "deep-learning", "neural-network", "tensorflow", "pytorch"],
+      "icon": "🤖"
+    },
+    "llm": {
+      "slug": "llm", 
+      "name": "Large Language Models",
+      "description": "LLMs, GPT, transformers, and natural language processing",
+      "aliases": ["llm", "large-language-model", "gpt", "transformer", "nlp", "natural-language-processing", "chatbot", "langchain"],
+      "icon": "🧠"
+    },
+    "data-science": {
+      "slug": "data-science",
+      "name": "Data Science",
+      "description": "Data analysis, visualization, and scientific computing",
+      "aliases": ["data-science", "data-analysis", "jupyter", "pandas", "numpy", "scipy", "matplotlib", "seaborn", "plotly"],
+      "icon": "📊"
+    },
+    "web-development": {
+      "slug": "web-development", 
+      "name": "Web Development",
+      "description": "Frontend, backend, and full-stack web development",
+      "aliases": ["web", "frontend", "backend", "fullstack", "react", "vue", "angular", "nodejs", "express", "nextjs"],
+      "icon": "🌐"
+    },
+    "devops": {
+      "slug": "devops",
+      "name": "DevOps & Infrastructure",
+      "description": "CI/CD, containerization, and infrastructure automation",
+      "aliases": ["devops", "docker", "kubernetes", "ci-cd", "github-actions", "terraform", "ansible", "jenkins"],
+      "icon": "🚀"
+    },
+    "mobile": {
+      "slug": "mobile",
+      "name": "Mobile Development", 
+      "description": "iOS, Android, and cross-platform mobile apps",
+      "aliases": ["mobile", "ios", "android", "react-native", "flutter", "kotlin", "swift", "xamarin"],
+      "icon": "📱"
+    },
+    "blockchain": {
+      "slug": "blockchain",
+      "name": "Blockchain & Web3",
+      "description": "Cryptocurrency, DeFi, and decentralized applications", 
+      "aliases": ["blockchain", "cryptocurrency", "bitcoin", "ethereum", "web3", "defi", "smart-contract", "solidity"],
+      "icon": "⛓️"
+    },
+    "security": {
+      "slug": "security",
+      "name": "Cybersecurity",
+      "description": "Security tools, vulnerability research, and cryptography",
+      "aliases": ["security", "cybersecurity", "penetration-testing", "vulnerability", "encryption", "cryptography"],
+      "icon": "🔒"
+    },
+    "game-development": {
+      "slug": "game-development",
+      "name": "Game Development",
+      "description": "Game engines, graphics, and interactive entertainment", 
+      "aliases": ["game", "gamedev", "unity", "unreal", "godot", "graphics", "3d", "opengl", "vulkan"],
+      "icon": "🎮"
+    },
+    "systems-programming": {
+      "slug": "systems-programming",
+      "name": "Systems Programming",
+      "description": "Operating systems, compilers, and low-level programming",
+      "aliases": ["systems", "operating-system", "compiler", "kernel", "embedded", "c", "cpp", "rust", "assembly"],
+      "icon": "⚙️"
+    }
+  }
+}

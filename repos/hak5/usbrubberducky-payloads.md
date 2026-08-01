@@ -1,0 +1,95 @@
+# hak5&#x2F;usbrubberducky-payloads
+
+> The Official USB Rubber Ducky Payload Repository
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;hak5&#x2F;usbrubberducky-payloads) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | PowerShell |
+| **License** | Not specified |
+| **Stars** | ⭐ 5,881 |
+| **Forks** | 🍴 1,663 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Aug 1, 2026 |
+| **Last Seen** | Aug 1, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in PowerShell or badusb*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`badusb`](../../topics/badusb.md) [`ducky-payloads`](../../topics/ducky-payloads.md) [`duckyscript`](../../topics/duckyscript.md) [`hacking-tools`](../../topics/hacking-tools.md) [`hak5`](../../topics/hak5.md) [`hak5-rubber-ducky`](../../topics/hak5-rubber-ducky.md) [`hid`](../../topics/hid.md) [`hotplug`](../../topics/hotplug.md) [`keystroke-injection`](../../topics/keystroke-injection.md) [`payloads`](../../topics/payloads.md) [`pentesting`](../../topics/pentesting.md) [`security-tools`](../../topics/security-tools.md) [`usb-rubber-ducky`](../../topics/usb-rubber-ducky.md) [`usbrubberducky`](../../topics/usbrubberducky.md) 
+
+### Curated Categories
+`Cybersecurity` `Systems Programming` `Developer Tools` `Testing &amp; QA` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Limited | May require reading source code |
+| **Community** | Active | Regular contributions and discussions |
+| **Maturity** | Stable | Established project |
+| **Maintenance** | Slow | Occasional updates |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in PowerShell
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-08-01T00:25:34.564Z*  
+*Data from 1 trending reports*

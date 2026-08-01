@@ -1,0 +1,95 @@
+# microsoft&#x2F;AI-For-Beginners
+
+> 12 Weeks, 24 Lessons, AI for All!
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;AI-For-Beginners) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | Jupyter Notebook |
+| **License** | MIT |
+| **Stars** | ⭐ 55,299 |
+| **Forks** | 🍴 11,144 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #5 |
+
+| **First Seen** | Aug 1, 2026 |
+| **Last Seen** | Aug 1, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in Jupyter Notebook or ai*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #5
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`ai`](../../topics/ai.md) [`artificial-intelligence`](../../topics/artificial-intelligence.md) [`cnn`](../../topics/cnn.md) [`computer-vision`](../../topics/computer-vision.md) [`deep-learning`](../../topics/deep-learning.md) [`gan`](../../topics/gan.md) [`machine-learning`](../../topics/machine-learning.md) [`microsoft-for-beginners`](../../topics/microsoft-for-beginners.md) [`nlp`](../../topics/nlp.md) [`rnn`](../../topics/rnn.md) 
+
+### Curated Categories
+`Artificial Intelligence` `Large Language Models` `Computer Vision` `Systems Programming` `Robotics` `Education &amp; Learning` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Intermediate | Well-documented but extensive API |
+| **Documentation** | Good | Well-maintained documentation |
+| **Community** | Active | Regular contributions and discussions |
+| **Maturity** | Production Ready | Battle-tested and stable |
+| **Maintenance** | Active | Regular updates |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in Jupyter Notebook
+
+#### Metrics
+- **Hidden Gem**: ✗ No
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: Top 5 (Peak: #5)
+
+
+---
+
+*Last updated: 2026-08-01T00:25:34.162Z*  
+*Data from 1 trending reports*

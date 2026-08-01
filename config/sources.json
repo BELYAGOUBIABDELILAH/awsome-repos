@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "sources": {
+    "overall": {
+      "slug": "all",
+      "name": "Overall Trending",
+      "description": "All trending repositories across languages",
+      "priority": 1
+    },
+    "languages": {
+      "python": {
+        "slug": "python",
+        "name": "Python",
+        "description": "Trending Python repositories",
+        "priority": 2
+      },
+      "javascript": {
+        "slug": "javascript",
+        "name": "JavaScript",
+        "description": "Trending JavaScript repositories",
+        "priority": 3
+      },
+      "typescript": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "description": "Trending TypeScript repositories",
+        "priority": 4
+      },
+      "rust": {
+        "slug": "rust",
+        "name": "Rust",
+        "description": "Trending Rust repositories",
+        "priority": 5
+      },
+      "go": {
+        "slug": "go",
+        "name": "Go",
+        "description": "Trending Go repositories",
+        "priority": 6
+      },
+      "java": {
+        "slug": "java",
+        "name": "Java",
+        "description": "Trending Java repositories",
+        "priority": 7
+      },
+      "cpp": {
+        "slug": "cpp",
+        "name": "C++",
+        "description": "Trending C++ repositories",
+        "priority": 8
+      }
+    }
+  }
+}
