@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 1
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-02
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,020 | 2026-08-01 | 1 |
+| [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 2 |
 
 
 ---
@@ -25,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,020 | 2026-08-01 | General-purpose editor&#x2F;IDE with high expansibility in Common Lisp |
+| [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | General-purpose editor&#x2F;IDE with high expansibility in Common Lisp |
 
 
 ---
@@ -34,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,020 | 2026-08-01 | 1 |
+| [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 2 |
 
 ---
 
@@ -42,7 +42,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [lem-project/lem](../repos/lem-project/lem.md) | 1 | ⭐ 3,020 | 2026-08-01 | 2026-08-01 |
+| [lem-project/lem](../repos/lem-project/lem.md) | 2 | ⭐ 3,023 | 2026-08-01 | 2026-08-02 |
 
 ---
 
@@ -52,4 +52,4 @@
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.746Z*
+*Last updated: 2026-08-02T23:30:07.480Z*

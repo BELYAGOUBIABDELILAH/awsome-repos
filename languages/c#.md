@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 15
+- **Total Repositories**: 28
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-02
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 23,834 | 2026-08-01 | 1 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 24,292 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,442 | 2026-08-01 | 1 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,340 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,582 | 2026-08-01 | 1 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 13,703 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 10,741 | 2026-08-01 | 1 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 112,855 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kgrzybek/modular-monolith-with-ddd](../repos/kgrzybek/modular-monolith-with-ddd.md) | ⭐ 13,907 | 2026-08-01 | 1 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 14,231 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,507 | 2026-08-01 | 1 |
+| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,830 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,521 | 2026-08-01 | 1 |
+| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,523 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,672 | 2026-08-01 | 1 |
+| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 4,647 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,753 | 2026-08-01 | 1 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,299 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,336 | 2026-08-01 | 1 |
+| [LavaGang/MelonLoader](../repos/LavaGang/MelonLoader.md) | ⭐ 4,075 | 2026-08-02 | 1 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 23,834 | 2026-08-01 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and auto... |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 24,292 | 2026-08-01 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and auto... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,442 | 2026-08-01 | The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration w... |
@@ -79,7 +79,7 @@
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,753 | 2026-08-01 | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&amp;more) - cross-platform! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,336 | 2026-08-01 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications ... |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,340 | 2026-08-01 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications ... |
 
 
 ---
@@ -88,21 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 112,855 | 2026-08-02 | 1 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,299 | 2026-08-02 | 1 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,507 | 2026-08-01 | 1 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,336 | 2026-08-01 | 1 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,340 | 2026-08-01 | 2 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,753 | 2026-08-01 | 1 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 23,834 | 2026-08-01 | 1 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,337 | 2026-08-02 | 1 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 24,292 | 2026-08-01 | 2 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,582 | 2026-08-01 | 1 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,672 | 2026-08-01 | 1 |
 | [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,161 | 2026-08-01 | 1 |
+| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,830 | 2026-08-02 | 1 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,496 | 2026-08-02 | 1 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 14,231 | 2026-08-02 | 1 |
 | [kgrzybek/modular-monolith-with-ddd](../repos/kgrzybek/modular-monolith-with-ddd.md) | ⭐ 13,907 | 2026-08-01 | 1 |
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 13,673 | 2026-08-01 | 1 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 13,703 | 2026-08-01 | 2 |
+| [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) | ⭐ 13,671 | 2026-08-02 | 1 |
 | [lucasg/Dependencies](../repos/lucasg/Dependencies.md) | ⭐ 11,713 | 2026-08-01 | 1 |
+| [lostindark/DriverStoreExplorer](../repos/lostindark/DriverStoreExplorer.md) | ⭐ 11,301 | 2026-08-02 | 1 |
 | [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 10,741 | 2026-08-01 | 1 |
-| [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,442 | 2026-08-01 | 1 |
-| [openutau/OpenUtau](../repos/openutau/OpenUtau.md) | ⭐ 4,138 | 2026-08-01 | 1 |
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,521 | 2026-08-01 | 1 |
-| [microsoft/vstest](../repos/microsoft/vstest.md) | ⭐ 967 | 2026-08-01 | 1 |
+| [AssetRipper/AssetRipper](../repos/AssetRipper/AssetRipper.md) | ⭐ 8,049 | 2026-08-02 | 1 |
 
 ---
 
@@ -110,7 +115,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 1 | ⭐ 23,834 | 2026-08-01 | 2026-08-01 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 2 | ⭐ 24,292 | 2026-08-01 | 2026-08-02 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 2 | ⭐ 38,340 | 2026-08-01 | 2026-08-02 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 2 | ⭐ 13,703 | 2026-08-01 | 2026-08-02 |
 | [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | 1 | ⭐ 4,442 | 2026-08-01 | 2026-08-01 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | 1 | ⭐ 20,582 | 2026-08-01 | 2026-08-01 |
 | [dotnet/eShop](../repos/dotnet/eShop.md) | 1 | ⭐ 10,741 | 2026-08-01 | 2026-08-01 |
@@ -118,8 +125,6 @@
 | [files-community/Files](../repos/files-community/Files.md) | 1 | ⭐ 44,507 | 2026-08-01 | 2026-08-01 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 1 | ⭐ 3,521 | 2026-08-01 | 2026-08-01 |
 | [bitwarden/server](../repos/bitwarden/server.md) | 1 | ⭐ 19,672 | 2026-08-01 | 2026-08-01 |
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | 1 | ⭐ 25,753 | 2026-08-01 | 2026-08-01 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 1 | ⭐ 38,336 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -140,7 +145,20 @@
 - [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) - Open Source real-time strategy game engine for early Westwood games such as Command &amp; Conquer: Re...
 - [lucasg/Dependencies](../repos/lucasg/Dependencies.md) - A rewrite of the old legacy software &quot;depends.exe&quot; in C# for Windows devs to troubleshoot dll loa...
 - [microsoft/vstest](../repos/microsoft/vstest.md) - Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console.
+- [2dust/v2rayN](../repos/2dust/v2rayN.md) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+- [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) - Advanced UX and interoperability extension for Wand (WeMod) app
+- [Jackett/Jackett](../repos/Jackett/Jackett.md) - API Support for your favorite torrent trackers
+- [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations 
+- [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) - A real WinUI desktop cleaner with terminal control and multi-database support
+- [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) - The Free Software Media System - Server Backend &amp; API
+- [LavaGang/MelonLoader](../repos/LavaGang/MelonLoader.md) - The World&#39;s First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
+- [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a pac...
+- [AssetRipper/AssetRipper](../repos/AssetRipper/AssetRipper.md) - GUI application to analyze game files
+- [awgil/ffxiv_bossmod](../repos/awgil/ffxiv_bossmod.md) - BossMod FFXIV dalamud plugin
+- [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) - Video game library manager with support for wide range of 3rd party libraries and game emulation ...
+- [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集&#x2F;挖矿&#x2F;锄地 | 一条龙 | 全连音游 | ...
+- [lostindark/DriverStoreExplorer](../repos/lostindark/DriverStoreExplorer.md) - Driver Store Explorer
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.741Z*
+*Last updated: 2026-08-02T23:30:07.471Z*

@@ -16,10 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,723 | 2026-08-01 | 1 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 2 |
 
 
 ---
@@ -41,7 +38,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,723 | 2026-08-01 | 1 |
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 1 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 2 |
 
 ---
 
@@ -49,7 +46,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 1 | ⭐ 981 | 2026-08-01 | 2026-08-01 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 2 | ⭐ 981 | 2026-08-01 | 2026-08-02 |
 | [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | 1 | ⭐ 7,723 | 2026-08-01 | 2026-08-01 |
 
 ---
@@ -61,4 +58,4 @@
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.759Z*
+*Last updated: 2026-08-02T23:30:07.496Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 4
+- **Total Repositories**: 7
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-01
 
@@ -16,16 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,314 | 2026-08-01 | 1 |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,316 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,579 | 2026-08-01 | 1 |
+| [ninenines/ranch](../repos/ninenines/ranch.md) | ⭐ 1,242 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [blt/port_compiler](../repos/blt/port_compiler.md) | ⭐ 69 | 2026-08-01 | 1 |
+| [ninenines/cowlib](../repos/ninenines/cowlib.md) | ⭐ 296 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WhatsApp/erlfmt](../repos/WhatsApp/erlfmt.md) | ⭐ 460 | 2026-08-01 | 1 |
+| [talentdeficit/jsx](../repos/talentdeficit/jsx.md) | ⭐ 699 | 2026-08-02 | 1 |
 
 
 ---
@@ -34,7 +34,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,314 | 2026-08-01 | Erlang&#x2F;OTP |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,316 | 2026-08-01 | Erlang&#x2F;OTP |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,579 | 2026-08-01 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
@@ -44,6 +44,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [WhatsApp/erlfmt](../repos/WhatsApp/erlfmt.md) | ⭐ 460 | 2026-08-01 | An automated code formatter for Erlang |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ninenines/ranch](../repos/ninenines/ranch.md) | ⭐ 1,242 | 2026-08-02 | Socket acceptor pool for TCP protocols. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ninenines/cowlib](../repos/ninenines/cowlib.md) | ⭐ 296 | 2026-08-02 | Support library for manipulating Web protocols. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [talentdeficit/jsx](../repos/talentdeficit/jsx.md) | ⭐ 699 | 2026-08-02 | an erlang application for consuming, producing and manipulating json. inspired by yajl |
 
 
 ---
@@ -53,8 +62,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,579 | 2026-08-01 | 1 |
-| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,314 | 2026-08-01 | 1 |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,316 | 2026-08-01 | 2 |
+| [ninenines/ranch](../repos/ninenines/ranch.md) | ⭐ 1,242 | 2026-08-02 | 1 |
+| [talentdeficit/jsx](../repos/talentdeficit/jsx.md) | ⭐ 699 | 2026-08-02 | 1 |
 | [WhatsApp/erlfmt](../repos/WhatsApp/erlfmt.md) | ⭐ 460 | 2026-08-01 | 1 |
+| [ninenines/cowlib](../repos/ninenines/cowlib.md) | ⭐ 296 | 2026-08-02 | 1 |
 | [blt/port_compiler](../repos/blt/port_compiler.md) | ⭐ 69 | 2026-08-01 | 1 |
 
 ---
@@ -63,10 +75,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [erlang/otp](../repos/erlang/otp.md) | 1 | ⭐ 12,314 | 2026-08-01 | 2026-08-01 |
+| [erlang/otp](../repos/erlang/otp.md) | 2 | ⭐ 12,316 | 2026-08-01 | 2026-08-02 |
 | [emqx/emqx](../repos/emqx/emqx.md) | 1 | ⭐ 16,579 | 2026-08-01 | 2026-08-01 |
 | [blt/port_compiler](../repos/blt/port_compiler.md) | 1 | ⭐ 69 | 2026-08-01 | 2026-08-01 |
 | [WhatsApp/erlfmt](../repos/WhatsApp/erlfmt.md) | 1 | ⭐ 460 | 2026-08-01 | 2026-08-01 |
+| [ninenines/ranch](../repos/ninenines/ranch.md) | 1 | ⭐ 1,242 | 2026-08-02 | 2026-08-02 |
+| [ninenines/cowlib](../repos/ninenines/cowlib.md) | 1 | ⭐ 296 | 2026-08-02 | 2026-08-02 |
+| [talentdeficit/jsx](../repos/talentdeficit/jsx.md) | 1 | ⭐ 699 | 2026-08-02 | 2026-08-02 |
 
 ---
 
@@ -76,7 +91,10 @@
 - [emqx/emqx](../repos/emqx/emqx.md) - The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles
 - [blt/port_compiler](../repos/blt/port_compiler.md) - A rebar3 port compiler
 - [WhatsApp/erlfmt](../repos/WhatsApp/erlfmt.md) - An automated code formatter for Erlang
+- [ninenines/ranch](../repos/ninenines/ranch.md) - Socket acceptor pool for TCP protocols.
+- [ninenines/cowlib](../repos/ninenines/cowlib.md) - Support library for manipulating Web protocols.
+- [talentdeficit/jsx](../repos/talentdeficit/jsx.md) - an erlang application for consuming, producing and manipulating json. inspired by yajl
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.750Z*
+*Last updated: 2026-08-02T23:30:07.485Z*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 17
+- **Total Repositories**: 31
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-02
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,135 | 2026-08-01 | 1 |
+| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,333 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,511 | 2026-08-01 | 1 |
+| [apache/maven](../repos/apache/maven.md) | ⭐ 5,292 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/fastjson2](../repos/alibaba/fastjson2.md) | ⭐ 4,372 | 2026-08-01 | 1 |
+| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,456 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,063 | 2026-08-01 | 1 |
+| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,640 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,229 | 2026-08-01 | 1 |
+| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,218 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [langchain4j/langchain4j-examples](../repos/langchain4j/langchain4j-examples.md) | ⭐ 1,837 | 2026-08-01 | 1 |
+| [woheller69/FreeDroidWarn](../repos/woheller69/FreeDroidWarn.md) | ⭐ 3,018 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | ⭐ 9,665 | 2026-08-01 | 1 |
+| [MojoLauncher/MojoLauncher](../repos/MojoLauncher/MojoLauncher.md) | ⭐ 910 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,392 | 2026-08-01 | 1 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 25,872 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grpc/grpc-java](../repos/grpc/grpc-java.md) | ⭐ 12,056 | 2026-08-01 | 1 |
+| [Creators-of-Create/Create](../repos/Creators-of-Create/Create.md) | ⭐ 4,393 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,426 | 2026-08-01 | 1 |
+| [osmandapp/OsmAnd](../repos/osmandapp/OsmAnd.md) | ⭐ 5,876 | 2026-08-02 | 1 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,135 | 2026-08-01 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,333 | 2026-08-01 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,511 | 2026-08-01 | morphe patches for twitter and instagram |
@@ -88,23 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,642 | 2026-08-02 | 1 |
+| [google/guava](../repos/google/guava.md) | ⭐ 51,535 | 2026-08-02 | 1 |
+| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,218 | 2026-08-02 | 1 |
+| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,640 | 2026-08-02 | 1 |
+| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,456 | 2026-08-02 | 1 |
 | [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,636 | 2026-08-01 | 1 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 25,872 | 2026-08-02 | 1 |
+| [bazelbuild/bazel](../repos/bazelbuild/bazel.md) | ⭐ 25,667 | 2026-08-02 | 1 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,426 | 2026-08-01 | 1 |
 | [debezium/debezium](../repos/debezium/debezium.md) | ⭐ 12,969 | 2026-08-01 | 1 |
 | [grpc/grpc-java](../repos/grpc/grpc-java.md) | ⭐ 12,056 | 2026-08-01 | 1 |
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,135 | 2026-08-01 | 1 |
+| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,333 | 2026-08-01 | 2 |
 | [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | ⭐ 9,665 | 2026-08-01 | 1 |
 | [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,229 | 2026-08-01 | 1 |
-| [apache/maven](../repos/apache/maven.md) | ⭐ 5,292 | 2026-08-01 | 1 |
+| [osmandapp/OsmAnd](../repos/osmandapp/OsmAnd.md) | ⭐ 5,876 | 2026-08-02 | 1 |
+| [apache/maven](../repos/apache/maven.md) | ⭐ 5,292 | 2026-08-01 | 2 |
 | [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,511 | 2026-08-01 | 1 |
+| [Creators-of-Create/Create](../repos/Creators-of-Create/Create.md) | ⭐ 4,393 | 2026-08-02 | 1 |
 | [alibaba/fastjson2](../repos/alibaba/fastjson2.md) | ⭐ 4,372 | 2026-08-01 | 1 |
 | [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,063 | 2026-08-01 | 1 |
-| [apache/tika](../repos/apache/tika.md) | ⭐ 3,919 | 2026-08-01 | 1 |
-| [modelcontextprotocol/java-sdk](../repos/modelcontextprotocol/java-sdk.md) | ⭐ 3,620 | 2026-08-01 | 1 |
-| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,392 | 2026-08-01 | 1 |
-| [OpenLineage/OpenLineage](../repos/OpenLineage/OpenLineage.md) | ⭐ 2,574 | 2026-08-01 | 1 |
-| [xoureldeen/Vectras-VM-Android](../repos/xoureldeen/Vectras-VM-Android.md) | ⭐ 2,450 | 2026-08-01 | 1 |
-| [langchain4j/langchain4j-examples](../repos/langchain4j/langchain4j-examples.md) | ⭐ 1,837 | 2026-08-01 | 1 |
 
 ---
 
@@ -112,7 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | 1 | ⭐ 10,135 | 2026-08-01 | 2026-08-01 |
+| [github/copilot-sdk](../repos/github/copilot-sdk.md) | 2 | ⭐ 10,333 | 2026-08-01 | 2026-08-02 |
+| [apache/maven](../repos/apache/maven.md) | 2 | ⭐ 5,292 | 2026-08-01 | 2026-08-02 |
 | [crimera/piko](../repos/crimera/piko.md) | 1 | ⭐ 4,511 | 2026-08-01 | 2026-08-01 |
 | [alibaba/fastjson2](../repos/alibaba/fastjson2.md) | 1 | ⭐ 4,372 | 2026-08-01 | 2026-08-01 |
 | [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | 1 | ⭐ 4,063 | 2026-08-01 | 2026-08-01 |
@@ -121,7 +125,6 @@
 | [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | 1 | ⭐ 9,665 | 2026-08-01 | 2026-08-01 |
 | [nageoffer/ragent](../repos/nageoffer/ragent.md) | 1 | ⭐ 3,392 | 2026-08-01 | 2026-08-01 |
 | [grpc/grpc-java](../repos/grpc/grpc-java.md) | 1 | ⭐ 12,056 | 2026-08-01 | 2026-08-01 |
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 1 | ⭐ 13,426 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -144,7 +147,21 @@
 - [debezium/debezium](../repos/debezium/debezium.md) - Change data capture for a variety of databases. Please log issues at https:&#x2F;&#x2F;github.com&#x2F;debezium&#x2F;...
 - [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, docum...
 - [apache/tika](../repos/apache/tika.md) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different fil...
+- [Anuken/Mindustry](../repos/Anuken/Mindustry.md) - The automation tower defense RTS
+- [DrKLO/Telegram](../repos/DrKLO/Telegram.md) - Telegram for Android source
+- [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) - A libre lightweight streaming front-end for Android.
+- [woheller69/FreeDroidWarn](../repos/woheller69/FreeDroidWarn.md) - 
+- [MojoLauncher/MojoLauncher](../repos/MojoLauncher/MojoLauncher.md) - A Minecraft: Java Edition launcher, based on PojavLauncher
+- [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
+- [Creators-of-Create/Create](../repos/Creators-of-Create/Create.md) - [NeoForge Mod] Building Tools and Aesthetic Technology
+- [osmandapp/OsmAnd](../repos/osmandapp/OsmAnd.md) - OsmAnd
+- [elastic/elasticsearch](../repos/elastic/elasticsearch.md) - Free and Open Source, Distributed, RESTful Search Engine
+- [bazelbuild/bazel](../repos/bazelbuild/bazel.md) - a fast, scalable, multi-language and extensible build system
+- [ModinMobileSTS/Sts2MobileLauncher](../repos/ModinMobileSTS/Sts2MobileLauncher.md) - an unofficial sts2 mobile launcher that support mods,optimized mobile control
+- [LiteLDev/LeviLaunchroid](../repos/LiteLDev/LeviLaunchroid.md) - A launcher designed for Minecraft Bedrock Edition on Android
+- [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) - The API and the developer guide for Shizuku and Sui.
+- [google/guava](../repos/google/guava.md) - Google core libraries for Java
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.755Z*
+*Last updated: 2026-08-02T23:30:07.490Z*

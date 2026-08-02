@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 18
+- **Total Repositories**: 27
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-02
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 4,995 | 2026-08-01 | 1 |
+| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,290 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,248 | 2026-08-01 | 1 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,463 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,138 | 2026-08-01 | 1 |
+| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,146 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lightvector/KataGo](../repos/lightvector/KataGo.md) | ⭐ 4,886 | 2026-08-01 | 1 |
+| [lightvector/KataGo](../repos/lightvector/KataGo.md) | ⭐ 4,902 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 448 | 2026-08-01 | 1 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 114,953 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,670 | 2026-08-01 | 1 |
+| [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | ⭐ 11,217 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 114,866 | 2026-08-01 | 1 |
+| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,255 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gem5/gem5](../repos/gem5/gem5.md) | ⭐ 2,737 | 2026-08-01 | 1 |
+| [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,318 | 2026-08-01 | 1 |
+| [sz3/libcimbar](../repos/sz3/libcimbar.md) | ⭐ 6,277 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twelvesec/PwnPad](../repos/twelvesec/PwnPad.md) | ⭐ 1,165 | 2026-08-01 | 1 |
+| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,240 | 2026-08-02 | 1 |
 
 
 ---
@@ -52,16 +52,16 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 4,995 | 2026-08-01 | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  |
+| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,290 | 2026-08-01 | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,248 | 2026-08-01 | LLM inference in C&#x2F;C++ |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,463 | 2026-08-01 | LLM inference in C&#x2F;C++ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,138 | 2026-08-01 | Asio C++ Library |
+| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,146 | 2026-08-01 | Asio C++ Library |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [lightvector/KataGo](../repos/lightvector/KataGo.md) | ⭐ 4,886 | 2026-08-01 | GTP engine and self-play learning in Go |
+| [lightvector/KataGo](../repos/lightvector/KataGo.md) | ⭐ 4,902 | 2026-08-01 | GTP engine and self-play learning in Go |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 448 | 2026-08-01 | super repo for rocm systems projects |
@@ -70,7 +70,7 @@
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,670 | 2026-08-01 | Protocol Buffers - Google&#39;s data interchange format |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 114,866 | 2026-08-01 | Godot Engine – Multi-platform 2D and 3D game engine |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 114,953 | 2026-08-01 | Godot Engine – Multi-platform 2D and 3D game engine |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [gem5/gem5](../repos/gem5/gem5.md) | ⭐ 2,737 | 2026-08-01 | The official repository for the gem5 computer-system architecture simulator. |
@@ -88,24 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,463 | 2026-08-01 | 2 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,278 | 2026-08-01 | 1 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,248 | 2026-08-01 | 1 |
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 114,866 | 2026-08-01 | 1 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 114,953 | 2026-08-01 | 2 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,751 | 2026-08-02 | 1 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,670 | 2026-08-01 | 1 |
+| [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
+| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,240 | 2026-08-02 | 1 |
+| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,202 | 2026-08-02 | 1 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,318 | 2026-08-01 | 1 |
 | [v8/v8](../repos/v8/v8.md) | ⭐ 25,159 | 2026-08-01 | 1 |
+| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,255 | 2026-08-02 | 1 |
 | [espressif/arduino-esp32](../repos/espressif/arduino-esp32.md) | ⭐ 17,159 | 2026-08-01 | 1 |
+| [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | ⭐ 15,601 | 2026-08-02 | 1 |
 | [assimp/assimp](../repos/assimp/assimp.md) | ⭐ 13,101 | 2026-08-01 | 1 |
-| [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | ⭐ 11,190 | 2026-08-01 | 1 |
+| [nasa/fprime](../repos/nasa/fprime.md) | ⭐ 11,610 | 2026-08-02 | 1 |
+| [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | ⭐ 11,217 | 2026-08-01 | 2 |
 | [google/benchmark](../repos/google/benchmark.md) | ⭐ 10,322 | 2026-08-01 | 1 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 9,615 | 2026-08-02 | 1 |
 | [UZ-SLAMLab/ORB_SLAM3](../repos/UZ-SLAMLab/ORB_SLAM3.md) | ⭐ 8,894 | 2026-08-01 | 1 |
-| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,138 | 2026-08-01 | 1 |
-| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 4,995 | 2026-08-01 | 1 |
-| [lightvector/KataGo](../repos/lightvector/KataGo.md) | ⭐ 4,886 | 2026-08-01 | 1 |
-| [CLIUtils/CLI11](../repos/CLIUtils/CLI11.md) | ⭐ 4,392 | 2026-08-01 | 1 |
-| [gem5/gem5](../repos/gem5/gem5.md) | ⭐ 2,737 | 2026-08-01 | 1 |
-| [twelvesec/PwnPad](../repos/twelvesec/PwnPad.md) | ⭐ 1,165 | 2026-08-01 | 1 |
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 448 | 2026-08-01 | 1 |
+| [sz3/libcimbar](../repos/sz3/libcimbar.md) | ⭐ 6,277 | 2026-08-02 | 1 |
 
 ---
 
@@ -113,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | 1 | ⭐ 4,995 | 2026-08-01 | 2026-08-01 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 1 | ⭐ 122,248 | 2026-08-01 | 2026-08-01 |
-| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | 1 | ⭐ 6,138 | 2026-08-01 | 2026-08-01 |
-| [lightvector/KataGo](../repos/lightvector/KataGo.md) | 1 | ⭐ 4,886 | 2026-08-01 | 2026-08-01 |
+| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | 2 | ⭐ 5,290 | 2026-08-01 | 2026-08-02 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 2 | ⭐ 122,463 | 2026-08-01 | 2026-08-02 |
+| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | 2 | ⭐ 6,146 | 2026-08-01 | 2026-08-02 |
+| [lightvector/KataGo](../repos/lightvector/KataGo.md) | 2 | ⭐ 4,902 | 2026-08-01 | 2026-08-02 |
+| [godotengine/godot](../repos/godotengine/godot.md) | 2 | ⭐ 114,953 | 2026-08-01 | 2026-08-02 |
+| [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | 2 | ⭐ 11,217 | 2026-08-01 | 2026-08-02 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 1 | ⭐ 448 | 2026-08-01 | 2026-08-01 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 1 | ⭐ 71,670 | 2026-08-01 | 2026-08-01 |
-| [godotengine/godot](../repos/godotengine/godot.md) | 1 | ⭐ 114,866 | 2026-08-01 | 2026-08-01 |
 | [gem5/gem5](../repos/gem5/gem5.md) | 1 | ⭐ 2,737 | 2026-08-01 | 2026-08-01 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 1 | ⭐ 29,318 | 2026-08-01 | 2026-08-01 |
-| [twelvesec/PwnPad](../repos/twelvesec/PwnPad.md) | 1 | ⭐ 1,165 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -146,7 +148,16 @@
 - [v8/v8](../repos/v8/v8.md) - The official mirror of the V8 Git repository
 - [electron/electron](../repos/electron/electron.md) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [espressif/arduino-esp32](../repos/espressif/arduino-esp32.md) - Arduino core for the ESP32 family of SoCs
+- [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+- [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) - Port of OpenAI&#39;s Whisper model in C&#x2F;C++
+- [sz3/libcimbar](../repos/sz3/libcimbar.md) - Optimized implementation for color-icon-matrix barcodes
+- [grpc/grpc](../repos/grpc/grpc.md) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) - OptiScaler bridges upscaling&#x2F;frame gen across GPUs. Supports DLSS2+&#x2F;XeSS&#x2F;FSR2+ inputs, replaces n...
+- [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) - qBittorrent BitTorrent client
+- [nasa/fprime](../repos/nasa/fprime.md) - F´ - A flight software and embedded systems framework
+- [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) - ArduPlane, ArduCopter, ArduRover, ArduSub source
+- [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) - Bitcoin Core integration&#x2F;staging tree
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.742Z*
+*Last updated: 2026-08-02T23:30:07.475Z*

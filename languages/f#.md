@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 1
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-02
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,321 | 2026-08-01 | 1 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,320 | 2026-08-01 | 2 |
 
 
 ---
@@ -25,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,321 | 2026-08-01 | The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,320 | 2026-08-01 | The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio |
 
 
 ---
@@ -34,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,321 | 2026-08-01 | 1 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,320 | 2026-08-01 | 2 |
 
 ---
 
@@ -42,7 +42,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 1 | ⭐ 4,321 | 2026-08-01 | 2026-08-01 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 2 | ⭐ 4,320 | 2026-08-01 | 2026-08-02 |
 
 ---
 
@@ -52,4 +52,4 @@
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.751Z*
+*Last updated: 2026-08-02T23:30:07.486Z*

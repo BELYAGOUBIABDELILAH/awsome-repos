@@ -1,0 +1,95 @@
+# venera-app&#x2F;venera
+
+> A comic app
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;venera-app&#x2F;venera) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | Dart |
+| **License** | GPL-3.0 |
+| **Stars** | ⭐ 10,670 |
+| **Forks** | 🍴 542 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Aug 2, 2026 |
+| **Last Seen** | Aug 2, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in Dart or android-app*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`android-app`](../../topics/android-app.md) [`comic`](../../topics/comic.md) [`flutter`](../../topics/flutter.md) [`ios-app`](../../topics/ios-app.md) [`linux`](../../topics/linux.md) [`macos-app`](../../topics/macos-app.md) [`windows-app`](../../topics/windows-app.md) 
+
+### Curated Categories
+`Mobile Development` `Systems Programming` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
+| **Maturity** | Stable | Established project |
+| **Maintenance** | Slow | Occasional updates |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in Dart
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-08-02T23:30:08.748Z*  
+*Data from 1 trending reports*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 7
+- **Total Repositories**: 12
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-02
 
 ---
 
@@ -16,25 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 436 | 2026-08-01 | 1 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 436 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | ⭐ 31 | 2026-08-01 | 1 |
+| [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,882 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | ⭐ 26 | 2026-08-01 | 1 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 856 | 2026-08-01 | 1 |
+| [GEOS-ESM/GOCART](../repos/GEOS-ESM/GOCART.md) | ⭐ 27 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,173 | 2026-08-01 | 1 |
+| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 129 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 942 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | 1 |
+| [ecmwf/fckit](../repos/ecmwf/fckit.md) | ⭐ 48 | 2026-08-02 | 1 |
 
 
 ---
@@ -62,6 +59,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,882 | 2026-08-02 | LAPACK development repository |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | Model Coupling Tookit |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [GEOS-ESM/GOCART](../repos/GEOS-ESM/GOCART.md) | ⭐ 27 | 2026-08-02 | GOCART Aerosol model including process library and framework interfaces (MAPL, NUOPC, and CCPP) |
 
 
 ---
@@ -70,12 +76,17 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,882 | 2026-08-02 | 1 |
 | [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,173 | 2026-08-01 | 1 |
 | [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 942 | 2026-08-01 | 1 |
 | [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 856 | 2026-08-01 | 1 |
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 436 | 2026-08-01 | 1 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 436 | 2026-08-01 | 2 |
+| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 129 | 2026-08-02 | 1 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 1 |
+| [ecmwf/fckit](../repos/ecmwf/fckit.md) | ⭐ 48 | 2026-08-02 | 1 |
 | [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | 1 |
 | [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | ⭐ 31 | 2026-08-01 | 1 |
+| [GEOS-ESM/GOCART](../repos/GEOS-ESM/GOCART.md) | ⭐ 27 | 2026-08-02 | 1 |
 | [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | ⭐ 26 | 2026-08-01 | 1 |
 
 ---
@@ -84,13 +95,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 1 | ⭐ 436 | 2026-08-01 | 2026-08-01 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 2 | ⭐ 436 | 2026-08-01 | 2026-08-02 |
 | [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | 1 | ⭐ 31 | 2026-08-01 | 2026-08-01 |
 | [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | 1 | ⭐ 26 | 2026-08-01 | 2026-08-01 |
 | [firemodels/fds](../repos/firemodels/fds.md) | 1 | ⭐ 856 | 2026-08-01 | 2026-08-01 |
 | [cp2k/cp2k](../repos/cp2k/cp2k.md) | 1 | ⭐ 1,173 | 2026-08-01 | 2026-08-01 |
 | [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | 1 | ⭐ 942 | 2026-08-01 | 2026-08-01 |
 | [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | 1 | ⭐ 43 | 2026-08-01 | 2026-08-01 |
+| [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | 1 | ⭐ 1,882 | 2026-08-02 | 2026-08-02 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | 1 | ⭐ 54 | 2026-08-02 | 2026-08-02 |
+| [GEOS-ESM/GOCART](../repos/GEOS-ESM/GOCART.md) | 1 | ⭐ 27 | 2026-08-02 | 2026-08-02 |
 
 ---
 
@@ -103,7 +117,12 @@
 - [cp2k/cp2k](../repos/cp2k/cp2k.md) - Quantum chemistry and solid state physics software package
 - [OpenFAST/openfast](../repos/OpenFAST/openfast.md) - Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation ...
 - [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) - MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the ...
+- [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) - LAPACK development repository
+- [MCSclimate/MCT](../repos/MCSclimate/MCT.md) - Model Coupling Tookit
+- [GEOS-ESM/GOCART](../repos/GEOS-ESM/GOCART.md) - GOCART Aerosol model including process library and framework interfaces (MAPL, NUOPC, and CCPP)
+- [NGEET/fates](../repos/NGEET/fates.md) - repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)
+- [ecmwf/fckit](../repos/ecmwf/fckit.md) - A Fortran toolkit for interoperating Fortran with C&#x2F;C++
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.752Z*
+*Last updated: 2026-08-02T23:30:07.486Z*

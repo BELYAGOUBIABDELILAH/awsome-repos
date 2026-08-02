@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 16
+- **Total Repositories**: 31
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-10
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 19,489 | 2026-08-01 | 1 |
+| [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 20,293 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,501 | 2026-08-01 | 1 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 10,968 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 9,842 | 2026-08-01 | 1 |
+| [actions/checkout](../repos/actions/checkout.md) | ⭐ 8,588 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 46,198 | 2026-08-01 | 1 |
+| [Narcooo/inkos](../repos/Narcooo/inkos.md) | ⭐ 8,631 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [modelcontextprotocol/ext-apps](../repos/modelcontextprotocol/ext-apps.md) | ⭐ 2,653 | 2026-08-01 | 1 |
+| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 34,168 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 48,282 | 2026-08-01 | 1 |
+| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 48,212 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-labs-code/design.md](../repos/google-labs-code/design.md.md) | ⭐ 26,813 | 2026-08-01 | 1 |
+| [NateBJones-Projects/OB1](../repos/NateBJones-Projects/OB1.md) | ⭐ 4,366 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fingerprintjs/fingerprintjs](../repos/fingerprintjs/fingerprintjs.md) | ⭐ 28,015 | 2026-08-01 | 1 |
+| [nrwl/nx](../repos/nrwl/nx.md) | ⭐ 29,171 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 16,083 | 2026-08-01 | 1 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 125,928 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [continuedev/continue](../repos/continuedev/continue.md) | ⭐ 35,246 | 2026-08-01 | 1 |
+| [CyberTimon/RapidRAW](../repos/CyberTimon/RapidRAW.md) | ⭐ 9,099 | 2026-08-02 | 1 |
 
 
 ---
@@ -61,13 +61,13 @@
 | [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | ⭐ 75,400 | 2026-07-31 | Virtual whiteboard for sketching hand-drawn like diagrams |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 19,489 | 2026-08-01 | The open-source alternative to Claude Cowork (powered by opencode) |
+| [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 20,293 | 2026-08-01 | The open-source alternative to Claude Cowork (powered by opencode) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,501 | 2026-08-01 | Cursor plugin specification and official plugins |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 9,842 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 10,968 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 46,198 | 2026-08-01 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring... |
@@ -89,21 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 156,600 | 2026-07-30 | 4 |
+| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,010 | 2026-08-02 | 1 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 125,928 | 2026-08-02 | 1 |
+| [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 75,438 | 2026-08-02 | 1 |
 | [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | ⭐ 75,400 | 2026-07-31 | 1 |
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | 2026-08-01 | 1 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 52,300 | 2026-07-31 | 1 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 48,282 | 2026-08-01 | 1 |
+| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 48,212 | 2026-08-02 | 1 |
 | [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 46,198 | 2026-08-01 | 1 |
 | [portainer/portainer](../repos/portainer/portainer.md) | ⭐ 38,100 | 2026-08-01 | 1 |
 | [continuedev/continue](../repos/continuedev/continue.md) | ⭐ 35,246 | 2026-08-01 | 1 |
+| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 34,168 | 2026-08-02 | 1 |
+| [simstudioai/sim](../repos/simstudioai/sim.md) | ⭐ 29,301 | 2026-08-02 | 1 |
+| [nrwl/nx](../repos/nrwl/nx.md) | ⭐ 29,171 | 2026-08-02 | 1 |
 | [fingerprintjs/fingerprintjs](../repos/fingerprintjs/fingerprintjs.md) | ⭐ 28,015 | 2026-08-01 | 1 |
 | [google-labs-code/design.md](../repos/google-labs-code/design.md.md) | ⭐ 26,813 | 2026-08-01 | 1 |
-| [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 19,489 | 2026-08-01 | 1 |
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 16,083 | 2026-08-01 | 1 |
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 9,842 | 2026-08-01 | 1 |
-| [podman-desktop/podman-desktop](../repos/podman-desktop/podman-desktop.md) | ⭐ 7,869 | 2026-08-01 | 1 |
-| [modelcontextprotocol/ext-apps](../repos/modelcontextprotocol/ext-apps.md) | ⭐ 2,653 | 2026-08-01 | 1 |
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,501 | 2026-08-01 | 1 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 21,275 | 2026-08-02 | 1 |
+| [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 20,293 | 2026-08-01 | 2 |
 
 ---
 
@@ -112,11 +116,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 4 | ⭐ 156,600 | 2026-07-30 | 2026-08-10 |
+| [different-ai/openwork](../repos/different-ai/openwork.md) | 2 | ⭐ 20,293 | 2026-08-01 | 2026-08-02 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 2 | ⭐ 10,968 | 2026-08-01 | 2026-08-02 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | 1 | ⭐ 52,300 | 2026-07-31 | 2026-07-31 |
 | [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | 1 | ⭐ 75,400 | 2026-07-31 | 2026-07-31 |
-| [different-ai/openwork](../repos/different-ai/openwork.md) | 1 | ⭐ 19,489 | 2026-08-01 | 2026-08-01 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 1 | ⭐ 2,501 | 2026-08-01 | 2026-08-01 |
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 1 | ⭐ 9,842 | 2026-08-01 | 2026-08-01 |
 | [moeru-ai/airi](../repos/moeru-ai/airi.md) | 1 | ⭐ 46,198 | 2026-08-01 | 2026-08-01 |
 | [modelcontextprotocol/ext-apps](../repos/modelcontextprotocol/ext-apps.md) | 1 | ⭐ 2,653 | 2026-08-01 | 2026-08-01 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 1 | ⭐ 48,282 | 2026-08-01 | 2026-08-01 |
@@ -142,7 +146,22 @@
 - [portainer/portainer](../repos/portainer/portainer.md) - Making Docker and Kubernetes management easy.
 - [appwrite/appwrite](../repos/appwrite/appwrite.md) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Datab...
 - [podman-desktop/podman-desktop](../repos/podman-desktop/podman-desktop.md) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for d...
+- [actions/checkout](../repos/actions/checkout.md) - Action for checking out a repo
+- [Narcooo/inkos](../repos/Narcooo/inkos.md) - Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
+- [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) - 📨 The ultimate agentic social media scheduling tool 🤖
+- [jamiepine/voicebox](../repos/jamiepine/voicebox.md) - The open-source AI voice studio. Clone, dictate, create.
+- [NateBJones-Projects/OB1](../repos/NateBJones-Projects/OB1.md) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat c...
+- [nrwl/nx](../repos/nrwl/nx.md) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, sca...
+- [garrytan/gstack](../repos/garrytan/gstack.md) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...
+- [CyberTimon/RapidRAW](../repos/CyberTimon/RapidRAW.md) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
+- [elizaOS/eliza](../repos/elizaOS/eliza.md) - Open source agentic operating system
+- [paperclipai/paperclip](../repos/paperclipai/paperclip.md) - The open-source app everyone uses to manage agents at work
+- [storybookjs/storybook](../repos/storybookjs/storybook.md) - Storybook is the industry standard workshop for building, documenting, and testing UI components ...
+- [microsoft/flint-chart](../repos/microsoft/flint-chart.md) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking...
+- [simstudioai/sim](../repos/simstudioai/sim.md) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workf...
+- [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, b...
+- [iptv-org/iptv](../repos/iptv-org/iptv.md) - Collection of publicly available IPTV channels from all over the world
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.769Z*
+*Last updated: 2026-08-02T23:30:07.511Z*

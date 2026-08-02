@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 178,028 |
-| **Forks** | 🍴 30,843 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 178,073 |
+| **Forks** | 🍴 30,861 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 1, 2026 |
+| **Last Seen** | Aug 2, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Trending Days**: 2
+- **Longest Streak**: 2 days
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 178,028+ stars, strong contributor base |
+| **Community** | Very Active | 178,073+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 40&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-01T00:25:34.394Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-02T23:30:08.286Z*  
+*Data from 2 trending reports*

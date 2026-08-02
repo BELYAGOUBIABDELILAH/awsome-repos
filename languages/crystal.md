@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 1
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-02
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 21,255 | 2026-08-01 | 1 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 21,966 | 2026-08-01 | 2 |
 
 
 ---
@@ -25,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 21,255 | 2026-08-01 | Invidious is an alternative front-end to YouTube |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 21,966 | 2026-08-01 | Invidious is an alternative front-end to YouTube |
 
 
 ---
@@ -34,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 21,255 | 2026-08-01 | 1 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 21,966 | 2026-08-01 | 2 |
 
 ---
 
@@ -42,7 +42,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | 1 | ⭐ 21,255 | 2026-08-01 | 2026-08-01 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | 2 | ⭐ 21,966 | 2026-08-01 | 2026-08-02 |
 
 ---
 
@@ -52,4 +52,4 @@
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.746Z*
+*Last updated: 2026-08-02T23:30:07.481Z*

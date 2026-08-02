@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 4
+- **Total Repositories**: 5
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-02
 
 ---
 
@@ -16,16 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,574 | 2026-08-01 | 1 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 890 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 640 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,778 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 890 | 2026-08-01 | 1 |
+| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,674 | 2026-08-02 | 1 |
 
 
 ---
@@ -44,6 +38,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 890 | 2026-08-01 | Repository for Programming Assignment 2 for R Programming on Coursera |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,674 | 2026-08-02 | Easy interactive web applications with R |
 
 
 ---
@@ -52,9 +49,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,674 | 2026-08-02 | 1 |
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,574 | 2026-08-01 | 1 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,778 | 2026-08-01 | 1 |
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 890 | 2026-08-01 | 1 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 890 | 2026-08-01 | 2 |
 | [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 640 | 2026-08-01 | 1 |
 
 ---
@@ -63,10 +61,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 2 | ⭐ 890 | 2026-08-01 | 2026-08-02 |
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 1 | ⭐ 4,574 | 2026-08-01 | 2026-08-01 |
 | [jinworks/CellChat](../repos/jinworks/CellChat.md) | 1 | ⭐ 640 | 2026-08-01 | 2026-08-01 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | 1 | ⭐ 2,778 | 2026-08-01 | 2026-08-01 |
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 1 | ⭐ 890 | 2026-08-01 | 2026-08-01 |
+| [rstudio/shiny](../repos/rstudio/shiny.md) | 1 | ⭐ 5,674 | 2026-08-02 | 2026-08-02 |
 
 ---
 
@@ -76,7 +75,8 @@
 - [jinworks/CellChat](../repos/jinworks/CellChat.md) - R toolkit for inference, visualization and analysis of cell-cell communication from single-cell a...
 - [satijalab/seurat](../repos/satijalab/seurat.md) - R toolkit for single cell genomics
 - [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) - Repository for Programming Assignment 2 for R Programming on Coursera
+- [rstudio/shiny](../repos/rstudio/shiny.md) - Easy interactive web applications with R
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.764Z*
+*Last updated: 2026-08-02T23:30:07.503Z*

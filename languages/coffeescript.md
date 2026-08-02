@@ -14,16 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,592 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,013 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | 1 |
 
+*No CoffeeScript repositories trending today*
 
 ---
 
@@ -70,4 +62,4 @@
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.745Z*
+*Last updated: 2026-08-02T23:30:07.479Z*

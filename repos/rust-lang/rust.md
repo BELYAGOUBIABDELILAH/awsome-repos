@@ -1,6 +1,6 @@
 # rust-lang&#x2F;rust
 
-> Empowering everyone to build reliable and efficient software
+> Empowering everyone to build reliable and efficient software.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rust) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 92,100 |
-| **Forks** | 🍴 12,050 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 115,053 |
+| **Forks** | 🍴 15,311 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #3 |
 
 | **First Seen** | Jul 30, 2026 |
-| **Last Seen** | Aug 10, 2026 |
+| **Last Seen** | Aug 2, 2026 |
 
 
 ---
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #3
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -58,7 +58,7 @@
 ## Categories
 
 ### Topics
-[`rust`](../../topics/rust.md) [`compiler`](../../topics/compiler.md) [`programming-language`](../../topics/programming-language.md) [`systems-programming`](../../topics/systems-programming.md) 
+[`compiler`](../../topics/compiler.md) [`language`](../../topics/language.md) [`rust`](../../topics/rust.md) 
 
 ### Curated Categories
 `Systems Programming` 
@@ -72,8 +72,8 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
-| **Documentation** | Good | Well-maintained documentation |
-| **Community** | Active | Regular contributions and discussions |
+| **Documentation** | Excellent | Comprehensive guides and examples |
+| **Community** | Very Active | 115,053+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -94,11 +94,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #3)
 
 
 ---
 
-*Last updated: 2026-08-01T00:25:34.139Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-02T23:30:08.008Z*  
+*Data from 3 trending reports*

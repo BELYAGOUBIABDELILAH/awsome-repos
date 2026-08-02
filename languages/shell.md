@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 9
+- **Total Repositories**: 17
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-01
 
@@ -16,31 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HQarroum/docker-android](../repos/HQarroum/docker-android.md) | ⭐ 7,174 | 2026-08-01 | 1 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,264 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,306 | 2026-08-01 | 1 |
+| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | ⭐ 1,936 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [The01Geek/prflow](../repos/The01Geek/prflow.md) | ⭐ 112 | 2026-08-01 | 1 |
+| [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 6,153 | 2026-08-01 | 1 |
+| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 5,789 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | ⭐ 2,806 | 2026-08-01 | 1 |
+| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 1,840 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Chachamaru127/claude-code-harness](../repos/Chachamaru127/claude-code-harness.md) | ⭐ 3,034 | 2026-08-01 | 1 |
+| [HyDE-Project/HyDE](../repos/HyDE-Project/HyDE.md) | ⭐ 9,435 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 3,947 | 2026-08-01 | 1 |
+| [tracelabs/tlosint-vm](../repos/tracelabs/tlosint-vm.md) | ⭐ 1,047 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [void-linux/void-packages](../repos/void-linux/void-packages.md) | ⭐ 3,371 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,642 | 2026-08-01 | 1 |
+| [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 
 
 ---
@@ -74,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,642 | 2026-08-01 | Универсальный менеджер для обхода блокировок на OpenWrt |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,264 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
 
 
 ---
@@ -83,13 +83,21 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,306 | 2026-08-01 | 1 |
+| [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,264 | 2026-08-02 | 1 |
+| [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
+| [HyDE-Project/HyDE](../repos/HyDE-Project/HyDE.md) | ⭐ 9,435 | 2026-08-02 | 1 |
 | [HQarroum/docker-android](../repos/HQarroum/docker-android.md) | ⭐ 7,174 | 2026-08-01 | 1 |
 | [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 6,153 | 2026-08-01 | 1 |
+| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 5,789 | 2026-08-02 | 1 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 3,947 | 2026-08-01 | 1 |
 | [void-linux/void-packages](../repos/void-linux/void-packages.md) | ⭐ 3,371 | 2026-08-01 | 1 |
 | [Chachamaru127/claude-code-harness](../repos/Chachamaru127/claude-code-harness.md) | ⭐ 3,034 | 2026-08-01 | 1 |
 | [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | ⭐ 2,806 | 2026-08-01 | 1 |
+| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | ⭐ 1,936 | 2026-08-02 | 1 |
+| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 1,840 | 2026-08-02 | 1 |
 | [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,642 | 2026-08-01 | 1 |
+| [tracelabs/tlosint-vm](../repos/tracelabs/tlosint-vm.md) | ⭐ 1,047 | 2026-08-02 | 1 |
 | [The01Geek/prflow](../repos/The01Geek/prflow.md) | ⭐ 112 | 2026-08-01 | 1 |
 
 ---
@@ -107,6 +115,7 @@
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 1 | ⭐ 3,947 | 2026-08-01 | 2026-08-01 |
 | [void-linux/void-packages](../repos/void-linux/void-packages.md) | 1 | ⭐ 3,371 | 2026-08-01 | 2026-08-01 |
 | [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | 1 | ⭐ 1,642 | 2026-08-01 | 2026-08-01 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 1 | ⭐ 24,264 | 2026-08-02 | 2026-08-02 |
 
 ---
 
@@ -121,7 +130,15 @@
 - [llm-d/llm-d](../repos/llm-d/llm-d.md) - Achieve state of the art inference performance with modern accelerators on Kubernetes
 - [void-linux/void-packages](../repos/void-linux/void-packages.md) - The Void source packages collection
 - [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) - Универсальный менеджер для обхода блокировок на OpenWrt
+- [basecamp/omarchy](../repos/basecamp/omarchy.md) - Beautiful, Modern &amp; Opinionated Linux
+- [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) - Docker configuration for running VLLM on dual DGX Sparks
+- [dockur/macos](../repos/dockur/macos.md) - MacOS inside a Docker container.
+- [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) - An open-source Android app to let you browse YouTube and other services freely. 
+- [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) - Secure open-source Android browser with support for extensions
+- [HyDE-Project/HyDE](../repos/HyDE-Project/HyDE.md) - HyDE, your Development Environment 🖥️💻
+- [tracelabs/tlosint-vm](../repos/tracelabs/tlosint-vm.md) - Trace Labs OSINT VM
+- [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) - Over 450 terminal color schemes&#x2F;themes for iTerm&#x2F;iTerm2. Includes ports to Terminal, Konsole, PuT...
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.767Z*
+*Last updated: 2026-08-02T23:30:07.507Z*

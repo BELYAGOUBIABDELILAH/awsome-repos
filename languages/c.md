@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 16
+- **Total Repositories**: 27
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-01
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,325 | 2026-08-01 | 1 |
+| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,241 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 63,865 | 2026-08-01 | 1 |
+| [Klipper3d/klipper](../repos/Klipper3d/klipper.md) | ⭐ 11,786 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,057 | 2026-08-01 | 1 |
+| [HarbourMasters/Lighthouse](../repos/HarbourMasters/Lighthouse.md) | ⭐ 217 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 21,953 | 2026-08-01 | 1 |
+| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 472 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,890 | 2026-08-01 | 1 |
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 25,797 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,001 | 2026-08-01 | 1 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,313 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,222 | 2026-08-01 | 1 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,444 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mcu-tools/mcuboot](../repos/mcu-tools/mcuboot.md) | ⭐ 2,006 | 2026-08-01 | 1 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,436 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,331 | 2026-08-01 | 1 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,303 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [linux-rdma/rdma-core](../repos/linux-rdma/rdma-core.md) | ⭐ 2,329 | 2026-08-01 | 1 |
+| [TsudaKageyu/minhook](../repos/TsudaKageyu/minhook.md) | ⭐ 5,896 | 2026-08-02 | 1 |
 
 
 ---
@@ -89,21 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,325 | 2026-08-01 | 1 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,436 | 2026-08-02 | 1 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 63,865 | 2026-08-01 | 1 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,267 | 2026-08-01 | 1 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,303 | 2026-08-02 | 1 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 31,813 | 2026-08-01 | 1 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,313 | 2026-08-02 | 1 |
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,057 | 2026-08-01 | 1 |
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 25,797 | 2026-08-02 | 1 |
 | [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 21,953 | 2026-08-01 | 1 |
-| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,229 | 2026-08-01 | 1 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,444 | 2026-08-02 | 1 |
+| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,241 | 2026-08-01 | 2 |
 | [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,222 | 2026-08-01 | 1 |
 | [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,890 | 2026-08-01 | 1 |
-| [Klipper3d/klipper](../repos/Klipper3d/klipper.md) | ⭐ 11,779 | 2026-08-01 | 1 |
+| [Klipper3d/klipper](../repos/Klipper3d/klipper.md) | ⭐ 11,786 | 2026-08-01 | 2 |
 | [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,175 | 2026-08-01 | 1 |
 | [VirusTotal/yara](../repos/VirusTotal/yara.md) | ⭐ 9,778 | 2026-08-01 | 1 |
 | [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,001 | 2026-08-01 | 1 |
-| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,331 | 2026-08-01 | 1 |
-| [linux-rdma/rdma-core](../repos/linux-rdma/rdma-core.md) | ⭐ 2,329 | 2026-08-01 | 1 |
-| [mcu-tools/mcuboot](../repos/mcu-tools/mcuboot.md) | ⭐ 2,006 | 2026-08-01 | 1 |
+| [olikraus/u8g2](../repos/olikraus/u8g2.md) | ⭐ 6,606 | 2026-08-02 | 1 |
+| [TsudaKageyu/minhook](../repos/TsudaKageyu/minhook.md) | ⭐ 5,896 | 2026-08-02 | 1 |
 
 ---
 
@@ -111,6 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | 2 | ⭐ 16,241 | 2026-08-01 | 2026-08-02 |
+| [Klipper3d/klipper](../repos/Klipper3d/klipper.md) | 2 | ⭐ 11,786 | 2026-08-01 | 2026-08-02 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 1 | ⭐ 137,325 | 2026-08-01 | 2026-08-01 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 1 | ⭐ 63,865 | 2026-08-01 | 2026-08-01 |
 | [libuv/libuv](../repos/libuv/libuv.md) | 1 | ⭐ 27,057 | 2026-08-01 | 2026-08-01 |
@@ -119,8 +125,6 @@
 | [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | 1 | ⭐ 8,001 | 2026-08-01 | 2026-08-01 |
 | [glfw/glfw](../repos/glfw/glfw.md) | 1 | ⭐ 15,222 | 2026-08-01 | 2026-08-01 |
 | [mcu-tools/mcuboot](../repos/mcu-tools/mcuboot.md) | 1 | ⭐ 2,006 | 2026-08-01 | 2026-08-01 |
-| [pret/pokeemerald](../repos/pret/pokeemerald.md) | 1 | ⭐ 3,331 | 2026-08-01 | 2026-08-01 |
-| [linux-rdma/rdma-core](../repos/linux-rdma/rdma-core.md) | 1 | ⭐ 2,329 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -142,7 +146,18 @@
 - [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) - A professional cross-platform SSH&#x2F;Sftp&#x2F;Shell&#x2F;Telnet&#x2F;Tmux&#x2F;Serial terminal.
 - [php/php-src](../repos/php/php-src.md) - The PHP Interpreter
 - [VirusTotal/yara](../repos/VirusTotal/yara.md) - The pattern matching swiss knife
+- [HarbourMasters/Lighthouse](../repos/HarbourMasters/Lighthouse.md) - 
+- [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) - Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through i...
+- [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) - ehviewer，用爱发电，快乐前行
+- [nginx/nginx](../repos/nginx/nginx.md) - The official NGINX Open Source repository.
+- [brunodev85/winlator](../repos/brunodev85/winlator.md) - Android application for running Windows applications with Wine and Box86&#x2F;Box64
+- [obsproject/obs-studio](../repos/obsproject/obs-studio.md) - OBS Studio - Free and open source software for live streaming and screen recording
+- [mpv-player/mpv](../repos/mpv-player/mpv.md) - 🎥 Command line media player
+- [TsudaKageyu/minhook](../repos/TsudaKageyu/minhook.md) - The Minimalistic x86&#x2F;x64 API Hooking Library for Windows
+- [olikraus/u8g2](../repos/olikraus/u8g2.md) - U8glib library for monochrome displays, version 2 
+- [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) - ArkOS for Unofficial Devices
+- [bmax121/KernelPatch](../repos/bmax121/KernelPatch.md) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.740Z*
+*Last updated: 2026-08-02T23:30:07.470Z*

@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 55
+- **Total Repositories**: 109
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-05
-- **Average Stars**: 25373
+- **Average Stars**: 20307
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | TypeScript |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,667 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [cube-js/cube](../repos/cube-js/cube.md) | ⭐ 20,528 | Rust |  |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,752 | Swift |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [alibaba/fastjson2](../repos/alibaba/fastjson2.md) | ⭐ 4,372 | Java |  |
+| [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,681 | Swift |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [xoureldeen/Vectras-VM-Android](../repos/xoureldeen/Vectras-VM-Android.md) | ⭐ 2,450 | Java |  |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,470 | Kotlin |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [assimp/assimp](../repos/assimp/assimp.md) | ⭐ 13,101 | C++ |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,767 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,057 | C |  |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,073 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,001 | C |  |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 28,350 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,222 | C |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,491 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,331 | C |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,091 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,175 | C |  |
+| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,238 | Vue |  |
 
 
 ---
@@ -54,15 +54,15 @@
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,028 | Dart | 2026-08-01 | 1 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,073 | Dart | 2026-08-01 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 118,250 | JavaScript | 2026-07-30 | 3 |
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,236 | Vue | 2026-08-01 | 1 |
+| [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | TypeScript | 2026-08-02 | 1 |
+| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,238 | Vue | 2026-08-01 | 2 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 86,608 | Dart | 2026-08-02 | 1 |
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 74,688 | Dart | 2026-08-01 | 1 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,436 | C | 2026-08-02 | 1 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,501 | Kotlin | 2026-08-02 | 1 |
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | TypeScript | 2026-08-01 | 1 |
-| [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 52,300 | TypeScript | 2026-07-31 | 1 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,472 | Clojure | 2026-08-01 | 1 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,752 | Scala | 2026-08-01 | 1 |
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,686 | Vim Script | 2026-08-01 | 1 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-02](../archive/2026/08/2026-08-02.md)
+- 69 repositories trending
+- Top: flutter&#x2F;flutter
+
 ### [2026-08-01](../archive/2026/08/2026-08-01.md)
 - 52 repositories trending
 - Top: flutter&#x2F;flutter
@@ -161,29 +165,29 @@
 |------------|----------------|------------|--------|
 | [facebook/react](../repos/facebook/react.md) | 3 days | 2026-07-30 | 2026-08-05 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 3 days | 2026-07-30 | 2026-08-10 |
-| [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | 1 days | 2026-07-31 | 2026-07-31 |
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [cube-js/cube](../repos/cube-js/cube.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [alibaba/fastjson2](../repos/alibaba/fastjson2.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [xoureldeen/Vectras-VM-Android](../repos/xoureldeen/Vectras-VM-Android.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [assimp/assimp](../repos/assimp/assimp.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [libuv/libuv](../repos/libuv/libuv.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | 1 days | 2026-08-01 | 2026-08-01 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [realm/SwiftLint](../repos/realm/SwiftLint.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [apache/spark](../repos/apache/spark.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [flutter/flutter](../repos/flutter/flutter.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 2 days | 2026-08-01 | 2026-08-02 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Swift**: 7 repositories (13%)
-- **Kotlin**: 7 repositories (13%)
-- **Dart**: 7 repositories (13%)
-- **C**: 5 repositories (9%)
-- **Objective-C**: 5 repositories (9%)
+- **Kotlin**: 19 repositories (17%)
+- **Dart**: 19 repositories (17%)
+- **C**: 10 repositories (9%)
+- **Objective-C**: 10 repositories (9%)
+- **Swift**: 8 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 11.8 repositories
-- **Peak Day**: 2026-08-01 (52 repositories)
+- **Daily Average**: 21.3 repositories
+- **Peak Day**: 2026-08-02 (69 repositories)
 - **Growth Rate**: 100% this month
 
 ---
@@ -250,7 +254,52 @@
 - [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) - TLS Support for SwiftNIO, based on BoringSSL.
 - [apple/swift-crypto](../repos/apple/swift-crypto.md) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for us...
 - [vlang/v](../repos/vlang/v.md) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1...
+- [pdone/lx-music-source](../repos/pdone/lx-music-source.md) - 洛雪音乐源
+- [nrwl/nx](../repos/nrwl/nx.md) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, sca...
+- [CyberTimon/RapidRAW](../repos/CyberTimon/RapidRAW.md) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
+- [storybookjs/storybook](../repos/storybookjs/storybook.md) - Storybook is the industry standard workshop for building, documenting, and testing UI components ...
+- [simstudioai/sim](../repos/simstudioai/sim.md) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workf...
+- [zeroclaw-labs/zeroclaw](../repos/zeroclaw-labs/zeroclaw.md) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — de...
+- [superplanehq/superplane](../repos/superplanehq/superplane.md) - The open source control plane for agentic engineering.
+- [Anuken/Mindustry](../repos/Anuken/Mindustry.md) - The automation tower defense RTS
+- [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) - A libre lightweight streaming front-end for Android.
+- [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) - The API and the developer guide for Shizuku and Sui.
+- [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) - Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through i...
+- [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) - ehviewer，用爱发电，快乐前行
+- [obsproject/obs-studio](../repos/obsproject/obs-studio.md) - OBS Studio - Free and open source software for live streaming and screen recording
+- [mpv-player/mpv](../repos/mpv-player/mpv.md) - 🎥 Command line media player
+- [bmax121/KernelPatch](../repos/bmax121/KernelPatch.md) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
+- [argmaxinc/argmax-oss-swift](../repos/argmaxinc/argmax-oss-swift.md) - On-device Speech AI for Apple Silicon
+- [2dust/v2rayNG](../repos/2dust/v2rayNG.md) - A V2Ray client for Android, support Xray core and v2fly core
+- [embabel/embabel-agent](../repos/embabel/embabel-agent.md) - Agent framework for the JVM. Pronounced Em-BAY-bel &#x2F;ɛmˈbeɪbəl&#x2F;
+- [aniyomiorg/aniyomi](../repos/aniyomiorg/aniyomi.md) - An app for manga and anime
+- [bmax121/APatch](../repos/bmax121/APatch.md) - The patching of Android kernel and Android system
+- [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) - NekoBox for Android &#x2F; sing-box &#x2F; universal proxy toolchain for Android
+- [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) - RikkaHub is an Android APP that supports for multiple LLM providers.
+- [nextcloud/android](../repos/nextcloud/android.md) - 📱 Nextcloud Android app
+- [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) - Vivi-Music is an expressive Material 3–based YouTube Music client for Android.
+- [tailscale/tailscale-android](../repos/tailscale/tailscale-android.md) - Tailscale Android Client
+- [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) - Headunit App for displaying Android Auto
+- [GrapheneOS/Camera](../repos/GrapheneOS/Camera.md) - Modern camera app focused on privacy and security with QR &amp; barcode scanning.
+- [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) - Painless E2E Automation for Mobile and Web
+- [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) - An open-source Android app to let you browse YouTube and other services freely. 
+- [chen08209/FlClash](../repos/chen08209/FlClash.md) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+- [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) - PiliPlus
+- [localsend/localsend](../repos/localsend/localsend.md) - An open-source cross-platform alternative to AirDrop
+- [lichess-org/mobile](../repos/lichess-org/mobile.md) - Lichess mobile app
+- [omnimind-ai/OmniBot](../repos/omnimind-ai/OmniBot.md) - Your on-phone &#x2F; mobile AI Agent &#x2F; Claw, capable of operating terminals and performing a wide rang...
+- [Chevey339/kelivo](../repos/Chevey339/kelivo.md) - A Flutter LLM Chat Client. Support Mobile &amp; Desktop.
+- [kodjodevf/mangayomi](../repos/kodjodevf/mangayomi.md) - Free and open source application for reading manga, novels, and watching animes available on Andr...
+- [flame-engine/flame](../repos/flame-engine/flame.md) - A Flutter based game engine.
+- [venera-app/venera](../repos/venera-app/venera.md) - A comic app
+- [raoxwup/haka_comic](../repos/raoxwup/haka_comic.md) - 哔咔漫画(PicACG&#x2F;Bika&#x2F;Pica)第三方跨平台客户端，清爽无广告
+- [kodify-js/MovieDex](../repos/kodify-js/MovieDex.md) - MovieDex is an open-source Flutter application that allows users to explore and discover movies e...
+- [gokadzev/Musify](../repos/gokadzev/Musify.md) - Unlock the full potential of music: Stream effortlessly with one app!
+- [rstudio/shiny](../repos/rstudio/shiny.md) - Easy interactive web applications with R
+- [operately/operately](../repos/operately/operately.md) - The open source company operating system.
+- [status-im/status-legacy](../repos/status-im/status-legacy.md) - a free (libre) open source, mobile OS for Ethereum
+- [facebook/infer](../repos/facebook/infer.md) - A static analyzer for Java, C, C++, and Objective-C
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.649Z*
+*Last updated: 2026-08-02T23:30:07.373Z*

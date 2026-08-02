@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 1
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-02
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,771 | 2026-08-01 | 1 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,771 | 2026-08-01 | 2 |
 
 
 ---
@@ -34,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,771 | 2026-08-01 | 1 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,771 | 2026-08-01 | 2 |
 
 ---
 
@@ -42,7 +42,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vlang/v](../repos/vlang/v.md) | 1 | ⭐ 37,771 | 2026-08-01 | 2026-08-01 |
+| [vlang/v](../repos/vlang/v.md) | 2 | ⭐ 37,771 | 2026-08-01 | 2026-08-02 |
 
 ---
 
@@ -52,4 +52,4 @@
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.769Z*
+*Last updated: 2026-08-02T23:30:07.512Z*

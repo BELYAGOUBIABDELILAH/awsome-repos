@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 10
+- **Total Repositories**: 17
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-05
 
@@ -16,28 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,535 | 2026-08-01 | 1 |
+| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 6,881 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 6,623 | 2026-08-01 | 1 |
+| [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | ⭐ 7,547 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [woosal1337/blog](../repos/woosal1337/blog.md) | ⭐ 311 | 2026-08-01 | 1 |
+| [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | ⭐ 31,542 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huggingface/transformers.js](../repos/huggingface/transformers.js.md) | ⭐ 16,223 | 2026-08-01 | 1 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 30,978 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,475 | 2026-08-01 | 1 |
+| [decolua/9router](../repos/decolua/9router.md) | ⭐ 24,468 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 9,002 | 2026-08-01 | 1 |
+| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 5,425 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) | ⭐ 347 | 2026-08-01 | 1 |
+| [huangxd-/danmu_api](../repos/huangxd-/danmu_api.md) | ⭐ 2,881 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 56,640 | 2026-08-01 | 1 |
+| [tangyoha/telegram_media_downloader](../repos/tangyoha/telegram_media_downloader.md) | ⭐ 5,442 | 2026-08-02 | 1 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,535 | 2026-08-01 | Socket-based TS&#x2F;JavaScript API for WhatsApp Web |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 6,623 | 2026-08-01 | 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 |
+| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 6,881 | 2026-08-01 | 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [woosal1337/blog](../repos/woosal1337/blog.md) | ⭐ 311 | 2026-08-01 | My blog website. |
@@ -85,11 +85,18 @@
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 118,250 | 2026-07-30 | 3 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 56,640 | 2026-08-01 | 1 |
+| [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | ⭐ 31,542 | 2026-08-02 | 1 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 30,978 | 2026-08-02 | 1 |
+| [decolua/9router](../repos/decolua/9router.md) | ⭐ 24,468 | 2026-08-02 | 1 |
 | [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,475 | 2026-08-01 | 1 |
 | [huggingface/transformers.js](../repos/huggingface/transformers.js.md) | ⭐ 16,223 | 2026-08-01 | 1 |
 | [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,535 | 2026-08-01 | 1 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 9,002 | 2026-08-01 | 1 |
-| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 6,623 | 2026-08-01 | 1 |
+| [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | ⭐ 7,547 | 2026-08-02 | 1 |
+| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 6,881 | 2026-08-01 | 2 |
+| [tangyoha/telegram_media_downloader](../repos/tangyoha/telegram_media_downloader.md) | ⭐ 5,442 | 2026-08-02 | 1 |
+| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 5,425 | 2026-08-02 | 1 |
+| [huangxd-/danmu_api](../repos/huangxd-/danmu_api.md) | ⭐ 2,881 | 2026-08-02 | 1 |
 | [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) | ⭐ 347 | 2026-08-01 | 1 |
 | [woosal1337/blog](../repos/woosal1337/blog.md) | ⭐ 311 | 2026-08-01 | 1 |
 
@@ -101,8 +108,8 @@
 |------------|---------------|-------|------------|-----------|
 | [facebook/react](../repos/facebook/react.md) | 3 | ⭐ 219,500 | 2026-07-30 | 2026-08-05 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 3 | ⭐ 118,250 | 2026-07-30 | 2026-08-10 |
+| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 2 | ⭐ 6,881 | 2026-08-01 | 2026-08-02 |
 | [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | 1 | ⭐ 10,535 | 2026-08-01 | 2026-08-01 |
-| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 1 | ⭐ 6,623 | 2026-08-01 | 2026-08-01 |
 | [woosal1337/blog](../repos/woosal1337/blog.md) | 1 | ⭐ 311 | 2026-08-01 | 2026-08-01 |
 | [huggingface/transformers.js](../repos/huggingface/transformers.js.md) | 1 | ⭐ 16,223 | 2026-08-01 | 2026-08-01 |
 | [node-red/node-red](../repos/node-red/node-red.md) | 1 | ⭐ 23,475 | 2026-08-01 | 2026-08-01 |
@@ -124,7 +131,14 @@
 - [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 - [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) - Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module...
 - [byoungd/up](../repos/byoungd/up.md) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语
+- [pdone/lx-music-source](../repos/pdone/lx-music-source.md) - 洛雪音乐源
+- [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) - LLM Frontend for Power Users.
+- [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) - Use Codex from Claude Code to review code or delegate tasks.
+- [decolua/9router](../repos/decolua/9router.md) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE...
+- [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for pers...
+- [huangxd-/danmu_api](../repos/huangxd-/danmu_api.md) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆红弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel&#x2F;net...
+- [tangyoha/telegram_media_downloader](../repos/tangyoha/telegram_media_downloader.md) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram me...
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.756Z*
+*Last updated: 2026-08-02T23:30:07.491Z*

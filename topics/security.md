@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 36
+- **Total Repositories**: 58
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
-- **Average Stars**: 14329
+- **Last Updated**: 2026-08-02
+- **Average Stars**: 19348
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 10,720 | Python |  |
+| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | ⭐ 197 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [nolabs-ai/nono](../repos/nolabs-ai/nono.md) | ⭐ 3,384 | Rust |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,667 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [cube-js/cube](../repos/cube-js/cube.md) | ⭐ 20,528 | Rust |  |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,088 | Rust |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,767 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | ⭐ 146 | Go |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,491 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 5,435 | Go |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,214 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,172 | Go |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,091 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,063 | Java |  |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,539 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,057 | C |  |
+| [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,616 | HTML |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,001 | C |  |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,856 | Vue |  |
 
 
 ---
@@ -53,16 +53,16 @@
 
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,472 | Clojure | 2026-08-01 | 1 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,183 | Clojure | 2026-08-01 | 1 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,752 | Scala | 2026-08-01 | 1 |
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,686 | Vim Script | 2026-08-01 | 1 |
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,771 | V | 2026-08-01 | 1 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,172 | Go | 2026-08-01 | 1 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,198 | Solidity | 2026-08-01 | 1 |
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,057 | C | 2026-08-01 | 1 |
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,666 | Ruby | 2026-08-01 | 1 |
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,731 | PHP | 2026-08-01 | 1 |
+| [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | TypeScript | 2026-08-02 | 1 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,751 | C++ | 2026-08-02 | 1 |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,002 | Python | 2026-08-02 | 1 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,436 | C | 2026-08-02 | 1 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,491 | Clojure | 2026-08-01 | 2 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,214 | Clojure | 2026-08-01 | 2 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,767 | Scala | 2026-08-01 | 2 |
+| [ccxt/ccxt](../repos/ccxt/ccxt.md) | ⭐ 43,493 | Python | 2026-08-02 | 1 |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 40,691 | Vim Script | 2026-08-01 | 2 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,771 | V | 2026-08-01 | 2 |
 
 ---
 
@@ -82,7 +82,7 @@
 | [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,088 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | ⭐ 146 | Go | 1 |
+| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | ⭐ 197 | Go | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 5,435 | Go | 1 |
@@ -117,7 +117,7 @@
 | [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,088 | Rust | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | ⭐ 146 | Go | 2026-08-01 |
+| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | ⭐ 197 | Go | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 5,435 | Go | 2026-08-01 |
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-02](../archive/2026/08/2026-08-02.md)
+- 38 repositories trending
+- Top: storybookjs&#x2F;storybook
+
 ### [2026-08-01](../archive/2026/08/2026-08-01.md)
 - 36 repositories trending
 - Top: metabase&#x2F;metabase
@@ -151,31 +155,31 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [nolabs-ai/nono](../repos/nolabs-ai/nono.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [cube-js/cube](../repos/cube-js/cube.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [libuv/libuv](../repos/libuv/libuv.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | 1 days | 2026-08-01 | 2026-08-01 |
+| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [apache/spark](../repos/apache/spark.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 2 days | 2026-08-01 | 2026-08-02 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **C**: 5 repositories (14%)
-- **Rust**: 3 repositories (8%)
-- **Go**: 3 repositories (8%)
-- **PHP**: 3 repositories (8%)
-- **Ruby**: 2 repositories (6%)
+- **C**: 11 repositories (19%)
+- **Go**: 5 repositories (9%)
+- **Python**: 3 repositories (5%)
+- **Rust**: 3 repositories (5%)
+- **PHP**: 3 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 36 repositories
-- **Peak Day**: 2026-08-01 (36 repositories)
+- **Daily Average**: 37 repositories
+- **Peak Day**: 2026-08-02 (38 repositories)
 - **Growth Rate**: 100% this month
 
 ---
@@ -223,7 +227,29 @@
 - [apple/swift-crypto](../repos/apple/swift-crypto.md) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for us...
 - [vlang/v](../repos/vlang/v.md) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1...
 - [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) - OpenZeppelin Contracts is a library for secure smart contract development.
+- [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) - Hunt down social media accounts by username across social networks
+- [ccxt/ccxt](../repos/ccxt/ccxt.md) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript &#x2F; ...
+- [elizaOS/eliza](../repos/elizaOS/eliza.md) - Open source agentic operating system
+- [storybookjs/storybook](../repos/storybookjs/storybook.md) - Storybook is the industry standard workshop for building, documenting, and testing UI components ...
+- [stretchr/testify](../repos/stretchr/testify.md) - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [kubescape/kubescape](../repos/kubescape/kubescape.md) - Kubescape is an open-source Kubernetes security platform for your IDE, CI&#x2F;CD pipelines, and clust...
+- [bazelbuild/bazel](../repos/bazelbuild/bazel.md) - a fast, scalable, multi-language and extensible build system
+- [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) - Bitcoin Core integration&#x2F;staging tree
+- [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) - Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through i...
+- [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) - ehviewer，用爱发电，快乐前行
+- [nginx/nginx](../repos/nginx/nginx.md) - The official NGINX Open Source repository.
+- [obsproject/obs-studio](../repos/obsproject/obs-studio.md) - OBS Studio - Free and open source software for live streaming and screen recording
+- [mpv-player/mpv](../repos/mpv-player/mpv.md) - 🎥 Command line media player
+- [bmax121/KernelPatch](../repos/bmax121/KernelPatch.md) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
+- [GrapheneOS/Camera](../repos/GrapheneOS/Camera.md) - Modern camera app focused on privacy and security with QR &amp; barcode scanning.
+- [rstudio/shiny](../repos/rstudio/shiny.md) - Easy interactive web applications with R
+- [ntop/ntopng](../repos/ntop/ntopng.md) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
+- [firezone/firezone](../repos/firezone/firezone.md) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [facebook/infer](../repos/facebook/infer.md) - A static analyzer for Java, C, C++, and Objective-C
+- [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) - Comprehensive, language independent Test Suite for YAML
+- [ZoranPandovski/awesome-testing-tools](../repos/ZoranPandovski/awesome-testing-tools.md) - 🚀 A curated list of awesome software testing tools, from unit and load to accessibility, Web3, a...
+- [Vexu/arocc](../repos/Vexu/arocc.md) - A modern fully featured C compiler.
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.655Z*
+*Last updated: 2026-08-02T23:30:07.381Z*

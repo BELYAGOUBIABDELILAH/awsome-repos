@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 55
+- **Total Repositories**: 88
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-05
-- **Average Stars**: 33569
+- **Average Stars**: 29044
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 56,218 | Python |  |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 56,866 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 63,407 | Python |  |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 64,664 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,535 | JavaScript |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,667 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [huggingface/transformers.js](../repos/huggingface/transformers.js.md) | ⭐ 16,223 | JavaScript |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,767 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | TypeScript |  |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,073 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 24,959 | Rust |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,091 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [tursodatabase/turso](../repos/tursodatabase/turso.md) | ⭐ 23,593 | Rust |  |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,539 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 12,841 | Rust |  |
+| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,238 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,088 | Rust |  |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,021 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [heroiclabs/nakama](../repos/heroiclabs/nakama.md) | ⭐ 13,066 | Go |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 40,691 | Vim Script |  |
 
 
 ---
@@ -54,15 +54,15 @@
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,028 | Dart | 2026-08-01 | 1 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,073 | Dart | 2026-08-01 | 2 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,278 | C++ | 2026-08-01 | 1 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 118,250 | JavaScript | 2026-07-30 | 3 |
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,306 | Shell | 2026-08-01 | 1 |
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,236 | Vue | 2026-08-01 | 1 |
+| [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | TypeScript | 2026-08-02 | 1 |
+| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,238 | Vue | 2026-08-01 | 2 |
+| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 78,978 | Python | 2026-08-02 | 1 |
+| [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 78,675 | Python | 2026-08-02 | 1 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | Rust | 2026-07-30 | 3 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 63,407 | Python | 2026-08-01 | 1 |
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | TypeScript | 2026-08-01 | 1 |
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 56,218 | Python | 2026-08-01 | 1 |
 
 ---
 
@@ -82,10 +82,10 @@
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 52,300 | TypeScript | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 56,218 | Python | 1 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 56,866 | Python | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 63,407 | Python | 1 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 64,664 | Python | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,535 | JavaScript | 1 |
@@ -117,10 +117,10 @@
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 52,300 | TypeScript | 2026-07-31 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 56,218 | Python | 2026-08-01 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 56,866 | Python | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 63,407 | Python | 2026-08-01 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 64,664 | Python | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,535 | JavaScript | 2026-08-01 |
@@ -137,6 +137,10 @@
 ---
 
 ## 📅 Recent History
+
+### [2026-08-02](../archive/2026/08/2026-08-02.md)
+- 44 repositories trending
+- Top: flutter&#x2F;flutter
 
 ### [2026-08-01](../archive/2026/08/2026-08-01.md)
 - 51 repositories trending
@@ -162,27 +166,27 @@
 | [facebook/react](../repos/facebook/react.md) | 3 days | 2026-07-30 | 2026-08-05 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 3 days | 2026-07-30 | 2026-08-10 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | 3 days | 2026-07-30 | 2026-08-05 |
-| [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | 1 days | 2026-07-31 | 2026-07-31 |
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [huggingface/transformers.js](../repos/huggingface/transformers.js.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | 1 days | 2026-08-01 | 2026-08-01 |
-| [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | 1 days | 2026-08-01 | 2026-08-01 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [apache/spark](../repos/apache/spark.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [flutter/flutter](../repos/flutter/flutter.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 2 days | 2026-08-01 | 2026-08-02 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Vue**: 9 repositories (16%)
-- **Rust**: 5 repositories (9%)
-- **JavaScript**: 4 repositories (7%)
-- **C**: 4 repositories (7%)
-- **Ruby**: 4 repositories (7%)
+- **Vue**: 14 repositories (16%)
+- **C**: 8 repositories (9%)
+- **TypeScript**: 7 repositories (8%)
+- **Go**: 6 repositories (7%)
+- **Rust**: 5 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 12.2 repositories
+- **Daily Average**: 17.5 repositories
 - **Peak Day**: 2026-08-01 (51 repositories)
 - **Growth Rate**: 100% this month
 
@@ -250,7 +254,40 @@
 - [vim/vim](../repos/vim/vim.md) - The official Vim repository
 - [vlang/v](../repos/vlang/v.md) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1...
 - [mojs/mojs](../repos/mojs/mojs.md) - The motion graphics toolbelt for the web
+- [abus-aikorea/voice-pro](../repos/abus-aikorea/voice-pro.md) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voic...
+- [bytedance/deer-flow](../repos/bytedance/deer-flow.md) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...
+- [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) - ALL IN ONE Hacking Tool For Hackers
+- [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) - 📨 The ultimate agentic social media scheduling tool 🤖
+- [nrwl/nx](../repos/nrwl/nx.md) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, sca...
+- [CyberTimon/RapidRAW](../repos/CyberTimon/RapidRAW.md) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
+- [storybookjs/storybook](../repos/storybookjs/storybook.md) - Storybook is the industry standard workshop for building, documenting, and testing UI components ...
+- [simstudioai/sim](../repos/simstudioai/sim.md) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workf...
+- [superplanehq/superplane](../repos/superplanehq/superplane.md) - The open source control plane for agentic engineering.
+- [AlexxIT/go2rtc](../repos/AlexxIT/go2rtc.md) - Ultimate camera streaming application
+- [1Panel-dev/1Panel](../repos/1Panel-dev/1Panel.md) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent supp...
+- [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) - ehviewer，用爱发电，快乐前行
+- [nginx/nginx](../repos/nginx/nginx.md) - The official NGINX Open Source repository.
+- [obsproject/obs-studio](../repos/obsproject/obs-studio.md) - OBS Studio - Free and open source software for live streaming and screen recording
+- [mpv-player/mpv](../repos/mpv-player/mpv.md) - 🎥 Command line media player
+- [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) - A free, self-hostable news aggregator…
+- [opencart/opencart](../repos/opencart/opencart.md) - A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
+- [docusealco/docuseal](../repos/docusealco/docuseal.md) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+- [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) - RikkaHub is an Android APP that supports for multiple LLM providers.
+- [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) - Vivi-Music is an expressive Material 3–based YouTube Music client for Android.
+- [kodify-js/MovieDex](../repos/kodify-js/MovieDex.md) - MovieDex is an open-source Flutter application that allows users to explore and discover movies e...
+- [rstudio/shiny](../repos/rstudio/shiny.md) - Easy interactive web applications with R
+- [operately/operately](../repos/operately/operately.md) - The open source company operating system.
+- [status-im/status-legacy](../repos/status-im/status-legacy.md) - a free (libre) open source, mobile OS for Ethereum
+- [facebook/infer](../repos/facebook/infer.md) - A static analyzer for Java, C, C++, and Objective-C
+- [ninenines/cowlib](../repos/ninenines/cowlib.md) - Support library for manipulating Web protocols.
+- [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) - ConardLi&#39;s open-source Skills collection, featuring web design, knowledge retrieval, image genera...
+- [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
+- [Virtual-Browser/VirtualBrowser](../repos/Virtual-Browser/VirtualBrowser.md) - Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https:&#x2F;&#x2F;vir...
+- [xiaoshengxianjun/51mazi](../repos/xiaoshengxianjun/51mazi.md) - 我要码字，这可能会是最好用的小说写作软件。51mazi是一款基于 Electron + Vue 3 技术栈开发的桌面小说写作软件，专为小说创作者设计，它不仅集成了随机取名，小说地图设计、关系图谱...
+- [vuejs/docs](../repos/vuejs/docs.md) - 📄 Documentation for Vue 3
+- [unovue/reka-ui](../repos/unovue/reka-ui.md) - An open-source UI component library for building high-quality, accessible design systems and web ...
+- [Vexu/arocc](../repos/Vexu/arocc.md) - A modern fully featured C compiler.
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.643Z*
+*Last updated: 2026-08-02T23:30:07.361Z*

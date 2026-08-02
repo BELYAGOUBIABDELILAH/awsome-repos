@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 8
+- **Total Repositories**: 11
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-01
 
@@ -16,28 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,941 | 2026-08-01 | 1 |
+| [IntersectMBO/ouroboros-consensus](../repos/IntersectMBO/ouroboros-consensus.md) | ⭐ 67 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,485 | 2026-08-01 | 1 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,491 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,743 | 2026-08-01 | 1 |
+| [digitallyinduced/ihp](../repos/digitallyinduced/ihp.md) | ⭐ 5,330 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,795 | 2026-08-01 | 1 |
+| [IntersectMBO/cardano-ledger](../repos/IntersectMBO/cardano-ledger.md) | ⭐ 290 | 2026-08-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [digital-asset/daml](../repos/digital-asset/daml.md) | ⭐ 912 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,178 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [IntersectMBO/ouroboros-consensus](../repos/IntersectMBO/ouroboros-consensus.md) | ⭐ 67 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,480 | 2026-08-01 | 1 |
+| [diku-dk/futhark](../repos/diku-dk/futhark.md) | ⭐ 2,778 | 2026-08-02 | 1 |
 
 
 ---
@@ -67,7 +58,13 @@
 | [IntersectMBO/ouroboros-consensus](../repos/IntersectMBO/ouroboros-consensus.md) | ⭐ 67 | 2026-08-01 | Implementation of a Consensus Layer for the Ouroboros family of protocols |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,480 | 2026-08-01 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compati... |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,491 | 2026-08-01 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compati... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [digitallyinduced/ihp](../repos/digitallyinduced/ihp.md) | ⭐ 5,330 | 2026-08-02 | 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework opt... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [IntersectMBO/cardano-ledger](../repos/IntersectMBO/cardano-ledger.md) | ⭐ 290 | 2026-08-02 | The ledger implementation and specifications of the Cardano blockchain. |
 
 
 ---
@@ -78,12 +75,15 @@
 |------------|-------|------------|---------------|
 | [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,795 | 2026-08-01 | 1 |
 | [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,485 | 2026-08-01 | 1 |
+| [digitallyinduced/ihp](../repos/digitallyinduced/ihp.md) | ⭐ 5,330 | 2026-08-02 | 1 |
 | [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,178 | 2026-08-01 | 1 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,941 | 2026-08-01 | 1 |
+| [diku-dk/futhark](../repos/diku-dk/futhark.md) | ⭐ 2,778 | 2026-08-02 | 1 |
 | [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,743 | 2026-08-01 | 1 |
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,480 | 2026-08-01 | 1 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,491 | 2026-08-01 | 2 |
 | [digital-asset/daml](../repos/digital-asset/daml.md) | ⭐ 912 | 2026-08-01 | 1 |
-| [IntersectMBO/ouroboros-consensus](../repos/IntersectMBO/ouroboros-consensus.md) | ⭐ 67 | 2026-08-01 | 1 |
+| [IntersectMBO/cardano-ledger](../repos/IntersectMBO/cardano-ledger.md) | ⭐ 290 | 2026-08-02 | 1 |
+| [IntersectMBO/ouroboros-consensus](../repos/IntersectMBO/ouroboros-consensus.md) | ⭐ 67 | 2026-08-01 | 2 |
 
 ---
 
@@ -91,14 +91,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [IntersectMBO/ouroboros-consensus](../repos/IntersectMBO/ouroboros-consensus.md) | 2 | ⭐ 67 | 2026-08-01 | 2026-08-02 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 2 | ⭐ 1,491 | 2026-08-01 | 2026-08-02 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 1 | ⭐ 2,941 | 2026-08-01 | 2026-08-01 |
 | [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 1 | ⭐ 27,485 | 2026-08-01 | 2026-08-01 |
 | [haskell/cabal](../repos/haskell/cabal.md) | 1 | ⭐ 1,743 | 2026-08-01 | 2026-08-01 |
 | [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 1 | ⭐ 39,795 | 2026-08-01 | 2026-08-01 |
 | [digital-asset/daml](../repos/digital-asset/daml.md) | 1 | ⭐ 912 | 2026-08-01 | 2026-08-01 |
 | [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 1 | ⭐ 3,178 | 2026-08-01 | 2026-08-01 |
-| [IntersectMBO/ouroboros-consensus](../repos/IntersectMBO/ouroboros-consensus.md) | 1 | ⭐ 67 | 2026-08-01 | 2026-08-01 |
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 1 | ⭐ 1,480 | 2026-08-01 | 2026-08-01 |
+| [digitallyinduced/ihp](../repos/digitallyinduced/ihp.md) | 1 | ⭐ 5,330 | 2026-08-02 | 2026-08-02 |
+| [IntersectMBO/cardano-ledger](../repos/IntersectMBO/cardano-ledger.md) | 1 | ⭐ 290 | 2026-08-02 | 2026-08-02 |
 
 ---
 
@@ -112,7 +114,10 @@
 - [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) - The core component that is used to participate in a Cardano decentralised blockchain.
 - [IntersectMBO/ouroboros-consensus](../repos/IntersectMBO/ouroboros-consensus.md) - Implementation of a Consensus Layer for the Ouroboros family of protocols
 - [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) - Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compati...
+- [digitallyinduced/ihp](../repos/digitallyinduced/ihp.md) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework opt...
+- [IntersectMBO/cardano-ledger](../repos/IntersectMBO/cardano-ledger.md) - The ledger implementation and specifications of the Cardano blockchain.
+- [diku-dk/futhark](../repos/diku-dk/futhark.md) - :boom::computer::boom: A data-parallel functional programming language
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.754Z*
+*Last updated: 2026-08-02T23:30:07.490Z*

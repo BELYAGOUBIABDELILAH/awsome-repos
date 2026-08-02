@@ -1,0 +1,95 @@
+# stretchr&#x2F;testify
+
+> A toolkit with common assertions and mocks that plays nicely with the standard library
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;stretchr&#x2F;testify) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | Go |
+| **License** | MIT |
+| **Stars** | ⭐ 26,147 |
+| **Forks** | 🍴 1,858 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Aug 2, 2026 |
+| **Last Seen** | Aug 2, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in Go or assertions*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`assertions`](../../topics/assertions.md) [`go`](../../topics/go.md) [`golang`](../../topics/golang.md) [`mocking`](../../topics/mocking.md) [`testify`](../../topics/testify.md) [`testing`](../../topics/testing.md) [`toolkit`](../../topics/toolkit.md) 
+
+### Curated Categories
+`Systems Programming` `Testing &amp; QA` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
+| **Maturity** | Stable | Mature with proven track record |
+| **Maintenance** | Active | Regular updates |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in Go
+
+#### Metrics
+- **Hidden Gem**: ✗ No
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-08-02T23:30:08.603Z*  
+*Data from 1 trending reports*

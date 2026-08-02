@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-01T00:25:34.858Z",
-  "total_repositories": 445,
-  "trending_today": 430,
-  "new_this_month": 445,
+  "generated_at": "2026-08-02T23:30:09.136Z",
+  "total_repositories": 725,
+  "trending_today": 415,
+  "new_this_month": 725,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-08-01",
+  "last_collection": "2026-08-02",
   "most_starred": {
-    "full_name": "public-apis/public-apis",
-    "stars": 453833,
-    "first_seen": "2026-08-01"
+    "full_name": "codecrafters-io/build-your-own-x",
+    "stars": 534798,
+    "first_seen": "2026-08-02"
   },
   "most_frequent": {
     "full_name": "openai/whisper",
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 8358949,
-  "avg_stars": 18784,
-  "avg_trending_days": 1,
-  "language_count": 47,
-  "topic_count": 1824,
+  "total_stars": 13219775,
+  "avg_stars": 18234,
+  "avg_trending_days": 1.2,
+  "language_count": 50,
+  "topic_count": 2718,
   "collection_success_rate": 100,
-  "data_quality_score": 99
+  "data_quality_score": 100
 }
