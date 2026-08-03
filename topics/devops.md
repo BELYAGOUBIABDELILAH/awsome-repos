@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 59
+- **Total Repositories**: 69
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-02
-- **Average Stars**: 19642
+- **Last Updated**: 2026-08-03
+- **Average Stars**: 18973
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 916 | Go |  |
+| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 992 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,667 | Ruby |  |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,710 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,201 | Ruby |  |
+| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,386 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,709 | Ruby |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,780 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,767 | Scala |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,237 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,214 | Clojure |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,096 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,091 | OCaml |  |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,704 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,374 | OCaml |  |
+| [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | ⭐ 3,518 | Zig |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,691 | Vim Script |  |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,141 | PowerShell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,771 | V |  |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,778 | V |  |
 
 
 ---
@@ -53,15 +53,15 @@
 
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
-| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,002 | Python | 2026-08-02 | 1 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,436 | C | 2026-08-02 | 1 |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,155 | Python | 2026-08-02 | 2 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,477 | C | 2026-08-02 | 2 |
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | TypeScript | 2026-08-01 | 1 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 45,949 | HTML | 2026-08-01 | 1 |
-| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 45,718 | Python | 2026-08-02 | 1 |
+| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 45,782 | Python | 2026-08-02 | 2 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,507 | C# | 2026-08-01 | 1 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,214 | Clojure | 2026-08-01 | 2 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,237 | Clojure | 2026-08-01 | 3 |
 | [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,897 | Lua | 2026-08-01 | 1 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,767 | Scala | 2026-08-01 | 2 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,780 | Scala | 2026-08-01 | 3 |
 | [vim/vim](../repos/vim/vim.md) | ⭐ 40,691 | Vim Script | 2026-08-01 | 2 |
 
 ---
@@ -88,7 +88,7 @@
 | [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,088 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 916 | Go | 2 |
+| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 992 | Go | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,172 | Go | 1 |
@@ -123,7 +123,7 @@
 | [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,088 | Rust | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 916 | Go | 2026-08-01 |
+| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 992 | Go | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,172 | Go | 2026-08-01 |
@@ -137,6 +137,10 @@
 ---
 
 ## 📅 Recent History
+
+### [2026-08-03](../archive/2026/08/2026-08-03.md)
+- 30 repositories trending
+- Top: sherlock-project&#x2F;sherlock
 
 ### [2026-08-02](../archive/2026/08/2026-08-02.md)
 - 27 repositories trending
@@ -155,30 +159,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [github/gh-stack](../repos/github/gh-stack.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [github/gh-stack](../repos/github/gh-stack.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [apache/spark](../repos/apache/spark.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [vlang/v](../repos/vlang/v.md) | 3 days | 2026-08-01 | 2026-08-03 |
 | [ruby/ruby](../repos/ruby/ruby.md) | 2 days | 2026-08-01 | 2026-08-02 |
 | [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [apache/spark](../repos/apache/spark.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | 2 days | 2026-08-01 | 2026-08-03 |
 | [ocaml/opam](../repos/ocaml/opam.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [vim/vim](../repos/vim/vim.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [vlang/v](../repos/vlang/v.md) | 2 days | 2026-08-01 | 2026-08-02 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 9 repositories (15%)
-- **C**: 8 repositories (14%)
-- **Shell**: 4 repositories (7%)
-- **TypeScript**: 3 repositories (5%)
-- **Rust**: 3 repositories (5%)
+- **Go**: 12 repositories (17%)
+- **C**: 10 repositories (14%)
+- **TypeScript**: 4 repositories (6%)
+- **Scala**: 4 repositories (6%)
+- **Shell**: 4 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 34.5 repositories
+- **Daily Average**: 33 repositories
 - **Peak Day**: 2026-08-01 (42 repositories)
 - **Growth Rate**: 100% this month
 
@@ -250,7 +254,17 @@
 - [rundeck/rundeck](../repos/rundeck/rundeck.md) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and ...
 - [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) - A DSL for data-driven computational pipelines
 - [scality/metalk8s](../repos/scality/metalk8s.md) - An opinionated Kubernetes distribution with a focus on long-term on-prem deployments
+- [is-a-dev/register](../repos/is-a-dev/register.md) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain.
+- [meshery/meshery](../repos/meshery/meshery.md) - Meshery, the cloud native manager
+- [bettercap/bettercap](../repos/bettercap/bettercap.md) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MIT...
+- [authelia/authelia](../repos/authelia/authelia.md) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [pulumi/pulumi](../repos/pulumi/pulumi.md) - Pulumi - Infrastructure as Code in any programming language 🚀
+- [ceph/ceph](../repos/ceph/ceph.md) - Ceph is a distributed object, block, and file storage platform 
+- [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) - Flipper Zero firmware source code
+- [systemd/systemd](../repos/systemd/systemd.md) - The systemd System and Service Manager 
+- [apache/kyuubi](../repos/apache/kyuubi.md) - Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehou...
+- [esmuellert/codediff.nvim](../repos/esmuellert/codediff.nvim.md) - VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level...
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.365Z*
+*Last updated: 2026-08-03T22:01:17.237Z*

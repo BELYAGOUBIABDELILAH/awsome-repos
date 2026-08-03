@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 29
+- **Total Repositories**: 35
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,856 | 2026-08-01 | 2 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,869 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,238 | 2026-08-01 | 2 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,704 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 243 | 2026-08-01 | 2 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,075 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,582 | 2026-08-01 | 2 |
+| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 244 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,021 | 2026-08-01 | 2 |
+| [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,076 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 425 | 2026-08-02 | 1 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,588 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | ⭐ 780 | 2026-08-02 | 1 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 425 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,286 | 2026-08-02 | 1 |
+| [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | ⭐ 789 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,608 | 2026-08-02 | 1 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,296 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ljxi/Cloudflare-R2-oss](../repos/ljxi/Cloudflare-R2-oss.md) | ⭐ 479 | 2026-08-02 | 1 |
+| [ljxi/Cloudflare-R2-oss](../repos/ljxi/Cloudflare-R2-oss.md) | ⭐ 485 | 2026-08-02 | 2 |
 
 
 ---
@@ -52,10 +52,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,856 | 2026-08-01 | BewlyCat——基于BewlyBewly开发的Bilibili拓展 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,869 | 2026-08-01 | BewlyCat——基于BewlyBewly开发的Bilibili拓展 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,686 | 2026-08-01 | Wiki.js | A modern and powerful wiki app built on Node.js |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,704 | 2026-08-01 | Wiki.js | A modern and powerful wiki app built on Node.js |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,275 | 2026-08-01 | Modern, Streamlined, Free and Open Source Customer Service Software |
@@ -64,13 +64,13 @@
 | [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 3,919 | 2026-08-01 | 跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,044 | 2026-08-01 | Fully featured, open source CRM |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,075 | 2026-08-01 | Fully featured, open source CRM |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,238 | 2026-08-01 | :tada: A magical vue admin                                                                https:&#x2F;... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 243 | 2026-08-01 | A Career Overhaul mod for BeamNG.drive! Enhances various aspects of the game, including freeroam ... |
+| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 244 | 2026-08-01 | A Career Overhaul mod for BeamNG.drive! Enhances various aspects of the game, including freeroam ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,098 | 2026-08-01 | 高颜值的第三方网易云播放器，支持 Windows &#x2F; macOS &#x2F; Linux :electron:  |
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,238 | 2026-08-01 | 2 |
-| [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,079 | 2026-08-01 | 1 |
+| [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,076 | 2026-08-01 | 2 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,098 | 2026-08-01 | 1 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,021 | 2026-08-01 | 2 |
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,686 | 2026-08-01 | 1 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,704 | 2026-08-01 | 2 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,608 | 2026-08-02 | 1 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,582 | 2026-08-01 | 2 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,286 | 2026-08-02 | 1 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,588 | 2026-08-01 | 3 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,296 | 2026-08-02 | 2 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,192 | 2026-08-03 | 1 |
+| [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,854 | 2026-08-03 | 1 |
+| [VueTorrent/VueTorrent](../repos/VueTorrent/VueTorrent.md) | ⭐ 6,904 | 2026-08-03 | 1 |
 | [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,691 | 2026-08-02 | 1 |
 | [imsyy/home](../repos/imsyy/home.md) | ⭐ 4,585 | 2026-08-01 | 1 |
 | [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 3,919 | 2026-08-01 | 1 |
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,856 | 2026-08-01 | 2 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,869 | 2026-08-01 | 3 |
 | [inovector/mixpost](../repos/inovector/mixpost.md) | ⭐ 3,474 | 2026-08-01 | 1 |
 | [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,275 | 2026-08-01 | 1 |
 | [vuejs/docs](../repos/vuejs/docs.md) | ⭐ 3,234 | 2026-08-02 | 1 |
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,044 | 2026-08-01 | 1 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,075 | 2026-08-01 | 2 |
 | [Virtual-Browser/VirtualBrowser](../repos/Virtual-Browser/VirtualBrowser.md) | ⭐ 3,029 | 2026-08-02 | 1 |
-| [crmeb/crmeb_java](../repos/crmeb/crmeb_java.md) | ⭐ 2,986 | 2026-08-01 | 1 |
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 1,706 | 2026-08-02 | 1 |
-| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 1,399 | 2026-08-02 | 1 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 2 | ⭐ 3,856 | 2026-08-01 | 2026-08-02 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 3 | ⭐ 3,869 | 2026-08-01 | 2026-08-03 |
+| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | 3 | ⭐ 244 | 2026-08-01 | 2026-08-03 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 3 | ⭐ 21,588 | 2026-08-01 | 2026-08-03 |
+| [requarks/wiki](../repos/requarks/wiki.md) | 2 | ⭐ 28,704 | 2026-08-01 | 2026-08-03 |
+| [frappe/crm](../repos/frappe/crm.md) | 2 | ⭐ 3,075 | 2026-08-01 | 2026-08-03 |
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | 2 | ⭐ 90,238 | 2026-08-01 | 2026-08-02 |
-| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | 2 | ⭐ 243 | 2026-08-01 | 2026-08-02 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 2 | ⭐ 21,582 | 2026-08-01 | 2026-08-02 |
+| [ElemeFE/element](../repos/ElemeFE/element.md) | 2 | ⭐ 54,076 | 2026-08-01 | 2026-08-03 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 2 | ⭐ 33,021 | 2026-08-01 | 2026-08-02 |
-| [requarks/wiki](../repos/requarks/wiki.md) | 1 | ⭐ 28,686 | 2026-08-01 | 2026-08-01 |
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | 1 | ⭐ 3,275 | 2026-08-01 | 2026-08-01 |
-| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | 1 | ⭐ 3,919 | 2026-08-01 | 2026-08-01 |
-| [frappe/crm](../repos/frappe/crm.md) | 1 | ⭐ 3,044 | 2026-08-01 | 2026-08-01 |
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 1 | ⭐ 33,098 | 2026-08-01 | 2026-08-01 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 2 | ⭐ 425 | 2026-08-02 | 2026-08-03 |
+| [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | 2 | ⭐ 789 | 2026-08-02 | 2026-08-03 |
 
 ---
 
@@ -159,7 +159,13 @@
 - [julyx10/lap](../repos/julyx10/lap.md) - An offline-first photo manager for large local libraries
 - [unovue/reka-ui](../repos/unovue/reka-ui.md) - An open-source UI component library for building high-quality, accessible design systems and web ...
 - [cfw-guide/ios.cfw.guide](../repos/cfw-guide/ios.cfw.guide.md) - A complete iOS modding guide, from stock to jailbroken.
+- [VueTorrent/VueTorrent](../repos/VueTorrent/VueTorrent.md) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
+- [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
+- [crmeb/CRMEB](../repos/crmeb/CRMEB.md) - 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、...
+- [frappe/builder](../repos/frappe/builder.md) - Craft beautiful websites effortlessly with an intuitive visual builder and publish them instantly
+- [frappe/suite](../repos/frappe/suite.md) - Original, intentionally designed productivity tools
+- [imsyy/yt-dlp-gui](../repos/imsyy/yt-dlp-gui.md) - A modern cross-platform GUI for yt-dlp. Download videos from YouTube, Bilibili, TikTok and 1000+ ...
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.516Z*
+*Last updated: 2026-08-03T22:01:17.393Z*

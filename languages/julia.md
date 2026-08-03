@@ -16,19 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 722 | 2026-08-01 | 2 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 722 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 123 | 2026-08-01 | 2 |
+| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 124 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,388 | 2026-08-02 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 1 |
+| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 2 |
 
 
 ---
@@ -43,7 +37,7 @@
 | [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | Modular, GPU-capable land surface model of the CliMA Earth System Model, designed for data-driven... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 123 | 2026-08-01 | GPU-capable global atmosphere model of the CliMA Earth System Model, designed for calibration wit... |
+| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 124 | 2026-08-01 | GPU-capable global atmosphere model of the CliMA Earth System Model, designed for calibration wit... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-differen... |
@@ -62,11 +56,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,388 | 2026-08-02 | 1 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 722 | 2026-08-01 | 2 |
-| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 123 | 2026-08-01 | 2 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 722 | 2026-08-01 | 3 |
+| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 124 | 2026-08-01 | 3 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | 2 |
 | [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 1 |
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 1 |
+| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 2 |
 
 ---
 
@@ -74,12 +68,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 2 | ⭐ 722 | 2026-08-01 | 2026-08-02 |
-| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 2 | ⭐ 123 | 2026-08-01 | 2026-08-02 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 3 | ⭐ 722 | 2026-08-01 | 2026-08-03 |
+| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 3 | ⭐ 124 | 2026-08-01 | 2026-08-03 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 2 | ⭐ 114 | 2026-08-01 | 2026-08-02 |
+| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 2 | ⭐ 46 | 2026-08-02 | 2026-08-03 |
 | [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | 1 | ⭐ 73 | 2026-08-01 | 2026-08-01 |
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 1 | ⭐ 1,388 | 2026-08-02 | 2026-08-02 |
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 1 | ⭐ 46 | 2026-08-02 | 2026-08-02 |
 
 ---
 
@@ -94,4 +88,4 @@
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.492Z*
+*Last updated: 2026-08-03T22:01:17.366Z*

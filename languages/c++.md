@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 27
+- **Total Repositories**: 42
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-02
+- **Last Updated**: 2026-08-03
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,290 | 2026-08-01 | 2 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,586 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,463 | 2026-08-01 | 2 |
+| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,282 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,146 | 2026-08-01 | 2 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 9,627 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lightvector/KataGo](../repos/lightvector/KataGo.md) | ⭐ 4,902 | 2026-08-01 | 2 |
+| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,226 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 114,953 | 2026-08-01 | 2 |
+| [official-stockfish/Stockfish](../repos/official-stockfish/Stockfish.md) | ⭐ 16,219 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | ⭐ 11,217 | 2026-08-01 | 2 |
+| [doitsujin/dxvk](../repos/doitsujin/dxvk.md) | ⭐ 17,774 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,255 | 2026-08-02 | 1 |
+| [CleverRaven/Cataclysm-DDA](../repos/CleverRaven/Cataclysm-DDA.md) | ⭐ 12,850 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 28,617 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sz3/libcimbar](../repos/sz3/libcimbar.md) | ⭐ 6,277 | 2026-08-02 | 1 |
+| [TrinityCore/TrinityCore](../repos/TrinityCore/TrinityCore.md) | ⭐ 10,700 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,240 | 2026-08-02 | 1 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,034 | 2026-08-03 | 1 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,290 | 2026-08-01 | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,463 | 2026-08-01 | LLM inference in C&#x2F;C++ |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,586 | 2026-08-01 | LLM inference in C&#x2F;C++ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,146 | 2026-08-01 | Asio C++ Library |
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,463 | 2026-08-01 | 2 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,586 | 2026-08-01 | 3 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,278 | 2026-08-01 | 1 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 114,953 | 2026-08-01 | 2 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,751 | 2026-08-02 | 1 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,670 | 2026-08-01 | 1 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,034 | 2026-08-03 | 1 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,240 | 2026-08-02 | 1 |
-| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,202 | 2026-08-02 | 1 |
+| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,226 | 2026-08-02 | 2 |
+| [ValveSoftware/Proton](../repos/ValveSoftware/Proton.md) | ⭐ 32,435 | 2026-08-03 | 1 |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 32,361 | 2026-08-03 | 1 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,318 | 2026-08-01 | 1 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 28,617 | 2026-08-03 | 1 |
 | [v8/v8](../repos/v8/v8.md) | ⭐ 25,159 | 2026-08-01 | 1 |
-| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,255 | 2026-08-02 | 1 |
+| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,282 | 2026-08-02 | 2 |
+| [imputnet/helium](../repos/imputnet/helium.md) | ⭐ 19,088 | 2026-08-03 | 1 |
+| [wled/WLED](../repos/wled/WLED.md) | ⭐ 18,497 | 2026-08-03 | 1 |
+| [doitsujin/dxvk](../repos/doitsujin/dxvk.md) | ⭐ 17,774 | 2026-08-03 | 1 |
 | [espressif/arduino-esp32](../repos/espressif/arduino-esp32.md) | ⭐ 17,159 | 2026-08-01 | 1 |
-| [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | ⭐ 15,601 | 2026-08-02 | 1 |
-| [assimp/assimp](../repos/assimp/assimp.md) | ⭐ 13,101 | 2026-08-01 | 1 |
-| [nasa/fprime](../repos/nasa/fprime.md) | ⭐ 11,610 | 2026-08-02 | 1 |
-| [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | ⭐ 11,217 | 2026-08-01 | 2 |
-| [google/benchmark](../repos/google/benchmark.md) | ⭐ 10,322 | 2026-08-01 | 1 |
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 9,615 | 2026-08-02 | 1 |
-| [UZ-SLAMLab/ORB_SLAM3](../repos/UZ-SLAMLab/ORB_SLAM3.md) | ⭐ 8,894 | 2026-08-01 | 1 |
-| [sz3/libcimbar](../repos/sz3/libcimbar.md) | ⭐ 6,277 | 2026-08-02 | 1 |
+| [ceph/ceph](../repos/ceph/ceph.md) | ⭐ 16,892 | 2026-08-03 | 1 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 3 | ⭐ 122,586 | 2026-08-01 | 2026-08-03 |
 | [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | 2 | ⭐ 5,290 | 2026-08-01 | 2026-08-02 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 2 | ⭐ 122,463 | 2026-08-01 | 2026-08-02 |
 | [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | 2 | ⭐ 6,146 | 2026-08-01 | 2026-08-02 |
 | [lightvector/KataGo](../repos/lightvector/KataGo.md) | 2 | ⭐ 4,902 | 2026-08-01 | 2026-08-02 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 2 | ⭐ 114,953 | 2026-08-01 | 2026-08-02 |
 | [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | 2 | ⭐ 11,217 | 2026-08-01 | 2026-08-02 |
+| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | 2 | ⭐ 22,282 | 2026-08-02 | 2026-08-03 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 2 | ⭐ 9,627 | 2026-08-02 | 2026-08-03 |
+| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | 2 | ⭐ 39,226 | 2026-08-02 | 2026-08-03 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 1 | ⭐ 448 | 2026-08-01 | 2026-08-01 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 1 | ⭐ 71,670 | 2026-08-01 | 2026-08-01 |
-| [gem5/gem5](../repos/gem5/gem5.md) | 1 | ⭐ 2,737 | 2026-08-01 | 2026-08-01 |
-| [gabime/spdlog](../repos/gabime/spdlog.md) | 1 | ⭐ 29,318 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -157,7 +157,22 @@
 - [nasa/fprime](../repos/nasa/fprime.md) - F´ - A flight software and embedded systems framework
 - [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) - Bitcoin Core integration&#x2F;staging tree
+- [official-stockfish/Stockfish](../repos/official-stockfish/Stockfish.md) - A free and strong UCI chess engine
+- [doitsujin/dxvk](../repos/doitsujin/dxvk.md) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux &#x2F; Wine
+- [CleverRaven/Cataclysm-DDA](../repos/CleverRaven/Cataclysm-DDA.md) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+- [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) - An MCP-based chatbot | 一个基于MCP的聊天机器人
+- [TrinityCore/TrinityCore](../repos/TrinityCore/TrinityCore.md) - TrinityCore Open Source MMO Framework (master &#x3D; 12.0.7.68887, 3.3.5 &#x3D; 3.3.5a.12340, cata classic ...
+- [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) - ClickHouse® is a real-time analytics database management system
+- [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) - Complete Open Source and Modular solution for MMO
+- [ValveSoftware/Proton](../repos/ValveSoftware/Proton.md) - Compatibility tool for Steam Play based on Wine and additional components
+- [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
+- [wled/WLED](../repos/wled/WLED.md) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
+- [luau-lang/luau](../repos/luau-lang/luau.md) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
+- [imputnet/helium](../repos/imputnet/helium.md) - Private, fast, and honest web browser
+- [OpenRCT2/OpenRCT2](../repos/OpenRCT2/OpenRCT2.md) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
+- [stenzek/duckstation](../repos/stenzek/duckstation.md) - Fast PlayStation 1 emulator for x86-64&#x2F;AArch32&#x2F;AArch64&#x2F;RV64
+- [ceph/ceph](../repos/ceph/ceph.md) - Ceph is a distributed object, block, and file storage platform 
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.475Z*
+*Last updated: 2026-08-03T22:01:17.347Z*

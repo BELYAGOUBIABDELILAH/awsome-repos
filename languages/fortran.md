@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 12
+- **Total Repositories**: 13
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-02
+- **Last Updated**: 2026-08-03
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 436 | 2026-08-01 | 2 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 436 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,882 | 2026-08-02 | 1 |
+| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 857 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 1 |
+| [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,883 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GEOS-ESM/GOCART](../repos/GEOS-ESM/GOCART.md) | ⭐ 27 | 2026-08-02 | 1 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 129 | 2026-08-02 | 1 |
+| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 129 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ecmwf/fckit](../repos/ecmwf/fckit.md) | ⭐ 48 | 2026-08-02 | 1 |
+| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 401 | 2026-08-03 | 1 |
 
 
 ---
@@ -49,7 +49,7 @@
 | [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | ⭐ 26 | 2026-08-01 | LFRic Infrastructure |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 856 | 2026-08-01 | Fire Dynamics Simulator |
+| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 857 | 2026-08-01 | Fire Dynamics Simulator |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,173 | 2026-08-01 | Quantum chemistry and solid state physics software package |
@@ -61,7 +61,7 @@
 | [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,882 | 2026-08-02 | LAPACK development repository |
+| [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,883 | 2026-08-02 | LAPACK development repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | Model Coupling Tookit |
@@ -76,13 +76,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,882 | 2026-08-02 | 1 |
+| [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,883 | 2026-08-02 | 2 |
 | [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,173 | 2026-08-01 | 1 |
 | [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 942 | 2026-08-01 | 1 |
-| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 856 | 2026-08-01 | 1 |
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 436 | 2026-08-01 | 2 |
-| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 129 | 2026-08-02 | 1 |
-| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 1 |
+| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 857 | 2026-08-01 | 2 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 436 | 2026-08-01 | 3 |
+| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 401 | 2026-08-03 | 1 |
+| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 129 | 2026-08-02 | 2 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 2 |
 | [ecmwf/fckit](../repos/ecmwf/fckit.md) | ⭐ 48 | 2026-08-02 | 1 |
 | [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | 1 |
 | [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | ⭐ 31 | 2026-08-01 | 1 |
@@ -95,16 +96,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 2 | ⭐ 436 | 2026-08-01 | 2026-08-02 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 3 | ⭐ 436 | 2026-08-01 | 2026-08-03 |
+| [firemodels/fds](../repos/firemodels/fds.md) | 2 | ⭐ 857 | 2026-08-01 | 2026-08-03 |
+| [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | 2 | ⭐ 1,883 | 2026-08-02 | 2026-08-03 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | 2 | ⭐ 54 | 2026-08-02 | 2026-08-03 |
+| [NGEET/fates](../repos/NGEET/fates.md) | 2 | ⭐ 129 | 2026-08-02 | 2026-08-03 |
 | [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | 1 | ⭐ 31 | 2026-08-01 | 2026-08-01 |
 | [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | 1 | ⭐ 26 | 2026-08-01 | 2026-08-01 |
-| [firemodels/fds](../repos/firemodels/fds.md) | 1 | ⭐ 856 | 2026-08-01 | 2026-08-01 |
 | [cp2k/cp2k](../repos/cp2k/cp2k.md) | 1 | ⭐ 1,173 | 2026-08-01 | 2026-08-01 |
 | [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | 1 | ⭐ 942 | 2026-08-01 | 2026-08-01 |
 | [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | 1 | ⭐ 43 | 2026-08-01 | 2026-08-01 |
-| [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | 1 | ⭐ 1,882 | 2026-08-02 | 2026-08-02 |
-| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | 1 | ⭐ 54 | 2026-08-02 | 2026-08-02 |
-| [GEOS-ESM/GOCART](../repos/GEOS-ESM/GOCART.md) | 1 | ⭐ 27 | 2026-08-02 | 2026-08-02 |
 
 ---
 
@@ -122,7 +123,8 @@
 - [GEOS-ESM/GOCART](../repos/GEOS-ESM/GOCART.md) - GOCART Aerosol model including process library and framework interfaces (MAPL, NUOPC, and CCPP)
 - [NGEET/fates](../repos/NGEET/fates.md) - repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)
 - [ecmwf/fckit](../repos/ecmwf/fckit.md) - A Fortran toolkit for interoperating Fortran with C&#x2F;C++
+- [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) - Collection of builder repositories for BinaryBuilder.jl
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.486Z*
+*Last updated: 2026-08-03T22:01:17.358Z*

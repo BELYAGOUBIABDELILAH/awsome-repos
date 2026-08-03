@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 53
+- **Total Repositories**: 73
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-08-01
-- **Average Stars**: 22878
+- **Average Stars**: 22674
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 114,953 | C++ |  |
+| [decidim/decidim](../repos/decidim/decidim.md) | ⭐ 1,798 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | ⭐ 11,217 | C++ |  |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,710 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,667 | Ruby |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,780 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,201 | Ruby |  |
+| [BeamMP/BeamMP](../repos/BeamMP/BeamMP.md) | ⭐ 504 | Lua |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,709 | Ruby |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,237 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,767 | Scala |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,214 | Clojure |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,091 | OCaml |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,096 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,502 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 953 | Zig |  |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 956 | Zig |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [PixelGuys/Cubyz](../repos/PixelGuys/Cubyz.md) | ⭐ 3,599 | Zig |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,850 | Assembly |  |
 
 
 ---
@@ -56,13 +56,13 @@
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 177,455 | Go | 2026-08-01 | 1 |
 | [golang/go](../repos/golang/go.md) | ⭐ 118,600 | Go | 2026-07-31 | 1 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 114,953 | C++ | 2026-08-01 | 2 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,436 | C | 2026-08-02 | 1 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,214 | Clojure | 2026-08-01 | 2 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,767 | Scala | 2026-08-01 | 2 |
+| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,298 | Go | 2026-08-03 | 1 |
+| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,616 | Go | 2026-08-03 | 1 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,477 | C | 2026-08-02 | 2 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,237 | Clojure | 2026-08-01 | 3 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,780 | Scala | 2026-08-01 | 3 |
 | [vim/vim](../repos/vim/vim.md) | ⭐ 40,691 | Vim Script | 2026-08-01 | 2 |
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,771 | V | 2026-08-01 | 2 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,172 | Go | 2026-08-01 | 1 |
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,303 | C | 2026-08-02 | 1 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,778 | V | 2026-08-01 | 3 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-03](../archive/2026/08/2026-08-03.md)
+- 42 repositories trending
+- Top: gohugoio&#x2F;hugo
+
 ### [2026-08-02](../archive/2026/08/2026-08-02.md)
 - 33 repositories trending
 - Top: godotengine&#x2F;godot
@@ -159,31 +163,31 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [godotengine/godot](../repos/godotengine/godot.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [ruby/ruby](../repos/ruby/ruby.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [apache/spark](../repos/apache/spark.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [apache/spark](../repos/apache/spark.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [pret/pokered](../repos/pret/pokered.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [pret/pokecrystal](../repos/pret/pokecrystal.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [vlang/v](../repos/vlang/v.md) | 3 days | 2026-08-01 | 2026-08-03 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 7 repositories (13%)
-- **C**: 7 repositories (13%)
-- **C#**: 6 repositories (11%)
-- **Ruby**: 4 repositories (8%)
-- **C++**: 3 repositories (6%)
+- **Go**: 12 repositories (16%)
+- **C++**: 9 repositories (12%)
+- **C**: 9 repositories (12%)
+- **C#**: 7 repositories (10%)
+- **Ruby**: 4 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 22.7 repositories
-- **Peak Day**: 2026-08-01 (34 repositories)
+- **Daily Average**: 27.5 repositories
+- **Peak Day**: 2026-08-03 (42 repositories)
 - **Growth Rate**: 100% this month
 
 ---
@@ -248,7 +252,27 @@
 - [rstudio/shiny](../repos/rstudio/shiny.md) - Easy interactive web applications with R
 - [facebook/infer](../repos/facebook/infer.md) - A static analyzer for Java, C, C++, and Objective-C
 - [Vexu/arocc](../repos/Vexu/arocc.md) - A modern fully featured C compiler.
+- [4ian/GDevelop](../repos/4ian/GDevelop.md) - 🎮 Open-source, cross-platform 2D&#x2F;3D&#x2F;multiplayer game engine designed for everyone.
+- [NodeBB/NodeBB](../repos/NodeBB/NodeBB.md) - Node.js based forum software built for the modern web
+- [is-a-dev/register](../repos/is-a-dev/register.md) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain.
+- [gfx-rs/wgpu](../repos/gfx-rs/wgpu.md) - A cross-platform, safe, pure-Rust graphics API.
+- [restic/restic](../repos/restic/restic.md) - Fast, secure, efficient backup program
+- [micro/go-micro](../repos/micro/go-micro.md) - A Go agent harness and service framework
+- [pulumi/pulumi](../repos/pulumi/pulumi.md) - Pulumi - Infrastructure as Code in any programming language 🚀
+- [caddyserver/caddy](../repos/caddyserver/caddy.md) - Fast and extensible multi-platform HTTP&#x2F;1-2-3 web server with automatic HTTPS
+- [gohugoio/hugo](../repos/gohugoio/hugo.md) - The world’s fastest framework for building websites.
+- [doitsujin/dxvk](../repos/doitsujin/dxvk.md) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux &#x2F; Wine
+- [CleverRaven/Cataclysm-DDA](../repos/CleverRaven/Cataclysm-DDA.md) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+- [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) - Complete Open Source and Modular solution for MMO
+- [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
+- [OpenRCT2/OpenRCT2](../repos/OpenRCT2/OpenRCT2.md) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
+- [stenzek/duckstation](../repos/stenzek/duckstation.md) - Fast PlayStation 1 emulator for x86-64&#x2F;AArch32&#x2F;AArch64&#x2F;RV64
+- [mgba-emu/mgba](../repos/mgba-emu/mgba.md) - mGBA Game Boy Advance Emulator
+- [systemd/systemd](../repos/systemd/systemd.md) - The systemd System and Service Manager 
+- [killkimno/MORT](../repos/killkimno/MORT.md) - MORT 번역기 프로젝트 - Real-time game translator with OCR
+- [esmuellert/codediff.nvim](../repos/esmuellert/codediff.nvim.md) - VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level...
+- [halogenandtoast/ArkhamHorror](../repos/halogenandtoast/ArkhamHorror.md) - An unofficial rules-compliant browser based version of Arkham Horror: The Card Game. Not produced...
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.384Z*
+*Last updated: 2026-08-03T22:01:17.260Z*

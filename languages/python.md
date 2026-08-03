@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 31
+- **Total Repositories**: 40
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-01
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 56,866 | 2026-08-01 | 2 |
+| [microsoft/TRELLIS.2](../repos/microsoft/TRELLIS.2.md) | ⭐ 10,305 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | 2026-08-01 | 2 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 224,853 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 224,296 | 2026-08-01 | 2 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 65,645 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 64,664 | 2026-08-01 | 2 |
+| [abus-aikorea/voice-pro](../repos/abus-aikorea/voice-pro.md) | ⭐ 12,019 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [abus-aikorea/voice-pro](../repos/abus-aikorea/voice-pro.md) | ⭐ 11,977 | 2026-08-02 | 1 |
+| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 45,782 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Huanshere/VideoLingo](../repos/Huanshere/VideoLingo.md) | ⭐ 18,020 | 2026-08-02 | 1 |
+| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 79,146 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 45,718 | 2026-08-02 | 1 |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,155 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 78,978 | 2026-08-02 | 1 |
+| [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 78,730 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,002 | 2026-08-02 | 1 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 360,473 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ccxt/ccxt](../repos/ccxt/ccxt.md) | ⭐ 43,493 | 2026-08-02 | 1 |
+| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 35,802 | 2026-08-03 | 1 |
 
 
 ---
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 453,833 | 2026-08-01 | 1 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 224,296 | 2026-08-01 | 2 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 360,473 | 2026-08-03 | 1 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 224,853 | 2026-08-01 | 3 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | 2026-07-30 | 4 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 182,027 | 2026-08-02 | 1 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | 2026-07-31 | 2 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 101,806 | 2026-08-03 | 1 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | 2026-08-01 | 2 |
-| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,002 | 2026-08-02 | 1 |
-| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 78,978 | 2026-08-02 | 1 |
-| [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 78,675 | 2026-08-02 | 1 |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,155 | 2026-08-02 | 2 |
+| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 79,146 | 2026-08-02 | 2 |
+| [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 78,730 | 2026-08-02 | 2 |
 | [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | 2026-08-10 | 1 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 75,000 | 2026-07-30 | 1 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 64,664 | 2026-08-01 | 2 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 65,645 | 2026-08-01 | 3 |
 | [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 56,866 | 2026-08-01 | 2 |
 | [microsoft/VibeVoice](../repos/microsoft/VibeVoice.md) | ⭐ 51,708 | 2026-08-01 | 1 |
-| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 45,718 | 2026-08-02 | 1 |
+| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 45,782 | 2026-08-02 | 2 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 44,003 | 2026-08-03 | 1 |
 | [ccxt/ccxt](../repos/ccxt/ccxt.md) | ⭐ 43,493 | 2026-08-02 | 1 |
-| [fishaudio/fish-speech](../repos/fishaudio/fish-speech.md) | ⭐ 31,852 | 2026-08-01 | 1 |
-| [langchain-ai/deepagents](../repos/langchain-ai/deepagents.md) | ⭐ 27,168 | 2026-08-01 | 1 |
-| [PrefectHQ/prefect](../repos/PrefectHQ/prefect.md) | ⭐ 23,533 | 2026-08-02 | 1 |
 
 ---
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [openai/whisper](../repos/openai/whisper.md) | 5 | ⭐ 106,298 | 2026-07-31 | 2026-08-01 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 4 | ⭐ 183,200 | 2026-07-30 | 2026-08-05 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 3 | ⭐ 224,853 | 2026-08-01 | 2026-08-03 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 3 | ⭐ 65,645 | 2026-08-01 | 2026-08-03 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | 2 | ⭐ 128,800 | 2026-07-31 | 2026-08-04 |
 | [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | 2 | ⭐ 56,866 | 2026-08-01 | 2026-08-02 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 2 | ⭐ 101,196 | 2026-08-01 | 2026-08-02 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 2 | ⭐ 224,296 | 2026-08-01 | 2026-08-02 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 2 | ⭐ 64,664 | 2026-08-01 | 2026-08-02 |
-| [pytorch/pytorch](../repos/pytorch/pytorch.md) | 1 | ⭐ 75,000 | 2026-07-30 | 2026-07-30 |
-| [anthropics/anthropic-sdk-python](../repos/anthropics/anthropic-sdk-python.md) | 1 | ⭐ 1,250 | 2026-07-31 | 2026-07-31 |
-| [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | 1 | ⭐ 75,200 | 2026-08-10 | 2026-08-10 |
+| [microsoft/TRELLIS.2](../repos/microsoft/TRELLIS.2.md) | 2 | ⭐ 10,305 | 2026-08-01 | 2026-08-03 |
+| [abus-aikorea/voice-pro](../repos/abus-aikorea/voice-pro.md) | 2 | ⭐ 12,019 | 2026-08-02 | 2026-08-03 |
+| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | 2 | ⭐ 45,782 | 2026-08-02 | 2026-08-03 |
 
 ---
 
@@ -161,7 +161,16 @@
 - [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) - A feature-rich command-line audio&#x2F;video downloader
 - [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) - ALL IN ONE Hacking Tool For Hackers
 - [PrefectHQ/prefect](../repos/PrefectHQ/prefect.md) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+- [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...
+- [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) - Kronos: A Foundation Model for the Language of Financial Markets
+- [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voic...
+- [livekit/agents](../repos/livekit/agents.md) - A framework for building realtime voice AI agents 🤖🎙️📹 
+- [comet-ml/opik](../repos/comet-ml/opik.md) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with compr...
+- [jamwithai/production-agentic-rag-course](../repos/jamwithai/production-agentic-rag-course.md) - 
+- [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+...
+- [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...
+- [PostHog/posthog](../repos/PostHog/posthog.md) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tool...
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.503Z*
+*Last updated: 2026-08-03T22:01:17.378Z*

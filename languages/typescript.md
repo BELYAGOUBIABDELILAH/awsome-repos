@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 31
+- **Total Repositories**: 35
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-10
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 20,293 | 2026-08-01 | 2 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 11,999 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 10,968 | 2026-08-01 | 2 |
+| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 34,225 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/checkout](../repos/actions/checkout.md) | ⭐ 8,588 | 2026-08-02 | 1 |
+| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 48,617 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Narcooo/inkos](../repos/Narcooo/inkos.md) | ⭐ 8,631 | 2026-08-02 | 1 |
+| [simstudioai/sim](../repos/simstudioai/sim.md) | ⭐ 29,313 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 34,168 | 2026-08-02 | 1 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 21,564 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 48,212 | 2026-08-02 | 1 |
+| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NateBJones-Projects/OB1](../repos/NateBJones-Projects/OB1.md) | ⭐ 4,366 | 2026-08-02 | 1 |
+| [karakeep-app/karakeep](../repos/karakeep-app/karakeep.md) | ⭐ 28,063 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nrwl/nx](../repos/nrwl/nx.md) | ⭐ 29,171 | 2026-08-02 | 1 |
+| [darkreader/darkreader](../repos/darkreader/darkreader.md) | ⭐ 22,236 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 125,928 | 2026-08-02 | 1 |
+| [meshery/meshery](../repos/meshery/meshery.md) | ⭐ 11,424 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CyberTimon/RapidRAW](../repos/CyberTimon/RapidRAW.md) | ⭐ 9,099 | 2026-08-02 | 1 |
+| [CodebuffAI/codebuff](../repos/CodebuffAI/codebuff.md) | ⭐ 8,262 | 2026-08-03 | 1 |
 
 
 ---
@@ -67,7 +67,7 @@
 | [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,501 | 2026-08-01 | Cursor plugin specification and official plugins |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 10,968 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 11,999 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 46,198 | 2026-08-01 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring... |
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 156,600 | 2026-07-30 | 4 |
-| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,010 | 2026-08-02 | 1 |
+| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 125,928 | 2026-08-02 | 1 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 75,438 | 2026-08-02 | 1 |
 | [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | ⭐ 75,400 | 2026-07-31 | 1 |
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | 2026-08-01 | 1 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 52,300 | 2026-07-31 | 1 |
+| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 48,617 | 2026-08-02 | 2 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 48,282 | 2026-08-01 | 1 |
-| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 48,212 | 2026-08-02 | 1 |
 | [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 46,198 | 2026-08-01 | 1 |
 | [portainer/portainer](../repos/portainer/portainer.md) | ⭐ 38,100 | 2026-08-01 | 1 |
 | [continuedev/continue](../repos/continuedev/continue.md) | ⭐ 35,246 | 2026-08-01 | 1 |
-| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 34,168 | 2026-08-02 | 1 |
-| [simstudioai/sim](../repos/simstudioai/sim.md) | ⭐ 29,301 | 2026-08-02 | 1 |
+| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 34,225 | 2026-08-02 | 2 |
+| [simstudioai/sim](../repos/simstudioai/sim.md) | ⭐ 29,313 | 2026-08-02 | 2 |
 | [nrwl/nx](../repos/nrwl/nx.md) | ⭐ 29,171 | 2026-08-02 | 1 |
+| [karakeep-app/karakeep](../repos/karakeep-app/karakeep.md) | ⭐ 28,063 | 2026-08-03 | 1 |
 | [fingerprintjs/fingerprintjs](../repos/fingerprintjs/fingerprintjs.md) | ⭐ 28,015 | 2026-08-01 | 1 |
 | [google-labs-code/design.md](../repos/google-labs-code/design.md.md) | ⭐ 26,813 | 2026-08-01 | 1 |
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 21,275 | 2026-08-02 | 1 |
-| [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 20,293 | 2026-08-01 | 2 |
+| [darkreader/darkreader](../repos/darkreader/darkreader.md) | ⭐ 22,236 | 2026-08-03 | 1 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 4 | ⭐ 156,600 | 2026-07-30 | 2026-08-10 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 3 | ⭐ 11,999 | 2026-08-01 | 2026-08-03 |
 | [different-ai/openwork](../repos/different-ai/openwork.md) | 2 | ⭐ 20,293 | 2026-08-01 | 2026-08-02 |
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 2 | ⭐ 10,968 | 2026-08-01 | 2026-08-02 |
+| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | 2 | ⭐ 34,225 | 2026-08-02 | 2026-08-03 |
+| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | 2 | ⭐ 48,617 | 2026-08-02 | 2026-08-03 |
+| [simstudioai/sim](../repos/simstudioai/sim.md) | 2 | ⭐ 29,313 | 2026-08-02 | 2026-08-03 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 2 | ⭐ 21,564 | 2026-08-02 | 2026-08-03 |
+| [iptv-org/iptv](../repos/iptv-org/iptv.md) | 2 | ⭐ 135,054 | 2026-08-02 | 2026-08-03 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | 1 | ⭐ 52,300 | 2026-07-31 | 2026-07-31 |
 | [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | 1 | ⭐ 75,400 | 2026-07-31 | 2026-07-31 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 1 | ⭐ 2,501 | 2026-08-01 | 2026-08-01 |
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | 1 | ⭐ 46,198 | 2026-08-01 | 2026-08-01 |
-| [modelcontextprotocol/ext-apps](../repos/modelcontextprotocol/ext-apps.md) | 1 | ⭐ 2,653 | 2026-08-01 | 2026-08-01 |
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 1 | ⭐ 48,282 | 2026-08-01 | 2026-08-01 |
-| [google-labs-code/design.md](../repos/google-labs-code/design.md.md) | 1 | ⭐ 26,813 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -161,7 +161,11 @@
 - [simstudioai/sim](../repos/simstudioai/sim.md) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workf...
 - [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, b...
 - [iptv-org/iptv](../repos/iptv-org/iptv.md) - Collection of publicly available IPTV channels from all over the world
+- [karakeep-app/karakeep](../repos/karakeep-app/karakeep.md) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging...
+- [darkreader/darkreader](../repos/darkreader/darkreader.md) - Dark Reader Chrome and Firefox extension
+- [meshery/meshery](../repos/meshery/meshery.md) - Meshery, the cloud native manager
+- [CodebuffAI/codebuff](../repos/CodebuffAI/codebuff.md) - Generate code from the terminal!
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.511Z*
+*Last updated: 2026-08-03T22:01:17.387Z*

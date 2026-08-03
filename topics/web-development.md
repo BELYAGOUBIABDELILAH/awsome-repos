@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 88
+- **Total Repositories**: 114
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-05
-- **Average Stars**: 29044
+- **Last Updated**: 2026-08-03
+- **Average Stars**: 29774
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 56,866 | Python |  |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 65,645 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 64,664 | Python |  |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 15,747 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,667 | Ruby |  |
+| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,276 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,767 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,780 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,073 | Dart |  |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,161 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,091 | OCaml |  |
+| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,942 | Haskell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,539 | Perl |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,096 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,238 | Vue |  |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,543 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,021 | Vue |  |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,704 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,691 | Vim Script |  |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,075 | Vue |  |
 
 
 ---
@@ -53,16 +53,16 @@
 
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 360,473 | Python | 2026-08-03 | 1 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,073 | Dart | 2026-08-01 | 2 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,161 | Dart | 2026-08-01 | 3 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,278 | C++ | 2026-08-01 | 1 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 118,250 | JavaScript | 2026-07-30 | 3 |
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,306 | Shell | 2026-08-01 | 1 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | TypeScript | 2026-08-02 | 1 |
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,238 | Vue | 2026-08-01 | 2 |
-| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 78,978 | Python | 2026-08-02 | 1 |
-| [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 78,675 | Python | 2026-08-02 | 1 |
-| [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | Rust | 2026-07-30 | 3 |
+| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 79,146 | Python | 2026-08-02 | 2 |
+| [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 78,730 | Python | 2026-08-02 | 2 |
 
 ---
 
@@ -85,7 +85,7 @@
 | [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 56,866 | Python | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 64,664 | Python | 2 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 65,645 | Python | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,535 | JavaScript | 1 |
@@ -120,7 +120,7 @@
 | [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 56,866 | Python | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 64,664 | Python | 2026-08-01 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 65,645 | Python | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,535 | JavaScript | 2026-08-01 |
@@ -137,6 +137,10 @@
 ---
 
 ## 📅 Recent History
+
+### [2026-08-03](../archive/2026/08/2026-08-03.md)
+- 53 repositories trending
+- Top: donnemartin&#x2F;system-design-primer
 
 ### [2026-08-02](../archive/2026/08/2026-08-02.md)
 - 44 repositories trending
@@ -166,28 +170,28 @@
 | [facebook/react](../repos/facebook/react.md) | 3 days | 2026-07-30 | 2026-08-05 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 3 days | 2026-07-30 | 2026-08-10 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | 3 days | 2026-07-30 | 2026-08-05 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [apache/spark](../repos/apache/spark.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [flutter/flutter](../repos/flutter/flutter.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [vlang/v](../repos/vlang/v.md) | 3 days | 2026-08-01 | 2026-08-03 |
 | [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [ruby/ruby](../repos/ruby/ruby.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [apache/spark](../repos/apache/spark.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [flutter/flutter](../repos/flutter/flutter.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 2 days | 2026-08-01 | 2026-08-02 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Vue**: 14 repositories (16%)
-- **C**: 8 repositories (9%)
-- **TypeScript**: 7 repositories (8%)
-- **Go**: 6 repositories (7%)
-- **Rust**: 5 repositories (6%)
+- **Vue**: 18 repositories (16%)
+- **Go**: 10 repositories (9%)
+- **TypeScript**: 9 repositories (8%)
+- **C**: 9 repositories (8%)
+- **Rust**: 8 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 17.5 repositories
-- **Peak Day**: 2026-08-01 (51 repositories)
+- **Daily Average**: 22.6 repositories
+- **Peak Day**: 2026-08-03 (53 repositories)
 - **Growth Rate**: 100% this month
 
 ---
@@ -287,7 +291,19 @@
 - [vuejs/docs](../repos/vuejs/docs.md) - 📄 Documentation for Vue 3
 - [unovue/reka-ui](../repos/unovue/reka-ui.md) - An open-source UI component library for building high-quality, accessible design systems and web ...
 - [Vexu/arocc](../repos/Vexu/arocc.md) - A modern fully featured C compiler.
+- [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects ...
+- [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...
+- [PostHog/posthog](../repos/PostHog/posthog.md) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tool...
+- [NodeBB/NodeBB](../repos/NodeBB/NodeBB.md) - Node.js based forum software built for the modern web
+- [is-a-dev/register](../repos/is-a-dev/register.md) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain.
+- [validatorjs/validator.js](../repos/validatorjs/validator.js.md) - String validation
+- [karakeep-app/karakeep](../repos/karakeep-app/karakeep.md) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging...
+- [meshery/meshery](../repos/meshery/meshery.md) - Meshery, the cloud native manager
+- [bytecodealliance/wasmtime](../repos/bytecodealliance/wasmtime.md) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+- [gfx-rs/wgpu](../repos/gfx-rs/wgpu.md) - A cross-platform, safe, pure-Rust graphics API.
+- [authelia/authelia](../repos/authelia/authelia.md) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [chaitin/SafeLine](../repos/chaitin/SafeLine.md) - SafeLine is a self-hosted WAF(Web Application Firewall) &#x2F; reverse proxy to protect your web apps ...
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.361Z*
+*Last updated: 2026-08-03T22:01:17.232Z*

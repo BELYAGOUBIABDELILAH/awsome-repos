@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 15
+- **Total Repositories**: 17
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-01
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 11,972 | 2026-08-01 | 2 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 11,979 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,139 | 2026-08-01 | 2 |
+| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,142 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 915 | 2026-08-01 | 2 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 915 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,397 | 2026-08-01 | 2 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,397 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,376 | 2026-08-01 | 2 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,378 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vinceliuice/Orchis-theme](../repos/vinceliuice/Orchis-theme.md) | ⭐ 4,038 | 2026-08-02 | 1 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,022 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,317 | 2026-08-02 | 1 |
+| [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) | ⭐ 17,233 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 20,842 | 2026-08-02 | 1 |
+| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,414 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZoranPandovski/awesome-testing-tools](../repos/ZoranPandovski/awesome-testing-tools.md) | ⭐ 364 | 2026-08-02 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) | ⭐ 5,959 | 2026-08-02 | 1 |
+| [Jenqyang/Awesome-AI-Agents](../repos/Jenqyang/Awesome-AI-Agents.md) | ⭐ 1,194 | 2026-08-03 | 1 |
 
 
 ---
@@ -52,13 +49,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 11,972 | 2026-08-01 | Welcome to the page where you will find each trick&#x2F;technique&#x2F;whatever I have learnt in CTFs, real... |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 11,979 | 2026-08-01 | Welcome to the page where you will find each trick&#x2F;technique&#x2F;whatever I have learnt in CTFs, real... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,539 | 2026-08-01 | A modern alternative to CSS resets |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,139 | 2026-08-01 | MacOS like theme for all gtk based desktops |
+| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,142 | 2026-08-01 | MacOS like theme for all gtk based desktops |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 915 | 2026-08-01 | Documentation for GX mods |
@@ -70,7 +67,7 @@
 | [rk192324217/cubosapiens_world-tools](../repos/rk192324217/cubosapiens_world-tools.md) | ⭐ 21 | 2026-08-01 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,376 | 2026-08-01 |  |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,378 | 2026-08-01 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sapthesh/Birthday](../repos/sapthesh/Birthday.md) | ⭐ 150 | 2026-08-01 | The Customizable Birthday Web Template is a versatile and user-friendly website template designed... |
@@ -90,16 +87,18 @@
 |------------|-------|------------|---------------|
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,539 | 2026-08-01 | 1 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 20,842 | 2026-08-02 | 1 |
-| [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) | ⭐ 17,203 | 2026-08-02 | 1 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 11,972 | 2026-08-01 | 2 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,003 | 2026-08-02 | 1 |
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,139 | 2026-08-01 | 2 |
+| [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) | ⭐ 17,233 | 2026-08-02 | 2 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 11,979 | 2026-08-01 | 3 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,022 | 2026-08-02 | 2 |
+| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,142 | 2026-08-01 | 3 |
+| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,414 | 2026-08-03 | 1 |
 | [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) | ⭐ 5,959 | 2026-08-02 | 1 |
 | [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,317 | 2026-08-02 | 1 |
 | [vinceliuice/Orchis-theme](../repos/vinceliuice/Orchis-theme.md) | ⭐ 4,038 | 2026-08-02 | 1 |
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,397 | 2026-08-01 | 2 |
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,376 | 2026-08-01 | 2 |
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 915 | 2026-08-01 | 2 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,397 | 2026-08-01 | 3 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,378 | 2026-08-01 | 3 |
+| [Jenqyang/Awesome-AI-Agents](../repos/Jenqyang/Awesome-AI-Agents.md) | ⭐ 1,194 | 2026-08-03 | 1 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 915 | 2026-08-01 | 3 |
 | [ZoranPandovski/awesome-testing-tools](../repos/ZoranPandovski/awesome-testing-tools.md) | ⭐ 364 | 2026-08-02 | 1 |
 | [sapthesh/Birthday](../repos/sapthesh/Birthday.md) | ⭐ 150 | 2026-08-01 | 1 |
 | [rk192324217/cubosapiens_world-tools](../repos/rk192324217/cubosapiens_world-tools.md) | ⭐ 21 | 2026-08-01 | 1 |
@@ -110,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 2 | ⭐ 11,972 | 2026-08-01 | 2026-08-02 |
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 2 | ⭐ 9,139 | 2026-08-01 | 2026-08-02 |
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 2 | ⭐ 915 | 2026-08-01 | 2026-08-02 |
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 2 | ⭐ 1,397 | 2026-08-01 | 2026-08-02 |
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 2 | ⭐ 1,376 | 2026-08-01 | 2026-08-02 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 3 | ⭐ 11,979 | 2026-08-01 | 2026-08-03 |
+| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 3 | ⭐ 9,142 | 2026-08-01 | 2026-08-03 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 3 | ⭐ 915 | 2026-08-01 | 2026-08-03 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 3 | ⭐ 1,397 | 2026-08-01 | 2026-08-03 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 3 | ⭐ 1,378 | 2026-08-01 | 2026-08-03 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 2 | ⭐ 10,022 | 2026-08-02 | 2026-08-03 |
+| [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) | 2 | ⭐ 17,233 | 2026-08-02 | 2026-08-03 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | 1 | ⭐ 53,539 | 2026-08-01 | 2026-08-01 |
 | [rk192324217/cubosapiens_world-tools](../repos/rk192324217/cubosapiens_world-tools.md) | 1 | ⭐ 21 | 2026-08-01 | 2026-08-01 |
 | [sapthesh/Birthday](../repos/sapthesh/Birthday.md) | 1 | ⭐ 150 | 2026-08-01 | 2026-08-01 |
-| [vinceliuice/Orchis-theme](../repos/vinceliuice/Orchis-theme.md) | 1 | ⭐ 4,038 | 2026-08-02 | 2026-08-02 |
-| [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | 1 | ⭐ 5,317 | 2026-08-02 | 2026-08-02 |
 
 ---
 
@@ -140,7 +139,9 @@
 - [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) - The Missing Semester of Your CS Education 📚
 - [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) - ConardLi&#39;s open-source Skills collection, featuring web design, knowledge retrieval, image genera...
 - [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) - A Patch for GIMP 3+ for Photoshop Users
+- [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) - Build a Jekyll blog in minutes, without touching the command line.
+- [Jenqyang/Awesome-AI-Agents](../repos/Jenqyang/Awesome-AI-Agents.md) - A collection of autonomous agents 🤖️ powered by LLM.
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.476Z*
+*Last updated: 2026-08-03T22:01:17.349Z*

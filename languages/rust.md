@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 34
+- **Total Repositories**: 45
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,053 | 2026-07-30 | 3 |
+| [ankitects/anki](../repos/ankitects/anki.md) | ⭐ 29,506 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | ⭐ 12,396 | 2026-08-01 | 2 |
+| [moghtech/komodo](../repos/moghtech/komodo.md) | ⭐ 11,795 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ankitects/anki](../repos/ankitects/anki.md) | ⭐ 29,478 | 2026-08-02 | 1 |
+| [wealthfolio/wealthfolio](../repos/wealthfolio/wealthfolio.md) | ⭐ 8,470 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zeroclaw-labs/zeroclaw](../repos/zeroclaw-labs/zeroclaw.md) | ⭐ 32,484 | 2026-08-02 | 1 |
+| [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | ⭐ 13,415 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moghtech/komodo](../repos/moghtech/komodo.md) | ⭐ 11,775 | 2026-08-02 | 1 |
+| [n0-computer/iroh](../repos/n0-computer/iroh.md) | ⭐ 12,034 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wealthfolio/wealthfolio](../repos/wealthfolio/wealthfolio.md) | ⭐ 8,458 | 2026-08-02 | 1 |
+| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | ⭐ 7,975 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | ⭐ 13,406 | 2026-08-02 | 1 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 25,251 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emilk/egui](../repos/emilk/egui.md) | ⭐ 29,942 | 2026-08-02 | 1 |
+| [bytecodealliance/wasmtime](../repos/bytecodealliance/wasmtime.md) | ⭐ 18,473 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [n0-computer/iroh](../repos/n0-computer/iroh.md) | ⭐ 11,982 | 2026-08-02 | 1 |
+| [0xPlaygrounds/rig](../repos/0xPlaygrounds/rig.md) | ⭐ 8,154 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,155 | 2026-08-02 | 1 |
+| [reacherhq/check-if-email-exists](../repos/reacherhq/check-if-email-exists.md) | ⭐ 9,245 | 2026-08-03 | 1 |
 
 
 ---
@@ -92,22 +92,22 @@
 | [openai/codex](../repos/openai/codex.md) | ⭐ 102,925 | 2026-08-01 | 1 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 93,000 | 2026-07-30 | 1 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
+| [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,155 | 2026-08-02 | 1 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 39,772 | 2026-08-02 | 1 |
 | [zeroclaw-labs/zeroclaw](../repos/zeroclaw-labs/zeroclaw.md) | ⭐ 32,484 | 2026-08-02 | 1 |
 | [vercel/turborepo](../repos/vercel/turborepo.md) | ⭐ 30,836 | 2026-08-02 | 1 |
 | [googleworkspace/cli](../repos/googleworkspace/cli.md) | ⭐ 30,115 | 2026-08-01 | 1 |
 | [emilk/egui](../repos/emilk/egui.md) | ⭐ 29,942 | 2026-08-02 | 1 |
-| [ankitects/anki](../repos/ankitects/anki.md) | ⭐ 29,478 | 2026-08-02 | 1 |
+| [ankitects/anki](../repos/ankitects/anki.md) | ⭐ 29,506 | 2026-08-02 | 2 |
 | [wezterm/wezterm](../repos/wezterm/wezterm.md) | ⭐ 28,114 | 2026-08-02 | 1 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 25,251 | 2026-08-03 | 1 |
 | [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 24,959 | 2026-08-01 | 1 |
 | [tursodatabase/turso](../repos/tursodatabase/turso.md) | ⭐ 23,593 | 2026-08-01 | 1 |
+| [neondatabase/neon](../repos/neondatabase/neon.md) | ⭐ 22,747 | 2026-08-03 | 1 |
 | [huggingface/candle](../repos/huggingface/candle.md) | ⭐ 20,810 | 2026-08-01 | 1 |
 | [cube-js/cube](../repos/cube-js/cube.md) | ⭐ 20,528 | 2026-08-01 | 1 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 18,500 | 2026-07-31 | 1 |
-| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 14,605 | 2026-08-01 | 1 |
-| [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | ⭐ 13,406 | 2026-08-02 | 1 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 12,841 | 2026-08-01 | 1 |
 
 ---
 
@@ -118,13 +118,13 @@
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 3 | ⭐ 115,053 | 2026-07-30 | 2026-08-02 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | 3 | ⭐ 76,500 | 2026-07-30 | 2026-08-05 |
 | [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 2 | ⭐ 12,396 | 2026-08-01 | 2026-08-02 |
+| [ankitects/anki](../repos/ankitects/anki.md) | 2 | ⭐ 29,506 | 2026-08-02 | 2026-08-03 |
+| [moghtech/komodo](../repos/moghtech/komodo.md) | 2 | ⭐ 11,795 | 2026-08-02 | 2026-08-03 |
+| [wealthfolio/wealthfolio](../repos/wealthfolio/wealthfolio.md) | 2 | ⭐ 8,470 | 2026-08-02 | 2026-08-03 |
+| [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | 2 | ⭐ 13,415 | 2026-08-02 | 2026-08-03 |
+| [n0-computer/iroh](../repos/n0-computer/iroh.md) | 2 | ⭐ 12,034 | 2026-08-02 | 2026-08-03 |
 | [denoland/deno](../repos/denoland/deno.md) | 1 | ⭐ 93,000 | 2026-07-30 | 2026-07-30 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | 1 | ⭐ 18,500 | 2026-07-31 | 2026-07-31 |
-| [1jehuang/jcode](../repos/1jehuang/jcode.md) | 1 | ⭐ 14,605 | 2026-08-01 | 2026-08-01 |
-| [modelcontextprotocol/rust-sdk](../repos/modelcontextprotocol/rust-sdk.md) | 1 | ⭐ 3,724 | 2026-08-01 | 2026-08-01 |
-| [openai/codex](../repos/openai/codex.md) | 1 | ⭐ 102,925 | 2026-08-01 | 2026-08-01 |
-| [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | 1 | ⭐ 24,959 | 2026-08-01 | 2026-08-01 |
-| [paritytech/polkadot-sdk](../repos/paritytech/polkadot-sdk.md) | 1 | ⭐ 2,790 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -164,7 +164,18 @@
 - [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) - Browser automation CLI for AI agents
 - [wezterm/wezterm](../repos/wezterm/wezterm.md) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemente...
 - [facebook/pyrefly](../repos/facebook/pyrefly.md) - A fast type checker and language server for Python
+- [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects ...
+- [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) - Production-grade Rust-native trading engine with deterministic event-driven architecture
+- [bytecodealliance/wasmtime](../repos/bytecodealliance/wasmtime.md) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+- [0xPlaygrounds/rig](../repos/0xPlaygrounds/rig.md) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
+- [reacherhq/check-if-email-exists](../repos/reacherhq/check-if-email-exists.md) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP...
+- [neondatabase/neon](../repos/neondatabase/neon.md) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like datab...
+- [rust-lang/rustlings](../repos/rust-lang/rustlings.md) - :crab: Small exercises to get you used to reading and writing Rust code!
+- [rust-lang/cargo](../repos/rust-lang/cargo.md) - The Rust package manager
+- [gfx-rs/wgpu](../repos/gfx-rs/wgpu.md) - A cross-platform, safe, pure-Rust graphics API.
+- [katanemo/plano](../repos/katanemo/plano.md) - Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observabil...
+- [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph r...
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.505Z*
+*Last updated: 2026-08-03T22:01:17.381Z*

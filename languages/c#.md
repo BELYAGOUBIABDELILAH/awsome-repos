@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 28
+- **Total Repositories**: 36
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 24,292 | 2026-08-01 | 2 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,592 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,340 | 2026-08-01 | 2 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 14,498 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 13,703 | 2026-08-01 | 2 |
+| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,834 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 112,855 | 2026-08-02 | 1 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,344 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 14,231 | 2026-08-02 | 1 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,505 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,830 | 2026-08-02 | 1 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 4,900 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,523 | 2026-08-02 | 1 |
+| [zhongkaifu/TensorSharp](../repos/zhongkaifu/TensorSharp.md) | ⭐ 311 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 4,647 | 2026-08-02 | 1 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,345 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,299 | 2026-08-02 | 1 |
+| [OhKannaDuh/BOCCHI](../repos/OhKannaDuh/BOCCHI.md) | ⭐ 31 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LavaGang/MelonLoader](../repos/LavaGang/MelonLoader.md) | ⭐ 4,075 | 2026-08-02 | 1 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 14,942 | 2026-08-03 | 1 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,442 | 2026-08-01 | The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration w... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,582 | 2026-08-01 | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,592 | 2026-08-01 | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 10,741 | 2026-08-01 | A reference .NET application implementing an eCommerce site |
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 112,855 | 2026-08-02 | 1 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,299 | 2026-08-02 | 1 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,344 | 2026-08-02 | 2 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,507 | 2026-08-01 | 1 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,345 | 2026-08-03 | 1 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,340 | 2026-08-01 | 2 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,753 | 2026-08-01 | 1 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,337 | 2026-08-02 | 1 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 24,292 | 2026-08-01 | 2 |
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,582 | 2026-08-01 | 1 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,592 | 2026-08-01 | 2 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,672 | 2026-08-01 | 1 |
 | [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,161 | 2026-08-01 | 1 |
-| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,830 | 2026-08-02 | 1 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,496 | 2026-08-02 | 1 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 14,231 | 2026-08-02 | 1 |
+| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,834 | 2026-08-02 | 2 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 14,942 | 2026-08-03 | 1 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,505 | 2026-08-02 | 2 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 14,498 | 2026-08-02 | 2 |
 | [kgrzybek/modular-monolith-with-ddd](../repos/kgrzybek/modular-monolith-with-ddd.md) | ⭐ 13,907 | 2026-08-01 | 1 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 13,703 | 2026-08-01 | 2 |
 | [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) | ⭐ 13,671 | 2026-08-02 | 1 |
 | [lucasg/Dependencies](../repos/lucasg/Dependencies.md) | ⭐ 11,713 | 2026-08-01 | 1 |
 | [lostindark/DriverStoreExplorer](../repos/lostindark/DriverStoreExplorer.md) | ⭐ 11,301 | 2026-08-02 | 1 |
-| [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 10,741 | 2026-08-01 | 1 |
-| [AssetRipper/AssetRipper](../repos/AssetRipper/AssetRipper.md) | ⭐ 8,049 | 2026-08-02 | 1 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 2 | ⭐ 24,292 | 2026-08-01 | 2026-08-02 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | 2 | ⭐ 20,592 | 2026-08-01 | 2026-08-03 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 2 | ⭐ 38,340 | 2026-08-01 | 2026-08-02 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 2 | ⭐ 13,703 | 2026-08-01 | 2026-08-02 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 2 | ⭐ 14,498 | 2026-08-02 | 2026-08-03 |
+| [Jackett/Jackett](../repos/Jackett/Jackett.md) | 2 | ⭐ 15,834 | 2026-08-02 | 2026-08-03 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 2 | ⭐ 55,344 | 2026-08-02 | 2026-08-03 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 2 | ⭐ 14,505 | 2026-08-02 | 2026-08-03 |
 | [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | 1 | ⭐ 4,442 | 2026-08-01 | 2026-08-01 |
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | 1 | ⭐ 20,582 | 2026-08-01 | 2026-08-01 |
 | [dotnet/eShop](../repos/dotnet/eShop.md) | 1 | ⭐ 10,741 | 2026-08-01 | 2026-08-01 |
-| [kgrzybek/modular-monolith-with-ddd](../repos/kgrzybek/modular-monolith-with-ddd.md) | 1 | ⭐ 13,907 | 2026-08-01 | 2026-08-01 |
-| [files-community/Files](../repos/files-community/Files.md) | 1 | ⭐ 44,507 | 2026-08-01 | 2026-08-01 |
-| [microsoft/mcp](../repos/microsoft/mcp.md) | 1 | ⭐ 3,521 | 2026-08-01 | 2026-08-01 |
-| [bitwarden/server](../repos/bitwarden/server.md) | 1 | ⭐ 19,672 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -158,7 +158,15 @@
 - [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) - Video game library manager with support for wide range of 3rd party libraries and game emulation ...
 - [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集&#x2F;挖矿&#x2F;锄地 | 一条龙 | 全连音游 | ...
 - [lostindark/DriverStoreExplorer](../repos/lostindark/DriverStoreExplorer.md) - Driver Store Explorer
+- [dotnet/skills](../repos/dotnet/skills.md) - Repository for skills to assist AI coding agents with .NET and C#
+- [zhongkaifu/TensorSharp](../repos/zhongkaifu/TensorSharp.md) - A native .NET LLM inference engine for GGUF models. TensorSharp provides a console application, a...
+- [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) - :trollface: A hex editor for WeChat&#x2F;QQ&#x2F;TIM - PC版微信&#x2F;QQ&#x2F;TIM防撤回补丁（我已经看到了，撤回也没用了）
+- [OhKannaDuh/BOCCHI](../repos/OhKannaDuh/BOCCHI.md) - 
+- [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) - Smart PVR for newsgroup and bittorrent users.
+- [killkimno/MORT](../repos/killkimno/MORT.md) - MORT 번역기 프로젝트 - Real-time game translator with OCR
+- [neelabo/NeeView](../repos/neelabo/NeeView.md) - An image viewer that allows you to browse images in folders and compressed files like a book. Pow...
+- [microsoft/PTVS](../repos/microsoft/PTVS.md) - Python Tools for Visual Studio
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.471Z*
+*Last updated: 2026-08-03T22:01:17.346Z*

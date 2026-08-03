@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-03
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 2 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,724 | 2026-08-01 | 2 |
 
 
 ---
@@ -28,7 +31,7 @@
 | [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | The MATLAB toolbox for MEG, EEG and iEEG analysis |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,723 | 2026-08-01 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, ... |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,724 | 2026-08-01 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, ... |
 
 
 ---
@@ -37,8 +40,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,723 | 2026-08-01 | 1 |
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 2 |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,724 | 2026-08-01 | 2 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 3 |
 
 ---
 
@@ -46,8 +49,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 2 | ⭐ 981 | 2026-08-01 | 2026-08-02 |
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | 1 | ⭐ 7,723 | 2026-08-01 | 2026-08-01 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 3 | ⭐ 981 | 2026-08-01 | 2026-08-03 |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | 2 | ⭐ 7,724 | 2026-08-01 | 2026-08-03 |
 
 ---
 
@@ -58,4 +61,4 @@
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.496Z*
+*Last updated: 2026-08-03T22:01:17.370Z*

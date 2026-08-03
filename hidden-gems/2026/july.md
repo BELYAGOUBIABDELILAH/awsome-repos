@@ -47,5 +47,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-08-02T23:30:09.051Z*  
+*Generated: 2026-08-03T22:01:19.231Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

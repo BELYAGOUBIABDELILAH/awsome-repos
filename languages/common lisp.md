@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 1
+- **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-02
+- **Last Updated**: 2026-08-03
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 2 |
+| [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,472 | 2026-08-03 | 1 |
 
 
 ---
@@ -26,6 +29,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | General-purpose editor&#x2F;IDE with high expansibility in Common Lisp |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,472 | 2026-08-03 | Reviving the language that brought us the Jak &amp; Daxter Series |
 
 
 ---
@@ -34,7 +40,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 2 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,472 | 2026-08-03 | 1 |
+| [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 3 |
 
 ---
 
@@ -42,14 +49,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [lem-project/lem](../repos/lem-project/lem.md) | 2 | ⭐ 3,023 | 2026-08-01 | 2026-08-02 |
+| [lem-project/lem](../repos/lem-project/lem.md) | 3 | ⭐ 3,023 | 2026-08-01 | 2026-08-03 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 1 | ⭐ 3,472 | 2026-08-03 | 2026-08-03 |
 
 ---
 
 ## 📋 All Common Lisp Repositories
 
 - [lem-project/lem](../repos/lem-project/lem.md) - General-purpose editor&#x2F;IDE with high expansibility in Common Lisp
+- [open-goal/jak-project](../repos/open-goal/jak-project.md) - Reviving the language that brought us the Jak &amp; Daxter Series
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.480Z*
+*Last updated: 2026-08-03T22:01:17.353Z*

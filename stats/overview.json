@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-02T23:30:09.136Z",
-  "total_repositories": 725,
-  "trending_today": 415,
-  "new_this_month": 725,
+  "generated_at": "2026-08-03T22:01:19.321Z",
+  "total_repositories": 918,
+  "trending_today": 430,
+  "new_this_month": 918,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-08-02",
+  "last_collection": "2026-08-03",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 13219775,
-  "avg_stars": 18234,
-  "avg_trending_days": 1.2,
+  "total_stars": 16194656,
+  "avg_stars": 17641,
+  "avg_trending_days": 1.4,
   "language_count": 50,
-  "topic_count": 2718,
+  "topic_count": 3271,
   "collection_success_rate": 100,
   "data_quality_score": 100
 }

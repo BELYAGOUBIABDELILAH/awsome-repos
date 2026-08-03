@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 31
+- **Total Repositories**: 43
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,333 | 2026-08-01 | 2 |
+| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,340 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/maven](../repos/apache/maven.md) | ⭐ 5,292 | 2026-08-01 | 2 |
+| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,650 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,456 | 2026-08-02 | 1 |
+| [woheller69/FreeDroidWarn](../repos/woheller69/FreeDroidWarn.md) | ⭐ 3,030 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,640 | 2026-08-02 | 1 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 25,887 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,218 | 2026-08-02 | 1 |
+| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | ⭐ 2,406 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [woheller69/FreeDroidWarn](../repos/woheller69/FreeDroidWarn.md) | ⭐ 3,018 | 2026-08-02 | 1 |
+| [ashishps1/awesome-leetcode-resources](../repos/ashishps1/awesome-leetcode-resources.md) | ⭐ 17,557 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MojoLauncher/MojoLauncher](../repos/MojoLauncher/MojoLauncher.md) | ⭐ 910 | 2026-08-02 | 1 |
+| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,141 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 25,872 | 2026-08-02 | 1 |
+| [adityatandon15/Low-Level-Design-Course](../repos/adityatandon15/Low-Level-Design-Course.md) | ⭐ 1,120 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Creators-of-Create/Create](../repos/Creators-of-Create/Create.md) | ⭐ 4,393 | 2026-08-02 | 1 |
+| [Crystaelix/Create-Simurail](../repos/Crystaelix/Create-Simurail.md) | ⭐ 127 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [osmandapp/OsmAnd](../repos/osmandapp/OsmAnd.md) | ⭐ 5,876 | 2026-08-02 | 1 |
+| [AntennaPod/AntennaPod](../repos/AntennaPod/AntennaPod.md) | ⭐ 8,049 | 2026-08-03 | 1 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,333 | 2026-08-01 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,340 | 2026-08-01 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,511 | 2026-08-01 | morphe patches for twitter and instagram |
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,642 | 2026-08-02 | 1 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 71,817 | 2026-08-03 | 1 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,535 | 2026-08-02 | 1 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,218 | 2026-08-02 | 1 |
-| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,640 | 2026-08-02 | 1 |
+| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,650 | 2026-08-02 | 2 |
 | [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,456 | 2026-08-02 | 1 |
+| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,141 | 2026-08-03 | 1 |
 | [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,636 | 2026-08-01 | 1 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 25,872 | 2026-08-02 | 1 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 25,887 | 2026-08-02 | 2 |
 | [bazelbuild/bazel](../repos/bazelbuild/bazel.md) | ⭐ 25,667 | 2026-08-02 | 1 |
+| [ashishps1/awesome-leetcode-resources](../repos/ashishps1/awesome-leetcode-resources.md) | ⭐ 17,557 | 2026-08-03 | 1 |
+| [apache/druid](../repos/apache/druid.md) | ⭐ 14,038 | 2026-08-03 | 1 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,426 | 2026-08-01 | 1 |
 | [debezium/debezium](../repos/debezium/debezium.md) | ⭐ 12,969 | 2026-08-01 | 1 |
 | [grpc/grpc-java](../repos/grpc/grpc-java.md) | ⭐ 12,056 | 2026-08-01 | 1 |
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,333 | 2026-08-01 | 2 |
+| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,340 | 2026-08-01 | 3 |
 | [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | ⭐ 9,665 | 2026-08-01 | 1 |
 | [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,229 | 2026-08-01 | 1 |
-| [osmandapp/OsmAnd](../repos/osmandapp/OsmAnd.md) | ⭐ 5,876 | 2026-08-02 | 1 |
-| [apache/maven](../repos/apache/maven.md) | ⭐ 5,292 | 2026-08-01 | 2 |
-| [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,511 | 2026-08-01 | 1 |
-| [Creators-of-Create/Create](../repos/Creators-of-Create/Create.md) | ⭐ 4,393 | 2026-08-02 | 1 |
-| [alibaba/fastjson2](../repos/alibaba/fastjson2.md) | ⭐ 4,372 | 2026-08-01 | 1 |
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,063 | 2026-08-01 | 1 |
+| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,075 | 2026-08-03 | 1 |
+| [AntennaPod/AntennaPod](../repos/AntennaPod/AntennaPod.md) | ⭐ 8,049 | 2026-08-03 | 1 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | 2 | ⭐ 10,333 | 2026-08-01 | 2026-08-02 |
+| [github/copilot-sdk](../repos/github/copilot-sdk.md) | 3 | ⭐ 10,340 | 2026-08-01 | 2026-08-03 |
 | [apache/maven](../repos/apache/maven.md) | 2 | ⭐ 5,292 | 2026-08-01 | 2026-08-02 |
+| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | 2 | ⭐ 29,650 | 2026-08-02 | 2026-08-03 |
+| [woheller69/FreeDroidWarn](../repos/woheller69/FreeDroidWarn.md) | 2 | ⭐ 3,030 | 2026-08-02 | 2026-08-03 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 2 | ⭐ 25,887 | 2026-08-02 | 2026-08-03 |
+| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | 2 | ⭐ 2,406 | 2026-08-02 | 2026-08-03 |
 | [crimera/piko](../repos/crimera/piko.md) | 1 | ⭐ 4,511 | 2026-08-01 | 2026-08-01 |
 | [alibaba/fastjson2](../repos/alibaba/fastjson2.md) | 1 | ⭐ 4,372 | 2026-08-01 | 2026-08-01 |
 | [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | 1 | ⭐ 4,063 | 2026-08-01 | 2026-08-01 |
 | [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | 1 | ⭐ 9,229 | 2026-08-01 | 2026-08-01 |
-| [langchain4j/langchain4j-examples](../repos/langchain4j/langchain4j-examples.md) | 1 | ⭐ 1,837 | 2026-08-01 | 2026-08-01 |
-| [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | 1 | ⭐ 9,665 | 2026-08-01 | 2026-08-01 |
-| [nageoffer/ragent](../repos/nageoffer/ragent.md) | 1 | ⭐ 3,392 | 2026-08-01 | 2026-08-01 |
-| [grpc/grpc-java](../repos/grpc/grpc-java.md) | 1 | ⭐ 12,056 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -161,7 +161,19 @@
 - [LiteLDev/LeviLaunchroid](../repos/LiteLDev/LeviLaunchroid.md) - A launcher designed for Minecraft Bedrock Edition on Android
 - [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) - The API and the developer guide for Shizuku and Sui.
 - [google/guava](../repos/google/guava.md) - Google core libraries for Java
+- [ashishps1/awesome-leetcode-resources](../repos/ashishps1/awesome-leetcode-resources.md) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Intervi...
+- [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+- [adityatandon15/Low-Level-Design-Course](../repos/adityatandon15/Low-Level-Design-Course.md) - All Code of LLD Playlist
+- [Crystaelix/Create-Simurail](../repos/Crystaelix/Create-Simurail.md) - An experimental train mod using Create and Sable.
+- [AntennaPod/AntennaPod](../repos/AntennaPod/AntennaPod.md) - A podcast manager for Android
+- [Dwinovo/minecraft-numen](../repos/Dwinovo/minecraft-numen.md) - 住在 Minecraft 里的 AI 同伴——召唤它、跟它说话，它自己规划并动手：挖矿、建造、种地、战斗、合成。
+- [MCRcortex/voxy](../repos/MCRcortex/voxy.md) - An LoD rendering mod for minecraft
+- [shmykelsa/AAAD](../repos/shmykelsa/AAAD.md) - The original application for downloading and installing apps made specifically for Android Auto o...
+- [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) - Ghidra is a software reverse engineering (SRE) framework
+- [cabaletta/baritone](../repos/cabaletta/baritone.md) - google maps for block game
+- [TGX-Android/Telegram-X](../repos/TGX-Android/Telegram-X.md) - The main repository of Telegram X — official alternative Telegram client for Android.
+- [apache/druid](../repos/apache/druid.md) - Apache Druid: a high performance real-time analytics database.
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.490Z*
+*Last updated: 2026-08-03T22:01:17.363Z*

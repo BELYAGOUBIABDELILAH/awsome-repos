@@ -6,24 +6,24 @@
 
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/BELYAGOUBIABDELILAH/awsome-repos/process-trending.yml?branch=main&label=Daily%20Updates&logo=github)](https://github.com/BELYAGOUBIABDELILAH/awsome-repos/actions)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Repositories](https://img.shields.io/badge/Repositories-725-green.svg)](./stats/)
+[![Repositories](https://img.shields.io/badge/Repositories-918-green.svg)](./stats/)
 [![Languages](https://img.shields.io/badge/Languages-50-orange.svg)](./languages/)
 
 </div>
 
 ---
 
-## 📅 Today's Trending - August 2, 2026
+## 📅 Today's Trending - August 3, 2026
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|------:|----------|-------------|
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | ⭐ 59k | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
-| [iv-org/invidious](https://github.com/iv-org/invidious) | ⭐ 22k | Crystal | Invidious is an alternative front-end to YouTube |
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ⭐ 535k | Markdown | Master programming by recreating your favorite technologies from scratch. |
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | ⭐ 13k | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R |
-| [different-ai/openwork](https://github.com/different-ai/openwork) | ⭐ 20k | TypeScript | The open-source alternative to Claude Cowork (powered by opencode) |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | ⭐ 16k | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R |
+| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | ⭐ 8k | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intel |
+| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | ⭐ 30k | Go | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | ⭐ 12k | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | ⭐ 61k | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
 
-[📄 View full daily report →](./archive/2026/08/2026-08-02.md)
+[📄 View full daily report →](./archive/2026/08/2026-08-03.md)
 
 ---
 
@@ -68,7 +68,7 @@ Detailed pages for each repository with complete metrics, trending history, rela
 - [microsoft/vscode](./repos/microsoft/vscode.md)
 - [rust-lang/rust](./repos/rust-lang/rust.md)
 
-**[Browse all 725 repositories →](./repos/)**
+**[Browse all 918 repositories →](./repos/)**
 
 ---
 
@@ -95,9 +95,9 @@ Historical trends, growth analysis, and data insights across all tracked reposit
 
 ## 📈 Archive Overview
 
-- **725** repositories indexed
+- **918** repositories indexed
 - **50** programming languages covered
-- **2718** topics tracked
+- **3271** topics tracked
 - **Daily updates** via automated workflow
 - **Historical data** since July 2026
 

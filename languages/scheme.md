@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [scality/metalk8s](../repos/scality/metalk8s.md) | ⭐ 391 | 2026-08-02 | 1 |
 
+*No Scheme repositories trending today*
 
 ---
 
@@ -52,4 +50,4 @@
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.507Z*
+*Last updated: 2026-08-03T22:01:17.383Z*

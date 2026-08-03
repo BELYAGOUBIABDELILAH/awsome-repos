@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 13
+- **Total Repositories**: 21
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-03
 
 ---
 
@@ -16,19 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,616 | 2026-08-01 | 2 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,567 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yangzongzhuan/RuoYi](../repos/yangzongzhuan/RuoYi.md) | ⭐ 8,461 | 2026-08-02 | 1 |
+| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 6,923 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,561 | 2026-08-02 | 1 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 207,559 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,185 | 2026-08-02 | 1 |
+| [google/fonts](../repos/google/fonts.md) | ⭐ 20,307 | 2026-08-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vava-nessa/free-coding-models](../repos/vava-nessa/free-coding-models.md) | ⭐ 2,216 | 2026-08-02 | 1 |
+| [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) | ⭐ 411 | 2026-08-03 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [kubernetes/website](../repos/kubernetes/website.md) | ⭐ 5,331 | 2026-08-03 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [thedev-id/thedev.id](../repos/thedev-id/thedev.id.md) | ⭐ 1,668 | 2026-08-03 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | ⭐ 7,775 | 2026-08-03 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 26,960 | 2026-08-03 | 1 |
 
 
 ---
@@ -73,19 +85,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 207,559 | 2026-08-03 | 1 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 63,827 | 2026-08-01 | 1 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 45,949 | 2026-08-01 | 1 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 26,960 | 2026-08-03 | 1 |
+| [google/fonts](../repos/google/fonts.md) | ⭐ 20,307 | 2026-08-03 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 18,300 | 2026-08-01 | 1 |
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,561 | 2026-08-02 | 1 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,567 | 2026-08-02 | 2 |
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 11,860 | 2026-08-01 | 1 |
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,737 | 2026-08-01 | 1 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,640 | 2026-08-01 | 1 |
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,616 | 2026-08-01 | 2 |
 | [yangzongzhuan/RuoYi](../repos/yangzongzhuan/RuoYi.md) | ⭐ 8,461 | 2026-08-02 | 1 |
 | [GoogleCloudPlatform/knowledge-catalog](../repos/GoogleCloudPlatform/knowledge-catalog.md) | ⭐ 8,131 | 2026-08-01 | 1 |
+| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | ⭐ 7,775 | 2026-08-03 | 1 |
 | [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 7,537 | 2026-08-01 | 1 |
+| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 6,923 | 2026-08-03 | 1 |
+| [kubernetes/website](../repos/kubernetes/website.md) | ⭐ 5,331 | 2026-08-03 | 1 |
 | [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,185 | 2026-08-02 | 1 |
 | [vava-nessa/free-coding-models](../repos/vava-nessa/free-coding-models.md) | ⭐ 2,216 | 2026-08-02 | 1 |
+| [thedev-id/thedev.id](../repos/thedev-id/thedev.id.md) | ⭐ 1,668 | 2026-08-03 | 1 |
 
 ---
 
@@ -94,6 +113,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | 2 | ⭐ 8,616 | 2026-08-01 | 2026-08-02 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | 2 | ⭐ 16,567 | 2026-08-02 | 2026-08-03 |
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | 1 | ⭐ 11,860 | 2026-08-01 | 2026-08-01 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 1 | ⭐ 9,640 | 2026-08-01 | 2026-08-01 |
 | [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | 1 | ⭐ 7,537 | 2026-08-01 | 2026-08-01 |
@@ -102,7 +122,6 @@
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | 1 | ⭐ 10,737 | 2026-08-01 | 2026-08-01 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | 1 | ⭐ 18,300 | 2026-08-01 | 2026-08-01 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | 1 | ⭐ 45,949 | 2026-08-01 | 2026-08-01 |
-| [yangzongzhuan/RuoYi](../repos/yangzongzhuan/RuoYi.md) | 1 | ⭐ 8,461 | 2026-08-02 | 2026-08-02 |
 
 ---
 
@@ -121,7 +140,15 @@
 - [htr-tech/zphisher](../repos/htr-tech/zphisher.md) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! A...
 - [iptv-org/epg](../repos/iptv-org/epg.md) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hu...
 - [vava-nessa/free-coding-models](../repos/vava-nessa/free-coding-models.md) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
+- [averygan/reclip](../repos/averygan/reclip.md) - Download videos from almost any website. Lightweight, self-hosted media downloader with a clean w...
+- [ossu/computer-science](../repos/ossu/computer-science.md) - 🎓 Path to a free self-taught education in Computer Science!
+- [google/fonts](../repos/google/fonts.md) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
+- [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) - 
+- [kubernetes/website](../repos/kubernetes/website.md) - Kubernetes website and documentation repo: 
+- [thedev-id/thedev.id](../repos/thedev-id/thedev.id.md) - Identity for developers on the web.
+- [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) - https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法...
+- [vernesong/OpenClash](../repos/vernesong/OpenClash.md) - A Clash Client For OpenWrt
 
 ---
 
-*Last updated: 2026-08-02T23:30:07.489Z*
+*Last updated: 2026-08-03T22:01:17.361Z*
