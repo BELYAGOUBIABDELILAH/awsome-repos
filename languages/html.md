@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 21
+- **Total Repositories**: 26
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-03
 
@@ -16,31 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,567 | 2026-08-02 | 2 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,663 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 6,923 | 2026-08-03 | 1 |
+| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 7,627 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 207,559 | 2026-08-03 | 1 |
+| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 6,949 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/fonts](../repos/google/fonts.md) | ⭐ 20,307 | 2026-08-03 | 1 |
+| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | ⭐ 7,839 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) | ⭐ 411 | 2026-08-03 | 1 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 9,131 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/website](../repos/kubernetes/website.md) | ⭐ 5,331 | 2026-08-03 | 1 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,185 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thedev-id/thedev.id](../repos/thedev-id/thedev.id.md) | ⭐ 1,668 | 2026-08-03 | 1 |
+| [trickest/cve](../repos/trickest/cve.md) | ⭐ 7,974 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | ⭐ 7,775 | 2026-08-03 | 1 |
+| [DefectDojo/django-DefectDojo](../repos/DefectDojo/django-DefectDojo.md) | ⭐ 4,874 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 26,960 | 2026-08-03 | 1 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,405 | 2026-08-04 | 1 |
 
 
 ---
@@ -55,10 +55,10 @@
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,616 | 2026-08-01 | A collection of several hundred online tools for OSINT |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,640 | 2026-08-01 | :blue_book: Home Assistant User documentation |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,663 | 2026-08-01 | :blue_book: Home Assistant User documentation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 7,537 | 2026-08-01 | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional... |
+| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 7,627 | 2026-08-01 | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [GoogleCloudPlatform/knowledge-catalog](../repos/GoogleCloudPlatform/knowledge-catalog.md) | ⭐ 8,131 | 2026-08-01 | Google Cloud Knowledge Catalog Tools and Samples |
@@ -89,22 +89,22 @@
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 63,827 | 2026-08-01 | 1 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 45,949 | 2026-08-01 | 1 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 26,960 | 2026-08-03 | 1 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,185 | 2026-08-04 | 1 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,307 | 2026-08-03 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 18,300 | 2026-08-01 | 1 |
 | [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,567 | 2026-08-02 | 2 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,405 | 2026-08-04 | 1 |
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 11,860 | 2026-08-01 | 1 |
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,737 | 2026-08-01 | 1 |
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,640 | 2026-08-01 | 1 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,663 | 2026-08-01 | 2 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 9,131 | 2026-08-04 | 1 |
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,616 | 2026-08-01 | 2 |
 | [yangzongzhuan/RuoYi](../repos/yangzongzhuan/RuoYi.md) | ⭐ 8,461 | 2026-08-02 | 1 |
 | [GoogleCloudPlatform/knowledge-catalog](../repos/GoogleCloudPlatform/knowledge-catalog.md) | ⭐ 8,131 | 2026-08-01 | 1 |
-| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | ⭐ 7,775 | 2026-08-03 | 1 |
-| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 7,537 | 2026-08-01 | 1 |
-| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 6,923 | 2026-08-03 | 1 |
-| [kubernetes/website](../repos/kubernetes/website.md) | ⭐ 5,331 | 2026-08-03 | 1 |
-| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,185 | 2026-08-02 | 1 |
-| [vava-nessa/free-coding-models](../repos/vava-nessa/free-coding-models.md) | ⭐ 2,216 | 2026-08-02 | 1 |
-| [thedev-id/thedev.id](../repos/thedev-id/thedev.id.md) | ⭐ 1,668 | 2026-08-03 | 1 |
+| [trickest/cve](../repos/trickest/cve.md) | ⭐ 7,974 | 2026-08-04 | 1 |
+| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | ⭐ 7,839 | 2026-08-03 | 2 |
+| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 7,627 | 2026-08-01 | 2 |
+| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 6,949 | 2026-08-03 | 2 |
 
 ---
 
@@ -113,15 +113,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | 2 | ⭐ 8,616 | 2026-08-01 | 2026-08-02 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 2 | ⭐ 9,663 | 2026-08-01 | 2026-08-04 |
+| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | 2 | ⭐ 7,627 | 2026-08-01 | 2026-08-04 |
 | [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | 2 | ⭐ 16,567 | 2026-08-02 | 2026-08-03 |
+| [averygan/reclip](../repos/averygan/reclip.md) | 2 | ⭐ 6,949 | 2026-08-03 | 2026-08-04 |
+| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 2 | ⭐ 7,839 | 2026-08-03 | 2026-08-04 |
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | 1 | ⭐ 11,860 | 2026-08-01 | 2026-08-01 |
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 1 | ⭐ 9,640 | 2026-08-01 | 2026-08-01 |
-| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | 1 | ⭐ 7,537 | 2026-08-01 | 2026-08-01 |
 | [GoogleCloudPlatform/knowledge-catalog](../repos/GoogleCloudPlatform/knowledge-catalog.md) | 1 | ⭐ 8,131 | 2026-08-01 | 2026-08-01 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 1 | ⭐ 63,827 | 2026-08-01 | 2026-08-01 |
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | 1 | ⭐ 10,737 | 2026-08-01 | 2026-08-01 |
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | 1 | ⭐ 18,300 | 2026-08-01 | 2026-08-01 |
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | 1 | ⭐ 45,949 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -148,7 +148,12 @@
 - [thedev-id/thedev.id](../repos/thedev-id/thedev.id.md) - Identity for developers on the web.
 - [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) - https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法...
 - [vernesong/OpenClash](../repos/vernesong/OpenClash.md) - A Clash Client For OpenWrt
+- [tt-a1i/archify](../repos/tt-a1i/archify.md) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle ...
+- [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, im...
+- [trickest/cve](../repos/trickest/cve.md) - Gather and update all available and newest CVEs with their PoC.
+- [DefectDojo/django-DefectDojo](../repos/DefectDojo/django-DefectDojo.md) - Open-Source Unified Vulnerability Management, DevSecOps &amp; ASPM
+- [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) - Curso de HTML5 e CSS3
 
 ---
 
-*Last updated: 2026-08-03T22:01:17.361Z*
+*Last updated: 2026-08-04T22:01:06.173Z*

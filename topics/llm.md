@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 102
+- **Total Repositories**: 123
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-03
-- **Average Stars**: 27839
+- **Last Updated**: 2026-08-04
+- **Average Stars**: 27753
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) | ⭐ 60,643 | Jupyter Notebook |  |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,194 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 224,853 | Python |  |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 65,645 | Python |  |
+| [golang/go](../repos/golang/go.md) | ⭐ 135,598 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 11,999 | TypeScript |  |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 225,459 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,234 | Scala |  |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 66,444 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,780 | Scala |  |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 13,446 | TypeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,731 | Scala |  |
+| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,229 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,231 | Dart |  |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 25,373 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [BeamMP/BeamMP](../repos/BeamMP/BeamMP.md) | ⭐ 504 | Lua |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,670 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,096 | OCaml |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,388 | Scala |  |
 
 
 ---
@@ -53,16 +53,16 @@
 
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 224,853 | Python | 2026-08-01 | 3 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 225,459 | Python | 2026-08-01 | 4 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | Python | 2026-07-30 | 4 |
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 177,455 | Go | 2026-08-01 | 1 |
+| [golang/go](../repos/golang/go.md) | ⭐ 135,598 | Go | 2026-07-31 | 2 |
+| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 130,495 | Python | 2026-08-04 | 1 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | Python | 2026-07-31 | 2 |
-| [microsoft/generative-ai-for-beginners](../repos/microsoft/generative-ai-for-beginners.md) | ⭐ 115,494 | Jupyter Notebook | 2026-08-02 | 2 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,053 | Rust | 2026-07-30 | 3 |
+| [microsoft/generative-ai-for-beginners](../repos/microsoft/generative-ai-for-beginners.md) | ⭐ 116,215 | Jupyter Notebook | 2026-08-02 | 3 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,194 | Rust | 2026-07-30 | 4 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 101,806 | Python | 2026-08-03 | 1 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | Python | 2026-08-01 | 2 |
-| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 79,146 | Python | 2026-08-02 | 2 |
-| [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | Python | 2026-08-10 | 1 |
 
 ---
 
@@ -73,10 +73,13 @@
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | Python | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,053 | Rust | 1 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,194 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | Python | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [golang/go](../repos/golang/go.md) | ⭐ 135,598 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [anthropics/anthropic-sdk-python](../repos/anthropics/anthropic-sdk-python.md) | ⭐ 1,250 | Python | 1 |
@@ -95,9 +98,6 @@
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | Python | 2 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 224,853 | Python | 3 |
 
 ---
 
@@ -108,10 +108,13 @@
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | Python | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,053 | Rust | 2026-07-30 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,194 | Rust | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | Python | 2026-07-31 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [golang/go](../repos/golang/go.md) | ⭐ 135,598 | Go | 2026-07-31 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [anthropics/anthropic-sdk-python](../repos/anthropics/anthropic-sdk-python.md) | ⭐ 1,250 | Python | 2026-07-31 |
@@ -130,13 +133,14 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | Python | 2026-08-01 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 224,853 | Python | 2026-08-01 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-08-04](../archive/2026/08/2026-08-04.md)
+- 52 repositories trending
+- Top: NousResearch&#x2F;hermes-agent
 
 ### [2026-08-03](../archive/2026/08/2026-08-03.md)
 - 47 repositories trending
@@ -151,7 +155,7 @@
 - Top: NousResearch&#x2F;hermes-agent
 
 ### [2026-07-31](../archive/2026/07/2026-07-31.md)
-- 3 repositories trending
+- 4 repositories trending
 - Top: tensorflow&#x2F;tensorflow
 
 ### [2026-07-30](../archive/2026/07/2026-07-30.md)
@@ -168,30 +172,30 @@
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 4 days | 2026-07-30 | 2026-08-05 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | 3 days | 2026-07-30 | 2026-08-02 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | 4 days | 2026-07-30 | 2026-08-04 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [apache/spark](../repos/apache/spark.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [vlang/v](../repos/vlang/v.md) | 4 days | 2026-08-01 | 2026-08-04 |
 | [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [apache/spark](../repos/apache/spark.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 3 days | 2026-08-01 | 2026-08-03 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 16 repositories (16%)
-- **Rust**: 11 repositories (11%)
-- **Go**: 9 repositories (9%)
-- **C**: 9 repositories (9%)
-- **TypeScript**: 8 repositories (8%)
+- **Python**: 19 repositories (15%)
+- **Rust**: 11 repositories (9%)
+- **Go**: 10 repositories (8%)
+- **C**: 10 repositories (8%)
+- **TypeScript**: 9 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 19.1 repositories
-- **Peak Day**: 2026-08-01 (51 repositories)
+- **Daily Average**: 25.5 repositories
+- **Peak Day**: 2026-08-04 (52 repositories)
 - **Growth Rate**: 100% this month
 
 ---
@@ -206,6 +210,7 @@
 - [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) - An Open Source Machine Learning Framework for Everyone
 - [rust-lang/rust](../repos/rust-lang/rust.md) - Empowering everyone to build reliable and efficient software.
 - [huggingface/transformers](../repos/huggingface/transformers.md) - State-of-the-art Machine Learning for PyTorch, TensorFlow, and JAX
+- [golang/go](../repos/golang/go.md) - The Go programming language
 - [anthropics/anthropic-sdk-python](../repos/anthropics/anthropic-sdk-python.md) - SDK for Anthropic&#39;s Claude AI
 - [langchain-ai/langchain](../repos/langchain-ai/langchain.md) - Building applications with LLMs through composability
 - [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) - 12 Weeks, 24 Lessons, AI for All!
@@ -302,8 +307,7 @@
 - [zhongkaifu/TensorSharp](../repos/zhongkaifu/TensorSharp.md) - A native .NET LLM inference engine for GGUF models. TensorSharp provides a console application, a...
 - [AAswordman/Operit](../repos/AAswordman/Operit.md) - The most powerful AI agent and AI chat software on Android&#x2F;Operit是一款Android上能力最为强大、发展最久的AI Agent
 - [esmuellert/codediff.nvim](../repos/esmuellert/codediff.nvim.md) - VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level...
-- [milanglacier/minuet-ai.nvim](../repos/milanglacier/minuet-ai.nvim.md) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular L...
 
 ---
 
-*Last updated: 2026-08-03T22:01:17.218Z*
+*Last updated: 2026-08-04T22:01:05.994Z*

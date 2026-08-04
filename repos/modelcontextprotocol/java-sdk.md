@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | MIT |
-| **Stars** | ⭐ 3,620 |
-| **Forks** | 🍴 1,035 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 3,635 |
+| **Forks** | 🍴 1,101 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 1, 2026 |
+| **Last Seen** | Aug 4, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Java or similar-topics*
+*Similar: Check repositories in Java or java*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-
+[`java`](../../topics/java.md) [`mcp`](../../topics/mcp.md) [`mcp-client`](../../topics/mcp-client.md) [`mcp-server`](../../topics/mcp-server.md) 
 
 ### Curated Categories
-`General` 
+`Backend Development` `Systems Programming` `Developer Tools` 
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Active | Regular contributions and discussions |
+| **Community** | Very Active | 3,635+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-03T22:01:18.136Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-04T22:01:07.123Z*  
+*Data from 2 trending reports*

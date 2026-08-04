@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 1
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-03
+- **Last Updated**: 2026-08-04
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,320 | 2026-08-01 | 3 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,320 | 2026-08-01 | 4 |
 
 
 ---
@@ -34,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,320 | 2026-08-01 | 3 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,320 | 2026-08-01 | 4 |
 
 ---
 
@@ -42,7 +42,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 3 | ⭐ 4,320 | 2026-08-01 | 2026-08-03 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 4 | ⭐ 4,320 | 2026-08-01 | 2026-08-04 |
 
 ---
 
@@ -52,4 +52,4 @@
 
 ---
 
-*Last updated: 2026-08-03T22:01:17.358Z*
+*Last updated: 2026-08-04T22:01:06.169Z*

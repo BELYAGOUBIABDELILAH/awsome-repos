@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 118,600 |
-| **Forks** | 🍴 17,250 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 135,598 |
+| **Forks** | 🍴 19,244 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #8 |
 
 | **First Seen** | Jul 31, 2026 |
-| **Last Seen** | Jul 31, 2026 |
+| **Last Seen** | Aug 4, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #8
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`go`](../../topics/go.md) [`programming-language`](../../topics/programming-language.md) [`golang`](../../topics/golang.md) [`compiler`](../../topics/compiler.md) 
+[`go`](../../topics/go.md) [`golang`](../../topics/golang.md) [`language`](../../topics/language.md) [`programming-language`](../../topics/programming-language.md) 
 
 ### Curated Categories
-`Systems Programming` 
+`General` 
 
 ---
 
@@ -70,10 +70,10 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 118,600+ stars, strong contributor base |
+| **Community** | Very Active | 135,598+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Very Active | Updated within last week |
-| **Learning Curve** | Hard | Requires domain expertise |
+| **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
 - Web servers
@@ -89,11 +89,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: Top 10 (Peak: #8)
 
 
 ---
 
-*Last updated: 2026-08-03T22:01:18.004Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-04T22:01:06.993Z*  
+*Data from 2 trending reports*

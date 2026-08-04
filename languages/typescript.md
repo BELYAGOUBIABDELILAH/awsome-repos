@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 35
+- **Total Repositories**: 44
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-10
+- **Last Updated**: 2026-08-04
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 11,999 | 2026-08-01 | 3 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 13,446 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 34,225 | 2026-08-02 | 2 |
+| [actions/checkout](../repos/actions/checkout.md) | ⭐ 8,604 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 48,617 | 2026-08-02 | 2 |
+| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 49,131 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [simstudioai/sim](../repos/simstudioai/sim.md) | ⭐ 29,313 | 2026-08-02 | 2 |
+| [nrwl/nx](../repos/nrwl/nx.md) | ⭐ 29,196 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 21,564 | 2026-08-02 | 2 |
+| [CodebuffAI/codebuff](../repos/CodebuffAI/codebuff.md) | ⭐ 8,315 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
+| [cypress-io/cypress](../repos/cypress-io/cypress.md) | ⭐ 50,759 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [karakeep-app/karakeep](../repos/karakeep-app/karakeep.md) | ⭐ 28,063 | 2026-08-03 | 1 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 100,807 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darkreader/darkreader](../repos/darkreader/darkreader.md) | ⭐ 22,236 | 2026-08-03 | 1 |
+| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 96,429 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meshery/meshery](../repos/meshery/meshery.md) | ⭐ 11,424 | 2026-08-03 | 1 |
+| [EveryInc/compound-engineering-plugin](../repos/EveryInc/compound-engineering-plugin.md) | ⭐ 23,846 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CodebuffAI/codebuff](../repos/CodebuffAI/codebuff.md) | ⭐ 8,262 | 2026-08-03 | 1 |
+| [prisma/prisma](../repos/prisma/prisma.md) | ⭐ 47,526 | 2026-08-04 | 1 |
 
 
 ---
@@ -67,7 +67,7 @@
 | [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,501 | 2026-08-01 | Cursor plugin specification and official plugins |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 11,999 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 13,446 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 46,198 | 2026-08-01 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring... |
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 156,600 | 2026-07-30 | 4 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 125,928 | 2026-08-02 | 1 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 100,807 | 2026-08-04 | 1 |
+| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 96,429 | 2026-08-04 | 1 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
+| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,054 | 2026-08-04 | 1 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 75,438 | 2026-08-02 | 1 |
 | [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | ⭐ 75,400 | 2026-07-31 | 1 |
+| [reduxjs/redux](../repos/reduxjs/redux.md) | ⭐ 61,511 | 2026-08-04 | 1 |
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | 2026-08-01 | 1 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 52,300 | 2026-07-31 | 1 |
-| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 48,617 | 2026-08-02 | 2 |
+| [cypress-io/cypress](../repos/cypress-io/cypress.md) | ⭐ 50,759 | 2026-08-04 | 1 |
+| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 49,131 | 2026-08-02 | 3 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 48,282 | 2026-08-01 | 1 |
+| [prisma/prisma](../repos/prisma/prisma.md) | ⭐ 47,526 | 2026-08-04 | 1 |
 | [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 46,198 | 2026-08-01 | 1 |
 | [portainer/portainer](../repos/portainer/portainer.md) | ⭐ 38,100 | 2026-08-01 | 1 |
 | [continuedev/continue](../repos/continuedev/continue.md) | ⭐ 35,246 | 2026-08-01 | 1 |
-| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 34,225 | 2026-08-02 | 2 |
-| [simstudioai/sim](../repos/simstudioai/sim.md) | ⭐ 29,313 | 2026-08-02 | 2 |
-| [nrwl/nx](../repos/nrwl/nx.md) | ⭐ 29,171 | 2026-08-02 | 1 |
-| [karakeep-app/karakeep](../repos/karakeep-app/karakeep.md) | ⭐ 28,063 | 2026-08-03 | 1 |
-| [fingerprintjs/fingerprintjs](../repos/fingerprintjs/fingerprintjs.md) | ⭐ 28,015 | 2026-08-01 | 1 |
-| [google-labs-code/design.md](../repos/google-labs-code/design.md.md) | ⭐ 26,813 | 2026-08-01 | 1 |
-| [darkreader/darkreader](../repos/darkreader/darkreader.md) | ⭐ 22,236 | 2026-08-03 | 1 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 4 | ⭐ 156,600 | 2026-07-30 | 2026-08-10 |
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 3 | ⭐ 11,999 | 2026-08-01 | 2026-08-03 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 4 | ⭐ 13,446 | 2026-08-01 | 2026-08-04 |
+| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | 3 | ⭐ 49,131 | 2026-08-02 | 2026-08-04 |
 | [different-ai/openwork](../repos/different-ai/openwork.md) | 2 | ⭐ 20,293 | 2026-08-01 | 2026-08-02 |
+| [actions/checkout](../repos/actions/checkout.md) | 2 | ⭐ 8,604 | 2026-08-02 | 2026-08-04 |
 | [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | 2 | ⭐ 34,225 | 2026-08-02 | 2026-08-03 |
-| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | 2 | ⭐ 48,617 | 2026-08-02 | 2026-08-03 |
+| [nrwl/nx](../repos/nrwl/nx.md) | 2 | ⭐ 29,196 | 2026-08-02 | 2026-08-04 |
 | [simstudioai/sim](../repos/simstudioai/sim.md) | 2 | ⭐ 29,313 | 2026-08-02 | 2026-08-03 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 2 | ⭐ 21,564 | 2026-08-02 | 2026-08-03 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | 2 | ⭐ 135,054 | 2026-08-02 | 2026-08-03 |
-| [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | 1 | ⭐ 52,300 | 2026-07-31 | 2026-07-31 |
-| [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | 1 | ⭐ 75,400 | 2026-07-31 | 2026-07-31 |
 
 ---
 
@@ -165,7 +165,16 @@
 - [darkreader/darkreader](../repos/darkreader/darkreader.md) - Dark Reader Chrome and Firefox extension
 - [meshery/meshery](../repos/meshery/meshery.md) - Meshery, the cloud native manager
 - [CodebuffAI/codebuff](../repos/CodebuffAI/codebuff.md) - Generate code from the terminal!
+- [cypress-io/cypress](../repos/cypress-io/cypress.md) - Fast, easy and reliable testing for anything that runs in a browser.
+- [angular/angular](../repos/angular/angular.md) - Deliver web apps with confidence 🚀
+- [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) - A utility-first CSS framework for rapid UI development.
+- [EveryInc/compound-engineering-plugin](../repos/EveryInc/compound-engineering-plugin.md) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+- [prisma/prisma](../repos/prisma/prisma.md) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, Mo...
+- [grafana/grafana](../repos/grafana/grafana.md) - The open and composable observability and data visualization platform. Visualize metrics, logs, a...
+- [vuejs/vue](../repos/vuejs/vue.md) - This is the repo for Vue 2. For Vue 3, go to https:&#x2F;&#x2F;github.com&#x2F;vuejs&#x2F;core
+- [reduxjs/redux](../repos/reduxjs/redux.md) - A JS library for predictable global state management
+- [facebook/astryx](../repos/facebook/astryx.md) - An open source design system that&#39;s fully customizable and agent ready
 
 ---
 
-*Last updated: 2026-08-03T22:01:17.387Z*
+*Last updated: 2026-08-04T22:01:06.213Z*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 42
+- **Total Repositories**: 54
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-03
+- **Last Updated**: 2026-08-04
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,586 | 2026-08-01 | 3 |
+| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,150 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,282 | 2026-08-02 | 2 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,135 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 9,627 | 2026-08-02 | 2 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,366 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,226 | 2026-08-02 | 2 |
+| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,247 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [official-stockfish/Stockfish](../repos/official-stockfish/Stockfish.md) | ⭐ 16,219 | 2026-08-03 | 1 |
+| [nasa/fprime](../repos/nasa/fprime.md) | ⭐ 11,624 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [doitsujin/dxvk](../repos/doitsujin/dxvk.md) | ⭐ 17,774 | 2026-08-03 | 1 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,777 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CleverRaven/Cataclysm-DDA](../repos/CleverRaven/Cataclysm-DDA.md) | ⭐ 12,850 | 2026-08-03 | 1 |
+| [CleverRaven/Cataclysm-DDA](../repos/CleverRaven/Cataclysm-DDA.md) | ⭐ 12,866 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 28,617 | 2026-08-03 | 1 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TrinityCore/TrinityCore](../repos/TrinityCore/TrinityCore.md) | ⭐ 10,700 | 2026-08-03 | 1 |
+| [catchorg/Catch2](../repos/catchorg/Catch2.md) | ⭐ 21,415 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,034 | 2026-08-03 | 1 |
+| [carbon-language/carbon-lang](../repos/carbon-language/carbon-lang.md) | ⭐ 33,849 | 2026-08-04 | 1 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,586 | 2026-08-01 | LLM inference in C&#x2F;C++ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,146 | 2026-08-01 | Asio C++ Library |
+| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,150 | 2026-08-01 | Asio C++ Library |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lightvector/KataGo](../repos/lightvector/KataGo.md) | ⭐ 4,902 | 2026-08-01 | GTP engine and self-play learning in Go |
@@ -70,13 +70,13 @@
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,670 | 2026-08-01 | Protocol Buffers - Google&#39;s data interchange format |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 114,953 | 2026-08-01 | Godot Engine – Multi-platform 2D and 3D game engine |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,135 | 2026-08-01 | Godot Engine – Multi-platform 2D and 3D game engine |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [gem5/gem5](../repos/gem5/gem5.md) | ⭐ 2,737 | 2026-08-01 | The official repository for the gem5 computer-system architecture simulator. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,318 | 2026-08-01 | Fast C++ logging library. |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,366 | 2026-08-01 | Fast C++ logging library. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [twelvesec/PwnPad](../repos/twelvesec/PwnPad.md) | ⭐ 1,165 | 2026-08-01 | PwnPad is an affordable, hands-on hardware hacking platform built for practical learning. It feat... |
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [react/react-native](../repos/react/react-native.md) | ⭐ 126,283 | 2026-08-04 | 1 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,586 | 2026-08-01 | 3 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,278 | 2026-08-01 | 1 |
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 114,953 | 2026-08-01 | 2 |
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,751 | 2026-08-02 | 1 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,135 | 2026-08-01 | 3 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,777 | 2026-08-02 | 2 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,670 | 2026-08-01 | 1 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,034 | 2026-08-03 | 1 |
-| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,240 | 2026-08-02 | 1 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
+| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,247 | 2026-08-02 | 2 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,226 | 2026-08-02 | 2 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 38,894 | 2026-08-04 | 1 |
+| [carbon-language/carbon-lang](../repos/carbon-language/carbon-lang.md) | ⭐ 33,849 | 2026-08-04 | 1 |
 | [ValveSoftware/Proton](../repos/ValveSoftware/Proton.md) | ⭐ 32,435 | 2026-08-03 | 1 |
 | [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 32,361 | 2026-08-03 | 1 |
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,318 | 2026-08-01 | 1 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,366 | 2026-08-01 | 2 |
+| [dmlc/xgboost](../repos/dmlc/xgboost.md) | ⭐ 28,626 | 2026-08-04 | 1 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 28,617 | 2026-08-03 | 1 |
+| [argotorg/solidity](../repos/argotorg/solidity.md) | ⭐ 25,692 | 2026-08-04 | 1 |
 | [v8/v8](../repos/v8/v8.md) | ⭐ 25,159 | 2026-08-01 | 1 |
 | [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,282 | 2026-08-02 | 2 |
-| [imputnet/helium](../repos/imputnet/helium.md) | ⭐ 19,088 | 2026-08-03 | 1 |
-| [wled/WLED](../repos/wled/WLED.md) | ⭐ 18,497 | 2026-08-03 | 1 |
-| [doitsujin/dxvk](../repos/doitsujin/dxvk.md) | ⭐ 17,774 | 2026-08-03 | 1 |
-| [espressif/arduino-esp32](../repos/espressif/arduino-esp32.md) | ⭐ 17,159 | 2026-08-01 | 1 |
-| [ceph/ceph](../repos/ceph/ceph.md) | ⭐ 16,892 | 2026-08-03 | 1 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 3 | ⭐ 122,586 | 2026-08-01 | 2026-08-03 |
+| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | 3 | ⭐ 6,150 | 2026-08-01 | 2026-08-04 |
+| [godotengine/godot](../repos/godotengine/godot.md) | 3 | ⭐ 115,135 | 2026-08-01 | 2026-08-04 |
 | [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | 2 | ⭐ 5,290 | 2026-08-01 | 2026-08-02 |
-| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | 2 | ⭐ 6,146 | 2026-08-01 | 2026-08-02 |
 | [lightvector/KataGo](../repos/lightvector/KataGo.md) | 2 | ⭐ 4,902 | 2026-08-01 | 2026-08-02 |
-| [godotengine/godot](../repos/godotengine/godot.md) | 2 | ⭐ 114,953 | 2026-08-01 | 2026-08-02 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | 2 | ⭐ 29,366 | 2026-08-01 | 2026-08-04 |
 | [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | 2 | ⭐ 11,217 | 2026-08-01 | 2026-08-02 |
 | [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | 2 | ⭐ 22,282 | 2026-08-02 | 2026-08-03 |
+| [grpc/grpc](../repos/grpc/grpc.md) | 2 | ⭐ 45,247 | 2026-08-02 | 2026-08-04 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 2 | ⭐ 9,627 | 2026-08-02 | 2026-08-03 |
-| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | 2 | ⭐ 39,226 | 2026-08-02 | 2026-08-03 |
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 1 | ⭐ 448 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -172,7 +172,19 @@
 - [OpenRCT2/OpenRCT2](../repos/OpenRCT2/OpenRCT2.md) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [stenzek/duckstation](../repos/stenzek/duckstation.md) - Fast PlayStation 1 emulator for x86-64&#x2F;AArch32&#x2F;AArch64&#x2F;RV64
 - [ceph/ceph](../repos/ceph/ceph.md) - Ceph is a distributed object, block, and file storage platform 
+- [catchorg/Catch2](../repos/catchorg/Catch2.md) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (...
+- [carbon-language/carbon-lang](../repos/carbon-language/carbon-lang.md) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: C...
+- [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) - A unified cross-platform AI client supporting seamless transitions between standard cloud APIs an...
+- [xournalpp/xournalpp](../repos/xournalpp/xournalpp.md) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with G...
+- [google/googletest](../repos/google/googletest.md) - GoogleTest - Google Testing and Mocking Framework
+- [react/react-native](../repos/react/react-native.md) - A framework for building native applications using React
+- [deepseek-ai/FlashMLA](../repos/deepseek-ai/FlashMLA.md) - FlashMLA: Efficient Multi-head Latent Attention Kernels
+- [google/glog](../repos/google/glog.md) - C++ implementation of the Google logging module
+- [wazuh/wazuh](../repos/wazuh/wazuh.md) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and clou...
+- [argotorg/solidity](../repos/argotorg/solidity.md) - Solidity, the Smart Contract Programming Language
+- [dmlc/xgboost](../repos/dmlc/xgboost.md) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R,...
+- [dogecoin/dogecoin](../repos/dogecoin/dogecoin.md) - very currency
 
 ---
 
-*Last updated: 2026-08-03T22:01:17.347Z*
+*Last updated: 2026-08-04T22:01:06.156Z*

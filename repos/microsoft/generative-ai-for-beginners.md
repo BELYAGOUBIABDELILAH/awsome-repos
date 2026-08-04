@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Jupyter Notebook |
 | **License** | MIT |
-| **Stars** | ⭐ 115,494 |
-| **Forks** | 🍴 61,430 |
-| **Trending Days** | 2 |
-| **Peak Rank** | #7 |
+| **Stars** | ⭐ 116,215 |
+| **Forks** | 🍴 61,543 |
+| **Trending Days** | 3 |
+| **Peak Rank** | #6 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 3, 2026 |
+| **Last Seen** | Aug 4, 2026 |
 
 
 ---
@@ -44,12 +44,13 @@
 ## Trending Timeline
 
 **Aug 3, 2026** — Rank #7 (+776 ⭐)  
+**Aug 4, 2026** — Rank #6 (+784 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #7
-- **Trending Days**: 2
-- **Longest Streak**: 2 days
+- **Peak Rank**: #6
+- **Trending Days**: 3
+- **Longest Streak**: 3 days
 
 ---
 
@@ -71,7 +72,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 115,494+ stars, strong contributor base |
+| **Community** | Very Active | 116,215+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -86,11 +87,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 40&#x2F;100
-- **Historical Rank**: Top 10 (Peak: #7)
+- **Trending Score**: 60&#x2F;100
+- **Historical Rank**: Top 10 (Peak: #6)
 
 
 ---
 
-*Last updated: 2026-08-03T22:01:18.541Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-04T22:01:07.513Z*  
+*Data from 3 trending reports*

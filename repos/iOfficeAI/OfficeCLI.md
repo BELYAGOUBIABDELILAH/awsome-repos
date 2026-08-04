@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C# |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 24,292 |
-| **Forks** | 🍴 1,641 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 25,373 |
+| **Forks** | 🍴 1,707 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 2, 2026 |
+| **Last Seen** | Aug 4, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -84,12 +84,12 @@
 - Check similar projects in C#
 
 #### Metrics
-- **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Hidden Gem**: ✗ No
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-03T22:01:18.185Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-04T22:01:07.171Z*  
+*Data from 3 trending reports*

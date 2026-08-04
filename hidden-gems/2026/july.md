@@ -19,7 +19,7 @@
 |---|---|
 | ⭐ **Stars** | 18,500 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 64/100 |
+| 🏆 **Gem Score** | 63/100 |
 | 📈 **Trending Days** | 1 |
 | 📅 **First Seen** | Jul 31, 2026 |
 
@@ -47,5 +47,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-08-03T22:01:19.231Z*  
+*Generated: 2026-08-04T22:01:09.402Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

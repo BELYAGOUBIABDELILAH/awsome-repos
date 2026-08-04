@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 36
+- **Total Repositories**: 44
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-03
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,509 | 2026-08-01 | 3 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,555 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Fate-Grand-Automata/FGA](../repos/Fate-Grand-Automata/FGA.md) | ⭐ 2,277 | 2026-08-01 | 2 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 3,942 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,563 | 2026-08-02 | 2 |
+| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | ⭐ 603 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 3,891 | 2026-08-02 | 2 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,060 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | ⭐ 597 | 2026-08-02 | 2 |
+| [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | ⭐ 4,086 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sfsakhawat999/mpvRex](../repos/sfsakhawat999/mpvRex.md) | ⭐ 471 | 2026-08-02 | 2 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,285 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,049 | 2026-08-02 | 2 |
+| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 588 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,334 | 2026-08-03 | 1 |
+| [dmzz-yyhyy/LightNovelReader](../repos/dmzz-yyhyy/LightNovelReader.md) | ⭐ 1,910 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | ⭐ 1,604 | 2026-08-03 | 1 |
+| [cat3399/blbl](../repos/cat3399/blbl.md) | ⭐ 2,560 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin-android](../repos/jellyfin/jellyfin-android.md) | ⭐ 2,667 | 2026-08-03 | 1 |
+| [element-hq/element-x-android](../repos/element-hq/element-x-android.md) | ⭐ 2,307 | 2026-08-04 | 1 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,509 | 2026-08-01 | Free and open source manga reader for Android |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,555 | 2026-08-01 | Free and open source manga reader for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 136 | 2026-08-01 | Android app for BYD DiLink 5.0: real consumption from BMS, GPS trips, charges journal, automation... |
@@ -90,8 +90,9 @@
 |------------|-------|------------|---------------|
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,020 | 2026-08-03 | 1 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,563 | 2026-08-02 | 2 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,285 | 2026-08-04 | 1 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 40,633 | 2026-08-03 | 1 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,509 | 2026-08-01 | 3 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,555 | 2026-08-01 | 4 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,121 | 2026-08-02 | 1 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,606 | 2026-08-01 | 1 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,190 | 2026-08-02 | 1 |
@@ -105,9 +106,8 @@
 | [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | ⭐ 6,293 | 2026-08-01 | 1 |
 | [nextcloud/android](../repos/nextcloud/android.md) | ⭐ 5,487 | 2026-08-02 | 1 |
 | [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 5,448 | 2026-08-02 | 1 |
-| [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | ⭐ 4,069 | 2026-08-03 | 1 |
-| [videolan/vlc-android](../repos/videolan/vlc-android.md) | ⭐ 3,909 | 2026-08-03 | 1 |
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 3,891 | 2026-08-02 | 2 |
+| [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | ⭐ 4,086 | 2026-08-03 | 2 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 3,942 | 2026-08-02 | 3 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 3 | ⭐ 22,509 | 2026-08-01 | 2026-08-03 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 4 | ⭐ 22,555 | 2026-08-01 | 2026-08-04 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 3 | ⭐ 3,942 | 2026-08-02 | 2026-08-04 |
+| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | 3 | ⭐ 603 | 2026-08-02 | 2026-08-04 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 3 | ⭐ 2,060 | 2026-08-02 | 2026-08-04 |
 | [Fate-Grand-Automata/FGA](../repos/Fate-Grand-Automata/FGA.md) | 2 | ⭐ 2,277 | 2026-08-01 | 2026-08-03 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 2 | ⭐ 60,563 | 2026-08-02 | 2026-08-03 |
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 2 | ⭐ 3,891 | 2026-08-02 | 2026-08-03 |
-| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | 2 | ⭐ 597 | 2026-08-02 | 2026-08-03 |
 | [sfsakhawat999/mpvRex](../repos/sfsakhawat999/mpvRex.md) | 2 | ⭐ 471 | 2026-08-02 | 2026-08-03 |
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 2 | ⭐ 2,049 | 2026-08-02 | 2026-08-03 |
+| [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | 2 | ⭐ 4,086 | 2026-08-03 | 2026-08-04 |
 | [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | 1 | ⭐ 136 | 2026-08-01 | 2026-08-01 |
 | [rommapp/argosy-launcher](../repos/rommapp/argosy-launcher.md) | 1 | ⭐ 436 | 2026-08-01 | 2026-08-01 |
-| [yuzono/tachiyomi-extensions](../repos/yuzono/tachiyomi-extensions.md) | 1 | ⭐ 817 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -166,7 +166,15 @@
 - [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) - 原生、纯净、可扩展 —— 重新定义你的 B 站体验
 - [gkd-kit/gkd](../repos/gkd-kit/gkd.md) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, ...
 - [AAswordman/Operit](../repos/AAswordman/Operit.md) - The most powerful AI agent and AI chat software on Android&#x2F;Operit是一款Android上能力最为强大、发展最久的AI Agent
+- [JetBrains/kotlin](../repos/JetBrains/kotlin.md) - The Kotlin Programming Language. 
+- [LegadoTeam/legado](../repos/LegadoTeam/legado.md) - Legado 3.0 Book Reader with powerful controls 
+- [dmzz-yyhyy/LightNovelReader](../repos/dmzz-yyhyy/LightNovelReader.md) - 一款基于Compose的多数据源轻小说阅读器。支持epub导出，自定义背景样式，本地书架和更新提醒等功能。
+- [cat3399/blbl](../repos/cat3399/blbl.md) - 一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5
+- [element-hq/element-x-android](../repos/element-hq/element-x-android.md) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
+- [woocommerce/woocommerce-android](../repos/woocommerce/woocommerce-android.md) - WooCommerce Android app
+- [getsentry/sentry-java](../repos/getsentry/sentry-java.md) - A Sentry SDK for Java, Android and other JVM languages.
+- [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) - A Minecraft: Java Edition Launcher for Android
 
 ---
 
-*Last updated: 2026-08-03T22:01:17.367Z*
+*Last updated: 2026-08-04T22:01:06.180Z*

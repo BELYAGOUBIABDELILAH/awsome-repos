@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 69
+- **Total Repositories**: 93
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-03
-- **Average Stars**: 18973
+- **Last Updated**: 2026-08-04
+- **Average Stars**: 19251
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 992 | Go |  |
+| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,047 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,710 | Ruby |  |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | Go |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,229 | C |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,537 | C# |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,670 | Ruby |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,203 | Ruby |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,388 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,386 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,780 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,783 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,237 | Clojure |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,096 | OCaml |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,704 | Vue |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | ⭐ 3,518 | Zig |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,141 | PowerShell |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,778 | V |  |
+| [apache/apisix](../repos/apache/apisix.md) | ⭐ 16,954 | Lua |  |
 
 
 ---
@@ -53,16 +53,16 @@
 
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,235 | Go | 2026-08-04 | 1 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,155 | Python | 2026-08-02 | 2 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,477 | C | 2026-08-02 | 2 |
+| [moby/moby](../repos/moby/moby.md) | ⭐ 71,975 | Go | 2026-08-04 | 1 |
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | TypeScript | 2026-08-01 | 1 |
+| [prisma/prisma](../repos/prisma/prisma.md) | ⭐ 47,526 | TypeScript | 2026-08-04 | 1 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 45,949 | HTML | 2026-08-01 | 1 |
-| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 45,782 | Python | 2026-08-02 | 2 |
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,507 | C# | 2026-08-01 | 1 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,237 | Clojure | 2026-08-01 | 3 |
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,897 | Lua | 2026-08-01 | 1 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,780 | Scala | 2026-08-01 | 3 |
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,691 | Vim Script | 2026-08-01 | 2 |
+| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 45,841 | Python | 2026-08-02 | 3 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,537 | C# | 2026-08-01 | 2 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,268 | Clojure | 2026-08-01 | 4 |
 
 ---
 
@@ -88,10 +88,10 @@
 | [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,088 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 992 | Go | 3 |
+| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,047 | Go | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,172 | Go | 1 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [cert-manager/cert-manager](../repos/cert-manager/cert-manager.md) | ⭐ 13,994 | Go | 1 |
@@ -123,10 +123,10 @@
 | [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,088 | Rust | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 992 | Go | 2026-08-01 |
+| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,047 | Go | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,172 | Go | 2026-08-01 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | Go | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [cert-manager/cert-manager](../repos/cert-manager/cert-manager.md) | ⭐ 13,994 | Go | 2026-08-01 |
@@ -137,6 +137,10 @@
 ---
 
 ## 📅 Recent History
+
+### [2026-08-04](../archive/2026/08/2026-08-04.md)
+- 49 repositories trending
+- Top: kubernetes&#x2F;kubernetes
 
 ### [2026-08-03](../archive/2026/08/2026-08-03.md)
 - 30 repositories trending
@@ -159,31 +163,31 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [github/gh-stack](../repos/github/gh-stack.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [github/gh-stack](../repos/github/gh-stack.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [apache/spark](../repos/apache/spark.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [vlang/v](../repos/vlang/v.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 3 days | 2026-08-01 | 2026-08-04 |
+| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | 3 days | 2026-08-01 | 2026-08-04 |
 | [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [apache/spark](../repos/apache/spark.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [vlang/v](../repos/vlang/v.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [ruby/ruby](../repos/ruby/ruby.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | 2 days | 2026-08-01 | 2026-08-02 |
-| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | 2 days | 2026-08-01 | 2026-08-03 |
-| [ocaml/opam](../repos/ocaml/opam.md) | 2 days | 2026-08-01 | 2026-08-02 |
+| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | 3 days | 2026-08-01 | 2026-08-04 |
+| [ocaml/opam](../repos/ocaml/opam.md) | 3 days | 2026-08-01 | 2026-08-04 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 12 repositories (17%)
-- **C**: 10 repositories (14%)
-- **TypeScript**: 4 repositories (6%)
-- **Scala**: 4 repositories (6%)
-- **Shell**: 4 repositories (6%)
+- **Go**: 17 repositories (18%)
+- **C**: 11 repositories (12%)
+- **Shell**: 8 repositories (9%)
+- **Lua**: 7 repositories (8%)
+- **TypeScript**: 5 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 33 repositories
-- **Peak Day**: 2026-08-01 (42 repositories)
+- **Daily Average**: 37 repositories
+- **Peak Day**: 2026-08-04 (49 repositories)
 - **Growth Rate**: 100% this month
 
 ---
@@ -264,7 +268,31 @@
 - [systemd/systemd](../repos/systemd/systemd.md) - The systemd System and Service Manager 
 - [apache/kyuubi](../repos/apache/kyuubi.md) - Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehou...
 - [esmuellert/codediff.nvim](../repos/esmuellert/codediff.nvim.md) - VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level...
+- [prisma/prisma](../repos/prisma/prisma.md) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, Mo...
+- [moby/moby](../repos/moby/moby.md) - The Moby Project - a collaborative project for the container ecosystem to assemble container-base...
+- [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) - Production-Grade Container Scheduling and Management
+- [argoproj/argo-cd](../repos/argoproj/argo-cd.md) - Declarative Continuous Deployment for Kubernetes
+- [docker/compose](../repos/docker/compose.md) - Define and run multi-container applications with Docker
+- [Project-HAMi/HAMi](../repos/Project-HAMi/HAMi.md) - Heterogeneous GPU Sharing on Kubernetes
+- [kestra-io/kestra](../repos/kestra-io/kestra.md) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications
+- [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+- [dotnet/efcore](../repos/dotnet/efcore.md) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, u...
+- [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and oth...
+- [longhorn/longhorn](../repos/longhorn/longhorn.md) - Cloud-Native distributed storage built on and for Kubernetes
+- [super-linter/super-linter](../repos/super-linter/super-linter.md) - Combination of multiple linters to run as a GitHub Action or standalone
+- [marcusquinn/aidevops](../repos/marcusquinn/aidevops.md) - Vibe-Coding is easy. DevOps is hard. OpenCode &amp; Git token-efficient AI agent automation for your ...
+- [orbstack/orbstack](../repos/orbstack/orbstack.md) - Fast, light, simple Docker containers &amp; Linux machines
+- [tidyverse/dplyr](../repos/tidyverse/dplyr.md) - dplyr: A grammar of data manipulation
+- [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) - An implementation of the Grammar of Graphics in R
+- [hadley/r4ds](../repos/hadley/r4ds.md) - R for data science: a book
+- [r-spatial/sf](../repos/r-spatial/sf.md) - Simple Features for R
+- [CopilotC-Nvim/CopilotChat.nvim](../repos/CopilotC-Nvim/CopilotChat.nvim.md) - Chat with GitHub Copilot in Neovim
+- [awesomeWM/awesome](../repos/awesomeWM/awesome.md) - awesome window manager
+- [xmake-io/xmake](../repos/xmake-io/xmake.md) - 🔥 A cross-platform build utility based on Lua
+- [DefectDojo/django-DefectDojo](../repos/DefectDojo/django-DefectDojo.md) - Open-Source Unified Vulnerability Management, DevSecOps &amp; ASPM
+- [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) - UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for ev...
+- [hslr-s/sun-panel](../repos/hslr-s/sun-panel.md) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 
 ---
 
-*Last updated: 2026-08-03T22:01:17.237Z*
+*Last updated: 2026-08-04T22:01:06.014Z*

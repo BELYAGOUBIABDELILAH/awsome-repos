@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 34
+- **Total Repositories**: 45
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,425 | 2026-08-01 | 2 |
+| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,704 | 2026-08-01 | 2 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,870 | 2026-08-02 | 2 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 659 | 2026-08-02 | 2 |
+| [amplitude/Amplitude-iOS](../repos/amplitude/Amplitude-iOS.md) | ⭐ 327 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,016 | 2026-08-02 | 2 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 12,942 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mixpanel/mixpanel-iphone](../repos/mixpanel/mixpanel-iphone.md) | ⭐ 1,065 | 2026-08-02 | 2 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,846 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,201 | 2026-08-02 | 2 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,613 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amplitude/Amplitude-iOS](../repos/amplitude/Amplitude-iOS.md) | ⭐ 327 | 2026-08-02 | 2 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,330 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebookarchive/Shimmer](../repos/facebookarchive/Shimmer.md) | ⭐ 9,331 | 2026-08-02 | 2 |
+| [SVGKit/SVGKit](../repos/SVGKit/SVGKit.md) | ⭐ 4,586 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 12,940 | 2026-08-03 | 1 |
+| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | ⭐ 672 | 2026-08-04 | 1 |
 
 
 ---
@@ -76,7 +76,7 @@
 | [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 290 | 2026-08-01 |  Google Toolbox for Mac - Session Fetcher |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 |  Google Toolbox for Mac - Session Fetcher |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,071 | 2026-08-01 | Stub your network requests easily! Test your apps with fake network data and custom response time... |
@@ -91,23 +91,23 @@
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,415 | 2026-08-02 | 1 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | 2026-08-01 | 1 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,870 | 2026-08-02 | 2 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,613 | 2026-08-04 | 1 |
+| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,936 | 2026-08-04 | 1 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,846 | 2026-08-04 | 1 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 14,992 | 2026-08-01 | 1 |
+| [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,625 | 2026-08-04 | 1 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,330 | 2026-08-04 | 1 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,071 | 2026-08-02 | 1 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 12,940 | 2026-08-03 | 1 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 12,942 | 2026-08-03 | 2 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,016 | 2026-08-02 | 2 |
 | [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,425 | 2026-08-01 | 2 |
 | [facebookarchive/Shimmer](../repos/facebookarchive/Shimmer.md) | ⭐ 9,331 | 2026-08-02 | 2 |
 | [TTTAttributedLabel/TTTAttributedLabel](../repos/TTTAttributedLabel/TTTAttributedLabel.md) | ⭐ 8,711 | 2026-08-03 | 1 |
 | [Flipboard/FLAnimatedImage](../repos/Flipboard/FLAnimatedImage.md) | ⭐ 7,947 | 2026-08-02 | 1 |
+| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,484 | 2026-08-04 | 1 |
 | [maderix/ANE](../repos/maderix/ANE.md) | ⭐ 7,228 | 2026-08-01 | 1 |
 | [newmarcel/KeepingYouAwake](../repos/newmarcel/KeepingYouAwake.md) | ⭐ 6,801 | 2026-08-02 | 1 |
-| [joeldev/JLRoutes](../repos/joeldev/JLRoutes.md) | ⭐ 5,705 | 2026-08-03 | 1 |
-| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,527 | 2026-08-02 | 1 |
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,071 | 2026-08-01 | 1 |
-| [danveloper/flash-moe](../repos/danveloper/flash-moe.md) | ⭐ 4,039 | 2026-08-03 | 1 |
-| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 1 |
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,201 | 2026-08-02 | 2 |
-| [ReactiveCocoa/ReactiveObjC](../repos/ReactiveCocoa/ReactiveObjC.md) | ⭐ 2,628 | 2026-08-02 | 1 |
+| [kif-framework/KIF](../repos/kif-framework/KIF.md) | ⭐ 6,242 | 2026-08-04 | 1 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [amplitude/Amplitude-iOS](../repos/amplitude/Amplitude-iOS.md) | 3 | ⭐ 327 | 2026-08-02 | 2026-08-04 |
 | [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | 2 | ⭐ 9,425 | 2026-08-01 | 2026-08-03 |
 | [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | 2 | ⭐ 1,704 | 2026-08-01 | 2026-08-03 |
+| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | 2 | ⭐ 27 | 2026-08-01 | 2026-08-04 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 2 | ⭐ 59 | 2026-08-01 | 2026-08-04 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 2 | ⭐ 291 | 2026-08-01 | 2026-08-04 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | 2 | ⭐ 21,870 | 2026-08-02 | 2026-08-03 |
 | [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 2 | ⭐ 659 | 2026-08-02 | 2026-08-03 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | 2 | ⭐ 12,016 | 2026-08-02 | 2026-08-03 |
 | [mixpanel/mixpanel-iphone](../repos/mixpanel/mixpanel-iphone.md) | 2 | ⭐ 1,065 | 2026-08-02 | 2026-08-03 |
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | 2 | ⭐ 3,201 | 2026-08-02 | 2026-08-03 |
-| [amplitude/Amplitude-iOS](../repos/amplitude/Amplitude-iOS.md) | 2 | ⭐ 327 | 2026-08-02 | 2026-08-03 |
-| [facebookarchive/Shimmer](../repos/facebookarchive/Shimmer.md) | 2 | ⭐ 9,331 | 2026-08-02 | 2026-08-03 |
-| [maderix/ANE](../repos/maderix/ANE.md) | 1 | ⭐ 7,228 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -164,7 +164,18 @@
 - [danveloper/flash-moe](../repos/danveloper/flash-moe.md) - Running a big model on a small laptop
 - [TTTAttributedLabel/TTTAttributedLabel](../repos/TTTAttributedLabel/TTTAttributedLabel.md) - A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
 - [roothide/Bootstrap](../repos/roothide/Bootstrap.md) - A full featured bootstrap for iOS 15.0-17.0 A8-A17Pro &amp; M1+M2 using roothide
+- [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) - Staggeringly powerful macOS desktop automation with Lua
+- [realm/realm-swift](../repos/realm/realm-swift.md) - Realm is a mobile database: a replacement for Core Data &amp; SQLite
+- [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) - A fast &amp; simple, yet powerful &amp; flexible logging framework for macOS, iOS, tvOS, watchOS and visi...
+- [SVGKit/SVGKit](../repos/SVGKit/SVGKit.md) - Display and interact with SVG Images on iOS &#x2F; OS X, using native rendering (CoreAnimation)
+- [adjust/ios_sdk](../repos/adjust/ios_sdk.md) - This is the iOS SDK of
+- [kif-framework/KIF](../repos/kif-framework/KIF.md) - Keep It Functional - An iOS Functional Testing Framework
+- [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) - MBProgressHUD + Customizations
+- [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) - An in-app debugging and exploration tool for iOS
+- [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) - MySQL&#x2F;MariaDB database management for macOS
+- [CleverTap/CTNotificationService](../repos/CleverTap/CTNotificationService.md) - A simple Notification Service Extension class to add media attachments to iOS 10 rich push notifi...
+- [CleverTap/clevertap-ios-sdk](../repos/CleverTap/clevertap-ios-sdk.md) - CleverTap iOS SDK
 
 ---
 
-*Last updated: 2026-08-03T22:01:17.373Z*
+*Last updated: 2026-08-04T22:01:06.186Z*

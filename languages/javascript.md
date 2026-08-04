@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 23
+- **Total Repositories**: 30
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-05
+- **Last Updated**: 2026-08-04
 
 ---
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 6,977 | 2026-08-01 | 3 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,352 | 2026-07-30 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | ⭐ 7,589 | 2026-08-02 | 2 |
+| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 6,998 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | ⭐ 31,602 | 2026-08-02 | 2 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,289 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [4ian/GDevelop](../repos/4ian/GDevelop.md) | ⭐ 25,324 | 2026-08-03 | 1 |
+| [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | ⭐ 7,624 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NodeBB/NodeBB](../repos/NodeBB/NodeBB.md) | ⭐ 15,175 | 2026-08-03 | 1 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 31,280 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin-web](../repos/jellyfin/jellyfin-web.md) | ⭐ 3,751 | 2026-08-03 | 1 |
+| [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,920 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 10,893 | 2026-08-03 | 1 |
+| [greensock/GSAP](../repos/greensock/GSAP.md) | ⭐ 27,405 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [validatorjs/validator.js](../repos/validatorjs/validator.js.md) | ⭐ 23,737 | 2026-08-03 | 1 |
+| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Axorax/awesome-free-apps](../repos/Axorax/awesome-free-apps.md) | ⭐ 7,165 | 2026-08-03 | 1 |
+| [projectdiscovery/nuclei-templates](../repos/projectdiscovery/nuclei-templates.md) | ⭐ 12,747 | 2026-08-04 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
 
 
 ---
@@ -52,13 +55,13 @@
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | The library for web and native user interfaces |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 118,250 | 2026-07-30 | The React Framework for Production |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,352 | 2026-07-30 | The React Framework |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,535 | 2026-08-01 | Socket-based TS&#x2F;JavaScript API for WhatsApp Web |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 6,977 | 2026-08-01 | 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 |
+| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 6,998 | 2026-08-01 | 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [woosal1337/blog](../repos/woosal1337/blog.md) | ⭐ 311 | 2026-08-01 | My blog website. |
@@ -76,7 +79,7 @@
 | [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) | ⭐ 347 | 2026-08-01 | Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 56,640 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,289 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
 
 
 ---
@@ -85,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [react/react](../repos/react/react.md) | ⭐ 246,953 | 2026-08-04 | 1 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 118,250 | 2026-07-30 | 3 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 56,640 | 2026-08-01 | 1 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,352 | 2026-07-30 | 4 |
+| [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
+| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
+| [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,920 | 2026-08-04 | 1 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,289 | 2026-08-01 | 2 |
 | [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | ⭐ 31,602 | 2026-08-02 | 2 |
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 30,978 | 2026-08-02 | 1 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 31,280 | 2026-08-02 | 2 |
+| [greensock/GSAP](../repos/greensock/GSAP.md) | ⭐ 27,405 | 2026-08-04 | 1 |
 | [4ian/GDevelop](../repos/4ian/GDevelop.md) | ⭐ 25,324 | 2026-08-03 | 1 |
 | [decolua/9router](../repos/decolua/9router.md) | ⭐ 24,468 | 2026-08-02 | 1 |
 | [validatorjs/validator.js](../repos/validatorjs/validator.js.md) | ⭐ 23,737 | 2026-08-03 | 1 |
 | [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,475 | 2026-08-01 | 1 |
 | [huggingface/transformers.js](../repos/huggingface/transformers.js.md) | ⭐ 16,223 | 2026-08-01 | 1 |
 | [NodeBB/NodeBB](../repos/NodeBB/NodeBB.md) | ⭐ 15,175 | 2026-08-03 | 1 |
+| [projectdiscovery/nuclei-templates](../repos/projectdiscovery/nuclei-templates.md) | ⭐ 12,747 | 2026-08-04 | 1 |
 | [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 10,893 | 2026-08-03 | 1 |
 | [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,535 | 2026-08-01 | 1 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 9,002 | 2026-08-01 | 1 |
-| [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | ⭐ 7,589 | 2026-08-02 | 2 |
-| [Axorax/awesome-free-apps](../repos/Axorax/awesome-free-apps.md) | ⭐ 7,165 | 2026-08-03 | 1 |
-| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 6,977 | 2026-08-01 | 3 |
-| [tangyoha/telegram_media_downloader](../repos/tangyoha/telegram_media_downloader.md) | ⭐ 5,442 | 2026-08-02 | 1 |
-| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 5,425 | 2026-08-02 | 1 |
-| [jellyfin/jellyfin-web](../repos/jellyfin/jellyfin-web.md) | ⭐ 3,751 | 2026-08-03 | 1 |
 
 ---
 
@@ -112,23 +115,23 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [vercel/next.js](../repos/vercel/next.js.md) | 4 | ⭐ 141,352 | 2026-07-30 | 2026-08-04 |
+| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 4 | ⭐ 6,998 | 2026-08-01 | 2026-08-04 |
 | [facebook/react](../repos/facebook/react.md) | 3 | ⭐ 219,500 | 2026-07-30 | 2026-08-05 |
-| [vercel/next.js](../repos/vercel/next.js.md) | 3 | ⭐ 118,250 | 2026-07-30 | 2026-08-10 |
-| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 3 | ⭐ 6,977 | 2026-08-01 | 2026-08-03 |
-| [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | 2 | ⭐ 7,589 | 2026-08-02 | 2026-08-03 |
+| [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | 3 | ⭐ 7,624 | 2026-08-02 | 2026-08-04 |
+| [byoungd/up](../repos/byoungd/up.md) | 2 | ⭐ 57,289 | 2026-08-01 | 2026-08-04 |
 | [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | 2 | ⭐ 31,602 | 2026-08-02 | 2026-08-03 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 2 | ⭐ 31,280 | 2026-08-02 | 2026-08-04 |
 | [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | 1 | ⭐ 10,535 | 2026-08-01 | 2026-08-01 |
 | [woosal1337/blog](../repos/woosal1337/blog.md) | 1 | ⭐ 311 | 2026-08-01 | 2026-08-01 |
 | [huggingface/transformers.js](../repos/huggingface/transformers.js.md) | 1 | ⭐ 16,223 | 2026-08-01 | 2026-08-01 |
-| [node-red/node-red](../repos/node-red/node-red.md) | 1 | ⭐ 23,475 | 2026-08-01 | 2026-08-01 |
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 1 | ⭐ 9,002 | 2026-08-01 | 2026-08-01 |
 
 ---
 
 ## 📋 All JavaScript Repositories
 
 - [facebook/react](../repos/facebook/react.md) - The library for web and native user interfaces
-- [vercel/next.js](../repos/vercel/next.js.md) - The React Framework for Production
+- [vercel/next.js](../repos/vercel/next.js.md) - The React Framework
 - [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) - Socket-based TS&#x2F;JavaScript API for WhatsApp Web
 - [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) - 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
 - [woosal1337/blog](../repos/woosal1337/blog.md) - My blog website.
@@ -150,7 +153,14 @@
 - [is-a-dev/register](../repos/is-a-dev/register.md) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain.
 - [validatorjs/validator.js](../repos/validatorjs/validator.js.md) - String validation
 - [Axorax/awesome-free-apps](../repos/Axorax/awesome-free-apps.md) - Curated list of the best free apps for PC and mobile
+- [webpack/webpack](../repos/webpack/webpack.md) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splittin...
+- [greensock/GSAP](../repos/greensock/GSAP.md) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
+- [expressjs/express](../repos/expressjs/express.md) - Fast, unopinionated, minimalist web framework for node.
+- [projectdiscovery/nuclei-templates](../repos/projectdiscovery/nuclei-templates.md) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+- [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) - Clean Code concepts adapted for JavaScript
+- [worldwonderer/oh-story-claudecode](../repos/worldwonderer/oh-story-claudecode.md) - 网文&#x2F;小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-f...
+- [react/react](../repos/react/react.md) - The library for web and native user interfaces.
 
 ---
 
-*Last updated: 2026-08-03T22:01:17.364Z*
+*Last updated: 2026-08-04T22:01:06.177Z*

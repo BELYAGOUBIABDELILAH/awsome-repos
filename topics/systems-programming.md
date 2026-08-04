@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 585
+- **Total Repositories**: 740
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 21502
+- **Average Stars**: 21525
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) | ⭐ 60,643 | Jupyter Notebook |  |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,194 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 224,853 | Python |  |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,352 | JavaScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 65,645 | Python |  |
+| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,046 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 11,999 | TypeScript |  |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 992 | Go |  |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 225,459 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,592 | C# |  |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 66,444 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,021 | PHP |  |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,289 | JavaScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 27,923 | PHP |  |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 13,446 | TypeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [PrestaShop/PrestaShop](../repos/PrestaShop/PrestaShop.md) | ⭐ 9,178 | PHP |  |
+| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,047 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 15,747 | Ruby |  |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | Go |  |
 
 
 ---
@@ -55,14 +55,14 @@
 |------------|-------|----------|------------|---------------|
 | [codecrafters-io/build-your-own-x](../repos/codecrafters-io/build-your-own-x.md) | ⭐ 534,798 | Markdown | 2026-08-02 | 1 |
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 453,833 | Python | 2026-08-01 | 1 |
-| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 360,473 | Python | 2026-08-03 | 1 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 224,853 | Python | 2026-08-01 | 3 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 360,959 | Python | 2026-08-03 | 2 |
+| [react/react](../repos/react/react.md) | ⭐ 246,953 | JavaScript | 2026-08-04 | 1 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 225,459 | Python | 2026-08-01 | 4 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
+| [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | TypeScript | 2026-08-04 | 1 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 207,559 | HTML | 2026-08-03 | 1 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | Python | 2026-07-30 | 4 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 182,027 | Python | 2026-08-02 | 1 |
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,161 | Dart | 2026-08-01 | 3 |
-| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 156,600 | TypeScript | 2026-07-30 | 4 |
 
 ---
 
@@ -82,22 +82,22 @@
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 156,600 | TypeScript | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,053 | Rust | 1 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,194 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 118,250 | JavaScript | 1 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,352 | JavaScript | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [denoland/deno](../repos/denoland/deno.md) | ⭐ 93,000 | Rust | 1 |
+| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,046 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 118,600 | Go | 1 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 18,500 | Rust | 1 |
 
 ---
 
@@ -117,26 +117,30 @@
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 156,600 | TypeScript | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,053 | Rust | 2026-07-30 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,194 | Rust | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 118,250 | JavaScript | 2026-07-30 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,352 | JavaScript | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | Rust | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [denoland/deno](../repos/denoland/deno.md) | ⭐ 93,000 | Rust | 2026-07-30 |
+| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,046 | Rust | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | Python | 2026-07-31 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 118,600 | Go | 2026-07-31 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 18,500 | Rust | 2026-07-31 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-08-04](../archive/2026/08/2026-08-04.md)
+- 333 repositories trending
+- Top: donnemartin&#x2F;system-design-primer
 
 ### [2026-08-03](../archive/2026/08/2026-08-03.md)
 - 273 repositories trending
@@ -147,11 +151,11 @@
 - Top: codecrafters-io&#x2F;build-your-own-x
 
 ### [2026-08-01](../archive/2026/08/2026-08-01.md)
-- 273 repositories trending
+- 274 repositories trending
 - Top: public-apis&#x2F;public-apis
 
 ### [2026-07-31](../archive/2026/07/2026-07-31.md)
-- 11 repositories trending
+- 10 repositories trending
 - Top: facebook&#x2F;react
 
 ### [2026-07-30](../archive/2026/07/2026-07-30.md)
@@ -169,29 +173,29 @@
 |------------|----------------|------------|--------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 4 days | 2026-07-30 | 2026-08-05 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 4 days | 2026-07-30 | 2026-08-10 |
-| [facebook/react](../repos/facebook/react.md) | 3 days | 2026-07-30 | 2026-08-05 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | 3 days | 2026-07-30 | 2026-08-02 |
-| [vercel/next.js](../repos/vercel/next.js.md) | 3 days | 2026-07-30 | 2026-08-10 |
-| [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | 3 days | 2026-07-30 | 2026-08-05 |
-| [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | 4 days | 2026-07-30 | 2026-08-04 |
+| [vercel/next.js](../repos/vercel/next.js.md) | 4 days | 2026-07-30 | 2026-08-04 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [github/gh-stack](../repos/github/gh-stack.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 4 days | 2026-08-01 | 2026-08-04 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Rust**: 37 repositories (6%)
-- **Go**: 34 repositories (6%)
-- **C++**: 33 repositories (6%)
-- **Python**: 29 repositories (5%)
-- **Vue**: 27 repositories (5%)
+- **Rust**: 42 repositories (6%)
+- **Go**: 42 repositories (6%)
+- **C++**: 41 repositories (6%)
+- **Python**: 38 repositories (5%)
+- **Java**: 34 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 103.6 repositories
-- **Peak Day**: 2026-08-01 (273 repositories)
+- **Daily Average**: 145 repositories
+- **Peak Day**: 2026-08-04 (333 repositories)
 - **Growth Rate**: 100% this month
 
 ---
@@ -208,11 +212,10 @@
 - [facebook/react](../repos/facebook/react.md) - The library for web and native user interfaces
 - [microsoft/vscode](../repos/microsoft/vscode.md) - Visual Studio Code
 - [rust-lang/rust](../repos/rust-lang/rust.md) - Empowering everyone to build reliable and efficient software.
-- [vercel/next.js](../repos/vercel/next.js.md) - The React Framework for Production
+- [vercel/next.js](../repos/vercel/next.js.md) - The React Framework
 - [tauri-apps/tauri](../repos/tauri-apps/tauri.md) - Build smaller, faster, and more secure desktop applications with a web frontend
-- [denoland/deno](../repos/denoland/deno.md) - A modern runtime for JavaScript and TypeScript
+- [denoland/deno](../repos/denoland/deno.md) - A modern runtime for JavaScript and TypeScript.
 - [huggingface/transformers](../repos/huggingface/transformers.md) - State-of-the-art Machine Learning for PyTorch, TensorFlow, and JAX
-- [golang/go](../repos/golang/go.md) - The Go programming language
 - [astral-sh/uv](../repos/astral-sh/uv.md) - An extremely fast Python package installer and resolver, written in Rust
 - [shadcn-ui/ui](../repos/shadcn-ui/ui.md) - Beautifully designed components that you can copy and paste into your apps
 - [anthropics/anthropic-sdk-python](../repos/anthropics/anthropic-sdk-python.md) - SDK for Anthropic&#39;s Claude AI
@@ -278,6 +281,7 @@
 - [grpc/grpc-java](../repos/grpc/grpc-java.md) - The Java gRPC implementation. HTTP&#x2F;2 based RPC
 - [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) - 🔎 Open source distributed and RESTful search engine.
 - [xoureldeen/Vectras-VM-Android](../repos/xoureldeen/Vectras-VM-Android.md) - It&#39;s a Virtual Machine App for Android Which is Based on QEMU
+- [modelcontextprotocol/java-sdk](../repos/modelcontextprotocol/java-sdk.md) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration...
 - [apache/maven](../repos/apache/maven.md) - Apache Maven core
 - [debezium/debezium](../repos/debezium/debezium.md) - Change data capture for a variety of databases. Please log issues at https:&#x2F;&#x2F;github.com&#x2F;debezium&#x2F;...
 - [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, docum...
@@ -306,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-08-03T22:01:17.267Z*
+*Last updated: 2026-08-04T22:01:06.049Z*

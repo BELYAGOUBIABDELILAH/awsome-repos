@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 69
+- **Total Repositories**: 88
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 18990
+- **Average Stars**: 17576
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | Go |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,229 | C |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,670 | Ruby |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,780 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,388 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,512 | Clojure |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,783 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,237 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,532 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,096 | OCaml |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,268 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,543 | Perl |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,109 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,869 | Vue |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,100 | Assembly |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,778 | V |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,203 | Solidity |  |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,550 | Perl |  |
 
 
 ---
@@ -54,15 +54,15 @@
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | TypeScript | 2026-08-02 | 1 |
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,751 | C++ | 2026-08-02 | 1 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,777 | C++ | 2026-08-02 | 2 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,155 | Python | 2026-08-02 | 2 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,616 | Go | 2026-08-03 | 1 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,477 | C | 2026-08-02 | 2 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,512 | Clojure | 2026-08-01 | 3 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,237 | Clojure | 2026-08-01 | 3 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,780 | Scala | 2026-08-01 | 3 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,532 | Clojure | 2026-08-01 | 4 |
+| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 48,245 | Python | 2026-08-04 | 1 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,268 | Clojure | 2026-08-01 | 4 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,783 | Scala | 2026-08-01 | 4 |
 | [ccxt/ccxt](../repos/ccxt/ccxt.md) | ⭐ 43,493 | Python | 2026-08-02 | 1 |
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,691 | Vim Script | 2026-08-01 | 2 |
 
 ---
 
@@ -88,7 +88,7 @@
 | [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 5,435 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,172 | Go | 1 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,063 | Java | 1 |
@@ -123,7 +123,7 @@
 | [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 5,435 | Go | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,172 | Go | 2026-08-01 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | Go | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,063 | Java | 2026-08-01 |
@@ -137,6 +137,10 @@
 ---
 
 ## 📅 Recent History
+
+### [2026-08-04](../archive/2026/08/2026-08-04.md)
+- 41 repositories trending
+- Top: bitcoin&#x2F;bitcoin
 
 ### [2026-08-03](../archive/2026/08/2026-08-03.md)
 - 29 repositories trending
@@ -159,31 +163,31 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [apache/spark](../repos/apache/spark.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [apache/spark](../repos/apache/spark.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [vlang/v](../repos/vlang/v.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 3 days | 2026-08-01 | 2026-08-04 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [vlang/v](../repos/vlang/v.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | 2 days | 2026-08-01 | 2026-08-02 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **C**: 12 repositories (17%)
-- **Go**: 9 repositories (13%)
-- **Python**: 3 repositories (4%)
-- **Rust**: 3 repositories (4%)
-- **PHP**: 3 repositories (4%)
+- **C**: 14 repositories (16%)
+- **Go**: 10 repositories (11%)
+- **Python**: 6 repositories (7%)
+- **R**: 5 repositories (6%)
+- **C++**: 4 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 34.3 repositories
-- **Peak Day**: 2026-08-02 (38 repositories)
+- **Daily Average**: 36 repositories
+- **Peak Day**: 2026-08-04 (41 repositories)
 - **Growth Rate**: 100% this month
 
 ---
@@ -264,7 +268,26 @@
 - [esmuellert/codediff.nvim](../repos/esmuellert/codediff.nvim.md) - VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level...
 - [erlang/rebar3](../repos/erlang/rebar3.md) - Erlang build tool that makes it easy to compile and test Erlang applications and releases.
 - [samratashok/nishang](../repos/samratashok/nishang.md) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security. 
+- [uber/ADR](../repos/uber/ADR.md) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detecti...
+- [Coldcard/firmware](../repos/Coldcard/firmware.md) - ❄️ Firmware and simulator for Coldcard Hardware Wallet
+- [usestrix/strix](../repos/usestrix/strix.md) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+- [projectdiscovery/nuclei-templates](../repos/projectdiscovery/nuclei-templates.md) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+- [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and...
+- [catchorg/Catch2](../repos/catchorg/Catch2.md) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (...
+- [xournalpp/xournalpp](../repos/xournalpp/xournalpp.md) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with G...
+- [wazuh/wazuh](../repos/wazuh/wazuh.md) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and clou...
+- [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) - An open source, portable, easy to use, readable and flexible TLS library, and reference implement...
+- [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+- [google/oss-fuzz](../repos/google/oss-fuzz.md) - OSS-Fuzz - continuous fuzzing for open source software.
+- [tidyverse/dplyr](../repos/tidyverse/dplyr.md) - dplyr: A grammar of data manipulation
+- [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) - An implementation of the Grammar of Graphics in R
+- [hadley/r4ds](../repos/hadley/r4ds.md) - R for data science: a book
+- [r-spatial/sf](../repos/r-spatial/sf.md) - Simple Features for R
+- [awesomeWM/awesome](../repos/awesomeWM/awesome.md) - awesome window manager
+- [xmake-io/xmake](../repos/xmake-io/xmake.md) - 🔥 A cross-platform build utility based on Lua
+- [trickest/cve](../repos/trickest/cve.md) - Gather and update all available and newest CVEs with their PoC.
+- [DefectDojo/django-DefectDojo](../repos/DefectDojo/django-DefectDojo.md) - Open-Source Unified Vulnerability Management, DevSecOps &amp; ASPM
 
 ---
 
-*Last updated: 2026-08-03T22:01:17.254Z*
+*Last updated: 2026-08-04T22:01:06.036Z*

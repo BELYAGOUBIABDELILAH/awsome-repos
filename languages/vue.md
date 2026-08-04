@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 35
+- **Total Repositories**: 39
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,869 | 2026-08-01 | 3 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,119 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,704 | 2026-08-01 | 2 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,042 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,075 | 2026-08-01 | 2 |
+| [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | ⭐ 797 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 244 | 2026-08-01 | 3 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,305 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,076 | 2026-08-01 | 2 |
+| [ljxi/Cloudflare-R2-oss](../repos/ljxi/Cloudflare-R2-oss.md) | ⭐ 488 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,588 | 2026-08-01 | 3 |
+| [vuejs/docs](../repos/vuejs/docs.md) | ⭐ 3,234 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 425 | 2026-08-02 | 2 |
+| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 1,452 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | ⭐ 789 | 2026-08-02 | 2 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,697 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,296 | 2026-08-02 | 2 |
+| [VueTorrent/VueTorrent](../repos/VueTorrent/VueTorrent.md) | ⭐ 6,907 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ljxi/Cloudflare-R2-oss](../repos/ljxi/Cloudflare-R2-oss.md) | ⭐ 485 | 2026-08-02 | 2 |
+| [hslr-s/sun-panel](../repos/hslr-s/sun-panel.md) | ⭐ 5,256 | 2026-08-04 | 1 |
 
 
 ---
@@ -64,7 +64,7 @@
 | [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 3,919 | 2026-08-01 | 跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,075 | 2026-08-01 | Fully featured, open source CRM |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,119 | 2026-08-01 | Fully featured, open source CRM |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,238 | 2026-08-01 | :tada: A magical vue admin                                                                https:&#x2F;... |
@@ -91,23 +91,23 @@
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,238 | 2026-08-01 | 2 |
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,076 | 2026-08-01 | 2 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,098 | 2026-08-01 | 1 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,021 | 2026-08-01 | 2 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,042 | 2026-08-01 | 3 |
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,704 | 2026-08-01 | 2 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,608 | 2026-08-02 | 1 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,588 | 2026-08-01 | 3 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,296 | 2026-08-02 | 2 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,305 | 2026-08-02 | 3 |
 | [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,192 | 2026-08-03 | 1 |
 | [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,854 | 2026-08-03 | 1 |
-| [VueTorrent/VueTorrent](../repos/VueTorrent/VueTorrent.md) | ⭐ 6,904 | 2026-08-03 | 1 |
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,691 | 2026-08-02 | 1 |
+| [un-pany/v3-admin-vite](../repos/un-pany/v3-admin-vite.md) | ⭐ 7,018 | 2026-08-04 | 1 |
+| [VueTorrent/VueTorrent](../repos/VueTorrent/VueTorrent.md) | ⭐ 6,907 | 2026-08-03 | 2 |
+| [luckjiawei/frpc-desktop](../repos/luckjiawei/frpc-desktop.md) | ⭐ 6,811 | 2026-08-04 | 1 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,697 | 2026-08-02 | 2 |
+| [hslr-s/sun-panel](../repos/hslr-s/sun-panel.md) | ⭐ 5,256 | 2026-08-04 | 1 |
 | [imsyy/home](../repos/imsyy/home.md) | ⭐ 4,585 | 2026-08-01 | 1 |
 | [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 3,919 | 2026-08-01 | 1 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,869 | 2026-08-01 | 3 |
 | [inovector/mixpost](../repos/inovector/mixpost.md) | ⭐ 3,474 | 2026-08-01 | 1 |
 | [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,275 | 2026-08-01 | 1 |
-| [vuejs/docs](../repos/vuejs/docs.md) | ⭐ 3,234 | 2026-08-02 | 1 |
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,075 | 2026-08-01 | 2 |
-| [Virtual-Browser/VirtualBrowser](../repos/Virtual-Browser/VirtualBrowser.md) | ⭐ 3,029 | 2026-08-02 | 1 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 3 | ⭐ 3,869 | 2026-08-01 | 2026-08-03 |
+| [frappe/crm](../repos/frappe/crm.md) | 3 | ⭐ 3,119 | 2026-08-01 | 2026-08-04 |
 | [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | 3 | ⭐ 244 | 2026-08-01 | 2026-08-03 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 3 | ⭐ 21,588 | 2026-08-01 | 2026-08-03 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 3 | ⭐ 33,042 | 2026-08-01 | 2026-08-04 |
+| [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | 3 | ⭐ 797 | 2026-08-02 | 2026-08-04 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 3 | ⭐ 16,305 | 2026-08-02 | 2026-08-04 |
+| [ljxi/Cloudflare-R2-oss](../repos/ljxi/Cloudflare-R2-oss.md) | 3 | ⭐ 488 | 2026-08-02 | 2026-08-04 |
+| [julyx10/lap](../repos/julyx10/lap.md) | 3 | ⭐ 1,452 | 2026-08-02 | 2026-08-04 |
 | [requarks/wiki](../repos/requarks/wiki.md) | 2 | ⭐ 28,704 | 2026-08-01 | 2026-08-03 |
-| [frappe/crm](../repos/frappe/crm.md) | 2 | ⭐ 3,075 | 2026-08-01 | 2026-08-03 |
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | 2 | ⭐ 90,238 | 2026-08-01 | 2026-08-02 |
-| [ElemeFE/element](../repos/ElemeFE/element.md) | 2 | ⭐ 54,076 | 2026-08-01 | 2026-08-03 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 2 | ⭐ 33,021 | 2026-08-01 | 2026-08-02 |
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 2 | ⭐ 425 | 2026-08-02 | 2026-08-03 |
-| [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | 2 | ⭐ 789 | 2026-08-02 | 2026-08-03 |
 
 ---
 
@@ -165,7 +165,11 @@
 - [frappe/builder](../repos/frappe/builder.md) - Craft beautiful websites effortlessly with an intuitive visual builder and publish them instantly
 - [frappe/suite](../repos/frappe/suite.md) - Original, intentionally designed productivity tools
 - [imsyy/yt-dlp-gui](../repos/imsyy/yt-dlp-gui.md) - A modern cross-platform GUI for yt-dlp. Download videos from YouTube, Bilibili, TikTok and 1000+ ...
+- [hslr-s/sun-panel](../repos/hslr-s/sun-panel.md) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
+- [DependencyTrack/frontend](../repos/DependencyTrack/frontend.md) - Frontend UI for Dependency-Track
+- [luckjiawei/frpc-desktop](../repos/luckjiawei/frpc-desktop.md) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
+- [un-pany/v3-admin-vite](../repos/un-pany/v3-admin-vite.md) - ☀️ AI-friendly Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue ...
 
 ---
 
-*Last updated: 2026-08-03T22:01:17.393Z*
+*Last updated: 2026-08-04T22:01:06.220Z*

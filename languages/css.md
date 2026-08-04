@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 17
+- **Total Repositories**: 23
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-01
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 11,979 | 2026-08-01 | 3 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,397 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,142 | 2026-08-01 | 3 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,381 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 915 | 2026-08-01 | 3 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 21,650 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,397 | 2026-08-01 | 3 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,053 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,378 | 2026-08-01 | 3 |
+| [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) | ⭐ 17,258 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,022 | 2026-08-02 | 2 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 8,855 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) | ⭐ 17,233 | 2026-08-02 | 2 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,225 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,414 | 2026-08-03 | 1 |
+| [evildmp/diataxis-documentation-framework](../repos/evildmp/diataxis-documentation-framework.md) | ⭐ 1,181 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jenqyang/Awesome-AI-Agents](../repos/Jenqyang/Awesome-AI-Agents.md) | ⭐ 1,194 | 2026-08-03 | 1 |
+| [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,759 | 2026-08-04 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [dend/awesome-product-management](../repos/dend/awesome-product-management.md) | ⭐ 2,295 | 2026-08-04 | 1 |
 
 
 ---
@@ -67,7 +70,7 @@
 | [rk192324217/cubosapiens_world-tools](../repos/rk192324217/cubosapiens_world-tools.md) | ⭐ 21 | 2026-08-01 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,378 | 2026-08-01 |  |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,381 | 2026-08-01 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sapthesh/Birthday](../repos/sapthesh/Birthday.md) | ⭐ 150 | 2026-08-01 | The Customizable Birthday Web Template is a versatile and user-friendly website template designed... |
@@ -86,22 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,539 | 2026-08-01 | 1 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 20,842 | 2026-08-02 | 1 |
-| [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) | ⭐ 17,233 | 2026-08-02 | 2 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,225 | 2026-08-04 | 1 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 21,650 | 2026-08-02 | 2 |
+| [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,501 | 2026-08-04 | 1 |
+| [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) | ⭐ 17,258 | 2026-08-02 | 3 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 11,979 | 2026-08-01 | 3 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,022 | 2026-08-02 | 2 |
+| [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,759 | 2026-08-04 | 1 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,053 | 2026-08-02 | 3 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,142 | 2026-08-01 | 3 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 8,855 | 2026-08-04 | 1 |
 | [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,414 | 2026-08-03 | 1 |
 | [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) | ⭐ 5,959 | 2026-08-02 | 1 |
 | [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,317 | 2026-08-02 | 1 |
 | [vinceliuice/Orchis-theme](../repos/vinceliuice/Orchis-theme.md) | ⭐ 4,038 | 2026-08-02 | 1 |
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,397 | 2026-08-01 | 3 |
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,378 | 2026-08-01 | 3 |
+| [dend/awesome-product-management](../repos/dend/awesome-product-management.md) | ⭐ 2,295 | 2026-08-04 | 1 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,397 | 2026-08-01 | 4 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,381 | 2026-08-01 | 4 |
 | [Jenqyang/Awesome-AI-Agents](../repos/Jenqyang/Awesome-AI-Agents.md) | ⭐ 1,194 | 2026-08-03 | 1 |
+| [evildmp/diataxis-documentation-framework](../repos/evildmp/diataxis-documentation-framework.md) | ⭐ 1,181 | 2026-08-04 | 1 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 915 | 2026-08-01 | 3 |
-| [ZoranPandovski/awesome-testing-tools](../repos/ZoranPandovski/awesome-testing-tools.md) | ⭐ 364 | 2026-08-02 | 1 |
-| [sapthesh/Birthday](../repos/sapthesh/Birthday.md) | ⭐ 150 | 2026-08-01 | 1 |
-| [rk192324217/cubosapiens_world-tools](../repos/rk192324217/cubosapiens_world-tools.md) | ⭐ 21 | 2026-08-01 | 1 |
 
 ---
 
@@ -109,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 4 | ⭐ 1,397 | 2026-08-01 | 2026-08-04 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 4 | ⭐ 1,381 | 2026-08-01 | 2026-08-04 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 3 | ⭐ 11,979 | 2026-08-01 | 2026-08-03 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 3 | ⭐ 9,142 | 2026-08-01 | 2026-08-03 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 3 | ⭐ 915 | 2026-08-01 | 2026-08-03 |
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 3 | ⭐ 1,397 | 2026-08-01 | 2026-08-03 |
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 3 | ⭐ 1,378 | 2026-08-01 | 2026-08-03 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 2 | ⭐ 10,022 | 2026-08-02 | 2026-08-03 |
-| [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) | 2 | ⭐ 17,233 | 2026-08-02 | 2026-08-03 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 3 | ⭐ 10,053 | 2026-08-02 | 2026-08-04 |
+| [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) | 3 | ⭐ 17,258 | 2026-08-02 | 2026-08-04 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 2 | ⭐ 21,650 | 2026-08-02 | 2026-08-04 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | 1 | ⭐ 53,539 | 2026-08-01 | 2026-08-01 |
 | [rk192324217/cubosapiens_world-tools](../repos/rk192324217/cubosapiens_world-tools.md) | 1 | ⭐ 21 | 2026-08-01 | 2026-08-01 |
-| [sapthesh/Birthday](../repos/sapthesh/Birthday.md) | 1 | ⭐ 150 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -141,7 +147,13 @@
 - [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) - A Patch for GIMP 3+ for Photoshop Users
 - [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) - Build a Jekyll blog in minutes, without touching the command line.
 - [Jenqyang/Awesome-AI-Agents](../repos/Jenqyang/Awesome-AI-Agents.md) - A collection of autonomous agents 🤖️ powered by LLM.
+- [zyronon/TypeWords](../repos/zyronon/TypeWords.md) - Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；
+- [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about c...
+- [evildmp/diataxis-documentation-framework](../repos/evildmp/diataxis-documentation-framework.md) - A systematic approach to creating better documentation.
+- [devicons/devicon](../repos/devicons/devicon.md) - Set of icons representing programming languages, designing &amp; development tools
+- [dend/awesome-product-management](../repos/dend/awesome-product-management.md) - 🚀 A curated list of awesome resources for product&#x2F;program managers to learn and grow.
+- [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) - UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for ev...
 
 ---
 
-*Last updated: 2026-08-03T22:01:17.349Z*
+*Last updated: 2026-08-04T22:01:06.158Z*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 43
+- **Total Repositories**: 60
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-02
+- **Last Updated**: 2026-08-04
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,340 | 2026-08-01 | 3 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,455 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,650 | 2026-08-02 | 2 |
+| [modelcontextprotocol/java-sdk](../repos/modelcontextprotocol/java-sdk.md) | ⭐ 3,635 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [woheller69/FreeDroidWarn](../repos/woheller69/FreeDroidWarn.md) | ⭐ 3,030 | 2026-08-02 | 2 |
+| [apache/maven](../repos/apache/maven.md) | ⭐ 5,302 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 25,887 | 2026-08-02 | 2 |
+| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,492 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | ⭐ 2,406 | 2026-08-02 | 2 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,748 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-leetcode-resources](../repos/ashishps1/awesome-leetcode-resources.md) | ⭐ 17,557 | 2026-08-03 | 1 |
+| [apache/druid](../repos/apache/druid.md) | ⭐ 14,040 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,141 | 2026-08-03 | 1 |
+| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 4,862 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adityatandon15/Low-Level-Design-Course](../repos/adityatandon15/Low-Level-Design-Course.md) | ⭐ 1,120 | 2026-08-03 | 1 |
+| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,101 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Crystaelix/Create-Simurail](../repos/Crystaelix/Create-Simurail.md) | ⭐ 127 | 2026-08-03 | 1 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,555 | 2026-08-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AntennaPod/AntennaPod](../repos/AntennaPod/AntennaPod.md) | ⭐ 8,049 | 2026-08-03 | 1 |
+| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 129,155 | 2026-08-04 | 1 |
 
 
 ---
@@ -79,7 +79,7 @@
 | [grpc/grpc-java](../repos/grpc/grpc-java.md) | ⭐ 12,056 | 2026-08-01 | The Java gRPC implementation. HTTP&#x2F;2 based RPC |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,426 | 2026-08-01 | 🔎 Open source distributed and RESTful search engine. |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,455 | 2026-08-01 | 🔎 Open source distributed and RESTful search engine. |
 
 
 ---
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,642 | 2026-08-02 | 1 |
+| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 129,155 | 2026-08-04 | 1 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,238 | 2026-08-04 | 1 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,748 | 2026-08-02 | 2 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 71,817 | 2026-08-03 | 1 |
+| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,103 | 2026-08-04 | 1 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,535 | 2026-08-02 | 1 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,289 | 2026-08-04 | 1 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,218 | 2026-08-02 | 1 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 31,740 | 2026-08-04 | 1 |
 | [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,650 | 2026-08-02 | 2 |
-| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,456 | 2026-08-02 | 1 |
+| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,492 | 2026-08-02 | 2 |
 | [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,141 | 2026-08-03 | 1 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,555 | 2026-08-04 | 1 |
 | [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,636 | 2026-08-01 | 1 |
+| [apache/flink](../repos/apache/flink.md) | ⭐ 26,242 | 2026-08-04 | 1 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 25,887 | 2026-08-02 | 2 |
 | [bazelbuild/bazel](../repos/bazelbuild/bazel.md) | ⭐ 25,667 | 2026-08-02 | 1 |
+| [openjdk/jdk](../repos/openjdk/jdk.md) | ⭐ 23,183 | 2026-08-04 | 1 |
 | [ashishps1/awesome-leetcode-resources](../repos/ashishps1/awesome-leetcode-resources.md) | ⭐ 17,557 | 2026-08-03 | 1 |
-| [apache/druid](../repos/apache/druid.md) | ⭐ 14,038 | 2026-08-03 | 1 |
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,426 | 2026-08-01 | 1 |
-| [debezium/debezium](../repos/debezium/debezium.md) | ⭐ 12,969 | 2026-08-01 | 1 |
-| [grpc/grpc-java](../repos/grpc/grpc-java.md) | ⭐ 12,056 | 2026-08-01 | 1 |
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,340 | 2026-08-01 | 3 |
-| [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | ⭐ 9,665 | 2026-08-01 | 1 |
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,229 | 2026-08-01 | 1 |
-| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,075 | 2026-08-03 | 1 |
-| [AntennaPod/AntennaPod](../repos/AntennaPod/AntennaPod.md) | ⭐ 8,049 | 2026-08-03 | 1 |
+| [itwanger/toBeBetterJavaer](../repos/itwanger/toBeBetterJavaer.md) | ⭐ 17,416 | 2026-08-04 | 1 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [github/copilot-sdk](../repos/github/copilot-sdk.md) | 3 | ⭐ 10,340 | 2026-08-01 | 2026-08-03 |
-| [apache/maven](../repos/apache/maven.md) | 2 | ⭐ 5,292 | 2026-08-01 | 2026-08-02 |
+| [apache/maven](../repos/apache/maven.md) | 3 | ⭐ 5,302 | 2026-08-01 | 2026-08-04 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 2 | ⭐ 13,455 | 2026-08-01 | 2026-08-04 |
+| [modelcontextprotocol/java-sdk](../repos/modelcontextprotocol/java-sdk.md) | 2 | ⭐ 3,635 | 2026-08-01 | 2026-08-04 |
+| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | 2 | ⭐ 28,492 | 2026-08-02 | 2026-08-04 |
 | [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | 2 | ⭐ 29,650 | 2026-08-02 | 2026-08-03 |
 | [woheller69/FreeDroidWarn](../repos/woheller69/FreeDroidWarn.md) | 2 | ⭐ 3,030 | 2026-08-02 | 2026-08-03 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 2 | ⭐ 25,887 | 2026-08-02 | 2026-08-03 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 2 | ⭐ 77,748 | 2026-08-02 | 2026-08-04 |
 | [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | 2 | ⭐ 2,406 | 2026-08-02 | 2026-08-03 |
-| [crimera/piko](../repos/crimera/piko.md) | 1 | ⭐ 4,511 | 2026-08-01 | 2026-08-01 |
-| [alibaba/fastjson2](../repos/alibaba/fastjson2.md) | 1 | ⭐ 4,372 | 2026-08-01 | 2026-08-01 |
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | 1 | ⭐ 4,063 | 2026-08-01 | 2026-08-01 |
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | 1 | ⭐ 9,229 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -173,7 +173,24 @@
 - [cabaletta/baritone](../repos/cabaletta/baritone.md) - google maps for block game
 - [TGX-Android/Telegram-X](../repos/TGX-Android/Telegram-X.md) - The main repository of Telegram X — official alternative Telegram client for Android.
 - [apache/druid](../repos/apache/druid.md) - Apache Druid: a high performance real-time analytics database.
+- [iflytek/skillhub](../repos/iflytek/skillhub.md) - Self-hosted, open-source agent skill registry for enterprises. Publish &amp; version skill packages, ...
+- [trinodb/trino](../repos/trinodb/trino.md) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as Pr...
+- [kestra-io/kestra](../repos/kestra-io/kestra.md) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications
+- [krahets/hello-algo](../repos/krahets/hello-algo.md) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Ru...
+- [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) - All Algorithms implemented in Java
+- [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) - Browse media content with your own rules on Android TV
+- [apache/cassandra](../repos/apache/cassandra.md) - Open source transactional distributed database. Linear scalability and proven fault-tolerance on ...
+- [AutoMQ/automq](../repos/AutoMQ/automq.md) - Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single...
+- [itwanger/toBeBetterJavaer](../repos/itwanger/toBeBetterJavaer.md) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
+- [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) - Free universal database tool and SQL client
+- [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) - Spring Boot helps you to create Spring-powered, production-grade applications and services with a...
+- [Apicurio/apicurio-registry](../repos/Apicurio/apicurio-registry.md) - An API&#x2F;Schema registry - stores APIs and Schemas.
+- [apache/flink](../repos/apache/flink.md) - Apache Flink
+- [camunda/camunda](../repos/camunda/camunda.md) - Process Orchestration Framework
+- [apache/paimon](../repos/apache/paimon.md) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink...
+- [openjdk/jdk](../repos/openjdk/jdk.md) - JDK main-line development https:&#x2F;&#x2F;openjdk.org&#x2F;projects&#x2F;jdk
+- [supertokens/supertokens-core](../repos/supertokens/supertokens-core.md) - Open source alternative to Auth0 &#x2F; Firebase Auth &#x2F; AWS Cognito 
 
 ---
 
-*Last updated: 2026-08-03T22:01:17.363Z*
+*Last updated: 2026-08-04T22:01:06.175Z*

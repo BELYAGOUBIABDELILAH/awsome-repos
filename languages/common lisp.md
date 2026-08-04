@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 2
+- **Total Repositories**: 4
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-03
+- **Last Updated**: 2026-08-04
 
 ---
 
@@ -16,10 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 3 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,474 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,472 | 2026-08-03 | 1 |
+| [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | ⭐ 1,734 | 2026-08-04 | 1 |
 
 
 ---
@@ -31,7 +34,13 @@
 | [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | General-purpose editor&#x2F;IDE with high expansibility in Common Lisp |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,472 | 2026-08-03 | Reviving the language that brought us the Jak &amp; Daxter Series |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,474 | 2026-08-03 | Reviving the language that brought us the Jak &amp; Daxter Series |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | Nyxt - the hacker&#39;s browser. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | ⭐ 1,734 | 2026-08-04 | Coalton is an efficient, statically typed functional programming language that supercharges Commo... |
 
 
 ---
@@ -40,8 +49,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,472 | 2026-08-03 | 1 |
+| [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | 1 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,474 | 2026-08-03 | 2 |
 | [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 3 |
+| [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | ⭐ 1,734 | 2026-08-04 | 1 |
 
 ---
 
@@ -50,7 +61,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [lem-project/lem](../repos/lem-project/lem.md) | 3 | ⭐ 3,023 | 2026-08-01 | 2026-08-03 |
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 1 | ⭐ 3,472 | 2026-08-03 | 2026-08-03 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 2 | ⭐ 3,474 | 2026-08-03 | 2026-08-04 |
+| [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | 1 | ⭐ 10,986 | 2026-08-04 | 2026-08-04 |
+| [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | 1 | ⭐ 1,734 | 2026-08-04 | 2026-08-04 |
 
 ---
 
@@ -58,7 +71,9 @@
 
 - [lem-project/lem](../repos/lem-project/lem.md) - General-purpose editor&#x2F;IDE with high expansibility in Common Lisp
 - [open-goal/jak-project](../repos/open-goal/jak-project.md) - Reviving the language that brought us the Jak &amp; Daxter Series
+- [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) - Nyxt - the hacker&#39;s browser.
+- [coalton-lang/coalton](../repos/coalton-lang/coalton.md) - Coalton is an efficient, statically typed functional programming language that supercharges Commo...
 
 ---
 
-*Last updated: 2026-08-03T22:01:17.353Z*
+*Last updated: 2026-08-04T22:01:06.161Z*

@@ -1,6 +1,6 @@
 # denoland&#x2F;deno
 
-> A modern runtime for JavaScript and TypeScript
+> A modern runtime for JavaScript and TypeScript.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;denoland&#x2F;deno) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | MIT |
-| **Stars** | ⭐ 93,000 |
-| **Forks** | 🍴 5,100 |
-| **Trending Days** | 1 |
-| **Peak Rank** | #12 |
+| **Stars** | ⭐ 108,046 |
+| **Forks** | 🍴 6,306 |
+| **Trending Days** | 2 |
+| **Peak Rank** | #11 |
 
 | **First Seen** | Jul 30, 2026 |
-| **Last Seen** | Jul 30, 2026 |
+| **Last Seen** | Aug 4, 2026 |
 
 
 ---
@@ -44,11 +44,12 @@
 
 ## Trending Timeline
 
+**Aug 4, 2026** — Rank #11 (+27 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #12
-- **Trending Days**: 1
+- **Peak Rank**: #11
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -56,7 +57,7 @@
 ## Categories
 
 ### Topics
-[`deno`](../../topics/deno.md) [`typescript`](../../topics/typescript.md) [`javascript`](../../topics/javascript.md) [`runtime`](../../topics/runtime.md) [`v8`](../../topics/v8.md) 
+[`deno`](../../topics/deno.md) [`javascript`](../../topics/javascript.md) [`rust`](../../topics/rust.md) [`typescript`](../../topics/typescript.md) 
 
 ### Curated Categories
 `Systems Programming` 
@@ -70,8 +71,8 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
-| **Documentation** | Good | Well-maintained documentation |
-| **Community** | Active | Regular contributions and discussions |
+| **Documentation** | Excellent | Comprehensive guides and examples |
+| **Community** | Very Active | 108,046+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -91,11 +92,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
-- **Historical Rank**: Peak: #12
+- **Trending Score**: 35&#x2F;100
+- **Historical Rank**: Peak: #11
 
 
 ---
 
-*Last updated: 2026-08-03T22:01:18.000Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-04T22:01:06.988Z*  
+*Data from 2 trending reports*
