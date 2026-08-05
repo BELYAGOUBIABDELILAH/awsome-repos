@@ -6,24 +6,15 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 88
+- **Total Repositories**: 99
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 17576
+- **Average Stars**: 16990
 
 ---
 
 ## 🔥 Trending Today
 
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | Go |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,229 | C |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,670 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | Ruby |  |
@@ -32,19 +23,28 @@
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,388 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,783 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,788 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,532 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,546 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,268 | Clojure |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,287 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,109 | OCaml |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,123 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,550 | Perl |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [vim/vim](../repos/vim/vim.md) | ⭐ 40,726 | Vim Script |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,894 | PowerShell |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,102 | Assembly |  |
 
 
 ---
@@ -54,15 +54,15 @@
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | TypeScript | 2026-08-02 | 1 |
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,777 | C++ | 2026-08-02 | 2 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,791 | C++ | 2026-08-02 | 3 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,155 | Python | 2026-08-02 | 2 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,616 | Go | 2026-08-03 | 1 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,477 | C | 2026-08-02 | 2 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,532 | Clojure | 2026-08-01 | 4 |
-| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 48,245 | Python | 2026-08-04 | 1 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,268 | Clojure | 2026-08-01 | 4 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,783 | Scala | 2026-08-01 | 4 |
-| [ccxt/ccxt](../repos/ccxt/ccxt.md) | ⭐ 43,493 | Python | 2026-08-02 | 1 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,591 | C | 2026-08-02 | 3 |
+| [git/git](../repos/git/git.md) | ⭐ 62,419 | C | 2026-08-05 | 1 |
+| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 48,948 | Python | 2026-08-04 | 2 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,546 | Clojure | 2026-08-01 | 5 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,287 | Clojure | 2026-08-01 | 5 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,788 | Scala | 2026-08-01 | 5 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-05](../archive/2026/08/2026-08-05.md)
+- 38 repositories trending
+- Top: bitcoin&#x2F;bitcoin
+
 ### [2026-08-04](../archive/2026/08/2026-08-04.md)
 - 41 repositories trending
 - Top: bitcoin&#x2F;bitcoin
@@ -163,30 +167,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [apache/spark](../repos/apache/spark.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [vlang/v](../repos/vlang/v.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [ruby/ruby](../repos/ruby/ruby.md) | 3 days | 2026-08-01 | 2026-08-04 |
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 3 days | 2026-08-01 | 2026-08-03 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [apache/spark](../repos/apache/spark.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [vlang/v](../repos/vlang/v.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [vim/vim](../repos/vim/vim.md) | 4 days | 2026-08-01 | 2026-08-05 |
+| [briansmith/ring](../repos/briansmith/ring.md) | 4 days | 2026-08-01 | 2026-08-05 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **C**: 14 repositories (16%)
-- **Go**: 10 repositories (11%)
-- **Python**: 6 repositories (7%)
-- **R**: 5 repositories (6%)
-- **C++**: 4 repositories (5%)
+- **C**: 17 repositories (17%)
+- **Go**: 12 repositories (12%)
+- **Python**: 6 repositories (6%)
+- **HTML**: 5 repositories (5%)
+- **R**: 5 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 36 repositories
+- **Daily Average**: 36.4 repositories
 - **Peak Day**: 2026-08-04 (41 repositories)
 - **Growth Rate**: 100% this month
 
@@ -287,7 +291,18 @@
 - [xmake-io/xmake](../repos/xmake-io/xmake.md) - 🔥 A cross-platform build utility based on Lua
 - [trickest/cve](../repos/trickest/cve.md) - Gather and update all available and newest CVEs with their PoC.
 - [DefectDojo/django-DefectDojo](../repos/DefectDojo/django-DefectDojo.md) - Open-Source Unified Vulnerability Management, DevSecOps &amp; ASPM
+- [authzed/spicedb](../repos/authzed/spicedb.md) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained aut...
+- [google/osv.dev](../repos/google/osv.dev.md) - Open source vulnerability DB and triage service.
+- [neo4j/neo4j](../repos/neo4j/neo4j.md) - Graphs for Everyone
+- [lz4/lz4](../repos/lz4/lz4.md) - Extremely Fast Compression algorithm
+- [git/git](../repos/git/git.md) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into p...
+- [radareorg/radare2](../repos/radareorg/radare2.md) - UNIX-like reverse engineering framework and command-line toolset
+- [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) - Test suites for Web platform specs — including WHATWG, W3C, and others
+- [Commando-X/vuln-bank](../repos/Commando-X/vuln-bank.md) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App...
+- [pq-code-package/mldsa-native](../repos/pq-code-package/mldsa-native.md) - Secure, fast, and portable C90 implementation of ML-DSA &#x2F; FIPS 204
+- [crashappsec/chalk](../repos/crashappsec/chalk.md) - Chalk allows you to follow code from development, through builds and into production.
+- [celo-org/celo-monorepo](../repos/celo-org/celo-monorepo.md) - Official repository for core projects comprising the Celo platform
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.036Z*
+*Last updated: 2026-08-05T23:01:24.967Z*

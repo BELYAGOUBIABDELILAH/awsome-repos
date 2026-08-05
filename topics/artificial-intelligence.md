@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 243
+- **Total Repositories**: 280
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-04
-- **Average Stars**: 21282
+- **Last Updated**: 2026-08-05
+- **Average Stars**: 20244
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | Python |  |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 225,459 | Python |  |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,044 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 66,444 | Python |  |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 15,010 | TypeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 13,446 | TypeScript |  |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,829 | C++ |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | Go |  |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 25,824 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,229 | C |  |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,603 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 25,373 | C# |  |
+| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 5,829 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,537 | C# |  |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,596 | Ruby |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,388 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,670 | Ruby |  |
+| [apache/tvm-vta](../repos/apache/tvm-vta.md) | ⭐ 358 | Scala |  |
 
 
 ---
@@ -53,16 +53,16 @@
 
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 225,459 | Python | 2026-08-01 | 4 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,044 | Python | 2026-08-01 | 5 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | Python | 2026-07-30 | 4 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | Python | 2026-07-31 | 2 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,235 | Go | 2026-08-04 | 1 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,586 | C++ | 2026-08-01 | 3 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 123,944 | Python | 2026-08-05 | 1 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,829 | C++ | 2026-08-01 | 4 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,278 | C++ | 2026-08-01 | 1 |
 | [microsoft/generative-ai-for-beginners](../repos/microsoft/generative-ai-for-beginners.md) | ⭐ 116,215 | Jupyter Notebook | 2026-08-02 | 3 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 101,806 | Python | 2026-08-03 | 1 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | Python | 2026-08-01 | 2 |
-| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 96,429 | TypeScript | 2026-08-04 | 1 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-05](../archive/2026/08/2026-08-05.md)
+- 103 repositories trending
+- Top: NousResearch&#x2F;hermes-agent
+
 ### [2026-08-04](../archive/2026/08/2026-08-04.md)
 - 105 repositories trending
 - Top: NousResearch&#x2F;hermes-agent
@@ -171,30 +175,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 4 days | 2026-07-30 | 2026-08-05 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [apache/tvm-vta](../repos/apache/tvm-vta.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [apache/spark](../repos/apache/spark.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [ocaml/dune](../repos/ocaml/dune.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [apache/tvm-vta](../repos/apache/tvm-vta.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [apache/spark](../repos/apache/spark.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [ocaml/dune](../repos/ocaml/dune.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [sainnhe/everforest](../repos/sainnhe/everforest.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 5 days | 2026-08-01 | 2026-08-05 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 28 repositories (12%)
-- **Go**: 19 repositories (8%)
-- **TypeScript**: 15 repositories (6%)
-- **Rust**: 14 repositories (6%)
-- **C**: 13 repositories (5%)
+- **Python**: 34 repositories (12%)
+- **Go**: 20 repositories (7%)
+- **TypeScript**: 16 repositories (6%)
+- **C**: 16 repositories (6%)
+- **Ruby**: 15 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 46.9 repositories
+- **Daily Average**: 59.6 repositories
 - **Peak Day**: 2026-08-04 (105 repositories)
 - **Growth Rate**: 100% this month
 
@@ -310,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-08-04T22:01:05.983Z*
+*Last updated: 2026-08-05T23:01:24.893Z*

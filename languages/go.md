@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 50
+- **Total Repositories**: 59
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-08-01
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 135,598 | 2026-07-31 | 2 |
+| [golang/go](../repos/golang/go.md) | ⭐ 135,645 | 2026-07-31 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,047 | 2026-08-01 | 4 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 44,251 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 43,916 | 2026-08-01 | 3 |
+| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | ⭐ 31,551 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | 2026-08-01 | 2 |
+| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 4,685 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | ⭐ 30,736 | 2026-08-02 | 3 |
+| [pulumi/pulumi](../repos/pulumi/pulumi.md) | ⭐ 25,531 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 4,608 | 2026-08-02 | 3 |
+| [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) | ⭐ 30,318 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chaitin/SafeLine](../repos/chaitin/SafeLine.md) | ⭐ 22,261 | 2026-08-03 | 2 |
+| [docker/compose](../repos/docker/compose.md) | ⭐ 38,010 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moby/moby](../repos/moby/moby.md) | ⭐ 71,975 | 2026-08-04 | 1 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 26,050 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,235 | 2026-08-04 | 1 |
+| [zzet/gortex](../repos/zzet/gortex.md) | ⭐ 1,087 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) | ⭐ 30,291 | 2026-08-04 | 1 |
+| [Project-HAMi/HAMi](../repos/Project-HAMi/HAMi.md) | ⭐ 4,226 | 2026-08-04 | 2 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 135,598 | 2026-07-31 | The Go programming language |
+| [golang/go](../repos/golang/go.md) | ⭐ 135,645 | 2026-07-31 | The Go programming language |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,002 | 2026-08-01 | A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs ... |
@@ -67,7 +67,7 @@
 | [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 5,435 | 2026-08-01 | The system of action for AI-native cybersecurity—where intent becomes governed execution, evidenc... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 43,916 | 2026-08-01 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, t... |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 44,251 | 2026-08-01 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, t... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [heroiclabs/nakama](../repos/heroiclabs/nakama.md) | ⭐ 13,066 | 2026-08-01 | Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and socia... |
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 177,455 | 2026-08-01 | 1 |
-| [golang/go](../repos/golang/go.md) | ⭐ 135,598 | 2026-07-31 | 2 |
+| [golang/go](../repos/golang/go.md) | ⭐ 135,645 | 2026-07-31 | 3 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,235 | 2026-08-04 | 1 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,298 | 2026-08-03 | 1 |
+| [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,616 | 2026-08-03 | 1 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 71,975 | 2026-08-04 | 1 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,263 | 2026-08-04 | 1 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 44,251 | 2026-08-01 | 4 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,002 | 2026-08-01 | 1 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 43,916 | 2026-08-01 | 3 |
 | [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 40,826 | 2026-08-02 | 1 |
-| [docker/compose](../repos/docker/compose.md) | ⭐ 37,972 | 2026-08-04 | 1 |
+| [docker/compose](../repos/docker/compose.md) | ⭐ 38,010 | 2026-08-04 | 2 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | 2026-08-01 | 2 |
 | [IceWhaleTech/CasaOS](../repos/IceWhaleTech/CasaOS.md) | ⭐ 36,937 | 2026-08-01 | 1 |
 | [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 36,692 | 2026-08-03 | 1 |
 | [1Panel-dev/1Panel](../repos/1Panel-dev/1Panel.md) | ⭐ 36,408 | 2026-08-02 | 1 |
+| [wailsapp/wails](../repos/wailsapp/wails.md) | ⭐ 35,703 | 2026-08-05 | 1 |
 | [restic/restic](../repos/restic/restic.md) | ⭐ 35,325 | 2026-08-03 | 1 |
 | [tailscale/tailscale](../repos/tailscale/tailscale.md) | ⭐ 34,766 | 2026-08-02 | 2 |
-| [v2fly/v2ray-core](../repos/v2fly/v2ray-core.md) | ⭐ 34,434 | 2026-08-03 | 1 |
-| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | ⭐ 30,736 | 2026-08-02 | 3 |
 
 ---
 
@@ -116,10 +116,10 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [github/gh-stack](../repos/github/gh-stack.md) | 4 | ⭐ 1,047 | 2026-08-01 | 2026-08-04 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 3 | ⭐ 43,916 | 2026-08-01 | 2026-08-04 |
-| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 3 | ⭐ 30,736 | 2026-08-02 | 2026-08-04 |
-| [superplanehq/superplane](../repos/superplanehq/superplane.md) | 3 | ⭐ 4,608 | 2026-08-02 | 2026-08-04 |
-| [golang/go](../repos/golang/go.md) | 2 | ⭐ 135,598 | 2026-07-31 | 2026-08-04 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 4 | ⭐ 44,251 | 2026-08-01 | 2026-08-05 |
+| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 4 | ⭐ 31,551 | 2026-08-02 | 2026-08-05 |
+| [superplanehq/superplane](../repos/superplanehq/superplane.md) | 4 | ⭐ 4,685 | 2026-08-02 | 2026-08-05 |
+| [golang/go](../repos/golang/go.md) | 3 | ⭐ 135,645 | 2026-07-31 | 2026-08-05 |
 | [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | 2 | ⭐ 197 | 2026-08-01 | 2026-08-02 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 2 | ⭐ 37,239 | 2026-08-01 | 2026-08-04 |
 | [kgretzky/evilginx2](../repos/kgretzky/evilginx2.md) | 2 | ⭐ 15,422 | 2026-08-02 | 2026-08-03 |
@@ -180,7 +180,16 @@
 - [gastownhall/beads](../repos/gastownhall/beads.md) - Beads - A memory upgrade for your coding agent
 - [zzet/gortex](../repos/zzet/gortex.md) - High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi re...
 - [Project-HAMi/HAMi](../repos/Project-HAMi/HAMi.md) - Heterogeneous GPU Sharing on Kubernetes
+- [gin-gonic/gin](../repos/gin-gonic/gin.md) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but wi...
+- [github/github-mcp-server](../repos/github/github-mcp-server.md) - GitHub&#39;s official MCP Server
+- [k3s-io/k3s](../repos/k3s-io/k3s.md) - Lightweight Kubernetes
+- [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use c...
+- [leookun/cursor-byok](../repos/leookun/cursor-byok.md) - Infinite BYOK in Cursor  https:&#x2F;&#x2F;github.com&#x2F;leookun&#x2F;cursor-byok&#x2F;releases
+- [authzed/spicedb](../repos/authzed/spicedb.md) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained aut...
+- [google/osv.dev](../repos/google/osv.dev.md) - Open source vulnerability DB and triage service.
+- [gastownhall/gascity](../repos/gastownhall/gascity.md) - Orchestration-builder SDK for multi-agent coding workflows
+- [wailsapp/wails](../repos/wailsapp/wails.md) - Create beautiful applications using Go
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.171Z*
+*Last updated: 2026-08-05T23:01:25.099Z*

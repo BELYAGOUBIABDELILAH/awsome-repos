@@ -6,24 +6,24 @@
 
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/BELYAGOUBIABDELILAH/awsome-repos/process-trending.yml?branch=main&label=Daily%20Updates&logo=github)](https://github.com/BELYAGOUBIABDELILAH/awsome-repos/actions)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Repositories](https://img.shields.io/badge/Repositories-1131-green.svg)](./stats/)
+[![Repositories](https://img.shields.io/badge/Repositories-1271-green.svg)](./stats/)
 [![Languages](https://img.shields.io/badge/Languages-50-orange.svg)](./languages/)
 
 </div>
 
 ---
 
-## 📅 Today's Trending - August 4, 2026
+## 📅 Today's Trending - August 5, 2026
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|------:|----------|-------------|
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | ⭐ 13k | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver |
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | ⭐ 18k | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R |
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | ⭐ 10k | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intel |
-| [uber/ADR](https://github.com/uber/ADR) | ⭐ 649 | Python | ADR secures enterprise AI agents through observability, security benchmarking, a |
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | ⭐ 116k | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI  |
+| [cloudflare/computer](https://github.com/cloudflare/computer) | ⭐ 3k | TypeScript | Give your agent a computer 👾 |
+| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | ⭐ 2k | Python | Lightweight loop engineering state kernel for long-running AI agent teams. Agent |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | ⭐ 15k | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 361k | Python | Learn how to design large-scale systems. Prep for the system design interview.   |
+| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | ⭐ 11k | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intel |
 
-[📄 View full daily report →](./archive/2026/08/2026-08-04.md)
+[📄 View full daily report →](./archive/2026/08/2026-08-05.md)
 
 ---
 
@@ -68,7 +68,7 @@ Detailed pages for each repository with complete metrics, trending history, rela
 - [microsoft/vscode](./repos/microsoft/vscode.md)
 - [rust-lang/rust](./repos/rust-lang/rust.md)
 
-**[Browse all 1131 repositories →](./repos/)**
+**[Browse all 1271 repositories →](./repos/)**
 
 ---
 
@@ -95,9 +95,9 @@ Historical trends, growth analysis, and data insights across all tracked reposit
 
 ## 📈 Archive Overview
 
-- **1131** repositories indexed
+- **1271** repositories indexed
 - **50** programming languages covered
-- **3940** topics tracked
+- **4285** topics tracked
 - **Daily updates** via automated workflow
 - **Historical data** since July 2026
 

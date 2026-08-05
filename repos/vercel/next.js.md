@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 141,352 |
-| **Forks** | 🍴 31,678 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 141,532 |
+| **Forks** | 🍴 31,679 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Jul 30, 2026 |
-| **Last Seen** | Aug 4, 2026 |
+| **Last Seen** | Aug 5, 2026 |
 
 
 ---
@@ -46,11 +46,12 @@
 ## Trending Timeline
 
 **Jul 31, 2026** — Rank #4 (+150 ⭐)  
+**Aug 5, 2026** — Rank #10 (+144 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 2 days
 
 ---
@@ -73,7 +74,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 141,352+ stars, strong contributor base |
+| **Community** | Very Active | 141,532+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -94,11 +95,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 65&#x2F;100
+- **Trending Score**: 85&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #4)
 
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.985Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-08-05T23:01:26.058Z*  
+*Data from 5 trending reports*

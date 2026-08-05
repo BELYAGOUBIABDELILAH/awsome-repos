@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 44
+- **Total Repositories**: 53
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,460 | 2026-08-01 | 2 |
+| [linux-rdma/rdma-core](../repos/linux-rdma/rdma-core.md) | ⭐ 2,335 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,229 | 2026-08-01 | 2 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,280 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HarbourMasters/Lighthouse](../repos/HarbourMasters/Lighthouse.md) | ⭐ 307 | 2026-08-02 | 3 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,591 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 494 | 2026-08-02 | 2 |
+| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,347 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 25,867 | 2026-08-02 | 3 |
+| [lz4/lz4](../repos/lz4/lz4.md) | ⭐ 11,990 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mimalloc](../repos/microsoft/mimalloc.md) | ⭐ 13,258 | 2026-08-04 | 1 |
+| [git/git](../repos/git/git.md) | ⭐ 62,419 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,850 | 2026-08-04 | 1 |
+| [daos-stack/daos](../repos/daos-stack/daos.md) | ⭐ 962 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openzfs/zfs](../repos/openzfs/zfs.md) | ⭐ 12,369 | 2026-08-04 | 1 |
+| [vedderb/bldc](../repos/vedderb/bldc.md) | ⭐ 3,320 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [portapack-mayhem/mayhem-firmware](../repos/portapack-mayhem/mayhem-firmware.md) | ⭐ 5,300 | 2026-08-04 | 1 |
+| [armel/uv-k1-k5v3-firmware-custom](../repos/armel/uv-k1-k5v3-firmware-custom.md) | ⭐ 562 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,395 | 2026-08-04 | 1 |
+| [betaflight/betaflight](../repos/betaflight/betaflight.md) | ⭐ 11,317 | 2026-08-05 | 1 |
 
 
 ---
@@ -79,7 +79,7 @@
 | [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,331 | 2026-08-01 | Decompilation of Pokémon Emerald |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [linux-rdma/rdma-core](../repos/linux-rdma/rdma-core.md) | ⭐ 2,329 | 2026-08-01 | RDMA core userspace libraries and daemons |
+| [linux-rdma/rdma-core](../repos/linux-rdma/rdma-core.md) | ⭐ 2,335 | 2026-08-01 | RDMA core userspace libraries and daemons |
 
 
 ---
@@ -90,24 +90,24 @@
 |------------|-------|------------|---------------|
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,460 | 2026-08-01 | 2 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 75,874 | 2026-08-04 | 1 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,477 | 2026-08-02 | 2 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,591 | 2026-08-02 | 3 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 63,865 | 2026-08-01 | 1 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 40,267 | 2026-08-01 | 1 |
+| [git/git](../repos/git/git.md) | ⭐ 62,419 | 2026-08-05 | 1 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,280 | 2026-08-01 | 2 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,303 | 2026-08-02 | 1 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,391 | 2026-08-04 | 1 |
-| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,333 | 2026-08-03 | 1 |
+| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,347 | 2026-08-03 | 2 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 31,813 | 2026-08-01 | 1 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,313 | 2026-08-02 | 1 |
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,057 | 2026-08-01 | 1 |
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 25,867 | 2026-08-02 | 3 |
+| [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 24,503 | 2026-08-05 | 1 |
 | [HandBrake/HandBrake](../repos/HandBrake/HandBrake.md) | ⭐ 23,918 | 2026-08-03 | 1 |
 | [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 21,953 | 2026-08-01 | 1 |
 | [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,592 | 2026-08-04 | 1 |
 | [karpathy/llama2.c](../repos/karpathy/llama2.c.md) | ⭐ 19,914 | 2026-08-03 | 1 |
 | [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,444 | 2026-08-02 | 1 |
 | [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,557 | 2026-08-03 | 1 |
-| [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) | ⭐ 16,408 | 2026-08-03 | 1 |
-| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,241 | 2026-08-01 | 2 |
 
 ---
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [HarbourMasters/Lighthouse](../repos/HarbourMasters/Lighthouse.md) | 3 | ⭐ 307 | 2026-08-02 | 2026-08-04 |
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | 3 | ⭐ 25,867 | 2026-08-02 | 2026-08-04 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 3 | ⭐ 74,591 | 2026-08-02 | 2026-08-05 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 2 | ⭐ 137,460 | 2026-08-01 | 2026-08-04 |
 | [glfw/glfw](../repos/glfw/glfw.md) | 2 | ⭐ 15,229 | 2026-08-01 | 2026-08-04 |
+| [linux-rdma/rdma-core](../repos/linux-rdma/rdma-core.md) | 2 | ⭐ 2,335 | 2026-08-01 | 2026-08-05 |
 | [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | 2 | ⭐ 16,241 | 2026-08-01 | 2026-08-02 |
 | [Klipper3d/klipper](../repos/Klipper3d/klipper.md) | 2 | ⭐ 11,786 | 2026-08-01 | 2026-08-02 |
+| [php/php-src](../repos/php/php-src.md) | 2 | ⭐ 40,280 | 2026-08-01 | 2026-08-05 |
 | [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | 2 | ⭐ 494 | 2026-08-02 | 2026-08-04 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 2 | ⭐ 74,477 | 2026-08-02 | 2026-08-03 |
-| [olikraus/u8g2](../repos/olikraus/u8g2.md) | 2 | ⭐ 6,610 | 2026-08-02 | 2026-08-03 |
-| [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) | 2 | ⭐ 609 | 2026-08-02 | 2026-08-03 |
 
 ---
 
@@ -174,7 +174,16 @@
 - [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [redis/redis](../repos/redis/redis.md) - For developers, who are building real-time data-driven applications, Redis is the preferred, fast...
 - [jqlang/jq](../repos/jqlang/jq.md) - Command-line JSON processor
+- [lz4/lz4](../repos/lz4/lz4.md) - Extremely Fast Compression algorithm
+- [git/git](../repos/git/git.md) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into p...
+- [daos-stack/daos](../repos/daos-stack/daos.md) - DAOS Storage Stack (client libraries, storage engine, control plane)
+- [vedderb/bldc](../repos/vedderb/bldc.md) - The VESC motor control firmware
+- [armel/uv-k1-k5v3-firmware-custom](../repos/armel/uv-k1-k5v3-firmware-custom.md) - This is a fork of F4HWN firmware https:&#x2F;&#x2F;github.com&#x2F;armel&#x2F;uv-k5-firmware-custom by @muzkr and @armel
+- [betaflight/betaflight](../repos/betaflight/betaflight.md) - Open Source Flight Controller Firmware
+- [sonic-net/sonic-buildimage](../repos/sonic-net/sonic-buildimage.md) - Scripts which perform an installable binary image build for SONiC
+- [radareorg/radare2](../repos/radareorg/radare2.md) - UNIX-like reverse engineering framework and command-line toolset
+- [FRRouting/frr](../repos/FRRouting/frr.md) - The FRRouting Protocol Suite
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.148Z*
+*Last updated: 2026-08-05T23:01:25.078Z*

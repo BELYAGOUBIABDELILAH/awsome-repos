@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 44
+- **Total Repositories**: 52
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-03
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,555 | 2026-08-01 | 4 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,585 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 3,942 | 2026-08-02 | 3 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 3,962 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | ⭐ 603 | 2026-08-02 | 3 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,363 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,060 | 2026-08-02 | 3 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,313 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | ⭐ 4,086 | 2026-08-03 | 2 |
+| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 605 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,285 | 2026-08-04 | 1 |
+| [element-hq/element-x-android](../repos/element-hq/element-x-android.md) | ⭐ 2,309 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 588 | 2026-08-04 | 1 |
+| [cwuom/NeriPlayer](../repos/cwuom/NeriPlayer.md) | ⭐ 2,691 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dmzz-yyhyy/LightNovelReader](../repos/dmzz-yyhyy/LightNovelReader.md) | ⭐ 1,910 | 2026-08-04 | 1 |
+| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 445 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cat3399/blbl](../repos/cat3399/blbl.md) | ⭐ 2,560 | 2026-08-04 | 1 |
+| [mpv-android/mpv-android](../repos/mpv-android/mpv-android.md) | ⭐ 3,444 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [element-hq/element-x-android](../repos/element-hq/element-x-android.md) | ⭐ 2,307 | 2026-08-04 | 1 |
+| [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,350 | 2026-08-05 | 1 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,555 | 2026-08-01 | Free and open source manga reader for Android |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,585 | 2026-08-01 | Free and open source manga reader for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 136 | 2026-08-01 | Android app for BYD DiLink 5.0: real consumption from BMS, GPS trips, charges journal, automation... |
@@ -90,14 +90,17 @@
 |------------|-------|------------|---------------|
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,020 | 2026-08-03 | 1 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,563 | 2026-08-02 | 2 |
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,285 | 2026-08-04 | 1 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,313 | 2026-08-04 | 2 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 40,633 | 2026-08-03 | 1 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,555 | 2026-08-01 | 4 |
+| [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,159 | 2026-08-05 | 1 |
+| [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,350 | 2026-08-05 | 1 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,585 | 2026-08-01 | 5 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,121 | 2026-08-02 | 1 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,606 | 2026-08-01 | 1 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,190 | 2026-08-02 | 1 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 10,901 | 2026-08-02 | 1 |
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,334 | 2026-08-03 | 1 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,363 | 2026-08-03 | 2 |
+| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,173 | 2026-08-05 | 1 |
 | [bmax121/APatch](../repos/bmax121/APatch.md) | ⭐ 7,740 | 2026-08-02 | 1 |
 | [aniyomiorg/aniyomi](../repos/aniyomiorg/aniyomi.md) | ⭐ 7,572 | 2026-08-02 | 1 |
 | [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 6,574 | 2026-08-02 | 1 |
@@ -105,9 +108,6 @@
 | [aistra0528/Hail](../repos/aistra0528/Hail.md) | ⭐ 6,344 | 2026-08-03 | 1 |
 | [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | ⭐ 6,293 | 2026-08-01 | 1 |
 | [nextcloud/android](../repos/nextcloud/android.md) | ⭐ 5,487 | 2026-08-02 | 1 |
-| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 5,448 | 2026-08-02 | 1 |
-| [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | ⭐ 4,086 | 2026-08-03 | 2 |
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 3,942 | 2026-08-02 | 3 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 4 | ⭐ 22,555 | 2026-08-01 | 2026-08-04 |
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 3 | ⭐ 3,942 | 2026-08-02 | 2026-08-04 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 5 | ⭐ 22,585 | 2026-08-01 | 2026-08-05 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 4 | ⭐ 3,962 | 2026-08-02 | 2026-08-05 |
 | [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | 3 | ⭐ 603 | 2026-08-02 | 2026-08-04 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 3 | ⭐ 2,060 | 2026-08-02 | 2026-08-04 |
 | [Fate-Grand-Automata/FGA](../repos/Fate-Grand-Automata/FGA.md) | 2 | ⭐ 2,277 | 2026-08-01 | 2026-08-03 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 2 | ⭐ 60,563 | 2026-08-02 | 2026-08-03 |
 | [sfsakhawat999/mpvRex](../repos/sfsakhawat999/mpvRex.md) | 2 | ⭐ 471 | 2026-08-02 | 2026-08-03 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 2 | ⭐ 10,363 | 2026-08-03 | 2026-08-05 |
 | [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | 2 | ⭐ 4,086 | 2026-08-03 | 2026-08-04 |
-| [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | 1 | ⭐ 136 | 2026-08-01 | 2026-08-01 |
-| [rommapp/argosy-launcher](../repos/rommapp/argosy-launcher.md) | 1 | ⭐ 436 | 2026-08-01 | 2026-08-01 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | 2 | ⭐ 53,313 | 2026-08-04 | 2026-08-05 |
 
 ---
 
@@ -174,7 +174,15 @@
 - [woocommerce/woocommerce-android](../repos/woocommerce/woocommerce-android.md) - WooCommerce Android app
 - [getsentry/sentry-java](../repos/getsentry/sentry-java.md) - A Sentry SDK for Java, Android and other JVM languages.
 - [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) - A Minecraft: Java Edition Launcher for Android
+- [cwuom/NeriPlayer](../repos/cwuom/NeriPlayer.md) - A native Android audio player that combines multi-source streaming, local control, rich lyrics, a...
+- [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) - WeChat, now with superpowers
+- [mpv-android/mpv-android](../repos/mpv-android/mpv-android.md) - Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
+- [android/compose-samples](../repos/android/compose-samples.md) - Official Jetpack Compose samples.
+- [bitwarden/android](../repos/bitwarden/android.md) - Bitwarden mobile apps (Password Manager and Authenticator) for Android.
+- [prof18/feed-flow](../repos/prof18/feed-flow.md) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built ...
+- [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) - A private messenger for Android.
+- [aws/aws-sdk-kotlin](../repos/aws/aws-sdk-kotlin.md) - Multiplatform AWS SDK for Kotlin
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.180Z*
+*Last updated: 2026-08-05T23:01:25.107Z*

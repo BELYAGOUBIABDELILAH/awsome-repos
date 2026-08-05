@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 93
+- **Total Repositories**: 105
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-04
-- **Average Stars**: 19251
+- **Average Stars**: 18961
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,047 | Go |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | Go |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,229 | C |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,537 | C# |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,670 | Ruby |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,203 | Ruby |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,388 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,386 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,788 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,783 | Scala |  |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,924 | Lua |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/apisix](../repos/apache/apisix.md) | ⭐ 16,954 | Lua |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,287 | Clojure |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,123 | OCaml |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,374 | OCaml |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,715 | Vue |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | ⭐ 3,520 | Zig |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [vim/vim](../repos/vim/vim.md) | ⭐ 40,726 | Vim Script |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,782 | V |  |
 
 
 ---
@@ -55,14 +55,14 @@
 |------------|-------|----------|------------|---------------|
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,235 | Go | 2026-08-04 | 1 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,155 | Python | 2026-08-02 | 2 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,477 | C | 2026-08-02 | 2 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,591 | C | 2026-08-02 | 3 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 71,975 | Go | 2026-08-04 | 1 |
+| [git/git](../repos/git/git.md) | ⭐ 62,419 | C | 2026-08-05 | 1 |
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | TypeScript | 2026-08-01 | 1 |
 | [prisma/prisma](../repos/prisma/prisma.md) | ⭐ 47,526 | TypeScript | 2026-08-04 | 1 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 45,949 | HTML | 2026-08-01 | 1 |
-| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 45,841 | Python | 2026-08-02 | 3 |
+| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 45,946 | Python | 2026-08-02 | 4 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,537 | C# | 2026-08-01 | 2 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,268 | Clojure | 2026-08-01 | 4 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-05](../archive/2026/08/2026-08-05.md)
+- 42 repositories trending
+- Top: obsproject&#x2F;obs-studio
+
 ### [2026-08-04](../archive/2026/08/2026-08-04.md)
 - 49 repositories trending
 - Top: kubernetes&#x2F;kubernetes
@@ -163,30 +167,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
+| [apache/spark](../repos/apache/spark.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [vlang/v](../repos/vlang/v.md) | 5 days | 2026-08-01 | 2026-08-05 |
 | [github/gh-stack](../repos/github/gh-stack.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [apache/spark](../repos/apache/spark.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [vlang/v](../repos/vlang/v.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [ruby/ruby](../repos/ruby/ruby.md) | 3 days | 2026-08-01 | 2026-08-04 |
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | 3 days | 2026-08-01 | 2026-08-04 |
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 3 days | 2026-08-01 | 2026-08-03 |
-| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | 3 days | 2026-08-01 | 2026-08-04 |
-| [ocaml/opam](../repos/ocaml/opam.md) | 3 days | 2026-08-01 | 2026-08-04 |
+| [ocaml/opam](../repos/ocaml/opam.md) | 4 days | 2026-08-01 | 2026-08-05 |
+| [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | 4 days | 2026-08-01 | 2026-08-05 |
+| [vim/vim](../repos/vim/vim.md) | 4 days | 2026-08-01 | 2026-08-05 |
+| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | 4 days | 2026-08-02 | 2026-08-05 |
+| [superplanehq/superplane](../repos/superplanehq/superplane.md) | 4 days | 2026-08-02 | 2026-08-05 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 17 repositories (18%)
-- **C**: 11 repositories (12%)
-- **Shell**: 8 repositories (9%)
-- **Lua**: 7 repositories (8%)
-- **TypeScript**: 5 repositories (5%)
+- **Go**: 20 repositories (19%)
+- **C**: 14 repositories (13%)
+- **Shell**: 8 repositories (8%)
+- **Lua**: 7 repositories (7%)
+- **TypeScript**: 6 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 37 repositories
+- **Daily Average**: 38 repositories
 - **Peak Day**: 2026-08-04 (49 repositories)
 - **Growth Rate**: 100% this month
 
@@ -292,7 +296,14 @@
 - [DefectDojo/django-DefectDojo](../repos/DefectDojo/django-DefectDojo.md) - Open-Source Unified Vulnerability Management, DevSecOps &amp; ASPM
 - [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) - UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for ev...
 - [hslr-s/sun-panel](../repos/hslr-s/sun-panel.md) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
+- [dream-num/univer](../repos/dream-num/univer.md) - Univer is a full-stack framework for creating and editing spreadsheets &#x2F; word processor &#x2F; present...
+- [ovexro/dockpanel](../repos/ovexro/dockpanel.md) - Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git depl...
+- [github/github-mcp-server](../repos/github/github-mcp-server.md) - GitHub&#39;s official MCP Server
+- [k3s-io/k3s](../repos/k3s-io/k3s.md) - Lightweight Kubernetes
+- [authzed/spicedb](../repos/authzed/spicedb.md) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained aut...
+- [apache/camel](../repos/apache/camel.md) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, ...
+- [lz4/lz4](../repos/lz4/lz4.md) - Extremely Fast Compression algorithm
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.014Z*
+*Last updated: 2026-08-05T23:01:24.937Z*

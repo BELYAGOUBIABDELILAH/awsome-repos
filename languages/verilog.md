@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 9
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-04
+- **Last Updated**: 2026-08-05
 
 ---
 
@@ -16,25 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,303 | 2026-08-01 | 4 |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,303 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 1,988 | 2026-08-01 | 4 |
+| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 1,989 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | ⭐ 1,257 | 2026-08-01 | 2 |
+| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | ⭐ 1,257 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 2,939 | 2026-08-01 | 4 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 2,945 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 698 | 2026-08-01 | 2 |
+| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 699 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [The-OpenROAD-Project/OpenSTA](../repos/The-OpenROAD-Project/OpenSTA.md) | ⭐ 595 | 2026-08-03 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,185 | 2026-08-04 | 1 |
+| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,188 | 2026-08-04 | 2 |
 
 
 ---
@@ -46,16 +43,16 @@
 | [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,303 | 2026-08-01 | PicoRV32 - A Size-Optimized RISC-V CPU |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 1,988 | 2026-08-01 | HDL libraries and projects |
+| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 1,989 | 2026-08-01 | HDL libraries and projects |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | ⭐ 1,257 | 2026-08-01 | The USRP™ Hardware Driver Repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 2,939 | 2026-08-01 | OpenROAD&#39;s unified application implementing an RTL-to-GDS Flow. Documentation at https:&#x2F;&#x2F;openroad... |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 2,945 | 2026-08-01 | OpenROAD&#39;s unified application implementing an RTL-to-GDS Flow. Documentation at https:&#x2F;&#x2F;openroad... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 698 | 2026-08-01 | OpenROAD&#39;s scripts implementing an RTL-to-GDS Flow. Documentation at https:&#x2F;&#x2F;openroad-flow-script... |
+| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 699 | 2026-08-01 | OpenROAD&#39;s scripts implementing an RTL-to-GDS Flow. Documentation at https:&#x2F;&#x2F;openroad-flow-script... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OSCPU/yosys-sta](../repos/OSCPU/yosys-sta.md) | ⭐ 97 | 2026-08-02 |  |
@@ -67,7 +64,7 @@
 | [The-OpenROAD-Project/OpenSTA](../repos/The-OpenROAD-Project/OpenSTA.md) | ⭐ 595 | 2026-08-03 | OpenSTA engine |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,185 | 2026-08-04 |  |
+| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,188 | 2026-08-04 |  |
 
 
 ---
@@ -76,13 +73,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,303 | 2026-08-01 | 4 |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,303 | 2026-08-01 | 5 |
 | [alexforencich/verilog-ethernet](../repos/alexforencich/verilog-ethernet.md) | ⭐ 3,052 | 2026-08-02 | 2 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 2,939 | 2026-08-01 | 4 |
-| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,185 | 2026-08-04 | 1 |
-| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 1,988 | 2026-08-01 | 4 |
-| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | ⭐ 1,257 | 2026-08-01 | 2 |
-| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 698 | 2026-08-01 | 2 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 2,945 | 2026-08-01 | 5 |
+| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,188 | 2026-08-04 | 2 |
+| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 1,989 | 2026-08-01 | 5 |
+| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | ⭐ 1,257 | 2026-08-01 | 3 |
+| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 699 | 2026-08-01 | 3 |
 | [The-OpenROAD-Project/OpenSTA](../repos/The-OpenROAD-Project/OpenSTA.md) | ⭐ 595 | 2026-08-03 | 2 |
 | [OSCPU/yosys-sta](../repos/OSCPU/yosys-sta.md) | ⭐ 97 | 2026-08-02 | 1 |
 
@@ -92,15 +89,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | 4 | ⭐ 4,303 | 2026-08-01 | 2026-08-04 |
-| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | 4 | ⭐ 1,988 | 2026-08-01 | 2026-08-04 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 4 | ⭐ 2,939 | 2026-08-01 | 2026-08-04 |
-| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | 2 | ⭐ 1,257 | 2026-08-01 | 2026-08-04 |
-| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 2 | ⭐ 698 | 2026-08-01 | 2026-08-04 |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | 5 | ⭐ 4,303 | 2026-08-01 | 2026-08-05 |
+| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | 5 | ⭐ 1,989 | 2026-08-01 | 2026-08-05 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 5 | ⭐ 2,945 | 2026-08-01 | 2026-08-05 |
+| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | 3 | ⭐ 1,257 | 2026-08-01 | 2026-08-05 |
+| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 3 | ⭐ 699 | 2026-08-01 | 2026-08-05 |
 | [alexforencich/verilog-ethernet](../repos/alexforencich/verilog-ethernet.md) | 2 | ⭐ 3,052 | 2026-08-02 | 2026-08-03 |
 | [The-OpenROAD-Project/OpenSTA](../repos/The-OpenROAD-Project/OpenSTA.md) | 2 | ⭐ 595 | 2026-08-03 | 2026-08-04 |
+| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | 2 | ⭐ 2,188 | 2026-08-04 | 2026-08-05 |
 | [OSCPU/yosys-sta](../repos/OSCPU/yosys-sta.md) | 1 | ⭐ 97 | 2026-08-02 | 2026-08-02 |
-| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | 1 | ⭐ 2,185 | 2026-08-04 | 2026-08-04 |
 
 ---
 
@@ -118,4 +115,4 @@
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.216Z*
+*Last updated: 2026-08-05T23:01:25.132Z*

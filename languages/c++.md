@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 54
+- **Total Repositories**: 66
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,150 | 2026-08-01 | 3 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,829 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,135 | 2026-08-01 | 3 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,212 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,366 | 2026-08-01 | 2 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,432 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,247 | 2026-08-02 | 2 |
+| [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | ⭐ 15,625 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nasa/fprime](../repos/nasa/fprime.md) | ⭐ 11,624 | 2026-08-02 | 2 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,791 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,777 | 2026-08-02 | 2 |
+| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | ⭐ 810 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CleverRaven/Cataclysm-DDA](../repos/CleverRaven/Cataclysm-DDA.md) | ⭐ 12,866 | 2026-08-03 | 2 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 38,898 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
+| [SwagSoftware/KisakCOD](../repos/SwagSoftware/KisakCOD.md) | ⭐ 395 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [catchorg/Catch2](../repos/catchorg/Catch2.md) | ⭐ 21,415 | 2026-08-04 | 1 |
+| [mltframework/shotcut](../repos/mltframework/shotcut.md) | ⭐ 14,836 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [carbon-language/carbon-lang](../repos/carbon-language/carbon-lang.md) | ⭐ 33,849 | 2026-08-04 | 1 |
+| [FEX-Emu/FEX](../repos/FEX-Emu/FEX.md) | ⭐ 7,822 | 2026-08-05 | 1 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,290 | 2026-08-01 | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,586 | 2026-08-01 | LLM inference in C&#x2F;C++ |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,829 | 2026-08-01 | LLM inference in C&#x2F;C++ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,150 | 2026-08-01 | Asio C++ Library |
@@ -70,13 +70,13 @@
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,670 | 2026-08-01 | Protocol Buffers - Google&#39;s data interchange format |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,135 | 2026-08-01 | Godot Engine – Multi-platform 2D and 3D game engine |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,212 | 2026-08-01 | Godot Engine – Multi-platform 2D and 3D game engine |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [gem5/gem5](../repos/gem5/gem5.md) | ⭐ 2,737 | 2026-08-01 | The official repository for the gem5 computer-system architecture simulator. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,366 | 2026-08-01 | Fast C++ logging library. |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,432 | 2026-08-01 | Fast C++ logging library. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [twelvesec/PwnPad](../repos/twelvesec/PwnPad.md) | ⭐ 1,165 | 2026-08-01 | PwnPad is an affordable, hands-on hardware hacking platform built for practical learning. It feat... |
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,283 | 2026-08-04 | 1 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,586 | 2026-08-01 | 3 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,829 | 2026-08-01 | 4 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,278 | 2026-08-01 | 1 |
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,135 | 2026-08-01 | 3 |
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,777 | 2026-08-02 | 2 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,212 | 2026-08-01 | 4 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,791 | 2026-08-02 | 3 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,670 | 2026-08-01 | 1 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 64,774 | 2026-08-05 | 1 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,247 | 2026-08-02 | 2 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,226 | 2026-08-02 | 2 |
-| [google/googletest](../repos/google/googletest.md) | ⭐ 38,894 | 2026-08-04 | 1 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 38,898 | 2026-08-04 | 2 |
 | [carbon-language/carbon-lang](../repos/carbon-language/carbon-lang.md) | ⭐ 33,849 | 2026-08-04 | 1 |
+| [telegramdesktop/tdesktop](../repos/telegramdesktop/tdesktop.md) | ⭐ 32,520 | 2026-08-05 | 1 |
 | [ValveSoftware/Proton](../repos/ValveSoftware/Proton.md) | ⭐ 32,435 | 2026-08-03 | 1 |
 | [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 32,361 | 2026-08-03 | 1 |
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,366 | 2026-08-01 | 2 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,432 | 2026-08-01 | 3 |
+| [envoyproxy/envoy](../repos/envoyproxy/envoy.md) | ⭐ 28,718 | 2026-08-05 | 1 |
 | [dmlc/xgboost](../repos/dmlc/xgboost.md) | ⭐ 28,626 | 2026-08-04 | 1 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 28,617 | 2026-08-03 | 1 |
-| [argotorg/solidity](../repos/argotorg/solidity.md) | ⭐ 25,692 | 2026-08-04 | 1 |
-| [v8/v8](../repos/v8/v8.md) | ⭐ 25,159 | 2026-08-01 | 1 |
-| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,282 | 2026-08-02 | 2 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 3 | ⭐ 122,586 | 2026-08-01 | 2026-08-03 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 4 | ⭐ 122,829 | 2026-08-01 | 2026-08-05 |
+| [godotengine/godot](../repos/godotengine/godot.md) | 4 | ⭐ 115,212 | 2026-08-01 | 2026-08-05 |
 | [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | 3 | ⭐ 6,150 | 2026-08-01 | 2026-08-04 |
-| [godotengine/godot](../repos/godotengine/godot.md) | 3 | ⭐ 115,135 | 2026-08-01 | 2026-08-04 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | 3 | ⭐ 29,432 | 2026-08-01 | 2026-08-05 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | 3 | ⭐ 89,791 | 2026-08-02 | 2026-08-05 |
 | [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | 2 | ⭐ 5,290 | 2026-08-01 | 2026-08-02 |
 | [lightvector/KataGo](../repos/lightvector/KataGo.md) | 2 | ⭐ 4,902 | 2026-08-01 | 2026-08-02 |
-| [gabime/spdlog](../repos/gabime/spdlog.md) | 2 | ⭐ 29,366 | 2026-08-01 | 2026-08-04 |
 | [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | 2 | ⭐ 11,217 | 2026-08-01 | 2026-08-02 |
 | [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | 2 | ⭐ 22,282 | 2026-08-02 | 2026-08-03 |
 | [grpc/grpc](../repos/grpc/grpc.md) | 2 | ⭐ 45,247 | 2026-08-02 | 2026-08-04 |
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 2 | ⭐ 9,627 | 2026-08-02 | 2026-08-03 |
 
 ---
 
@@ -184,7 +184,19 @@
 - [argotorg/solidity](../repos/argotorg/solidity.md) - Solidity, the Smart Contract Programming Language
 - [dmlc/xgboost](../repos/dmlc/xgboost.md) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R,...
 - [dogecoin/dogecoin](../repos/dogecoin/dogecoin.md) - very currency
+- [SwagSoftware/KisakCOD](../repos/SwagSoftware/KisakCOD.md) - COD4 Open Source Reimplementation
+- [mltframework/shotcut](../repos/mltframework/shotcut.md) - cross-platform (Qt), open-source (GPLv3) video editor
+- [FEX-Emu/FEX](../repos/FEX-Emu/FEX.md) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
+- [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) - Truly independent web browser
+- [ai-dynamo/nixl](../repos/ai-dynamo/nixl.md) - NVIDIA Inference Xfer Library (NIXL)
+- [MariaDB/server](../repos/MariaDB/server.md) - MariaDB server is a community developed fork of MySQL server. Started by core members of the orig...
+- [iree-org/iree](../repos/iree-org/iree.md) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
+- [envoyproxy/envoy](../repos/envoyproxy/envoy.md) - Cloud-native high-performance edge&#x2F;middle&#x2F;service proxy
+- [dyang886/Game-Cheats-Manager](../repos/dyang886/Game-Cheats-Manager.md) - Easily download and manage single-player game cheats for your convenience
+- [NVIDIA/nccl](../repos/NVIDIA/nccl.md) - Optimized primitives for collective multi-GPU communication
+- [telegramdesktop/tdesktop](../repos/telegramdesktop/tdesktop.md) - Telegram Desktop messaging app
+- [google/or-tools](../repos/google/or-tools.md) - Google&#39;s Operations Research tools:
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.156Z*
+*Last updated: 2026-08-05T23:01:25.085Z*

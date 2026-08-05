@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 1
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-04
+- **Last Updated**: 2026-08-05
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,855 | 2026-08-01 | 3 |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,856 | 2026-08-01 | 4 |
 
 
 ---
@@ -25,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,855 | 2026-08-01 | VHDL 2008&#x2F;93&#x2F;87 simulator |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,856 | 2026-08-01 | VHDL 2008&#x2F;93&#x2F;87 simulator |
 
 
 ---
@@ -34,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,855 | 2026-08-01 | 3 |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,856 | 2026-08-01 | 4 |
 
 ---
 
@@ -42,7 +42,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | 3 | ⭐ 2,855 | 2026-08-01 | 2026-08-04 |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | 4 | ⭐ 2,856 | 2026-08-01 | 2026-08-05 |
 
 ---
 
@@ -52,4 +52,4 @@
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.215Z*
+*Last updated: 2026-08-05T23:01:25.131Z*

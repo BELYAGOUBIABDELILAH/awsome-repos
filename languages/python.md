@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 51
+- **Total Repositories**: 60
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-01
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | 2026-07-31 | 2 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | 2026-07-30 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 225,459 | 2026-08-01 | 4 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,044 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 66,444 | 2026-08-01 | 4 |
+| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 45,946 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 45,841 | 2026-08-02 | 3 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 361,483 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 360,959 | 2026-08-03 | 2 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 44,517 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 44,337 | 2026-08-03 | 2 |
+| [uber/ADR](../repos/uber/ADR.md) | ⭐ 1,018 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [livekit/agents](../repos/livekit/agents.md) | ⭐ 12,359 | 2026-08-03 | 2 |
+| [browser-use/video-use](../repos/browser-use/video-use.md) | ⭐ 19,721 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 32,634 | 2026-08-03 | 2 |
+| [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | ⭐ 2,071 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [uber/ADR](../repos/uber/ADR.md) | ⭐ 649 | 2026-08-04 | 1 |
+| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 48,948 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [browser-use/video-use](../repos/browser-use/video-use.md) | ⭐ 19,259 | 2026-08-04 | 1 |
+| [roboflow/supervision](../repos/roboflow/supervision.md) | ⭐ 48,893 | 2026-08-05 | 1 |
 
 
 ---
@@ -89,12 +89,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 453,833 | 2026-08-01 | 1 |
-| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 360,959 | 2026-08-03 | 2 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 225,459 | 2026-08-01 | 4 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 361,483 | 2026-08-03 | 3 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,044 | 2026-08-01 | 5 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | 2026-07-30 | 4 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 182,027 | 2026-08-02 | 1 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 130,495 | 2026-08-04 | 1 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | 2026-07-31 | 2 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 123,944 | 2026-08-05 | 1 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 101,806 | 2026-08-03 | 1 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | 2026-08-01 | 2 |
@@ -107,7 +108,6 @@
 | [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 56,866 | 2026-08-01 | 2 |
 | [microsoft/VibeVoice](../repos/microsoft/VibeVoice.md) | ⭐ 51,708 | 2026-08-01 | 1 |
 | [pandas-dev/pandas](../repos/pandas-dev/pandas.md) | ⭐ 49,417 | 2026-08-04 | 1 |
-| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 48,245 | 2026-08-04 | 1 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [openai/whisper](../repos/openai/whisper.md) | 5 | ⭐ 106,298 | 2026-07-31 | 2026-08-01 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 5 | ⭐ 226,044 | 2026-08-01 | 2026-08-05 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 4 | ⭐ 183,200 | 2026-07-30 | 2026-08-05 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 4 | ⭐ 225,459 | 2026-08-01 | 2026-08-04 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 4 | ⭐ 66,444 | 2026-08-01 | 2026-08-04 |
-| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | 3 | ⭐ 45,841 | 2026-08-02 | 2026-08-04 |
+| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | 4 | ⭐ 45,946 | 2026-08-02 | 2026-08-05 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | 3 | ⭐ 361,483 | 2026-08-03 | 2026-08-05 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 3 | ⭐ 44,517 | 2026-08-03 | 2026-08-05 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | 2 | ⭐ 128,800 | 2026-07-31 | 2026-08-04 |
 | [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | 2 | ⭐ 56,866 | 2026-08-01 | 2026-08-02 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 2 | ⭐ 101,196 | 2026-08-01 | 2026-08-02 |
-| [microsoft/TRELLIS.2](../repos/microsoft/TRELLIS.2.md) | 2 | ⭐ 10,305 | 2026-08-01 | 2026-08-03 |
-| [abus-aikorea/voice-pro](../repos/abus-aikorea/voice-pro.md) | 2 | ⭐ 12,019 | 2026-08-02 | 2026-08-03 |
 
 ---
 
@@ -181,7 +181,16 @@
 - [alirezarezvani/claude-skills](../repos/alirezarezvani/claude-skills.md) - 345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, cu...
 - [harvard-edge/cs249r_book](../repos/harvard-edge/cs249r_book.md) - Machine Learning Systems
 - [spesmilo/electrum](../repos/spesmilo/electrum.md) - Electrum Bitcoin Wallet
+- [roboflow/supervision](../repos/roboflow/supervision.md) - We write your reusable computer vision tools. 💜
+- [Comfy-Org/workflow_templates](../repos/Comfy-Org/workflow_templates.md) - ComfyUI template workflows
+- [mpfaffenberger/code_puppy](../repos/mpfaffenberger/code_puppy.md) - Agentic AI for writing code
+- [didilili/ai-agents-from-zero](../repos/didilili/ai-agents-from-zero.md) -  🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain &#x2F; Lang...
+- [blader/humanizer](../repos/blader/humanizer.md) - Agent skill that removes signs of AI-generated writing from text
+- [NovaSky-AI/SkyRL](../repos/NovaSky-AI/SkyRL.md) - SkyRL: A Modular Full-stack RL Library for LLMs
+- [NVIDIA-NeMo/Speech](../repos/NVIDIA-NeMo/Speech.md) - A scalable generative AI framework built for researchers and developers working on Large Language...
+- [sierra-research/tau2-bench](../repos/sierra-research/tau2-bench.md) - τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains
+- [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) - The most powerful and modular diffusion model GUI, api and backend with a graph&#x2F;nodes interface.
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.196Z*
+*Last updated: 2026-08-05T23:01:25.118Z*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 33
+- **Total Repositories**: 36
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-04
+- **Last Updated**: 2026-08-05
 
 ---
 
@@ -16,34 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,328 | 2026-08-01 | 2 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,347 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | ⭐ 1,953 | 2026-08-02 | 3 |
+| [openshift/release](../repos/openshift/release.md) | ⭐ 325 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openshift/release](../repos/openshift/release.md) | ⭐ 325 | 2026-08-04 | 1 |
+| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 6,693 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 6,685 | 2026-08-04 | 1 |
+| [pgsty/pigsty](../repos/pgsty/pigsty.md) | ⭐ 5,474 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,389 | 2026-08-04 | 1 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,553 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,093 | 2026-08-04 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,491 | 2026-08-04 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [longhorn/longhorn](../repos/longhorn/longhorn.md) | ⭐ 7,905 | 2026-08-04 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [super-linter/super-linter](../repos/super-linter/super-linter.md) | ⭐ 10,535 | 2026-08-04 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,055 | 2026-08-04 | 1 |
+| [docker-library/official-images](../repos/docker-library/official-images.md) | ⭐ 6,988 | 2026-08-05 | 1 |
 
 
 ---
@@ -55,7 +43,7 @@
 | [HQarroum/docker-android](../repos/HQarroum/docker-android.md) | ⭐ 7,174 | 2026-08-01 | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,328 | 2026-08-01 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,347 | 2026-08-01 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [The01Geek/prflow](../repos/The01Geek/prflow.md) | ⭐ 112 | 2026-08-01 | Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and... |
@@ -88,7 +76,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,328 | 2026-08-01 | 2 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,347 | 2026-08-01 | 3 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,093 | 2026-08-04 | 1 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,389 | 2026-08-04 | 1 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
@@ -104,10 +92,10 @@
 | [PapirusDevelopmentTeam/papirus-icon-theme](../repos/PapirusDevelopmentTeam/papirus-icon-theme.md) | ⭐ 7,969 | 2026-08-03 | 1 |
 | [longhorn/longhorn](../repos/longhorn/longhorn.md) | ⭐ 7,905 | 2026-08-04 | 1 |
 | [HQarroum/docker-android](../repos/HQarroum/docker-android.md) | ⭐ 7,174 | 2026-08-01 | 1 |
-| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 6,685 | 2026-08-04 | 1 |
+| [docker-library/official-images](../repos/docker-library/official-images.md) | ⭐ 6,988 | 2026-08-05 | 1 |
+| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 6,693 | 2026-08-04 | 2 |
 | [bats-core/bats-core](../repos/bats-core/bats-core.md) | ⭐ 6,191 | 2026-08-03 | 1 |
 | [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 6,153 | 2026-08-01 | 1 |
-| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 5,800 | 2026-08-02 | 2 |
 
 ---
 
@@ -115,16 +103,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 3 | ⭐ 94,347 | 2026-08-01 | 2026-08-05 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 3 | ⭐ 1,953 | 2026-08-02 | 2026-08-04 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 2 | ⭐ 94,328 | 2026-08-01 | 2026-08-04 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 2 | ⭐ 24,281 | 2026-08-02 | 2026-08-03 |
 | [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | 2 | ⭐ 5,800 | 2026-08-02 | 2026-08-03 |
 | [tracelabs/tlosint-vm](../repos/tracelabs/tlosint-vm.md) | 2 | ⭐ 1,057 | 2026-08-02 | 2026-08-03 |
+| [openshift/release](../repos/openshift/release.md) | 2 | ⭐ 325 | 2026-08-04 | 2026-08-05 |
+| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | 2 | ⭐ 6,693 | 2026-08-04 | 2026-08-05 |
 | [HQarroum/docker-android](../repos/HQarroum/docker-android.md) | 1 | ⭐ 7,174 | 2026-08-01 | 2026-08-01 |
 | [The01Geek/prflow](../repos/The01Geek/prflow.md) | 1 | ⭐ 112 | 2026-08-01 | 2026-08-01 |
 | [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | 1 | ⭐ 6,153 | 2026-08-01 | 2026-08-01 |
-| [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | 1 | ⭐ 2,806 | 2026-08-01 | 2026-08-01 |
-| [Chachamaru127/claude-code-harness](../repos/Chachamaru127/claude-code-harness.md) | 1 | ⭐ 3,034 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -163,7 +151,10 @@
 - [marcusquinn/aidevops](../repos/marcusquinn/aidevops.md) - Vibe-Coding is easy. DevOps is hard. OpenCode &amp; Git token-efficient AI agent automation for your ...
 - [orbstack/orbstack](../repos/orbstack/orbstack.md) - Fast, light, simple Docker containers &amp; Linux machines
 - [a2aproject/A2A](../repos/a2aproject/A2A.md) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque ...
+- [pgsty/pigsty](../repos/pgsty/pigsty.md) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 500...
+- [cloudflare/skills](../repos/cloudflare/skills.md) - Skills for teaching agents how to build on Cloudflare.
+- [docker-library/official-images](../repos/docker-library/official-images.md) - Primary source of truth for the Docker &quot;Official Images&quot; program
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.206Z*
+*Last updated: 2026-08-05T23:01:25.125Z*

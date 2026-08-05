@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 6
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-04
+- **Last Updated**: 2026-08-05
 
 ---
 
@@ -16,19 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 723 | 2026-08-01 | 4 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 723 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 2 |
+| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 124 | 2026-08-01 | 4 |
+| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 124 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,390 | 2026-08-02 | 2 |
+| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 3 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,391 | 2026-08-02 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 4 |
 
 
 ---
@@ -49,7 +52,7 @@
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-differen... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,390 | 2026-08-02 | 🌊  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,391 | 2026-08-02 | 🌊  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | ClimaCoupler: bringing atmosphere, land, and ocean together |
@@ -61,12 +64,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,390 | 2026-08-02 | 2 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 723 | 2026-08-01 | 4 |
-| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 124 | 2026-08-01 | 4 |
-| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | 2 |
-| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 2 |
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 3 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,391 | 2026-08-02 | 3 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 723 | 2026-08-01 | 5 |
+| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 124 | 2026-08-01 | 5 |
+| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | 3 |
+| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 3 |
+| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 4 |
 
 ---
 
@@ -74,12 +77,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 4 | ⭐ 723 | 2026-08-01 | 2026-08-04 |
-| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 4 | ⭐ 124 | 2026-08-01 | 2026-08-04 |
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 3 | ⭐ 46 | 2026-08-02 | 2026-08-04 |
-| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | 2 | ⭐ 73 | 2026-08-01 | 2026-08-04 |
-| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 2 | ⭐ 114 | 2026-08-01 | 2026-08-02 |
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 2 | ⭐ 1,390 | 2026-08-02 | 2026-08-04 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 5 | ⭐ 723 | 2026-08-01 | 2026-08-05 |
+| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 5 | ⭐ 124 | 2026-08-01 | 2026-08-05 |
+| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 4 | ⭐ 46 | 2026-08-02 | 2026-08-05 |
+| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | 3 | ⭐ 73 | 2026-08-01 | 2026-08-05 |
+| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 3 | ⭐ 114 | 2026-08-01 | 2026-08-05 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 3 | ⭐ 1,391 | 2026-08-02 | 2026-08-05 |
 
 ---
 
@@ -94,4 +97,4 @@
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.178Z*
+*Last updated: 2026-08-05T23:01:25.105Z*

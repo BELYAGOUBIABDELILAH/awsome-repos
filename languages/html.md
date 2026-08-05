@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 26
+- **Total Repositories**: 31
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-03
 
@@ -16,31 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,663 | 2026-08-01 | 2 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,666 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 7,627 | 2026-08-01 | 2 |
+| [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) | ⭐ 549 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 6,949 | 2026-08-03 | 2 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 9,433 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | ⭐ 7,839 | 2026-08-03 | 2 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,028 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 9,131 | 2026-08-04 | 1 |
+| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,264 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,185 | 2026-08-04 | 1 |
+| [Commando-X/vuln-bank](../repos/Commando-X/vuln-bank.md) | ⭐ 875 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trickest/cve](../repos/trickest/cve.md) | ⭐ 7,974 | 2026-08-04 | 1 |
+| [cotes2020/jekyll-theme-chirpy](../repos/cotes2020/jekyll-theme-chirpy.md) | ⭐ 10,206 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DefectDojo/django-DefectDojo](../repos/DefectDojo/django-DefectDojo.md) | ⭐ 4,874 | 2026-08-04 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,405 | 2026-08-04 | 1 |
+| [whatwg/html](../repos/whatwg/html.md) | ⭐ 9,346 | 2026-08-05 | 1 |
 
 
 ---
@@ -55,7 +52,7 @@
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,616 | 2026-08-01 | A collection of several hundred online tools for OSINT |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,663 | 2026-08-01 | :blue_book: Home Assistant User documentation |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,666 | 2026-08-01 | :blue_book: Home Assistant User documentation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 7,627 | 2026-08-01 | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional... |
@@ -94,17 +91,17 @@
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 18,300 | 2026-08-01 | 1 |
 | [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,567 | 2026-08-02 | 2 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,405 | 2026-08-04 | 1 |
+| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,264 | 2026-08-05 | 1 |
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 11,860 | 2026-08-01 | 1 |
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,737 | 2026-08-01 | 1 |
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,663 | 2026-08-01 | 2 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 9,131 | 2026-08-04 | 1 |
+| [cotes2020/jekyll-theme-chirpy](../repos/cotes2020/jekyll-theme-chirpy.md) | ⭐ 10,206 | 2026-08-05 | 1 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,666 | 2026-08-01 | 3 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 9,433 | 2026-08-04 | 2 |
+| [whatwg/html](../repos/whatwg/html.md) | ⭐ 9,346 | 2026-08-05 | 1 |
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,616 | 2026-08-01 | 2 |
 | [yangzongzhuan/RuoYi](../repos/yangzongzhuan/RuoYi.md) | ⭐ 8,461 | 2026-08-02 | 1 |
 | [GoogleCloudPlatform/knowledge-catalog](../repos/GoogleCloudPlatform/knowledge-catalog.md) | ⭐ 8,131 | 2026-08-01 | 1 |
 | [trickest/cve](../repos/trickest/cve.md) | ⭐ 7,974 | 2026-08-04 | 1 |
-| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | ⭐ 7,839 | 2026-08-03 | 2 |
-| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 7,627 | 2026-08-01 | 2 |
-| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 6,949 | 2026-08-03 | 2 |
 
 ---
 
@@ -112,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 3 | ⭐ 9,666 | 2026-08-01 | 2026-08-05 |
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | 2 | ⭐ 8,616 | 2026-08-01 | 2026-08-02 |
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 2 | ⭐ 9,663 | 2026-08-01 | 2026-08-04 |
 | [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | 2 | ⭐ 7,627 | 2026-08-01 | 2026-08-04 |
 | [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | 2 | ⭐ 16,567 | 2026-08-02 | 2026-08-03 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 2 | ⭐ 6,949 | 2026-08-03 | 2026-08-04 |
+| [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) | 2 | ⭐ 549 | 2026-08-03 | 2026-08-05 |
 | [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 2 | ⭐ 7,839 | 2026-08-03 | 2026-08-04 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 2 | ⭐ 9,433 | 2026-08-04 | 2026-08-05 |
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | 1 | ⭐ 11,860 | 2026-08-01 | 2026-08-01 |
 | [GoogleCloudPlatform/knowledge-catalog](../repos/GoogleCloudPlatform/knowledge-catalog.md) | 1 | ⭐ 8,131 | 2026-08-01 | 2026-08-01 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 1 | ⭐ 63,827 | 2026-08-01 | 2026-08-01 |
-| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | 1 | ⭐ 10,737 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -153,7 +150,12 @@
 - [trickest/cve](../repos/trickest/cve.md) - Gather and update all available and newest CVEs with their PoC.
 - [DefectDojo/django-DefectDojo](../repos/DefectDojo/django-DefectDojo.md) - Open-Source Unified Vulnerability Management, DevSecOps &amp; ASPM
 - [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) - Curso de HTML5 e CSS3
+- [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) - Test suites for Web platform specs — including WHATWG, W3C, and others
+- [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for t...
+- [Commando-X/vuln-bank](../repos/Commando-X/vuln-bank.md) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App...
+- [cotes2020/jekyll-theme-chirpy](../repos/cotes2020/jekyll-theme-chirpy.md) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [whatwg/html](../repos/whatwg/html.md) - HTML Standard
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.173Z*
+*Last updated: 2026-08-05T23:01:25.101Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 60
+- **Total Repositories**: 71
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,455 | 2026-08-01 | 2 |
+| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,649 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [modelcontextprotocol/java-sdk](../repos/modelcontextprotocol/java-sdk.md) | ⭐ 3,635 | 2026-08-01 | 2 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,786 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/maven](../repos/apache/maven.md) | ⭐ 5,302 | 2026-08-01 | 3 |
+| [google/guava](../repos/google/guava.md) | ⭐ 51,547 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,492 | 2026-08-02 | 2 |
+| [ashishps1/awesome-leetcode-resources](../repos/ashishps1/awesome-leetcode-resources.md) | ⭐ 17,584 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,748 | 2026-08-02 | 2 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 71,940 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/druid](../repos/apache/druid.md) | ⭐ 14,040 | 2026-08-03 | 2 |
+| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,104 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 4,862 | 2026-08-04 | 1 |
+| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,111 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,101 | 2026-08-04 | 1 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,251 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,555 | 2026-08-04 | 1 |
+| [camunda/camunda](../repos/camunda/camunda.md) | ⭐ 4,234 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 129,155 | 2026-08-04 | 1 |
+| [apache/doris](../repos/apache/doris.md) | ⭐ 15,728 | 2026-08-05 | 1 |
 
 
 ---
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 129,155 | 2026-08-04 | 1 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,238 | 2026-08-04 | 1 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,748 | 2026-08-02 | 2 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 71,817 | 2026-08-03 | 1 |
-| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,103 | 2026-08-04 | 1 |
-| [google/guava](../repos/google/guava.md) | ⭐ 51,535 | 2026-08-02 | 1 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,251 | 2026-08-04 | 2 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,786 | 2026-08-02 | 3 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 71,940 | 2026-08-03 | 2 |
+| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,111 | 2026-08-04 | 2 |
+| [google/guava](../repos/google/guava.md) | ⭐ 51,547 | 2026-08-02 | 2 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,289 | 2026-08-04 | 1 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,284 | 2026-08-05 | 1 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,218 | 2026-08-02 | 1 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 31,740 | 2026-08-04 | 1 |
+| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,427 | 2026-08-05 | 1 |
 | [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,650 | 2026-08-02 | 2 |
 | [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,492 | 2026-08-02 | 2 |
 | [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,141 | 2026-08-03 | 1 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,555 | 2026-08-04 | 1 |
-| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,636 | 2026-08-01 | 1 |
+| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,649 | 2026-08-01 | 2 |
 | [apache/flink](../repos/apache/flink.md) | ⭐ 26,242 | 2026-08-04 | 1 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 25,887 | 2026-08-02 | 2 |
 | [bazelbuild/bazel](../repos/bazelbuild/bazel.md) | ⭐ 25,667 | 2026-08-02 | 1 |
 | [openjdk/jdk](../repos/openjdk/jdk.md) | ⭐ 23,183 | 2026-08-04 | 1 |
-| [ashishps1/awesome-leetcode-resources](../repos/ashishps1/awesome-leetcode-resources.md) | ⭐ 17,557 | 2026-08-03 | 1 |
-| [itwanger/toBeBetterJavaer](../repos/itwanger/toBeBetterJavaer.md) | ⭐ 17,416 | 2026-08-04 | 1 |
 
 ---
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [github/copilot-sdk](../repos/github/copilot-sdk.md) | 3 | ⭐ 10,340 | 2026-08-01 | 2026-08-03 |
 | [apache/maven](../repos/apache/maven.md) | 3 | ⭐ 5,302 | 2026-08-01 | 2026-08-04 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 3 | ⭐ 77,786 | 2026-08-02 | 2026-08-05 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 2 | ⭐ 13,455 | 2026-08-01 | 2026-08-04 |
 | [modelcontextprotocol/java-sdk](../repos/modelcontextprotocol/java-sdk.md) | 2 | ⭐ 3,635 | 2026-08-01 | 2026-08-04 |
+| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | 2 | ⭐ 26,649 | 2026-08-01 | 2026-08-05 |
 | [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | 2 | ⭐ 28,492 | 2026-08-02 | 2026-08-04 |
 | [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | 2 | ⭐ 29,650 | 2026-08-02 | 2026-08-03 |
 | [woheller69/FreeDroidWarn](../repos/woheller69/FreeDroidWarn.md) | 2 | ⭐ 3,030 | 2026-08-02 | 2026-08-03 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 2 | ⭐ 25,887 | 2026-08-02 | 2026-08-03 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 2 | ⭐ 77,748 | 2026-08-02 | 2026-08-04 |
-| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | 2 | ⭐ 2,406 | 2026-08-02 | 2026-08-03 |
 
 ---
 
@@ -190,7 +190,18 @@
 - [apache/paimon](../repos/apache/paimon.md) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink...
 - [openjdk/jdk](../repos/openjdk/jdk.md) - JDK main-line development https:&#x2F;&#x2F;openjdk.org&#x2F;projects&#x2F;jdk
 - [supertokens/supertokens-core](../repos/supertokens/supertokens-core.md) - Open source alternative to Auth0 &#x2F; Firebase Auth &#x2F; AWS Cognito 
+- [apache/doris](../repos/apache/doris.md) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
+- [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) - Learn System Design concepts and prepare for interviews using free resources.
+- [questdb/questdb](../repos/questdb/questdb.md) - QuestDB is a high performance, open-source, time-series database
+- [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+- [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) - Build distributed, production-grade, long-running agents.
+- [neo4j/neo4j](../repos/neo4j/neo4j.md) - Graphs for Everyone
+- [apache/camel](../repos/apache/camel.md) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, ...
+- [apache/hive](../repos/apache/hive.md) - Apache Hive
+- [StarRocks/starrocks](../repos/StarRocks/starrocks.md) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse...
+- [apache/rocketmq](../repos/apache/rocketmq.md) - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build eve...
+- [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on th...
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.175Z*
+*Last updated: 2026-08-05T23:01:25.103Z*

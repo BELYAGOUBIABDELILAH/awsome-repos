@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 31
+- **Total Repositories**: 35
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-04
+- **Last Updated**: 2026-08-05
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 48,625 | 2026-08-01 | 3 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,647 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,593 | 2026-08-01 | 2 |
+| [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,682 | 2026-08-01 | 3 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,817 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,517 | 2026-08-04 | 1 |
+| [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | ⭐ 2,381 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,854 | 2026-08-04 | 1 |
+| [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | ⭐ 10,263 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,499 | 2026-08-04 | 1 |
+| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,534 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift-syntax](../repos/swiftlang/swift-syntax.md) | ⭐ 3,687 | 2026-08-04 | 1 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,856 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 5,583 | 2026-08-04 | 1 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,219 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sozercan/kaset](../repos/sozercan/kaset.md) | ⭐ 1,740 | 2026-08-04 | 1 |
+| [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,808 | 2026-08-04 | 1 |
+| [Octane0411/open-vibe-island](../repos/Octane0411/open-vibe-island.md) | ⭐ 1,895 | 2026-08-05 | 1 |
 
 
 ---
@@ -76,7 +76,7 @@
 | [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,304 | 2026-08-01 | 📸 Delightful Swift snapshot testing. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,593 | 2026-08-01 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agent... |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,647 | 2026-08-01 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agent... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 2,746 | 2026-08-01 | Feature-packed native macOS screenshot &amp; recording tool: annotate, auto-redact PII, record GIFs, ... |
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,219 | 2026-08-05 | 1 |
 | [apple/container](../repos/apple/container.md) | ⭐ 48,625 | 2026-08-01 | 3 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,008 | 2026-08-04 | 1 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,808 | 2026-08-04 | 1 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,593 | 2026-08-01 | 2 |
-| [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,682 | 2026-08-01 | 3 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,854 | 2026-08-04 | 1 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,647 | 2026-08-01 | 3 |
+| [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,856 | 2026-08-04 | 2 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,568 | 2026-08-01 | 1 |
+| [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,479 | 2026-08-01 | 2 |
-| [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | ⭐ 10,253 | 2026-08-03 | 1 |
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,800 | 2026-08-02 | 1 |
+| [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | ⭐ 10,263 | 2026-08-03 | 2 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,817 | 2026-08-02 | 2 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,499 | 2026-08-04 | 1 |
-| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,517 | 2026-08-04 | 1 |
+| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,534 | 2026-08-04 | 2 |
 | [argmaxinc/argmax-oss-swift](../repos/argmaxinc/argmax-oss-swift.md) | ⭐ 6,304 | 2026-08-02 | 1 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,752 | 2026-08-01 | 2 |
 | [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 5,583 | 2026-08-04 | 1 |
 | [Aidoku/Aidoku](../repos/Aidoku/Aidoku.md) | ⭐ 4,417 | 2026-08-03 | 1 |
 | [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,304 | 2026-08-01 | 1 |
-| [swiftlang/swift-syntax](../repos/swiftlang/swift-syntax.md) | ⭐ 3,687 | 2026-08-04 | 1 |
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 2,746 | 2026-08-01 | 1 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [realm/SwiftLint](../repos/realm/SwiftLint.md) | 4 | ⭐ 19,685 | 2026-08-01 | 2026-08-05 |
 | [apple/container](../repos/apple/container.md) | 3 | ⭐ 48,625 | 2026-08-01 | 2026-08-04 |
-| [realm/SwiftLint](../repos/realm/SwiftLint.md) | 3 | ⭐ 19,682 | 2026-08-01 | 2026-08-04 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 3 | ⭐ 25,647 | 2026-08-01 | 2026-08-05 |
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 2 | ⭐ 10,479 | 2026-08-01 | 2026-08-02 |
 | [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | 2 | ⭐ 2,599 | 2026-08-01 | 2026-08-03 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 2 | ⭐ 5,752 | 2026-08-01 | 2026-08-02 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 2 | ⭐ 25,593 | 2026-08-01 | 2026-08-04 |
-| [caezium/Burrow](../repos/caezium/Burrow.md) | 1 | ⭐ 1,176 | 2026-08-01 | 2026-08-01 |
-| [livekit/client-sdk-swift](../repos/livekit/client-sdk-swift.md) | 1 | ⭐ 434 | 2026-08-01 | 2026-08-01 |
-| [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | 1 | ⭐ 13,568 | 2026-08-01 | 2026-08-01 |
-| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | 1 | ⭐ 4,304 | 2026-08-01 | 2026-08-01 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 2 | ⭐ 8,817 | 2026-08-02 | 2026-08-05 |
+| [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | 2 | ⭐ 2,381 | 2026-08-03 | 2026-08-05 |
+| [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | 2 | ⭐ 10,263 | 2026-08-03 | 2026-08-05 |
+| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | 2 | ⭐ 7,534 | 2026-08-04 | 2026-08-05 |
 
 ---
 
@@ -161,7 +161,11 @@
 - [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) - An iOS library to natively render After Effects vector animations
 - [home-assistant/iOS](../repos/home-assistant/iOS.md) - :iphone: Home Assistant for Apple platforms
 - [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) - Beautiful charts for iOS&#x2F;tvOS&#x2F;OSX! The Apple side of the crossplatform MPAndroidChart.
+- [swiftlang/swift](../repos/swiftlang/swift.md) - The Swift Programming Language
+- [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) - Firefox for iOS
+- [Octane0411/open-vibe-island](../repos/Octane0411/open-vibe-island.md) - Native macOS control center for AI coding agents — monitor sessions, approve actions, and jump ba...
+- [erha19/ping-island](../repos/erha19/ping-island.md) - A Dynamic Island-style command center for managing all your AI coding agents on macOS.
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.211Z*
+*Last updated: 2026-08-05T23:01:25.128Z*

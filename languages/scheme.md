@@ -6,16 +6,18 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 1
+- **Total Repositories**: 2
 - **First Seen**: 2026-08-02
-- **Last Updated**: 2026-08-02
+- **Last Updated**: 2026-08-05
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [MoganLab/mogan](../repos/MoganLab/mogan.md) | ⭐ 573 | 2026-08-05 | 1 |
 
-*No Scheme repositories trending today*
 
 ---
 
@@ -24,6 +26,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [scality/metalk8s](../repos/scality/metalk8s.md) | ⭐ 391 | 2026-08-02 | An opinionated Kubernetes distribution with a focus on long-term on-prem deployments |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MoganLab/mogan](../repos/MoganLab/mogan.md) | ⭐ 573 | 2026-08-05 | Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology! |
 
 
 ---
@@ -32,6 +37,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [MoganLab/mogan](../repos/MoganLab/mogan.md) | ⭐ 573 | 2026-08-05 | 1 |
 | [scality/metalk8s](../repos/scality/metalk8s.md) | ⭐ 391 | 2026-08-02 | 1 |
 
 ---
@@ -41,13 +47,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [scality/metalk8s](../repos/scality/metalk8s.md) | 1 | ⭐ 391 | 2026-08-02 | 2026-08-02 |
+| [MoganLab/mogan](../repos/MoganLab/mogan.md) | 1 | ⭐ 573 | 2026-08-05 | 2026-08-05 |
 
 ---
 
 ## 📋 All Scheme Repositories
 
 - [scality/metalk8s](../repos/scality/metalk8s.md) - An opinionated Kubernetes distribution with a focus on long-term on-prem deployments
+- [MoganLab/mogan](../repos/MoganLab/mogan.md) - Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology!
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.205Z*
+*Last updated: 2026-08-05T23:01:25.124Z*

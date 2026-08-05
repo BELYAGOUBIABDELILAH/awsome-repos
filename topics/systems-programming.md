@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 740
+- **Total Repositories**: 830
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 21525
+- **Average Stars**: 20753
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,194 | Rust |  |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,352 | JavaScript |  |
+| [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,046 | Rust |  |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,277 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | Python |  |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,532 | JavaScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 225,459 | Python |  |
+| [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 66,444 | Python |  |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,289 | JavaScript |  |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,044 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 13,446 | TypeScript |  |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,417 | JavaScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,047 | Go |  |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 15,010 | TypeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | Go |  |
+| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,649 | Java |  |
 
 
 ---
@@ -55,9 +55,9 @@
 |------------|-------|----------|------------|---------------|
 | [codecrafters-io/build-your-own-x](../repos/codecrafters-io/build-your-own-x.md) | ⭐ 534,798 | Markdown | 2026-08-02 | 1 |
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 453,833 | Python | 2026-08-01 | 1 |
-| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 360,959 | Python | 2026-08-03 | 2 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 361,483 | Python | 2026-08-03 | 3 |
 | [react/react](../repos/react/react.md) | ⭐ 246,953 | JavaScript | 2026-08-04 | 1 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 225,459 | Python | 2026-08-01 | 4 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,044 | Python | 2026-08-01 | 5 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | TypeScript | 2026-08-04 | 1 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 207,559 | HTML | 2026-08-03 | 1 |
@@ -82,10 +82,10 @@
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 156,600 | TypeScript | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,194 | Rust | 1 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,277 | Rust | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,352 | JavaScript | 1 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,532 | JavaScript | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | Rust | 1 |
@@ -97,7 +97,7 @@
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 18,500 | Rust | 1 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | Rust | 1 |
 
 ---
 
@@ -117,10 +117,10 @@
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 156,600 | TypeScript | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,194 | Rust | 2026-07-30 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,277 | Rust | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,352 | JavaScript | 2026-07-30 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,532 | JavaScript | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | Rust | 2026-07-30 |
@@ -132,11 +132,15 @@
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | Python | 2026-07-31 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 18,500 | Rust | 2026-07-31 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | Rust | 2026-07-31 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-08-05](../archive/2026/08/2026-08-05.md)
+- 298 repositories trending
+- Top: donnemartin&#x2F;system-design-primer
 
 ### [2026-08-04](../archive/2026/08/2026-08-04.md)
 - 333 repositories trending
@@ -171,30 +175,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 4 days | 2026-07-30 | 2026-08-05 |
-| [microsoft/vscode](../repos/microsoft/vscode.md) | 4 days | 2026-07-30 | 2026-08-10 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | 4 days | 2026-07-30 | 2026-08-04 |
-| [vercel/next.js](../repos/vercel/next.js.md) | 4 days | 2026-07-30 | 2026-08-04 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [github/gh-stack](../repos/github/gh-stack.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 4 days | 2026-08-01 | 2026-08-04 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | 5 days | 2026-07-30 | 2026-08-05 |
+| [vercel/next.js](../repos/vercel/next.js.md) | 5 days | 2026-07-30 | 2026-08-05 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [apache/tvm-vta](../repos/apache/tvm-vta.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [apache/spark](../repos/apache/spark.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 5 days | 2026-08-01 | 2026-08-05 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Rust**: 42 repositories (6%)
-- **Go**: 42 repositories (6%)
-- **C++**: 41 repositories (6%)
-- **Python**: 38 repositories (5%)
-- **Java**: 34 repositories (5%)
+- **C++**: 48 repositories (6%)
+- **Go**: 47 repositories (6%)
+- **Rust**: 46 repositories (6%)
+- **Java**: 45 repositories (5%)
+- **Python**: 44 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 145 repositories
+- **Daily Average**: 181.8 repositories
 - **Peak Day**: 2026-08-04 (333 repositories)
 - **Growth Rate**: 100% this month
 
@@ -216,7 +220,7 @@
 - [tauri-apps/tauri](../repos/tauri-apps/tauri.md) - Build smaller, faster, and more secure desktop applications with a web frontend
 - [denoland/deno](../repos/denoland/deno.md) - A modern runtime for JavaScript and TypeScript.
 - [huggingface/transformers](../repos/huggingface/transformers.md) - State-of-the-art Machine Learning for PyTorch, TensorFlow, and JAX
-- [astral-sh/uv](../repos/astral-sh/uv.md) - An extremely fast Python package installer and resolver, written in Rust
+- [astral-sh/uv](../repos/astral-sh/uv.md) - An extremely fast Python package and project manager, written in Rust.
 - [shadcn-ui/ui](../repos/shadcn-ui/ui.md) - Beautifully designed components that you can copy and paste into your apps
 - [anthropics/anthropic-sdk-python](../repos/anthropics/anthropic-sdk-python.md) - SDK for Anthropic&#39;s Claude AI
 - [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -310,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-08-04T22:01:06.049Z*
+*Last updated: 2026-08-05T23:01:24.984Z*
