@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 41
+- **Total Repositories**: 42
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-02
+- **Last Updated**: 2026-08-06
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,715 | 2026-08-01 | 3 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,721 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,290 | 2026-08-01 | 2 |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,292 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,180 | 2026-08-01 | 4 |
+| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 3,944 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,053 | 2026-08-01 | 4 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,194 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 426 | 2026-08-02 | 3 |
+| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,241 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,612 | 2026-08-02 | 2 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,072 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 1,468 | 2026-08-02 | 4 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 427 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,701 | 2026-08-02 | 3 |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,618 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,202 | 2026-08-03 | 2 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,706 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [imsyy/yt-dlp-gui](../repos/imsyy/yt-dlp-gui.md) | ⭐ 176 | 2026-08-03 | 2 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,211 | 2026-08-03 | 3 |
 
 
 ---
@@ -55,19 +55,19 @@
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,869 | 2026-08-01 | BewlyCat——基于BewlyBewly开发的Bilibili拓展 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,715 | 2026-08-01 | Wiki.js | A modern and powerful wiki app built on Node.js |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,721 | 2026-08-01 | Wiki.js | A modern and powerful wiki app built on Node.js |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,290 | 2026-08-01 | Modern, Streamlined, Free and Open Source Customer Service Software |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,292 | 2026-08-01 | Modern, Streamlined, Free and Open Source Customer Service Software |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 3,919 | 2026-08-01 | 跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具 |
+| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 3,944 | 2026-08-01 | 跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,180 | 2026-08-01 | Fully featured, open source CRM |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,194 | 2026-08-01 | Fully featured, open source CRM |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,238 | 2026-08-01 | :tada: A magical vue admin                                                                https:&#x2F;... |
+| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,241 | 2026-08-01 | :tada: A magical vue admin                                                                https:&#x2F;... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 244 | 2026-08-01 | A Career Overhaul mod for BeamNG.drive! Enhances various aspects of the game, including freeroam ... |
@@ -88,24 +88,24 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,238 | 2026-08-01 | 2 |
+| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,241 | 2026-08-01 | 3 |
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,076 | 2026-08-01 | 2 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,098 | 2026-08-01 | 1 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,053 | 2026-08-01 | 4 |
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,715 | 2026-08-01 | 3 |
-| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,612 | 2026-08-02 | 2 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,072 | 2026-08-01 | 5 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,721 | 2026-08-01 | 4 |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,618 | 2026-08-02 | 3 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,588 | 2026-08-01 | 3 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,305 | 2026-08-02 | 3 |
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,473 | 2026-08-05 | 1 |
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,202 | 2026-08-03 | 2 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,211 | 2026-08-03 | 3 |
 | [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,854 | 2026-08-03 | 1 |
 | [un-pany/v3-admin-vite](../repos/un-pany/v3-admin-vite.md) | ⭐ 7,018 | 2026-08-04 | 1 |
 | [VueTorrent/VueTorrent](../repos/VueTorrent/VueTorrent.md) | ⭐ 6,907 | 2026-08-03 | 2 |
 | [luckjiawei/frpc-desktop](../repos/luckjiawei/frpc-desktop.md) | ⭐ 6,811 | 2026-08-04 | 1 |
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,701 | 2026-08-02 | 3 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,706 | 2026-08-02 | 4 |
 | [hslr-s/sun-panel](../repos/hslr-s/sun-panel.md) | ⭐ 5,255 | 2026-08-04 | 2 |
 | [imsyy/home](../repos/imsyy/home.md) | ⭐ 4,585 | 2026-08-01 | 1 |
-| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 3,919 | 2026-08-01 | 1 |
+| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 3,944 | 2026-08-01 | 2 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,869 | 2026-08-01 | 3 |
 | [inovector/mixpost](../repos/inovector/mixpost.md) | ⭐ 3,474 | 2026-08-01 | 1 |
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [frappe/crm](../repos/frappe/crm.md) | 4 | ⭐ 3,180 | 2026-08-01 | 2026-08-05 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 4 | ⭐ 33,053 | 2026-08-01 | 2026-08-05 |
+| [frappe/crm](../repos/frappe/crm.md) | 5 | ⭐ 3,194 | 2026-08-01 | 2026-08-06 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 5 | ⭐ 33,072 | 2026-08-01 | 2026-08-06 |
+| [requarks/wiki](../repos/requarks/wiki.md) | 4 | ⭐ 28,721 | 2026-08-01 | 2026-08-06 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 4 | ⭐ 427 | 2026-08-02 | 2026-08-06 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 4 | ⭐ 1,468 | 2026-08-02 | 2026-08-05 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | 4 | ⭐ 6,706 | 2026-08-02 | 2026-08-06 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 3 | ⭐ 3,869 | 2026-08-01 | 2026-08-03 |
-| [requarks/wiki](../repos/requarks/wiki.md) | 3 | ⭐ 28,715 | 2026-08-01 | 2026-08-05 |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | 3 | ⭐ 3,292 | 2026-08-01 | 2026-08-06 |
+| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | 3 | ⭐ 90,241 | 2026-08-01 | 2026-08-06 |
 | [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | 3 | ⭐ 244 | 2026-08-01 | 2026-08-03 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 3 | ⭐ 21,588 | 2026-08-01 | 2026-08-03 |
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 3 | ⭐ 426 | 2026-08-02 | 2026-08-05 |
-| [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | 3 | ⭐ 797 | 2026-08-02 | 2026-08-04 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 3 | ⭐ 16,305 | 2026-08-02 | 2026-08-04 |
 
 ---
 
@@ -171,7 +171,8 @@
 - [un-pany/v3-admin-vite](../repos/un-pany/v3-admin-vite.md) - ☀️ AI-friendly Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue ...
 - [jumpserver/lina](../repos/jumpserver/lina.md) - Lina is the JumpServer Web UI
 - [primefaces/primevue](../repos/primefaces/primevue.md) - Next Generation Vue UI Component Library
+- [frappe/lms](../repos/frappe/lms.md) - Easy to Use, 100% Open Source Learning Management System
 
 ---
 
-*Last updated: 2026-08-05T23:01:25.135Z*
+*Last updated: 2026-08-06T21:31:57.611Z*

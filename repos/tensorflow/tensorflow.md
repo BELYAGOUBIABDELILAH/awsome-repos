@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Python |
+| **Language** | C++ |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 183,200 |
-| **Forks** | 🍴 74,200 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 196,893 |
+| **Forks** | 🍴 75,900 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Jul 30, 2026 |
-| **Last Seen** | Aug 5, 2026 |
+| **Last Seen** | Aug 6, 2026 |
 
 
 ---
@@ -52,15 +52,15 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 4
-- **Longest Streak**: 2 days
+- **Trending Days**: 5
+- **Longest Streak**: 3 days
 
 ---
 
 ## Categories
 
 ### Topics
-[`machine-learning`](../../topics/machine-learning.md) [`deep-learning`](../../topics/deep-learning.md) [`tensorflow`](../../topics/tensorflow.md) [`ai`](../../topics/ai.md) 
+[`deep-learning`](../../topics/deep-learning.md) [`deep-neural-networks`](../../topics/deep-neural-networks.md) [`distributed`](../../topics/distributed.md) [`machine-learning`](../../topics/machine-learning.md) [`ml`](../../topics/ml.md) [`neural-network`](../../topics/neural-network.md) [`python`](../../topics/python.md) [`tensorflow`](../../topics/tensorflow.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Systems Programming` `Education &amp; Learning` 
@@ -73,12 +73,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Intermediate | Well-documented but extensive API |
+| **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 183,200+ stars, strong contributor base |
+| **Community** | Very Active | 196,893+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Very Active | Updated within last week |
-| **Learning Curve** | Easy | Beginner-friendly with tutorials |
+| **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
 - Training deep learning models
@@ -96,11 +96,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 70&#x2F;100
+- **Trending Score**: 90&#x2F;100
 - **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-08-05T23:01:26.045Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-08-06T21:31:58.454Z*  
+*Data from 5 trending reports*

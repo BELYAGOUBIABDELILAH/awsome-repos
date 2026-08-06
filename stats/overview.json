@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-05T23:01:27.725Z",
-  "total_repositories": 1271,
-  "trending_today": 458,
-  "new_this_month": 1271,
+  "generated_at": "2026-08-06T21:32:00.353Z",
+  "total_repositories": 1408,
+  "trending_today": 463,
+  "new_this_month": 1408,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-08-05",
+  "last_collection": "2026-08-06",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
     "first_seen": "2026-08-02"
   },
   "most_frequent": {
-    "full_name": "rust-lang/rust",
-    "trending_days": 5,
+    "full_name": "vercel/next.js",
+    "trending_days": 6,
     "first_seen": "2026-07-30"
   },
   "newest_discovery": {
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 22264059,
-  "avg_stars": 17517,
-  "avg_trending_days": 1.8,
-  "language_count": 50,
-  "topic_count": 4285,
+  "total_stars": 24665292,
+  "avg_stars": 17518,
+  "avg_trending_days": 1.9,
+  "language_count": 51,
+  "topic_count": 4655,
   "collection_success_rate": 100,
   "data_quality_score": 100
 }

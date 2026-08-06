@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 48
+- **Total Repositories**: 52
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 2 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 3 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,072 | 2026-08-01 | 2 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,637 | 2026-08-01 | 2 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [erikdoe/ocmock](../repos/erikdoe/ocmock.md) | ⭐ 2,171 | 2026-08-03 | 2 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 2 |
+| [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,016 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,329 | 2026-08-04 | 2 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | ⭐ 672 | 2026-08-04 | 2 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,329 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,936 | 2026-08-04 | 2 |
+| [PureLayout/PureLayout](../repos/PureLayout/PureLayout.md) | ⭐ 7,594 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,626 | 2026-08-04 | 2 |
+| [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,453 | 2026-08-06 | 1 |
 
 
 ---
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,415 | 2026-08-02 | 1 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,637 | 2026-08-01 | 2 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | 2026-08-01 | 3 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,870 | 2026-08-02 | 2 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 2 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 3 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,936 | 2026-08-04 | 2 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,846 | 2026-08-04 | 1 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 14,992 | 2026-08-01 | 1 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,626 | 2026-08-04 | 2 |
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,329 | 2026-08-04 | 2 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,329 | 2026-08-04 | 3 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,071 | 2026-08-02 | 1 |
 | [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 12,942 | 2026-08-03 | 2 |
-| [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,016 | 2026-08-02 | 2 |
+| [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,453 | 2026-08-06 | 1 |
+| [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,016 | 2026-08-02 | 3 |
+| [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) | ⭐ 10,646 | 2026-08-06 | 1 |
 | [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,425 | 2026-08-01 | 2 |
 | [facebookarchive/Shimmer](../repos/facebookarchive/Shimmer.md) | ⭐ 9,331 | 2026-08-02 | 2 |
 | [TTTAttributedLabel/TTTAttributedLabel](../repos/TTTAttributedLabel/TTTAttributedLabel.md) | ⭐ 8,711 | 2026-08-03 | 1 |
 | [Flipboard/FLAnimatedImage](../repos/Flipboard/FLAnimatedImage.md) | ⭐ 7,947 | 2026-08-02 | 1 |
+| [PureLayout/PureLayout](../repos/PureLayout/PureLayout.md) | ⭐ 7,594 | 2026-08-06 | 1 |
 | [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,484 | 2026-08-04 | 1 |
-| [maderix/ANE](../repos/maderix/ANE.md) | ⭐ 7,228 | 2026-08-01 | 1 |
-| [newmarcel/KeepingYouAwake](../repos/newmarcel/KeepingYouAwake.md) | ⭐ 6,801 | 2026-08-02 | 1 |
-| [kif-framework/KIF](../repos/kif-framework/KIF.md) | ⭐ 6,242 | 2026-08-04 | 1 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 3 | ⭐ 59 | 2026-08-01 | 2026-08-05 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 4 | ⭐ 59 | 2026-08-01 | 2026-08-06 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 3 | ⭐ 134 | 2026-08-01 | 2026-08-06 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 3 | ⭐ 291 | 2026-08-01 | 2026-08-06 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 3 | ⭐ 25,638 | 2026-08-01 | 2026-08-06 |
+| [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | 3 | ⭐ 12,016 | 2026-08-02 | 2026-08-06 |
 | [amplitude/Amplitude-iOS](../repos/amplitude/Amplitude-iOS.md) | 3 | ⭐ 327 | 2026-08-02 | 2026-08-04 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | 3 | ⭐ 16,614 | 2026-08-04 | 2026-08-06 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | 3 | ⭐ 13,329 | 2026-08-04 | 2026-08-06 |
 | [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | 2 | ⭐ 9,425 | 2026-08-01 | 2026-08-03 |
 | [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | 2 | ⭐ 1,704 | 2026-08-01 | 2026-08-03 |
-| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | 2 | ⭐ 27 | 2026-08-01 | 2026-08-04 |
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 2 | ⭐ 134 | 2026-08-01 | 2026-08-05 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 2 | ⭐ 291 | 2026-08-01 | 2026-08-04 |
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 2 | ⭐ 5,072 | 2026-08-01 | 2026-08-05 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 2 | ⭐ 25,637 | 2026-08-01 | 2026-08-05 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 2 | ⭐ 21,870 | 2026-08-02 | 2026-08-03 |
 
 ---
 
@@ -178,7 +178,11 @@
 - [zendesk/support_sdk_ios](../repos/zendesk/support_sdk_ios.md) - Zendesk Support SDK for iOS
 - [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) - The Ultimate iOS Crash Reporter
 - [youtube/youtube-ios-player-helper](../repos/youtube/youtube-ios-player-helper.md) - Lightweight helper library that allows iOS developers to add inline playback of YouTube videos th...
+- [PureLayout/PureLayout](../repos/PureLayout/PureLayout.md) - The ultimate API for iOS &amp; OS X Auto Layout — impressively simple, immensely powerful. Objective-...
+- [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) - A clean and lightweight progress HUD for your iOS and tvOS app.
+- [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) - A fully customizable iOS calendar library, compatible with Objective-C and Swift
+- [bugsnag/bugsnag-cocoa](../repos/bugsnag/bugsnag-cocoa.md) - BugSnag error monitoring &amp; exception reporter for iOS, macOS, tvOS and watchOS
 
 ---
 
-*Last updated: 2026-08-05T23:01:25.113Z*
+*Last updated: 2026-08-06T21:31:57.589Z*

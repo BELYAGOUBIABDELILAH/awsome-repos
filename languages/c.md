@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 53
+- **Total Repositories**: 60
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [linux-rdma/rdma-core](../repos/linux-rdma/rdma-core.md) | ⭐ 2,335 | 2026-08-01 | 2 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 65,030 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [php/php-src](../repos/php/php-src.md) | ⭐ 40,280 | 2026-08-01 | 2 |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,013 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,591 | 2026-08-02 | 3 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,858 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,347 | 2026-08-03 | 2 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,399 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lz4/lz4](../repos/lz4/lz4.md) | ⭐ 11,990 | 2026-08-05 | 1 |
+| [git/git](../repos/git/git.md) | ⭐ 62,438 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git/git](../repos/git/git.md) | ⭐ 62,419 | 2026-08-05 | 1 |
+| [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 26,488 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [daos-stack/daos](../repos/daos-stack/daos.md) | ⭐ 962 | 2026-08-05 | 1 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,134 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vedderb/bldc](../repos/vedderb/bldc.md) | ⭐ 3,320 | 2026-08-05 | 1 |
+| [esnet/iperf](../repos/esnet/iperf.md) | ⭐ 8,674 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [armel/uv-k1-k5v3-firmware-custom](../repos/armel/uv-k1-k5v3-firmware-custom.md) | ⭐ 562 | 2026-08-05 | 1 |
+| [uber/h3](../repos/uber/h3.md) | ⭐ 6,448 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [betaflight/betaflight](../repos/betaflight/betaflight.md) | ⭐ 11,317 | 2026-08-05 | 1 |
+| [srwi/EverythingToolbar](../repos/srwi/EverythingToolbar.md) | ⭐ 14,510 | 2026-08-06 | 1 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,460 | 2026-08-01 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 63,865 | 2026-08-01 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur... |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 65,030 | 2026-08-01 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,057 | 2026-08-01 | Cross-platform asynchronous I&#x2F;O |
@@ -67,7 +67,7 @@
 | [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,890 | 2026-08-01 | Ultralightweight JSON parser in ANSI C |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,001 | 2026-08-01 | Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,013 | 2026-08-01 | Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,229 | 2026-08-01 | A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input |
@@ -91,8 +91,8 @@
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,460 | 2026-08-01 | 2 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 75,874 | 2026-08-04 | 1 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,591 | 2026-08-02 | 3 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 63,865 | 2026-08-01 | 1 |
-| [git/git](../repos/git/git.md) | ⭐ 62,419 | 2026-08-05 | 1 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 65,030 | 2026-08-01 | 2 |
+| [git/git](../repos/git/git.md) | ⭐ 62,438 | 2026-08-05 | 2 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,280 | 2026-08-01 | 2 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,303 | 2026-08-02 | 1 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,391 | 2026-08-04 | 1 |
@@ -100,6 +100,7 @@
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 31,813 | 2026-08-01 | 1 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,313 | 2026-08-02 | 1 |
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,057 | 2026-08-01 | 1 |
+| [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 26,488 | 2026-08-06 | 1 |
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 25,867 | 2026-08-02 | 3 |
 | [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 24,503 | 2026-08-05 | 1 |
 | [HandBrake/HandBrake](../repos/HandBrake/HandBrake.md) | ⭐ 23,918 | 2026-08-03 | 1 |
@@ -107,7 +108,6 @@
 | [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,592 | 2026-08-04 | 1 |
 | [karpathy/llama2.c](../repos/karpathy/llama2.c.md) | ⭐ 19,914 | 2026-08-03 | 1 |
 | [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,444 | 2026-08-02 | 1 |
-| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,557 | 2026-08-03 | 1 |
 
 ---
 
@@ -119,12 +119,12 @@
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | 3 | ⭐ 25,867 | 2026-08-02 | 2026-08-04 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 3 | ⭐ 74,591 | 2026-08-02 | 2026-08-05 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 2 | ⭐ 137,460 | 2026-08-01 | 2026-08-04 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 2 | ⭐ 65,030 | 2026-08-01 | 2026-08-06 |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | 2 | ⭐ 8,013 | 2026-08-01 | 2026-08-06 |
 | [glfw/glfw](../repos/glfw/glfw.md) | 2 | ⭐ 15,229 | 2026-08-01 | 2026-08-04 |
 | [linux-rdma/rdma-core](../repos/linux-rdma/rdma-core.md) | 2 | ⭐ 2,335 | 2026-08-01 | 2026-08-05 |
 | [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | 2 | ⭐ 16,241 | 2026-08-01 | 2026-08-02 |
 | [Klipper3d/klipper](../repos/Klipper3d/klipper.md) | 2 | ⭐ 11,786 | 2026-08-01 | 2026-08-02 |
-| [php/php-src](../repos/php/php-src.md) | 2 | ⭐ 40,280 | 2026-08-01 | 2026-08-05 |
-| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | 2 | ⭐ 494 | 2026-08-02 | 2026-08-04 |
 
 ---
 
@@ -183,7 +183,14 @@
 - [sonic-net/sonic-buildimage](../repos/sonic-net/sonic-buildimage.md) - Scripts which perform an installable binary image build for SONiC
 - [radareorg/radare2](../repos/radareorg/radare2.md) - UNIX-like reverse engineering framework and command-line toolset
 - [FRRouting/frr](../repos/FRRouting/frr.md) - The FRRouting Protocol Suite
+- [hashcat/hashcat](../repos/hashcat/hashcat.md) - World&#39;s fastest and most advanced password recovery utility
+- [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, s...
+- [esnet/iperf](../repos/esnet/iperf.md) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
+- [uber/h3](../repos/uber/h3.md) - Hexagonal hierarchical geospatial indexing system
+- [srwi/EverythingToolbar](../repos/srwi/EverythingToolbar.md) - Everything integration for the Windows taskbar.
+- [nrfconnect/sdk-nrf](../repos/nrfconnect/sdk-nrf.md) - nRF Connect SDK main repository
+- [google/XNNPACK](../repos/google/XNNPACK.md) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
 
 ---
 
-*Last updated: 2026-08-05T23:01:25.078Z*
+*Last updated: 2026-08-06T21:31:57.555Z*

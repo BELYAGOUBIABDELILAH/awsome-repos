@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 36
+- **Total Repositories**: 41
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | 2026-07-30 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,532 | 2026-07-30 | 5 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 9,698 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,417 | 2026-08-01 | 3 |
+| [projectdiscovery/nuclei-templates](../repos/projectdiscovery/nuclei-templates.md) | ⭐ 12,763 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 10,912 | 2026-08-03 | 2 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 82,792 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
+| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,581 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 81,955 | 2026-08-05 | 1 |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,206 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 55,779 | 2026-08-05 | 1 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,321 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [eze-is/web-access](../repos/eze-is/web-access.md) | ⭐ 8,551 | 2026-08-05 | 1 |
+| [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xuanyustudio/LocalMiniDrama](../repos/xuanyustudio/LocalMiniDrama.md) | ⭐ 1,139 | 2026-08-05 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | ⭐ 942 | 2026-08-05 | 1 |
+| [vrgamegirl19/comfyui-vrgamedevgirl](../repos/vrgamegirl19/comfyui-vrgamedevgirl.md) | ⭐ 604 | 2026-08-06 | 1 |
 
 
 ---
@@ -55,7 +52,7 @@
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | The library for web and native user interfaces |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,532 | 2026-07-30 | The React Framework |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | 2026-07-30 | The React Framework |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,535 | 2026-08-01 | Socket-based TS&#x2F;JavaScript API for WhatsApp Web |
@@ -73,7 +70,7 @@
 | [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,475 | 2026-08-01 | Low-code programming for event-driven applications |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 9,002 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 9,698 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) | ⭐ 347 | 2026-08-01 | Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module... |
@@ -90,13 +87,17 @@
 |------------|-------|------------|---------------|
 | [react/react](../repos/react/react.md) | ⭐ 246,953 | 2026-08-04 | 1 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,532 | 2026-07-30 | 5 |
+| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,581 | 2026-08-06 | 1 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | 2026-07-30 | 6 |
+| [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,206 | 2026-08-06 | 1 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 81,955 | 2026-08-05 | 1 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 82,792 | 2026-08-05 | 2 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,417 | 2026-08-01 | 3 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 55,779 | 2026-08-05 | 1 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,321 | 2026-08-06 | 1 |
 | [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | ⭐ 31,602 | 2026-08-02 | 2 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 31,280 | 2026-08-02 | 2 |
 | [greensock/GSAP](../repos/greensock/GSAP.md) | ⭐ 27,405 | 2026-08-04 | 1 |
@@ -104,10 +105,6 @@
 | [decolua/9router](../repos/decolua/9router.md) | ⭐ 24,468 | 2026-08-02 | 1 |
 | [validatorjs/validator.js](../repos/validatorjs/validator.js.md) | ⭐ 23,737 | 2026-08-03 | 1 |
 | [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,475 | 2026-08-01 | 1 |
-| [huggingface/transformers.js](../repos/huggingface/transformers.js.md) | ⭐ 16,223 | 2026-08-01 | 1 |
-| [NodeBB/NodeBB](../repos/NodeBB/NodeBB.md) | ⭐ 15,175 | 2026-08-03 | 1 |
-| [zotero/zotero](../repos/zotero/zotero.md) | ⭐ 14,882 | 2026-08-05 | 1 |
-| [projectdiscovery/nuclei-templates](../repos/projectdiscovery/nuclei-templates.md) | ⭐ 12,747 | 2026-08-04 | 1 |
 
 ---
 
@@ -115,16 +112,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vercel/next.js](../repos/vercel/next.js.md) | 5 | ⭐ 141,532 | 2026-07-30 | 2026-08-05 |
+| [vercel/next.js](../repos/vercel/next.js.md) | 6 | ⭐ 141,656 | 2026-07-30 | 2026-08-06 |
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 4 | ⭐ 6,998 | 2026-08-01 | 2026-08-04 |
 | [facebook/react](../repos/facebook/react.md) | 3 | ⭐ 219,500 | 2026-07-30 | 2026-08-05 |
 | [byoungd/up](../repos/byoungd/up.md) | 3 | ⭐ 57,417 | 2026-08-01 | 2026-08-05 |
 | [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | 3 | ⭐ 7,624 | 2026-08-02 | 2026-08-04 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 2 | ⭐ 9,698 | 2026-08-01 | 2026-08-06 |
 | [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | 2 | ⭐ 31,602 | 2026-08-02 | 2026-08-03 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 2 | ⭐ 31,280 | 2026-08-02 | 2026-08-04 |
 | [is-a-dev/register](../repos/is-a-dev/register.md) | 2 | ⭐ 10,912 | 2026-08-03 | 2026-08-05 |
 | [webpack/webpack](../repos/webpack/webpack.md) | 2 | ⭐ 65,985 | 2026-08-04 | 2026-08-05 |
-| [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | 1 | ⭐ 10,535 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -166,7 +163,12 @@
 - [xuanyustudio/LocalMiniDrama](../repos/xuanyustudio/LocalMiniDrama.md) - 🎬 seedance2接入  开源本地 AI 短剧 &amp; 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-sou...
 - [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) - Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Managem...
 - [zotero/zotero](../repos/zotero/zotero.md) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your ...
+- [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) - Java 面试 &amp; 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
+- [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) - Free, simple, and intuitive online database diagram editor and SQL generator.
+- [react/create-react-app](../repos/react/create-react-app.md) - Set up a modern web app by running one command.
+- [vrgamegirl19/comfyui-vrgamedevgirl](../repos/vrgamegirl19/comfyui-vrgamedevgirl.md) - Custom ComfyUI nodes for film grain, color matching, and video enhancement.
 
 ---
 
-*Last updated: 2026-08-05T23:01:25.104Z*
+*Last updated: 2026-08-06T21:31:57.580Z*

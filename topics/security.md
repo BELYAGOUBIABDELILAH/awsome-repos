@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 99
+- **Total Repositories**: 112
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 16990
+- **Average Stars**: 16824
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,285 | Go |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,013 | C |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,388 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,390 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,788 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,803 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,546 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,564 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,287 | Clojure |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,299 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,123 | OCaml |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,129 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,550 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,726 | Vim Script |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,894 | PowerShell |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,102 | Assembly |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 40,731 | Vim Script |  |
 
 
 ---
@@ -58,11 +58,11 @@
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,155 | Python | 2026-08-02 | 2 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,616 | Go | 2026-08-03 | 1 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,591 | C | 2026-08-02 | 3 |
-| [git/git](../repos/git/git.md) | ⭐ 62,419 | C | 2026-08-05 | 1 |
-| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 48,948 | Python | 2026-08-04 | 2 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,546 | Clojure | 2026-08-01 | 5 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,287 | Clojure | 2026-08-01 | 5 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,788 | Scala | 2026-08-01 | 5 |
+| [git/git](../repos/git/git.md) | ⭐ 62,438 | C | 2026-08-05 | 2 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,433 | Go | 2026-08-06 | 1 |
+| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 49,346 | Python | 2026-08-04 | 3 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,564 | Clojure | 2026-08-01 | 6 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,299 | Clojure | 2026-08-01 | 6 |
 
 ---
 
@@ -88,7 +88,7 @@
 | [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 5,435 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | Go | 1 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,285 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,063 | Java | 1 |
@@ -97,7 +97,7 @@
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,057 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,001 | C | 1 |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,013 | C | 1 |
 
 ---
 
@@ -123,7 +123,7 @@
 | [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 5,435 | Go | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | Go | 2026-08-01 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,285 | Go | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,063 | Java | 2026-08-01 |
@@ -132,11 +132,15 @@
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,057 | C | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,001 | C | 2026-08-01 |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,013 | C | 2026-08-01 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-08-06](../archive/2026/08/2026-08-06.md)
+- 37 repositories trending
+- Top: git&#x2F;git
 
 ### [2026-08-05](../archive/2026/08/2026-08-05.md)
 - 38 repositories trending
@@ -167,30 +171,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [apache/spark](../repos/apache/spark.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [vlang/v](../repos/vlang/v.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [vim/vim](../repos/vim/vim.md) | 4 days | 2026-08-01 | 2026-08-05 |
-| [briansmith/ring](../repos/briansmith/ring.md) | 4 days | 2026-08-01 | 2026-08-05 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [apache/spark](../repos/apache/spark.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [vlang/v](../repos/vlang/v.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [vim/vim](../repos/vim/vim.md) | 5 days | 2026-08-01 | 2026-08-06 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 5 days | 2026-08-02 | 2026-08-06 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **C**: 17 repositories (17%)
-- **Go**: 12 repositories (12%)
-- **Python**: 6 repositories (6%)
-- **HTML**: 5 repositories (5%)
-- **R**: 5 repositories (5%)
+- **C**: 18 repositories (16%)
+- **Go**: 15 repositories (13%)
+- **Python**: 7 repositories (6%)
+- **HTML**: 6 repositories (5%)
+- **C++**: 5 repositories (4%)
 
 ### Trending Frequency
-- **Daily Average**: 36.4 repositories
+- **Daily Average**: 36.5 repositories
 - **Peak Day**: 2026-08-04 (41 repositories)
 - **Growth Rate**: 100% this month
 
@@ -302,7 +306,8 @@
 - [pq-code-package/mldsa-native](../repos/pq-code-package/mldsa-native.md) - Secure, fast, and portable C90 implementation of ML-DSA &#x2F; FIPS 204
 - [crashappsec/chalk](../repos/crashappsec/chalk.md) - Chalk allows you to follow code from development, through builds and into production.
 - [celo-org/celo-monorepo](../repos/celo-org/celo-monorepo.md) - Official repository for core projects comprising the Celo platform
+- [Unclecheng-li/VulnClaw](../repos/Unclecheng-li/VulnClaw.md) - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
 
 ---
 
-*Last updated: 2026-08-05T23:01:24.967Z*
+*Last updated: 2026-08-06T21:31:57.458Z*

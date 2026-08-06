@@ -1,0 +1,55 @@
+# Roff Repositories
+
+*All trending Roff repositories tracked in this archive*
+
+---
+
+## 📊 Overview
+
+- **Total Repositories**: 1
+- **First Seen**: 2026-08-06
+- **Last Updated**: 2026-08-06
+
+---
+
+## 🔥 Trending Today
+
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [TapXWorld/ChinaTextbook](../repos/TapXWorld/ChinaTextbook.md) | ⭐ 77,033 | 2026-08-06 | 1 |
+
+
+---
+
+## 🆕 New Repositories (Last 30 Days)
+
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [TapXWorld/ChinaTextbook](../repos/TapXWorld/ChinaTextbook.md) | ⭐ 77,033 | 2026-08-06 | 所有小初高、大学PDF教材。 |
+
+
+---
+
+## ⭐ Most Starred
+
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [TapXWorld/ChinaTextbook](../repos/TapXWorld/ChinaTextbook.md) | ⭐ 77,033 | 2026-08-06 | 1 |
+
+---
+
+## 🔥 Most Frequently Trending
+
+| Repository | Trending Days | Stars | First Seen | Last Seen |
+|------------|---------------|-------|------------|-----------|
+| [TapXWorld/ChinaTextbook](../repos/TapXWorld/ChinaTextbook.md) | 1 | ⭐ 77,033 | 2026-08-06 | 2026-08-06 |
+
+---
+
+## 📋 All Roff Repositories
+
+- [TapXWorld/ChinaTextbook](../repos/TapXWorld/ChinaTextbook.md) - 所有小初高、大学PDF教材。
+
+---
+
+*Last updated: 2026-08-06T21:31:57.597Z*

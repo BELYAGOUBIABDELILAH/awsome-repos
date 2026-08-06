@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 55
+- **Total Repositories**: 60
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-05
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,277 | 2026-07-30 | 5 |
+| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | ⭐ 12,324 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
+| [katanemo/plano](../repos/katanemo/plano.md) | ⭐ 6,977 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | 2026-07-31 | 2 |
+| [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | ⭐ 5,377 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 104,169 | 2026-08-01 | 2 |
+| [ovexro/dockpanel](../repos/ovexro/dockpanel.md) | ⭐ 876 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moghtech/komodo](../repos/moghtech/komodo.md) | ⭐ 11,836 | 2026-08-02 | 4 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,406 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | ⭐ 11,378 | 2026-08-03 | 3 |
+| [warp-tech/warpgate](../repos/warp-tech/warpgate.md) | ⭐ 7,468 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [katanemo/plano](../repos/katanemo/plano.md) | ⭐ 6,971 | 2026-08-03 | 3 |
+| [getzola/zola](../repos/getzola/zola.md) | ⭐ 17,302 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | ⭐ 5,344 | 2026-08-03 | 3 |
+| [GCWing/BitFun](../repos/GCWing/BitFun.md) | ⭐ 1,487 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [risingwavelabs/risingwave](../repos/risingwavelabs/risingwave.md) | ⭐ 9,218 | 2026-08-04 | 2 |
+| [EFForg/rayhunter](../repos/EFForg/rayhunter.md) | ⭐ 5,447 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ovexro/dockpanel](../repos/ovexro/dockpanel.md) | ⭐ 860 | 2026-08-05 | 1 |
+| [nubjs/nub](../repos/nubjs/nub.md) | ⭐ 3,887 | 2026-08-06 | 1 |
 
 
 ---
@@ -94,7 +94,7 @@
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | 2026-07-31 | 2 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,402 | 2026-08-05 | 1 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,406 | 2026-08-05 | 2 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,155 | 2026-08-02 | 1 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 39,772 | 2026-08-02 | 1 |
 | [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,268 | 2026-08-05 | 1 |
@@ -117,12 +117,12 @@
 |------------|---------------|-------|------------|-----------|
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 5 | ⭐ 115,277 | 2026-07-30 | 2026-08-05 |
 | [moghtech/komodo](../repos/moghtech/komodo.md) | 4 | ⭐ 11,836 | 2026-08-02 | 2026-08-05 |
+| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | 4 | ⭐ 12,324 | 2026-08-03 | 2026-08-06 |
+| [katanemo/plano](../repos/katanemo/plano.md) | 4 | ⭐ 6,977 | 2026-08-03 | 2026-08-06 |
+| [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | 4 | ⭐ 5,377 | 2026-08-03 | 2026-08-06 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | 3 | ⭐ 76,500 | 2026-07-30 | 2026-08-05 |
 | [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | 3 | ⭐ 13,424 | 2026-08-02 | 2026-08-04 |
 | [n0-computer/iroh](../repos/n0-computer/iroh.md) | 3 | ⭐ 12,067 | 2026-08-02 | 2026-08-04 |
-| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | 3 | ⭐ 11,378 | 2026-08-03 | 2026-08-05 |
-| [katanemo/plano](../repos/katanemo/plano.md) | 3 | ⭐ 6,971 | 2026-08-03 | 2026-08-05 |
-| [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | 3 | ⭐ 5,344 | 2026-08-03 | 2026-08-05 |
 | [denoland/deno](../repos/denoland/deno.md) | 2 | ⭐ 108,046 | 2026-07-30 | 2026-08-04 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | 2 | ⭐ 88,393 | 2026-07-31 | 2026-08-05 |
 
@@ -185,7 +185,12 @@
 - [pola-rs/polars](../repos/pola-rs/polars.md) - Extremely fast Query Engine for DataFrames, written in Rust
 - [hyperium/hyper](../repos/hyperium/hyper.md) - An HTTP library for Rust
 - [WeaveMindAI/weft](../repos/WeaveMindAI/weft.md) - A programming language for AI orchestrations (POC)
+- [warp-tech/warpgate](../repos/warp-tech/warpgate.md) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion&#x2F;PAM that doesn&#39;t need additi...
+- [getzola/zola](../repos/getzola/zola.md) - A fast static site generator in a single binary with everything built-in. https:&#x2F;&#x2F;www.getzola.org
+- [GCWing/BitFun](../repos/GCWing/BitFun.md) - BitFun combines a high-performance agent runtime written in Rust with a polished desktop applicat...
+- [EFForg/rayhunter](../repos/EFForg/rayhunter.md) - Rust tool to detect cell site simulators on an orbic mobile hotspot 
+- [nubjs/nub](../repos/nubjs/nub.md) - The fast all-in-one Node.js toolkit
 
 ---
 
-*Last updated: 2026-08-05T23:01:25.122Z*
+*Last updated: 2026-08-06T21:31:57.599Z*

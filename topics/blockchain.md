@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 133
-- **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-05
-- **Average Stars**: 25087
+- **Total Repositories**: 148
+- **First Seen**: 2026-07-31
+- **Last Updated**: 2026-08-06
+- **Average Stars**: 25335
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | Python |  |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,044 | Python |  |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,467 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 25,824 | C# |  |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,013 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,388 | Scala |  |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,156 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,234 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,390 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,788 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,803 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,924 | Lua |  |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 3,989 | Shell |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,252 | Dart |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,933 | Lua |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [digital-asset/daml](../repos/digital-asset/daml.md) | ⭐ 912 | Haskell |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,546 | Clojure |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,123 | OCaml |  |
 
 
 ---
@@ -53,24 +53,21 @@
 
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
-| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 361,483 | Python | 2026-08-03 | 3 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,044 | Python | 2026-08-01 | 5 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | Python | 2026-07-30 | 4 |
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,186 | Dart | 2026-08-01 | 4 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,011 | Python | 2026-08-03 | 4 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | Python | 2026-08-01 | 6 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 185,959 | Python | 2026-08-06 | 1 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,252 | Dart | 2026-08-01 | 5 |
+| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,581 | JavaScript | 2026-08-06 | 1 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 123,944 | Python | 2026-08-05 | 1 |
 | [microsoft/generative-ai-for-beginners](../repos/microsoft/generative-ai-for-beginners.md) | ⭐ 116,215 | Jupyter Notebook | 2026-08-02 | 3 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,950 | TypeScript | 2026-08-04 | 2 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,791 | C++ | 2026-08-02 | 3 |
-| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 79,146 | Python | 2026-08-02 | 2 |
-| [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | Python | 2026-08-10 | 1 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 86,975 | Go | 2026-08-06 | 1 |
 
 ---
 
 ## 📈 Trending This Week
 
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | Python | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [anthropics/anthropic-sdk-python](../repos/anthropics/anthropic-sdk-python.md) | ⭐ 1,250 | Python | 1 |
@@ -88,7 +85,7 @@
 | [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 9,822 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,044 | Python | 5 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | Python | 6 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 10,720 | Python | 1 |
@@ -98,14 +95,14 @@
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [modelcontextprotocol/ext-apps](../repos/modelcontextprotocol/ext-apps.md) | ⭐ 2,653 | TypeScript | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [continuedev/continue](../repos/continuedev/continue.md) | ⭐ 35,246 | TypeScript | 1 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | Python | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [anthropics/anthropic-sdk-python](../repos/anthropics/anthropic-sdk-python.md) | ⭐ 1,250 | Python | 2026-07-31 |
@@ -123,7 +120,7 @@
 | [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 9,822 | Python | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,044 | Python | 2026-08-01 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | Python | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 10,720 | Python | 2026-08-01 |
@@ -133,17 +130,24 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [modelcontextprotocol/ext-apps](../repos/modelcontextprotocol/ext-apps.md) | ⭐ 2,653 | TypeScript | 2026-08-01 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [continuedev/continue](../repos/continuedev/continue.md) | ⭐ 35,246 | TypeScript | 2026-08-01 |
 
 ---
 
 ## 📅 Recent History
 
+### [2026-08-06](../archive/2026/08/2026-08-06.md)
+- 58 repositories trending
+- Top: donnemartin&#x2F;system-design-primer
+
 ### [2026-08-05](../archive/2026/08/2026-08-05.md)
-- 56 repositories trending
+- 55 repositories trending
 - Top: donnemartin&#x2F;system-design-primer
 
 ### [2026-08-04](../archive/2026/08/2026-08-04.md)
-- 55 repositories trending
+- 54 repositories trending
 - Top: donnemartin&#x2F;system-design-primer
 
 ### [2026-08-03](../archive/2026/08/2026-08-03.md)
@@ -159,12 +163,8 @@
 - Top: NousResearch&#x2F;hermes-agent
 
 ### [2026-07-31](../archive/2026/07/2026-07-31.md)
-- 2 repositories trending
-- Top: tensorflow&#x2F;tensorflow
-
-### [2026-07-30](../archive/2026/07/2026-07-30.md)
 - 1 repositories trending
-- Top: tensorflow&#x2F;tensorflow
+- Top: anthropics&#x2F;anthropic-sdk-python
 
 
 ---
@@ -175,31 +175,31 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [apache/spark](../repos/apache/spark.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 4 days | 2026-07-30 | 2026-08-05 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 4 days | 2026-08-01 | 2026-08-05 |
-| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | 4 days | 2026-08-01 | 2026-08-05 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [apache/spark](../repos/apache/spark.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 5 days | 2026-08-01 | 2026-08-06 |
+| [flutter/flutter](../repos/flutter/flutter.md) | 5 days | 2026-08-01 | 2026-08-06 |
+| [digital-asset/daml](../repos/digital-asset/daml.md) | 5 days | 2026-08-01 | 2026-08-06 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 15 repositories (11%)
-- **C**: 14 repositories (11%)
-- **Rust**: 9 repositories (7%)
-- **TypeScript**: 9 repositories (7%)
-- **Solidity**: 8 repositories (6%)
+- **Python**: 17 repositories (11%)
+- **C**: 15 repositories (10%)
+- **TypeScript**: 13 repositories (9%)
+- **Rust**: 9 repositories (6%)
+- **Solidity**: 8 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 31.5 repositories
-- **Peak Day**: 2026-08-05 (56 repositories)
+- **Daily Average**: 38.3 repositories
+- **Peak Day**: 2026-08-06 (58 repositories)
 - **Growth Rate**: 100% this month
 
 ---
@@ -211,7 +211,6 @@
 
 ## 🔍 Browse All Repositories
 
-- [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) - An Open Source Machine Learning Framework for Everyone
 - [anthropics/anthropic-sdk-python](../repos/anthropics/anthropic-sdk-python.md) - SDK for Anthropic&#39;s Claude AI
 - [langchain-ai/langchain](../repos/langchain-ai/langchain.md) - Building applications with LLMs through composability
 - [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) - 12 Weeks, 24 Lessons, AI for All!
@@ -311,7 +310,8 @@
 - [Coldcard/firmware](../repos/Coldcard/firmware.md) - ❄️ Firmware and simulator for Coldcard Hardware Wallet
 - [spesmilo/electrum](../repos/spesmilo/electrum.md) - Electrum Bitcoin Wallet
 - [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) - Go implementation of the Ethereum protocol
+- [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) - Free universal database tool and SQL client
 
 ---
 
-*Last updated: 2026-08-05T23:01:24.956Z*
+*Last updated: 2026-08-06T21:31:57.453Z*

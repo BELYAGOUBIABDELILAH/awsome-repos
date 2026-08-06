@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 48
+- **Total Repositories**: 57
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 15,010 | 2026-08-01 | 5 |
+| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 22,182 | 2026-08-02 | 3 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 16,222 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cypress-io/cypress](../repos/cypress-io/cypress.md) | ⭐ 50,912 | 2026-08-04 | 2 |
+| [cloudflare/computer](../repos/cloudflare/computer.md) | ⭐ 4,683 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [angular/angular](../repos/angular/angular.md) | ⭐ 100,950 | 2026-08-04 | 2 |
+| [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) | ⭐ 372 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 96,831 | 2026-08-04 | 2 |
+| [AdventDevInc/kudu](../repos/AdventDevInc/kudu.md) | ⭐ 2,029 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/computer](../repos/cloudflare/computer.md) | ⭐ 2,769 | 2026-08-05 | 1 |
+| [iOfficeAI/AionUi](../repos/iOfficeAI/AionUi.md) | ⭐ 31,596 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ln-dev7/circle](../repos/ln-dev7/circle.md) | ⭐ 3,041 | 2026-08-05 | 1 |
+| [expo/expo](../repos/expo/expo.md) | ⭐ 51,390 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) | ⭐ 348 | 2026-08-05 | 1 |
+| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 55,644 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 14,038 | 2026-08-05 | 1 |
+| [CherryHQ/cherry-studio](../repos/CherryHQ/cherry-studio.md) | ⭐ 49,894 | 2026-08-06 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) | ⭐ 26,792 | 2026-08-06 | 1 |
 
 
 ---
@@ -49,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 156,600 | 2026-07-30 | Visual Studio Code |
+| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | Visual Studio Code |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 52,300 | 2026-07-31 | Beautifully designed components that you can copy and paste into your apps |
@@ -64,7 +67,7 @@
 | [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,501 | 2026-08-01 | Cursor plugin specification and official plugins |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 15,010 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 16,222 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 46,198 | 2026-08-01 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring... |
@@ -86,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
-| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 156,600 | 2026-07-30 | 4 |
+| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 125,928 | 2026-08-02 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,950 | 2026-08-04 | 2 |
@@ -97,14 +100,14 @@
 | [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | ⭐ 75,400 | 2026-07-31 | 1 |
 | [reduxjs/redux](../repos/reduxjs/redux.md) | ⭐ 61,511 | 2026-08-04 | 1 |
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | 2026-08-01 | 1 |
+| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 55,644 | 2026-08-06 | 1 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 52,300 | 2026-07-31 | 1 |
+| [expo/expo](../repos/expo/expo.md) | ⭐ 51,390 | 2026-08-06 | 1 |
 | [cypress-io/cypress](../repos/cypress-io/cypress.md) | ⭐ 50,912 | 2026-08-04 | 2 |
+| [CherryHQ/cherry-studio](../repos/CherryHQ/cherry-studio.md) | ⭐ 49,894 | 2026-08-06 | 1 |
 | [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 49,131 | 2026-08-02 | 3 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 48,282 | 2026-08-01 | 1 |
 | [prisma/prisma](../repos/prisma/prisma.md) | ⭐ 47,526 | 2026-08-04 | 1 |
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 46,198 | 2026-08-01 | 1 |
-| [portainer/portainer](../repos/portainer/portainer.md) | ⭐ 38,100 | 2026-08-01 | 1 |
-| [continuedev/continue](../repos/continuedev/continue.md) | ⭐ 35,246 | 2026-08-01 | 1 |
 
 ---
 
@@ -112,8 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 5 | ⭐ 15,010 | 2026-08-01 | 2026-08-05 |
-| [microsoft/vscode](../repos/microsoft/vscode.md) | 4 | ⭐ 156,600 | 2026-07-30 | 2026-08-10 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 6 | ⭐ 16,222 | 2026-08-01 | 2026-08-06 |
+| [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
 | [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | 3 | ⭐ 49,131 | 2026-08-02 | 2026-08-04 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 3 | ⭐ 22,182 | 2026-08-02 | 2026-08-05 |
 | [different-ai/openwork](../repos/different-ai/openwork.md) | 2 | ⭐ 20,293 | 2026-08-01 | 2026-08-02 |
@@ -175,7 +178,16 @@
 - [ln-dev7/circle](../repos/ln-dev7/circle.md) - UI - Project management interface inspired by Linear. Built with Next.js and shadcn&#x2F;ui, this appl...
 - [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) - Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternati...
 - [dream-num/univer](../repos/dream-num/univer.md) - Univer is a full-stack framework for creating and editing spreadsheets &#x2F; word processor &#x2F; present...
+- [AdventDevInc/kudu](../repos/AdventDevInc/kudu.md) - Free Windows, Mac and Linux cleaner, scanner, and more.
+- [iOfficeAI/AionUi](../repos/iOfficeAI/AionUi.md) - Open-source 24&#x2F;7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI A...
+- [expo/expo](../repos/expo/expo.md) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, ...
+- [makeplane/plane](../repos/makeplane/plane.md) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project manag...
+- [CherryHQ/cherry-studio](../repos/CherryHQ/cherry-studio.md) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to...
+- [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) - An open-source AI coding agent that lives in your terminal.
+- [playcanvas/supersplat](../repos/playcanvas/supersplat.md) - 3D Gaussian Splat Editor
+- [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) - The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No...
+- [promptfoo/promptfoo](../repos/promptfoo/promptfoo.md) - Test your prompts, agents, and RAGs. Red teaming&#x2F;pentesting&#x2F;vulnerability scanning for AI. Compar...
 
 ---
 
-*Last updated: 2026-08-05T23:01:25.129Z*
+*Last updated: 2026-08-06T21:31:57.605Z*

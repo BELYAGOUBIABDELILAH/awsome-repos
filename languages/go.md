@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 59
+- **Total Repositories**: 72
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-08-01
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 135,645 | 2026-07-31 | 3 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 44,479 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 44,251 | 2026-08-01 | 4 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,285 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | ⭐ 31,551 | 2026-08-02 | 4 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,467 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 4,685 | 2026-08-02 | 4 |
+| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | ⭐ 32,319 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pulumi/pulumi](../repos/pulumi/pulumi.md) | ⭐ 25,531 | 2026-08-03 | 2 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 26,092 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) | ⭐ 30,318 | 2026-08-04 | 2 |
+| [coder/coder](../repos/coder/coder.md) | ⭐ 14,063 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker/compose](../repos/docker/compose.md) | ⭐ 38,010 | 2026-08-04 | 2 |
+| [DataDog/datadog-agent](../repos/DataDog/datadog-agent.md) | ⭐ 3,696 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 26,050 | 2026-08-04 | 2 |
+| [google/osv-scanner](../repos/google/osv-scanner.md) | ⭐ 10,744 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zzet/gortex](../repos/zzet/gortex.md) | ⭐ 1,087 | 2026-08-04 | 2 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,433 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Project-HAMi/HAMi](../repos/Project-HAMi/HAMi.md) | ⭐ 4,226 | 2026-08-04 | 2 |
+| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 6,887 | 2026-08-06 | 1 |
 
 
 ---
@@ -67,16 +67,16 @@
 | [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 5,435 | 2026-08-01 | The system of action for AI-native cybersecurity—where intent becomes governed execution, evidenc... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 44,251 | 2026-08-01 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, t... |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 44,479 | 2026-08-01 | Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-sour... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [heroiclabs/nakama](../repos/heroiclabs/nakama.md) | ⭐ 13,066 | 2026-08-01 | Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and socia... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | 2026-08-01 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori... |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,285 | 2026-08-01 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,209 | 2026-08-01 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason... |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,467 | 2026-08-01 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nianzhibai/91](../repos/nianzhibai/91.md) | ⭐ 1,316 | 2026-08-01 | nine one |
@@ -93,21 +93,21 @@
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,235 | 2026-08-04 | 1 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,298 | 2026-08-03 | 1 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 86,975 | 2026-08-06 | 1 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,616 | 2026-08-03 | 1 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 71,975 | 2026-08-04 | 1 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,263 | 2026-08-04 | 1 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 44,251 | 2026-08-01 | 4 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,433 | 2026-08-06 | 1 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 44,479 | 2026-08-01 | 5 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,002 | 2026-08-01 | 1 |
 | [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 40,826 | 2026-08-02 | 1 |
 | [docker/compose](../repos/docker/compose.md) | ⭐ 38,010 | 2026-08-04 | 2 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | 2026-08-01 | 2 |
+| [harness/harness](../repos/harness/harness.md) | ⭐ 37,696 | 2026-08-06 | 1 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,285 | 2026-08-01 | 3 |
 | [IceWhaleTech/CasaOS](../repos/IceWhaleTech/CasaOS.md) | ⭐ 36,937 | 2026-08-01 | 1 |
 | [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 36,692 | 2026-08-03 | 1 |
 | [1Panel-dev/1Panel](../repos/1Panel-dev/1Panel.md) | ⭐ 36,408 | 2026-08-02 | 1 |
-| [wailsapp/wails](../repos/wailsapp/wails.md) | ⭐ 35,703 | 2026-08-05 | 1 |
-| [restic/restic](../repos/restic/restic.md) | ⭐ 35,325 | 2026-08-03 | 1 |
-| [tailscale/tailscale](../repos/tailscale/tailscale.md) | ⭐ 34,766 | 2026-08-02 | 2 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 5 | ⭐ 44,479 | 2026-08-01 | 2026-08-06 |
+| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 5 | ⭐ 32,319 | 2026-08-02 | 2026-08-06 |
 | [github/gh-stack](../repos/github/gh-stack.md) | 4 | ⭐ 1,047 | 2026-08-01 | 2026-08-04 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 4 | ⭐ 44,251 | 2026-08-01 | 2026-08-05 |
-| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 4 | ⭐ 31,551 | 2026-08-02 | 2026-08-05 |
 | [superplanehq/superplane](../repos/superplanehq/superplane.md) | 4 | ⭐ 4,685 | 2026-08-02 | 2026-08-05 |
 | [golang/go](../repos/golang/go.md) | 3 | ⭐ 135,645 | 2026-07-31 | 2026-08-05 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 3 | ⭐ 37,285 | 2026-08-01 | 2026-08-06 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | 3 | ⭐ 26,092 | 2026-08-04 | 2026-08-06 |
 | [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | 2 | ⭐ 197 | 2026-08-01 | 2026-08-02 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 2 | ⭐ 37,239 | 2026-08-01 | 2026-08-04 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 2 | ⭐ 19,467 | 2026-08-01 | 2026-08-06 |
 | [kgretzky/evilginx2](../repos/kgretzky/evilginx2.md) | 2 | ⭐ 15,422 | 2026-08-02 | 2026-08-03 |
-| [AlexxIT/go2rtc](../repos/AlexxIT/go2rtc.md) | 2 | ⭐ 13,716 | 2026-08-02 | 2026-08-03 |
-| [tailscale/tailscale](../repos/tailscale/tailscale.md) | 2 | ⭐ 34,766 | 2026-08-02 | 2026-08-03 |
 
 ---
 
@@ -135,7 +135,7 @@
 - [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) - Offensive security framework for AI agent infrastructure - recon, credential looting, model exfil...
 - [github/gh-stack](../repos/github/gh-stack.md) - GitHub Stacked PRs
 - [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) - The system of action for AI-native cybersecurity—where intent becomes governed execution, evidenc...
-- [multica-ai/multica](../repos/multica-ai/multica.md) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, t...
+- [multica-ai/multica](../repos/multica-ai/multica.md) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-sour...
 - [heroiclabs/nakama](../repos/heroiclabs/nakama.md) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and socia...
 - [aquasecurity/trivy](../repos/aquasecurity/trivy.md) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori...
 - [Tencent/WeKnora](../repos/Tencent/WeKnora.md) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason...
@@ -189,7 +189,20 @@
 - [google/osv.dev](../repos/google/osv.dev.md) - Open source vulnerability DB and triage service.
 - [gastownhall/gascity](../repos/gastownhall/gascity.md) - Orchestration-builder SDK for multi-agent coding workflows
 - [wailsapp/wails](../repos/wailsapp/wails.md) - Create beautiful applications using Go
+- [coder/coder](../repos/coder/coder.md) - Secure environments for developers and their agents
+- [DataDog/datadog-agent](../repos/DataDog/datadog-agent.md) - Main repository for Datadog Agent
+- [google/osv-scanner](../repos/google/osv-scanner.md) - Vulnerability scanner written in Go which uses the data provided by https:&#x2F;&#x2F;osv.dev
+- [hashicorp/terraform](../repos/hashicorp/terraform.md) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is...
+- [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) - Modern Docker Management, Designed for Everyone
+- [infiniflow/ragflow](../repos/infiniflow/ragflow.md) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-e...
+- [akuity/kargo](../repos/akuity/kargo.md) - Application lifecycle orchestration
+- [chenyme/grok2api](../repos/chenyme/grok2api.md) - Multi-account API gateway for Grok Build, Grok Web, and Grok Console
+- [YouROK/TorrServer](../repos/YouROK/TorrServer.md) - Torrent stream server
+- [komari-monitor/komari](../repos/komari-monitor/komari.md) - A simple server monitor tool.
+- [larksuite/cli](../repos/larksuite/cli.md) - The official Lark&#x2F;飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents....
+- [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+- [harness/harness](../repos/harness/harness.md) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI&#x2F;CD Pip...
 
 ---
 
-*Last updated: 2026-08-05T23:01:25.099Z*
+*Last updated: 2026-08-06T21:31:57.574Z*

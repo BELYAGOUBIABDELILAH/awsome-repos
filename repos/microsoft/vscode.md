@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 156,600 |
-| **Forks** | 🍴 27,200 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 188,451 |
+| **Forks** | 🍴 41,457 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Jul 30, 2026 |
-| **Last Seen** | Aug 10, 2026 |
+| **Last Seen** | Aug 6, 2026 |
 
 
 ---
@@ -52,7 +52,7 @@
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 2 days
 
 ---
@@ -60,10 +60,10 @@
 ## Categories
 
 ### Topics
-[`editor`](../../topics/editor.md) [`typescript`](../../topics/typescript.md) [`electron`](../../topics/electron.md) [`ide`](../../topics/ide.md) [`vscode`](../../topics/vscode.md) 
+[`editor`](../../topics/editor.md) [`electron`](../../topics/electron.md) [`microsoft`](../../topics/microsoft.md) [`typescript`](../../topics/typescript.md) [`visual-studio-code`](../../topics/visual-studio-code.md) 
 
 ### Curated Categories
-`Systems Programming` `Developer Tools` 
+`Systems Programming` `Developer Tools` `Robotics` 
 
 ---
 
@@ -75,7 +75,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 156,600+ stars, strong contributor base |
+| **Community** | Very Active | 188,451+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
@@ -96,11 +96,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 65&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #2)
 
 
 ---
 
-*Last updated: 2026-08-05T23:01:26.054Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-08-06T21:31:58.461Z*  
+*Data from 5 trending reports*

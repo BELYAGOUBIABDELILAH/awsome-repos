@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 60
+- **Total Repositories**: 65
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-01
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | 2026-07-30 | 4 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,044 | 2026-08-01 | 5 |
+| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 46,014 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 45,946 | 2026-08-02 | 4 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,011 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 361,483 | 2026-08-03 | 3 |
+| [livekit/agents](../repos/livekit/agents.md) | ⭐ 12,702 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 44,517 | 2026-08-03 | 3 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 32,834 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [uber/ADR](../repos/uber/ADR.md) | ⭐ 1,018 | 2026-08-04 | 2 |
+| [uber/ADR](../repos/uber/ADR.md) | ⭐ 1,230 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [browser-use/video-use](../repos/browser-use/video-use.md) | ⭐ 19,721 | 2026-08-04 | 2 |
+| [browser-use/video-use](../repos/browser-use/video-use.md) | ⭐ 19,872 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | ⭐ 2,071 | 2026-08-04 | 2 |
+| [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | ⭐ 2,783 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 48,948 | 2026-08-04 | 2 |
+| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 49,346 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [roboflow/supervision](../repos/roboflow/supervision.md) | ⭐ 48,893 | 2026-08-05 | 1 |
+| [Comfy-Org/workflow_templates](../repos/Comfy-Org/workflow_templates.md) | ⭐ 731 | 2026-08-05 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | 2026-07-30 | An Open Source Machine Learning Framework for Everyone |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 75,000 | 2026-07-30 | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | 2026-08-01 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [trailofbits/skills](../repos/trailofbits/skills.md) | ⭐ 6,367 | 2026-08-01 | Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows |
 
 
 ---
@@ -89,9 +89,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 453,833 | 2026-08-01 | 1 |
-| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 361,483 | 2026-08-03 | 3 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,044 | 2026-08-01 | 5 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 183,200 | 2026-07-30 | 4 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,011 | 2026-08-03 | 4 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | 2026-08-01 | 6 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 185,959 | 2026-08-06 | 1 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 182,027 | 2026-08-02 | 1 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 130,495 | 2026-08-04 | 1 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | 2026-07-31 | 2 |
@@ -104,10 +104,10 @@
 | [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 78,730 | 2026-08-02 | 2 |
 | [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | 2026-08-10 | 1 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 75,000 | 2026-07-30 | 1 |
+| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 71,957 | 2026-08-06 | 1 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 66,444 | 2026-08-01 | 4 |
 | [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 56,866 | 2026-08-01 | 2 |
 | [microsoft/VibeVoice](../repos/microsoft/VibeVoice.md) | ⭐ 51,708 | 2026-08-01 | 1 |
-| [pandas-dev/pandas](../repos/pandas-dev/pandas.md) | ⭐ 49,417 | 2026-08-04 | 1 |
 
 ---
 
@@ -115,22 +115,21 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 6 | ⭐ 226,554 | 2026-08-01 | 2026-08-06 |
 | [openai/whisper](../repos/openai/whisper.md) | 5 | ⭐ 106,298 | 2026-07-31 | 2026-08-01 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 5 | ⭐ 226,044 | 2026-08-01 | 2026-08-05 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 4 | ⭐ 183,200 | 2026-07-30 | 2026-08-05 |
+| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | 5 | ⭐ 46,014 | 2026-08-02 | 2026-08-06 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 4 | ⭐ 66,444 | 2026-08-01 | 2026-08-04 |
-| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | 4 | ⭐ 45,946 | 2026-08-02 | 2026-08-05 |
-| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | 3 | ⭐ 361,483 | 2026-08-03 | 2026-08-05 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | 4 | ⭐ 362,011 | 2026-08-03 | 2026-08-06 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 3 | ⭐ 44,517 | 2026-08-03 | 2026-08-05 |
-| [huggingface/transformers](../repos/huggingface/transformers.md) | 2 | ⭐ 128,800 | 2026-07-31 | 2026-08-04 |
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | 2 | ⭐ 56,866 | 2026-08-01 | 2026-08-02 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 2 | ⭐ 101,196 | 2026-08-01 | 2026-08-02 |
+| [livekit/agents](../repos/livekit/agents.md) | 3 | ⭐ 12,702 | 2026-08-03 | 2026-08-06 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 3 | ⭐ 32,834 | 2026-08-03 | 2026-08-06 |
+| [uber/ADR](../repos/uber/ADR.md) | 3 | ⭐ 1,230 | 2026-08-04 | 2026-08-06 |
+| [browser-use/video-use](../repos/browser-use/video-use.md) | 3 | ⭐ 19,872 | 2026-08-04 | 2026-08-06 |
 
 ---
 
 ## 📋 All Python Repositories
 
-- [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) - An Open Source Machine Learning Framework for Everyone
 - [pytorch/pytorch](../repos/pytorch/pytorch.md) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [openai/whisper](../repos/openai/whisper.md) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [huggingface/transformers](../repos/huggingface/transformers.md) - State-of-the-art Machine Learning for PyTorch, TensorFlow, and JAX
@@ -190,7 +189,13 @@
 - [NVIDIA-NeMo/Speech](../repos/NVIDIA-NeMo/Speech.md) - A scalable generative AI framework built for researchers and developers working on Large Language...
 - [sierra-research/tau2-bench](../repos/sierra-research/tau2-bench.md) - τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains
 - [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) - The most powerful and modular diffusion model GUI, api and backend with a graph&#x2F;nodes interface.
+- [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...
+- [frappe/hrms](../repos/frappe/hrms.md) - Open Source HR and Payroll Software
+- [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- [aws/agent-toolkit-for-aws](../repos/aws/agent-toolkit-for-aws.md) - Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
+- [langchain-ai/open-swe](../repos/langchain-ai/open-swe.md) - An Open-Source Asynchronous Coding Agent
+- [Unclecheng-li/VulnClaw](../repos/Unclecheng-li/VulnClaw.md) - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
 
 ---
 
-*Last updated: 2026-08-05T23:01:25.118Z*
+*Last updated: 2026-08-06T21:31:57.595Z*

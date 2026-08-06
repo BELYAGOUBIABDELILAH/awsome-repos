@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 31
+- **Total Repositories**: 32
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-03
+- **Last Updated**: 2026-08-06
 
 ---
 
@@ -16,28 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,666 | 2026-08-01 | 3 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,093 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) | ⭐ 549 | 2026-08-03 | 2 |
+| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,757 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 9,433 | 2026-08-04 | 2 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 207,704 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,028 | 2026-08-05 | 1 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 9,801 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,264 | 2026-08-05 | 1 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,365 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Commando-X/vuln-bank](../repos/Commando-X/vuln-bank.md) | ⭐ 875 | 2026-08-05 | 1 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,411 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cotes2020/jekyll-theme-chirpy](../repos/cotes2020/jekyll-theme-chirpy.md) | ⭐ 10,206 | 2026-08-05 | 1 |
+| [Commando-X/vuln-bank](../repos/Commando-X/vuln-bank.md) | ⭐ 891 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [whatwg/html](../repos/whatwg/html.md) | ⭐ 9,346 | 2026-08-05 | 1 |
+| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | ⭐ 4,944 | 2026-08-06 | 1 |
 
 
 ---
@@ -61,10 +61,10 @@
 | [GoogleCloudPlatform/knowledge-catalog](../repos/GoogleCloudPlatform/knowledge-catalog.md) | ⭐ 8,131 | 2026-08-01 | Google Cloud Knowledge Catalog Tools and Samples |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 63,827 | 2026-08-01 | from vibe coding to agentic engineering - practice makes claude perfect |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,093 | 2026-08-01 | from vibe coding to agentic engineering - practice makes claude perfect |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,737 | 2026-08-01 | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
+| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,757 | 2026-08-01 | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 18,300 | 2026-08-01 | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment dat... |
@@ -82,21 +82,21 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 207,559 | 2026-08-03 | 1 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 63,827 | 2026-08-01 | 1 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 207,704 | 2026-08-03 | 2 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,093 | 2026-08-01 | 2 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 45,949 | 2026-08-01 | 1 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 26,960 | 2026-08-03 | 1 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,185 | 2026-08-04 | 1 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,365 | 2026-08-04 | 2 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,307 | 2026-08-03 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 18,300 | 2026-08-01 | 1 |
 | [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,567 | 2026-08-02 | 2 |
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,405 | 2026-08-04 | 1 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,411 | 2026-08-04 | 2 |
 | [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,264 | 2026-08-05 | 1 |
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 11,860 | 2026-08-01 | 1 |
-| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,737 | 2026-08-01 | 1 |
+| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,757 | 2026-08-01 | 2 |
 | [cotes2020/jekyll-theme-chirpy](../repos/cotes2020/jekyll-theme-chirpy.md) | ⭐ 10,206 | 2026-08-05 | 1 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 9,801 | 2026-08-04 | 3 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,666 | 2026-08-01 | 3 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 9,433 | 2026-08-04 | 2 |
 | [whatwg/html](../repos/whatwg/html.md) | ⭐ 9,346 | 2026-08-05 | 1 |
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,616 | 2026-08-01 | 2 |
 | [yangzongzhuan/RuoYi](../repos/yangzongzhuan/RuoYi.md) | ⭐ 8,461 | 2026-08-02 | 1 |
@@ -110,15 +110,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 3 | ⭐ 9,666 | 2026-08-01 | 2026-08-05 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 3 | ⭐ 9,801 | 2026-08-04 | 2026-08-06 |
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | 2 | ⭐ 8,616 | 2026-08-01 | 2026-08-02 |
 | [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | 2 | ⭐ 7,627 | 2026-08-01 | 2026-08-04 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 2 | ⭐ 64,093 | 2026-08-01 | 2026-08-06 |
+| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | 2 | ⭐ 10,757 | 2026-08-01 | 2026-08-06 |
 | [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | 2 | ⭐ 16,567 | 2026-08-02 | 2026-08-03 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 2 | ⭐ 6,949 | 2026-08-03 | 2026-08-04 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | 2 | ⭐ 207,704 | 2026-08-03 | 2026-08-06 |
 | [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) | 2 | ⭐ 549 | 2026-08-03 | 2026-08-05 |
-| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 2 | ⭐ 7,839 | 2026-08-03 | 2026-08-04 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 2 | ⭐ 9,433 | 2026-08-04 | 2026-08-05 |
-| [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | 1 | ⭐ 11,860 | 2026-08-01 | 2026-08-01 |
-| [GoogleCloudPlatform/knowledge-catalog](../repos/GoogleCloudPlatform/knowledge-catalog.md) | 1 | ⭐ 8,131 | 2026-08-01 | 2026-08-01 |
 
 ---
 
@@ -155,7 +155,8 @@
 - [Commando-X/vuln-bank](../repos/Commando-X/vuln-bank.md) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App...
 - [cotes2020/jekyll-theme-chirpy](../repos/cotes2020/jekyll-theme-chirpy.md) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [whatwg/html](../repos/whatwg/html.md) - HTML Standard
+- [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) - Grab cam shots &amp; GPS location from target&#39;s phone front camera or PC webcam just sending a link.
 
 ---
 
-*Last updated: 2026-08-05T23:01:25.101Z*
+*Last updated: 2026-08-06T21:31:57.576Z*

@@ -6,24 +6,24 @@
 
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/BELYAGOUBIABDELILAH/awsome-repos/process-trending.yml?branch=main&label=Daily%20Updates&logo=github)](https://github.com/BELYAGOUBIABDELILAH/awsome-repos/actions)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Repositories](https://img.shields.io/badge/Repositories-1271-green.svg)](./stats/)
-[![Languages](https://img.shields.io/badge/Languages-50-orange.svg)](./languages/)
+[![Repositories](https://img.shields.io/badge/Repositories-1408-green.svg)](./stats/)
+[![Languages](https://img.shields.io/badge/Languages-51-orange.svg)](./languages/)
 
 </div>
 
 ---
 
-## 📅 Today's Trending - August 5, 2026
+## 📅 Today's Trending - August 6, 2026
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|------:|----------|-------------|
-| [cloudflare/computer](https://github.com/cloudflare/computer) | ⭐ 3k | TypeScript | Give your agent a computer 👾 |
-| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | ⭐ 2k | Python | Lightweight loop engineering state kernel for long-running AI agent teams. Agent |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | ⭐ 15k | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 361k | Python | Learn how to design large-scale systems. Prep for the system design interview.   |
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | ⭐ 11k | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intel |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | ⭐ 16k | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⭐ 83k | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [cloudflare/computer](https://github.com/cloudflare/computer) | ⭐ 5k | TypeScript | Give your agent a computer 👾 |
+| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | ⭐ 3k | Python | Lightweight loop engineering state kernel for long-running AI agent teams. Agent |
+| [google/guava](https://github.com/google/guava) | ⭐ 52k | Java | Google core libraries for Java |
 
-[📄 View full daily report →](./archive/2026/08/2026-08-05.md)
+[📄 View full daily report →](./archive/2026/08/2026-08-06.md)
 
 ---
 
@@ -43,7 +43,7 @@ Explore repositories grouped by programming language. Find trending projects in 
 - [Python](./languages/python.md) | [JavaScript](./languages/javascript.md) | [TypeScript](./languages/typescript.md)
 - [Go](./languages/go.md) | [Rust](./languages/rust.md) | [Java](./languages/java.md)
 
-**[View all 50 languages →](./languages/)**
+**[View all 51 languages →](./languages/)**
 
 ---
 
@@ -68,7 +68,7 @@ Detailed pages for each repository with complete metrics, trending history, rela
 - [microsoft/vscode](./repos/microsoft/vscode.md)
 - [rust-lang/rust](./repos/rust-lang/rust.md)
 
-**[Browse all 1271 repositories →](./repos/)**
+**[Browse all 1408 repositories →](./repos/)**
 
 ---
 
@@ -95,9 +95,9 @@ Historical trends, growth analysis, and data insights across all tracked reposit
 
 ## 📈 Archive Overview
 
-- **1271** repositories indexed
-- **50** programming languages covered
-- **4285** topics tracked
+- **1408** repositories indexed
+- **51** programming languages covered
+- **4655** topics tracked
 - **Daily updates** via automated workflow
 - **Historical data** since July 2026
 

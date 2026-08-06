@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 105
+- **Total Repositories**: 123
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-04
-- **Average Stars**: 18961
+- **Average Stars**: 18769
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,388 | Scala |  |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,285 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,788 | Scala |  |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,013 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,924 | Lua |  |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,714 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,287 | Clojure |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,390 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,123 | OCaml |  |
+| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,386 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,374 | OCaml |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,803 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,715 | Vue |  |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 3,989 | Shell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | ⭐ 3,520 | Zig |  |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,933 | Lua |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,726 | Vim Script |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,299 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,782 | V |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,129 | OCaml |  |
 
 
 ---
@@ -57,12 +57,12 @@
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,155 | Python | 2026-08-02 | 2 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,591 | C | 2026-08-02 | 3 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 71,975 | Go | 2026-08-04 | 1 |
-| [git/git](../repos/git/git.md) | ⭐ 62,419 | C | 2026-08-05 | 1 |
+| [git/git](../repos/git/git.md) | ⭐ 62,438 | C | 2026-08-05 | 2 |
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | TypeScript | 2026-08-01 | 1 |
+| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 55,644 | TypeScript | 2026-08-06 | 1 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,766 | Shell | 2026-08-06 | 1 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,433 | Go | 2026-08-06 | 1 |
 | [prisma/prisma](../repos/prisma/prisma.md) | ⭐ 47,526 | TypeScript | 2026-08-04 | 1 |
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 45,949 | HTML | 2026-08-01 | 1 |
-| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 45,946 | Python | 2026-08-02 | 4 |
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,537 | C# | 2026-08-01 | 2 |
 
 ---
 
@@ -91,7 +91,7 @@
 | [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,047 | Go | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | Go | 1 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,285 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [cert-manager/cert-manager](../repos/cert-manager/cert-manager.md) | ⭐ 13,994 | Go | 1 |
@@ -126,7 +126,7 @@
 | [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,047 | Go | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,239 | Go | 2026-08-01 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,285 | Go | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [cert-manager/cert-manager](../repos/cert-manager/cert-manager.md) | ⭐ 13,994 | Go | 2026-08-01 |
@@ -137,6 +137,10 @@
 ---
 
 ## 📅 Recent History
+
+### [2026-08-06](../archive/2026/08/2026-08-06.md)
+- 42 repositories trending
+- Top: git&#x2F;git
 
 ### [2026-08-05](../archive/2026/08/2026-08-05.md)
 - 42 repositories trending
@@ -167,30 +171,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 5 days | 2026-08-01 | 2026-08-05 |
-| [vlang/v](../repos/vlang/v.md) | 5 days | 2026-08-01 | 2026-08-05 |
+| [apache/spark](../repos/apache/spark.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [vlang/v](../repos/vlang/v.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [ocaml/opam](../repos/ocaml/opam.md) | 5 days | 2026-08-01 | 2026-08-06 |
+| [vim/vim](../repos/vim/vim.md) | 5 days | 2026-08-01 | 2026-08-06 |
+| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | 5 days | 2026-08-02 | 2026-08-06 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 5 days | 2026-08-02 | 2026-08-06 |
 | [github/gh-stack](../repos/github/gh-stack.md) | 4 days | 2026-08-01 | 2026-08-04 |
-| [ocaml/opam](../repos/ocaml/opam.md) | 4 days | 2026-08-01 | 2026-08-05 |
-| [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | 4 days | 2026-08-01 | 2026-08-05 |
-| [vim/vim](../repos/vim/vim.md) | 4 days | 2026-08-01 | 2026-08-05 |
-| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | 4 days | 2026-08-02 | 2026-08-05 |
-| [superplanehq/superplane](../repos/superplanehq/superplane.md) | 4 days | 2026-08-02 | 2026-08-05 |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 4 days | 2026-08-01 | 2026-08-06 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 20 repositories (19%)
-- **C**: 14 repositories (13%)
-- **Shell**: 8 repositories (8%)
-- **Lua**: 7 repositories (7%)
-- **TypeScript**: 6 repositories (6%)
+- **Go**: 25 repositories (20%)
+- **C**: 16 repositories (13%)
+- **Shell**: 10 repositories (8%)
+- **TypeScript**: 8 repositories (7%)
+- **Lua**: 8 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 38 repositories
+- **Daily Average**: 38.7 repositories
 - **Peak Day**: 2026-08-04 (49 repositories)
 - **Growth Rate**: 100% this month
 
@@ -306,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-08-05T23:01:24.937Z*
+*Last updated: 2026-08-06T21:31:57.436Z*

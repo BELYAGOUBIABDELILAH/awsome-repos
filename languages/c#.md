@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 55
+- **Total Repositories**: 61
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-05
+- **Last Updated**: 2026-08-06
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 25,824 | 2026-08-01 | 4 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,156 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,541 | 2026-08-01 | 2 |
+| [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,455 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,158 | 2026-08-02 | 2 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,543 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,545 | 2026-08-02 | 3 |
+| [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,187 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 4,964 | 2026-08-03 | 3 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,252 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,292 | 2026-08-04 | 2 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 4,976 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,163 | 2026-08-04 | 2 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 14,989 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DataDog/dd-trace-dotnet](../repos/DataDog/dd-trace-dotnet.md) | ⭐ 570 | 2026-08-04 | 2 |
+| [Dailin521/codex-provider-sync](../repos/Dailin521/codex-provider-sync.md) | ⭐ 2,990 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mono/SkiaSharp](../repos/mono/SkiaSharp.md) | ⭐ 5,538 | 2026-08-05 | 1 |
+| [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | ⭐ 3,081 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/extensions](../repos/dotnet/extensions.md) | ⭐ 3,196 | 2026-08-05 | 1 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,153 | 2026-08-04 | 2 |
 
 
 ---
@@ -52,10 +52,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 25,824 | 2026-08-01 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and auto... |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,156 | 2026-08-01 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and auto... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,442 | 2026-08-01 | The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration w... |
+| [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,455 | 2026-08-01 | The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration w... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,592 | 2026-08-01 | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
@@ -70,7 +70,7 @@
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,537 | 2026-08-01 | A modern file manager that helps users organize their files and folders. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,541 | 2026-08-01 | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered ... |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,543 | 2026-08-01 | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,672 | 2026-08-01 | Bitwarden infrastructure&#x2F;backend (API, database, Docker, etc). |
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,158 | 2026-08-02 | 2 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,252 | 2026-08-02 | 3 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,394 | 2026-08-02 | 3 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,743 | 2026-08-06 | 1 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,537 | 2026-08-01 | 2 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,354 | 2026-08-01 | 3 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,345 | 2026-08-03 | 1 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,422 | 2026-08-05 | 1 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 25,824 | 2026-08-01 | 4 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,156 | 2026-08-01 | 5 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,753 | 2026-08-01 | 1 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,337 | 2026-08-02 | 1 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,292 | 2026-08-04 | 2 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,592 | 2026-08-01 | 2 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,672 | 2026-08-01 | 1 |
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,163 | 2026-08-04 | 2 |
-| [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,161 | 2026-08-01 | 1 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,163 | 2026-08-04 | 3 |
+| [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,187 | 2026-08-01 | 2 |
 | [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,834 | 2026-08-02 | 2 |
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 14,942 | 2026-08-03 | 1 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 14,989 | 2026-08-03 | 2 |
 | [dotnet/efcore](../repos/dotnet/efcore.md) | ⭐ 14,762 | 2026-08-04 | 1 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,545 | 2026-08-02 | 3 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 14,498 | 2026-08-02 | 2 |
-| [kgrzybek/modular-monolith-with-ddd](../repos/kgrzybek/modular-monolith-with-ddd.md) | ⭐ 13,907 | 2026-08-01 | 1 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 4 | ⭐ 25,824 | 2026-08-01 | 2026-08-05 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 5 | ⭐ 26,156 | 2026-08-01 | 2026-08-06 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 4 | ⭐ 4,976 | 2026-08-03 | 2026-08-06 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | 3 | ⭐ 3,543 | 2026-08-01 | 2026-08-06 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 3 | ⭐ 38,354 | 2026-08-01 | 2026-08-04 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 3 | ⭐ 113,252 | 2026-08-02 | 2026-08-06 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 3 | ⭐ 55,394 | 2026-08-02 | 2026-08-04 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 3 | ⭐ 14,545 | 2026-08-02 | 2026-08-05 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 3 | ⭐ 4,964 | 2026-08-03 | 2026-08-05 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | 3 | ⭐ 18,163 | 2026-08-04 | 2026-08-06 |
+| [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | 2 | ⭐ 4,455 | 2026-08-01 | 2026-08-06 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | 2 | ⭐ 20,592 | 2026-08-01 | 2026-08-03 |
-| [files-community/Files](../repos/files-community/Files.md) | 2 | ⭐ 44,537 | 2026-08-01 | 2026-08-04 |
-| [microsoft/mcp](../repos/microsoft/mcp.md) | 2 | ⭐ 3,541 | 2026-08-01 | 2026-08-05 |
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 2 | ⭐ 13,703 | 2026-08-01 | 2026-08-02 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 2 | ⭐ 113,158 | 2026-08-02 | 2026-08-05 |
 
 ---
 
@@ -185,7 +185,13 @@
 - [mcmonkeyprojects/SwarmUI](../repos/mcmonkeyprojects/SwarmUI.md) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis...
 - [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [Azure/azure-cosmos-dotnet-v3](../repos/Azure/azure-cosmos-dotnet-v3.md) - .NET SDK for Azure Cosmos DB for the core SQL API
+- [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) - PowerShell for every system!
+- [Azure/azure-powershell](../repos/Azure/azure-powershell.md) - Microsoft Azure PowerShell
+- [dotnet/arcade](../repos/dotnet/arcade.md) - Tools that provide common build infrastructure for multiple .NET Foundation projects.
+- [AIDotNet/OpenDeepWiki](../repos/AIDotNet/OpenDeepWiki.md) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful kno...
+- [hbashton/DS4Windows](../repos/hbashton/DS4Windows.md) - 
+- [dotnet/AspNetCore.Docs](../repos/dotnet/AspNetCore.Docs.md) - Documentation for ASP.NET Core
 
 ---
 
-*Last updated: 2026-08-05T23:01:25.079Z*
+*Last updated: 2026-08-06T21:31:57.557Z*

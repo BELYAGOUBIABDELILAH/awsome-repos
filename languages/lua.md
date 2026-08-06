@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 38
+- **Total Repositories**: 42
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-05
+- **Last Updated**: 2026-08-06
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,924 | 2026-08-01 | 3 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,742 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,310 | 2026-08-01 | 2 |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,933 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [overextended/ox_inventory](../repos/overextended/ox_inventory.md) | ⭐ 563 | 2026-08-02 | 2 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,312 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yetone/avante.nvim](../repos/yetone/avante.nvim.md) | ⭐ 18,102 | 2026-08-03 | 2 |
+| [coder/claudecode.nvim](../repos/coder/claudecode.nvim.md) | ⭐ 2,985 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,218 | 2026-08-04 | 2 |
+| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,224 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CopilotC-Nvim/CopilotChat.nvim](../repos/CopilotC-Nvim/CopilotChat.nvim.md) | ⭐ 3,650 | 2026-08-04 | 2 |
+| [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | ⭐ 4,881 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tarantool/tarantool](../repos/tarantool/tarantool.md) | ⭐ 3,660 | 2026-08-04 | 2 |
+| [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,381 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,129 | 2026-08-04 | 2 |
+| [Kong/kong-pongo](../repos/Kong/kong-pongo.md) | ⭐ 173 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [folke/tokyonight.nvim](../repos/folke/tokyonight.nvim.md) | ⭐ 8,161 | 2026-08-05 | 1 |
+| [jitsi/docker-jitsi-meet](../repos/jitsi/docker-jitsi-meet.md) | ⭐ 3,593 | 2026-08-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvim-tree/nvim-tree.lua](../repos/nvim-tree/nvim-tree.lua.md) | ⭐ 8,613 | 2026-08-05 | 1 |
+| [ibhagwan/fzf-lua](../repos/ibhagwan/fzf-lua.md) | ⭐ 4,405 | 2026-08-06 | 1 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,341 | 2026-08-01 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cer... |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,742 | 2026-08-01 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cer... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/apisix](../repos/apache/apisix.md) | ⭐ 16,954 | 2026-08-01 | The Cloud-Native API Gateway and AI Gateway |
@@ -61,7 +61,7 @@
 | [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | ⭐ 492 | 2026-08-01 | A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with s... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,924 | 2026-08-01 | 🦍 The API and AI Gateway |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,933 | 2026-08-01 | 🦍 The API and AI Gateway |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [KristalTeam/Kristal](../repos/KristalTeam/Kristal.md) | ⭐ 299 | 2026-08-01 | Deltarune fangame engine for Love2D |
@@ -79,7 +79,7 @@
 | [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 273 | 2026-08-01 | A beta Dota2 Bot Script aims to provide better bot game experience |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,310 | 2026-08-01 | 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 &#x2F; 11631066 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,312 | 2026-08-01 | 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 &#x2F; 11631066 |
 
 
 ---
@@ -88,11 +88,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,924 | 2026-08-01 | 3 |
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,218 | 2026-08-04 | 2 |
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,341 | 2026-08-01 | 3 |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,933 | 2026-08-01 | 4 |
+| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,224 | 2026-08-04 | 3 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,742 | 2026-08-01 | 4 |
 | [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) | ⭐ 28,211 | 2026-08-01 | 1 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,089 | 2026-08-04 | 1 |
+| [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,381 | 2026-08-06 | 1 |
 | [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 18,655 | 2026-08-03 | 1 |
 | [yetone/avante.nvim](../repos/yetone/avante.nvim.md) | ⭐ 18,102 | 2026-08-03 | 2 |
 | [apache/apisix](../repos/apache/apisix.md) | ⭐ 16,954 | 2026-08-01 | 2 |
@@ -104,10 +105,9 @@
 | [awesomeWM/awesome](../repos/awesomeWM/awesome.md) | ⭐ 6,934 | 2026-08-04 | 1 |
 | [stevearc/oil.nvim](../repos/stevearc/oil.nvim.md) | ⭐ 6,808 | 2026-08-04 | 1 |
 | [stevearc/conform.nvim](../repos/stevearc/conform.nvim.md) | ⭐ 5,284 | 2026-08-01 | 1 |
-| [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | ⭐ 4,875 | 2026-08-04 | 1 |
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,310 | 2026-08-01 | 2 |
-| [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) | ⭐ 4,129 | 2026-08-03 | 1 |
-| [tarantool/tarantool](../repos/tarantool/tarantool.md) | ⭐ 3,660 | 2026-08-04 | 2 |
+| [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | ⭐ 4,881 | 2026-08-04 | 2 |
+| [ibhagwan/fzf-lua](../repos/ibhagwan/fzf-lua.md) | ⭐ 4,405 | 2026-08-06 | 1 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,312 | 2026-08-01 | 3 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [koreader/koreader](../repos/koreader/koreader.md) | 3 | ⭐ 28,341 | 2026-08-01 | 2026-08-03 |
-| [Kong/kong](../repos/Kong/kong.md) | 3 | ⭐ 43,924 | 2026-08-01 | 2026-08-05 |
+| [koreader/koreader](../repos/koreader/koreader.md) | 4 | ⭐ 28,742 | 2026-08-01 | 2026-08-06 |
+| [Kong/kong](../repos/Kong/kong.md) | 4 | ⭐ 43,933 | 2026-08-01 | 2026-08-06 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | 3 | ⭐ 4,312 | 2026-08-01 | 2026-08-06 |
+| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 3 | ⭐ 31,224 | 2026-08-04 | 2026-08-06 |
 | [apache/apisix](../repos/apache/apisix.md) | 2 | ⭐ 16,954 | 2026-08-01 | 2026-08-04 |
 | [KristalTeam/Kristal](../repos/KristalTeam/Kristal.md) | 2 | ⭐ 299 | 2026-08-01 | 2026-08-02 |
 | [BeamMP/BeamMP](../repos/BeamMP/BeamMP.md) | 2 | ⭐ 504 | 2026-08-01 | 2026-08-03 |
 | [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 2 | ⭐ 273 | 2026-08-01 | 2026-08-02 |
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | 2 | ⭐ 4,310 | 2026-08-01 | 2026-08-05 |
 | [overextended/ox_inventory](../repos/overextended/ox_inventory.md) | 2 | ⭐ 563 | 2026-08-02 | 2026-08-05 |
 | [Footagesus/WindUI](../repos/Footagesus/WindUI.md) | 2 | ⭐ 317 | 2026-08-02 | 2026-08-04 |
-| [yetone/avante.nvim](../repos/yetone/avante.nvim.md) | 2 | ⭐ 18,102 | 2026-08-03 | 2026-08-05 |
 
 ---
 
@@ -168,7 +168,11 @@
 - [stevearc/oil.nvim](../repos/stevearc/oil.nvim.md) - Neovim file explorer: edit your filesystem like a buffer
 - [folke/tokyonight.nvim](../repos/folke/tokyonight.nvim.md) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugi...
 - [nvim-tree/nvim-tree.lua](../repos/nvim-tree/nvim-tree.lua.md) - A file explorer tree for neovim written in lua
+- [folke/lazy.nvim](../repos/folke/lazy.nvim.md) - 💤 A modern plugin manager for Neovim
+- [Kong/kong-pongo](../repos/Kong/kong-pongo.md) - Tooling to run plugin tests with Kong and Kong Enterprise
+- [jitsi/docker-jitsi-meet](../repos/jitsi/docker-jitsi-meet.md) - Jitsi Meet on Docker
+- [ibhagwan/fzf-lua](../repos/ibhagwan/fzf-lua.md) - Improved fzf.vim written in lua
 
 ---
 
-*Last updated: 2026-08-05T23:01:25.108Z*
+*Last updated: 2026-08-06T21:31:57.584Z*

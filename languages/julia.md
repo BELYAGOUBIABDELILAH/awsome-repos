@@ -16,22 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 723 | 2026-08-01 | 5 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 725 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 3 |
+| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 124 | 2026-08-01 | 5 |
+| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 124 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | 3 |
+| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,391 | 2026-08-02 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 4 |
+| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 5 |
 
 
 ---
@@ -40,7 +37,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 723 | 2026-08-01 | The official registry of general Julia packages |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 725 | 2026-08-01 | The official registry of general Julia packages |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | Modular, GPU-capable land surface model of the CliMA Earth System Model, designed for data-driven... |
@@ -65,11 +62,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,391 | 2026-08-02 | 3 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 723 | 2026-08-01 | 5 |
-| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 124 | 2026-08-01 | 5 |
-| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | 3 |
-| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 3 |
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 4 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 725 | 2026-08-01 | 6 |
+| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 124 | 2026-08-01 | 6 |
+| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | 4 |
+| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 4 |
+| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 5 |
 
 ---
 
@@ -77,11 +74,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 5 | ⭐ 723 | 2026-08-01 | 2026-08-05 |
-| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 5 | ⭐ 124 | 2026-08-01 | 2026-08-05 |
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 4 | ⭐ 46 | 2026-08-02 | 2026-08-05 |
-| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | 3 | ⭐ 73 | 2026-08-01 | 2026-08-05 |
-| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 3 | ⭐ 114 | 2026-08-01 | 2026-08-05 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 6 | ⭐ 725 | 2026-08-01 | 2026-08-06 |
+| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 6 | ⭐ 124 | 2026-08-01 | 2026-08-06 |
+| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 5 | ⭐ 46 | 2026-08-02 | 2026-08-06 |
+| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | 4 | ⭐ 73 | 2026-08-01 | 2026-08-06 |
+| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 4 | ⭐ 114 | 2026-08-01 | 2026-08-06 |
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 3 | ⭐ 1,391 | 2026-08-02 | 2026-08-05 |
 
 ---
@@ -97,4 +94,4 @@
 
 ---
 
-*Last updated: 2026-08-05T23:01:25.105Z*
+*Last updated: 2026-08-06T21:31:57.581Z*
