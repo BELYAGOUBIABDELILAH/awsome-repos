@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 52
+- **Total Repositories**: 55
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 2 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,017 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 3 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,827 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 4 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 3 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | 2026-08-01 | 3 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,016 | 2026-08-02 | 3 |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,072 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 3 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,639 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,329 | 2026-08-04 | 3 |
+| [amplitude/Amplitude-iOS](../repos/amplitude/Amplitude-iOS.md) | ⭐ 328 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PureLayout/PureLayout](../repos/PureLayout/PureLayout.md) | ⭐ 7,594 | 2026-08-06 | 1 |
+| [Flipboard/FLAnimatedImage](../repos/Flipboard/FLAnimatedImage.md) | ⭐ 7,947 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,453 | 2026-08-06 | 1 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,329 | 2026-08-04 | 4 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,425 | 2026-08-01 | A software update framework for macOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 14,992 | 2026-08-01 | KeyCastr, an open-source keystroke visualizer |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,017 | 2026-08-01 | KeyCastr, an open-source keystroke visualizer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,704 | 2026-08-01 | AWS SDK for iOS. For more information, see our web site: |
@@ -67,7 +67,7 @@
 | [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | Branch iOS SDK Swift Package Manager distribution |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | Promises is a modern framework that provides a synchronization construct for Swift and Objective-C. |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,827 | 2026-08-01 | Promises is a modern framework that provides a synchronization construct for Swift and Objective-C. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 |  |
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,415 | 2026-08-02 | 1 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | 2026-08-01 | 3 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,639 | 2026-08-01 | 4 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,870 | 2026-08-02 | 2 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 3 |
-| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,936 | 2026-08-04 | 2 |
+| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,935 | 2026-08-04 | 3 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,846 | 2026-08-04 | 1 |
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 14,992 | 2026-08-01 | 1 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,017 | 2026-08-01 | 2 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,626 | 2026-08-04 | 2 |
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,329 | 2026-08-04 | 3 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,329 | 2026-08-04 | 4 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,071 | 2026-08-02 | 1 |
 | [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 12,942 | 2026-08-03 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,453 | 2026-08-06 | 1 |
+| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,089 | 2026-08-07 | 1 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,016 | 2026-08-02 | 3 |
 | [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) | ⭐ 10,646 | 2026-08-06 | 1 |
 | [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,425 | 2026-08-01 | 2 |
 | [facebookarchive/Shimmer](../repos/facebookarchive/Shimmer.md) | ⭐ 9,331 | 2026-08-02 | 2 |
 | [TTTAttributedLabel/TTTAttributedLabel](../repos/TTTAttributedLabel/TTTAttributedLabel.md) | ⭐ 8,711 | 2026-08-03 | 1 |
-| [Flipboard/FLAnimatedImage](../repos/Flipboard/FLAnimatedImage.md) | ⭐ 7,947 | 2026-08-02 | 1 |
+| [Flipboard/FLAnimatedImage](../repos/Flipboard/FLAnimatedImage.md) | ⭐ 7,947 | 2026-08-02 | 2 |
 | [PureLayout/PureLayout](../repos/PureLayout/PureLayout.md) | ⭐ 7,594 | 2026-08-06 | 1 |
-| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,484 | 2026-08-04 | 1 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 4 | ⭐ 59 | 2026-08-01 | 2026-08-06 |
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 3 | ⭐ 134 | 2026-08-01 | 2026-08-06 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 3 | ⭐ 291 | 2026-08-01 | 2026-08-06 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 3 | ⭐ 25,638 | 2026-08-01 | 2026-08-06 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 5 | ⭐ 59 | 2026-08-01 | 2026-08-07 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 4 | ⭐ 134 | 2026-08-01 | 2026-08-07 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 4 | ⭐ 291 | 2026-08-01 | 2026-08-07 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 4 | ⭐ 25,639 | 2026-08-01 | 2026-08-07 |
+| [amplitude/Amplitude-iOS](../repos/amplitude/Amplitude-iOS.md) | 4 | ⭐ 328 | 2026-08-02 | 2026-08-07 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | 4 | ⭐ 13,329 | 2026-08-04 | 2026-08-07 |
+| [google/promises](../repos/google/promises.md) | 3 | ⭐ 3,827 | 2026-08-01 | 2026-08-07 |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 3 | ⭐ 5,072 | 2026-08-01 | 2026-08-07 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | 3 | ⭐ 12,016 | 2026-08-02 | 2026-08-06 |
-| [amplitude/Amplitude-iOS](../repos/amplitude/Amplitude-iOS.md) | 3 | ⭐ 327 | 2026-08-02 | 2026-08-04 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 3 | ⭐ 16,614 | 2026-08-04 | 2026-08-06 |
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | 3 | ⭐ 13,329 | 2026-08-04 | 2026-08-06 |
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | 2 | ⭐ 9,425 | 2026-08-01 | 2026-08-03 |
-| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | 2 | ⭐ 1,704 | 2026-08-01 | 2026-08-03 |
 
 ---
 
@@ -182,7 +182,10 @@
 - [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) - A clean and lightweight progress HUD for your iOS and tvOS app.
 - [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) - A fully customizable iOS calendar library, compatible with Objective-C and Swift
 - [bugsnag/bugsnag-cocoa](../repos/bugsnag/bugsnag-cocoa.md) - BugSnag error monitoring &amp; exception reporter for iOS, macOS, tvOS and watchOS
+- [Mininglamp-OSS/octo-ios](../repos/Mininglamp-OSS/octo-ios.md) - OCTO iOS Client — Open-source enterprise IM
+- [git-up/GitUp](../repos/git-up/GitUp.md) - The Git interface you&#39;ve been missing all your life has finally arrived.
+- [AzureAD/microsoft-authentication-library-common-for-objc](../repos/AzureAD/microsoft-authentication-library-common-for-objc.md) - Common code used by both the Active Directory Authentication Library (ADAL) and the Microsoft Aut...
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.589Z*
+*Last updated: 2026-08-07T21:01:33.532Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 72
+- **Total Repositories**: 82
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-08-01
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 44,479 | 2026-08-01 | 5 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,295 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,285 | 2026-08-01 | 3 |
+| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | ⭐ 32,878 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,467 | 2026-08-01 | 2 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 1,098 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | ⭐ 32,319 | 2026-08-02 | 5 |
+| [coder/coder](../repos/coder/coder.md) | ⭐ 14,086 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 26,092 | 2026-08-04 | 3 |
+| [google/osv-scanner](../repos/google/osv-scanner.md) | ⭐ 10,763 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [coder/coder](../repos/coder/coder.md) | ⭐ 14,063 | 2026-08-06 | 1 |
+| [akuity/kargo](../repos/akuity/kargo.md) | ⭐ 3,515 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DataDog/datadog-agent](../repos/DataDog/datadog-agent.md) | ⭐ 3,696 | 2026-08-06 | 1 |
+| [chenyme/grok2api](../repos/chenyme/grok2api.md) | ⭐ 7,122 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/osv-scanner](../repos/google/osv-scanner.md) | ⭐ 10,744 | 2026-08-06 | 1 |
+| [apernet/hysteria](../repos/apernet/hysteria.md) | ⭐ 22,263 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,433 | 2026-08-06 | 1 |
+| [gophish/gophish](../repos/gophish/gophish.md) | ⭐ 14,099 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 6,887 | 2026-08-06 | 1 |
+| [kubernetes-sigs/kind](../repos/kubernetes-sigs/kind.md) | ⭐ 15,404 | 2026-08-07 | 1 |
 
 
 ---
@@ -73,7 +73,7 @@
 | [heroiclabs/nakama](../repos/heroiclabs/nakama.md) | ⭐ 13,066 | 2026-08-01 | Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and socia... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,285 | 2026-08-01 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori... |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,295 | 2026-08-01 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,467 | 2026-08-01 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason... |
@@ -96,6 +96,7 @@
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 86,975 | 2026-08-06 | 1 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,616 | 2026-08-03 | 1 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 71,975 | 2026-08-04 | 1 |
+| [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | 2026-08-07 | 1 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,263 | 2026-08-04 | 1 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,433 | 2026-08-06 | 1 |
@@ -104,10 +105,9 @@
 | [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 40,826 | 2026-08-02 | 1 |
 | [docker/compose](../repos/docker/compose.md) | ⭐ 38,010 | 2026-08-04 | 2 |
 | [harness/harness](../repos/harness/harness.md) | ⭐ 37,696 | 2026-08-06 | 1 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,285 | 2026-08-01 | 3 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,295 | 2026-08-01 | 4 |
 | [IceWhaleTech/CasaOS](../repos/IceWhaleTech/CasaOS.md) | ⭐ 36,937 | 2026-08-01 | 1 |
 | [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 36,692 | 2026-08-03 | 1 |
-| [1Panel-dev/1Panel](../repos/1Panel-dev/1Panel.md) | ⭐ 36,408 | 2026-08-02 | 1 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 6 | ⭐ 32,878 | 2026-08-02 | 2026-08-07 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 5 | ⭐ 44,479 | 2026-08-01 | 2026-08-06 |
-| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 5 | ⭐ 32,319 | 2026-08-02 | 2026-08-06 |
 | [github/gh-stack](../repos/github/gh-stack.md) | 4 | ⭐ 1,047 | 2026-08-01 | 2026-08-04 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 4 | ⭐ 37,295 | 2026-08-01 | 2026-08-07 |
 | [superplanehq/superplane](../repos/superplanehq/superplane.md) | 4 | ⭐ 4,685 | 2026-08-02 | 2026-08-05 |
 | [golang/go](../repos/golang/go.md) | 3 | ⭐ 135,645 | 2026-07-31 | 2026-08-05 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 3 | ⭐ 37,285 | 2026-08-01 | 2026-08-06 |
 | [gastownhall/beads](../repos/gastownhall/beads.md) | 3 | ⭐ 26,092 | 2026-08-04 | 2026-08-06 |
 | [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | 2 | ⭐ 197 | 2026-08-01 | 2026-08-02 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 2 | ⭐ 19,467 | 2026-08-01 | 2026-08-06 |
-| [kgretzky/evilginx2](../repos/kgretzky/evilginx2.md) | 2 | ⭐ 15,422 | 2026-08-02 | 2026-08-03 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 2 | ⭐ 1,098 | 2026-08-02 | 2026-08-07 |
 
 ---
 
@@ -202,7 +202,17 @@
 - [larksuite/cli](../repos/larksuite/cli.md) - The official Lark&#x2F;飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents....
 - [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [harness/harness](../repos/harness/harness.md) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI&#x2F;CD Pip...
+- [apernet/hysteria](../repos/apernet/hysteria.md) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+- [gophish/gophish](../repos/gophish/gophish.md) - Open-Source Phishing Toolkit
+- [kubernetes-sigs/kind](../repos/kubernetes-sigs/kind.md) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [openbao/openbao](../repos/openbao/openbao.md) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets,...
+- [nektos/act](../repos/nektos/act.md) - Run your GitHub Actions locally 🚀
+- [veops/oneterm](../repos/veops/oneterm.md) - Provide secure access and control over all infrastructure
+- [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [livekit/livekit](../repos/livekit/livekit.md) - End-to-end realtime stack for connecting humans and AI
+- [higress-group/higress](../repos/higress-group/higress.md) - 🤖 AI Gateway | AI Native API Gateway
+- [containers/kubernetes-mcp-server](../repos/containers/kubernetes-mcp-server.md) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.574Z*
+*Last updated: 2026-08-07T21:01:33.511Z*

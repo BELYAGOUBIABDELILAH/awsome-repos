@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 57
+- **Total Repositories**: 61
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-03
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,633 | 2026-08-01 | 2 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,635 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,198 | 2026-08-02 | 2 |
+| [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | ⭐ 6,314 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | ⭐ 1,616 | 2026-08-03 | 2 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 4,011 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,317 | 2026-08-04 | 3 |
+| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | ⭐ 1,619 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 454 | 2026-08-05 | 2 |
+| [cwuom/NeriPlayer](../repos/cwuom/NeriPlayer.md) | ⭐ 2,716 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,164 | 2026-08-05 | 2 |
+| [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,355 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 49,516 | 2026-08-06 | 1 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 49,645 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [misaka10032w/Han1meViewer](../repos/misaka10032w/Han1meViewer.md) | ⭐ 208 | 2026-08-06 | 1 |
+| [misaka10032w/Han1meViewer](../repos/misaka10032w/Han1meViewer.md) | ⭐ 233 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kotlin/kotlin-lsp](../repos/Kotlin/kotlin-lsp.md) | ⭐ 3,459 | 2026-08-06 | 1 |
+| [LanRhyme/MicYou](../repos/LanRhyme/MicYou.md) | ⭐ 3,202 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KotatsuApp/Kotatsu](../repos/KotatsuApp/Kotatsu.md) | ⭐ 8,792 | 2026-08-06 | 1 |
+| [xororz/local-dream](../repos/xororz/local-dream.md) | ⭐ 3,180 | 2026-08-07 | 1 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,585 | 2026-08-01 | Free and open source manga reader for Android |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,635 | 2026-08-01 | Free and open source manga reader for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 136 | 2026-08-01 | Android app for BYD DiLink 5.0: real consumption from BMS, GPS trips, charges journal, automation... |
@@ -76,7 +76,7 @@
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,633 | 2026-08-01 | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | ⭐ 6,293 | 2026-08-01 | Material design file manager for Android |
+| [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | ⭐ 6,314 | 2026-08-01 | Material design file manager for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,563 | 2026-08-02 | A V2Ray client for Android, support Xray core and v2fly core |
@@ -91,11 +91,11 @@
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,020 | 2026-08-03 | 1 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,563 | 2026-08-02 | 2 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,317 | 2026-08-04 | 3 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 49,516 | 2026-08-06 | 1 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 49,645 | 2026-08-06 | 2 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 40,633 | 2026-08-03 | 1 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,164 | 2026-08-05 | 2 |
-| [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,350 | 2026-08-05 | 1 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,585 | 2026-08-01 | 5 |
+| [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,355 | 2026-08-05 | 2 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,635 | 2026-08-01 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,198 | 2026-08-02 | 2 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,633 | 2026-08-01 | 2 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,190 | 2026-08-02 | 1 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 5 | ⭐ 22,585 | 2026-08-01 | 2026-08-05 |
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 4 | ⭐ 3,962 | 2026-08-02 | 2026-08-05 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 6 | ⭐ 22,635 | 2026-08-01 | 2026-08-07 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 5 | ⭐ 4,011 | 2026-08-02 | 2026-08-07 |
 | [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | 3 | ⭐ 603 | 2026-08-02 | 2026-08-04 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 3 | ⭐ 2,060 | 2026-08-02 | 2026-08-04 |
+| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | 3 | ⭐ 1,619 | 2026-08-03 | 2026-08-07 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | 3 | ⭐ 53,317 | 2026-08-04 | 2026-08-06 |
 | [Fate-Grand-Automata/FGA](../repos/Fate-Grand-Automata/FGA.md) | 2 | ⭐ 2,277 | 2026-08-01 | 2026-08-03 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | 2 | ⭐ 21,633 | 2026-08-01 | 2026-08-06 |
+| [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | 2 | ⭐ 6,314 | 2026-08-01 | 2026-08-07 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 2 | ⭐ 60,563 | 2026-08-02 | 2026-08-03 |
-| [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | 2 | ⭐ 22,198 | 2026-08-02 | 2026-08-06 |
-| [sfsakhawat999/mpvRex](../repos/sfsakhawat999/mpvRex.md) | 2 | ⭐ 471 | 2026-08-02 | 2026-08-03 |
 
 ---
 
@@ -187,7 +187,11 @@
 - [Kotlin/kotlin-lsp](../repos/Kotlin/kotlin-lsp.md) - Kotlin Language Server and plugin for Visual Studio Code
 - [KotatsuApp/Kotatsu](../repos/KotatsuApp/Kotatsu.md) - Manga reader for Android
 - [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) - An alternative frontend for YouTube, for Android.
+- [LanRhyme/MicYou](../repos/LanRhyme/MicYou.md) - MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC.
+- [xororz/local-dream](../repos/xororz/local-dream.md) - Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU&#x2F;GPU i...
+- [samolego/Canta](../repos/samolego/Canta.md) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, ...
+- [jqssun/android-airplay-server](../repos/jqssun/android-airplay-server.md) - First open-source AirPlay receiver implementation for Android with mirroring, video and audio sup...
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.583Z*
+*Last updated: 2026-08-07T21:01:33.523Z*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 76
+- **Total Repositories**: 85
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-06
+- **Last Updated**: 2026-08-07
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,893 | 2026-07-30 | 5 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,905 | 2026-07-30 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,905 | 2026-08-01 | 5 |
+| [official-stockfish/Stockfish](../repos/official-stockfish/Stockfish.md) | ⭐ 16,253 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,269 | 2026-08-01 | 5 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 28,733 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,444 | 2026-08-01 | 4 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 38,910 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [electron/electron](../repos/electron/electron.md) | ⭐ 122,376 | 2026-08-01 | 2 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 64,838 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 28,700 | 2026-08-03 | 2 |
+| [dyang886/Game-Cheats-Manager](../repos/dyang886/Game-Cheats-Manager.md) | ⭐ 13,970 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | ⭐ 830 | 2026-08-04 | 3 |
+| [cloudflare/workerd](../repos/cloudflare/workerd.md) | ⭐ 8,527 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 38,906 | 2026-08-04 | 3 |
+| [google/leveldb](../repos/google/leveldb.md) | ⭐ 39,303 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FEX-Emu/FEX](../repos/FEX-Emu/FEX.md) | ⭐ 7,827 | 2026-08-05 | 2 |
+| [google/perfetto](../repos/google/perfetto.md) | ⭐ 6,320 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ai-dynamo/nixl](../repos/ai-dynamo/nixl.md) | ⭐ 1,177 | 2026-08-05 | 2 |
+| [lemonade-sdk/lemonade](../repos/lemonade-sdk/lemonade.md) | ⭐ 5,282 | 2026-08-07 | 1 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,893 | 2026-07-30 | An Open Source Machine Learning Framework for Everyone |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,905 | 2026-07-30 | An Open Source Machine Learning Framework for Everyone |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,290 | 2026-08-01 | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  |
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,893 | 2026-07-30 | 5 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,905 | 2026-07-30 | 6 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,283 | 2026-08-04 | 1 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,905 | 2026-08-01 | 5 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,376 | 2026-08-01 | 2 |
@@ -96,18 +96,18 @@
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,505 | 2026-08-06 | 1 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,791 | 2026-08-02 | 3 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,670 | 2026-08-01 | 1 |
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 64,774 | 2026-08-05 | 1 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 64,838 | 2026-08-05 | 2 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,247 | 2026-08-02 | 2 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,681 | 2026-08-06 | 1 |
+| [google/leveldb](../repos/google/leveldb.md) | ⭐ 39,303 | 2026-08-07 | 1 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,226 | 2026-08-02 | 2 |
-| [google/googletest](../repos/google/googletest.md) | ⭐ 38,906 | 2026-08-04 | 3 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 38,910 | 2026-08-04 | 4 |
+| [aseprite/aseprite](../repos/aseprite/aseprite.md) | ⭐ 38,585 | 2026-08-07 | 1 |
+| [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 37,757 | 2026-08-07 | 1 |
 | [carbon-language/carbon-lang](../repos/carbon-language/carbon-lang.md) | ⭐ 33,849 | 2026-08-04 | 1 |
 | [telegramdesktop/tdesktop](../repos/telegramdesktop/tdesktop.md) | ⭐ 32,520 | 2026-08-05 | 1 |
-| [ValveSoftware/Proton](../repos/ValveSoftware/Proton.md) | ⭐ 32,435 | 2026-08-03 | 1 |
-| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 32,361 | 2026-08-03 | 1 |
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,444 | 2026-08-01 | 4 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 5 | ⭐ 196,893 | 2026-07-30 | 2026-08-06 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 6 | ⭐ 196,905 | 2026-07-30 | 2026-08-07 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 5 | ⭐ 122,905 | 2026-08-01 | 2026-08-06 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 5 | ⭐ 115,269 | 2026-08-01 | 2026-08-06 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 4 | ⭐ 29,444 | 2026-08-01 | 2026-08-06 |
+| [google/googletest](../repos/google/googletest.md) | 4 | ⭐ 38,910 | 2026-08-04 | 2026-08-07 |
 | [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | 3 | ⭐ 6,150 | 2026-08-01 | 2026-08-04 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | 3 | ⭐ 89,791 | 2026-08-02 | 2026-08-05 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 3 | ⭐ 28,733 | 2026-08-03 | 2026-08-07 |
 | [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | 3 | ⭐ 830 | 2026-08-04 | 2026-08-06 |
-| [google/googletest](../repos/google/googletest.md) | 3 | ⭐ 38,906 | 2026-08-04 | 2026-08-06 |
 | [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | 2 | ⭐ 5,290 | 2026-08-01 | 2026-08-02 |
-| [lightvector/KataGo](../repos/lightvector/KataGo.md) | 2 | ⭐ 4,902 | 2026-08-01 | 2026-08-02 |
 
 ---
 
@@ -206,7 +206,16 @@
 - [zeek/zeek](../repos/zeek/zeek.md) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may...
 - [ml-explore/mlx](../repos/ml-explore/mlx.md) - MLX: An array framework for Apple silicon
 - [microsoft/terminal](../repos/microsoft/terminal.md) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [google/leveldb](../repos/google/leveldb.md) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping fr...
+- [google/perfetto](../repos/google/perfetto.md) - Production-grade client-side tracing, profiling, and analysis for complex software systems.
+- [lemonade-sdk/lemonade](../repos/lemonade-sdk/lemonade.md) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their ow...
+- [aseprite/aseprite](../repos/aseprite/aseprite.md) - Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)
+- [microsoft/foundry-local](../repos/microsoft/foundry-local.md) - 
+- [openvinotoolkit/openvino](../repos/openvinotoolkit/openvino.md) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+- [tenstorrent/tt-metal](../repos/tenstorrent/tt-metal.md) - :metal: TT-NN operator library, and TT-Metalium low level kernel programming model.
+- [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t s...
+- [k2-fsa/sherpa-onnx](../repos/k2-fsa/sherpa-onnx.md) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and V...
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.560Z*
+*Last updated: 2026-08-07T21:01:33.494Z*

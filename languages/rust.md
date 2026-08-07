@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 60
+- **Total Repositories**: 65
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-05
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | ⭐ 12,324 | 2026-08-03 | 4 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 104,649 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [katanemo/plano](../repos/katanemo/plano.md) | ⭐ 6,977 | 2026-08-03 | 4 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 13,632 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | ⭐ 5,377 | 2026-08-03 | 4 |
+| [cube-js/cube](../repos/cube-js/cube.md) | ⭐ 20,568 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ovexro/dockpanel](../repos/ovexro/dockpanel.md) | ⭐ 876 | 2026-08-05 | 2 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,163 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,406 | 2026-08-05 | 2 |
+| [GCWing/BitFun](../repos/GCWing/BitFun.md) | ⭐ 1,568 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [warp-tech/warpgate](../repos/warp-tech/warpgate.md) | ⭐ 7,468 | 2026-08-06 | 1 |
+| [EFForg/rayhunter](../repos/EFForg/rayhunter.md) | ⭐ 5,455 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getzola/zola](../repos/getzola/zola.md) | ⭐ 17,302 | 2026-08-06 | 1 |
+| [denoland/celld](../repos/denoland/celld.md) | ⭐ 2,140 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GCWing/BitFun](../repos/GCWing/BitFun.md) | ⭐ 1,487 | 2026-08-06 | 1 |
+| [glzr-io/glazewm](../repos/glzr-io/glazewm.md) | ⭐ 12,554 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EFForg/rayhunter](../repos/EFForg/rayhunter.md) | ⭐ 5,447 | 2026-08-06 | 1 |
+| [cloudflare/pingora](../repos/cloudflare/pingora.md) | ⭐ 27,151 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nubjs/nub](../repos/nubjs/nub.md) | ⭐ 3,887 | 2026-08-06 | 1 |
+| [pimalaya/himalaya](../repos/pimalaya/himalaya.md) | ⭐ 6,956 | 2026-08-07 | 1 |
 
 
 ---
@@ -73,7 +73,7 @@
 | [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | ⭐ 12,396 | 2026-08-01 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 104,169 | 2026-08-01 | Lightweight coding agent that runs in your terminal |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 104,649 | 2026-08-01 | Lightweight coding agent that runs in your terminal |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 24,959 | 2026-08-01 | Development at the speed of light |
@@ -90,13 +90,13 @@
 |------------|-------|------------|---------------|
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,277 | 2026-07-30 | 5 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,046 | 2026-07-30 | 2 |
-| [openai/codex](../repos/openai/codex.md) | ⭐ 104,169 | 2026-08-01 | 2 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 104,649 | 2026-08-01 | 3 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | 2026-07-31 | 2 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,406 | 2026-08-05 | 2 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,163 | 2026-08-02 | 2 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,155 | 2026-08-02 | 1 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 39,772 | 2026-08-02 | 1 |
 | [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,268 | 2026-08-05 | 1 |
 | [zellij-org/zellij](../repos/zellij-org/zellij.md) | ⭐ 34,708 | 2026-08-04 | 1 |
 | [zeroclaw-labs/zeroclaw](../repos/zeroclaw-labs/zeroclaw.md) | ⭐ 32,484 | 2026-08-02 | 1 |
@@ -105,9 +105,9 @@
 | [emilk/egui](../repos/emilk/egui.md) | ⭐ 29,942 | 2026-08-02 | 1 |
 | [ankitects/anki](../repos/ankitects/anki.md) | ⭐ 29,506 | 2026-08-02 | 2 |
 | [wezterm/wezterm](../repos/wezterm/wezterm.md) | ⭐ 28,114 | 2026-08-02 | 1 |
+| [cloudflare/pingora](../repos/cloudflare/pingora.md) | ⭐ 27,151 | 2026-08-07 | 1 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 25,251 | 2026-08-03 | 1 |
 | [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 24,959 | 2026-08-01 | 1 |
-| [tursodatabase/turso](../repos/tursodatabase/turso.md) | ⭐ 23,593 | 2026-08-01 | 1 |
 
 ---
 
@@ -121,10 +121,10 @@
 | [katanemo/plano](../repos/katanemo/plano.md) | 4 | ⭐ 6,977 | 2026-08-03 | 2026-08-06 |
 | [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | 4 | ⭐ 5,377 | 2026-08-03 | 2026-08-06 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | 3 | ⭐ 76,500 | 2026-07-30 | 2026-08-05 |
+| [openai/codex](../repos/openai/codex.md) | 3 | ⭐ 104,649 | 2026-08-01 | 2026-08-07 |
 | [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | 3 | ⭐ 13,424 | 2026-08-02 | 2026-08-04 |
 | [n0-computer/iroh](../repos/n0-computer/iroh.md) | 3 | ⭐ 12,067 | 2026-08-02 | 2026-08-04 |
 | [denoland/deno](../repos/denoland/deno.md) | 2 | ⭐ 108,046 | 2026-07-30 | 2026-08-04 |
-| [astral-sh/uv](../repos/astral-sh/uv.md) | 2 | ⭐ 88,393 | 2026-07-31 | 2026-08-05 |
 
 ---
 
@@ -190,7 +190,12 @@
 - [GCWing/BitFun](../repos/GCWing/BitFun.md) - BitFun combines a high-performance agent runtime written in Rust with a polished desktop applicat...
 - [EFForg/rayhunter](../repos/EFForg/rayhunter.md) - Rust tool to detect cell site simulators on an orbic mobile hotspot 
 - [nubjs/nub](../repos/nubjs/nub.md) - The fast all-in-one Node.js toolkit
+- [denoland/celld](../repos/denoland/celld.md) - self-hosted, distributed Durable Objects
+- [glzr-io/glazewm](../repos/glzr-io/glazewm.md) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
+- [cloudflare/pingora](../repos/cloudflare/pingora.md) - A library for building fast, reliable and evolvable network services.
+- [pimalaya/himalaya](../repos/pimalaya/himalaya.md) - CLI to manage emails
+- [cloud-hypervisor/cloud-hypervisor](../repos/cloud-hypervisor/cloud-hypervisor.md) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hot...
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.599Z*
+*Last updated: 2026-08-07T21:01:33.545Z*

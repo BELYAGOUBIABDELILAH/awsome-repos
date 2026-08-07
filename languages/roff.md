@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [TapXWorld/ChinaTextbook](../repos/TapXWorld/ChinaTextbook.md) | ⭐ 77,033 | 2026-08-06 | 1 |
 
+*No Roff repositories trending today*
 
 ---
 
@@ -52,4 +50,4 @@
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.597Z*
+*Last updated: 2026-08-07T21:01:33.542Z*

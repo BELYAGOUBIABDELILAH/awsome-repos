@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 15
+- **Total Repositories**: 16
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-05
 
@@ -16,28 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | ⭐ 31 | 2026-08-01 | 3 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 436 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | ⭐ 26 | 2026-08-01 | 4 |
+| [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | ⭐ 31 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,180 | 2026-08-01 | 4 |
+| [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | ⭐ 26 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 944 | 2026-08-01 | 4 |
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 944 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | 3 |
+| [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 5 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 5 |
+| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,727 | 2026-08-04 | 3 |
+| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,651 | 2026-08-04 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [MPAS-Dev/MPAS-Model](../repos/MPAS-Dev/MPAS-Model.md) | ⭐ 311 | 2026-08-07 | 1 |
 
 
 ---
@@ -84,19 +87,20 @@
 |------------|-------|------------|---------------|
 | [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,883 | 2026-08-02 | 3 |
 | [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,727 | 2026-08-04 | 3 |
-| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,647 | 2026-08-04 | 1 |
+| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,651 | 2026-08-04 | 2 |
 | [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,180 | 2026-08-01 | 4 |
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 944 | 2026-08-01 | 4 |
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 944 | 2026-08-01 | 5 |
 | [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 858 | 2026-08-01 | 3 |
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 436 | 2026-08-01 | 5 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 436 | 2026-08-01 | 6 |
 | [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 401 | 2026-08-03 | 1 |
-| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 5 |
-| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 5 |
+| [MPAS-Dev/MPAS-Model](../repos/MPAS-Dev/MPAS-Model.md) | ⭐ 311 | 2026-08-07 | 1 |
+| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 6 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 6 |
 | [ecmwf/fckit](../repos/ecmwf/fckit.md) | ⭐ 48 | 2026-08-02 | 2 |
-| [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | 3 |
-| [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | ⭐ 31 | 2026-08-01 | 3 |
+| [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | 4 |
+| [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | ⭐ 31 | 2026-08-01 | 4 |
 | [GEOS-ESM/GOCART](../repos/GEOS-ESM/GOCART.md) | ⭐ 27 | 2026-08-02 | 1 |
-| [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | ⭐ 26 | 2026-08-01 | 4 |
+| [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | ⭐ 26 | 2026-08-01 | 5 |
 
 ---
 
@@ -104,15 +108,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 5 | ⭐ 436 | 2026-08-01 | 2026-08-05 |
-| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | 5 | ⭐ 54 | 2026-08-02 | 2026-08-06 |
-| [NGEET/fates](../repos/NGEET/fates.md) | 5 | ⭐ 130 | 2026-08-02 | 2026-08-06 |
-| [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | 4 | ⭐ 26 | 2026-08-01 | 2026-08-06 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 6 | ⭐ 436 | 2026-08-01 | 2026-08-07 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | 6 | ⭐ 54 | 2026-08-02 | 2026-08-07 |
+| [NGEET/fates](../repos/NGEET/fates.md) | 6 | ⭐ 130 | 2026-08-02 | 2026-08-07 |
+| [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | 5 | ⭐ 26 | 2026-08-01 | 2026-08-07 |
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | 5 | ⭐ 944 | 2026-08-01 | 2026-08-07 |
+| [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | 4 | ⭐ 31 | 2026-08-01 | 2026-08-07 |
 | [cp2k/cp2k](../repos/cp2k/cp2k.md) | 4 | ⭐ 1,180 | 2026-08-01 | 2026-08-06 |
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | 4 | ⭐ 944 | 2026-08-01 | 2026-08-06 |
-| [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | 3 | ⭐ 31 | 2026-08-01 | 2026-08-06 |
+| [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | 4 | ⭐ 43 | 2026-08-01 | 2026-08-07 |
 | [firemodels/fds](../repos/firemodels/fds.md) | 3 | ⭐ 858 | 2026-08-01 | 2026-08-04 |
-| [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | 3 | ⭐ 43 | 2026-08-01 | 2026-08-06 |
 | [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | 3 | ⭐ 1,883 | 2026-08-02 | 2026-08-05 |
 
 ---
@@ -134,7 +138,8 @@
 - [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) - Collection of builder repositories for BinaryBuilder.jl
 - [wrf-model/WRF](../repos/wrf-model/WRF.md) - The official repository for the Weather Research and Forecasting (WRF) model
 - [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) - Official git repository of Elmer FEM software
+- [MPAS-Dev/MPAS-Model](../repos/MPAS-Dev/MPAS-Model.md) - Repository for MPAS models and shared framework releases.
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.573Z*
+*Last updated: 2026-08-07T21:01:33.509Z*

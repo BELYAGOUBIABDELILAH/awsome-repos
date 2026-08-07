@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 57
+- **Total Repositories**: 66
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 17,453 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 16,222 | 2026-08-01 | 6 |
+| [cloudflare/computer](../repos/cloudflare/computer.md) | ⭐ 5,533 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/computer](../repos/cloudflare/computer.md) | ⭐ 4,683 | 2026-08-05 | 2 |
+| [iOfficeAI/AionUi](../repos/iOfficeAI/AionUi.md) | ⭐ 31,664 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) | ⭐ 372 | 2026-08-05 | 2 |
+| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 55,690 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AdventDevInc/kudu](../repos/AdventDevInc/kudu.md) | ⭐ 2,029 | 2026-08-06 | 1 |
+| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 6,231 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/AionUi](../repos/iOfficeAI/AionUi.md) | ⭐ 31,596 | 2026-08-06 | 1 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 18,025 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/expo](../repos/expo/expo.md) | ⭐ 51,390 | 2026-08-06 | 1 |
+| [open-mercato/open-mercato](../repos/open-mercato/open-mercato.md) | ⭐ 1,576 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 55,644 | 2026-08-06 | 1 |
+| [payloadcms/payload](../repos/payloadcms/payload.md) | ⭐ 44,042 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CherryHQ/cherry-studio](../repos/CherryHQ/cherry-studio.md) | ⭐ 49,894 | 2026-08-06 | 1 |
+| [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) | ⭐ 8,571 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) | ⭐ 26,792 | 2026-08-06 | 1 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 162,853 | 2026-08-07 | 1 |
 
 
 ---
@@ -67,7 +67,7 @@
 | [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,501 | 2026-08-01 | Cursor plugin specification and official plugins |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 16,222 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 17,453 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 46,198 | 2026-08-01 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring... |
@@ -90,24 +90,24 @@
 |------------|-------|------------|---------------|
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 162,853 | 2026-08-07 | 1 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 125,928 | 2026-08-02 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,950 | 2026-08-04 | 2 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 96,831 | 2026-08-04 | 2 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 85,266 | 2026-08-07 | 1 |
 | [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,054 | 2026-08-04 | 1 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 75,438 | 2026-08-02 | 1 |
 | [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | ⭐ 75,400 | 2026-07-31 | 1 |
 | [reduxjs/redux](../repos/reduxjs/redux.md) | ⭐ 61,511 | 2026-08-04 | 1 |
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | 2026-08-01 | 1 |
-| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 55,644 | 2026-08-06 | 1 |
+| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 55,690 | 2026-08-06 | 2 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 52,300 | 2026-07-31 | 1 |
 | [expo/expo](../repos/expo/expo.md) | ⭐ 51,390 | 2026-08-06 | 1 |
 | [cypress-io/cypress](../repos/cypress-io/cypress.md) | ⭐ 50,912 | 2026-08-04 | 2 |
 | [CherryHQ/cherry-studio](../repos/CherryHQ/cherry-studio.md) | ⭐ 49,894 | 2026-08-06 | 1 |
 | [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 49,131 | 2026-08-02 | 3 |
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 48,282 | 2026-08-01 | 1 |
-| [prisma/prisma](../repos/prisma/prisma.md) | ⭐ 47,526 | 2026-08-04 | 1 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 6 | ⭐ 16,222 | 2026-08-01 | 2026-08-06 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
 | [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | 3 | ⭐ 49,131 | 2026-08-02 | 2026-08-04 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 3 | ⭐ 22,182 | 2026-08-02 | 2026-08-05 |
+| [cloudflare/computer](../repos/cloudflare/computer.md) | 3 | ⭐ 5,533 | 2026-08-05 | 2026-08-07 |
 | [different-ai/openwork](../repos/different-ai/openwork.md) | 2 | ⭐ 20,293 | 2026-08-01 | 2026-08-02 |
 | [actions/checkout](../repos/actions/checkout.md) | 2 | ⭐ 8,604 | 2026-08-02 | 2026-08-04 |
 | [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | 2 | ⭐ 34,225 | 2026-08-02 | 2026-08-03 |
 | [nrwl/nx](../repos/nrwl/nx.md) | 2 | ⭐ 29,196 | 2026-08-02 | 2026-08-04 |
 | [simstudioai/sim](../repos/simstudioai/sim.md) | 2 | ⭐ 29,313 | 2026-08-02 | 2026-08-03 |
-| [iptv-org/iptv](../repos/iptv-org/iptv.md) | 2 | ⭐ 135,054 | 2026-08-02 | 2026-08-03 |
 
 ---
 
@@ -187,7 +187,16 @@
 - [playcanvas/supersplat](../repos/playcanvas/supersplat.md) - 3D Gaussian Splat Editor
 - [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) - The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No...
 - [promptfoo/promptfoo](../repos/promptfoo/promptfoo.md) - Test your prompts, agents, and RAGs. Red teaming&#x2F;pentesting&#x2F;vulnerability scanning for AI. Compar...
+- [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) - OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens&#x2F;month) behind ...
+- [open-mercato/open-mercato](../repos/open-mercato/open-mercato.md) - AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural ...
+- [payloadcms/payload](../repos/payloadcms/payload.md) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. ...
+- [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) - The free coding agent
+- [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [CopilotKit/CopilotKit](../repos/CopilotKit/CopilotKit.md) - The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more.  Makers o...
+- [earendil-works/pi](../repos/earendil-works/pi.md) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [deepcoldy/botmux](../repos/deepcoldy/botmux.md) - Bridge Feishu&#x2F;Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or t...
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.605Z*
+*Last updated: 2026-08-07T21:01:33.555Z*

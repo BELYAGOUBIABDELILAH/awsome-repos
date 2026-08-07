@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 60
+- **Total Repositories**: 69
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-04
+- **Last Updated**: 2026-08-07
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 65,030 | 2026-08-01 | 2 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 65,313 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,013 | 2026-08-01 | 2 |
+| [microsoft/mimalloc](../repos/microsoft/mimalloc.md) | ⭐ 13,266 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,858 | 2026-08-04 | 2 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,859 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,399 | 2026-08-04 | 2 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,400 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git/git](../repos/git/git.md) | ⭐ 62,438 | 2026-08-05 | 2 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,147 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 26,488 | 2026-08-06 | 1 |
+| [timescale/timescaledb](../repos/timescale/timescaledb.md) | ⭐ 23,259 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,134 | 2026-08-06 | 1 |
+| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,005 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [esnet/iperf](../repos/esnet/iperf.md) | ⭐ 8,674 | 2026-08-06 | 1 |
+| [quickjs-ng/quickjs](../repos/quickjs-ng/quickjs.md) | ⭐ 3,533 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [uber/h3](../repos/uber/h3.md) | ⭐ 6,448 | 2026-08-06 | 1 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 38,043 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [srwi/EverythingToolbar](../repos/srwi/EverythingToolbar.md) | ⭐ 14,510 | 2026-08-06 | 1 |
+| [zmkfirmware/zmk](../repos/zmkfirmware/zmk.md) | ⭐ 4,205 | 2026-08-07 | 1 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,460 | 2026-08-01 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 65,030 | 2026-08-01 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur... |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 65,313 | 2026-08-01 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,057 | 2026-08-01 | Cross-platform asynchronous I&#x2F;O |
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,150 | 2026-08-07 | 1 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,460 | 2026-08-01 | 2 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 75,874 | 2026-08-04 | 1 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,591 | 2026-08-02 | 3 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 65,030 | 2026-08-01 | 2 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 65,313 | 2026-08-01 | 3 |
 | [git/git](../repos/git/git.md) | ⭐ 62,438 | 2026-08-05 | 2 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,280 | 2026-08-01 | 2 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 38,043 | 2026-08-07 | 1 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,303 | 2026-08-02 | 1 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,391 | 2026-08-04 | 1 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,347 | 2026-08-03 | 2 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 31,813 | 2026-08-01 | 1 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,313 | 2026-08-02 | 1 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,527 | 2026-08-07 | 1 |
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,057 | 2026-08-01 | 1 |
 | [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 26,488 | 2026-08-06 | 1 |
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 25,867 | 2026-08-02 | 3 |
 | [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 24,503 | 2026-08-05 | 1 |
 | [HandBrake/HandBrake](../repos/HandBrake/HandBrake.md) | ⭐ 23,918 | 2026-08-03 | 1 |
-| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 21,953 | 2026-08-01 | 1 |
-| [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,592 | 2026-08-04 | 1 |
-| [karpathy/llama2.c](../repos/karpathy/llama2.c.md) | ⭐ 19,914 | 2026-08-03 | 1 |
-| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,444 | 2026-08-02 | 1 |
+| [timescale/timescaledb](../repos/timescale/timescaledb.md) | ⭐ 23,259 | 2026-08-07 | 1 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 3 | ⭐ 65,313 | 2026-08-01 | 2026-08-07 |
 | [HarbourMasters/Lighthouse](../repos/HarbourMasters/Lighthouse.md) | 3 | ⭐ 307 | 2026-08-02 | 2026-08-04 |
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | 3 | ⭐ 25,867 | 2026-08-02 | 2026-08-04 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 3 | ⭐ 74,591 | 2026-08-02 | 2026-08-05 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 3 | ⭐ 6,859 | 2026-08-04 | 2026-08-07 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 3 | ⭐ 4,400 | 2026-08-04 | 2026-08-07 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 2 | ⭐ 137,460 | 2026-08-01 | 2026-08-04 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 2 | ⭐ 65,030 | 2026-08-01 | 2026-08-06 |
 | [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | 2 | ⭐ 8,013 | 2026-08-01 | 2026-08-06 |
 | [glfw/glfw](../repos/glfw/glfw.md) | 2 | ⭐ 15,229 | 2026-08-01 | 2026-08-04 |
 | [linux-rdma/rdma-core](../repos/linux-rdma/rdma-core.md) | 2 | ⭐ 2,335 | 2026-08-01 | 2026-08-05 |
-| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | 2 | ⭐ 16,241 | 2026-08-01 | 2026-08-02 |
-| [Klipper3d/klipper](../repos/Klipper3d/klipper.md) | 2 | ⭐ 11,786 | 2026-08-01 | 2026-08-02 |
 
 ---
 
@@ -190,7 +190,16 @@
 - [srwi/EverythingToolbar](../repos/srwi/EverythingToolbar.md) - Everything integration for the Windows taskbar.
 - [nrfconnect/sdk-nrf](../repos/nrfconnect/sdk-nrf.md) - nRF Connect SDK main repository
 - [google/XNNPACK](../repos/google/XNNPACK.md) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
+- [timescale/timescaledb](../repos/timescale/timescaledb.md) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
+- [madler/zlib](../repos/madler/zlib.md) - A massively spiffy yet delicately unobtrusive compression library.
+- [quickjs-ng/quickjs](../repos/quickjs-ng/quickjs.md) - QuickJS, the Next Generation: a mighty JavaScript engine
+- [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge grap...
+- [zmkfirmware/zmk](../repos/zmkfirmware/zmk.md) - ZMK Firmware Repository
+- [asterisk/asterisk](../repos/asterisk/asterisk.md) - The official Asterisk Project repository.
+- [wolfSSL/wolfssl](../repos/wolfSSL/wolfssl.md) - The wolfSSL library is a small, fast, portable implementation of TLS&#x2F;SSL for embedded devices to ...
+- [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) - Display and control your Android device
+- [facebook/zstd](../repos/facebook/zstd.md) - Zstandard - Fast real-time compression algorithm
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.555Z*
+*Last updated: 2026-08-07T21:01:33.489Z*

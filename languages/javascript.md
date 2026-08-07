@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 41
+- **Total Repositories**: 43
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,31 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | 2026-07-30 | 6 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 9,868 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 9,698 | 2026-08-01 | 2 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,767 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [projectdiscovery/nuclei-templates](../repos/projectdiscovery/nuclei-templates.md) | ⭐ 12,763 | 2026-08-04 | 2 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 83,797 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 82,792 | 2026-08-05 | 2 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 56,691 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,581 | 2026-08-06 | 1 |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,206 | 2026-08-06 | 1 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,408 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,321 | 2026-08-06 | 1 |
+| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 636 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [vrgamegirl19/comfyui-vrgamedevgirl](../repos/vrgamegirl19/comfyui-vrgamedevgirl.md) | ⭐ 604 | 2026-08-06 | 1 |
+| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 1,052 | 2026-08-07 | 1 |
 
 
 ---
@@ -70,13 +67,13 @@
 | [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,475 | 2026-08-01 | Low-code programming for event-driven applications |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 9,698 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 9,868 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) | ⭐ 347 | 2026-08-01 | Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,417 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,767 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
 
 
 ---
@@ -90,14 +87,14 @@
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,581 | 2026-08-06 | 1 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | 2026-07-30 | 6 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
-| [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,206 | 2026-08-06 | 1 |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 82,792 | 2026-08-05 | 2 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 83,797 | 2026-08-05 | 3 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,417 | 2026-08-01 | 3 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 55,779 | 2026-08-05 | 1 |
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,321 | 2026-08-06 | 1 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,767 | 2026-08-01 | 4 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 56,691 | 2026-08-05 | 2 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,408 | 2026-08-06 | 2 |
 | [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | ⭐ 31,602 | 2026-08-02 | 2 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 31,280 | 2026-08-02 | 2 |
 | [greensock/GSAP](../repos/greensock/GSAP.md) | ⭐ 27,405 | 2026-08-04 | 1 |
@@ -114,14 +111,14 @@
 |------------|---------------|-------|------------|-----------|
 | [vercel/next.js](../repos/vercel/next.js.md) | 6 | ⭐ 141,656 | 2026-07-30 | 2026-08-06 |
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 4 | ⭐ 6,998 | 2026-08-01 | 2026-08-04 |
+| [byoungd/up](../repos/byoungd/up.md) | 4 | ⭐ 57,767 | 2026-08-01 | 2026-08-07 |
 | [facebook/react](../repos/facebook/react.md) | 3 | ⭐ 219,500 | 2026-07-30 | 2026-08-05 |
-| [byoungd/up](../repos/byoungd/up.md) | 3 | ⭐ 57,417 | 2026-08-01 | 2026-08-05 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 3 | ⭐ 9,868 | 2026-08-01 | 2026-08-07 |
 | [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | 3 | ⭐ 7,624 | 2026-08-02 | 2026-08-04 |
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 2 | ⭐ 9,698 | 2026-08-01 | 2026-08-06 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 3 | ⭐ 83,797 | 2026-08-05 | 2026-08-07 |
 | [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | 2 | ⭐ 31,602 | 2026-08-02 | 2026-08-03 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 2 | ⭐ 31,280 | 2026-08-02 | 2026-08-04 |
 | [is-a-dev/register](../repos/is-a-dev/register.md) | 2 | ⭐ 10,912 | 2026-08-03 | 2026-08-05 |
-| [webpack/webpack](../repos/webpack/webpack.md) | 2 | ⭐ 65,985 | 2026-08-04 | 2026-08-05 |
 
 ---
 
@@ -168,7 +165,9 @@
 - [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [react/create-react-app](../repos/react/create-react-app.md) - Set up a modern web app by running one command.
 - [vrgamegirl19/comfyui-vrgamedevgirl](../repos/vrgamegirl19/comfyui-vrgamedevgirl.md) - Custom ComfyUI nodes for film grain, color matching, and video enhancement.
+- [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) - A plugin marketplace for Claude Code&#x2F;GitHub Copilot that provides Power Platform development plug...
+- [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted devel...
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.580Z*
+*Last updated: 2026-08-07T21:01:33.519Z*

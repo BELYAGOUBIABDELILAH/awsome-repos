@@ -16,22 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 498 | 2026-08-01 | 5 |
+| [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | ⭐ 318 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 660 | 2026-08-02 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | ⭐ 248 | 2026-08-05 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 625 | 2026-08-05 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | ⭐ 317 | 2026-08-06 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [status-im/nim-stew](../repos/status-im/nim-stew.md) | ⭐ 154 | 2026-08-06 | 1 |
+| [status-im/nim-stew](../repos/status-im/nim-stew.md) | ⭐ 154 | 2026-08-06 | 2 |
 
 
 ---
@@ -58,7 +46,7 @@
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 625 | 2026-08-05 | Nimbus: an Ethereum Execution Client for Resource-Restricted Devices |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | ⭐ 317 | 2026-08-06 | libp2p implementation in Nim |
+| [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | ⭐ 318 | 2026-08-06 | libp2p implementation in Nim |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [status-im/nim-stew](../repos/status-im/nim-stew.md) | ⭐ 154 | 2026-08-06 | stew is collection of utilities, std library extensions and budding libraries that are frequently... |
@@ -75,9 +63,9 @@
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 625 | 2026-08-05 | 2 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 498 | 2026-08-01 | 5 |
 | [crashappsec/chalk](../repos/crashappsec/chalk.md) | ⭐ 438 | 2026-08-05 | 1 |
-| [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | ⭐ 317 | 2026-08-06 | 1 |
+| [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | ⭐ 318 | 2026-08-06 | 2 |
 | [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | ⭐ 248 | 2026-08-05 | 2 |
-| [status-im/nim-stew](../repos/status-im/nim-stew.md) | ⭐ 154 | 2026-08-06 | 1 |
+| [status-im/nim-stew](../repos/status-im/nim-stew.md) | ⭐ 154 | 2026-08-06 | 2 |
 
 ---
 
@@ -90,9 +78,9 @@
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | 5 | ⭐ 660 | 2026-08-02 | 2026-08-06 |
 | [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | 2 | ⭐ 248 | 2026-08-05 | 2026-08-06 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | 2 | ⭐ 625 | 2026-08-05 | 2026-08-06 |
+| [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | 2 | ⭐ 318 | 2026-08-06 | 2026-08-07 |
+| [status-im/nim-stew](../repos/status-im/nim-stew.md) | 2 | ⭐ 154 | 2026-08-06 | 2026-08-07 |
 | [crashappsec/chalk](../repos/crashappsec/chalk.md) | 1 | ⭐ 438 | 2026-08-05 | 2026-08-05 |
-| [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | 1 | ⭐ 317 | 2026-08-06 | 2026-08-06 |
-| [status-im/nim-stew](../repos/status-im/nim-stew.md) | 1 | ⭐ 154 | 2026-08-06 | 2026-08-06 |
 
 ---
 
@@ -109,4 +97,4 @@
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.587Z*
+*Last updated: 2026-08-07T21:01:33.529Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 40
+- **Total Repositories**: 45
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,822 | 2026-08-02 | 3 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,658 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | ⭐ 2,396 | 2026-08-03 | 3 |
+| [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | ⭐ 2,407 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,857 | 2026-08-04 | 3 |
+| [h3nock/remux](../repos/h3nock/remux.md) | ⭐ 409 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,810 | 2026-08-04 | 2 |
+| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,276 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,010 | 2026-08-04 | 2 |
+| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,372 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,221 | 2026-08-05 | 2 |
+| [RevenueCat/purchases-ios](../repos/RevenueCat/purchases-ios.md) | ⭐ 3,045 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [h3nock/remux](../repos/h3nock/remux.md) | ⭐ 307 | 2026-08-06 | 1 |
+| [crossoverJie/SkillDeck](../repos/crossoverJie/SkillDeck.md) | ⭐ 522 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,268 | 2026-08-06 | 1 |
+| [wxtsky/CodeIsland](../repos/wxtsky/CodeIsland.md) | ⭐ 2,282 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift-subprocess](../repos/swiftlang/swift-subprocess.md) | ⭐ 712 | 2026-08-06 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [matthartman/ghost-pepper](../repos/matthartman/ghost-pepper.md) | ⭐ 3,065 | 2026-08-06 | 1 |
+| [getsentry/sentry-cocoa](../repos/getsentry/sentry-cocoa.md) | ⭐ 1,102 | 2026-08-07 | 1 |
 
 
 ---
@@ -52,7 +49,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,479 | 2026-08-01 | Run iOS apps without actually installing them! |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,658 | 2026-08-01 | Run iOS apps without actually installing them! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,176 | 2026-08-01 | 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source,... |
@@ -99,8 +96,8 @@
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,568 | 2026-08-01 | 1 |
 | [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
 | [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,183 | 2026-08-06 | 1 |
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,479 | 2026-08-01 | 2 |
-| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,268 | 2026-08-06 | 1 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,658 | 2026-08-01 | 3 |
+| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,276 | 2026-08-06 | 2 |
 | [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | ⭐ 10,263 | 2026-08-03 | 2 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,822 | 2026-08-02 | 3 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,499 | 2026-08-04 | 1 |
@@ -116,12 +113,12 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | 4 | ⭐ 19,685 | 2026-08-01 | 2026-08-05 |
+| [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | 4 | ⭐ 2,407 | 2026-08-03 | 2026-08-07 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 3 | ⭐ 10,658 | 2026-08-01 | 2026-08-07 |
 | [apple/container](../repos/apple/container.md) | 3 | ⭐ 48,625 | 2026-08-01 | 2026-08-04 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 3 | ⭐ 25,647 | 2026-08-01 | 2026-08-05 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 3 | ⭐ 8,822 | 2026-08-02 | 2026-08-06 |
-| [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | 3 | ⭐ 2,396 | 2026-08-03 | 2026-08-06 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 3 | ⭐ 14,857 | 2026-08-04 | 2026-08-06 |
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 2 | ⭐ 10,479 | 2026-08-01 | 2026-08-02 |
 | [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | 2 | ⭐ 2,599 | 2026-08-01 | 2026-08-03 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 2 | ⭐ 5,752 | 2026-08-01 | 2026-08-02 |
 | [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | 2 | ⭐ 10,263 | 2026-08-03 | 2026-08-05 |
@@ -170,7 +167,12 @@
 - [swiftlang/swift-subprocess](../repos/swiftlang/swift-subprocess.md) - Subprocess is a cross-platform package for spawning processes in Swift.
 - [matthartman/ghost-pepper](../repos/matthartman/ghost-pepper.md) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
 - [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) - A private messenger for iOS.
+- [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) - A tweak to enhance Spotify experience
+- [RevenueCat/purchases-ios](../repos/RevenueCat/purchases-ios.md) - In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.
+- [crossoverJie/SkillDeck](../repos/crossoverJie/SkillDeck.md) - Native macOS SwiftUI app for managing multiple AI code agent skills
+- [wxtsky/CodeIsland](../repos/wxtsky/CodeIsland.md) - Real-time AI coding agent status panel in your MacBook notch — live status, approvals &amp; replies f...
+- [getsentry/sentry-cocoa](../repos/getsentry/sentry-cocoa.md) - The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.604Z*
+*Last updated: 2026-08-07T21:01:33.553Z*

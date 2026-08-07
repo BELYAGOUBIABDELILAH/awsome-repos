@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 65
+- **Total Repositories**: 71
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-01
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | 2026-08-01 | 6 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 46,014 | 2026-08-02 | 5 |
+| [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | ⭐ 3,358 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,011 | 2026-08-03 | 4 |
+| [harvard-edge/cs249r_book](../repos/harvard-edge/cs249r_book.md) | ⭐ 27,804 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [livekit/agents](../repos/livekit/agents.md) | ⭐ 12,702 | 2026-08-03 | 3 |
+| [NVIDIA-NeMo/Speech](../repos/NVIDIA-NeMo/Speech.md) | ⭐ 18,018 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 32,834 | 2026-08-03 | 3 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 124,644 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [uber/ADR](../repos/uber/ADR.md) | ⭐ 1,230 | 2026-08-04 | 3 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,285 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [browser-use/video-use](../repos/browser-use/video-use.md) | ⭐ 19,872 | 2026-08-04 | 3 |
+| [666ghj/MiroFish](../repos/666ghj/MiroFish.md) | ⭐ 70,436 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | ⭐ 2,783 | 2026-08-04 | 3 |
+| [google/skills](../repos/google/skills.md) | ⭐ 16,181 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 49,346 | 2026-08-04 | 3 |
+| [android/skills](../repos/android/skills.md) | ⭐ 6,612 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Comfy-Org/workflow_templates](../repos/Comfy-Org/workflow_templates.md) | ⭐ 731 | 2026-08-05 | 2 |
+| [p1ngul1n0/blackbird](../repos/p1ngul1n0/blackbird.md) | ⭐ 7,401 | 2026-08-07 | 1 |
 
 
 ---
@@ -89,13 +89,14 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 453,833 | 2026-08-01 | 1 |
-| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,011 | 2026-08-03 | 4 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | 2026-08-03 | 5 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | 2026-08-01 | 6 |
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 185,959 | 2026-08-06 | 1 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,285 | 2026-08-06 | 2 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 182,027 | 2026-08-02 | 1 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 140,599 | 2026-08-07 | 1 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 130,495 | 2026-08-04 | 1 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | 2026-07-31 | 2 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 123,944 | 2026-08-05 | 1 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 124,644 | 2026-08-05 | 2 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 101,806 | 2026-08-03 | 1 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | 2026-08-01 | 2 |
@@ -105,9 +106,8 @@
 | [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | 2026-08-10 | 1 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 75,000 | 2026-07-30 | 1 |
 | [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 71,957 | 2026-08-06 | 1 |
+| [666ghj/MiroFish](../repos/666ghj/MiroFish.md) | ⭐ 70,436 | 2026-08-07 | 1 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 66,444 | 2026-08-01 | 4 |
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 56,866 | 2026-08-01 | 2 |
-| [microsoft/VibeVoice](../repos/microsoft/VibeVoice.md) | ⭐ 51,708 | 2026-08-01 | 1 |
 
 ---
 
@@ -118,13 +118,13 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 6 | ⭐ 226,554 | 2026-08-01 | 2026-08-06 |
 | [openai/whisper](../repos/openai/whisper.md) | 5 | ⭐ 106,298 | 2026-07-31 | 2026-08-01 |
 | [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | 5 | ⭐ 46,014 | 2026-08-02 | 2026-08-06 |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | 5 | ⭐ 362,245 | 2026-08-03 | 2026-08-07 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 4 | ⭐ 66,444 | 2026-08-01 | 2026-08-04 |
-| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | 4 | ⭐ 362,011 | 2026-08-03 | 2026-08-06 |
+| [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | 4 | ⭐ 3,358 | 2026-08-04 | 2026-08-07 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 3 | ⭐ 44,517 | 2026-08-03 | 2026-08-05 |
 | [livekit/agents](../repos/livekit/agents.md) | 3 | ⭐ 12,702 | 2026-08-03 | 2026-08-06 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 3 | ⭐ 32,834 | 2026-08-03 | 2026-08-06 |
 | [uber/ADR](../repos/uber/ADR.md) | 3 | ⭐ 1,230 | 2026-08-04 | 2026-08-06 |
-| [browser-use/video-use](../repos/browser-use/video-use.md) | 3 | ⭐ 19,872 | 2026-08-04 | 2026-08-06 |
 
 ---
 
@@ -195,7 +195,13 @@
 - [aws/agent-toolkit-for-aws](../repos/aws/agent-toolkit-for-aws.md) - Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
 - [langchain-ai/open-swe](../repos/langchain-ai/open-swe.md) - An Open-Source Asynchronous Coding Agent
 - [Unclecheng-li/VulnClaw](../repos/Unclecheng-li/VulnClaw.md) - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
+- [666ghj/MiroFish](../repos/666ghj/MiroFish.md) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- [google/skills](../repos/google/skills.md) - Agent Skills for Google products and technologies
+- [android/skills](../repos/android/skills.md) - 
+- [p1ngul1n0/blackbird](../repos/p1ngul1n0/blackbird.md) - An OSINT tool to search for accounts by username and email in social networks.
+- [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
+- [anthropics/claude-code](../repos/anthropics/claude-code.md) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.595Z*
+*Last updated: 2026-08-07T21:01:33.539Z*

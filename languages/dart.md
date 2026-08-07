@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 49
+- **Total Repositories**: 50
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,252 | 2026-08-01 | 5 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 75,058 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,238 | 2026-08-01 | 4 |
+| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 14,131 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/packages](../repos/flutter/packages.md) | ⭐ 5,269 | 2026-08-01 | 4 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 47,967 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [UnboundTechCo/defyxVPN](../repos/UnboundTechCo/defyxVPN.md) | ⭐ 733 | 2026-08-01 | 2 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 87,000 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 47,858 | 2026-08-02 | 4 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 31,942 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 31,926 | 2026-08-02 | 4 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 3,573 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omnimind-ai/OmniBot](../repos/omnimind-ai/OmniBot.md) | ⭐ 1,981 | 2026-08-02 | 2 |
+| [venera-app/venera](../repos/venera-app/venera.md) | ⭐ 10,710 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 3,547 | 2026-08-02 | 4 |
+| [gokadzev/Musify](../repos/gokadzev/Musify.md) | ⭐ 4,113 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/website](../repos/flutter/website.md) | ⭐ 3,108 | 2026-08-04 | 2 |
+| [techjarves/Uncensored-Local-AI-Multiplatform](../repos/techjarves/Uncensored-Local-AI-Multiplatform.md) | ⭐ 1,003 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bdero/flutter_scene](../repos/bdero/flutter_scene.md) | ⭐ 623 | 2026-08-05 | 2 |
+| [firebase/flutterfire](../repos/firebase/flutterfire.md) | ⭐ 9,247 | 2026-08-03 | 2 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 74,688 | 2026-08-01 | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace whe... |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 75,058 | 2026-08-01 | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace whe... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [appsfolder/livebridge](../repos/appsfolder/livebridge.md) | ⭐ 926 | 2026-08-01 | Level up your dynamic pill&#x2F;island on Android |
@@ -89,22 +89,22 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,252 | 2026-08-01 | 5 |
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 86,672 | 2026-08-02 | 2 |
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 74,688 | 2026-08-01 | 1 |
-| [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 48,166 | 2026-08-04 | 2 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 47,858 | 2026-08-02 | 4 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 31,926 | 2026-08-02 | 4 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 87,000 | 2026-08-02 | 3 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 75,058 | 2026-08-01 | 2 |
+| [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 48,225 | 2026-08-04 | 3 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 47,967 | 2026-08-02 | 5 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 31,942 | 2026-08-02 | 5 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 28,388 | 2026-08-01 | 3 |
 | [mitesh77/Best-Flutter-UI-Templates](../repos/mitesh77/Best-Flutter-UI-Templates.md) | ⭐ 22,769 | 2026-08-01 | 1 |
 | [flutter/samples](../repos/flutter/samples.md) | ⭐ 19,227 | 2026-08-06 | 1 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 16,775 | 2026-08-02 | 3 |
 | [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 15,890 | 2026-08-01 | 2 |
-| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 14,088 | 2026-08-02 | 3 |
+| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 14,131 | 2026-08-02 | 4 |
 | [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 13,674 | 2026-08-06 | 1 |
 | [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,238 | 2026-08-01 | 4 |
+| [venera-app/venera](../repos/venera-app/venera.md) | ⭐ 10,710 | 2026-08-02 | 3 |
 | [flame-engine/flame](../repos/flame-engine/flame.md) | ⭐ 10,705 | 2026-08-02 | 1 |
-| [venera-app/venera](../repos/venera-app/venera.md) | ⭐ 10,674 | 2026-08-02 | 2 |
-| [firebase/flutterfire](../repos/firebase/flutterfire.md) | ⭐ 9,244 | 2026-08-03 | 1 |
+| [firebase/flutterfire](../repos/firebase/flutterfire.md) | ⭐ 9,247 | 2026-08-03 | 2 |
 | [Anxcye/anx-reader](../repos/Anxcye/anx-reader.md) | ⭐ 8,624 | 2026-08-04 | 2 |
 | [KaringX/clashmi](../repos/KaringX/clashmi.md) | ⭐ 8,600 | 2026-08-02 | 1 |
 | [miru-project/miru-app](../repos/miru-project/miru-app.md) | ⭐ 5,571 | 2026-08-01 | 1 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [flutter/flutter](../repos/flutter/flutter.md) | 5 | ⭐ 178,252 | 2026-08-01 | 2026-08-06 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 5 | ⭐ 47,967 | 2026-08-02 | 2026-08-07 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 5 | ⭐ 31,942 | 2026-08-02 | 2026-08-07 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 5 | ⭐ 3,573 | 2026-08-02 | 2026-08-07 |
 | [dart-lang/sdk](../repos/dart-lang/sdk.md) | 4 | ⭐ 11,238 | 2026-08-01 | 2026-08-06 |
 | [flutter/packages](../repos/flutter/packages.md) | 4 | ⭐ 5,269 | 2026-08-01 | 2026-08-06 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 4 | ⭐ 47,858 | 2026-08-02 | 2026-08-06 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 4 | ⭐ 31,926 | 2026-08-02 | 2026-08-06 |
-| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 4 | ⭐ 3,547 | 2026-08-02 | 2026-08-06 |
+| [KaringX/karing](../repos/KaringX/karing.md) | 4 | ⭐ 14,131 | 2026-08-02 | 2026-08-07 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 3 | ⭐ 28,388 | 2026-08-01 | 2026-08-03 |
-| [KaringX/karing](../repos/KaringX/karing.md) | 3 | ⭐ 14,088 | 2026-08-02 | 2026-08-05 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 3 | ⭐ 16,775 | 2026-08-02 | 2026-08-04 |
-| [kodjodevf/mangayomi](../repos/kodjodevf/mangayomi.md) | 3 | ⭐ 3,641 | 2026-08-02 | 2026-08-05 |
+| [localsend/localsend](../repos/localsend/localsend.md) | 3 | ⭐ 87,000 | 2026-08-02 | 2026-08-07 |
 
 ---
 
@@ -179,7 +179,8 @@
 - [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 - [dart-lang/http](../repos/dart-lang/http.md) - A composable API for making HTTP requests in Dart.
 - [jacobaraujo7/remote_pi](../repos/jacobaraujo7/remote_pi.md) - Control your Pi coding agent from your phone. Pair with a one-time QR code and chat with your loc...
+- [1812z/HyperIsland](../repos/1812z/HyperIsland.md) - HyperOS 3 Dynamic  Island Enhancer
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.569Z*
+*Last updated: 2026-08-07T21:01:33.503Z*

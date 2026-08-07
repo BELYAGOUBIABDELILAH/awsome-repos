@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-06T21:32:00.353Z",
-  "total_repositories": 1408,
-  "trending_today": 463,
-  "new_this_month": 1408,
+  "generated_at": "2026-08-07T21:01:37.512Z",
+  "total_repositories": 1521,
+  "trending_today": 409,
+  "new_this_month": 1521,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-08-06",
+  "last_collection": "2026-08-07",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
     "first_seen": "2026-08-02"
   },
   "most_frequent": {
-    "full_name": "vercel/next.js",
-    "trending_days": 6,
-    "first_seen": "2026-07-30"
+    "full_name": "TencentCloud/TencentDB-Agent-Memory",
+    "trending_days": 7,
+    "first_seen": "2026-08-01"
   },
   "newest_discovery": {
     "full_name": "langchain-ai/langchain",
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 24665292,
-  "avg_stars": 17518,
-  "avg_trending_days": 1.9,
+  "total_stars": 26536695,
+  "avg_stars": 17447,
+  "avg_trending_days": 2.1,
   "language_count": 51,
-  "topic_count": 4655,
+  "topic_count": 4924,
   "collection_success_rate": 100,
   "data_quality_score": 100
 }

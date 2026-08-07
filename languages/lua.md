@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 42
+- **Total Repositories**: 43
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-06
+- **Last Updated**: 2026-08-07
 
 ---
 
@@ -16,34 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,742 | 2026-08-01 | 4 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,787 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,933 | 2026-08-01 | 4 |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,946 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,312 | 2026-08-01 | 3 |
+| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,110 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [coder/claudecode.nvim](../repos/coder/claudecode.nvim.md) | ⭐ 2,985 | 2026-08-03 | 2 |
+| [ibhagwan/fzf-lua](../repos/ibhagwan/fzf-lua.md) | ⭐ 4,406 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,224 | 2026-08-04 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | ⭐ 4,881 | 2026-08-04 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,381 | 2026-08-06 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Kong/kong-pongo](../repos/Kong/kong-pongo.md) | ⭐ 173 | 2026-08-06 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [jitsi/docker-jitsi-meet](../repos/jitsi/docker-jitsi-meet.md) | ⭐ 3,593 | 2026-08-06 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ibhagwan/fzf-lua](../repos/ibhagwan/fzf-lua.md) | ⭐ 4,405 | 2026-08-06 | 1 |
+| [finlater/weread.koplugin](../repos/finlater/weread.koplugin.md) | ⭐ 401 | 2026-08-07 | 1 |
 
 
 ---
@@ -52,7 +37,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,742 | 2026-08-01 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cer... |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,787 | 2026-08-01 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cer... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/apisix](../repos/apache/apisix.md) | ⭐ 16,954 | 2026-08-01 | The Cloud-Native API Gateway and AI Gateway |
@@ -61,7 +46,7 @@
 | [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | ⭐ 492 | 2026-08-01 | A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with s... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,933 | 2026-08-01 | 🦍 The API and AI Gateway |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,946 | 2026-08-01 | 🦍 The API and AI Gateway |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [KristalTeam/Kristal](../repos/KristalTeam/Kristal.md) | ⭐ 299 | 2026-08-01 | Deltarune fangame engine for Love2D |
@@ -88,11 +73,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,933 | 2026-08-01 | 4 |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,946 | 2026-08-01 | 5 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,224 | 2026-08-04 | 3 |
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,742 | 2026-08-01 | 4 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,787 | 2026-08-01 | 5 |
 | [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) | ⭐ 28,211 | 2026-08-01 | 1 |
-| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,089 | 2026-08-04 | 1 |
+| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,110 | 2026-08-04 | 2 |
 | [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,381 | 2026-08-06 | 1 |
 | [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 18,655 | 2026-08-03 | 1 |
 | [yetone/avante.nvim](../repos/yetone/avante.nvim.md) | ⭐ 18,102 | 2026-08-03 | 2 |
@@ -106,7 +91,7 @@
 | [stevearc/oil.nvim](../repos/stevearc/oil.nvim.md) | ⭐ 6,808 | 2026-08-04 | 1 |
 | [stevearc/conform.nvim](../repos/stevearc/conform.nvim.md) | ⭐ 5,284 | 2026-08-01 | 1 |
 | [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | ⭐ 4,881 | 2026-08-04 | 2 |
-| [ibhagwan/fzf-lua](../repos/ibhagwan/fzf-lua.md) | ⭐ 4,405 | 2026-08-06 | 1 |
+| [ibhagwan/fzf-lua](../repos/ibhagwan/fzf-lua.md) | ⭐ 4,406 | 2026-08-06 | 2 |
 | [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,312 | 2026-08-01 | 3 |
 
 ---
@@ -115,8 +100,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [koreader/koreader](../repos/koreader/koreader.md) | 4 | ⭐ 28,742 | 2026-08-01 | 2026-08-06 |
-| [Kong/kong](../repos/Kong/kong.md) | 4 | ⭐ 43,933 | 2026-08-01 | 2026-08-06 |
+| [koreader/koreader](../repos/koreader/koreader.md) | 5 | ⭐ 28,787 | 2026-08-01 | 2026-08-07 |
+| [Kong/kong](../repos/Kong/kong.md) | 5 | ⭐ 43,946 | 2026-08-01 | 2026-08-07 |
 | [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | 3 | ⭐ 4,312 | 2026-08-01 | 2026-08-06 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 3 | ⭐ 31,224 | 2026-08-04 | 2026-08-06 |
 | [apache/apisix](../repos/apache/apisix.md) | 2 | ⭐ 16,954 | 2026-08-01 | 2026-08-04 |
@@ -172,7 +157,8 @@
 - [Kong/kong-pongo](../repos/Kong/kong-pongo.md) - Tooling to run plugin tests with Kong and Kong Enterprise
 - [jitsi/docker-jitsi-meet](../repos/jitsi/docker-jitsi-meet.md) - Jitsi Meet on Docker
 - [ibhagwan/fzf-lua](../repos/ibhagwan/fzf-lua.md) - Improved fzf.vim written in lua
+- [finlater/weread.koplugin](../repos/finlater/weread.koplugin.md) - 微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，并做到进度、阅读时长同步，阅读时间上报。
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.584Z*
+*Last updated: 2026-08-07T21:01:33.525Z*

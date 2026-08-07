@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 77
+- **Total Repositories**: 84
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,258 | 2026-08-01 | 2 |
+| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,266 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenLineage/OpenLineage](../repos/OpenLineage/OpenLineage.md) | ⭐ 2,586 | 2026-08-01 | 2 |
+| [debezium/debezium](../repos/debezium/debezium.md) | ⭐ 12,989 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,651 | 2026-08-01 | 3 |
+| [google/guava](../repos/google/guava.md) | ⭐ 51,742 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,789 | 2026-08-02 | 4 |
+| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,253 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/guava](../repos/google/guava.md) | ⭐ 51,605 | 2026-08-02 | 3 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,040 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 129,236 | 2026-08-04 | 2 |
+| [apache/cassandra](../repos/apache/cassandra.md) | ⭐ 10,059 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,110 | 2026-08-04 | 3 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,341 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,327 | 2026-08-04 | 2 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,282 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,325 | 2026-08-05 | 2 |
+| [questdb/questdb](../repos/questdb/questdb.md) | ⭐ 17,236 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,431 | 2026-08-05 | 2 |
+| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,599 | 2026-08-06 | 2 |
 
 
 ---
@@ -64,7 +64,7 @@
 | [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,063 | 2026-08-01 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to ident... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,258 | 2026-08-01 | An Application Framework for AI Engineering |
+| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,266 | 2026-08-01 | An Application Framework for AI Engineering |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [langchain4j/langchain4j-examples](../repos/langchain4j/langchain4j-examples.md) | ⭐ 1,837 | 2026-08-01 |  |
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 129,236 | 2026-08-04 | 2 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,251 | 2026-08-04 | 2 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,282 | 2026-08-04 | 3 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,789 | 2026-08-02 | 4 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 71,940 | 2026-08-03 | 2 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,040 | 2026-08-03 | 3 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,110 | 2026-08-04 | 3 |
-| [google/guava](../repos/google/guava.md) | ⭐ 51,605 | 2026-08-02 | 3 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,327 | 2026-08-04 | 2 |
+| [google/guava](../repos/google/guava.md) | ⭐ 51,742 | 2026-08-02 | 4 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,341 | 2026-08-04 | 3 |
+| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,318 | 2026-08-07 | 1 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,325 | 2026-08-05 | 2 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,218 | 2026-08-02 | 1 |
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,563 | 2026-08-06 | 1 |
+| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,599 | 2026-08-06 | 2 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 31,740 | 2026-08-04 | 1 |
 | [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,431 | 2026-08-05 | 2 |
 | [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,650 | 2026-08-02 | 2 |
 | [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,492 | 2026-08-02 | 2 |
-| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,141 | 2026-08-03 | 1 |
+| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,253 | 2026-08-03 | 2 |
+| [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) | ⭐ 27,842 | 2026-08-07 | 1 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,555 | 2026-08-04 | 1 |
 | [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,651 | 2026-08-01 | 3 |
-| [apache/flink](../repos/apache/flink.md) | ⭐ 26,242 | 2026-08-04 | 1 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 25,887 | 2026-08-02 | 2 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 4 | ⭐ 77,789 | 2026-08-02 | 2026-08-06 |
+| [google/guava](../repos/google/guava.md) | 4 | ⭐ 51,742 | 2026-08-02 | 2026-08-07 |
 | [github/copilot-sdk](../repos/github/copilot-sdk.md) | 3 | ⭐ 10,340 | 2026-08-01 | 2026-08-03 |
+| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | 3 | ⭐ 9,266 | 2026-08-01 | 2026-08-07 |
 | [apache/maven](../repos/apache/maven.md) | 3 | ⭐ 5,302 | 2026-08-01 | 2026-08-04 |
 | [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | 3 | ⭐ 26,651 | 2026-08-01 | 2026-08-06 |
-| [google/guava](../repos/google/guava.md) | 3 | ⭐ 51,605 | 2026-08-02 | 2026-08-06 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 3 | ⭐ 72,040 | 2026-08-03 | 2026-08-07 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | 3 | ⭐ 66,110 | 2026-08-04 | 2026-08-06 |
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | 2 | ⭐ 9,258 | 2026-08-01 | 2026-08-06 |
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 2 | ⭐ 13,455 | 2026-08-01 | 2026-08-04 |
-| [OpenLineage/OpenLineage](../repos/OpenLineage/OpenLineage.md) | 2 | ⭐ 2,586 | 2026-08-01 | 2026-08-06 |
-| [modelcontextprotocol/java-sdk](../repos/modelcontextprotocol/java-sdk.md) | 2 | ⭐ 3,635 | 2026-08-01 | 2026-08-04 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 3 | ⭐ 51,341 | 2026-08-04 | 2026-08-07 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 3 | ⭐ 81,282 | 2026-08-04 | 2026-08-07 |
 
 ---
 
@@ -207,7 +207,14 @@
 - [androidx/media](../repos/androidx/media.md) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media pl...
 - [liquibase/liquibase](../repos/liquibase/liquibase.md) - Main Liquibase Source
 - [microg/GmsCore](../repos/microg/GmsCore.md) - Free implementation of Play Services
+- [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) - 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, ...
+- [apache/tomcat](../repos/apache/tomcat.md) - Apache Tomcat
+- [baomidou/mybatis-plus](../repos/baomidou/mybatis-plus.md) - An powerful enhanced toolkit of MyBatis for simplify development
+- [quarkusio/quarkus](../repos/quarkusio/quarkus.md) - Quarkus: Supersonic Subatomic Java. 
+- [DataDog/dd-trace-java](../repos/DataDog/dd-trace-java.md) - Datadog APM client for Java
+- [Mininglamp-OSS/octo-android](../repos/Mininglamp-OSS/octo-android.md) - OCTO Android Client — Open-source enterprise IM
+- [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) - 【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI...
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.579Z*
+*Last updated: 2026-08-07T21:01:33.517Z*

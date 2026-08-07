@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 43
+- **Total Repositories**: 49
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-06
+- **Last Updated**: 2026-08-07
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,355 | 2026-08-01 | 4 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,366 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | ⭐ 2,844 | 2026-08-01 | 2 |
+| [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | ⭐ 2,851 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 3,989 | 2026-08-01 | 2 |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 3,992 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,419 | 2026-08-04 | 2 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,379 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,065 | 2026-08-04 | 2 |
+| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | ⭐ 1,985 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,224 | 2026-08-04 | 2 |
+| [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,562 | 2026-08-05 | 2 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,370 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [n8n-io/skills](../repos/n8n-io/skills.md) | ⭐ 410 | 2026-08-06 | 1 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,715 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [1N3/Sn1per](../repos/1N3/Sn1per.md) | ⭐ 10,725 | 2026-08-06 | 1 |
+| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,366 | 2026-08-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,766 | 2026-08-06 | 1 |
+| [d3/d3](../repos/d3/d3.md) | ⭐ 113,386 | 2026-08-07 | 1 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [HQarroum/docker-android](../repos/HQarroum/docker-android.md) | ⭐ 7,174 | 2026-08-01 | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,355 | 2026-08-01 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,366 | 2026-08-01 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [The01Geek/prflow](../repos/The01Geek/prflow.md) | ⭐ 112 | 2026-08-01 | Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and... |
@@ -64,13 +64,13 @@
 | [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 6,153 | 2026-08-01 | Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | ⭐ 2,844 | 2026-08-01 | Burpsuite Professional Latest Version 2026 |
+| [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | ⭐ 2,851 | 2026-08-01 | Burpsuite Professional Latest Version 2026 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Chachamaru127/claude-code-harness](../repos/Chachamaru127/claude-code-harness.md) | ⭐ 3,034 | 2026-08-01 | Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonom... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 3,989 | 2026-08-01 | Achieve state of the art inference performance with modern accelerators on Kubernetes |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 3,992 | 2026-08-01 | Achieve state of the art inference performance with modern accelerators on Kubernetes |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [void-linux/void-packages](../repos/void-linux/void-packages.md) | ⭐ 3,371 | 2026-08-01 | The Void source packages collection |
@@ -79,7 +79,7 @@
 | [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,642 | 2026-08-01 | Универсальный менеджер для обхода блокировок на OpenWrt |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,281 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,379 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
 
 
 ---
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,355 | 2026-08-01 | 4 |
+| [d3/d3](../repos/d3/d3.md) | ⭐ 113,386 | 2026-08-07 | 1 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,366 | 2026-08-01 | 5 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,093 | 2026-08-04 | 1 |
+| [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,766 | 2026-08-06 | 1 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,419 | 2026-08-04 | 2 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,224 | 2026-08-04 | 2 |
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,281 | 2026-08-02 | 2 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,379 | 2026-08-02 | 3 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,626 | 2026-08-07 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
+| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,366 | 2026-08-07 | 1 |
 | [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,491 | 2026-08-04 | 1 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,065 | 2026-08-04 | 2 |
 | [1N3/Sn1per](../repos/1N3/Sn1per.md) | ⭐ 10,725 | 2026-08-06 | 1 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,715 | 2026-08-07 | 1 |
 | [super-linter/super-linter](../repos/super-linter/super-linter.md) | ⭐ 10,535 | 2026-08-04 | 1 |
 | [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 9,559 | 2026-08-03 | 1 |
 | [HyDE-Project/HyDE](../repos/HyDE-Project/HyDE.md) | ⭐ 9,435 | 2026-08-02 | 1 |
 | [orbstack/orbstack](../repos/orbstack/orbstack.md) | ⭐ 9,134 | 2026-08-04 | 1 |
-| [PapirusDevelopmentTeam/papirus-icon-theme](../repos/PapirusDevelopmentTeam/papirus-icon-theme.md) | ⭐ 7,969 | 2026-08-03 | 1 |
-| [longhorn/longhorn](../repos/longhorn/longhorn.md) | ⭐ 7,905 | 2026-08-04 | 1 |
-| [HQarroum/docker-android](../repos/HQarroum/docker-android.md) | ⭐ 7,174 | 2026-08-01 | 1 |
-| [docker-library/official-images](../repos/docker-library/official-images.md) | ⭐ 6,988 | 2026-08-05 | 1 |
-| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 6,693 | 2026-08-04 | 2 |
 
 ---
 
@@ -115,11 +115,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 4 | ⭐ 94,355 | 2026-08-01 | 2026-08-06 |
-| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 3 | ⭐ 1,953 | 2026-08-02 | 2026-08-04 |
-| [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | 2 | ⭐ 2,844 | 2026-08-01 | 2026-08-06 |
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | 2 | ⭐ 3,989 | 2026-08-01 | 2026-08-06 |
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 2 | ⭐ 24,281 | 2026-08-02 | 2026-08-03 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 5 | ⭐ 94,366 | 2026-08-01 | 2026-08-07 |
+| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 4 | ⭐ 1,985 | 2026-08-02 | 2026-08-07 |
+| [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | 3 | ⭐ 2,851 | 2026-08-01 | 2026-08-07 |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | 3 | ⭐ 3,992 | 2026-08-01 | 2026-08-07 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 3 | ⭐ 24,379 | 2026-08-02 | 2026-08-07 |
 | [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | 2 | ⭐ 5,800 | 2026-08-02 | 2026-08-03 |
 | [tracelabs/tlosint-vm](../repos/tracelabs/tlosint-vm.md) | 2 | ⭐ 1,057 | 2026-08-02 | 2026-08-03 |
 | [openshift/release](../repos/openshift/release.md) | 2 | ⭐ 325 | 2026-08-04 | 2026-08-05 |
@@ -173,7 +173,13 @@
 - [PolyArch/humanize](../repos/PolyArch/humanize.md) - From Automated Idea Factory to Realization
 - [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) - Surface AI blindspots before you ship. Put up to 8 AI models on every research, design or coding ...
 - [bitnami/containers](../repos/bitnami/containers.md) - Bitnami container images
+- [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) - A Zsh theme
+- [expo/skills](../repos/expo/skills.md) - A collection of AI agent skills for working with Expo projects and Expo Application Services
+- [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) - Certified Kubernetes Administrator - CKA Course
+- [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) - 😼 优雅地使用基于 clash&#x2F;mihomo 的代理环境
+- [d3/d3](../repos/d3/d3.md) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 
 ---
 
-*Last updated: 2026-08-06T21:31:57.602Z*
+*Last updated: 2026-08-07T21:01:33.550Z*
