@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 12
+- **Total Repositories**: 14
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-07
 
@@ -16,19 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,576 | 2026-08-01 | 4 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,578 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 645 | 2026-08-01 | 5 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 645 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,783 | 2026-08-01 | 5 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,783 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 6 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,980 | 2026-08-04 | 4 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 374 | 2026-08-08 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,054 | 2026-08-08 | 1 |
 
 
 ---
@@ -37,7 +40,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,576 | 2026-08-01 | :mortar_board: A collection of interactive courses for the swirl R package. |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,578 | 2026-08-01 | :mortar_board: A collection of interactive courses for the swirl R package. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 645 | 2026-08-01 | R toolkit for inference, visualization and analysis of cell-cell communication from single-cell a... |
@@ -77,14 +80,16 @@
 | [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,673 | 2026-08-02 | 4 |
 | [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,127 | 2026-08-04 | 2 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,055 | 2026-08-04 | 3 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,576 | 2026-08-01 | 4 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,578 | 2026-08-01 | 5 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,904 | 2026-08-04 | 1 |
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,783 | 2026-08-01 | 5 |
+| [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,054 | 2026-08-08 | 1 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,783 | 2026-08-01 | 6 |
 | [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,440 | 2026-08-04 | 2 |
 | [rstudio/renv](../repos/rstudio/renv.md) | ⭐ 1,160 | 2026-08-06 | 1 |
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 6 |
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 645 | 2026-08-01 | 5 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 7 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 645 | 2026-08-01 | 6 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 460 | 2026-08-03 | 3 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 374 | 2026-08-08 | 1 |
 
 ---
 
@@ -92,10 +97,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 6 | ⭐ 889 | 2026-08-01 | 2026-08-07 |
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 5 | ⭐ 645 | 2026-08-01 | 2026-08-07 |
-| [satijalab/seurat](../repos/satijalab/seurat.md) | 5 | ⭐ 2,783 | 2026-08-01 | 2026-08-07 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 4 | ⭐ 4,576 | 2026-08-01 | 2026-08-07 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 7 | ⭐ 889 | 2026-08-01 | 2026-08-08 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 6 | ⭐ 645 | 2026-08-01 | 2026-08-08 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | 6 | ⭐ 2,783 | 2026-08-01 | 2026-08-08 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 5 | ⭐ 4,578 | 2026-08-01 | 2026-08-08 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | 4 | ⭐ 5,673 | 2026-08-02 | 2026-08-05 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 4 | ⭐ 6,980 | 2026-08-04 | 2026-08-07 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | 3 | ⭐ 460 | 2026-08-03 | 2026-08-06 |
@@ -119,7 +124,9 @@
 - [hadley/r4ds](../repos/hadley/r4ds.md) - R for data science: a book
 - [r-spatial/sf](../repos/r-spatial/sf.md) - Simple Features for R
 - [rstudio/renv](../repos/rstudio/renv.md) - renv: Project environments for R.
+- [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) - Automated nflverse data repository
+- [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) - Dynamic Documents for R
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.541Z*
+*Last updated: 2026-08-08T21:01:53.664Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 35
+- **Total Repositories**: 36
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,003 | 2026-08-01 | 2 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,014 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yangzongzhuan/RuoYi](../repos/yangzongzhuan/RuoYi.md) | ⭐ 8,470 | 2026-08-02 | 2 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,025 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 10,111 | 2026-08-04 | 4 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 10,579 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,415 | 2026-08-04 | 3 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,513 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,071 | 2026-08-05 | 2 |
+| [DefectDojo/django-DefectDojo](../repos/DefectDojo/django-DefectDojo.md) | ⭐ 4,884 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Commando-X/vuln-bank](../repos/Commando-X/vuln-bank.md) | ⭐ 901 | 2026-08-05 | 3 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,077 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | ⭐ 4,949 | 2026-08-06 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tpn/pdfs](../repos/tpn/pdfs.md) | ⭐ 10,075 | 2026-08-07 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,067 | 2026-08-07 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,483 | 2026-08-07 | 1 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,328 | 2026-08-08 | 1 |
 
 
 ---
@@ -76,7 +67,7 @@
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 18,300 | 2026-08-01 | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment dat... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,003 | 2026-08-01 | Awesome Docker Compose samples |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,014 | 2026-08-01 | Awesome Docker Compose samples |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [yangzongzhuan/RuoYi](../repos/yangzongzhuan/RuoYi.md) | ⭐ 8,470 | 2026-08-02 | :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用 |
@@ -89,11 +80,12 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 207,704 | 2026-08-03 | 2 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,328 | 2026-08-08 | 1 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,093 | 2026-08-01 | 2 |
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,003 | 2026-08-01 | 2 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,014 | 2026-08-01 | 3 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,483 | 2026-08-07 | 1 |
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 26,960 | 2026-08-03 | 1 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,365 | 2026-08-04 | 2 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,025 | 2026-08-03 | 2 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,513 | 2026-08-04 | 3 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,307 | 2026-08-03 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 18,300 | 2026-08-01 | 1 |
 | [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,567 | 2026-08-02 | 2 |
@@ -102,12 +94,11 @@
 | [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,067 | 2026-08-07 | 1 |
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 11,860 | 2026-08-01 | 1 |
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,757 | 2026-08-01 | 2 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 10,579 | 2026-08-04 | 5 |
 | [cotes2020/jekyll-theme-chirpy](../repos/cotes2020/jekyll-theme-chirpy.md) | ⭐ 10,206 | 2026-08-05 | 1 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 10,111 | 2026-08-04 | 4 |
 | [tpn/pdfs](../repos/tpn/pdfs.md) | ⭐ 10,075 | 2026-08-07 | 1 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,666 | 2026-08-01 | 3 |
 | [whatwg/html](../repos/whatwg/html.md) | ⭐ 9,346 | 2026-08-05 | 1 |
-| [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,616 | 2026-08-01 | 2 |
 
 ---
 
@@ -115,16 +106,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 4 | ⭐ 10,111 | 2026-08-04 | 2026-08-07 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 5 | ⭐ 10,579 | 2026-08-04 | 2026-08-08 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 3 | ⭐ 9,666 | 2026-08-01 | 2026-08-05 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | 3 | ⭐ 46,014 | 2026-08-01 | 2026-08-08 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 3 | ⭐ 23,513 | 2026-08-04 | 2026-08-08 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 3 | ⭐ 16,415 | 2026-08-04 | 2026-08-07 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 3 | ⭐ 6,077 | 2026-08-05 | 2026-08-08 |
 | [Commando-X/vuln-bank](../repos/Commando-X/vuln-bank.md) | 3 | ⭐ 901 | 2026-08-05 | 2026-08-07 |
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | 2 | ⭐ 8,616 | 2026-08-01 | 2026-08-02 |
 | [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | 2 | ⭐ 7,627 | 2026-08-01 | 2026-08-04 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 2 | ⭐ 64,093 | 2026-08-01 | 2026-08-06 |
-| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | 2 | ⭐ 10,757 | 2026-08-01 | 2026-08-06 |
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | 2 | ⭐ 46,003 | 2026-08-01 | 2026-08-07 |
-| [yangzongzhuan/RuoYi](../repos/yangzongzhuan/RuoYi.md) | 2 | ⭐ 8,470 | 2026-08-02 | 2026-08-07 |
 
 ---
 
@@ -165,7 +156,8 @@
 - [tpn/pdfs](../repos/tpn/pdfs.md) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) — browse &amp; search it at ...
 - [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) - Turn any webpage&#x2F;HTML&#x2F;Vue&#x2F;React and so on into desktop and mobile app under 5M with easy in few m...
 - [google/styleguide](../repos/google/styleguide.md) - Style guides for Google-originated open-source projects
+- [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.514Z*
+*Last updated: 2026-08-08T21:01:53.645Z*

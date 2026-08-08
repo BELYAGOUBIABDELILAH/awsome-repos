@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 66
+- **Total Repositories**: 71
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-07
+- **Last Updated**: 2026-08-08
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,493 | 2026-08-01 | 6 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,548 | 2026-08-01 | 4 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,550 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,810 | 2026-08-01 | 2 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,406 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,331 | 2026-08-02 | 4 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 15,785 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner](../repos/actions/runner.md) | ⭐ 6,167 | 2026-08-04 | 2 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,430 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | ⭐ 3,087 | 2026-08-04 | 3 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,582 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,209 | 2026-08-05 | 2 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,075 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | ⭐ 13,273 | 2026-08-05 | 3 |
+| [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | ⭐ 3,088 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,758 | 2026-08-06 | 2 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,213 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AIDotNet/OpenDeepWiki](../repos/AIDotNet/OpenDeepWiki.md) | ⭐ 3,520 | 2026-08-06 | 2 |
+| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | ⭐ 13,284 | 2026-08-05 | 4 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,493 | 2026-08-01 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and auto... |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | 2026-08-01 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and auto... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,455 | 2026-08-01 | The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration w... |
@@ -70,7 +70,7 @@
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,537 | 2026-08-01 | A modern file manager that helps users organize their files and folders. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,548 | 2026-08-01 | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered ... |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,550 | 2026-08-01 | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,672 | 2026-08-01 | Bitwarden infrastructure&#x2F;backend (API, database, Docker, etc). |
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,331 | 2026-08-02 | 4 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,406 | 2026-08-02 | 5 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,394 | 2026-08-02 | 3 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,758 | 2026-08-06 | 2 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,537 | 2026-08-01 | 2 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,354 | 2026-08-01 | 3 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,345 | 2026-08-03 | 1 |
+| [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,700 | 2026-08-08 | 1 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,422 | 2026-08-05 | 1 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,493 | 2026-08-01 | 6 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | 2026-08-01 | 7 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,810 | 2026-08-01 | 2 |
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,337 | 2026-08-02 | 1 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,430 | 2026-08-02 | 2 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,292 | 2026-08-04 | 2 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,592 | 2026-08-01 | 2 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,672 | 2026-08-01 | 1 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,163 | 2026-08-04 | 3 |
 | [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,187 | 2026-08-01 | 2 |
 | [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,834 | 2026-08-02 | 2 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 15,785 | 2026-08-02 | 3 |
 | [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 14,989 | 2026-08-03 | 2 |
 | [dotnet/efcore](../repos/dotnet/efcore.md) | ⭐ 14,762 | 2026-08-04 | 1 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,545 | 2026-08-02 | 3 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 14,498 | 2026-08-02 | 2 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 6 | ⭐ 26,493 | 2026-08-01 | 2026-08-07 |
-| [microsoft/mcp](../repos/microsoft/mcp.md) | 4 | ⭐ 3,548 | 2026-08-01 | 2026-08-07 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 4 | ⭐ 113,331 | 2026-08-02 | 2026-08-07 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 4 | ⭐ 4,976 | 2026-08-03 | 2026-08-06 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 7 | ⭐ 26,795 | 2026-08-01 | 2026-08-08 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | 5 | ⭐ 3,550 | 2026-08-01 | 2026-08-08 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 5 | ⭐ 113,406 | 2026-08-02 | 2026-08-08 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 5 | ⭐ 5,075 | 2026-08-03 | 2026-08-08 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 4 | ⭐ 14,582 | 2026-08-02 | 2026-08-08 |
+| [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | 4 | ⭐ 3,088 | 2026-08-04 | 2026-08-08 |
+| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | 4 | ⭐ 13,284 | 2026-08-05 | 2026-08-08 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 3 | ⭐ 38,354 | 2026-08-01 | 2026-08-04 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 3 | ⭐ 15,785 | 2026-08-02 | 2026-08-08 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 3 | ⭐ 55,394 | 2026-08-02 | 2026-08-04 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 3 | ⭐ 14,545 | 2026-08-02 | 2026-08-05 |
-| [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | 3 | ⭐ 3,087 | 2026-08-04 | 2026-08-07 |
-| [dotnet/runtime](../repos/dotnet/runtime.md) | 3 | ⭐ 18,163 | 2026-08-04 | 2026-08-06 |
-| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | 3 | ⭐ 13,273 | 2026-08-05 | 2026-08-07 |
 
 ---
 
@@ -196,7 +196,12 @@
 - [mRemoteNG/mRemoteNG](../repos/mRemoteNG/mRemoteNG.md) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connecti...
 - [Azure/azure-functions-core-tools](../repos/Azure/azure-functions-core-tools.md) - Command line tools for Azure Functions
 - [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) - Source code for Unturned, a free open-world zombie survival sandbox game.
+- [btcpayserver/btcpayserver](../repos/btcpayserver/btcpayserver.md) - Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor. 
+- [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) - .NET debugger and assembly editor
+- [LorisYounger/VPet](../repos/LorisYounger/VPet.md) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
+- [Goob-Station/Goob-Station](../repos/Goob-Station/Goob-Station.md) - We&#39;re not even close to &quot;Wizden, but random&quot; at this point. Super chud SS14 fork. By chuds, for c...
+- [dotnet/dotnet](../repos/dotnet/dotnet.md) - Home of .NET&#39;s Virtual Monolithic Repository which includes all the code needed to build the .NET...
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.491Z*
+*Last updated: 2026-08-08T21:01:53.621Z*

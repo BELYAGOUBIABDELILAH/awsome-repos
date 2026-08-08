@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | Not specified |
-| **Stars** | ⭐ 49,645 |
-| **Forks** | 🍴 8,229 |
-| **Trending Days** | 2 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 49,854 |
+| **Forks** | 🍴 8,252 |
+| **Trending Days** | 3 |
+| **Peak Rank** | #12 |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Aug 7, 2026 |
+| **Last Seen** | Aug 8, 2026 |
 
 
 ---
@@ -43,12 +43,13 @@
 
 ## Trending Timeline
 
+**Aug 8, 2026** — Rank #12 (+161 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
-- **Longest Streak**: 2 days
+- **Peak Rank**: #12
+- **Trending Days**: 3
+- **Longest Streak**: 3 days
 
 ---
 
@@ -72,7 +73,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 40&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 60&#x2F;100
+- **Historical Rank**: Peak: #12
 
 
 ---
 
-*Last updated: 2026-08-07T21:01:37.077Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-08T21:01:56.012Z*  
+*Data from 3 trending reports*

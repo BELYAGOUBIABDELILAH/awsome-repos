@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 1
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-07
+- **Last Updated**: 2026-08-08
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,785 | 2026-08-01 | 7 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,787 | 2026-08-01 | 8 |
 
 
 ---
@@ -25,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,785 | 2026-08-01 | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1... |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,787 | 2026-08-01 | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1... |
 
 
 ---
@@ -34,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,785 | 2026-08-01 | 7 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,787 | 2026-08-01 | 8 |
 
 ---
 
@@ -42,7 +42,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vlang/v](../repos/vlang/v.md) | 7 | ⭐ 37,785 | 2026-08-01 | 2026-08-07 |
+| [vlang/v](../repos/vlang/v.md) | 8 | ⭐ 37,787 | 2026-08-01 | 2026-08-08 |
 
 ---
 
@@ -52,4 +52,4 @@
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.556Z*
+*Last updated: 2026-08-08T21:01:53.676Z*

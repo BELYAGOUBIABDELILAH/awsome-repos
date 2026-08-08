@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Roff |
 | **License** | Not specified |
-| **Stars** | ⭐ 77,033 |
-| **Forks** | 🍴 17,399 |
-| **Trending Days** | 1 |
-| **Peak Rank** | #8 |
+| **Stars** | ⭐ 77,865 |
+| **Forks** | 🍴 17,600 |
+| **Trending Days** | 2 |
+| **Peak Rank** | #3 |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Aug 6, 2026 |
+| **Last Seen** | Aug 8, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Aug 8, 2026** — Rank #3 (+591 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #8
-- **Trending Days**: 1
+- **Peak Rank**: #3
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
-- **Historical Rank**: Top 10 (Peak: #8)
+- **Trending Score**: 35&#x2F;100
+- **Historical Rank**: Top 5 (Peak: #3)
 
 
 ---
 
-*Last updated: 2026-08-07T21:01:36.995Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-08T21:01:55.927Z*  
+*Data from 2 trending reports*

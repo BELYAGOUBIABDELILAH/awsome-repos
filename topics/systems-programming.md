@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 989
+- **Total Repositories**: 1060
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 20887
+- **Average Stars**: 20718
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,905 | C++ |  |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,688 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 9,868 | JavaScript |  |
+| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,269 | Java |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,767 | JavaScript |  |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,484 | Java |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 17,453 | TypeScript |  |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,703 | C++ |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 13,632 | Rust |  |
+| [electron/electron](../repos/electron/electron.md) | ⭐ 122,394 | C++ |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [cube-js/cube](../repos/cube-js/cube.md) | ⭐ 20,568 | Rust |  |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,295 | Go |  |
+| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,207 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,266 | Java |  |
+| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,042 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [debezium/debezium](../repos/debezium/debezium.md) | ⭐ 12,989 | Java |  |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,749 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,493 | C# |  |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 15,801 | Ruby |  |
 
 
 ---
@@ -56,13 +56,13 @@
 | [codecrafters-io/build-your-own-x](../repos/codecrafters-io/build-your-own-x.md) | ⭐ 534,798 | Markdown | 2026-08-02 | 1 |
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 453,833 | Python | 2026-08-01 | 1 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | Python | 2026-08-03 | 5 |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 277,366 | Python | 2026-08-08 | 1 |
 | [react/react](../repos/react/react.md) | ⭐ 246,953 | JavaScript | 2026-08-04 | 1 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | Python | 2026-08-01 | 6 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | TypeScript | 2026-08-04 | 1 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 207,704 | HTML | 2026-08-03 | 2 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,905 | C++ | 2026-07-30 | 6 |
-| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | TypeScript | 2026-07-30 | 5 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-08](../archive/2026/08/2026-08-08.md)
+- 247 repositories trending
+- Top: practical-tutorials&#x2F;project-based-learning
+
 ### [2026-08-07](../archive/2026/08/2026-08-07.md)
 - 237 repositories trending
 - Top: donnemartin&#x2F;system-design-primer
@@ -162,10 +166,6 @@
 - 254 repositories trending
 - Top: codecrafters-io&#x2F;build-your-own-x
 
-### [2026-08-01](../archive/2026/08/2026-08-01.md)
-- 274 repositories trending
-- Top: public-apis&#x2F;public-apis
-
 
 ---
 
@@ -175,30 +175,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 days | 2026-08-01 | 2026-08-07 |
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 7 days | 2026-08-01 | 2026-08-07 |
-| [apache/tvm-vta](../repos/apache/tvm-vta.md) | 7 days | 2026-08-01 | 2026-08-07 |
-| [apache/spark](../repos/apache/spark.md) | 7 days | 2026-08-01 | 2026-08-07 |
-| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 7 days | 2026-08-01 | 2026-08-07 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 7 days | 2026-08-01 | 2026-08-07 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 7 days | 2026-08-01 | 2026-08-07 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 7 days | 2026-08-01 | 2026-08-07 |
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 7 days | 2026-08-01 | 2026-08-07 |
-| [sainnhe/everforest](../repos/sainnhe/everforest.md) | 7 days | 2026-08-01 | 2026-08-07 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 8 days | 2026-08-01 | 2026-08-08 |
+| [apache/tvm-vta](../repos/apache/tvm-vta.md) | 8 days | 2026-08-01 | 2026-08-08 |
+| [apache/spark](../repos/apache/spark.md) | 8 days | 2026-08-01 | 2026-08-08 |
+| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 8 days | 2026-08-01 | 2026-08-08 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 8 days | 2026-08-01 | 2026-08-08 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 8 days | 2026-08-01 | 2026-08-08 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 8 days | 2026-08-01 | 2026-08-08 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 8 days | 2026-08-01 | 2026-08-08 |
+| [sainnhe/everforest](../repos/sainnhe/everforest.md) | 8 days | 2026-08-01 | 2026-08-08 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 8 days | 2026-08-01 | 2026-08-08 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 68 repositories (7%)
-- **C++**: 62 repositories (6%)
-- **Java**: 55 repositories (6%)
-- **Rust**: 53 repositories (5%)
-- **Python**: 52 repositories (5%)
+- **Go**: 78 repositories (7%)
+- **C++**: 67 repositories (6%)
+- **Java**: 63 repositories (6%)
+- **Python**: 58 repositories (5%)
+- **Rust**: 57 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 198.5 repositories
+- **Daily Average**: 202.9 repositories
 - **Peak Day**: 2026-08-04 (333 repositories)
 - **Growth Rate**: 100% this month
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.398Z*
+*Last updated: 2026-08-08T21:01:53.518Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 84
+- **Total Repositories**: 95
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,266 | 2026-08-01 | 3 |
+| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,269 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [debezium/debezium](../repos/debezium/debezium.md) | ⭐ 12,989 | 2026-08-01 | 2 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,484 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/guava](../repos/google/guava.md) | ⭐ 51,742 | 2026-08-02 | 4 |
+| [google/guava](../repos/google/guava.md) | ⭐ 51,836 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,253 | 2026-08-03 | 2 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,111 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,040 | 2026-08-03 | 3 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 4,958 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/cassandra](../repos/apache/cassandra.md) | ⭐ 10,059 | 2026-08-04 | 2 |
+| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,618 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,341 | 2026-08-04 | 3 |
+| [Mininglamp-OSS/octo-android](../repos/Mininglamp-OSS/octo-android.md) | ⭐ 427 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,282 | 2026-08-04 | 3 |
+| [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,190 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [questdb/questdb](../repos/questdb/questdb.md) | ⭐ 17,236 | 2026-08-05 | 2 |
+| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,183 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,599 | 2026-08-06 | 2 |
+| [anddea/revanced-patches](../repos/anddea/revanced-patches.md) | ⭐ 1,819 | 2026-08-08 | 1 |
 
 
 ---
@@ -64,7 +64,7 @@
 | [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,063 | 2026-08-01 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to ident... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,266 | 2026-08-01 | An Application Framework for AI Engineering |
+| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,269 | 2026-08-01 | An Application Framework for AI Engineering |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [langchain4j/langchain4j-examples](../repos/langchain4j/langchain4j-examples.md) | ⭐ 1,837 | 2026-08-01 |  |
@@ -79,7 +79,7 @@
 | [grpc/grpc-java](../repos/grpc/grpc-java.md) | ⭐ 12,056 | 2026-08-01 | The Java gRPC implementation. HTTP&#x2F;2 based RPC |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,455 | 2026-08-01 | 🔎 Open source distributed and RESTful search engine. |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,484 | 2026-08-01 | 🔎 Open source distributed and RESTful search engine. |
 
 
 ---
@@ -92,22 +92,22 @@
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,282 | 2026-08-04 | 3 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,789 | 2026-08-02 | 4 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,040 | 2026-08-03 | 3 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,111 | 2026-08-03 | 4 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,110 | 2026-08-04 | 3 |
-| [google/guava](../repos/google/guava.md) | ⭐ 51,742 | 2026-08-02 | 4 |
+| [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,190 | 2026-08-08 | 1 |
+| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,183 | 2026-08-08 | 1 |
+| [google/guava](../repos/google/guava.md) | ⭐ 51,836 | 2026-08-02 | 5 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,341 | 2026-08-04 | 3 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,318 | 2026-08-07 | 1 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,325 | 2026-08-05 | 2 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,218 | 2026-08-02 | 1 |
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,599 | 2026-08-06 | 2 |
+| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,618 | 2026-08-06 | 3 |
+| [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,425 | 2026-08-08 | 1 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 31,740 | 2026-08-04 | 1 |
 | [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,431 | 2026-08-05 | 2 |
 | [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,650 | 2026-08-02 | 2 |
 | [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,492 | 2026-08-02 | 2 |
 | [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,253 | 2026-08-03 | 2 |
-| [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) | ⭐ 27,842 | 2026-08-07 | 1 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,555 | 2026-08-04 | 1 |
-| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,651 | 2026-08-01 | 3 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [google/guava](../repos/google/guava.md) | 5 | ⭐ 51,836 | 2026-08-02 | 2026-08-08 |
+| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | 4 | ⭐ 9,269 | 2026-08-01 | 2026-08-08 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 4 | ⭐ 77,789 | 2026-08-02 | 2026-08-06 |
-| [google/guava](../repos/google/guava.md) | 4 | ⭐ 51,742 | 2026-08-02 | 2026-08-07 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 4 | ⭐ 72,111 | 2026-08-03 | 2026-08-08 |
 | [github/copilot-sdk](../repos/github/copilot-sdk.md) | 3 | ⭐ 10,340 | 2026-08-01 | 2026-08-03 |
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | 3 | ⭐ 9,266 | 2026-08-01 | 2026-08-07 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 3 | ⭐ 13,484 | 2026-08-01 | 2026-08-08 |
 | [apache/maven](../repos/apache/maven.md) | 3 | ⭐ 5,302 | 2026-08-01 | 2026-08-04 |
 | [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | 3 | ⭐ 26,651 | 2026-08-01 | 2026-08-06 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 3 | ⭐ 72,040 | 2026-08-03 | 2026-08-07 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | 3 | ⭐ 66,110 | 2026-08-04 | 2026-08-06 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 3 | ⭐ 51,341 | 2026-08-04 | 2026-08-07 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 3 | ⭐ 81,282 | 2026-08-04 | 2026-08-07 |
 
 ---
 
@@ -214,7 +214,18 @@
 - [DataDog/dd-trace-java](../repos/DataDog/dd-trace-java.md) - Datadog APM client for Java
 - [Mininglamp-OSS/octo-android](../repos/Mininglamp-OSS/octo-android.md) - OCTO Android Client — Open-source enterprise IM
 - [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) - 【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI...
+- [kdn251/interviews](../repos/kdn251/interviews.md) - Everything you need to know to get the job.
+- [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) - Spring Framework
+- [anddea/revanced-patches](../repos/anddea/revanced-patches.md) - 🧩 Patches for ReVanced
+- [thingsboard/thingsboard](../repos/thingsboard/thingsboard.md) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [apache/cloudstack](../repos/apache/cloudstack.md) - Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
+- [micrometer-metrics/micrometer](../repos/micrometer-metrics/micrometer.md) - An application observability facade for the most popular observability tools. Think SLF4J, but fo...
+- [doocs/leetcode](../repos/doocs/leetcode.md) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第...
+- [apache/incubator-seata](../repos/apache/incubator-seata.md) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+- [zalexdev/strykerapp](../repos/zalexdev/strykerapp.md) - Magic tool for pentest from your android device!
+- [booklore-app/booklore](../repos/booklore-app/booklore.md) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOR...
+- [apache/fluss](../repos/apache/fluss.md) - Apache Fluss is a streaming storage built for real-time analytics.
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.517Z*
+*Last updated: 2026-08-08T21:01:53.647Z*

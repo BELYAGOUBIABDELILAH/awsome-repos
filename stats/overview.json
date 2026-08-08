@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-07T21:01:37.512Z",
-  "total_repositories": 1521,
-  "trending_today": 409,
-  "new_this_month": 1521,
+  "generated_at": "2026-08-08T21:01:56.579Z",
+  "total_repositories": 1633,
+  "trending_today": 423,
+  "new_this_month": 1633,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-08-07",
+  "last_collection": "2026-08-08",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
     "first_seen": "2026-08-02"
   },
   "most_frequent": {
-    "full_name": "TencentCloud/TencentDB-Agent-Memory",
-    "trending_days": 7,
+    "full_name": "rubysec/ruby-advisory-db",
+    "trending_days": 8,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 26536695,
-  "avg_stars": 17447,
-  "avg_trending_days": 2.1,
+  "total_stars": 28236713,
+  "avg_stars": 17291,
+  "avg_trending_days": 2.2,
   "language_count": 51,
-  "topic_count": 4924,
+  "topic_count": 5217,
   "collection_success_rate": 100,
   "data_quality_score": 100
 }

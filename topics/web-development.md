@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 201
+- **Total Repositories**: 211
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-07
-- **Average Stars**: 28968
+- **Average Stars**: 29261
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 13,632 | Rust |  |
+| [electron/electron](../repos/electron/electron.md) | ⭐ 122,394 | C++ |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,748 | PHP |  |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,749 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 5,833 | Ruby |  |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 15,801 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,668 | Ruby |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,399 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 15,790 | Ruby |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,823 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | ⭐ 6,314 | Kotlin |  |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,378 | Shell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,398 | Scala |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,155 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,819 | Scala |  |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,130 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,366 | Shell |  |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | Objective-C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,143 | OCaml |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 40,743 | Vim Script |  |
 
 
 ---
@@ -54,15 +54,15 @@
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | Python | 2026-08-03 | 5 |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 277,366 | Python | 2026-08-08 | 1 |
 | [react/react](../repos/react/react.md) | ⭐ 246,953 | JavaScript | 2026-08-04 | 1 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | TypeScript | 2026-08-04 | 1 |
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,252 | Dart | 2026-08-01 | 5 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 162,853 | TypeScript | 2026-08-07 | 1 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,150 | C | 2026-08-07 | 1 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 163,335 | TypeScript | 2026-08-07 | 2 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,217 | C | 2026-08-07 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | JavaScript | 2026-07-30 | 6 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,283 | C++ | 2026-08-04 | 1 |
-| [electron/electron](../repos/electron/electron.md) | ⭐ 122,376 | C++ | 2026-08-01 | 2 |
 
 ---
 
@@ -85,19 +85,19 @@
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 66,444 | Python | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,535 | JavaScript | 1 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 13,632 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [huggingface/transformers.js](../repos/huggingface/transformers.js.md) | ⭐ 16,223 | JavaScript | 1 |
+| [electron/electron](../repos/electron/electron.md) | ⭐ 122,394 | C++ | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | TypeScript | 1 |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,013 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 24,959 | Rust | 1 |
+| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,229 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [tursodatabase/turso](../repos/tursodatabase/turso.md) | ⭐ 23,593 | Rust | 1 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,749 | PHP | 2 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-08](../archive/2026/08/2026-08-08.md)
+- 43 repositories trending
+- Top: practical-tutorials&#x2F;project-based-learning
+
 ### [2026-08-07](../archive/2026/08/2026-08-07.md)
 - 54 repositories trending
 - Top: donnemartin&#x2F;system-design-primer
@@ -162,10 +166,6 @@
 - 44 repositories trending
 - Top: flutter&#x2F;flutter
 
-### [2026-08-01](../archive/2026/08/2026-08-01.md)
-- 51 repositories trending
-- Top: flutter&#x2F;flutter
-
 
 ---
 
@@ -175,30 +175,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 7 days | 2026-08-01 | 2026-08-07 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 7 days | 2026-08-01 | 2026-08-07 |
-| [vlang/v](../repos/vlang/v.md) | 7 days | 2026-08-01 | 2026-08-07 |
+| [apache/spark](../repos/apache/spark.md) | 8 days | 2026-08-01 | 2026-08-08 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 8 days | 2026-08-01 | 2026-08-08 |
+| [vlang/v](../repos/vlang/v.md) | 8 days | 2026-08-01 | 2026-08-08 |
+| [opf/openproject](../repos/opf/openproject.md) | 7 days | 2026-08-01 | 2026-08-08 |
+| [vim/vim](../repos/vim/vim.md) | 7 days | 2026-08-01 | 2026-08-08 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 6 days | 2026-07-30 | 2026-08-06 |
-| [opf/openproject](../repos/opf/openproject.md) | 6 days | 2026-08-01 | 2026-08-07 |
+| [joernio/joern](../repos/joernio/joern.md) | 6 days | 2026-08-01 | 2026-08-08 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 6 days | 2026-08-01 | 2026-08-08 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 6 days | 2026-08-01 | 2026-08-06 |
 | [frappe/crm](../repos/frappe/crm.md) | 6 days | 2026-08-01 | 2026-08-07 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 6 days | 2026-08-01 | 2026-08-07 |
-| [vim/vim](../repos/vim/vim.md) | 6 days | 2026-08-01 | 2026-08-07 |
-| [ninenines/cowlib](../repos/ninenines/cowlib.md) | 6 days | 2026-08-02 | 2026-08-07 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Vue**: 27 repositories (13%)
+- **Vue**: 29 repositories (14%)
 - **TypeScript**: 23 repositories (11%)
+- **C**: 17 repositories (8%)
+- **JavaScript**: 16 repositories (8%)
 - **Go**: 16 repositories (8%)
-- **C**: 16 repositories (8%)
-- **JavaScript**: 14 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 40.5 repositories
+- **Daily Average**: 40.7 repositories
 - **Peak Day**: 2026-08-04 (66 repositories)
 - **Growth Rate**: 100% this month
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.340Z*
+*Last updated: 2026-08-08T21:01:53.448Z*

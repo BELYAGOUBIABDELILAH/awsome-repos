@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 65
+- **Total Repositories**: 69
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-05
 
@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 104,649 | 2026-08-01 | 3 |
+| [GCWing/BitFun](../repos/GCWing/BitFun.md) | ⭐ 1,608 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 13,632 | 2026-08-01 | 2 |
+| [denoland/celld](../repos/denoland/celld.md) | ⭐ 2,515 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cube-js/cube](../repos/cube-js/cube.md) | ⭐ 20,568 | 2026-08-01 | 2 |
+| [cloud-hypervisor/cloud-hypervisor](../repos/cloud-hypervisor/cloud-hypervisor.md) | ⭐ 6,074 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,163 | 2026-08-02 | 2 |
+| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 4,218 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GCWing/BitFun](../repos/GCWing/BitFun.md) | ⭐ 1,568 | 2026-08-06 | 2 |
+| [rivet-dev/rivet](../repos/rivet-dev/rivet.md) | ⭐ 5,958 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EFForg/rayhunter](../repos/EFForg/rayhunter.md) | ⭐ 5,455 | 2026-08-06 | 2 |
+| [iii-hq/iii](../repos/iii-hq/iii.md) | ⭐ 18,577 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [denoland/celld](../repos/denoland/celld.md) | ⭐ 2,140 | 2026-08-07 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [glzr-io/glazewm](../repos/glzr-io/glazewm.md) | ⭐ 12,554 | 2026-08-07 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cloudflare/pingora](../repos/cloudflare/pingora.md) | ⭐ 27,151 | 2026-08-07 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [pimalaya/himalaya](../repos/pimalaya/himalaya.md) | ⭐ 6,956 | 2026-08-07 | 1 |
+| [ClementTsang/bottom](../repos/ClementTsang/bottom.md) | ⭐ 13,861 | 2026-08-08 | 1 |
 
 
 ---
@@ -124,7 +115,7 @@
 | [openai/codex](../repos/openai/codex.md) | 3 | ⭐ 104,649 | 2026-08-01 | 2026-08-07 |
 | [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | 3 | ⭐ 13,424 | 2026-08-02 | 2026-08-04 |
 | [n0-computer/iroh](../repos/n0-computer/iroh.md) | 3 | ⭐ 12,067 | 2026-08-02 | 2026-08-04 |
-| [denoland/deno](../repos/denoland/deno.md) | 2 | ⭐ 108,046 | 2026-07-30 | 2026-08-04 |
+| [GCWing/BitFun](../repos/GCWing/BitFun.md) | 3 | ⭐ 1,608 | 2026-08-06 | 2026-08-08 |
 
 ---
 
@@ -195,7 +186,11 @@
 - [cloudflare/pingora](../repos/cloudflare/pingora.md) - A library for building fast, reliable and evolvable network services.
 - [pimalaya/himalaya](../repos/pimalaya/himalaya.md) - CLI to manage emails
 - [cloud-hypervisor/cloud-hypervisor](../repos/cloud-hypervisor/cloud-hypervisor.md) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hot...
+- [malisper/pgrust](../repos/malisper/pgrust.md) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
+- [rivet-dev/rivet](../repos/rivet-dev/rivet.md) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, a...
+- [iii-hq/iii](../repos/iii-hq/iii.md) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
+- [ClementTsang/bottom](../repos/ClementTsang/bottom.md) - Yet another cross-platform graphical process&#x2F;system monitor.
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.545Z*
+*Last updated: 2026-08-08T21:01:53.668Z*

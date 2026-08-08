@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 82
+- **Total Repositories**: 92
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-08-01
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,295 | 2026-08-01 | 4 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,688 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | ⭐ 32,878 | 2026-08-02 | 6 |
+| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 36,837 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 1,098 | 2026-08-02 | 2 |
+| [google/osv-scanner](../repos/google/osv-scanner.md) | ⭐ 10,784 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [coder/coder](../repos/coder/coder.md) | ⭐ 14,086 | 2026-08-06 | 2 |
+| [chenyme/grok2api](../repos/chenyme/grok2api.md) | ⭐ 7,214 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/osv-scanner](../repos/google/osv-scanner.md) | ⭐ 10,763 | 2026-08-06 | 2 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 36,323 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akuity/kargo](../repos/akuity/kargo.md) | ⭐ 3,515 | 2026-08-06 | 2 |
+| [containers/kubernetes-mcp-server](../repos/containers/kubernetes-mcp-server.md) | ⭐ 1,912 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chenyme/grok2api](../repos/chenyme/grok2api.md) | ⭐ 7,122 | 2026-08-06 | 2 |
+| [sysadminsmedia/homebox](../repos/sysadminsmedia/homebox.md) | ⭐ 6,763 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apernet/hysteria](../repos/apernet/hysteria.md) | ⭐ 22,263 | 2026-08-07 | 1 |
+| [beclab/Olares](../repos/beclab/Olares.md) | ⭐ 5,184 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gophish/gophish](../repos/gophish/gophish.md) | ⭐ 14,099 | 2026-08-07 | 1 |
+| [pocket-id/pocket-id](../repos/pocket-id/pocket-id.md) | ⭐ 8,744 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes-sigs/kind](../repos/kubernetes-sigs/kind.md) | ⭐ 15,404 | 2026-08-07 | 1 |
+| [alexballas/go2tv](../repos/alexballas/go2tv.md) | ⭐ 1,030 | 2026-08-08 | 1 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [golang/go](../repos/golang/go.md) | ⭐ 135,645 | 2026-07-31 | The Go programming language |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,002 | 2026-08-01 | A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs ... |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,688 | 2026-08-01 | A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | ⭐ 197 | 2026-08-01 | Offensive security framework for AI agent infrastructure - recon, credential looting, model exfil... |
@@ -100,14 +100,14 @@
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,263 | 2026-08-04 | 1 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,433 | 2026-08-06 | 1 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,688 | 2026-08-01 | 2 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 44,479 | 2026-08-01 | 5 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,002 | 2026-08-01 | 1 |
 | [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 40,826 | 2026-08-02 | 1 |
 | [docker/compose](../repos/docker/compose.md) | ⭐ 38,010 | 2026-08-04 | 2 |
 | [harness/harness](../repos/harness/harness.md) | ⭐ 37,696 | 2026-08-06 | 1 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,295 | 2026-08-01 | 4 |
 | [IceWhaleTech/CasaOS](../repos/IceWhaleTech/CasaOS.md) | ⭐ 36,937 | 2026-08-01 | 1 |
-| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 36,692 | 2026-08-03 | 1 |
+| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 36,837 | 2026-08-03 | 2 |
 
 ---
 
@@ -122,9 +122,9 @@
 | [superplanehq/superplane](../repos/superplanehq/superplane.md) | 4 | ⭐ 4,685 | 2026-08-02 | 2026-08-05 |
 | [golang/go](../repos/golang/go.md) | 3 | ⭐ 135,645 | 2026-07-31 | 2026-08-05 |
 | [gastownhall/beads](../repos/gastownhall/beads.md) | 3 | ⭐ 26,092 | 2026-08-04 | 2026-08-06 |
-| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | 2 | ⭐ 197 | 2026-08-01 | 2026-08-02 |
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 2 | ⭐ 19,467 | 2026-08-01 | 2026-08-06 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 2 | ⭐ 1,098 | 2026-08-02 | 2026-08-07 |
+| [google/osv-scanner](../repos/google/osv-scanner.md) | 3 | ⭐ 10,784 | 2026-08-06 | 2026-08-08 |
+| [chenyme/grok2api](../repos/chenyme/grok2api.md) | 3 | ⭐ 7,214 | 2026-08-06 | 2026-08-08 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 2 | ⭐ 44,688 | 2026-08-01 | 2026-08-08 |
 
 ---
 
@@ -212,7 +212,17 @@
 - [livekit/livekit](../repos/livekit/livekit.md) - End-to-end realtime stack for connecting humans and AI
 - [higress-group/higress](../repos/higress-group/higress.md) - 🤖 AI Gateway | AI Native API Gateway
 - [containers/kubernetes-mcp-server](../repos/containers/kubernetes-mcp-server.md) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
+- [sysadminsmedia/homebox](../repos/sysadminsmedia/homebox.md) - A continuation of HomeBox the inventory and organization system built for the Home User
+- [beclab/Olares](../repos/beclab/Olares.md) - Open-Source Personal Cloud OS for Always-On Agents
+- [pocket-id/pocket-id](../repos/pocket-id/pocket-id.md) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in t...
+- [alexballas/go2tv](../repos/alexballas/go2tv.md) - Cast media files to Smart TVs and Chromecast devices.
+- [charmbracelet/crush](../repos/charmbracelet/crush.md) - Glamourous agentic coding for all 💘
+- [actions/actions-runner-controller](../repos/actions/actions-runner-controller.md) - Kubernetes controller for GitHub Actions self-hosted runners
+- [navidrome/navidrome](../repos/navidrome/navidrome.md) - 🎧 Your Personal Streaming Service 
+- [anchore/grype](../repos/anchore/grype.md) - A vulnerability scanner for container images and filesystems
+- [kubernetes-sigs/kueue](../repos/kubernetes-sigs/kueue.md) - Kubernetes-native Job Queueing
+- [containerd/containerd](../repos/containerd/containerd.md) - An open and reliable container runtime
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.511Z*
+*Last updated: 2026-08-08T21:01:53.642Z*

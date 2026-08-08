@@ -8,14 +8,16 @@
 
 - **Total Repositories**: 1
 - **First Seen**: 2026-08-06
-- **Last Updated**: 2026-08-06
+- **Last Updated**: 2026-08-08
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [TapXWorld/ChinaTextbook](../repos/TapXWorld/ChinaTextbook.md) | ⭐ 77,865 | 2026-08-06 | 2 |
 
-*No Roff repositories trending today*
 
 ---
 
@@ -23,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TapXWorld/ChinaTextbook](../repos/TapXWorld/ChinaTextbook.md) | ⭐ 77,033 | 2026-08-06 | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](../repos/TapXWorld/ChinaTextbook.md) | ⭐ 77,865 | 2026-08-06 | 所有小初高、大学PDF教材。 |
 
 
 ---
@@ -32,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TapXWorld/ChinaTextbook](../repos/TapXWorld/ChinaTextbook.md) | ⭐ 77,033 | 2026-08-06 | 1 |
+| [TapXWorld/ChinaTextbook](../repos/TapXWorld/ChinaTextbook.md) | ⭐ 77,865 | 2026-08-06 | 2 |
 
 ---
 
@@ -40,7 +42,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [TapXWorld/ChinaTextbook](../repos/TapXWorld/ChinaTextbook.md) | 1 | ⭐ 77,033 | 2026-08-06 | 2026-08-06 |
+| [TapXWorld/ChinaTextbook](../repos/TapXWorld/ChinaTextbook.md) | 2 | ⭐ 77,865 | 2026-08-06 | 2026-08-08 |
 
 ---
 
@@ -50,4 +52,4 @@
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.542Z*
+*Last updated: 2026-08-08T21:01:53.665Z*

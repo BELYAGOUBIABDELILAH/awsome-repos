@@ -6,24 +6,24 @@
 
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/BELYAGOUBIABDELILAH/awsome-repos/process-trending.yml?branch=main&label=Daily%20Updates&logo=github)](https://github.com/BELYAGOUBIABDELILAH/awsome-repos/actions)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Repositories](https://img.shields.io/badge/Repositories-1521-green.svg)](./stats/)
+[![Repositories](https://img.shields.io/badge/Repositories-1633-green.svg)](./stats/)
 [![Languages](https://img.shields.io/badge/Languages-51-orange.svg)](./languages/)
 
 </div>
 
 ---
 
-## 📅 Today's Trending - August 7, 2026
+## 📅 Today's Trending - August 8, 2026
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|------:|----------|-------------|
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | ⭐ 6k | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous task |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | ⭐ 9k | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous task |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⭐ 84k | JavaScript | Production-grade engineering skills for AI coding agents. |
-| [cloudflare/computer](https://github.com/cloudflare/computer) | ⭐ 6k | TypeScript | Give your agent a computer 👾 |
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | ⭐ 70k | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能 |
-| [chenyme/grok2api](https://github.com/chenyme/grok2api) | ⭐ 7k | Go | Multi-account API gateway for Grok Build, Grok Web, and Grok Console |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | ⭐ 78k | Roff | 所有小初高、大学PDF教材。 |
+| [google/skills](https://github.com/google/skills) | ⭐ 17k | Python | Agent Skills for Google products and technologies |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | ⭐ 96k | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-[📄 View full daily report →](./archive/2026/08/2026-08-07.md)
+[📄 View full daily report →](./archive/2026/08/2026-08-08.md)
 
 ---
 
@@ -68,7 +68,7 @@ Detailed pages for each repository with complete metrics, trending history, rela
 - [microsoft/vscode](./repos/microsoft/vscode.md)
 - [rust-lang/rust](./repos/rust-lang/rust.md)
 
-**[Browse all 1521 repositories →](./repos/)**
+**[Browse all 1633 repositories →](./repos/)**
 
 ---
 
@@ -95,9 +95,9 @@ Historical trends, growth analysis, and data insights across all tracked reposit
 
 ## 📈 Archive Overview
 
-- **1521** repositories indexed
+- **1633** repositories indexed
 - **51** programming languages covered
-- **4924** topics tracked
+- **5217** topics tracked
 - **Daily updates** via automated workflow
 - **Historical data** since July 2026
 

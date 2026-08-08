@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 17
+- **Total Repositories**: 18
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-07
+- **Last Updated**: 2026-08-08
 
 ---
 
@@ -16,19 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,655 | 2026-08-01 | 7 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,655 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,129 | 2026-08-01 | 7 |
+| [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,130 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 469 | 2026-08-01 | 5 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 469 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 4,933 | 2026-08-01 | 5 |
+| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,663 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,310 | 2026-08-03 | 3 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 4,934 | 2026-08-01 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | ⭐ 364 | 2026-08-02 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,311 | 2026-08-03 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [linux-test-project/lcov](../repos/linux-test-project/lcov.md) | ⭐ 1,106 | 2026-08-08 | 1 |
 
 
 ---
@@ -40,7 +49,7 @@
 | [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,655 | 2026-08-01 | Stack trace visualizer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,129 | 2026-08-01 | lm-sensors repository |
+| [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,130 | 2026-08-01 | lm-sensors repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 469 | 2026-08-01 | GLPI Agent |
@@ -61,7 +70,7 @@
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,663 | 2026-08-01 | PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solu... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 4,933 | 2026-08-01 | ExifTool meta information reader&#x2F;writer |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 4,934 | 2026-08-01 | ExifTool meta information reader&#x2F;writer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | ⭐ 259 | 2026-08-02 | Comprehensive, language independent Test Suite for YAML |
@@ -73,18 +82,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,655 | 2026-08-01 | 7 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 4,933 | 2026-08-01 | 5 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,655 | 2026-08-01 | 8 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 4,934 | 2026-08-01 | 6 |
 | [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,846 | 2026-08-02 | 1 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,550 | 2026-08-01 | 6 |
-| [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,310 | 2026-08-03 | 3 |
-| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,663 | 2026-08-01 | 4 |
+| [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,311 | 2026-08-03 | 4 |
+| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,663 | 2026-08-01 | 5 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,502 | 2026-08-01 | 4 |
 | [asbru-cm/asbru-cm](../repos/asbru-cm/asbru-cm.md) | ⭐ 1,286 | 2026-08-03 | 2 |
-| [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,129 | 2026-08-01 | 7 |
+| [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,130 | 2026-08-01 | 8 |
+| [linux-test-project/lcov](../repos/linux-test-project/lcov.md) | ⭐ 1,106 | 2026-08-08 | 1 |
 | [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 584 | 2026-08-01 | 2 |
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 469 | 2026-08-01 | 5 |
-| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | ⭐ 365 | 2026-08-02 | 3 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 469 | 2026-08-01 | 6 |
+| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | ⭐ 364 | 2026-08-02 | 4 |
 | [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | ⭐ 259 | 2026-08-02 | 2 |
 | [Zimbra/zm-build](../repos/Zimbra/zm-build.md) | ⭐ 240 | 2026-08-05 | 1 |
 | [manwar/perlweeklychallenge-club](../repos/manwar/perlweeklychallenge-club.md) | ⭐ 220 | 2026-08-02 | 4 |
@@ -97,16 +107,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 7 | ⭐ 19,655 | 2026-08-01 | 2026-08-07 |
-| [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | 7 | ⭐ 1,129 | 2026-08-01 | 2026-08-07 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 8 | ⭐ 19,655 | 2026-08-01 | 2026-08-08 |
+| [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | 8 | ⭐ 1,130 | 2026-08-01 | 2026-08-08 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 6 | ⭐ 469 | 2026-08-01 | 2026-08-08 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 6 | ⭐ 2,550 | 2026-08-01 | 2026-08-06 |
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 5 | ⭐ 469 | 2026-08-01 | 2026-08-07 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 5 | ⭐ 4,933 | 2026-08-01 | 2026-08-07 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 6 | ⭐ 4,934 | 2026-08-01 | 2026-08-08 |
+| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 5 | ⭐ 1,663 | 2026-08-01 | 2026-08-08 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | 4 | ⭐ 1,502 | 2026-08-01 | 2026-08-06 |
-| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 4 | ⭐ 1,663 | 2026-08-01 | 2026-08-06 |
 | [manwar/perlweeklychallenge-club](../repos/manwar/perlweeklychallenge-club.md) | 4 | ⭐ 220 | 2026-08-02 | 2026-08-05 |
-| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | 3 | ⭐ 365 | 2026-08-02 | 2026-08-06 |
-| [Perl/perl5](../repos/Perl/perl5.md) | 3 | ⭐ 2,310 | 2026-08-03 | 2026-08-07 |
+| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | 4 | ⭐ 364 | 2026-08-02 | 2026-08-08 |
+| [Perl/perl5](../repos/Perl/perl5.md) | 4 | ⭐ 2,311 | 2026-08-03 | 2026-08-08 |
 
 ---
 
@@ -129,7 +139,8 @@
 - [Perl/perl5](../repos/Perl/perl5.md) - 🐪 The Perl programming language
 - [os-autoinst/os-autoinst-distri-opensuse](../repos/os-autoinst/os-autoinst-distri-opensuse.md) - os-autoinst test cases for openSUSE
 - [Zimbra/zm-build](../repos/Zimbra/zm-build.md) - zm-build for Zimbra Collaboration Suite, FOSS Edition
+- [linux-test-project/lcov](../repos/linux-test-project/lcov.md) - LCOV
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.535Z*
+*Last updated: 2026-08-08T21:01:53.661Z*

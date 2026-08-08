@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 43
+- **Total Repositories**: 49
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,28 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 9,868 | 2026-08-01 | 3 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 84,463 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,767 | 2026-08-01 | 4 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,519 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 83,797 | 2026-08-05 | 3 |
+| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 1,094 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 56,691 | 2026-08-05 | 2 |
+| [lackeyjb/playwright-skill](../repos/lackeyjb/playwright-skill.md) | ⭐ 2,997 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
+| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,206 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,408 | 2026-08-06 | 2 |
+| [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,522 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 636 | 2026-08-07 | 1 |
+| [wwebjs/whatsapp-web.js](../repos/wwebjs/whatsapp-web.js.md) | ⭐ 22,367 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 1,052 | 2026-08-07 | 1 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 25,875 | 2026-08-08 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [OpenSenseNova/SenseNova-Skills](../repos/OpenSenseNova/SenseNova-Skills.md) | ⭐ 4,942 | 2026-08-08 | 1 |
 
 
 ---
@@ -89,19 +92,19 @@
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 83,797 | 2026-08-05 | 3 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 84,463 | 2026-08-05 | 4 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,767 | 2026-08-01 | 4 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 56,691 | 2026-08-05 | 2 |
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,408 | 2026-08-06 | 2 |
+| [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,522 | 2026-08-08 | 1 |
+| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,206 | 2026-08-08 | 1 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,519 | 2026-08-06 | 3 |
 | [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | ⭐ 31,602 | 2026-08-02 | 2 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 31,280 | 2026-08-02 | 2 |
 | [greensock/GSAP](../repos/greensock/GSAP.md) | ⭐ 27,405 | 2026-08-04 | 1 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 25,875 | 2026-08-08 | 1 |
 | [4ian/GDevelop](../repos/4ian/GDevelop.md) | ⭐ 25,324 | 2026-08-03 | 1 |
-| [decolua/9router](../repos/decolua/9router.md) | ⭐ 24,468 | 2026-08-02 | 1 |
-| [validatorjs/validator.js](../repos/validatorjs/validator.js.md) | ⭐ 23,737 | 2026-08-03 | 1 |
-| [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,475 | 2026-08-01 | 1 |
 
 ---
 
@@ -112,13 +115,13 @@
 | [vercel/next.js](../repos/vercel/next.js.md) | 6 | ⭐ 141,656 | 2026-07-30 | 2026-08-06 |
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 4 | ⭐ 6,998 | 2026-08-01 | 2026-08-04 |
 | [byoungd/up](../repos/byoungd/up.md) | 4 | ⭐ 57,767 | 2026-08-01 | 2026-08-07 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 4 | ⭐ 84,463 | 2026-08-05 | 2026-08-08 |
 | [facebook/react](../repos/facebook/react.md) | 3 | ⭐ 219,500 | 2026-07-30 | 2026-08-05 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 3 | ⭐ 9,868 | 2026-08-01 | 2026-08-07 |
 | [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | 3 | ⭐ 7,624 | 2026-08-02 | 2026-08-04 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 3 | ⭐ 83,797 | 2026-08-05 | 2026-08-07 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 3 | ⭐ 38,519 | 2026-08-06 | 2026-08-08 |
 | [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | 2 | ⭐ 31,602 | 2026-08-02 | 2026-08-03 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 2 | ⭐ 31,280 | 2026-08-02 | 2026-08-04 |
-| [is-a-dev/register](../repos/is-a-dev/register.md) | 2 | ⭐ 10,912 | 2026-08-03 | 2026-08-05 |
 
 ---
 
@@ -167,7 +170,13 @@
 - [vrgamegirl19/comfyui-vrgamedevgirl](../repos/vrgamegirl19/comfyui-vrgamedevgirl.md) - Custom ComfyUI nodes for film grain, color matching, and video enhancement.
 - [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) - A plugin marketplace for Claude Code&#x2F;GitHub Copilot that provides Power Platform development plug...
 - [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted devel...
+- [lackeyjb/playwright-skill](../repos/lackeyjb/playwright-skill.md) - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously wri...
+- [usebruno/bruno](../repos/usebruno/bruno.md) - Opensource IDE For Exploring and Testing API&#39;s (lightweight alternative to Postman&#x2F;Insomnia)
+- [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) - A browser based code editor
+- [wwebjs/whatsapp-web.js](../repos/wwebjs/whatsapp-web.js.md) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) - Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation stu...
+- [OpenSenseNova/SenseNova-Skills](../repos/OpenSenseNova/SenseNova-Skills.md) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.519Z*
+*Last updated: 2026-08-08T21:01:53.648Z*

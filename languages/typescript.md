@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 66
+- **Total Repositories**: 69
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 17,453 | 2026-08-01 | 7 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 17,386 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/computer](../repos/cloudflare/computer.md) | ⭐ 5,533 | 2026-08-05 | 3 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 23,000 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/AionUi](../repos/iOfficeAI/AionUi.md) | ⭐ 31,664 | 2026-08-06 | 2 |
+| [cloudflare/computer](../repos/cloudflare/computer.md) | ⭐ 6,515 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 55,690 | 2026-08-06 | 2 |
+| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 8,610 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 6,231 | 2026-08-07 | 1 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 18,103 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 18,025 | 2026-08-07 | 1 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 163,335 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-mercato/open-mercato](../repos/open-mercato/open-mercato.md) | ⭐ 1,576 | 2026-08-07 | 1 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 40,079 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [payloadcms/payload](../repos/payloadcms/payload.md) | ⭐ 44,042 | 2026-08-07 | 1 |
+| [remnawave/panel](../repos/remnawave/panel.md) | ⭐ 4,804 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) | ⭐ 8,571 | 2026-08-07 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 162,853 | 2026-08-07 | 1 |
+| [jordanrendric/claude-video-vision](../repos/jordanrendric/claude-video-vision.md) | ⭐ 1,163 | 2026-08-08 | 1 |
 
 
 ---
@@ -90,7 +87,7 @@
 |------------|-------|------------|---------------|
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 162,853 | 2026-08-07 | 1 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 163,335 | 2026-08-07 | 2 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 125,928 | 2026-08-02 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,950 | 2026-08-04 | 2 |
@@ -117,14 +114,14 @@
 |------------|---------------|-------|------------|-----------|
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 4 | ⭐ 23,000 | 2026-08-02 | 2026-08-08 |
+| [cloudflare/computer](../repos/cloudflare/computer.md) | 4 | ⭐ 6,515 | 2026-08-05 | 2026-08-08 |
 | [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | 3 | ⭐ 49,131 | 2026-08-02 | 2026-08-04 |
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 3 | ⭐ 22,182 | 2026-08-02 | 2026-08-05 |
-| [cloudflare/computer](../repos/cloudflare/computer.md) | 3 | ⭐ 5,533 | 2026-08-05 | 2026-08-07 |
 | [different-ai/openwork](../repos/different-ai/openwork.md) | 2 | ⭐ 20,293 | 2026-08-01 | 2026-08-02 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 2 | ⭐ 17,386 | 2026-08-01 | 2026-08-08 |
 | [actions/checkout](../repos/actions/checkout.md) | 2 | ⭐ 8,604 | 2026-08-02 | 2026-08-04 |
 | [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | 2 | ⭐ 34,225 | 2026-08-02 | 2026-08-03 |
 | [nrwl/nx](../repos/nrwl/nx.md) | 2 | ⭐ 29,196 | 2026-08-02 | 2026-08-04 |
-| [simstudioai/sim](../repos/simstudioai/sim.md) | 2 | ⭐ 29,313 | 2026-08-02 | 2026-08-03 |
 
 ---
 
@@ -196,7 +193,10 @@
 - [CopilotKit/CopilotKit](../repos/CopilotKit/CopilotKit.md) - The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more.  Makers o...
 - [earendil-works/pi](../repos/earendil-works/pi.md) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [deepcoldy/botmux](../repos/deepcoldy/botmux.md) - Bridge Feishu&#x2F;Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or t...
+- [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) - Write HTML. Render video. Built for agents.
+- [remnawave/panel](../repos/remnawave/panel.md) - A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease ...
+- [jordanrendric/claude-video-vision](../repos/jordanrendric/claude-video-vision.md) - Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction...
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.555Z*
+*Last updated: 2026-08-08T21:01:53.675Z*

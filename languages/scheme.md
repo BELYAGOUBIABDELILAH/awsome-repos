@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 2
+- **Total Repositories**: 3
 - **First Seen**: 2026-08-02
 - **Last Updated**: 2026-08-05
 
@@ -14,8 +14,10 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [LFDT-Minokawa/compact](../repos/LFDT-Minokawa/compact.md) | ⭐ 37 | 2026-08-08 | 1 |
 
-*No Scheme repositories trending today*
 
 ---
 
@@ -27,6 +29,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MoganLab/mogan](../repos/MoganLab/mogan.md) | ⭐ 573 | 2026-08-05 | Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology! |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LFDT-Minokawa/compact](../repos/LFDT-Minokawa/compact.md) | ⭐ 37 | 2026-08-08 | The Compact programming language |
 
 
 ---
@@ -37,6 +42,7 @@
 |------------|-------|------------|---------------|
 | [MoganLab/mogan](../repos/MoganLab/mogan.md) | ⭐ 573 | 2026-08-05 | 1 |
 | [scality/metalk8s](../repos/scality/metalk8s.md) | ⭐ 391 | 2026-08-02 | 1 |
+| [LFDT-Minokawa/compact](../repos/LFDT-Minokawa/compact.md) | ⭐ 37 | 2026-08-08 | 1 |
 
 ---
 
@@ -46,6 +52,7 @@
 |------------|---------------|-------|------------|-----------|
 | [scality/metalk8s](../repos/scality/metalk8s.md) | 1 | ⭐ 391 | 2026-08-02 | 2026-08-02 |
 | [MoganLab/mogan](../repos/MoganLab/mogan.md) | 1 | ⭐ 573 | 2026-08-05 | 2026-08-05 |
+| [LFDT-Minokawa/compact](../repos/LFDT-Minokawa/compact.md) | 1 | ⭐ 37 | 2026-08-08 | 2026-08-08 |
 
 ---
 
@@ -53,7 +60,8 @@
 
 - [scality/metalk8s](../repos/scality/metalk8s.md) - An opinionated Kubernetes distribution with a focus on long-term on-prem deployments
 - [MoganLab/mogan](../repos/MoganLab/mogan.md) - Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology!
+- [LFDT-Minokawa/compact](../repos/LFDT-Minokawa/compact.md) - The Compact programming language
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.549Z*
+*Last updated: 2026-08-08T21:01:53.670Z*

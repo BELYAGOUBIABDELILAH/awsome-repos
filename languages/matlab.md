@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 3
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-07
+- **Last Updated**: 2026-08-08
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,725 | 2026-08-01 | 6 |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,725 | 2026-08-01 | 7 |
 
 
 ---
@@ -40,7 +40,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,725 | 2026-08-01 | 6 |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,725 | 2026-08-01 | 7 |
 | [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 6 |
 | [CERN/TIGRE](../repos/CERN/TIGRE.md) | ⭐ 795 | 2026-08-04 | 1 |
 
@@ -50,8 +50,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | 7 | ⭐ 7,725 | 2026-08-01 | 2026-08-08 |
 | [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 6 | ⭐ 981 | 2026-08-01 | 2026-08-06 |
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | 6 | ⭐ 7,725 | 2026-08-01 | 2026-08-07 |
 | [CERN/TIGRE](../repos/CERN/TIGRE.md) | 1 | ⭐ 795 | 2026-08-04 | 2026-08-04 |
 
 ---
@@ -64,4 +64,4 @@
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.526Z*
+*Last updated: 2026-08-08T21:01:53.654Z*

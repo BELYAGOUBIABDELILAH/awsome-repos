@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 71
+- **Total Repositories**: 81
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-01
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | 2026-08-03 | 5 |
+| [microsoft/VibeVoice](../repos/microsoft/VibeVoice.md) | ⭐ 52,227 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | ⭐ 3,358 | 2026-08-04 | 4 |
+| [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | ⭐ 3,574 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harvard-edge/cs249r_book](../repos/harvard-edge/cs249r_book.md) | ⭐ 27,804 | 2026-08-04 | 2 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,441 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA-NeMo/Speech](../repos/NVIDIA-NeMo/Speech.md) | ⭐ 18,018 | 2026-08-05 | 2 |
+| [666ghj/MiroFish](../repos/666ghj/MiroFish.md) | ⭐ 70,732 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 124,644 | 2026-08-05 | 2 |
+| [google/skills](../repos/google/skills.md) | ⭐ 16,658 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,285 | 2026-08-06 | 2 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 96,397 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [666ghj/MiroFish](../repos/666ghj/MiroFish.md) | ⭐ 70,436 | 2026-08-07 | 1 |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 277,366 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/skills](../repos/google/skills.md) | ⭐ 16,181 | 2026-08-07 | 1 |
+| [kyutai-labs/pocket-tts](../repos/kyutai-labs/pocket-tts.md) | ⭐ 8,174 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [android/skills](../repos/android/skills.md) | ⭐ 6,612 | 2026-08-07 | 1 |
+| [google-deepmind/weathernext](../repos/google-deepmind/weathernext.md) | ⭐ 6,866 | 2026-08-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p1ngul1n0/blackbird](../repos/p1ngul1n0/blackbird.md) | ⭐ 7,401 | 2026-08-07 | 1 |
+| [superlinked/sie](../repos/superlinked/sie.md) | ⭐ 2,686 | 2026-08-08 | 1 |
 
 
 ---
@@ -90,8 +90,9 @@
 |------------|-------|------------|---------------|
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 453,833 | 2026-08-01 | 1 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | 2026-08-03 | 5 |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 277,366 | 2026-08-08 | 1 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | 2026-08-01 | 6 |
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,285 | 2026-08-06 | 2 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,441 | 2026-08-06 | 3 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 182,027 | 2026-08-02 | 1 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 140,599 | 2026-08-07 | 1 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 130,495 | 2026-08-04 | 1 |
@@ -100,14 +101,13 @@
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 101,806 | 2026-08-03 | 1 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | 2026-08-01 | 2 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 96,397 | 2026-08-08 | 1 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,155 | 2026-08-02 | 2 |
 | [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 79,146 | 2026-08-02 | 2 |
 | [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 78,730 | 2026-08-02 | 2 |
 | [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | 2026-08-10 | 1 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 75,000 | 2026-07-30 | 1 |
 | [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 71,957 | 2026-08-06 | 1 |
-| [666ghj/MiroFish](../repos/666ghj/MiroFish.md) | ⭐ 70,436 | 2026-08-07 | 1 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 66,444 | 2026-08-01 | 4 |
 
 ---
 
@@ -119,8 +119,8 @@
 | [openai/whisper](../repos/openai/whisper.md) | 5 | ⭐ 106,298 | 2026-07-31 | 2026-08-01 |
 | [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | 5 | ⭐ 46,014 | 2026-08-02 | 2026-08-06 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | 5 | ⭐ 362,245 | 2026-08-03 | 2026-08-07 |
+| [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | 5 | ⭐ 3,574 | 2026-08-04 | 2026-08-08 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 4 | ⭐ 66,444 | 2026-08-01 | 2026-08-04 |
-| [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | 4 | ⭐ 3,358 | 2026-08-04 | 2026-08-07 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 3 | ⭐ 44,517 | 2026-08-03 | 2026-08-05 |
 | [livekit/agents](../repos/livekit/agents.md) | 3 | ⭐ 12,702 | 2026-08-03 | 2026-08-06 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 3 | ⭐ 32,834 | 2026-08-03 | 2026-08-06 |
@@ -201,7 +201,17 @@
 - [p1ngul1n0/blackbird](../repos/p1ngul1n0/blackbird.md) - An OSINT tool to search for accounts by username and email in social networks.
 - [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [anthropics/claude-code](../repos/anthropics/claude-code.md) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...
+- [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) - TradingAgents: Multi-Agents LLM Financial Trading Framework
+- [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) - Curated list of project-based tutorials
+- [kyutai-labs/pocket-tts](../repos/kyutai-labs/pocket-tts.md) - A TTS that fits in your CPU (and pocket)
+- [google-deepmind/weathernext](../repos/google-deepmind/weathernext.md) - 
+- [superlinked/sie](../repos/superlinked/sie.md) - Open-source inference server and production cluster for all the models your agent needs.
+- [harveyai/harvey-labs](../repos/harveyai/harvey-labs.md) - A benchmark built to evaluate and improve agent capabilities for supporting legal work.
+- [microsoft/agent-governance-toolkit](../repos/microsoft/agent-governance-toolkit.md) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and ...
+- [anthropics/claude-code-security-review](../repos/anthropics/claude-code-security-review.md) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vul...
+- [AgriciDaniel/claude-seo](../repos/AgriciDaniel/claude-seo.md) - Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-...
+- [Universal-Commerce-Protocol/ucp](../repos/Universal-Commerce-Protocol/ucp.md) - Specification and documentation for the Universal Commerce Protocol (UCP)
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.539Z*
+*Last updated: 2026-08-08T21:01:53.663Z*

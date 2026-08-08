@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Nim |
 | **License** | CC-BY-4.0 |
-| **Stars** | ⭐ 498 |
-| **Forks** | 🍴 781 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 499 |
+| **Forks** | 🍴 782 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 6, 2026 |
+| **Last Seen** | Aug 8, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 4 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 498+ stars, strong contributor base |
+| **Community** | Very Active | 499+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-07T21:01:36.115Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-08-08T21:01:55.031Z*  
+*Data from 6 trending reports*

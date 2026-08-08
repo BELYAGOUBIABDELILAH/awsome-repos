@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | V |
 | **License** | MIT |
-| **Stars** | ⭐ 37,785 |
-| **Forks** | 🍴 2,265 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 37,787 |
+| **Forks** | 🍴 2,268 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 7, 2026 |
+| **Last Seen** | Aug 8, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
-- **Longest Streak**: 7 days
+- **Trending Days**: 8
+- **Longest Streak**: 8 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-07T21:01:36.118Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-08-08T21:01:55.035Z*  
+*Data from 8 trending reports*

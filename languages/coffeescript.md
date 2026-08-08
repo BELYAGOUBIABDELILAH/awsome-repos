@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 4
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-04
+- **Last Updated**: 2026-08-08
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,015 | 2026-08-01 | 5 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,597 | 2026-08-01 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,018 | 2026-08-01 | 6 |
 
 
 ---
@@ -25,10 +28,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,595 | 2026-08-01 | No longer maintained, see pinned issues |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,597 | 2026-08-01 | No longer maintained, see pinned issues |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,015 | 2026-08-01 | Low-Budget Password Strength Estimation |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,018 | 2026-08-01 | Low-Budget Password Strength Estimation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | The motion graphics toolbelt for the web |
@@ -43,9 +46,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,595 | 2026-08-01 | 2 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,597 | 2026-08-01 | 3 |
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | 1 |
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,015 | 2026-08-01 | 5 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,018 | 2026-08-01 | 6 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,149 | 2026-08-06 | 1 |
 
 ---
@@ -54,8 +57,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 5 | ⭐ 16,015 | 2026-08-01 | 2026-08-07 |
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 2 | ⭐ 22,595 | 2026-08-01 | 2026-08-04 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 6 | ⭐ 16,018 | 2026-08-01 | 2026-08-08 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 3 | ⭐ 22,597 | 2026-08-01 | 2026-08-08 |
 | [mojs/mojs](../repos/mojs/mojs.md) | 1 | ⭐ 18,747 | 2026-08-01 | 2026-08-01 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 1 | ⭐ 1,149 | 2026-08-06 | 2026-08-06 |
 
@@ -70,4 +73,4 @@
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.500Z*
+*Last updated: 2026-08-08T21:01:53.631Z*

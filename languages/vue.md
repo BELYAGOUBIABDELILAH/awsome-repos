@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 45
+- **Total Repositories**: 48
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-07
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,727 | 2026-08-01 | 5 |
+| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 245 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,195 | 2026-08-01 | 6 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,130 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,233 | 2026-08-01 | 4 |
+| [inovector/mixpost](../repos/inovector/mixpost.md) | ⭐ 3,495 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,079 | 2026-08-01 | 6 |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,619 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 427 | 2026-08-02 | 5 |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 1,735 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,617 | 2026-08-02 | 4 |
+| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 1,728 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vuejs/docs](../repos/vuejs/docs.md) | ⭐ 3,233 | 2026-08-02 | 3 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,214 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 1,661 | 2026-08-02 | 5 |
+| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,471 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,213 | 2026-08-03 | 4 |
+| [frappe/lms](../repos/frappe/lms.md) | ⭐ 3,118 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,471 | 2026-08-05 | 2 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,466 | 2026-08-08 | 1 |
 
 
 ---
@@ -70,10 +70,10 @@
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,233 | 2026-08-01 | :tada: A magical vue admin                                                                https:&#x2F;... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 244 | 2026-08-01 | A Career Overhaul mod for BeamNG.drive! Enhances various aspects of the game, including freeroam ... |
+| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 245 | 2026-08-01 | A Career Overhaul mod for BeamNG.drive! Enhances various aspects of the game, including freeroam ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,098 | 2026-08-01 | 高颜值的第三方网易云播放器，支持 Windows &#x2F; macOS &#x2F; Linux :electron:  |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,130 | 2026-08-01 | 高颜值的第三方网易云播放器，支持 Windows &#x2F; macOS &#x2F; Linux :electron:  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [imsyy/home](../repos/imsyy/home.md) | ⭐ 4,585 | 2026-08-01 | 个人主页，我的个人主页，个人主页源码，主页模板，homepage |
@@ -90,24 +90,24 @@
 |------------|-------|------------|---------------|
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,233 | 2026-08-01 | 4 |
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,076 | 2026-08-01 | 2 |
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,098 | 2026-08-01 | 1 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,130 | 2026-08-01 | 2 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,079 | 2026-08-01 | 6 |
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,727 | 2026-08-01 | 5 |
-| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,617 | 2026-08-02 | 4 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,466 | 2026-08-08 | 1 |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,619 | 2026-08-02 | 5 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,588 | 2026-08-01 | 3 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,889 | 2026-08-07 | 1 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,305 | 2026-08-02 | 3 |
-| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,471 | 2026-08-05 | 2 |
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,213 | 2026-08-03 | 4 |
+| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,471 | 2026-08-05 | 3 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,214 | 2026-08-03 | 5 |
 | [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,854 | 2026-08-03 | 1 |
+| [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,528 | 2026-08-08 | 1 |
 | [un-pany/v3-admin-vite](../repos/un-pany/v3-admin-vite.md) | ⭐ 7,018 | 2026-08-04 | 1 |
 | [VueTorrent/VueTorrent](../repos/VueTorrent/VueTorrent.md) | ⭐ 6,907 | 2026-08-03 | 2 |
 | [luckjiawei/frpc-desktop](../repos/luckjiawei/frpc-desktop.md) | ⭐ 6,811 | 2026-08-04 | 1 |
 | [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,706 | 2026-08-02 | 4 |
 | [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 5,682 | 2026-08-07 | 1 |
 | [hslr-s/sun-panel](../repos/hslr-s/sun-panel.md) | ⭐ 5,255 | 2026-08-04 | 2 |
-| [imsyy/home](../repos/imsyy/home.md) | ⭐ 4,585 | 2026-08-01 | 1 |
-| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 3,944 | 2026-08-01 | 2 |
 
 ---
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [frappe/crm](../repos/frappe/crm.md) | 6 | ⭐ 3,195 | 2026-08-01 | 2026-08-07 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 6 | ⭐ 33,079 | 2026-08-01 | 2026-08-07 |
+| [julyx10/lap](../repos/julyx10/lap.md) | 6 | ⭐ 1,728 | 2026-08-02 | 2026-08-08 |
 | [requarks/wiki](../repos/requarks/wiki.md) | 5 | ⭐ 28,727 | 2026-08-01 | 2026-08-07 |
 | [RikkaApps/websites](../repos/RikkaApps/websites.md) | 5 | ⭐ 427 | 2026-08-02 | 2026-08-07 |
-| [julyx10/lap](../repos/julyx10/lap.md) | 5 | ⭐ 1,661 | 2026-08-02 | 2026-08-07 |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | 5 | ⭐ 21,619 | 2026-08-02 | 2026-08-08 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | 5 | ⭐ 9,214 | 2026-08-03 | 2026-08-08 |
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | 4 | ⭐ 90,233 | 2026-08-01 | 2026-08-07 |
-| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | 4 | ⭐ 21,617 | 2026-08-02 | 2026-08-07 |
+| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | 4 | ⭐ 245 | 2026-08-01 | 2026-08-08 |
 | [unovue/reka-ui](../repos/unovue/reka-ui.md) | 4 | ⭐ 6,706 | 2026-08-02 | 2026-08-06 |
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | 4 | ⭐ 9,213 | 2026-08-03 | 2026-08-07 |
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 3 | ⭐ 3,869 | 2026-08-01 | 2026-08-03 |
 
 ---
 
@@ -175,7 +175,10 @@
 - [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin ...
 - [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-a...
 - [freqtrade/frequi](../repos/freqtrade/frequi.md) - Freqtrade UI - Frontend for Freqtrade
+- [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+- [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on R...
+- [x2rr/funds](../repos/x2rr/funds.md) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 
 ---
 
-*Last updated: 2026-08-07T21:01:33.563Z*
+*Last updated: 2026-08-08T21:01:53.681Z*
