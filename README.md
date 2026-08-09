@@ -6,24 +6,24 @@
 
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/BELYAGOUBIABDELILAH/awsome-repos/process-trending.yml?branch=main&label=Daily%20Updates&logo=github)](https://github.com/BELYAGOUBIABDELILAH/awsome-repos/actions)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Repositories](https://img.shields.io/badge/Repositories-1633-green.svg)](./stats/)
-[![Languages](https://img.shields.io/badge/Languages-51-orange.svg)](./languages/)
+[![Repositories](https://img.shields.io/badge/Repositories-1735-green.svg)](./stats/)
+[![Languages](https://img.shields.io/badge/Languages-52-orange.svg)](./languages/)
 
 </div>
 
 ---
 
-## 📅 Today's Trending - August 8, 2026
+## 📅 Today's Trending - August 9, 2026
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|------:|----------|-------------|
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | ⭐ 9k | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous task |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⭐ 84k | JavaScript | Production-grade engineering skills for AI coding agents. |
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | ⭐ 78k | Roff | 所有小初高、大学PDF教材。 |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | ⭐ 11k | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous task |
+| [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) | ⭐ 7k | Python | No description |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⭐ 85k | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ⭐ 61k | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stoc |
 | [google/skills](https://github.com/google/skills) | ⭐ 17k | Python | Agent Skills for Google products and technologies |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | ⭐ 96k | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-[📄 View full daily report →](./archive/2026/08/2026-08-08.md)
+[📄 View full daily report →](./archive/2026/08/2026-08-09.md)
 
 ---
 
@@ -43,7 +43,7 @@ Explore repositories grouped by programming language. Find trending projects in 
 - [Python](./languages/python.md) | [JavaScript](./languages/javascript.md) | [TypeScript](./languages/typescript.md)
 - [Go](./languages/go.md) | [Rust](./languages/rust.md) | [Java](./languages/java.md)
 
-**[View all 51 languages →](./languages/)**
+**[View all 52 languages →](./languages/)**
 
 ---
 
@@ -68,7 +68,7 @@ Detailed pages for each repository with complete metrics, trending history, rela
 - [microsoft/vscode](./repos/microsoft/vscode.md)
 - [rust-lang/rust](./repos/rust-lang/rust.md)
 
-**[Browse all 1633 repositories →](./repos/)**
+**[Browse all 1735 repositories →](./repos/)**
 
 ---
 
@@ -95,9 +95,9 @@ Historical trends, growth analysis, and data insights across all tracked reposit
 
 ## 📈 Archive Overview
 
-- **1633** repositories indexed
-- **51** programming languages covered
-- **5217** topics tracked
+- **1735** repositories indexed
+- **52** programming languages covered
+- **5487** topics tracked
 - **Daily updates** via automated workflow
 - **Historical data** since July 2026
 

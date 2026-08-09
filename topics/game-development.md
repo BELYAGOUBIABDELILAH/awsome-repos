@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 126
+- **Total Repositories**: 140
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-08-01
-- **Average Stars**: 23405
+- **Last Updated**: 2026-08-09
+- **Average Stars**: 22048
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,399 | Scala |  |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,134 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,823 | Scala |  |
+| [decidim/decidim](../repos/decidim/decidim.md) | ⭐ 1,802 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,348 | Clojure |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,830 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,155 | OCaml |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,361 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 975 | Zig |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,162 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,743 | Vim Script |  |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,502 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,866 | Assembly |  |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 979 | Zig |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,787 | V |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 40,745 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,444 | C |  |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,869 | Assembly |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,582 | C# |  |
+| [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,484 | Assembly |  |
 
 
 ---
@@ -53,16 +53,16 @@
 
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 177,455 | Go | 2026-08-01 | 1 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,217 | C | 2026-08-07 | 2 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,134 | Go | 2026-08-01 | 2 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,302 | C | 2026-08-07 | 3 |
 | [golang/go](../repos/golang/go.md) | ⭐ 135,645 | Go | 2026-07-31 | 3 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,235 | Go | 2026-08-04 | 1 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,269 | C++ | 2026-08-01 | 5 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,298 | Go | 2026-08-03 | 1 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | Go | 2026-08-05 | 1 |
 | [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,054 | TypeScript | 2026-08-04 | 1 |
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,577 | C++ | 2026-08-08 | 1 |
-| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,616 | Go | 2026-08-03 | 1 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,589 | C++ | 2026-08-08 | 2 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,774 | C | 2026-08-02 | 4 |
 
 ---
 
@@ -76,10 +76,10 @@
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,295 | Go | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,269 | C++ | 3 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,134 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | ⭐ 11,217 | C++ | 2 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,269 | C++ | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,013 | C | 1 |
@@ -117,7 +117,7 @@
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,295 | Go | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 177,455 | Go | 2026-08-01 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,134 | Go | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,269 | C++ | 2026-08-01 |
@@ -137,6 +137,10 @@
 ---
 
 ## 📅 Recent History
+
+### [2026-08-09](../archive/2026/08/2026-08-09.md)
+- 41 repositories trending
+- Top: ollama&#x2F;ollama
 
 ### [2026-08-08](../archive/2026/08/2026-08-08.md)
 - 24 repositories trending
@@ -162,10 +166,6 @@
 - 42 repositories trending
 - Top: gohugoio&#x2F;hugo
 
-### [2026-08-02](../archive/2026/08/2026-08-02.md)
-- 33 repositories trending
-- Top: godotengine&#x2F;godot
-
 
 ---
 
@@ -175,30 +175,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [vlang/v](../repos/vlang/v.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [vim/vim](../repos/vim/vim.md) | 7 days | 2026-08-01 | 2026-08-08 |
-| [pret/pokecrystal](../repos/pret/pokecrystal.md) | 7 days | 2026-08-01 | 2026-08-07 |
+| [apache/spark](../repos/apache/spark.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [vlang/v](../repos/vlang/v.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [vim/vim](../repos/vim/vim.md) | 8 days | 2026-08-01 | 2026-08-09 |
+| [pret/pokecrystal](../repos/pret/pokecrystal.md) | 8 days | 2026-08-01 | 2026-08-09 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 7 days | 2026-08-01 | 2026-08-09 |
+| [pret/pokered](../repos/pret/pokered.md) | 7 days | 2026-08-01 | 2026-08-09 |
 | [joernio/joern](../repos/joernio/joern.md) | 6 days | 2026-08-01 | 2026-08-08 |
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 6 days | 2026-08-01 | 2026-08-08 |
-| [pret/pokered](../repos/pret/pokered.md) | 6 days | 2026-08-01 | 2026-08-08 |
-| [godotengine/godot](../repos/godotengine/godot.md) | 5 days | 2026-08-01 | 2026-08-06 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 6 days | 2026-08-01 | 2026-08-09 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 25 repositories (20%)
-- **C**: 17 repositories (13%)
-- **C++**: 15 repositories (12%)
-- **C#**: 9 repositories (7%)
-- **Assembly**: 7 repositories (6%)
+- **Go**: 27 repositories (19%)
+- **C**: 20 repositories (14%)
+- **C++**: 17 repositories (12%)
+- **C#**: 10 repositories (7%)
+- **Ruby**: 7 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 28.9 repositories
+- **Daily Average**: 30.1 repositories
 - **Peak Day**: 2026-08-03 (42 repositories)
 - **Growth Rate**: 100% this month
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.505Z*
+*Last updated: 2026-08-09T21:01:52.154Z*

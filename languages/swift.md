@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 48
+- **Total Repositories**: 49
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-06
+- **Last Updated**: 2026-08-09
 
 ---
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,691 | 2026-08-01 | 4 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,714 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 48,766 | 2026-08-01 | 4 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,829 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,313 | 2026-08-01 | 2 |
+| [rooootdev/lara](../repos/rooootdev/lara.md) | ⭐ 1,406 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,792 | 2026-08-01 | 4 |
+| [pluk-inc/markdown-preview](../repos/pluk-inc/markdown-preview.md) | ⭐ 1,889 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | ⭐ 2,415 | 2026-08-03 | 5 |
+| [sozercan/kaset](../repos/sozercan/kaset.md) | ⭐ 1,873 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pluk-inc/markdown-preview](../repos/pluk-inc/markdown-preview.md) | ⭐ 1,864 | 2026-08-03 | 2 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,234 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 5,652 | 2026-08-04 | 2 |
+| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,372 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [h3nock/remux](../repos/h3nock/remux.md) | ⭐ 423 | 2026-08-06 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,374 | 2026-08-07 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 13,287 | 2026-08-08 | 1 |
+| [rime/squirrel](../repos/rime/squirrel.md) | ⭐ 6,234 | 2026-08-09 | 1 |
 
 
 ---
@@ -52,7 +46,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,691 | 2026-08-01 | Run iOS apps without actually installing them! |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,714 | 2026-08-01 | Run iOS apps without actually installing them! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,176 | 2026-08-01 | 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source,... |
@@ -88,7 +82,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,221 | 2026-08-05 | 2 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,234 | 2026-08-05 | 3 |
 | [apple/container](../repos/apple/container.md) | ⭐ 48,766 | 2026-08-01 | 4 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,010 | 2026-08-04 | 2 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,810 | 2026-08-04 | 2 |
@@ -100,11 +94,11 @@
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 13,287 | 2026-08-08 | 1 |
 | [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
 | [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,183 | 2026-08-06 | 1 |
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,691 | 2026-08-01 | 4 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,714 | 2026-08-01 | 5 |
 | [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,276 | 2026-08-06 | 2 |
 | [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | ⭐ 10,263 | 2026-08-03 | 2 |
 | [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,866 | 2026-08-08 | 1 |
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,822 | 2026-08-02 | 3 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,829 | 2026-08-02 | 4 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,499 | 2026-08-04 | 1 |
 | [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,534 | 2026-08-04 | 2 |
 | [argmaxinc/argmax-oss-swift](../repos/argmaxinc/argmax-oss-swift.md) | ⭐ 6,304 | 2026-08-02 | 1 |
@@ -115,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 5 | ⭐ 10,714 | 2026-08-01 | 2026-08-09 |
 | [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | 5 | ⭐ 2,415 | 2026-08-03 | 2026-08-08 |
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 4 | ⭐ 10,691 | 2026-08-01 | 2026-08-08 |
 | [apple/container](../repos/apple/container.md) | 4 | ⭐ 48,766 | 2026-08-01 | 2026-08-08 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 4 | ⭐ 25,792 | 2026-08-01 | 2026-08-08 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | 4 | ⭐ 19,685 | 2026-08-01 | 2026-08-05 |
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 3 | ⭐ 8,822 | 2026-08-02 | 2026-08-06 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 4 | ⭐ 8,829 | 2026-08-02 | 2026-08-09 |
+| [pluk-inc/markdown-preview](../repos/pluk-inc/markdown-preview.md) | 3 | ⭐ 1,889 | 2026-08-03 | 2026-08-09 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 3 | ⭐ 14,857 | 2026-08-04 | 2026-08-06 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | 3 | ⭐ 70,234 | 2026-08-05 | 2026-08-09 |
 | [h3nock/remux](../repos/h3nock/remux.md) | 3 | ⭐ 423 | 2026-08-06 | 2026-08-08 |
-| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | 2 | ⭐ 2,599 | 2026-08-01 | 2026-08-03 |
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 2 | ⭐ 5,752 | 2026-08-01 | 2026-08-02 |
 
 ---
 
@@ -178,7 +172,8 @@
 - [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) - macOS video editor built for AI
 - [apple/containerization](../repos/apple/containerization.md) - Containerization is a Swift package for running Linux containers on macOS.
 - [frankea/Whisky](../repos/frankea/Whisky.md) - Active community fork of the archived whisky-app&#x2F;whisky — a modern Wine wrapper for macOS built w...
+- [rime/squirrel](../repos/rime/squirrel.md) - 【鼠鬚管】Rime for macOS
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.674Z*
+*Last updated: 2026-08-09T21:01:52.312Z*

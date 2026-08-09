@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 81
+- **Total Repositories**: 86
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-01
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/VibeVoice](../repos/microsoft/VibeVoice.md) | ⭐ 52,227 | 2026-08-01 | 2 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 125,406 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | ⭐ 3,574 | 2026-08-04 | 5 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,458 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,441 | 2026-08-06 | 3 |
+| [google/skills](../repos/google/skills.md) | ⭐ 17,174 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [666ghj/MiroFish](../repos/666ghj/MiroFish.md) | ⭐ 70,732 | 2026-08-07 | 2 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 96,852 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/skills](../repos/google/skills.md) | ⭐ 16,658 | 2026-08-07 | 2 |
+| [google-deepmind/weathernext](../repos/google-deepmind/weathernext.md) | ⭐ 7,037 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 96,397 | 2026-08-08 | 1 |
+| [harveyai/harvey-labs](../repos/harveyai/harvey-labs.md) | ⭐ 787 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 277,366 | 2026-08-08 | 1 |
+| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 61,121 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kyutai-labs/pocket-tts](../repos/kyutai-labs/pocket-tts.md) | ⭐ 8,174 | 2026-08-08 | 1 |
+| [funstory-ai/BabelDOC](../repos/funstory-ai/BabelDOC.md) | ⭐ 9,227 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-deepmind/weathernext](../repos/google-deepmind/weathernext.md) | ⭐ 6,866 | 2026-08-08 | 1 |
+| [MervinPraison/PraisonAI](../repos/MervinPraison/PraisonAI.md) | ⭐ 8,770 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superlinked/sie](../repos/superlinked/sie.md) | ⭐ 2,686 | 2026-08-08 | 1 |
+| [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) | ⭐ 19,396 | 2026-08-09 | 1 |
 
 
 ---
@@ -92,16 +92,16 @@
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | 2026-08-03 | 5 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 277,366 | 2026-08-08 | 1 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | 2026-08-01 | 6 |
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,441 | 2026-08-06 | 3 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,458 | 2026-08-06 | 4 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 182,027 | 2026-08-02 | 1 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 140,599 | 2026-08-07 | 1 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 130,495 | 2026-08-04 | 1 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | 2026-07-31 | 2 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 124,644 | 2026-08-05 | 2 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 125,406 | 2026-08-05 | 3 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 101,806 | 2026-08-03 | 1 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | 2026-08-01 | 2 |
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 96,397 | 2026-08-08 | 1 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 96,852 | 2026-08-08 | 2 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,155 | 2026-08-02 | 2 |
 | [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 79,146 | 2026-08-02 | 2 |
 | [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 78,730 | 2026-08-02 | 2 |
@@ -121,10 +121,10 @@
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | 5 | ⭐ 362,245 | 2026-08-03 | 2026-08-07 |
 | [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | 5 | ⭐ 3,574 | 2026-08-04 | 2026-08-08 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 4 | ⭐ 66,444 | 2026-08-01 | 2026-08-04 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | 4 | ⭐ 186,458 | 2026-08-06 | 2026-08-09 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 3 | ⭐ 44,517 | 2026-08-03 | 2026-08-05 |
 | [livekit/agents](../repos/livekit/agents.md) | 3 | ⭐ 12,702 | 2026-08-03 | 2026-08-06 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 3 | ⭐ 32,834 | 2026-08-03 | 2026-08-06 |
-| [uber/ADR](../repos/uber/ADR.md) | 3 | ⭐ 1,230 | 2026-08-04 | 2026-08-06 |
 
 ---
 
@@ -211,7 +211,12 @@
 - [anthropics/claude-code-security-review](../repos/anthropics/claude-code-security-review.md) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vul...
 - [AgriciDaniel/claude-seo](../repos/AgriciDaniel/claude-seo.md) - Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-...
 - [Universal-Commerce-Protocol/ucp](../repos/Universal-Commerce-Protocol/ucp.md) - Specification and documentation for the Universal Commerce Protocol (UCP)
+- [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...
+- [funstory-ai/BabelDOC](../repos/funstory-ai/BabelDOC.md) - Yet Another Document Translator
+- [MervinPraison/PraisonAI](../repos/MervinPraison/PraisonAI.md) - PraisonAI 🦞 — Hire a 24&#x2F;7 AI Workforce. Stop writing boilerplate and start shipping autonomous s...
+- [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) - Hindsight: Agent Memory That  Learns
+- [stanfordnlp/dspy](../repos/stanfordnlp/dspy.md) - DSPy: The framework for programming—not prompting—language models
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.663Z*
+*Last updated: 2026-08-09T21:01:52.302Z*

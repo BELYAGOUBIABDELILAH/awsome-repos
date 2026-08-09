@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 95
+- **Total Repositories**: 100
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,269 | 2026-08-01 | 4 |
+| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,556 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,484 | 2026-08-01 | 3 |
+| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,288 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/guava](../repos/google/guava.md) | ⭐ 51,836 | 2026-08-02 | 5 |
+| [Creators-of-Create/Create](../repos/Creators-of-Create/Create.md) | ⭐ 4,424 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,111 | 2026-08-03 | 4 |
+| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | ⭐ 2,432 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 4,958 | 2026-08-05 | 2 |
+| [google/guava](../repos/google/guava.md) | ⭐ 51,889 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,618 | 2026-08-06 | 3 |
+| [shmykelsa/AAAD](../repos/shmykelsa/AAAD.md) | ⭐ 2,841 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mininglamp-OSS/octo-android](../repos/Mininglamp-OSS/octo-android.md) | ⭐ 427 | 2026-08-07 | 2 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,145 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,190 | 2026-08-08 | 1 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 14,160 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,183 | 2026-08-08 | 1 |
+| [CaffeineMC/sodium](../repos/CaffeineMC/sodium.md) | ⭐ 5,712 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anddea/revanced-patches](../repos/anddea/revanced-patches.md) | ⭐ 1,819 | 2026-08-08 | 1 |
+| [checkstyle/checkstyle](../repos/checkstyle/checkstyle.md) | ⭐ 8,991 | 2026-08-09 | 1 |
 
 
 ---
@@ -92,22 +92,22 @@
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,282 | 2026-08-04 | 3 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,789 | 2026-08-02 | 4 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,111 | 2026-08-03 | 4 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,145 | 2026-08-03 | 5 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,110 | 2026-08-04 | 3 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,190 | 2026-08-08 | 1 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,183 | 2026-08-08 | 1 |
-| [google/guava](../repos/google/guava.md) | ⭐ 51,836 | 2026-08-02 | 5 |
+| [google/guava](../repos/google/guava.md) | ⭐ 51,889 | 2026-08-02 | 6 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,341 | 2026-08-04 | 3 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,318 | 2026-08-07 | 1 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,325 | 2026-08-05 | 2 |
-| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,218 | 2026-08-02 | 1 |
+| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,288 | 2026-08-02 | 2 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,618 | 2026-08-06 | 3 |
 | [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,425 | 2026-08-08 | 1 |
+| [conductor-oss/conductor](../repos/conductor-oss/conductor.md) | ⭐ 32,066 | 2026-08-09 | 1 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 31,740 | 2026-08-04 | 1 |
 | [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,431 | 2026-08-05 | 2 |
 | [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,650 | 2026-08-02 | 2 |
-| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,492 | 2026-08-02 | 2 |
-| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,253 | 2026-08-03 | 2 |
+| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,556 | 2026-08-02 | 3 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/guava](../repos/google/guava.md) | 5 | ⭐ 51,836 | 2026-08-02 | 2026-08-08 |
+| [google/guava](../repos/google/guava.md) | 6 | ⭐ 51,889 | 2026-08-02 | 2026-08-09 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 5 | ⭐ 72,145 | 2026-08-03 | 2026-08-09 |
 | [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | 4 | ⭐ 9,269 | 2026-08-01 | 2026-08-08 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 4 | ⭐ 77,789 | 2026-08-02 | 2026-08-06 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 4 | ⭐ 72,111 | 2026-08-03 | 2026-08-08 |
 | [github/copilot-sdk](../repos/github/copilot-sdk.md) | 3 | ⭐ 10,340 | 2026-08-01 | 2026-08-03 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 3 | ⭐ 13,484 | 2026-08-01 | 2026-08-08 |
 | [apache/maven](../repos/apache/maven.md) | 3 | ⭐ 5,302 | 2026-08-01 | 2026-08-04 |
 | [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | 3 | ⭐ 26,651 | 2026-08-01 | 2026-08-06 |
-| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | 3 | ⭐ 66,110 | 2026-08-04 | 2026-08-06 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 3 | ⭐ 51,341 | 2026-08-04 | 2026-08-07 |
+| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | 3 | ⭐ 28,556 | 2026-08-02 | 2026-08-09 |
+| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | 3 | ⭐ 2,432 | 2026-08-02 | 2026-08-09 |
 
 ---
 
@@ -225,7 +225,12 @@
 - [zalexdev/strykerapp](../repos/zalexdev/strykerapp.md) - Magic tool for pentest from your android device!
 - [booklore-app/booklore](../repos/booklore-app/booklore.md) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOR...
 - [apache/fluss](../repos/apache/fluss.md) - Apache Fluss is a streaming storage built for real-time analytics.
+- [CaffeineMC/sodium](../repos/CaffeineMC/sodium.md) - A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates...
+- [checkstyle/checkstyle](../repos/checkstyle/checkstyle.md) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding sta...
+- [conductor-oss/conductor](../repos/conductor-oss/conductor.md) - Conductor is an event driven agentic workflow engine providing durable and highly resilient execu...
+- [languagetool-org/languagetool](../repos/languagetool-org/languagetool.md) - Style and Grammar Checker for 25+ Languages
+- [navinreddy20/Javacode](../repos/navinreddy20/Javacode.md) - 
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.647Z*
+*Last updated: 2026-08-09T21:01:52.284Z*

@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 166
+- **Total Repositories**: 172
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-08-07
-- **Average Stars**: 26011
+- **Average Stars**: 25610
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | C# |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,830 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,399 | Scala |  |
+| [IntersectMBO/ouroboros-consensus](../repos/IntersectMBO/ouroboros-consensus.md) | ⭐ 67 | Haskell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,236 | Scala |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,628 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,823 | Scala |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,162 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [digital-asset/daml](../repos/digital-asset/daml.md) | ⭐ 912 | Haskell |  |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,117 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,617 | Clojure |  |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,502 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,155 | OCaml |  |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,265 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [zml/zml](../repos/zml/zml.md) | ⭐ 3,969 | Zig |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 40,745 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,743 | Vim Script |  |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,054 | Solidity |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,053 | Solidity |  |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,210 | Solidity |  |
 
 
 ---
@@ -55,12 +55,12 @@
 |------------|-------|----------|------------|---------------|
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | Python | 2026-08-03 | 5 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | Python | 2026-08-01 | 6 |
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,441 | Python | 2026-08-06 | 3 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,458 | Python | 2026-08-06 | 4 |
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,252 | Dart | 2026-08-01 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 163,335 | TypeScript | 2026-08-07 | 2 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,581 | JavaScript | 2026-08-06 | 1 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,217 | C | 2026-08-07 | 2 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 124,644 | Python | 2026-08-05 | 2 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,302 | C | 2026-08-07 | 3 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 125,406 | Python | 2026-08-05 | 3 |
 | [microsoft/generative-ai-for-beginners](../repos/microsoft/generative-ai-for-beginners.md) | ⭐ 116,215 | Jupyter Notebook | 2026-08-02 | 3 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,950 | TypeScript | 2026-08-04 | 2 |
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-09](../archive/2026/08/2026-08-09.md)
+- 33 repositories trending
+- Top: Significant-Gravitas&#x2F;AutoGPT
+
 ### [2026-08-08](../archive/2026/08/2026-08-08.md)
 - 34 repositories trending
 - Top: Significant-Gravitas&#x2F;AutoGPT
@@ -162,10 +166,6 @@
 - 45 repositories trending
 - Top: donnemartin&#x2F;system-design-primer
 
-### [2026-08-02](../archive/2026/08/2026-08-02.md)
-- 42 repositories trending
-- Top: NousResearch&#x2F;hermes-agent
-
 
 ---
 
@@ -175,30 +175,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 8 days | 2026-08-01 | 2026-08-08 |
+| [apache/spark](../repos/apache/spark.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [vim/vim](../repos/vim/vim.md) | 8 days | 2026-08-01 | 2026-08-09 |
+| [nullclaw/nullhub](../repos/nullclaw/nullhub.md) | 8 days | 2026-08-02 | 2026-08-09 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 7 days | 2026-08-01 | 2026-08-08 |
-| [vim/vim](../repos/vim/vim.md) | 7 days | 2026-08-01 | 2026-08-08 |
-| [nullclaw/nullhub](../repos/nullclaw/nullhub.md) | 7 days | 2026-08-02 | 2026-08-08 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 6 days | 2026-08-01 | 2026-08-06 |
+| [frappe/crm](../repos/frappe/crm.md) | 7 days | 2026-08-01 | 2026-08-09 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 18 repositories (11%)
-- **C**: 18 repositories (11%)
-- **TypeScript**: 16 repositories (10%)
-- **Rust**: 10 repositories (6%)
-- **Go**: 8 repositories (5%)
+- **C**: 20 repositories (12%)
+- **Python**: 19 repositories (11%)
+- **TypeScript**: 16 repositories (9%)
+- **Rust**: 11 repositories (6%)
+- **C++**: 9 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 38.2 repositories
+- **Daily Average**: 37.7 repositories
 - **Peak Day**: 2026-08-06 (58 repositories)
 - **Growth Rate**: 100% this month
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.485Z*
+*Last updated: 2026-08-09T21:01:52.141Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Common Lisp |
 | **License** | ISC |
-| **Stars** | ⭐ 3,475 |
-| **Forks** | 🍴 226 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 3,478 |
+| **Forks** | 🍴 227 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 5, 2026 |
+| **Last Seen** | Aug 9, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 3 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 60&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-08T21:01:55.558Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-09T21:01:54.283Z*  
+*Data from 4 trending reports*

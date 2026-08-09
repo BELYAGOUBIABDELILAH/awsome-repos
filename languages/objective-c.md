@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 58
+- **Total Repositories**: 61
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-08
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,445 | 2026-08-01 | 3 |
+| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,704 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,827 | 2026-08-01 | 4 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,926 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 5 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 667 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 6 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 486 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 5 |
+| [mixpanel/mixpanel-iphone](../repos/mixpanel/mixpanel-iphone.md) | ⭐ 1,065 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,072 | 2026-08-01 | 4 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,210 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | 2026-08-01 | 5 |
+| [roothide/Bootstrap](../repos/roothide/Bootstrap.md) | ⭐ 1,692 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,412 | 2026-08-02 | 2 |
+| [kif-framework/KIF](../repos/kif-framework/KIF.md) | ⭐ 6,244 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,899 | 2026-08-04 | 2 |
+| [Mininglamp-OSS/octo-ios](../repos/Mininglamp-OSS/octo-ios.md) | ⭐ 484 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,615 | 2026-08-04 | 4 |
+| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,090 | 2026-08-07 | 3 |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,412 | 2026-08-02 | 2 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | 2026-08-01 | 5 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,870 | 2026-08-02 | 2 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,926 | 2026-08-02 | 3 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,615 | 2026-08-04 | 4 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,935 | 2026-08-04 | 4 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,899 | 2026-08-04 | 2 |
@@ -100,7 +100,7 @@
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,071 | 2026-08-02 | 1 |
 | [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 12,942 | 2026-08-03 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,453 | 2026-08-06 | 1 |
-| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,089 | 2026-08-07 | 2 |
+| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,090 | 2026-08-07 | 3 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,016 | 2026-08-02 | 3 |
 | [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) | ⭐ 10,646 | 2026-08-06 | 1 |
 | [facebookincubator/SocketRocket](../repos/facebookincubator/SocketRocket.md) | ⭐ 9,616 | 2026-08-08 | 1 |
@@ -188,7 +188,10 @@
 - [facebookincubator/SocketRocket](../repos/facebookincubator/SocketRocket.md) - A conforming Objective-C WebSocket client library.
 - [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) - iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [muxinc/mux-stats-sdk-avplayer](../repos/muxinc/mux-stats-sdk-avplayer.md) - Mux integration with &#x60;AVPlayer&#x60; for native iOS, tvOS, and visionOS applications
+- [roothide/Developer](../repos/roothide/Developer.md) - document for tweak Developers
+- [rollbar/rollbar-apple](../repos/rollbar/rollbar-apple.md) - Objective-C &amp; Swift library for remote crash, exception, error reporting, and logging with Rollba...
+- [alexzielenski/Mousecape](../repos/alexzielenski/Mousecape.md) - Cursor Manager for OSX
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.658Z*
+*Last updated: 2026-08-09T21:01:52.297Z*

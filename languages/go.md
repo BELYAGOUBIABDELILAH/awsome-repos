@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 92
+- **Total Repositories**: 98
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-09
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,688 | 2026-08-01 | 2 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,134 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 36,837 | 2026-08-03 | 2 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 1,180 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/osv-scanner](../repos/google/osv-scanner.md) | ⭐ 10,784 | 2026-08-06 | 3 |
+| [chenyme/grok2api](../repos/chenyme/grok2api.md) | ⭐ 7,237 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chenyme/grok2api](../repos/chenyme/grok2api.md) | ⭐ 7,214 | 2026-08-06 | 3 |
+| [sysadminsmedia/homebox](../repos/sysadminsmedia/homebox.md) | ⭐ 6,823 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 36,323 | 2026-08-07 | 2 |
+| [beclab/Olares](../repos/beclab/Olares.md) | ⭐ 5,197 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [containers/kubernetes-mcp-server](../repos/containers/kubernetes-mcp-server.md) | ⭐ 1,912 | 2026-08-07 | 2 |
+| [charmbracelet/crush](../repos/charmbracelet/crush.md) | ⭐ 27,212 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sysadminsmedia/homebox](../repos/sysadminsmedia/homebox.md) | ⭐ 6,763 | 2026-08-08 | 1 |
+| [aceberg/WatchYourLAN](../repos/aceberg/WatchYourLAN.md) | ⭐ 7,486 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [beclab/Olares](../repos/beclab/Olares.md) | ⭐ 5,184 | 2026-08-08 | 1 |
+| [mubeng/mubeng](../repos/mubeng/mubeng.md) | ⭐ 2,388 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pocket-id/pocket-id](../repos/pocket-id/pocket-id.md) | ⭐ 8,744 | 2026-08-08 | 1 |
+| [XIU2/CloudflareSpeedTest](../repos/XIU2/CloudflareSpeedTest.md) | ⭐ 28,382 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alexballas/go2tv](../repos/alexballas/go2tv.md) | ⭐ 1,030 | 2026-08-08 | 1 |
+| [rorkai/App-Store-Connect-CLI](../repos/rorkai/App-Store-Connect-CLI.md) | ⭐ 5,662 | 2026-08-09 | 1 |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 177,455 | 2026-08-01 | 1 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,134 | 2026-08-01 | 2 |
 | [golang/go](../repos/golang/go.md) | ⭐ 135,645 | 2026-07-31 | 3 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,235 | 2026-08-04 | 1 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,298 | 2026-08-03 | 1 |
@@ -120,11 +120,11 @@
 | [github/gh-stack](../repos/github/gh-stack.md) | 4 | ⭐ 1,047 | 2026-08-01 | 2026-08-04 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 4 | ⭐ 37,295 | 2026-08-01 | 2026-08-07 |
 | [superplanehq/superplane](../repos/superplanehq/superplane.md) | 4 | ⭐ 4,685 | 2026-08-02 | 2026-08-05 |
+| [chenyme/grok2api](../repos/chenyme/grok2api.md) | 4 | ⭐ 7,237 | 2026-08-06 | 2026-08-09 |
 | [golang/go](../repos/golang/go.md) | 3 | ⭐ 135,645 | 2026-07-31 | 2026-08-05 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 3 | ⭐ 1,180 | 2026-08-02 | 2026-08-09 |
 | [gastownhall/beads](../repos/gastownhall/beads.md) | 3 | ⭐ 26,092 | 2026-08-04 | 2026-08-06 |
 | [google/osv-scanner](../repos/google/osv-scanner.md) | 3 | ⭐ 10,784 | 2026-08-06 | 2026-08-08 |
-| [chenyme/grok2api](../repos/chenyme/grok2api.md) | 3 | ⭐ 7,214 | 2026-08-06 | 2026-08-08 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 2 | ⭐ 44,688 | 2026-08-01 | 2026-08-08 |
 
 ---
 
@@ -222,7 +222,13 @@
 - [anchore/grype](../repos/anchore/grype.md) - A vulnerability scanner for container images and filesystems
 - [kubernetes-sigs/kueue](../repos/kubernetes-sigs/kueue.md) - Kubernetes-native Job Queueing
 - [containerd/containerd](../repos/containerd/containerd.md) - An open and reliable container runtime
+- [aceberg/WatchYourLAN](../repos/aceberg/WatchYourLAN.md) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
+- [mubeng/mubeng](../repos/mubeng/mubeng.md) - An incredibly fast proxy checker &amp; IP rotator with ease.
+- [XIU2/CloudflareSpeedTest](../repos/XIU2/CloudflareSpeedTest.md) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN &#x2F; 多个解析 IP 的网站 ~
+- [rorkai/App-Store-Connect-CLI](../repos/rorkai/App-Store-Connect-CLI.md) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, sig...
+- [OpenListTeam/OpenList](../repos/OpenListTeam/OpenList.md) - A new AList Fork to Anti Trust Crisis
+- [grafana/loki](../repos/grafana/loki.md) - Like Prometheus, but for logs.
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.642Z*
+*Last updated: 2026-08-09T21:01:52.280Z*

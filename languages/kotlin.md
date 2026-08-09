@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 67
+- **Total Repositories**: 71
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-03
+- **Last Updated**: 2026-08-09
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,668 | 2026-08-01 | 7 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,697 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,817 | 2026-08-02 | 3 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 4,056 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bmax121/APatch](../repos/bmax121/APatch.md) | ⭐ 7,775 | 2026-08-02 | 2 |
+| [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) | ⭐ 1,509 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/android](../repos/nextcloud/android.md) | ⭐ 5,496 | 2026-08-02 | 2 |
+| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | ⭐ 1,626 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 10,951 | 2026-08-02 | 2 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,130 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailscale/tailscale-android](../repos/tailscale/tailscale-android.md) | ⭐ 2,381 | 2026-08-02 | 2 |
+| [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,182 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,190 | 2026-08-05 | 2 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,145 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 49,854 | 2026-08-06 | 3 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,602 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KotatsuApp/Kotatsu](../repos/KotatsuApp/Kotatsu.md) | ⭐ 8,797 | 2026-08-06 | 2 |
+| [EchoMusicApp/Echo-Music](../repos/EchoMusicApp/Echo-Music.md) | ⭐ 3,313 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,556 | 2026-08-08 | 1 |
+| [google/private-compute-services](../repos/google/private-compute-services.md) | ⭐ 827 | 2026-08-09 | 1 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,668 | 2026-08-01 | Free and open source manga reader for Android |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,697 | 2026-08-01 | Free and open source manga reader for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 136 | 2026-08-01 | Android app for BYD DiLink 5.0: real consumption from BMS, GPS trips, charges journal, automation... |
@@ -88,15 +88,15 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,020 | 2026-08-03 | 1 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,130 | 2026-08-03 | 2 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,817 | 2026-08-02 | 3 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,317 | 2026-08-04 | 3 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 49,854 | 2026-08-06 | 3 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,145 | 2026-08-06 | 4 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 40,633 | 2026-08-03 | 1 |
-| [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,164 | 2026-08-05 | 2 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,556 | 2026-08-08 | 1 |
+| [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,182 | 2026-08-05 | 3 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,602 | 2026-08-08 | 2 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,355 | 2026-08-05 | 2 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,668 | 2026-08-01 | 7 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,697 | 2026-08-01 | 8 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,198 | 2026-08-02 | 2 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,633 | 2026-08-01 | 2 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,190 | 2026-08-02 | 1 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 7 | ⭐ 22,668 | 2026-08-01 | 2026-08-08 |
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 5 | ⭐ 4,011 | 2026-08-02 | 2026-08-07 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 8 | ⭐ 22,697 | 2026-08-01 | 2026-08-09 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 6 | ⭐ 4,056 | 2026-08-02 | 2026-08-09 |
+| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | 4 | ⭐ 1,626 | 2026-08-03 | 2026-08-09 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 4 | ⭐ 50,145 | 2026-08-06 | 2026-08-09 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 3 | ⭐ 60,817 | 2026-08-02 | 2026-08-08 |
 | [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | 3 | ⭐ 603 | 2026-08-02 | 2026-08-04 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 3 | ⭐ 2,060 | 2026-08-02 | 2026-08-04 |
-| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | 3 | ⭐ 1,619 | 2026-08-03 | 2026-08-07 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | 3 | ⭐ 53,317 | 2026-08-04 | 2026-08-06 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 3 | ⭐ 49,854 | 2026-08-06 | 2026-08-08 |
+| [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | 3 | ⭐ 29,182 | 2026-08-05 | 2026-08-09 |
 | [Fate-Grand-Automata/FGA](../repos/Fate-Grand-Automata/FGA.md) | 2 | ⭐ 2,277 | 2026-08-01 | 2026-08-03 |
-| [android/nowinandroid](../repos/android/nowinandroid.md) | 2 | ⭐ 21,633 | 2026-08-01 | 2026-08-06 |
 
 ---
 
@@ -197,7 +197,11 @@
 - [WinNative-Emu/WinNative](../repos/WinNative-Emu/WinNative.md) - An Android app for playing Windows games from Steam, Epic Games, GOG, and more on your device.
 - [Kyant0/AndroidLiquidGlass](../repos/Kyant0/AndroidLiquidGlass.md) - Compose Multiplatform Liquid Glass effect
 - [newo-ether/Agora](../repos/newo-ether/Agora.md) - Android BYOK LLM client with multi-provider access, agentic workflows, and remote device control.
+- [EchoMusicApp/Echo-Music](../repos/EchoMusicApp/Echo-Music.md) - A modern Android music app with ad-free streaming, synced lyrics, offline playback, and an intuit...
+- [google/private-compute-services](../repos/google/private-compute-services.md) - 
+- [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) - An advanced Kernel based root solution for Android
+- [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) - Kernel-based Android Root Solution &amp; KPM
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.652Z*
+*Last updated: 2026-08-09T21:01:52.289Z*

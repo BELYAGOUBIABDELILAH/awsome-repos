@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Perl |
 | **License** | MIT |
-| **Stars** | ⭐ 2,550 |
+| **Stars** | ⭐ 2,556 |
 | **Forks** | 🍴 162 |
-| **Trending Days** | 6 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 6, 2026 |
+| **Last Seen** | Aug 9, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 6 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-08T21:01:54.899Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-08-09T21:01:53.645Z*  
+*Data from 7 trending reports*

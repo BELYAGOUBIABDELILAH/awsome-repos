@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 53
+- **Total Repositories**: 54
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-07
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,378 | 2026-08-01 | 6 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,386 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,400 | 2026-08-02 | 4 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,417 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | ⭐ 1,992 | 2026-08-02 | 5 |
+| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,531 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,246 | 2026-08-04 | 3 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,590 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,583 | 2026-08-05 | 3 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,802 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [1N3/Sn1per](../repos/1N3/Sn1per.md) | ⭐ 10,738 | 2026-08-06 | 2 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,389 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,791 | 2026-08-06 | 2 |
+| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,537 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,382 | 2026-08-07 | 2 |
+| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,075 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,684 | 2026-08-08 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,536 | 2026-08-08 | 1 |
+| [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) | ⭐ 4,588 | 2026-08-09 | 1 |
 
 
 ---
@@ -55,7 +52,7 @@
 | [HQarroum/docker-android](../repos/HQarroum/docker-android.md) | ⭐ 7,174 | 2026-08-01 | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,378 | 2026-08-01 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,386 | 2026-08-01 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [The01Geek/prflow](../repos/The01Geek/prflow.md) | ⭐ 112 | 2026-08-01 | Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and... |
@@ -79,7 +76,7 @@
 | [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,642 | 2026-08-01 | Универсальный менеджер для обхода блокировок на OpenWrt |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,400 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,417 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
 
 
 ---
@@ -89,19 +86,19 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,386 | 2026-08-07 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,378 | 2026-08-01 | 6 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,386 | 2026-08-01 | 7 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,093 | 2026-08-04 | 1 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,791 | 2026-08-06 | 2 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,802 | 2026-08-06 | 3 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,419 | 2026-08-04 | 2 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,246 | 2026-08-04 | 3 |
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,400 | 2026-08-02 | 4 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,417 | 2026-08-02 | 5 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,626 | 2026-08-07 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,684 | 2026-08-08 | 1 |
 | [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,366 | 2026-08-07 | 1 |
-| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,491 | 2026-08-04 | 1 |
+| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,531 | 2026-08-04 | 2 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,065 | 2026-08-04 | 2 |
 | [1N3/Sn1per](../repos/1N3/Sn1per.md) | ⭐ 10,738 | 2026-08-06 | 2 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,715 | 2026-08-07 | 1 |
@@ -115,16 +112,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 6 | ⭐ 94,378 | 2026-08-01 | 2026-08-08 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 7 | ⭐ 94,386 | 2026-08-01 | 2026-08-09 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 5 | ⭐ 24,417 | 2026-08-02 | 2026-08-09 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 5 | ⭐ 1,992 | 2026-08-02 | 2026-08-08 |
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 4 | ⭐ 24,400 | 2026-08-02 | 2026-08-08 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | 4 | ⭐ 2,590 | 2026-08-05 | 2026-08-09 |
 | [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | 3 | ⭐ 2,851 | 2026-08-01 | 2026-08-07 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 3 | ⭐ 3,992 | 2026-08-01 | 2026-08-07 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 3 | ⭐ 25,246 | 2026-08-04 | 2026-08-08 |
-| [cloudflare/skills](../repos/cloudflare/skills.md) | 3 | ⭐ 2,583 | 2026-08-05 | 2026-08-08 |
+| [dockur/windows](../repos/dockur/windows.md) | 3 | ⭐ 52,802 | 2026-08-06 | 2026-08-09 |
+| [expo/skills](../repos/expo/skills.md) | 3 | ⭐ 2,389 | 2026-08-07 | 2026-08-09 |
 | [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | 2 | ⭐ 5,800 | 2026-08-02 | 2026-08-03 |
-| [tracelabs/tlosint-vm](../repos/tracelabs/tlosint-vm.md) | 2 | ⭐ 1,057 | 2026-08-02 | 2026-08-03 |
-| [openshift/release](../repos/openshift/release.md) | 2 | ⭐ 325 | 2026-08-04 | 2026-08-05 |
 
 ---
 
@@ -183,7 +180,8 @@
 - [RROrg/rr](../repos/RROrg/rr.md) - Redpill Recovery (arpl-i18n)
 - [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) - Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3
 - [testdouble/han](../repos/testdouble/han.md) - Han: AI skills and agents for &quot;Solo&quot; product engineers and small teams
+- [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.671Z*
+*Last updated: 2026-08-09T21:01:52.310Z*

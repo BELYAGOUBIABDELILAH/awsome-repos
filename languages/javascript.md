@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 49
+- **Total Repositories**: 52
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 84,463 | 2026-08-05 | 4 |
+| [4ian/GDevelop](../repos/4ian/GDevelop.md) | ⭐ 25,489 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,519 | 2026-08-06 | 3 |
+| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 10,939 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 1,094 | 2026-08-07 | 2 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 85,054 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lackeyjb/playwright-skill](../repos/lackeyjb/playwright-skill.md) | ⭐ 2,997 | 2026-08-08 | 1 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,599 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,206 | 2026-08-08 | 1 |
+| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 1,112 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,522 | 2026-08-08 | 1 |
+| [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wwebjs/whatsapp-web.js](../repos/wwebjs/whatsapp-web.js.md) | ⭐ 22,367 | 2026-08-08 | 1 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 25,952 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 25,875 | 2026-08-08 | 1 |
+| [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) | ⭐ 8,455 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenSenseNova/SenseNova-Skills](../repos/OpenSenseNova/SenseNova-Skills.md) | ⭐ 4,942 | 2026-08-08 | 1 |
+| [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [open-telemetry/opentelemetry.io](../repos/open-telemetry/opentelemetry.io.md) | ⭐ 945 | 2026-08-09 | 1 |
 
 
 ---
@@ -92,19 +95,19 @@
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 84,463 | 2026-08-05 | 4 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 85,054 | 2026-08-05 | 5 |
+| [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,767 | 2026-08-01 | 4 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 56,691 | 2026-08-05 | 2 |
-| [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,522 | 2026-08-08 | 1 |
+| [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,206 | 2026-08-08 | 1 |
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,519 | 2026-08-06 | 3 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,599 | 2026-08-06 | 4 |
 | [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | ⭐ 31,602 | 2026-08-02 | 2 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 31,280 | 2026-08-02 | 2 |
 | [greensock/GSAP](../repos/greensock/GSAP.md) | ⭐ 27,405 | 2026-08-04 | 1 |
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 25,875 | 2026-08-08 | 1 |
-| [4ian/GDevelop](../repos/4ian/GDevelop.md) | ⭐ 25,324 | 2026-08-03 | 1 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 25,952 | 2026-08-08 | 2 |
 
 ---
 
@@ -113,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [vercel/next.js](../repos/vercel/next.js.md) | 6 | ⭐ 141,656 | 2026-07-30 | 2026-08-06 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 5 | ⭐ 85,054 | 2026-08-05 | 2026-08-09 |
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 4 | ⭐ 6,998 | 2026-08-01 | 2026-08-04 |
 | [byoungd/up](../repos/byoungd/up.md) | 4 | ⭐ 57,767 | 2026-08-01 | 2026-08-07 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 4 | ⭐ 84,463 | 2026-08-05 | 2026-08-08 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 4 | ⭐ 38,599 | 2026-08-06 | 2026-08-09 |
 | [facebook/react](../repos/facebook/react.md) | 3 | ⭐ 219,500 | 2026-07-30 | 2026-08-05 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 3 | ⭐ 9,868 | 2026-08-01 | 2026-08-07 |
 | [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | 3 | ⭐ 7,624 | 2026-08-02 | 2026-08-04 |
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 3 | ⭐ 38,519 | 2026-08-06 | 2026-08-08 |
-| [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | 2 | ⭐ 31,602 | 2026-08-02 | 2026-08-03 |
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 2 | ⭐ 31,280 | 2026-08-02 | 2026-08-04 |
+| [is-a-dev/register](../repos/is-a-dev/register.md) | 3 | ⭐ 10,939 | 2026-08-03 | 2026-08-09 |
+| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 3 | ⭐ 1,112 | 2026-08-07 | 2026-08-09 |
 
 ---
 
@@ -176,7 +179,10 @@
 - [wwebjs/whatsapp-web.js](../repos/wwebjs/whatsapp-web.js.md) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) - Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation stu...
 - [OpenSenseNova/SenseNova-Skills](../repos/OpenSenseNova/SenseNova-Skills.md) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
+- [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Dro...
+- [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) - The iconic SVG, font, and CSS toolkit
+- [open-telemetry/opentelemetry.io](../repos/open-telemetry/opentelemetry.io.md) - The OpenTelemetry website and documentation
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.648Z*
+*Last updated: 2026-08-09T21:01:52.286Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 69
+- **Total Repositories**: 78
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-05
 
@@ -16,25 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GCWing/BitFun](../repos/GCWing/BitFun.md) | ⭐ 1,608 | 2026-08-06 | 3 |
+| [microsoft/mxc](../repos/microsoft/mxc.md) | ⭐ 1,212 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [denoland/celld](../repos/denoland/celld.md) | ⭐ 2,515 | 2026-08-07 | 2 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,428 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloud-hypervisor/cloud-hypervisor](../repos/cloud-hypervisor/cloud-hypervisor.md) | ⭐ 6,074 | 2026-08-07 | 2 |
+| [denoland/celld](../repos/denoland/celld.md) | ⭐ 2,858 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 4,218 | 2026-08-08 | 1 |
+| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 4,266 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rivet-dev/rivet](../repos/rivet-dev/rivet.md) | ⭐ 5,958 | 2026-08-08 | 1 |
+| [rivet-dev/rivet](../repos/rivet-dev/rivet.md) | ⭐ 5,974 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iii-hq/iii](../repos/iii-hq/iii.md) | ⭐ 18,577 | 2026-08-08 | 1 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 89,087 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ClementTsang/bottom](../repos/ClementTsang/bottom.md) | ⭐ 13,861 | 2026-08-08 | 1 |
+| [lancedb/lancedb](../repos/lancedb/lancedb.md) | ⭐ 11,103 | 2026-08-09 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [surrealdb/surrealdb](../repos/surrealdb/surrealdb.md) | ⭐ 32,857 | 2026-08-09 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [RustPython/RustPython](../repos/RustPython/RustPython.md) | ⭐ 22,260 | 2026-08-09 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [lanyeeee/bilibili-video-downloader](../repos/lanyeeee/bilibili-video-downloader.md) | ⭐ 1,815 | 2026-08-09 | 1 |
 
 
 ---
@@ -82,23 +91,23 @@
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,277 | 2026-07-30 | 5 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,046 | 2026-07-30 | 2 |
 | [openai/codex](../repos/openai/codex.md) | ⭐ 104,649 | 2026-08-01 | 3 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 89,087 | 2026-08-09 | 1 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | 2026-07-31 | 2 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,406 | 2026-08-05 | 2 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,428 | 2026-08-05 | 3 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,163 | 2026-08-02 | 2 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,155 | 2026-08-02 | 1 |
 | [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,268 | 2026-08-05 | 1 |
 | [zellij-org/zellij](../repos/zellij-org/zellij.md) | ⭐ 34,708 | 2026-08-04 | 1 |
+| [surrealdb/surrealdb](../repos/surrealdb/surrealdb.md) | ⭐ 32,857 | 2026-08-09 | 1 |
 | [zeroclaw-labs/zeroclaw](../repos/zeroclaw-labs/zeroclaw.md) | ⭐ 32,484 | 2026-08-02 | 1 |
 | [vercel/turborepo](../repos/vercel/turborepo.md) | ⭐ 30,836 | 2026-08-02 | 1 |
+| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 30,823 | 2026-08-09 | 1 |
 | [googleworkspace/cli](../repos/googleworkspace/cli.md) | ⭐ 30,115 | 2026-08-01 | 1 |
 | [emilk/egui](../repos/emilk/egui.md) | ⭐ 29,942 | 2026-08-02 | 1 |
 | [ankitects/anki](../repos/ankitects/anki.md) | ⭐ 29,506 | 2026-08-02 | 2 |
 | [wezterm/wezterm](../repos/wezterm/wezterm.md) | ⭐ 28,114 | 2026-08-02 | 1 |
-| [cloudflare/pingora](../repos/cloudflare/pingora.md) | ⭐ 27,151 | 2026-08-07 | 1 |
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 25,251 | 2026-08-03 | 1 |
-| [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 24,959 | 2026-08-01 | 1 |
 
 ---
 
@@ -115,7 +124,7 @@
 | [openai/codex](../repos/openai/codex.md) | 3 | ⭐ 104,649 | 2026-08-01 | 2026-08-07 |
 | [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | 3 | ⭐ 13,424 | 2026-08-02 | 2026-08-04 |
 | [n0-computer/iroh](../repos/n0-computer/iroh.md) | 3 | ⭐ 12,067 | 2026-08-02 | 2026-08-04 |
-| [GCWing/BitFun](../repos/GCWing/BitFun.md) | 3 | ⭐ 1,608 | 2026-08-06 | 2026-08-08 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | 3 | ⭐ 43,428 | 2026-08-05 | 2026-08-09 |
 
 ---
 
@@ -190,7 +199,16 @@
 - [rivet-dev/rivet](../repos/rivet-dev/rivet.md) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, a...
 - [iii-hq/iii](../repos/iii-hq/iii.md) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [ClementTsang/bottom](../repos/ClementTsang/bottom.md) - Yet another cross-platform graphical process&#x2F;system monitor.
+- [ruvnet/RuView](../repos/ruvnet/RuView.md) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,...
+- [lancedb/lancedb](../repos/lancedb/lancedb.md) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
+- [surrealdb/surrealdb](../repos/surrealdb/surrealdb.md) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+- [RustPython/RustPython](../repos/RustPython/RustPython.md) - A Python Interpreter written in Rust
+- [lanyeeee/bilibili-video-downloader](../repos/lanyeeee/bilibili-video-downloader.md) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
+- [louis-e/arnis](../repos/louis-e/arnis.md) - Generate any location from the real world in Minecraft with a high level of detail.
+- [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) - Empowering everyone to host fast and efficient Minecraft servers.
+- [rustfs/rustfs](../repos/rustfs/rustfs.md) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-pe...
+- [Kuberwastaken/claurst](../repos/Kuberwastaken/claurst.md) - Agentic Coding for Builders who Ship
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.668Z*
+*Last updated: 2026-08-09T21:01:52.307Z*

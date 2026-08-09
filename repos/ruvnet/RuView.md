@@ -1,0 +1,95 @@
+# ruvnet&#x2F;RuView
+
+> π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;ruvnet&#x2F;RuView) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | Rust |
+| **License** | MIT |
+| **Stars** | ⭐ 89,087 |
+| **Forks** | 🍴 11,866 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Aug 9, 2026 |
+| **Last Seen** | Aug 9, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in Rust or awesome*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`awesome`](../../topics/awesome.md) [`claude`](../../topics/claude.md) [`densepose`](../../topics/densepose.md) [`esp32`](../../topics/esp32.md) [`firmware`](../../topics/firmware.md) [`home-assistant`](../../topics/home-assistant.md) [`home-automation`](../../topics/home-automation.md) [`iot`](../../topics/iot.md) [`monitoring`](../../topics/monitoring.md) [`networking`](../../topics/networking.md) [`npm`](../../topics/npm.md) [`pose-estimation`](../../topics/pose-estimation.md) [`react`](../../topics/react.md) [`rf`](../../topics/rf.md) [`self-learning`](../../topics/self-learning.md) [`skills`](../../topics/skills.md) [`spatial-intelligence`](../../topics/spatial-intelligence.md) [`typescript`](../../topics/typescript.md) [`wifi`](../../topics/wifi.md) [`wifi-security`](../../topics/wifi-security.md) 
+
+### Curated Categories
+`Large Language Models` `Web Development` `DevOps &amp; CI&#x2F;CD` `Cybersecurity` `Systems Programming` `Automation` `Internet of Things` `Education &amp; Learning` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Advanced | Requires systems programming knowledge |
+| **Documentation** | Good | Well-maintained documentation |
+| **Community** | Active | Regular contributions and discussions |
+| **Maturity** | Stable | Established project |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Hard | Requires domain expertise |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in Rust
+
+#### Metrics
+- **Hidden Gem**: ✗ No
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-08-09T21:01:55.024Z*  
+*Data from 1 trending reports*

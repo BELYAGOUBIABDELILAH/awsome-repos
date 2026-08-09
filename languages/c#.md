@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 71
+- **Total Repositories**: 75
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-08
+- **Last Updated**: 2026-08-09
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | 2026-08-01 | 7 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,602 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,550 | 2026-08-01 | 5 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,476 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,406 | 2026-08-02 | 5 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 16,133 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 15,785 | 2026-08-02 | 3 |
+| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,863 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,430 | 2026-08-02 | 2 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,110 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,582 | 2026-08-02 | 4 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,165 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,075 | 2026-08-03 | 5 |
+| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | ⭐ 13,295 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | ⭐ 3,088 | 2026-08-04 | 4 |
+| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,488 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,213 | 2026-08-05 | 3 |
+| [btcpayserver/btcpayserver](../repos/btcpayserver/btcpayserver.md) | ⭐ 7,697 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | ⭐ 13,284 | 2026-08-05 | 4 |
+| [StartupHakk/OpenMonoAgent.ai](../repos/StartupHakk/OpenMonoAgent.ai.md) | ⭐ 1,734 | 2026-08-09 | 1 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,455 | 2026-08-01 | The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration w... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,592 | 2026-08-01 | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,602 | 2026-08-01 | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 10,741 | 2026-08-01 | A reference .NET application implementing an eCommerce site |
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,406 | 2026-08-02 | 5 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,476 | 2026-08-02 | 6 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,394 | 2026-08-02 | 3 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,758 | 2026-08-06 | 2 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,537 | 2026-08-01 | 2 |
@@ -100,12 +100,12 @@
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,810 | 2026-08-01 | 2 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,430 | 2026-08-02 | 2 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,292 | 2026-08-04 | 2 |
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,592 | 2026-08-01 | 2 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,602 | 2026-08-01 | 3 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,672 | 2026-08-01 | 1 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,163 | 2026-08-04 | 3 |
 | [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,187 | 2026-08-01 | 2 |
-| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,834 | 2026-08-02 | 2 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 15,785 | 2026-08-02 | 3 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 16,133 | 2026-08-02 | 4 |
+| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,863 | 2026-08-02 | 3 |
 | [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 14,989 | 2026-08-03 | 2 |
 | [dotnet/efcore](../repos/dotnet/efcore.md) | ⭐ 14,762 | 2026-08-04 | 1 |
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 7 | ⭐ 26,795 | 2026-08-01 | 2026-08-08 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 6 | ⭐ 113,476 | 2026-08-02 | 2026-08-09 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 6 | ⭐ 5,110 | 2026-08-03 | 2026-08-09 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 5 | ⭐ 3,550 | 2026-08-01 | 2026-08-08 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 5 | ⭐ 113,406 | 2026-08-02 | 2026-08-08 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 5 | ⭐ 5,075 | 2026-08-03 | 2026-08-08 |
+| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | 5 | ⭐ 13,295 | 2026-08-05 | 2026-08-09 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 4 | ⭐ 16,133 | 2026-08-02 | 2026-08-09 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 4 | ⭐ 14,582 | 2026-08-02 | 2026-08-08 |
 | [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | 4 | ⭐ 3,088 | 2026-08-04 | 2026-08-08 |
-| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | 4 | ⭐ 13,284 | 2026-08-05 | 2026-08-08 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | 3 | ⭐ 20,602 | 2026-08-01 | 2026-08-09 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 3 | ⭐ 38,354 | 2026-08-01 | 2026-08-04 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 3 | ⭐ 15,785 | 2026-08-02 | 2026-08-08 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 3 | ⭐ 55,394 | 2026-08-02 | 2026-08-04 |
 
 ---
 
@@ -201,7 +201,11 @@
 - [LorisYounger/VPet](../repos/LorisYounger/VPet.md) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 - [Goob-Station/Goob-Station](../repos/Goob-Station/Goob-Station.md) - We&#39;re not even close to &quot;Wizden, but random&quot; at this point. Super chud SS14 fork. By chuds, for c...
 - [dotnet/dotnet](../repos/dotnet/dotnet.md) - Home of .NET&#39;s Virtual Monolithic Repository which includes all the code needed to build the .NET...
+- [StartupHakk/OpenMonoAgent.ai](../repos/StartupHakk/OpenMonoAgent.ai.md) - (BETA) AI shouldn&#39;t have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it fro...
+- [UnigramDev/Unigram](../repos/UnigramDev/Unigram.md) - Telegram for Windows
+- [LibreHardwareMonitor/LibreHardwareMonitor](../repos/LibreHardwareMonitor/LibreHardwareMonitor.md) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, vol...
+- [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) - Unity &#x2F; XNA game patcher and plugin framework
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.621Z*
+*Last updated: 2026-08-09T21:01:52.259Z*

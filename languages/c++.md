@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 92
+- **Total Repositories**: 103
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-07
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 455 | 2026-08-01 | 2 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,209 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,703 | 2026-08-01 | 2 |
+| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,373 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [electron/electron](../repos/electron/electron.md) | ⭐ 122,394 | 2026-08-01 | 3 |
+| [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) | ⭐ 8,743 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 64,954 | 2026-08-05 | 3 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,111 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 21,310 | 2026-08-06 | 2 |
+| [openvinotoolkit/openvino](../repos/openvinotoolkit/openvino.md) | ⭐ 10,627 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/leveldb](../repos/google/leveldb.md) | ⭐ 39,306 | 2026-08-07 | 2 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,589 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openvinotoolkit/openvino](../repos/openvinotoolkit/openvino.md) | ⭐ 10,623 | 2026-08-07 | 2 |
+| [throneproj/Throne](../repos/throneproj/Throne.md) | ⭐ 6,709 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,577 | 2026-08-08 | 1 |
+| [notepad-plus-plus/notepad-plus-plus](../repos/notepad-plus-plus/notepad-plus-plus.md) | ⭐ 28,956 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [throneproj/Throne](../repos/throneproj/Throne.md) | ⭐ 6,692 | 2026-08-08 | 1 |
+| [bambulab/BambuStudio](../repos/bambulab/BambuStudio.md) | ⭐ 4,883 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/WSL](../repos/microsoft/WSL.md) | ⭐ 33,345 | 2026-08-08 | 1 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 39,934 | 2026-08-09 | 1 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,290 | 2026-08-01 | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,905 | 2026-08-01 | LLM inference in C&#x2F;C++ |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,209 | 2026-08-01 | LLM inference in C&#x2F;C++ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,150 | 2026-08-01 | Asio C++ Library |
@@ -90,24 +90,24 @@
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,905 | 2026-07-30 | 6 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,283 | 2026-08-04 | 1 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,905 | 2026-08-01 | 5 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,209 | 2026-08-01 | 6 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,394 | 2026-08-01 | 3 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,269 | 2026-08-01 | 5 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,505 | 2026-08-06 | 1 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,791 | 2026-08-02 | 3 |
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,577 | 2026-08-08 | 1 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,589 | 2026-08-08 | 2 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,703 | 2026-08-01 | 2 |
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 64,954 | 2026-08-05 | 3 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,111 | 2026-08-05 | 4 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,247 | 2026-08-02 | 2 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,681 | 2026-08-06 | 1 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 39,934 | 2026-08-09 | 1 |
+| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,373 | 2026-08-02 | 3 |
 | [google/leveldb](../repos/google/leveldb.md) | ⭐ 39,306 | 2026-08-07 | 2 |
-| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,226 | 2026-08-02 | 2 |
 | [google/googletest](../repos/google/googletest.md) | ⭐ 38,910 | 2026-08-04 | 4 |
 | [aseprite/aseprite](../repos/aseprite/aseprite.md) | ⭐ 38,585 | 2026-08-07 | 1 |
 | [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 37,757 | 2026-08-07 | 1 |
-| [carbon-language/carbon-lang](../repos/carbon-language/carbon-lang.md) | ⭐ 33,849 | 2026-08-04 | 1 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 6 | ⭐ 196,905 | 2026-07-30 | 2026-08-07 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 5 | ⭐ 122,905 | 2026-08-01 | 2026-08-06 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 6 | ⭐ 123,209 | 2026-08-01 | 2026-08-09 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 5 | ⭐ 115,269 | 2026-08-01 | 2026-08-06 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 4 | ⭐ 29,444 | 2026-08-01 | 2026-08-06 |
 | [google/googletest](../repos/google/googletest.md) | 4 | ⭐ 38,910 | 2026-08-04 | 2026-08-07 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 4 | ⭐ 65,111 | 2026-08-05 | 2026-08-09 |
 | [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | 3 | ⭐ 6,150 | 2026-08-01 | 2026-08-04 |
 | [electron/electron](../repos/electron/electron.md) | 3 | ⭐ 122,394 | 2026-08-01 | 2026-08-08 |
+| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | 3 | ⭐ 39,373 | 2026-08-02 | 2026-08-09 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | 3 | ⭐ 89,791 | 2026-08-02 | 2026-08-05 |
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 3 | ⭐ 28,733 | 2026-08-03 | 2026-08-07 |
-| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | 3 | ⭐ 830 | 2026-08-04 | 2026-08-06 |
 
 ---
 
@@ -222,7 +222,15 @@
 - [alibaba/MNN](../repos/alibaba/MNN.md) - MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-perform...
 - [notepad-plus-plus/notepad-plus-plus](../repos/notepad-plus-plus/notepad-plus-plus.md) - Notepad++ official repository
 - [google-ai-edge/LiteRT](../repos/google-ai-edge/LiteRT.md) - LiteRT, successor to TensorFlow Lite. is Google&#39;s On-device framework for high-performance ML &amp; G...
+- [bambulab/BambuStudio](../repos/bambulab/BambuStudio.md) - PC Software for BambuLab and other 3D printers
+- [microsoft/BitNet](../repos/microsoft/BitNet.md) - Official inference framework for 1-bit LLMs
+- [juce-framework/JUCE](../repos/juce-framework/JUCE.md) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applicatio...
+- [RPCS3/rpcs3](../repos/RPCS3/rpcs3.md) - PlayStation 3 emulator and debugger
+- [Tencent/ncnn](../repos/Tencent/ncnn.md) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
+- [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) - Distribute and run LLMs with a single file.
+- [YimMenu/YimMenuV2](../repos/YimMenu/YimMenuV2.md) - Experimental menu for GTA 5: Enhanced
+- [futo-org/android-keyboard](../repos/futo-org/android-keyboard.md) - Official FUTO Keyboard Issue Tracker and Source Mirror of https:&#x2F;&#x2F;gitlab.futo.org&#x2F;keyboard&#x2F;latinime
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.624Z*
+*Last updated: 2026-08-09T21:01:52.264Z*

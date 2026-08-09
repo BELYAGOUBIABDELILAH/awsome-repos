@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 60
+- **Total Repositories**: 64
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-08
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,207 | 2026-08-01 | 3 |
+| [PrestaShop/PrestaShop](../repos/PrestaShop/PrestaShop.md) | ⭐ 9,185 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laravel/lsp](../repos/laravel/lsp.md) | ⭐ 250 | 2026-08-01 | 2 |
+| [cedar2025/Xboard](../repos/cedar2025/Xboard.md) | ⭐ 4,628 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,042 | 2026-08-01 | 4 |
+| [ChurchCRM/CRM](../repos/ChurchCRM/CRM.md) | ⭐ 933 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WordPress/mcp-adapter](../repos/WordPress/mcp-adapter.md) | ⭐ 1,547 | 2026-08-01 | 3 |
+| [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,549 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,749 | 2026-08-01 | 3 |
+| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,003 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,119 | 2026-08-02 | 4 |
+| [laravel/boost](../repos/laravel/boost.md) | ⭐ 3,565 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensourcepos/opensourcepos](../repos/opensourcepos/opensourcepos.md) | ⭐ 4,337 | 2026-08-02 | 5 |
+| [espocrm/espocrm](../repos/espocrm/espocrm.md) | ⭐ 3,206 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 31,739 | 2026-08-02 | 3 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,247 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 15,720 | 2026-08-02 | 3 |
+| [investbrainapp/investbrain](../repos/investbrainapp/investbrain.md) | ⭐ 920 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,363 | 2026-08-02 | 5 |
+| [googleapis/google-api-php-client](../repos/googleapis/google-api-php-client.md) | ⭐ 9,805 | 2026-08-09 | 1 |
 
 
 ---
@@ -93,21 +93,21 @@
 | [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 31,739 | 2026-08-02 | 3 |
 | [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,119 | 2026-08-02 | 4 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 27,923 | 2026-08-01 | 3 |
-| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 24,980 | 2026-08-04 | 4 |
+| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,003 | 2026-08-04 | 5 |
 | [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 23,643 | 2026-08-07 | 1 |
 | [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,276 | 2026-08-01 | 2 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,749 | 2026-08-01 | 3 |
 | [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,582 | 2026-08-04 | 3 |
 | [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 15,720 | 2026-08-02 | 3 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,738 | 2026-08-01 | 2 |
-| [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,545 | 2026-08-04 | 1 |
+| [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,549 | 2026-08-04 | 2 |
 | [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 12,878 | 2026-08-05 | 1 |
+| [SpartnerNL/Laravel-Excel](../repos/SpartnerNL/Laravel-Excel.md) | ⭐ 12,699 | 2026-08-09 | 1 |
 | [typecho/typecho](../repos/typecho/typecho.md) | ⭐ 12,417 | 2026-08-02 | 1 |
 | [magento/magento2](../repos/magento/magento2.md) | ⭐ 12,165 | 2026-08-04 | 4 |
 | [pestphp/pest](../repos/pestphp/pest.md) | ⭐ 11,614 | 2026-08-01 | 1 |
 | [woocommerce/woocommerce](../repos/woocommerce/woocommerce.md) | ⭐ 10,450 | 2026-08-06 | 2 |
-| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,042 | 2026-08-01 | 4 |
-| [invoiceninja/invoiceninja](../repos/invoiceninja/invoiceninja.md) | ⭐ 9,977 | 2026-08-06 | 1 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,247 | 2026-08-09 | 1 |
 
 ---
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [opensourcepos/opensourcepos](../repos/opensourcepos/opensourcepos.md) | 5 | ⭐ 4,337 | 2026-08-02 | 2026-08-08 |
 | [nextcloud/server](../repos/nextcloud/server.md) | 5 | ⭐ 36,363 | 2026-08-02 | 2026-08-08 |
+| [monicahq/monica](../repos/monicahq/monica.md) | 5 | ⭐ 25,003 | 2026-08-04 | 2026-08-09 |
 | [akaunting/akaunting](../repos/akaunting/akaunting.md) | 4 | ⭐ 10,042 | 2026-08-01 | 2026-08-08 |
+| [PrestaShop/PrestaShop](../repos/PrestaShop/PrestaShop.md) | 4 | ⭐ 9,185 | 2026-08-01 | 2026-08-09 |
 | [symfony/symfony](../repos/symfony/symfony.md) | 4 | ⭐ 31,119 | 2026-08-02 | 2026-08-08 |
-| [monicahq/monica](../repos/monicahq/monica.md) | 4 | ⭐ 24,980 | 2026-08-04 | 2026-08-07 |
+| [cedar2025/Xboard](../repos/cedar2025/Xboard.md) | 4 | ⭐ 4,628 | 2026-08-02 | 2026-08-09 |
 | [magento/magento2](../repos/magento/magento2.md) | 4 | ⭐ 12,165 | 2026-08-04 | 2026-08-07 |
+| [laravel/boost](../repos/laravel/boost.md) | 4 | ⭐ 3,565 | 2026-08-06 | 2026-08-09 |
 | [laravel/framework](../repos/laravel/framework.md) | 3 | ⭐ 34,850 | 2026-08-01 | 2026-08-05 |
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | 3 | ⭐ 6,207 | 2026-08-01 | 2026-08-08 |
-| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 3 | ⭐ 3,396 | 2026-08-01 | 2026-08-04 |
-| [WordPress/mcp-adapter](../repos/WordPress/mcp-adapter.md) | 3 | ⭐ 1,547 | 2026-08-01 | 2026-08-08 |
 
 ---
 
@@ -190,7 +190,11 @@
 - [elabftw/elabftw](../repos/elabftw/elabftw.md) - :notebook: eLabFTW is the most popular open source electronic lab notebook for research labs.
 - [TYPO3/typo3](../repos/TYPO3/typo3.md) - The TYPO3 Core - Enterprise Content Management System. Synchronized mirror of https:&#x2F;&#x2F;review.typo...
 - [pimcore/pimcore](../repos/pimcore/pimcore.md) - Core Framework for the Open Core Data &amp; Experience Management Platform (PIM, MDM, CDP, DAM, DXP&#x2F;C...
+- [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most...
+- [investbrainapp/investbrain](../repos/investbrainapp/investbrain.md) - Smart LLM-enabled investment tracker that consolidates and monitors market performance across you...
+- [googleapis/google-api-php-client](../repos/googleapis/google-api-php-client.md) - A PHP client library for accessing Google APIs
+- [SpartnerNL/Laravel-Excel](../repos/SpartnerNL/Laravel-Excel.md) - 🚀 Supercharged Excel exports and imports in Laravel
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.659Z*
+*Last updated: 2026-08-09T21:01:52.298Z*

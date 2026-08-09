@@ -8,14 +8,16 @@
 
 - **Total Repositories**: 1
 - **First Seen**: 2026-08-02
-- **Last Updated**: 2026-08-06
+- **Last Updated**: 2026-08-09
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [altercation/vim-colors-solarized](../repos/altercation/vim-colors-solarized.md) | ⭐ 6,593 | 2026-08-02 | 5 |
 
-*No VimL repositories trending today*
 
 ---
 
@@ -32,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [altercation/vim-colors-solarized](../repos/altercation/vim-colors-solarized.md) | ⭐ 6,593 | 2026-08-02 | 4 |
+| [altercation/vim-colors-solarized](../repos/altercation/vim-colors-solarized.md) | ⭐ 6,593 | 2026-08-02 | 5 |
 
 ---
 
@@ -40,7 +42,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [altercation/vim-colors-solarized](../repos/altercation/vim-colors-solarized.md) | 4 | ⭐ 6,593 | 2026-08-02 | 2026-08-06 |
+| [altercation/vim-colors-solarized](../repos/altercation/vim-colors-solarized.md) | 5 | ⭐ 6,593 | 2026-08-02 | 2026-08-09 |
 
 ---
 
@@ -50,4 +52,4 @@
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.680Z*
+*Last updated: 2026-08-09T21:01:52.319Z*

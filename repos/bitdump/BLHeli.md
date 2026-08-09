@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Assembly |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 2,224 |
+| **Stars** | ⭐ 2,225 |
 | **Forks** | 🍴 1,146 |
-| **Trending Days** | 6 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 8, 2026 |
+| **Last Seen** | Aug 9, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
-- **Longest Streak**: 4 days
+- **Trending Days**: 7
+- **Longest Streak**: 5 days
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 2,224+ stars, strong contributor base |
+| **Community** | Very Active | 2,225+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Inactive | No recent updates |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-08T21:01:55.017Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-08-09T21:01:53.743Z*  
+*Data from 7 trending reports*

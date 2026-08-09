@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 78
+- **Total Repositories**: 85
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-08
+- **Last Updated**: 2026-08-09
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 65,443 | 2026-08-01 | 4 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,540 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,910 | 2026-08-01 | 2 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,774 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,444 | 2026-08-02 | 2 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,462 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vedderb/bldc](../repos/vedderb/bldc.md) | ⭐ 3,338 | 2026-08-05 | 2 |
+| [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) | ⭐ 619 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [timescale/timescaledb](../repos/timescale/timescaledb.md) | ⭐ 23,260 | 2026-08-07 | 2 |
+| [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) | ⭐ 16,451 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,217 | 2026-08-07 | 2 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,302 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 5,740 | 2026-08-08 | 1 |
+| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 5,839 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EpicGames/raddebugger](../repos/EpicGames/raddebugger.md) | ⭐ 7,338 | 2026-08-08 | 1 |
+| [acidanthera/OpenCorePkg](../repos/acidanthera/OpenCorePkg.md) | ⭐ 15,341 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acidanthera/OpenCorePkg](../repos/acidanthera/OpenCorePkg.md) | ⭐ 15,335 | 2026-08-08 | 1 |
+| [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 26,835 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qualcomm-linux/kernel](../repos/qualcomm-linux/kernel.md) | ⭐ 29 | 2026-08-08 | 1 |
+| [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,220 | 2026-08-08 | 2 |
 
 
 ---
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,217 | 2026-08-07 | 2 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,302 | 2026-08-07 | 3 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,460 | 2026-08-01 | 2 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 75,874 | 2026-08-04 | 1 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,591 | 2026-08-02 | 3 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,774 | 2026-08-02 | 4 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 65,443 | 2026-08-01 | 4 |
 | [git/git](../repos/git/git.md) | ⭐ 62,438 | 2026-08-05 | 2 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,280 | 2026-08-01 | 2 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 38,043 | 2026-08-07 | 1 |
-| [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,203 | 2026-08-08 | 1 |
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,444 | 2026-08-02 | 2 |
+| [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,220 | 2026-08-08 | 2 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,462 | 2026-08-02 | 3 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,391 | 2026-08-04 | 1 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,347 | 2026-08-03 | 2 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 31,813 | 2026-08-01 | 1 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,313 | 2026-08-02 | 1 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 27,922 | 2026-08-09 | 1 |
 | [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,527 | 2026-08-07 | 1 |
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,057 | 2026-08-01 | 1 |
-| [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 26,823 | 2026-08-08 | 1 |
+| [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 26,835 | 2026-08-08 | 2 |
 | [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 26,488 | 2026-08-06 | 1 |
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 25,867 | 2026-08-02 | 3 |
-| [taosdata/TDengine](../repos/taosdata/TDengine.md) | ⭐ 25,039 | 2026-08-08 | 1 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 4 | ⭐ 65,443 | 2026-08-01 | 2026-08-08 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 4 | ⭐ 74,774 | 2026-08-02 | 2026-08-09 |
 | [HarbourMasters/Lighthouse](../repos/HarbourMasters/Lighthouse.md) | 3 | ⭐ 307 | 2026-08-02 | 2026-08-04 |
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | 3 | ⭐ 25,867 | 2026-08-02 | 2026-08-04 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 3 | ⭐ 74,591 | 2026-08-02 | 2026-08-05 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | 3 | ⭐ 36,462 | 2026-08-02 | 2026-08-09 |
+| [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) | 3 | ⭐ 619 | 2026-08-02 | 2026-08-09 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 3 | ⭐ 6,859 | 2026-08-04 | 2026-08-07 |
 | [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 3 | ⭐ 4,400 | 2026-08-04 | 2026-08-07 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 3 | ⭐ 147,302 | 2026-08-07 | 2026-08-09 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 2 | ⭐ 137,460 | 2026-08-01 | 2026-08-04 |
-| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | 2 | ⭐ 12,910 | 2026-08-01 | 2026-08-08 |
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | 2 | ⭐ 8,013 | 2026-08-01 | 2026-08-06 |
-| [glfw/glfw](../repos/glfw/glfw.md) | 2 | ⭐ 15,229 | 2026-08-01 | 2026-08-04 |
 
 ---
 
@@ -208,7 +208,14 @@
 - [tianocore/edk2](../repos/tianocore/edk2.md) - EDK II
 - [valkey-io/valkey](../repos/valkey-io/valkey.md) - A flexible distributed key-value database that is optimized for caching and other realtime worklo...
 - [pbatard/rufus](../repos/pbatard/rufus.md) - The Reliable USB Formatting Utility
+- [veracrypt/VeraCrypt](../repos/veracrypt/VeraCrypt.md) - Disk encryption with strong security based on TrueCrypt
+- [openwrt/openwrt](../repos/openwrt/openwrt.md) - This repository is a mirror of https:&#x2F;&#x2F;git.openwrt.org&#x2F;openwrt&#x2F;openwrt.git It is for reference on...
+- [86Box/86Box](../repos/86Box/86Box.md) - Emulator of x86-based machines.
+- [FWGS/xash3d-fwgs](../repos/FWGS/xash3d-fwgs.md) - Xash3D FWGS engine
+- [arendst/Tasmota](../repos/arendst/Tasmota.md) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA...
+- [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader/sumatrapdf.md) - SumatraPDF reader
+- [libusb/libusb](../repos/libusb/libusb.md) - A cross-platform library to access USB devices 
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.619Z*
+*Last updated: 2026-08-09T21:01:52.256Z*

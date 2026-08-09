@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | Other |
-| **Stars** | ⭐ 31,942 |
-| **Forks** | 🍴 2,918 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 31,986 |
+| **Forks** | 🍴 2,923 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 7, 2026 |
+| **Last Seen** | Aug 9, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 4 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-08T21:01:55.241Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-08-09T21:01:53.968Z*  
+*Data from 6 trending reports*

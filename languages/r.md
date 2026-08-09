@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 14
+- **Total Repositories**: 15
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-07
 
@@ -16,22 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,578 | 2026-08-01 | 5 |
+| [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 466 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 645 | 2026-08-01 | 6 |
+| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,907 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,783 | 2026-08-01 | 6 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 375 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 374 | 2026-08-08 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,054 | 2026-08-08 | 1 |
+| [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 151 | 2026-08-09 | 1 |
 
 
 ---
@@ -55,13 +49,13 @@
 | [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,673 | 2026-08-02 | Easy interactive web applications with R |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 460 | 2026-08-03 | A collection of Claude Skills from Posit |
+| [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 466 | 2026-08-03 | A collection of Claude Skills from Posit |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,055 | 2026-08-04 | dplyr: A grammar of data manipulation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,904 | 2026-08-04 | R&#39;s data.table package extends data.frame: |
+| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,907 | 2026-08-04 | R&#39;s data.table package extends data.frame: |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,980 | 2026-08-04 | An implementation of the Grammar of Graphics in R |
@@ -81,15 +75,16 @@
 | [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,127 | 2026-08-04 | 2 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,055 | 2026-08-04 | 3 |
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,578 | 2026-08-01 | 5 |
-| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,904 | 2026-08-04 | 1 |
+| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,907 | 2026-08-04 | 2 |
 | [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,054 | 2026-08-08 | 1 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,783 | 2026-08-01 | 6 |
 | [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,440 | 2026-08-04 | 2 |
 | [rstudio/renv](../repos/rstudio/renv.md) | ⭐ 1,160 | 2026-08-06 | 1 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 7 |
 | [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 645 | 2026-08-01 | 6 |
-| [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 460 | 2026-08-03 | 3 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 374 | 2026-08-08 | 1 |
+| [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 466 | 2026-08-03 | 4 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 375 | 2026-08-08 | 2 |
+| [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 151 | 2026-08-09 | 1 |
 
 ---
 
@@ -102,11 +97,11 @@
 | [satijalab/seurat](../repos/satijalab/seurat.md) | 6 | ⭐ 2,783 | 2026-08-01 | 2026-08-08 |
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 5 | ⭐ 4,578 | 2026-08-01 | 2026-08-08 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | 4 | ⭐ 5,673 | 2026-08-02 | 2026-08-05 |
+| [posit-dev/skills](../repos/posit-dev/skills.md) | 4 | ⭐ 466 | 2026-08-03 | 2026-08-09 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 4 | ⭐ 6,980 | 2026-08-04 | 2026-08-07 |
-| [posit-dev/skills](../repos/posit-dev/skills.md) | 3 | ⭐ 460 | 2026-08-03 | 2026-08-06 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 3 | ⭐ 5,055 | 2026-08-04 | 2026-08-06 |
+| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 2 | ⭐ 3,907 | 2026-08-04 | 2026-08-09 |
 | [hadley/r4ds](../repos/hadley/r4ds.md) | 2 | ⭐ 5,127 | 2026-08-04 | 2026-08-05 |
-| [r-spatial/sf](../repos/r-spatial/sf.md) | 2 | ⭐ 1,440 | 2026-08-04 | 2026-08-05 |
 
 ---
 
@@ -126,7 +121,8 @@
 - [rstudio/renv](../repos/rstudio/renv.md) - renv: Project environments for R.
 - [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) - Automated nflverse data repository
 - [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) - Dynamic Documents for R
+- [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) - Tree-sitter grammar for R
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.664Z*
+*Last updated: 2026-08-09T21:01:52.303Z*

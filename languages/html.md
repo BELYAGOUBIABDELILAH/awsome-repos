@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 36
+- **Total Repositories**: 37
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,25 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,014 | 2026-08-01 | 3 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,680 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,025 | 2026-08-03 | 2 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 10,882 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 10,579 | 2026-08-04 | 5 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,389 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,513 | 2026-08-04 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [DefectDojo/django-DefectDojo](../repos/DefectDojo/django-DefectDojo.md) | ⭐ 4,884 | 2026-08-04 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,077 | 2026-08-05 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,328 | 2026-08-08 | 1 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,588 | 2026-08-09 | 1 |
 
 
 ---
@@ -49,7 +40,7 @@
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,616 | 2026-08-01 | A collection of several hundred online tools for OSINT |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,666 | 2026-08-01 | :blue_book: Home Assistant User documentation |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,680 | 2026-08-01 | :blue_book: Home Assistant User documentation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 7,627 | 2026-08-01 | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional... |
@@ -80,10 +71,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 207,704 | 2026-08-03 | 2 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,328 | 2026-08-08 | 1 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,389 | 2026-08-08 | 2 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,093 | 2026-08-01 | 2 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,014 | 2026-08-01 | 3 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,483 | 2026-08-07 | 1 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,588 | 2026-08-09 | 1 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,025 | 2026-08-03 | 2 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,513 | 2026-08-04 | 3 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,307 | 2026-08-03 | 1 |
@@ -93,12 +85,11 @@
 | [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,264 | 2026-08-05 | 1 |
 | [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,067 | 2026-08-07 | 1 |
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 11,860 | 2026-08-01 | 1 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 10,882 | 2026-08-04 | 6 |
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,757 | 2026-08-01 | 2 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 10,579 | 2026-08-04 | 5 |
 | [cotes2020/jekyll-theme-chirpy](../repos/cotes2020/jekyll-theme-chirpy.md) | ⭐ 10,206 | 2026-08-05 | 1 |
 | [tpn/pdfs](../repos/tpn/pdfs.md) | ⭐ 10,075 | 2026-08-07 | 1 |
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,666 | 2026-08-01 | 3 |
-| [whatwg/html](../repos/whatwg/html.md) | ⭐ 9,346 | 2026-08-05 | 1 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,680 | 2026-08-01 | 4 |
 
 ---
 
@@ -106,8 +97,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 5 | ⭐ 10,579 | 2026-08-04 | 2026-08-08 |
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 3 | ⭐ 9,666 | 2026-08-01 | 2026-08-05 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 6 | ⭐ 10,882 | 2026-08-04 | 2026-08-09 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 4 | ⭐ 9,680 | 2026-08-01 | 2026-08-09 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | 3 | ⭐ 46,014 | 2026-08-01 | 2026-08-08 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 3 | ⭐ 23,513 | 2026-08-04 | 2026-08-08 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 3 | ⭐ 16,415 | 2026-08-04 | 2026-08-07 |
@@ -157,7 +148,8 @@
 - [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) - Turn any webpage&#x2F;HTML&#x2F;Vue&#x2F;React and so on into desktop and mobile app under 5M with easy in few m...
 - [google/styleguide](../repos/google/styleguide.md) - Style guides for Google-originated open-source projects
 - [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Fin...
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.645Z*
+*Last updated: 2026-08-09T21:01:52.282Z*

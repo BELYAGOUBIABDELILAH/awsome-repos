@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 29
+- **Total Repositories**: 30
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,25 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,162 | 2026-08-01 | 4 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 12,997 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,328 | 2026-08-01 | 5 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,883 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,881 | 2026-08-01 | 3 |
+| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,015 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/work-iq](../repos/microsoft/work-iq.md) | ⭐ 964 | 2026-08-01 | 5 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,516 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 870 | 2026-08-01 | 5 |
+| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,517 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,038 | 2026-08-03 | 5 |
+| [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,822 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoftgraph/microsoft-graph-docs-contrib](../repos/microsoftgraph/microsoft-graph-docs-contrib.md) | ⭐ 152 | 2026-08-05 | 2 |
+| [appveyor/ci](../repos/appveyor/ci.md) | ⭐ 340 | 2026-08-07 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
 
 
 ---
@@ -46,7 +49,7 @@
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 19,784 | 2026-08-01 | Reverse Engineering &#x2F; Authorized Penetration Testing &#x2F; Security Research Skill Router Pack AI-pow... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 12,993 | 2026-08-01 | GitHub Actions runner images |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 12,997 | 2026-08-01 | GitHub Actions runner images |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,162 | 2026-08-01 | game of active directory |
@@ -55,7 +58,7 @@
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,328 | 2026-08-01 | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,881 | 2026-08-01 | Automate the setup and configuration of your Windows development environment. |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,883 | 2026-08-01 | Automate the setup and configuration of your Windows development environment. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 423 | 2026-08-01 |  |
@@ -81,24 +84,24 @@
 |------------|-------|------------|---------------|
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,017 | 2026-08-02 | 2 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 19,784 | 2026-08-01 | 6 |
+| [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,089 | 2026-08-04 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 12,993 | 2026-08-01 | 7 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 12,997 | 2026-08-01 | 8 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,038 | 2026-08-03 | 5 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,919 | 2026-08-06 | 1 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,162 | 2026-08-01 | 4 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,594 | 2026-08-07 | 1 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,894 | 2026-08-01 | 2 |
-| [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,818 | 2026-08-04 | 1 |
-| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,517 | 2026-08-04 | 3 |
+| [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,822 | 2026-08-04 | 2 |
+| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,517 | 2026-08-04 | 4 |
 | [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,017 | 2026-08-07 | 1 |
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,003 | 2026-08-02 | 1 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,881 | 2026-08-01 | 3 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,509 | 2026-08-03 | 5 |
+| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,015 | 2026-08-02 | 2 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,883 | 2026-08-01 | 4 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,516 | 2026-08-03 | 6 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,426 | 2026-08-01 | 4 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,328 | 2026-08-01 | 5 |
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | ⭐ 964 | 2026-08-01 | 5 |
-| [microsoft/AL](../repos/microsoft/AL.md) | ⭐ 873 | 2026-08-01 | 2 |
 
 ---
 
@@ -106,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 7 | ⭐ 12,993 | 2026-08-01 | 2026-08-07 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 8 | ⭐ 12,997 | 2026-08-01 | 2026-08-09 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 6 | ⭐ 19,784 | 2026-08-01 | 2026-08-06 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 6 | ⭐ 1,516 | 2026-08-03 | 2026-08-09 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 5 | ⭐ 1,328 | 2026-08-01 | 2026-08-08 |
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | 5 | ⭐ 964 | 2026-08-01 | 2026-08-08 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 5 | ⭐ 870 | 2026-08-01 | 2026-08-08 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 5 | ⭐ 1,509 | 2026-08-03 | 2026-08-07 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | 5 | ⭐ 10,038 | 2026-08-03 | 2026-08-08 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 4 | ⭐ 8,162 | 2026-08-01 | 2026-08-08 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 4 | ⭐ 1,883 | 2026-08-01 | 2026-08-09 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 4 | ⭐ 1,426 | 2026-08-01 | 2026-08-07 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 3 | ⭐ 1,881 | 2026-08-01 | 2026-08-08 |
 
 ---
 
@@ -150,7 +153,8 @@
 - [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with...
 - [jenkinsci/docker](../repos/jenkinsci/docker.md) - Docker official jenkins repo
 - [appveyor/ci](../repos/appveyor/ci.md) - AppVeyor community support repository
+- [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) - Script to remove Windows 10 bloatware.
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.662Z*
+*Last updated: 2026-08-09T21:01:52.301Z*

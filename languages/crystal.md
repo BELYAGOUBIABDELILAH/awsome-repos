@@ -8,14 +8,19 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-07
+- **Last Updated**: 2026-08-09
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,533 | 2026-08-01 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,368 | 2026-08-06 | 2 |
 
-*No Crystal repositories trending today*
 
 ---
 
@@ -23,10 +28,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,440 | 2026-08-01 | Invidious is an alternative front-end to YouTube |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,533 | 2026-08-01 | Invidious is an alternative front-end to YouTube |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,367 | 2026-08-06 | Hunt every Endpoint in your code, expose Shadow APIs, map the Attack Surface. |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,368 | 2026-08-06 | Hunt every Endpoint in your code, expose Shadow APIs, map the Attack Surface. |
 
 
 ---
@@ -35,8 +40,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,440 | 2026-08-01 | 6 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,367 | 2026-08-06 | 1 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,533 | 2026-08-01 | 7 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,368 | 2026-08-06 | 2 |
 
 ---
 
@@ -44,8 +49,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | 6 | ⭐ 22,440 | 2026-08-01 | 2026-08-07 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 1 | ⭐ 1,367 | 2026-08-06 | 2026-08-06 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | 7 | ⭐ 22,533 | 2026-08-01 | 2026-08-09 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 2 | ⭐ 1,368 | 2026-08-06 | 2026-08-09 |
 
 ---
 
@@ -56,4 +61,4 @@
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.633Z*
+*Last updated: 2026-08-09T21:01:52.272Z*

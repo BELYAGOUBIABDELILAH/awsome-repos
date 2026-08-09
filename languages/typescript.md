@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 69
+- **Total Repositories**: 73
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,31 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 17,386 | 2026-08-01 | 2 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 17,604 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 23,000 | 2026-08-02 | 4 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 127,166 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/computer](../repos/cloudflare/computer.md) | ⭐ 6,515 | 2026-08-05 | 4 |
+| [cloudflare/computer](../repos/cloudflare/computer.md) | ⭐ 6,976 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 8,610 | 2026-08-07 | 2 |
+| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 10,816 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 18,103 | 2026-08-07 | 2 |
+| [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) | ⭐ 8,749 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 163,335 | 2026-08-07 | 2 |
+| [github/docs](../repos/github/docs.md) | ⭐ 20,635 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 40,079 | 2026-08-08 | 1 |
+| [browseros-ai/BrowserOS](../repos/browseros-ai/BrowserOS.md) | ⭐ 13,119 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [remnawave/panel](../repos/remnawave/panel.md) | ⭐ 4,804 | 2026-08-08 | 1 |
+| [yikart/AiToEarn](../repos/yikart/AiToEarn.md) | ⭐ 24,945 | 2026-08-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jordanrendric/claude-video-vision](../repos/jordanrendric/claude-video-vision.md) | ⭐ 1,163 | 2026-08-08 | 1 |
+| [Mininglamp-OSS/octo-web](../repos/Mininglamp-OSS/octo-web.md) | ⭐ 604 | 2026-08-09 | 1 |
 
 
 ---
@@ -89,7 +89,7 @@
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 163,335 | 2026-08-07 | 2 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 125,928 | 2026-08-02 | 1 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 127,166 | 2026-08-02 | 2 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,950 | 2026-08-04 | 2 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 96,831 | 2026-08-04 | 2 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
@@ -114,14 +114,14 @@
 |------------|---------------|-------|------------|-----------|
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
+| [cloudflare/computer](../repos/cloudflare/computer.md) | 5 | ⭐ 6,976 | 2026-08-05 | 2026-08-09 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 4 | ⭐ 23,000 | 2026-08-02 | 2026-08-08 |
-| [cloudflare/computer](../repos/cloudflare/computer.md) | 4 | ⭐ 6,515 | 2026-08-05 | 2026-08-08 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 3 | ⭐ 17,604 | 2026-08-01 | 2026-08-09 |
 | [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | 3 | ⭐ 49,131 | 2026-08-02 | 2026-08-04 |
+| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | 3 | ⭐ 10,816 | 2026-08-07 | 2026-08-09 |
 | [different-ai/openwork](../repos/different-ai/openwork.md) | 2 | ⭐ 20,293 | 2026-08-01 | 2026-08-02 |
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 2 | ⭐ 17,386 | 2026-08-01 | 2026-08-08 |
 | [actions/checkout](../repos/actions/checkout.md) | 2 | ⭐ 8,604 | 2026-08-02 | 2026-08-04 |
 | [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | 2 | ⭐ 34,225 | 2026-08-02 | 2026-08-03 |
-| [nrwl/nx](../repos/nrwl/nx.md) | 2 | ⭐ 29,196 | 2026-08-02 | 2026-08-04 |
 
 ---
 
@@ -196,7 +196,11 @@
 - [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) - Write HTML. Render video. Built for agents.
 - [remnawave/panel](../repos/remnawave/panel.md) - A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease ...
 - [jordanrendric/claude-video-vision](../repos/jordanrendric/claude-video-vision.md) - Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction...
+- [github/docs](../repos/github/docs.md) - The open-source repo for docs.github.com
+- [browseros-ai/BrowserOS](../repos/browseros-ai/BrowserOS.md) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [yikart/AiToEarn](../repos/yikart/AiToEarn.md) - Let&#39;s use AI to Earn!
+- [Mininglamp-OSS/octo-web](../repos/Mininglamp-OSS/octo-web.md) - Web &amp; desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shi...
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.675Z*
+*Last updated: 2026-08-09T21:01:52.314Z*

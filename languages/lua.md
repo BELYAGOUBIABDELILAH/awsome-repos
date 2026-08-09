@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 44
+- **Total Repositories**: 47
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-07
 
@@ -16,22 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Footagesus/WindUI](../repos/Footagesus/WindUI.md) | ⭐ 321 | 2026-08-02 | 3 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,862 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) | ⭐ 4,140 | 2026-08-03 | 2 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,337 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 18,715 | 2026-08-03 | 2 |
+| [overextended/ox_inventory](../repos/overextended/ox_inventory.md) | ⭐ 564 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | ⭐ 4,889 | 2026-08-04 | 3 |
+| [Footagesus/WindUI](../repos/Footagesus/WindUI.md) | ⭐ 323 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,113 | 2026-08-04 | 3 |
+| [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) | ⭐ 4,143 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 7,952 | 2026-08-08 | 1 |
+| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 18,728 | 2026-08-03 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,140 | 2026-08-04 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [overextended/ox_lib](../repos/overextended/ox_lib.md) | ⭐ 408 | 2026-08-09 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [miscusi-peek/cheatengine-mcp-bridge](../repos/miscusi-peek/cheatengine-mcp-bridge.md) | ⭐ 1,191 | 2026-08-09 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [PathOfBuildingCommunity/PathOfBuilding](../repos/PathOfBuildingCommunity/PathOfBuilding.md) | ⭐ 5,408 | 2026-08-09 | 1 |
 
 
 ---
@@ -40,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,787 | 2026-08-01 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cer... |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,862 | 2026-08-01 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cer... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/apisix](../repos/apache/apisix.md) | ⭐ 16,954 | 2026-08-01 | The Cloud-Native API Gateway and AI Gateway |
@@ -67,7 +79,7 @@
 | [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 273 | 2026-08-01 | A beta Dota2 Bot Script aims to provide better bot game experience |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,312 | 2026-08-01 | 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 &#x2F; 11631066 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,337 | 2026-08-01 | 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 &#x2F; 11631066 |
 
 
 ---
@@ -78,14 +90,14 @@
 |------------|-------|------------|---------------|
 | [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,946 | 2026-08-01 | 5 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,224 | 2026-08-04 | 3 |
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,787 | 2026-08-01 | 5 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 28,862 | 2026-08-01 | 6 |
 | [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) | ⭐ 28,211 | 2026-08-01 | 1 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,113 | 2026-08-04 | 3 |
 | [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,381 | 2026-08-06 | 1 |
-| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 18,715 | 2026-08-03 | 2 |
+| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 18,728 | 2026-08-03 | 3 |
 | [yetone/avante.nvim](../repos/yetone/avante.nvim.md) | ⭐ 18,102 | 2026-08-03 | 2 |
 | [apache/apisix](../repos/apache/apisix.md) | ⭐ 16,954 | 2026-08-01 | 2 |
-| [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,129 | 2026-08-04 | 2 |
+| [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,140 | 2026-08-04 | 3 |
 | [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,425 | 2026-08-04 | 1 |
 | [nvim-tree/nvim-tree.lua](../repos/nvim-tree/nvim-tree.lua.md) | ⭐ 8,613 | 2026-08-05 | 1 |
 | [folke/tokyonight.nvim](../repos/folke/tokyonight.nvim.md) | ⭐ 8,161 | 2026-08-05 | 1 |
@@ -93,9 +105,9 @@
 | [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 7,952 | 2026-08-08 | 1 |
 | [awesomeWM/awesome](../repos/awesomeWM/awesome.md) | ⭐ 6,934 | 2026-08-04 | 1 |
 | [stevearc/oil.nvim](../repos/stevearc/oil.nvim.md) | ⭐ 6,808 | 2026-08-04 | 1 |
+| [PathOfBuildingCommunity/PathOfBuilding](../repos/PathOfBuildingCommunity/PathOfBuilding.md) | ⭐ 5,408 | 2026-08-09 | 1 |
 | [stevearc/conform.nvim](../repos/stevearc/conform.nvim.md) | ⭐ 5,284 | 2026-08-01 | 1 |
 | [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | ⭐ 4,889 | 2026-08-04 | 3 |
-| [ibhagwan/fzf-lua](../repos/ibhagwan/fzf-lua.md) | ⭐ 4,406 | 2026-08-06 | 2 |
 
 ---
 
@@ -103,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [koreader/koreader](../repos/koreader/koreader.md) | 5 | ⭐ 28,787 | 2026-08-01 | 2026-08-07 |
+| [koreader/koreader](../repos/koreader/koreader.md) | 6 | ⭐ 28,862 | 2026-08-01 | 2026-08-09 |
 | [Kong/kong](../repos/Kong/kong.md) | 5 | ⭐ 43,946 | 2026-08-01 | 2026-08-07 |
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | 3 | ⭐ 4,312 | 2026-08-01 | 2026-08-06 |
-| [Footagesus/WindUI](../repos/Footagesus/WindUI.md) | 3 | ⭐ 321 | 2026-08-02 | 2026-08-08 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | 4 | ⭐ 4,337 | 2026-08-01 | 2026-08-09 |
+| [Footagesus/WindUI](../repos/Footagesus/WindUI.md) | 4 | ⭐ 323 | 2026-08-02 | 2026-08-09 |
+| [overextended/ox_inventory](../repos/overextended/ox_inventory.md) | 3 | ⭐ 564 | 2026-08-02 | 2026-08-09 |
+| [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) | 3 | ⭐ 4,143 | 2026-08-03 | 2026-08-09 |
+| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 3 | ⭐ 18,728 | 2026-08-03 | 2026-08-09 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 3 | ⭐ 31,224 | 2026-08-04 | 2026-08-06 |
 | [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | 3 | ⭐ 4,889 | 2026-08-04 | 2026-08-08 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | 3 | ⭐ 27,113 | 2026-08-04 | 2026-08-08 |
-| [apache/apisix](../repos/apache/apisix.md) | 2 | ⭐ 16,954 | 2026-08-01 | 2026-08-04 |
-| [KristalTeam/Kristal](../repos/KristalTeam/Kristal.md) | 2 | ⭐ 299 | 2026-08-01 | 2026-08-02 |
-| [BeamMP/BeamMP](../repos/BeamMP/BeamMP.md) | 2 | ⭐ 504 | 2026-08-01 | 2026-08-03 |
 
 ---
 
@@ -162,7 +174,10 @@
 - [ibhagwan/fzf-lua](../repos/ibhagwan/fzf-lua.md) - Improved fzf.vim written in lua
 - [finlater/weread.koplugin](../repos/finlater/weread.koplugin.md) - 微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，并做到进度、阅读时长同步，阅读时间上报。
 - [folke/snacks.nvim](../repos/folke/snacks.nvim.md) - 🍿 A collection of QoL plugins for Neovim
+- [overextended/ox_lib](../repos/overextended/ox_lib.md) - A FiveM resource and script library for Lua and JS.
+- [miscusi-peek/cheatengine-mcp-bridge](../repos/miscusi-peek/cheatengine-mcp-bridge.md) - Connect Cursor, Copilot &amp; Claude AI directly to Cheat Engine via MCP. Automate reverse engineerin...
+- [PathOfBuildingCommunity/PathOfBuilding](../repos/PathOfBuildingCommunity/PathOfBuilding.md) - Offline build planner for Path of Exile.
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.653Z*
+*Last updated: 2026-08-09T21:01:52.291Z*

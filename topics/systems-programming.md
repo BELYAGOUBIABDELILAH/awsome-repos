@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 1060
+- **Total Repositories**: 1133
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 20718
+- **Average Stars**: 20178
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,688 | Go |  |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,602 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,269 | Java |  |
+| [PrestaShop/PrestaShop](../repos/PrestaShop/PrestaShop.md) | ⭐ 9,185 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,484 | Java |  |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,766 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,703 | C++ |  |
+| [spree/spree](../repos/spree/spree.md) | ⭐ 15,608 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [electron/electron](../repos/electron/electron.md) | ⭐ 122,394 | C++ |  |
+| [decidim/decidim](../repos/decidim/decidim.md) | ⭐ 1,802 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | C# |  |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,631 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,207 | PHP |  |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,042 | PHP |  |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,697 | Kotlin |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,749 | PHP |  |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 8,932 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 15,801 | Ruby |  |
+| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,581 | Scala |  |
 
 
 ---
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-09](../archive/2026/08/2026-08-09.md)
+- 254 repositories trending
+- Top: Significant-Gravitas&#x2F;AutoGPT
+
 ### [2026-08-08](../archive/2026/08/2026-08-08.md)
 - 247 repositories trending
 - Top: practical-tutorials&#x2F;project-based-learning
@@ -162,10 +166,6 @@
 - 273 repositories trending
 - Top: donnemartin&#x2F;system-design-primer
 
-### [2026-08-02](../archive/2026/08/2026-08-02.md)
-- 254 repositories trending
-- Top: codecrafters-io&#x2F;build-your-own-x
-
 
 ---
 
@@ -175,30 +175,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [apache/tvm-vta](../repos/apache/tvm-vta.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [apache/spark](../repos/apache/spark.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [sainnhe/everforest](../repos/sainnhe/everforest.md) | 8 days | 2026-08-01 | 2026-08-08 |
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 8 days | 2026-08-01 | 2026-08-08 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [apache/tvm-vta](../repos/apache/tvm-vta.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [apache/spark](../repos/apache/spark.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [vlang/v](../repos/vlang/v.md) | 9 days | 2026-08-01 | 2026-08-09 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 9 days | 2026-08-01 | 2026-08-09 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 78 repositories (7%)
-- **C++**: 67 repositories (6%)
-- **Java**: 63 repositories (6%)
-- **Python**: 58 repositories (5%)
-- **Rust**: 57 repositories (5%)
+- **Go**: 83 repositories (7%)
+- **C++**: 75 repositories (7%)
+- **Java**: 67 repositories (6%)
+- **Rust**: 66 repositories (6%)
+- **Python**: 61 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 202.9 repositories
+- **Daily Average**: 207.2 repositories
 - **Peak Day**: 2026-08-04 (333 repositories)
 - **Growth Rate**: 100% this month
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-08-08T21:01:53.518Z*
+*Last updated: 2026-08-09T21:01:52.163Z*
