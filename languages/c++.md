@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 103
+- **Total Repositories**: 109
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-07
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,209 | 2026-08-01 | 6 |
+| [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | ⭐ 15,658 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,373 | 2026-08-02 | 3 |
+| [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) | ⭐ 8,751 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) | ⭐ 8,743 | 2026-08-03 | 2 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,226 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,111 | 2026-08-05 | 4 |
+| [ml-explore/mlx](../repos/ml-explore/mlx.md) | ⭐ 27,899 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openvinotoolkit/openvino](../repos/openvinotoolkit/openvino.md) | ⭐ 10,627 | 2026-08-07 | 3 |
+| [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 37,789 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,589 | 2026-08-08 | 2 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 39,964 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [throneproj/Throne](../repos/throneproj/Throne.md) | ⭐ 6,709 | 2026-08-08 | 2 |
+| [juce-framework/JUCE](../repos/juce-framework/JUCE.md) | ⭐ 8,759 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [notepad-plus-plus/notepad-plus-plus](../repos/notepad-plus-plus/notepad-plus-plus.md) | ⭐ 28,956 | 2026-08-08 | 2 |
+| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 25,532 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bambulab/BambuStudio](../repos/bambulab/BambuStudio.md) | ⭐ 4,883 | 2026-08-09 | 1 |
+| [xbmc/xbmc](../repos/xbmc/xbmc.md) | ⭐ 21,076 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 39,934 | 2026-08-09 | 1 |
+| [tdlib/td](../repos/tdlib/td.md) | ⭐ 9,021 | 2026-08-10 | 1 |
 
 
 ---
@@ -97,17 +97,17 @@
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,791 | 2026-08-02 | 3 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,589 | 2026-08-08 | 2 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,703 | 2026-08-01 | 2 |
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,111 | 2026-08-05 | 4 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,226 | 2026-08-05 | 5 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,247 | 2026-08-02 | 2 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,681 | 2026-08-06 | 1 |
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 39,934 | 2026-08-09 | 1 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 39,964 | 2026-08-09 | 2 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,373 | 2026-08-02 | 3 |
 | [google/leveldb](../repos/google/leveldb.md) | ⭐ 39,306 | 2026-08-07 | 2 |
 | [google/googletest](../repos/google/googletest.md) | ⭐ 38,910 | 2026-08-04 | 4 |
 | [aseprite/aseprite](../repos/aseprite/aseprite.md) | ⭐ 38,585 | 2026-08-07 | 1 |
-| [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 37,757 | 2026-08-07 | 1 |
+| [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 37,789 | 2026-08-07 | 2 |
 
 ---
 
@@ -118,13 +118,13 @@
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 6 | ⭐ 196,905 | 2026-07-30 | 2026-08-07 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 6 | ⭐ 123,209 | 2026-08-01 | 2026-08-09 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 5 | ⭐ 115,269 | 2026-08-01 | 2026-08-06 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 5 | ⭐ 65,226 | 2026-08-05 | 2026-08-10 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 4 | ⭐ 29,444 | 2026-08-01 | 2026-08-06 |
 | [google/googletest](../repos/google/googletest.md) | 4 | ⭐ 38,910 | 2026-08-04 | 2026-08-07 |
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 4 | ⭐ 65,111 | 2026-08-05 | 2026-08-09 |
 | [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | 3 | ⭐ 6,150 | 2026-08-01 | 2026-08-04 |
 | [electron/electron](../repos/electron/electron.md) | 3 | ⭐ 122,394 | 2026-08-01 | 2026-08-08 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | 3 | ⭐ 39,373 | 2026-08-02 | 2026-08-09 |
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | 3 | ⭐ 89,791 | 2026-08-02 | 2026-08-05 |
+| [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | 3 | ⭐ 15,658 | 2026-08-02 | 2026-08-10 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.264Z*
+*Last updated: 2026-08-10T21:02:07.633Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 49
+- **Total Repositories**: 52
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,28 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,714 | 2026-08-01 | 5 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,905 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,829 | 2026-08-02 | 4 |
+| [rooootdev/lara](../repos/rooootdev/lara.md) | ⭐ 1,416 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rooootdev/lara](../repos/rooootdev/lara.md) | ⭐ 1,406 | 2026-08-03 | 2 |
+| [sozercan/kaset](../repos/sozercan/kaset.md) | ⭐ 1,904 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pluk-inc/markdown-preview](../repos/pluk-inc/markdown-preview.md) | ⭐ 1,889 | 2026-08-03 | 3 |
+| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,369 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sozercan/kaset](../repos/sozercan/kaset.md) | ⭐ 1,873 | 2026-08-04 | 2 |
+| [rime/squirrel](../repos/rime/squirrel.md) | ⭐ 6,238 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,234 | 2026-08-05 | 3 |
+| [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 707 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,372 | 2026-08-07 | 3 |
+| [LoopKit/Loop](../repos/LoopKit/Loop.md) | ⭐ 1,704 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rime/squirrel](../repos/rime/squirrel.md) | ⭐ 6,234 | 2026-08-09 | 1 |
+| [Starmel/OpenSuperWhisper](../repos/Starmel/OpenSuperWhisper.md) | ⭐ 2,554 | 2026-08-10 | 1 |
 
 
 ---
@@ -70,7 +70,7 @@
 | [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,313 | 2026-08-01 | 📸 Delightful Swift snapshot testing. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,792 | 2026-08-01 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agent... |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,905 | 2026-08-01 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agent... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 2,746 | 2026-08-01 | Feature-packed native macOS screenshot &amp; recording tool: annotate, auto-redact PII, record GIFs, ... |
@@ -86,7 +86,7 @@
 | [apple/container](../repos/apple/container.md) | ⭐ 48,766 | 2026-08-01 | 4 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,010 | 2026-08-04 | 2 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,810 | 2026-08-04 | 2 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,792 | 2026-08-01 | 4 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,905 | 2026-08-01 | 5 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,857 | 2026-08-04 | 3 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
@@ -110,15 +110,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 5 | ⭐ 10,714 | 2026-08-01 | 2026-08-09 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 5 | ⭐ 25,905 | 2026-08-01 | 2026-08-10 |
 | [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | 5 | ⭐ 2,415 | 2026-08-03 | 2026-08-08 |
 | [apple/container](../repos/apple/container.md) | 4 | ⭐ 48,766 | 2026-08-01 | 2026-08-08 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 4 | ⭐ 25,792 | 2026-08-01 | 2026-08-08 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | 4 | ⭐ 19,685 | 2026-08-01 | 2026-08-05 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 4 | ⭐ 8,829 | 2026-08-02 | 2026-08-09 |
+| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | 4 | ⭐ 2,369 | 2026-08-07 | 2026-08-10 |
+| [rooootdev/lara](../repos/rooootdev/lara.md) | 3 | ⭐ 1,416 | 2026-08-03 | 2026-08-10 |
 | [pluk-inc/markdown-preview](../repos/pluk-inc/markdown-preview.md) | 3 | ⭐ 1,889 | 2026-08-03 | 2026-08-09 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 3 | ⭐ 14,857 | 2026-08-04 | 2026-08-06 |
-| [swiftlang/swift](../repos/swiftlang/swift.md) | 3 | ⭐ 70,234 | 2026-08-05 | 2026-08-09 |
-| [h3nock/remux](../repos/h3nock/remux.md) | 3 | ⭐ 423 | 2026-08-06 | 2026-08-08 |
 
 ---
 
@@ -173,7 +173,10 @@
 - [apple/containerization](../repos/apple/containerization.md) - Containerization is a Swift package for running Linux containers on macOS.
 - [frankea/Whisky](../repos/frankea/Whisky.md) - Active community fork of the archived whisky-app&#x2F;whisky — a modern Wine wrapper for macOS built w...
 - [rime/squirrel](../repos/rime/squirrel.md) - 【鼠鬚管】Rime for macOS
+- [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) - Native GUI for Homebrew Casks
+- [LoopKit/Loop](../repos/LoopKit/Loop.md) - An automated insulin delivery app for iOS, built on LoopKit
+- [Starmel/OpenSuperWhisper](../repos/Starmel/OpenSuperWhisper.md) - macOS dictation app
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.312Z*
+*Last updated: 2026-08-10T21:02:07.684Z*

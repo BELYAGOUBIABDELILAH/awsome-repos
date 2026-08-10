@@ -16,22 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 436 | 2026-08-01 | 8 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 437 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,181 | 2026-08-01 | 5 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ESCOMP/CTSM](../repos/ESCOMP/CTSM.md) | ⭐ 353 | 2026-08-09 | 1 |
+| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 9 |
 
 
 ---
@@ -40,7 +31,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 436 | 2026-08-01 | Energy Exascale Earth System Model source code.  NOTE:  use &quot;maint&quot; branches for your work.  Head... |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 437 | 2026-08-01 | Energy Exascale Earth System Model source code.  NOTE:  use &quot;maint&quot; branches for your work.  Head... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | ⭐ 31 | 2026-08-01 | LFRic Applications |
@@ -82,13 +73,13 @@
 | [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,181 | 2026-08-01 | 5 |
 | [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 944 | 2026-08-01 | 5 |
 | [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 858 | 2026-08-01 | 3 |
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 436 | 2026-08-01 | 8 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 437 | 2026-08-01 | 9 |
 | [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 401 | 2026-08-03 | 1 |
 | [ESCOMP/CTSM](../repos/ESCOMP/CTSM.md) | ⭐ 353 | 2026-08-09 | 1 |
 | [MPAS-Dev/MPAS-Model](../repos/MPAS-Dev/MPAS-Model.md) | ⭐ 311 | 2026-08-07 | 1 |
 | [DSSAT/dssat-csm-os](../repos/DSSAT/dssat-csm-os.md) | ⭐ 227 | 2026-08-08 | 1 |
-| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 8 |
-| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 8 |
+| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 9 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 9 |
 | [ecmwf/fckit](../repos/ecmwf/fckit.md) | ⭐ 48 | 2026-08-02 | 3 |
 | [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | 6 |
 | [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | ⭐ 31 | 2026-08-01 | 5 |
@@ -101,9 +92,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 8 | ⭐ 436 | 2026-08-01 | 2026-08-09 |
-| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | 8 | ⭐ 54 | 2026-08-02 | 2026-08-09 |
-| [NGEET/fates](../repos/NGEET/fates.md) | 8 | ⭐ 130 | 2026-08-02 | 2026-08-09 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 9 | ⭐ 437 | 2026-08-01 | 2026-08-10 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | 9 | ⭐ 54 | 2026-08-02 | 2026-08-10 |
+| [NGEET/fates](../repos/NGEET/fates.md) | 9 | ⭐ 130 | 2026-08-02 | 2026-08-10 |
 | [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | 6 | ⭐ 26 | 2026-08-01 | 2026-08-08 |
 | [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | 6 | ⭐ 43 | 2026-08-01 | 2026-08-09 |
 | [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | 5 | ⭐ 31 | 2026-08-01 | 2026-08-08 |
@@ -137,4 +128,4 @@
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.278Z*
+*Last updated: 2026-08-10T21:02:07.651Z*

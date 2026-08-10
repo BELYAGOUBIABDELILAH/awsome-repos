@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 52
+- **Total Repositories**: 60
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [4ian/GDevelop](../repos/4ian/GDevelop.md) | ⭐ 25,489 | 2026-08-03 | 2 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 58,350 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 10,939 | 2026-08-03 | 3 |
+| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 5,595 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 85,054 | 2026-08-05 | 5 |
+| [4ian/GDevelop](../repos/4ian/GDevelop.md) | ⭐ 25,523 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,599 | 2026-08-06 | 4 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 85,690 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 1,112 | 2026-08-07 | 3 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,736 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 26,018 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 25,952 | 2026-08-08 | 2 |
+| [techjarves/Uncensored-Local-Studio](../repos/techjarves/Uncensored-Local-Studio.md) | ⭐ 889 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) | ⭐ 8,455 | 2026-08-09 | 1 |
+| [cobusgreyling/loop-engineering](../repos/cobusgreyling/loop-engineering.md) | ⭐ 10,126 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
+| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 6,397 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-telemetry/opentelemetry.io](../repos/open-telemetry/opentelemetry.io.md) | ⭐ 945 | 2026-08-09 | 1 |
+| [BeiDouMS/BeiDou-Server](../repos/BeiDouMS/BeiDou-Server.md) | ⭐ 618 | 2026-08-10 | 1 |
 
 
 ---
@@ -79,7 +79,7 @@
 | [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) | ⭐ 347 | 2026-08-01 | Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,767 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 58,350 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
 
 
 ---
@@ -95,19 +95,19 @@
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 85,054 | 2026-08-05 | 5 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 85,690 | 2026-08-05 | 6 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 57,767 | 2026-08-01 | 4 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 58,350 | 2026-08-01 | 5 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 56,691 | 2026-08-05 | 2 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,206 | 2026-08-08 | 1 |
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,599 | 2026-08-06 | 4 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,736 | 2026-08-06 | 5 |
 | [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | ⭐ 31,602 | 2026-08-02 | 2 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 31,280 | 2026-08-02 | 2 |
 | [greensock/GSAP](../repos/greensock/GSAP.md) | ⭐ 27,405 | 2026-08-04 | 1 |
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 25,952 | 2026-08-08 | 2 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 26,018 | 2026-08-08 | 3 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [vercel/next.js](../repos/vercel/next.js.md) | 6 | ⭐ 141,656 | 2026-07-30 | 2026-08-06 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 5 | ⭐ 85,054 | 2026-08-05 | 2026-08-09 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 6 | ⭐ 85,690 | 2026-08-05 | 2026-08-10 |
+| [byoungd/up](../repos/byoungd/up.md) | 5 | ⭐ 58,350 | 2026-08-01 | 2026-08-10 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 5 | ⭐ 38,736 | 2026-08-06 | 2026-08-10 |
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 4 | ⭐ 6,998 | 2026-08-01 | 2026-08-04 |
-| [byoungd/up](../repos/byoungd/up.md) | 4 | ⭐ 57,767 | 2026-08-01 | 2026-08-07 |
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 4 | ⭐ 38,599 | 2026-08-06 | 2026-08-09 |
 | [facebook/react](../repos/facebook/react.md) | 3 | ⭐ 219,500 | 2026-07-30 | 2026-08-05 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 3 | ⭐ 9,868 | 2026-08-01 | 2026-08-07 |
 | [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | 3 | ⭐ 7,624 | 2026-08-02 | 2026-08-04 |
+| [4ian/GDevelop](../repos/4ian/GDevelop.md) | 3 | ⭐ 25,523 | 2026-08-03 | 2026-08-10 |
 | [is-a-dev/register](../repos/is-a-dev/register.md) | 3 | ⭐ 10,939 | 2026-08-03 | 2026-08-09 |
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 3 | ⭐ 1,112 | 2026-08-07 | 2026-08-09 |
 
 ---
 
@@ -182,7 +182,15 @@
 - [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Dro...
 - [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) - The iconic SVG, font, and CSS toolkit
 - [open-telemetry/opentelemetry.io](../repos/open-telemetry/opentelemetry.io.md) - The OpenTelemetry website and documentation
+- [techjarves/Uncensored-Local-Studio](../repos/techjarves/Uncensored-Local-Studio.md) - Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GG...
+- [cobusgreyling/loop-engineering](../repos/cobusgreyling/loop-engineering.md) - Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design syste...
+- [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) - List of Permanent Free LLM API  (API Keys)
+- [BeiDouMS/BeiDou-Server](../repos/BeiDouMS/BeiDou-Server.md) - Global MapleStory Server BeiDou(冒险岛GMS服务端北斗)
+- [rgthree/rgthree-comfy](../repos/rgthree/rgthree-comfy.md) - Making ComfyUI more comfortable!
+- [CodeWithHarry/Sigma-Web-Dev-Course](../repos/CodeWithHarry/Sigma-Web-Dev-Course.md) - Source Code for Sigma Web Development Course
+- [fishjar/kiss-translator](../repos/fishjar/kiss-translator.md) - A simple, open source bilingual translation extension &amp; Greasemonkey script (一个简约、开源的 双语对照翻译扩展 &amp; ...
+- [zarazhangrui/follow-builders](../repos/zarazhangrui/follow-builders.md) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content in...
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.286Z*
+*Last updated: 2026-08-10T21:02:07.658Z*

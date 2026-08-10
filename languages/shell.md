@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 54
+- **Total Repositories**: 56
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-07
 
@@ -16,31 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,386 | 2026-08-01 | 7 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,459 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,417 | 2026-08-02 | 5 |
+| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 1,958 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,531 | 2026-08-04 | 2 |
+| [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) | ⭐ 3,954 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,590 | 2026-08-05 | 4 |
+| [linux-surface/linux-surface](../repos/linux-surface/linux-surface.md) | ⭐ 7,572 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,802 | 2026-08-06 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,389 | 2026-08-07 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,537 | 2026-08-08 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,075 | 2026-08-08 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) | ⭐ 4,588 | 2026-08-09 | 1 |
+| [anthropics/claude-agent-sdk-typescript](../repos/anthropics/claude-agent-sdk-typescript.md) | ⭐ 1,684 | 2026-08-10 | 1 |
 
 
 ---
@@ -76,7 +64,7 @@
 | [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,642 | 2026-08-01 | Универсальный менеджер для обхода блокировок на OpenWrt |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,417 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,459 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
 
 
 ---
@@ -93,7 +81,7 @@
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,419 | 2026-08-04 | 2 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,246 | 2026-08-04 | 3 |
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,417 | 2026-08-02 | 5 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,459 | 2026-08-02 | 6 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,626 | 2026-08-07 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,684 | 2026-08-08 | 1 |
@@ -113,7 +101,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 7 | ⭐ 94,386 | 2026-08-01 | 2026-08-09 |
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 5 | ⭐ 24,417 | 2026-08-02 | 2026-08-09 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 6 | ⭐ 24,459 | 2026-08-02 | 2026-08-10 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 5 | ⭐ 1,992 | 2026-08-02 | 2026-08-08 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 4 | ⭐ 2,590 | 2026-08-05 | 2026-08-09 |
 | [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | 3 | ⭐ 2,851 | 2026-08-01 | 2026-08-07 |
@@ -181,7 +169,9 @@
 - [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) - Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3
 - [testdouble/han](../repos/testdouble/han.md) - Han: AI skills and agents for &quot;Solo&quot; product engineers and small teams
 - [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
+- [linux-surface/linux-surface](../repos/linux-surface/linux-surface.md) - Linux Kernel for Surface Devices
+- [anthropics/claude-agent-sdk-typescript](../repos/anthropics/claude-agent-sdk-typescript.md) - 
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.310Z*
+*Last updated: 2026-08-10T21:02:07.682Z*

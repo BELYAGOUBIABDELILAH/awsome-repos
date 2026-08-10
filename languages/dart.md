@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 55
+- **Total Repositories**: 59
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 15,905 | 2026-08-01 | 3 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 28,642 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 28,602 | 2026-08-01 | 4 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 16,937 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 48,119 | 2026-08-02 | 7 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 87,221 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 16,909 | 2026-08-02 | 5 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 31,984 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 87,147 | 2026-08-02 | 5 |
+| [lichess-org/mobile](../repos/lichess-org/mobile.md) | ⭐ 2,475 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 31,986 | 2026-08-02 | 6 |
+| [venera-app/venera](../repos/venera-app/venera.md) | ⭐ 10,733 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KaringX/clashmi](../repos/KaringX/clashmi.md) | ⭐ 8,740 | 2026-08-02 | 2 |
+| [shiyi-0x7f/olib-mobile](../repos/shiyi-0x7f/olib-mobile.md) | ⭐ 1,088 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shiyi-0x7f/olib-mobile](../repos/shiyi-0x7f/olib-mobile.md) | ⭐ 1,078 | 2026-08-03 | 4 |
+| [techjarves/Uncensored-Local-AI-Multiplatform](../repos/techjarves/Uncensored-Local-AI-Multiplatform.md) | ⭐ 1,018 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 48,255 | 2026-08-04 | 5 |
+| [TNT-Likely/BeeCount](../repos/TNT-Likely/BeeCount.md) | ⭐ 2,080 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [umr-xiaomai/kgka_Music_hl](../repos/umr-xiaomai/kgka_Music_hl.md) | ⭐ 328 | 2026-08-04 | 2 |
+| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 13,703 | 2026-08-06 | 4 |
 
 
 ---
@@ -76,7 +76,7 @@
 | [flutter/packages](../repos/flutter/packages.md) | ⭐ 5,273 | 2026-08-01 | A collection of useful packages maintained by the Flutter team |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 28,602 | 2026-08-01 | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 28,642 | 2026-08-01 | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [miru-project/miru-app](../repos/miru-project/miru-app.md) | ⭐ 5,571 | 2026-08-01 | 🎉 A versatile application that is free, open-source, and supports extension sources for videos, ... |
@@ -89,21 +89,21 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,252 | 2026-08-01 | 5 |
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 87,147 | 2026-08-02 | 5 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 87,221 | 2026-08-02 | 6 |
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 75,058 | 2026-08-01 | 2 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 48,255 | 2026-08-04 | 5 |
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 48,119 | 2026-08-02 | 7 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 31,986 | 2026-08-02 | 6 |
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 28,602 | 2026-08-01 | 4 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 31,984 | 2026-08-02 | 7 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 28,642 | 2026-08-01 | 5 |
 | [mitesh77/Best-Flutter-UI-Templates](../repos/mitesh77/Best-Flutter-UI-Templates.md) | ⭐ 22,769 | 2026-08-01 | 1 |
 | [flutter/samples](../repos/flutter/samples.md) | ⭐ 19,227 | 2026-08-06 | 1 |
-| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 16,909 | 2026-08-02 | 5 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 16,937 | 2026-08-02 | 6 |
 | [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 15,905 | 2026-08-01 | 3 |
 | [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 14,151 | 2026-08-02 | 5 |
-| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 13,694 | 2026-08-06 | 3 |
+| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 13,703 | 2026-08-06 | 4 |
 | [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) | ⭐ 12,509 | 2026-08-09 | 1 |
 | [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,238 | 2026-08-01 | 4 |
-| [venera-app/venera](../repos/venera-app/venera.md) | ⭐ 10,718 | 2026-08-02 | 4 |
+| [venera-app/venera](../repos/venera-app/venera.md) | ⭐ 10,733 | 2026-08-02 | 5 |
 | [flame-engine/flame](../repos/flame-engine/flame.md) | ⭐ 10,705 | 2026-08-02 | 1 |
 | [firebase/flutterfire](../repos/firebase/flutterfire.md) | ⭐ 9,247 | 2026-08-03 | 3 |
 | [KaringX/clashmi](../repos/KaringX/clashmi.md) | ⭐ 8,740 | 2026-08-02 | 2 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | 7 | ⭐ 48,119 | 2026-08-02 | 2026-08-09 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 6 | ⭐ 31,986 | 2026-08-02 | 2026-08-09 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 7 | ⭐ 31,984 | 2026-08-02 | 2026-08-10 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 6 | ⭐ 16,937 | 2026-08-02 | 2026-08-10 |
+| [localsend/localsend](../repos/localsend/localsend.md) | 6 | ⭐ 87,221 | 2026-08-02 | 2026-08-10 |
 | [flutter/flutter](../repos/flutter/flutter.md) | 5 | ⭐ 178,252 | 2026-08-01 | 2026-08-06 |
 | [flutter/packages](../repos/flutter/packages.md) | 5 | ⭐ 5,273 | 2026-08-01 | 2026-08-08 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 5 | ⭐ 28,642 | 2026-08-01 | 2026-08-10 |
 | [KaringX/karing](../repos/KaringX/karing.md) | 5 | ⭐ 14,151 | 2026-08-02 | 2026-08-08 |
-| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 5 | ⭐ 16,909 | 2026-08-02 | 2026-08-09 |
-| [localsend/localsend](../repos/localsend/localsend.md) | 5 | ⭐ 87,147 | 2026-08-02 | 2026-08-09 |
 | [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 5 | ⭐ 3,573 | 2026-08-02 | 2026-08-07 |
-| [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | 5 | ⭐ 48,255 | 2026-08-04 | 2026-08-09 |
-| [dart-lang/sdk](../repos/dart-lang/sdk.md) | 4 | ⭐ 11,238 | 2026-08-01 | 2026-08-06 |
+| [venera-app/venera](../repos/venera-app/venera.md) | 5 | ⭐ 10,733 | 2026-08-02 | 2026-08-10 |
 
 ---
 
@@ -185,7 +185,11 @@
 - [pa-jesusf/KikoFlu](../repos/pa-jesusf/KikoFlu.md) - Kikoeru Flutter ASMR player app, 跨平台同人音声客户端
 - [jameskokoska/Cashew](../repos/jameskokoska/Cashew.md) - 💸 An app created to help users manage a budget and purchases
 - [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
+- [Predidit/KazumiRules](../repos/Predidit/KazumiRules.md) - Kazumi的规则托管仓库，欢迎贡献 ^•ﻌ•^
+- [cake-tech/cake_wallet](../repos/cake-tech/cake_wallet.md) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com,...
+- [Demizo/Daily_You](../repos/Demizo/Daily_You.md) - Daily diary &amp; journaling app
+- [ZhuJHua/moodiary](../repos/ZhuJHua/moodiary.md) - A fully open source cross-platform diary app written by flutter and rust.
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.274Z*
+*Last updated: 2026-08-10T21:02:07.647Z*

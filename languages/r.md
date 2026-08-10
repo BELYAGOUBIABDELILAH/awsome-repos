@@ -16,16 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 466 | 2026-08-03 | 4 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,578 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,907 | 2026-08-04 | 2 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 375 | 2026-08-08 | 2 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 375 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 151 | 2026-08-09 | 1 |
+| [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 151 | 2026-08-09 | 2 |
 
 
 ---
@@ -74,17 +74,17 @@
 | [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,673 | 2026-08-02 | 4 |
 | [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,127 | 2026-08-04 | 2 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,055 | 2026-08-04 | 3 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,578 | 2026-08-01 | 5 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,578 | 2026-08-01 | 6 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,907 | 2026-08-04 | 2 |
 | [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,054 | 2026-08-08 | 1 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,783 | 2026-08-01 | 6 |
 | [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,440 | 2026-08-04 | 2 |
 | [rstudio/renv](../repos/rstudio/renv.md) | ⭐ 1,160 | 2026-08-06 | 1 |
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 7 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 8 |
 | [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 645 | 2026-08-01 | 6 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 466 | 2026-08-03 | 4 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 375 | 2026-08-08 | 2 |
-| [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 151 | 2026-08-09 | 1 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 375 | 2026-08-08 | 3 |
+| [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 151 | 2026-08-09 | 2 |
 
 ---
 
@@ -92,16 +92,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 7 | ⭐ 889 | 2026-08-01 | 2026-08-08 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 8 | ⭐ 889 | 2026-08-01 | 2026-08-10 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 6 | ⭐ 4,578 | 2026-08-01 | 2026-08-10 |
 | [jinworks/CellChat](../repos/jinworks/CellChat.md) | 6 | ⭐ 645 | 2026-08-01 | 2026-08-08 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | 6 | ⭐ 2,783 | 2026-08-01 | 2026-08-08 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 5 | ⭐ 4,578 | 2026-08-01 | 2026-08-08 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | 4 | ⭐ 5,673 | 2026-08-02 | 2026-08-05 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | 4 | ⭐ 466 | 2026-08-03 | 2026-08-09 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 4 | ⭐ 6,980 | 2026-08-04 | 2026-08-07 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 3 | ⭐ 5,055 | 2026-08-04 | 2026-08-06 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 3 | ⭐ 375 | 2026-08-08 | 2026-08-10 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 2 | ⭐ 3,907 | 2026-08-04 | 2026-08-09 |
-| [hadley/r4ds](../repos/hadley/r4ds.md) | 2 | ⭐ 5,127 | 2026-08-04 | 2026-08-05 |
 
 ---
 
@@ -125,4 +125,4 @@
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.303Z*
+*Last updated: 2026-08-10T21:02:07.676Z*

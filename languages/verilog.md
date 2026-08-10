@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 12
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-09
+- **Last Updated**: 2026-08-10
 
 ---
 
@@ -16,25 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,310 | 2026-08-01 | 9 |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,315 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 1,994 | 2026-08-01 | 9 |
+| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 1,994 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 2,951 | 2026-08-01 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [OSCPU/yosys-sta](../repos/OSCPU/yosys-sta.md) | ⭐ 97 | 2026-08-02 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [The-OpenROAD-Project/OpenSTA](../repos/The-OpenROAD-Project/OpenSTA.md) | ⭐ 598 | 2026-08-03 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,194 | 2026-08-04 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [chili-chips-ba/wireguard-fpga](../repos/chili-chips-ba/wireguard-fpga.md) | ⭐ 1,352 | 2026-08-09 | 1 |
+| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,197 | 2026-08-04 | 6 |
 
 
 ---
@@ -43,7 +31,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,310 | 2026-08-01 | PicoRV32 - A Size-Optimized RISC-V CPU |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,315 | 2026-08-01 | PicoRV32 - A Size-Optimized RISC-V CPU |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 1,994 | 2026-08-01 | HDL libraries and projects |
@@ -67,7 +55,7 @@
 | [The-OpenROAD-Project/OpenSTA](../repos/The-OpenROAD-Project/OpenSTA.md) | ⭐ 598 | 2026-08-03 | OpenSTA engine |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,194 | 2026-08-04 |  |
+| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,197 | 2026-08-04 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [XUANTIE-RV/openc910](../repos/XUANTIE-RV/openc910.md) | ⭐ 1,461 | 2026-08-06 | OpenXuantie - OpenC910 Core |
@@ -79,12 +67,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,310 | 2026-08-01 | 9 |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,315 | 2026-08-01 | 10 |
 | [alexforencich/verilog-ethernet](../repos/alexforencich/verilog-ethernet.md) | ⭐ 3,059 | 2026-08-02 | 3 |
 | [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 2,951 | 2026-08-01 | 9 |
 | [corundum/corundum](../repos/corundum/corundum.md) | ⭐ 2,413 | 2026-08-07 | 1 |
-| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,194 | 2026-08-04 | 5 |
-| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 1,994 | 2026-08-01 | 9 |
+| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,197 | 2026-08-04 | 6 |
+| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 1,994 | 2026-08-01 | 10 |
 | [XUANTIE-RV/openc910](../repos/XUANTIE-RV/openc910.md) | ⭐ 1,461 | 2026-08-06 | 1 |
 | [chili-chips-ba/wireguard-fpga](../repos/chili-chips-ba/wireguard-fpga.md) | ⭐ 1,352 | 2026-08-09 | 1 |
 | [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | ⭐ 1,258 | 2026-08-01 | 6 |
@@ -98,12 +86,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | 9 | ⭐ 4,310 | 2026-08-01 | 2026-08-09 |
-| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | 9 | ⭐ 1,994 | 2026-08-01 | 2026-08-09 |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | 10 | ⭐ 4,315 | 2026-08-01 | 2026-08-10 |
+| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | 10 | ⭐ 1,994 | 2026-08-01 | 2026-08-10 |
 | [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 9 | ⭐ 2,951 | 2026-08-01 | 2026-08-09 |
 | [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | 6 | ⭐ 1,258 | 2026-08-01 | 2026-08-08 |
 | [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 6 | ⭐ 703 | 2026-08-01 | 2026-08-08 |
-| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | 5 | ⭐ 2,194 | 2026-08-04 | 2026-08-09 |
+| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | 6 | ⭐ 2,197 | 2026-08-04 | 2026-08-10 |
 | [The-OpenROAD-Project/OpenSTA](../repos/The-OpenROAD-Project/OpenSTA.md) | 4 | ⭐ 598 | 2026-08-03 | 2026-08-09 |
 | [alexforencich/verilog-ethernet](../repos/alexforencich/verilog-ethernet.md) | 3 | ⭐ 3,059 | 2026-08-02 | 2026-08-08 |
 | [OSCPU/yosys-sta](../repos/OSCPU/yosys-sta.md) | 2 | ⭐ 97 | 2026-08-02 | 2026-08-09 |
@@ -128,4 +116,4 @@
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.316Z*
+*Last updated: 2026-08-10T21:02:07.689Z*

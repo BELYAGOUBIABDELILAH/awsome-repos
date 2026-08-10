@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 30
+- **Total Repositories**: 31
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-06
+- **Last Updated**: 2026-08-10
 
 ---
 
@@ -16,28 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 12,997 | 2026-08-01 | 8 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 23,283 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,883 | 2026-08-01 | 4 |
+| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,335 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,015 | 2026-08-02 | 2 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,909 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,516 | 2026-08-03 | 6 |
+| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,015 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,517 | 2026-08-04 | 4 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,519 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,822 | 2026-08-04 | 2 |
+| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,023 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [appveyor/ci](../repos/appveyor/ci.md) | ⭐ 340 | 2026-08-07 | 2 |
+| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,595 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
+| [iiroak/Kindle-Filler-Disk](../repos/iiroak/Kindle-Filler-Disk.md) | ⭐ 373 | 2026-08-10 | 1 |
 
 
 ---
@@ -46,7 +46,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 19,784 | 2026-08-01 | Reverse Engineering &#x2F; Authorized Penetration Testing &#x2F; Security Research Skill Router Pack AI-pow... |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 23,283 | 2026-08-01 | Reverse Engineering &#x2F; Authorized Penetration Testing &#x2F; Security Research Skill Router Pack AI-pow... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 12,997 | 2026-08-01 | GitHub Actions runner images |
@@ -55,7 +55,7 @@
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,162 | 2026-08-01 | game of active directory |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,328 | 2026-08-01 | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and ... |
+| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,335 | 2026-08-01 | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,883 | 2026-08-01 | Automate the setup and configuration of your Windows development environment. |
@@ -64,7 +64,7 @@
 | [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 423 | 2026-08-01 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,894 | 2026-08-01 | The Official USB Rubber Ducky Payload Repository |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,909 | 2026-08-01 | The Official USB Rubber Ducky Payload Repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | ⭐ 964 | 2026-08-01 | MCP Server and CLI for accessing Work IQ |
@@ -82,8 +82,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 23,283 | 2026-08-01 | 7 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,017 | 2026-08-02 | 2 |
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 19,784 | 2026-08-01 | 6 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,089 | 2026-08-04 | 1 |
 | [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 12,997 | 2026-08-01 | 8 |
@@ -91,16 +91,16 @@
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,038 | 2026-08-03 | 5 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,919 | 2026-08-06 | 1 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,162 | 2026-08-01 | 4 |
-| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,594 | 2026-08-07 | 1 |
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,894 | 2026-08-01 | 2 |
+| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,595 | 2026-08-07 | 2 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,909 | 2026-08-01 | 3 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,822 | 2026-08-04 | 2 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,517 | 2026-08-04 | 4 |
-| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,017 | 2026-08-07 | 1 |
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,015 | 2026-08-02 | 2 |
+| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,023 | 2026-08-07 | 2 |
+| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,015 | 2026-08-02 | 3 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,883 | 2026-08-01 | 4 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,516 | 2026-08-03 | 6 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,519 | 2026-08-03 | 7 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,426 | 2026-08-01 | 4 |
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,328 | 2026-08-01 | 5 |
+| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,335 | 2026-08-01 | 6 |
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | ⭐ 964 | 2026-08-01 | 5 |
 
 ---
@@ -110,9 +110,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [actions/runner-images](../repos/actions/runner-images.md) | 8 | ⭐ 12,997 | 2026-08-01 | 2026-08-09 |
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 6 | ⭐ 19,784 | 2026-08-01 | 2026-08-06 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 6 | ⭐ 1,516 | 2026-08-03 | 2026-08-09 |
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | 5 | ⭐ 1,328 | 2026-08-01 | 2026-08-08 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 7 | ⭐ 23,283 | 2026-08-01 | 2026-08-10 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 7 | ⭐ 1,519 | 2026-08-03 | 2026-08-10 |
+| [microsoft/hve-core](../repos/microsoft/hve-core.md) | 6 | ⭐ 1,335 | 2026-08-01 | 2026-08-10 |
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | 5 | ⭐ 964 | 2026-08-01 | 2026-08-08 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 5 | ⭐ 870 | 2026-08-01 | 2026-08-08 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | 5 | ⭐ 10,038 | 2026-08-03 | 2026-08-08 |
@@ -154,7 +154,8 @@
 - [jenkinsci/docker](../repos/jenkinsci/docker.md) - Docker official jenkins repo
 - [appveyor/ci](../repos/appveyor/ci.md) - AppVeyor community support repository
 - [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) - Script to remove Windows 10 bloatware.
+- [iiroak/Kindle-Filler-Disk](../repos/iiroak/Kindle-Filler-Disk.md) - 
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.301Z*
+*Last updated: 2026-08-10T21:02:07.673Z*

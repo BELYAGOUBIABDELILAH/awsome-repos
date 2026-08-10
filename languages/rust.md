@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 78
+- **Total Repositories**: 84
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-05
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mxc](../repos/microsoft/mxc.md) | ⭐ 1,212 | 2026-08-01 | 2 |
+| [wealthfolio/wealthfolio](../repos/wealthfolio/wealthfolio.md) | ⭐ 8,596 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,428 | 2026-08-05 | 3 |
+| [reacherhq/check-if-email-exists](../repos/reacherhq/check-if-email-exists.md) | ⭐ 9,433 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [denoland/celld](../repos/denoland/celld.md) | ⭐ 2,858 | 2026-08-07 | 3 |
+| [denoland/celld](../repos/denoland/celld.md) | ⭐ 2,993 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 4,266 | 2026-08-08 | 2 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 89,313 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rivet-dev/rivet](../repos/rivet-dev/rivet.md) | ⭐ 5,974 | 2026-08-08 | 2 |
+| [surrealdb/surrealdb](../repos/surrealdb/surrealdb.md) | ⭐ 32,874 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 89,087 | 2026-08-09 | 1 |
+| [run-llama/liteparse](../repos/run-llama/liteparse.md) | ⭐ 12,020 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lancedb/lancedb](../repos/lancedb/lancedb.md) | ⭐ 11,103 | 2026-08-09 | 1 |
+| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 14,333 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [surrealdb/surrealdb](../repos/surrealdb/surrealdb.md) | ⭐ 32,857 | 2026-08-09 | 1 |
+| [apache/datafusion](../repos/apache/datafusion.md) | ⭐ 9,118 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RustPython/RustPython](../repos/RustPython/RustPython.md) | ⭐ 22,260 | 2026-08-09 | 1 |
+| [screenpipe/screenpipe](../repos/screenpipe/screenpipe.md) | ⭐ 20,883 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lanyeeee/bilibili-video-downloader](../repos/lanyeeee/bilibili-video-downloader.md) | ⭐ 1,815 | 2026-08-09 | 1 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 36,163 | 2026-08-10 | 1 |
 
 
 ---
@@ -91,7 +91,7 @@
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,277 | 2026-07-30 | 5 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,046 | 2026-07-30 | 2 |
 | [openai/codex](../repos/openai/codex.md) | ⭐ 104,649 | 2026-08-01 | 3 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 89,087 | 2026-08-09 | 1 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 89,313 | 2026-08-09 | 2 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | 2026-07-31 | 2 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
@@ -99,15 +99,15 @@
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,163 | 2026-08-02 | 2 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,155 | 2026-08-02 | 1 |
 | [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,268 | 2026-08-05 | 1 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 36,163 | 2026-08-10 | 1 |
 | [zellij-org/zellij](../repos/zellij-org/zellij.md) | ⭐ 34,708 | 2026-08-04 | 1 |
-| [surrealdb/surrealdb](../repos/surrealdb/surrealdb.md) | ⭐ 32,857 | 2026-08-09 | 1 |
+| [surrealdb/surrealdb](../repos/surrealdb/surrealdb.md) | ⭐ 32,874 | 2026-08-09 | 2 |
 | [zeroclaw-labs/zeroclaw](../repos/zeroclaw-labs/zeroclaw.md) | ⭐ 32,484 | 2026-08-02 | 1 |
 | [vercel/turborepo](../repos/vercel/turborepo.md) | ⭐ 30,836 | 2026-08-02 | 1 |
 | [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 30,823 | 2026-08-09 | 1 |
 | [googleworkspace/cli](../repos/googleworkspace/cli.md) | ⭐ 30,115 | 2026-08-01 | 1 |
 | [emilk/egui](../repos/emilk/egui.md) | ⭐ 29,942 | 2026-08-02 | 1 |
 | [ankitects/anki](../repos/ankitects/anki.md) | ⭐ 29,506 | 2026-08-02 | 2 |
-| [wezterm/wezterm](../repos/wezterm/wezterm.md) | ⭐ 28,114 | 2026-08-02 | 1 |
 
 ---
 
@@ -120,11 +120,11 @@
 | [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | 4 | ⭐ 12,324 | 2026-08-03 | 2026-08-06 |
 | [katanemo/plano](../repos/katanemo/plano.md) | 4 | ⭐ 6,977 | 2026-08-03 | 2026-08-06 |
 | [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | 4 | ⭐ 5,377 | 2026-08-03 | 2026-08-06 |
+| [denoland/celld](../repos/denoland/celld.md) | 4 | ⭐ 2,993 | 2026-08-07 | 2026-08-10 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | 3 | ⭐ 76,500 | 2026-07-30 | 2026-08-05 |
 | [openai/codex](../repos/openai/codex.md) | 3 | ⭐ 104,649 | 2026-08-01 | 2026-08-07 |
+| [wealthfolio/wealthfolio](../repos/wealthfolio/wealthfolio.md) | 3 | ⭐ 8,596 | 2026-08-02 | 2026-08-10 |
 | [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | 3 | ⭐ 13,424 | 2026-08-02 | 2026-08-04 |
-| [n0-computer/iroh](../repos/n0-computer/iroh.md) | 3 | ⭐ 12,067 | 2026-08-02 | 2026-08-04 |
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | 3 | ⭐ 43,428 | 2026-08-05 | 2026-08-09 |
 
 ---
 
@@ -208,7 +208,13 @@
 - [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) - Empowering everyone to host fast and efficient Minecraft servers.
 - [rustfs/rustfs](../repos/rustfs/rustfs.md) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-pe...
 - [Kuberwastaken/claurst](../repos/Kuberwastaken/claurst.md) - Agentic Coding for Builders who Ship
+- [run-llama/liteparse](../repos/run-llama/liteparse.md) - A fast, helpful, and open-source document parser
+- [Automattic/harper](../repos/Automattic/harper.md) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+- [apache/datafusion](../repos/apache/datafusion.md) - Apache DataFusion SQL Query Engine
+- [screenpipe/screenpipe](../repos/screenpipe/screenpipe.md) - YC (S26) | Record your screen 24&#x2F;7 and plug into your agents. Local, private, secure. Connect to ...
+- [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fan...
+- [mufeedvh/code2prompt](../repos/mufeedvh/code2prompt.md) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating,...
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.307Z*
+*Last updated: 2026-08-10T21:02:07.679Z*

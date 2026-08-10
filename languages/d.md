@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ldc-developers/ldc](../repos/ldc-developers/ldc.md) | ⭐ 1,362 | 2026-08-09 | 1 |
 
+*No D repositories trending today*
 
 ---
 
@@ -52,4 +50,4 @@
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.273Z*
+*Last updated: 2026-08-10T21:02:07.644Z*

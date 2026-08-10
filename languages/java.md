@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 100
+- **Total Repositories**: 105
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,556 | 2026-08-02 | 3 |
+| [OpenLineage/OpenLineage](../repos/OpenLineage/OpenLineage.md) | ⭐ 2,596 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,288 | 2026-08-02 | 2 |
+| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,299 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Creators-of-Create/Create](../repos/Creators-of-Create/Create.md) | ⭐ 4,424 | 2026-08-02 | 2 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 26,037 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | ⭐ 2,432 | 2026-08-02 | 3 |
+| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | ⭐ 2,435 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/guava](../repos/google/guava.md) | ⭐ 51,889 | 2026-08-02 | 6 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,731 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shmykelsa/AAAD](../repos/shmykelsa/AAAD.md) | ⭐ 2,841 | 2026-08-03 | 2 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 14,175 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,145 | 2026-08-03 | 5 |
+| [booklore-app/booklore](../repos/booklore-app/booklore.md) | ⭐ 811 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 14,160 | 2026-08-06 | 2 |
+| [CaffeineMC/sodium](../repos/CaffeineMC/sodium.md) | ⭐ 5,709 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CaffeineMC/sodium](../repos/CaffeineMC/sodium.md) | ⭐ 5,712 | 2026-08-09 | 1 |
+| [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) | ⭐ 5,165 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [checkstyle/checkstyle](../repos/checkstyle/checkstyle.md) | ⭐ 8,991 | 2026-08-09 | 1 |
+| [fish2018/webhtv](../repos/fish2018/webhtv.md) | ⭐ 1,137 | 2026-08-10 | 1 |
 
 
 ---
@@ -100,7 +100,7 @@
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,341 | 2026-08-04 | 3 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,318 | 2026-08-07 | 1 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,325 | 2026-08-05 | 2 |
-| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,288 | 2026-08-02 | 2 |
+| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,299 | 2026-08-02 | 3 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,618 | 2026-08-06 | 3 |
 | [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,425 | 2026-08-08 | 1 |
 | [conductor-oss/conductor](../repos/conductor-oss/conductor.md) | ⭐ 32,066 | 2026-08-09 | 1 |
@@ -119,12 +119,12 @@
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 5 | ⭐ 72,145 | 2026-08-03 | 2026-08-09 |
 | [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | 4 | ⭐ 9,269 | 2026-08-01 | 2026-08-08 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 4 | ⭐ 77,789 | 2026-08-02 | 2026-08-06 |
+| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | 4 | ⭐ 2,435 | 2026-08-02 | 2026-08-10 |
 | [github/copilot-sdk](../repos/github/copilot-sdk.md) | 3 | ⭐ 10,340 | 2026-08-01 | 2026-08-03 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 3 | ⭐ 13,484 | 2026-08-01 | 2026-08-08 |
+| [OpenLineage/OpenLineage](../repos/OpenLineage/OpenLineage.md) | 3 | ⭐ 2,596 | 2026-08-01 | 2026-08-10 |
 | [apache/maven](../repos/apache/maven.md) | 3 | ⭐ 5,302 | 2026-08-01 | 2026-08-04 |
 | [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | 3 | ⭐ 26,651 | 2026-08-01 | 2026-08-06 |
-| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | 3 | ⭐ 28,556 | 2026-08-02 | 2026-08-09 |
-| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | 3 | ⭐ 2,432 | 2026-08-02 | 2026-08-09 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.284Z*
+*Last updated: 2026-08-10T21:02:07.657Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Assembly |
 | **License** | MIT |
-| **Stars** | ⭐ 11,912 |
-| **Forks** | 🍴 2,109 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 11,916 |
+| **Forks** | 🍴 2,111 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 8, 2026 |
+| **Last Seen** | Aug 10, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-09T21:01:54.072Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-10T21:02:09.498Z*  
+*Data from 4 trending reports*

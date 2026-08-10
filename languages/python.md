@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 86
+- **Total Repositories**: 91
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-01
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 125,406 | 2026-08-05 | 3 |
+| [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,458 | 2026-08-06 | 4 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 126,231 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/skills](../repos/google/skills.md) | ⭐ 17,174 | 2026-08-07 | 3 |
+| [google/skills](../repos/google/skills.md) | ⭐ 17,581 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 96,852 | 2026-08-08 | 2 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 97,152 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-deepmind/weathernext](../repos/google-deepmind/weathernext.md) | ⭐ 7,037 | 2026-08-08 | 2 |
+| [google-deepmind/weathernext](../repos/google-deepmind/weathernext.md) | ⭐ 7,318 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harveyai/harvey-labs](../repos/harveyai/harvey-labs.md) | ⭐ 787 | 2026-08-08 | 2 |
+| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 61,724 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 61,121 | 2026-08-09 | 1 |
+| [stanfordnlp/dspy](../repos/stanfordnlp/dspy.md) | ⭐ 37,035 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [funstory-ai/BabelDOC](../repos/funstory-ai/BabelDOC.md) | ⭐ 9,227 | 2026-08-09 | 1 |
+| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 89,848 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MervinPraison/PraisonAI](../repos/MervinPraison/PraisonAI.md) | ⭐ 8,770 | 2026-08-09 | 1 |
+| [langchain-ai/open_deep_research](../repos/langchain-ai/open_deep_research.md) | ⭐ 12,584 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) | ⭐ 19,396 | 2026-08-09 | 1 |
+| [scrapy/scrapy](../repos/scrapy/scrapy.md) | ⭐ 63,785 | 2026-08-10 | 1 |
 
 
 ---
@@ -97,17 +97,17 @@
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 140,599 | 2026-08-07 | 1 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 130,495 | 2026-08-04 | 1 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | 2026-07-31 | 2 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 125,406 | 2026-08-05 | 3 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 126,231 | 2026-08-05 | 4 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 101,806 | 2026-08-03 | 1 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | 2026-08-01 | 2 |
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 96,852 | 2026-08-08 | 2 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 97,152 | 2026-08-08 | 3 |
+| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 89,848 | 2026-08-10 | 1 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,155 | 2026-08-02 | 2 |
 | [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 79,146 | 2026-08-02 | 2 |
 | [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 78,730 | 2026-08-02 | 2 |
 | [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | 2026-08-10 | 1 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 75,000 | 2026-07-30 | 1 |
-| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 71,957 | 2026-08-06 | 1 |
 
 ---
 
@@ -121,10 +121,10 @@
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | 5 | ⭐ 362,245 | 2026-08-03 | 2026-08-07 |
 | [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | 5 | ⭐ 3,574 | 2026-08-04 | 2026-08-08 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 4 | ⭐ 66,444 | 2026-08-01 | 2026-08-04 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 4 | ⭐ 126,231 | 2026-08-05 | 2026-08-10 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | 4 | ⭐ 186,458 | 2026-08-06 | 2026-08-09 |
+| [google/skills](../repos/google/skills.md) | 4 | ⭐ 17,581 | 2026-08-07 | 2026-08-10 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 3 | ⭐ 44,517 | 2026-08-03 | 2026-08-05 |
-| [livekit/agents](../repos/livekit/agents.md) | 3 | ⭐ 12,702 | 2026-08-03 | 2026-08-06 |
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 3 | ⭐ 32,834 | 2026-08-03 | 2026-08-06 |
 
 ---
 
@@ -216,7 +216,12 @@
 - [MervinPraison/PraisonAI](../repos/MervinPraison/PraisonAI.md) - PraisonAI 🦞 — Hire a 24&#x2F;7 AI Workforce. Stop writing boilerplate and start shipping autonomous s...
 - [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) - Hindsight: Agent Memory That  Learns
 - [stanfordnlp/dspy](../repos/stanfordnlp/dspy.md) - DSPy: The framework for programming—not prompting—language models
+- [3b1b/manim](../repos/3b1b/manim.md) - Animation engine for explanatory math videos
+- [langchain-ai/open_deep_research](../repos/langchain-ai/open_deep_research.md) - 
+- [scrapy/scrapy](../repos/scrapy/scrapy.md) - Scrapy, a fast high-level web crawling &amp; scraping framework for Python.
+- [confident-ai/deepteam](../repos/confident-ai/deepteam.md) - DeepTeam is a framework to red team LLMs and AI agents.
+- [neuml/txtai](../repos/neuml/txtai.md) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.302Z*
+*Last updated: 2026-08-10T21:02:07.675Z*

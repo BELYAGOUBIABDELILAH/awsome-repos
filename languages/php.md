@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 64
+- **Total Repositories**: 65
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-08
+- **Last Updated**: 2026-08-10
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrestaShop/PrestaShop](../repos/PrestaShop/PrestaShop.md) | ⭐ 9,185 | 2026-08-01 | 4 |
+| [pestphp/pest](../repos/pestphp/pest.md) | ⭐ 11,648 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cedar2025/Xboard](../repos/cedar2025/Xboard.md) | ⭐ 4,628 | 2026-08-02 | 4 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,754 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChurchCRM/CRM](../repos/ChurchCRM/CRM.md) | ⭐ 933 | 2026-08-03 | 2 |
+| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,465 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,549 | 2026-08-04 | 2 |
+| [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 31,751 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,003 | 2026-08-04 | 5 |
+| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 15,736 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laravel/boost](../repos/laravel/boost.md) | ⭐ 3,565 | 2026-08-06 | 4 |
+| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,383 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espocrm/espocrm](../repos/espocrm/espocrm.md) | ⭐ 3,206 | 2026-08-06 | 2 |
+| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,012 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,247 | 2026-08-09 | 1 |
+| [invoiceninja/invoiceninja](../repos/invoiceninja/invoiceninja.md) | ⭐ 9,985 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [investbrainapp/investbrain](../repos/investbrainapp/investbrain.md) | ⭐ 920 | 2026-08-09 | 1 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,249 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [googleapis/google-api-php-client](../repos/googleapis/google-api-php-client.md) | ⭐ 9,805 | 2026-08-09 | 1 |
+| [David-Crty/databasement](../repos/David-Crty/databasement.md) | ⭐ 1,941 | 2026-08-10 | 1 |
 
 
 ---
@@ -61,7 +61,7 @@
 | [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,207 | 2026-08-01 | GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Des... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pestphp/pest](../repos/pestphp/pest.md) | ⭐ 11,614 | 2026-08-01 | The elegant testing framework for PHP developers and AI agents. |
+| [pestphp/pest](../repos/pestphp/pest.md) | ⭐ 11,648 | 2026-08-01 | The elegant testing framework for PHP developers and AI agents. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [laravel/lsp](../repos/laravel/lsp.md) | ⭐ 250 | 2026-08-01 |  |
@@ -76,7 +76,7 @@
 | [WordPress/mcp-adapter](../repos/WordPress/mcp-adapter.md) | ⭐ 1,547 | 2026-08-01 | An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,749 | 2026-08-01 | Empowering People Ethically 🚀 — Matomo is hiring! Join us → https:&#x2F;&#x2F;matomo.org&#x2F;jobs Matomo is th... |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,754 | 2026-08-01 | Empowering People Ethically 🚀 — Matomo is hiring! Join us → https:&#x2F;&#x2F;matomo.org&#x2F;jobs Matomo is th... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,276 | 2026-08-01 | The classic email sending library for PHP |
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,363 | 2026-08-02 | 5 |
+| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,383 | 2026-08-02 | 6 |
 | [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,850 | 2026-08-01 | 3 |
-| [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 31,739 | 2026-08-02 | 3 |
+| [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 31,751 | 2026-08-02 | 4 |
 | [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,119 | 2026-08-02 | 4 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 27,923 | 2026-08-01 | 3 |
-| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,003 | 2026-08-04 | 5 |
+| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,012 | 2026-08-04 | 6 |
 | [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 23,643 | 2026-08-07 | 1 |
 | [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,276 | 2026-08-01 | 2 |
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,749 | 2026-08-01 | 3 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,754 | 2026-08-01 | 4 |
 | [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,582 | 2026-08-04 | 3 |
-| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 15,720 | 2026-08-02 | 3 |
+| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 15,736 | 2026-08-02 | 4 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,738 | 2026-08-01 | 2 |
 | [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,549 | 2026-08-04 | 2 |
 | [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 12,878 | 2026-08-05 | 1 |
 | [SpartnerNL/Laravel-Excel](../repos/SpartnerNL/Laravel-Excel.md) | ⭐ 12,699 | 2026-08-09 | 1 |
 | [typecho/typecho](../repos/typecho/typecho.md) | ⭐ 12,417 | 2026-08-02 | 1 |
 | [magento/magento2](../repos/magento/magento2.md) | ⭐ 12,165 | 2026-08-04 | 4 |
-| [pestphp/pest](../repos/pestphp/pest.md) | ⭐ 11,614 | 2026-08-01 | 1 |
+| [pestphp/pest](../repos/pestphp/pest.md) | ⭐ 11,648 | 2026-08-01 | 2 |
 | [woocommerce/woocommerce](../repos/woocommerce/woocommerce.md) | ⭐ 10,450 | 2026-08-06 | 2 |
-| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,247 | 2026-08-09 | 1 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,249 | 2026-08-09 | 2 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [nextcloud/server](../repos/nextcloud/server.md) | 6 | ⭐ 36,383 | 2026-08-02 | 2026-08-10 |
+| [monicahq/monica](../repos/monicahq/monica.md) | 6 | ⭐ 25,012 | 2026-08-04 | 2026-08-10 |
 | [opensourcepos/opensourcepos](../repos/opensourcepos/opensourcepos.md) | 5 | ⭐ 4,337 | 2026-08-02 | 2026-08-08 |
-| [nextcloud/server](../repos/nextcloud/server.md) | 5 | ⭐ 36,363 | 2026-08-02 | 2026-08-08 |
-| [monicahq/monica](../repos/monicahq/monica.md) | 5 | ⭐ 25,003 | 2026-08-04 | 2026-08-09 |
 | [akaunting/akaunting](../repos/akaunting/akaunting.md) | 4 | ⭐ 10,042 | 2026-08-01 | 2026-08-08 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | 4 | ⭐ 21,754 | 2026-08-01 | 2026-08-10 |
 | [PrestaShop/PrestaShop](../repos/PrestaShop/PrestaShop.md) | 4 | ⭐ 9,185 | 2026-08-01 | 2026-08-09 |
 | [symfony/symfony](../repos/symfony/symfony.md) | 4 | ⭐ 31,119 | 2026-08-02 | 2026-08-08 |
 | [cedar2025/Xboard](../repos/cedar2025/Xboard.md) | 4 | ⭐ 4,628 | 2026-08-02 | 2026-08-09 |
-| [magento/magento2](../repos/magento/magento2.md) | 4 | ⭐ 12,165 | 2026-08-04 | 2026-08-07 |
-| [laravel/boost](../repos/laravel/boost.md) | 4 | ⭐ 3,565 | 2026-08-06 | 2026-08-09 |
-| [laravel/framework](../repos/laravel/framework.md) | 3 | ⭐ 34,850 | 2026-08-01 | 2026-08-05 |
+| [filamentphp/filament](../repos/filamentphp/filament.md) | 4 | ⭐ 31,751 | 2026-08-02 | 2026-08-10 |
+| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | 4 | ⭐ 15,736 | 2026-08-02 | 2026-08-10 |
 
 ---
 
@@ -194,7 +194,8 @@
 - [investbrainapp/investbrain](../repos/investbrainapp/investbrain.md) - Smart LLM-enabled investment tracker that consolidates and monitors market performance across you...
 - [googleapis/google-api-php-client](../repos/googleapis/google-api-php-client.md) - A PHP client library for accessing Google APIs
 - [SpartnerNL/Laravel-Excel](../repos/SpartnerNL/Laravel-Excel.md) - 🚀 Supercharged Excel exports and imports in Laravel
+- [David-Crty/databasement](../repos/David-Crty/databasement.md) - Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQ...
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.298Z*
+*Last updated: 2026-08-10T21:02:07.671Z*

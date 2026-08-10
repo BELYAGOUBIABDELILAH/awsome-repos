@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 85
+- **Total Repositories**: 88
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-09
+- **Last Updated**: 2026-08-10
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,540 | 2026-08-02 | 2 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,083 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,774 | 2026-08-02 | 4 |
+| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,367 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,462 | 2026-08-02 | 3 |
+| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 546 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) | ⭐ 619 | 2026-08-02 | 3 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,558 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) | ⭐ 16,451 | 2026-08-03 | 2 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,811 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,302 | 2026-08-07 | 3 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,365 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 5,839 | 2026-08-08 | 2 |
+| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 5,999 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acidanthera/OpenCorePkg](../repos/acidanthera/OpenCorePkg.md) | ⭐ 15,341 | 2026-08-08 | 2 |
+| [EpicGames/raddebugger](../repos/EpicGames/raddebugger.md) | ⭐ 7,356 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 26,835 | 2026-08-08 | 2 |
+| [rexglue/rexglue-sdk](../repos/rexglue/rexglue-sdk.md) | ⭐ 766 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,220 | 2026-08-08 | 2 |
+| [veracrypt/VeraCrypt](../repos/veracrypt/VeraCrypt.md) | ⭐ 11,208 | 2026-08-09 | 2 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 65,443 | 2026-08-01 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,057 | 2026-08-01 | Cross-platform asynchronous I&#x2F;O |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,083 | 2026-08-01 | Cross-platform asynchronous I&#x2F;O |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 21,953 | 2026-08-01 | Flipper Zero Unleashed Firmware |
@@ -76,7 +76,7 @@
 | [mcu-tools/mcuboot](../repos/mcu-tools/mcuboot.md) | ⭐ 2,006 | 2026-08-01 | Secure boot for 32-bit Microcontrollers! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,331 | 2026-08-01 | Decompilation of Pokémon Emerald |
+| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,367 | 2026-08-01 | Decompilation of Pokémon Emerald |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [linux-rdma/rdma-core](../repos/linux-rdma/rdma-core.md) | ⭐ 2,335 | 2026-08-01 | RDMA core userspace libraries and daemons |
@@ -88,10 +88,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,302 | 2026-08-07 | 3 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,365 | 2026-08-07 | 4 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,460 | 2026-08-01 | 2 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 75,874 | 2026-08-04 | 1 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,774 | 2026-08-02 | 4 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,811 | 2026-08-02 | 5 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 65,443 | 2026-08-01 | 4 |
 | [git/git](../repos/git/git.md) | ⭐ 62,438 | 2026-08-05 | 2 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,280 | 2026-08-01 | 2 |
@@ -102,9 +102,9 @@
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,347 | 2026-08-03 | 2 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 31,813 | 2026-08-01 | 1 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,313 | 2026-08-02 | 1 |
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 27,922 | 2026-08-09 | 1 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 27,939 | 2026-08-09 | 2 |
 | [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,527 | 2026-08-07 | 1 |
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,057 | 2026-08-01 | 1 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,083 | 2026-08-01 | 2 |
 | [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 26,835 | 2026-08-08 | 2 |
 | [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 26,488 | 2026-08-06 | 1 |
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 25,867 | 2026-08-02 | 3 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 5 | ⭐ 74,811 | 2026-08-02 | 2026-08-10 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 4 | ⭐ 65,443 | 2026-08-01 | 2026-08-08 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 4 | ⭐ 74,774 | 2026-08-02 | 2026-08-09 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 4 | ⭐ 147,365 | 2026-08-07 | 2026-08-10 |
 | [HarbourMasters/Lighthouse](../repos/HarbourMasters/Lighthouse.md) | 3 | ⭐ 307 | 2026-08-02 | 2026-08-04 |
+| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | 3 | ⭐ 546 | 2026-08-02 | 2026-08-10 |
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | 3 | ⭐ 25,867 | 2026-08-02 | 2026-08-04 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | 3 | ⭐ 18,558 | 2026-08-02 | 2026-08-10 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | 3 | ⭐ 36,462 | 2026-08-02 | 2026-08-09 |
 | [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) | 3 | ⭐ 619 | 2026-08-02 | 2026-08-09 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 3 | ⭐ 6,859 | 2026-08-04 | 2026-08-07 |
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 3 | ⭐ 4,400 | 2026-08-04 | 2026-08-07 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 3 | ⭐ 147,302 | 2026-08-07 | 2026-08-09 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 2 | ⭐ 137,460 | 2026-08-01 | 2026-08-04 |
 
 ---
 
@@ -215,7 +215,10 @@
 - [arendst/Tasmota](../repos/arendst/Tasmota.md) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA...
 - [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader/sumatrapdf.md) - SumatraPDF reader
 - [libusb/libusb](../repos/libusb/libusb.md) - A cross-platform library to access USB devices 
+- [HermannBjorgvin/Clawdmeter](../repos/HermannBjorgvin/Clawdmeter.md) - ESP32 desk dashboard that shows Claude Code usage
+- [fastfetch-cli/fastfetch](../repos/fastfetch-cli/fastfetch.md) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+- [ExpressLRS/ExpressLRS](../repos/ExpressLRS/ExpressLRS.md) - High Performance Open Source Radio Control Link
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.256Z*
+*Last updated: 2026-08-10T21:02:07.625Z*

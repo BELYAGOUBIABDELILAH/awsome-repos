@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 19
+- **Total Repositories**: 20
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,34 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,162 | 2026-08-01 | 9 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,903 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,897 | 2026-08-01 | 8 |
+| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 58 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,546 | 2026-08-01 | 6 |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 901 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,117 | 2026-08-01 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 57 | 2026-08-01 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 900 | 2026-08-01 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,516 | 2026-08-01 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,670 | 2026-08-02 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,228 | 2026-08-05 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [stategraph/stategraph](../repos/stategraph/stategraph.md) | ⭐ 1,255 | 2026-08-09 | 1 |
+| [savonet/liquidsoap](../repos/savonet/liquidsoap.md) | ⭐ 1,713 | 2026-08-10 | 1 |
 
 
 ---
@@ -55,7 +37,7 @@
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,162 | 2026-08-01 | Lightweight static analysis for many languages. Find bug variants with patterns that look like so... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,897 | 2026-08-01 | 🔎 Static code analysis engine to find security issues in code. |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,903 | 2026-08-01 | 🔎 Static code analysis engine to find security issues in code. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,546 | 2026-08-01 | The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal langua... |
@@ -73,10 +55,10 @@
 | [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,906 | 2026-08-01 | A composable build system for OCaml. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 57 | 2026-08-01 | OCaml code generator and runtime library for handling typed tree-sitter CSTs |
+| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 58 | 2026-08-01 | OCaml code generator and runtime library for handling typed tree-sitter CSTs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 900 | 2026-08-01 | A verification toolchain for Rust programs |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 901 | 2026-08-01 | A verification toolchain for Rust programs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,516 | 2026-08-01 | The core OCaml system: compilers, runtime system, base libraries |
@@ -94,19 +76,20 @@
 | [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,228 | 2026-08-05 | 4 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,546 | 2026-08-01 | 6 |
 | [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,429 | 2026-08-07 | 1 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,897 | 2026-08-01 | 8 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,903 | 2026-08-01 | 9 |
 | [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,353 | 2026-08-02 | 1 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,117 | 2026-08-01 | 5 |
 | [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,906 | 2026-08-01 | 5 |
+| [savonet/liquidsoap](../repos/savonet/liquidsoap.md) | ⭐ 1,713 | 2026-08-10 | 1 |
 | [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,374 | 2026-08-01 | 5 |
 | [janestreet/bonsai](../repos/janestreet/bonsai.md) | ⭐ 1,353 | 2026-08-05 | 2 |
 | [stategraph/stategraph](../repos/stategraph/stategraph.md) | ⭐ 1,255 | 2026-08-09 | 1 |
 | [ocaml/ocaml-lsp](../repos/ocaml/ocaml-lsp.md) | ⭐ 909 | 2026-08-06 | 3 |
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 900 | 2026-08-01 | 3 |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 901 | 2026-08-01 | 4 |
 | [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 831 | 2026-08-03 | 3 |
 | [caffeinelabs/motoko](../repos/caffeinelabs/motoko.md) | ⭐ 588 | 2026-08-01 | 4 |
 | [cryspen/hax](../repos/cryspen/hax.md) | ⭐ 464 | 2026-08-03 | 3 |
-| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 57 | 2026-08-01 | 9 |
+| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 58 | 2026-08-01 | 10 |
 
 ---
 
@@ -114,9 +97,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | 10 | ⭐ 58 | 2026-08-01 | 2026-08-10 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 9 | ⭐ 16,162 | 2026-08-01 | 2026-08-09 |
-| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | 9 | ⭐ 57 | 2026-08-01 | 2026-08-09 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 8 | ⭐ 2,897 | 2026-08-01 | 2026-08-09 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 9 | ⭐ 2,903 | 2026-08-01 | 2026-08-10 |
 | [ocaml/ocaml](../repos/ocaml/ocaml.md) | 7 | ⭐ 6,516 | 2026-08-01 | 2026-08-09 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 6 | ⭐ 5,546 | 2026-08-01 | 2026-08-09 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 5 | ⭐ 2,117 | 2026-08-01 | 2026-08-09 |
@@ -148,7 +131,8 @@
 - [ocaml/ocaml-lsp](../repos/ocaml/ocaml-lsp.md) - OCaml Language Server Protocol implementation
 - [bcpierce00/unison](../repos/bcpierce00/unison.md) - Unison file synchronizer
 - [stategraph/stategraph](../repos/stategraph/stategraph.md) - Terraform without the state file bottleneck
+- [savonet/liquidsoap](../repos/savonet/liquidsoap.md) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and ...
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.295Z*
+*Last updated: 2026-08-10T21:02:07.668Z*

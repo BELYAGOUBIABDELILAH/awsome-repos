@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,704 | 2026-08-01 | 3 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,951 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,926 | 2026-08-02 | 3 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 668 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 667 | 2026-08-02 | 3 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 486 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 486 | 2026-08-02 | 2 |
+| [mixpanel/mixpanel-iphone](../repos/mixpanel/mixpanel-iphone.md) | ⭐ 1,065 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mixpanel/mixpanel-iphone](../repos/mixpanel/mixpanel-iphone.md) | ⭐ 1,065 | 2026-08-02 | 3 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,212 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,210 | 2026-08-02 | 3 |
+| [robbiehanson/KissXML](../repos/robbiehanson/KissXML.md) | ⭐ 858 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [roothide/Bootstrap](../repos/roothide/Bootstrap.md) | ⭐ 1,692 | 2026-08-03 | 2 |
+| [erikdoe/ocmock](../repos/erikdoe/ocmock.md) | ⭐ 2,171 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kif-framework/KIF](../repos/kif-framework/KIF.md) | ⭐ 6,244 | 2026-08-04 | 2 |
+| [danveloper/flash-moe](../repos/danveloper/flash-moe.md) | ⭐ 4,055 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mininglamp-OSS/octo-ios](../repos/Mininglamp-OSS/octo-ios.md) | ⭐ 484 | 2026-08-07 | 3 |
+| [roothide/Bootstrap](../repos/roothide/Bootstrap.md) | ⭐ 1,694 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,090 | 2026-08-07 | 3 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,906 | 2026-08-04 | 3 |
 
 
 ---
@@ -90,10 +90,10 @@
 |------------|-------|------------|---------------|
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,412 | 2026-08-02 | 2 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | 2026-08-01 | 5 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,926 | 2026-08-02 | 3 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,951 | 2026-08-02 | 4 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,615 | 2026-08-04 | 4 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,935 | 2026-08-04 | 4 |
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,899 | 2026-08-04 | 2 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,906 | 2026-08-04 | 3 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,017 | 2026-08-01 | 2 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,626 | 2026-08-04 | 2 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,329 | 2026-08-04 | 4 |
@@ -121,10 +121,10 @@
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 5 | ⭐ 25,638 | 2026-08-01 | 2026-08-08 |
 | [google/promises](../repos/google/promises.md) | 4 | ⭐ 3,827 | 2026-08-01 | 2026-08-08 |
 | [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 4 | ⭐ 5,072 | 2026-08-01 | 2026-08-08 |
-| [amplitude/Amplitude-iOS](../repos/amplitude/Amplitude-iOS.md) | 4 | ⭐ 328 | 2026-08-02 | 2026-08-07 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | 4 | ⭐ 16,615 | 2026-08-04 | 2026-08-08 |
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | 4 | ⭐ 13,329 | 2026-08-04 | 2026-08-07 |
-| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | 4 | ⭐ 15,935 | 2026-08-04 | 2026-08-08 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 4 | ⭐ 21,951 | 2026-08-02 | 2026-08-10 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 4 | ⭐ 668 | 2026-08-02 | 2026-08-10 |
+| [mixpanel/mixpanel-iphone](../repos/mixpanel/mixpanel-iphone.md) | 4 | ⭐ 1,065 | 2026-08-02 | 2026-08-10 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | 4 | ⭐ 3,212 | 2026-08-02 | 2026-08-10 |
 
 ---
 
@@ -194,4 +194,4 @@
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.297Z*
+*Last updated: 2026-08-10T21:02:07.669Z*

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-09T21:01:55.405Z",
-  "total_repositories": 1735,
-  "trending_today": 408,
-  "new_this_month": 1735,
+  "generated_at": "2026-08-10T21:02:11.110Z",
+  "total_repositories": 1820,
+  "trending_today": 377,
+  "new_this_month": 1820,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-08-09",
+  "last_collection": "2026-08-10",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,7 +12,7 @@
   },
   "most_frequent": {
     "full_name": "rubysec/ruby-advisory-db",
-    "trending_days": 9,
+    "trending_days": 10,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 29403416,
-  "avg_stars": 16947,
-  "avg_trending_days": 2.3,
+  "total_stars": 30208425,
+  "avg_stars": 16598,
+  "avg_trending_days": 2.4,
   "language_count": 52,
-  "topic_count": 5487,
+  "topic_count": 5672,
   "collection_success_rate": 100,
-  "data_quality_score": 100
+  "data_quality_score": 99
 }

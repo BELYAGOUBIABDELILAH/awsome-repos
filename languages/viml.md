@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [altercation/vim-colors-solarized](../repos/altercation/vim-colors-solarized.md) | ⭐ 6,593 | 2026-08-02 | 5 |
 
+*No VimL repositories trending today*
 
 ---
 
@@ -52,4 +50,4 @@
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.319Z*
+*Last updated: 2026-08-10T21:02:07.691Z*

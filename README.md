@@ -6,24 +6,24 @@
 
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/BELYAGOUBIABDELILAH/awsome-repos/process-trending.yml?branch=main&label=Daily%20Updates&logo=github)](https://github.com/BELYAGOUBIABDELILAH/awsome-repos/actions)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Repositories](https://img.shields.io/badge/Repositories-1735-green.svg)](./stats/)
+[![Repositories](https://img.shields.io/badge/Repositories-1820-green.svg)](./stats/)
 [![Languages](https://img.shields.io/badge/Languages-52-orange.svg)](./languages/)
 
 </div>
 
 ---
 
-## 📅 Today's Trending - August 9, 2026
+## 📅 Today's Trending - August 10, 2026
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|------:|----------|-------------|
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | ⭐ 11k | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous task |
-| [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) | ⭐ 7k | Python | No description |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⭐ 85k | JavaScript | Production-grade engineering skills for AI coding agents. |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ⭐ 61k | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stoc |
-| [google/skills](https://github.com/google/skills) | ⭐ 17k | Python | Agent Skills for Google products and technologies |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⭐ 86k | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | ⭐ 76k | TypeScript | The open-source app everyone uses to manage agents at work |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | ⭐ 13k | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous task |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | ⭐ 65k | C++ | Truly independent web browser |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | ⭐ 89k | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital |
 
-[📄 View full daily report →](./archive/2026/08/2026-08-09.md)
+[📄 View full daily report →](./archive/2026/08/2026-08-10.md)
 
 ---
 
@@ -68,7 +68,7 @@ Detailed pages for each repository with complete metrics, trending history, rela
 - [microsoft/vscode](./repos/microsoft/vscode.md)
 - [rust-lang/rust](./repos/rust-lang/rust.md)
 
-**[Browse all 1735 repositories →](./repos/)**
+**[Browse all 1820 repositories →](./repos/)**
 
 ---
 
@@ -95,9 +95,9 @@ Historical trends, growth analysis, and data insights across all tracked reposit
 
 ## 📈 Archive Overview
 
-- **1735** repositories indexed
+- **1820** repositories indexed
 - **52** programming languages covered
-- **5487** topics tracked
+- **5672** topics tracked
 - **Daily updates** via automated workflow
 - **Historical data** since July 2026
 

@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,221 | 2026-08-07 | 3 |
 
+*No VHDL repositories trending today*
 
 ---
 
@@ -58,4 +56,4 @@
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.316Z*
+*Last updated: 2026-08-10T21:02:07.688Z*

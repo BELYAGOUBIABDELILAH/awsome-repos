@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 406
+**Gems Found**: 442
 
 ---
 
@@ -97,13 +97,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,043 |
+| ⭐ **Stars** | 2,104 |
 | 💻 **Language** | Clojure |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 6 |
+| 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+120 stars&#x2F;day) • Trending 6 times • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+113 stars&#x2F;day) • Trending 7 times • Very active development • Underrated project
 
 **Best for**: 
 
@@ -151,27 +151,7 @@
 
 ---
 
-### 8. [tt-a1i&#x2F;archify](../../repos/tt-a1i/archify.md)
-
-**Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 10,882 |
-| 💻 **Language** | HTML |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+351 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/tt-a1i/archify.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tt-a1i&#x2F;archify)
-
----
-
-### 9. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
+### 8. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
 
 **BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
 
@@ -191,7 +171,47 @@
 
 ---
 
-### 10. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 9. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
+
+**📼 The missing YouTube and YouTube Music macOS app**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,904 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+46 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/sozercan/kaset.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;sozercan&#x2F;kaset)
+
+---
+
+### 10. [tt-a1i&#x2F;archify](../../repos/tt-a1i/archify.md)
+
+**Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 10,882 |
+| 💻 **Language** | HTML |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+351 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/tt-a1i/archify.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tt-a1i&#x2F;archify)
+
+---
+
+### 11. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
 **Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
@@ -211,7 +231,27 @@
 
 ---
 
-### 11. [embabel&#x2F;embabel-agent](../../repos/embabel/embabel-agent.md)
+### 12. [Mininglamp-OSS&#x2F;octo-ios](../../repos/Mininglamp-OSS/octo-ios.md)
+
+**OCTO iOS Client — Open-source enterprise IM**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 484 |
+| 💻 **Language** | Objective-C |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 7, 2026 |
+
+**Why it's a gem**: High growth velocity (+47 stars&#x2F;day) • Trending 4 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Mininglamp-OSS/octo-ios.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-ios)
+
+---
+
+### 13. [embabel&#x2F;embabel-agent](../../repos/embabel/embabel-agent.md)
 
 **Agent framework for the JVM. Pronounced Em-BAY-bel &#x2F;ɛmˈbeɪbəl&#x2F;**
 
@@ -231,27 +271,7 @@
 
 ---
 
-### 12. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
-
-**📼 The missing YouTube and YouTube Music macOS app**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,873 |
-| 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+54 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/sozercan/kaset.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;sozercan&#x2F;kaset)
-
----
-
-### 13. [cloudflare&#x2F;computer](../../repos/cloudflare/computer.md)
+### 14. [cloudflare&#x2F;computer](../../repos/cloudflare/computer.md)
 
 **Give your agent a computer 👾**
 
@@ -259,7 +279,7 @@
 |---|---|
 | ⭐ **Stars** | 6,976 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 86/100 |
+| 🏆 **Gem Score** | 85/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 5, 2026 |
 
@@ -271,43 +291,23 @@
 
 ---
 
-### 14. [Chevey339&#x2F;kelivo](../../repos/Chevey339/kelivo.md)
+### 15. [denoland&#x2F;celld](../../repos/denoland/celld.md)
 
-**A Flutter LLM Chat Client. Support Mobile &amp; Desktop.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,573 |
-| 💻 **Language** | Dart |
-| 🏆 **Gem Score** | 85/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: Trending 5 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Chevey339/kelivo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Chevey339&#x2F;kelivo)
-
----
-
-### 15. [Mininglamp-OSS&#x2F;octo-ios](../../repos/Mininglamp-OSS/octo-ios.md)
-
-**OCTO iOS Client — Open-source enterprise IM**
+**self-hosted, distributed Durable Objects**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 484 |
-| 💻 **Language** | Objective-C |
+| ⭐ **Stars** | 2,993 |
+| 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 85/100 |
-| 📈 **Trending Days** | 3 |
+| 📈 **Trending Days** | 4 |
 | 📅 **First Seen** | Aug 7, 2026 |
 
-**Why it's a gem**: High growth velocity (+51 stars&#x2F;day) • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+630 stars&#x2F;day) • Trending 4 times • Very active development • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/Mininglamp-OSS/octo-ios.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-ios)
+[View Passport](../../repos/denoland/celld.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;denoland&#x2F;celld)
 
 ---
 
@@ -351,19 +351,39 @@
 
 ---
 
-### 18. [nullclaw&#x2F;nullhub](../../repos/nullclaw/nullhub.md)
+### 18. [Chevey339&#x2F;kelivo](../../repos/Chevey339/kelivo.md)
+
+**A Flutter LLM Chat Client. Support Mobile &amp; Desktop.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,573 |
+| 💻 **Language** | Dart |
+| 🏆 **Gem Score** | 84/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 2, 2026 |
+
+**Why it's a gem**: Trending 5 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Chevey339/kelivo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Chevey339&#x2F;kelivo)
+
+---
+
+### 19. [nullclaw&#x2F;nullhub](../../repos/nullclaw/nullhub.md)
 
 **Management console for the Null ecosystem — install, configure, and monitor AI agents, orchestration workflows, task pipelines, and system health**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,003 |
+| ⭐ **Stars** | 2,015 |
 | 💻 **Language** | Zig |
-| 🏆 **Gem Score** | 84/100 |
-| 📈 **Trending Days** | 8 |
+| 🏆 **Gem Score** | 83/100 |
+| 📈 **Trending Days** | 9 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: Trending 8 times • Strong community engagement • Underrated project
+**Why it's a gem**: Trending 9 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -371,7 +391,7 @@
 
 ---
 
-### 19. [firecrawl&#x2F;pdf-inspector](../../repos/firecrawl/pdf-inspector.md)
+### 20. [firecrawl&#x2F;pdf-inspector](../../repos/firecrawl/pdf-inspector.md)
 
 **Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.**
 
@@ -391,26 +411,6 @@
 
 ---
 
-### 20. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
-
-**Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,266 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 83/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 8, 2026 |
-
-**Why it's a gem**: High growth velocity (+112 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/malisper/pgrust.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;malisper&#x2F;pgrust)
-
----
-
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-08-09T21:01:55.297Z*  
+*Generated: 2026-08-10T21:02:11.006Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

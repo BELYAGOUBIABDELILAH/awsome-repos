@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | MIT |
-| **Stars** | ⭐ 5,839 |
-| **Forks** | 🍴 6,183 |
-| **Trending Days** | 2 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 5,999 |
+| **Forks** | 🍴 6,192 |
+| **Trending Days** | 3 |
+| **Peak Rank** | #16 |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Aug 9, 2026 |
+| **Last Seen** | Aug 10, 2026 |
 
 
 ---
@@ -43,12 +43,13 @@
 
 ## Trending Timeline
 
+**Aug 10, 2026** — Rank #16 (+95 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
-- **Longest Streak**: 2 days
+- **Peak Rank**: #16
+- **Trending Days**: 3
+- **Longest Streak**: 3 days
 
 ---
 
@@ -70,7 +71,7 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 5,839+ stars, strong contributor base |
+| **Community** | Very Active | 5,999+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 60&#x2F;100
+- **Historical Rank**: Peak: #16
 
 
 ---
 
-*Last updated: 2026-08-09T21:01:54.951Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-10T21:02:10.574Z*  
+*Data from 3 trending reports*

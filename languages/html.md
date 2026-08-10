@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 37
+- **Total Repositories**: 38
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,16 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,680 | 2026-08-01 | 4 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,270 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 10,882 | 2026-08-04 | 6 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,055 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,389 | 2026-08-08 | 2 |
+| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | ⭐ 4,961 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,588 | 2026-08-09 | 1 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,440 | 2026-08-08 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,651 | 2026-08-09 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [github/choosealicense.com](../repos/github/choosealicense.com.md) | ⭐ 4,193 | 2026-08-10 | 1 |
 
 
 ---
@@ -49,7 +55,7 @@
 | [GoogleCloudPlatform/knowledge-catalog](../repos/GoogleCloudPlatform/knowledge-catalog.md) | ⭐ 8,131 | 2026-08-01 | Google Cloud Knowledge Catalog Tools and Samples |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,093 | 2026-08-01 | from vibe coding to agentic engineering - practice makes claude perfect |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,270 | 2026-08-01 | from vibe coding to agentic engineering - practice makes claude perfect |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,757 | 2026-08-01 | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
@@ -71,12 +77,12 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 207,704 | 2026-08-03 | 2 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,389 | 2026-08-08 | 2 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,093 | 2026-08-01 | 2 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,440 | 2026-08-08 | 3 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,270 | 2026-08-01 | 3 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,014 | 2026-08-01 | 3 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,483 | 2026-08-07 | 1 |
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,588 | 2026-08-09 | 1 |
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,025 | 2026-08-03 | 2 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,651 | 2026-08-09 | 2 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,055 | 2026-08-03 | 3 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,513 | 2026-08-04 | 3 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,307 | 2026-08-03 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 18,300 | 2026-08-01 | 1 |
@@ -99,14 +105,14 @@
 |------------|---------------|-------|------------|-----------|
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 6 | ⭐ 10,882 | 2026-08-04 | 2026-08-09 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 4 | ⭐ 9,680 | 2026-08-01 | 2026-08-09 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 3 | ⭐ 64,270 | 2026-08-01 | 2026-08-10 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | 3 | ⭐ 46,014 | 2026-08-01 | 2026-08-08 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 3 | ⭐ 27,055 | 2026-08-03 | 2026-08-10 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 3 | ⭐ 23,513 | 2026-08-04 | 2026-08-08 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 3 | ⭐ 16,415 | 2026-08-04 | 2026-08-07 |
 | [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 3 | ⭐ 6,077 | 2026-08-05 | 2026-08-08 |
 | [Commando-X/vuln-bank](../repos/Commando-X/vuln-bank.md) | 3 | ⭐ 901 | 2026-08-05 | 2026-08-07 |
-| [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | 2 | ⭐ 8,616 | 2026-08-01 | 2026-08-02 |
-| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | 2 | ⭐ 7,627 | 2026-08-01 | 2026-08-04 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 2 | ⭐ 64,093 | 2026-08-01 | 2026-08-06 |
+| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | 3 | ⭐ 4,961 | 2026-08-06 | 2026-08-10 |
 
 ---
 
@@ -149,7 +155,8 @@
 - [google/styleguide](../repos/google/styleguide.md) - Style guides for Google-originated open-source projects
 - [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Fin...
+- [github/choosealicense.com](../repos/github/choosealicense.com.md) - A site to provide non-judgmental guidance on choosing a license for your open source project
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.282Z*
+*Last updated: 2026-08-10T21:02:07.654Z*

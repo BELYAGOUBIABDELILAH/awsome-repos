@@ -14,13 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,533 | 2026-08-01 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,368 | 2026-08-06 | 2 |
 
+*No Crystal repositories trending today*
 
 ---
 
@@ -61,4 +56,4 @@
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.272Z*
+*Last updated: 2026-08-10T21:02:07.643Z*

@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,727 | 2026-08-01 | 8 |
 
+*No MATLAB repositories trending today*
 
 ---
 
@@ -64,4 +62,4 @@
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.292Z*
+*Last updated: 2026-08-10T21:02:07.665Z*

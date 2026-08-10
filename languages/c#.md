@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 75
+- **Total Repositories**: 79
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,602 | 2026-08-01 | 3 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 13,789 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,476 | 2026-08-02 | 6 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 16,405 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 16,133 | 2026-08-02 | 4 |
+| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,868 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,863 | 2026-08-02 | 3 |
+| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 5,086 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,110 | 2026-08-03 | 6 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,621 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,165 | 2026-08-04 | 3 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,628 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | ⭐ 13,295 | 2026-08-05 | 5 |
+| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,502 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,488 | 2026-08-07 | 3 |
+| [LibreHardwareMonitor/LibreHardwareMonitor](../repos/LibreHardwareMonitor/LibreHardwareMonitor.md) | ⭐ 8,852 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [btcpayserver/btcpayserver](../repos/btcpayserver/btcpayserver.md) | ⭐ 7,697 | 2026-08-08 | 2 |
+| [shinyflvre/VRCNext](../repos/shinyflvre/VRCNext.md) | ⭐ 159 | 2026-08-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StartupHakk/OpenMonoAgent.ai](../repos/StartupHakk/OpenMonoAgent.ai.md) | ⭐ 1,734 | 2026-08-09 | 1 |
+| [BornToBeRoot/NETworkManager](../repos/BornToBeRoot/NETworkManager.md) | ⭐ 8,624 | 2026-08-10 | 1 |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,476 | 2026-08-02 | 6 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,394 | 2026-08-02 | 3 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,621 | 2026-08-02 | 4 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,758 | 2026-08-06 | 2 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,537 | 2026-08-01 | 2 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,354 | 2026-08-01 | 3 |
@@ -97,6 +97,7 @@
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,700 | 2026-08-08 | 1 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,422 | 2026-08-05 | 1 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | 2026-08-01 | 7 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,441 | 2026-08-10 | 1 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,810 | 2026-08-01 | 2 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,430 | 2026-08-02 | 2 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,292 | 2026-08-04 | 2 |
@@ -104,10 +105,9 @@
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,672 | 2026-08-01 | 1 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,163 | 2026-08-04 | 3 |
 | [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,187 | 2026-08-01 | 2 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 16,133 | 2026-08-02 | 4 |
-| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,863 | 2026-08-02 | 3 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 16,405 | 2026-08-02 | 5 |
+| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,868 | 2026-08-02 | 4 |
 | [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 14,989 | 2026-08-03 | 2 |
-| [dotnet/efcore](../repos/dotnet/efcore.md) | ⭐ 14,762 | 2026-08-04 | 1 |
 
 ---
 
@@ -119,12 +119,12 @@
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 6 | ⭐ 113,476 | 2026-08-02 | 2026-08-09 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 6 | ⭐ 5,110 | 2026-08-03 | 2026-08-09 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 5 | ⭐ 3,550 | 2026-08-01 | 2026-08-08 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 5 | ⭐ 16,405 | 2026-08-02 | 2026-08-10 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 5 | ⭐ 14,628 | 2026-08-02 | 2026-08-10 |
 | [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | 5 | ⭐ 13,295 | 2026-08-05 | 2026-08-09 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 4 | ⭐ 16,133 | 2026-08-02 | 2026-08-09 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 4 | ⭐ 14,582 | 2026-08-02 | 2026-08-08 |
+| [Jackett/Jackett](../repos/Jackett/Jackett.md) | 4 | ⭐ 15,868 | 2026-08-02 | 2026-08-10 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 4 | ⭐ 55,621 | 2026-08-02 | 2026-08-10 |
 | [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | 4 | ⭐ 3,088 | 2026-08-04 | 2026-08-08 |
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | 3 | ⭐ 20,602 | 2026-08-01 | 2026-08-09 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 3 | ⭐ 38,354 | 2026-08-01 | 2026-08-04 |
 
 ---
 
@@ -205,7 +205,11 @@
 - [UnigramDev/Unigram](../repos/UnigramDev/Unigram.md) - Telegram for Windows
 - [LibreHardwareMonitor/LibreHardwareMonitor](../repos/LibreHardwareMonitor/LibreHardwareMonitor.md) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, vol...
 - [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) - Unity &#x2F; XNA game patcher and plugin framework
+- [shinyflvre/VRCNext](../repos/shinyflvre/VRCNext.md) - VRCN is a VRChat launcher for Windows that includes various useful tools within a clean interface...
+- [BornToBeRoot/NETworkManager](../repos/BornToBeRoot/NETworkManager.md) - A powerful open-source tool for managing networks and troubleshooting network problems!
+- [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+- [intro-skipper/intro-skipper](../repos/intro-skipper/intro-skipper.md) - Automatically detect and skip intro&#x2F;credit sequences in Jellyfin
 
 ---
 
-*Last updated: 2026-08-09T21:01:52.259Z*
+*Last updated: 2026-08-10T21:02:07.631Z*
