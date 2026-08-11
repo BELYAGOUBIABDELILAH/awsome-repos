@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 88
+- **Total Repositories**: 90
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-10
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,083 | 2026-08-01 | 2 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,669 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,367 | 2026-08-01 | 2 |
+| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,385 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 546 | 2026-08-02 | 3 |
+| [darktable-org/darktable](../repos/darktable-org/darktable.md) | ⭐ 12,926 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,558 | 2026-08-02 | 3 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,408 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,811 | 2026-08-02 | 5 |
+| [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,613 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,365 | 2026-08-07 | 4 |
+| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,430 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 5,999 | 2026-08-08 | 3 |
+| [lz4/lz4](../repos/lz4/lz4.md) | ⭐ 11,993 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EpicGames/raddebugger](../repos/EpicGames/raddebugger.md) | ⭐ 7,356 | 2026-08-08 | 2 |
+| [asterisk/asterisk](../repos/asterisk/asterisk.md) | ⭐ 3,445 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rexglue/rexglue-sdk](../repos/rexglue/rexglue-sdk.md) | ⭐ 766 | 2026-08-08 | 2 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,542 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [veracrypt/VeraCrypt](../repos/veracrypt/VeraCrypt.md) | ⭐ 11,208 | 2026-08-09 | 2 |
+| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 6,174 | 2026-08-08 | 4 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,460 | 2026-08-01 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization ... |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,669 | 2026-08-01 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 65,443 | 2026-08-01 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur... |
@@ -89,21 +89,21 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,365 | 2026-08-07 | 4 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,460 | 2026-08-01 | 2 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,669 | 2026-08-01 | 3 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 75,874 | 2026-08-04 | 1 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,811 | 2026-08-02 | 5 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 65,443 | 2026-08-01 | 4 |
 | [git/git](../repos/git/git.md) | ⭐ 62,438 | 2026-08-05 | 2 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,280 | 2026-08-01 | 2 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 38,043 | 2026-08-07 | 1 |
-| [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,220 | 2026-08-08 | 2 |
+| [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,255 | 2026-08-08 | 3 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,462 | 2026-08-02 | 3 |
-| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,391 | 2026-08-04 | 1 |
-| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,347 | 2026-08-03 | 2 |
+| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,430 | 2026-08-04 | 2 |
+| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,385 | 2026-08-03 | 3 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 31,813 | 2026-08-01 | 1 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,313 | 2026-08-02 | 1 |
 | [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 27,939 | 2026-08-09 | 2 |
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,527 | 2026-08-07 | 1 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,542 | 2026-08-07 | 2 |
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,083 | 2026-08-01 | 2 |
 | [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 26,835 | 2026-08-08 | 2 |
 | [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 26,488 | 2026-08-06 | 1 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 5 | ⭐ 74,811 | 2026-08-02 | 2026-08-10 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 4 | ⭐ 65,443 | 2026-08-01 | 2026-08-08 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 4 | ⭐ 4,408 | 2026-08-04 | 2026-08-11 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 4 | ⭐ 147,365 | 2026-08-07 | 2026-08-10 |
+| [opa334/Dopamine](../repos/opa334/Dopamine.md) | 4 | ⭐ 6,174 | 2026-08-08 | 2026-08-11 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 3 | ⭐ 137,669 | 2026-08-01 | 2026-08-11 |
 | [HarbourMasters/Lighthouse](../repos/HarbourMasters/Lighthouse.md) | 3 | ⭐ 307 | 2026-08-02 | 2026-08-04 |
 | [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | 3 | ⭐ 546 | 2026-08-02 | 2026-08-10 |
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | 3 | ⭐ 25,867 | 2026-08-02 | 2026-08-04 |
 | [brunodev85/winlator](../repos/brunodev85/winlator.md) | 3 | ⭐ 18,558 | 2026-08-02 | 2026-08-10 |
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | 3 | ⭐ 36,462 | 2026-08-02 | 2026-08-09 |
-| [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) | 3 | ⭐ 619 | 2026-08-02 | 2026-08-09 |
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 3 | ⭐ 6,859 | 2026-08-04 | 2026-08-07 |
 
 ---
 
@@ -218,7 +218,9 @@
 - [HermannBjorgvin/Clawdmeter](../repos/HermannBjorgvin/Clawdmeter.md) - ESP32 desk dashboard that shows Claude Code usage
 - [fastfetch-cli/fastfetch](../repos/fastfetch-cli/fastfetch.md) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [ExpressLRS/ExpressLRS](../repos/ExpressLRS/ExpressLRS.md) - High Performance Open Source Radio Control Link
+- [SchedMD/slurm](../repos/SchedMD/slurm.md) - Slurm: A Highly Scalable Workload Manager
+- [memovai/mimiclaw](../repos/memovai/mimiclaw.md) - MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. H...
 
 ---
 
-*Last updated: 2026-08-10T21:02:07.625Z*
+*Last updated: 2026-08-11T21:01:58.102Z*

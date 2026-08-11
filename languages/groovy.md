@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 8
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-10
+- **Last Updated**: 2026-08-11
 
 ---
 
@@ -16,13 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,772 | 2026-08-01 | 10 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,772 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,259 | 2026-08-02 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,262 | 2026-08-02 | 9 |
 
 
 ---
@@ -40,7 +37,7 @@
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 871 | 2026-08-01 | OpenBoxes is a warehouse management system designed to manage inventory and track stock movements... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,259 | 2026-08-02 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and ... |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,262 | 2026-08-02 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,458 | 2026-08-02 | A DSL for data-driven computational pipelines |
@@ -61,8 +58,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,772 | 2026-08-01 | 10 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,259 | 2026-08-02 | 8 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,772 | 2026-08-01 | 11 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,262 | 2026-08-02 | 9 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,458 | 2026-08-02 | 6 |
 | [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,924 | 2026-08-03 | 6 |
@@ -76,8 +73,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [gradle/gradle](../repos/gradle/gradle.md) | 10 | ⭐ 18,772 | 2026-08-01 | 2026-08-10 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 8 | ⭐ 6,259 | 2026-08-02 | 2026-08-10 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 11 | ⭐ 18,772 | 2026-08-01 | 2026-08-11 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 9 | ⭐ 6,262 | 2026-08-02 | 2026-08-11 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 6 | ⭐ 3,458 | 2026-08-02 | 2026-08-08 |
 | [apache/grails-core](../repos/apache/grails-core.md) | 6 | ⭐ 2,924 | 2026-08-03 | 2026-08-09 |
 | [gravitee-io/issues](../repos/gravitee-io/issues.md) | 4 | ⭐ 68 | 2026-08-01 | 2026-08-09 |
@@ -100,4 +97,4 @@
 
 ---
 
-*Last updated: 2026-08-10T21:02:07.653Z*
+*Last updated: 2026-08-11T21:01:58.130Z*

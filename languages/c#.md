@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 79
+- **Total Repositories**: 85
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 13,789 | 2026-08-01 | 3 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 13,801 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 16,405 | 2026-08-02 | 5 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 16,629 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,868 | 2026-08-02 | 4 |
+| [dotnet/efcore](../repos/dotnet/efcore.md) | ⭐ 14,770 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 5,086 | 2026-08-02 | 2 |
+| [Dailin521/codex-provider-sync](../repos/Dailin521/codex-provider-sync.md) | ⭐ 3,088 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,621 | 2026-08-02 | 4 |
+| [space-wizards/space-station-14](../repos/space-wizards/space-station-14.md) | ⭐ 3,731 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,628 | 2026-08-02 | 5 |
+| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | ⭐ 13,331 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,502 | 2026-08-07 | 4 |
+| [LorisYounger/VPet](../repos/LorisYounger/VPet.md) | ⭐ 6,617 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LibreHardwareMonitor/LibreHardwareMonitor](../repos/LibreHardwareMonitor/LibreHardwareMonitor.md) | ⭐ 8,852 | 2026-08-09 | 2 |
+| [BornToBeRoot/NETworkManager](../repos/BornToBeRoot/NETworkManager.md) | ⭐ 8,659 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shinyflvre/VRCNext](../repos/shinyflvre/VRCNext.md) | ⭐ 159 | 2026-08-10 | 1 |
+| [dpadGuy/SalsaNOW](../repos/dpadGuy/SalsaNOW.md) | ⭐ 117 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BornToBeRoot/NETworkManager](../repos/BornToBeRoot/NETworkManager.md) | ⭐ 8,624 | 2026-08-10 | 1 |
+| [builtbybel/FlyOOBE](../repos/builtbybel/FlyOOBE.md) | ⭐ 7,156 | 2026-08-11 | 1 |
 
 
 ---
@@ -105,7 +105,7 @@
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,672 | 2026-08-01 | 1 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,163 | 2026-08-04 | 3 |
 | [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,187 | 2026-08-01 | 2 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 16,405 | 2026-08-02 | 5 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 16,629 | 2026-08-02 | 6 |
 | [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,868 | 2026-08-02 | 4 |
 | [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 14,989 | 2026-08-03 | 2 |
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 7 | ⭐ 26,795 | 2026-08-01 | 2026-08-08 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 6 | ⭐ 113,476 | 2026-08-02 | 2026-08-09 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 6 | ⭐ 16,629 | 2026-08-02 | 2026-08-11 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 6 | ⭐ 5,110 | 2026-08-03 | 2026-08-09 |
+| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | 6 | ⭐ 13,331 | 2026-08-05 | 2026-08-11 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 5 | ⭐ 3,550 | 2026-08-01 | 2026-08-08 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 5 | ⭐ 16,405 | 2026-08-02 | 2026-08-10 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 5 | ⭐ 14,628 | 2026-08-02 | 2026-08-10 |
-| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | 5 | ⭐ 13,295 | 2026-08-05 | 2026-08-09 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 4 | ⭐ 13,801 | 2026-08-01 | 2026-08-11 |
 | [Jackett/Jackett](../repos/Jackett/Jackett.md) | 4 | ⭐ 15,868 | 2026-08-02 | 2026-08-10 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 4 | ⭐ 55,621 | 2026-08-02 | 2026-08-10 |
-| [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | 4 | ⭐ 3,088 | 2026-08-04 | 2026-08-08 |
 
 ---
 
@@ -209,7 +209,13 @@
 - [BornToBeRoot/NETworkManager](../repos/BornToBeRoot/NETworkManager.md) - A powerful open-source tool for managing networks and troubleshooting network problems!
 - [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [intro-skipper/intro-skipper](../repos/intro-skipper/intro-skipper.md) - Automatically detect and skip intro&#x2F;credit sequences in Jellyfin
+- [dpadGuy/SalsaNOW](../repos/dpadGuy/SalsaNOW.md) - SalsaNOW, the tool that sets up your GeForce NOW session experiences into local ones !
+- [builtbybel/FlyOOBE](../repos/builtbybel/FlyOOBE.md) - Fly through your Windows 11 setup 🐝
+- [Decimation/SmartImage](../repos/Decimation/SmartImage.md) - Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)
+- [dotnet/sdk](../repos/dotnet/sdk.md) - Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI
+- [Tichau/FileConverter](../repos/Tichau/FileConverter.md) - File Converter is a very simple tool which allows you to convert and compress files using the con...
+- [rmcrackan/Libation](../repos/rmcrackan/Libation.md) - Libation: Liberate your Library
 
 ---
 
-*Last updated: 2026-08-10T21:02:07.631Z*
+*Last updated: 2026-08-11T21:01:58.105Z*

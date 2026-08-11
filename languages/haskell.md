@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 25
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-10
+- **Last Updated**: 2026-08-11
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,538 | 2026-08-01 | 9 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,575 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,848 | 2026-08-01 | 9 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,852 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,529 | 2026-08-01 | 8 |
+| [cardano-foundation/cardano-wallet](../repos/cardano-foundation/cardano-wallet.md) | ⭐ 822 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [IntersectMBO/cardano-ledger](../repos/IntersectMBO/cardano-ledger.md) | ⭐ 290 | 2026-08-02 | 4 |
+| [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,701 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 290 | 2026-08-08 | 3 |
+| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 290 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tweag/tricorder](../repos/tweag/tricorder.md) | ⭐ 45 | 2026-08-10 | 1 |
+| [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,898 | 2026-08-08 | 2 |
 
 
 ---
@@ -43,13 +43,13 @@
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,943 | 2026-08-01 | Official Haskell IDE support via the language server protocol (LSP) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,538 | 2026-08-01 | REST API for any Postgres database |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,575 | 2026-08-01 | REST API for any Postgres database |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,743 | 2026-08-01 | Official upstream development repository for Cabal and cabal-install |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,848 | 2026-08-01 | ShellCheck, a static analysis tool for shell scripts |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,852 | 2026-08-01 | ShellCheck, a static analysis tool for shell scripts |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [digital-asset/daml](../repos/digital-asset/daml.md) | ⭐ 912 | 2026-08-01 | The Daml smart contract language |
@@ -76,11 +76,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,848 | 2026-08-01 | 9 |
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,538 | 2026-08-01 | 9 |
-| [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,893 | 2026-08-08 | 1 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,852 | 2026-08-01 | 10 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,575 | 2026-08-01 | 10 |
+| [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,898 | 2026-08-08 | 2 |
 | [elm/compiler](../repos/elm/compiler.md) | ⭐ 7,868 | 2026-08-09 | 1 |
-| [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,693 | 2026-08-06 | 1 |
+| [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,701 | 2026-08-06 | 2 |
 | [digitallyinduced/ihp](../repos/digitallyinduced/ihp.md) | ⭐ 5,330 | 2026-08-02 | 1 |
 | [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,074 | 2026-08-05 | 3 |
 | [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,179 | 2026-08-01 | 5 |
@@ -93,7 +93,7 @@
 | [IntersectMBO/plutus](../repos/IntersectMBO/plutus.md) | ⭐ 1,635 | 2026-08-05 | 2 |
 | [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,529 | 2026-08-01 | 8 |
 | [digital-asset/daml](../repos/digital-asset/daml.md) | ⭐ 912 | 2026-08-01 | 6 |
-| [cardano-foundation/cardano-wallet](../repos/cardano-foundation/cardano-wallet.md) | ⭐ 822 | 2026-08-03 | 2 |
+| [cardano-foundation/cardano-wallet](../repos/cardano-foundation/cardano-wallet.md) | ⭐ 822 | 2026-08-03 | 3 |
 | [halogenandtoast/ArkhamHorror](../repos/halogenandtoast/ArkhamHorror.md) | ⭐ 401 | 2026-08-03 | 1 |
 | [IntersectMBO/ouroboros-network](../repos/IntersectMBO/ouroboros-network.md) | ⭐ 293 | 2026-08-06 | 1 |
 
@@ -103,8 +103,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 9 | ⭐ 27,538 | 2026-08-01 | 2026-08-10 |
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 9 | ⭐ 39,848 | 2026-08-01 | 2026-08-10 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 10 | ⭐ 27,575 | 2026-08-01 | 2026-08-11 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 10 | ⭐ 39,852 | 2026-08-01 | 2026-08-11 |
 | [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 8 | ⭐ 1,529 | 2026-08-01 | 2026-08-10 |
 | [digital-asset/daml](../repos/digital-asset/daml.md) | 6 | ⭐ 912 | 2026-08-01 | 2026-08-08 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 5 | ⭐ 2,943 | 2026-08-01 | 2026-08-09 |
@@ -146,4 +146,4 @@
 
 ---
 
-*Last updated: 2026-08-10T21:02:07.655Z*
+*Last updated: 2026-08-11T21:01:58.132Z*

@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,951 | 2026-08-02 | 4 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,826 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 668 | 2026-08-02 | 4 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 486 | 2026-08-02 | 3 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mixpanel/mixpanel-iphone](../repos/mixpanel/mixpanel-iphone.md) | ⭐ 1,065 | 2026-08-02 | 4 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,212 | 2026-08-02 | 4 |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,072 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [robbiehanson/KissXML](../repos/robbiehanson/KissXML.md) | ⭐ 858 | 2026-08-03 | 2 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [erikdoe/ocmock](../repos/erikdoe/ocmock.md) | ⭐ 2,171 | 2026-08-03 | 3 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,962 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [danveloper/flash-moe](../repos/danveloper/flash-moe.md) | ⭐ 4,055 | 2026-08-03 | 2 |
+| [CleverTap/CTNotificationService](../repos/CleverTap/CTNotificationService.md) | ⭐ 23 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [roothide/Bootstrap](../repos/roothide/Bootstrap.md) | ⭐ 1,694 | 2026-08-03 | 3 |
+| [CleverTap/clevertap-ios-sdk](../repos/CleverTap/clevertap-ios-sdk.md) | ⭐ 67 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,906 | 2026-08-04 | 3 |
+| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | ⭐ 4,475 | 2026-08-05 | 3 |
 
 
 ---
@@ -67,7 +67,7 @@
 | [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | Branch iOS SDK Swift Package Manager distribution |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,827 | 2026-08-01 | Promises is a modern framework that provides a synchronization construct for Swift and Objective-C. |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,826 | 2026-08-01 | Promises is a modern framework that provides a synchronization construct for Swift and Objective-C. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 |  |
@@ -89,8 +89,8 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,412 | 2026-08-02 | 2 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | 2026-08-01 | 5 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,951 | 2026-08-02 | 4 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | 2026-08-01 | 6 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,962 | 2026-08-02 | 5 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,615 | 2026-08-04 | 4 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,935 | 2026-08-04 | 4 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,906 | 2026-08-04 | 3 |
@@ -103,7 +103,7 @@
 | [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,090 | 2026-08-07 | 3 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,016 | 2026-08-02 | 3 |
 | [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) | ⭐ 10,646 | 2026-08-06 | 1 |
-| [facebookincubator/SocketRocket](../repos/facebookincubator/SocketRocket.md) | ⭐ 9,616 | 2026-08-08 | 1 |
+| [facebookincubator/SocketRocket](../repos/facebookincubator/SocketRocket.md) | ⭐ 9,614 | 2026-08-08 | 2 |
 | [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,445 | 2026-08-01 | 3 |
 | [facebookarchive/Shimmer](../repos/facebookarchive/Shimmer.md) | ⭐ 9,331 | 2026-08-02 | 2 |
 | [TTTAttributedLabel/TTTAttributedLabel](../repos/TTTAttributedLabel/TTTAttributedLabel.md) | ⭐ 8,711 | 2026-08-03 | 1 |
@@ -115,13 +115,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 6 | ⭐ 59 | 2026-08-01 | 2026-08-08 |
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 5 | ⭐ 134 | 2026-08-01 | 2026-08-08 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 5 | ⭐ 291 | 2026-08-01 | 2026-08-08 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 5 | ⭐ 25,638 | 2026-08-01 | 2026-08-08 |
-| [google/promises](../repos/google/promises.md) | 4 | ⭐ 3,827 | 2026-08-01 | 2026-08-08 |
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 4 | ⭐ 5,072 | 2026-08-01 | 2026-08-08 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 4 | ⭐ 21,951 | 2026-08-02 | 2026-08-10 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 7 | ⭐ 59 | 2026-08-01 | 2026-08-11 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 6 | ⭐ 134 | 2026-08-01 | 2026-08-11 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 6 | ⭐ 291 | 2026-08-01 | 2026-08-11 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 6 | ⭐ 25,638 | 2026-08-01 | 2026-08-11 |
+| [google/promises](../repos/google/promises.md) | 5 | ⭐ 3,826 | 2026-08-01 | 2026-08-11 |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 5 | ⭐ 5,072 | 2026-08-01 | 2026-08-11 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 5 | ⭐ 21,962 | 2026-08-02 | 2026-08-11 |
 | [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 4 | ⭐ 668 | 2026-08-02 | 2026-08-10 |
 | [mixpanel/mixpanel-iphone](../repos/mixpanel/mixpanel-iphone.md) | 4 | ⭐ 1,065 | 2026-08-02 | 2026-08-10 |
 | [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | 4 | ⭐ 3,212 | 2026-08-02 | 2026-08-10 |
@@ -194,4 +194,4 @@
 
 ---
 
-*Last updated: 2026-08-10T21:02:07.669Z*
+*Last updated: 2026-08-11T21:01:58.146Z*

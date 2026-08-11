@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 31
+- **Total Repositories**: 33
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-10
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 23,283 | 2026-08-01 | 7 |
+| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,335 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,335 | 2026-08-01 | 6 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,891 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,909 | 2026-08-01 | 3 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,914 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,015 | 2026-08-02 | 3 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 874 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,519 | 2026-08-03 | 7 |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,433 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,023 | 2026-08-07 | 2 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,520 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,595 | 2026-08-07 | 2 |
+| [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,049 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iiroak/Kindle-Filler-Disk](../repos/iiroak/Kindle-Filler-Disk.md) | ⭐ 373 | 2026-08-10 | 1 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 414 | 2026-08-04 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,597 | 2026-08-07 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [iiroak/Kindle-Filler-Disk](../repos/iiroak/Kindle-Filler-Disk.md) | ⭐ 377 | 2026-08-10 | 2 |
 
 
 ---
@@ -58,19 +64,19 @@
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,335 | 2026-08-01 | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,883 | 2026-08-01 | Automate the setup and configuration of your Windows development environment. |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,891 | 2026-08-01 | Automate the setup and configuration of your Windows development environment. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 423 | 2026-08-01 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,909 | 2026-08-01 | The Official USB Rubber Ducky Payload Repository |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,914 | 2026-08-01 | The Official USB Rubber Ducky Payload Repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | ⭐ 964 | 2026-08-01 | MCP Server and CLI for accessing Work IQ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 870 | 2026-08-01 | Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your su... |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 874 | 2026-08-01 | Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your su... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/AL](../repos/microsoft/AL.md) | ⭐ 873 | 2026-08-01 | Home of the Dynamics 365 Business Central AL Language extension for Visual Studio Code. Used to t... |
@@ -88,20 +94,20 @@
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,089 | 2026-08-04 | 1 |
 | [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 12,997 | 2026-08-01 | 8 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
-| [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,038 | 2026-08-03 | 5 |
+| [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,049 | 2026-08-03 | 6 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,919 | 2026-08-06 | 1 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,162 | 2026-08-01 | 4 |
-| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,595 | 2026-08-07 | 2 |
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,909 | 2026-08-01 | 3 |
+| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,597 | 2026-08-07 | 3 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,914 | 2026-08-01 | 4 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,822 | 2026-08-04 | 2 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,638 | 2026-08-11 | 1 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,517 | 2026-08-04 | 4 |
 | [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,023 | 2026-08-07 | 2 |
 | [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,015 | 2026-08-02 | 3 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,883 | 2026-08-01 | 4 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,519 | 2026-08-03 | 7 |
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,426 | 2026-08-01 | 4 |
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,335 | 2026-08-01 | 6 |
-| [microsoft/work-iq](../repos/microsoft/work-iq.md) | ⭐ 964 | 2026-08-01 | 5 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,891 | 2026-08-01 | 5 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,520 | 2026-08-03 | 8 |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,433 | 2026-08-01 | 5 |
+| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,335 | 2026-08-01 | 7 |
 
 ---
 
@@ -110,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [actions/runner-images](../repos/actions/runner-images.md) | 8 | ⭐ 12,997 | 2026-08-01 | 2026-08-09 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 8 | ⭐ 1,520 | 2026-08-03 | 2026-08-11 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 7 | ⭐ 23,283 | 2026-08-01 | 2026-08-10 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 7 | ⭐ 1,519 | 2026-08-03 | 2026-08-10 |
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | 6 | ⭐ 1,335 | 2026-08-01 | 2026-08-10 |
+| [microsoft/hve-core](../repos/microsoft/hve-core.md) | 7 | ⭐ 1,335 | 2026-08-01 | 2026-08-11 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 6 | ⭐ 874 | 2026-08-01 | 2026-08-11 |
+| [samratashok/nishang](../repos/samratashok/nishang.md) | 6 | ⭐ 10,049 | 2026-08-03 | 2026-08-11 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 5 | ⭐ 1,891 | 2026-08-01 | 2026-08-11 |
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | 5 | ⭐ 964 | 2026-08-01 | 2026-08-08 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 5 | ⭐ 870 | 2026-08-01 | 2026-08-08 |
-| [samratashok/nishang](../repos/samratashok/nishang.md) | 5 | ⭐ 10,038 | 2026-08-03 | 2026-08-08 |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 5 | ⭐ 1,433 | 2026-08-01 | 2026-08-11 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 4 | ⭐ 8,162 | 2026-08-01 | 2026-08-08 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 4 | ⭐ 1,883 | 2026-08-01 | 2026-08-09 |
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 4 | ⭐ 1,426 | 2026-08-01 | 2026-08-07 |
 
 ---
 
@@ -155,7 +161,9 @@
 - [appveyor/ci](../repos/appveyor/ci.md) - AppVeyor community support repository
 - [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) - Script to remove Windows 10 bloatware.
 - [iiroak/Kindle-Filler-Disk](../repos/iiroak/Kindle-Filler-Disk.md) - 
+- [CubeCoders/AMPTemplates](../repos/CubeCoders/AMPTemplates.md) - For the AMP community to share Generic Module templates.
+- [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) - Automation to assess the state of your M365 tenant against CISA&#39;s baselines
 
 ---
 
-*Last updated: 2026-08-10T21:02:07.673Z*
+*Last updated: 2026-08-11T21:01:58.151Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 60
+- **Total Repositories**: 65
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 58,350 | 2026-08-01 | 5 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 86,177 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 5,595 | 2026-08-02 | 2 |
+| [techjarves/Uncensored-Local-Studio](../repos/techjarves/Uncensored-Local-Studio.md) | ⭐ 906 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [4ian/GDevelop](../repos/4ian/GDevelop.md) | ⭐ 25,523 | 2026-08-03 | 3 |
+| [cobusgreyling/loop-engineering](../repos/cobusgreyling/loop-engineering.md) | ⭐ 10,215 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 85,690 | 2026-08-05 | 6 |
+| [chr0nzz/traefik-manager](../repos/chr0nzz/traefik-manager.md) | ⭐ 1,213 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,736 | 2026-08-06 | 5 |
+| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,768 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 26,018 | 2026-08-08 | 3 |
+| [polius/FileSync](../repos/polius/FileSync.md) | ⭐ 1,473 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [techjarves/Uncensored-Local-Studio](../repos/techjarves/Uncensored-Local-Studio.md) | ⭐ 889 | 2026-08-10 | 1 |
+| [plankanban/planka](../repos/plankanban/planka.md) | ⭐ 12,327 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cobusgreyling/loop-engineering](../repos/cobusgreyling/loop-engineering.md) | ⭐ 10,126 | 2026-08-10 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 6,397 | 2026-08-10 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [BeiDouMS/BeiDou-Server](../repos/BeiDouMS/BeiDou-Server.md) | ⭐ 618 | 2026-08-10 | 1 |
+| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,309 | 2026-08-11 | 1 |
 
 
 ---
@@ -95,19 +89,19 @@
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 85,690 | 2026-08-05 | 6 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 86,177 | 2026-08-05 | 7 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
+| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,309 | 2026-08-11 | 1 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 58,350 | 2026-08-01 | 5 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 56,691 | 2026-08-05 | 2 |
+| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,768 | 2026-08-11 | 1 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,206 | 2026-08-08 | 1 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,736 | 2026-08-06 | 5 |
 | [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | ⭐ 31,602 | 2026-08-02 | 2 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 31,280 | 2026-08-02 | 2 |
-| [greensock/GSAP](../repos/greensock/GSAP.md) | ⭐ 27,405 | 2026-08-04 | 1 |
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 26,018 | 2026-08-08 | 3 |
 
 ---
 
@@ -115,8 +109,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 7 | ⭐ 86,177 | 2026-08-05 | 2026-08-11 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 6 | ⭐ 141,656 | 2026-07-30 | 2026-08-06 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 6 | ⭐ 85,690 | 2026-08-05 | 2026-08-10 |
 | [byoungd/up](../repos/byoungd/up.md) | 5 | ⭐ 58,350 | 2026-08-01 | 2026-08-10 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 5 | ⭐ 38,736 | 2026-08-06 | 2026-08-10 |
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 4 | ⭐ 6,998 | 2026-08-01 | 2026-08-04 |
@@ -190,7 +184,12 @@
 - [CodeWithHarry/Sigma-Web-Dev-Course](../repos/CodeWithHarry/Sigma-Web-Dev-Course.md) - Source Code for Sigma Web Development Course
 - [fishjar/kiss-translator](../repos/fishjar/kiss-translator.md) - A simple, open source bilingual translation extension &amp; Greasemonkey script (一个简约、开源的 双语对照翻译扩展 &amp; ...
 - [zarazhangrui/follow-builders](../repos/zarazhangrui/follow-builders.md) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content in...
+- [chr0nzz/traefik-manager](../repos/chr0nzz/traefik-manager.md) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
+- [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) - Breakthrough Method for Agile Ai Driven Development
+- [polius/FileSync](../repos/polius/FileSync.md) - Send files from one device to many in real-time.
+- [plankanban/planka](../repos/plankanban/planka.md) - PLANKA is the Kanban-style project mastering tool for everyone
+- [lodash/lodash](../repos/lodash/lodash.md) - A modern JavaScript utility library delivering modularity, performance, &amp; extras.
 
 ---
 
-*Last updated: 2026-08-10T21:02:07.658Z*
+*Last updated: 2026-08-11T21:01:58.136Z*

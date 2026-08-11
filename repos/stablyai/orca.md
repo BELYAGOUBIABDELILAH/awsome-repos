@@ -1,0 +1,95 @@
+# stablyai&#x2F;orca
+
+> Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;stablyai&#x2F;orca) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | TypeScript |
+| **License** | MIT |
+| **Stars** | ⭐ 42,646 |
+| **Forks** | 🍴 2,973 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #10 |
+
+| **First Seen** | Aug 11, 2026 |
+| **Last Seen** | Aug 11, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in TypeScript or ade*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #10
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`ade`](../../topics/ade.md) [`agent-ide`](../../topics/agent-ide.md) [`ai-agents`](../../topics/ai-agents.md) [`claude-code`](../../topics/claude-code.md) [`cli`](../../topics/cli.md) [`codex`](../../topics/codex.md) [`cursor-agent`](../../topics/cursor-agent.md) [`devtools`](../../topics/devtools.md) [`ghostty`](../../topics/ghostty.md) [`ide`](../../topics/ide.md) [`mobile-app`](../../topics/mobile-app.md) [`opencode`](../../topics/opencode.md) [`orchestration`](../../topics/orchestration.md) [`parallel-agents`](../../topics/parallel-agents.md) [`pi`](../../topics/pi.md) [`terminal`](../../topics/terminal.md) [`worktrees`](../../topics/worktrees.md) [`yc-backed`](../../topics/yc-backed.md) 
+
+### Curated Categories
+`Artificial Intelligence` `Large Language Models` `Mobile Development` `Containers &amp; Orchestration` `Systems Programming` `Developer Tools` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
+| **Maturity** | Experimental | New project, evolving rapidly |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in TypeScript
+
+#### Metrics
+- **Hidden Gem**: ✗ No
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: Top 10 (Peak: #10)
+
+
+---
+
+*Last updated: 2026-08-11T21:02:01.041Z*  
+*Data from 1 trending reports*

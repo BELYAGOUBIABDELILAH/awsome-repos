@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 58
+- **Total Repositories**: 60
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-05
+- **Last Updated**: 2026-08-11
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [faker-ruby/faker](../repos/faker-ruby/faker.md) | ⭐ 11,930 | 2026-08-01 | 5 |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,631 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,629 | 2026-08-01 | 6 |
+| [DataDog/dd-trace-rb](../repos/DataDog/dd-trace-rb.md) | ⭐ 415 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,769 | 2026-08-01 | 3 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,673 | 2026-08-01 | 5 |
+| [rubocop/rubocop](../repos/rubocop/rubocop.md) | ⭐ 12,898 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,530 | 2026-08-01 | 6 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 58,683 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spree/spree](../repos/spree/spree.md) | ⭐ 15,611 | 2026-08-01 | 8 |
+| [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,633 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [antiwork/gumroad](../repos/antiwork/gumroad.md) | ⭐ 9,547 | 2026-08-01 | 7 |
+| [ytti/oxidized](../repos/ytti/oxidized.md) | ⭐ 3,490 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,632 | 2026-08-01 | 5 |
+| [basecamp/fizzy](../repos/basecamp/fizzy.md) | ⭐ 8,050 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | 2026-08-01 | 10 |
+| [github/explore](../repos/github/explore.md) | ⭐ 4,850 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [we-promise/sure](../repos/we-promise/sure.md) | ⭐ 9,342 | 2026-08-02 | 4 |
+| [avo-hq/avo](../repos/avo-hq/avo.md) | ⭐ 1,798 | 2026-08-09 | 3 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [faker-ruby/faker](../repos/faker-ruby/faker.md) | ⭐ 11,930 | 2026-08-01 | A library for generating fake data such as names, addresses, and phone numbers. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,629 | 2026-08-01 | A platform for community discussion. Free, open, simple. |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,631 | 2026-08-01 | A platform for community discussion. Free, open, simple. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,769 | 2026-08-01 | Create agents that monitor and act on your behalf.  Your agents are standing by! |
@@ -88,10 +88,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rails/rails](../repos/rails/rails.md) | ⭐ 58,673 | 2026-08-02 | 3 |
-| [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,607 | 2026-08-03 | 1 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 58,683 | 2026-08-02 | 4 |
+| [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,633 | 2026-08-03 | 2 |
 | [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,769 | 2026-08-01 | 3 |
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,629 | 2026-08-01 | 6 |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,631 | 2026-08-01 | 7 |
 | [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 41,971 | 2026-08-04 | 6 |
 | [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 38,768 | 2026-08-01 | 5 |
 | [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,199 | 2026-08-05 | 2 |
@@ -104,7 +104,7 @@
 | [spree/spree](../repos/spree/spree.md) | ⭐ 15,611 | 2026-08-01 | 8 |
 | [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,632 | 2026-08-01 | 5 |
 | [sidekiq/sidekiq](../repos/sidekiq/sidekiq.md) | ⭐ 13,553 | 2026-08-05 | 2 |
-| [rubocop/rubocop](../repos/rubocop/rubocop.md) | ⭐ 12,897 | 2026-08-02 | 3 |
+| [rubocop/rubocop](../repos/rubocop/rubocop.md) | ⭐ 12,898 | 2026-08-02 | 4 |
 | [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,203 | 2026-08-01 | 3 |
 | [faker-ruby/faker](../repos/faker-ruby/faker.md) | ⭐ 11,930 | 2026-08-01 | 5 |
 | [antiwork/gumroad](../repos/antiwork/gumroad.md) | ⭐ 9,547 | 2026-08-01 | 7 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 10 | ⭐ 1,070 | 2026-08-01 | 2026-08-10 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 11 | ⭐ 1,070 | 2026-08-01 | 2026-08-11 |
 | [spree/spree](../repos/spree/spree.md) | 8 | ⭐ 15,611 | 2026-08-01 | 2026-08-10 |
+| [discourse/discourse](../repos/discourse/discourse.md) | 7 | ⭐ 47,631 | 2026-08-01 | 2026-08-11 |
 | [opf/openproject](../repos/opf/openproject.md) | 7 | ⭐ 15,801 | 2026-08-01 | 2026-08-08 |
 | [antiwork/gumroad](../repos/antiwork/gumroad.md) | 7 | ⭐ 9,547 | 2026-08-01 | 2026-08-10 |
-| [discourse/discourse](../repos/discourse/discourse.md) | 6 | ⭐ 47,629 | 2026-08-01 | 2026-08-10 |
 | [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | 6 | ⭐ 24,530 | 2026-08-01 | 2026-08-10 |
+| [DataDog/dd-trace-rb](../repos/DataDog/dd-trace-rb.md) | 6 | ⭐ 415 | 2026-08-01 | 2026-08-11 |
 | [fastlane/fastlane](../repos/fastlane/fastlane.md) | 6 | ⭐ 41,971 | 2026-08-04 | 2026-08-10 |
 | [faker-ruby/faker](../repos/faker-ruby/faker.md) | 5 | ⭐ 11,930 | 2026-08-01 | 2026-08-10 |
 | [ruby/ruby](../repos/ruby/ruby.md) | 5 | ⭐ 23,673 | 2026-08-01 | 2026-08-10 |
-| [decidim/decidim](../repos/decidim/decidim.md) | 5 | ⭐ 1,802 | 2026-08-01 | 2026-08-09 |
 
 ---
 
@@ -188,7 +188,9 @@
 - [cloudfoundry/bosh-linux-stemcell-builder](../repos/cloudfoundry/bosh-linux-stemcell-builder.md) - BOSH Ubuntu Linux stemcells 
 - [Multiwoven/multiwoven](../repos/Multiwoven/multiwoven.md) - 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census. 
 - [greasyfork-org/greasyfork](../repos/greasyfork-org/greasyfork.md) - An online repository of user scripts.
+- [citation-style-language/styles](../repos/citation-style-language/styles.md) - Official repository for Citation Style Language (CSL) citation styles.
+- [rpush/rpush](../repos/rpush/rpush.md) - The push notification service for Ruby.
 
 ---
 
-*Last updated: 2026-08-10T21:02:07.678Z*
+*Last updated: 2026-08-11T21:01:58.156Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 76
+- **Total Repositories**: 81
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,893 | 2026-08-02 | 4 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,740 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,410 | 2026-08-03 | 3 |
+| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,661 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aistra0528/Hail](../repos/aistra0528/Hail.md) | ⭐ 6,411 | 2026-08-03 | 2 |
+| [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | ⭐ 6,331 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 6,726 | 2026-08-03 | 2 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,937 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 491 | 2026-08-05 | 3 |
+| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 10,983 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,176 | 2026-08-06 | 5 |
+| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 5,601 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,658 | 2026-08-08 | 3 |
+| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 1,632 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EchoMusicApp/Echo-Music](../repos/EchoMusicApp/Echo-Music.md) | ⭐ 3,343 | 2026-08-09 | 2 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,695 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,082 | 2026-08-09 | 2 |
+| [torlando-tech/columba](../repos/torlando-tech/columba.md) | ⭐ 1,004 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [celzero/rethink-app](../repos/celzero/rethink-app.md) | ⭐ 5,254 | 2026-08-10 | 1 |
+| [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) | ⭐ 7,416 | 2026-08-11 | 1 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,697 | 2026-08-01 | Free and open source manga reader for Android |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,740 | 2026-08-01 | Free and open source manga reader for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 136 | 2026-08-01 | Android app for BYD DiLink 5.0: real consumption from BMS, GPS trips, charges journal, automation... |
@@ -73,13 +73,13 @@
 | [Tencent-TDS/KuiklyUI](../repos/Tencent-TDS/KuiklyUI.md) | ⭐ 3,366 | 2026-08-01 | A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six pla... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,633 | 2026-08-01 | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
+| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,661 | 2026-08-01 | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | ⭐ 6,314 | 2026-08-01 | Material design file manager for Android |
+| [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | ⭐ 6,331 | 2026-08-01 | Material design file manager for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,893 | 2026-08-02 | A V2Ray client for Android, support Xray core and v2fly core |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,937 | 2026-08-02 | A V2Ray client for Android, support Xray core and v2fly core |
 
 
 ---
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,130 | 2026-08-03 | 2 |
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,893 | 2026-08-02 | 4 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,937 | 2026-08-02 | 5 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,317 | 2026-08-04 | 3 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,176 | 2026-08-06 | 5 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 40,633 | 2026-08-03 | 1 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,182 | 2026-08-05 | 3 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,658 | 2026-08-08 | 3 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,695 | 2026-08-08 | 4 |
+| [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,467 | 2026-08-11 | 1 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,355 | 2026-08-05 | 2 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,697 | 2026-08-01 | 8 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,740 | 2026-08-01 | 9 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,198 | 2026-08-02 | 2 |
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,633 | 2026-08-01 | 2 |
+| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,661 | 2026-08-01 | 3 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,190 | 2026-08-02 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,416 | 2026-08-06 | 1 |
 | [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,083 | 2026-08-10 | 1 |
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 10,951 | 2026-08-02 | 2 |
+| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 10,983 | 2026-08-02 | 3 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,410 | 2026-08-03 | 3 |
 | [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,190 | 2026-08-05 | 2 |
 | [KotatsuApp/Kotatsu](../repos/KotatsuApp/Kotatsu.md) | ⭐ 8,797 | 2026-08-06 | 2 |
 | [bmax121/APatch](../repos/bmax121/APatch.md) | ⭐ 7,775 | 2026-08-02 | 2 |
-| [aniyomiorg/aniyomi](../repos/aniyomiorg/aniyomi.md) | ⭐ 7,572 | 2026-08-02 | 1 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 8 | ⭐ 22,697 | 2026-08-01 | 2026-08-09 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 9 | ⭐ 22,740 | 2026-08-01 | 2026-08-11 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 6 | ⭐ 4,056 | 2026-08-02 | 2026-08-09 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 5 | ⭐ 60,937 | 2026-08-02 | 2026-08-11 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 5 | ⭐ 50,176 | 2026-08-06 | 2026-08-10 |
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 4 | ⭐ 60,893 | 2026-08-02 | 2026-08-10 |
 | [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | 4 | ⭐ 1,626 | 2026-08-03 | 2026-08-09 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 4 | ⭐ 28,695 | 2026-08-08 | 2026-08-11 |
+| [android/nowinandroid](../repos/android/nowinandroid.md) | 3 | ⭐ 21,661 | 2026-08-01 | 2026-08-11 |
+| [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | 3 | ⭐ 6,331 | 2026-08-01 | 2026-08-11 |
 | [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | 3 | ⭐ 603 | 2026-08-02 | 2026-08-04 |
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 3 | ⭐ 2,060 | 2026-08-02 | 2026-08-04 |
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 3 | ⭐ 10,410 | 2026-08-03 | 2026-08-10 |
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | 3 | ⭐ 53,317 | 2026-08-04 | 2026-08-06 |
-| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 3 | ⭐ 491 | 2026-08-05 | 2026-08-10 |
+| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 3 | ⭐ 10,983 | 2026-08-02 | 2026-08-11 |
 
 ---
 
@@ -206,7 +206,12 @@
 - [yairm210/Unciv](../repos/yairm210/Unciv.md) - Open-source Android&#x2F;Desktop remake of Civ V
 - [maksimowiczm/FoodYou](../repos/maksimowiczm/FoodYou.md) - A free, open-source, and privacy-focused food diary and nutrition tracker
 - [Swordfish90/Lemuroid](../repos/Swordfish90/Lemuroid.md) - All in one emulator on Android!
+- [torlando-tech/columba](../repos/torlando-tech/columba.md) - Native Android messaging app using Bluetooth LE, TCP, or RNode (LoRa) over LXMF and Reticulum
+- [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) - decentralized mesh chat
+- [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、w...
+- [LagradOst/QuickNovel](../repos/LagradOst/QuickNovel.md) - Android app for downloading novels
+- [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that c...
 
 ---
 
-*Last updated: 2026-08-10T21:02:07.662Z*
+*Last updated: 2026-08-11T21:01:58.139Z*

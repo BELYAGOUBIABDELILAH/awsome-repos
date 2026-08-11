@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 91
+- **Total Repositories**: 98
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-01
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | 2026-08-10 | 1 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 163,751 | 2026-07-31 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 126,231 | 2026-08-05 | 4 |
+| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 36,643 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/skills](../repos/google/skills.md) | ⭐ 17,581 | 2026-08-07 | 4 |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,382 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 97,152 | 2026-08-08 | 3 |
+| [google-deepmind/weathernext](../repos/google-deepmind/weathernext.md) | ⭐ 7,464 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-deepmind/weathernext](../repos/google-deepmind/weathernext.md) | ⭐ 7,318 | 2026-08-08 | 3 |
+| [harveyai/harvey-labs](../repos/harveyai/harvey-labs.md) | ⭐ 1,056 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 61,724 | 2026-08-09 | 2 |
+| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 62,072 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stanfordnlp/dspy](../repos/stanfordnlp/dspy.md) | ⭐ 37,035 | 2026-08-09 | 2 |
+| [stanfordnlp/dspy](../repos/stanfordnlp/dspy.md) | ⭐ 37,114 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 89,848 | 2026-08-10 | 1 |
+| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 90,114 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [langchain-ai/open_deep_research](../repos/langchain-ai/open_deep_research.md) | ⭐ 12,584 | 2026-08-10 | 1 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 168,053 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [scrapy/scrapy](../repos/scrapy/scrapy.md) | ⭐ 63,785 | 2026-08-10 | 1 |
+| [HKUDS/DeepTutor](../repos/HKUDS/DeepTutor.md) | ⭐ 34,635 | 2026-08-11 | 1 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | Robust Speech Recognition via Large-Scale Weak Supervision |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | 2026-07-31 | State-of-the-art Machine Learning for PyTorch, TensorFlow, and JAX |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 163,751 | 2026-07-31 | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in t... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [anthropics/anthropic-sdk-python](../repos/anthropics/anthropic-sdk-python.md) | ⭐ 1,250 | 2026-07-31 | SDK for Anthropic&#39;s Claude AI |
@@ -90,24 +90,24 @@
 |------------|-------|------------|---------------|
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 453,833 | 2026-08-01 | 1 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | 2026-08-03 | 5 |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 277,366 | 2026-08-08 | 1 |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,382 | 2026-08-08 | 2 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | 2026-08-01 | 6 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,458 | 2026-08-06 | 4 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 182,027 | 2026-08-02 | 1 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 168,053 | 2026-08-11 | 1 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 163,751 | 2026-07-31 | 3 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 140,599 | 2026-08-07 | 1 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 130,495 | 2026-08-04 | 1 |
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 128,800 | 2026-07-31 | 2 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 126,231 | 2026-08-05 | 4 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 101,806 | 2026-08-03 | 1 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | 2026-08-01 | 2 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 97,152 | 2026-08-08 | 3 |
-| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 89,848 | 2026-08-10 | 1 |
+| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 90,114 | 2026-08-10 | 2 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,155 | 2026-08-02 | 2 |
 | [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 79,146 | 2026-08-02 | 2 |
 | [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 78,730 | 2026-08-02 | 2 |
 | [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | 2026-08-10 | 1 |
-| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 75,000 | 2026-07-30 | 1 |
 
 ---
 
@@ -124,7 +124,7 @@
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 4 | ⭐ 126,231 | 2026-08-05 | 2026-08-10 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | 4 | ⭐ 186,458 | 2026-08-06 | 2026-08-09 |
 | [google/skills](../repos/google/skills.md) | 4 | ⭐ 17,581 | 2026-08-07 | 2026-08-10 |
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 3 | ⭐ 44,517 | 2026-08-03 | 2026-08-05 |
+| [google-deepmind/weathernext](../repos/google-deepmind/weathernext.md) | 4 | ⭐ 7,464 | 2026-08-08 | 2026-08-11 |
 
 ---
 
@@ -132,7 +132,7 @@
 
 - [pytorch/pytorch](../repos/pytorch/pytorch.md) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [openai/whisper](../repos/openai/whisper.md) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [huggingface/transformers](../repos/huggingface/transformers.md) - State-of-the-art Machine Learning for PyTorch, TensorFlow, and JAX
+- [huggingface/transformers](../repos/huggingface/transformers.md) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in t...
 - [anthropics/anthropic-sdk-python](../repos/anthropics/anthropic-sdk-python.md) - SDK for Anthropic&#39;s Claude AI
 - [langchain-ai/langchain](../repos/langchain-ai/langchain.md) - Building applications with LLMs through composability
 - [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...
@@ -221,7 +221,14 @@
 - [scrapy/scrapy](../repos/scrapy/scrapy.md) - Scrapy, a fast high-level web crawling &amp; scraping framework for Python.
 - [confident-ai/deepteam](../repos/confident-ai/deepteam.md) - DeepTeam is a framework to red team LLMs and AI agents.
 - [neuml/txtai](../repos/neuml/txtai.md) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
+- [anthropics/skills](../repos/anthropics/skills.md) - Public repository for Agent Skills
+- [HKUDS/DeepTutor](../repos/HKUDS/DeepTutor.md) - DeepTutor: Lifelong Personalized Tutoring. https:&#x2F;&#x2F;deeptutor.info&#x2F;.
+- [LLMQuant/quant-mind](../repos/LLMQuant/quant-mind.md) - QuantMind is an agent-native knowledge extraction and retrieval framework for quantitative finance.
+- [AWeirdDev/flights](../repos/AWeirdDev/flights.md) - Fast, robust Google Flights scraper (API) for Python. (Probably)
+- [cactus-compute/needle](../repos/cactus-compute/needle.md) - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+- [NVlabs/GR00T-WholeBodyControl](../repos/NVlabs/GR00T-WholeBodyControl.md) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deployin...
+- [AgriciDaniel/claude-obsidian](../repos/AgriciDaniel/claude-obsidian.md) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, lin...
 
 ---
 
-*Last updated: 2026-08-10T21:02:07.675Z*
+*Last updated: 2026-08-11T21:01:58.153Z*

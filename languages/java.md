@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 105
+- **Total Repositories**: 110
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenLineage/OpenLineage](../repos/OpenLineage/OpenLineage.md) | ⭐ 2,596 | 2026-08-01 | 3 |
+| [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,643 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,299 | 2026-08-02 | 3 |
+| [OpenLineage/OpenLineage](../repos/OpenLineage/OpenLineage.md) | ⭐ 2,597 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 26,037 | 2026-08-02 | 3 |
+| [woheller69/FreeDroidWarn](../repos/woheller69/FreeDroidWarn.md) | ⭐ 3,117 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | ⭐ 2,435 | 2026-08-02 | 4 |
+| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,103 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,731 | 2026-08-04 | 2 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,773 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 14,175 | 2026-08-06 | 3 |
+| [questdb/questdb](../repos/questdb/questdb.md) | ⭐ 17,249 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [booklore-app/booklore](../repos/booklore-app/booklore.md) | ⭐ 811 | 2026-08-08 | 2 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,011 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CaffeineMC/sodium](../repos/CaffeineMC/sodium.md) | ⭐ 5,709 | 2026-08-09 | 2 |
+| [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) | ⭐ 12,843 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) | ⭐ 5,165 | 2026-08-10 | 1 |
+| [mateaix/mateclaw](../repos/mateaix/mateclaw.md) | ⭐ 925 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fish2018/webhtv](../repos/fish2018/webhtv.md) | ⭐ 1,137 | 2026-08-10 | 1 |
+| [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) | ⭐ 27,937 | 2026-08-07 | 2 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,340 | 2026-08-01 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,511 | 2026-08-01 | morphe patches for twitter and instagram |
+| [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,643 | 2026-08-01 | morphe patches for twitter and instagram |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alibaba/fastjson2](../repos/alibaba/fastjson2.md) | ⭐ 4,372 | 2026-08-01 | 🚄 FASTJSON2 is a Java JSON  library with excellent performance. |
@@ -95,7 +95,7 @@
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,145 | 2026-08-03 | 5 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,110 | 2026-08-04 | 3 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,190 | 2026-08-08 | 1 |
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,183 | 2026-08-08 | 1 |
+| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,197 | 2026-08-08 | 2 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,889 | 2026-08-02 | 6 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,341 | 2026-08-04 | 3 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,318 | 2026-08-07 | 1 |
@@ -118,11 +118,11 @@
 | [google/guava](../repos/google/guava.md) | 6 | ⭐ 51,889 | 2026-08-02 | 2026-08-09 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 5 | ⭐ 72,145 | 2026-08-03 | 2026-08-09 |
 | [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | 4 | ⭐ 9,269 | 2026-08-01 | 2026-08-08 |
+| [OpenLineage/OpenLineage](../repos/OpenLineage/OpenLineage.md) | 4 | ⭐ 2,597 | 2026-08-01 | 2026-08-11 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 4 | ⭐ 77,789 | 2026-08-02 | 2026-08-06 |
 | [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | 4 | ⭐ 2,435 | 2026-08-02 | 2026-08-10 |
 | [github/copilot-sdk](../repos/github/copilot-sdk.md) | 3 | ⭐ 10,340 | 2026-08-01 | 2026-08-03 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 3 | ⭐ 13,484 | 2026-08-01 | 2026-08-08 |
-| [OpenLineage/OpenLineage](../repos/OpenLineage/OpenLineage.md) | 3 | ⭐ 2,596 | 2026-08-01 | 2026-08-10 |
 | [apache/maven](../repos/apache/maven.md) | 3 | ⭐ 5,302 | 2026-08-01 | 2026-08-04 |
 | [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | 3 | ⭐ 26,651 | 2026-08-01 | 2026-08-06 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-10T21:02:07.657Z*
+*Last updated: 2026-08-11T21:01:58.134Z*

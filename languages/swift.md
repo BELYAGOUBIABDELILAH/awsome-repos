@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 52
+- **Total Repositories**: 55
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,28 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,905 | 2026-08-01 | 5 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,865 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rooootdev/lara](../repos/rooootdev/lara.md) | ⭐ 1,416 | 2026-08-03 | 3 |
+| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,303 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sozercan/kaset](../repos/sozercan/kaset.md) | ⭐ 1,904 | 2026-08-04 | 3 |
+| [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,876 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,369 | 2026-08-07 | 4 |
+| [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 738 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rime/squirrel](../repos/rime/squirrel.md) | ⭐ 6,238 | 2026-08-09 | 2 |
+| [Starmel/OpenSuperWhisper](../repos/Starmel/OpenSuperWhisper.md) | ⭐ 2,577 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 707 | 2026-08-10 | 1 |
+| [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,909 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LoopKit/Loop](../repos/LoopKit/Loop.md) | ⭐ 1,704 | 2026-08-10 | 1 |
+| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,254 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Starmel/OpenSuperWhisper](../repos/Starmel/OpenSuperWhisper.md) | ⭐ 2,554 | 2026-08-10 | 1 |
+| [ml-explore/mlx-swift-lm](../repos/ml-explore/mlx-swift-lm.md) | ⭐ 773 | 2026-08-11 | 1 |
 
 
 ---
@@ -88,20 +88,20 @@
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,810 | 2026-08-04 | 2 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,905 | 2026-08-01 | 5 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,857 | 2026-08-04 | 3 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,865 | 2026-08-04 | 4 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,568 | 2026-08-01 | 1 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 13,287 | 2026-08-08 | 1 |
 | [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
 | [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,183 | 2026-08-06 | 1 |
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,714 | 2026-08-01 | 5 |
-| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,276 | 2026-08-06 | 2 |
+| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,303 | 2026-08-06 | 3 |
 | [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | ⭐ 10,263 | 2026-08-03 | 2 |
-| [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,866 | 2026-08-08 | 1 |
+| [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,909 | 2026-08-11 | 1 |
+| [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,876 | 2026-08-08 | 2 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,829 | 2026-08-02 | 4 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,499 | 2026-08-04 | 1 |
 | [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,534 | 2026-08-04 | 2 |
-| [argmaxinc/argmax-oss-swift](../repos/argmaxinc/argmax-oss-swift.md) | ⭐ 6,304 | 2026-08-02 | 1 |
 
 ---
 
@@ -115,10 +115,10 @@
 | [apple/container](../repos/apple/container.md) | 4 | ⭐ 48,766 | 2026-08-01 | 2026-08-08 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | 4 | ⭐ 19,685 | 2026-08-01 | 2026-08-05 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 4 | ⭐ 8,829 | 2026-08-02 | 2026-08-09 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 4 | ⭐ 14,865 | 2026-08-04 | 2026-08-11 |
 | [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | 4 | ⭐ 2,369 | 2026-08-07 | 2026-08-10 |
 | [rooootdev/lara](../repos/rooootdev/lara.md) | 3 | ⭐ 1,416 | 2026-08-03 | 2026-08-10 |
 | [pluk-inc/markdown-preview](../repos/pluk-inc/markdown-preview.md) | 3 | ⭐ 1,889 | 2026-08-03 | 2026-08-09 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 3 | ⭐ 14,857 | 2026-08-04 | 2026-08-06 |
 
 ---
 
@@ -176,7 +176,10 @@
 - [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) - Native GUI for Homebrew Casks
 - [LoopKit/Loop](../repos/LoopKit/Loop.md) - An automated insulin delivery app for iOS, built on LoopKit
 - [Starmel/OpenSuperWhisper](../repos/Starmel/OpenSuperWhisper.md) - macOS dictation app
+- [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) - A command-line tool and Xcode Extension for formatting Swift code
+- [github/CopilotForXcode](../repos/github/CopilotForXcode.md) - AI coding assistant for Xcode
+- [ml-explore/mlx-swift-lm](../repos/ml-explore/mlx-swift-lm.md) - LLMs and VLMs with MLX Swift
 
 ---
 
-*Last updated: 2026-08-10T21:02:07.684Z*
+*Last updated: 2026-08-11T21:01:58.162Z*

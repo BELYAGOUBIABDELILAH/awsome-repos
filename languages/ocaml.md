@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 20
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-09
+- **Last Updated**: 2026-08-11
 
 ---
 
@@ -16,16 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,903 | 2026-08-01 | 9 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,185 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 58 | 2026-08-01 | 10 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,920 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 901 | 2026-08-01 | 4 |
+| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 58 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [savonet/liquidsoap](../repos/savonet/liquidsoap.md) | ⭐ 1,713 | 2026-08-10 | 1 |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 905 | 2026-08-01 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,432 | 2026-08-07 | 2 |
 
 
 ---
@@ -34,10 +37,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,162 | 2026-08-01 | Lightweight static analysis for many languages. Find bug variants with patterns that look like so... |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,185 | 2026-08-01 | Lightweight static analysis for many languages. Find bug variants with patterns that look like so... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,903 | 2026-08-01 | 🔎 Static code analysis engine to find security issues in code. |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,920 | 2026-08-01 | 🔎 Static code analysis engine to find security issues in code. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,546 | 2026-08-01 | The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal langua... |
@@ -58,7 +61,7 @@
 | [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 58 | 2026-08-01 | OCaml code generator and runtime library for handling typed tree-sitter CSTs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 901 | 2026-08-01 | A verification toolchain for Rust programs |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 905 | 2026-08-01 | A verification toolchain for Rust programs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,516 | 2026-08-01 | The core OCaml system: compilers, runtime system, base libraries |
@@ -70,13 +73,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,162 | 2026-08-01 | 9 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,185 | 2026-08-01 | 10 |
 | [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,670 | 2026-08-02 | 5 |
 | [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,516 | 2026-08-01 | 7 |
 | [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,228 | 2026-08-05 | 4 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,546 | 2026-08-01 | 6 |
-| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,429 | 2026-08-07 | 1 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,903 | 2026-08-01 | 9 |
+| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,432 | 2026-08-07 | 2 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,920 | 2026-08-01 | 10 |
 | [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,353 | 2026-08-02 | 1 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,117 | 2026-08-01 | 5 |
 | [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,906 | 2026-08-01 | 5 |
@@ -85,11 +88,11 @@
 | [janestreet/bonsai](../repos/janestreet/bonsai.md) | ⭐ 1,353 | 2026-08-05 | 2 |
 | [stategraph/stategraph](../repos/stategraph/stategraph.md) | ⭐ 1,255 | 2026-08-09 | 1 |
 | [ocaml/ocaml-lsp](../repos/ocaml/ocaml-lsp.md) | ⭐ 909 | 2026-08-06 | 3 |
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 901 | 2026-08-01 | 4 |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 905 | 2026-08-01 | 5 |
 | [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 831 | 2026-08-03 | 3 |
 | [caffeinelabs/motoko](../repos/caffeinelabs/motoko.md) | ⭐ 588 | 2026-08-01 | 4 |
 | [cryspen/hax](../repos/cryspen/hax.md) | ⭐ 464 | 2026-08-03 | 3 |
-| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 58 | 2026-08-01 | 10 |
+| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 58 | 2026-08-01 | 11 |
 
 ---
 
@@ -97,16 +100,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | 10 | ⭐ 58 | 2026-08-01 | 2026-08-10 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 9 | ⭐ 16,162 | 2026-08-01 | 2026-08-09 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 9 | ⭐ 2,903 | 2026-08-01 | 2026-08-10 |
+| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | 11 | ⭐ 58 | 2026-08-01 | 2026-08-11 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 10 | ⭐ 16,185 | 2026-08-01 | 2026-08-11 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 10 | ⭐ 2,920 | 2026-08-01 | 2026-08-11 |
 | [ocaml/ocaml](../repos/ocaml/ocaml.md) | 7 | ⭐ 6,516 | 2026-08-01 | 2026-08-09 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 6 | ⭐ 5,546 | 2026-08-01 | 2026-08-09 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 5 | ⭐ 2,117 | 2026-08-01 | 2026-08-09 |
 | [ocaml/opam](../repos/ocaml/opam.md) | 5 | ⭐ 1,374 | 2026-08-01 | 2026-08-06 |
 | [ocaml/dune](../repos/ocaml/dune.md) | 5 | ⭐ 1,906 | 2026-08-01 | 2026-08-05 |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 5 | ⭐ 905 | 2026-08-01 | 2026-08-11 |
 | [facebook/infer](../repos/facebook/infer.md) | 5 | ⭐ 15,670 | 2026-08-02 | 2026-08-09 |
-| [caffeinelabs/motoko](../repos/caffeinelabs/motoko.md) | 4 | ⭐ 588 | 2026-08-01 | 2026-08-04 |
 
 ---
 
@@ -135,4 +138,4 @@
 
 ---
 
-*Last updated: 2026-08-10T21:02:07.668Z*
+*Last updated: 2026-08-11T21:01:58.145Z*

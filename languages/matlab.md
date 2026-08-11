@@ -8,14 +8,16 @@
 
 - **Total Repositories**: 3
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-09
+- **Last Updated**: 2026-08-11
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,730 | 2026-08-01 | 9 |
 
-*No MATLAB repositories trending today*
 
 ---
 
@@ -26,7 +28,7 @@
 | [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | The MATLAB toolbox for MEG, EEG and iEEG analysis |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,727 | 2026-08-01 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, ... |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,730 | 2026-08-01 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CERN/TIGRE](../repos/CERN/TIGRE.md) | ⭐ 795 | 2026-08-04 | TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox |
@@ -38,7 +40,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,727 | 2026-08-01 | 8 |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,730 | 2026-08-01 | 9 |
 | [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 6 |
 | [CERN/TIGRE](../repos/CERN/TIGRE.md) | ⭐ 795 | 2026-08-04 | 1 |
 
@@ -48,7 +50,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | 8 | ⭐ 7,727 | 2026-08-01 | 2026-08-09 |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | 9 | ⭐ 7,730 | 2026-08-01 | 2026-08-11 |
 | [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 6 | ⭐ 981 | 2026-08-01 | 2026-08-06 |
 | [CERN/TIGRE](../repos/CERN/TIGRE.md) | 1 | ⭐ 795 | 2026-08-04 | 2026-08-04 |
 
@@ -62,4 +64,4 @@
 
 ---
 
-*Last updated: 2026-08-10T21:02:07.665Z*
+*Last updated: 2026-08-11T21:01:58.142Z*

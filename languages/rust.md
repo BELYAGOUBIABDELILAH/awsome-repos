@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 84
+- **Total Repositories**: 89
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-05
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wealthfolio/wealthfolio](../repos/wealthfolio/wealthfolio.md) | ⭐ 8,596 | 2026-08-02 | 3 |
+| [paritytech/polkadot-sdk](../repos/paritytech/polkadot-sdk.md) | ⭐ 2,792 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [reacherhq/check-if-email-exists](../repos/reacherhq/check-if-email-exists.md) | ⭐ 9,433 | 2026-08-03 | 2 |
+| [cocoindex-io/cocoindex](../repos/cocoindex-io/cocoindex.md) | ⭐ 11,251 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [denoland/celld](../repos/denoland/celld.md) | ⭐ 2,993 | 2026-08-07 | 4 |
+| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,260 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 89,313 | 2026-08-09 | 2 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,424 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [surrealdb/surrealdb](../repos/surrealdb/surrealdb.md) | ⭐ 32,874 | 2026-08-09 | 2 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 89,650 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [run-llama/liteparse](../repos/run-llama/liteparse.md) | ⭐ 12,020 | 2026-08-10 | 1 |
+| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 17,436 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 14,333 | 2026-08-10 | 1 |
+| [macro-inc/macro](../repos/macro-inc/macro.md) | ⭐ 1,058 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/datafusion](../repos/apache/datafusion.md) | ⭐ 9,118 | 2026-08-10 | 1 |
+| [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [screenpipe/screenpipe](../repos/screenpipe/screenpipe.md) | ⭐ 20,883 | 2026-08-10 | 1 |
+| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,377 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 36,163 | 2026-08-10 | 1 |
+| [cachix/devenv](../repos/cachix/devenv.md) | ⭐ 7,264 | 2026-08-11 | 1 |
 
 
 ---
@@ -79,7 +79,7 @@
 | [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 24,959 | 2026-08-01 | Development at the speed of light |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [paritytech/polkadot-sdk](../repos/paritytech/polkadot-sdk.md) | ⭐ 2,790 | 2026-08-01 | The Parity Polkadot Blockchain SDK |
+| [paritytech/polkadot-sdk](../repos/paritytech/polkadot-sdk.md) | ⭐ 2,792 | 2026-08-01 | The Parity Polkadot Blockchain SDK |
 
 
 ---
@@ -91,12 +91,14 @@
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,277 | 2026-07-30 | 5 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,046 | 2026-07-30 | 2 |
 | [openai/codex](../repos/openai/codex.md) | ⭐ 104,649 | 2026-08-01 | 3 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 89,313 | 2026-08-09 | 2 |
+| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,377 | 2026-08-11 | 1 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 89,650 | 2026-08-09 | 3 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | 2026-07-31 | 2 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
+| [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,428 | 2026-08-05 | 3 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,163 | 2026-08-02 | 2 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,424 | 2026-08-02 | 3 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,155 | 2026-08-02 | 1 |
 | [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,268 | 2026-08-05 | 1 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 36,163 | 2026-08-10 | 1 |
@@ -106,8 +108,6 @@
 | [vercel/turborepo](../repos/vercel/turborepo.md) | ⭐ 30,836 | 2026-08-02 | 1 |
 | [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 30,823 | 2026-08-09 | 1 |
 | [googleworkspace/cli](../repos/googleworkspace/cli.md) | ⭐ 30,115 | 2026-08-01 | 1 |
-| [emilk/egui](../repos/emilk/egui.md) | ⭐ 29,942 | 2026-08-02 | 1 |
-| [ankitects/anki](../repos/ankitects/anki.md) | ⭐ 29,506 | 2026-08-02 | 2 |
 
 ---
 
@@ -214,7 +214,12 @@
 - [screenpipe/screenpipe](../repos/screenpipe/screenpipe.md) - YC (S26) | Record your screen 24&#x2F;7 and plug into your agents. Local, private, secure. Connect to ...
 - [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fan...
 - [mufeedvh/code2prompt](../repos/mufeedvh/code2prompt.md) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating,...
+- [macro-inc/macro](../repos/macro-inc/macro.md) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-link...
+- [alacritty/alacritty](../repos/alacritty/alacritty.md) - A cross-platform, OpenGL terminal emulator.
+- [oven-sh/bun](../repos/oven-sh/bun.md) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [cachix/devenv](../repos/cachix/devenv.md) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+- [jtroo/kanata](../repos/jtroo/kanata.md) - Improve keyboard comfort and usability with advanced customization
 
 ---
 
-*Last updated: 2026-08-10T21:02:07.679Z*
+*Last updated: 2026-08-11T21:01:58.157Z*
