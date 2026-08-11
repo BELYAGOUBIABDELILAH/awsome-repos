@@ -167,7 +167,7 @@ jobs:
           echo "No generated content changes to commit"
         else
           # Commit all changes atomically
-          git commit -m "chore: process GitHub trending ${{ steps.changes.outputs.date }}"
+          git commit -m "process GitHub trending ${{ steps.changes.outputs.date }}"
           git push
           echo "Successfully committed and pushed generated content"
         fi

@@ -78,7 +78,7 @@ class ReadmeUpdater {
     try {
       const content = await fs.readFile(`data/snapshots/${year}/${month}/${today}.json`, 'utf8');
       const data = JSON.parse(content);
-      return { date: today, repositories: data.repositories.slice(0, 5) };
+      return { date: today, repositories: data.repositories };
     } catch (error) {
       // Try previous day
       const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0];
@@ -88,8 +88,23 @@ class ReadmeUpdater {
       try {
         const content = await fs.readFile(`data/snapshots/${prevYear}/${prevMonth}/${yesterday}.json`, 'utf8');
         const data = JSON.parse(content);
-        return { date: yesterday, repositories: data.repositories.slice(0, 5) };
+        return { date: yesterday, repositories: data.repositories };
       } catch {
+        // Fallback to overview's last_collection
+        try {
+          const overviewContent = await fs.readFile('stats/overview.json', 'utf8');
+          const overview = JSON.parse(overviewContent);
+          const lastDate = overview.last_collection;
+          if (lastDate) {
+            const lastYear = lastDate.split('-')[0];
+            const lastMonth = lastDate.split('-')[1];
+            const content = await fs.readFile(`data/snapshots/${lastYear}/${lastMonth}/${lastDate}.json`, 'utf8');
+            const data = JSON.parse(content);
+            return { date: lastDate, repositories: data.repositories };
+          }
+        } catch (err) {
+          console.warn(`Could not load snapshot for last collection date: ${err.message}`);
+        }
         return { date: today, repositories: [] };
       }
     }
@@ -105,11 +120,11 @@ class ReadmeUpdater {
 
   generateReadmeContent(brand, overview, topStarred, todaySnapshot) {
     const repoUrl = `https://github.com/${brand.github}/${brand.repository}`;
-    const daysSince = this.calculateDaysSince(overview.first_collection);
     const latestRows = todaySnapshot.repositories.map(repo => {
       const stars = '⭐ ' + this.formatStars(repo.stars);
       const lang = repo.primary_language || repo.language || 'Unknown';
-      const description = (repo.description || 'No description').substring(0, 80);
+      const descriptionText = repo.description || 'No description';
+      const description = descriptionText.length > 80 ? descriptionText.substring(0, 80) + '...' : descriptionText;
       return `| [${repo.full_name}](https://github.com/${repo.full_name}) | ${stars} | ${lang} | ${description} |`;
     }).join('\n');
 
@@ -118,129 +133,98 @@ class ReadmeUpdater {
 
     return `<div align="center">
 
-# GitHub Trending Archive
+# 🚀 Awesome Repos
 
-**Daily archive of GitHub trending repositories with historical data and analytics**
+**A daily archive of GitHub trending repositories, organized by date, language, topic, and repository history.**
 
-[![GitHub Actions](https://img.shields.io/github/actions/workflow/status/${brand.github}/${brand.repository}/process-trending.yml?branch=main&label=Daily%20Updates&logo=github)](${repoUrl}/actions)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Repositories](https://img.shields.io/badge/Repositories-${overview.total_repositories}-green.svg)](./stats/)
-[![Languages](https://img.shields.io/badge/Languages-${overview.language_count}-orange.svg)](./languages/)
+[![Daily Updates](https://img.shields.io/github/actions/workflow/status/${brand.github}/${brand.repository}/process-trending.yml?branch=main&label=Daily%20Updates&style=flat-square&logo=github)](${repoUrl}/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-01696f?style=flat-square)](./LICENSE)
+[![Repositories](https://img.shields.io/badge/Repositories-${overview.total_repositories}-2d6a4f?style=flat-square)](./stats/)
+[![Languages](https://img.shields.io/badge/Languages-${overview.language_count}-e07b39?style=flat-square)](./languages/)
+
+---
+
+### 🔍 Quick Navigation (Filters)
+
+**[📊 Statistics](./stats/)** &nbsp;•&nbsp; **[💎 Hidden Gems](./hidden-gems/)** &nbsp;•&nbsp; **[📦 Repository Profiles](./repos/)** &nbsp;•&nbsp; **[🏷️ Topics](./topics/)** &nbsp;•&nbsp; **[💻 Languages](./languages/)** &nbsp;•&nbsp; **[📅 Daily Archive](./archive/)**
+
+---
+
+## 📢 Stay Updated & Connected!
+
+> 💡 **Never miss a breakthrough open-source project!** We analyze GitHub trends daily and share curated highlights, code analysis, and hidden software gems across our channels. Join our growing community of developers!
+
+| Platform | Channel | Content Focus |
+| :--- | :--- | :--- |
+| **📢 Telegram** | [Join Telegram](https://t.me/+zR8KdEpaHLUwMWY0) | Real-time alerts, daily top charts, and hot updates. |
+| **✉️ Substack** | [Subscribe to Newsletter](https://axiomrepo.substack.com/) | Deep-dives into code architecture, developer tools, and tech stacks. |
+| **👥 Facebook** | [Follow Page](https://web.facebook.com/axiomrepo) | Byte-sized tips, developer memes, and open-source updates. |
+| **🎥 TikTok** | [Follow on TikTok](https://www.tiktok.com/@axiomrepo) | 60-second reviews and visual walk-throughs of amazing repositories. |
 
 </div>
 
 ---
 
-## 📅 Today's Trending - ${new Date(latestDate).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+## 📅 Today's Trending · ${new Date(latestDate).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
 
-| Repository | ⭐ Stars | Language | Description |
-|------------|------:|----------|-------------|
+| Repository | Stars | Language | Description |
+|---|---:|---|---|
 ${latestRows || '| No data available | — | — | — |'}
 
 [📄 View full daily report →](${archivePath})
 
 ---
 
-## 🗂️ Browse the Archive
-
-### [📅 Daily Archive](./archive/)
-Browse trending repositories organized by date. Each day captures the most popular projects across all languages and topics, providing a historical view of what was trending when.
-
-**[View daily reports →](./archive/)**
-
----
-
-### [💻 Languages](./languages/)
-Explore repositories grouped by programming language. Find trending projects in your favorite language, from Python and JavaScript to Rust and Go.
-
-**Popular Languages:**
-- [Python](./languages/python.md) | [JavaScript](./languages/javascript.md) | [TypeScript](./languages/typescript.md)
-- [Go](./languages/go.md) | [Rust](./languages/rust.md) | [Java](./languages/java.md)
-
-**[View all ${overview.language_count} languages →](./languages/)**
-
----
-
-### [🏷️ Topics](./topics/)
-Discover projects organized by category and domain. Topics include AI, web development, blockchain, security, and more.
-
-**Popular Topics:**
-- [Artificial Intelligence](./topics/artificial-intelligence.md)
-- [Web Development](./topics/web-development.md)
-- [Systems Programming](./topics/systems-programming.md)
-- [Blockchain](./topics/blockchain.md)
-
-**[View all topics →](./topics/)**
-
----
-
-### [📦 Repository Profiles](./repos/)
-Detailed pages for each repository with complete metrics, trending history, related projects, and growth analysis.
-
-**Examples:**
-- [tensorflow/tensorflow](./repos/tensorflow/tensorflow.md)
-- [microsoft/vscode](./repos/microsoft/vscode.md)
-- [rust-lang/rust](./repos/rust-lang/rust.md)
-
-**[Browse all ${overview.total_repositories} repositories →](./repos/)**
-
----
-
-### [💎 Hidden Gems](./hidden-gems/)
-Discover underrated projects with high growth potential. These repositories show strong momentum but haven't reached mainstream attention yet.
-
-**[Find hidden gems →](./hidden-gems/)**
-
----
-
-### [📊 Statistics](./stats/)
-Historical trends, growth analysis, and data insights across all tracked repositories. Includes top starred, fastest growing, and most frequent trending projects.
-
-**Available Statistics:**
-- [Top Starred Repositories](./stats/top-starred.json)
-- [Fastest Growing Projects](./stats/fastest-growing.json)
-- [Most Frequent Trending](./stats/most-frequent.json)
-- [Languages Distribution](./stats/languages.json)
-- [Topics Analysis](./stats/topics.json)
-
-**[View all statistics →](./stats/)**
-
----
+<div align="center">
 
 ## 📈 Archive Overview
 
-- **${overview.total_repositories}** repositories indexed
-- **${overview.language_count}** programming languages covered
-- **${overview.topic_count}** topics tracked
-- **Daily updates** via automated workflow
-- **Historical data** since ${new Date(overview.first_collection).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}
+| 🗂️ Repositories | 💻 Languages | 🏷️ Topics |
+| :---: | :---: | :---: |
+| <sub style="font-size:14px">Indexed & Analyzed</sub><br><strong style="font-size:28px;color:#2d6a4f">${overview.total_repositories}</strong> | <sub style="font-size:14px">Languages Covered</sub><br><strong style="font-size:28px;color:#e07b39">${overview.language_count}</strong> | <sub style="font-size:14px">Topics Tracked</sub><br><strong style="font-size:28px;color:#01696f">${overview.topic_count}</strong> |
+
+> 🔄 **Daily updates** via automated workflow &nbsp;•&nbsp; ⏳ **Historical data** since ${new Date(overview.first_collection).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}
+
+</div>
 
 ---
 
-## 🤝 Contributing
+## 🤝 Join the Ecosystem (Contributing)
 
-This is an open data project. Contributions are welcome:
+Awesome Repos is an **open-data ecosystem**. We leverage crowd-sourced insights to build the most comprehensive catalog of trending software. Your contributions are vital!
 
-- Report data quality issues
-- Suggest new topics or categories  
-- Improve documentation
-- Add ecosystem data ([Contributing Guide](./CONTRIBUTING_ECOSYSTEM.md))
+| Opportunity | Description | Get Started |
+| :--- | :--- | :--- |
+| **🐛 Report Data Quality** | Notice a missing language classification or incorrect repo data? | [Open an Issue](${repoUrl}/issues/new?title=Data+Quality+Issue) |
+| **💡 Suggest Categories/Topics** | Help us map topics better or recommend curated groupings. | [Suggest Topic](${repoUrl}/issues/new?title=Topic+Suggestion) |
+| **✍️ Enhance Documentation** | Improve our formatting, script efficiency, or templates. | [Improve Docs](${repoUrl}/pulls) |
+| **🌐 Add Ecosystem Data** | Learn how to feed repository data into external pipelines. | [Ecosystem Guide](./CONTRIBUTING_ECOSYSTEM.md) |
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for complete guidelines.
+Refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for full guidelines on coding standards, pull request processes, and data schemas.
 
 ---
 
-## 📄 License
+## 📄 License & Terms
 
-MIT License - see [LICENSE](./LICENSE) for details.
+This project is open-source software licensed under the **[MIT License](./LICENSE)**. 
+
+Feel free to use the data, scripts, and generated reports in your own applications, newsletters, or projects. Attribution is highly appreciated!
 
 ---
 
 <div align="center">
 
-**Created by [${brand.creator}](https://github.com/${brand.github})**
+<h3>Awesome Repos</h3>
+<p>Curated and developed with ❤️ by <b><a href="https://github.com/${brand.github}">${brand.creator}</a></b></p>
 
-*Automated daily updates powered by n8n and GitHub Actions*
+[![GitHub followers](https://img.shields.io/github/followers/${brand.github}?style=social)](https://github.com/${brand.github})
+&nbsp;&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/${brand.github}/${brand.repository}?style=social)](https://github.com/${brand.github}/${brand.repository})
+
+<p style="color: #6a737d; font-size: 11px; margin-top: 10px;">
+   Automated daily database compilation powered by <b>n8n</b> & <b>GitHub Actions</b>.<br>
+  All datasets and markdown reports are regenerated every 24 hours.
+</p>
 
 </div>
 `;
