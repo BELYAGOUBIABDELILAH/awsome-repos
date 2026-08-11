@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Other |
-| **Stars** | ⭐ 9,842 |
-| **Forks** | 🍴 954 |
-| **Trending Days** | 1 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 17,453 |
+| **Forks** | 🍴 1,565 |
+| **Trending Days** | 7 |
+| **Peak Rank** | #1 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 1, 2026 |
+| **Last Seen** | Aug 7, 2026 |
 
 
 ---
@@ -43,12 +43,17 @@
 
 ## Trending Timeline
 
+**Aug 2, 2026** — Rank #10 (+604 ⭐)  
+**Aug 3, 2026** — Rank #5 (+1091 ⭐)  
+**Aug 4, 2026** — Rank #1 (+1138 ⭐)  
+**Aug 5, 2026** — Rank #3 (+1891 ⭐)  
+**Aug 6, 2026** — Rank #1 (+1053 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Peak Rank**: #1
+- **Trending Days**: 7
+- **Longest Streak**: 7 days
 
 ---
 
@@ -69,8 +74,8 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Limited | May require reading source code |
-| **Community** | Small | Niche but dedicated community |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +90,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 100&#x2F;100
+- **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-08-01T00:25:34.190Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-11T21:01:59.217Z*  
+*Data from 7 trending reports*

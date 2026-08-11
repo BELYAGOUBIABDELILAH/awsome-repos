@@ -1,6 +1,6 @@
 # astral-sh&#x2F;uv
 
-> An extremely fast Python package installer and resolver, written in Rust
+> An extremely fast Python package and project manager, written in Rust.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;astral-sh&#x2F;uv) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 18,500 |
-| **Forks** | 🍴 540 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 88,393 |
+| **Forks** | 🍴 3,449 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Jul 31, 2026 |
-| **Last Seen** | Jul 31, 2026 |
+| **Last Seen** | Aug 5, 2026 |
 
 
 ---
@@ -39,7 +39,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Rust or python*
+*Similar: Check repositories in Rust or packaging*
 
 ---
 
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -57,7 +57,7 @@
 ## Categories
 
 ### Topics
-[`python`](../../topics/python.md) [`rust`](../../topics/rust.md) [`package-manager`](../../topics/package-manager.md) [`pip`](../../topics/pip.md) 
+[`packaging`](../../topics/packaging.md) [`python`](../../topics/python.md) [`resolver`](../../topics/resolver.md) [`uv`](../../topics/uv.md) 
 
 ### Curated Categories
 `Systems Programming` 
@@ -71,8 +71,8 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
-| **Documentation** | Average | Basic documentation available |
-| **Community** | Growing | Emerging community |
+| **Documentation** | Good | Well-maintained documentation |
+| **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -92,12 +92,12 @@
 - Check similar projects in Rust
 
 #### Metrics
-- **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Hidden Gem**: ✗ No
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: Top 10 (Peak: #9)
 
 
 ---
 
-*Last updated: 2026-08-01T00:25:34.150Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-11T21:01:59.174Z*  
+*Data from 2 trending reports*

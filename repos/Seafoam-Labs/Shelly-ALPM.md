@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Zig |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 943 |
-| **Forks** | 🍴 76 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 990 |
+| **Forks** | 🍴 84 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 1, 2026 |
+| **Last Seen** | Aug 11, 2026 |
 
 
 ---
@@ -47,15 +47,15 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Trending Days**: 9
+- **Longest Streak**: 5 days
 
 ---
 
 ## Categories
 
 ### Topics
-[`archlinux`](../../topics/archlinux.md) [`archlinux-community`](../../topics/archlinux-community.md) [`archlinux-package`](../../topics/archlinux-package.md) [`archlinuxgui`](../../topics/archlinuxgui.md) [`cachyos`](../../topics/cachyos.md) [`cli`](../../topics/cli.md) [`dotnet`](../../topics/dotnet.md) [`garuda-linux`](../../topics/garuda-linux.md) [`gtk`](../../topics/gtk.md) [`gtk4`](../../topics/gtk4.md) [`linux`](../../topics/linux.md) [`package-management`](../../topics/package-management.md) [`package-manager`](../../topics/package-manager.md) [`pacman`](../../topics/pacman.md) [`shelly`](../../topics/shelly.md) [`shelly-cli`](../../topics/shelly-cli.md) [`shelly-ui`](../../topics/shelly-ui.md) [`visual`](../../topics/visual.md) 
+[`archlinux`](../../topics/archlinux.md) [`archlinux-community`](../../topics/archlinux-community.md) [`archlinux-package`](../../topics/archlinux-package.md) [`archlinuxgui`](../../topics/archlinuxgui.md) [`cachyos`](../../topics/cachyos.md) [`cli`](../../topics/cli.md) [`garuda-linux`](../../topics/garuda-linux.md) [`gtk`](../../topics/gtk.md) [`gtk4`](../../topics/gtk4.md) [`linux`](../../topics/linux.md) [`package-management`](../../topics/package-management.md) [`package-manager`](../../topics/package-manager.md) [`pacman`](../../topics/pacman.md) [`shelly`](../../topics/shelly.md) [`shelly-cli`](../../topics/shelly-cli.md) [`shelly-ui`](../../topics/shelly-ui.md) [`visual`](../../topics/visual.md) [`zig`](../../topics/zig.md) 
 
 ### Curated Categories
 `Frontend Development` `Game Development` `Systems Programming` `Developer Tools` 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-01T00:25:34.533Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-11T21:01:59.555Z*  
+*Data from 9 trending reports*

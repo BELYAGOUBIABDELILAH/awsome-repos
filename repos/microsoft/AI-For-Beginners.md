@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Jupyter Notebook |
 | **License** | MIT |
-| **Stars** | ⭐ 55,299 |
-| **Forks** | 🍴 11,144 |
-| **Trending Days** | 1 |
-| **Peak Rank** | #5 |
+| **Stars** | ⭐ 60,643 |
+| **Forks** | 🍴 11,825 |
+| **Trending Days** | 3 |
+| **Peak Rank** | #1 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 1, 2026 |
+| **Last Seen** | Aug 3, 2026 |
 
 
 ---
@@ -43,12 +43,14 @@
 
 ## Trending Timeline
 
+**Aug 2, 2026** — Rank #1 (+2617 ⭐)  
+**Aug 3, 2026** — Rank #6 (+1902 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #5
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Peak Rank**: #1
+- **Trending Days**: 3
+- **Longest Streak**: 3 days
 
 ---
 
@@ -85,11 +87,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
-- **Historical Rank**: Top 5 (Peak: #5)
+- **Trending Score**: 60&#x2F;100
+- **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-08-01T00:25:34.162Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-11T21:01:59.186Z*  
+*Data from 3 trending reports*

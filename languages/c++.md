@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 18
-- **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Total Repositories**: 115
+- **First Seen**: 2026-07-30
+- **Last Updated**: 2026-08-07
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 4,995 | 2026-08-01 | 1 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,484 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,248 | 2026-08-01 | 1 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,722 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,138 | 2026-08-01 | 1 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,393 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lightvector/KataGo](../repos/lightvector/KataGo.md) | ⭐ 4,886 | 2026-08-01 | 1 |
+| [NVIDIA/nccl](../repos/NVIDIA/nccl.md) | ⭐ 4,982 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 448 | 2026-08-01 | 1 |
+| [google/or-tools](../repos/google/or-tools.md) | ⭐ 13,885 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,670 | 2026-08-01 | 1 |
+| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 21,347 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 114,866 | 2026-08-01 | 1 |
+| [ml-explore/mlx](../repos/ml-explore/mlx.md) | ⭐ 27,913 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gem5/gem5](../repos/gem5/gem5.md) | ⭐ 2,737 | 2026-08-01 | 1 |
+| [k2-fsa/sherpa-onnx](../repos/k2-fsa/sherpa-onnx.md) | ⭐ 14,111 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,318 | 2026-08-01 | 1 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 39,994 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twelvesec/PwnPad](../repos/twelvesec/PwnPad.md) | ⭐ 1,165 | 2026-08-01 | 1 |
+| [juce-framework/JUCE](../repos/juce-framework/JUCE.md) | ⭐ 8,766 | 2026-08-09 | 3 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 4,995 | 2026-08-01 | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,905 | 2026-07-30 | An Open Source Machine Learning Framework for Everyone |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,248 | 2026-08-01 | LLM inference in C&#x2F;C++ |
+| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,290 | 2026-08-01 | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,138 | 2026-08-01 | Asio C++ Library |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,484 | 2026-08-01 | LLM inference in C&#x2F;C++ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [lightvector/KataGo](../repos/lightvector/KataGo.md) | ⭐ 4,886 | 2026-08-01 | GTP engine and self-play learning in Go |
+| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,150 | 2026-08-01 | Asio C++ Library |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 448 | 2026-08-01 | super repo for rocm systems projects |
+| [lightvector/KataGo](../repos/lightvector/KataGo.md) | ⭐ 4,902 | 2026-08-01 | GTP engine and self-play learning in Go |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,670 | 2026-08-01 | Protocol Buffers - Google&#39;s data interchange format |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 455 | 2026-08-01 | super repo for rocm systems projects |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 114,866 | 2026-08-01 | Godot Engine – Multi-platform 2D and 3D game engine |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,722 | 2026-08-01 | Protocol Buffers - Google&#39;s data interchange format |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,269 | 2026-08-01 | Godot Engine – Multi-platform 2D and 3D game engine |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [gem5/gem5](../repos/gem5/gem5.md) | ⭐ 2,737 | 2026-08-01 | The official repository for the gem5 computer-system architecture simulator. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,318 | 2026-08-01 | Fast C++ logging library. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [twelvesec/PwnPad](../repos/twelvesec/PwnPad.md) | ⭐ 1,165 | 2026-08-01 | PwnPad is an affordable, hands-on hardware hacking platform built for practical learning. It feat... |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,444 | 2026-08-01 | Fast C++ logging library. |
 
 
 ---
@@ -88,24 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [electron/electron](../repos/electron/electron.md) | ⭐ 122,278 | 2026-08-01 | 1 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 122,248 | 2026-08-01 | 1 |
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 114,866 | 2026-08-01 | 1 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,670 | 2026-08-01 | 1 |
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,318 | 2026-08-01 | 1 |
-| [v8/v8](../repos/v8/v8.md) | ⭐ 25,159 | 2026-08-01 | 1 |
-| [espressif/arduino-esp32](../repos/espressif/arduino-esp32.md) | ⭐ 17,159 | 2026-08-01 | 1 |
-| [assimp/assimp](../repos/assimp/assimp.md) | ⭐ 13,101 | 2026-08-01 | 1 |
-| [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | ⭐ 11,190 | 2026-08-01 | 1 |
-| [google/benchmark](../repos/google/benchmark.md) | ⭐ 10,322 | 2026-08-01 | 1 |
-| [UZ-SLAMLab/ORB_SLAM3](../repos/UZ-SLAMLab/ORB_SLAM3.md) | ⭐ 8,894 | 2026-08-01 | 1 |
-| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,138 | 2026-08-01 | 1 |
-| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 4,995 | 2026-08-01 | 1 |
-| [lightvector/KataGo](../repos/lightvector/KataGo.md) | ⭐ 4,886 | 2026-08-01 | 1 |
-| [CLIUtils/CLI11](../repos/CLIUtils/CLI11.md) | ⭐ 4,392 | 2026-08-01 | 1 |
-| [gem5/gem5](../repos/gem5/gem5.md) | ⭐ 2,737 | 2026-08-01 | 1 |
-| [twelvesec/PwnPad](../repos/twelvesec/PwnPad.md) | ⭐ 1,165 | 2026-08-01 | 1 |
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 448 | 2026-08-01 | 1 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,905 | 2026-07-30 | 6 |
+| [react/react-native](../repos/react/react-native.md) | ⭐ 126,283 | 2026-08-04 | 1 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,484 | 2026-08-01 | 7 |
+| [electron/electron](../repos/electron/electron.md) | ⭐ 122,394 | 2026-08-01 | 3 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,269 | 2026-08-01 | 5 |
+| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,505 | 2026-08-06 | 1 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,791 | 2026-08-02 | 3 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,589 | 2026-08-08 | 2 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,722 | 2026-08-01 | 3 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,393 | 2026-08-05 | 6 |
+| [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
+| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,247 | 2026-08-02 | 2 |
+| [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,681 | 2026-08-06 | 1 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 39,994 | 2026-08-09 | 3 |
+| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,373 | 2026-08-02 | 3 |
+| [google/leveldb](../repos/google/leveldb.md) | ⭐ 39,306 | 2026-08-07 | 2 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 38,910 | 2026-08-04 | 4 |
+| [aseprite/aseprite](../repos/aseprite/aseprite.md) | ⭐ 38,585 | 2026-08-07 | 1 |
+| [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 37,789 | 2026-08-07 | 2 |
 
 ---
 
@@ -113,21 +115,22 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | 1 | ⭐ 4,995 | 2026-08-01 | 2026-08-01 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 1 | ⭐ 122,248 | 2026-08-01 | 2026-08-01 |
-| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | 1 | ⭐ 6,138 | 2026-08-01 | 2026-08-01 |
-| [lightvector/KataGo](../repos/lightvector/KataGo.md) | 1 | ⭐ 4,886 | 2026-08-01 | 2026-08-01 |
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 1 | ⭐ 448 | 2026-08-01 | 2026-08-01 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 1 | ⭐ 71,670 | 2026-08-01 | 2026-08-01 |
-| [godotengine/godot](../repos/godotengine/godot.md) | 1 | ⭐ 114,866 | 2026-08-01 | 2026-08-01 |
-| [gem5/gem5](../repos/gem5/gem5.md) | 1 | ⭐ 2,737 | 2026-08-01 | 2026-08-01 |
-| [gabime/spdlog](../repos/gabime/spdlog.md) | 1 | ⭐ 29,318 | 2026-08-01 | 2026-08-01 |
-| [twelvesec/PwnPad](../repos/twelvesec/PwnPad.md) | 1 | ⭐ 1,165 | 2026-08-01 | 2026-08-01 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 7 | ⭐ 123,484 | 2026-08-01 | 2026-08-11 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 6 | ⭐ 196,905 | 2026-07-30 | 2026-08-07 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 6 | ⭐ 65,393 | 2026-08-05 | 2026-08-11 |
+| [godotengine/godot](../repos/godotengine/godot.md) | 5 | ⭐ 115,269 | 2026-08-01 | 2026-08-06 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | 4 | ⭐ 29,444 | 2026-08-01 | 2026-08-06 |
+| [google/googletest](../repos/google/googletest.md) | 4 | ⭐ 38,910 | 2026-08-04 | 2026-08-07 |
+| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | 3 | ⭐ 6,150 | 2026-08-01 | 2026-08-04 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 3 | ⭐ 71,722 | 2026-08-01 | 2026-08-11 |
+| [electron/electron](../repos/electron/electron.md) | 3 | ⭐ 122,394 | 2026-08-01 | 2026-08-08 |
+| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | 3 | ⭐ 39,373 | 2026-08-02 | 2026-08-09 |
 
 ---
 
 ## 📋 All C++ Repositories
 
+- [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) - An Open Source Machine Learning Framework for Everyone
 - [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol 
 - [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) - LLM inference in C&#x2F;C++
 - [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) - Asio C++ Library
@@ -146,7 +149,88 @@
 - [v8/v8](../repos/v8/v8.md) - The official mirror of the V8 Git repository
 - [electron/electron](../repos/electron/electron.md) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [espressif/arduino-esp32](../repos/espressif/arduino-esp32.md) - Arduino core for the ESP32 family of SoCs
+- [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+- [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) - Port of OpenAI&#39;s Whisper model in C&#x2F;C++
+- [sz3/libcimbar](../repos/sz3/libcimbar.md) - Optimized implementation for color-icon-matrix barcodes
+- [grpc/grpc](../repos/grpc/grpc.md) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) - OptiScaler bridges upscaling&#x2F;frame gen across GPUs. Supports DLSS2+&#x2F;XeSS&#x2F;FSR2+ inputs, replaces n...
+- [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) - qBittorrent BitTorrent client
+- [nasa/fprime](../repos/nasa/fprime.md) - F´ - A flight software and embedded systems framework
+- [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) - ArduPlane, ArduCopter, ArduRover, ArduSub source
+- [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) - Bitcoin Core integration&#x2F;staging tree
+- [official-stockfish/Stockfish](../repos/official-stockfish/Stockfish.md) - A free and strong UCI chess engine
+- [doitsujin/dxvk](../repos/doitsujin/dxvk.md) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux &#x2F; Wine
+- [CleverRaven/Cataclysm-DDA](../repos/CleverRaven/Cataclysm-DDA.md) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+- [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) - An MCP-based chatbot | 一个基于MCP的聊天机器人
+- [TrinityCore/TrinityCore](../repos/TrinityCore/TrinityCore.md) - TrinityCore Open Source MMO Framework (master &#x3D; 12.0.7.68887, 3.3.5 &#x3D; 3.3.5a.12340, cata classic ...
+- [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) - ClickHouse® is a real-time analytics database management system
+- [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) - Complete Open Source and Modular solution for MMO
+- [ValveSoftware/Proton](../repos/ValveSoftware/Proton.md) - Compatibility tool for Steam Play based on Wine and additional components
+- [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
+- [wled/WLED](../repos/wled/WLED.md) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
+- [luau-lang/luau](../repos/luau-lang/luau.md) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
+- [imputnet/helium](../repos/imputnet/helium.md) - Private, fast, and honest web browser
+- [OpenRCT2/OpenRCT2](../repos/OpenRCT2/OpenRCT2.md) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
+- [stenzek/duckstation](../repos/stenzek/duckstation.md) - Fast PlayStation 1 emulator for x86-64&#x2F;AArch32&#x2F;AArch64&#x2F;RV64
+- [ceph/ceph](../repos/ceph/ceph.md) - Ceph is a distributed object, block, and file storage platform 
+- [catchorg/Catch2](../repos/catchorg/Catch2.md) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (...
+- [carbon-language/carbon-lang](../repos/carbon-language/carbon-lang.md) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: C...
+- [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) - A unified cross-platform AI client supporting seamless transitions between standard cloud APIs an...
+- [xournalpp/xournalpp](../repos/xournalpp/xournalpp.md) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with G...
+- [google/googletest](../repos/google/googletest.md) - GoogleTest - Google Testing and Mocking Framework
+- [react/react-native](../repos/react/react-native.md) - A framework for building native applications using React
+- [deepseek-ai/FlashMLA](../repos/deepseek-ai/FlashMLA.md) - FlashMLA: Efficient Multi-head Latent Attention Kernels
+- [google/glog](../repos/google/glog.md) - C++ implementation of the Google logging module
+- [wazuh/wazuh](../repos/wazuh/wazuh.md) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and clou...
+- [argotorg/solidity](../repos/argotorg/solidity.md) - Solidity, the Smart Contract Programming Language
+- [dmlc/xgboost](../repos/dmlc/xgboost.md) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R,...
+- [dogecoin/dogecoin](../repos/dogecoin/dogecoin.md) - very currency
+- [SwagSoftware/KisakCOD](../repos/SwagSoftware/KisakCOD.md) - COD4 Open Source Reimplementation
+- [mltframework/shotcut](../repos/mltframework/shotcut.md) - cross-platform (Qt), open-source (GPLv3) video editor
+- [FEX-Emu/FEX](../repos/FEX-Emu/FEX.md) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
+- [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) - Truly independent web browser
+- [ai-dynamo/nixl](../repos/ai-dynamo/nixl.md) - NVIDIA Inference Xfer Library (NIXL)
+- [MariaDB/server](../repos/MariaDB/server.md) - MariaDB server is a community developed fork of MySQL server. Started by core members of the orig...
+- [iree-org/iree](../repos/iree-org/iree.md) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
+- [envoyproxy/envoy](../repos/envoyproxy/envoy.md) - Cloud-native high-performance edge&#x2F;middle&#x2F;service proxy
+- [dyang886/Game-Cheats-Manager](../repos/dyang886/Game-Cheats-Manager.md) - Easily download and manage single-player game cheats for your convenience
+- [NVIDIA/nccl](../repos/NVIDIA/nccl.md) - Optimized primitives for collective multi-GPU communication
+- [telegramdesktop/tdesktop](../repos/telegramdesktop/tdesktop.md) - Telegram Desktop messaging app
+- [google/or-tools](../repos/google/or-tools.md) - Google&#39;s Operations Research tools:
+- [cloudflare/workerd](../repos/cloudflare/workerd.md) - The JavaScript &#x2F; Wasm runtime that powers Cloudflare Workers
+- [colmap/colmap](../repos/colmap/colmap.md) - COLMAP - Structure-from-Motion and Multi-View Stereo
+- [realsenseai/librealsense](../repos/realsenseai/librealsense.md) - RealSense SDK
+- [facebookresearch/faiss](../repos/facebookresearch/faiss.md) - A library for efficient similarity search and clustering of dense vectors.
+- [PX4/PX4-Autopilot](../repos/PX4/PX4-Autopilot.md) - PX4 Autopilot Software
+- [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+- [zeek/zeek](../repos/zeek/zeek.md) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may...
+- [ml-explore/mlx](../repos/ml-explore/mlx.md) - MLX: An array framework for Apple silicon
+- [microsoft/terminal](../repos/microsoft/terminal.md) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [google/leveldb](../repos/google/leveldb.md) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping fr...
+- [google/perfetto](../repos/google/perfetto.md) - Production-grade client-side tracing, profiling, and analysis for complex software systems.
+- [lemonade-sdk/lemonade](../repos/lemonade-sdk/lemonade.md) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their ow...
+- [aseprite/aseprite](../repos/aseprite/aseprite.md) - Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)
+- [microsoft/foundry-local](../repos/microsoft/foundry-local.md) - 
+- [openvinotoolkit/openvino](../repos/openvinotoolkit/openvino.md) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+- [tenstorrent/tt-metal](../repos/tenstorrent/tt-metal.md) - :metal: TT-NN operator library, and TT-Metalium low level kernel programming model.
+- [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t s...
+- [k2-fsa/sherpa-onnx](../repos/k2-fsa/sherpa-onnx.md) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and V...
+- [ocornut/imgui](../repos/ocornut/imgui.md) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [throneproj/Throne](../repos/throneproj/Throne.md) - Cross-platform GUI proxy utility (Empowered by sing-box)
+- [microsoft/WSL](../repos/microsoft/WSL.md) - Windows Subsystem for Linux
+- [BruceDevices/firmware](../repos/BruceDevices/firmware.md) - Predatory ESP32 Firmware
+- [alibaba/MNN](../repos/alibaba/MNN.md) - MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-perform...
+- [notepad-plus-plus/notepad-plus-plus](../repos/notepad-plus-plus/notepad-plus-plus.md) - Notepad++ official repository
+- [google-ai-edge/LiteRT](../repos/google-ai-edge/LiteRT.md) - LiteRT, successor to TensorFlow Lite. is Google&#39;s On-device framework for high-performance ML &amp; G...
+- [bambulab/BambuStudio](../repos/bambulab/BambuStudio.md) - PC Software for BambuLab and other 3D printers
+- [microsoft/BitNet](../repos/microsoft/BitNet.md) - Official inference framework for 1-bit LLMs
+- [juce-framework/JUCE](../repos/juce-framework/JUCE.md) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applicatio...
+- [RPCS3/rpcs3](../repos/RPCS3/rpcs3.md) - PlayStation 3 emulator and debugger
+- [Tencent/ncnn](../repos/Tencent/ncnn.md) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
+- [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) - Distribute and run LLMs with a single file.
+- [YimMenu/YimMenuV2](../repos/YimMenu/YimMenuV2.md) - Experimental menu for GTA 5: Enhanced
+- [futo-org/android-keyboard](../repos/futo-org/android-keyboard.md) - Official FUTO Keyboard Issue Tracker and Source Mirror of https:&#x2F;&#x2F;gitlab.futo.org&#x2F;keyboard&#x2F;latinime
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.742Z*
+*Last updated: 2026-08-11T21:01:58.110Z*

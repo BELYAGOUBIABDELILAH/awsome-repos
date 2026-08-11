@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 2
+- **Total Repositories**: 3
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-11
 
 ---
 
@@ -16,10 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,723 | 2026-08-01 | 1 |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,730 | 2026-08-01 | 9 |
 
 
 ---
@@ -31,7 +28,10 @@
 | [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | The MATLAB toolbox for MEG, EEG and iEEG analysis |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,723 | 2026-08-01 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, ... |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,730 | 2026-08-01 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CERN/TIGRE](../repos/CERN/TIGRE.md) | ⭐ 795 | 2026-08-04 | TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox |
 
 
 ---
@@ -40,8 +40,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,723 | 2026-08-01 | 1 |
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 1 |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,730 | 2026-08-01 | 9 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 6 |
+| [CERN/TIGRE](../repos/CERN/TIGRE.md) | ⭐ 795 | 2026-08-04 | 1 |
 
 ---
 
@@ -49,8 +50,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 1 | ⭐ 981 | 2026-08-01 | 2026-08-01 |
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | 1 | ⭐ 7,723 | 2026-08-01 | 2026-08-01 |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | 9 | ⭐ 7,730 | 2026-08-01 | 2026-08-11 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 6 | ⭐ 981 | 2026-08-01 | 2026-08-06 |
+| [CERN/TIGRE](../repos/CERN/TIGRE.md) | 1 | ⭐ 795 | 2026-08-04 | 2026-08-04 |
 
 ---
 
@@ -58,7 +60,8 @@
 
 - [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) - The MATLAB toolbox for MEG, EEG and iEEG analysis
 - [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) - OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, ...
+- [CERN/TIGRE](../repos/CERN/TIGRE.md) - TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.759Z*
+*Last updated: 2026-08-11T21:01:58.142Z*

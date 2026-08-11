@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 17
+- **Total Repositories**: 114
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-11
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,002 | 2026-08-01 | 1 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 45,412 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | ⭐ 146 | 2026-08-01 | 1 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,360 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 670 | 2026-08-01 | 1 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,677 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 5,435 | 2026-08-01 | 1 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,285 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 42,981 | 2026-08-01 | 1 |
+| [krillinai/KrillinAI](../repos/krillinai/KrillinAI.md) | ⭐ 10,930 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heroiclabs/nakama](../repos/heroiclabs/nakama.md) | ⭐ 13,066 | 2026-08-01 | 1 |
+| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,853 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,172 | 2026-08-01 | 1 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 87,287 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,209 | 2026-08-01 | 1 |
+| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 28,605 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nianzhibai/91](../repos/nianzhibai/91.md) | ⭐ 1,316 | 2026-08-01 | 1 |
+| [cli/cli](../repos/cli/cli.md) | ⭐ 45,795 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 177,455 | 2026-08-01 | 1 |
+| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 20,456 | 2026-08-11 | 1 |
 
 
 ---
@@ -52,31 +52,31 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 118,600 | 2026-07-31 | The Go programming language |
+| [golang/go](../repos/golang/go.md) | ⭐ 135,645 | 2026-07-31 | The Go programming language |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,002 | 2026-08-01 | A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs ... |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,688 | 2026-08-01 | A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | ⭐ 146 | 2026-08-01 | Offensive security framework for AI agent infrastructure - recon, credential looting, model exfil... |
+| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | ⭐ 197 | 2026-08-01 | Offensive security framework for AI agent infrastructure - recon, credential looting, model exfil... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 670 | 2026-08-01 | GitHub Stacked PRs |
+| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,047 | 2026-08-01 | GitHub Stacked PRs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 5,435 | 2026-08-01 | The system of action for AI-native cybersecurity—where intent becomes governed execution, evidenc... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 42,981 | 2026-08-01 | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, t... |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 45,412 | 2026-08-01 | Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-sour... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [heroiclabs/nakama](../repos/heroiclabs/nakama.md) | ⭐ 13,066 | 2026-08-01 | Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and socia... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,172 | 2026-08-01 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori... |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,360 | 2026-08-01 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,209 | 2026-08-01 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason... |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,677 | 2026-08-01 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nianzhibai/91](../repos/nianzhibai/91.md) | ⭐ 1,316 | 2026-08-01 | nine one |
@@ -88,23 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 177,455 | 2026-08-01 | 1 |
-| [golang/go](../repos/golang/go.md) | ⭐ 118,600 | 2026-07-31 | 1 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,002 | 2026-08-01 | 1 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 42,981 | 2026-08-01 | 1 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,172 | 2026-08-01 | 1 |
-| [IceWhaleTech/CasaOS](../repos/IceWhaleTech/CasaOS.md) | ⭐ 36,937 | 2026-08-01 | 1 |
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,209 | 2026-08-01 | 1 |
-| [cert-manager/cert-manager](../repos/cert-manager/cert-manager.md) | ⭐ 13,994 | 2026-08-01 | 1 |
-| [ccfos/nightingale](../repos/ccfos/nightingale.md) | ⭐ 13,194 | 2026-08-01 | 1 |
-| [heroiclabs/nakama](../repos/heroiclabs/nakama.md) | ⭐ 13,066 | 2026-08-01 | 1 |
-| [hashicorp/terraform-provider-aws](../repos/hashicorp/terraform-provider-aws.md) | ⭐ 11,012 | 2026-08-01 | 1 |
-| [kserve/kserve](../repos/kserve/kserve.md) | ⭐ 5,756 | 2026-08-01 | 1 |
-| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 5,435 | 2026-08-01 | 1 |
-| [looplj/axonhub](../repos/looplj/axonhub.md) | ⭐ 4,844 | 2026-08-01 | 1 |
-| [nianzhibai/91](../repos/nianzhibai/91.md) | ⭐ 1,316 | 2026-08-01 | 1 |
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 670 | 2026-08-01 | 1 |
-| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | ⭐ 146 | 2026-08-01 | 1 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,285 | 2026-08-01 | 4 |
+| [golang/go](../repos/golang/go.md) | ⭐ 135,645 | 2026-07-31 | 3 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,235 | 2026-08-04 | 1 |
+| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,298 | 2026-08-03 | 1 |
+| [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 87,287 | 2026-08-06 | 2 |
+| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,853 | 2026-08-03 | 2 |
+| [moby/moby](../repos/moby/moby.md) | ⭐ 71,975 | 2026-08-04 | 1 |
+| [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | 2026-08-07 | 1 |
+| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 65,675 | 2026-08-11 | 1 |
+| [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,263 | 2026-08-04 | 1 |
+| [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,433 | 2026-08-06 | 1 |
+| [cli/cli](../repos/cli/cli.md) | ⭐ 45,795 | 2026-08-11 | 1 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 45,412 | 2026-08-01 | 6 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 44,688 | 2026-08-01 | 2 |
+| [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 40,826 | 2026-08-02 | 1 |
+| [docker/compose](../repos/docker/compose.md) | ⭐ 38,010 | 2026-08-04 | 2 |
+| [harness/harness](../repos/harness/harness.md) | ⭐ 37,696 | 2026-08-06 | 1 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,360 | 2026-08-01 | 5 |
 
 ---
 
@@ -112,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [golang/go](../repos/golang/go.md) | 1 | ⭐ 118,600 | 2026-07-31 | 2026-07-31 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 1 | ⭐ 44,002 | 2026-08-01 | 2026-08-01 |
-| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | 1 | ⭐ 146 | 2026-08-01 | 2026-08-01 |
-| [github/gh-stack](../repos/github/gh-stack.md) | 1 | ⭐ 670 | 2026-08-01 | 2026-08-01 |
-| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | 1 | ⭐ 5,435 | 2026-08-01 | 2026-08-01 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 1 | ⭐ 42,981 | 2026-08-01 | 2026-08-01 |
-| [heroiclabs/nakama](../repos/heroiclabs/nakama.md) | 1 | ⭐ 13,066 | 2026-08-01 | 2026-08-01 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 1 | ⭐ 37,172 | 2026-08-01 | 2026-08-01 |
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 1 | ⭐ 19,209 | 2026-08-01 | 2026-08-01 |
-| [nianzhibai/91](../repos/nianzhibai/91.md) | 1 | ⭐ 1,316 | 2026-08-01 | 2026-08-01 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 6 | ⭐ 45,412 | 2026-08-01 | 2026-08-11 |
+| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 6 | ⭐ 32,878 | 2026-08-02 | 2026-08-07 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 5 | ⭐ 37,360 | 2026-08-01 | 2026-08-11 |
+| [github/gh-stack](../repos/github/gh-stack.md) | 4 | ⭐ 1,047 | 2026-08-01 | 2026-08-04 |
+| [ollama/ollama](../repos/ollama/ollama.md) | 4 | ⭐ 178,285 | 2026-08-01 | 2026-08-11 |
+| [superplanehq/superplane](../repos/superplanehq/superplane.md) | 4 | ⭐ 4,685 | 2026-08-02 | 2026-08-05 |
+| [chenyme/grok2api](../repos/chenyme/grok2api.md) | 4 | ⭐ 7,237 | 2026-08-06 | 2026-08-09 |
+| [golang/go](../repos/golang/go.md) | 3 | ⭐ 135,645 | 2026-07-31 | 2026-08-05 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 3 | ⭐ 19,677 | 2026-08-01 | 2026-08-11 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 3 | ⭐ 1,180 | 2026-08-02 | 2026-08-09 |
 
 ---
 
@@ -132,7 +135,7 @@
 - [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) - Offensive security framework for AI agent infrastructure - recon, credential looting, model exfil...
 - [github/gh-stack](../repos/github/gh-stack.md) - GitHub Stacked PRs
 - [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) - The system of action for AI-native cybersecurity—where intent becomes governed execution, evidenc...
-- [multica-ai/multica](../repos/multica-ai/multica.md) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, t...
+- [multica-ai/multica](../repos/multica-ai/multica.md) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-sour...
 - [heroiclabs/nakama](../repos/heroiclabs/nakama.md) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and socia...
 - [aquasecurity/trivy](../repos/aquasecurity/trivy.md) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori...
 - [Tencent/WeKnora](../repos/Tencent/WeKnora.md) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason...
@@ -144,7 +147,90 @@
 - [hashicorp/terraform-provider-aws](../repos/hashicorp/terraform-provider-aws.md) - The AWS Provider enables Terraform to manage AWS resources.
 - [kserve/kserve](../repos/kserve/kserve.md) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Fram...
 - [looplj/axonhub](../repos/looplj/axonhub.md) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cos...
+- [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — lea...
+- [superplanehq/superplane](../repos/superplanehq/superplane.md) - The open source control plane for agentic engineering.
+- [stretchr/testify](../repos/stretchr/testify.md) - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [agent-substrate/substrate](../repos/agent-substrate/substrate.md) - Agent Substrate: the core system
+- [Solr159/JavBoss](../repos/Solr159/JavBoss.md) - 开箱即用的本地 JAV&#x2F;视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV&#x2F;视频 媒体库，带给你顶级的浏览体验，懒人必备。| You...
+- [XTLS/Xray-core](../repos/XTLS/Xray-core.md) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform ...
+- [kgretzky/evilginx2](../repos/kgretzky/evilginx2.md) - Standalone man-in-the-middle attack framework used for phishing login credentials along with sess...
+- [AlexxIT/go2rtc](../repos/AlexxIT/go2rtc.md) - Ultimate camera streaming application
+- [tailscale/tailscale](../repos/tailscale/tailscale.md) - The easiest, most secure way to use WireGuard and 2FA.
+- [1Panel-dev/1Panel](../repos/1Panel-dev/1Panel.md) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent supp...
+- [kubescape/kubescape](../repos/kubescape/kubescape.md) - Kubescape is an open-source Kubernetes security platform for your IDE, CI&#x2F;CD pipelines, and clust...
+- [lharries/whatsapp-mcp](../repos/lharries/whatsapp-mcp.md) - WhatsApp MCP server
+- [bettercap/bettercap](../repos/bettercap/bettercap.md) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MIT...
+- [krillinai/KrillinAI](../repos/krillinai/KrillinAI.md) - AI video translation &amp; dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: dow...
+- [authelia/authelia](../repos/authelia/authelia.md) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [restic/restic](../repos/restic/restic.md) - Fast, secure, efficient backup program
+- [chaitin/SafeLine](../repos/chaitin/SafeLine.md) - SafeLine is a self-hosted WAF(Web Application Firewall) &#x2F; reverse proxy to protect your web apps ...
+- [micro/go-micro](../repos/micro/go-micro.md) - A Go agent harness and service framework
+- [SagerNet/sing-box](../repos/SagerNet/sing-box.md) - The universal proxy platform
+- [pulumi/pulumi](../repos/pulumi/pulumi.md) - Pulumi - Infrastructure as Code in any programming language 🚀
+- [caddyserver/caddy](../repos/caddyserver/caddy.md) - Fast and extensible multi-platform HTTP&#x2F;1-2-3 web server with automatic HTTPS
+- [gohugoio/hugo](../repos/gohugoio/hugo.md) - The world’s fastest framework for building websites.
+- [AlistGo/alist](../repos/AlistGo/alist.md) - 🗂️A file list&#x2F;WebDAV program that supports multiple storages, powered by Gin and Solidjs. &#x2F; 一个支持...
+- [v2fly/v2ray-core](../repos/v2fly/v2ray-core.md) - A platform for building proxies to bypass network restrictions.
+- [moby/moby](../repos/moby/moby.md) - The Moby Project - a collaborative project for the container ecosystem to assemble container-base...
+- [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) - Production-Grade Container Scheduling and Management
+- [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and...
+- [argoproj/argo-cd](../repos/argoproj/argo-cd.md) - Declarative Continuous Deployment for Kubernetes
+- [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) - Go implementation of the Ethereum protocol
+- [docker/compose](../repos/docker/compose.md) - Define and run multi-container applications with Docker
+- [gastownhall/beads](../repos/gastownhall/beads.md) - Beads - A memory upgrade for your coding agent
+- [zzet/gortex](../repos/zzet/gortex.md) - High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi re...
+- [Project-HAMi/HAMi](../repos/Project-HAMi/HAMi.md) - Heterogeneous GPU Sharing on Kubernetes
+- [gin-gonic/gin](../repos/gin-gonic/gin.md) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but wi...
+- [github/github-mcp-server](../repos/github/github-mcp-server.md) - GitHub&#39;s official MCP Server
+- [k3s-io/k3s](../repos/k3s-io/k3s.md) - Lightweight Kubernetes
+- [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use c...
+- [leookun/cursor-byok](../repos/leookun/cursor-byok.md) - Infinite BYOK in Cursor  https:&#x2F;&#x2F;github.com&#x2F;leookun&#x2F;cursor-byok&#x2F;releases
+- [authzed/spicedb](../repos/authzed/spicedb.md) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained aut...
+- [google/osv.dev](../repos/google/osv.dev.md) - Open source vulnerability DB and triage service.
+- [gastownhall/gascity](../repos/gastownhall/gascity.md) - Orchestration-builder SDK for multi-agent coding workflows
+- [wailsapp/wails](../repos/wailsapp/wails.md) - Create beautiful applications using Go
+- [coder/coder](../repos/coder/coder.md) - Secure environments for developers and their agents
+- [DataDog/datadog-agent](../repos/DataDog/datadog-agent.md) - Main repository for Datadog Agent
+- [google/osv-scanner](../repos/google/osv-scanner.md) - Vulnerability scanner written in Go which uses the data provided by https:&#x2F;&#x2F;osv.dev
+- [hashicorp/terraform](../repos/hashicorp/terraform.md) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is...
+- [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) - Modern Docker Management, Designed for Everyone
+- [infiniflow/ragflow](../repos/infiniflow/ragflow.md) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-e...
+- [akuity/kargo](../repos/akuity/kargo.md) - Application lifecycle orchestration
+- [chenyme/grok2api](../repos/chenyme/grok2api.md) - Multi-account API gateway for Grok Build, Grok Web, and Grok Console
+- [YouROK/TorrServer](../repos/YouROK/TorrServer.md) - Torrent stream server
+- [komari-monitor/komari](../repos/komari-monitor/komari.md) - A simple server monitor tool.
+- [larksuite/cli](../repos/larksuite/cli.md) - The official Lark&#x2F;飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents....
+- [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+- [harness/harness](../repos/harness/harness.md) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI&#x2F;CD Pip...
+- [apernet/hysteria](../repos/apernet/hysteria.md) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+- [gophish/gophish](../repos/gophish/gophish.md) - Open-Source Phishing Toolkit
+- [kubernetes-sigs/kind](../repos/kubernetes-sigs/kind.md) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [openbao/openbao](../repos/openbao/openbao.md) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets,...
+- [nektos/act](../repos/nektos/act.md) - Run your GitHub Actions locally 🚀
+- [veops/oneterm](../repos/veops/oneterm.md) - Provide secure access and control over all infrastructure
+- [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [livekit/livekit](../repos/livekit/livekit.md) - End-to-end realtime stack for connecting humans and AI
+- [higress-group/higress](../repos/higress-group/higress.md) - 🤖 AI Gateway | AI Native API Gateway
+- [containers/kubernetes-mcp-server](../repos/containers/kubernetes-mcp-server.md) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
+- [sysadminsmedia/homebox](../repos/sysadminsmedia/homebox.md) - A continuation of HomeBox the inventory and organization system built for the Home User
+- [beclab/Olares](../repos/beclab/Olares.md) - Open-Source Personal Cloud OS for Always-On Agents
+- [pocket-id/pocket-id](../repos/pocket-id/pocket-id.md) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in t...
+- [alexballas/go2tv](../repos/alexballas/go2tv.md) - Cast media files to Smart TVs and Chromecast devices.
+- [charmbracelet/crush](../repos/charmbracelet/crush.md) - Glamourous agentic coding for all 💘
+- [actions/actions-runner-controller](../repos/actions/actions-runner-controller.md) - Kubernetes controller for GitHub Actions self-hosted runners
+- [navidrome/navidrome](../repos/navidrome/navidrome.md) - 🎧 Your Personal Streaming Service 
+- [anchore/grype](../repos/anchore/grype.md) - A vulnerability scanner for container images and filesystems
+- [kubernetes-sigs/kueue](../repos/kubernetes-sigs/kueue.md) - Kubernetes-native Job Queueing
+- [containerd/containerd](../repos/containerd/containerd.md) - An open and reliable container runtime
+- [aceberg/WatchYourLAN](../repos/aceberg/WatchYourLAN.md) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
+- [mubeng/mubeng](../repos/mubeng/mubeng.md) - An incredibly fast proxy checker &amp; IP rotator with ease.
+- [XIU2/CloudflareSpeedTest](../repos/XIU2/CloudflareSpeedTest.md) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN &#x2F; 多个解析 IP 的网站 ~
+- [rorkai/App-Store-Connect-CLI](../repos/rorkai/App-Store-Connect-CLI.md) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, sig...
+- [OpenListTeam/OpenList](../repos/OpenListTeam/OpenList.md) - A new AList Fork to Anti Trust Crisis
+- [grafana/loki](../repos/grafana/loki.md) - Like Prometheus, but for logs.
+- [henrygd/beszel](../repos/henrygd/beszel.md) - Lightweight server monitoring with historical data, docker stats, and alerts.
+- [github/gh-aw](../repos/github/gh-aw.md) - GitHub Agentic Workflows
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.752Z*
+*Last updated: 2026-08-11T21:01:58.129Z*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 3
+- **Total Repositories**: 5
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-08
 
 ---
 
@@ -16,13 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,592 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,013 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | 1 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,025 | 2026-08-01 | 9 |
 
 
 ---
@@ -31,13 +25,19 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,592 | 2026-08-01 | No longer maintained, see pinned issues |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,597 | 2026-08-01 | No longer maintained, see pinned issues |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,013 | 2026-08-01 | Low-Budget Password Strength Estimation |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,025 | 2026-08-01 | Low-Budget Password Strength Estimation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | The motion graphics toolbelt for the web |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,149 | 2026-08-06 | Adds various features to anonymous imageboards. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,601 | 2026-08-09 | Unfancy JavaScript |
 
 
 ---
@@ -46,9 +46,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,592 | 2026-08-01 | 1 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,597 | 2026-08-01 | 3 |
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | 1 |
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,013 | 2026-08-01 | 1 |
+| [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,601 | 2026-08-09 | 1 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,025 | 2026-08-01 | 9 |
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,149 | 2026-08-06 | 2 |
 
 ---
 
@@ -56,9 +58,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 1 | ⭐ 22,592 | 2026-08-01 | 2026-08-01 |
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 1 | ⭐ 16,013 | 2026-08-01 | 2026-08-01 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 9 | ⭐ 16,025 | 2026-08-01 | 2026-08-11 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 3 | ⭐ 22,597 | 2026-08-01 | 2026-08-08 |
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 2 | ⭐ 1,149 | 2026-08-06 | 2026-08-09 |
 | [mojs/mojs](../repos/mojs/mojs.md) | 1 | ⭐ 18,747 | 2026-08-01 | 2026-08-01 |
+| [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | 1 | ⭐ 16,601 | 2026-08-09 | 2026-08-09 |
 
 ---
 
@@ -67,7 +71,9 @@
 - [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) - No longer maintained, see pinned issues
 - [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) - Low-Budget Password Strength Estimation
 - [mojs/mojs](../repos/mojs/mojs.md) - The motion graphics toolbelt for the web
+- [ccd0/4chan-x](../repos/ccd0/4chan-x.md) - Adds various features to anonymous imageboards.
+- [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) - Unfancy JavaScript
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.745Z*
+*Last updated: 2026-08-11T21:01:58.116Z*

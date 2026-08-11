@@ -13,12 +13,12 @@
 | **Language** | Julia |
 | **License** | Apache-2.0 |
 | **Stars** | ⭐ 124 |
-| **Forks** | 🍴 36 |
-| **Trending Days** | 1 |
+| **Forks** | 🍴 37 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 1, 2026 |
+| **Last Seen** | Aug 10, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Trending Days**: 10
+- **Longest Streak**: 10 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-01T00:25:34.413Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-11T21:01:59.452Z*  
+*Data from 10 trending reports*

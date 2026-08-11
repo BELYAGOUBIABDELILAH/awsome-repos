@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 1
+- **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-06
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,853 | 2026-08-01 | 1 |
+| [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,232 | 2026-08-07 | 4 |
 
 
 ---
@@ -25,7 +25,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,853 | 2026-08-01 | VHDL 2008&#x2F;93&#x2F;87 simulator |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,858 | 2026-08-01 | VHDL 2008&#x2F;93&#x2F;87 simulator |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,232 | 2026-08-07 | 🖥️ A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontrolle... |
 
 
 ---
@@ -34,7 +37,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,853 | 2026-08-01 | 1 |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,858 | 2026-08-01 | 5 |
+| [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,232 | 2026-08-07 | 4 |
 
 ---
 
@@ -42,14 +46,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | 1 | ⭐ 2,853 | 2026-08-01 | 2026-08-01 |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | 5 | ⭐ 2,858 | 2026-08-01 | 2026-08-06 |
+| [stnolting/neorv32](../repos/stnolting/neorv32.md) | 4 | ⭐ 2,232 | 2026-08-07 | 2026-08-11 |
 
 ---
 
 ## 📋 All VHDL Repositories
 
 - [ghdl/ghdl](../repos/ghdl/ghdl.md) - VHDL 2008&#x2F;93&#x2F;87 simulator
+- [stnolting/neorv32](../repos/stnolting/neorv32.md) - 🖥️ A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontrolle...
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.770Z*
+*Last updated: 2026-08-11T21:01:58.166Z*

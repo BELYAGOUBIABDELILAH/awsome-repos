@@ -1,6 +1,6 @@
 # vercel&#x2F;next.js
 
-> The React Framework for Production
+> The React Framework
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;vercel&#x2F;next.js) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 118,250 |
-| **Forks** | 🍴 25,100 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 141,656 |
+| **Forks** | 🍴 31,697 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Jul 30, 2026 |
-| **Last Seen** | Aug 10, 2026 |
+| **Last Seen** | Aug 6, 2026 |
 
 
 ---
@@ -39,29 +39,30 @@
 
 ## Alternatives
 
-*Similar: Check repositories in JavaScript or react*
+*Similar: Check repositories in JavaScript or blog*
 
 ---
 
 ## Trending Timeline
 
 **Jul 31, 2026** — Rank #4 (+150 ⭐)  
+**Aug 5, 2026** — Rank #10 (+144 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 3
-- **Longest Streak**: 2 days
+- **Trending Days**: 6
+- **Longest Streak**: 3 days
 
 ---
 
 ## Categories
 
 ### Topics
-[`react`](../../topics/react.md) [`nextjs`](../../topics/nextjs.md) [`ssr`](../../topics/ssr.md) [`framework`](../../topics/framework.md) [`javascript`](../../topics/javascript.md) 
+[`blog`](../../topics/blog.md) [`browser`](../../topics/browser.md) [`compiler`](../../topics/compiler.md) [`components`](../../topics/components.md) [`hybrid`](../../topics/hybrid.md) [`nextjs`](../../topics/nextjs.md) [`node`](../../topics/node.md) [`react`](../../topics/react.md) [`server-rendering`](../../topics/server-rendering.md) [`ssg`](../../topics/ssg.md) [`static`](../../topics/static.md) [`static-site-generator`](../../topics/static-site-generator.md) [`universal`](../../topics/universal.md) [`vercel`](../../topics/vercel.md) 
 
 ### Curated Categories
-`Web Development` `Systems Programming` 
+`Web Development` `Frontend Development` `Backend Development` `Systems Programming` `Documentation` 
 
 ---
 
@@ -73,10 +74,10 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 118,250+ stars, strong contributor base |
+| **Community** | Very Active | 141,656+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Very Active | Updated within last week |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
 - Server-side rendering
@@ -94,11 +95,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #4)
 
 
 ---
 
-*Last updated: 2026-08-01T00:25:34.142Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-11T21:01:59.164Z*  
+*Data from 6 trending reports*

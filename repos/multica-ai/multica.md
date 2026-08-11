@@ -1,6 +1,6 @@
 # multica-ai&#x2F;multica
 
-> The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+> Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;multica-ai&#x2F;multica) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Other |
-| **Stars** | ⭐ 42,981 |
-| **Forks** | 🍴 5,433 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 45,412 |
+| **Forks** | 🍴 5,775 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 1, 2026 |
+| **Last Seen** | Aug 11, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Trending Days**: 6
+- **Longest Streak**: 3 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-01T00:25:34.222Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-11T21:01:59.255Z*  
+*Data from 6 trending reports*

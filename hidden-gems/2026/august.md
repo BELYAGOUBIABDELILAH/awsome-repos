@@ -7,43 +7,63 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 90
+**Gems Found**: 467
 
 ---
 
-### 1. [The01Geek&#x2F;prflow](../../repos/The01Geek/prflow.md)
+### 1. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
 
-**Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and-fix loop, and docs. Runs locally or on GitHub Actions, and is built for complex brownfield repos. Each week its retrospective reads what you actually merged and proposes improvements to your skill extensions.**
+**An offline-first photo manager for large local libraries**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 112 |
-| 💻 **Language** | Shell |
-| 🏆 **Gem Score** | 84/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| ⭐ **Stars** | 1,765 |
+| 💻 **Language** | Vue |
+| 🏆 **Gem Score** | 98/100 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+60 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/The01Geek/prflow.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;The01Geek&#x2F;prflow)
+[View Passport](../../repos/julyx10/lap.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;julyx10&#x2F;lap)
 
 ---
 
-### 2. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+### 2. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+
+**Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,574 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 96/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+773 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
+
+---
+
+### 3. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
 
 **GitHub Stacked PRs**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 670 |
+| ⭐ **Stars** | 1,047 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 82/100 |
-| 📈 **Trending Days** | 1 |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 4 |
 | 📅 **First Seen** | Aug 1, 2026 |
 
-**Why it's a gem**: High growth velocity (+67 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+100 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -51,363 +71,343 @@
 
 ---
 
-### 3. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+### 4. [unclebob&#x2F;swarm-forge](../../repos/unclebob/swarm-forge.md)
 
-**A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
+**A simple tool for coordinating several AI agents.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,995 |
-| 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 78/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| ⭐ **Stars** | 2,162 |
+| 💻 **Language** | Clojure |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+166 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+107 stars&#x2F;day) • Trending 8 times • Very active development • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/geo-tp/ESP32-Bit-Pirate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;geo-tp&#x2F;ESP32-Bit-Pirate)
+[View Passport](../../repos/unclebob/swarm-forge.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;unclebob&#x2F;swarm-forge)
 
 ---
 
-### 4. [kangarooking&#x2F;cangjie-skill](../../repos/kangarooking/cangjie-skill.md)
+### 5. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
 
-**把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,798 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 78/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+320 stars&#x2F;day) • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/kangarooking/cangjie-skill.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;kangarooking&#x2F;cangjie-skill)
-
----
-
-### 5. [nolabs-ai&#x2F;nono](../../repos/nolabs-ai/nono.md)
-
-**Sandbox any AI agent in seconds - zero setup, zero latency.**
+**A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,384 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 78/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+44 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/nolabs-ai/nono.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;nolabs-ai&#x2F;nono)
-
----
-
-### 6. [deanpeters&#x2F;Product-Manager-Skills](../../repos/deanpeters/Product-Manager-Skills.md)
-
-**Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,153 |
-| 💻 **Language** | Shell |
-| 🏆 **Gem Score** | 75/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+70 stars&#x2F;day) • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/deanpeters/Product-Manager-Skills.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;deanpeters&#x2F;Product-Manager-Skills)
-
----
-
-### 7. [huggingface&#x2F;speech-to-speech](../../repos/huggingface/speech-to-speech.md)
-
-**Build local voice agents with open-source models**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 9,822 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 74/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+1275 stars&#x2F;day) • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/huggingface/speech-to-speech.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huggingface&#x2F;speech-to-speech)
-
----
-
-### 8. [TencentCloud&#x2F;TencentDB-Agent-Memory](../../repos/TencentCloud/TencentDB-Agent-Memory.md)
-
-**TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 9,842 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 74/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+250 stars&#x2F;day) • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/TencentCloud/TencentDB-Agent-Memory.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;TencentCloud&#x2F;TencentDB-Agent-Memory)
-
----
-
-### 9. [caezium&#x2F;Burrow](../../repos/caezium/Burrow.md)
-
-**🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents. Coming to Windows**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,176 |
+| ⭐ **Stars** | 423 |
 | 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 73/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 6, 2026 |
 
-**Why it's a gem**: Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/caezium/Burrow.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;caezium&#x2F;Burrow)
-
----
-
-### 10. [agentgateway&#x2F;agentgateway](../../repos/agentgateway/agentgateway.md)
-
-**Next Generation Agentic Proxy for AI Agents and MCP servers**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,170 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 72/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+77 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/agentgateway/agentgateway.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;agentgateway&#x2F;agentgateway)
+[View Passport](../../repos/h3nock/remux.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;h3nock&#x2F;remux)
 
 ---
 
-### 11. [t8y2&#x2F;dbx](../../repos/t8y2/dbx.md)
+### 6. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
 
-**20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 12,841 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 71/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+264 stars&#x2F;day) • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/t8y2/dbx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;t8y2&#x2F;dbx)
-
----
-
-### 12. [adithyan-ak&#x2F;AgentHound](../../repos/adithyan-ak/AgentHound.md)
-
-**Offensive security framework for AI agent infrastructure - recon, credential looting, model exfiltration, poisoning, and attack-path analysis across MCP, A2A, gateways, and AI services. BloodHound for the agentic stack.**
+**The open source control plane for agentic engineering.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 146 |
+| ⭐ **Stars** | 4,685 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 71/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/adithyan-ak/AgentHound.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;adithyan-ak&#x2F;AgentHound)
-
----
-
-### 13. [NomaDamas&#x2F;k-skill](../../repos/NomaDamas/k-skill.md)
-
-**한국인을 위한 스킬 모음집 - 에이전트를 한국인으로**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,623 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 70/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+64 stars&#x2F;day) • Very active development
+**Why it's a gem**: High growth velocity (+81 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/NomaDamas/k-skill.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;NomaDamas&#x2F;k-skill)
+[View Passport](../../repos/superplanehq/superplane.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superplanehq&#x2F;superplane)
 
 ---
 
-### 14. [freestylefly&#x2F;awesome-gpt-image-2](../../repos/freestylefly/awesome-gpt-image-2.md)
+### 7. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
-**Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中**
+**ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9,002 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 70/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| ⭐ **Stars** | 1,230 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 4, 2026 |
 
-**Why it's a gem**: High growth velocity (+43 stars&#x2F;day) • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+436 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/freestylefly/awesome-gpt-image-2.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;freestylefly&#x2F;awesome-gpt-image-2)
+[View Passport](../../repos/uber/ADR.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;uber&#x2F;ADR)
 
 ---
 
-### 15. [1jehuang&#x2F;jcode](../../repos/1jehuang/jcode.md)
+### 8. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
 
-**The most RAM efficient harness**
+**📼 The missing YouTube and YouTube Music macOS app**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14,605 |
+| ⭐ **Stars** | 1,904 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+46 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/sozercan/kaset.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;sozercan&#x2F;kaset)
+
+---
+
+### 9. [tt-a1i&#x2F;archify](../../repos/tt-a1i/archify.md)
+
+**Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 10,882 |
+| 💻 **Language** | HTML |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+351 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/tt-a1i/archify.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tt-a1i&#x2F;archify)
+
+---
+
+### 10. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
+
+**BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,608 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 69/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 6, 2026 |
 
-**Why it's a gem**: High growth velocity (+1054 stars&#x2F;day) • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/1jehuang/jcode.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;1jehuang&#x2F;jcode)
-
----
-
-### 16. [bruits&#x2F;satteri](../../repos/bruits/satteri.md)
-
-**High-performance Markdown and MDX processing for the JavaScript ecosystem**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,070 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 69/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+47 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/bruits/satteri.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;bruits&#x2F;satteri)
+[View Passport](../../repos/GCWing/BitFun.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;GCWing&#x2F;BitFun)
 
 ---
 
-### 17. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
+### 11. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
-**The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.**
+**Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,435 |
+| ⭐ **Stars** | 7,237 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 69/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 6, 2026 |
 
-**Why it's a gem**: Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+79 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/Ed1s0nZ/CyberStrikeAI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Ed1s0nZ&#x2F;CyberStrikeAI)
+[View Passport](../../repos/chenyme/grok2api.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chenyme&#x2F;grok2api)
 
 ---
 
-### 18. [zly2006&#x2F;zhihu-plus-plus](../../repos/zly2006/zhihu-plus-plus.md)
+### 12. [Mininglamp-OSS&#x2F;octo-ios](../../repos/Mininglamp-OSS/octo-ios.md)
 
-**Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验**
+**OCTO iOS Client — Open-source enterprise IM**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,556 |
+| ⭐ **Stars** | 484 |
+| 💻 **Language** | Objective-C |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 7, 2026 |
+
+**Why it's a gem**: High growth velocity (+47 stars&#x2F;day) • Trending 4 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Mininglamp-OSS/octo-ios.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-ios)
+
+---
+
+### 13. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+
+**Native GUI for Homebrew Casks**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 738 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+88 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
+
+---
+
+### 14. [embabel&#x2F;embabel-agent](../../repos/embabel/embabel-agent.md)
+
+**Agent framework for the JVM. Pronounced Em-BAY-bel &#x2F;ɛmˈbeɪbəl&#x2F;**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,056 |
 | 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 69/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| 🏆 **Gem Score** | 86/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: Trending 6 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/zly2006/zhihu-plus-plus.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;zly2006&#x2F;zhihu-plus-plus)
+[View Passport](../../repos/embabel/embabel-agent.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;embabel&#x2F;embabel-agent)
 
 ---
 
-### 19. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
+### 15. [cloudflare&#x2F;computer](../../repos/cloudflare/computer.md)
 
-**Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
+**Give your agent a computer 👾**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12,352 |
+| ⭐ **Stars** | 6,976 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 85/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 5, 2026 |
+
+**Why it's a gem**: High growth velocity (+2052 stars&#x2F;day) • Trending 5 times • Very active development
+
+**Best for**: 
+
+[View Passport](../../repos/cloudflare/computer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;cloudflare&#x2F;computer)
+
+---
+
+### 16. [denoland&#x2F;celld](../../repos/denoland/celld.md)
+
+**self-hosted, distributed Durable Objects**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,993 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 68/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| 🏆 **Gem Score** | 85/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 7, 2026 |
 
-**Why it's a gem**: High growth velocity (+45 stars&#x2F;day) • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+630 stars&#x2F;day) • Trending 4 times • Very active development • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/longbridge/gpui-component.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;longbridge&#x2F;gpui-component)
+[View Passport](../../repos/denoland/celld.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;denoland&#x2F;celld)
 
 ---
 
-### 20. [nianzhibai&#x2F;91](../../repos/nianzhibai/91.md)
+### 17. [Chevey339&#x2F;kelivo](../../repos/Chevey339/kelivo.md)
 
-**nine one**
+**A Flutter LLM Chat Client. Support Mobile &amp; Desktop.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,316 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 68/100 |
-| 📈 **Trending Days** | 1 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| ⭐ **Stars** | 3,573 |
+| 💻 **Language** | Dart |
+| 🏆 **Gem Score** | 84/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: Trending 5 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/nianzhibai/91.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;nianzhibai&#x2F;91)
+[View Passport](../../repos/Chevey339/kelivo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Chevey339&#x2F;kelivo)
+
+---
+
+### 18. [harveyai&#x2F;harvey-labs](../../repos/harveyai/harvey-labs.md)
+
+**A benchmark built to evaluate and improve agent capabilities for supporting legal work.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,056 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 84/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 8, 2026 |
+
+**Why it's a gem**: High growth velocity (+87 stars&#x2F;day) • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/harveyai/harvey-labs.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;harveyai&#x2F;harvey-labs)
+
+---
+
+### 19. [HarbourMasters&#x2F;Lighthouse](../../repos/HarbourMasters/Lighthouse.md)
+
+**No description**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 307 |
+| 💻 **Language** | C |
+| 🏆 **Gem Score** | 83/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 2, 2026 |
+
+**Why it's a gem**: High growth velocity (+84 stars&#x2F;day) • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/HarbourMasters/Lighthouse.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;HarbourMasters&#x2F;Lighthouse)
+
+---
+
+### 20. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
+
+**Agent Substrate: the core system**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,180 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 83/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 2, 2026 |
+
+**Why it's a gem**: High growth velocity (+56 stars&#x2F;day) • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/agent-substrate/substrate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;agent-substrate&#x2F;substrate)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-08-01T00:25:34.782Z*  
+*Generated: 2026-08-11T21:02:01.297Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

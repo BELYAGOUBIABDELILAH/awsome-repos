@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 3
+- **Total Repositories**: 4
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-11
 
 ---
 
@@ -16,13 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,930 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [easymotion/vim-easymotion](../repos/easymotion/vim-easymotion.md) | ⭐ 7,737 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [jiangmiao/auto-pairs](../repos/jiangmiao/auto-pairs.md) | ⭐ 4,201 | 2026-08-01 | 1 |
+| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,944 | 2026-08-01 | 3 |
 
 
 ---
@@ -31,13 +25,16 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,930 | 2026-08-01 | :mortar_board: All things Vim! |
+| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,944 | 2026-08-01 | :mortar_board: All things Vim! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [easymotion/vim-easymotion](../repos/easymotion/vim-easymotion.md) | ⭐ 7,737 | 2026-08-01 | Vim motions on speed! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jiangmiao/auto-pairs](../repos/jiangmiao/auto-pairs.md) | ⭐ 4,201 | 2026-08-01 | Vim plugin, insert or delete brackets, parens, quotes in pair |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vim-syntastic/syntastic](../repos/vim-syntastic/syntastic.md) | ⭐ 11,223 | 2026-08-02 | Syntax checking hacks for vim |
 
 
 ---
@@ -46,8 +43,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,930 | 2026-08-01 | 1 |
-| [easymotion/vim-easymotion](../repos/easymotion/vim-easymotion.md) | ⭐ 7,737 | 2026-08-01 | 1 |
+| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,944 | 2026-08-01 | 3 |
+| [vim-syntastic/syntastic](../repos/vim-syntastic/syntastic.md) | ⭐ 11,223 | 2026-08-02 | 1 |
+| [easymotion/vim-easymotion](../repos/easymotion/vim-easymotion.md) | ⭐ 7,737 | 2026-08-01 | 2 |
 | [jiangmiao/auto-pairs](../repos/jiangmiao/auto-pairs.md) | ⭐ 4,201 | 2026-08-01 | 1 |
 
 ---
@@ -56,9 +54,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | 1 | ⭐ 17,930 | 2026-08-01 | 2026-08-01 |
-| [easymotion/vim-easymotion](../repos/easymotion/vim-easymotion.md) | 1 | ⭐ 7,737 | 2026-08-01 | 2026-08-01 |
+| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | 3 | ⭐ 17,944 | 2026-08-01 | 2026-08-11 |
+| [easymotion/vim-easymotion](../repos/easymotion/vim-easymotion.md) | 2 | ⭐ 7,737 | 2026-08-01 | 2026-08-04 |
 | [jiangmiao/auto-pairs](../repos/jiangmiao/auto-pairs.md) | 1 | ⭐ 4,201 | 2026-08-01 | 2026-08-01 |
+| [vim-syntastic/syntastic](../repos/vim-syntastic/syntastic.md) | 1 | ⭐ 11,223 | 2026-08-02 | 2026-08-02 |
 
 ---
 
@@ -67,7 +66,8 @@
 - [mhinz/vim-galore](../repos/mhinz/vim-galore.md) - :mortar_board: All things Vim!
 - [easymotion/vim-easymotion](../repos/easymotion/vim-easymotion.md) - Vim motions on speed!
 - [jiangmiao/auto-pairs](../repos/jiangmiao/auto-pairs.md) - Vim plugin, insert or delete brackets, parens, quotes in pair
+- [vim-syntastic/syntastic](../repos/vim-syntastic/syntastic.md) - Syntax checking hacks for vim
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.771Z*
+*Last updated: 2026-08-11T21:01:58.169Z*

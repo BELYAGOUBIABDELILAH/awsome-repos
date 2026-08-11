@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-01T00:25:34.858Z",
-  "total_repositories": 445,
-  "trending_today": 430,
-  "new_this_month": 445,
+  "generated_at": "2026-08-11T21:02:01.410Z",
+  "total_repositories": 1903,
+  "trending_today": 410,
+  "new_this_month": 1903,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-08-01",
+  "last_collection": "2026-08-11",
   "most_starred": {
-    "full_name": "public-apis/public-apis",
-    "stars": 453833,
-    "first_seen": "2026-08-01"
+    "full_name": "codecrafters-io/build-your-own-x",
+    "stars": 534798,
+    "first_seen": "2026-08-02"
   },
   "most_frequent": {
-    "full_name": "openai/whisper",
-    "trending_days": 5,
-    "first_seen": "2026-07-31"
+    "full_name": "rubysec/ruby-advisory-db",
+    "trending_days": 11,
+    "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "langchain-ai/langchain",
-    "stars": 75200,
-    "first_seen": "2026-08-10"
+    "full_name": "anthropics/skills",
+    "stars": 168053,
+    "first_seen": "2026-08-11"
   },
   "fastest_growing": {
     "full_name": "openai/whisper",
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 8358949,
-  "avg_stars": 18784,
-  "avg_trending_days": 1,
-  "language_count": 47,
-  "topic_count": 1824,
+  "total_stars": 31751865,
+  "avg_stars": 16685,
+  "avg_trending_days": 2.5,
+  "language_count": 52,
+  "topic_count": 5903,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

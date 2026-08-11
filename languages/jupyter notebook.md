@@ -6,18 +6,16 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 1
+- **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-04
 
 ---
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) | ⭐ 55,299 | 2026-08-01 | 1 |
 
+*No Jupyter Notebook repositories trending today*
 
 ---
 
@@ -25,7 +23,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) | ⭐ 55,299 | 2026-08-01 | 12 Weeks, 24 Lessons, AI for All! |
+| [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) | ⭐ 60,643 | 2026-08-01 | 12 Weeks, 24 Lessons, AI for All! |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/generative-ai-for-beginners](../repos/microsoft/generative-ai-for-beginners.md) | ⭐ 116,215 | 2026-08-02 | 21 Lessons, Get Started Building with Generative AI  |
 
 
 ---
@@ -34,7 +35,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) | ⭐ 55,299 | 2026-08-01 | 1 |
+| [microsoft/generative-ai-for-beginners](../repos/microsoft/generative-ai-for-beginners.md) | ⭐ 116,215 | 2026-08-02 | 3 |
+| [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) | ⭐ 60,643 | 2026-08-01 | 3 |
 
 ---
 
@@ -42,14 +44,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) | 1 | ⭐ 55,299 | 2026-08-01 | 2026-08-01 |
+| [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) | 3 | ⭐ 60,643 | 2026-08-01 | 2026-08-03 |
+| [microsoft/generative-ai-for-beginners](../repos/microsoft/generative-ai-for-beginners.md) | 3 | ⭐ 116,215 | 2026-08-02 | 2026-08-04 |
 
 ---
 
 ## 📋 All Jupyter Notebook Repositories
 
 - [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) - 12 Weeks, 24 Lessons, AI for All!
+- [microsoft/generative-ai-for-beginners](../repos/microsoft/generative-ai-for-beginners.md) - 21 Lessons, Get Started Building with Generative AI 
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.757Z*
+*Last updated: 2026-08-11T21:01:58.138Z*

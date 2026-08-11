@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 11
+- **Total Repositories**: 55
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-09
 
 ---
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,429 | 2026-08-01 | 1 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,865 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,176 | 2026-08-01 | 1 |
+| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,303 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,574 | 2026-08-01 | 1 |
+| [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,876 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,738 | 2026-08-01 | 1 |
+| [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 738 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 48,480 | 2026-08-01 | 1 |
+| [Starmel/OpenSuperWhisper](../repos/Starmel/OpenSuperWhisper.md) | ⭐ 2,577 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [livekit/client-sdk-swift](../repos/livekit/client-sdk-swift.md) | ⭐ 434 | 2026-08-01 | 1 |
+| [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,909 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,568 | 2026-08-01 | 1 |
+| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,254 | 2026-08-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,304 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,439 | 2026-08-01 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 2,746 | 2026-08-01 | 1 |
+| [ml-explore/mlx-swift-lm](../repos/ml-explore/mlx-swift-lm.md) | ⭐ 773 | 2026-08-11 | 1 |
 
 
 ---
@@ -52,19 +46,19 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,429 | 2026-08-01 | Run iOS apps without actually installing them! |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,714 | 2026-08-01 | Run iOS apps without actually installing them! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,176 | 2026-08-01 | 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source,... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,574 | 2026-08-01 | Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detect... |
+| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,599 | 2026-08-01 | Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detect... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,738 | 2026-08-01 | The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with n... |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,752 | 2026-08-01 | The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with n... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 48,480 | 2026-08-01 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It ... |
+| [apple/container](../repos/apple/container.md) | ⭐ 48,766 | 2026-08-01 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [livekit/client-sdk-swift](../repos/livekit/client-sdk-swift.md) | ⭐ 434 | 2026-08-01 | LiveKit Swift Client SDK. Easily build live audio or video experiences on iOS, macOS, tvOS, and v... |
@@ -73,10 +67,10 @@
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,568 | 2026-08-01 | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,304 | 2026-08-01 | 📸 Delightful Swift snapshot testing. |
+| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,313 | 2026-08-01 | 📸 Delightful Swift snapshot testing. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,439 | 2026-08-01 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agent... |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,905 | 2026-08-01 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agent... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 2,746 | 2026-08-01 | Feature-packed native macOS screenshot &amp; recording tool: annotate, auto-redact PII, record GIFs, ... |
@@ -88,17 +82,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 48,480 | 2026-08-01 | 1 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,439 | 2026-08-01 | 1 |
-| [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,678 | 2026-08-01 | 1 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,234 | 2026-08-05 | 3 |
+| [apple/container](../repos/apple/container.md) | ⭐ 48,766 | 2026-08-01 | 4 |
+| [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,010 | 2026-08-04 | 2 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,810 | 2026-08-04 | 2 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,905 | 2026-08-01 | 5 |
+| [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,865 | 2026-08-04 | 4 |
+| [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,568 | 2026-08-01 | 1 |
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,429 | 2026-08-01 | 1 |
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,738 | 2026-08-01 | 1 |
-| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,304 | 2026-08-01 | 1 |
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 2,746 | 2026-08-01 | 1 |
-| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,574 | 2026-08-01 | 1 |
-| [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,176 | 2026-08-01 | 1 |
-| [livekit/client-sdk-swift](../repos/livekit/client-sdk-swift.md) | ⭐ 434 | 2026-08-01 | 1 |
+| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 13,287 | 2026-08-08 | 1 |
+| [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
+| [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,183 | 2026-08-06 | 1 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,714 | 2026-08-01 | 5 |
+| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,303 | 2026-08-06 | 3 |
+| [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | ⭐ 10,263 | 2026-08-03 | 2 |
+| [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,909 | 2026-08-11 | 1 |
+| [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,876 | 2026-08-08 | 2 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,829 | 2026-08-02 | 4 |
+| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,499 | 2026-08-04 | 1 |
+| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,534 | 2026-08-04 | 2 |
 
 ---
 
@@ -106,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 1 | ⭐ 10,429 | 2026-08-01 | 2026-08-01 |
-| [caezium/Burrow](../repos/caezium/Burrow.md) | 1 | ⭐ 1,176 | 2026-08-01 | 2026-08-01 |
-| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | 1 | ⭐ 2,574 | 2026-08-01 | 2026-08-01 |
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 1 | ⭐ 5,738 | 2026-08-01 | 2026-08-01 |
-| [apple/container](../repos/apple/container.md) | 1 | ⭐ 48,480 | 2026-08-01 | 2026-08-01 |
-| [livekit/client-sdk-swift](../repos/livekit/client-sdk-swift.md) | 1 | ⭐ 434 | 2026-08-01 | 2026-08-01 |
-| [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | 1 | ⭐ 13,568 | 2026-08-01 | 2026-08-01 |
-| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | 1 | ⭐ 4,304 | 2026-08-01 | 2026-08-01 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 1 | ⭐ 25,439 | 2026-08-01 | 2026-08-01 |
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 1 | ⭐ 2,746 | 2026-08-01 | 2026-08-01 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 5 | ⭐ 10,714 | 2026-08-01 | 2026-08-09 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 5 | ⭐ 25,905 | 2026-08-01 | 2026-08-10 |
+| [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | 5 | ⭐ 2,415 | 2026-08-03 | 2026-08-08 |
+| [apple/container](../repos/apple/container.md) | 4 | ⭐ 48,766 | 2026-08-01 | 2026-08-08 |
+| [realm/SwiftLint](../repos/realm/SwiftLint.md) | 4 | ⭐ 19,685 | 2026-08-01 | 2026-08-05 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 4 | ⭐ 8,829 | 2026-08-02 | 2026-08-09 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 4 | ⭐ 14,865 | 2026-08-04 | 2026-08-11 |
+| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | 4 | ⭐ 2,369 | 2026-08-07 | 2026-08-10 |
+| [rooootdev/lara](../repos/rooootdev/lara.md) | 3 | ⭐ 1,416 | 2026-08-03 | 2026-08-10 |
+| [pluk-inc/markdown-preview](../repos/pluk-inc/markdown-preview.md) | 3 | ⭐ 1,889 | 2026-08-03 | 2026-08-09 |
 
 ---
 
@@ -132,7 +135,51 @@
 - [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agent...
 - [sw33tLie/macshot](../repos/sw33tLie/macshot.md) - Feature-packed native macOS screenshot &amp; recording tool: annotate, auto-redact PII, record GIFs, ...
 - [realm/SwiftLint](../repos/realm/SwiftLint.md) - A tool to enforce Swift style and conventions.
+- [argmaxinc/argmax-oss-swift](../repos/argmaxinc/argmax-oss-swift.md) - On-device Speech AI for Apple Silicon
+- [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) - Telegram-iOS
+- [supabitapp/supacode](../repos/supabitapp/supacode.md) - worktree coding agents command center.
+- [rooootdev/lara](../repos/rooootdev/lara.md) - iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 &amp; iOS 26.0.x, excluding M5 and A19.
+- [dwarvesf/hidden](../repos/dwarvesf/hidden.md) - An ultra-light MacOS utility that helps hide menu bar icons
+- [zachlatta/freeflow](../repos/zachlatta/freeflow.md) - Free &amp; fast alternative to Wispr Flow
+- [tddworks/ClaudeBar](../repos/tddworks/ClaudeBar.md) - A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your C...
+- [pluk-inc/markdown-preview](../repos/pluk-inc/markdown-preview.md) - A simple Markdown viewer for reading .md files
+- [modelcontextprotocol/swift-sdk](../repos/modelcontextprotocol/swift-sdk.md) - The official Swift SDK for Model Context Protocol servers and clients.
+- [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) - RSS reader for macOS and iOS.
+- [Aidoku/Aidoku](../repos/Aidoku/Aidoku.md) - Free and open source manga reader for iOS and iPadOS
+- [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous e...
+- [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) - A library for building applications in a consistent and understandable way, with composition, tes...
+- [apple/swift-nio](../repos/apple/swift-nio.md) - Event-driven network application framework for high performance protocol servers &amp; clients, non-b...
+- [swiftlang/swift-syntax](../repos/swiftlang/swift-syntax.md) - A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
+- [momenbasel/PureMac](../repos/momenbasel/PureMac.md) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, sche...
+- [sozercan/kaset](../repos/sozercan/kaset.md) - 📼 The missing YouTube and YouTube Music macOS app
+- [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) - An iOS library to natively render After Effects vector animations
+- [home-assistant/iOS](../repos/home-assistant/iOS.md) - :iphone: Home Assistant for Apple platforms
+- [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) - Beautiful charts for iOS&#x2F;tvOS&#x2F;OSX! The Apple side of the crossplatform MPAndroidChart.
+- [swiftlang/swift](../repos/swiftlang/swift.md) - The Swift Programming Language
+- [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) - Firefox for iOS
+- [Octane0411/open-vibe-island](../repos/Octane0411/open-vibe-island.md) - Native macOS control center for AI coding agents — monitor sessions, approve actions, and jump ba...
+- [erha19/ping-island](../repos/erha19/ping-island.md) - A Dynamic Island-style command center for managing all your AI coding agents on macOS.
+- [h3nock/remux](../repos/h3nock/remux.md) - A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.
+- [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+- [swiftlang/swift-subprocess](../repos/swiftlang/swift-subprocess.md) - Subprocess is a cross-platform package for spawning processes in Swift.
+- [matthartman/ghost-pepper](../repos/matthartman/ghost-pepper.md) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
+- [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) - A private messenger for iOS.
+- [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) - A tweak to enhance Spotify experience
+- [RevenueCat/purchases-ios](../repos/RevenueCat/purchases-ios.md) - In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.
+- [crossoverJie/SkillDeck](../repos/crossoverJie/SkillDeck.md) - Native macOS SwiftUI app for managing multiple AI code agent skills
+- [wxtsky/CodeIsland](../repos/wxtsky/CodeIsland.md) - Real-time AI coding agent status panel in your MacBook notch — live status, approvals &amp; replies f...
+- [getsentry/sentry-cocoa](../repos/getsentry/sentry-cocoa.md) - The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.
+- [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) - macOS video editor built for AI
+- [apple/containerization](../repos/apple/containerization.md) - Containerization is a Swift package for running Linux containers on macOS.
+- [frankea/Whisky](../repos/frankea/Whisky.md) - Active community fork of the archived whisky-app&#x2F;whisky — a modern Wine wrapper for macOS built w...
+- [rime/squirrel](../repos/rime/squirrel.md) - 【鼠鬚管】Rime for macOS
+- [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) - Native GUI for Homebrew Casks
+- [LoopKit/Loop](../repos/LoopKit/Loop.md) - An automated insulin delivery app for iOS, built on LoopKit
+- [Starmel/OpenSuperWhisper](../repos/Starmel/OpenSuperWhisper.md) - macOS dictation app
+- [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) - A command-line tool and Xcode Extension for formatting Swift code
+- [github/CopilotForXcode](../repos/github/CopilotForXcode.md) - AI coding assistant for Xcode
+- [ml-explore/mlx-swift-lm](../repos/ml-explore/mlx-swift-lm.md) - LLMs and VLMs with MLX Swift
 
 ---
 
-*Last updated: 2026-08-01T00:25:33.768Z*
+*Last updated: 2026-08-11T21:01:58.162Z*
