@@ -14,11 +14,11 @@
 | **License** | Not specified |
 | **Stars** | ⭐ 361 |
 | **Forks** | 🍴 183 |
-| **Trending Days** | 9 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 11, 2026 |
+| **Last Seen** | Aug 12, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
-- **Longest Streak**: 6 days
+- **Trending Days**: 10
+- **Longest Streak**: 7 days
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Very Active | 361+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-11T21:01:59.601Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-08-12T21:01:54.923Z*  
+*Data from 10 trending reports*

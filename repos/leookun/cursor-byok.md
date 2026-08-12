@@ -1,6 +1,6 @@
 # leookun&#x2F;cursor-byok
 
-> Infinite BYOK in Cursor  https:&#x2F;&#x2F;github.com&#x2F;leookun&#x2F;cursor-byok&#x2F;releases
+> cursor-byok is a local implementation of Cursor&#39;s backend. https:&#x2F;&#x2F;github.com&#x2F;leookun&#x2F;cursor-byok&#x2F;releases
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;leookun&#x2F;cursor-byok) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | MIT |
-| **Stars** | ⭐ 2,136 |
-| **Forks** | 🍴 321 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 2,264 |
+| **Forks** | 🍴 349 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Aug 5, 2026 |
+| **Last Seen** | Aug 12, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Go or similar-topics*
+*Similar: Check repositories in Go or cursor*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-
+[`cursor`](../../topics/cursor.md) [`cursor-cli`](../../topics/cursor-cli.md) 
 
 ### Curated Categories
-`General` 
+`Systems Programming` `Developer Tools` 
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-11T21:02:00.388Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-12T21:01:55.764Z*  
+*Data from 2 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 81
+- **Total Repositories**: 86
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,740 | 2026-08-01 | 9 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 4,205 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,661 | 2026-08-01 | 3 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,129 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | ⭐ 6,331 | 2026-08-01 | 3 |
+| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 5,619 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,937 | 2026-08-02 | 5 |
+| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,091 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 10,983 | 2026-08-02 | 3 |
+| [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) | ⭐ 7,439 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 5,601 | 2026-08-02 | 2 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,429 | 2026-08-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 1,632 | 2026-08-04 | 2 |
+| [sam1am/anyapk](../repos/sam1am/anyapk.md) | ⭐ 2,557 | 2026-08-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,695 | 2026-08-08 | 4 |
+| [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,290 | 2026-08-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [torlando-tech/columba](../repos/torlando-tech/columba.md) | ⭐ 1,004 | 2026-08-11 | 1 |
+| [Davidona/StreamVault-IPTV](../repos/Davidona/StreamVault-IPTV.md) | ⭐ 599 | 2026-08-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) | ⭐ 7,416 | 2026-08-11 | 1 |
+| [XayahSuSuSu/Android-DataBackup](../repos/XayahSuSuSu/Android-DataBackup.md) | ⭐ 7,192 | 2026-08-12 | 1 |
 
 
 ---
@@ -96,18 +96,18 @@
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,182 | 2026-08-05 | 3 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,695 | 2026-08-08 | 4 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,467 | 2026-08-11 | 1 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,429 | 2026-08-12 | 1 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,355 | 2026-08-05 | 2 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,740 | 2026-08-01 | 9 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,198 | 2026-08-02 | 2 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,661 | 2026-08-01 | 3 |
+| [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,290 | 2026-08-12 | 1 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,190 | 2026-08-02 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,416 | 2026-08-06 | 1 |
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,083 | 2026-08-10 | 1 |
+| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,091 | 2026-08-10 | 2 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 10,983 | 2026-08-02 | 3 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,410 | 2026-08-03 | 3 |
 | [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,190 | 2026-08-05 | 2 |
-| [KotatsuApp/Kotatsu](../repos/KotatsuApp/Kotatsu.md) | ⭐ 8,797 | 2026-08-06 | 2 |
-| [bmax121/APatch](../repos/bmax121/APatch.md) | ⭐ 7,775 | 2026-08-02 | 2 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 9 | ⭐ 22,740 | 2026-08-01 | 2026-08-11 |
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 6 | ⭐ 4,056 | 2026-08-02 | 2026-08-09 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 7 | ⭐ 4,205 | 2026-08-02 | 2026-08-12 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 5 | ⭐ 60,937 | 2026-08-02 | 2026-08-11 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 5 | ⭐ 50,176 | 2026-08-06 | 2026-08-10 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 4 | ⭐ 2,129 | 2026-08-02 | 2026-08-12 |
 | [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | 4 | ⭐ 1,626 | 2026-08-03 | 2026-08-09 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 4 | ⭐ 28,695 | 2026-08-08 | 2026-08-11 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | 3 | ⭐ 21,661 | 2026-08-01 | 2026-08-11 |
 | [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | 3 | ⭐ 6,331 | 2026-08-01 | 2026-08-11 |
 | [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | 3 | ⭐ 603 | 2026-08-02 | 2026-08-04 |
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 3 | ⭐ 10,983 | 2026-08-02 | 2026-08-11 |
 
 ---
 
@@ -211,7 +211,12 @@
 - [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、w...
 - [LagradOst/QuickNovel](../repos/LagradOst/QuickNovel.md) - Android app for downloading novels
 - [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that c...
+- [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) - A gallery that showcases on-device ML&#x2F;GenAI use cases and allows people to try and use models loc...
+- [sam1am/anyapk](../repos/sam1am/anyapk.md) - Install any apk on the device you own. 
+- [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beauti...
+- [Davidona/StreamVault-IPTV](../repos/Davidona/StreamVault-IPTV.md) - StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Roo...
+- [XayahSuSuSu/Android-DataBackup](../repos/XayahSuSuSu/Android-DataBackup.md) - DataBackup for Android 7.0+
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.139Z*
+*Last updated: 2026-08-12T21:01:53.201Z*

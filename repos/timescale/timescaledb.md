@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | Other |
-| **Stars** | ⭐ 23,260 |
-| **Forks** | 🍴 1,131 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 23,310 |
+| **Forks** | 🍴 1,134 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Aug 8, 2026 |
+| **Last Seen** | Aug 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`analytics`](../../topics/analytics.md) [`database`](../../topics/database.md) [`financial-analysis`](../../topics/financial-analysis.md) [`hacktoberfest`](../../topics/hacktoberfest.md) [`iot`](../../topics/iot.md) [`postgres`](../../topics/postgres.md) [`postgresql`](../../topics/postgresql.md) [`sql`](../../topics/sql.md) [`tigerdata`](../../topics/tigerdata.md) [`time-series`](../../topics/time-series.md) [`time-series-database`](../../topics/time-series-database.md) [`timescaledb`](../../topics/timescaledb.md) [`tsdb`](../../topics/tsdb.md) 
+[`analytics`](../../topics/analytics.md) [`database`](../../topics/database.md) [`financial-analysis`](../../topics/financial-analysis.md) [`historian`](../../topics/historian.md) [`iot`](../../topics/iot.md) [`postgres`](../../topics/postgres.md) [`postgresql`](../../topics/postgresql.md) [`sql`](../../topics/sql.md) [`tigerdata`](../../topics/tigerdata.md) [`time-series`](../../topics/time-series.md) [`time-series-database`](../../topics/time-series-database.md) [`timescaledb`](../../topics/timescaledb.md) [`tsdb`](../../topics/tsdb.md) 
 
 ### Curated Categories
 `Databases` `Systems Programming` `Internet of Things` 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-11T21:02:00.687Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-12T21:01:56.101Z*  
+*Data from 3 trending reports*

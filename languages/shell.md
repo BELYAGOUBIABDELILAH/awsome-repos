@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 58
+- **Total Repositories**: 61
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-07
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,464 | 2026-08-01 | 8 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,552 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 6,403 | 2026-08-01 | 2 |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,023 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,015 | 2026-08-01 | 4 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,567 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,499 | 2026-08-02 | 7 |
+| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | ⭐ 2,081 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bats-core/bats-core](../repos/bats-core/bats-core.md) | ⭐ 6,207 | 2026-08-03 | 2 |
+| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 6,771 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,077 | 2026-08-04 | 3 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,320 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,400 | 2026-08-07 | 4 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,403 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) | ⭐ 4,673 | 2026-08-09 | 2 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,729 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 8,883 | 2026-08-11 | 1 |
+| [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) | ⭐ 4,695 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 15,543 | 2026-08-11 | 1 |
+| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 15,599 | 2026-08-11 | 2 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [HQarroum/docker-android](../repos/HQarroum/docker-android.md) | ⭐ 7,174 | 2026-08-01 | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,464 | 2026-08-01 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,552 | 2026-08-01 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [The01Geek/prflow](../repos/The01Geek/prflow.md) | ⭐ 112 | 2026-08-01 | Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and... |
@@ -70,7 +70,7 @@
 | [Chachamaru127/claude-code-harness](../repos/Chachamaru127/claude-code-harness.md) | ⭐ 3,034 | 2026-08-01 | Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonom... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,015 | 2026-08-01 | Achieve state of the art inference performance with modern accelerators on Kubernetes |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,023 | 2026-08-01 | Achieve state of the art inference performance with modern accelerators on Kubernetes |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [void-linux/void-packages](../repos/void-linux/void-packages.md) | ⭐ 3,371 | 2026-08-01 | The Void source packages collection |
@@ -79,7 +79,7 @@
 | [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,642 | 2026-08-01 | Универсальный менеджер для обхода блокировок на OpenWrt |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,499 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,567 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
 
 
 ---
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,386 | 2026-08-07 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,464 | 2026-08-01 | 8 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,552 | 2026-08-01 | 9 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,093 | 2026-08-04 | 1 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,802 | 2026-08-06 | 3 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,419 | 2026-08-04 | 2 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,246 | 2026-08-04 | 3 |
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,499 | 2026-08-02 | 7 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,320 | 2026-08-04 | 4 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,567 | 2026-08-02 | 8 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,626 | 2026-08-07 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
+| [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 19,343 | 2026-08-12 | 1 |
 | [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,684 | 2026-08-08 | 1 |
-| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 15,543 | 2026-08-11 | 1 |
+| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 15,599 | 2026-08-11 | 2 |
 | [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,366 | 2026-08-07 | 1 |
 | [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,531 | 2026-08-04 | 2 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,077 | 2026-08-04 | 3 |
 | [1N3/Sn1per](../repos/1N3/Sn1per.md) | ⭐ 10,738 | 2026-08-06 | 2 |
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,715 | 2026-08-07 | 1 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,729 | 2026-08-07 | 2 |
 | [super-linter/super-linter](../repos/super-linter/super-linter.md) | ⭐ 10,535 | 2026-08-04 | 1 |
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 9,559 | 2026-08-03 | 1 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 8 | ⭐ 94,464 | 2026-08-01 | 2026-08-11 |
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 7 | ⭐ 24,499 | 2026-08-02 | 2026-08-11 |
-| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 5 | ⭐ 1,992 | 2026-08-02 | 2026-08-08 |
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | 4 | ⭐ 4,015 | 2026-08-01 | 2026-08-11 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 9 | ⭐ 94,552 | 2026-08-01 | 2026-08-12 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 8 | ⭐ 24,567 | 2026-08-02 | 2026-08-12 |
+| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 6 | ⭐ 2,081 | 2026-08-02 | 2026-08-12 |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | 5 | ⭐ 4,023 | 2026-08-01 | 2026-08-12 |
+| [expo/skills](../repos/expo/skills.md) | 5 | ⭐ 2,403 | 2026-08-07 | 2026-08-12 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 4 | ⭐ 25,320 | 2026-08-04 | 2026-08-12 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 4 | ⭐ 2,590 | 2026-08-05 | 2026-08-09 |
-| [expo/skills](../repos/expo/skills.md) | 4 | ⭐ 2,400 | 2026-08-07 | 2026-08-11 |
 | [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | 3 | ⭐ 2,851 | 2026-08-01 | 2026-08-07 |
+| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | 3 | ⭐ 6,771 | 2026-08-04 | 2026-08-12 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 3 | ⭐ 11,077 | 2026-08-04 | 2026-08-11 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 3 | ⭐ 25,246 | 2026-08-04 | 2026-08-08 |
-| [dockur/windows](../repos/dockur/windows.md) | 3 | ⭐ 52,802 | 2026-08-06 | 2026-08-09 |
 
 ---
 
@@ -188,7 +188,10 @@
 - [anthropics/claude-agent-sdk-typescript](../repos/anthropics/claude-agent-sdk-typescript.md) - 
 - [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) - 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent&#x2F;Claude Code&#x2F;Cursor&#x2F;Copilot 等 18 种工具，覆盖工程&#x2F;设计&#x2F;营销&#x2F;金融等 20 个部门...
+- [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) - Talk to one agent. Ship with a crew.
+- [conversun/fnos-apps](../repos/conversun/fnos-apps.md) - 飞牛 fnOS NAS 第三方应用商店 — 115 款自托管应用的 .fpk 安装包 | Plex, Emby, Jellyfin, qBittorrent, Immich, Sonarr, R...
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.160Z*
+*Last updated: 2026-08-12T21:01:53.223Z*

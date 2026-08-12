@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 110
+- **Total Repositories**: 116
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,643 | 2026-08-01 | 2 |
+| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,536 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenLineage/OpenLineage](../repos/OpenLineage/OpenLineage.md) | ⭐ 2,597 | 2026-08-01 | 4 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 26,093 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [woheller69/FreeDroidWarn](../repos/woheller69/FreeDroidWarn.md) | ⭐ 3,117 | 2026-08-02 | 3 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,786 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,103 | 2026-08-03 | 2 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,424 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,773 | 2026-08-04 | 3 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,033 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [questdb/questdb](../repos/questdb/questdb.md) | ⭐ 17,249 | 2026-08-05 | 3 |
+| [mateaix/mateclaw](../repos/mateaix/mateclaw.md) | ⭐ 961 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,011 | 2026-08-05 | 3 |
+| [apache/tomcat](../repos/apache/tomcat.md) | ⭐ 8,232 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) | ⭐ 12,843 | 2026-08-05 | 2 |
+| [apache/fluss](../repos/apache/fluss.md) | ⭐ 2,075 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mateaix/mateclaw](../repos/mateaix/mateclaw.md) | ⭐ 925 | 2026-08-06 | 2 |
+| [alibaba/spring-ai-alibaba](../repos/alibaba/spring-ai-alibaba.md) | ⭐ 10,582 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) | ⭐ 27,937 | 2026-08-07 | 2 |
+| [freeok/so-novel](../repos/freeok/so-novel.md) | ⭐ 7,722 | 2026-08-11 | 2 |
 
 
 ---
@@ -73,7 +73,7 @@
 | [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | ⭐ 9,665 | 2026-08-01 | MCP Server for Ghidra |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,392 | 2026-08-01 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
+| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,536 | 2026-08-01 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [grpc/grpc-java](../repos/grpc/grpc-java.md) | ⭐ 12,056 | 2026-08-01 | The Java gRPC implementation. HTTP&#x2F;2 based RPC |
@@ -97,17 +97,17 @@
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,190 | 2026-08-08 | 1 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,197 | 2026-08-08 | 2 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,889 | 2026-08-02 | 6 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,341 | 2026-08-04 | 3 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,424 | 2026-08-04 | 4 |
+| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,036 | 2026-08-12 | 1 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,318 | 2026-08-07 | 1 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,325 | 2026-08-05 | 2 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,299 | 2026-08-02 | 3 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,618 | 2026-08-06 | 3 |
 | [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,425 | 2026-08-08 | 1 |
+| [apache/kafka](../repos/apache/kafka.md) | ⭐ 33,533 | 2026-08-12 | 1 |
+| [binarywang/WxJava](../repos/binarywang/WxJava.md) | ⭐ 33,017 | 2026-08-12 | 1 |
 | [conductor-oss/conductor](../repos/conductor-oss/conductor.md) | ⭐ 32,066 | 2026-08-09 | 1 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 31,740 | 2026-08-04 | 1 |
-| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,431 | 2026-08-05 | 2 |
-| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,650 | 2026-08-02 | 2 |
-| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,556 | 2026-08-02 | 3 |
 
 ---
 
@@ -119,12 +119,12 @@
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 5 | ⭐ 72,145 | 2026-08-03 | 2026-08-09 |
 | [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | 4 | ⭐ 9,269 | 2026-08-01 | 2026-08-08 |
 | [OpenLineage/OpenLineage](../repos/OpenLineage/OpenLineage.md) | 4 | ⭐ 2,597 | 2026-08-01 | 2026-08-11 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 4 | ⭐ 26,093 | 2026-08-02 | 2026-08-12 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 4 | ⭐ 77,789 | 2026-08-02 | 2026-08-06 |
 | [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | 4 | ⭐ 2,435 | 2026-08-02 | 2026-08-10 |
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | 3 | ⭐ 10,340 | 2026-08-01 | 2026-08-03 |
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 3 | ⭐ 13,484 | 2026-08-01 | 2026-08-08 |
-| [apache/maven](../repos/apache/maven.md) | 3 | ⭐ 5,302 | 2026-08-01 | 2026-08-04 |
-| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | 3 | ⭐ 26,651 | 2026-08-01 | 2026-08-06 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 4 | ⭐ 27,786 | 2026-08-04 | 2026-08-12 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 4 | ⭐ 51,424 | 2026-08-04 | 2026-08-12 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 4 | ⭐ 5,033 | 2026-08-05 | 2026-08-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.134Z*
+*Last updated: 2026-08-12T21:01:53.195Z*

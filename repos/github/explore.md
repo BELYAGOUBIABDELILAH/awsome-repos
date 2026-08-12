@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Ruby |
 | **License** | CC-BY-4.0 |
-| **Stars** | ⭐ 4,850 |
-| **Forks** | 🍴 14,441 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 4,851 |
+| **Forks** | 🍴 14,446 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Aug 11, 2026 |
+| **Last Seen** | Aug 12, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
-- **Longest Streak**: 3 days
+- **Trending Days**: 4
+- **Longest Streak**: 4 days
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 4,850+ stars, strong contributor base |
+| **Community** | Very Active | 4,851+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 60&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-11T21:02:00.913Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-12T21:01:56.363Z*  
+*Data from 4 trending reports*

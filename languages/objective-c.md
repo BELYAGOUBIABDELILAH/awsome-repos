@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 61
+- **Total Repositories**: 64
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-08
+- **Last Updated**: 2026-08-12
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,826 | 2026-08-01 | 5 |
+| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,704 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 6 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,827 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 7 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 6 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,072 | 2026-08-01 | 5 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | 2026-08-01 | 6 |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,072 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,962 | 2026-08-02 | 5 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CleverTap/CTNotificationService](../repos/CleverTap/CTNotificationService.md) | ⭐ 23 | 2026-08-04 | 3 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 490 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CleverTap/clevertap-ios-sdk](../repos/CleverTap/clevertap-ios-sdk.md) | ⭐ 67 | 2026-08-04 | 3 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,330 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | ⭐ 4,475 | 2026-08-05 | 3 |
+| [SVGKit/SVGKit](../repos/SVGKit/SVGKit.md) | ⭐ 4,589 | 2026-08-04 | 2 |
 
 
 ---
@@ -67,7 +67,7 @@
 | [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | Branch iOS SDK Swift Package Manager distribution |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,826 | 2026-08-01 | Promises is a modern framework that provides a synchronization construct for Swift and Objective-C. |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,827 | 2026-08-01 | Promises is a modern framework that provides a synchronization construct for Swift and Objective-C. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 |  |
@@ -88,15 +88,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,412 | 2026-08-02 | 2 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | 2026-08-01 | 6 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,638 | 2026-08-01 | 7 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,962 | 2026-08-02 | 5 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,615 | 2026-08-04 | 4 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,935 | 2026-08-04 | 4 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,906 | 2026-08-04 | 3 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,017 | 2026-08-01 | 2 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,626 | 2026-08-04 | 2 |
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,329 | 2026-08-04 | 4 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,330 | 2026-08-04 | 5 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,071 | 2026-08-02 | 1 |
 | [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 12,942 | 2026-08-03 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,453 | 2026-08-06 | 1 |
@@ -107,7 +108,6 @@
 | [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,445 | 2026-08-01 | 3 |
 | [facebookarchive/Shimmer](../repos/facebookarchive/Shimmer.md) | ⭐ 9,331 | 2026-08-02 | 2 |
 | [TTTAttributedLabel/TTTAttributedLabel](../repos/TTTAttributedLabel/TTTAttributedLabel.md) | ⭐ 8,711 | 2026-08-03 | 1 |
-| [Flipboard/FLAnimatedImage](../repos/Flipboard/FLAnimatedImage.md) | ⭐ 7,947 | 2026-08-02 | 2 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 7 | ⭐ 59 | 2026-08-01 | 2026-08-11 |
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 6 | ⭐ 134 | 2026-08-01 | 2026-08-11 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 6 | ⭐ 291 | 2026-08-01 | 2026-08-11 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 6 | ⭐ 25,638 | 2026-08-01 | 2026-08-11 |
-| [google/promises](../repos/google/promises.md) | 5 | ⭐ 3,826 | 2026-08-01 | 2026-08-11 |
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 5 | ⭐ 5,072 | 2026-08-01 | 2026-08-11 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 8 | ⭐ 59 | 2026-08-01 | 2026-08-12 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 7 | ⭐ 134 | 2026-08-01 | 2026-08-12 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 7 | ⭐ 291 | 2026-08-01 | 2026-08-12 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 7 | ⭐ 25,638 | 2026-08-01 | 2026-08-12 |
+| [google/promises](../repos/google/promises.md) | 6 | ⭐ 3,827 | 2026-08-01 | 2026-08-12 |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 6 | ⭐ 5,072 | 2026-08-01 | 2026-08-12 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | 5 | ⭐ 21,962 | 2026-08-02 | 2026-08-11 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | 5 | ⭐ 13,330 | 2026-08-04 | 2026-08-12 |
+| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | 4 | ⭐ 1,704 | 2026-08-01 | 2026-08-12 |
 | [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 4 | ⭐ 668 | 2026-08-02 | 2026-08-10 |
-| [mixpanel/mixpanel-iphone](../repos/mixpanel/mixpanel-iphone.md) | 4 | ⭐ 1,065 | 2026-08-02 | 2026-08-10 |
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | 4 | ⭐ 3,212 | 2026-08-02 | 2026-08-10 |
 
 ---
 
@@ -191,7 +191,10 @@
 - [roothide/Developer](../repos/roothide/Developer.md) - document for tweak Developers
 - [rollbar/rollbar-apple](../repos/rollbar/rollbar-apple.md) - Objective-C &amp; Swift library for remote crash, exception, error reporting, and logging with Rollba...
 - [alexzielenski/Mousecape](../repos/alexzielenski/Mousecape.md) - Cursor Manager for OSX
+- [dcloudio/uni-app](../repos/dcloudio/uni-app.md) - A cross-platform framework using Vue.js
+- [BranchMetrics/ios-branch-deep-linking-attribution](../repos/BranchMetrics/ios-branch-deep-linking-attribution.md) - The Branch iOS SDK for deep linking and attribution. Branch helps mobile apps grow with deep link...
+- [tonymillion/Reachability](../repos/tonymillion/Reachability.md) - ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in replacement for Apple Reacha...
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.146Z*
+*Last updated: 2026-08-12T21:01:53.209Z*

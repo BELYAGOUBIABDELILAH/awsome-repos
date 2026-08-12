@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Fortran |
 | **License** | GPL-2.0 |
-| **Stars** | ⭐ 1,181 |
-| **Forks** | 🍴 490 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 1,184 |
+| **Forks** | 🍴 491 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 9, 2026 |
+| **Last Seen** | Aug 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 3 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 1,181+ stars, strong contributor base |
+| **Community** | Very Active | 1,184+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-11T21:01:59.609Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-08-12T21:01:54.933Z*  
+*Data from 6 trending reports*

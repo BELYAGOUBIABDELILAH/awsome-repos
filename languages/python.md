@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 98
+- **Total Repositories**: 104
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-01
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 163,751 | 2026-07-31 | 3 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | 2026-07-31 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 36,643 | 2026-08-03 | 2 |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 89,336 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,382 | 2026-08-08 | 2 |
+| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 36,918 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-deepmind/weathernext](../repos/google-deepmind/weathernext.md) | ⭐ 7,464 | 2026-08-08 | 4 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 141,219 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harveyai/harvey-labs](../repos/harveyai/harvey-labs.md) | ⭐ 1,056 | 2026-08-08 | 3 |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 62,072 | 2026-08-09 | 3 |
+| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 62,566 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stanfordnlp/dspy](../repos/stanfordnlp/dspy.md) | ⭐ 37,114 | 2026-08-09 | 3 |
+| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 90,555 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 90,114 | 2026-08-10 | 2 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 168,510 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 168,053 | 2026-08-11 | 1 |
+| [HKUDS/DeepTutor](../repos/HKUDS/DeepTutor.md) | ⭐ 35,156 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/DeepTutor](../repos/HKUDS/DeepTutor.md) | ⭐ 34,635 | 2026-08-11 | 1 |
+| [cactus-compute/needle](../repos/cactus-compute/needle.md) | ⭐ 4,133 | 2026-08-11 | 2 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | Robust Speech Recognition via Large-Scale Weak Supervision |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 163,751 | 2026-07-31 | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in t... |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | 2026-07-31 | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in t... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [anthropics/anthropic-sdk-python](../repos/anthropics/anthropic-sdk-python.md) | ⭐ 1,250 | 2026-07-31 | SDK for Anthropic&#39;s Claude AI |
@@ -90,21 +90,21 @@
 |------------|-------|------------|---------------|
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 453,833 | 2026-08-01 | 1 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | 2026-08-03 | 5 |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,382 | 2026-08-08 | 2 |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | 2026-08-08 | 3 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | 2026-08-01 | 6 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,458 | 2026-08-06 | 4 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 182,027 | 2026-08-02 | 1 |
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 168,053 | 2026-08-11 | 1 |
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 163,751 | 2026-07-31 | 3 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 140,599 | 2026-08-07 | 1 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 168,510 | 2026-08-11 | 2 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | 2026-07-31 | 4 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 141,219 | 2026-08-07 | 2 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 130,495 | 2026-08-04 | 1 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 126,231 | 2026-08-05 | 4 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 101,806 | 2026-08-03 | 1 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | 2026-08-01 | 2 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 97,152 | 2026-08-08 | 3 |
-| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 90,114 | 2026-08-10 | 2 |
-| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 88,155 | 2026-08-02 | 2 |
+| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 90,555 | 2026-08-10 | 3 |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 89,336 | 2026-08-02 | 3 |
 | [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 79,146 | 2026-08-02 | 2 |
 | [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 78,730 | 2026-08-02 | 2 |
 | [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | 2026-08-10 | 1 |
@@ -120,11 +120,11 @@
 | [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | 5 | ⭐ 46,014 | 2026-08-02 | 2026-08-06 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | 5 | ⭐ 362,245 | 2026-08-03 | 2026-08-07 |
 | [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | 5 | ⭐ 3,574 | 2026-08-04 | 2026-08-08 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | 4 | ⭐ 164,012 | 2026-07-31 | 2026-08-12 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 4 | ⭐ 66,444 | 2026-08-01 | 2026-08-04 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 4 | ⭐ 126,231 | 2026-08-05 | 2026-08-10 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | 4 | ⭐ 186,458 | 2026-08-06 | 2026-08-09 |
 | [google/skills](../repos/google/skills.md) | 4 | ⭐ 17,581 | 2026-08-07 | 2026-08-10 |
-| [google-deepmind/weathernext](../repos/google-deepmind/weathernext.md) | 4 | ⭐ 7,464 | 2026-08-08 | 2026-08-11 |
 
 ---
 
@@ -228,7 +228,9 @@
 - [cactus-compute/needle](../repos/cactus-compute/needle.md) - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 - [NVlabs/GR00T-WholeBodyControl](../repos/NVlabs/GR00T-WholeBodyControl.md) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deployin...
 - [AgriciDaniel/claude-obsidian](../repos/AgriciDaniel/claude-obsidian.md) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, lin...
+- [hugohe3/ppt-master](../repos/hugohe3/ppt-master.md) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions a...
+- [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.153Z*
+*Last updated: 2026-08-12T21:01:53.215Z*

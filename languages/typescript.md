@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 90
+- **Total Repositories**: 95
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 18,253 | 2026-08-01 | 5 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,641 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 127,577 | 2026-08-02 | 3 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 77,659 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 77,085 | 2026-08-02 | 3 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 13,986 | 2026-08-07 | 5 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 88,521 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 165,819 | 2026-08-07 | 4 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 43,744 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 87,589 | 2026-08-07 | 2 |
+| [ZuodaoTech/everyone-can-use-english](../repos/ZuodaoTech/everyone-can-use-english.md) | ⭐ 36,042 | 2026-08-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 42,646 | 2026-08-11 | 1 |
+| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 54,821 | 2026-08-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/cwc-workshops](../repos/anthropics/cwc-workshops.md) | ⭐ 1,971 | 2026-08-11 | 1 |
+| [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | 2026-08-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lfnovo/open-notebook](../repos/lfnovo/open-notebook.md) | ⭐ 36,707 | 2026-08-11 | 1 |
+| [web-infra-dev/midscene](../repos/web-infra-dev/midscene.md) | ⭐ 14,556 | 2026-08-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gbrain](../repos/garrytan/gbrain.md) | ⭐ 28,221 | 2026-08-11 | 1 |
+| [holaboss-ai/holaOS](../repos/holaboss-ai/holaOS.md) | ⭐ 6,023 | 2026-08-12 | 1 |
 
 
 ---
@@ -64,7 +64,7 @@
 | [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 20,293 | 2026-08-01 | The open-source alternative to Claude Cowork (powered by opencode) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,501 | 2026-08-01 | Cursor plugin specification and official plugins |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,641 | 2026-08-01 | Cursor plugin specification and official plugins |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 17,453 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
@@ -91,23 +91,23 @@
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 200,252 | 2026-08-11 | 1 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 165,819 | 2026-08-07 | 4 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 127,577 | 2026-08-02 | 3 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,950 | 2026-08-04 | 2 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 96,831 | 2026-08-04 | 2 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 87,589 | 2026-08-07 | 2 |
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 77,085 | 2026-08-02 | 3 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 88,521 | 2026-08-07 | 3 |
+| [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | 2026-08-12 | 1 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 77,659 | 2026-08-02 | 4 |
 | [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,054 | 2026-08-04 | 1 |
 | [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | ⭐ 75,400 | 2026-07-31 | 1 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 67,574 | 2026-08-10 | 1 |
 | [reduxjs/redux](../repos/reduxjs/redux.md) | ⭐ 61,511 | 2026-08-04 | 1 |
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | 2026-08-01 | 1 |
 | [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 55,690 | 2026-08-06 | 2 |
+| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 54,821 | 2026-08-12 | 1 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 52,300 | 2026-07-31 | 1 |
-| [expo/expo](../repos/expo/expo.md) | ⭐ 51,390 | 2026-08-06 | 1 |
-| [cypress-io/cypress](../repos/cypress-io/cypress.md) | ⭐ 50,912 | 2026-08-04 | 2 |
 
 ---
 
@@ -120,11 +120,11 @@
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 5 | ⭐ 18,253 | 2026-08-01 | 2026-08-11 |
 | [cloudflare/computer](../repos/cloudflare/computer.md) | 5 | ⭐ 6,976 | 2026-08-05 | 2026-08-09 |
 | [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | 5 | ⭐ 13,986 | 2026-08-07 | 2026-08-11 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | 5 | ⭐ 166,401 | 2026-08-07 | 2026-08-12 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | 4 | ⭐ 77,659 | 2026-08-02 | 2026-08-12 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 4 | ⭐ 23,000 | 2026-08-02 | 2026-08-08 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | 4 | ⭐ 165,819 | 2026-08-07 | 2026-08-11 |
 | [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | 3 | ⭐ 49,131 | 2026-08-02 | 2026-08-04 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 3 | ⭐ 127,577 | 2026-08-02 | 2026-08-11 |
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | 3 | ⭐ 77,085 | 2026-08-02 | 2026-08-11 |
 
 ---
 
@@ -220,7 +220,12 @@
 - [eigent-ai/eigent](../repos/eigent-ai/eigent.md) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
 - [n8n-io/n8n](../repos/n8n-io/n8n.md) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...
 - [corsairdev/corsair](../repos/corsairdev/corsair.md) - Your Agent&#39;s Integration Layer
+- [ZuodaoTech/everyone-can-use-english](../repos/ZuodaoTech/everyone-can-use-english.md) - 人人都能用英语
+- [twentyhq/twenty](../repos/twentyhq/twenty.md) - The open alternative to Salesforce, designed for AI.
+- [coder/code-server](../repos/coder/code-server.md) - VS Code in the browser
+- [web-infra-dev/midscene](../repos/web-infra-dev/midscene.md) - AI-powered, vision-driven UI automation for every platform.
+- [holaboss-ai/holaOS](../repos/holaboss-ai/holaOS.md) - Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools...
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.164Z*
+*Last updated: 2026-08-12T21:01:53.228Z*

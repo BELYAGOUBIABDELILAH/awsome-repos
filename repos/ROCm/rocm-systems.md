@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | Not specified |
-| **Stars** | ⭐ 455 |
-| **Forks** | 🍴 337 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 462 |
+| **Forks** | 🍴 342 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 8, 2026 |
+| **Last Seen** | Aug 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 455+ stars, strong contributor base |
+| **Community** | Very Active | 462+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-11T21:01:59.295Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-12T21:01:54.545Z*  
+*Data from 3 trending reports*

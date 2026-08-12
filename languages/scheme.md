@@ -14,8 +14,10 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [LFDT-Minokawa/compact](../repos/LFDT-Minokawa/compact.md) | ⭐ 37 | 2026-08-08 | 2 |
 
-*No Scheme repositories trending today*
 
 ---
 
@@ -40,7 +42,7 @@
 |------------|-------|------------|---------------|
 | [MoganLab/mogan](../repos/MoganLab/mogan.md) | ⭐ 573 | 2026-08-05 | 1 |
 | [scality/metalk8s](../repos/scality/metalk8s.md) | ⭐ 391 | 2026-08-02 | 1 |
-| [LFDT-Minokawa/compact](../repos/LFDT-Minokawa/compact.md) | ⭐ 37 | 2026-08-08 | 1 |
+| [LFDT-Minokawa/compact](../repos/LFDT-Minokawa/compact.md) | ⭐ 37 | 2026-08-08 | 2 |
 
 ---
 
@@ -48,9 +50,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [LFDT-Minokawa/compact](../repos/LFDT-Minokawa/compact.md) | 2 | ⭐ 37 | 2026-08-08 | 2026-08-12 |
 | [scality/metalk8s](../repos/scality/metalk8s.md) | 1 | ⭐ 391 | 2026-08-02 | 2026-08-02 |
 | [MoganLab/mogan](../repos/MoganLab/mogan.md) | 1 | ⭐ 573 | 2026-08-05 | 2026-08-05 |
-| [LFDT-Minokawa/compact](../repos/LFDT-Minokawa/compact.md) | 1 | ⭐ 37 | 2026-08-08 | 2026-08-08 |
 
 ---
 
@@ -62,4 +64,4 @@
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.159Z*
+*Last updated: 2026-08-12T21:01:53.222Z*

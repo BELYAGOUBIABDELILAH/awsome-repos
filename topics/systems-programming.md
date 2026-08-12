@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 1240
+- **Total Repositories**: 1304
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 19745
+- **Average Stars**: 19766
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 163,751 | Python |  |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [paritytech/polkadot-sdk](../repos/paritytech/polkadot-sdk.md) | ⭐ 2,792 | Rust |  |
+| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,453 | C++ |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [cocoindex-io/cocoindex](../repos/cocoindex-io/cocoindex.md) | ⭐ 11,251 | Rust |  |
+| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 17,331 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,260 | Rust |  |
+| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | ⭐ 12,580 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,360 | Go |  |
+| [git-ai-project/git-ai](../repos/git-ai-project/git-ai.md) | ⭐ 2,445 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,677 | Go |  |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 14,294 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,643 | Java |  |
+| [cocoindex-io/cocoindex](../repos/cocoindex-io/cocoindex.md) | ⭐ 11,286 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,722 | C++ |  |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 45,010 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,669 | C |  |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,376 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,217 | PHP |  |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,762 | Go |  |
 
 
 ---
@@ -56,7 +56,7 @@
 | [codecrafters-io/build-your-own-x](../repos/codecrafters-io/build-your-own-x.md) | ⭐ 534,798 | Markdown | 2026-08-02 | 1 |
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 453,833 | Python | 2026-08-01 | 1 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | Python | 2026-08-03 | 5 |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,382 | Python | 2026-08-08 | 2 |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | Python | 2026-08-08 | 3 |
 | [react/react](../repos/react/react.md) | ⭐ 246,953 | JavaScript | 2026-08-04 | 1 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | Python | 2026-08-01 | 6 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
@@ -73,31 +73,31 @@
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,905 | C++ | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | TypeScript | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,277 | Rust | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | JavaScript | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | Rust | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 163,751 | Python | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | Rust | 1 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | Python | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,453 | C++ | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 17,331 | Rust | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | Python | 6 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 9,868 | JavaScript | 2 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 58,350 | JavaScript | 1 |
 
 ---
 
@@ -129,7 +129,7 @@
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,046 | Rust | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 163,751 | Python | 2026-07-31 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | Python | 2026-07-31 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | Rust | 2026-07-31 |
@@ -137,6 +137,10 @@
 ---
 
 ## 📅 Recent History
+
+### [2026-08-12](../archive/2026/08/2026-08-12.md)
+- 289 repositories trending
+- Top: practical-tutorials&#x2F;project-based-learning
 
 ### [2026-08-11](../archive/2026/08/2026-08-11.md)
 - 240 repositories trending
@@ -162,10 +166,6 @@
 - 294 repositories trending
 - Top: donnemartin&#x2F;system-design-primer
 
-### [2026-08-05](../archive/2026/08/2026-08-05.md)
-- 298 repositories trending
-- Top: donnemartin&#x2F;system-design-primer
-
 
 ---
 
@@ -175,30 +175,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 11 days | 2026-08-01 | 2026-08-11 |
-| [apache/tvm-vta](../repos/apache/tvm-vta.md) | 11 days | 2026-08-01 | 2026-08-11 |
-| [apache/spark](../repos/apache/spark.md) | 11 days | 2026-08-01 | 2026-08-11 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 11 days | 2026-08-01 | 2026-08-11 |
-| [vlang/v](../repos/vlang/v.md) | 11 days | 2026-08-01 | 2026-08-11 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 11 days | 2026-08-01 | 2026-08-11 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 11 days | 2026-08-01 | 2026-08-11 |
-| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | 11 days | 2026-08-01 | 2026-08-11 |
-| [apache/texera](../repos/apache/texera.md) | 10 days | 2026-08-01 | 2026-08-11 |
-| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 10 days | 2026-08-01 | 2026-08-10 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 12 days | 2026-08-01 | 2026-08-12 |
+| [apache/tvm-vta](../repos/apache/tvm-vta.md) | 12 days | 2026-08-01 | 2026-08-12 |
+| [apache/spark](../repos/apache/spark.md) | 12 days | 2026-08-01 | 2026-08-12 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 12 days | 2026-08-01 | 2026-08-12 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 12 days | 2026-08-01 | 2026-08-12 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 12 days | 2026-08-01 | 2026-08-12 |
+| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | 12 days | 2026-08-01 | 2026-08-12 |
+| [apache/texera](../repos/apache/texera.md) | 11 days | 2026-08-01 | 2026-08-12 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 11 days | 2026-08-01 | 2026-08-12 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 11 days | 2026-08-01 | 2026-08-12 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 96 repositories (8%)
-- **C++**: 83 repositories (7%)
-- **Rust**: 75 repositories (6%)
-- **Java**: 73 repositories (6%)
-- **Python**: 68 repositories (5%)
+- **Go**: 103 repositories (8%)
+- **C++**: 90 repositories (7%)
+- **Rust**: 79 repositories (6%)
+- **Java**: 79 repositories (6%)
+- **Python**: 72 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 227.1 repositories
+- **Daily Average**: 231.6 repositories
 - **Peak Day**: 2026-08-04 (333 repositories)
 - **Growth Rate**: 100% this month
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.008Z*
+*Last updated: 2026-08-12T21:01:53.069Z*

@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 247
+- **Total Repositories**: 255
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-07
-- **Average Stars**: 27688
+- **Average Stars**: 27385
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,260 | Rust |  |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 14,294 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,757 | PHP |  |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,779 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | ⭐ 6,331 | Kotlin |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,411 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,409 | Scala |  |
+| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,277 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,847 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,856 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,464 | Shell |  |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,552 | Shell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,315 | Dart |  |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,365 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,185 | OCaml |  |
+| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,944 | Haskell |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,195 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,582 | Perl |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,315 | Vue |  |
 
 
 ---
@@ -54,15 +54,15 @@
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | Python | 2026-08-03 | 5 |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,382 | Python | 2026-08-08 | 2 |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | Python | 2026-08-08 | 3 |
 | [react/react](../repos/react/react.md) | ⭐ 246,953 | JavaScript | 2026-08-04 | 1 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | TypeScript | 2026-08-04 | 1 |
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,315 | Dart | 2026-08-01 | 6 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 165,819 | TypeScript | 2026-08-07 | 4 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,365 | C | 2026-08-07 | 4 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,365 | Dart | 2026-08-01 | 7 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | TypeScript | 2026-08-07 | 5 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,507 | C | 2026-08-07 | 5 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | JavaScript | 2026-07-30 | 6 |
-| [react/react-native](../repos/react/react-native.md) | ⭐ 126,283 | C++ | 2026-08-04 | 1 |
+| [react/react-native](../repos/react/react-native.md) | ⭐ 126,334 | C++ | 2026-08-04 | 2 |
 
 ---
 
@@ -70,16 +70,10 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | JavaScript | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | Rust | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 13,632 | Rust | 1 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 14,294 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,260 | Rust | 1 |
@@ -97,7 +91,13 @@
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,757 | PHP | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,769 | Ruby | 2 |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,779 | Ruby | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 5,833 | Ruby | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,673 | Ruby | 1 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-12](../archive/2026/08/2026-08-12.md)
+- 45 repositories trending
+- Top: practical-tutorials&#x2F;project-based-learning
+
 ### [2026-08-11](../archive/2026/08/2026-08-11.md)
 - 44 repositories trending
 - Top: practical-tutorials&#x2F;project-based-learning
@@ -162,10 +166,6 @@
 - 64 repositories trending
 - Top: donnemartin&#x2F;system-design-primer
 
-### [2026-08-05](../archive/2026/08/2026-08-05.md)
-- 65 repositories trending
-- Top: donnemartin&#x2F;system-design-primer
-
 
 ---
 
@@ -175,30 +175,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 11 days | 2026-08-01 | 2026-08-11 |
+| [apache/spark](../repos/apache/spark.md) | 12 days | 2026-08-01 | 2026-08-12 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 11 days | 2026-08-01 | 2026-08-12 |
 | [vlang/v](../repos/vlang/v.md) | 11 days | 2026-08-01 | 2026-08-11 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 10 days | 2026-08-01 | 2026-08-11 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 9 days | 2026-08-01 | 2026-08-11 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 10 days | 2026-08-01 | 2026-08-12 |
+| [vim/vim](../repos/vim/vim.md) | 10 days | 2026-08-01 | 2026-08-12 |
+| [joernio/joern](../repos/joernio/joern.md) | 9 days | 2026-08-01 | 2026-08-12 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 9 days | 2026-08-01 | 2026-08-12 |
 | [frappe/crm](../repos/frappe/crm.md) | 9 days | 2026-08-01 | 2026-08-11 |
-| [vim/vim](../repos/vim/vim.md) | 9 days | 2026-08-01 | 2026-08-11 |
-| [joernio/joern](../repos/joernio/joern.md) | 8 days | 2026-08-01 | 2026-08-11 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 8 days | 2026-08-01 | 2026-08-11 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 8 days | 2026-08-01 | 2026-08-11 |
-| [ninenines/cowboy](../repos/ninenines/cowboy.md) | 8 days | 2026-08-03 | 2026-08-11 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 9 days | 2026-08-01 | 2026-08-12 |
+| [ninenines/cowboy](../repos/ninenines/cowboy.md) | 9 days | 2026-08-03 | 2026-08-12 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Vue**: 29 repositories (12%)
-- **TypeScript**: 28 repositories (11%)
-- **JavaScript**: 21 repositories (9%)
-- **C**: 19 repositories (8%)
+- **Vue**: 31 repositories (12%)
+- **TypeScript**: 29 repositories (11%)
+- **JavaScript**: 21 repositories (8%)
+- **C**: 19 repositories (7%)
 - **Rust**: 18 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 44 repositories
+- **Daily Average**: 44.1 repositories
 - **Peak Day**: 2026-08-04 (66 repositories)
 - **Growth Rate**: 100% this month
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-08-11T21:01:57.953Z*
+*Last updated: 2026-08-12T21:01:52.992Z*

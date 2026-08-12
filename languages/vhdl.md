@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-06
+- **Last Updated**: 2026-08-12
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,232 | 2026-08-07 | 4 |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,860 | 2026-08-01 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,232 | 2026-08-07 | 5 |
 
 
 ---
@@ -25,7 +28,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,858 | 2026-08-01 | VHDL 2008&#x2F;93&#x2F;87 simulator |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,860 | 2026-08-01 | VHDL 2008&#x2F;93&#x2F;87 simulator |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,232 | 2026-08-07 | 🖥️ A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontrolle... |
@@ -37,8 +40,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,858 | 2026-08-01 | 5 |
-| [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,232 | 2026-08-07 | 4 |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,860 | 2026-08-01 | 6 |
+| [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,232 | 2026-08-07 | 5 |
 
 ---
 
@@ -46,8 +49,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | 5 | ⭐ 2,858 | 2026-08-01 | 2026-08-06 |
-| [stnolting/neorv32](../repos/stnolting/neorv32.md) | 4 | ⭐ 2,232 | 2026-08-07 | 2026-08-11 |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | 6 | ⭐ 2,860 | 2026-08-01 | 2026-08-12 |
+| [stnolting/neorv32](../repos/stnolting/neorv32.md) | 5 | ⭐ 2,232 | 2026-08-07 | 2026-08-12 |
 
 ---
 
@@ -58,4 +61,4 @@
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.166Z*
+*Last updated: 2026-08-12T21:01:53.230Z*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 8
+- **Total Repositories**: 14
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-11
+- **Last Updated**: 2026-08-12
 
 ---
 
@@ -16,22 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 727 | 2026-08-01 | 11 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 727 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 7 |
+| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | 8 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,399 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,397 | 2026-08-02 | 6 |
+| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 10 |
+| [jump-dev/JuMP.jl](../repos/jump-dev/JuMP.jl.md) | ⭐ 2,462 | 2026-08-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | 3 |
+| [FluxML/Zygote.jl](../repos/FluxML/Zygote.jl.md) | ⭐ 1,568 | 2026-08-12 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [TuringLang/Turing.jl](../repos/TuringLang/Turing.jl.md) | ⭐ 2,246 | 2026-08-12 | 1 |
 
 
 ---
@@ -52,7 +64,7 @@
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-differen... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,397 | 2026-08-02 | 🌊  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,399 | 2026-08-02 | 🌊  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | ClimaCoupler: bringing atmosphere, land, and ocean together |
@@ -62,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jump-dev/JuMP.jl](../repos/jump-dev/JuMP.jl.md) | ⭐ 2,462 | 2026-08-12 | Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonl... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [FluxML/Zygote.jl](../repos/FluxML/Zygote.jl.md) | ⭐ 1,568 | 2026-08-12 | 21st century AD |
 
 
 ---
@@ -70,14 +88,20 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,397 | 2026-08-02 | 6 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 727 | 2026-08-01 | 11 |
+| [jump-dev/JuMP.jl](../repos/jump-dev/JuMP.jl.md) | ⭐ 2,462 | 2026-08-12 | 1 |
+| [TuringLang/Turing.jl](../repos/TuringLang/Turing.jl.md) | ⭐ 2,246 | 2026-08-12 | 1 |
+| [FluxML/Zygote.jl](../repos/FluxML/Zygote.jl.md) | ⭐ 1,568 | 2026-08-12 | 1 |
+| [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,399 | 2026-08-02 | 7 |
+| [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 727 | 2026-08-01 | 12 |
+| [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 719 | 2026-08-07 | 1 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | 3 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 124 | 2026-08-01 | 10 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | 8 |
-| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 7 |
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 10 |
+| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 8 |
+| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 11 |
 
 ---
 
@@ -85,14 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 11 | ⭐ 727 | 2026-08-01 | 2026-08-11 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 12 | ⭐ 727 | 2026-08-01 | 2026-08-12 |
+| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 11 | ⭐ 46 | 2026-08-02 | 2026-08-12 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 10 | ⭐ 124 | 2026-08-01 | 2026-08-10 |
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 10 | ⭐ 46 | 2026-08-02 | 2026-08-11 |
+| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | 8 | ⭐ 73 | 2026-08-01 | 2026-08-12 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 8 | ⭐ 114 | 2026-08-01 | 2026-08-11 |
-| [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | 7 | ⭐ 73 | 2026-08-01 | 2026-08-11 |
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 6 | ⭐ 1,397 | 2026-08-02 | 2026-08-11 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 7 | ⭐ 1,399 | 2026-08-02 | 2026-08-12 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | 3 | ⭐ 355 | 2026-08-07 | 2026-08-11 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | 1 | ⭐ 719 | 2026-08-07 | 2026-08-07 |
+| [jump-dev/JuMP.jl](../repos/jump-dev/JuMP.jl.md) | 1 | ⭐ 2,462 | 2026-08-12 | 2026-08-12 |
+| [FluxML/Zygote.jl](../repos/FluxML/Zygote.jl.md) | 1 | ⭐ 1,568 | 2026-08-12 | 2026-08-12 |
 
 ---
 
@@ -106,7 +132,13 @@
 - [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) - ClimaCoupler: bringing atmosphere, land, and ocean together
 - [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) - Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia
 - [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) - Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.
+- [jump-dev/JuMP.jl](../repos/jump-dev/JuMP.jl.md) - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonl...
+- [FluxML/Zygote.jl](../repos/FluxML/Zygote.jl.md) - 21st century AD
+- [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) - A Julia package for probability distributions and associated functions.
+- [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) - CUDA programming in Julia.
+- [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) - Elegant and Performant Deep Learning
+- [TuringLang/Turing.jl](../repos/TuringLang/Turing.jl.md) - Bayesian inference with probabilistic programming.
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.137Z*
+*Last updated: 2026-08-12T21:01:53.198Z*

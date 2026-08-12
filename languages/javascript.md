@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 65
+- **Total Repositories**: 67
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,28 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 86,177 | 2026-08-05 | 7 |
+| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 7,142 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [techjarves/Uncensored-Local-Studio](../repos/techjarves/Uncensored-Local-Studio.md) | ⭐ 906 | 2026-08-10 | 2 |
+| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 5,649 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cobusgreyling/loop-engineering](../repos/cobusgreyling/loop-engineering.md) | ⭐ 10,215 | 2026-08-10 | 2 |
+| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chr0nzz/traefik-manager](../repos/chr0nzz/traefik-manager.md) | ⭐ 1,213 | 2026-08-11 | 1 |
+| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 681 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,768 | 2026-08-11 | 1 |
+| [cobusgreyling/loop-engineering](../repos/cobusgreyling/loop-engineering.md) | ⭐ 10,282 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [polius/FileSync](../repos/polius/FileSync.md) | ⭐ 1,473 | 2026-08-11 | 1 |
+| [plankanban/planka](../repos/plankanban/planka.md) | ⭐ 12,338 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [plankanban/planka](../repos/plankanban/planka.md) | ⭐ 12,327 | 2026-08-11 | 1 |
+| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,322 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,309 | 2026-08-11 | 1 |
+| [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,134 | 2026-08-12 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) | ⭐ 27,392 | 2026-08-12 | 1 |
 
 
 ---
@@ -55,7 +58,7 @@
 | [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,535 | 2026-08-01 | Socket-based TS&#x2F;JavaScript API for WhatsApp Web |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 6,998 | 2026-08-01 | 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 |
+| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 7,142 | 2026-08-01 | 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [woosal1337/blog](../repos/woosal1337/blog.md) | ⭐ 311 | 2026-08-01 | My blog website. |
@@ -84,7 +87,8 @@
 |------------|-------|------------|---------------|
 | [react/react](../repos/react/react.md) | ⭐ 246,953 | 2026-08-04 | 1 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
-| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,581 | 2026-08-06 | 1 |
+| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | 2026-08-06 | 2 |
+| [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,134 | 2026-08-12 | 1 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | 2026-07-30 | 6 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
@@ -93,7 +97,7 @@
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
-| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,309 | 2026-08-11 | 1 |
+| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,322 | 2026-08-11 | 2 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 58,350 | 2026-08-01 | 5 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 56,691 | 2026-08-05 | 2 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,768 | 2026-08-11 | 1 |
@@ -101,7 +105,6 @@
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,206 | 2026-08-08 | 1 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,736 | 2026-08-06 | 5 |
 | [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | ⭐ 31,602 | 2026-08-02 | 2 |
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 31,280 | 2026-08-02 | 2 |
 
 ---
 
@@ -111,14 +114,14 @@
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 7 | ⭐ 86,177 | 2026-08-05 | 2026-08-11 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 6 | ⭐ 141,656 | 2026-07-30 | 2026-08-06 |
+| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 5 | ⭐ 7,142 | 2026-08-01 | 2026-08-12 |
 | [byoungd/up](../repos/byoungd/up.md) | 5 | ⭐ 58,350 | 2026-08-01 | 2026-08-10 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 5 | ⭐ 38,736 | 2026-08-06 | 2026-08-10 |
-| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 4 | ⭐ 6,998 | 2026-08-01 | 2026-08-04 |
 | [facebook/react](../repos/facebook/react.md) | 3 | ⭐ 219,500 | 2026-07-30 | 2026-08-05 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 3 | ⭐ 9,868 | 2026-08-01 | 2026-08-07 |
 | [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | 3 | ⭐ 7,624 | 2026-08-02 | 2026-08-04 |
+| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | 3 | ⭐ 5,649 | 2026-08-02 | 2026-08-12 |
 | [4ian/GDevelop](../repos/4ian/GDevelop.md) | 3 | ⭐ 25,523 | 2026-08-03 | 2026-08-10 |
-| [is-a-dev/register](../repos/is-a-dev/register.md) | 3 | ⭐ 10,939 | 2026-08-03 | 2026-08-09 |
 
 ---
 
@@ -189,7 +192,9 @@
 - [polius/FileSync](../repos/polius/FileSync.md) - Send files from one device to many in real-time.
 - [plankanban/planka](../repos/plankanban/planka.md) - PLANKA is the Kanban-style project mastering tool for everyone
 - [lodash/lodash](../repos/lodash/lodash.md) - A modern JavaScript utility library delivering modularity, performance, &amp; extras.
+- [airbnb/javascript](../repos/airbnb/javascript.md) - JavaScript Style Guide
+- [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) - Create beautiful slides on the web using a coding agent&#39;s frontend skills
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.136Z*
+*Last updated: 2026-08-12T21:01:53.197Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 55
+- **Total Repositories**: 61
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,28 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,865 | 2026-08-04 | 4 |
+| [rooootdev/lara](../repos/rooootdev/lara.md) | ⭐ 1,433 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,303 | 2026-08-06 | 3 |
+| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,504 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,876 | 2026-08-08 | 2 |
+| [getsentry/sentry-cocoa](../repos/getsentry/sentry-cocoa.md) | ⭐ 1,106 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 738 | 2026-08-10 | 2 |
+| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 1,483 | 2026-08-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Starmel/OpenSuperWhisper](../repos/Starmel/OpenSuperWhisper.md) | ⭐ 2,577 | 2026-08-10 | 2 |
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,136 | 2026-08-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,909 | 2026-08-11 | 1 |
+| [lihaoyun6/QuickRecorder](../repos/lihaoyun6/QuickRecorder.md) | ⭐ 8,578 | 2026-08-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,254 | 2026-08-11 | 1 |
+| [rileytestut/Delta](../repos/rileytestut/Delta.md) | ⭐ 6,068 | 2026-08-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ml-explore/mlx-swift-lm](../repos/ml-explore/mlx-swift-lm.md) | ⭐ 773 | 2026-08-11 | 1 |
+| [gonzalezreal/textual](../repos/gonzalezreal/textual.md) | ⭐ 833 | 2026-08-12 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,284 | 2026-08-12 | 1 |
 
 
 ---
@@ -84,9 +87,11 @@
 |------------|-------|------------|---------------|
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,234 | 2026-08-05 | 3 |
 | [apple/container](../repos/apple/container.md) | ⭐ 48,766 | 2026-08-01 | 4 |
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,284 | 2026-08-12 | 1 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,010 | 2026-08-04 | 2 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,810 | 2026-08-04 | 2 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,905 | 2026-08-01 | 5 |
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,136 | 2026-08-12 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,865 | 2026-08-04 | 4 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
@@ -100,8 +105,6 @@
 | [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,909 | 2026-08-11 | 1 |
 | [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,876 | 2026-08-08 | 2 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,829 | 2026-08-02 | 4 |
-| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,499 | 2026-08-04 | 1 |
-| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,534 | 2026-08-04 | 2 |
 
 ---
 
@@ -115,9 +118,9 @@
 | [apple/container](../repos/apple/container.md) | 4 | ⭐ 48,766 | 2026-08-01 | 2026-08-08 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | 4 | ⭐ 19,685 | 2026-08-01 | 2026-08-05 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 4 | ⭐ 8,829 | 2026-08-02 | 2026-08-09 |
+| [rooootdev/lara](../repos/rooootdev/lara.md) | 4 | ⭐ 1,433 | 2026-08-03 | 2026-08-12 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 4 | ⭐ 14,865 | 2026-08-04 | 2026-08-11 |
 | [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | 4 | ⭐ 2,369 | 2026-08-07 | 2026-08-10 |
-| [rooootdev/lara](../repos/rooootdev/lara.md) | 3 | ⭐ 1,416 | 2026-08-03 | 2026-08-10 |
 | [pluk-inc/markdown-preview](../repos/pluk-inc/markdown-preview.md) | 3 | ⭐ 1,889 | 2026-08-03 | 2026-08-09 |
 
 ---
@@ -179,7 +182,13 @@
 - [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) - A command-line tool and Xcode Extension for formatting Swift code
 - [github/CopilotForXcode](../repos/github/CopilotForXcode.md) - AI coding assistant for Xcode
 - [ml-explore/mlx-swift-lm](../repos/ml-explore/mlx-swift-lm.md) - LLMs and VLMs with MLX Swift
+- [apple/coreai-models](../repos/apple/coreai-models.md) - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
+- [p0deje/Maccy](../repos/p0deje/Maccy.md) - Lightweight clipboard manager for macOS
+- [lihaoyun6/QuickRecorder](../repos/lihaoyun6/QuickRecorder.md) - A lightweight screen recorder based on ScreenCapture Kit for macOS &#x2F; 基于 ScreenCapture Kit 的轻量化多功能...
+- [rileytestut/Delta](../repos/rileytestut/Delta.md) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
+- [gonzalezreal/textual](../repos/gonzalezreal/textual.md) - Render and customize rich attributed text in SwiftUI
+- [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) - bluetooth mesh chat, IRC vibes
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.162Z*
+*Last updated: 2026-08-12T21:01:53.226Z*

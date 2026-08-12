@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vue |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 9,214 |
-| **Forks** | 🍴 2,088 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 9,227 |
+| **Forks** | 🍴 2,091 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 8, 2026 |
+| **Last Seen** | Aug 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 4 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-11T21:02:00.111Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-08-12T21:01:55.469Z*  
+*Data from 6 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 85
+- **Total Repositories**: 89
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 13,801 | 2026-08-01 | 4 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,610 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 16,629 | 2026-08-02 | 6 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,610 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/efcore](../repos/dotnet/efcore.md) | ⭐ 14,770 | 2026-08-04 | 2 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,369 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Dailin521/codex-provider-sync](../repos/Dailin521/codex-provider-sync.md) | ⭐ 3,088 | 2026-08-04 | 3 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,704 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [space-wizards/space-station-14](../repos/space-wizards/space-station-14.md) | ⭐ 3,731 | 2026-08-04 | 2 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,433 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | ⭐ 13,331 | 2026-08-05 | 6 |
+| [dotnet/efcore](../repos/dotnet/efcore.md) | ⭐ 14,767 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LorisYounger/VPet](../repos/LorisYounger/VPet.md) | ⭐ 6,617 | 2026-08-08 | 2 |
+| [actions/runner](../repos/actions/runner.md) | ⭐ 6,182 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BornToBeRoot/NETworkManager](../repos/BornToBeRoot/NETworkManager.md) | ⭐ 8,659 | 2026-08-10 | 2 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,176 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dpadGuy/SalsaNOW](../repos/dpadGuy/SalsaNOW.md) | ⭐ 117 | 2026-08-11 | 1 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,208 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/FlyOOBE](../repos/builtbybel/FlyOOBE.md) | ⭐ 7,156 | 2026-08-11 | 1 |
+| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 8,392 | 2026-08-09 | 2 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,455 | 2026-08-01 | The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration w... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,602 | 2026-08-01 | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,610 | 2026-08-01 | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 10,741 | 2026-08-01 | A reference .NET application implementing an eCommerce site |
@@ -67,7 +67,7 @@
 | [kgrzybek/modular-monolith-with-ddd](../repos/kgrzybek/modular-monolith-with-ddd.md) | ⭐ 13,907 | 2026-08-01 | Full Modular Monolith application with Domain-Driven Design approach. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,537 | 2026-08-01 | A modern file manager that helps users organize their files and folders. |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,610 | 2026-08-01 | A modern file manager that helps users organize their files and folders. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,550 | 2026-08-01 | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered ... |
@@ -79,7 +79,7 @@
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,810 | 2026-08-01 | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&amp;more) - cross-platform! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,354 | 2026-08-01 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications ... |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,369 | 2026-08-01 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications ... |
 
 
 ---
@@ -89,11 +89,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,476 | 2026-08-02 | 6 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,621 | 2026-08-02 | 4 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,704 | 2026-08-02 | 5 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,758 | 2026-08-06 | 2 |
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,537 | 2026-08-01 | 2 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,354 | 2026-08-01 | 3 |
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,345 | 2026-08-03 | 1 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,610 | 2026-08-01 | 3 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,433 | 2026-08-03 | 2 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,369 | 2026-08-01 | 4 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,700 | 2026-08-08 | 1 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,422 | 2026-08-05 | 1 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | 2026-08-01 | 7 |
@@ -101,13 +101,13 @@
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,810 | 2026-08-01 | 2 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,430 | 2026-08-02 | 2 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,292 | 2026-08-04 | 2 |
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,602 | 2026-08-01 | 3 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,610 | 2026-08-01 | 4 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,672 | 2026-08-01 | 1 |
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,163 | 2026-08-04 | 3 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,208 | 2026-08-04 | 4 |
 | [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,187 | 2026-08-01 | 2 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 16,629 | 2026-08-02 | 6 |
 | [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,868 | 2026-08-02 | 4 |
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 14,989 | 2026-08-03 | 2 |
+| [Tichau/FileConverter](../repos/Tichau/FileConverter.md) | ⭐ 14,995 | 2026-08-11 | 2 |
 
 ---
 
@@ -121,10 +121,10 @@
 | [dotnet/skills](../repos/dotnet/skills.md) | 6 | ⭐ 5,110 | 2026-08-03 | 2026-08-09 |
 | [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | 6 | ⭐ 13,331 | 2026-08-05 | 2026-08-11 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 5 | ⭐ 3,550 | 2026-08-01 | 2026-08-08 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 5 | ⭐ 55,704 | 2026-08-02 | 2026-08-12 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 5 | ⭐ 14,628 | 2026-08-02 | 2026-08-10 |
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 4 | ⭐ 13,801 | 2026-08-01 | 2026-08-11 |
-| [Jackett/Jackett](../repos/Jackett/Jackett.md) | 4 | ⭐ 15,868 | 2026-08-02 | 2026-08-10 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 4 | ⭐ 55,621 | 2026-08-02 | 2026-08-10 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | 4 | ⭐ 20,610 | 2026-08-01 | 2026-08-12 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 4 | ⭐ 38,369 | 2026-08-01 | 2026-08-12 |
 
 ---
 
@@ -215,7 +215,11 @@
 - [dotnet/sdk](../repos/dotnet/sdk.md) - Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI
 - [Tichau/FileConverter](../repos/Tichau/FileConverter.md) - File Converter is a very simple tool which allows you to convert and compress files using the con...
 - [rmcrackan/Libation](../repos/rmcrackan/Libation.md) - Libation: Liberate your Library
+- [TechnitiumSoftware/DnsServer](../repos/TechnitiumSoftware/DnsServer.md) - Technitium DNS Server
+- [Azure/azure-sdk-for-net](../repos/Azure/azure-sdk-for-net.md) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we ...
+- [luolangaga/tubatools](../repos/luolangaga/tubatools.md) - 图吧工具箱 winUI3 版
+- [TheJoeFin/Text-Grab](../repos/TheJoeFin/Text-Grab.md) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifi...
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.105Z*
+*Last updated: 2026-08-12T21:01:53.169Z*

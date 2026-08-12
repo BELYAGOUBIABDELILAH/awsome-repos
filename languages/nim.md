@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 8
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-11
+- **Last Updated**: 2026-08-12
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,168 | 2026-08-01 | 8 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,169 | 2026-08-01 | 9 |
 
 
 ---
@@ -28,7 +28,7 @@
 | [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 499 | 2026-08-01 | List of packages for Nimble |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,168 | 2026-08-01 | Nim is a statically typed compiled systems programming language. It combines successful concepts ... |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,169 | 2026-08-01 | Nim is a statically typed compiled systems programming language. It combines successful concepts ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 660 | 2026-08-02 | Nim implementation of the Ethereum Beacon Chain |
@@ -55,7 +55,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,168 | 2026-08-01 | 8 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,169 | 2026-08-01 | 9 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 660 | 2026-08-02 | 5 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 625 | 2026-08-05 | 2 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 499 | 2026-08-01 | 6 |
@@ -70,7 +70,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 8 | ⭐ 18,168 | 2026-08-01 | 2026-08-11 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 9 | ⭐ 18,169 | 2026-08-01 | 2026-08-12 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | 6 | ⭐ 499 | 2026-08-01 | 2026-08-08 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | 5 | ⭐ 660 | 2026-08-02 | 2026-08-06 |
 | [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | 3 | ⭐ 317 | 2026-08-06 | 2026-08-09 |
@@ -94,4 +94,4 @@
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.144Z*
+*Last updated: 2026-08-12T21:01:53.207Z*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 5
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-08
+- **Last Updated**: 2026-08-12
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,025 | 2026-08-01 | 9 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,600 | 2026-08-01 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | 3 |
 
 
 ---
@@ -25,7 +28,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,597 | 2026-08-01 | No longer maintained, see pinned issues |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,600 | 2026-08-01 | No longer maintained, see pinned issues |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,025 | 2026-08-01 | Low-Budget Password Strength Estimation |
@@ -34,7 +37,7 @@
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | The motion graphics toolbelt for the web |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,149 | 2026-08-06 | Adds various features to anonymous imageboards. |
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | Adds various features to anonymous imageboards. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,601 | 2026-08-09 | Unfancy JavaScript |
@@ -46,11 +49,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,597 | 2026-08-01 | 3 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,600 | 2026-08-01 | 4 |
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | 1 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,601 | 2026-08-09 | 1 |
 | [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,025 | 2026-08-01 | 9 |
-| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,149 | 2026-08-06 | 2 |
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | 3 |
 
 ---
 
@@ -59,8 +62,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 9 | ⭐ 16,025 | 2026-08-01 | 2026-08-11 |
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 3 | ⭐ 22,597 | 2026-08-01 | 2026-08-08 |
-| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 2 | ⭐ 1,149 | 2026-08-06 | 2026-08-09 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 4 | ⭐ 22,600 | 2026-08-01 | 2026-08-12 |
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 3 | ⭐ 1,151 | 2026-08-06 | 2026-08-12 |
 | [mojs/mojs](../repos/mojs/mojs.md) | 1 | ⭐ 18,747 | 2026-08-01 | 2026-08-01 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | 1 | ⭐ 16,601 | 2026-08-09 | 2026-08-09 |
 
@@ -76,4 +79,4 @@
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.116Z*
+*Last updated: 2026-08-12T21:01:53.180Z*

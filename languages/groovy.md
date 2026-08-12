@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 8
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-11
+- **Last Updated**: 2026-08-12
 
 ---
 
@@ -16,10 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,772 | 2026-08-01 | 11 |
+| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,262 | 2026-08-02 | 9 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,774 | 2026-08-01 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 874 | 2026-08-01 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,265 | 2026-08-02 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,924 | 2026-08-03 | 7 |
 
 
 ---
@@ -31,13 +40,13 @@
 | [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | Gravitee.io - API Platform - Issues |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,772 | 2026-08-01 | Adaptable, fast automation for all |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,774 | 2026-08-01 | Adaptable, fast automation for all |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 871 | 2026-08-01 | OpenBoxes is a warehouse management system designed to manage inventory and track stock movements... |
+| [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 874 | 2026-08-01 | OpenBoxes is a warehouse management system designed to manage inventory and track stock movements... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,262 | 2026-08-02 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and ... |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,265 | 2026-08-02 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,458 | 2026-08-02 | A DSL for data-driven computational pipelines |
@@ -58,14 +67,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,772 | 2026-08-01 | 11 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,262 | 2026-08-02 | 9 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,774 | 2026-08-01 | 12 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,265 | 2026-08-02 | 10 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,458 | 2026-08-02 | 6 |
-| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,924 | 2026-08-03 | 6 |
-| [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 871 | 2026-08-01 | 3 |
+| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,924 | 2026-08-03 | 7 |
+| [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 874 | 2026-08-01 | 4 |
 | [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | ⭐ 96 | 2026-08-06 | 1 |
-| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | 4 |
+| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | 5 |
 
 ---
 
@@ -73,12 +82,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [gradle/gradle](../repos/gradle/gradle.md) | 11 | ⭐ 18,772 | 2026-08-01 | 2026-08-11 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 9 | ⭐ 6,262 | 2026-08-02 | 2026-08-11 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 12 | ⭐ 18,774 | 2026-08-01 | 2026-08-12 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 10 | ⭐ 6,265 | 2026-08-02 | 2026-08-12 |
+| [apache/grails-core](../repos/apache/grails-core.md) | 7 | ⭐ 2,924 | 2026-08-03 | 2026-08-12 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 6 | ⭐ 3,458 | 2026-08-02 | 2026-08-08 |
-| [apache/grails-core](../repos/apache/grails-core.md) | 6 | ⭐ 2,924 | 2026-08-03 | 2026-08-09 |
-| [gravitee-io/issues](../repos/gravitee-io/issues.md) | 4 | ⭐ 68 | 2026-08-01 | 2026-08-09 |
-| [openboxes/openboxes](../repos/openboxes/openboxes.md) | 3 | ⭐ 871 | 2026-08-01 | 2026-08-07 |
+| [gravitee-io/issues](../repos/gravitee-io/issues.md) | 5 | ⭐ 68 | 2026-08-01 | 2026-08-12 |
+| [openboxes/openboxes](../repos/openboxes/openboxes.md) | 4 | ⭐ 874 | 2026-08-01 | 2026-08-12 |
 | [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | 1 | ⭐ 96 | 2026-08-06 | 2026-08-06 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | 1 | ⭐ 4,078 | 2026-08-10 | 2026-08-10 |
 
@@ -97,4 +106,4 @@
 
 ---
 
-*Last updated: 2026-08-11T21:01:58.130Z*
+*Last updated: 2026-08-12T21:01:53.191Z*
