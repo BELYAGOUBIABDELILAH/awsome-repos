@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 20
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-12
+- **Last Updated**: 2026-08-14
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,661 | 2026-08-01 | 12 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,671 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,133 | 2026-08-01 | 12 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 473 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 471 | 2026-08-01 | 8 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 589 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 589 | 2026-08-01 | 6 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,587 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,582 | 2026-08-01 | 10 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 4,952 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,502 | 2026-08-01 | 7 |
+| [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | ⭐ 260 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,664 | 2026-08-01 | 7 |
+| [manwar/perlweeklychallenge-club](../repos/manwar/perlweeklychallenge-club.md) | ⭐ 219 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | ⭐ 260 | 2026-08-02 | 5 |
+| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,868 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,861 | 2026-08-02 | 2 |
+| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | ⭐ 364 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,311 | 2026-08-03 | 7 |
+| [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,311 | 2026-08-03 | 8 |
 
 
 ---
@@ -52,13 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,661 | 2026-08-01 | Stack trace visualizer |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,671 | 2026-08-01 | Stack trace visualizer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,133 | 2026-08-01 | lm-sensors repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 471 | 2026-08-01 | GLPI Agent |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 473 | 2026-08-01 | GLPI Agent |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 589 | 2026-08-01 | Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help... |
@@ -67,7 +67,7 @@
 | [metomi/fcm](../repos/metomi/fcm.md) | ⭐ 44 | 2026-08-01 | :hammer: FCM: a modern Fortran build system + wrappers to Subversion for scientific software deve... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,582 | 2026-08-01 | Cross-platform desktop GUI app to clean image metadata |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,587 | 2026-08-01 | Cross-platform desktop GUI app to clean image metadata |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,502 | 2026-08-01 | A free&#x2F;open source client and automation tool for Ragnarok Online |
@@ -76,7 +76,7 @@
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,664 | 2026-08-01 | PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solu... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 4,945 | 2026-08-01 | ExifTool meta information reader&#x2F;writer |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 4,952 | 2026-08-01 | ExifTool meta information reader&#x2F;writer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | ⭐ 260 | 2026-08-02 | Comprehensive, language independent Test Suite for YAML |
@@ -88,24 +88,24 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,661 | 2026-08-01 | 12 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 4,945 | 2026-08-01 | 9 |
-| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,861 | 2026-08-02 | 2 |
-| [ddclient/ddclient](../repos/ddclient/ddclient.md) | ⭐ 3,511 | 2026-08-10 | 2 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,582 | 2026-08-01 | 10 |
-| [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,311 | 2026-08-03 | 7 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,671 | 2026-08-01 | 13 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 4,952 | 2026-08-01 | 10 |
+| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,868 | 2026-08-02 | 3 |
+| [ddclient/ddclient](../repos/ddclient/ddclient.md) | ⭐ 3,512 | 2026-08-10 | 3 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,587 | 2026-08-01 | 11 |
+| [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,311 | 2026-08-03 | 8 |
 | [LMS-Community/slimserver](../repos/LMS-Community/slimserver.md) | ⭐ 1,750 | 2026-08-09 | 1 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,664 | 2026-08-01 | 7 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,502 | 2026-08-01 | 7 |
 | [asbru-cm/asbru-cm](../repos/asbru-cm/asbru-cm.md) | ⭐ 1,294 | 2026-08-03 | 3 |
 | [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,133 | 2026-08-01 | 12 |
 | [linux-test-project/lcov](../repos/linux-test-project/lcov.md) | ⭐ 1,106 | 2026-08-08 | 2 |
-| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 589 | 2026-08-01 | 6 |
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 471 | 2026-08-01 | 8 |
-| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | ⭐ 364 | 2026-08-02 | 6 |
-| [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | ⭐ 260 | 2026-08-02 | 5 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 589 | 2026-08-01 | 7 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 473 | 2026-08-01 | 9 |
+| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | ⭐ 364 | 2026-08-02 | 7 |
+| [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | ⭐ 260 | 2026-08-02 | 6 |
 | [Zimbra/zm-build](../repos/Zimbra/zm-build.md) | ⭐ 240 | 2026-08-05 | 2 |
-| [manwar/perlweeklychallenge-club](../repos/manwar/perlweeklychallenge-club.md) | ⭐ 220 | 2026-08-02 | 4 |
+| [manwar/perlweeklychallenge-club](../repos/manwar/perlweeklychallenge-club.md) | ⭐ 219 | 2026-08-02 | 5 |
 | [os-autoinst/os-autoinst-distri-opensuse](../repos/os-autoinst/os-autoinst-distri-opensuse.md) | ⭐ 91 | 2026-08-05 | 3 |
 | [metomi/fcm](../repos/metomi/fcm.md) | ⭐ 44 | 2026-08-01 | 2 |
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 12 | ⭐ 19,661 | 2026-08-01 | 2026-08-12 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 13 | ⭐ 19,671 | 2026-08-01 | 2026-08-14 |
 | [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | 12 | ⭐ 1,133 | 2026-08-01 | 2026-08-12 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 10 | ⭐ 2,582 | 2026-08-01 | 2026-08-12 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 9 | ⭐ 4,945 | 2026-08-01 | 2026-08-11 |
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 8 | ⭐ 471 | 2026-08-01 | 2026-08-12 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 11 | ⭐ 2,587 | 2026-08-01 | 2026-08-14 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 10 | ⭐ 4,952 | 2026-08-01 | 2026-08-14 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 9 | ⭐ 473 | 2026-08-01 | 2026-08-14 |
+| [Perl/perl5](../repos/Perl/perl5.md) | 8 | ⭐ 2,311 | 2026-08-03 | 2026-08-14 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | 7 | ⭐ 589 | 2026-08-01 | 2026-08-14 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | 7 | ⭐ 1,502 | 2026-08-01 | 2026-08-12 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 7 | ⭐ 1,664 | 2026-08-01 | 2026-08-12 |
-| [Perl/perl5](../repos/Perl/perl5.md) | 7 | ⭐ 2,311 | 2026-08-03 | 2026-08-12 |
-| [znuny/Znuny](../repos/znuny/Znuny.md) | 6 | ⭐ 589 | 2026-08-01 | 2026-08-12 |
-| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | 6 | ⭐ 364 | 2026-08-02 | 2026-08-10 |
+| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | 7 | ⭐ 364 | 2026-08-02 | 2026-08-14 |
 
 ---
 
@@ -153,4 +153,4 @@
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.212Z*
+*Last updated: 2026-08-14T20:58:58.012Z*

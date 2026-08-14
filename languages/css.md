@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 44
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-11
+- **Last Updated**: 2026-08-14
 
 ---
 
@@ -16,34 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,079 | 2026-08-01 | 10 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 920 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,164 | 2026-08-01 | 5 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,399 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 920 | 2026-08-01 | 8 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,314 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,399 | 2026-08-01 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,396 | 2026-08-01 | 12 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,386 | 2026-08-02 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 24,353 | 2026-08-02 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) | ⭐ 5,977 | 2026-08-02 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,273 | 2026-08-02 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,238 | 2026-08-04 | 4 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,742 | 2026-08-06 | 4 |
 
 
 ---
@@ -70,7 +52,7 @@
 | [rk192324217/cubosapiens_world-tools](../repos/rk192324217/cubosapiens_world-tools.md) | ⭐ 21 | 2026-08-01 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,396 | 2026-08-01 |  |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,399 | 2026-08-01 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sapthesh/Birthday](../repos/sapthesh/Birthday.md) | ⭐ 150 | 2026-08-01 | The Customizable Birthday Web Template is a versatile and user-friendly website template designed... |
@@ -88,7 +70,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,734 | 2026-08-06 | 3 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,742 | 2026-08-06 | 4 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,539 | 2026-08-01 | 1 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,238 | 2026-08-04 | 4 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 24,353 | 2026-08-02 | 8 |
@@ -100,7 +82,7 @@
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,762 | 2026-08-04 | 2 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,552 | 2026-08-06 | 2 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,431 | 2026-08-09 | 1 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,273 | 2026-08-02 | 8 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,314 | 2026-08-02 | 9 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,451 | 2026-08-05 | 4 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,164 | 2026-08-01 | 5 |
 | [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 8,865 | 2026-08-04 | 2 |
@@ -115,12 +97,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 12 | ⭐ 1,396 | 2026-08-01 | 2026-08-12 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 13 | ⭐ 1,399 | 2026-08-01 | 2026-08-14 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 10 | ⭐ 12,079 | 2026-08-01 | 2026-08-12 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 10 | ⭐ 1,399 | 2026-08-01 | 2026-08-12 |
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 8 | ⭐ 920 | 2026-08-01 | 2026-08-12 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 9 | ⭐ 920 | 2026-08-01 | 2026-08-14 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 9 | ⭐ 10,314 | 2026-08-02 | 2026-08-14 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 8 | ⭐ 24,353 | 2026-08-02 | 2026-08-12 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 8 | ⭐ 10,273 | 2026-08-02 | 2026-08-12 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 5 | ⭐ 9,164 | 2026-08-01 | 2026-08-12 |
 | [AumGupta/abyss-jellyfin](../repos/AumGupta/abyss-jellyfin.md) | 5 | ⭐ 533 | 2026-08-05 | 2026-08-12 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 4 | ⭐ 45,238 | 2026-08-04 | 2026-08-12 |
@@ -177,4 +159,4 @@
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.176Z*
+*Last updated: 2026-08-14T20:58:57.973Z*

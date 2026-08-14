@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 89
+- **Total Repositories**: 97
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,610 | 2026-08-01 | 4 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,754 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,610 | 2026-08-01 | 3 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,463 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,369 | 2026-08-01 | 4 |
+| [Dailin521/codex-provider-sync](../repos/Dailin521/codex-provider-sync.md) | ⭐ 3,168 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,704 | 2026-08-02 | 5 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,449 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,433 | 2026-08-03 | 2 |
+| [dotnet/dotnet](../repos/dotnet/dotnet.md) | ⭐ 1,223 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/efcore](../repos/dotnet/efcore.md) | ⭐ 14,767 | 2026-08-04 | 3 |
+| [TechnitiumSoftware/DnsServer](../repos/TechnitiumSoftware/DnsServer.md) | ⭐ 9,522 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner](../repos/actions/runner.md) | ⭐ 6,182 | 2026-08-04 | 3 |
+| [TheJoeFin/Text-Grab](../repos/TheJoeFin/Text-Grab.md) | ⭐ 4,955 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,176 | 2026-08-04 | 4 |
+| [indiff/qttabbar](../repos/indiff/qttabbar.md) | ⭐ 4,836 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,208 | 2026-08-04 | 4 |
+| [Unity-Technologies/skills](../repos/Unity-Technologies/skills.md) | ⭐ 249 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 8,392 | 2026-08-09 | 2 |
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,130 | 2026-08-14 | 1 |
 
 
 ---
@@ -92,10 +92,11 @@
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,704 | 2026-08-02 | 5 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,758 | 2026-08-06 | 2 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,610 | 2026-08-01 | 3 |
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,433 | 2026-08-03 | 2 |
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,130 | 2026-08-14 | 1 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,463 | 2026-08-03 | 3 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,369 | 2026-08-01 | 4 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,700 | 2026-08-08 | 1 |
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,422 | 2026-08-05 | 1 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,449 | 2026-08-05 | 2 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | 2026-08-01 | 7 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,441 | 2026-08-10 | 1 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,810 | 2026-08-01 | 2 |
@@ -107,7 +108,6 @@
 | [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,187 | 2026-08-01 | 2 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 16,629 | 2026-08-02 | 6 |
 | [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,868 | 2026-08-02 | 4 |
-| [Tichau/FileConverter](../repos/Tichau/FileConverter.md) | ⭐ 14,995 | 2026-08-11 | 2 |
 
 ---
 
@@ -118,11 +118,11 @@
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 7 | ⭐ 26,795 | 2026-08-01 | 2026-08-08 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 6 | ⭐ 113,476 | 2026-08-02 | 2026-08-09 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 6 | ⭐ 16,629 | 2026-08-02 | 2026-08-11 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 6 | ⭐ 14,754 | 2026-08-02 | 2026-08-14 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 6 | ⭐ 5,110 | 2026-08-03 | 2026-08-09 |
 | [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | 6 | ⭐ 13,331 | 2026-08-05 | 2026-08-11 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 5 | ⭐ 3,550 | 2026-08-01 | 2026-08-08 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 5 | ⭐ 55,704 | 2026-08-02 | 2026-08-12 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 5 | ⭐ 14,628 | 2026-08-02 | 2026-08-10 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | 4 | ⭐ 20,610 | 2026-08-01 | 2026-08-12 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 4 | ⭐ 38,369 | 2026-08-01 | 2026-08-12 |
 
@@ -219,7 +219,15 @@
 - [Azure/azure-sdk-for-net](../repos/Azure/azure-sdk-for-net.md) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we ...
 - [luolangaga/tubatools](../repos/luolangaga/tubatools.md) - 图吧工具箱 winUI3 版
 - [TheJoeFin/Text-Grab](../repos/TheJoeFin/Text-Grab.md) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifi...
+- [indiff/qttabbar](../repos/indiff/qttabbar.md) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   h...
+- [Unity-Technologies/skills](../repos/Unity-Technologies/skills.md) - A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built f...
+- [ShareX/ShareX](../repos/ShareX/ShareX.md) - ShareX is a free and open-source application that enables users to capture or record any area of ...
+- [madoiscool/LuaTools](../repos/madoiscool/LuaTools.md) - AppID Manager for ST
+- [sbroenne/mcp-server-excel](../repos/sbroenne/mcp-server-excel.md) - Excel MCP Server &amp; CLI - 23 tools, 214 operations for AI-powered Excel automation via COM API
+- [dotnet/csharplang](../repos/dotnet/csharplang.md) - The official repo for the design of the C# programming language
+- [NickvisionApps/Parabolic](../repos/NickvisionApps/Parabolic.md) - Download web video and audio
+- [umbraco/Umbraco-CMS](../repos/umbraco/Umbraco-CMS.md) - Umbraco is a free and open source .NET content management system helping you deliver delightful d...
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.169Z*
+*Last updated: 2026-08-14T20:58:57.967Z*

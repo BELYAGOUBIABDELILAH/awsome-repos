@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 67
+- **Total Repositories**: 72
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 7,142 | 2026-08-01 | 5 |
+| [xuanyustudio/LocalMiniDrama](../repos/xuanyustudio/LocalMiniDrama.md) | ⭐ 1,285 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 5,649 | 2026-08-02 | 3 |
+| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | ⭐ 962 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | 2026-08-06 | 2 |
+| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 6,572 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 681 | 2026-08-07 | 2 |
+| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,912 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cobusgreyling/loop-engineering](../repos/cobusgreyling/loop-engineering.md) | ⭐ 10,282 | 2026-08-10 | 3 |
+| [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) | ⭐ 27,527 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [plankanban/planka](../repos/plankanban/planka.md) | ⭐ 12,338 | 2026-08-11 | 2 |
+| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 10,306 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,322 | 2026-08-11 | 2 |
+| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 1,994 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,134 | 2026-08-12 | 1 |
+| [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) | ⭐ 5,775 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) | ⭐ 27,392 | 2026-08-12 | 1 |
+| [dataease/SQLBot](../repos/dataease/SQLBot.md) | ⭐ 6,607 | 2026-08-14 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [WebKit/WebKit](../repos/WebKit/WebKit.md) | ⭐ 10,069 | 2026-08-14 | 1 |
 
 
 ---
@@ -100,7 +103,7 @@
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,322 | 2026-08-11 | 2 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 58,350 | 2026-08-01 | 5 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 56,691 | 2026-08-05 | 2 |
-| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,768 | 2026-08-11 | 1 |
+| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,912 | 2026-08-11 | 2 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,206 | 2026-08-08 | 1 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,736 | 2026-08-06 | 5 |
@@ -194,7 +197,12 @@
 - [lodash/lodash](../repos/lodash/lodash.md) - A modern JavaScript utility library delivering modularity, performance, &amp; extras.
 - [airbnb/javascript](../repos/airbnb/javascript.md) - JavaScript Style Guide
 - [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) - Create beautiful slides on the web using a coding agent&#39;s frontend skills
+- [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in bro...
+- [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) - 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes vide...
+- [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项...
+- [dataease/SQLBot](../repos/dataease/SQLBot.md) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
+- [WebKit/WebKit](../repos/WebKit/WebKit.md) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other app...
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.197Z*
+*Last updated: 2026-08-14T20:58:57.996Z*

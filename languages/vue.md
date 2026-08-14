@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 52
+- **Total Repositories**: 53
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-07
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,961 | 2026-08-01 | 6 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,759 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,071 | 2026-08-01 | 4 |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,311 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,635 | 2026-08-01 | 7 |
+| [crmeb/crmeb_java](../repos/crmeb/crmeb_java.md) | ⭐ 3,017 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [inovector/mixpost](../repos/inovector/mixpost.md) | ⭐ 3,506 | 2026-08-01 | 3 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,135 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,124 | 2026-08-01 | 9 |
+| [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | ⭐ 857 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 1,756 | 2026-08-02 | 5 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,407 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,844 | 2026-08-03 | 2 |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,620 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,227 | 2026-08-03 | 6 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,240 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/builder](../repos/frappe/builder.md) | ⭐ 2,265 | 2026-08-03 | 3 |
+| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,468 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/lms](../repos/frappe/lms.md) | ⭐ 3,125 | 2026-08-06 | 4 |
+| [frappe/lms](../repos/frappe/lms.md) | ⭐ 3,130 | 2026-08-06 | 5 |
 
 
 ---
@@ -55,10 +55,10 @@
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,961 | 2026-08-01 | BewlyCat——基于BewlyBewly开发的Bilibili拓展 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,727 | 2026-08-01 | Wiki.js | A modern and powerful wiki app built on Node.js |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,759 | 2026-08-01 | Wiki.js | A modern and powerful wiki app built on Node.js |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,292 | 2026-08-01 | Modern, Streamlined, Free and Open Source Customer Service Software |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,311 | 2026-08-01 | Modern, Streamlined, Free and Open Source Customer Service Software |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 3,944 | 2026-08-01 | 跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具 |
@@ -90,17 +90,17 @@
 |------------|-------|------------|---------------|
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,233 | 2026-08-01 | 4 |
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,071 | 2026-08-01 | 4 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,135 | 2026-08-01 | 10 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,134 | 2026-08-01 | 4 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,124 | 2026-08-01 | 9 |
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,727 | 2026-08-01 | 5 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,759 | 2026-08-01 | 6 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,510 | 2026-08-08 | 4 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,635 | 2026-08-01 | 7 |
-| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,622 | 2026-08-02 | 6 |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,620 | 2026-08-02 | 7 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,889 | 2026-08-07 | 1 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,354 | 2026-08-02 | 4 |
-| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,471 | 2026-08-05 | 3 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,407 | 2026-08-02 | 5 |
+| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,468 | 2026-08-05 | 4 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,700 | 2026-08-12 | 1 |
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,227 | 2026-08-03 | 6 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,240 | 2026-08-03 | 7 |
 | [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,844 | 2026-08-03 | 2 |
 | [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,560 | 2026-08-08 | 3 |
 | [un-pany/v3-admin-vite](../repos/un-pany/v3-admin-vite.md) | ⭐ 7,018 | 2026-08-04 | 1 |
@@ -115,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 10 | ⭐ 33,135 | 2026-08-01 | 2026-08-14 |
 | [frappe/crm](../repos/frappe/crm.md) | 9 | ⭐ 3,315 | 2026-08-01 | 2026-08-11 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 9 | ⭐ 33,124 | 2026-08-01 | 2026-08-12 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 7 | ⭐ 21,635 | 2026-08-01 | 2026-08-12 |
 | [RikkaApps/websites](../repos/RikkaApps/websites.md) | 7 | ⭐ 427 | 2026-08-02 | 2026-08-10 |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | 7 | ⭐ 21,620 | 2026-08-02 | 2026-08-14 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 7 | ⭐ 1,765 | 2026-08-02 | 2026-08-09 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | 7 | ⭐ 9,240 | 2026-08-03 | 2026-08-14 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 6 | ⭐ 3,961 | 2026-08-01 | 2026-08-12 |
-| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | 6 | ⭐ 21,622 | 2026-08-02 | 2026-08-11 |
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | 6 | ⭐ 9,227 | 2026-08-03 | 2026-08-12 |
-| [requarks/wiki](../repos/requarks/wiki.md) | 5 | ⭐ 28,727 | 2026-08-01 | 2026-08-07 |
+| [requarks/wiki](../repos/requarks/wiki.md) | 6 | ⭐ 28,759 | 2026-08-01 | 2026-08-14 |
 | [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | 5 | ⭐ 245 | 2026-08-01 | 2026-08-09 |
 
 ---
@@ -182,7 +182,8 @@
 - [yangzongzhuan/RuoYi-Vue3](../repos/yangzongzhuan/RuoYi-Vue3.md) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 &amp; Vite、Element Plus 的前后端分离权限管理系统
 - [BansheeTech/HomeDockOS](../repos/BansheeTech/HomeDockOS.md) - An intuitive, versatile, and powerful home server operating system for self-hosting. Featuring a ...
 - [chaitin/xray](../repos/chaitin/xray.md) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
+- [OpenListTeam/OpenList-Desktop](../repos/OpenListTeam/OpenList-Desktop.md) - A desktop application for OpenList
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.235Z*
+*Last updated: 2026-08-14T20:58:58.038Z*

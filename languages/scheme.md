@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [LFDT-Minokawa/compact](../repos/LFDT-Minokawa/compact.md) | ⭐ 37 | 2026-08-08 | 2 |
 
+*No Scheme repositories trending today*
 
 ---
 
@@ -64,4 +62,4 @@
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.222Z*
+*Last updated: 2026-08-14T20:58:58.025Z*

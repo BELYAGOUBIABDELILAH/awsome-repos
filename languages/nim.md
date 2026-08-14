@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 8
+- **Total Repositories**: 9
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,169 | 2026-08-01 | 9 |
+| [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | ⭐ 1,301 | 2026-08-14 | 1 |
 
 
 ---
@@ -47,6 +47,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [status-im/nim-stew](../repos/status-im/nim-stew.md) | ⭐ 154 | 2026-08-06 | stew is collection of utilities, std library extensions and budding libraries that are frequently... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | ⭐ 1,301 | 2026-08-14 | CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of program... |
 
 
 ---
@@ -56,6 +59,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,169 | 2026-08-01 | 9 |
+| [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | ⭐ 1,301 | 2026-08-14 | 1 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 660 | 2026-08-02 | 5 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 625 | 2026-08-05 | 2 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 499 | 2026-08-01 | 6 |
@@ -78,6 +82,7 @@
 | [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | 2 | ⭐ 248 | 2026-08-05 | 2026-08-06 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | 2 | ⭐ 625 | 2026-08-05 | 2026-08-06 |
 | [crashappsec/chalk](../repos/crashappsec/chalk.md) | 1 | ⭐ 438 | 2026-08-05 | 2026-08-05 |
+| [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | 1 | ⭐ 1,301 | 2026-08-14 | 2026-08-14 |
 
 ---
 
@@ -91,7 +96,8 @@
 - [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) - Nimbus: an Ethereum Execution Client for Resource-Restricted Devices
 - [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) - libp2p implementation in Nim
 - [status-im/nim-stew](../repos/status-im/nim-stew.md) - stew is collection of utilities, std library extensions and budding libraries that are frequently...
+- [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of program...
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.207Z*
+*Last updated: 2026-08-14T20:58:58.006Z*

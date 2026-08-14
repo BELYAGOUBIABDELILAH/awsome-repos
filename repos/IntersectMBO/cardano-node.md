@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Haskell |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 3,179 |
+| **Stars** | ⭐ 3,177 |
 | **Forks** | 🍴 755 |
-| **Trending Days** | 5 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 6, 2026 |
+| **Last Seen** | Aug 14, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 4 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-12T21:01:54.758Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-08-14T20:58:59.377Z*  
+*Data from 6 trending reports*

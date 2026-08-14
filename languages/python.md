@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 104
+- **Total Repositories**: 112
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-01
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | 2026-07-31 | 4 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 103,538 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 89,336 | 2026-08-02 | 3 |
+| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,340 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 36,918 | 2026-08-03 | 3 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 33,516 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 141,219 | 2026-08-07 | 2 |
+| [cactus-compute/needle](../repos/cactus-compute/needle.md) | ⭐ 5,534 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | 2026-08-08 | 3 |
+| [hugohe3/ppt-master](../repos/hugohe3/ppt-master.md) | ⭐ 46,830 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 62,566 | 2026-08-09 | 4 |
+| [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) | ⭐ 20,905 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 90,555 | 2026-08-10 | 3 |
+| [Lightricks/LTX-2](../repos/Lightricks/LTX-2.md) | ⭐ 9,005 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 168,510 | 2026-08-11 | 2 |
+| [megadose/holehe](../repos/megadose/holehe.md) | ⭐ 12,800 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/DeepTutor](../repos/HKUDS/DeepTutor.md) | ⭐ 35,156 | 2026-08-11 | 2 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 128,417 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cactus-compute/needle](../repos/cactus-compute/needle.md) | ⭐ 4,133 | 2026-08-11 | 2 |
+| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 37,841 | 2026-08-14 | 1 |
 
 
 ---
@@ -76,7 +76,7 @@
 | [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 9,822 | 2026-08-01 | Build local voice agents with open-source models |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | 2026-08-01 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom... |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 103,538 | 2026-08-01 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [trailofbits/skills](../repos/trailofbits/skills.md) | ⭐ 6,367 | 2026-08-01 | Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows |
@@ -98,16 +98,16 @@
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | 2026-07-31 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 141,219 | 2026-08-07 | 2 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 130,495 | 2026-08-04 | 1 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 128,417 | 2026-08-14 | 1 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 126,231 | 2026-08-05 | 4 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 103,538 | 2026-08-01 | 3 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 101,806 | 2026-08-03 | 1 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | 2026-08-01 | 2 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 97,152 | 2026-08-08 | 3 |
 | [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 90,555 | 2026-08-10 | 3 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 89,336 | 2026-08-02 | 3 |
 | [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 79,146 | 2026-08-02 | 2 |
 | [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 78,730 | 2026-08-02 | 2 |
-| [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | 2026-08-10 | 1 |
 
 ---
 
@@ -115,6 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [microsoft/hve-core](../repos/microsoft/hve-core.md) | 8 | ⭐ 1,340 | 2026-08-01 | 2026-08-14 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 6 | ⭐ 226,554 | 2026-08-01 | 2026-08-06 |
 | [openai/whisper](../repos/openai/whisper.md) | 5 | ⭐ 106,298 | 2026-07-31 | 2026-08-01 |
 | [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | 5 | ⭐ 46,014 | 2026-08-02 | 2026-08-06 |
@@ -122,9 +123,8 @@
 | [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | 5 | ⭐ 3,574 | 2026-08-04 | 2026-08-08 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | 4 | ⭐ 164,012 | 2026-07-31 | 2026-08-12 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 4 | ⭐ 66,444 | 2026-08-01 | 2026-08-04 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 4 | ⭐ 33,516 | 2026-08-03 | 2026-08-14 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 4 | ⭐ 126,231 | 2026-08-05 | 2026-08-10 |
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | 4 | ⭐ 186,458 | 2026-08-06 | 2026-08-09 |
-| [google/skills](../repos/google/skills.md) | 4 | ⭐ 17,581 | 2026-08-07 | 2026-08-10 |
 
 ---
 
@@ -150,6 +150,7 @@
 - [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc....
 - [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHu...
 - [langchain-ai/deepagents](../repos/langchain-ai/deepagents.md) - The batteries-included agent harness.
+- [microsoft/hve-core](../repos/microsoft/hve-core.md) - A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and ...
 - [abus-aikorea/voice-pro](../repos/abus-aikorea/voice-pro.md) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voic...
 - [Huanshere/VideoLingo](../repos/Huanshere/VideoLingo.md) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automa...
 - [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) - Summer 2026 software engineering, data science, AI, quant, product management, and hardware inter...
@@ -229,8 +230,7 @@
 - [NVlabs/GR00T-WholeBodyControl](../repos/NVlabs/GR00T-WholeBodyControl.md) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deployin...
 - [AgriciDaniel/claude-obsidian](../repos/AgriciDaniel/claude-obsidian.md) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, lin...
 - [hugohe3/ppt-master](../repos/hugohe3/ppt-master.md) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions a...
-- [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.215Z*
+*Last updated: 2026-08-14T20:58:58.015Z*

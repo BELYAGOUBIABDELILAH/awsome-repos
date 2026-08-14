@@ -16,10 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,600 | 2026-08-01 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | 3 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,026 | 2026-08-01 | 10 |
 
 
 ---
@@ -31,7 +28,7 @@
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,600 | 2026-08-01 | No longer maintained, see pinned issues |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,025 | 2026-08-01 | Low-Budget Password Strength Estimation |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,026 | 2026-08-01 | Low-Budget Password Strength Estimation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | The motion graphics toolbelt for the web |
@@ -52,7 +49,7 @@
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,600 | 2026-08-01 | 4 |
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | 1 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,601 | 2026-08-09 | 1 |
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,025 | 2026-08-01 | 9 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,026 | 2026-08-01 | 10 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | 3 |
 
 ---
@@ -61,7 +58,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 9 | ⭐ 16,025 | 2026-08-01 | 2026-08-11 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 10 | ⭐ 16,026 | 2026-08-01 | 2026-08-14 |
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 4 | ⭐ 22,600 | 2026-08-01 | 2026-08-12 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 3 | ⭐ 1,151 | 2026-08-06 | 2026-08-12 |
 | [mojs/mojs](../repos/mojs/mojs.md) | 1 | ⭐ 18,747 | 2026-08-01 | 2026-08-01 |
@@ -79,4 +76,4 @@
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.180Z*
+*Last updated: 2026-08-14T20:58:57.976Z*

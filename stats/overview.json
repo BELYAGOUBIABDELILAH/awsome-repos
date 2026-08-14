@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-12T21:01:56.999Z",
-  "total_repositories": 1997,
-  "trending_today": 472,
-  "new_this_month": 1997,
+  "generated_at": "2026-08-14T20:59:01.478Z",
+  "total_repositories": 2083,
+  "trending_today": 398,
+  "new_this_month": 2083,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-08-12",
+  "last_collection": "2026-08-14",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "rubysec/ruby-advisory-db",
-    "trending_days": 12,
+    "trending_days": 13,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "cathrynlavery/diagram-design",
-    "stars": 9894,
-    "first_seen": "2026-08-12"
+    "full_name": "megadose/holehe",
+    "stars": 12800,
+    "first_seen": "2026-08-14"
   },
   "fastest_growing": {
     "full_name": "openai/whisper",
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 33264168,
-  "avg_stars": 16657,
-  "avg_trending_days": 2.6,
+  "total_stars": 34177956,
+  "avg_stars": 16408,
+  "avg_trending_days": 2.7,
   "language_count": 52,
-  "topic_count": 6120,
+  "topic_count": 6373,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

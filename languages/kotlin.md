@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 86
+- **Total Repositories**: 90
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 4,205 | 2026-08-02 | 7 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 4,289 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,129 | 2026-08-02 | 4 |
+| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 6,898 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 5,619 | 2026-08-02 | 3 |
+| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | ⭐ 1,641 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,091 | 2026-08-10 | 2 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 40,889 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) | ⭐ 7,439 | 2026-08-11 | 2 |
+| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 742 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,429 | 2026-08-12 | 1 |
+| [element-hq/element-x-android](../repos/element-hq/element-x-android.md) | ⭐ 2,325 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sam1am/anyapk](../repos/sam1am/anyapk.md) | ⭐ 2,557 | 2026-08-12 | 1 |
+| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | ⭐ 5,325 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,290 | 2026-08-12 | 1 |
+| [RetroMusicPlayer/RetroMusicPlayer](../repos/RetroMusicPlayer/RetroMusicPlayer.md) | ⭐ 5,245 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Davidona/StreamVault-IPTV](../repos/Davidona/StreamVault-IPTV.md) | ⭐ 599 | 2026-08-12 | 1 |
+| [element-hq/element-android](../repos/element-hq/element-android.md) | ⭐ 3,718 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XayahSuSuSu/Android-DataBackup](../repos/XayahSuSuSu/Android-DataBackup.md) | ⭐ 7,192 | 2026-08-12 | 1 |
+| [sky-map-team/stardroid](../repos/sky-map-team/stardroid.md) | ⭐ 1,789 | 2026-08-14 | 1 |
 
 
 ---
@@ -92,7 +92,7 @@
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,937 | 2026-08-02 | 5 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,317 | 2026-08-04 | 3 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,176 | 2026-08-06 | 5 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 40,633 | 2026-08-03 | 1 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 40,889 | 2026-08-03 | 2 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,182 | 2026-08-05 | 3 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,695 | 2026-08-08 | 4 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,467 | 2026-08-11 | 1 |
@@ -116,11 +116,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 9 | ⭐ 22,740 | 2026-08-01 | 2026-08-11 |
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 7 | ⭐ 4,205 | 2026-08-02 | 2026-08-12 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 8 | ⭐ 4,289 | 2026-08-02 | 2026-08-14 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 5 | ⭐ 60,937 | 2026-08-02 | 2026-08-11 |
+| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | 5 | ⭐ 1,641 | 2026-08-03 | 2026-08-14 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 5 | ⭐ 50,176 | 2026-08-06 | 2026-08-10 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 4 | ⭐ 2,129 | 2026-08-02 | 2026-08-12 |
-| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | 4 | ⭐ 1,626 | 2026-08-03 | 2026-08-09 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 4 | ⭐ 28,695 | 2026-08-08 | 2026-08-11 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | 3 | ⭐ 21,661 | 2026-08-01 | 2026-08-11 |
 | [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | 3 | ⭐ 6,331 | 2026-08-01 | 2026-08-11 |
@@ -216,7 +216,11 @@
 - [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beauti...
 - [Davidona/StreamVault-IPTV](../repos/Davidona/StreamVault-IPTV.md) - StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Roo...
 - [XayahSuSuSu/Android-DataBackup](../repos/XayahSuSuSu/Android-DataBackup.md) - DataBackup for Android 7.0+
+- [RetroMusicPlayer/RetroMusicPlayer](../repos/RetroMusicPlayer/RetroMusicPlayer.md) - Best Material You Design music player for Android
+- [element-hq/element-android](../repos/element-hq/element-android.md) - A Matrix collaboration client for Android.
+- [sky-map-team/stardroid](../repos/sky-map-team/stardroid.md) - Sky Map (formerly Google Sky Map, open sourced in 2012)
+- [OuterTune/OuterTune](../repos/OuterTune/OuterTune.md) - A Material 3 Music Player for Android with local file &amp; YouTube Music support. Forked from InnerTune
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.201Z*
+*Last updated: 2026-08-14T20:58:58.001Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 95
+- **Total Repositories**: 103
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,641 | 2026-08-01 | 2 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,790 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 77,659 | 2026-08-02 | 4 |
+| [portainer/portainer](../repos/portainer/portainer.md) | ⭐ 38,244 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 24,810 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 88,521 | 2026-08-07 | 3 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 90,400 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 43,744 | 2026-08-11 | 2 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 45,609 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZuodaoTech/everyone-can-use-english](../repos/ZuodaoTech/everyone-can-use-english.md) | ⭐ 36,042 | 2026-08-12 | 1 |
+| [ZuodaoTech/everyone-can-use-english](../repos/ZuodaoTech/everyone-can-use-english.md) | ⭐ 36,431 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 54,821 | 2026-08-12 | 1 |
+| [holaboss-ai/holaOS](../repos/holaboss-ai/holaOS.md) | ⭐ 7,221 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | 2026-08-12 | 1 |
+| [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 84,049 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [web-infra-dev/midscene](../repos/web-infra-dev/midscene.md) | ⭐ 14,556 | 2026-08-12 | 1 |
+| [Jakubantalik/Libraries](../repos/Jakubantalik/Libraries.md) | ⭐ 1,938 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [holaboss-ai/holaOS](../repos/holaboss-ai/holaOS.md) | ⭐ 6,023 | 2026-08-12 | 1 |
+| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 11,908 | 2026-08-14 | 1 |
 
 
 ---
@@ -64,7 +64,7 @@
 | [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 20,293 | 2026-08-01 | The open-source alternative to Claude Cowork (powered by opencode) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,641 | 2026-08-01 | Cursor plugin specification and official plugins |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,790 | 2026-08-01 | Cursor plugin specification and official plugins |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 17,453 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
@@ -97,7 +97,8 @@
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,950 | 2026-08-04 | 2 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 96,831 | 2026-08-04 | 2 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 88,521 | 2026-08-07 | 3 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 90,400 | 2026-08-07 | 4 |
+| [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 84,049 | 2026-08-14 | 1 |
 | [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | 2026-08-12 | 1 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 77,659 | 2026-08-02 | 4 |
 | [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,054 | 2026-08-04 | 1 |
@@ -107,7 +108,6 @@
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | 2026-08-01 | 1 |
 | [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 55,690 | 2026-08-06 | 2 |
 | [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 54,821 | 2026-08-12 | 1 |
-| [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 52,300 | 2026-07-31 | 1 |
 
 ---
 
@@ -118,13 +118,13 @@
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 5 | ⭐ 18,253 | 2026-08-01 | 2026-08-11 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 5 | ⭐ 24,810 | 2026-08-02 | 2026-08-14 |
 | [cloudflare/computer](../repos/cloudflare/computer.md) | 5 | ⭐ 6,976 | 2026-08-05 | 2026-08-09 |
 | [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | 5 | ⭐ 13,986 | 2026-08-07 | 2026-08-11 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | 5 | ⭐ 166,401 | 2026-08-07 | 2026-08-12 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | 4 | ⭐ 77,659 | 2026-08-02 | 2026-08-12 |
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 4 | ⭐ 23,000 | 2026-08-02 | 2026-08-08 |
-| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | 3 | ⭐ 49,131 | 2026-08-02 | 2026-08-04 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 3 | ⭐ 127,577 | 2026-08-02 | 2026-08-11 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | 4 | ⭐ 90,400 | 2026-08-07 | 2026-08-14 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 3 | ⭐ 2,790 | 2026-08-01 | 2026-08-14 |
 
 ---
 
@@ -225,7 +225,12 @@
 - [coder/code-server](../repos/coder/code-server.md) - VS Code in the browser
 - [web-infra-dev/midscene](../repos/web-infra-dev/midscene.md) - AI-powered, vision-driven UI automation for every platform.
 - [holaboss-ai/holaOS](../repos/holaboss-ai/holaOS.md) - Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools...
+- [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) - 🙌 OpenHands: AI-Driven Development
+- [Jakubantalik/Libraries](../repos/Jakubantalik/Libraries.md) - Collection of effects for React: Border beam, Liquid Gooey
+- [every-app/open-seo](../repos/every-app/open-seo.md) - Open source alternative to Semrush and Ahrefs
+- [documenso/documenso](../repos/documenso/documenso.md) - The Open Source DocuSign Alternative.
+- [vercel-labs/deepsec](../repos/vercel-labs/deepsec.md) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.228Z*
+*Last updated: 2026-08-14T20:58:58.031Z*

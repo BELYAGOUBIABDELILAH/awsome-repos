@@ -1,6 +1,6 @@
 # NVIDIA-NeMo&#x2F;Switchyard
 
-> No description available
+> Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost&#x2F;performance optimization.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;NVIDIA-NeMo&#x2F;Switchyard) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 766 |
-| **Forks** | 🍴 81 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 1,448 |
+| **Forks** | 🍴 127 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #11 |
 
 | **First Seen** | Aug 12, 2026 |
-| **Last Seen** | Aug 12, 2026 |
+| **Last Seen** | Aug 14, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #11
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: Peak: #11
 
 
 ---
 
-*Last updated: 2026-08-12T21:01:56.606Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-14T20:59:01.004Z*  
+*Data from 2 trending reports*

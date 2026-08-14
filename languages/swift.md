@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 61
+- **Total Repositories**: 66
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,31 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rooootdev/lara](../repos/rooootdev/lara.md) | ⭐ 1,433 | 2026-08-03 | 4 |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,880 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,504 | 2026-08-04 | 2 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,871 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getsentry/sentry-cocoa](../repos/getsentry/sentry-cocoa.md) | ⭐ 1,106 | 2026-08-07 | 2 |
+| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,504 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 1,483 | 2026-08-12 | 1 |
+| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,265 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,136 | 2026-08-12 | 1 |
+| [ggbond268/MacTools](../repos/ggbond268/MacTools.md) | ⭐ 1,014 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lihaoyun6/QuickRecorder](../repos/lihaoyun6/QuickRecorder.md) | ⭐ 8,578 | 2026-08-12 | 1 |
+| [jellyfin/Swiftfin](../repos/jellyfin/Swiftfin.md) | ⭐ 4,084 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rileytestut/Delta](../repos/rileytestut/Delta.md) | ⭐ 6,068 | 2026-08-12 | 1 |
+| [JerryZLiu/Dayflow](../repos/JerryZLiu/Dayflow.md) | ⭐ 6,873 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gonzalezreal/textual](../repos/gonzalezreal/textual.md) | ⭐ 833 | 2026-08-12 | 1 |
+| [openai/tart](../repos/openai/tart.md) | ⭐ 6,503 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,284 | 2026-08-12 | 1 |
+| [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,599 | 2026-08-01 | Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detect... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,752 | 2026-08-01 | The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with n... |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,880 | 2026-08-01 | The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with n... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apple/container](../repos/apple/container.md) | ⭐ 48,766 | 2026-08-01 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It ... |
@@ -92,8 +92,9 @@
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,810 | 2026-08-04 | 2 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 25,905 | 2026-08-01 | 5 |
 | [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,136 | 2026-08-12 | 1 |
+| [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,865 | 2026-08-04 | 4 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,871 | 2026-08-04 | 5 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,568 | 2026-08-01 | 1 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 13,287 | 2026-08-08 | 1 |
@@ -104,7 +105,6 @@
 | [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | ⭐ 10,263 | 2026-08-03 | 2 |
 | [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,909 | 2026-08-11 | 1 |
 | [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,876 | 2026-08-08 | 2 |
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,829 | 2026-08-02 | 4 |
 
 ---
 
@@ -115,13 +115,13 @@
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 5 | ⭐ 10,714 | 2026-08-01 | 2026-08-09 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 5 | ⭐ 25,905 | 2026-08-01 | 2026-08-10 |
 | [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | 5 | ⭐ 2,415 | 2026-08-03 | 2026-08-08 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 5 | ⭐ 14,871 | 2026-08-04 | 2026-08-14 |
 | [apple/container](../repos/apple/container.md) | 4 | ⭐ 48,766 | 2026-08-01 | 2026-08-08 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | 4 | ⭐ 19,685 | 2026-08-01 | 2026-08-05 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 4 | ⭐ 8,829 | 2026-08-02 | 2026-08-09 |
 | [rooootdev/lara](../repos/rooootdev/lara.md) | 4 | ⭐ 1,433 | 2026-08-03 | 2026-08-12 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 4 | ⭐ 14,865 | 2026-08-04 | 2026-08-11 |
 | [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | 4 | ⭐ 2,369 | 2026-08-07 | 2026-08-10 |
-| [pluk-inc/markdown-preview](../repos/pluk-inc/markdown-preview.md) | 3 | ⭐ 1,889 | 2026-08-03 | 2026-08-09 |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 3 | ⭐ 5,880 | 2026-08-01 | 2026-08-14 |
 
 ---
 
@@ -188,7 +188,12 @@
 - [rileytestut/Delta](../repos/rileytestut/Delta.md) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 - [gonzalezreal/textual](../repos/gonzalezreal/textual.md) - Render and customize rich attributed text in SwiftUI
 - [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) - bluetooth mesh chat, IRC vibes
+- [ggbond268/MacTools](../repos/ggbond268/MacTools.md) - A free and open-source collection of native macOS menu bar tools. 
+- [jellyfin/Swiftfin](../repos/jellyfin/Swiftfin.md) - Native Jellyfin Client for iOS and tvOS 
+- [JerryZLiu/Dayflow](../repos/JerryZLiu/Dayflow.md) - The automatic work journal&#x2F;time tracker. Privately turns your screen into a timeline of what you ...
+- [openai/tart](../repos/openai/tart.md) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
+- [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) - A Swift Autolayout DSL for iOS &amp; OS X
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.226Z*
+*Last updated: 2026-08-14T20:58:58.029Z*

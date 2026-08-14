@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 231
+- **Total Repositories**: 242
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-06
-- **Average Stars**: 25355
+- **Average Stars**: 25619
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | Python |  |
+| [golang/go](../repos/golang/go.md) | ⭐ 135,774 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 17,331 | Rust |  |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 103,538 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [git-ai-project/git-ai](../repos/git-ai-project/git-ai.md) | ⭐ 2,445 | Rust |  |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,889 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 14,294 | Rust |  |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,553 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [cocoindex-io/cocoindex](../repos/cocoindex-io/cocoindex.md) | ⭐ 11,286 | Rust |  |
+| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,571 | Java |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,762 | Go |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,418 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,365 | Go |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,874 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,536 | Java |  |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,984 | Lua |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,411 | Scala |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,225 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,236 | Scala |  |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,477 | HTML |  |
 
 
 ---
@@ -56,12 +56,12 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | Python | 2026-08-01 | 6 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 200,252 | TypeScript | 2026-08-11 | 1 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,458 | Python | 2026-08-06 | 4 |
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,365 | Go | 2026-08-01 | 5 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,553 | Go | 2026-08-01 | 6 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | TypeScript | 2026-08-07 | 5 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | Python | 2026-07-31 | 4 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | JavaScript | 2026-08-06 | 2 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,507 | C | 2026-08-07 | 5 |
-| [golang/go](../repos/golang/go.md) | ⭐ 135,645 | Go | 2026-07-31 | 3 |
+| [golang/go](../repos/golang/go.md) | ⭐ 135,774 | Go | 2026-07-31 | 4 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 130,495 | Python | 2026-08-04 | 1 |
 
 ---
@@ -73,19 +73,16 @@
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | Python | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [golang/go](../repos/golang/go.md) | ⭐ 135,774 | Go | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 17,331 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | Python | 6 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 9,868 | JavaScript | 2 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 17,453 | TypeScript | 7 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 103,538 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [git-ai-project/git-ai](../repos/git-ai-project/git-ai.md) | ⭐ 2,445 | Rust | 1 |
@@ -97,7 +94,10 @@
 | [cocoindex-io/cocoindex](../repos/cocoindex-io/cocoindex.md) | ⭐ 11,286 | Rust | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [cube-js/cube](../repos/cube-js/cube.md) | ⭐ 20,568 | Rust | 1 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,889 | Go | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,553 | Go | 1 |
 
 ---
 
@@ -111,7 +111,7 @@
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | Python | 2026-07-31 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 135,645 | Go | 2026-07-31 |
+| [golang/go](../repos/golang/go.md) | ⭐ 135,774 | Go | 2026-07-31 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [anthropics/anthropic-sdk-python](../repos/anthropics/anthropic-sdk-python.md) | ⭐ 1,250 | Python | 2026-07-31 |
@@ -129,7 +129,7 @@
 | [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 9,822 | Python | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 101,196 | Python | 2026-08-01 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 103,538 | Python | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | Python | 2026-08-01 |
@@ -137,6 +137,10 @@
 ---
 
 ## 📅 Recent History
+
+### [2026-08-14](../archive/2026/08/2026-08-14.md)
+- 51 repositories trending
+- Top: ollama&#x2F;ollama
 
 ### [2026-08-12](../archive/2026/08/2026-08-12.md)
 - 55 repositories trending
@@ -158,14 +162,6 @@
 - 40 repositories trending
 - Top: Significant-Gravitas&#x2F;AutoGPT
 
-### [2026-08-07](../archive/2026/08/2026-08-07.md)
-- 42 repositories trending
-- Top: Significant-Gravitas&#x2F;AutoGPT
-
-### [2026-08-06](../archive/2026/08/2026-08-06.md)
-- 55 repositories trending
-- Top: NousResearch&#x2F;hermes-agent
-
 
 ---
 
@@ -175,30 +171,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 12 days | 2026-08-01 | 2026-08-12 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 11 days | 2026-08-01 | 2026-08-12 |
-| [vlang/v](../repos/vlang/v.md) | 11 days | 2026-08-01 | 2026-08-11 |
-| [vim/vim](../repos/vim/vim.md) | 10 days | 2026-08-01 | 2026-08-12 |
-| [joernio/joern](../repos/joernio/joern.md) | 9 days | 2026-08-01 | 2026-08-12 |
+| [apache/spark](../repos/apache/spark.md) | 13 days | 2026-08-01 | 2026-08-14 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 12 days | 2026-08-01 | 2026-08-14 |
+| [vlang/v](../repos/vlang/v.md) | 12 days | 2026-08-01 | 2026-08-14 |
+| [vim/vim](../repos/vim/vim.md) | 11 days | 2026-08-01 | 2026-08-14 |
+| [joernio/joern](../repos/joernio/joern.md) | 10 days | 2026-08-01 | 2026-08-14 |
 | [nim-lang/Nim](../repos/nim-lang/Nim.md) | 9 days | 2026-08-01 | 2026-08-12 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 9 days | 2026-08-02 | 2026-08-14 |
 | [nullclaw/nullhub](../repos/nullclaw/nullhub.md) | 9 days | 2026-08-02 | 2026-08-10 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 8 days | 2026-08-02 | 2026-08-12 |
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 days | 2026-08-01 | 2026-08-07 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 7 days | 2026-08-01 | 2026-08-08 |
+| [Kong/kong](../repos/Kong/kong.md) | 8 days | 2026-08-01 | 2026-08-14 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 8 days | 2026-08-02 | 2026-08-14 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 37 repositories (16%)
-- **TypeScript**: 23 repositories (10%)
+- **Python**: 40 repositories (17%)
+- **TypeScript**: 26 repositories (11%)
 - **C**: 21 repositories (9%)
-- **Rust**: 17 repositories (7%)
-- **Go**: 17 repositories (7%)
+- **Rust**: 18 repositories (7%)
+- **Go**: 18 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 39.8 repositories
+- **Daily Average**: 40.5 repositories
 - **Peak Day**: 2026-08-12 (55 repositories)
 - **Growth Rate**: 100% this month
 
@@ -314,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-08-12T21:01:52.957Z*
+*Last updated: 2026-08-14T20:58:57.778Z*

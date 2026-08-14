@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Erlang |
 | **License** | ISC |
-| **Stars** | ⭐ 7,524 |
-| **Forks** | 🍴 1,169 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 7,523 |
+| **Forks** | 🍴 1,168 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 12, 2026 |
+| **Last Seen** | Aug 14, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 6 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-12T21:01:55.453Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-08-14T20:58:59.980Z*  
+*Data from 10 trending reports*

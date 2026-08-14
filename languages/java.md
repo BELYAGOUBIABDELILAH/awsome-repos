@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 116
+- **Total Repositories**: 120
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,536 | 2026-08-01 | 2 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,114 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 26,093 | 2026-08-02 | 4 |
+| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,571 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,786 | 2026-08-04 | 4 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,523 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,424 | 2026-08-04 | 4 |
+| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,672 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,033 | 2026-08-05 | 4 |
+| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 4,909 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mateaix/mateclaw](../repos/mateaix/mateclaw.md) | ⭐ 961 | 2026-08-06 | 3 |
+| [apache/doris](../repos/apache/doris.md) | ⭐ 15,768 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/tomcat](../repos/apache/tomcat.md) | ⭐ 8,232 | 2026-08-07 | 2 |
+| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 11,992 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/fluss](../repos/apache/fluss.md) | ⭐ 2,075 | 2026-08-08 | 2 |
+| [quarkusio/quarkus](../repos/quarkusio/quarkus.md) | ⭐ 15,826 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/spring-ai-alibaba](../repos/alibaba/spring-ai-alibaba.md) | ⭐ 10,582 | 2026-08-11 | 2 |
+| [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freeok/so-novel](../repos/freeok/so-novel.md) | ⭐ 7,722 | 2026-08-11 | 2 |
+| [alibaba/spring-ai-alibaba](../repos/alibaba/spring-ai-alibaba.md) | ⭐ 10,601 | 2026-08-11 | 3 |
 
 
 ---
@@ -61,7 +61,7 @@
 | [alibaba/fastjson2](../repos/alibaba/fastjson2.md) | ⭐ 4,372 | 2026-08-01 | 🚄 FASTJSON2 is a Java JSON  library with excellent performance. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,063 | 2026-08-01 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to ident... |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,114 | 2026-08-01 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to ident... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,269 | 2026-08-01 | An Application Framework for AI Engineering |
@@ -73,13 +73,13 @@
 | [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | ⭐ 9,665 | 2026-08-01 | MCP Server for Ghidra |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,536 | 2026-08-01 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
+| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,571 | 2026-08-01 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [grpc/grpc-java](../repos/grpc/grpc-java.md) | ⭐ 12,056 | 2026-08-01 | The Java gRPC implementation. HTTP&#x2F;2 based RPC |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,484 | 2026-08-01 | 🔎 Open source distributed and RESTful search engine. |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,523 | 2026-08-01 | 🔎 Open source distributed and RESTful search engine. |
 
 
 ---
@@ -94,7 +94,7 @@
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,145 | 2026-08-03 | 5 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,110 | 2026-08-04 | 3 |
-| [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,190 | 2026-08-08 | 1 |
+| [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,197 | 2026-08-08 | 2 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,889 | 2026-08-02 | 6 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,424 | 2026-08-04 | 4 |
@@ -118,13 +118,13 @@
 | [google/guava](../repos/google/guava.md) | 6 | ⭐ 51,889 | 2026-08-02 | 2026-08-09 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 5 | ⭐ 72,145 | 2026-08-03 | 2026-08-09 |
 | [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | 4 | ⭐ 9,269 | 2026-08-01 | 2026-08-08 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 4 | ⭐ 13,523 | 2026-08-01 | 2026-08-14 |
 | [OpenLineage/OpenLineage](../repos/OpenLineage/OpenLineage.md) | 4 | ⭐ 2,597 | 2026-08-01 | 2026-08-11 |
+| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | 4 | ⭐ 26,672 | 2026-08-01 | 2026-08-14 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 4 | ⭐ 26,093 | 2026-08-02 | 2026-08-12 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 4 | ⭐ 77,789 | 2026-08-02 | 2026-08-06 |
 | [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | 4 | ⭐ 2,435 | 2026-08-02 | 2026-08-10 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 4 | ⭐ 27,786 | 2026-08-04 | 2026-08-12 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 4 | ⭐ 51,424 | 2026-08-04 | 2026-08-12 |
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 4 | ⭐ 5,033 | 2026-08-05 | 2026-08-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.195Z*
+*Last updated: 2026-08-14T20:58:57.994Z*

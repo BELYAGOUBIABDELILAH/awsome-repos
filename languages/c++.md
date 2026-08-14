@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 124
+- **Total Repositories**: 130
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-07
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,453 | 2026-08-01 | 3 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,926 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,684 | 2026-08-01 | 8 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,730 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 462 | 2026-08-01 | 3 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 28,900 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,728 | 2026-08-01 | 4 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 38,927 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | ⭐ 15,680 | 2026-08-02 | 4 |
+| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,607 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react-native](../repos/react/react-native.md) | ⭐ 126,334 | 2026-08-04 | 2 |
+| [BruceDevices/firmware](../repos/BruceDevices/firmware.md) | ⭐ 6,441 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,473 | 2026-08-05 | 7 |
+| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 6,750 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,725 | 2026-08-06 | 2 |
+| [microsoft/intelligent-terminal](../repos/microsoft/intelligent-terminal.md) | ⭐ 1,744 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PX4/PX4-Autopilot](../repos/PX4/PX4-Autopilot.md) | ⭐ 12,403 | 2026-08-06 | 2 |
+| [apache/arrow](../repos/apache/arrow.md) | ⭐ 17,024 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sal063/AC6_recomp](../repos/sal063/AC6_recomp.md) | ⭐ 277 | 2026-08-11 | 2 |
+| [fmtlib/fmt](../repos/fmtlib/fmt.md) | ⭐ 23,740 | 2026-08-12 | 2 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,453 | 2026-08-01 | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,684 | 2026-08-01 | LLM inference in C&#x2F;C++ |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,926 | 2026-08-01 | LLM inference in C&#x2F;C++ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,150 | 2026-08-01 | Asio C++ Library |
@@ -70,7 +70,7 @@
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 462 | 2026-08-01 | super repo for rocm systems projects |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,728 | 2026-08-01 | Protocol Buffers - Google&#39;s data interchange format |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,730 | 2026-08-01 | Protocol Buffers - Google&#39;s data interchange format |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,269 | 2026-08-01 | Godot Engine – Multi-platform 2D and 3D game engine |
@@ -90,14 +90,14 @@
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,905 | 2026-07-30 | 6 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,334 | 2026-08-04 | 2 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,684 | 2026-08-01 | 8 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,926 | 2026-08-01 | 9 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,394 | 2026-08-01 | 3 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,269 | 2026-08-01 | 5 |
-| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,505 | 2026-08-06 | 1 |
+| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,607 | 2026-08-06 | 2 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,791 | 2026-08-02 | 3 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 75,882 | 2026-08-12 | 1 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,589 | 2026-08-08 | 2 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,728 | 2026-08-01 | 4 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,730 | 2026-08-01 | 5 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,473 | 2026-08-05 | 7 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
@@ -106,7 +106,7 @@
 | [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 39,994 | 2026-08-09 | 3 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,373 | 2026-08-02 | 3 |
 | [google/leveldb](../repos/google/leveldb.md) | ⭐ 39,306 | 2026-08-07 | 2 |
-| [google/googletest](../repos/google/googletest.md) | ⭐ 38,910 | 2026-08-04 | 4 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 38,927 | 2026-08-04 | 5 |
 | [aseprite/aseprite](../repos/aseprite/aseprite.md) | ⭐ 38,585 | 2026-08-07 | 1 |
 
 ---
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 8 | ⭐ 123,684 | 2026-08-01 | 2026-08-12 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 9 | ⭐ 123,926 | 2026-08-01 | 2026-08-14 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 7 | ⭐ 65,473 | 2026-08-05 | 2026-08-12 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 6 | ⭐ 196,905 | 2026-07-30 | 2026-08-07 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 5 | ⭐ 71,730 | 2026-08-01 | 2026-08-14 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 5 | ⭐ 115,269 | 2026-08-01 | 2026-08-06 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 4 | ⭐ 71,728 | 2026-08-01 | 2026-08-12 |
+| [google/googletest](../repos/google/googletest.md) | 5 | ⭐ 38,927 | 2026-08-04 | 2026-08-14 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 4 | ⭐ 29,444 | 2026-08-01 | 2026-08-06 |
 | [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | 4 | ⭐ 15,680 | 2026-08-02 | 2026-08-12 |
-| [google/googletest](../repos/google/googletest.md) | 4 | ⭐ 38,910 | 2026-08-04 | 2026-08-07 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 4 | ⭐ 28,900 | 2026-08-03 | 2026-08-14 |
 | [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | 3 | ⭐ 5,453 | 2026-08-01 | 2026-08-12 |
-| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | 3 | ⭐ 6,150 | 2026-08-01 | 2026-08-04 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.174Z*
+*Last updated: 2026-08-14T20:58:57.969Z*

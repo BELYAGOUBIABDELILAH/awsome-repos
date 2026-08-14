@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 62
+- **Total Repositories**: 63
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-11
+- **Last Updated**: 2026-08-14
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,642 | 2026-08-01 | 8 |
+| [faker-ruby/faker](../repos/faker-ruby/faker.md) | ⭐ 11,932 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,779 | 2026-08-01 | 4 |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,788 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DataDog/dd-trace-rb](../repos/DataDog/dd-trace-rb.md) | ⭐ 415 | 2026-08-01 | 7 |
+| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 5,849 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,638 | 2026-08-01 | 6 |
+| [spree/spree](../repos/spree/spree.md) | ⭐ 15,620 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,718 | 2026-08-01 | 5 |
+| [decidim/decidim](../repos/decidim/decidim.md) | ⭐ 1,805 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | 2026-08-01 | 12 |
+| [DataDog/dd-trace-rb](../repos/DataDog/dd-trace-rb.md) | ⭐ 415 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rubocop/rubocop](../repos/rubocop/rubocop.md) | ⭐ 12,899 | 2026-08-02 | 5 |
+| [antiwork/gumroad](../repos/antiwork/gumroad.md) | ⭐ 9,567 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,251 | 2026-08-02 | 4 |
+| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 38,807 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,636 | 2026-08-03 | 3 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sidekiq/sidekiq](../repos/sidekiq/sidekiq.md) | ⭐ 13,553 | 2026-08-05 | 3 |
+| [we-promise/sure](../repos/we-promise/sure.md) | ⭐ 9,455 | 2026-08-02 | 5 |
 
 
 ---
@@ -52,16 +52,16 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [faker-ruby/faker](../repos/faker-ruby/faker.md) | ⭐ 11,930 | 2026-08-01 | A library for generating fake data such as names, addresses, and phone numbers. |
+| [faker-ruby/faker](../repos/faker-ruby/faker.md) | ⭐ 11,932 | 2026-08-01 | A library for generating fake data such as names, addresses, and phone numbers. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,642 | 2026-08-01 | A platform for community discussion. Free, open, simple. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,779 | 2026-08-01 | Create agents that monitor and act on your behalf.  Your agents are standing by! |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,788 | 2026-08-01 | Create agents that monitor and act on your behalf.  Your agents are standing by! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 5,833 | 2026-08-01 | Zammad is a web based open source helpdesk&#x2F;customer support system. |
+| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 5,849 | 2026-08-01 | Zammad is a web based open source helpdesk&#x2F;customer support system. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,673 | 2026-08-01 | The Ruby Programming Language |
@@ -76,10 +76,10 @@
 | [opf/openproject](../repos/opf/openproject.md) | ⭐ 15,801 | 2026-08-01 | OpenProject is the leading open source project management software for product, project and portf... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [spree/spree](../repos/spree/spree.md) | ⭐ 15,611 | 2026-08-01 | Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, an... |
+| [spree/spree](../repos/spree/spree.md) | ⭐ 15,620 | 2026-08-01 | Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, an... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [decidim/decidim](../repos/decidim/decidim.md) | ⭐ 1,802 | 2026-08-01 | The participatory democracy framework. A generator and multiple gems made with Ruby on Rails |
+| [decidim/decidim](../repos/decidim/decidim.md) | ⭐ 1,805 | 2026-08-01 | The participatory democracy framework. A generator and multiple gems made with Ruby on Rails |
 
 
 ---
@@ -88,12 +88,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rails/rails](../repos/rails/rails.md) | ⭐ 58,683 | 2026-08-02 | 4 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 58,688 | 2026-08-02 | 5 |
 | [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,636 | 2026-08-03 | 3 |
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,779 | 2026-08-01 | 4 |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,788 | 2026-08-01 | 5 |
 | [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,642 | 2026-08-01 | 8 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 41,971 | 2026-08-04 | 6 |
-| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 38,768 | 2026-08-01 | 5 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 41,992 | 2026-08-04 | 7 |
+| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 38,807 | 2026-08-01 | 6 |
 | [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,200 | 2026-08-05 | 3 |
 | [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,530 | 2026-08-01 | 6 |
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,673 | 2026-08-01 | 5 |
@@ -101,13 +101,13 @@
 | [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,251 | 2026-08-02 | 4 |
 | [postalserver/postal](../repos/postalserver/postal.md) | ⭐ 16,723 | 2026-08-04 | 2 |
 | [opf/openproject](../repos/opf/openproject.md) | ⭐ 15,801 | 2026-08-01 | 7 |
-| [spree/spree](../repos/spree/spree.md) | ⭐ 15,611 | 2026-08-01 | 8 |
+| [spree/spree](../repos/spree/spree.md) | ⭐ 15,620 | 2026-08-01 | 9 |
 | [basecamp/kamal](../repos/basecamp/kamal.md) | ⭐ 14,500 | 2026-08-12 | 1 |
 | [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,638 | 2026-08-01 | 6 |
 | [sidekiq/sidekiq](../repos/sidekiq/sidekiq.md) | ⭐ 13,553 | 2026-08-05 | 3 |
 | [rubocop/rubocop](../repos/rubocop/rubocop.md) | ⭐ 12,899 | 2026-08-02 | 5 |
 | [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,203 | 2026-08-01 | 3 |
-| [faker-ruby/faker](../repos/faker-ruby/faker.md) | ⭐ 11,930 | 2026-08-01 | 5 |
+| [faker-ruby/faker](../repos/faker-ruby/faker.md) | ⭐ 11,932 | 2026-08-01 | 6 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 12 | ⭐ 1,070 | 2026-08-01 | 2026-08-12 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 13 | ⭐ 1,070 | 2026-08-01 | 2026-08-14 |
+| [spree/spree](../repos/spree/spree.md) | 9 | ⭐ 15,620 | 2026-08-01 | 2026-08-14 |
 | [discourse/discourse](../repos/discourse/discourse.md) | 8 | ⭐ 47,642 | 2026-08-01 | 2026-08-12 |
-| [spree/spree](../repos/spree/spree.md) | 8 | ⭐ 15,611 | 2026-08-01 | 2026-08-10 |
+| [DataDog/dd-trace-rb](../repos/DataDog/dd-trace-rb.md) | 8 | ⭐ 415 | 2026-08-01 | 2026-08-14 |
+| [antiwork/gumroad](../repos/antiwork/gumroad.md) | 8 | ⭐ 9,567 | 2026-08-01 | 2026-08-14 |
 | [opf/openproject](../repos/opf/openproject.md) | 7 | ⭐ 15,801 | 2026-08-01 | 2026-08-08 |
-| [DataDog/dd-trace-rb](../repos/DataDog/dd-trace-rb.md) | 7 | ⭐ 415 | 2026-08-01 | 2026-08-12 |
-| [antiwork/gumroad](../repos/antiwork/gumroad.md) | 7 | ⭐ 9,547 | 2026-08-01 | 2026-08-10 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 7 | ⭐ 41,992 | 2026-08-04 | 2026-08-14 |
+| [faker-ruby/faker](../repos/faker-ruby/faker.md) | 6 | ⭐ 11,932 | 2026-08-01 | 2026-08-14 |
 | [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | 6 | ⭐ 24,530 | 2026-08-01 | 2026-08-10 |
-| [github-linguist/linguist](../repos/github-linguist/linguist.md) | 6 | ⭐ 13,638 | 2026-08-01 | 2026-08-12 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 6 | ⭐ 41,971 | 2026-08-04 | 2026-08-10 |
-| [faker-ruby/faker](../repos/faker-ruby/faker.md) | 5 | ⭐ 11,930 | 2026-08-01 | 2026-08-10 |
+| [decidim/decidim](../repos/decidim/decidim.md) | 6 | ⭐ 1,805 | 2026-08-01 | 2026-08-14 |
 
 ---
 
@@ -192,7 +192,8 @@
 - [rpush/rpush](../repos/rpush/rpush.md) - The push notification service for Ruby.
 - [basecamp/kamal](../repos/basecamp/kamal.md) - Deploy web apps anywhere.
 - [dependabot/demo](../repos/dependabot/demo.md) - 🤖 Fork me to try out Dependabot 
+- [blackcandy-org/blackcandy](../repos/blackcandy-org/blackcandy.md) - A self hosted music streaming server
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.218Z*
+*Last updated: 2026-08-14T20:58:58.020Z*

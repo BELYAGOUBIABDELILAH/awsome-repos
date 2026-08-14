@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Lua |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 16,983 |
-| **Forks** | 🍴 2,920 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 16,995 |
+| **Forks** | 🍴 2,922 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 12, 2026 |
+| **Last Seen** | Aug 14, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`ai-gateway`](../../topics/ai-gateway.md) [`api`](../../topics/api.md) [`api-gateway`](../../topics/api-gateway.md) [`api-management`](../../topics/api-management.md) [`apisix`](../../topics/apisix.md) [`cloud-native`](../../topics/cloud-native.md) [`devops`](../../topics/devops.md) [`iot`](../../topics/iot.md) [`kubernetes`](../../topics/kubernetes.md) [`kubernetes-ingress`](../../topics/kubernetes-ingress.md) [`loadbalancing`](../../topics/loadbalancing.md) [`luajit`](../../topics/luajit.md) [`microservices`](../../topics/microservices.md) [`nginx`](../../topics/nginx.md) [`reverse-proxy`](../../topics/reverse-proxy.md) [`serverless`](../../topics/serverless.md) 
+[`ai-gateway`](../../topics/ai-gateway.md) [`api`](../../topics/api.md) [`api-gateway`](../../topics/api-gateway.md) [`api-management`](../../topics/api-management.md) [`apisix`](../../topics/apisix.md) [`cloud-native`](../../topics/cloud-native.md) [`devops`](../../topics/devops.md) [`iot`](../../topics/iot.md) [`kubernetes`](../../topics/kubernetes.md) [`kubernetes-ingress`](../../topics/kubernetes-ingress.md) [`loadbalancing`](../../topics/loadbalancing.md) [`luajit`](../../topics/luajit.md) [`microservices`](../../topics/microservices.md) [`nginx`](../../topics/nginx.md) [`openapi`](../../topics/openapi.md) [`openapi3`](../../topics/openapi3.md) [`openapi31`](../../topics/openapi31.md) [`reverse-proxy`](../../topics/reverse-proxy.md) [`serverless`](../../topics/serverless.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Backend Development` `DevOps &amp; CI&#x2F;CD` `Cloud &amp; Infrastructure` `Containers &amp; Orchestration` `Systems Programming` `Robotics` `Internet of Things` 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-12T21:01:54.737Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-14T20:58:59.364Z*  
+*Data from 4 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 61
+- **Total Repositories**: 68
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-07
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,552 | 2026-08-01 | 9 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,729 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,023 | 2026-08-01 | 5 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,687 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,567 | 2026-08-02 | 8 |
+| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 15,647 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | ⭐ 2,081 | 2026-08-02 | 6 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 3,550 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 6,771 | 2026-08-04 | 3 |
+| [vinvcn/mattpocock-skills-zh-CN](../repos/vinvcn/mattpocock-skills-zh-CN.md) | ⭐ 3,271 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,320 | 2026-08-04 | 4 |
+| [harbor-framework/terminal-bench-2-1](../repos/harbor-framework/terminal-bench-2-1.md) | ⭐ 73 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,403 | 2026-08-07 | 5 |
+| [qemus/qemu](../repos/qemus/qemu.md) | ⭐ 2,090 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,729 | 2026-08-07 | 2 |
+| [wondelai/skills](../repos/wondelai/skills.md) | ⭐ 1,929 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) | ⭐ 4,695 | 2026-08-09 | 3 |
+| [DaoCloud/public-image-mirror](../repos/DaoCloud/public-image-mirror.md) | ⭐ 14,853 | 2026-08-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 15,599 | 2026-08-11 | 2 |
+| [google/adk-docs](../repos/google/adk-docs.md) | ⭐ 1,469 | 2026-08-14 | 1 |
 
 
 ---
@@ -79,7 +79,7 @@
 | [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,642 | 2026-08-01 | Универсальный менеджер для обхода блокировок на OpenWrt |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,567 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,729 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
 
 
 ---
@@ -96,18 +96,18 @@
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,419 | 2026-08-04 | 2 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,320 | 2026-08-04 | 4 |
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,567 | 2026-08-02 | 8 |
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,626 | 2026-08-07 | 1 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,729 | 2026-08-02 | 9 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,687 | 2026-08-07 | 2 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 19,343 | 2026-08-12 | 1 |
 | [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,684 | 2026-08-08 | 1 |
-| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 15,599 | 2026-08-11 | 2 |
+| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 15,647 | 2026-08-11 | 3 |
+| [DaoCloud/public-image-mirror](../repos/DaoCloud/public-image-mirror.md) | ⭐ 14,853 | 2026-08-14 | 1 |
 | [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,366 | 2026-08-07 | 1 |
 | [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,531 | 2026-08-04 | 2 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,077 | 2026-08-04 | 3 |
 | [1N3/Sn1per](../repos/1N3/Sn1per.md) | ⭐ 10,738 | 2026-08-06 | 2 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,729 | 2026-08-07 | 2 |
-| [super-linter/super-linter](../repos/super-linter/super-linter.md) | ⭐ 10,535 | 2026-08-04 | 1 |
 
 ---
 
@@ -116,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 9 | ⭐ 94,552 | 2026-08-01 | 2026-08-12 |
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 8 | ⭐ 24,567 | 2026-08-02 | 2026-08-12 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 9 | ⭐ 24,729 | 2026-08-02 | 2026-08-14 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 6 | ⭐ 2,081 | 2026-08-02 | 2026-08-12 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 5 | ⭐ 4,023 | 2026-08-01 | 2026-08-12 |
 | [expo/skills](../repos/expo/skills.md) | 5 | ⭐ 2,403 | 2026-08-07 | 2026-08-12 |
@@ -191,7 +191,14 @@
 - [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) - 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent&#x2F;Claude Code&#x2F;Cursor&#x2F;Copilot 等 18 种工具，覆盖工程&#x2F;设计&#x2F;营销&#x2F;金融等 20 个部门...
 - [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) - Talk to one agent. Ship with a crew.
 - [conversun/fnos-apps](../repos/conversun/fnos-apps.md) - 飞牛 fnOS NAS 第三方应用商店 — 115 款自托管应用的 .fpk 安装包 | Plex, Emby, Jellyfin, qBittorrent, Immich, Sonarr, R...
+- [vinvcn/mattpocock-skills-zh-CN](../repos/vinvcn/mattpocock-skills-zh-CN.md) - 这是 mattpocock&#x2F;skills 的简体中文本地化版本。
+- [harbor-framework/terminal-bench-2-1](../repos/harbor-framework/terminal-bench-2-1.md) - Terminal-Bench 2.1
+- [qemus/qemu](../repos/qemus/qemu.md) - QEMU in a Docker container.
+- [wondelai/skills](../repos/wondelai/skills.md) - Wondel.ai Agent Skills — Business, Marketing, UX &amp; Coding Frameworks from Bestselling Books. 50 s...
+- [DaoCloud/public-image-mirror](../repos/DaoCloud/public-image-mirror.md) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+- [google/adk-docs](../repos/google/adk-docs.md) - An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agent...
+- [wolfi-dev/os](../repos/wolfi-dev/os.md) - Main package repository for production Wolfi images
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.223Z*
+*Last updated: 2026-08-14T20:58:58.026Z*

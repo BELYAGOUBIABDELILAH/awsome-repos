@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 149
+- **Total Repositories**: 150
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
-- **Average Stars**: 17746
+- **Average Stars**: 17644
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,376 | Go |  |
+| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,499 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,092 | C |  |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,114 | Java |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,768 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,411 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,418 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,856 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,874 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,714 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,760 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,418 | Clojure |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,452 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,195 | OCaml |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,225 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,582 | Perl |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,961 | Vue |  |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,587 | Perl |  |
 
 
 ---
@@ -70,19 +70,16 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [cube-js/cube](../repos/cube-js/cube.md) | ⭐ 20,568 | Rust | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,260 | Rust | 1 |
+| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,499 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,376 | Go | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,092 | C | 1 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,114 | Java | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,013 | C | 1 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,092 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,367 | C | 1 |
@@ -91,13 +88,16 @@
 | [pestphp/pest](../repos/pestphp/pest.md) | ⭐ 11,650 | PHP | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,757 | PHP | 2 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,768 | PHP | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,465 | PHP | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,673 | Ruby | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | Ruby | 1 |
 
 ---
 
@@ -114,7 +114,7 @@
 | [cube-js/cube](../repos/cube-js/cube.md) | ⭐ 20,568 | Rust | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,260 | Rust | 2026-08-01 |
+| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,499 | Rust | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | ⭐ 197 | Go | 2026-08-01 |
@@ -126,7 +126,7 @@
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,376 | Go | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,063 | Java | 2026-08-01 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,114 | Java | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,092 | C | 2026-08-01 |
@@ -137,6 +137,10 @@
 ---
 
 ## 📅 Recent History
+
+### [2026-08-14](../archive/2026/08/2026-08-14.md)
+- 28 repositories trending
+- Top: metabase&#x2F;metabase
 
 ### [2026-08-12](../archive/2026/08/2026-08-12.md)
 - 39 repositories trending
@@ -158,14 +162,6 @@
 - 28 repositories trending
 - Top: Genymobile&#x2F;scrcpy
 
-### [2026-08-07](../archive/2026/08/2026-08-07.md)
-- 33 repositories trending
-- Top: Genymobile&#x2F;scrcpy
-
-### [2026-08-06](../archive/2026/08/2026-08-06.md)
-- 37 repositories trending
-- Top: git&#x2F;git
-
 
 ---
 
@@ -175,16 +171,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 12 days | 2026-08-01 | 2026-08-12 |
-| [apache/spark](../repos/apache/spark.md) | 12 days | 2026-08-01 | 2026-08-12 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 12 days | 2026-08-01 | 2026-08-12 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 12 days | 2026-08-01 | 2026-08-12 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 11 days | 2026-08-01 | 2026-08-12 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 11 days | 2026-08-01 | 2026-08-12 |
-| [vlang/v](../repos/vlang/v.md) | 11 days | 2026-08-01 | 2026-08-11 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 11 days | 2026-08-02 | 2026-08-12 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 10 days | 2026-08-01 | 2026-08-12 |
-| [vim/vim](../repos/vim/vim.md) | 10 days | 2026-08-01 | 2026-08-12 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 13 days | 2026-08-01 | 2026-08-14 |
+| [apache/spark](../repos/apache/spark.md) | 13 days | 2026-08-01 | 2026-08-14 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 13 days | 2026-08-01 | 2026-08-14 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 13 days | 2026-08-01 | 2026-08-14 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 12 days | 2026-08-01 | 2026-08-14 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 12 days | 2026-08-01 | 2026-08-14 |
+| [vlang/v](../repos/vlang/v.md) | 12 days | 2026-08-01 | 2026-08-14 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 12 days | 2026-08-02 | 2026-08-14 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 11 days | 2026-08-01 | 2026-08-14 |
+| [vim/vim](../repos/vim/vim.md) | 11 days | 2026-08-01 | 2026-08-14 |
 
 ---
 
@@ -198,7 +194,7 @@
 - **C++**: 8 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 34.3 repositories
+- **Daily Average**: 33.8 repositories
 - **Peak Day**: 2026-08-04 (41 repositories)
 - **Growth Rate**: 100% this month
 
@@ -314,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.048Z*
+*Last updated: 2026-08-14T20:58:57.841Z*

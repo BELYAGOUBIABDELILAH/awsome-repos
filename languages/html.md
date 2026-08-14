@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 42
+- **Total Repositories**: 43
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 7,828 | 2026-08-01 | 3 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,477 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,393 | 2026-08-01 | 5 |
+| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,774 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,203 | 2026-08-02 | 2 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,095 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | ⭐ 8,195 | 2026-08-03 | 3 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,787 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,091 | 2026-08-03 | 4 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 17,073 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,854 | 2026-08-04 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [revfactory/harness](../repos/revfactory/harness.md) | ⭐ 8,740 | 2026-08-11 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 2,659 | 2026-08-11 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 9,894 | 2026-08-12 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
+| [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | ⭐ 1,632 | 2026-08-14 | 1 |
 
 
 ---
@@ -67,16 +55,16 @@
 | [GoogleCloudPlatform/knowledge-catalog](../repos/GoogleCloudPlatform/knowledge-catalog.md) | ⭐ 8,131 | 2026-08-01 | Google Cloud Knowledge Catalog Tools and Samples |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,393 | 2026-08-01 | from vibe coding to agentic engineering - practice makes claude perfect |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,477 | 2026-08-01 | from vibe coding to agentic engineering - practice makes claude perfect |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,757 | 2026-08-01 | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
+| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,774 | 2026-08-01 | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 18,300 | 2026-08-01 | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment dat... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,014 | 2026-08-01 | Awesome Docker Compose samples |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,095 | 2026-08-01 | Awesome Docker Compose samples |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [yangzongzhuan/RuoYi](../repos/yangzongzhuan/RuoYi.md) | ⭐ 8,470 | 2026-08-02 | :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用 |
@@ -89,9 +77,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 207,704 | 2026-08-03 | 2 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,505 | 2026-08-08 | 4 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,393 | 2026-08-01 | 5 |
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,014 | 2026-08-01 | 3 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,787 | 2026-08-08 | 5 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,477 | 2026-08-01 | 6 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,095 | 2026-08-01 | 4 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,483 | 2026-08-07 | 1 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,690 | 2026-08-09 | 3 |
@@ -99,15 +87,15 @@
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,854 | 2026-08-04 | 4 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,307 | 2026-08-03 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 18,300 | 2026-08-01 | 1 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 17,073 | 2026-08-12 | 2 |
 | [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,567 | 2026-08-02 | 2 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,434 | 2026-08-04 | 4 |
 | [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,264 | 2026-08-05 | 1 |
 | [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,067 | 2026-08-07 | 1 |
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 11,860 | 2026-08-01 | 1 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 10,882 | 2026-08-04 | 6 |
-| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,757 | 2026-08-01 | 2 |
+| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,774 | 2026-08-01 | 3 |
 | [cotes2020/jekyll-theme-chirpy](../repos/cotes2020/jekyll-theme-chirpy.md) | ⭐ 10,206 | 2026-08-05 | 1 |
-| [tpn/pdfs](../repos/tpn/pdfs.md) | ⭐ 10,075 | 2026-08-07 | 1 |
 
 ---
 
@@ -115,16 +103,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 6 | ⭐ 64,477 | 2026-08-01 | 2026-08-14 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 6 | ⭐ 10,882 | 2026-08-04 | 2026-08-09 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 5 | ⭐ 64,393 | 2026-08-01 | 2026-08-12 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 5 | ⭐ 131,787 | 2026-08-08 | 2026-08-14 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 4 | ⭐ 9,680 | 2026-08-01 | 2026-08-09 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | 4 | ⭐ 46,095 | 2026-08-01 | 2026-08-14 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 4 | ⭐ 27,091 | 2026-08-03 | 2026-08-12 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 4 | ⭐ 23,854 | 2026-08-04 | 2026-08-12 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 4 | ⭐ 16,434 | 2026-08-04 | 2026-08-11 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 4 | ⭐ 131,505 | 2026-08-08 | 2026-08-11 |
 | [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | 3 | ⭐ 7,828 | 2026-08-01 | 2026-08-12 |
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | 3 | ⭐ 46,014 | 2026-08-01 | 2026-08-08 |
-| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 3 | ⭐ 8,195 | 2026-08-03 | 2026-08-12 |
+| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | 3 | ⭐ 10,774 | 2026-08-01 | 2026-08-14 |
 
 ---
 
@@ -172,7 +160,8 @@
 - [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) - Collection of the most essential transitions for web apps, skill for agents and Refine tool for a...
 - [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - [alpinejs/alpine](../repos/alpinejs/alpine.md) - A rugged, minimal framework for composing JavaScript behavior in your markup. 
+- [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) - AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos,...
 
 ---
 
-*Last updated: 2026-08-12T21:01:53.193Z*
+*Last updated: 2026-08-14T20:58:57.991Z*
