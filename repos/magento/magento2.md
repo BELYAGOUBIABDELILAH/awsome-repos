@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | OSL-3.0 |
-| **Stars** | ⭐ 12,165 |
-| **Forks** | 🍴 9,356 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 12,166 |
+| **Forks** | 🍴 9,352 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 7, 2026 |
+| **Last Seen** | Aug 15, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 4 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 12,165+ stars, strong contributor base |
+| **Community** | Very Active | 12,166+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-14T20:59:00.125Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-08-15T21:01:42.766Z*  
+*Data from 5 trending reports*

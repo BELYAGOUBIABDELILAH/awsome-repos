@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 65
+- **Total Repositories**: 67
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 3 |
+| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,704 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,827 | 2026-08-01 | 7 |
+| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 8 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 9 |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,071 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 8 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,639 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,071 | 2026-08-01 | 7 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 493 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,639 | 2026-08-01 | 8 |
+| [SVGKit/SVGKit](../repos/SVGKit/SVGKit.md) | ⭐ 4,588 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 492 | 2026-08-02 | 5 |
+| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | ⭐ 673 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [newmarcel/KeepingYouAwake](../repos/newmarcel/KeepingYouAwake.md) | ⭐ 6,832 | 2026-08-02 | 2 |
+| [zendesk/support_sdk_ios](../repos/zendesk/support_sdk_ios.md) | ⭐ 55 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,616 | 2026-08-04 | 5 |
+| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | ⭐ 4,477 | 2026-08-05 | 5 |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,412 | 2026-08-02 | 2 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,639 | 2026-08-01 | 8 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,639 | 2026-08-01 | 9 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,962 | 2026-08-02 | 5 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,616 | 2026-08-04 | 5 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,935 | 2026-08-04 | 4 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 9 | ⭐ 134 | 2026-08-01 | 2026-08-15 |
 | [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 9 | ⭐ 59 | 2026-08-01 | 2026-08-14 |
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 8 | ⭐ 134 | 2026-08-01 | 2026-08-14 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 9 | ⭐ 25,639 | 2026-08-01 | 2026-08-15 |
 | [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 8 | ⭐ 291 | 2026-08-01 | 2026-08-14 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 8 | ⭐ 25,639 | 2026-08-01 | 2026-08-14 |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 8 | ⭐ 5,071 | 2026-08-01 | 2026-08-15 |
 | [google/promises](../repos/google/promises.md) | 7 | ⭐ 3,827 | 2026-08-01 | 2026-08-14 |
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 7 | ⭐ 5,071 | 2026-08-01 | 2026-08-14 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 5 | ⭐ 21,962 | 2026-08-02 | 2026-08-11 |
-| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | 5 | ⭐ 492 | 2026-08-02 | 2026-08-14 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | 5 | ⭐ 16,616 | 2026-08-04 | 2026-08-14 |
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | 5 | ⭐ 13,330 | 2026-08-04 | 2026-08-12 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | 6 | ⭐ 493 | 2026-08-02 | 2026-08-15 |
+| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 6 | ⭐ 673 | 2026-08-04 | 2026-08-15 |
+| [AzureAD/microsoft-authentication-library-common-for-objc](../repos/AzureAD/microsoft-authentication-library-common-for-objc.md) | 6 | ⭐ 64 | 2026-08-07 | 2026-08-15 |
+| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | 5 | ⭐ 1,704 | 2026-08-01 | 2026-08-15 |
 
 ---
 
@@ -195,7 +195,9 @@
 - [BranchMetrics/ios-branch-deep-linking-attribution](../repos/BranchMetrics/ios-branch-deep-linking-attribution.md) - The Branch iOS SDK for deep linking and attribution. Branch helps mobile apps grow with deep link...
 - [tonymillion/Reachability](../repos/tonymillion/Reachability.md) - ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in replacement for Apple Reacha...
 - [Subito-it/SBTUITestTunnel](../repos/Subito-it/SBTUITestTunnel.md) - Enable network mocks and more in UI Tests
+- [Giphy/giphy-ios-sdk](../repos/Giphy/giphy-ios-sdk.md) - Home of the GIPHY SDK iOS example app, along with iOS SDK documentation, issue tracking, &amp; releas...
+- [stripe/stripe-terminal-ios](../repos/stripe/stripe-terminal-ios.md) - Stripe Terminal iOS SDK
 
 ---
 
-*Last updated: 2026-08-14T20:58:58.009Z*
+*Last updated: 2026-08-15T21:01:40.530Z*

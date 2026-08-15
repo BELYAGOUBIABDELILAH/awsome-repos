@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PowerShell |
 | **License** | MIT |
-| **Stars** | ⭐ 23,283 |
-| **Forks** | 🍴 3,161 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 25,466 |
+| **Forks** | 🍴 3,449 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 10, 2026 |
+| **Last Seen** | Aug 15, 2026 |
 
 
 ---
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 6 days
 
 ---
@@ -87,12 +87,12 @@
 - Check similar projects in PowerShell
 
 #### Metrics
-- **Hidden Gem**: ✓ Yes
+- **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
 - **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-08-14T20:58:59.067Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-08-15T21:01:41.707Z*  
+*Data from 8 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 97
+- **Total Repositories**: 100
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,754 | 2026-08-02 | 6 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,632 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,463 | 2026-08-03 | 3 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,573 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Dailin521/codex-provider-sync](../repos/Dailin521/codex-provider-sync.md) | ⭐ 3,168 | 2026-08-04 | 4 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,851 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,449 | 2026-08-05 | 2 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,374 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/dotnet](../repos/dotnet/dotnet.md) | ⭐ 1,223 | 2026-08-08 | 2 |
+| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,564 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TechnitiumSoftware/DnsServer](../repos/TechnitiumSoftware/DnsServer.md) | ⭐ 9,522 | 2026-08-12 | 2 |
+| [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) | ⭐ 13,758 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TheJoeFin/Text-Grab](../repos/TheJoeFin/Text-Grab.md) | ⭐ 4,955 | 2026-08-12 | 2 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,785 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [indiff/qttabbar](../repos/indiff/qttabbar.md) | ⭐ 4,836 | 2026-08-14 | 1 |
+| [lostindark/DriverStoreExplorer](../repos/lostindark/DriverStoreExplorer.md) | ⭐ 11,417 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Unity-Technologies/skills](../repos/Unity-Technologies/skills.md) | ⭐ 249 | 2026-08-14 | 1 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,477 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,130 | 2026-08-14 | 1 |
+| [actions/runner](../repos/actions/runner.md) | ⭐ 6,195 | 2026-08-04 | 4 |
 
 
 ---
@@ -67,19 +67,19 @@
 | [kgrzybek/modular-monolith-with-ddd](../repos/kgrzybek/modular-monolith-with-ddd.md) | ⭐ 13,907 | 2026-08-01 | Full Modular Monolith application with Domain-Driven Design approach. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,610 | 2026-08-01 | A modern file manager that helps users organize their files and folders. |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,632 | 2026-08-01 | A modern file manager that helps users organize their files and folders. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,550 | 2026-08-01 | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered ... |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,573 | 2026-08-01 | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,672 | 2026-08-01 | Bitwarden infrastructure&#x2F;backend (API, database, Docker, etc). |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,851 | 2026-08-01 | Bitwarden infrastructure&#x2F;backend (API, database, Docker, etc). |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,810 | 2026-08-01 | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&amp;more) - cross-platform! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,369 | 2026-08-01 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications ... |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,374 | 2026-08-01 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications ... |
 
 
 ---
@@ -90,11 +90,11 @@
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,476 | 2026-08-02 | 6 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,704 | 2026-08-02 | 5 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,758 | 2026-08-06 | 2 |
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,610 | 2026-08-01 | 3 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,872 | 2026-08-06 | 3 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,632 | 2026-08-01 | 4 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,130 | 2026-08-14 | 1 |
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,463 | 2026-08-03 | 3 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,369 | 2026-08-01 | 4 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,477 | 2026-08-03 | 4 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,374 | 2026-08-01 | 5 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,700 | 2026-08-08 | 1 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,449 | 2026-08-05 | 2 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | 2026-08-01 | 7 |
@@ -102,12 +102,12 @@
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,810 | 2026-08-01 | 2 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,430 | 2026-08-02 | 2 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,292 | 2026-08-04 | 2 |
+| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,564 | 2026-08-02 | 3 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,610 | 2026-08-01 | 4 |
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,672 | 2026-08-01 | 1 |
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,208 | 2026-08-04 | 4 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,851 | 2026-08-01 | 2 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,209 | 2026-08-04 | 5 |
 | [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,187 | 2026-08-01 | 2 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 16,629 | 2026-08-02 | 6 |
-| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,868 | 2026-08-02 | 4 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 7 | ⭐ 26,795 | 2026-08-01 | 2026-08-08 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 7 | ⭐ 14,785 | 2026-08-02 | 2026-08-15 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | 6 | ⭐ 3,573 | 2026-08-01 | 2026-08-15 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 6 | ⭐ 113,476 | 2026-08-02 | 2026-08-09 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 6 | ⭐ 16,629 | 2026-08-02 | 2026-08-11 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 6 | ⭐ 14,754 | 2026-08-02 | 2026-08-14 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 6 | ⭐ 5,110 | 2026-08-03 | 2026-08-09 |
 | [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | 6 | ⭐ 13,331 | 2026-08-05 | 2026-08-11 |
-| [microsoft/mcp](../repos/microsoft/mcp.md) | 5 | ⭐ 3,550 | 2026-08-01 | 2026-08-08 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 5 | ⭐ 38,374 | 2026-08-01 | 2026-08-15 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 5 | ⭐ 55,704 | 2026-08-02 | 2026-08-12 |
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | 4 | ⭐ 20,610 | 2026-08-01 | 2026-08-12 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 4 | ⭐ 38,369 | 2026-08-01 | 2026-08-12 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | 5 | ⭐ 18,209 | 2026-08-04 | 2026-08-15 |
 
 ---
 
@@ -145,6 +145,7 @@
 - [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) - Open Source real-time strategy game engine for early Westwood games such as Command &amp; Conquer: Re...
 - [lucasg/Dependencies](../repos/lucasg/Dependencies.md) - A rewrite of the old legacy software &quot;depends.exe&quot; in C# for Windows devs to troubleshoot dll loa...
 - [microsoft/vstest](../repos/microsoft/vstest.md) - Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console.
+- [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
 - [2dust/v2rayN](../repos/2dust/v2rayN.md) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) - Advanced UX and interoperability extension for Wand (WeMod) app
 - [Jackett/Jackett](../repos/Jackett/Jackett.md) - API Support for your favorite torrent trackers
@@ -227,7 +228,9 @@
 - [dotnet/csharplang](../repos/dotnet/csharplang.md) - The official repo for the design of the C# programming language
 - [NickvisionApps/Parabolic](../repos/NickvisionApps/Parabolic.md) - Download web video and audio
 - [umbraco/Umbraco-CMS](../repos/umbraco/Umbraco-CMS.md) - Umbraco is a free and open source .NET content management system helping you deliver delightful d...
+- [YSGStudyHards/DotNetGuide](../repos/YSGStudyHards/DotNetGuide.md) - 🌈【C#&#x2F;.NET&#x2F;.NET Core学习、工作、面试指南】记录、收集和总结C#&#x2F;.NET&#x2F;.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组...
+- [dotnet/orleans](../repos/dotnet/orleans.md) - Cloud Native application framework for .NET
 
 ---
 
-*Last updated: 2026-08-14T20:58:57.967Z*
+*Last updated: 2026-08-15T21:01:40.489Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 53
+- **Total Repositories**: 54
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-07
 
@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,759 | 2026-08-01 | 6 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,765 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,311 | 2026-08-01 | 4 |
+| [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | ⭐ 890 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crmeb/crmeb_java](../repos/crmeb/crmeb_java.md) | ⭐ 3,017 | 2026-08-01 | 2 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,421 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,135 | 2026-08-01 | 10 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,240 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | ⭐ 857 | 2026-08-02 | 4 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,594 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,407 | 2026-08-02 | 5 |
+| [creazy231/tools-for-autodarts](../repos/creazy231/tools-for-autodarts.md) | ⭐ 127 | 2026-08-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,620 | 2026-08-02 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,240 | 2026-08-03 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,468 | 2026-08-05 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [frappe/lms](../repos/frappe/lms.md) | ⭐ 3,130 | 2026-08-06 | 5 |
+| [ZTMYO/XiaoShiLiu](../repos/ZTMYO/XiaoShiLiu.md) | ⭐ 277 | 2026-08-15 | 1 |
 
 
 ---
@@ -55,7 +46,7 @@
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,961 | 2026-08-01 | BewlyCat——基于BewlyBewly开发的Bilibili拓展 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,759 | 2026-08-01 | Wiki.js | A modern and powerful wiki app built on Node.js |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,765 | 2026-08-01 | Wiki.js | A modern and powerful wiki app built on Node.js |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,311 | 2026-08-01 | Modern, Streamlined, Free and Open Source Customer Service Software |
@@ -92,15 +83,15 @@
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,071 | 2026-08-01 | 4 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,135 | 2026-08-01 | 10 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,134 | 2026-08-01 | 4 |
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,759 | 2026-08-01 | 6 |
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,510 | 2026-08-08 | 4 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,765 | 2026-08-01 | 7 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,594 | 2026-08-08 | 5 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,635 | 2026-08-01 | 7 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,620 | 2026-08-02 | 7 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,889 | 2026-08-07 | 1 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,407 | 2026-08-02 | 5 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,421 | 2026-08-02 | 6 |
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,468 | 2026-08-05 | 4 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,700 | 2026-08-12 | 1 |
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,240 | 2026-08-03 | 7 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,240 | 2026-08-03 | 8 |
 | [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,844 | 2026-08-03 | 2 |
 | [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,560 | 2026-08-08 | 3 |
 | [un-pany/v3-admin-vite](../repos/un-pany/v3-admin-vite.md) | ⭐ 7,018 | 2026-08-04 | 1 |
@@ -117,14 +108,14 @@
 |------------|---------------|-------|------------|-----------|
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 10 | ⭐ 33,135 | 2026-08-01 | 2026-08-14 |
 | [frappe/crm](../repos/frappe/crm.md) | 9 | ⭐ 3,315 | 2026-08-01 | 2026-08-11 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | 8 | ⭐ 9,240 | 2026-08-03 | 2026-08-15 |
+| [requarks/wiki](../repos/requarks/wiki.md) | 7 | ⭐ 28,765 | 2026-08-01 | 2026-08-15 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 7 | ⭐ 21,635 | 2026-08-01 | 2026-08-12 |
 | [RikkaApps/websites](../repos/RikkaApps/websites.md) | 7 | ⭐ 427 | 2026-08-02 | 2026-08-10 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | 7 | ⭐ 21,620 | 2026-08-02 | 2026-08-14 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 7 | ⭐ 1,765 | 2026-08-02 | 2026-08-09 |
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | 7 | ⭐ 9,240 | 2026-08-03 | 2026-08-14 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 6 | ⭐ 3,961 | 2026-08-01 | 2026-08-12 |
-| [requarks/wiki](../repos/requarks/wiki.md) | 6 | ⭐ 28,759 | 2026-08-01 | 2026-08-14 |
-| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | 5 | ⭐ 245 | 2026-08-01 | 2026-08-09 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 6 | ⭐ 16,421 | 2026-08-02 | 2026-08-15 |
 
 ---
 
@@ -162,7 +153,6 @@
 - [VueTorrent/VueTorrent](../repos/VueTorrent/VueTorrent.md) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
 - [crmeb/CRMEB](../repos/crmeb/CRMEB.md) - 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、...
-- [frappe/builder](../repos/frappe/builder.md) - Craft beautiful websites effortlessly with an intuitive visual builder and publish them instantly
 - [frappe/suite](../repos/frappe/suite.md) - Original, intentionally designed productivity tools
 - [imsyy/yt-dlp-gui](../repos/imsyy/yt-dlp-gui.md) - A modern cross-platform GUI for yt-dlp. Download videos from YouTube, Bilibili, TikTok and 1000+ ...
 - [hslr-s/sun-panel](../repos/hslr-s/sun-panel.md) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
@@ -183,7 +173,9 @@
 - [BansheeTech/HomeDockOS](../repos/BansheeTech/HomeDockOS.md) - An intuitive, versatile, and powerful home server operating system for self-hosting. Featuring a ...
 - [chaitin/xray](../repos/chaitin/xray.md) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [OpenListTeam/OpenList-Desktop](../repos/OpenListTeam/OpenList-Desktop.md) - A desktop application for OpenList
+- [creazy231/tools-for-autodarts](../repos/creazy231/tools-for-autodarts.md) - Tools for Autodarts enhances the gaming experience on autodarts.io
+- [ZTMYO/XiaoShiLiu](../repos/ZTMYO/XiaoShiLiu.md) - 一个高仿小红书的图文社区项目，支持图文发布、社交互动等核心功能，旨在提供从前端到后端的完整实践范本
 
 ---
 
-*Last updated: 2026-08-14T20:58:58.038Z*
+*Last updated: 2026-08-15T21:01:40.558Z*

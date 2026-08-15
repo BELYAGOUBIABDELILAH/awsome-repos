@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 98
+- **Total Repositories**: 103
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,760 | 2026-08-01 | 5 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,787 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 66,430 | 2026-08-01 | 5 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 66,523 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,594 | 2026-08-03 | 2 |
+| [VirusTotal/yara](../repos/VirusTotal/yara.md) | ⭐ 9,810 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sonic-net/sonic-buildimage](../repos/sonic-net/sonic-buildimage.md) | ⭐ 1,012 | 2026-08-05 | 2 |
+| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 597 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,210 | 2026-08-06 | 3 |
+| [FRRouting/frr](../repos/FRRouting/frr.md) | ⭐ 4,249 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [esnet/iperf](../repos/esnet/iperf.md) | ⭐ 8,691 | 2026-08-06 | 2 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,216 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,013 | 2026-08-07 | 2 |
+| [nrfconnect/sdk-nrf](../repos/nrfconnect/sdk-nrf.md) | ⭐ 1,406 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 38,945 | 2026-08-07 | 3 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 39,030 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/esp-claw](../repos/espressif/esp-claw.md) | ⭐ 2,001 | 2026-08-12 | 2 |
+| [memovai/mimiclaw](../repos/memovai/mimiclaw.md) | ⭐ 5,691 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [u-boot/u-boot](../repos/u-boot/u-boot.md) | ⭐ 5,188 | 2026-08-14 | 1 |
+| [espressif/esp-claw](../repos/espressif/esp-claw.md) | ⭐ 2,005 | 2026-08-12 | 3 |
 
 
 ---
@@ -52,10 +52,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,760 | 2026-08-01 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization ... |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,787 | 2026-08-01 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 66,430 | 2026-08-01 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur... |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 66,523 | 2026-08-01 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,092 | 2026-08-01 | Cross-platform asynchronous I&#x2F;O |
@@ -89,13 +89,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,507 | 2026-08-07 | 5 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,760 | 2026-08-01 | 5 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,787 | 2026-08-01 | 6 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 75,874 | 2026-08-04 | 1 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,811 | 2026-08-02 | 5 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 66,430 | 2026-08-01 | 5 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 66,523 | 2026-08-01 | 6 |
 | [git/git](../repos/git/git.md) | ⭐ 62,438 | 2026-08-05 | 2 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,280 | 2026-08-01 | 2 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 38,945 | 2026-08-07 | 3 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 39,030 | 2026-08-07 | 4 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,255 | 2026-08-08 | 3 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,462 | 2026-08-02 | 3 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,438 | 2026-08-04 | 3 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 5 | ⭐ 137,760 | 2026-08-01 | 2026-08-14 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 5 | ⭐ 66,430 | 2026-08-01 | 2026-08-14 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 6 | ⭐ 137,787 | 2026-08-01 | 2026-08-15 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 6 | ⭐ 66,523 | 2026-08-01 | 2026-08-15 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 5 | ⭐ 74,811 | 2026-08-02 | 2026-08-10 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 5 | ⭐ 147,507 | 2026-08-07 | 2026-08-12 |
 | [opa334/Dopamine](../repos/opa334/Dopamine.md) | 5 | ⭐ 6,199 | 2026-08-08 | 2026-08-12 |
+| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | 4 | ⭐ 597 | 2026-08-02 | 2026-08-15 |
 | [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 4 | ⭐ 4,408 | 2026-08-04 | 2026-08-11 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 4 | ⭐ 16,216 | 2026-08-06 | 2026-08-15 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 4 | ⭐ 39,030 | 2026-08-07 | 2026-08-15 |
 | [libuv/libuv](../repos/libuv/libuv.md) | 3 | ⭐ 27,092 | 2026-08-01 | 2026-08-12 |
-| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | 3 | ⭐ 12,917 | 2026-08-01 | 2026-08-12 |
-| [HarbourMasters/Lighthouse](../repos/HarbourMasters/Lighthouse.md) | 3 | ⭐ 307 | 2026-08-02 | 2026-08-04 |
-| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | 3 | ⭐ 546 | 2026-08-02 | 2026-08-10 |
 
 ---
 
@@ -228,7 +228,9 @@
 - [xmrig/xmrig](../repos/xmrig/xmrig.md) - RandomX, KawPow, CryptoNight and GhostRider unified CPU&#x2F;GPU miner and RandomX benchmark
 - [nuta/operating-system-in-1000-lines](../repos/nuta/operating-system-in-1000-lines.md) - Writing an OS in 1,000 lines.
 - [superturtlee/gbl_root_canoe](../repos/superturtlee/gbl_root_canoe.md) - No TrickyStore on Canoe
+- [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital hu...
+- [microsoft/msquic](../repos/microsoft/msquic.md) - Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
 
 ---
 
-*Last updated: 2026-08-14T20:58:57.958Z*
+*Last updated: 2026-08-15T21:01:40.483Z*

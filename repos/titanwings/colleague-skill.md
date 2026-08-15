@@ -1,0 +1,95 @@
+# titanwings&#x2F;colleague-skill
+
+> 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It&#39;s giving rebirth era. Welcome to Digital Life 1.0. 🫶
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;titanwings&#x2F;colleague-skill) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | Python |
+| **License** | MIT |
+| **Stars** | ⭐ 22,460 |
+| **Forks** | 🍴 2,049 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Aug 15, 2026 |
+| **Last Seen** | Aug 15, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in Python or agent-skills*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`agent-skills`](../../topics/agent-skills.md) [`ai-agent`](../../topics/ai-agent.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`hermes-agent`](../../topics/hermes-agent.md) [`knowledge-distillation`](../../topics/knowledge-distillation.md) [`meta-skill`](../../topics/meta-skill.md) [`openclaw`](../../topics/openclaw.md) [`skill-generator`](../../topics/skill-generator.md) 
+
+### Curated Categories
+`Artificial Intelligence` `Large Language Models` `Systems Programming` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
+| **Maturity** | Experimental | New project, evolving rapidly |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in Python
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-08-15T21:01:43.849Z*  
+*Data from 1 trending reports*

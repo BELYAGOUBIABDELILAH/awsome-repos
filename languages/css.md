@@ -16,16 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 920 | 2026-08-01 | 9 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,402 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,399 | 2026-08-01 | 13 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 25,084 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,314 | 2026-08-02 | 9 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,245 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,742 | 2026-08-06 | 4 |
+| [froala/wysiwyg-editor](../repos/froala/wysiwyg-editor.md) | ⭐ 5,403 | 2026-08-09 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 3,664 | 2026-08-10 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [AcademySoftwareFoundation/OpenPBR](../repos/AcademySoftwareFoundation/OpenPBR.md) | ⭐ 762 | 2026-08-15 | 1 |
 
 
 ---
@@ -46,7 +52,7 @@
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 920 | 2026-08-01 | Documentation for GX mods |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,399 | 2026-08-01 | Custom CSS theme for doxygen html-documentation with lots of customization parameters. |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,402 | 2026-08-01 | Custom CSS theme for doxygen html-documentation with lots of customization parameters. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rk192324217/cubosapiens_world-tools](../repos/rk192324217/cubosapiens_world-tools.md) | ⭐ 21 | 2026-08-01 |  |
@@ -72,10 +78,9 @@
 |------------|-------|------------|---------------|
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,742 | 2026-08-06 | 4 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,539 | 2026-08-01 | 1 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,238 | 2026-08-04 | 4 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 24,353 | 2026-08-02 | 8 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,245 | 2026-08-04 | 5 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 25,084 | 2026-08-02 | 9 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,501 | 2026-08-04 | 1 |
-| [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) | ⭐ 17,258 | 2026-08-02 | 3 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,768 | 2026-08-08 | 1 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,079 | 2026-08-01 | 10 |
@@ -90,6 +95,7 @@
 | [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,321 | 2026-08-08 | 2 |
 | [progit/progit2](../repos/progit/progit2.md) | ⭐ 6,551 | 2026-08-06 | 2 |
 | [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) | ⭐ 5,977 | 2026-08-02 | 3 |
+| [froala/wysiwyg-editor](../repos/froala/wysiwyg-editor.md) | ⭐ 5,403 | 2026-08-09 | 2 |
 
 ---
 
@@ -98,14 +104,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 13 | ⭐ 1,399 | 2026-08-01 | 2026-08-14 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 11 | ⭐ 1,402 | 2026-08-01 | 2026-08-15 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 10 | ⭐ 12,079 | 2026-08-01 | 2026-08-12 |
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 10 | ⭐ 1,399 | 2026-08-01 | 2026-08-12 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 9 | ⭐ 920 | 2026-08-01 | 2026-08-14 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 9 | ⭐ 25,084 | 2026-08-02 | 2026-08-15 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 9 | ⭐ 10,314 | 2026-08-02 | 2026-08-14 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 8 | ⭐ 24,353 | 2026-08-02 | 2026-08-12 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 5 | ⭐ 9,164 | 2026-08-01 | 2026-08-12 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 5 | ⭐ 45,245 | 2026-08-04 | 2026-08-15 |
 | [AumGupta/abyss-jellyfin](../repos/AumGupta/abyss-jellyfin.md) | 5 | ⭐ 533 | 2026-08-05 | 2026-08-12 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 4 | ⭐ 45,238 | 2026-08-04 | 2026-08-12 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 4 | ⭐ 9,451 | 2026-08-05 | 2026-08-08 |
 
 ---
@@ -126,7 +132,6 @@
 - [ZoranPandovski/awesome-testing-tools](../repos/ZoranPandovski/awesome-testing-tools.md) - 🚀 A curated list of awesome software testing tools, from unit and load to accessibility, Web3, a...
 - [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) - The Missing Semester of Your CS Education 📚
 - [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) - ConardLi&#39;s open-source Skills collection, featuring web design, knowledge retrieval, image genera...
-- [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) - A Patch for GIMP 3+ for Photoshop Users
 - [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) - Build a Jekyll blog in minutes, without touching the command line.
 - [Jenqyang/Awesome-AI-Agents](../repos/Jenqyang/Awesome-AI-Agents.md) - A collection of autonomous agents 🤖️ powered by LLM.
 - [zyronon/TypeWords](../repos/zyronon/TypeWords.md) - Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；
@@ -156,7 +161,8 @@
 - [lscambo13/ElegantFin](../repos/lscambo13/ElegantFin.md) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience wi...
 - [CodeByZach/pace](../repos/CodeByZach/pace.md) - Automatically add a progress bar to your site.
 - [apache/dubbo-website](../repos/apache/dubbo-website.md) - Apache Dubbo documents
+- [AcademySoftwareFoundation/OpenPBR](../repos/AcademySoftwareFoundation/OpenPBR.md) - Specification and reference implementation for the OpenPBR Surface shading model
 
 ---
 
-*Last updated: 2026-08-14T20:58:57.973Z*
+*Last updated: 2026-08-15T21:01:40.496Z*

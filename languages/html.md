@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 43
+- **Total Repositories**: 48
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,22 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,477 | 2026-08-01 | 6 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,696 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,774 | 2026-08-01 | 3 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 12,953 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,095 | 2026-08-01 | 4 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,096 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,787 | 2026-08-08 | 5 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,888 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 17,073 | 2026-08-12 | 2 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 18,499 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | ⭐ 1,632 | 2026-08-14 | 1 |
+| [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | ⭐ 1,652 | 2026-08-14 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Arrow-air/project-quiver](../repos/Arrow-air/project-quiver.md) | ⭐ 285 | 2026-08-15 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [L1AD/claude-task-viewer](../repos/L1AD/claude-task-viewer.md) | ⭐ 752 | 2026-08-15 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [github/training-kit](../repos/github/training-kit.md) | ⭐ 5,055 | 2026-08-15 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [colonelpanichacks/flock-you](../repos/colonelpanichacks/flock-you.md) | ⭐ 1,281 | 2026-08-15 | 1 |
 
 
 ---
@@ -46,7 +58,7 @@
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,616 | 2026-08-01 | A collection of several hundred online tools for OSINT |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,680 | 2026-08-01 | :blue_book: Home Assistant User documentation |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,696 | 2026-08-01 | :blue_book: Home Assistant User documentation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 7,828 | 2026-08-01 | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional... |
@@ -77,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 207,704 | 2026-08-03 | 2 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,787 | 2026-08-08 | 5 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,888 | 2026-08-08 | 6 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,477 | 2026-08-01 | 6 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,095 | 2026-08-01 | 4 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,483 | 2026-08-07 | 1 |
@@ -86,14 +98,14 @@
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,091 | 2026-08-03 | 4 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,854 | 2026-08-04 | 4 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,307 | 2026-08-03 | 1 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 18,499 | 2026-08-12 | 3 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 18,300 | 2026-08-01 | 1 |
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 17,073 | 2026-08-12 | 2 |
 | [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,567 | 2026-08-02 | 2 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,434 | 2026-08-04 | 4 |
 | [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,264 | 2026-08-05 | 1 |
 | [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,067 | 2026-08-07 | 1 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 12,953 | 2026-08-04 | 7 |
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 11,860 | 2026-08-01 | 1 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 10,882 | 2026-08-04 | 6 |
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,774 | 2026-08-01 | 3 |
 | [cotes2020/jekyll-theme-chirpy](../repos/cotes2020/jekyll-theme-chirpy.md) | ⭐ 10,206 | 2026-08-05 | 1 |
 
@@ -103,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 7 | ⭐ 12,953 | 2026-08-04 | 2026-08-15 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 6 | ⭐ 64,477 | 2026-08-01 | 2026-08-14 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 6 | ⭐ 10,882 | 2026-08-04 | 2026-08-09 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 5 | ⭐ 131,787 | 2026-08-08 | 2026-08-14 |
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 4 | ⭐ 9,680 | 2026-08-01 | 2026-08-09 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 6 | ⭐ 131,888 | 2026-08-08 | 2026-08-15 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 5 | ⭐ 9,696 | 2026-08-01 | 2026-08-15 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | 4 | ⭐ 46,095 | 2026-08-01 | 2026-08-14 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 4 | ⭐ 27,091 | 2026-08-03 | 2026-08-12 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 4 | ⭐ 23,854 | 2026-08-04 | 2026-08-12 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 4 | ⭐ 16,434 | 2026-08-04 | 2026-08-11 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 4 | ⭐ 6,096 | 2026-08-05 | 2026-08-15 |
 | [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | 3 | ⭐ 7,828 | 2026-08-01 | 2026-08-12 |
-| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | 3 | ⭐ 10,774 | 2026-08-01 | 2026-08-14 |
 
 ---
 
@@ -161,7 +173,12 @@
 - [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - [alpinejs/alpine](../repos/alpinejs/alpine.md) - A rugged, minimal framework for composing JavaScript behavior in your markup. 
 - [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) - AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos,...
+- [Arrow-air/project-quiver](../repos/Arrow-air/project-quiver.md) - Project Quiver documentation, designs, and project artifacts.
+- [L1AD/claude-task-viewer](../repos/L1AD/claude-task-viewer.md) - A web-based Kanban board for viewing Claude Code tasks
+- [github/training-kit](../repos/github/training-kit.md) - Open source courseware for Git and GitHub
+- [colonelpanichacks/flock-you](../repos/colonelpanichacks/flock-you.md) - flock cam detection
+- [judge0/judge0](../repos/judge0/judge0.md) - Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.
 
 ---
 
-*Last updated: 2026-08-14T20:58:57.991Z*
+*Last updated: 2026-08-15T21:01:40.513Z*

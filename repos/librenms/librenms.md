@@ -13,12 +13,12 @@
 | **Language** | PHP |
 | **License** | Other |
 | **Stars** | ⭐ 4,836 |
-| **Forks** | 🍴 2,762 |
-| **Trending Days** | 5 |
+| **Forks** | 🍴 2,761 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 14, 2026 |
+| **Last Seen** | Aug 15, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 3 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-14T20:59:00.116Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-08-15T21:01:42.757Z*  
+*Data from 6 trending reports*

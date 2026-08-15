@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | HTML |
 | **License** | MIT |
-| **Stars** | ⭐ 10,882 |
-| **Forks** | 🍴 839 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 12,953 |
+| **Forks** | 🍴 954 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 9, 2026 |
+| **Last Seen** | Aug 15, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 6 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`agent-skills`](../../topics/agent-skills.md) [`anthropic`](../../topics/anthropic.md) [`architecture-diagram`](../../topics/architecture-diagram.md) [`claude-skill`](../../topics/claude-skill.md) [`codex`](../../topics/codex.md) [`dark-mode`](../../topics/dark-mode.md) [`data-flow-diagram`](../../topics/data-flow-diagram.md) [`developer-tools`](../../topics/developer-tools.md) [`diagram-as-code`](../../topics/diagram-as-code.md) [`html-diagram`](../../topics/html-diagram.md) [`lifecycle-diagram`](../../topics/lifecycle-diagram.md) [`mermaid-alternative`](../../topics/mermaid-alternative.md) [`opencode`](../../topics/opencode.md) [`sequence-diagram`](../../topics/sequence-diagram.md) [`svg`](../../topics/svg.md) [`system-design`](../../topics/system-design.md) [`workflow-diagram`](../../topics/workflow-diagram.md) 
+[`agent-skills`](../../topics/agent-skills.md) [`anthropic`](../../topics/anthropic.md) [`architecture-diagram`](../../topics/architecture-diagram.md) [`claude-skill`](../../topics/claude-skill.md) [`codex`](../../topics/codex.md) [`dark-mode`](../../topics/dark-mode.md) [`data-flow-diagram`](../../topics/data-flow-diagram.md) [`deepseek-harness`](../../topics/deepseek-harness.md) [`developer-tools`](../../topics/developer-tools.md) [`diagram-as-code`](../../topics/diagram-as-code.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`html-diagram`](../../topics/html-diagram.md) [`lifecycle-diagram`](../../topics/lifecycle-diagram.md) [`mermaid-alternative`](../../topics/mermaid-alternative.md) [`opencode`](../../topics/opencode.md) [`sequence-diagram`](../../topics/sequence-diagram.md) [`svg`](../../topics/svg.md) [`system-design`](../../topics/system-design.md) [`workflow-diagram`](../../topics/workflow-diagram.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Frontend Development` `Systems Programming` `Developer Tools` `Automation` 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-14T20:59:00.191Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-08-15T21:01:42.832Z*  
+*Data from 7 trending reports*

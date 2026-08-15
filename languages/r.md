@@ -16,31 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,581 | 2026-08-01 | 9 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,581 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 650 | 2026-08-01 | 9 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 651 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,784 | 2026-08-01 | 9 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,786 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 10 |
+| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,908 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,677 | 2026-08-02 | 5 |
+| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,134 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,056 | 2026-08-04 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,908 | 2026-08-04 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,980 | 2026-08-04 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 378 | 2026-08-08 | 5 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 378 | 2026-08-08 | 6 |
 
 
 ---
@@ -52,10 +43,10 @@
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,581 | 2026-08-01 | :mortar_board: A collection of interactive courses for the swirl R package. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 650 | 2026-08-01 | R toolkit for inference, visualization and analysis of cell-cell communication from single-cell a... |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 651 | 2026-08-01 | R toolkit for inference, visualization and analysis of cell-cell communication from single-cell a... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,784 | 2026-08-01 | R toolkit for single cell genomics |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,786 | 2026-08-01 | R toolkit for single cell genomics |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | Repository for Programming Assignment 2 for R Programming on Coursera |
@@ -76,7 +67,7 @@
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,980 | 2026-08-04 | An implementation of the Grammar of Graphics in R |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,127 | 2026-08-04 | R for data science: a book |
+| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,134 | 2026-08-04 | R for data science: a book |
 
 
 ---
@@ -87,18 +78,18 @@
 |------------|-------|------------|---------------|
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,980 | 2026-08-04 | 5 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,677 | 2026-08-02 | 5 |
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,127 | 2026-08-04 | 2 |
+| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,134 | 2026-08-04 | 3 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,056 | 2026-08-04 | 4 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,581 | 2026-08-01 | 9 |
-| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,908 | 2026-08-04 | 4 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,581 | 2026-08-01 | 10 |
+| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,908 | 2026-08-04 | 5 |
 | [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,054 | 2026-08-08 | 1 |
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,784 | 2026-08-01 | 9 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,786 | 2026-08-01 | 10 |
 | [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,440 | 2026-08-04 | 2 |
 | [rstudio/renv](../repos/rstudio/renv.md) | ⭐ 1,160 | 2026-08-06 | 1 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 10 |
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 650 | 2026-08-01 | 9 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 651 | 2026-08-01 | 10 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 466 | 2026-08-03 | 4 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 378 | 2026-08-08 | 5 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 378 | 2026-08-08 | 6 |
 | [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 151 | 2026-08-09 | 3 |
 
 ---
@@ -107,16 +98,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 10 | ⭐ 4,581 | 2026-08-01 | 2026-08-15 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 10 | ⭐ 651 | 2026-08-01 | 2026-08-15 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | 10 | ⭐ 2,786 | 2026-08-01 | 2026-08-15 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 10 | ⭐ 889 | 2026-08-01 | 2026-08-14 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 9 | ⭐ 4,581 | 2026-08-01 | 2026-08-14 |
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 9 | ⭐ 650 | 2026-08-01 | 2026-08-14 |
-| [satijalab/seurat](../repos/satijalab/seurat.md) | 9 | ⭐ 2,784 | 2026-08-01 | 2026-08-14 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 6 | ⭐ 378 | 2026-08-08 | 2026-08-15 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | 5 | ⭐ 5,677 | 2026-08-02 | 2026-08-14 |
+| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 5 | ⭐ 3,908 | 2026-08-04 | 2026-08-15 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 5 | ⭐ 6,980 | 2026-08-04 | 2026-08-14 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 5 | ⭐ 378 | 2026-08-08 | 2026-08-14 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | 4 | ⭐ 466 | 2026-08-03 | 2026-08-09 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 4 | ⭐ 5,056 | 2026-08-04 | 2026-08-14 |
-| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 4 | ⭐ 3,908 | 2026-08-04 | 2026-08-14 |
 
 ---
 
@@ -140,4 +131,4 @@
 
 ---
 
-*Last updated: 2026-08-14T20:58:58.017Z*
+*Last updated: 2026-08-15T21:01:40.538Z*

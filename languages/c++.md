@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 130
+- **Total Repositories**: 135
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-07
+- **Last Updated**: 2026-08-15
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,926 | 2026-08-01 | 9 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,043 | 2026-07-30 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,730 | 2026-08-01 | 5 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 462 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 28,900 | 2026-08-03 | 4 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,482 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 38,927 | 2026-08-04 | 5 |
+| [ceph/ceph](../repos/ceph/ceph.md) | ⭐ 16,938 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,607 | 2026-08-06 | 2 |
+| [catchorg/Catch2](../repos/catchorg/Catch2.md) | ⭐ 21,429 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BruceDevices/firmware](../repos/BruceDevices/firmware.md) | ⭐ 6,441 | 2026-08-08 | 2 |
+| [dmlc/xgboost](../repos/dmlc/xgboost.md) | ⭐ 28,656 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 6,750 | 2026-08-10 | 2 |
+| [envoyproxy/envoy](../repos/envoyproxy/envoy.md) | ⭐ 28,781 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/intelligent-terminal](../repos/microsoft/intelligent-terminal.md) | ⭐ 1,744 | 2026-08-12 | 2 |
+| [google/perfetto](../repos/google/perfetto.md) | ⭐ 6,348 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/arrow](../repos/apache/arrow.md) | ⭐ 17,024 | 2026-08-12 | 2 |
+| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 25,596 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fmtlib/fmt](../repos/fmtlib/fmt.md) | ⭐ 23,740 | 2026-08-12 | 2 |
+| [NVIDIA/cccl](../repos/NVIDIA/cccl.md) | ⭐ 2,473 | 2026-08-14 | 2 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,905 | 2026-07-30 | An Open Source Machine Learning Framework for Everyone |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,043 | 2026-07-30 | An Open Source Machine Learning Framework for Everyone |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,453 | 2026-08-01 | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  |
@@ -79,7 +79,7 @@
 | [gem5/gem5](../repos/gem5/gem5.md) | ⭐ 2,737 | 2026-08-01 | The official repository for the gem5 computer-system architecture simulator. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,444 | 2026-08-01 | Fast C++ logging library. |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,482 | 2026-08-01 | Fast C++ logging library. |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,905 | 2026-07-30 | 6 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,043 | 2026-07-30 | 7 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,334 | 2026-08-04 | 2 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,926 | 2026-08-01 | 9 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,394 | 2026-08-01 | 3 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 9 | ⭐ 123,926 | 2026-08-01 | 2026-08-14 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 7 | ⭐ 197,043 | 2026-07-30 | 2026-08-15 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 7 | ⭐ 65,473 | 2026-08-05 | 2026-08-12 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 6 | ⭐ 196,905 | 2026-07-30 | 2026-08-07 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 5 | ⭐ 71,730 | 2026-08-01 | 2026-08-14 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 5 | ⭐ 115,269 | 2026-08-01 | 2026-08-06 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | 5 | ⭐ 29,482 | 2026-08-01 | 2026-08-15 |
 | [google/googletest](../repos/google/googletest.md) | 5 | ⭐ 38,927 | 2026-08-04 | 2026-08-14 |
-| [gabime/spdlog](../repos/gabime/spdlog.md) | 4 | ⭐ 29,444 | 2026-08-01 | 2026-08-06 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 4 | ⭐ 462 | 2026-08-01 | 2026-08-15 |
 | [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | 4 | ⭐ 15,680 | 2026-08-02 | 2026-08-12 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 4 | ⭐ 28,900 | 2026-08-03 | 2026-08-14 |
-| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | 3 | ⭐ 5,453 | 2026-08-01 | 2026-08-12 |
 
 ---
 
@@ -149,7 +149,6 @@
 - [v8/v8](../repos/v8/v8.md) - The official mirror of the V8 Git repository
 - [electron/electron](../repos/electron/electron.md) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [espressif/arduino-esp32](../repos/espressif/arduino-esp32.md) - Arduino core for the ESP32 family of SoCs
-- [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
 - [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) - Port of OpenAI&#39;s Whisper model in C&#x2F;C++
 - [sz3/libcimbar](../repos/sz3/libcimbar.md) - Optimized implementation for color-icon-matrix barcodes
 - [grpc/grpc](../repos/grpc/grpc.md) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
@@ -230,7 +229,8 @@
 - [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) - Distribute and run LLMs with a single file.
 - [YimMenu/YimMenuV2](../repos/YimMenu/YimMenuV2.md) - Experimental menu for GTA 5: Enhanced
 - [futo-org/android-keyboard](../repos/futo-org/android-keyboard.md) - Official FUTO Keyboard Issue Tracker and Source Mirror of https:&#x2F;&#x2F;gitlab.futo.org&#x2F;keyboard&#x2F;latinime
+- [audacity/audacity](../repos/audacity/audacity.md) - Audio Editor                                     
 
 ---
 
-*Last updated: 2026-08-14T20:58:57.969Z*
+*Last updated: 2026-08-15T21:01:40.495Z*

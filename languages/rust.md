@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 97
+- **Total Repositories**: 99
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-05
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | ⭐ 12,807 | 2026-08-01 | 4 |
+| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | ⭐ 12,838 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,499 | 2026-08-01 | 3 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 14,965 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [macro-inc/macro](../repos/macro-inc/macro.md) | ⭐ 2,981 | 2026-08-11 | 3 |
+| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,528 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,422 | 2026-08-11 | 2 |
+| [EFForg/rayhunter](../repos/EFForg/rayhunter.md) | ⭐ 5,525 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA-NeMo/Switchyard](../repos/NVIDIA-NeMo/Switchyard.md) | ⭐ 1,448 | 2026-08-12 | 2 |
+| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 14,467 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BoundaryML/baml](../repos/BoundaryML/baml.md) | ⭐ 9,004 | 2026-08-12 | 2 |
+| [macro-inc/macro](../repos/macro-inc/macro.md) | ⭐ 3,251 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 15,764 | 2026-08-14 | 1 |
+| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,413 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [waditu/czsc](../repos/waditu/czsc.md) | ⭐ 5,834 | 2026-08-14 | 1 |
+| [NVIDIA-NeMo/Switchyard](../repos/NVIDIA-NeMo/Switchyard.md) | ⭐ 1,565 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kenforthewin/atomic](../repos/kenforthewin/atomic.md) | ⭐ 1,866 | 2026-08-14 | 1 |
+| [kenforthewin/atomic](../repos/kenforthewin/atomic.md) | ⭐ 1,889 | 2026-08-14 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 
 
 ---
@@ -67,7 +70,7 @@
 | [modelcontextprotocol/rust-sdk](../repos/modelcontextprotocol/rust-sdk.md) | ⭐ 3,724 | 2026-08-01 | The official Rust SDK for the Model Context Protocol |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | ⭐ 12,807 | 2026-08-01 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
+| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | ⭐ 12,838 | 2026-08-01 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openai/codex](../repos/openai/codex.md) | ⭐ 105,551 | 2026-08-01 | Lightweight coding agent that runs in your terminal |
@@ -88,10 +91,11 @@
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,277 | 2026-07-30 | 5 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,046 | 2026-07-30 | 2 |
 | [openai/codex](../repos/openai/codex.md) | ⭐ 105,551 | 2026-08-01 | 4 |
-| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,422 | 2026-08-11 | 2 |
+| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,413 | 2026-08-11 | 3 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 89,784 | 2026-08-09 | 4 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | 2026-07-31 | 2 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
+| [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,169 | 2026-08-12 | 1 |
@@ -104,7 +108,6 @@
 | [surrealdb/surrealdb](../repos/surrealdb/surrealdb.md) | ⭐ 32,874 | 2026-08-09 | 2 |
 | [zeroclaw-labs/zeroclaw](../repos/zeroclaw-labs/zeroclaw.md) | ⭐ 32,484 | 2026-08-02 | 1 |
 | [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 30,985 | 2026-08-09 | 2 |
-| [vercel/turborepo](../repos/vercel/turborepo.md) | ⭐ 30,836 | 2026-08-02 | 1 |
 
 ---
 
@@ -113,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 5 | ⭐ 115,277 | 2026-07-30 | 2026-08-05 |
-| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 4 | ⭐ 12,807 | 2026-08-01 | 2026-08-14 |
+| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 5 | ⭐ 12,838 | 2026-08-01 | 2026-08-15 |
 | [openai/codex](../repos/openai/codex.md) | 4 | ⭐ 105,551 | 2026-08-01 | 2026-08-12 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 4 | ⭐ 14,965 | 2026-08-01 | 2026-08-15 |
+| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | 4 | ⭐ 7,528 | 2026-08-01 | 2026-08-15 |
 | [moghtech/komodo](../repos/moghtech/komodo.md) | 4 | ⭐ 11,836 | 2026-08-02 | 2026-08-05 |
 | [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | 4 | ⭐ 12,324 | 2026-08-03 | 2026-08-06 |
 | [katanemo/plano](../repos/katanemo/plano.md) | 4 | ⭐ 6,977 | 2026-08-03 | 2026-08-06 |
 | [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | 4 | ⭐ 5,377 | 2026-08-03 | 2026-08-06 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | 4 | ⭐ 43,464 | 2026-08-05 | 2026-08-12 |
-| [denoland/celld](../repos/denoland/celld.md) | 4 | ⭐ 2,993 | 2026-08-07 | 2026-08-10 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 4 | ⭐ 89,784 | 2026-08-09 | 2026-08-12 |
 
 ---
 
@@ -224,7 +227,9 @@
 - [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity &#x2F; Codex &#x2F; GitHub Copilot &#x2F; Windsurf &#x2F; Kiro &#x2F; Cursor &#x2F; Gemini-...
 - [waditu/czsc](../repos/waditu/czsc.md) - 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易
 - [kenforthewin/atomic](../repos/kenforthewin/atomic.md) - Self-hosted, semantically-connected personal knowledge base
+- [unionlabs/union](../repos/unionlabs/union.md) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extrem...
+- [base/base](../repos/base/base.md) - All components used to run Base
 
 ---
 
-*Last updated: 2026-08-14T20:58:58.022Z*
+*Last updated: 2026-08-15T21:01:40.543Z*

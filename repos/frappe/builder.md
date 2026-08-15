@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Vue |
+| **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 2,265 |
-| **Forks** | 🍴 508 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 2,299 |
+| **Forks** | 🍴 517 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 12, 2026 |
+| **Last Seen** | Aug 15, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Vue or ai-website-builder*
+*Similar: Check repositories in Python or ai-website-builder*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Vue
+- Check similar projects in Python
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 55&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-14T20:58:59.997Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-15T21:01:42.634Z*  
+*Data from 4 trending reports*

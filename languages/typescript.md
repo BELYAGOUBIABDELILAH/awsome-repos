@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 103
+- **Total Repositories**: 113
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,790 | 2026-08-01 | 3 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,930 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [portainer/portainer](../repos/portainer/portainer.md) | ⭐ 38,244 | 2026-08-01 | 2 |
+| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,281 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 24,810 | 2026-08-02 | 5 |
+| [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) | ⭐ 9,549 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 90,400 | 2026-08-07 | 4 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 90,880 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 45,609 | 2026-08-11 | 3 |
+| [vercel-labs/deepsec](../repos/vercel-labs/deepsec.md) | ⭐ 7,657 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZuodaoTech/everyone-can-use-english](../repos/ZuodaoTech/everyone-can-use-english.md) | ⭐ 36,431 | 2026-08-12 | 2 |
+| [dubinc/dub](../repos/dubinc/dub.md) | ⭐ 24,401 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [holaboss-ai/holaOS](../repos/holaboss-ai/holaOS.md) | ⭐ 7,221 | 2026-08-12 | 2 |
+| [pacifio/atlas](../repos/pacifio/atlas.md) | ⭐ 1,037 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 84,049 | 2026-08-14 | 1 |
+| [cordiverse/cordis](../repos/cordiverse/cordis.md) | ⭐ 4,005 | 2026-08-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jakubantalik/Libraries](../repos/Jakubantalik/Libraries.md) | ⭐ 1,938 | 2026-08-14 | 1 |
+| [THU-MAIC/OpenMAIC](../repos/THU-MAIC/OpenMAIC.md) | ⭐ 20,776 | 2026-08-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 11,908 | 2026-08-14 | 1 |
+| [strapi/strapi](../repos/strapi/strapi.md) | ⭐ 72,929 | 2026-08-15 | 1 |
 
 
 ---
@@ -64,7 +64,7 @@
 | [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 20,293 | 2026-08-01 | The open-source alternative to Claude Cowork (powered by opencode) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,790 | 2026-08-01 | Cursor plugin specification and official plugins |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,930 | 2026-08-01 | Cursor plugin specification and official plugins |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 17,453 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
@@ -94,20 +94,20 @@
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 127,577 | 2026-08-02 | 3 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,166 | 2026-08-15 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,950 | 2026-08-04 | 2 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 96,831 | 2026-08-04 | 2 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 90,880 | 2026-08-07 | 5 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 90,400 | 2026-08-07 | 4 |
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 84,049 | 2026-08-14 | 1 |
 | [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | 2026-08-12 | 1 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 77,659 | 2026-08-02 | 4 |
-| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,054 | 2026-08-04 | 1 |
+| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,281 | 2026-08-04 | 2 |
 | [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | ⭐ 75,400 | 2026-07-31 | 1 |
+| [strapi/strapi](../repos/strapi/strapi.md) | ⭐ 72,929 | 2026-08-15 | 1 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 67,574 | 2026-08-10 | 1 |
 | [reduxjs/redux](../repos/reduxjs/redux.md) | ⭐ 61,511 | 2026-08-04 | 1 |
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | 2026-08-01 | 1 |
-| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 55,690 | 2026-08-06 | 2 |
-| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 54,821 | 2026-08-12 | 1 |
 
 ---
 
@@ -122,9 +122,9 @@
 | [cloudflare/computer](../repos/cloudflare/computer.md) | 5 | ⭐ 6,976 | 2026-08-05 | 2026-08-09 |
 | [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | 5 | ⭐ 13,986 | 2026-08-07 | 2026-08-11 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | 5 | ⭐ 166,401 | 2026-08-07 | 2026-08-12 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | 5 | ⭐ 90,880 | 2026-08-07 | 2026-08-15 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 4 | ⭐ 2,930 | 2026-08-01 | 2026-08-15 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | 4 | ⭐ 77,659 | 2026-08-02 | 2026-08-12 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | 4 | ⭐ 90,400 | 2026-08-07 | 2026-08-14 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 3 | ⭐ 2,790 | 2026-08-01 | 2026-08-14 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-14T20:58:58.031Z*
+*Last updated: 2026-08-15T21:01:40.551Z*

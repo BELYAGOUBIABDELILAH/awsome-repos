@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 90
+- **Total Repositories**: 93
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 4,289 | 2026-08-02 | 8 |
+| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 6,917 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 6,898 | 2026-08-02 | 2 |
+| [nextcloud/android](../repos/nextcloud/android.md) | ⭐ 5,511 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | ⭐ 1,641 | 2026-08-03 | 5 |
+| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 5,662 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 40,889 | 2026-08-03 | 2 |
+| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 753 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 742 | 2026-08-04 | 3 |
+| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 531 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [element-hq/element-x-android](../repos/element-hq/element-x-android.md) | ⭐ 2,325 | 2026-08-04 | 3 |
+| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | ⭐ 5,328 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | ⭐ 5,325 | 2026-08-11 | 2 |
+| [tristinbaker/IdleFantasy](../repos/tristinbaker/IdleFantasy.md) | ⭐ 399 | 2026-08-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RetroMusicPlayer/RetroMusicPlayer](../repos/RetroMusicPlayer/RetroMusicPlayer.md) | ⭐ 5,245 | 2026-08-14 | 1 |
+| [wgtunnel/android](../repos/wgtunnel/android.md) | ⭐ 3,019 | 2026-08-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [element-hq/element-android](../repos/element-hq/element-android.md) | ⭐ 3,718 | 2026-08-14 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [sky-map-team/stardroid](../repos/sky-map-team/stardroid.md) | ⭐ 1,789 | 2026-08-14 | 1 |
+| [osfans/trime](../repos/osfans/trime.md) | ⭐ 4,557 | 2026-08-15 | 1 |
 
 
 ---
@@ -121,10 +118,10 @@
 | [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | 5 | ⭐ 1,641 | 2026-08-03 | 2026-08-14 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 5 | ⭐ 50,176 | 2026-08-06 | 2026-08-10 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 4 | ⭐ 2,129 | 2026-08-02 | 2026-08-12 |
+| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | 4 | ⭐ 5,662 | 2026-08-02 | 2026-08-15 |
+| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | 4 | ⭐ 753 | 2026-08-04 | 2026-08-15 |
+| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 4 | ⭐ 531 | 2026-08-05 | 2026-08-15 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 4 | ⭐ 28,695 | 2026-08-08 | 2026-08-11 |
-| [android/nowinandroid](../repos/android/nowinandroid.md) | 3 | ⭐ 21,661 | 2026-08-01 | 2026-08-11 |
-| [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | 3 | ⭐ 6,331 | 2026-08-01 | 2026-08-11 |
-| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | 3 | ⭐ 603 | 2026-08-02 | 2026-08-04 |
 
 ---
 
@@ -220,7 +217,10 @@
 - [element-hq/element-android](../repos/element-hq/element-android.md) - A Matrix collaboration client for Android.
 - [sky-map-team/stardroid](../repos/sky-map-team/stardroid.md) - Sky Map (formerly Google Sky Map, open sourced in 2012)
 - [OuterTune/OuterTune](../repos/OuterTune/OuterTune.md) - A Material 3 Music Player for Android with local file &amp; YouTube Music support. Forked from InnerTune
+- [tristinbaker/IdleFantasy](../repos/tristinbaker/IdleFantasy.md) - Fantasy Inspired Idle Skilling Game
+- [wgtunnel/android](../repos/wgtunnel/android.md) - A FOSS WireGuard &amp; AmneziaWG Android client with auto-tunneling, lockdown &amp; local proxying.
+- [osfans/trime](../repos/osfans/trime.md) - 同文安卓輸入法平臺3.x&#x2F;Android-rime&#x2F;Rime Input Method Engine for Android
 
 ---
 
-*Last updated: 2026-08-14T20:58:58.001Z*
+*Last updated: 2026-08-15T21:01:40.522Z*

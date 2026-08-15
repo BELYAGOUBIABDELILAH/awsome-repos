@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 120
+- **Total Repositories**: 126
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,114 | 2026-08-01 | 2 |
+| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,412 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,571 | 2026-08-01 | 3 |
+| [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,697 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,523 | 2026-08-01 | 4 |
+| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,618 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,672 | 2026-08-01 | 4 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,827 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 4,909 | 2026-08-04 | 2 |
+| [bazelbuild/bazel](../repos/bazelbuild/bazel.md) | ⭐ 25,716 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/doris](../repos/apache/doris.md) | ⭐ 15,768 | 2026-08-05 | 2 |
+| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,155 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 11,992 | 2026-08-05 | 3 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,438 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quarkusio/quarkus](../repos/quarkusio/quarkus.md) | ⭐ 15,826 | 2026-08-07 | 2 |
+| [apache/doris](../repos/apache/doris.md) | ⭐ 15,774 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,076 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/spring-ai-alibaba](../repos/alibaba/spring-ai-alibaba.md) | ⭐ 10,601 | 2026-08-11 | 3 |
+| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,009 | 2026-08-05 | 4 |
 
 
 ---
@@ -52,10 +52,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,340 | 2026-08-01 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,412 | 2026-08-01 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,643 | 2026-08-01 | morphe patches for twitter and instagram |
+| [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,697 | 2026-08-01 | morphe patches for twitter and instagram |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alibaba/fastjson2](../repos/alibaba/fastjson2.md) | ⭐ 4,372 | 2026-08-01 | 🚄 FASTJSON2 is a Java JSON  library with excellent performance. |
@@ -90,14 +90,14 @@
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 129,236 | 2026-08-04 | 2 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,282 | 2026-08-04 | 3 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,789 | 2026-08-02 | 4 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,827 | 2026-08-02 | 5 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,145 | 2026-08-03 | 5 |
-| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,110 | 2026-08-04 | 3 |
+| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,155 | 2026-08-04 | 4 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,197 | 2026-08-08 | 2 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,889 | 2026-08-02 | 6 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,424 | 2026-08-04 | 4 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,438 | 2026-08-04 | 5 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,036 | 2026-08-12 | 1 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,318 | 2026-08-07 | 1 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,325 | 2026-08-05 | 2 |
@@ -105,9 +105,9 @@
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,618 | 2026-08-06 | 3 |
 | [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,425 | 2026-08-08 | 1 |
 | [apache/kafka](../repos/apache/kafka.md) | ⭐ 33,533 | 2026-08-12 | 1 |
+| [alibaba/nacos](../repos/alibaba/nacos.md) | ⭐ 33,271 | 2026-08-15 | 1 |
 | [binarywang/WxJava](../repos/binarywang/WxJava.md) | ⭐ 33,017 | 2026-08-12 | 1 |
 | [conductor-oss/conductor](../repos/conductor-oss/conductor.md) | ⭐ 32,066 | 2026-08-09 | 1 |
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 31,740 | 2026-08-04 | 1 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [google/guava](../repos/google/guava.md) | 6 | ⭐ 51,889 | 2026-08-02 | 2026-08-09 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 5 | ⭐ 77,827 | 2026-08-02 | 2026-08-15 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 5 | ⭐ 72,145 | 2026-08-03 | 2026-08-09 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 5 | ⭐ 51,438 | 2026-08-04 | 2026-08-15 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 5 | ⭐ 5,076 | 2026-08-05 | 2026-08-15 |
+| [github/copilot-sdk](../repos/github/copilot-sdk.md) | 4 | ⭐ 10,412 | 2026-08-01 | 2026-08-15 |
 | [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | 4 | ⭐ 9,269 | 2026-08-01 | 2026-08-08 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 4 | ⭐ 13,523 | 2026-08-01 | 2026-08-14 |
 | [OpenLineage/OpenLineage](../repos/OpenLineage/OpenLineage.md) | 4 | ⭐ 2,597 | 2026-08-01 | 2026-08-11 |
 | [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | 4 | ⭐ 26,672 | 2026-08-01 | 2026-08-14 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 4 | ⭐ 26,093 | 2026-08-02 | 2026-08-12 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 4 | ⭐ 77,789 | 2026-08-02 | 2026-08-06 |
-| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | 4 | ⭐ 2,435 | 2026-08-02 | 2026-08-10 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 4 | ⭐ 27,786 | 2026-08-04 | 2026-08-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-14T20:58:57.994Z*
+*Last updated: 2026-08-15T21:01:40.516Z*

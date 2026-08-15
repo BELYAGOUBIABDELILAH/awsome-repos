@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 72
+- **Total Repositories**: 75
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xuanyustudio/LocalMiniDrama](../repos/xuanyustudio/LocalMiniDrama.md) | ⭐ 1,285 | 2026-08-05 | 2 |
+| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | ⭐ 965 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | ⭐ 962 | 2026-08-05 | 2 |
+| [OpenSenseNova/SenseNova-Skills](../repos/OpenSenseNova/SenseNova-Skills.md) | ⭐ 4,919 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 6,572 | 2026-08-10 | 2 |
+| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,912 | 2026-08-11 | 2 |
+| [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) | ⭐ 27,527 | 2026-08-12 | 2 |
+| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 10,880 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 10,306 | 2026-08-14 | 1 |
+| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 2,053 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 1,994 | 2026-08-14 | 1 |
+| [OpenSignLabs/OpenSign](../repos/OpenSignLabs/OpenSign.md) | ⭐ 6,847 | 2026-08-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) | ⭐ 5,775 | 2026-08-14 | 1 |
+| [JannisX11/blockbench](../repos/JannisX11/blockbench.md) | ⭐ 5,789 | 2026-08-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dataease/SQLBot](../repos/dataease/SQLBot.md) | ⭐ 6,607 | 2026-08-14 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [WebKit/WebKit](../repos/WebKit/WebKit.md) | ⭐ 10,069 | 2026-08-14 | 1 |
+| [carbon-design-system/carbon](../repos/carbon-design-system/carbon.md) | ⭐ 9,358 | 2026-08-15 | 1 |
 
 
 ---
@@ -91,7 +88,7 @@
 | [react/react](../repos/react/react.md) | ⭐ 246,953 | 2026-08-04 | 1 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | 2026-08-06 | 2 |
-| [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,134 | 2026-08-12 | 1 |
+| [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | 2026-07-30 | 6 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
@@ -100,7 +97,7 @@
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
-| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,322 | 2026-08-11 | 2 |
+| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 58,350 | 2026-08-01 | 5 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 56,691 | 2026-08-05 | 2 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,912 | 2026-08-11 | 2 |
@@ -202,7 +199,10 @@
 - [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项...
 - [dataease/SQLBot](../repos/dataease/SQLBot.md) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 - [WebKit/WebKit](../repos/WebKit/WebKit.md) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other app...
+- [OpenSignLabs/OpenSign](../repos/OpenSignLabs/OpenSign.md) - 🔥 The free &amp; Open Source DocuSign alternative
+- [JannisX11/blockbench](../repos/JannisX11/blockbench.md) - Blockbench - A low poly 3D model editor
+- [carbon-design-system/carbon](../repos/carbon-design-system/carbon.md) - A design system built by IBM
 
 ---
 
-*Last updated: 2026-08-14T20:58:57.996Z*
+*Last updated: 2026-08-15T21:01:40.518Z*

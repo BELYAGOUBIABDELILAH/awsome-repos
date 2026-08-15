@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | C++ |
+| **Language** | C# |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 22,282 |
-| **Forks** | 🍴 2,750 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 22,564 |
+| **Forks** | 🍴 2,787 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 3, 2026 |
+| **Last Seen** | Aug 15, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in C++ or arknights*
+*Similar: Check repositories in C# or arknights*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -68,12 +68,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Advanced | Requires systems programming knowledge |
+| **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
-| **Learning Curve** | Hard | Requires domain expertise |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
 - General purpose
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in C++
+- Check similar projects in C#
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-14T20:58:59.634Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-15T21:01:42.272Z*  
+*Data from 3 trending reports*

@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | CSS |
+| **Language** | Python |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 17,258 |
-| **Forks** | 🍴 701 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 17,441 |
+| **Forks** | 🍴 708 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 4, 2026 |
+| **Last Seen** | Aug 15, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in CSS or similar-topics*
+*Similar: Check repositories in Python or similar-topics*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 3 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in CSS
+- Check similar projects in Python
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 60&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-14T20:58:59.777Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-15T21:01:42.413Z*  
+*Data from 4 trending reports*

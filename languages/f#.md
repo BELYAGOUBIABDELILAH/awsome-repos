@@ -8,14 +8,16 @@
 
 - **Total Repositories**: 3
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-12
+- **Last Updated**: 2026-08-15
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,320 | 2026-08-01 | 11 |
 
-*No F# repositories trending today*
 
 ---
 
@@ -23,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,322 | 2026-08-01 | The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,320 | 2026-08-01 | The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [dotnet/performance](../repos/dotnet/performance.md) | ⭐ 771 | 2026-08-07 | This repo contains benchmarks used for testing the performance of all .NET Runtimes |
@@ -38,7 +40,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,322 | 2026-08-01 | 10 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,320 | 2026-08-01 | 11 |
 | [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,082 | 2026-08-09 | 1 |
 | [dotnet/performance](../repos/dotnet/performance.md) | ⭐ 771 | 2026-08-07 | 1 |
 
@@ -48,7 +50,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 10 | ⭐ 4,322 | 2026-08-01 | 2026-08-12 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 11 | ⭐ 4,320 | 2026-08-01 | 2026-08-15 |
 | [dotnet/performance](../repos/dotnet/performance.md) | 1 | ⭐ 771 | 2026-08-07 | 2026-08-07 |
 | [fsprojects/Paket](../repos/fsprojects/Paket.md) | 1 | ⭐ 2,082 | 2026-08-09 | 2026-08-09 |
 
@@ -62,4 +64,4 @@
 
 ---
 
-*Last updated: 2026-08-14T20:58:57.985Z*
+*Last updated: 2026-08-15T21:01:40.507Z*

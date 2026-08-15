@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 112
+- **Total Repositories**: 120
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-01
+- **Last Updated**: 2026-08-15
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 103,538 | 2026-08-01 | 3 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 103,905 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,340 | 2026-08-01 | 8 |
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 460,041 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 33,516 | 2026-08-03 | 4 |
+| [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) | ⭐ 17,441 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cactus-compute/needle](../repos/cactus-compute/needle.md) | ⭐ 5,534 | 2026-08-11 | 3 |
+| [frappe/builder](../repos/frappe/builder.md) | ⭐ 2,299 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hugohe3/ppt-master](../repos/hugohe3/ppt-master.md) | ⭐ 46,830 | 2026-08-12 | 2 |
+| [cactus-compute/needle](../repos/cactus-compute/needle.md) | ⭐ 6,017 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) | ⭐ 20,905 | 2026-08-12 | 2 |
+| [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) | ⭐ 21,076 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Lightricks/LTX-2](../repos/Lightricks/LTX-2.md) | ⭐ 9,005 | 2026-08-12 | 2 |
+| [megadose/holehe](../repos/megadose/holehe.md) | ⭐ 13,082 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [megadose/holehe](../repos/megadose/holehe.md) | ⭐ 12,800 | 2026-08-14 | 1 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 129,117 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 128,417 | 2026-08-14 | 1 |
+| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 1,599 | 2026-08-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 37,841 | 2026-08-14 | 1 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 47,292 | 2026-08-15 | 1 |
 
 
 ---
@@ -76,7 +76,7 @@
 | [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 9,822 | 2026-08-01 | Build local voice agents with open-source models |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 103,538 | 2026-08-01 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom... |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 103,905 | 2026-08-01 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [trailofbits/skills](../repos/trailofbits/skills.md) | ⭐ 6,367 | 2026-08-01 | Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows |
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 453,833 | 2026-08-01 | 1 |
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 460,041 | 2026-08-01 | 2 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | 2026-08-03 | 5 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | 2026-08-08 | 3 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | 2026-08-01 | 6 |
@@ -98,10 +98,10 @@
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | 2026-07-31 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 141,219 | 2026-08-07 | 2 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 130,495 | 2026-08-04 | 1 |
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 128,417 | 2026-08-14 | 1 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 129,117 | 2026-08-14 | 2 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 126,231 | 2026-08-05 | 4 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 103,538 | 2026-08-01 | 3 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 103,905 | 2026-08-01 | 4 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 101,806 | 2026-08-03 | 1 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 97,152 | 2026-08-08 | 3 |
 | [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 90,555 | 2026-08-10 | 3 |
@@ -122,9 +122,9 @@
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | 5 | ⭐ 362,245 | 2026-08-03 | 2026-08-07 |
 | [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | 5 | ⭐ 3,574 | 2026-08-04 | 2026-08-08 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | 4 | ⭐ 164,012 | 2026-07-31 | 2026-08-12 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 4 | ⭐ 103,905 | 2026-08-01 | 2026-08-15 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 4 | ⭐ 66,444 | 2026-08-01 | 2026-08-04 |
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 4 | ⭐ 33,516 | 2026-08-03 | 2026-08-14 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 4 | ⭐ 126,231 | 2026-08-05 | 2026-08-10 |
+| [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) | 4 | ⭐ 17,441 | 2026-08-02 | 2026-08-15 |
 
 ---
 
@@ -161,6 +161,7 @@
 - [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) - A feature-rich command-line audio&#x2F;video downloader
 - [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) - ALL IN ONE Hacking Tool For Hackers
 - [PrefectHQ/prefect](../repos/PrefectHQ/prefect.md) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+- [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) - A Patch for GIMP 3+ for Photoshop Users
 - [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...
 - [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) - Kronos: A Foundation Model for the Language of Financial Markets
 - [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voic...
@@ -170,6 +171,7 @@
 - [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+...
 - [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...
 - [PostHog/posthog](../repos/PostHog/posthog.md) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tool...
+- [frappe/builder](../repos/frappe/builder.md) - Craft beautiful websites effortlessly with an intuitive visual builder and publish them instantly
 - [uber/ADR](../repos/uber/ADR.md) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detecti...
 - [browser-use/video-use](../repos/browser-use/video-use.md) - Edit videos with coding agents
 - [huangruiteng/loopx](../repos/huangruiteng/loopx.md) - Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic ac...
@@ -228,9 +230,7 @@
 - [AWeirdDev/flights](../repos/AWeirdDev/flights.md) - Fast, robust Google Flights scraper (API) for Python. (Probably)
 - [cactus-compute/needle](../repos/cactus-compute/needle.md) - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 - [NVlabs/GR00T-WholeBodyControl](../repos/NVlabs/GR00T-WholeBodyControl.md) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deployin...
-- [AgriciDaniel/claude-obsidian](../repos/AgriciDaniel/claude-obsidian.md) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, lin...
-- [hugohe3/ppt-master](../repos/hugohe3/ppt-master.md) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions a...
 
 ---
 
-*Last updated: 2026-08-14T20:58:58.015Z*
+*Last updated: 2026-08-15T21:01:40.537Z*

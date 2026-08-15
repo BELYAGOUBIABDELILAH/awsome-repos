@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 4
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-12
+- **Last Updated**: 2026-08-15
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mtex-toolbox/mtex](../repos/mtex-toolbox/mtex.md) | ⭐ 376 | 2026-08-14 | 1 |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,733 | 2026-08-01 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [mtex-toolbox/mtex](../repos/mtex-toolbox/mtex.md) | ⭐ 376 | 2026-08-14 | 2 |
 
 
 ---
@@ -28,7 +31,7 @@
 | [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | The MATLAB toolbox for MEG, EEG and iEEG analysis |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,731 | 2026-08-01 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, ... |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,733 | 2026-08-01 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CERN/TIGRE](../repos/CERN/TIGRE.md) | ⭐ 795 | 2026-08-04 | TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox |
@@ -43,10 +46,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,731 | 2026-08-01 | 10 |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,733 | 2026-08-01 | 11 |
 | [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 6 |
 | [CERN/TIGRE](../repos/CERN/TIGRE.md) | ⭐ 795 | 2026-08-04 | 1 |
-| [mtex-toolbox/mtex](../repos/mtex-toolbox/mtex.md) | ⭐ 376 | 2026-08-14 | 1 |
+| [mtex-toolbox/mtex](../repos/mtex-toolbox/mtex.md) | ⭐ 376 | 2026-08-14 | 2 |
 
 ---
 
@@ -54,10 +57,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | 10 | ⭐ 7,731 | 2026-08-01 | 2026-08-12 |
+| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | 11 | ⭐ 7,733 | 2026-08-01 | 2026-08-15 |
 | [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 6 | ⭐ 981 | 2026-08-01 | 2026-08-06 |
+| [mtex-toolbox/mtex](../repos/mtex-toolbox/mtex.md) | 2 | ⭐ 376 | 2026-08-14 | 2026-08-15 |
 | [CERN/TIGRE](../repos/CERN/TIGRE.md) | 1 | ⭐ 795 | 2026-08-04 | 2026-08-04 |
-| [mtex-toolbox/mtex](../repos/mtex-toolbox/mtex.md) | 1 | ⭐ 376 | 2026-08-14 | 2026-08-14 |
 
 ---
 
@@ -70,4 +73,4 @@
 
 ---
 
-*Last updated: 2026-08-14T20:58:58.004Z*
+*Last updated: 2026-08-15T21:01:40.526Z*

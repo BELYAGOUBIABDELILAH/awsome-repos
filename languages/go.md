@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 127
+- **Total Repositories**: 130
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-08-14
+- **Last Updated**: 2026-08-15
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 135,774 | 2026-07-31 | 4 |
+| [golang/go](../repos/golang/go.md) | ⭐ 135,774 | 2026-07-31 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 46,001 | 2026-08-01 | 7 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,595 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,889 | 2026-08-01 | 5 |
+| [moby/moby](../repos/moby/moby.md) | ⭐ 71,989 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,553 | 2026-08-01 | 6 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,500 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) | ⭐ 3,520 | 2026-08-05 | 2 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,465 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | ⭐ 2,317 | 2026-08-05 | 3 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 88,549 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 6,989 | 2026-08-06 | 2 |
+| [harness/harness](../repos/harness/harness.md) | ⭐ 37,956 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 88,375 | 2026-08-06 | 4 |
+| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 65,711 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harness/harness](../repos/harness/harness.md) | ⭐ 37,923 | 2026-08-06 | 2 |
+| [knadh/listmonk](../repos/knadh/listmonk.md) | ⭐ 22,865 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trufflesecurity/trufflehog](../repos/trufflesecurity/trufflehog.md) | ⭐ 27,463 | 2026-08-12 | 2 |
+| [kenn-io/agentsview](../repos/kenn-io/agentsview.md) | ⭐ 5,020 | 2026-08-15 | 1 |
 
 
 ---
@@ -88,21 +88,21 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,553 | 2026-08-01 | 6 |
-| [golang/go](../repos/golang/go.md) | ⭐ 135,774 | 2026-07-31 | 4 |
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,235 | 2026-08-04 | 1 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,595 | 2026-08-01 | 7 |
+| [golang/go](../repos/golang/go.md) | ⭐ 135,774 | 2026-07-31 | 5 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,500 | 2026-08-04 | 2 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,298 | 2026-08-03 | 1 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 88,375 | 2026-08-06 | 4 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 88,549 | 2026-08-06 | 5 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,199 | 2026-08-12 | 2 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | 2026-08-03 | 3 |
-| [moby/moby](../repos/moby/moby.md) | ⭐ 71,975 | 2026-08-04 | 1 |
+| [moby/moby](../repos/moby/moby.md) | ⭐ 71,989 | 2026-08-04 | 2 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | 2026-08-07 | 1 |
-| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 65,675 | 2026-08-11 | 1 |
+| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 65,711 | 2026-08-11 | 2 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,391 | 2026-08-12 | 1 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,263 | 2026-08-04 | 1 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
-| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,482 | 2026-08-06 | 2 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,465 | 2026-08-06 | 3 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 46,001 | 2026-08-01 | 7 |
 | [cli/cli](../repos/cli/cli.md) | ⭐ 45,795 | 2026-08-11 | 1 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 45,010 | 2026-08-01 | 3 |
@@ -116,14 +116,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 7 | ⭐ 46,001 | 2026-08-01 | 2026-08-14 |
+| [ollama/ollama](../repos/ollama/ollama.md) | 7 | ⭐ 178,595 | 2026-08-01 | 2026-08-15 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 6 | ⭐ 37,376 | 2026-08-01 | 2026-08-12 |
-| [ollama/ollama](../repos/ollama/ollama.md) | 6 | ⭐ 178,553 | 2026-08-01 | 2026-08-14 |
 | [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 6 | ⭐ 32,878 | 2026-08-02 | 2026-08-07 |
+| [golang/go](../repos/golang/go.md) | 5 | ⭐ 135,774 | 2026-07-31 | 2026-08-15 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 5 | ⭐ 19,889 | 2026-08-01 | 2026-08-14 |
-| [golang/go](../repos/golang/go.md) | 4 | ⭐ 135,774 | 2026-07-31 | 2026-08-14 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 5 | ⭐ 88,549 | 2026-08-06 | 2026-08-15 |
 | [github/gh-stack](../repos/github/gh-stack.md) | 4 | ⭐ 1,047 | 2026-08-01 | 2026-08-04 |
 | [superplanehq/superplane](../repos/superplanehq/superplane.md) | 4 | ⭐ 4,685 | 2026-08-02 | 2026-08-05 |
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 4 | ⭐ 88,375 | 2026-08-06 | 2026-08-14 |
 | [chenyme/grok2api](../repos/chenyme/grok2api.md) | 4 | ⭐ 7,237 | 2026-08-06 | 2026-08-09 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-14T20:58:57.988Z*
+*Last updated: 2026-08-15T21:01:40.510Z*
