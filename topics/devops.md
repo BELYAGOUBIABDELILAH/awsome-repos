@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 185
+- **Total Repositories**: 187
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
-- **Average Stars**: 17733
+- **Average Stars**: 17700
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 14,965 | Rust |  |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,106 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,528 | Rust |  |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,035 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,632 | C# |  |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,874 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,851 | C# |  |
+| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,233 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,419 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,825 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,819 | Scala |  |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,795 | V |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/apisix](../repos/apache/apisix.md) | ⭐ 16,997 | Lua |  |
+| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 5,333 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,466 | Clojure |  |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 8,849 | Elixir |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,235 | OCaml |  |
+| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 10,983 | JavaScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,374 | OCaml |  |
+| [apache/kyuubi](../repos/apache/kyuubi.md) | ⭐ 2,360 | Scala |  |
 
 
 ---
@@ -82,7 +82,10 @@
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,376 | Go | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,092 | C | 1 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,106 | C | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,035 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,367 | C | 1 |
@@ -91,13 +94,10 @@
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,632 | C# | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,851 | C# | 1 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,874 | C# | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,465 | PHP | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,673 | Ruby | 1 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-16](../archive/2026/08/2026-08-16.md)
+- 21 repositories trending
+- Top: apache&#x2F;spark
+
 ### [2026-08-15](../archive/2026/08/2026-08-15.md)
 - 33 repositories trending
 - Top: kubernetes&#x2F;kubernetes
@@ -158,10 +162,6 @@
 - 21 repositories trending
 - Top: Genymobile&#x2F;scrcpy
 
-### [2026-08-09](../archive/2026/08/2026-08-09.md)
-- 31 repositories trending
-- Top: Genymobile&#x2F;scrcpy
-
 
 ---
 
@@ -171,12 +171,12 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 14 days | 2026-08-01 | 2026-08-15 |
+| [apache/spark](../repos/apache/spark.md) | 15 days | 2026-08-01 | 2026-08-16 |
 | [logseq/logseq](../repos/logseq/logseq.md) | 14 days | 2026-08-01 | 2026-08-15 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 13 days | 2026-08-01 | 2026-08-15 |
+| [vlang/v](../repos/vlang/v.md) | 13 days | 2026-08-01 | 2026-08-16 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 13 days | 2026-08-02 | 2026-08-16 |
 | [vim/vim](../repos/vim/vim.md) | 12 days | 2026-08-01 | 2026-08-15 |
-| [vlang/v](../repos/vlang/v.md) | 12 days | 2026-08-01 | 2026-08-14 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 12 days | 2026-08-02 | 2026-08-15 |
 | [joernio/joern](../repos/joernio/joern.md) | 11 days | 2026-08-01 | 2026-08-15 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | 11 days | 2026-08-02 | 2026-08-14 |
 | [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | 8 days | 2026-08-01 | 2026-08-12 |
@@ -187,14 +187,14 @@
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 44 repositories (24%)
-- **C**: 22 repositories (12%)
-- **Shell**: 14 repositories (8%)
+- **Go**: 45 repositories (24%)
+- **C**: 23 repositories (12%)
+- **Shell**: 14 repositories (7%)
 - **TypeScript**: 10 repositories (5%)
 - **Lua**: 8 repositories (4%)
 
 ### Trending Frequency
-- **Daily Average**: 34.8 repositories
+- **Daily Average**: 33.9 repositories
 - **Peak Day**: 2026-08-04 (49 repositories)
 - **Growth Rate**: 100% this month
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.326Z*
+*Last updated: 2026-08-16T21:01:56.433Z*

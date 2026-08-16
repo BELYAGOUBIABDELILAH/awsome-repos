@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 274
+- **Total Repositories**: 279
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-07
-- **Average Stars**: 26478
+- **Average Stars**: 26314
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 14,965 | Rust |  |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,035 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,528 | Rust |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,825 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,419 | Scala |  |
+| [crmeb/crmeb_java](../repos/crmeb/crmeb_java.md) | ⭐ 3,023 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,275 | Scala |  |
+| [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,059 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,819 | Scala |  |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,795 | V |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,393 | Dart |  |
+| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 5,333 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,948 | Haskell |  |
+| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 15,788 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,235 | OCaml |  |
+| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 10,983 | JavaScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,765 | Vue |  |
+| [bytecodealliance/wasmtime](../repos/bytecodealliance/wasmtime.md) | ⭐ 18,528 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,704 | Objective-C |  |
+| [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,631 | C |  |
 
 
 ---
@@ -76,6 +76,9 @@
 | [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,528 | Rust | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,035 | C | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,367 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
@@ -95,9 +98,6 @@
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,419 | Scala | 2 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,275 | Scala | 1 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-16](../archive/2026/08/2026-08-16.md)
+- 24 repositories trending
+- Top: remotion-dev&#x2F;remotion
+
 ### [2026-08-15](../archive/2026/08/2026-08-15.md)
 - 42 repositories trending
 - Top: flutter&#x2F;flutter
@@ -158,10 +162,6 @@
 - 38 repositories trending
 - Top: firecrawl&#x2F;firecrawl
 
-### [2026-08-09](../archive/2026/08/2026-08-09.md)
-- 43 repositories trending
-- Top: Genymobile&#x2F;scrcpy
-
 
 ---
 
@@ -171,10 +171,10 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 14 days | 2026-08-01 | 2026-08-15 |
+| [apache/spark](../repos/apache/spark.md) | 15 days | 2026-08-01 | 2026-08-16 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 13 days | 2026-08-01 | 2026-08-15 |
+| [vlang/v](../repos/vlang/v.md) | 13 days | 2026-08-01 | 2026-08-16 |
 | [vim/vim](../repos/vim/vim.md) | 12 days | 2026-08-01 | 2026-08-15 |
-| [vlang/v](../repos/vlang/v.md) | 12 days | 2026-08-01 | 2026-08-14 |
 | [joernio/joern](../repos/joernio/joern.md) | 11 days | 2026-08-01 | 2026-08-15 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 11 days | 2026-08-01 | 2026-08-14 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 10 days | 2026-08-01 | 2026-08-14 |
@@ -187,14 +187,14 @@
 ## 📊 Statistics
 
 ### Language Breakdown
-- **TypeScript**: 34 repositories (12%)
-- **Vue**: 31 repositories (11%)
+- **TypeScript**: 35 repositories (13%)
+- **Vue**: 32 repositories (11%)
 - **JavaScript**: 25 repositories (9%)
-- **C**: 20 repositories (7%)
-- **Rust**: 18 repositories (7%)
+- **C**: 21 repositories (8%)
+- **Rust**: 18 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 44.4 repositories
+- **Daily Average**: 43.2 repositories
 - **Peak Day**: 2026-08-04 (66 repositories)
 - **Growth Rate**: 100% this month
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.314Z*
+*Last updated: 2026-08-16T21:01:56.421Z*

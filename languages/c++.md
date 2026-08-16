@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 135
+- **Total Repositories**: 141
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-15
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,043 | 2026-07-30 | 7 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 124,193 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 462 | 2026-08-01 | 4 |
+| [official-stockfish/Stockfish](../repos/official-stockfish/Stockfish.md) | ⭐ 16,338 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,482 | 2026-08-01 | 5 |
+| [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) | ⭐ 8,784 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ceph/ceph](../repos/ceph/ceph.md) | ⭐ 16,938 | 2026-08-03 | 2 |
+| [wazuh/wazuh](../repos/wazuh/wazuh.md) | ⭐ 16,548 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [catchorg/Catch2](../repos/catchorg/Catch2.md) | ⭐ 21,429 | 2026-08-04 | 2 |
+| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 25,612 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dmlc/xgboost](../repos/dmlc/xgboost.md) | ⭐ 28,656 | 2026-08-04 | 2 |
+| [sal063/AC6_recomp](../repos/sal063/AC6_recomp.md) | ⭐ 364 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [envoyproxy/envoy](../repos/envoyproxy/envoy.md) | ⭐ 28,781 | 2026-08-05 | 2 |
+| [azahar-emu/azahar](../repos/azahar-emu/azahar.md) | ⭐ 7,892 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/perfetto](../repos/google/perfetto.md) | ⭐ 6,348 | 2026-08-07 | 2 |
+| [deepseek-ai/3FS](../repos/deepseek-ai/3FS.md) | ⭐ 10,134 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 25,596 | 2026-08-09 | 3 |
+| [amnezia-vpn/amnezia-client](../repos/amnezia-vpn/amnezia-client.md) | ⭐ 14,485 | 2026-08-16 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/cccl](../repos/NVIDIA/cccl.md) | ⭐ 2,473 | 2026-08-14 | 2 |
+| [ClassicOldSong/Apollo](../repos/ClassicOldSong/Apollo.md) | ⭐ 10,570 | 2026-08-16 | 1 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,453 | 2026-08-01 | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,926 | 2026-08-01 | LLM inference in C&#x2F;C++ |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 124,193 | 2026-08-01 | LLM inference in C&#x2F;C++ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,150 | 2026-08-01 | Asio C++ Library |
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,043 | 2026-07-30 | 7 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,334 | 2026-08-04 | 2 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 123,926 | 2026-08-01 | 9 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 124,193 | 2026-08-01 | 10 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,394 | 2026-08-01 | 3 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,269 | 2026-08-01 | 5 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,607 | 2026-08-06 | 2 |
@@ -115,7 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 9 | ⭐ 123,926 | 2026-08-01 | 2026-08-14 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 10 | ⭐ 124,193 | 2026-08-01 | 2026-08-16 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 7 | ⭐ 197,043 | 2026-07-30 | 2026-08-15 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 7 | ⭐ 65,473 | 2026-08-05 | 2026-08-12 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 5 | ⭐ 71,730 | 2026-08-01 | 2026-08-14 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.495Z*
+*Last updated: 2026-08-16T21:01:56.587Z*

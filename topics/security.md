@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 153
+- **Total Repositories**: 157
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
-- **Average Stars**: 17438
+- **Average Stars**: 17268
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,528 | Rust |  |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,106 | C |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,035 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,419 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,825 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,819 | Scala |  |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,795 | V |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,774 | Clojure |  |
+| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,035 | Elixir |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,466 | Clojure |  |
+| [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | ⭐ 260 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,235 | OCaml |  |
+| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 53,320 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,739 | Vim Script |  |
+| [wazuh/wazuh](../repos/wazuh/wazuh.md) | ⭐ 16,548 | C++ |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim-test/vim-test](../repos/vim-test/vim-test.md) | ⭐ 3,164 | Vim Script |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,714 | Assembly |  |
+| [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,631 | C |  |
 
 
 ---
@@ -61,8 +61,8 @@
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | Go | 2026-08-03 | 3 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,811 | C | 2026-08-02 | 5 |
 | [git/git](../repos/git/git.md) | ⭐ 62,438 | C | 2026-08-05 | 2 |
+| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 53,320 | Python | 2026-08-04 | 4 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,465 | Go | 2026-08-06 | 3 |
-| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 49,346 | Python | 2026-08-04 | 3 |
 
 ---
 
@@ -79,7 +79,10 @@
 | [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,114 | Java | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,092 | C | 1 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,106 | C | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,035 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,367 | C | 1 |
@@ -95,9 +98,6 @@
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,673 | Ruby | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | Ruby | 2 |
 
 ---
 
@@ -129,14 +129,18 @@
 | [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,114 | Java | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,092 | C | 2026-08-01 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,106 | C | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,013 | C | 2026-08-01 |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,035 | C | 2026-08-01 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-08-16](../archive/2026/08/2026-08-16.md)
+- 18 repositories trending
+- Top: usestrix&#x2F;strix
 
 ### [2026-08-15](../archive/2026/08/2026-08-15.md)
 - 28 repositories trending
@@ -158,10 +162,6 @@
 - 27 repositories trending
 - Top: Genymobile&#x2F;scrcpy
 
-### [2026-08-09](../archive/2026/08/2026-08-09.md)
-- 28 repositories trending
-- Top: Genymobile&#x2F;scrcpy
-
 
 ---
 
@@ -171,15 +171,15 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 14 days | 2026-08-01 | 2026-08-15 |
-| [apache/spark](../repos/apache/spark.md) | 14 days | 2026-08-01 | 2026-08-15 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 15 days | 2026-08-01 | 2026-08-16 |
+| [apache/spark](../repos/apache/spark.md) | 15 days | 2026-08-01 | 2026-08-16 |
 | [logseq/logseq](../repos/logseq/logseq.md) | 14 days | 2026-08-01 | 2026-08-15 |
 | [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 14 days | 2026-08-01 | 2026-08-15 |
 | [metabase/metabase](../repos/metabase/metabase.md) | 13 days | 2026-08-01 | 2026-08-15 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 13 days | 2026-08-01 | 2026-08-15 |
+| [vlang/v](../repos/vlang/v.md) | 13 days | 2026-08-01 | 2026-08-16 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 13 days | 2026-08-02 | 2026-08-16 |
 | [vim/vim](../repos/vim/vim.md) | 12 days | 2026-08-01 | 2026-08-15 |
-| [vlang/v](../repos/vlang/v.md) | 12 days | 2026-08-01 | 2026-08-14 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 12 days | 2026-08-02 | 2026-08-14 |
 | [joernio/joern](../repos/joernio/joern.md) | 11 days | 2026-08-01 | 2026-08-15 |
 
 ---
@@ -187,14 +187,14 @@
 ## 📊 Statistics
 
 ### Language Breakdown
-- **C**: 27 repositories (18%)
-- **Go**: 23 repositories (15%)
-- **Python**: 10 repositories (7%)
+- **C**: 28 repositories (18%)
+- **Go**: 24 repositories (15%)
+- **Python**: 10 repositories (6%)
+- **C++**: 9 repositories (6%)
 - **Java**: 8 repositories (5%)
-- **C++**: 8 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 33.4 repositories
+- **Daily Average**: 32.3 repositories
 - **Peak Day**: 2026-08-04 (41 repositories)
 - **Growth Rate**: 100% this month
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.352Z*
+*Last updated: 2026-08-16T21:01:56.459Z*

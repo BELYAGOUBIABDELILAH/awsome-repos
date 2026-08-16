@@ -16,22 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,402 | 2026-08-01 | 11 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 922 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 25,084 | 2026-08-02 | 9 |
+| [Jenqyang/Awesome-AI-Agents](../repos/Jenqyang/Awesome-AI-Agents.md) | ⭐ 1,212 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,245 | 2026-08-04 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [froala/wysiwyg-editor](../repos/froala/wysiwyg-editor.md) | ⭐ 5,403 | 2026-08-09 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 3,664 | 2026-08-10 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [AcademySoftwareFoundation/OpenPBR](../repos/AcademySoftwareFoundation/OpenPBR.md) | ⭐ 762 | 2026-08-15 | 1 |
+| [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,773 | 2026-08-04 | 3 |
 
 
 ---
@@ -49,7 +40,7 @@
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,164 | 2026-08-01 | MacOS like theme for all gtk based desktops |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 920 | 2026-08-01 | Documentation for GX mods |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 922 | 2026-08-01 | Documentation for GX mods |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,402 | 2026-08-01 | Custom CSS theme for doxygen html-documentation with lots of customization parameters. |
@@ -84,7 +75,7 @@
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,768 | 2026-08-08 | 1 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,079 | 2026-08-01 | 10 |
-| [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,762 | 2026-08-04 | 2 |
+| [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,773 | 2026-08-04 | 3 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,552 | 2026-08-06 | 2 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,431 | 2026-08-09 | 1 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,314 | 2026-08-02 | 9 |
@@ -106,7 +97,7 @@
 | [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 13 | ⭐ 1,399 | 2026-08-01 | 2026-08-14 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 11 | ⭐ 1,402 | 2026-08-01 | 2026-08-15 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 10 | ⭐ 12,079 | 2026-08-01 | 2026-08-12 |
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 9 | ⭐ 920 | 2026-08-01 | 2026-08-14 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 10 | ⭐ 922 | 2026-08-01 | 2026-08-16 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 9 | ⭐ 25,084 | 2026-08-02 | 2026-08-15 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 9 | ⭐ 10,314 | 2026-08-02 | 2026-08-14 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 5 | ⭐ 9,164 | 2026-08-01 | 2026-08-12 |
@@ -165,4 +156,4 @@
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.496Z*
+*Last updated: 2026-08-16T21:01:56.588Z*

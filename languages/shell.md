@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 72
+- **Total Repositories**: 76
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-07
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,937 | 2026-08-02 | 10 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 25,317 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bats-core/bats-core](../repos/bats-core/bats-core.md) | ⭐ 6,216 | 2026-08-03 | 3 |
+| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | ⭐ 2,108 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [super-linter/super-linter](../repos/super-linter/super-linter.md) | ⭐ 10,545 | 2026-08-04 | 2 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,098 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,098 | 2026-08-04 | 4 |
+| [hestiacp/hestiacp](../repos/hestiacp/hestiacp.md) | ⭐ 4,474 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hestiacp/hestiacp](../repos/hestiacp/hestiacp.md) | ⭐ 4,472 | 2026-08-06 | 2 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,423 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,694 | 2026-08-07 | 3 |
+| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,737 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,554 | 2026-08-08 | 3 |
+| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 8,946 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 19,480 | 2026-08-12 | 2 |
+| [wolfi-dev/os](../repos/wolfi-dev/os.md) | ⭐ 1,268 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wolfi-dev/os](../repos/wolfi-dev/os.md) | ⭐ 1,268 | 2026-08-14 | 2 |
+| [pwnerblu/surrealra1n](../repos/pwnerblu/surrealra1n.md) | ⭐ 216 | 2026-08-16 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Lifecycle-Innovations-Limited/claude-ops](../repos/Lifecycle-Innovations-Limited/claude-ops.md) | ⭐ 164 | 2026-08-15 | 1 |
+| [Sergeydigl3/zapret-discord-youtube-linux](../repos/Sergeydigl3/zapret-discord-youtube-linux.md) | ⭐ 1,910 | 2026-08-16 | 1 |
 
 
 ---
@@ -79,7 +79,7 @@
 | [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,642 | 2026-08-01 | Универсальный менеджер для обхода блокировок на OpenWrt |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,937 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 25,317 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
 
 
 ---
@@ -96,16 +96,16 @@
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,419 | 2026-08-04 | 2 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,320 | 2026-08-04 | 4 |
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 24,937 | 2026-08-02 | 10 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 25,317 | 2026-08-02 | 11 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,694 | 2026-08-07 | 3 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 19,480 | 2026-08-12 | 2 |
-| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,684 | 2026-08-08 | 1 |
+| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,737 | 2026-08-08 | 2 |
 | [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 15,647 | 2026-08-11 | 3 |
 | [DaoCloud/public-image-mirror](../repos/DaoCloud/public-image-mirror.md) | ⭐ 14,853 | 2026-08-14 | 1 |
 | [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,366 | 2026-08-07 | 1 |
 | [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,531 | 2026-08-04 | 2 |
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,098 | 2026-08-04 | 4 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,098 | 2026-08-04 | 5 |
 | [1N3/Sn1per](../repos/1N3/Sn1per.md) | ⭐ 10,738 | 2026-08-06 | 2 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,729 | 2026-08-07 | 2 |
 
@@ -115,12 +115,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 10 | ⭐ 24,937 | 2026-08-02 | 2026-08-15 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 11 | ⭐ 25,317 | 2026-08-02 | 2026-08-16 |
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 9 | ⭐ 94,552 | 2026-08-01 | 2026-08-12 |
-| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 6 | ⭐ 2,081 | 2026-08-02 | 2026-08-12 |
+| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 7 | ⭐ 2,108 | 2026-08-02 | 2026-08-16 |
+| [expo/skills](../repos/expo/skills.md) | 6 | ⭐ 2,423 | 2026-08-07 | 2026-08-16 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 5 | ⭐ 4,023 | 2026-08-01 | 2026-08-12 |
-| [expo/skills](../repos/expo/skills.md) | 5 | ⭐ 2,403 | 2026-08-07 | 2026-08-12 |
-| [github/copilot-cli](../repos/github/copilot-cli.md) | 4 | ⭐ 11,098 | 2026-08-04 | 2026-08-15 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | 5 | ⭐ 11,098 | 2026-08-04 | 2026-08-16 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 4 | ⭐ 25,320 | 2026-08-04 | 2026-08-12 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 4 | ⭐ 2,590 | 2026-08-05 | 2026-08-09 |
 | [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | 3 | ⭐ 2,851 | 2026-08-01 | 2026-08-07 |
@@ -202,7 +202,11 @@
 - [ROCm/ROCm](../repos/ROCm/ROCm.md) - AMD ROCm™ Software - GitHub Home
 - [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) - Bonsai Demo
 - [Security-Onion-Solutions/securityonion](../repos/Security-Onion-Solutions/securityonion.md) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, an...
+- [pwnerblu/surrealra1n](../repos/pwnerblu/surrealra1n.md) - Tether downgrade tool for some checkm8&#x2F;usbliter8 64bit devices. Some restores may utilize seprmvr...
+- [Sergeydigl3/zapret-discord-youtube-linux](../repos/Sergeydigl3/zapret-discord-youtube-linux.md) - Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux
+- [SHORiN-KiWATA/Shorin-ArchLinux-Guide](../repos/SHORiN-KiWATA/Shorin-ArchLinux-Guide.md) - 【2026最适合新手的Arch Linux教程】具体内容包括：系统安装教程、win+linux双系统、N卡驱动、桌面环境、中文输入法、Linux玩游戏、常用虚拟机程序、显卡直通、干净删除linux等。
+- [vinceliuice/grub2-themes](../repos/vinceliuice/grub2-themes.md) - Modern Design theme for Grub2
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.547Z*
+*Last updated: 2026-08-16T21:01:56.639Z*

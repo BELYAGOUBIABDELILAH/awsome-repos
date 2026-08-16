@@ -1,0 +1,95 @@
+# nova-video-player&#x2F;aos-AVP
+
+> NOVA opeN sOurce Video plAyer: main repository to build them all
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;nova-video-player&#x2F;aos-AVP) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | HTML |
+| **License** | Apache-2.0 |
+| **Stars** | ⭐ 4,618 |
+| **Forks** | 🍴 266 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Aug 16, 2026 |
+| **Last Seen** | Aug 16, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in HTML or android*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`android`](../../topics/android.md) [`archos`](../../topics/archos.md) [`nova`](../../topics/nova.md) [`open-source`](../../topics/open-source.md) [`player`](../../topics/player.md) [`video`](../../topics/video.md) 
+
+### Curated Categories
+`Mobile Development` `Systems Programming` `Developer Tools` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Limited | May require reading source code |
+| **Community** | Small | Niche but dedicated community |
+| **Maturity** | Stable | Established project |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in HTML
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-08-16T21:02:00.475Z*  
+*Data from 1 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 99
+- **Total Repositories**: 100
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-05
 
@@ -16,34 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | ⭐ 12,838 | 2026-08-01 | 5 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 25,615 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 14,965 | 2026-08-01 | 4 |
+| [bytecodealliance/wasmtime](../repos/bytecodealliance/wasmtime.md) | ⭐ 18,528 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 7,528 | 2026-08-01 | 4 |
+| [EFForg/rayhunter](../repos/EFForg/rayhunter.md) | ⭐ 5,549 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EFForg/rayhunter](../repos/EFForg/rayhunter.md) | ⭐ 5,525 | 2026-08-06 | 3 |
+| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 10,730 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 14,467 | 2026-08-10 | 2 |
+| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 14,503 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [macro-inc/macro](../repos/macro-inc/macro.md) | ⭐ 3,251 | 2026-08-11 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,413 | 2026-08-11 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [NVIDIA-NeMo/Switchyard](../repos/NVIDIA-NeMo/Switchyard.md) | ⭐ 1,565 | 2026-08-12 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [kenforthewin/atomic](../repos/kenforthewin/atomic.md) | ⭐ 1,889 | 2026-08-14 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
+| [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,398 | 2026-08-16 | 1 |
 
 
 ---
@@ -100,6 +88,7 @@
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,169 | 2026-08-12 | 1 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,464 | 2026-08-05 | 4 |
+| [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,398 | 2026-08-16 | 1 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,424 | 2026-08-02 | 3 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,155 | 2026-08-02 | 1 |
 | [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,268 | 2026-08-05 | 1 |
@@ -107,7 +96,6 @@
 | [zellij-org/zellij](../repos/zellij-org/zellij.md) | ⭐ 34,708 | 2026-08-04 | 1 |
 | [surrealdb/surrealdb](../repos/surrealdb/surrealdb.md) | ⭐ 32,874 | 2026-08-09 | 2 |
 | [zeroclaw-labs/zeroclaw](../repos/zeroclaw-labs/zeroclaw.md) | ⭐ 32,484 | 2026-08-02 | 1 |
-| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 30,985 | 2026-08-09 | 2 |
 
 ---
 
@@ -229,7 +217,8 @@
 - [kenforthewin/atomic](../repos/kenforthewin/atomic.md) - Self-hosted, semantically-connected personal knowledge base
 - [unionlabs/union](../repos/unionlabs/union.md) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extrem...
 - [base/base](../repos/base/base.md) - All components used to run Base
+- [sxyazi/yazi](../repos/sxyazi/yazi.md) - 💥 Blazing fast terminal file manager written in Rust, based on async I&#x2F;O.
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.543Z*
+*Last updated: 2026-08-16T21:01:56.635Z*

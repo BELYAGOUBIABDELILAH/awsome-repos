@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:01:44.230Z",
+  "generated_at": "2026-08-16T21:02:00.783Z",
   "total_count": 100,
   "repositories": [
     {
@@ -17,10 +17,10 @@
       "full_name": "public-apis/public-apis",
       "owner": "public-apis",
       "name": "public-apis",
-      "stars": 460041,
+      "stars": 461548,
       "language": "Python",
       "first_seen": "2026-08-01",
-      "trending_days": 2
+      "trending_days": 3
     },
     {
       "rank": 3,
@@ -87,10 +87,10 @@
       "full_name": "ossu/computer-science",
       "owner": "ossu",
       "name": "computer-science",
-      "stars": 207704,
+      "stars": 208048,
       "language": "HTML",
       "first_seen": "2026-08-03",
-      "trending_days": 2
+      "trending_days": 3
     },
     {
       "rank": 10,
@@ -137,20 +137,20 @@
       "full_name": "yt-dlp/yt-dlp",
       "owner": "yt-dlp",
       "name": "yt-dlp",
-      "stars": 182027,
+      "stars": 184862,
       "language": "Python",
       "first_seen": "2026-08-02",
-      "trending_days": 1
+      "trending_days": 2
     },
     {
       "rank": 15,
       "full_name": "ollama/ollama",
       "owner": "ollama",
       "name": "ollama",
-      "stars": 178595,
+      "stars": 178711,
       "language": "Go",
       "first_seen": "2026-08-01",
-      "trending_days": 7
+      "trending_days": 8
     },
     {
       "rank": 16,
@@ -357,10 +357,10 @@
       "full_name": "ggml-org/llama.cpp",
       "owner": "ggml-org",
       "name": "llama.cpp",
-      "stars": 123926,
+      "stars": 124193,
       "language": "C++",
       "first_seen": "2026-08-01",
-      "trending_days": 9
+      "trending_days": 10
     },
     {
       "rank": 37,
@@ -407,10 +407,10 @@
       "full_name": "2dust/v2rayN",
       "owner": "2dust",
       "name": "v2rayN",
-      "stars": 113476,
+      "stars": 113982,
       "language": "C#",
       "first_seen": "2026-08-02",
-      "trending_days": 6
+      "trending_days": 7
     },
     {
       "rank": 42,
@@ -477,10 +477,10 @@
       "full_name": "harry0703/MoneyPrinterTurbo",
       "owner": "harry0703",
       "name": "MoneyPrinterTurbo",
-      "stars": 103905,
+      "stars": 104532,
       "language": "Python",
       "first_seen": "2026-08-01",
-      "trending_days": 4
+      "trending_days": 5
     },
     {
       "rank": 49,
@@ -887,10 +887,10 @@
       "full_name": "AppFlowy-IO/AppFlowy",
       "owner": "AppFlowy-IO",
       "name": "AppFlowy",
-      "stars": 75469,
+      "stars": 75556,
       "language": "Dart",
       "first_seen": "2026-08-01",
-      "trending_days": 4
+      "trending_days": 5
     },
     {
       "rank": 90,
@@ -957,10 +957,10 @@
       "full_name": "twitter/the-algorithm",
       "owner": "twitter",
       "name": "the-algorithm",
-      "stars": 73769,
+      "stars": 73783,
       "language": "Scala",
       "first_seen": "2026-08-01",
-      "trending_days": 8
+      "trending_days": 9
     },
     {
       "rank": 97,

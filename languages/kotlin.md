@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 93
+- **Total Repositories**: 96
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 6,917 | 2026-08-02 | 3 |
+| [yuzono/tachiyomi-extensions](../repos/yuzono/tachiyomi-extensions.md) | ⭐ 845 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/android](../repos/nextcloud/android.md) | ⭐ 5,511 | 2026-08-02 | 3 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,167 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 5,662 | 2026-08-02 | 4 |
+| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 6,978 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 753 | 2026-08-04 | 4 |
+| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 546 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 531 | 2026-08-05 | 4 |
+| [mpv-android/mpv-android](../repos/mpv-android/mpv-android.md) | ⭐ 3,470 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | ⭐ 5,328 | 2026-08-11 | 3 |
+| [WinNative-Emu/WinNative](../repos/WinNative-Emu/WinNative.md) | ⭐ 478 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tristinbaker/IdleFantasy](../repos/tristinbaker/IdleFantasy.md) | ⭐ 399 | 2026-08-15 | 1 |
+| [wgtunnel/android](../repos/wgtunnel/android.md) | ⭐ 3,026 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wgtunnel/android](../repos/wgtunnel/android.md) | ⭐ 3,019 | 2026-08-15 | 1 |
+| [SpaceNeuroX/proxy-turn-vk-android](../repos/SpaceNeuroX/proxy-turn-vk-android.md) | ⭐ 234 | 2026-08-16 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [osfans/trime](../repos/osfans/trime.md) | ⭐ 4,557 | 2026-08-15 | 1 |
+| [keiyoushi/extensions-source](../repos/keiyoushi/extensions-source.md) | ⭐ 4,547 | 2026-08-16 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) | ⭐ 5,635 | 2026-08-16 | 1 |
 
 
 ---
@@ -58,7 +61,7 @@
 | [rommapp/argosy-launcher](../repos/rommapp/argosy-launcher.md) | ⭐ 436 | 2026-08-01 | A native Android client for RomM  for syncing, installing, and launching games on any of your mob... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [yuzono/tachiyomi-extensions](../repos/yuzono/tachiyomi-extensions.md) | ⭐ 817 | 2026-08-01 | Source code of extensions for Komikku &#x2F; Mihon &amp; forks. |
+| [yuzono/tachiyomi-extensions](../repos/yuzono/tachiyomi-extensions.md) | ⭐ 845 | 2026-08-01 | Source code of extensions for Komikku &#x2F; Mihon &amp; forks. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Fate-Grand-Automata/FGA](../repos/Fate-Grand-Automata/FGA.md) | ⭐ 2,277 | 2026-08-01 | Auto-battle app for F&#x2F;GO Android |
@@ -76,7 +79,7 @@
 | [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | ⭐ 6,331 | 2026-08-01 | Material design file manager for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,937 | 2026-08-02 | A V2Ray client for Android, support Xray core and v2fly core |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,167 | 2026-08-02 | A V2Ray client for Android, support Xray core and v2fly core |
 
 
 ---
@@ -86,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,130 | 2026-08-03 | 2 |
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 60,937 | 2026-08-02 | 5 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,167 | 2026-08-02 | 6 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,317 | 2026-08-04 | 3 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,176 | 2026-08-06 | 5 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 40,889 | 2026-08-03 | 2 |
@@ -114,13 +117,13 @@
 |------------|---------------|-------|------------|-----------|
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 9 | ⭐ 22,740 | 2026-08-01 | 2026-08-11 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 8 | ⭐ 4,289 | 2026-08-02 | 2026-08-14 |
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 5 | ⭐ 60,937 | 2026-08-02 | 2026-08-11 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 6 | ⭐ 61,167 | 2026-08-02 | 2026-08-16 |
 | [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | 5 | ⭐ 1,641 | 2026-08-03 | 2026-08-14 |
+| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 5 | ⭐ 546 | 2026-08-05 | 2026-08-16 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 5 | ⭐ 50,176 | 2026-08-06 | 2026-08-10 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 4 | ⭐ 2,129 | 2026-08-02 | 2026-08-12 |
 | [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | 4 | ⭐ 5,662 | 2026-08-02 | 2026-08-15 |
 | [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | 4 | ⭐ 753 | 2026-08-04 | 2026-08-15 |
-| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 4 | ⭐ 531 | 2026-08-05 | 2026-08-15 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 4 | ⭐ 28,695 | 2026-08-08 | 2026-08-11 |
 
 ---
@@ -220,7 +223,10 @@
 - [tristinbaker/IdleFantasy](../repos/tristinbaker/IdleFantasy.md) - Fantasy Inspired Idle Skilling Game
 - [wgtunnel/android](../repos/wgtunnel/android.md) - A FOSS WireGuard &amp; AmneziaWG Android client with auto-tunneling, lockdown &amp; local proxying.
 - [osfans/trime](../repos/osfans/trime.md) - 同文安卓輸入法平臺3.x&#x2F;Android-rime&#x2F;Rime Input Method Engine for Android
+- [SpaceNeuroX/proxy-turn-vk-android](../repos/SpaceNeuroX/proxy-turn-vk-android.md) - 
+- [keiyoushi/extensions-source](../repos/keiyoushi/extensions-source.md) - Source code of extensions in https:&#x2F;&#x2F;github.com&#x2F;keiyoushi&#x2F;extensions
+- [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) - The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely ...
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.522Z*
+*Last updated: 2026-08-16T21:01:56.615Z*

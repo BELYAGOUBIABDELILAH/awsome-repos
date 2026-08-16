@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 48
+- **Total Repositories**: 49
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-06
+- **Last Updated**: 2026-08-16
 
 ---
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,696 | 2026-08-01 | 5 |
+| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 7,058 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 12,953 | 2026-08-04 | 7 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,048 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,096 | 2026-08-05 | 4 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 13,311 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,888 | 2026-08-08 | 6 |
+| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | ⭐ 4,995 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 18,499 | 2026-08-12 | 3 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,873 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | ⭐ 1,652 | 2026-08-14 | 2 |
+| [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | ⭐ 1,671 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Arrow-air/project-quiver](../repos/Arrow-air/project-quiver.md) | ⭐ 285 | 2026-08-15 | 1 |
+| [Arrow-air/project-quiver](../repos/Arrow-air/project-quiver.md) | ⭐ 301 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [L1AD/claude-task-viewer](../repos/L1AD/claude-task-viewer.md) | ⭐ 752 | 2026-08-15 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [github/training-kit](../repos/github/training-kit.md) | ⭐ 5,055 | 2026-08-15 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [colonelpanichacks/flock-you](../repos/colonelpanichacks/flock-you.md) | ⭐ 1,281 | 2026-08-15 | 1 |
+| [nova-video-player/aos-AVP](../repos/nova-video-player/aos-AVP.md) | ⭐ 4,618 | 2026-08-16 | 1 |
 
 
 ---
@@ -88,13 +82,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 207,704 | 2026-08-03 | 2 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,048 | 2026-08-03 | 3 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,888 | 2026-08-08 | 6 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,477 | 2026-08-01 | 6 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,095 | 2026-08-01 | 4 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,483 | 2026-08-07 | 1 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,690 | 2026-08-09 | 3 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,873 | 2026-08-09 | 4 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,091 | 2026-08-03 | 4 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,854 | 2026-08-04 | 4 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,307 | 2026-08-03 | 1 |
@@ -104,7 +98,7 @@
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,434 | 2026-08-04 | 4 |
 | [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,264 | 2026-08-05 | 1 |
 | [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,067 | 2026-08-07 | 1 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 12,953 | 2026-08-04 | 7 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 13,311 | 2026-08-04 | 8 |
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 11,860 | 2026-08-01 | 1 |
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,774 | 2026-08-01 | 3 |
 | [cotes2020/jekyll-theme-chirpy](../repos/cotes2020/jekyll-theme-chirpy.md) | ⭐ 10,206 | 2026-08-05 | 1 |
@@ -115,7 +109,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 7 | ⭐ 12,953 | 2026-08-04 | 2026-08-15 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 8 | ⭐ 13,311 | 2026-08-04 | 2026-08-16 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 6 | ⭐ 64,477 | 2026-08-01 | 2026-08-14 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 6 | ⭐ 131,888 | 2026-08-08 | 2026-08-15 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 5 | ⭐ 9,696 | 2026-08-01 | 2026-08-15 |
@@ -124,7 +118,7 @@
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 4 | ⭐ 23,854 | 2026-08-04 | 2026-08-12 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 4 | ⭐ 16,434 | 2026-08-04 | 2026-08-11 |
 | [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 4 | ⭐ 6,096 | 2026-08-05 | 2026-08-15 |
-| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | 3 | ⭐ 7,828 | 2026-08-01 | 2026-08-12 |
+| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | 4 | ⭐ 4,995 | 2026-08-06 | 2026-08-16 |
 
 ---
 
@@ -178,7 +172,8 @@
 - [github/training-kit](../repos/github/training-kit.md) - Open source courseware for Git and GitHub
 - [colonelpanichacks/flock-you](../repos/colonelpanichacks/flock-you.md) - flock cam detection
 - [judge0/judge0](../repos/judge0/judge0.md) - Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.
+- [nova-video-player/aos-AVP](../repos/nova-video-player/aos-AVP.md) - NOVA opeN sOurce Video plAyer: main repository to build them all
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.513Z*
+*Last updated: 2026-08-16T21:01:56.606Z*

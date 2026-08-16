@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-15
+- **Last Updated**: 2026-08-16
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,660 | 2026-08-01 | 8 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,674 | 2026-08-01 | 9 |
 
 
 ---
@@ -25,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,660 | 2026-08-01 | Invidious is an alternative front-end to YouTube |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,674 | 2026-08-01 | Invidious is an alternative front-end to YouTube |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,368 | 2026-08-06 | Hunt every Endpoint in your code, expose Shadow APIs, map the Attack Surface. |
@@ -37,7 +37,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,660 | 2026-08-01 | 8 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,674 | 2026-08-01 | 9 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,368 | 2026-08-06 | 2 |
 
 ---
@@ -46,7 +46,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | 8 | ⭐ 22,660 | 2026-08-01 | 2026-08-15 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | 9 | ⭐ 22,674 | 2026-08-01 | 2026-08-16 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | 2 | ⭐ 1,368 | 2026-08-06 | 2026-08-09 |
 
 ---
@@ -58,4 +58,4 @@
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.501Z*
+*Last updated: 2026-08-16T21:01:56.593Z*

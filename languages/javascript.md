@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 75
+- **Total Repositories**: 78
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,31 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | ⭐ 965 | 2026-08-05 | 3 |
+| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 10,983 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenSenseNova/SenseNova-Skills](../repos/OpenSenseNova/SenseNova-Skills.md) | ⭐ 4,919 | 2026-08-08 | 2 |
+| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 6,677 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
+| [plankanban/planka](../repos/plankanban/planka.md) | ⭐ 12,388 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
+| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 11,295 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 10,880 | 2026-08-14 | 2 |
+| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 2,090 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 2,053 | 2026-08-14 | 2 |
+| [IRNova/Nova-Proxy](../repos/IRNova/Nova-Proxy.md) | ⭐ 3,047 | 2026-08-16 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenSignLabs/OpenSign](../repos/OpenSignLabs/OpenSign.md) | ⭐ 6,847 | 2026-08-15 | 1 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 19,094 | 2026-08-16 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JannisX11/blockbench](../repos/JannisX11/blockbench.md) | ⭐ 5,789 | 2026-08-15 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [carbon-design-system/carbon](../repos/carbon-design-system/carbon.md) | ⭐ 9,358 | 2026-08-15 | 1 |
+| [babalae/bettergi-scripts-list](../repos/babalae/bettergi-scripts-list.md) | ⭐ 515 | 2026-08-16 | 1 |
 
 
 ---
@@ -117,11 +114,11 @@
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 5 | ⭐ 7,142 | 2026-08-01 | 2026-08-12 |
 | [byoungd/up](../repos/byoungd/up.md) | 5 | ⭐ 58,350 | 2026-08-01 | 2026-08-10 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 5 | ⭐ 38,736 | 2026-08-06 | 2026-08-10 |
+| [is-a-dev/register](../repos/is-a-dev/register.md) | 4 | ⭐ 10,983 | 2026-08-03 | 2026-08-16 |
 | [facebook/react](../repos/facebook/react.md) | 3 | ⭐ 219,500 | 2026-07-30 | 2026-08-05 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 3 | ⭐ 9,868 | 2026-08-01 | 2026-08-07 |
 | [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | 3 | ⭐ 7,624 | 2026-08-02 | 2026-08-04 |
 | [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | 3 | ⭐ 5,649 | 2026-08-02 | 2026-08-12 |
-| [4ian/GDevelop](../repos/4ian/GDevelop.md) | 3 | ⭐ 25,523 | 2026-08-03 | 2026-08-10 |
 
 ---
 
@@ -202,7 +199,10 @@
 - [OpenSignLabs/OpenSign](../repos/OpenSignLabs/OpenSign.md) - 🔥 The free &amp; Open Source DocuSign alternative
 - [JannisX11/blockbench](../repos/JannisX11/blockbench.md) - Blockbench - A low poly 3D model editor
 - [carbon-design-system/carbon](../repos/carbon-design-system/carbon.md) - A design system built by IBM
+- [IRNova/Nova-Proxy](../repos/IRNova/Nova-Proxy.md) - یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره...
+- [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 &#x2F; 阿里云盘 &#x2F; 中国移动云盘 &#x2F; 天翼云盘 &#x2F; 迅雷云盘 &#x2F; 夸克网盘 &#x2F; UC网盘...
+- [babalae/bettergi-scripts-list](../repos/babalae/bettergi-scripts-list.md) - BetterGI 的脚本仓库，内含BetterGI 的JS脚本、路径追踪、战斗策略、七圣召唤策略。
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.518Z*
+*Last updated: 2026-08-16T21:01:56.611Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 15
+- **Total Repositories**: 16
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-14
 
@@ -16,22 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,581 | 2026-08-01 | 10 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 651 | 2026-08-01 | 10 |
+| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,135 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,786 | 2026-08-01 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,908 | 2026-08-04 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,134 | 2026-08-04 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 378 | 2026-08-08 | 6 |
+| [r-lib/bit64](../repos/r-lib/bit64.md) | ⭐ 40 | 2026-08-16 | 1 |
 
 
 ---
@@ -67,7 +58,7 @@
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,980 | 2026-08-04 | An implementation of the Grammar of Graphics in R |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,134 | 2026-08-04 | R for data science: a book |
+| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,135 | 2026-08-04 | R for data science: a book |
 
 
 ---
@@ -78,7 +69,7 @@
 |------------|-------|------------|---------------|
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,980 | 2026-08-04 | 5 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,677 | 2026-08-02 | 5 |
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,134 | 2026-08-04 | 3 |
+| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,135 | 2026-08-04 | 4 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,056 | 2026-08-04 | 4 |
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,581 | 2026-08-01 | 10 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,908 | 2026-08-04 | 5 |
@@ -86,11 +77,12 @@
 | [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,786 | 2026-08-01 | 10 |
 | [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,440 | 2026-08-04 | 2 |
 | [rstudio/renv](../repos/rstudio/renv.md) | ⭐ 1,160 | 2026-08-06 | 1 |
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 10 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 11 |
 | [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 651 | 2026-08-01 | 10 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 466 | 2026-08-03 | 4 |
 | [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 378 | 2026-08-08 | 6 |
 | [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 151 | 2026-08-09 | 3 |
+| [r-lib/bit64](../repos/r-lib/bit64.md) | ⭐ 40 | 2026-08-16 | 1 |
 
 ---
 
@@ -98,10 +90,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 11 | ⭐ 889 | 2026-08-01 | 2026-08-16 |
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 10 | ⭐ 4,581 | 2026-08-01 | 2026-08-15 |
 | [jinworks/CellChat](../repos/jinworks/CellChat.md) | 10 | ⭐ 651 | 2026-08-01 | 2026-08-15 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | 10 | ⭐ 2,786 | 2026-08-01 | 2026-08-15 |
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 10 | ⭐ 889 | 2026-08-01 | 2026-08-14 |
 | [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 6 | ⭐ 378 | 2026-08-08 | 2026-08-15 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | 5 | ⭐ 5,677 | 2026-08-02 | 2026-08-14 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 5 | ⭐ 3,908 | 2026-08-04 | 2026-08-15 |
@@ -128,7 +120,8 @@
 - [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) - Automated nflverse data repository
 - [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) - Dynamic Documents for R
 - [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) - Tree-sitter grammar for R
+- [r-lib/bit64](../repos/r-lib/bit64.md) - An R package with an S3 Class for Vectors of 64bit Integers
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.538Z*
+*Last updated: 2026-08-16T21:01:56.631Z*

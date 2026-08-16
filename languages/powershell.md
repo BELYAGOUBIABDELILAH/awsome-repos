@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 35
+- **Total Repositories**: 37
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-15
 
@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 25,466 | 2026-08-01 | 8 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,029 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,026 | 2026-08-01 | 11 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,529 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/work-iq](../repos/microsoft/work-iq.md) | ⭐ 967 | 2026-08-01 | 6 |
+| [microsoftgraph/microsoft-graph-docs-contrib](../repos/microsoftgraph/microsoft-graph-docs-contrib.md) | ⭐ 153 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 877 | 2026-08-01 | 9 |
+| [iiroak/Kindle-Filler-Disk](../repos/iiroak/Kindle-Filler-Disk.md) | ⭐ 391 | 2026-08-10 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/AL](../repos/microsoft/AL.md) | ⭐ 878 | 2026-08-01 | 3 |
+| [CubeCoders/AMPTemplates](../repos/CubeCoders/AMPTemplates.md) | ⭐ 180 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,031 | 2026-08-02 | 5 |
+| [sp00n/CoreCycler](../repos/sp00n/CoreCycler.md) | ⭐ 1,246 | 2026-08-16 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | ⭐ 626 | 2026-08-02 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 422 | 2026-08-04 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [appveyor/ci](../repos/appveyor/ci.md) | ⭐ 340 | 2026-08-07 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [SharePoint/sp-dev-docs](../repos/SharePoint/sp-dev-docs.md) | ⭐ 1,359 | 2026-08-15 | 1 |
+| [zamesin/Next-Move-Theory-Canon-and-Skills](../repos/zamesin/Next-Move-Theory-Canon-and-Skills.md) | ⭐ 319 | 2026-08-16 | 1 |
 
 
 ---
@@ -55,7 +46,7 @@
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 25,466 | 2026-08-01 | Reverse Engineering &#x2F; Authorized Penetration Testing &#x2F; Security Research Skill Router Pack AI-pow... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,026 | 2026-08-01 | GitHub Actions runner images |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,029 | 2026-08-01 | GitHub Actions runner images |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,180 | 2026-08-01 | game of active directory |
@@ -92,7 +83,7 @@
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,031 | 2026-08-02 | 5 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,089 | 2026-08-04 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,026 | 2026-08-01 | 11 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,029 | 2026-08-01 | 12 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,049 | 2026-08-03 | 6 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,931 | 2026-08-06 | 2 |
@@ -106,7 +97,7 @@
 | [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,023 | 2026-08-07 | 2 |
 | [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,015 | 2026-08-02 | 3 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,904 | 2026-08-01 | 6 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,520 | 2026-08-03 | 8 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,529 | 2026-08-03 | 9 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,436 | 2026-08-01 | 6 |
 
 ---
@@ -115,10 +106,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 11 | ⭐ 13,026 | 2026-08-01 | 2026-08-15 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 12 | ⭐ 13,029 | 2026-08-01 | 2026-08-16 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 9 | ⭐ 877 | 2026-08-01 | 2026-08-15 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 9 | ⭐ 1,529 | 2026-08-03 | 2026-08-16 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 8 | ⭐ 25,466 | 2026-08-01 | 2026-08-15 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 8 | ⭐ 1,520 | 2026-08-03 | 2026-08-11 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 6 | ⭐ 1,904 | 2026-08-01 | 2026-08-14 |
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | 6 | ⭐ 967 | 2026-08-01 | 2026-08-15 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 6 | ⭐ 1,436 | 2026-08-01 | 2026-08-12 |
@@ -165,7 +156,9 @@
 - [mandiant/commando-vm](../repos/mandiant/commando-vm.md) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtu...
 - [SharePoint/sp-dev-docs](../repos/SharePoint/sp-dev-docs.md) - SharePoint Developer Documentation
 - [helldivers2fixes/HellbombScript](../repos/helldivers2fixes/HellbombScript.md) - PowerShell Script for Diagnosing Issues in Helldivers 2
+- [sp00n/CoreCycler](../repos/sp00n/CoreCycler.md) - Script to test single core stability, e.g. for PBO &amp; Curve Optimizer on AMD Ryzen or overclocking...
+- [zamesin/Next-Move-Theory-Canon-and-Skills](../repos/zamesin/Next-Move-Theory-Canon-and-Skills.md) - Claude Code skills for product market research, value props, PRDs, and go-to-market — plus the op...
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.535Z*
+*Last updated: 2026-08-16T21:01:56.628Z*

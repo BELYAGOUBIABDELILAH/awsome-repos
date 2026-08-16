@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 69
+- **Total Repositories**: 70
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,896 | 2026-08-01 | 4 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,845 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 2,940 | 2026-08-01 | 2 |
+| [argmaxinc/argmax-oss-swift](../repos/argmaxinc/argmax-oss-swift.md) | ⭐ 6,326 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,506 | 2026-08-04 | 4 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,852 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
+| [Aidoku/Aidoku](../repos/Aidoku/Aidoku.md) | ⭐ 4,465 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,347 | 2026-08-06 | 4 |
+| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,630 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 13,577 | 2026-08-08 | 2 |
+| [wxtsky/CodeIsland](../repos/wxtsky/CodeIsland.md) | ⭐ 2,299 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,913 | 2026-08-11 | 2 |
+| [frankea/Whisky](../repos/frankea/Whisky.md) | ⭐ 414 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,267 | 2026-08-11 | 3 |
+| [stripe/stripe-ios](../repos/stripe/stripe-ios.md) | ⭐ 2,562 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggbond268/MacTools](../repos/ggbond268/MacTools.md) | ⭐ 1,033 | 2026-08-14 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [stripe/stripe-ios](../repos/stripe/stripe-ios.md) | ⭐ 2,562 | 2026-08-15 | 1 |
+| [quoid/userscripts](../repos/quoid/userscripts.md) | ⭐ 4,708 | 2026-08-16 | 1 |
 
 
 ---
@@ -52,7 +49,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,714 | 2026-08-01 | Run iOS apps without actually installing them! |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,845 | 2026-08-01 | Run iOS apps without actually installing them! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,176 | 2026-08-01 | 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source,... |
@@ -104,7 +101,7 @@
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,568 | 2026-08-01 | 1 |
 | [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
 | [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,183 | 2026-08-06 | 1 |
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,714 | 2026-08-01 | 5 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,845 | 2026-08-01 | 6 |
 | [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,347 | 2026-08-06 | 4 |
 | [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | ⭐ 10,263 | 2026-08-03 | 2 |
 | [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,913 | 2026-08-11 | 2 |
@@ -115,14 +112,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 5 | ⭐ 10,714 | 2026-08-01 | 2026-08-09 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 6 | ⭐ 10,845 | 2026-08-01 | 2026-08-16 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 5 | ⭐ 25,905 | 2026-08-01 | 2026-08-10 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 5 | ⭐ 8,852 | 2026-08-02 | 2026-08-16 |
 | [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | 5 | ⭐ 2,415 | 2026-08-03 | 2026-08-08 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 5 | ⭐ 14,871 | 2026-08-04 | 2026-08-14 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 4 | ⭐ 5,896 | 2026-08-01 | 2026-08-15 |
 | [apple/container](../repos/apple/container.md) | 4 | ⭐ 48,766 | 2026-08-01 | 2026-08-08 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | 4 | ⭐ 19,685 | 2026-08-01 | 2026-08-05 |
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 4 | ⭐ 8,829 | 2026-08-02 | 2026-08-09 |
 | [rooootdev/lara](../repos/rooootdev/lara.md) | 4 | ⭐ 1,433 | 2026-08-03 | 2026-08-12 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 4 | ⭐ 8,506 | 2026-08-04 | 2026-08-15 |
 
@@ -199,7 +196,8 @@
 - [stripe/stripe-ios](../repos/stripe/stripe-ios.md) - Stripe iOS SDK    
 - [facebook/facebook-ios-sdk](../repos/facebook/facebook-ios-sdk.md) - Used to integrate the Facebook Platform with your iOS &amp; tvOS apps.
 - [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) - Reactive Programming in Swift
+- [quoid/userscripts](../repos/quoid/userscripts.md) - An open-source userscript manager for Safari
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.550Z*
+*Last updated: 2026-08-16T21:01:56.642Z*

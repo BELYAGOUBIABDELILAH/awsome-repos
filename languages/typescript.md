@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 113
+- **Total Repositories**: 115
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,930 | 2026-08-01 | 4 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 3,040 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,281 | 2026-08-04 | 2 |
+| [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) | ⭐ 9,675 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) | ⭐ 9,549 | 2026-08-07 | 3 |
+| [cordiverse/cordis](../repos/cordiverse/cordis.md) | ⭐ 4,666 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 90,880 | 2026-08-07 | 5 |
+| [remotion-dev/remotion](../repos/remotion-dev/remotion.md) | ⭐ 56,495 | 2026-08-16 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/deepsec](../repos/vercel-labs/deepsec.md) | ⭐ 7,657 | 2026-08-14 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [dubinc/dub](../repos/dubinc/dub.md) | ⭐ 24,401 | 2026-08-14 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [pacifio/atlas](../repos/pacifio/atlas.md) | ⭐ 1,037 | 2026-08-14 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cordiverse/cordis](../repos/cordiverse/cordis.md) | ⭐ 4,005 | 2026-08-15 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [THU-MAIC/OpenMAIC](../repos/THU-MAIC/OpenMAIC.md) | ⭐ 20,776 | 2026-08-15 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [strapi/strapi](../repos/strapi/strapi.md) | ⭐ 72,929 | 2026-08-15 | 1 |
+| [chaitanyagiri/munder-difflin](../repos/chaitanyagiri/munder-difflin.md) | ⭐ 1,211 | 2026-08-16 | 1 |
 
 
 ---
@@ -64,7 +49,7 @@
 | [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 20,293 | 2026-08-01 | The open-source alternative to Claude Cowork (powered by opencode) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 2,930 | 2026-08-01 | Cursor plugin specification and official plugins |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 3,040 | 2026-08-01 | Cursor plugin specification and official plugins |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 17,453 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
@@ -117,13 +102,13 @@
 |------------|---------------|-------|------------|-----------|
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 5 | ⭐ 3,040 | 2026-08-01 | 2026-08-16 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 5 | ⭐ 18,253 | 2026-08-01 | 2026-08-11 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 5 | ⭐ 24,810 | 2026-08-02 | 2026-08-14 |
 | [cloudflare/computer](../repos/cloudflare/computer.md) | 5 | ⭐ 6,976 | 2026-08-05 | 2026-08-09 |
 | [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | 5 | ⭐ 13,986 | 2026-08-07 | 2026-08-11 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | 5 | ⭐ 166,401 | 2026-08-07 | 2026-08-12 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | 5 | ⭐ 90,880 | 2026-08-07 | 2026-08-15 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 4 | ⭐ 2,930 | 2026-08-01 | 2026-08-15 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | 4 | ⭐ 77,659 | 2026-08-02 | 2026-08-12 |
 
 ---
@@ -233,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.551Z*
+*Last updated: 2026-08-16T21:01:56.643Z*

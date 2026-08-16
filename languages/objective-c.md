@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,704 | 2026-08-01 | 5 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 4 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,994 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 9 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 677 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,071 | 2026-08-01 | 8 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,600 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,639 | 2026-08-01 | 9 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 493 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 493 | 2026-08-02 | 6 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,218 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SVGKit/SVGKit](../repos/SVGKit/SVGKit.md) | ⭐ 4,588 | 2026-08-04 | 3 |
+| [Flipboard/FLAnimatedImage](../repos/Flipboard/FLAnimatedImage.md) | ⭐ 7,948 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | ⭐ 673 | 2026-08-04 | 6 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,038 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zendesk/support_sdk_ios](../repos/zendesk/support_sdk_ios.md) | ⭐ 55 | 2026-08-05 | 3 |
+| [bugsnag/bugsnag-cocoa](../repos/bugsnag/bugsnag-cocoa.md) | ⭐ 262 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | ⭐ 4,477 | 2026-08-05 | 5 |
+| [Mininglamp-OSS/octo-ios](../repos/Mininglamp-OSS/octo-ios.md) | ⭐ 550 | 2026-08-07 | 6 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,445 | 2026-08-01 | A software update framework for macOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,017 | 2026-08-01 | KeyCastr, an open-source keystroke visualizer |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | KeyCastr, an open-source keystroke visualizer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,704 | 2026-08-01 | AWS SDK for iOS. For more information, see our web site: |
@@ -91,15 +91,15 @@
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,412 | 2026-08-02 | 2 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,639 | 2026-08-01 | 9 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,962 | 2026-08-02 | 5 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,994 | 2026-08-02 | 6 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,616 | 2026-08-04 | 5 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,935 | 2026-08-04 | 4 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,906 | 2026-08-04 | 3 |
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,017 | 2026-08-01 | 2 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | 3 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,626 | 2026-08-04 | 2 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,330 | 2026-08-04 | 5 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,071 | 2026-08-02 | 1 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 12,942 | 2026-08-03 | 2 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,038 | 2026-08-03 | 3 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,453 | 2026-08-06 | 1 |
 | [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,090 | 2026-08-07 | 3 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,016 | 2026-08-02 | 3 |
@@ -121,10 +121,10 @@
 | [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 8 | ⭐ 291 | 2026-08-01 | 2026-08-14 |
 | [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 8 | ⭐ 5,071 | 2026-08-01 | 2026-08-15 |
 | [google/promises](../repos/google/promises.md) | 7 | ⭐ 3,827 | 2026-08-01 | 2026-08-14 |
-| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | 6 | ⭐ 493 | 2026-08-02 | 2026-08-15 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | 7 | ⭐ 493 | 2026-08-02 | 2026-08-16 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 6 | ⭐ 21,994 | 2026-08-02 | 2026-08-16 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 6 | ⭐ 673 | 2026-08-04 | 2026-08-15 |
-| [AzureAD/microsoft-authentication-library-common-for-objc](../repos/AzureAD/microsoft-authentication-library-common-for-objc.md) | 6 | ⭐ 64 | 2026-08-07 | 2026-08-15 |
-| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | 5 | ⭐ 1,704 | 2026-08-01 | 2026-08-15 |
+| [Mininglamp-OSS/octo-ios](../repos/Mininglamp-OSS/octo-ios.md) | 6 | ⭐ 550 | 2026-08-07 | 2026-08-16 |
 
 ---
 
@@ -200,4 +200,4 @@
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.530Z*
+*Last updated: 2026-08-16T21:01:56.623Z*

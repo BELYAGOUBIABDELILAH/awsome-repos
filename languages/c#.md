@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 100
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-09
+- **Last Updated**: 2026-08-16
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,632 | 2026-08-01 | 4 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,874 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,573 | 2026-08-01 | 6 |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,864 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,851 | 2026-08-01 | 2 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,982 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,374 | 2026-08-01 | 5 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 18,012 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,564 | 2026-08-02 | 3 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,817 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) | ⭐ 13,758 | 2026-08-02 | 2 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,478 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,785 | 2026-08-02 | 7 |
+| [UnigramDev/Unigram](../repos/UnigramDev/Unigram.md) | ⭐ 5,345 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lostindark/DriverStoreExplorer](../repos/lostindark/DriverStoreExplorer.md) | ⭐ 11,417 | 2026-08-02 | 2 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,506 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,477 | 2026-08-03 | 4 |
+| [dotnet/sdk](../repos/dotnet/sdk.md) | ⭐ 3,187 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner](../repos/actions/runner.md) | ⭐ 6,195 | 2026-08-04 | 4 |
+| [luolangaga/tubatools](../repos/luolangaga/tubatools.md) | ⭐ 2,327 | 2026-08-12 | 2 |
 
 
 ---
@@ -73,10 +73,10 @@
 | [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,573 | 2026-08-01 | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,851 | 2026-08-01 | Bitwarden infrastructure&#x2F;backend (API, database, Docker, etc). |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,874 | 2026-08-01 | Bitwarden infrastructure&#x2F;backend (API, database, Docker, etc). |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,810 | 2026-08-01 | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&amp;more) - cross-platform! |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,864 | 2026-08-01 | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&amp;more) - cross-platform! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,374 | 2026-08-01 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications ... |
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,476 | 2026-08-02 | 6 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,982 | 2026-08-02 | 7 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,704 | 2026-08-02 | 5 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,872 | 2026-08-06 | 3 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,632 | 2026-08-01 | 4 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,130 | 2026-08-14 | 1 |
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,477 | 2026-08-03 | 4 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,478 | 2026-08-03 | 5 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,374 | 2026-08-01 | 5 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,700 | 2026-08-08 | 1 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,449 | 2026-08-05 | 2 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | 2026-08-01 | 7 |
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,441 | 2026-08-10 | 1 |
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,810 | 2026-08-01 | 2 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,506 | 2026-08-10 | 2 |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,864 | 2026-08-01 | 3 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,430 | 2026-08-02 | 2 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,292 | 2026-08-04 | 2 |
 | [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,564 | 2026-08-02 | 3 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,610 | 2026-08-01 | 4 |
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,851 | 2026-08-01 | 2 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,874 | 2026-08-01 | 3 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,209 | 2026-08-04 | 5 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 18,012 | 2026-08-02 | 7 |
 | [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,187 | 2026-08-01 | 2 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 16,629 | 2026-08-02 | 6 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 8 | ⭐ 14,817 | 2026-08-02 | 2026-08-16 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 7 | ⭐ 26,795 | 2026-08-01 | 2026-08-08 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 7 | ⭐ 14,785 | 2026-08-02 | 2026-08-15 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 7 | ⭐ 113,982 | 2026-08-02 | 2026-08-16 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 7 | ⭐ 18,012 | 2026-08-02 | 2026-08-16 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 6 | ⭐ 3,573 | 2026-08-01 | 2026-08-15 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 6 | ⭐ 113,476 | 2026-08-02 | 2026-08-09 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 6 | ⭐ 16,629 | 2026-08-02 | 2026-08-11 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 6 | ⭐ 5,110 | 2026-08-03 | 2026-08-09 |
 | [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | 6 | ⭐ 13,331 | 2026-08-05 | 2026-08-11 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 5 | ⭐ 38,374 | 2026-08-01 | 2026-08-15 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 5 | ⭐ 55,704 | 2026-08-02 | 2026-08-12 |
-| [dotnet/runtime](../repos/dotnet/runtime.md) | 5 | ⭐ 18,209 | 2026-08-04 | 2026-08-15 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | 5 | ⭐ 38,478 | 2026-08-03 | 2026-08-16 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.489Z*
+*Last updated: 2026-08-16T21:01:56.584Z*

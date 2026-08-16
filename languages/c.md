@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 103
+- **Total Repositories**: 112
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,787 | 2026-08-01 | 6 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,106 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 66,523 | 2026-08-01 | 6 |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,035 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [VirusTotal/yara](../repos/VirusTotal/yara.md) | ⭐ 9,810 | 2026-08-01 | 2 |
+| [Klipper3d/klipper](../repos/Klipper3d/klipper.md) | ⭐ 11,814 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 597 | 2026-08-02 | 4 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,660 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FRRouting/frr](../repos/FRRouting/frr.md) | ⭐ 4,249 | 2026-08-05 | 2 |
+| [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,631 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,216 | 2026-08-06 | 4 |
+| [armel/uv-k1-k5v3-firmware-custom](../repos/armel/uv-k1-k5v3-firmware-custom.md) | ⭐ 594 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nrfconnect/sdk-nrf](../repos/nrfconnect/sdk-nrf.md) | ⭐ 1,406 | 2026-08-06 | 2 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 39,120 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 39,030 | 2026-08-07 | 4 |
+| [memovai/mimiclaw](../repos/memovai/mimiclaw.md) | ⭐ 5,701 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [memovai/mimiclaw](../repos/memovai/mimiclaw.md) | ⭐ 5,691 | 2026-08-11 | 2 |
+| [superturtlee/gbl_root_canoe](../repos/superturtlee/gbl_root_canoe.md) | ⭐ 988 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/esp-claw](../repos/espressif/esp-claw.md) | ⭐ 2,005 | 2026-08-12 | 3 |
+| [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) | ⭐ 14,600 | 2026-08-15 | 2 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 66,523 | 2026-08-01 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,092 | 2026-08-01 | Cross-platform asynchronous I&#x2F;O |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,106 | 2026-08-01 | Cross-platform asynchronous I&#x2F;O |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 21,953 | 2026-08-01 | Flipper Zero Unleashed Firmware |
@@ -67,7 +67,7 @@
 | [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,917 | 2026-08-01 | Ultralightweight JSON parser in ANSI C |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,013 | 2026-08-01 | Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,035 | 2026-08-01 | Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,229 | 2026-08-01 | A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input |
@@ -95,19 +95,19 @@
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 66,523 | 2026-08-01 | 6 |
 | [git/git](../repos/git/git.md) | ⭐ 62,438 | 2026-08-05 | 2 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,280 | 2026-08-01 | 2 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 39,030 | 2026-08-07 | 4 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 39,120 | 2026-08-07 | 5 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,255 | 2026-08-08 | 3 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,462 | 2026-08-02 | 3 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,438 | 2026-08-04 | 3 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,385 | 2026-08-03 | 3 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 31,813 | 2026-08-01 | 1 |
+| [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,571 | 2026-08-16 | 1 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,313 | 2026-08-02 | 1 |
 | [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 27,939 | 2026-08-09 | 2 |
 | [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,546 | 2026-08-07 | 3 |
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,092 | 2026-08-01 | 3 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,106 | 2026-08-01 | 4 |
 | [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 26,835 | 2026-08-08 | 2 |
 | [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 26,488 | 2026-08-06 | 1 |
-| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 25,867 | 2026-08-02 | 3 |
 
 ---
 
@@ -118,13 +118,13 @@
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 6 | ⭐ 137,787 | 2026-08-01 | 2026-08-15 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 6 | ⭐ 66,523 | 2026-08-01 | 2026-08-15 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 5 | ⭐ 74,811 | 2026-08-02 | 2026-08-10 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 5 | ⭐ 39,120 | 2026-08-07 | 2026-08-16 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 5 | ⭐ 147,507 | 2026-08-07 | 2026-08-12 |
 | [opa334/Dopamine](../repos/opa334/Dopamine.md) | 5 | ⭐ 6,199 | 2026-08-08 | 2026-08-12 |
+| [libuv/libuv](../repos/libuv/libuv.md) | 4 | ⭐ 27,106 | 2026-08-01 | 2026-08-16 |
 | [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | 4 | ⭐ 597 | 2026-08-02 | 2026-08-15 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | 4 | ⭐ 18,660 | 2026-08-02 | 2026-08-16 |
 | [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 4 | ⭐ 4,408 | 2026-08-04 | 2026-08-11 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 4 | ⭐ 16,216 | 2026-08-06 | 2026-08-15 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 4 | ⭐ 39,030 | 2026-08-07 | 2026-08-15 |
-| [libuv/libuv](../repos/libuv/libuv.md) | 3 | ⭐ 27,092 | 2026-08-01 | 2026-08-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.483Z*
+*Last updated: 2026-08-16T21:01:56.579Z*

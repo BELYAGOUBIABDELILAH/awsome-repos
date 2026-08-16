@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 73
+- **Total Repositories**: 74
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-15
+- **Last Updated**: 2026-08-16
 
 ---
 
@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,867 | 2026-08-01 | 5 |
+| [lizhipay/acg-faka](../repos/lizhipay/acg-faka.md) | ⭐ 5,472 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,228 | 2026-08-01 | 6 |
+| [cedar2025/Xboard](../repos/cedar2025/Xboard.md) | ⭐ 4,644 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | ⭐ 3,405 | 2026-08-01 | 4 |
+| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 15,788 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,283 | 2026-08-01 | 4 |
+| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,443 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [osTicket/osTicket](../repos/osTicket/osTicket.md) | ⭐ 3,888 | 2026-08-02 | 2 |
+| [magento/magento2](../repos/magento/magento2.md) | ⭐ 12,167 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,433 | 2026-08-02 | 9 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,273 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kimai/kimai](../repos/kimai/kimai.md) | ⭐ 4,887 | 2026-08-03 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [RSS-Bridge/rss-bridge](../repos/RSS-Bridge/rss-bridge.md) | ⭐ 9,171 | 2026-08-03 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [librenms/librenms](../repos/librenms/librenms.md) | ⭐ 4,836 | 2026-08-04 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [magento/magento2](../repos/magento/magento2.md) | ⭐ 12,166 | 2026-08-04 | 5 |
+| [PrivateBin/PrivateBin](../repos/PrivateBin/PrivateBin.md) | ⭐ 8,539 | 2026-08-16 | 1 |
 
 
 ---
@@ -88,7 +79,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,433 | 2026-08-02 | 9 |
+| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,443 | 2026-08-02 | 10 |
 | [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,867 | 2026-08-01 | 5 |
 | [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 31,751 | 2026-08-02 | 4 |
 | [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,124 | 2026-08-02 | 6 |
@@ -98,14 +89,14 @@
 | [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,283 | 2026-08-01 | 4 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,768 | 2026-08-01 | 6 |
 | [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,582 | 2026-08-04 | 3 |
-| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 15,758 | 2026-08-02 | 5 |
+| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 15,788 | 2026-08-02 | 6 |
 | [getgrav/grav](../repos/getgrav/grav.md) | ⭐ 15,628 | 2026-08-12 | 3 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,803 | 2026-08-01 | 3 |
 | [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,549 | 2026-08-04 | 2 |
 | [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 12,878 | 2026-08-05 | 1 |
 | [SpartnerNL/Laravel-Excel](../repos/SpartnerNL/Laravel-Excel.md) | ⭐ 12,699 | 2026-08-09 | 1 |
 | [typecho/typecho](../repos/typecho/typecho.md) | ⭐ 12,417 | 2026-08-02 | 1 |
-| [magento/magento2](../repos/magento/magento2.md) | ⭐ 12,166 | 2026-08-04 | 5 |
+| [magento/magento2](../repos/magento/magento2.md) | ⭐ 12,167 | 2026-08-04 | 6 |
 | [assimon/dujiaoka](../repos/assimon/dujiaoka.md) | ⭐ 12,149 | 2026-08-14 | 1 |
 | [aureuserp/aureuserp](../repos/aureuserp/aureuserp.md) | ⭐ 11,757 | 2026-08-11 | 3 |
 
@@ -115,16 +106,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nextcloud/server](../repos/nextcloud/server.md) | 9 | ⭐ 36,433 | 2026-08-02 | 2026-08-15 |
+| [nextcloud/server](../repos/nextcloud/server.md) | 10 | ⭐ 36,443 | 2026-08-02 | 2026-08-16 |
 | [glpi-project/glpi](../repos/glpi-project/glpi.md) | 6 | ⭐ 6,228 | 2026-08-01 | 2026-08-15 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | 6 | ⭐ 21,768 | 2026-08-01 | 2026-08-14 |
 | [symfony/symfony](../repos/symfony/symfony.md) | 6 | ⭐ 31,124 | 2026-08-02 | 2026-08-14 |
+| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | 6 | ⭐ 15,788 | 2026-08-02 | 2026-08-16 |
 | [librenms/librenms](../repos/librenms/librenms.md) | 6 | ⭐ 4,836 | 2026-08-04 | 2026-08-15 |
 | [monicahq/monica](../repos/monicahq/monica.md) | 6 | ⭐ 25,012 | 2026-08-04 | 2026-08-10 |
+| [magento/magento2](../repos/magento/magento2.md) | 6 | ⭐ 12,167 | 2026-08-04 | 2026-08-16 |
 | [laravel/ai](../repos/laravel/ai.md) | 6 | ⭐ 1,100 | 2026-08-05 | 2026-08-15 |
 | [laravel/framework](../repos/laravel/framework.md) | 5 | ⭐ 34,867 | 2026-08-01 | 2026-08-15 |
-| [akaunting/akaunting](../repos/akaunting/akaunting.md) | 5 | ⭐ 10,052 | 2026-08-01 | 2026-08-11 |
-| [WordPress/mcp-adapter](../repos/WordPress/mcp-adapter.md) | 5 | ⭐ 1,570 | 2026-08-01 | 2026-08-12 |
 
 ---
 
@@ -203,7 +194,8 @@
 - [freescout-help-desk/freescout](../repos/freescout-help-desk/freescout.md) - FreeScout — Free self-hosted help desk &amp; shared mailbox (Zendesk &#x2F; Help Scout alternative)
 - [assimon/dujiaoka](../repos/assimon/dujiaoka.md) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 - [LinkStackOrg/LinkStack](../repos/LinkStackOrg/LinkStack.md) - LinkStack - the ultimate solution for creating a personalized &amp; professional profile page. Showca...
+- [PrivateBin/PrivateBin](../repos/PrivateBin/PrivateBin.md) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Dat...
 
 ---
 
-*Last updated: 2026-08-15T21:01:40.532Z*
+*Last updated: 2026-08-16T21:01:56.625Z*

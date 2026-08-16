@@ -1,0 +1,95 @@
+# PrivateBin&#x2F;PrivateBin
+
+> A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted&#x2F;decrypted in the browser using 256 bits AES.
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;PrivateBin&#x2F;PrivateBin) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | PHP |
+| **License** | Other |
+| **Stars** | ⭐ 8,539 |
+| **Forks** | 🍴 1,015 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Aug 16, 2026 |
+| **Last Seen** | Aug 16, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in PHP or crypto*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`crypto`](../../topics/crypto.md) [`cryptography`](../../topics/cryptography.md) [`encrypted`](../../topics/encrypted.md) [`hacktoberfest`](../../topics/hacktoberfest.md) [`one-time`](../../topics/one-time.md) [`paste`](../../topics/paste.md) [`pastebin`](../../topics/pastebin.md) [`php`](../../topics/php.md) [`security`](../../topics/security.md) [`self-destroy`](../../topics/self-destroy.md) [`self-hosted`](../../topics/self-hosted.md) [`self-hosting`](../../topics/self-hosting.md) 
+
+### Curated Categories
+`Cybersecurity` `Blockchain &amp; Web3` `Systems Programming` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Limited | May require reading source code |
+| **Community** | Small | Niche but dedicated community |
+| **Maturity** | Stable | Established project |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Hard | Requires domain expertise |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in PHP
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-08-16T21:02:00.455Z*  
+*Data from 1 trending reports*
