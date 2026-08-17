@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 60
+- **Total Repositories**: 62
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-14
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 29,060 | 2026-08-01 | 8 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 29,081 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | ⭐ 625 | 2026-08-01 | 6 |
+| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | ⭐ 632 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Footagesus/WindUI](../repos/Footagesus/WindUI.md) | ⭐ 329 | 2026-08-02 | 5 |
+| [EllesmereGaming/EllesmereUI](../repos/EllesmereGaming/EllesmereUI.md) | ⭐ 172 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EllesmereGaming/EllesmereUI](../repos/EllesmereGaming/EllesmereUI.md) | ⭐ 167 | 2026-08-03 | 5 |
+| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,188 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LandSandBoat/server](../repos/LandSandBoat/server.md) | ⭐ 500 | 2026-08-04 | 2 |
+| [LandSandBoat/server](../repos/LandSandBoat/server.md) | ⭐ 501 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [finlater/weread.koplugin](../repos/finlater/weread.koplugin.md) | ⭐ 525 | 2026-08-07 | 7 |
+| [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,438 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [miscusi-peek/cheatengine-mcp-bridge](../repos/miscusi-peek/cheatengine-mcp-bridge.md) | ⭐ 1,249 | 2026-08-09 | 4 |
+| [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,424 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MunifTanjim/nui.nvim](../repos/MunifTanjim/nui.nvim.md) | ⭐ 2,106 | 2026-08-15 | 2 |
+| [finlater/weread.koplugin](../repos/finlater/weread.koplugin.md) | ⭐ 538 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AndyHazz/bookends.koplugin](../repos/AndyHazz/bookends.koplugin.md) | ⭐ 380 | 2026-08-16 | 1 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 7,977 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [esx-framework/esx_core](../repos/esx-framework/esx_core.md) | ⭐ 451 | 2026-08-16 | 1 |
+| [MunifTanjim/nui.nvim](../repos/MunifTanjim/nui.nvim.md) | ⭐ 2,106 | 2026-08-15 | 3 |
 
 
 ---
@@ -52,13 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 29,060 | 2026-08-01 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cer... |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 29,081 | 2026-08-01 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cer... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/apisix](../repos/apache/apisix.md) | ⭐ 16,997 | 2026-08-01 | The Cloud-Native API Gateway and AI Gateway |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | ⭐ 625 | 2026-08-01 | A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with s... |
+| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | ⭐ 632 | 2026-08-01 | A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with s... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,984 | 2026-08-01 | 🦍 The API and AI Gateway |
@@ -90,20 +90,20 @@
 |------------|-------|------------|---------------|
 | [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,984 | 2026-08-01 | 8 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,270 | 2026-08-04 | 7 |
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 29,060 | 2026-08-01 | 8 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 29,081 | 2026-08-01 | 9 |
 | [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) | ⭐ 28,211 | 2026-08-01 | 1 |
-| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,131 | 2026-08-04 | 4 |
-| [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,381 | 2026-08-06 | 1 |
+| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,188 | 2026-08-04 | 5 |
+| [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,424 | 2026-08-06 | 2 |
 | [nvim-telescope/telescope.nvim](../repos/nvim-telescope/telescope.nvim.md) | ⭐ 19,694 | 2026-08-11 | 1 |
 | [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 18,831 | 2026-08-03 | 7 |
 | [yetone/avante.nvim](../repos/yetone/avante.nvim.md) | ⭐ 18,112 | 2026-08-03 | 4 |
 | [apache/apisix](../repos/apache/apisix.md) | ⭐ 16,997 | 2026-08-01 | 5 |
 | [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,140 | 2026-08-04 | 3 |
-| [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,425 | 2026-08-04 | 1 |
+| [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,438 | 2026-08-04 | 2 |
 | [nvim-tree/nvim-tree.lua](../repos/nvim-tree/nvim-tree.lua.md) | ⭐ 8,613 | 2026-08-05 | 1 |
 | [folke/tokyonight.nvim](../repos/folke/tokyonight.nvim.md) | ⭐ 8,161 | 2026-08-05 | 1 |
 | [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,084 | 2026-08-02 | 2 |
-| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 7,962 | 2026-08-08 | 2 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 7,977 | 2026-08-08 | 3 |
 | [awesomeWM/awesome](../repos/awesomeWM/awesome.md) | ⭐ 6,934 | 2026-08-04 | 1 |
 | [stevearc/oil.nvim](../repos/stevearc/oil.nvim.md) | ⭐ 6,808 | 2026-08-04 | 1 |
 | [rebelot/kanagawa.nvim](../repos/rebelot/kanagawa.nvim.md) | ⭐ 6,323 | 2026-08-12 | 1 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [koreader/koreader](../repos/koreader/koreader.md) | 8 | ⭐ 29,060 | 2026-08-01 | 2026-08-16 |
+| [koreader/koreader](../repos/koreader/koreader.md) | 9 | ⭐ 29,081 | 2026-08-01 | 2026-08-17 |
 | [Kong/kong](../repos/Kong/kong.md) | 8 | ⭐ 43,984 | 2026-08-01 | 2026-08-14 |
+| [finlater/weread.koplugin](../repos/finlater/weread.koplugin.md) | 8 | ⭐ 538 | 2026-08-07 | 2026-08-17 |
+| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 7 | ⭐ 632 | 2026-08-01 | 2026-08-17 |
 | [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | 7 | ⭐ 4,377 | 2026-08-01 | 2026-08-14 |
 | [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 7 | ⭐ 18,831 | 2026-08-03 | 2026-08-14 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 7 | ⭐ 31,270 | 2026-08-04 | 2026-08-15 |
-| [finlater/weread.koplugin](../repos/finlater/weread.koplugin.md) | 7 | ⭐ 525 | 2026-08-07 | 2026-08-16 |
-| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 6 | ⭐ 625 | 2026-08-01 | 2026-08-16 |
+| [EllesmereGaming/EllesmereUI](../repos/EllesmereGaming/EllesmereUI.md) | 6 | ⭐ 172 | 2026-08-03 | 2026-08-17 |
 | [apache/apisix](../repos/apache/apisix.md) | 5 | ⭐ 16,997 | 2026-08-01 | 2026-08-15 |
 | [Footagesus/WindUI](../repos/Footagesus/WindUI.md) | 5 | ⭐ 329 | 2026-08-02 | 2026-08-16 |
-| [EllesmereGaming/EllesmereUI](../repos/EllesmereGaming/EllesmereUI.md) | 5 | ⭐ 167 | 2026-08-03 | 2026-08-16 |
 
 ---
 
@@ -190,7 +190,9 @@
 - [AndyHazz/bookends.koplugin](../repos/AndyHazz/bookends.koplugin.md) - KOReader plugin for configurable text overlays — tokens, icons, per-line styling, presets
 - [esx-framework/esx_core](../repos/esx-framework/esx_core.md) - Official Repo For core resources for esx-legacy
 - [patelneeraj/filebrowserplus.koplugin](../repos/patelneeraj/filebrowserplus.koplugin.md) - This KOReader plugins enables the user to run Filebrowser from koreader. Inspired by filebrowser....
+- [koreader/contrib](../repos/koreader/contrib.md) - Collection of non-official plugins designed for KOReader
+- [mason-org/mason-lspconfig.nvim](../repos/mason-org/mason-lspconfig.nvim.md) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.618Z*
+*Last updated: 2026-08-17T21:01:39.573Z*

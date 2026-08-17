@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 16
+- **Total Repositories**: 17
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-14
 
@@ -16,13 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 11 |
+| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,677 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,135 | 2026-08-04 | 4 |
+| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,057 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [r-lib/bit64](../repos/r-lib/bit64.md) | ⭐ 40 | 2026-08-16 | 1 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 378 | 2026-08-08 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 151 | 2026-08-09 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [cf-convention/cf-conventions](../repos/cf-convention/cf-conventions.md) | ⭐ 100 | 2026-08-17 | 1 |
 
 
 ---
@@ -49,7 +55,7 @@
 | [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 466 | 2026-08-03 | A collection of Claude Skills from Posit |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,056 | 2026-08-04 | dplyr: A grammar of data manipulation |
+| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,057 | 2026-08-04 | dplyr: A grammar of data manipulation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,908 | 2026-08-04 | R&#39;s data.table package extends data.frame: |
@@ -68,9 +74,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,980 | 2026-08-04 | 5 |
-| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,677 | 2026-08-02 | 5 |
+| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,677 | 2026-08-02 | 6 |
 | [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,135 | 2026-08-04 | 4 |
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,056 | 2026-08-04 | 4 |
+| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,057 | 2026-08-04 | 5 |
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,581 | 2026-08-01 | 10 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,908 | 2026-08-04 | 5 |
 | [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,054 | 2026-08-08 | 1 |
@@ -80,8 +86,9 @@
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 889 | 2026-08-01 | 11 |
 | [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 651 | 2026-08-01 | 10 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 466 | 2026-08-03 | 4 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 378 | 2026-08-08 | 6 |
-| [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 151 | 2026-08-09 | 3 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 378 | 2026-08-08 | 7 |
+| [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 151 | 2026-08-09 | 4 |
+| [cf-convention/cf-conventions](../repos/cf-convention/cf-conventions.md) | ⭐ 100 | 2026-08-17 | 1 |
 | [r-lib/bit64](../repos/r-lib/bit64.md) | ⭐ 40 | 2026-08-16 | 1 |
 
 ---
@@ -94,12 +101,12 @@
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 10 | ⭐ 4,581 | 2026-08-01 | 2026-08-15 |
 | [jinworks/CellChat](../repos/jinworks/CellChat.md) | 10 | ⭐ 651 | 2026-08-01 | 2026-08-15 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | 10 | ⭐ 2,786 | 2026-08-01 | 2026-08-15 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 6 | ⭐ 378 | 2026-08-08 | 2026-08-15 |
-| [rstudio/shiny](../repos/rstudio/shiny.md) | 5 | ⭐ 5,677 | 2026-08-02 | 2026-08-14 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 7 | ⭐ 378 | 2026-08-08 | 2026-08-17 |
+| [rstudio/shiny](../repos/rstudio/shiny.md) | 6 | ⭐ 5,677 | 2026-08-02 | 2026-08-17 |
+| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 5 | ⭐ 5,057 | 2026-08-04 | 2026-08-17 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 5 | ⭐ 3,908 | 2026-08-04 | 2026-08-15 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 5 | ⭐ 6,980 | 2026-08-04 | 2026-08-14 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | 4 | ⭐ 466 | 2026-08-03 | 2026-08-09 |
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 4 | ⭐ 5,056 | 2026-08-04 | 2026-08-14 |
 
 ---
 
@@ -121,7 +128,8 @@
 - [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) - Dynamic Documents for R
 - [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) - Tree-sitter grammar for R
 - [r-lib/bit64](../repos/r-lib/bit64.md) - An R package with an S3 Class for Vectors of 64bit Integers
+- [cf-convention/cf-conventions](../repos/cf-convention/cf-conventions.md) - AsciiDoc Source
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.631Z*
+*Last updated: 2026-08-17T21:01:39.586Z*

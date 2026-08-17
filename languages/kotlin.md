@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 96
+- **Total Repositories**: 99
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-09
+- **Last Updated**: 2026-08-17
 
 ---
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuzono/tachiyomi-extensions](../repos/yuzono/tachiyomi-extensions.md) | ⭐ 845 | 2026-08-01 | 2 |
+| [bmax121/APatch](../repos/bmax121/APatch.md) | ⭐ 7,809 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,167 | 2026-08-02 | 6 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,276 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 6,978 | 2026-08-03 | 3 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,974 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 546 | 2026-08-05 | 5 |
+| [WinNative-Emu/WinNative](../repos/WinNative-Emu/WinNative.md) | ⭐ 484 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mpv-android/mpv-android](../repos/mpv-android/mpv-android.md) | ⭐ 3,470 | 2026-08-05 | 2 |
+| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,108 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WinNative-Emu/WinNative](../repos/WinNative-Emu/WinNative.md) | ⭐ 478 | 2026-08-08 | 2 |
+| [keiyoushi/extensions-source](../repos/keiyoushi/extensions-source.md) | ⭐ 4,553 | 2026-08-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wgtunnel/android](../repos/wgtunnel/android.md) | ⭐ 3,026 | 2026-08-15 | 2 |
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,288 | 2026-08-17 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SpaceNeuroX/proxy-turn-vk-android](../repos/SpaceNeuroX/proxy-turn-vk-android.md) | ⭐ 234 | 2026-08-16 | 1 |
+| [prajwalch/TorrentSearch](../repos/prajwalch/TorrentSearch.md) | ⭐ 1,997 | 2026-08-17 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keiyoushi/extensions-source](../repos/keiyoushi/extensions-source.md) | ⭐ 4,547 | 2026-08-16 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) | ⭐ 5,635 | 2026-08-16 | 1 |
+| [Nain57/Smart-AutoClicker](../repos/Nain57/Smart-AutoClicker.md) | ⭐ 3,537 | 2026-08-17 | 1 |
 
 
 ---
@@ -88,13 +85,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,130 | 2026-08-03 | 2 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,276 | 2026-08-03 | 3 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,167 | 2026-08-02 | 6 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,317 | 2026-08-04 | 3 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,176 | 2026-08-06 | 5 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 40,889 | 2026-08-03 | 2 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,182 | 2026-08-05 | 3 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,695 | 2026-08-08 | 4 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,974 | 2026-08-08 | 5 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,467 | 2026-08-11 | 1 |
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,429 | 2026-08-12 | 1 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,355 | 2026-08-05 | 2 |
@@ -102,12 +99,12 @@
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,198 | 2026-08-02 | 2 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,661 | 2026-08-01 | 3 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,290 | 2026-08-12 | 1 |
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,288 | 2026-08-17 | 1 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,190 | 2026-08-02 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,416 | 2026-08-06 | 1 |
 | [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,091 | 2026-08-10 | 2 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 10,983 | 2026-08-02 | 3 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,410 | 2026-08-03 | 3 |
-| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,190 | 2026-08-05 | 2 |
 
 ---
 
@@ -121,10 +118,10 @@
 | [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | 5 | ⭐ 1,641 | 2026-08-03 | 2026-08-14 |
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 5 | ⭐ 546 | 2026-08-05 | 2026-08-16 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 5 | ⭐ 50,176 | 2026-08-06 | 2026-08-10 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 5 | ⭐ 28,974 | 2026-08-08 | 2026-08-17 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 4 | ⭐ 2,129 | 2026-08-02 | 2026-08-12 |
 | [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | 4 | ⭐ 5,662 | 2026-08-02 | 2026-08-15 |
 | [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | 4 | ⭐ 753 | 2026-08-04 | 2026-08-15 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 4 | ⭐ 28,695 | 2026-08-08 | 2026-08-11 |
 
 ---
 
@@ -226,7 +223,10 @@
 - [SpaceNeuroX/proxy-turn-vk-android](../repos/SpaceNeuroX/proxy-turn-vk-android.md) - 
 - [keiyoushi/extensions-source](../repos/keiyoushi/extensions-source.md) - Source code of extensions in https:&#x2F;&#x2F;github.com&#x2F;keiyoushi&#x2F;extensions
 - [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) - The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely ...
+- [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) - A Download Manager that speeds up your downloads
+- [prajwalch/TorrentSearch](../repos/prajwalch/TorrentSearch.md) - An Android app for searching torrents across multiple providers - fast, detailed, and packed with...
+- [Nain57/Smart-AutoClicker](../repos/Nain57/Smart-AutoClicker.md) - An open-source auto clicker on images for Android
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.615Z*
+*Last updated: 2026-08-17T21:01:39.571Z*

@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 215
+- **Total Repositories**: 222
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-08-07
-- **Average Stars**: 24795
+- **Average Stars**: 24226
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,035 | C |  |
+| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 11,133 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,825 | Scala |  |
+| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,388 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,116 | OCaml |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,426 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,504 | Perl |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,826 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 2,982 | Verilog |  |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,430 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [omnimind-ai/OmniBot](../repos/omnimind-ai/OmniBot.md) | ⭐ 1,899 | Dart |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,806 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 6,978 | Kotlin |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,265 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,631 | C |  |
+| [zml/zml](../repos/zml/zml.md) | ⭐ 3,981 | Zig |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,135 | R |  |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,054 | Solidity |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [memovai/mimiclaw](../repos/memovai/mimiclaw.md) | ⭐ 5,701 | C |  |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,218 | Solidity |  |
 
 
 ---
@@ -57,7 +57,7 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | Python | 2026-08-01 | 6 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 200,252 | TypeScript | 2026-08-11 | 1 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,458 | Python | 2026-08-06 | 4 |
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,393 | Dart | 2026-08-01 | 9 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,430 | Dart | 2026-08-01 | 10 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | TypeScript | 2026-08-07 | 5 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | JavaScript | 2026-08-06 | 2 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,507 | C | 2026-08-07 | 5 |
@@ -70,10 +70,10 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | Python | 1 |
+| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 17,331 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 17,331 | Rust | 1 |
+| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 11,133 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [paritytech/polkadot-sdk](../repos/paritytech/polkadot-sdk.md) | ⭐ 2,792 | Rust | 1 |
@@ -97,7 +97,7 @@
 | [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,035 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,367 | C | 1 |
+| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,388 | C | 1 |
 
 ---
 
@@ -123,7 +123,7 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | Python | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 10,720 | Python | 2026-08-01 |
+| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 11,133 | Python | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [langchain-ai/deepagents](../repos/langchain-ai/deepagents.md) | ⭐ 27,168 | Python | 2026-08-01 |
@@ -137,6 +137,10 @@
 ---
 
 ## 📅 Recent History
+
+### [2026-08-17](../archive/2026/08/2026-08-17.md)
+- 33 repositories trending
+- Top: flutter&#x2F;flutter
 
 ### [2026-08-16](../archive/2026/08/2026-08-16.md)
 - 16 repositories trending
@@ -158,10 +162,6 @@
 - 36 repositories trending
 - Top: n8n-io&#x2F;n8n
 
-### [2026-08-10](../archive/2026/08/2026-08-10.md)
-- 28 repositories trending
-- Top: firecrawl&#x2F;firecrawl
-
 
 ---
 
@@ -171,30 +171,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 15 days | 2026-08-01 | 2026-08-16 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 14 days | 2026-08-01 | 2026-08-15 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 14 days | 2026-08-01 | 2026-08-16 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 13 days | 2026-08-01 | 2026-08-15 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 13 days | 2026-08-01 | 2026-08-15 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 13 days | 2026-08-01 | 2026-08-15 |
+| [apache/spark](../repos/apache/spark.md) | 16 days | 2026-08-01 | 2026-08-17 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 15 days | 2026-08-01 | 2026-08-17 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 15 days | 2026-08-01 | 2026-08-17 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 14 days | 2026-08-01 | 2026-08-17 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 14 days | 2026-08-01 | 2026-08-17 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 14 days | 2026-08-01 | 2026-08-17 |
+| [joernio/joern](../repos/joernio/joern.md) | 12 days | 2026-08-01 | 2026-08-17 |
 | [vim/vim](../repos/vim/vim.md) | 12 days | 2026-08-01 | 2026-08-15 |
-| [joernio/joern](../repos/joernio/joern.md) | 11 days | 2026-08-01 | 2026-08-15 |
+| [flutter/flutter](../repos/flutter/flutter.md) | 10 days | 2026-08-01 | 2026-08-17 |
 | [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 10 days | 2026-08-01 | 2026-08-15 |
-| [ninenines/cowboy](../repos/ninenines/cowboy.md) | 10 days | 2026-08-03 | 2026-08-14 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **C**: 24 repositories (11%)
-- **Python**: 23 repositories (11%)
-- **TypeScript**: 22 repositories (10%)
-- **Rust**: 16 repositories (7%)
+- **C**: 25 repositories (11%)
+- **Python**: 23 repositories (10%)
+- **TypeScript**: 23 repositories (10%)
+- **Rust**: 17 repositories (8%)
 - **C++**: 13 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 39.3 repositories
+- **Daily Average**: 38.9 repositories
 - **Peak Day**: 2026-08-06 (58 repositories)
 - **Growth Rate**: 100% this month
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.452Z*
+*Last updated: 2026-08-17T21:01:39.408Z*

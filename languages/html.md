@@ -16,28 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 7,058 | 2026-08-03 | 3 |
+| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 7,098 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,048 | 2026-08-03 | 3 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 13,833 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 13,311 | 2026-08-04 | 8 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,102 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | ⭐ 4,995 | 2026-08-06 | 4 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 132,042 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,873 | 2026-08-09 | 4 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,917 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | ⭐ 1,671 | 2026-08-14 | 3 |
+| [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | ⭐ 1,712 | 2026-08-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Arrow-air/project-quiver](../repos/Arrow-air/project-quiver.md) | ⭐ 301 | 2026-08-15 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nova-video-player/aos-AVP](../repos/nova-video-player/aos-AVP.md) | ⭐ 4,618 | 2026-08-16 | 1 |
+| [github/training-kit](../repos/github/training-kit.md) | ⭐ 5,060 | 2026-08-15 | 2 |
 
 
 ---
@@ -83,12 +80,12 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,048 | 2026-08-03 | 3 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 131,888 | 2026-08-08 | 6 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 132,042 | 2026-08-08 | 7 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,477 | 2026-08-01 | 6 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,095 | 2026-08-01 | 4 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,483 | 2026-08-07 | 1 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,873 | 2026-08-09 | 4 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,917 | 2026-08-09 | 5 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,091 | 2026-08-03 | 4 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,854 | 2026-08-04 | 4 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,307 | 2026-08-03 | 1 |
@@ -98,7 +95,7 @@
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,434 | 2026-08-04 | 4 |
 | [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,264 | 2026-08-05 | 1 |
 | [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,067 | 2026-08-07 | 1 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 13,311 | 2026-08-04 | 8 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 13,833 | 2026-08-04 | 9 |
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 11,860 | 2026-08-01 | 1 |
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,774 | 2026-08-01 | 3 |
 | [cotes2020/jekyll-theme-chirpy](../repos/cotes2020/jekyll-theme-chirpy.md) | ⭐ 10,206 | 2026-08-05 | 1 |
@@ -109,16 +106,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 8 | ⭐ 13,311 | 2026-08-04 | 2026-08-16 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 9 | ⭐ 13,833 | 2026-08-04 | 2026-08-17 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 7 | ⭐ 132,042 | 2026-08-08 | 2026-08-17 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 6 | ⭐ 64,477 | 2026-08-01 | 2026-08-14 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 6 | ⭐ 131,888 | 2026-08-08 | 2026-08-15 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 5 | ⭐ 9,696 | 2026-08-01 | 2026-08-15 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 5 | ⭐ 6,102 | 2026-08-05 | 2026-08-17 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 5 | ⭐ 28,917 | 2026-08-09 | 2026-08-17 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | 4 | ⭐ 46,095 | 2026-08-01 | 2026-08-14 |
+| [averygan/reclip](../repos/averygan/reclip.md) | 4 | ⭐ 7,098 | 2026-08-03 | 2026-08-17 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 4 | ⭐ 27,091 | 2026-08-03 | 2026-08-12 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 4 | ⭐ 23,854 | 2026-08-04 | 2026-08-12 |
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 4 | ⭐ 16,434 | 2026-08-04 | 2026-08-11 |
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 4 | ⭐ 6,096 | 2026-08-05 | 2026-08-15 |
-| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | 4 | ⭐ 4,995 | 2026-08-06 | 2026-08-16 |
 
 ---
 
@@ -176,4 +173,4 @@
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.606Z*
+*Last updated: 2026-08-17T21:01:39.562Z*

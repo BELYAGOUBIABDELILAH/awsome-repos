@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 9,868 |
-| **Forks** | 🍴 1,196 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 11,048 |
+| **Forks** | 🍴 1,277 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 7, 2026 |
+| **Last Seen** | Aug 17, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`agents`](../../topics/agents.md) [`ai-image-generation`](../../topics/ai-image-generation.md) [`chatgpt`](../../topics/chatgpt.md) [`gpt-image-2`](../../topics/gpt-image-2.md) [`image-prompts`](../../topics/image-prompts.md) [`prompt-as-code`](../../topics/prompt-as-code.md) [`prompt-engineering`](../../topics/prompt-engineering.md) [`skills`](../../topics/skills.md) [`workflow-automation`](../../topics/workflow-automation.md) 
+[`agents`](../../topics/agents.md) [`ai-image-generation`](../../topics/ai-image-generation.md) [`chatgpt`](../../topics/chatgpt.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`gpt-image-2`](../../topics/gpt-image-2.md) [`image-prompts`](../../topics/image-prompts.md) [`prompt-as-code`](../../topics/prompt-as-code.md) [`prompt-engineering`](../../topics/prompt-engineering.md) [`skills`](../../topics/skills.md) [`workflow-automation`](../../topics/workflow-automation.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Generative AI` `DevOps &amp; CI&#x2F;CD` `Systems Programming` `Automation` 
@@ -69,8 +69,8 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Limited | May require reading source code |
-| **Community** | Small | Niche but dedicated community |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 55&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-16T21:01:57.989Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-17T21:01:40.669Z*  
+*Data from 4 trending reports*

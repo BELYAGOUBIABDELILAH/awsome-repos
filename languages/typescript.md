@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 115
+- **Total Repositories**: 119
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,19 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 3,040 | 2026-08-01 | 5 |
+| [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) | ⭐ 27,121 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) | ⭐ 9,675 | 2026-08-07 | 4 |
+| [cordiverse/cordis](../repos/cordiverse/cordis.md) | ⭐ 5,529 | 2026-08-15 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cordiverse/cordis](../repos/cordiverse/cordis.md) | ⭐ 4,666 | 2026-08-15 | 2 |
+| [liustack/modlens](../repos/liustack/modlens.md) | ⭐ 2,781 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [remotion-dev/remotion](../repos/remotion-dev/remotion.md) | ⭐ 56,495 | 2026-08-16 | 1 |
+| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,071 | 2026-08-17 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chaitanyagiri/munder-difflin](../repos/chaitanyagiri/munder-difflin.md) | ⭐ 1,211 | 2026-08-16 | 1 |
+| [agalwood/Motrix](../repos/agalwood/Motrix.md) | ⭐ 53,003 | 2026-08-17 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Gitlawb/openclaude](../repos/Gitlawb/openclaude.md) | ⭐ 30,729 | 2026-08-17 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [evershopcommerce/evershop](../repos/evershopcommerce/evershop.md) | ⭐ 10,370 | 2026-08-17 | 1 |
 
 
 ---
@@ -79,6 +85,7 @@
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 127,577 | 2026-08-02 | 3 |
+| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,071 | 2026-08-17 | 1 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,166 | 2026-08-15 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,950 | 2026-08-04 | 2 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 96,831 | 2026-08-04 | 2 |
@@ -92,7 +99,6 @@
 | [strapi/strapi](../repos/strapi/strapi.md) | ⭐ 72,929 | 2026-08-15 | 1 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 67,574 | 2026-08-10 | 1 |
 | [reduxjs/redux](../repos/reduxjs/redux.md) | ⭐ 61,511 | 2026-08-04 | 1 |
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 56,738 | 2026-08-01 | 1 |
 
 ---
 
@@ -218,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.643Z*
+*Last updated: 2026-08-17T21:01:39.598Z*

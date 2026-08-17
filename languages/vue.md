@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 55
+- **Total Repositories**: 57
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-07
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crmeb/crmeb_java](../repos/crmeb/crmeb_java.md) | ⭐ 3,023 | 2026-08-01 | 3 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 429 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,059 | 2026-08-01 | 5 |
+| [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | ⭐ 916 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [inovector/mixpost](../repos/inovector/mixpost.md) | ⭐ 3,518 | 2026-08-01 | 4 |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,618 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 429 | 2026-08-02 | 8 |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 1,775 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | ⭐ 907 | 2026-08-02 | 6 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,725 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,430 | 2026-08-02 | 7 |
+| [cfw-guide/ios.cfw.guide](../repos/cfw-guide/ios.cfw.guide.md) | ⭐ 752 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 5,742 | 2026-08-07 | 5 |
+| [frappe/lms](../repos/frappe/lms.md) | ⭐ 3,139 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [creazy231/tools-for-autodarts](../repos/creazy231/tools-for-autodarts.md) | ⭐ 127 | 2026-08-15 | 2 |
+| [Rule-34/App](../repos/Rule-34/App.md) | ⭐ 368 | 2026-08-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Rule-34/App](../repos/Rule-34/App.md) | ⭐ 368 | 2026-08-16 | 1 |
+| [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,527 | 2026-08-17 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [roimdev/roim-picx](../repos/roimdev/roim-picx.md) | ⭐ 291 | 2026-08-17 | 1 |
 
 
 ---
@@ -92,19 +95,19 @@
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,765 | 2026-08-01 | 7 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,594 | 2026-08-08 | 5 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,635 | 2026-08-01 | 7 |
-| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,620 | 2026-08-02 | 7 |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,618 | 2026-08-02 | 8 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,889 | 2026-08-07 | 1 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,430 | 2026-08-02 | 7 |
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,468 | 2026-08-05 | 4 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,700 | 2026-08-12 | 1 |
+| [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,527 | 2026-08-17 | 1 |
 | [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,240 | 2026-08-03 | 8 |
 | [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,844 | 2026-08-03 | 2 |
 | [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,560 | 2026-08-08 | 3 |
 | [un-pany/v3-admin-vite](../repos/un-pany/v3-admin-vite.md) | ⭐ 7,018 | 2026-08-04 | 1 |
 | [VueTorrent/VueTorrent](../repos/VueTorrent/VueTorrent.md) | ⭐ 6,907 | 2026-08-03 | 2 |
 | [luckjiawei/frpc-desktop](../repos/luckjiawei/frpc-desktop.md) | ⭐ 6,811 | 2026-08-04 | 1 |
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,717 | 2026-08-02 | 5 |
-| [yangzongzhuan/RuoYi-Vue3](../repos/yangzongzhuan/RuoYi-Vue3.md) | ⭐ 6,710 | 2026-08-12 | 1 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,725 | 2026-08-02 | 6 |
 
 ---
 
@@ -114,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 10 | ⭐ 33,135 | 2026-08-01 | 2026-08-14 |
 | [frappe/crm](../repos/frappe/crm.md) | 9 | ⭐ 3,315 | 2026-08-01 | 2026-08-11 |
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 8 | ⭐ 429 | 2026-08-02 | 2026-08-16 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 9 | ⭐ 429 | 2026-08-02 | 2026-08-17 |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | 8 | ⭐ 21,618 | 2026-08-02 | 2026-08-17 |
 | [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | 8 | ⭐ 9,240 | 2026-08-03 | 2026-08-15 |
 | [requarks/wiki](../repos/requarks/wiki.md) | 7 | ⭐ 28,765 | 2026-08-01 | 2026-08-15 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 7 | ⭐ 21,635 | 2026-08-01 | 2026-08-12 |
+| [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | 7 | ⭐ 916 | 2026-08-02 | 2026-08-17 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 7 | ⭐ 16,430 | 2026-08-02 | 2026-08-16 |
-| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | 7 | ⭐ 21,620 | 2026-08-02 | 2026-08-14 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 7 | ⭐ 1,765 | 2026-08-02 | 2026-08-09 |
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 6 | ⭐ 3,961 | 2026-08-01 | 2026-08-12 |
 
 ---
 
@@ -182,7 +185,9 @@
 - [creazy231/tools-for-autodarts](../repos/creazy231/tools-for-autodarts.md) - Tools for Autodarts enhances the gaming experience on autodarts.io
 - [ZTMYO/XiaoShiLiu](../repos/ZTMYO/XiaoShiLiu.md) - 一个高仿小红书的图文社区项目，支持图文发布、社交互动等核心功能，旨在提供从前端到后端的完整实践范本
 - [Rule-34/App](../repos/Rule-34/App.md) - Browse the most popular Boorus with the Rule 34 App.
+- [zyronon/douyin](../repos/zyronon/douyin.md) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
+- [roimdev/roim-picx](../repos/roimdev/roim-picx.md) - A free image hosting application based on Cloudflare&#39;s Worker, R2, Pages, and D1 architectures.一款...
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.734Z*
+*Last updated: 2026-08-17T21:01:39.615Z*

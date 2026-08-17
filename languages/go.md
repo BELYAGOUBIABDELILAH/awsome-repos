@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 134
+- **Total Repositories**: 138
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-08-16
+- **Last Updated**: 2026-08-17
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,711 | 2026-08-01 | 8 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,455 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 5,333 | 2026-08-02 | 5 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,803 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 41,070 | 2026-08-02 | 2 |
+| [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 41,084 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harness/harness](../repos/harness/harness.md) | ⭐ 37,964 | 2026-08-06 | 4 |
+| [krillinai/KrillinAI](../repos/krillinai/KrillinAI.md) | ⭐ 11,134 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 19,250 | 2026-08-10 | 2 |
+| [authelia/authelia](../repos/authelia/authelia.md) | ⭐ 28,598 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [knadh/listmonk](../repos/knadh/listmonk.md) | ⭐ 22,908 | 2026-08-14 | 3 |
+| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 37,082 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kenn-io/agentsview](../repos/kenn-io/agentsview.md) | ⭐ 5,048 | 2026-08-15 | 2 |
+| [zzet/gortex](../repos/zzet/gortex.md) | ⭐ 1,180 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ViRb3/wgcf](../repos/ViRb3/wgcf.md) | ⭐ 8,613 | 2026-08-16 | 1 |
+| [github/gh-aw](../repos/github/gh-aw.md) | ⭐ 4,944 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [velero-io/velero](../repos/velero-io/velero.md) | ⭐ 10,222 | 2026-08-16 | 1 |
+| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 19,289 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [seakee/CPA-Manager-Plus](../repos/seakee/CPA-Manager-Plus.md) | ⭐ 2,602 | 2026-08-16 | 1 |
+| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,212 | 2026-08-12 | 3 |
 
 
 ---
@@ -73,7 +73,7 @@
 | [heroiclabs/nakama](../repos/heroiclabs/nakama.md) | ⭐ 13,066 | 2026-08-01 | Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and socia... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,376 | 2026-08-01 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori... |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,455 | 2026-08-01 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 19,889 | 2026-08-01 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason... |
@@ -88,13 +88,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,711 | 2026-08-01 | 8 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,803 | 2026-08-01 | 9 |
 | [golang/go](../repos/golang/go.md) | ⭐ 135,774 | 2026-07-31 | 5 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,500 | 2026-08-04 | 2 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,298 | 2026-08-03 | 1 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 88,549 | 2026-08-06 | 5 |
-| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,199 | 2026-08-12 | 2 |
+| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,212 | 2026-08-12 | 3 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | 2026-08-03 | 3 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 71,989 | 2026-08-04 | 2 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | 2026-08-07 | 1 |
@@ -106,7 +106,7 @@
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 46,001 | 2026-08-01 | 7 |
 | [cli/cli](../repos/cli/cli.md) | ⭐ 45,795 | 2026-08-11 | 1 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 45,010 | 2026-08-01 | 3 |
-| [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 41,070 | 2026-08-02 | 2 |
+| [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 41,084 | 2026-08-02 | 3 |
 | [docker/compose](../repos/docker/compose.md) | ⭐ 38,010 | 2026-08-04 | 2 |
 
 ---
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ollama/ollama](../repos/ollama/ollama.md) | 8 | ⭐ 178,711 | 2026-08-01 | 2026-08-16 |
+| [ollama/ollama](../repos/ollama/ollama.md) | 9 | ⭐ 178,803 | 2026-08-01 | 2026-08-17 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 7 | ⭐ 46,001 | 2026-08-01 | 2026-08-14 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 6 | ⭐ 37,376 | 2026-08-01 | 2026-08-12 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 7 | ⭐ 37,455 | 2026-08-01 | 2026-08-17 |
 | [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 6 | ⭐ 32,878 | 2026-08-02 | 2026-08-07 |
 | [golang/go](../repos/golang/go.md) | 5 | ⭐ 135,774 | 2026-07-31 | 2026-08-15 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 5 | ⭐ 19,889 | 2026-08-01 | 2026-08-14 |
 | [superplanehq/superplane](../repos/superplanehq/superplane.md) | 5 | ⭐ 5,333 | 2026-08-02 | 2026-08-16 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 5 | ⭐ 88,549 | 2026-08-06 | 2026-08-15 |
 | [github/gh-stack](../repos/github/gh-stack.md) | 4 | ⭐ 1,047 | 2026-08-01 | 2026-08-04 |
-| [chenyme/grok2api](../repos/chenyme/grok2api.md) | 4 | ⭐ 7,237 | 2026-08-06 | 2026-08-09 |
+| [krillinai/KrillinAI](../repos/krillinai/KrillinAI.md) | 4 | ⭐ 11,134 | 2026-08-03 | 2026-08-17 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.603Z*
+*Last updated: 2026-08-17T21:01:39.559Z*

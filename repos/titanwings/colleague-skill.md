@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 22,460 |
-| **Forks** | 🍴 2,049 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 23,132 |
+| **Forks** | 🍴 2,069 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 15, 2026 |
-| **Last Seen** | Aug 15, 2026 |
+| **Last Seen** | Aug 17, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`agent-skills`](../../topics/agent-skills.md) [`ai-agent`](../../topics/ai-agent.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`hermes-agent`](../../topics/hermes-agent.md) [`knowledge-distillation`](../../topics/knowledge-distillation.md) [`meta-skill`](../../topics/meta-skill.md) [`openclaw`](../../topics/openclaw.md) [`skill-generator`](../../topics/skill-generator.md) 
+[`agent-skills`](../../topics/agent-skills.md) [`agentic-ai`](../../topics/agentic-ai.md) [`ai-agent`](../../topics/ai-agent.md) [`ai-persona`](../../topics/ai-persona.md) [`claude-code`](../../topics/claude-code.md) [`claude-code-skills`](../../topics/claude-code-skills.md) [`codex`](../../topics/codex.md) [`codex-skills`](../../topics/codex-skills.md) [`deepseek-harness`](../../topics/deepseek-harness.md) [`digital-human`](../../topics/digital-human.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`hermes-agent`](../../topics/hermes-agent.md) [`knowledge-distillation`](../../topics/knowledge-distillation.md) [`llm-agent`](../../topics/llm-agent.md) [`meta-skill`](../../topics/meta-skill.md) [`openclaw`](../../topics/openclaw.md) [`prompt-engineering`](../../topics/prompt-engineering.md) [`skill-generator`](../../topics/skill-generator.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Systems Programming` 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-16T21:02:00.343Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-17T21:01:42.850Z*  
+*Data from 2 trending reports*

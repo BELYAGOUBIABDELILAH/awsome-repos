@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | Other |
-| **Stars** | ⭐ 1,268 |
+| **Stars** | ⭐ 1,269 |
 | **Forks** | 🍴 437 |
-| **Trending Days** | 3 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 14, 2026 |
-| **Last Seen** | Aug 16, 2026 |
+| **Last Seen** | Aug 17, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
-- **Longest Streak**: 3 days
+- **Trending Days**: 4
+- **Longest Streak**: 4 days
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 1,268+ stars, strong contributor base |
+| **Community** | Very Active | 1,269+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 60&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-16T21:02:00.322Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-17T21:01:42.829Z*  
+*Data from 4 trending reports*

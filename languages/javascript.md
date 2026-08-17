@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 78
+- **Total Repositories**: 79
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,28 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 10,983 | 2026-08-03 | 4 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 11,048 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 6,677 | 2026-08-10 | 3 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 59,155 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [plankanban/planka](../repos/plankanban/planka.md) | ⭐ 12,388 | 2026-08-11 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 11,295 | 2026-08-14 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 2,090 | 2026-08-14 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [IRNova/Nova-Proxy](../repos/IRNova/Nova-Proxy.md) | ⭐ 3,047 | 2026-08-16 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 19,094 | 2026-08-16 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [babalae/bettergi-scripts-list](../repos/babalae/bettergi-scripts-list.md) | ⭐ 515 | 2026-08-16 | 1 |
+| [leaningtech/webvm](../repos/leaningtech/webvm.md) | ⭐ 17,307 | 2026-08-17 | 1 |
 
 
 ---
@@ -67,13 +52,13 @@
 | [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,475 | 2026-08-01 | Low-code programming for event-driven applications |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 9,868 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 11,048 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) | ⭐ 347 | 2026-08-01 | Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 58,350 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 59,155 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
 
 
 ---
@@ -95,7 +80,7 @@
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 58,350 | 2026-08-01 | 5 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 59,155 | 2026-08-01 | 6 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 56,691 | 2026-08-05 | 2 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,912 | 2026-08-11 | 2 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
@@ -111,12 +96,12 @@
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 7 | ⭐ 86,177 | 2026-08-05 | 2026-08-11 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 6 | ⭐ 141,656 | 2026-07-30 | 2026-08-06 |
+| [byoungd/up](../repos/byoungd/up.md) | 6 | ⭐ 59,155 | 2026-08-01 | 2026-08-17 |
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 5 | ⭐ 7,142 | 2026-08-01 | 2026-08-12 |
-| [byoungd/up](../repos/byoungd/up.md) | 5 | ⭐ 58,350 | 2026-08-01 | 2026-08-10 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 5 | ⭐ 38,736 | 2026-08-06 | 2026-08-10 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 4 | ⭐ 11,048 | 2026-08-01 | 2026-08-17 |
 | [is-a-dev/register](../repos/is-a-dev/register.md) | 4 | ⭐ 10,983 | 2026-08-03 | 2026-08-16 |
 | [facebook/react](../repos/facebook/react.md) | 3 | ⭐ 219,500 | 2026-07-30 | 2026-08-05 |
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 3 | ⭐ 9,868 | 2026-08-01 | 2026-08-07 |
 | [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | 3 | ⭐ 7,624 | 2026-08-02 | 2026-08-04 |
 | [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | 3 | ⭐ 5,649 | 2026-08-02 | 2026-08-12 |
 
@@ -202,7 +187,8 @@
 - [IRNova/Nova-Proxy](../repos/IRNova/Nova-Proxy.md) - یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره...
 - [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 &#x2F; 阿里云盘 &#x2F; 中国移动云盘 &#x2F; 天翼云盘 &#x2F; 迅雷云盘 &#x2F; 夸克网盘 &#x2F; UC网盘...
 - [babalae/bettergi-scripts-list](../repos/babalae/bettergi-scripts-list.md) - BetterGI 的脚本仓库，内含BetterGI 的JS脚本、路径追踪、战斗策略、七圣召唤策略。
+- [leaningtech/webvm](../repos/leaningtech/webvm.md) - Virtual Machine for the Web
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.611Z*
+*Last updated: 2026-08-17T21:01:39.567Z*

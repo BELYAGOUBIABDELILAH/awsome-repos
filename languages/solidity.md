@@ -8,14 +8,40 @@
 
 - **Total Repositories**: 40
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-15
+- **Last Updated**: 2026-08-17
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,054 | 2026-08-01 | 14 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,218 | 2026-08-01 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | ⭐ 222 | 2026-08-01 | 14 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [dapphub/ds-test](../repos/dapphub/ds-test.md) | ⭐ 238 | 2026-08-01 | 14 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [transmissions11/solmate](../repos/transmissions11/solmate.md) | ⭐ 4,288 | 2026-08-01 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [OpenZeppelin/openzeppelin-foundry-upgrades](../repos/OpenZeppelin/openzeppelin-foundry-upgrades.md) | ⭐ 258 | 2026-08-01 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Arachnid/solidity-stringutils](../repos/Arachnid/solidity-stringutils.md) | ⭐ 1,154 | 2026-08-02 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [morpho-org/vault-v2](../repos/morpho-org/vault-v2.md) | ⭐ 95 | 2026-08-04 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [dmfxyz/murky](../repos/dmfxyz/murky.md) | ⭐ 515 | 2026-08-04 | 10 |
 
-*No Solidity repositories trending today*
 
 ---
 
@@ -59,12 +85,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,218 | 2026-08-01 | 14 |
-| [transmissions11/solmate](../repos/transmissions11/solmate.md) | ⭐ 4,288 | 2026-08-01 | 11 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,218 | 2026-08-01 | 15 |
+| [transmissions11/solmate](../repos/transmissions11/solmate.md) | ⭐ 4,288 | 2026-08-01 | 12 |
 | [Uniswap/v4-core](../repos/Uniswap/v4-core.md) | ⭐ 2,527 | 2026-08-01 | 5 |
 | [Uniswap/v2-periphery](../repos/Uniswap/v2-periphery.md) | ⭐ 1,268 | 2026-08-02 | 2 |
-| [Arachnid/solidity-stringutils](../repos/Arachnid/solidity-stringutils.md) | ⭐ 1,155 | 2026-08-02 | 11 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,054 | 2026-08-01 | 13 |
+| [Arachnid/solidity-stringutils](../repos/Arachnid/solidity-stringutils.md) | ⭐ 1,154 | 2026-08-02 | 12 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,054 | 2026-08-01 | 14 |
 | [foundry-rs/book](../repos/foundry-rs/book.md) | ⭐ 957 | 2026-08-10 | 1 |
 | [Uniswap/permit2](../repos/Uniswap/permit2.md) | ⭐ 948 | 2026-08-01 | 3 |
 | [Uniswap/v4-periphery](../repos/Uniswap/v4-periphery.md) | ⭐ 900 | 2026-08-01 | 4 |
@@ -72,13 +98,13 @@
 | [ethereum/ERCs](../repos/ethereum/ERCs.md) | ⭐ 745 | 2026-08-04 | 5 |
 | [GNSPS/solidity-bytes-utils](../repos/GNSPS/solidity-bytes-utils.md) | ⭐ 564 | 2026-08-04 | 5 |
 | [matter-labs/era-contracts](../repos/matter-labs/era-contracts.md) | ⭐ 537 | 2026-08-07 | 5 |
-| [dmfxyz/murky](../repos/dmfxyz/murky.md) | ⭐ 516 | 2026-08-04 | 9 |
+| [dmfxyz/murky](../repos/dmfxyz/murky.md) | ⭐ 515 | 2026-08-04 | 10 |
 | [smartcontractkit/chainlink-brownie-contracts](../repos/smartcontractkit/chainlink-brownie-contracts.md) | ⭐ 510 | 2026-08-02 | 3 |
 | [coinbase/smart-wallet](../repos/coinbase/smart-wallet.md) | ⭐ 484 | 2026-08-04 | 1 |
 | [Uniswap/UniswapX](../repos/Uniswap/UniswapX.md) | ⭐ 461 | 2026-08-10 | 1 |
 | [bokkypoobah/BokkyPooBahsDateTimeLibrary](../repos/bokkypoobah/BokkyPooBahsDateTimeLibrary.md) | ⭐ 372 | 2026-08-02 | 1 |
 | [aave-dao/aave-v3-origin](../repos/aave-dao/aave-v3-origin.md) | ⭐ 289 | 2026-08-10 | 1 |
-| [OpenZeppelin/openzeppelin-foundry-upgrades](../repos/OpenZeppelin/openzeppelin-foundry-upgrades.md) | ⭐ 258 | 2026-08-01 | 12 |
+| [OpenZeppelin/openzeppelin-foundry-upgrades](../repos/OpenZeppelin/openzeppelin-foundry-upgrades.md) | ⭐ 258 | 2026-08-01 | 13 |
 
 ---
 
@@ -86,14 +112,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 14 | ⭐ 27,218 | 2026-08-01 | 2026-08-15 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 13 | ⭐ 1,054 | 2026-08-01 | 2026-08-15 |
-| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | 13 | ⭐ 222 | 2026-08-01 | 2026-08-15 |
-| [dapphub/ds-test](../repos/dapphub/ds-test.md) | 13 | ⭐ 238 | 2026-08-01 | 2026-08-15 |
-| [OpenZeppelin/openzeppelin-foundry-upgrades](../repos/OpenZeppelin/openzeppelin-foundry-upgrades.md) | 12 | ⭐ 258 | 2026-08-01 | 2026-08-15 |
-| [transmissions11/solmate](../repos/transmissions11/solmate.md) | 11 | ⭐ 4,288 | 2026-08-01 | 2026-08-15 |
-| [Arachnid/solidity-stringutils](../repos/Arachnid/solidity-stringutils.md) | 11 | ⭐ 1,155 | 2026-08-02 | 2026-08-15 |
-| [dmfxyz/murky](../repos/dmfxyz/murky.md) | 9 | ⭐ 516 | 2026-08-04 | 2026-08-12 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 15 | ⭐ 27,218 | 2026-08-01 | 2026-08-17 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 14 | ⭐ 1,054 | 2026-08-01 | 2026-08-17 |
+| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | 14 | ⭐ 222 | 2026-08-01 | 2026-08-17 |
+| [dapphub/ds-test](../repos/dapphub/ds-test.md) | 14 | ⭐ 238 | 2026-08-01 | 2026-08-17 |
+| [OpenZeppelin/openzeppelin-foundry-upgrades](../repos/OpenZeppelin/openzeppelin-foundry-upgrades.md) | 13 | ⭐ 258 | 2026-08-01 | 2026-08-17 |
+| [transmissions11/solmate](../repos/transmissions11/solmate.md) | 12 | ⭐ 4,288 | 2026-08-01 | 2026-08-17 |
+| [Arachnid/solidity-stringutils](../repos/Arachnid/solidity-stringutils.md) | 12 | ⭐ 1,154 | 2026-08-02 | 2026-08-17 |
+| [dmfxyz/murky](../repos/dmfxyz/murky.md) | 10 | ⭐ 515 | 2026-08-04 | 2026-08-17 |
 | [aave/aave-v4](../repos/aave/aave-v4.md) | 7 | ⭐ 200 | 2026-08-01 | 2026-08-12 |
 | [OffchainLabs/nitro-contracts](../repos/OffchainLabs/nitro-contracts.md) | 7 | ⭐ 151 | 2026-08-03 | 2026-08-12 |
 
@@ -144,4 +170,4 @@
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.641Z*
+*Last updated: 2026-08-17T21:01:39.595Z*

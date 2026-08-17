@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 8
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-16
+- **Last Updated**: 2026-08-17
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,780 | 2026-08-01 | 15 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,780 | 2026-08-01 | 16 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,923 | 2026-08-03 | 9 |
 
 
 ---
@@ -55,11 +58,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,780 | 2026-08-01 | 15 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,780 | 2026-08-01 | 16 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,267 | 2026-08-02 | 11 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,465 | 2026-08-02 | 8 |
-| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,923 | 2026-08-03 | 8 |
+| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,923 | 2026-08-03 | 9 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 874 | 2026-08-01 | 4 |
 | [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | ⭐ 96 | 2026-08-06 | 1 |
 | [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | 6 |
@@ -70,10 +73,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [gradle/gradle](../repos/gradle/gradle.md) | 15 | ⭐ 18,780 | 2026-08-01 | 2026-08-16 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 16 | ⭐ 18,780 | 2026-08-01 | 2026-08-17 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | 11 | ⭐ 6,267 | 2026-08-02 | 2026-08-14 |
+| [apache/grails-core](../repos/apache/grails-core.md) | 9 | ⭐ 2,923 | 2026-08-03 | 2026-08-17 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 8 | ⭐ 3,465 | 2026-08-02 | 2026-08-15 |
-| [apache/grails-core](../repos/apache/grails-core.md) | 8 | ⭐ 2,923 | 2026-08-03 | 2026-08-15 |
 | [gravitee-io/issues](../repos/gravitee-io/issues.md) | 6 | ⭐ 68 | 2026-08-01 | 2026-08-15 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | 4 | ⭐ 874 | 2026-08-01 | 2026-08-12 |
 | [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | 1 | ⭐ 96 | 2026-08-06 | 2026-08-06 |
@@ -94,4 +97,4 @@
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.604Z*
+*Last updated: 2026-08-17T21:01:39.561Z*

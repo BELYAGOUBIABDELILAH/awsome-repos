@@ -11,14 +11,14 @@
 | | |
 |---|---|
 | **Language** | JavaScript |
-| **License** | Not specified |
-| **Stars** | ⭐ 58,350 |
-| **Forks** | 🍴 5,978 |
-| **Trending Days** | 5 |
+| **License** | Other |
+| **Stars** | ⭐ 59,155 |
+| **Forks** | 🍴 6,033 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 10, 2026 |
+| **Last Seen** | Aug 17, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-16T21:01:57.992Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-08-17T21:01:40.671Z*  
+*Data from 6 trending reports*

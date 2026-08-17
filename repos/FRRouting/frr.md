@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | Other |
-| **Stars** | ⭐ 4,249 |
-| **Forks** | 🍴 1,589 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 4,252 |
+| **Forks** | 🍴 1,593 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Aug 15, 2026 |
+| **Last Seen** | Aug 17, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 4,249+ stars, strong contributor base |
+| **Community** | Very Active | 4,252+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-16T21:01:59.351Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-17T21:01:41.909Z*  
+*Data from 3 trending reports*

@@ -1,6 +1,6 @@
 # liustack&#x2F;modlens
 
-> The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网第一个 DeepSeek Harness 视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
+> The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;liustack&#x2F;modlens) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 1,890 |
-| **Forks** | 🍴 49 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 2,781 |
+| **Forks** | 🍴 76 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 15, 2026 |
-| **Last Seen** | Aug 15, 2026 |
+| **Last Seen** | Aug 17, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-16T21:02:00.355Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-17T21:01:42.863Z*  
+*Data from 2 trending reports*

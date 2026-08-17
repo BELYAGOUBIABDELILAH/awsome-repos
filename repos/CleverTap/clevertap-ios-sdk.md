@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Objective-C |
 | **License** | MIT |
-| **Stars** | ⭐ 67 |
+| **Stars** | ⭐ 68 |
 | **Forks** | 🍴 67 |
-| **Trending Days** | 4 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 12, 2026 |
+| **Last Seen** | Aug 17, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 3 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 67+ stars, strong contributor base |
+| **Community** | Very Active | 68+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 75&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-16T21:01:59.256Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-08-17T21:01:41.820Z*  
+*Data from 5 trending reports*

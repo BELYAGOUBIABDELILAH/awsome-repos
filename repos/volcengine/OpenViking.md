@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 28,446 |
-| **Forks** | 🍴 2,250 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 28,884 |
+| **Forks** | 🍴 2,276 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 14, 2026 |
-| **Last Seen** | Aug 14, 2026 |
+| **Last Seen** | Aug 17, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`agent-memory`](../../topics/agent-memory.md) [`agent-plugins`](../../topics/agent-plugins.md) [`agentic-rag`](../../topics/agentic-rag.md) [`context-database`](../../topics/context-database.md) [`self-evolving`](../../topics/self-evolving.md) 
+[`agent-memory`](../../topics/agent-memory.md) [`agent-plugins`](../../topics/agent-plugins.md) [`agentic-rag`](../../topics/agentic-rag.md) [`context-database`](../../topics/context-database.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`self-evolving`](../../topics/self-evolving.md) 
 
 ### Curated Categories
 `Databases` `Systems Programming` 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-16T21:02:00.250Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-17T21:01:42.751Z*  
+*Data from 2 trending reports*

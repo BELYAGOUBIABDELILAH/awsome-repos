@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Zig |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 3,975 |
-| **Forks** | 🍴 175 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 3,981 |
+| **Forks** | 🍴 176 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 14, 2026 |
+| **Last Seen** | Aug 17, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-16T21:01:58.386Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-08-17T21:01:41.020Z*  
+*Data from 8 trending reports*

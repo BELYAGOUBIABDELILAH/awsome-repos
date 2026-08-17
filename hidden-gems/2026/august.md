@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 578
+**Gems Found**: 595
 
 ---
 
@@ -77,13 +77,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,496 |
+| ⭐ **Stars** | 7,084 |
 | 💻 **Language** | Python |
 | 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 5 |
+| 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
-**Why it's a gem**: High growth velocity (+838 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+820 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -91,7 +91,27 @@
 
 ---
 
-### 5. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
+### 5. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
+
+**📼 The missing YouTube and YouTube Music macOS app**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,015 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+47 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/sozercan/kaset.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;sozercan&#x2F;kaset)
+
+---
+
+### 6. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
 
 **Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
 
@@ -111,7 +131,7 @@
 
 ---
 
-### 6. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+### 7. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
 
 **GitHub Stacked PRs**
 
@@ -131,39 +151,19 @@
 
 ---
 
-### 7. [cursor&#x2F;plugins](../../repos/cursor/plugins.md)
-
-**Cursor plugin specification and official plugins**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,040 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+132 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/cursor/plugins.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;cursor&#x2F;plugins)
-
----
-
 ### 8. [unclebob&#x2F;swarm-forge](../../repos/unclebob/swarm-forge.md)
 
 **A simple tool for coordinating several AI agents.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,449 |
+| ⭐ **Stars** | 2,455 |
 | 💻 **Language** | Clojure |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 11 |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 12 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+89 stars&#x2F;day) • Trending 11 times • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Trending 12 times • Very active development • Underrated project
 
 **Best for**: 
 
@@ -191,7 +191,47 @@
 
 ---
 
-### 10. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 10. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
+
+**Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,134 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 15, 2026 |
+
+**Why it's a gem**: High growth velocity (+411 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/MakazhanAlpamys/Soup.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;MakazhanAlpamys&#x2F;Soup)
+
+---
+
+### 11. [cursor&#x2F;plugins](../../repos/cursor/plugins.md)
+
+**Cursor plugin specification and official plugins**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,040 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+132 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/cursor/plugins.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;cursor&#x2F;plugins)
+
+---
+
+### 12. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
 **ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
@@ -211,27 +251,27 @@
 
 ---
 
-### 11. [Mininglamp-OSS&#x2F;octo-ios](../../repos/Mininglamp-OSS/octo-ios.md)
+### 13. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
 
-**OCTO iOS Client — Open-source enterprise IM**
+**OCTO Android Client — Open-source enterprise IM**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 550 |
-| 💻 **Language** | Objective-C |
+| ⭐ **Stars** | 549 |
+| 💻 **Language** | Java |
 | 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 6 |
+| 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 7, 2026 |
 
-**Why it's a gem**: High growth velocity (+44 stars&#x2F;day) • Trending 6 times • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+44 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/Mininglamp-OSS/octo-ios.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-ios)
+[View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
 
 ---
 
-### 12. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
+### 14. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
 
 **BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
 
@@ -251,7 +291,27 @@
 
 ---
 
-### 13. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
+### 15. [Mininglamp-OSS&#x2F;octo-ios](../../repos/Mininglamp-OSS/octo-ios.md)
+
+**OCTO iOS Client — Open-source enterprise IM**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 572 |
+| 💻 **Language** | Objective-C |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Aug 7, 2026 |
+
+**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 7 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Mininglamp-OSS/octo-ios.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-ios)
+
+---
+
+### 16. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
 
 **🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24&#x2F;7. Works with FREE Gemini API or OpenAI. No coding required!**
 
@@ -271,27 +331,7 @@
 
 ---
 
-### 14. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
-
-**📼 The missing YouTube and YouTube Music macOS app**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,904 |
-| 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+46 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/sozercan/kaset.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;sozercan&#x2F;kaset)
-
----
-
-### 15. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 17. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
 **Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
@@ -311,27 +351,7 @@
 
 ---
 
-### 16. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
-
-**OCTO Android Client — Open-source enterprise IM**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 524 |
-| 💻 **Language** | Java |
-| 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 7, 2026 |
-
-**Why it's a gem**: High growth velocity (+46 stars&#x2F;day) • Trending 4 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
-
----
-
-### 17. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
+### 18. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
 **Source control for agents. Use multiple coding agents, track they change, and query them in one place**
 
@@ -351,7 +371,7 @@
 
 ---
 
-### 18. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
+### 19. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
 
 **🧱 easy fast local-first microVM runtime and library**
 
@@ -371,7 +391,7 @@
 
 ---
 
-### 19. [embabel&#x2F;embabel-agent](../../repos/embabel/embabel-agent.md)
+### 20. [embabel&#x2F;embabel-agent](../../repos/embabel/embabel-agent.md)
 
 **Agent framework for the JVM. Pronounced Em-BAY-bel &#x2F;ɛmˈbeɪbəl&#x2F;**
 
@@ -391,26 +411,6 @@
 
 ---
 
-### 20. [tt-a1i&#x2F;archify](../../repos/tt-a1i/archify.md)
-
-**Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 13,311 |
-| 💻 **Language** | HTML |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+372 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/tt-a1i/archify.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tt-a1i&#x2F;archify)
-
----
-
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-08-16T21:02:00.665Z*  
+*Generated: 2026-08-17T21:01:43.201Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 100
+- **Total Repositories**: 102
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-16
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,874 | 2026-08-01 | 3 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,885 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,864 | 2026-08-01 | 3 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 18,285 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,982 | 2026-08-02 | 7 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,883 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 18,012 | 2026-08-02 | 7 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,596 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,817 | 2026-08-02 | 8 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,848 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,478 | 2026-08-03 | 5 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 15,141 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [UnigramDev/Unigram](../repos/UnigramDev/Unigram.md) | ⭐ 5,345 | 2026-08-09 | 2 |
+| [space-wizards/space-station-14](../repos/space-wizards/space-station-14.md) | ⭐ 3,743 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,506 | 2026-08-10 | 2 |
+| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 8,428 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/sdk](../repos/dotnet/sdk.md) | ⭐ 3,187 | 2026-08-11 | 2 |
+| [madoiscool/LuaTools](../repos/madoiscool/LuaTools.md) | ⭐ 256 | 2026-08-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [luolangaga/tubatools](../repos/luolangaga/tubatools.md) | ⭐ 2,327 | 2026-08-12 | 2 |
+| [database64128/youtube-dl-wpf](../repos/database64128/youtube-dl-wpf.md) | ⭐ 1,350 | 2026-08-17 | 1 |
 
 
 ---
@@ -73,7 +73,7 @@
 | [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,573 | 2026-08-01 | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,874 | 2026-08-01 | Bitwarden infrastructure&#x2F;backend (API, database, Docker, etc). |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,885 | 2026-08-01 | Bitwarden infrastructure&#x2F;backend (API, database, Docker, etc). |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,864 | 2026-08-01 | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&amp;more) - cross-platform! |
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,982 | 2026-08-02 | 7 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,704 | 2026-08-02 | 5 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,883 | 2026-08-02 | 6 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,872 | 2026-08-06 | 3 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,632 | 2026-08-01 | 4 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,130 | 2026-08-14 | 1 |
@@ -100,13 +100,13 @@
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | 2026-08-01 | 7 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,506 | 2026-08-10 | 2 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,864 | 2026-08-01 | 3 |
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,430 | 2026-08-02 | 2 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,596 | 2026-08-02 | 3 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,292 | 2026-08-04 | 2 |
 | [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,564 | 2026-08-02 | 3 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,610 | 2026-08-01 | 4 |
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,874 | 2026-08-01 | 3 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,885 | 2026-08-01 | 4 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 18,285 | 2026-08-02 | 8 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,209 | 2026-08-04 | 5 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 18,012 | 2026-08-02 | 7 |
 | [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,187 | 2026-08-01 | 2 |
 
 ---
@@ -115,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 8 | ⭐ 14,817 | 2026-08-02 | 2026-08-16 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 9 | ⭐ 14,848 | 2026-08-02 | 2026-08-17 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 8 | ⭐ 18,285 | 2026-08-02 | 2026-08-17 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 7 | ⭐ 26,795 | 2026-08-01 | 2026-08-08 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 7 | ⭐ 113,982 | 2026-08-02 | 2026-08-16 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 7 | ⭐ 18,012 | 2026-08-02 | 2026-08-16 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 6 | ⭐ 3,573 | 2026-08-01 | 2026-08-15 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 6 | ⭐ 55,883 | 2026-08-02 | 2026-08-17 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 6 | ⭐ 5,110 | 2026-08-03 | 2026-08-09 |
 | [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | 6 | ⭐ 13,331 | 2026-08-05 | 2026-08-11 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 5 | ⭐ 38,374 | 2026-08-01 | 2026-08-15 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 5 | ⭐ 55,704 | 2026-08-02 | 2026-08-12 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | 5 | ⭐ 38,478 | 2026-08-03 | 2026-08-16 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.584Z*
+*Last updated: 2026-08-17T21:01:39.541Z*

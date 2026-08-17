@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 112
+- **Total Repositories**: 115
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,106 | 2026-08-01 | 4 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,113 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,035 | 2026-08-01 | 3 |
+| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,388 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Klipper3d/klipper](../repos/Klipper3d/klipper.md) | ⭐ 11,814 | 2026-08-01 | 3 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,675 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,660 | 2026-08-02 | 4 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,128 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,631 | 2026-08-04 | 3 |
+| [bmax121/KernelPatch](../repos/bmax121/KernelPatch.md) | ⭐ 1,483 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [armel/uv-k1-k5v3-firmware-custom](../repos/armel/uv-k1-k5v3-firmware-custom.md) | ⭐ 594 | 2026-08-05 | 2 |
+| [mit-pdos/xv6-riscv](../repos/mit-pdos/xv6-riscv.md) | ⭐ 10,222 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 39,120 | 2026-08-07 | 5 |
+| [portapack-mayhem/mayhem-firmware](../repos/portapack-mayhem/mayhem-firmware.md) | ⭐ 5,339 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [memovai/mimiclaw](../repos/memovai/mimiclaw.md) | ⭐ 5,701 | 2026-08-11 | 3 |
+| [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,633 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superturtlee/gbl_root_canoe](../repos/superturtlee/gbl_root_canoe.md) | ⭐ 988 | 2026-08-14 | 2 |
+| [FRRouting/frr](../repos/FRRouting/frr.md) | ⭐ 4,252 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) | ⭐ 14,600 | 2026-08-15 | 2 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,565 | 2026-08-07 | 4 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 66,523 | 2026-08-01 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,106 | 2026-08-01 | Cross-platform asynchronous I&#x2F;O |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,113 | 2026-08-01 | Cross-platform asynchronous I&#x2F;O |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 21,953 | 2026-08-01 | Flipper Zero Unleashed Firmware |
@@ -76,7 +76,7 @@
 | [mcu-tools/mcuboot](../repos/mcu-tools/mcuboot.md) | ⭐ 2,006 | 2026-08-01 | Secure boot for 32-bit Microcontrollers! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,367 | 2026-08-01 | Decompilation of Pokémon Emerald |
+| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,388 | 2026-08-01 | Decompilation of Pokémon Emerald |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [linux-rdma/rdma-core](../repos/linux-rdma/rdma-core.md) | ⭐ 2,335 | 2026-08-01 | RDMA core userspace libraries and daemons |
@@ -91,7 +91,7 @@
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,507 | 2026-08-07 | 5 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,787 | 2026-08-01 | 6 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 75,874 | 2026-08-04 | 1 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 74,811 | 2026-08-02 | 5 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,128 | 2026-08-02 | 6 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 66,523 | 2026-08-01 | 6 |
 | [git/git](../repos/git/git.md) | ⭐ 62,438 | 2026-08-05 | 2 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,280 | 2026-08-01 | 2 |
@@ -100,14 +100,14 @@
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,462 | 2026-08-02 | 3 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,438 | 2026-08-04 | 3 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,385 | 2026-08-03 | 3 |
+| [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 32,007 | 2026-08-17 | 1 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 31,813 | 2026-08-01 | 1 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,571 | 2026-08-16 | 1 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,313 | 2026-08-02 | 1 |
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 27,939 | 2026-08-09 | 2 |
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,546 | 2026-08-07 | 3 |
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,106 | 2026-08-01 | 4 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,016 | 2026-08-09 | 3 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,565 | 2026-08-07 | 4 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,113 | 2026-08-01 | 5 |
 | [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 26,835 | 2026-08-08 | 2 |
-| [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 26,488 | 2026-08-06 | 1 |
 
 ---
 
@@ -117,13 +117,13 @@
 |------------|---------------|-------|------------|-----------|
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 6 | ⭐ 137,787 | 2026-08-01 | 2026-08-15 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 6 | ⭐ 66,523 | 2026-08-01 | 2026-08-15 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 5 | ⭐ 74,811 | 2026-08-02 | 2026-08-10 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 6 | ⭐ 75,128 | 2026-08-02 | 2026-08-17 |
+| [libuv/libuv](../repos/libuv/libuv.md) | 5 | ⭐ 27,113 | 2026-08-01 | 2026-08-17 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | 5 | ⭐ 18,675 | 2026-08-02 | 2026-08-17 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 5 | ⭐ 39,120 | 2026-08-07 | 2026-08-16 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 5 | ⭐ 147,507 | 2026-08-07 | 2026-08-12 |
 | [opa334/Dopamine](../repos/opa334/Dopamine.md) | 5 | ⭐ 6,199 | 2026-08-08 | 2026-08-12 |
-| [libuv/libuv](../repos/libuv/libuv.md) | 4 | ⭐ 27,106 | 2026-08-01 | 2026-08-16 |
 | [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | 4 | ⭐ 597 | 2026-08-02 | 2026-08-15 |
-| [brunodev85/winlator](../repos/brunodev85/winlator.md) | 4 | ⭐ 18,660 | 2026-08-02 | 2026-08-16 |
 | [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 4 | ⭐ 4,408 | 2026-08-04 | 2026-08-11 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.579Z*
+*Last updated: 2026-08-17T21:01:39.536Z*

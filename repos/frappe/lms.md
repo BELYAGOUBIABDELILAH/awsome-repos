@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vue |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 3,130 |
-| **Forks** | 🍴 1,444 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 3,139 |
+| **Forks** | 🍴 1,445 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Aug 14, 2026 |
+| **Last Seen** | Aug 17, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 2 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 3,130+ stars, strong contributor base |
+| **Community** | Very Active | 3,139+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-16T21:01:59.572Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-08-17T21:01:42.113Z*  
+*Data from 6 trending reports*

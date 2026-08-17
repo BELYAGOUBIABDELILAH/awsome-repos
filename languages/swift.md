@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 70
+- **Total Repositories**: 76
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-09
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,845 | 2026-08-01 | 6 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,858 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [argmaxinc/argmax-oss-swift](../repos/argmaxinc/argmax-oss-swift.md) | ⭐ 6,326 | 2026-08-02 | 2 |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,938 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,852 | 2026-08-02 | 5 |
+| [sozercan/kaset](../repos/sozercan/kaset.md) | ⭐ 2,015 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Aidoku/Aidoku](../repos/Aidoku/Aidoku.md) | ⭐ 4,465 | 2026-08-03 | 2 |
+| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,376 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,630 | 2026-08-04 | 3 |
+| [ml-explore/mlx-swift-lm](../repos/ml-explore/mlx-swift-lm.md) | ⭐ 781 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wxtsky/CodeIsland](../repos/wxtsky/CodeIsland.md) | ⭐ 2,299 | 2026-08-07 | 2 |
+| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 1,581 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frankea/Whisky](../repos/frankea/Whisky.md) | ⭐ 414 | 2026-08-08 | 2 |
+| [jellyfin/Swiftfin](../repos/jellyfin/Swiftfin.md) | ⭐ 4,090 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stripe/stripe-ios](../repos/stripe/stripe-ios.md) | ⭐ 2,562 | 2026-08-15 | 2 |
+| [quoid/userscripts](../repos/quoid/userscripts.md) | ⭐ 4,711 | 2026-08-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quoid/userscripts](../repos/quoid/userscripts.md) | ⭐ 4,708 | 2026-08-16 | 1 |
+| [minsang-alt/PasteClip](../repos/minsang-alt/PasteClip.md) | ⭐ 125 | 2026-08-17 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,396 | 2026-08-17 | 1 |
 
 
 ---
@@ -49,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,845 | 2026-08-01 | Run iOS apps without actually installing them! |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,858 | 2026-08-01 | Run iOS apps without actually installing them! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,176 | 2026-08-01 | 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source,... |
@@ -58,7 +61,7 @@
 | [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,599 | 2026-08-01 | Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detect... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,896 | 2026-08-01 | The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with n... |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,938 | 2026-08-01 | The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with n... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apple/container](../repos/apple/container.md) | ⭐ 48,766 | 2026-08-01 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It ... |
@@ -97,14 +100,14 @@
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,871 | 2026-08-04 | 5 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,186 | 2026-08-17 | 1 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 13,577 | 2026-08-08 | 2 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,568 | 2026-08-01 | 1 |
+| [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,396 | 2026-08-17 | 1 |
 | [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
 | [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,183 | 2026-08-06 | 1 |
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,845 | 2026-08-01 | 6 |
-| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,347 | 2026-08-06 | 4 |
-| [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | ⭐ 10,263 | 2026-08-03 | 2 |
-| [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,913 | 2026-08-11 | 2 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,858 | 2026-08-01 | 7 |
+| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,376 | 2026-08-06 | 5 |
 
 ---
 
@@ -112,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 6 | ⭐ 10,845 | 2026-08-01 | 2026-08-16 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 7 | ⭐ 10,858 | 2026-08-01 | 2026-08-17 |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 5 | ⭐ 5,938 | 2026-08-01 | 2026-08-17 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 5 | ⭐ 25,905 | 2026-08-01 | 2026-08-10 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 5 | ⭐ 8,852 | 2026-08-02 | 2026-08-16 |
 | [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | 5 | ⭐ 2,415 | 2026-08-03 | 2026-08-08 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 5 | ⭐ 14,871 | 2026-08-04 | 2026-08-14 |
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 4 | ⭐ 5,896 | 2026-08-01 | 2026-08-15 |
+| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | 5 | ⭐ 10,376 | 2026-08-06 | 2026-08-17 |
 | [apple/container](../repos/apple/container.md) | 4 | ⭐ 48,766 | 2026-08-01 | 2026-08-08 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | 4 | ⭐ 19,685 | 2026-08-01 | 2026-08-05 |
 | [rooootdev/lara](../repos/rooootdev/lara.md) | 4 | ⭐ 1,433 | 2026-08-03 | 2026-08-12 |
-| [apple/swift-nio](../repos/apple/swift-nio.md) | 4 | ⭐ 8,506 | 2026-08-04 | 2026-08-15 |
 
 ---
 
@@ -197,7 +200,13 @@
 - [facebook/facebook-ios-sdk](../repos/facebook/facebook-ios-sdk.md) - Used to integrate the Facebook Platform with your iOS &amp; tvOS apps.
 - [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) - Reactive Programming in Swift
 - [quoid/userscripts](../repos/quoid/userscripts.md) - An open-source userscript manager for Safari
+- [minsang-alt/PasteClip](../repos/minsang-alt/PasteClip.md) - Free, open-source clipboard manager for macOS. Native Paste alternative with card UI, Pinboards, ...
+- [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) - Build your own &#39;AirTags&#39; 🏷 today! Framework for tracking personal Bluetooth devices via Apple&#39;s ...
+- [altstoreio/AltStore](../repos/altstoreio/AltStore.md) - AltStore is an alternative app store for non-jailbroken iOS devices.
+- [signerlabs/ShipSwift](../repos/signerlabs/ShipSwift.md) - AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access.
+- [NodePassProject/Anywhere](../repos/NodePassProject/Anywhere.md) - The best native proxy client for iOS, iPadOS, macOS, and tvOS.
+- [leminlimez/Pocket-Poster](../repos/leminlimez/Pocket-Poster.md) - Custom PosterBoard Wallpapers for iOS 17-26.1
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.642Z*
+*Last updated: 2026-08-17T21:01:39.596Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | HTML |
 | **License** | MIT |
-| **Stars** | ⭐ 13,311 |
-| **Forks** | 🍴 973 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 13,833 |
+| **Forks** | 🍴 1,014 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 16, 2026 |
+| **Last Seen** | Aug 17, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 6 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`agent-skills`](../../topics/agent-skills.md) [`anthropic`](../../topics/anthropic.md) [`architecture-diagram`](../../topics/architecture-diagram.md) [`claude-skill`](../../topics/claude-skill.md) [`codex`](../../topics/codex.md) [`dark-mode`](../../topics/dark-mode.md) [`data-flow-diagram`](../../topics/data-flow-diagram.md) [`deepseek-harness`](../../topics/deepseek-harness.md) [`developer-tools`](../../topics/developer-tools.md) [`diagram-as-code`](../../topics/diagram-as-code.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`html-diagram`](../../topics/html-diagram.md) [`lifecycle-diagram`](../../topics/lifecycle-diagram.md) [`mermaid-alternative`](../../topics/mermaid-alternative.md) [`opencode`](../../topics/opencode.md) [`sequence-diagram`](../../topics/sequence-diagram.md) [`svg`](../../topics/svg.md) [`system-design`](../../topics/system-design.md) [`workflow-diagram`](../../topics/workflow-diagram.md) 
+[`agent-skills`](../../topics/agent-skills.md) [`architecture-as-code`](../../topics/architecture-as-code.md) [`architecture-diagram`](../../topics/architecture-diagram.md) [`claude-skill`](../../topics/claude-skill.md) [`code-visualization`](../../topics/code-visualization.md) [`codex`](../../topics/codex.md) [`coding-agents`](../../topics/coding-agents.md) [`data-flow-diagram`](../../topics/data-flow-diagram.md) [`deepseek-harness`](../../topics/deepseek-harness.md) [`developer-tools`](../../topics/developer-tools.md) [`diagram-as-code`](../../topics/diagram-as-code.md) [`diagrams`](../../topics/diagrams.md) [`diagrams-as-code`](../../topics/diagrams-as-code.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`mermaid-alternative`](../../topics/mermaid-alternative.md) [`opencode`](../../topics/opencode.md) [`sequence-diagram`](../../topics/sequence-diagram.md) [`software-architecture`](../../topics/software-architecture.md) [`system-design`](../../topics/system-design.md) [`text-to-diagram`](../../topics/text-to-diagram.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `Frontend Development` `Systems Programming` `Developer Tools` `Automation` 
+`Artificial Intelligence` `Large Language Models` `Systems Programming` `Developer Tools` 
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-16T21:01:59.231Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-08-17T21:01:41.794Z*  
+*Data from 9 trending reports*

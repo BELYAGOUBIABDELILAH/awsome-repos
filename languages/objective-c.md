@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | 3 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,488 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,994 | 2026-08-02 | 6 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 681 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 677 | 2026-08-02 | 5 |
+| [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,600 | 2026-08-02 | 2 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,219 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 493 | 2026-08-02 | 7 |
+| [Flipboard/FLAnimatedImage](../repos/Flipboard/FLAnimatedImage.md) | ⭐ 7,948 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,218 | 2026-08-02 | 5 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,067 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Flipboard/FLAnimatedImage](../repos/Flipboard/FLAnimatedImage.md) | ⭐ 7,948 | 2026-08-02 | 3 |
+| [erikdoe/ocmock](../repos/erikdoe/ocmock.md) | ⭐ 2,171 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,038 | 2026-08-03 | 3 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,615 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bugsnag/bugsnag-cocoa](../repos/bugsnag/bugsnag-cocoa.md) | ⭐ 262 | 2026-08-06 | 4 |
+| [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mininglamp-OSS/octo-ios](../repos/Mininglamp-OSS/octo-ios.md) | ⭐ 550 | 2026-08-07 | 6 |
+| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,501 | 2026-08-04 | 2 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [maderix/ANE](../repos/maderix/ANE.md) | ⭐ 7,228 | 2026-08-01 | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,445 | 2026-08-01 | A software update framework for macOS |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,488 | 2026-08-01 | A software update framework for macOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | KeyCastr, an open-source keystroke visualizer |
@@ -92,20 +92,20 @@
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,412 | 2026-08-02 | 2 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,639 | 2026-08-01 | 9 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,994 | 2026-08-02 | 6 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,616 | 2026-08-04 | 5 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,615 | 2026-08-04 | 6 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,935 | 2026-08-04 | 4 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,906 | 2026-08-04 | 3 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | 3 |
-| [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,626 | 2026-08-04 | 2 |
+| [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,330 | 2026-08-04 | 5 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,071 | 2026-08-02 | 1 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,038 | 2026-08-03 | 3 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,067 | 2026-08-03 | 4 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,453 | 2026-08-06 | 1 |
 | [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,090 | 2026-08-07 | 3 |
-| [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,016 | 2026-08-02 | 3 |
+| [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
 | [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) | ⭐ 10,646 | 2026-08-06 | 1 |
 | [facebookincubator/SocketRocket](../repos/facebookincubator/SocketRocket.md) | ⭐ 9,614 | 2026-08-08 | 2 |
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,445 | 2026-08-01 | 3 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,488 | 2026-08-01 | 4 |
 | [facebookarchive/Shimmer](../repos/facebookarchive/Shimmer.md) | ⭐ 9,331 | 2026-08-02 | 2 |
 | [TTTAttributedLabel/TTTAttributedLabel](../repos/TTTAttributedLabel/TTTAttributedLabel.md) | ⭐ 8,711 | 2026-08-03 | 1 |
 
@@ -122,9 +122,9 @@
 | [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 8 | ⭐ 5,071 | 2026-08-01 | 2026-08-15 |
 | [google/promises](../repos/google/promises.md) | 7 | ⭐ 3,827 | 2026-08-01 | 2026-08-14 |
 | [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | 7 | ⭐ 493 | 2026-08-02 | 2026-08-16 |
+| [Mininglamp-OSS/octo-ios](../repos/Mininglamp-OSS/octo-ios.md) | 7 | ⭐ 572 | 2026-08-07 | 2026-08-17 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | 6 | ⭐ 21,994 | 2026-08-02 | 2026-08-16 |
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 6 | ⭐ 673 | 2026-08-04 | 2026-08-15 |
-| [Mininglamp-OSS/octo-ios](../repos/Mininglamp-OSS/octo-ios.md) | 6 | ⭐ 550 | 2026-08-07 | 2026-08-16 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 6 | ⭐ 681 | 2026-08-02 | 2026-08-17 |
 
 ---
 
@@ -200,4 +200,4 @@
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.623Z*
+*Last updated: 2026-08-17T21:01:39.579Z*

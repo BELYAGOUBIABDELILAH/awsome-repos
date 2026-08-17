@@ -1,0 +1,95 @@
+# zyronon&#x2F;douyin
+
+>  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;zyronon&#x2F;douyin) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | Vue |
+| **License** | GPL-3.0 |
+| **Stars** | ⭐ 11,527 |
+| **Forks** | 🍴 3,097 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Aug 17, 2026 |
+| **Last Seen** | Aug 17, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in Vue or douyin*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`douyin`](../../topics/douyin.md) [`js`](../../topics/js.md) [`tiktok`](../../topics/tiktok.md) [`vue`](../../topics/vue.md) [`vue3`](../../topics/vue3.md) 
+
+### Curated Categories
+`Web Development` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Active | Regular contributions and discussions |
+| **Maturity** | Stable | Mature with proven track record |
+| **Maintenance** | Active | Regular updates |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in Vue
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-08-17T21:01:43.032Z*  
+*Data from 1 trending reports*

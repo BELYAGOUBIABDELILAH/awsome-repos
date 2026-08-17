@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-16T21:02:00.778Z",
-  "total_repositories": 2212,
-  "trending_today": 302,
-  "new_this_month": 2212,
+  "generated_at": "2026-08-17T21:01:43.322Z",
+  "total_repositories": 2261,
+  "trending_today": 345,
+  "new_this_month": 2261,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-08-16",
+  "last_collection": "2026-08-17",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "rubysec/ruby-advisory-db",
-    "trending_days": 15,
+    "trending_days": 16,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "xai-org/grok-1",
-    "stars": 52141,
-    "first_seen": "2026-08-16"
+    "full_name": "akitaonrails/ai-memory",
+    "stars": 1965,
+    "first_seen": "2026-08-17"
   },
   "fastest_growing": {
     "full_name": "openai/whisper",
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 35499559,
-  "avg_stars": 16049,
-  "avg_trending_days": 2.8,
+  "total_stars": 35995411,
+  "avg_stars": 15920,
+  "avg_trending_days": 2.9,
   "language_count": 52,
-  "topic_count": 6694,
+  "topic_count": 6830,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

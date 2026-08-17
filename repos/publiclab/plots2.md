@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Ruby |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 1,017 |
-| **Forks** | 🍴 1,871 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 1,018 |
+| **Forks** | 🍴 1,870 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 2, 2026 |
+| **Last Seen** | Aug 17, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 1,017+ stars, strong contributor base |
+| **Community** | Very Active | 1,018+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Inactive | No recent updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-16T21:01:58.630Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-17T21:01:41.268Z*  
+*Data from 2 trending reports*

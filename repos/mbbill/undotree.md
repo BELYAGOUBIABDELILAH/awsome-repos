@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vim Script |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 4,539 |
+| **Stars** | ⭐ 4,540 |
 | **Forks** | 🍴 119 |
-| **Trending Days** | 4 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Aug 16, 2026 |
+| **Last Seen** | Aug 17, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 2 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 65&#x2F;100
+- **Trending Score**: 85&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-16T21:01:59.836Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-08-17T21:01:42.357Z*  
+*Data from 5 trending reports*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 9
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-16
+- **Last Updated**: 2026-08-17
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,172 | 2026-08-01 | 11 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,174 | 2026-08-01 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | ⭐ 1,301 | 2026-08-14 | 2 |
 
 
 ---
@@ -28,7 +31,7 @@
 | [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 499 | 2026-08-01 | List of packages for Nimble |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,172 | 2026-08-01 | Nim is a statically typed compiled systems programming language. It combines successful concepts ... |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,174 | 2026-08-01 | Nim is a statically typed compiled systems programming language. It combines successful concepts ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 661 | 2026-08-02 | Nim implementation of the Ethereum Beacon Chain |
@@ -58,8 +61,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,172 | 2026-08-01 | 11 |
-| [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | ⭐ 1,301 | 2026-08-14 | 1 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,174 | 2026-08-01 | 12 |
+| [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | ⭐ 1,301 | 2026-08-14 | 2 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 661 | 2026-08-02 | 6 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 625 | 2026-08-05 | 2 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 499 | 2026-08-01 | 6 |
@@ -74,15 +77,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 11 | ⭐ 18,172 | 2026-08-01 | 2026-08-16 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 12 | ⭐ 18,174 | 2026-08-01 | 2026-08-17 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | 6 | ⭐ 499 | 2026-08-01 | 2026-08-08 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | 6 | ⭐ 661 | 2026-08-02 | 2026-08-15 |
 | [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | 3 | ⭐ 317 | 2026-08-06 | 2026-08-09 |
 | [status-im/nim-stew](../repos/status-im/nim-stew.md) | 3 | ⭐ 154 | 2026-08-06 | 2026-08-08 |
 | [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | 2 | ⭐ 248 | 2026-08-05 | 2026-08-06 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | 2 | ⭐ 625 | 2026-08-05 | 2026-08-06 |
+| [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | 2 | ⭐ 1,301 | 2026-08-14 | 2026-08-17 |
 | [crashappsec/chalk](../repos/crashappsec/chalk.md) | 1 | ⭐ 438 | 2026-08-05 | 2026-08-05 |
-| [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | 1 | ⭐ 1,301 | 2026-08-14 | 2026-08-14 |
 
 ---
 
@@ -100,4 +103,4 @@
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.621Z*
+*Last updated: 2026-08-17T21:01:39.576Z*

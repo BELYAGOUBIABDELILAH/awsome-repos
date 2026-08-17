@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 100
+- **Total Repositories**: 103
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-05
 
@@ -16,22 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 25,615 | 2026-08-03 | 2 |
+| [vercel/turborepo](../repos/vercel/turborepo.md) | ⭐ 30,904 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bytecodealliance/wasmtime](../repos/bytecodealliance/wasmtime.md) | ⭐ 18,528 | 2026-08-03 | 2 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 25,845 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EFForg/rayhunter](../repos/EFForg/rayhunter.md) | ⭐ 5,549 | 2026-08-06 | 4 |
+| [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 10,730 | 2026-08-09 | 2 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 1,965 | 2026-08-17 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 14,503 | 2026-08-10 | 3 |
+| [SlimeBoyOwO/LingChat](../repos/SlimeBoyOwO/LingChat.md) | ⭐ 1,457 | 2026-08-17 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,398 | 2026-08-16 | 1 |
+| [Sollimann/bonsai](../repos/Sollimann/bonsai.md) | ⭐ 949 | 2026-08-17 | 1 |
 
 
 ---
@@ -88,7 +88,7 @@
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,169 | 2026-08-12 | 1 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,464 | 2026-08-05 | 4 |
-| [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,398 | 2026-08-16 | 1 |
+| [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,424 | 2026-08-02 | 3 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,155 | 2026-08-02 | 1 |
 | [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,268 | 2026-08-05 | 1 |
@@ -221,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-08-16T21:01:56.635Z*
+*Last updated: 2026-08-17T21:01:39.590Z*
