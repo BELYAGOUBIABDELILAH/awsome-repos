@@ -34,16 +34,16 @@
 | [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 404 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,667 | 2026-08-04 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [MetOffice/jules](../repos/MetOffice/jules.md) | ⭐ 21 | 2026-08-11 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [MFlowCode/MFC](../repos/MFlowCode/MFC.md) | ⭐ 410 | 2026-08-19 | 1 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,735 | 2026-08-04 | 7 |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,883 | 2026-08-02 | 3 |
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,734 | 2026-08-04 | 6 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,735 | 2026-08-04 | 7 |
 | [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,667 | 2026-08-04 | 7 |
 | [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,188 | 2026-08-01 | 10 |
 | [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 952 | 2026-08-01 | 8 |
@@ -101,8 +101,8 @@
 | [MPAS-Dev/MPAS-Model](../repos/MPAS-Dev/MPAS-Model.md) | ⭐ 311 | 2026-08-07 | 1 |
 | [DSSAT/dssat-csm-os](../repos/DSSAT/dssat-csm-os.md) | ⭐ 228 | 2026-08-08 | 2 |
 | [esmf-org/esmf](../repos/esmf-org/esmf.md) | ⭐ 211 | 2026-08-17 | 1 |
-| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 131 | 2026-08-02 | 14 |
-| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 14 |
+| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 15 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 15 |
 | [ecmwf/fckit](../repos/ecmwf/fckit.md) | ⭐ 48 | 2026-08-02 | 5 |
 | [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | 10 |
 | [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | ⭐ 31 | 2026-08-01 | 10 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 16 | ⭐ 438 | 2026-08-01 | 2026-08-19 |
-| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | 14 | ⭐ 54 | 2026-08-02 | 2026-08-17 |
-| [NGEET/fates](../repos/NGEET/fates.md) | 14 | ⭐ 131 | 2026-08-02 | 2026-08-17 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | 15 | ⭐ 54 | 2026-08-02 | 2026-08-19 |
+| [NGEET/fates](../repos/NGEET/fates.md) | 15 | ⭐ 130 | 2026-08-02 | 2026-08-19 |
 | [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | 11 | ⭐ 26 | 2026-08-01 | 2026-08-19 |
 | [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | 10 | ⭐ 31 | 2026-08-01 | 2026-08-19 |
 | [cp2k/cp2k](../repos/cp2k/cp2k.md) | 10 | ⭐ 1,188 | 2026-08-01 | 2026-08-17 |
 | [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | 10 | ⭐ 43 | 2026-08-01 | 2026-08-19 |
 | [firemodels/fds](../repos/firemodels/fds.md) | 8 | ⭐ 863 | 2026-08-01 | 2026-08-19 |
 | [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | 8 | ⭐ 952 | 2026-08-01 | 2026-08-19 |
-| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | 7 | ⭐ 1,667 | 2026-08-04 | 2026-08-19 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 7 | ⭐ 1,735 | 2026-08-04 | 2026-08-19 |
 
 ---
 
@@ -155,4 +155,4 @@
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.302Z*
+*Last updated: 2026-08-19T21:01:45.240Z*

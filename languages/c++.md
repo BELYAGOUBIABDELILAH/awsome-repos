@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 150
+- **Total Repositories**: 157
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-17
+- **Last Updated**: 2026-08-19
 
 ---
 
@@ -16,7 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,065 | 2026-07-30 | 9 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 124,549 | 2026-08-01 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 463 | 2026-08-01 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,881 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,492 | 2026-08-01 | 6 |
@@ -35,15 +44,6 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [wazuh/wazuh](../repos/wazuh/wazuh.md) | ⭐ 16,593 | 2026-08-04 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [argotorg/solidity](../repos/argotorg/solidity.md) | ⭐ 25,703 | 2026-08-04 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Tencent/ncnn](../repos/Tencent/ncnn.md) | ⭐ 23,712 | 2026-08-09 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [awalol/DS5Dongle](../repos/awalol/DS5Dongle.md) | ⭐ 2,556 | 2026-08-19 | 1 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,989 | 2026-07-30 | An Open Source Machine Learning Framework for Everyone |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,065 | 2026-07-30 | An Open Source Machine Learning Framework for Everyone |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,453 | 2026-08-01 | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  |
@@ -67,13 +67,13 @@
 | [lightvector/KataGo](../repos/lightvector/KataGo.md) | ⭐ 4,902 | 2026-08-01 | GTP engine and self-play learning in Go |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 462 | 2026-08-01 | super repo for rocm systems projects |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 463 | 2026-08-01 | super repo for rocm systems projects |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,730 | 2026-08-01 | Protocol Buffers - Google&#39;s data interchange format |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,269 | 2026-08-01 | Godot Engine – Multi-platform 2D and 3D game engine |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,881 | 2026-08-01 | Godot Engine – Multi-platform 2D and 3D game engine |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [gem5/gem5](../repos/gem5/gem5.md) | ⭐ 2,737 | 2026-08-01 | The official repository for the gem5 computer-system architecture simulator. |
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 196,989 | 2026-07-30 | 8 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,065 | 2026-07-30 | 9 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,334 | 2026-08-04 | 2 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 124,549 | 2026-08-01 | 12 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,565 | 2026-08-01 | 4 |
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,269 | 2026-08-01 | 5 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 115,881 | 2026-08-01 | 6 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,607 | 2026-08-06 | 2 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,938 | 2026-08-02 | 4 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 75,882 | 2026-08-12 | 1 |
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,689 | 2026-08-08 | 3 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,738 | 2026-08-08 | 4 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,730 | 2026-08-01 | 5 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,473 | 2026-08-05 | 7 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,247 | 2026-08-02 | 2 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,725 | 2026-08-06 | 2 |
+| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 40,439 | 2026-08-19 | 1 |
 | [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 39,994 | 2026-08-09 | 3 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,521 | 2026-08-02 | 4 |
 | [google/leveldb](../repos/google/leveldb.md) | ⭐ 39,306 | 2026-08-07 | 2 |
 | [google/googletest](../repos/google/googletest.md) | ⭐ 38,927 | 2026-08-04 | 5 |
-| [aseprite/aseprite](../repos/aseprite/aseprite.md) | ⭐ 38,585 | 2026-08-07 | 1 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 12 | ⭐ 124,549 | 2026-08-01 | 2026-08-19 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 8 | ⭐ 196,989 | 2026-07-30 | 2026-08-17 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 9 | ⭐ 197,065 | 2026-07-30 | 2026-08-19 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 7 | ⭐ 65,473 | 2026-08-05 | 2026-08-12 |
+| [godotengine/godot](../repos/godotengine/godot.md) | 6 | ⭐ 115,881 | 2026-08-01 | 2026-08-19 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 6 | ⭐ 29,492 | 2026-08-01 | 2026-08-19 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 5 | ⭐ 463 | 2026-08-01 | 2026-08-19 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 5 | ⭐ 71,730 | 2026-08-01 | 2026-08-14 |
-| [godotengine/godot](../repos/godotengine/godot.md) | 5 | ⭐ 115,269 | 2026-08-01 | 2026-08-06 |
 | [google/googletest](../repos/google/googletest.md) | 5 | ⭐ 38,927 | 2026-08-04 | 2026-08-14 |
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 4 | ⭐ 462 | 2026-08-01 | 2026-08-15 |
+| [ml-explore/mlx](../repos/ml-explore/mlx.md) | 5 | ⭐ 28,056 | 2026-08-06 | 2026-08-19 |
 | [electron/electron](../repos/electron/electron.md) | 4 | ⭐ 122,565 | 2026-08-01 | 2026-08-19 |
-| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | 4 | ⭐ 39,521 | 2026-08-02 | 2026-08-17 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.292Z*
+*Last updated: 2026-08-19T21:01:45.221Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 47
+- **Total Repositories**: 48
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-19
 
@@ -40,10 +40,10 @@
 | [canton-network/splice](../repos/canton-network/splice.md) | ⭐ 109 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,948 | 2026-08-01 | 9 |
+| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,238 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,389 | 2026-08-01 | 9 |
+| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,948 | 2026-08-01 | 9 |
 
 
 ---
@@ -79,7 +79,7 @@
 | [canton-network/splice](../repos/canton-network/splice.md) | ⭐ 109 | 2026-08-01 | Splice repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,236 | 2026-08-01 | Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark |
+| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,238 | 2026-08-01 | Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,819 | 2026-08-01 | 11 |
 | [apache/spark](../repos/apache/spark.md) | ⭐ 43,833 | 2026-08-01 | 17 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,634 | 2026-08-02 | 12 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,644 | 2026-08-02 | 13 |
 | [scala/scala](../repos/scala/scala.md) | ⭐ 14,568 | 2026-08-01 | 11 |
 | [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,276 | 2026-08-01 | 8 |
 | [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,389 | 2026-08-01 | 9 |
@@ -101,8 +101,8 @@
 | [apache/openwhisk](../repos/apache/openwhisk.md) | ⭐ 6,792 | 2026-08-05 | 3 |
 | [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,289 | 2026-08-01 | 8 |
 | [guardian/frontend](../repos/guardian/frontend.md) | ⭐ 5,897 | 2026-08-03 | 6 |
-| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,236 | 2026-08-01 | 7 |
-| [sbt/sbt](../repos/sbt/sbt.md) | ⭐ 4,934 | 2026-08-04 | 6 |
+| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,238 | 2026-08-01 | 8 |
+| [sbt/sbt](../repos/sbt/sbt.md) | ⭐ 4,934 | 2026-08-04 | 7 |
 | [chipsalliance/chisel](../repos/chipsalliance/chisel.md) | ⭐ 4,760 | 2026-08-05 | 9 |
 | [zio/zio](../repos/zio/zio.md) | ⭐ 4,405 | 2026-08-02 | 6 |
 | [TheHive-Project/TheHive](../repos/TheHive-Project/TheHive.md) | ⭐ 3,944 | 2026-08-03 | 6 |
@@ -120,9 +120,9 @@
 | [delta-io/delta](../repos/delta-io/delta.md) | 13 | ⭐ 8,943 | 2026-08-01 | 2026-08-19 |
 | [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 13 | ⭐ 7,200 | 2026-08-01 | 2026-08-19 |
 | [canton-network/splice](../repos/canton-network/splice.md) | 13 | ⭐ 109 | 2026-08-01 | 2026-08-19 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | 13 | ⭐ 18,644 | 2026-08-02 | 2026-08-19 |
 | [apache/gluten](../repos/apache/gluten.md) | 12 | ⭐ 1,586 | 2026-08-01 | 2026-08-19 |
 | [apache/tvm-vta](../repos/apache/tvm-vta.md) | 12 | ⭐ 360 | 2026-08-01 | 2026-08-12 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | 12 | ⭐ 18,634 | 2026-08-02 | 2026-08-17 |
 | [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 11 | ⭐ 995 | 2026-08-01 | 2026-08-19 |
 | [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 11 | ⭐ 73,819 | 2026-08-01 | 2026-08-19 |
 
@@ -177,7 +177,8 @@
 - [hyperledger-identus/cloud-agent](../repos/hyperledger-identus/cloud-agent.md) - Identus Cloud Agent
 - [snowplow/snowplow](../repos/snowplow/snowplow.md) - The leader in Customer Data Infrastructure
 - [ucb-bar/testchipip](../repos/ucb-bar/testchipip.md) - 
+- [ucb-bar/gemmini](../repos/ucb-bar/gemmini.md) - Berkeley&#39;s Spatial Array Generator
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.331Z*
+*Last updated: 2026-08-19T21:01:45.282Z*

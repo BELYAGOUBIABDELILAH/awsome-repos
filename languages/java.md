@@ -19,6 +19,9 @@
 | [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,757 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,665 | 2026-08-01 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [debezium/debezium](../repos/debezium/debezium.md) | ⭐ 13,023 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
@@ -31,19 +34,16 @@
 | [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,550 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,530 | 2026-08-03 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 4,895 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,470 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,753 | 2026-08-05 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,473 | 2026-08-05 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [apache/fluss](../repos/apache/fluss.md) | ⭐ 2,098 | 2026-08-08 | 3 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,325 | 2026-08-04 | 4 |
 
 
 ---
@@ -73,7 +73,7 @@
 | [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | ⭐ 9,665 | 2026-08-01 | MCP Server for Ghidra |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,571 | 2026-08-01 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
+| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,665 | 2026-08-01 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [grpc/grpc-java](../repos/grpc/grpc-java.md) | ⭐ 12,056 | 2026-08-01 | The Java gRPC implementation. HTTP&#x2F;2 based RPC |
@@ -89,13 +89,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 129,236 | 2026-08-04 | 2 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,282 | 2026-08-04 | 3 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,325 | 2026-08-04 | 4 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,828 | 2026-08-02 | 6 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,145 | 2026-08-03 | 5 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,530 | 2026-08-03 | 6 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,155 | 2026-08-04 | 4 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,197 | 2026-08-08 | 2 |
+| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,201 | 2026-08-08 | 3 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,889 | 2026-08-02 | 6 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,470 | 2026-08-04 | 6 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,036 | 2026-08-12 | 1 |
@@ -119,12 +119,12 @@
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 6 | ⭐ 26,225 | 2026-08-02 | 2026-08-19 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 6 | ⭐ 77,828 | 2026-08-02 | 2026-08-19 |
 | [google/guava](../repos/google/guava.md) | 6 | ⭐ 51,889 | 2026-08-02 | 2026-08-09 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 6 | ⭐ 72,530 | 2026-08-03 | 2026-08-19 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 6 | ⭐ 51,470 | 2026-08-04 | 2026-08-19 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 6 | ⭐ 5,155 | 2026-08-05 | 2026-08-19 |
 | [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | 5 | ⭐ 28,642 | 2026-08-02 | 2026-08-17 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 5 | ⭐ 72,145 | 2026-08-03 | 2026-08-09 |
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 5 | ⭐ 5,076 | 2026-08-05 | 2026-08-15 |
 | [Mininglamp-OSS/octo-android](../repos/Mininglamp-OSS/octo-android.md) | 5 | ⭐ 549 | 2026-08-07 | 2026-08-17 |
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | 4 | ⭐ 10,412 | 2026-08-01 | 2026-08-15 |
+| [alibaba/spring-ai-alibaba](../repos/alibaba/spring-ai-alibaba.md) | 5 | ⭐ 10,645 | 2026-08-11 | 2026-08-19 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.309Z*
+*Last updated: 2026-08-19T21:01:45.249Z*

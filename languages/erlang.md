@@ -8,12 +8,18 @@
 
 - **Total Repositories**: 15
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-17
+- **Last Updated**: 2026-08-19
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,323 | 2026-08-01 | 16 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,640 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [blt/port_compiler](../repos/blt/port_compiler.md) | ⭐ 69 | 2026-08-01 | 12 |
@@ -31,10 +37,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,324 | 2026-08-01 | Erlang&#x2F;OTP |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,323 | 2026-08-01 | Erlang&#x2F;OTP |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,628 | 2026-08-01 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,640 | 2026-08-01 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [blt/port_compiler](../repos/blt/port_compiler.md) | ⭐ 69 | 2026-08-01 | A rebar3 port compiler |
@@ -67,8 +73,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,628 | 2026-08-01 | 11 |
-| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,324 | 2026-08-01 | 15 |
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,640 | 2026-08-01 | 12 |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,323 | 2026-08-01 | 16 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | ⭐ 7,523 | 2026-08-03 | 10 |
 | [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 6,938 | 2026-08-03 | 6 |
 | [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,713 | 2026-08-08 | 6 |
@@ -89,10 +95,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [erlang/otp](../repos/erlang/otp.md) | 15 | ⭐ 12,324 | 2026-08-01 | 2026-08-17 |
+| [erlang/otp](../repos/erlang/otp.md) | 16 | ⭐ 12,323 | 2026-08-01 | 2026-08-19 |
 | [WhatsApp/erlfmt](../repos/WhatsApp/erlfmt.md) | 13 | ⭐ 462 | 2026-08-01 | 2026-08-19 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 12 | ⭐ 16,640 | 2026-08-01 | 2026-08-19 |
 | [blt/port_compiler](../repos/blt/port_compiler.md) | 12 | ⭐ 69 | 2026-08-01 | 2026-08-19 |
-| [emqx/emqx](../repos/emqx/emqx.md) | 11 | ⭐ 16,628 | 2026-08-01 | 2026-08-17 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | 10 | ⭐ 7,523 | 2026-08-03 | 2026-08-14 |
 | [ninenines/cowlib](../repos/ninenines/cowlib.md) | 7 | ⭐ 295 | 2026-08-02 | 2026-08-11 |
 | [apache/couchdb](../repos/apache/couchdb.md) | 6 | ⭐ 6,938 | 2026-08-03 | 2026-08-19 |
@@ -122,4 +128,4 @@
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.301Z*
+*Last updated: 2026-08-19T21:01:45.237Z*

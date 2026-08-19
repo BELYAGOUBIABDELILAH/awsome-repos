@@ -16,6 +16,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,838 | 2026-08-01 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 81,930 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
@@ -37,7 +40,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,806 | 2026-08-01 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone ... |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,838 | 2026-08-01 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 81,930 | 2026-08-01 | Free monospaced font with programming ligatures |
@@ -69,7 +72,7 @@
 |------------|-------|------------|---------------|
 | [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 81,930 | 2026-08-01 | 10 |
 | [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 58,848 | 2026-08-01 | 14 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,806 | 2026-08-01 | 14 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,838 | 2026-08-01 | 15 |
 | [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,504 | 2026-08-01 | 16 |
 | [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,019 | 2026-08-02 | 7 |
 | [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 2,483 | 2026-08-02 | 13 |
@@ -83,7 +86,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [logseq/logseq](../repos/logseq/logseq.md) | 16 | ⭐ 44,504 | 2026-08-01 | 2026-08-19 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 14 | ⭐ 48,806 | 2026-08-01 | 2026-08-17 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 15 | ⭐ 48,838 | 2026-08-01 | 2026-08-19 |
 | [penpot/penpot](../repos/penpot/penpot.md) | 14 | ⭐ 58,848 | 2026-08-01 | 2026-08-19 |
 | [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | 13 | ⭐ 2,483 | 2026-08-02 | 2026-08-19 |
 | [cognitect-labs/test-runner](../repos/cognitect-labs/test-runner.md) | 11 | ⭐ 308 | 2026-08-01 | 2026-08-14 |
@@ -106,4 +109,4 @@
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.294Z*
+*Last updated: 2026-08-19T21:01:45.226Z*

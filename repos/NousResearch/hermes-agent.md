@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 226,554 |
-| **Forks** | 🍴 44,195 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 233,013 |
+| **Forks** | 🍴 46,592 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 6, 2026 |
+| **Last Seen** | Aug 19, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 6 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`ai`](../../topics/ai.md) [`ai-agent`](../../topics/ai-agent.md) [`ai-agents`](../../topics/ai-agents.md) [`anthropic`](../../topics/anthropic.md) [`chatgpt`](../../topics/chatgpt.md) [`claude`](../../topics/claude.md) [`claude-code`](../../topics/claude-code.md) [`clawdbot`](../../topics/clawdbot.md) [`codex`](../../topics/codex.md) [`hermes`](../../topics/hermes.md) [`hermes-agent`](../../topics/hermes-agent.md) [`llm`](../../topics/llm.md) [`moltbot`](../../topics/moltbot.md) [`nous-research`](../../topics/nous-research.md) [`openai`](../../topics/openai.md) [`openclaw`](../../topics/openclaw.md) 
+[`ai`](../../topics/ai.md) [`ai-agent`](../../topics/ai-agent.md) [`ai-agents`](../../topics/ai-agents.md) [`anthropic`](../../topics/anthropic.md) [`chatgpt`](../../topics/chatgpt.md) [`claude`](../../topics/claude.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`hermes`](../../topics/hermes.md) [`hermes-agent`](../../topics/hermes-agent.md) [`llm`](../../topics/llm.md) [`nous-research`](../../topics/nous-research.md) [`openai`](../../topics/openai.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `Systems Programming` `Automation` 
+`Artificial Intelligence` `Large Language Models` `Systems Programming` 
 
 ---
 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 226,554+ stars, strong contributor base |
+| **Community** | Very Active | 233,013+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-19T00:18:32.292Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-08-19T21:01:46.522Z*  
+*Data from 7 trending reports*

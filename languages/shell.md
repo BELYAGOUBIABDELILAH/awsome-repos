@@ -22,7 +22,13 @@
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 26,415 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 5,914 | 2026-08-02 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 9,628 | 2026-08-03 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [fujibee/agmsg](../repos/fujibee/agmsg.md) | ⭐ 1,452 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,206 | 2026-08-04 | 2 |
@@ -31,19 +37,13 @@
 | [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,100 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,435 | 2026-08-07 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,753 | 2026-08-07 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,487 | 2026-08-07 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,753 | 2026-08-08 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [wolfi-dev/os](../repos/wolfi-dev/os.md) | ⭐ 1,269 | 2026-08-14 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [pwnerblu/surrealra1n](../repos/pwnerblu/surrealra1n.md) | ⭐ 248 | 2026-08-16 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 1,745 | 2026-08-19 | 1 |
 
 
 ---
@@ -106,8 +106,8 @@
 | [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,487 | 2026-08-07 | 2 |
 | [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,531 | 2026-08-04 | 2 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,100 | 2026-08-04 | 6 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,753 | 2026-08-07 | 3 |
 | [1N3/Sn1per](../repos/1N3/Sn1per.md) | ⭐ 10,738 | 2026-08-06 | 2 |
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,729 | 2026-08-07 | 2 |
 
 ---
 
@@ -117,8 +117,8 @@
 |------------|---------------|-------|------------|-----------|
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 13 | ⭐ 26,415 | 2026-08-02 | 2026-08-19 |
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 10 | ⭐ 94,636 | 2026-08-01 | 2026-08-19 |
+| [expo/skills](../repos/expo/skills.md) | 8 | ⭐ 2,435 | 2026-08-07 | 2026-08-19 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 7 | ⭐ 2,108 | 2026-08-02 | 2026-08-16 |
-| [expo/skills](../repos/expo/skills.md) | 7 | ⭐ 2,428 | 2026-08-07 | 2026-08-17 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 6 | ⭐ 11,100 | 2026-08-04 | 2026-08-19 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 5 | ⭐ 4,023 | 2026-08-01 | 2026-08-12 |
 | [wolfi-dev/os](../repos/wolfi-dev/os.md) | 5 | ⭐ 1,269 | 2026-08-14 | 2026-08-19 |
@@ -210,4 +210,4 @@
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.333Z*
+*Last updated: 2026-08-19T21:01:45.285Z*

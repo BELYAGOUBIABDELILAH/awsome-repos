@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T00:18:37.558Z",
-  "total_repositories": 2313,
-  "trending_today": 363,
-  "new_this_month": 2313,
+  "generated_at": "2026-08-19T21:01:49.801Z",
+  "total_repositories": 2381,
+  "trending_today": 588,
+  "new_this_month": 2381,
   "first_collection": "2026-07-30",
   "last_collection": "2026-08-19",
   "most_starred": {
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 36627860,
-  "avg_stars": 15836,
+  "total_stars": 37355015,
+  "avg_stars": 15689,
   "avg_trending_days": 3,
   "language_count": 53,
-  "topic_count": 6948,
+  "topic_count": 7094,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

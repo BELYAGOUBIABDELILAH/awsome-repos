@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 59
+- **Total Repositories**: 60
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-19
 
@@ -16,7 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,997 | 2026-08-01 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,775 | 2026-08-01 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,323 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,204 | 2026-08-01 | 5 |
@@ -25,25 +31,19 @@
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,163 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,688 | 2026-08-01 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | ⭐ 298 | 2026-08-01 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,162 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | ⭐ 923 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 1,779 | 2026-08-02 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,250 | 2026-08-03 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 8,966 | 2026-08-04 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,653 | 2026-08-08 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [hefengxian/my-ielts](../repos/hefengxian/my-ielts.md) | ⭐ 2,892 | 2026-08-19 | 1 |
+| [vuejs/docs](../repos/vuejs/docs.md) | ⭐ 3,232 | 2026-08-02 | 4 |
 
 
 ---
@@ -52,13 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,961 | 2026-08-01 | BewlyCat——基于BewlyBewly开发的Bilibili拓展 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 3,997 | 2026-08-01 | BewlyCat——基于BewlyBewly开发的Bilibili拓展 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,775 | 2026-08-01 | Wiki.js | A modern and powerful wiki app built on Node.js |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,311 | 2026-08-01 | Modern, Streamlined, Free and Open Source Customer Service Software |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,323 | 2026-08-01 | Modern, Streamlined, Free and Open Source Customer Service Software |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 3,944 | 2026-08-01 | 跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具 |
@@ -94,7 +94,7 @@
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,162 | 2026-08-01 | 11 |
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,775 | 2026-08-01 | 8 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,653 | 2026-08-08 | 6 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,635 | 2026-08-01 | 7 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,688 | 2026-08-01 | 8 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,618 | 2026-08-02 | 8 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,889 | 2026-08-07 | 1 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,430 | 2026-08-02 | 7 |
@@ -120,11 +120,11 @@
 | [RikkaApps/websites](../repos/RikkaApps/websites.md) | 9 | ⭐ 429 | 2026-08-02 | 2026-08-17 |
 | [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | 9 | ⭐ 9,250 | 2026-08-03 | 2026-08-19 |
 | [requarks/wiki](../repos/requarks/wiki.md) | 8 | ⭐ 28,775 | 2026-08-01 | 2026-08-19 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 8 | ⭐ 21,688 | 2026-08-01 | 2026-08-19 |
 | [FoggedLens/deflock](../repos/FoggedLens/deflock.md) | 8 | ⭐ 923 | 2026-08-02 | 2026-08-19 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | 8 | ⭐ 21,618 | 2026-08-02 | 2026-08-17 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 7 | ⭐ 21,635 | 2026-08-01 | 2026-08-12 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 7 | ⭐ 3,997 | 2026-08-01 | 2026-08-19 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 7 | ⭐ 16,430 | 2026-08-02 | 2026-08-16 |
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 7 | ⭐ 1,779 | 2026-08-02 | 2026-08-19 |
 
 ---
 
@@ -189,7 +189,8 @@
 - [zyronon/douyin](../repos/zyronon/douyin.md) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 - [roimdev/roim-picx](../repos/roimdev/roim-picx.md) - A free image hosting application based on Cloudflare&#39;s Worker, R2, Pages, and D1 architectures.一款...
 - [hefengxian/my-ielts](../repos/hefengxian/my-ielts.md) - 雅思词汇真经、雅思语法、听力 179、阅读 538  同义替换等。Everything during preparing for my IELTS exam. 
+- [hanshuaikang/AI-Media2Doc](../repos/hanshuaikang/AI-Media2Doc.md) - 一键将音视频转化为小红书&#x2F;公众号&#x2F;知识笔记&#x2F;思维导图&#x2F;视频字幕等各种风格的文档。
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.342Z*
+*Last updated: 2026-08-19T21:01:45.298Z*

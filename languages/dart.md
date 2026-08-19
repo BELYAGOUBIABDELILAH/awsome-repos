@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 69
+- **Total Repositories**: 70
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-19
 
@@ -25,25 +25,25 @@
 | [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,254 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 28,993 | 2026-08-01 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 49,171 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 17,206 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 32,235 | 2026-08-02 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [omnimind-ai/OmniBot](../repos/omnimind-ai/OmniBot.md) | ⭐ 1,912 | 2026-08-02 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [venera-app/venera](../repos/venera-app/venera.md) | ⭐ 10,811 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [gokadzev/Musify](../repos/gokadzev/Musify.md) | ⭐ 4,145 | 2026-08-02 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Anxcye/anx-reader](../repos/Anxcye/anx-reader.md) | ⭐ 8,702 | 2026-08-04 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 48,485 | 2026-08-04 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [umr-xiaomai/kgka_Music_hl](../repos/umr-xiaomai/kgka_Music_hl.md) | ⭐ 414 | 2026-08-04 | 3 |
 
 
 ---
@@ -76,7 +76,7 @@
 | [flutter/packages](../repos/flutter/packages.md) | ⭐ 5,284 | 2026-08-01 | A collection of useful packages maintained by the Flutter team |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 28,910 | 2026-08-01 | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 28,993 | 2026-08-01 | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [miru-project/miru-app](../repos/miru-project/miru-app.md) | ⭐ 5,591 | 2026-08-01 | 🎉 A versatile application that is free, open-source, and supports extension sources for videos, ... |
@@ -93,8 +93,8 @@
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 75,696 | 2026-08-01 | 7 |
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 49,171 | 2026-08-02 | 11 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 48,485 | 2026-08-04 | 9 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 32,144 | 2026-08-02 | 10 |
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 28,910 | 2026-08-01 | 9 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 32,235 | 2026-08-02 | 11 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 28,993 | 2026-08-01 | 10 |
 | [mitesh77/Best-Flutter-UI-Templates](../repos/mitesh77/Best-Flutter-UI-Templates.md) | ⭐ 22,769 | 2026-08-01 | 1 |
 | [flutter/samples](../repos/flutter/samples.md) | ⭐ 19,239 | 2026-08-06 | 3 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 17,206 | 2026-08-02 | 10 |
@@ -117,9 +117,9 @@
 |------------|---------------|-------|------------|-----------|
 | [flutter/flutter](../repos/flutter/flutter.md) | 11 | ⭐ 178,470 | 2026-08-01 | 2026-08-19 |
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | 11 | ⭐ 49,171 | 2026-08-02 | 2026-08-19 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 11 | ⭐ 32,235 | 2026-08-02 | 2026-08-19 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 10 | ⭐ 28,993 | 2026-08-01 | 2026-08-19 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 10 | ⭐ 17,206 | 2026-08-02 | 2026-08-19 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 10 | ⭐ 32,144 | 2026-08-02 | 2026-08-17 |
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 9 | ⭐ 28,910 | 2026-08-01 | 2026-08-17 |
 | [KaringX/karing](../repos/KaringX/karing.md) | 9 | ⭐ 14,302 | 2026-08-02 | 2026-08-16 |
 | [localsend/localsend](../repos/localsend/localsend.md) | 9 | ⭐ 88,289 | 2026-08-02 | 2026-08-14 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | 9 | ⭐ 48,485 | 2026-08-04 | 2026-08-19 |
@@ -199,7 +199,8 @@
 - [deretame/Breeze](../repos/deretame/Breeze.md) - Breeze 是一款使用flutter构建的漫画阅读器，通过插件提供漫画支持，现支持哔咔，禁漫，ehentai，nhentai再漫画，拷贝漫画，NoyAcg，komiic，包子漫画，绅士漫画。
 - [haukuen/venera](../repos/haukuen/venera.md) - 仅自用 | For personal use only
 - [emavgl/oinkoin](../repos/emavgl/oinkoin.md) - Oinkoin is a flutter app for helping you managing your expenses. No internet required.
+- [anandnet/Harmony-Music](../repos/anandnet/Harmony-Music.md) - A cross platform App for streaming Music
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.298Z*
+*Last updated: 2026-08-19T21:01:45.234Z*

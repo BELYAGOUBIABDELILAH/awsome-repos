@@ -6,15 +6,18 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 334
+- **Total Repositories**: 340
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
-- **Average Stars**: 16810
+- **Average Stars**: 16588
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,119 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,039 | C |  |
@@ -38,13 +41,10 @@
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,470 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,287 | OCaml |  |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 28,993 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 20,111 | HTML |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,204 | Vue |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,838 | Clojure |  |
 
 
 ---
@@ -59,10 +59,10 @@
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 147,507 | C | 2026-08-07 | 5 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | JavaScript | 2026-07-30 | 6 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,334 | C++ | 2026-08-04 | 2 |
-| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,071 | TypeScript | 2026-08-17 | 1 |
+| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | TypeScript | 2026-08-17 | 2 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | JavaScript | 2026-08-06 | 1 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,413 | Rust | 2026-08-11 | 3 |
-| [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | TypeScript | 2026-08-02 | 1 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 90,961 | Rust | 2026-08-09 | 5 |
 
 ---
 
@@ -70,7 +70,7 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,113 | C | 2 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,119 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,039 | C | 1 |
@@ -129,7 +129,7 @@
 | [assimp/assimp](../repos/assimp/assimp.md) | ⭐ 13,101 | C++ | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,113 | C | 2026-08-01 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,119 | C | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,039 | C | 2026-08-01 |
@@ -139,7 +139,7 @@
 ## 📅 Recent History
 
 ### [2026-08-19](../archive/2026/08/2026-08-19.md)
-- 51 repositories trending
+- 77 repositories trending
 - Top: flutter&#x2F;flutter
 
 ### [2026-08-17](../archive/2026/08/2026-08-17.md)
@@ -170,9 +170,9 @@
 | [apache/spark](../repos/apache/spark.md) | 17 days | 2026-08-01 | 2026-08-19 |
 | [gradle/gradle](../repos/gradle/gradle.md) | 17 days | 2026-08-01 | 2026-08-19 |
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 16 days | 2026-08-01 | 2026-08-19 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 15 days | 2026-08-01 | 2026-08-19 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 15 days | 2026-08-01 | 2026-08-19 |
 | [vlang/v](../repos/vlang/v.md) | 15 days | 2026-08-01 | 2026-08-19 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 14 days | 2026-08-01 | 2026-08-17 |
 | [joernio/joern](../repos/joernio/joern.md) | 13 days | 2026-08-01 | 2026-08-19 |
 | [vim/vim](../repos/vim/vim.md) | 13 days | 2026-08-01 | 2026-08-19 |
 | [flutter/flutter](../repos/flutter/flutter.md) | 11 days | 2026-08-01 | 2026-08-19 |
@@ -183,15 +183,15 @@
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Kotlin**: 67 repositories (20%)
-- **Dart**: 47 repositories (14%)
+- **Kotlin**: 70 repositories (21%)
+- **Dart**: 48 repositories (14%)
 - **Swift**: 41 repositories (12%)
-- **C**: 26 repositories (8%)
-- **Objective-C**: 23 repositories (7%)
+- **C**: 27 repositories (8%)
+- **Objective-C**: 24 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 50.4 repositories
-- **Peak Day**: 2026-08-02 (69 repositories)
+- **Daily Average**: 51.8 repositories
+- **Peak Day**: 2026-08-19 (77 repositories)
 - **Growth Rate**: 100% this month
 
 ---
@@ -262,7 +262,7 @@
 - [nrwl/nx](../repos/nrwl/nx.md) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, sca...
 - [CyberTimon/RapidRAW](../repos/CyberTimon/RapidRAW.md) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [storybookjs/storybook](../repos/storybookjs/storybook.md) - Storybook is the industry standard workshop for building, documenting, and testing UI components ...
-- [simstudioai/sim](../repos/simstudioai/sim.md) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workf...
+- [simstudioai/sim](../repos/simstudioai/sim.md) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by...
 - [zeroclaw-labs/zeroclaw](../repos/zeroclaw-labs/zeroclaw.md) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — de...
 - [superplanehq/superplane](../repos/superplanehq/superplane.md) - The open source control plane for agentic engineering.
 - [Anuken/Mindustry](../repos/Anuken/Mindustry.md) - The automation tower defense RTS
@@ -306,4 +306,4 @@
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.165Z*
+*Last updated: 2026-08-19T21:01:45.066Z*

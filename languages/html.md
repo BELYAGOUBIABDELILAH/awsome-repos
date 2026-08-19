@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 51
+- **Total Repositories**: 54
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-16
+- **Last Updated**: 2026-08-19
 
 ---
 
@@ -25,10 +25,16 @@
 | [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 7,106 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,175 | 2026-08-03 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | ⭐ 8,501 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 14,211 | 2026-08-04 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,471 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | ⭐ 1,757 | 2026-08-14 | 5 |
@@ -82,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,048 | 2026-08-03 | 3 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,175 | 2026-08-03 | 4 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 132,042 | 2026-08-08 | 7 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,025 | 2026-08-19 | 1 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,477 | 2026-08-01 | 6 |
@@ -90,18 +96,18 @@
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,483 | 2026-08-07 | 1 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,917 | 2026-08-09 | 5 |
+| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 28,815 | 2026-08-19 | 1 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,091 | 2026-08-03 | 4 |
+| [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,854 | 2026-08-04 | 4 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,307 | 2026-08-03 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 20,111 | 2026-08-01 | 2 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 18,499 | 2026-08-12 | 3 |
 | [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,567 | 2026-08-02 | 2 |
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,434 | 2026-08-04 | 4 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,471 | 2026-08-04 | 5 |
 | [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,264 | 2026-08-05 | 1 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 14,211 | 2026-08-04 | 10 |
 | [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,067 | 2026-08-07 | 1 |
-| [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 11,860 | 2026-08-01 | 1 |
-| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,774 | 2026-08-01 | 3 |
 
 ---
 
@@ -114,11 +120,11 @@
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 6 | ⭐ 9,705 | 2026-08-01 | 2026-08-19 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 6 | ⭐ 64,477 | 2026-08-01 | 2026-08-14 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 5 | ⭐ 7,106 | 2026-08-03 | 2026-08-19 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 5 | ⭐ 16,471 | 2026-08-04 | 2026-08-19 |
 | [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 5 | ⭐ 6,102 | 2026-08-05 | 2026-08-17 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 5 | ⭐ 28,917 | 2026-08-09 | 2026-08-17 |
 | [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | 5 | ⭐ 1,757 | 2026-08-14 | 2026-08-19 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | 4 | ⭐ 46,095 | 2026-08-01 | 2026-08-14 |
-| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 4 | ⭐ 8,501 | 2026-08-03 | 2026-08-19 |
 
 ---
 
@@ -175,7 +181,10 @@
 - [nova-video-player/aos-AVP](../repos/nova-video-player/aos-AVP.md) - NOVA opeN sOurce Video plAyer: main repository to build them all
 - [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) - 计算机自学指南
 - [zhaochenyang20/Awesome-ML-SYS-Tutorial](../repos/zhaochenyang20/Awesome-ML-SYS-Tutorial.md) - My learning notes for ML SYS.
+- [MengTo/Skills](../repos/MengTo/Skills.md) - Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents
+- [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
+- [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) - A one stop repository for generative AI research updates, interview resources, notebooks and much...
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.306Z*
+*Last updated: 2026-08-19T21:01:45.246Z*

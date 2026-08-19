@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 70
+- **Total Repositories**: 71
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-19
 
@@ -31,6 +31,9 @@
 | [opf/openproject](../repos/opf/openproject.md) | ⭐ 15,878 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [instructure/canvas-lms](../repos/instructure/canvas-lms.md) | ⭐ 6,780 | 2026-08-01 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [DataDog/dd-trace-rb](../repos/DataDog/dd-trace-rb.md) | ⭐ 416 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
@@ -41,9 +44,6 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,293 | 2026-08-02 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,002 | 2026-08-04 | 9 |
 
 
 ---
@@ -200,7 +200,8 @@
 - [TheAlgorithms/Ruby](../repos/TheAlgorithms/Ruby.md) - All algorithms implemented in Ruby
 - [cncf/gitdm](../repos/cncf/gitdm.md) - 📜Fork for tracking CNCF projects
 - [otwcode/otwarchive](../repos/otwcode/otwarchive.md) - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
+- [rubygems/rubygems.org](../repos/rubygems/rubygems.org.md) - The Ruby community&#39;s gem hosting service.
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.328Z*
+*Last updated: 2026-08-19T21:01:45.278Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 106
+- **Total Repositories**: 111
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-05
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | ⭐ 13,249 | 2026-08-01 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 15,903 | 2026-08-01 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [moghtech/komodo](../repos/moghtech/komodo.md) | ⭐ 11,998 | 2026-08-02 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,953 | 2026-08-02 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 26,255 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [quickwit-oss/tantivy](../repos/quickwit-oss/tantivy.md) | ⭐ 15,876 | 2026-08-04 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 4,568 | 2026-08-08 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 90,961 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 16,075 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 2,713 | 2026-08-17 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [SlimeBoyOwO/LingChat](../repos/SlimeBoyOwO/LingChat.md) | ⭐ 1,550 | 2026-08-17 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [vectordotdev/vector](../repos/vectordotdev/vector.md) | ⭐ 22,396 | 2026-08-19 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [memvid/memvid](../repos/memvid/memvid.md) | ⭐ 16,400 | 2026-08-19 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cloudflare/quiche](../repos/cloudflare/quiche.md) | ⭐ 11,781 | 2026-08-19 | 1 |
 
 
 ---
@@ -64,7 +70,7 @@
 | [modelcontextprotocol/rust-sdk](../repos/modelcontextprotocol/rust-sdk.md) | ⭐ 3,724 | 2026-08-01 | The official Rust SDK for the Model Context Protocol |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | ⭐ 12,838 | 2026-08-01 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
+| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | ⭐ 13,249 | 2026-08-01 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openai/codex](../repos/openai/codex.md) | ⭐ 105,551 | 2026-08-01 | Lightweight coding agent that runs in your terminal |
@@ -86,22 +92,22 @@
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,046 | 2026-07-30 | 2 |
 | [openai/codex](../repos/openai/codex.md) | ⭐ 105,551 | 2026-08-01 | 4 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,413 | 2026-08-11 | 3 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 89,784 | 2026-08-09 | 4 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 90,961 | 2026-08-09 | 5 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | 2026-07-31 | 2 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
+| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,007 | 2026-08-19 | 1 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,169 | 2026-08-12 | 1 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,464 | 2026-08-05 | 4 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,424 | 2026-08-02 | 3 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,953 | 2026-08-02 | 4 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,155 | 2026-08-02 | 1 |
 | [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,268 | 2026-08-05 | 1 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 36,163 | 2026-08-10 | 1 |
 | [zellij-org/zellij](../repos/zellij-org/zellij.md) | ⭐ 34,708 | 2026-08-04 | 1 |
 | [surrealdb/surrealdb](../repos/surrealdb/surrealdb.md) | ⭐ 32,874 | 2026-08-09 | 2 |
-| [zeroclaw-labs/zeroclaw](../repos/zeroclaw-labs/zeroclaw.md) | ⭐ 32,484 | 2026-08-02 | 1 |
 
 ---
 
@@ -109,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 6 | ⭐ 13,249 | 2026-08-01 | 2026-08-19 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 5 | ⭐ 115,277 | 2026-07-30 | 2026-08-05 |
-| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 5 | ⭐ 12,838 | 2026-08-01 | 2026-08-15 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 5 | ⭐ 15,903 | 2026-08-01 | 2026-08-19 |
+| [moghtech/komodo](../repos/moghtech/komodo.md) | 5 | ⭐ 11,998 | 2026-08-02 | 2026-08-19 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 5 | ⭐ 90,961 | 2026-08-09 | 2026-08-19 |
 | [openai/codex](../repos/openai/codex.md) | 4 | ⭐ 105,551 | 2026-08-01 | 2026-08-12 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | 4 | ⭐ 14,965 | 2026-08-01 | 2026-08-15 |
 | [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | 4 | ⭐ 7,528 | 2026-08-01 | 2026-08-15 |
-| [moghtech/komodo](../repos/moghtech/komodo.md) | 4 | ⭐ 11,836 | 2026-08-02 | 2026-08-05 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 4 | ⭐ 40,953 | 2026-08-02 | 2026-08-19 |
 | [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | 4 | ⭐ 12,324 | 2026-08-03 | 2026-08-06 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 4 | ⭐ 26,255 | 2026-08-03 | 2026-08-19 |
-| [katanemo/plano](../repos/katanemo/plano.md) | 4 | ⭐ 6,977 | 2026-08-03 | 2026-08-06 |
-| [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | 4 | ⭐ 5,377 | 2026-08-03 | 2026-08-06 |
 
 ---
 
@@ -140,7 +146,7 @@
 - [nolabs-ai/nono](../repos/nolabs-ai/nono.md) - Sandbox any AI agent in seconds - zero setup, zero latency.
 - [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [microsoft/mxc](../repos/microsoft/mxc.md) - Policy-driven, layered isolation and containment 
-- [t8y2/dbx](../repos/t8y2/dbx.md) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, ...
+- [t8y2/dbx](../repos/t8y2/dbx.md) - 20 MB lightweight cross-platform database client for 80+ databases, including MySQL, PostgreSQL, ...
 - [cocoindex-io/cocoindex](../repos/cocoindex-io/cocoindex.md) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [googleworkspace/cli](../repos/googleworkspace/cli.md) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admi...
 - [huggingface/candle](../repos/huggingface/candle.md) - Minimalist ML framework for Rust
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.330Z*
+*Last updated: 2026-08-19T21:01:45.281Z*

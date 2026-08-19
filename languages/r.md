@@ -31,7 +31,13 @@
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,909 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,143 | 2026-08-04 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 379 | 2026-08-08 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 151 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [cf-convention/cf-conventions](../repos/cf-convention/cf-conventions.md) | ⭐ 100 | 2026-08-17 | 2 |
@@ -70,7 +76,7 @@
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,980 | 2026-08-04 | An implementation of the Grammar of Graphics in R |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,135 | 2026-08-04 | R for data science: a book |
+| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,143 | 2026-08-04 | R for data science: a book |
 
 
 ---
@@ -81,7 +87,7 @@
 |------------|-------|------------|---------------|
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,980 | 2026-08-04 | 5 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,677 | 2026-08-02 | 6 |
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,135 | 2026-08-04 | 4 |
+| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,143 | 2026-08-04 | 5 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,057 | 2026-08-04 | 5 |
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,583 | 2026-08-01 | 11 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,909 | 2026-08-04 | 6 |
@@ -93,7 +99,7 @@
 | [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 652 | 2026-08-01 | 11 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 466 | 2026-08-03 | 4 |
 | [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 379 | 2026-08-08 | 8 |
-| [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 151 | 2026-08-09 | 4 |
+| [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 151 | 2026-08-09 | 5 |
 | [cf-convention/cf-conventions](../repos/cf-convention/cf-conventions.md) | ⭐ 100 | 2026-08-17 | 2 |
 | [r-lib/bit64](../repos/r-lib/bit64.md) | ⭐ 40 | 2026-08-16 | 1 |
 
@@ -112,7 +118,7 @@
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 6 | ⭐ 3,909 | 2026-08-04 | 2026-08-19 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 5 | ⭐ 5,057 | 2026-08-04 | 2026-08-17 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 5 | ⭐ 6,980 | 2026-08-04 | 2026-08-14 |
-| [posit-dev/skills](../repos/posit-dev/skills.md) | 4 | ⭐ 466 | 2026-08-03 | 2026-08-09 |
+| [hadley/r4ds](../repos/hadley/r4ds.md) | 5 | ⭐ 5,143 | 2026-08-04 | 2026-08-19 |
 
 ---
 
@@ -138,4 +144,4 @@
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.327Z*
+*Last updated: 2026-08-19T21:01:45.275Z*

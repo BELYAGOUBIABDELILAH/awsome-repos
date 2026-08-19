@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 146
+- **Total Repositories**: 155
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-08-17
 
@@ -28,6 +28,12 @@
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,482 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [stretchr/testify](../repos/stretchr/testify.md) | ⭐ 26,165 | 2026-08-02 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 1,269 | 2026-08-02 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 37,105 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
@@ -38,12 +44,6 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [google/osv-scanner](../repos/google/osv-scanner.md) | ⭐ 10,863 | 2026-08-06 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 37,524 | 2026-08-07 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 65,743 | 2026-08-11 | 3 |
 
 
 ---
@@ -105,9 +105,9 @@
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,465 | 2026-08-06 | 3 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 46,694 | 2026-08-01 | 8 |
 | [cli/cli](../repos/cli/cli.md) | ⭐ 45,795 | 2026-08-11 | 1 |
+| [milvus-io/milvus](../repos/milvus-io/milvus.md) | ⭐ 45,699 | 2026-08-19 | 1 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 45,500 | 2026-08-01 | 4 |
 | [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 41,084 | 2026-08-02 | 3 |
-| [docker/compose](../repos/docker/compose.md) | ⭐ 38,010 | 2026-08-04 | 2 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.304Z*
+*Last updated: 2026-08-19T21:01:45.242Z*

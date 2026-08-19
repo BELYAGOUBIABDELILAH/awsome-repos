@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 81
+- **Total Repositories**: 86
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -29,6 +29,21 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 30,177 | 2026-08-19 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Darkatse/TauriTavern](../repos/Darkatse/TauriTavern.md) | ⭐ 1,344 | 2026-08-19 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [remoteintech/remote-jobs](../repos/remoteintech/remote-jobs.md) | ⭐ 40,682 | 2026-08-19 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Piebald-AI/claude-code-system-prompts](../repos/Piebald-AI/claude-code-system-prompts.md) | ⭐ 12,382 | 2026-08-19 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [layer5io/layer5](../repos/layer5io/layer5.md) | ⭐ 1,098 | 2026-08-19 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [WhatDreamsCost/WhatDreamsCost-ComfyUI](../repos/WhatDreamsCost/WhatDreamsCost-ComfyUI.md) | ⭐ 1,976 | 2026-08-19 | 1 |
 
 
 ---
@@ -91,8 +106,8 @@
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,912 | 2026-08-11 | 2 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,206 | 2026-08-08 | 1 |
+| [remoteintech/remote-jobs](../repos/remoteintech/remote-jobs.md) | ⭐ 40,682 | 2026-08-19 | 1 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 38,736 | 2026-08-06 | 5 |
-| [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | ⭐ 31,602 | 2026-08-02 | 2 |
 
 ---
 
@@ -196,7 +211,12 @@
 - [leaningtech/webvm](../repos/leaningtech/webvm.md) - Virtual Machine for the Web
 - [liyupi/ai-guide](../repos/liyupi/ai-guide.md) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek &#x2F; GPT &#x2F; Gemini &#x2F; Claude &#x2F; GLM...
 - [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) - Vercel&#39;s official collection of agent skills
+- [Darkatse/TauriTavern](../repos/Darkatse/TauriTavern.md) - The classic Sillytavern, now has been rewritten in Tauri&#x2F;Rust.
+- [remoteintech/remote-jobs](../repos/remoteintech/remote-jobs.md) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
+- [Piebald-AI/claude-code-system-prompts](../repos/Piebald-AI/claude-code-system-prompts.md) - All parts of Claude Code&#39;s system prompt, 27 builtin tool descriptions, sub agent prompts (Plan&#x2F;E...
+- [layer5io/layer5](../repos/layer5io/layer5.md) - Layer5, expect more from your infrastructure
+- [WhatDreamsCost/WhatDreamsCost-ComfyUI](../repos/WhatDreamsCost/WhatDreamsCost-ComfyUI.md) - LTX Director and a variety of other custom ComfyUI nodes and workflows
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.310Z*
+*Last updated: 2026-08-19T21:01:45.252Z*

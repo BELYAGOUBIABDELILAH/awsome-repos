@@ -32,6 +32,12 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,037 | 2026-08-02 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,125 | 2026-08-03 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [open-api-spex/open_api_spex](../repos/open-api-spex/open_api_spex.md) | ⭐ 835 | 2026-08-16 | 2 |
 
 
 ---
@@ -78,7 +84,7 @@
 |------------|-------|------------|---------------|
 | [openai/symphony](../repos/openai/symphony.md) | ⭐ 26,743 | 2026-08-01 | 16 |
 | [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,600 | 2026-08-01 | 16 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,121 | 2026-08-03 | 9 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,125 | 2026-08-03 | 10 |
 | [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,037 | 2026-08-02 | 15 |
 | [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 8,855 | 2026-08-02 | 15 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,823 | 2026-08-01 | 8 |
@@ -93,7 +99,7 @@
 | [brainlid/langchain](../repos/brainlid/langchain.md) | ⭐ 1,192 | 2026-08-12 | 1 |
 | [hexpm/hexpm](../repos/hexpm/hexpm.md) | ⭐ 1,167 | 2026-08-01 | 1 |
 | [googleapis/elixir-google-api](../repos/googleapis/elixir-google-api.md) | ⭐ 1,080 | 2026-08-06 | 1 |
-| [open-api-spex/open_api_spex](../repos/open-api-spex/open_api_spex.md) | ⭐ 835 | 2026-08-16 | 1 |
+| [open-api-spex/open_api_spex](../repos/open-api-spex/open_api_spex.md) | ⭐ 835 | 2026-08-16 | 2 |
 | [duffelhq/paginator](../repos/duffelhq/paginator.md) | ⭐ 823 | 2026-08-01 | 7 |
 | [operately/operately](../repos/operately/operately.md) | ⭐ 538 | 2026-08-02 | 5 |
 
@@ -109,7 +115,7 @@
 | [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 15 | ⭐ 8,855 | 2026-08-02 | 2026-08-19 |
 | [firezone/firezone](../repos/firezone/firezone.md) | 15 | ⭐ 9,037 | 2026-08-02 | 2026-08-19 |
 | [open-telemetry/opentelemetry-erlang-contrib](../repos/open-telemetry/opentelemetry-erlang-contrib.md) | 14 | ⭐ 216 | 2026-08-01 | 2026-08-19 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 9 | ⭐ 23,121 | 2026-08-03 | 2026-08-17 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 10 | ⭐ 23,125 | 2026-08-03 | 2026-08-19 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | 8 | ⭐ 6,823 | 2026-08-01 | 2026-08-15 |
 | [duffelhq/paginator](../repos/duffelhq/paginator.md) | 7 | ⭐ 823 | 2026-08-01 | 2026-08-08 |
 | [expert-lsp/expert](../repos/expert-lsp/expert.md) | 5 | ⭐ 2,037 | 2026-08-01 | 2026-08-14 |
@@ -149,4 +155,4 @@
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.300Z*
+*Last updated: 2026-08-19T21:01:45.236Z*

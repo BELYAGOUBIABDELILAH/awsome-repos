@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 77
+- **Total Repositories**: 78
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-09
+- **Last Updated**: 2026-08-19
 
 ---
 
@@ -31,6 +31,12 @@
 | [sozercan/kaset](../repos/sozercan/kaset.md) | ⭐ 2,035 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,260 | 2026-08-05 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,200 | 2026-08-06 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,915 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
@@ -38,12 +44,6 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,226 | 2026-08-12 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,422 | 2026-08-17 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [yonaskolb/XcodeGen](../repos/yonaskolb/XcodeGen.md) | ⭐ 8,718 | 2026-08-19 | 1 |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,234 | 2026-08-05 | 3 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,260 | 2026-08-05 | 4 |
 | [apple/container](../repos/apple/container.md) | ⭐ 48,766 | 2026-08-01 | 4 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,284 | 2026-08-12 | 1 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
@@ -105,7 +105,7 @@
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,568 | 2026-08-01 | 1 |
 | [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,422 | 2026-08-17 | 2 |
 | [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
-| [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,183 | 2026-08-06 | 1 |
+| [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,200 | 2026-08-06 | 2 |
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,858 | 2026-08-01 | 7 |
 | [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,376 | 2026-08-06 | 5 |
 
@@ -207,7 +207,8 @@
 - [NodePassProject/Anywhere](../repos/NodePassProject/Anywhere.md) - The best native proxy client for iOS, iPadOS, macOS, and tvOS.
 - [leminlimez/Pocket-Poster](../repos/leminlimez/Pocket-Poster.md) - Custom PosterBoard Wallpapers for iOS 17-26.1
 - [yonaskolb/XcodeGen](../repos/yonaskolb/XcodeGen.md) - A Swift command line tool for generating your Xcode project
+- [swiftlang/swift-package-manager](../repos/swiftlang/swift-package-manager.md) - The Package Manager for the Swift Programming Language
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.335Z*
+*Last updated: 2026-08-19T21:01:45.288Z*

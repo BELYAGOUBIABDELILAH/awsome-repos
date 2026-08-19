@@ -101,7 +101,7 @@
 | [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,492 | 2026-08-01 | 13 |
 | [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,223 | 2026-08-01 | 11 |
 | [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,717 | 2026-08-01 | 9 |
-| [PlummersSoftwareLLC/TinyRetroPad](../repos/PlummersSoftwareLLC/TinyRetroPad.md) | ⭐ 1,707 | 2026-08-04 | 8 |
+| [PlummersSoftwareLLC/TinyRetroPad](../repos/PlummersSoftwareLLC/TinyRetroPad.md) | ⭐ 1,716 | 2026-08-04 | 9 |
 | [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,617 | 2026-08-01 | 11 |
 | [cemu-project/cemu_graphic_packs](../repos/cemu-project/cemu_graphic_packs.md) | ⭐ 1,470 | 2026-08-04 | 5 |
 | [riscv-software-src/riscv-tests](../repos/riscv-software-src/riscv-tests.md) | ⭐ 1,230 | 2026-08-01 | 8 |
@@ -122,9 +122,9 @@
 | [boostorg/context](../repos/boostorg/context.md) | 13 | ⭐ 364 | 2026-08-01 | 2026-08-19 |
 | [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | 13 | ⭐ 18,655 | 2026-08-01 | 2026-08-19 |
 | [pret/pokecrystal](../repos/pret/pokecrystal.md) | 13 | ⭐ 2,492 | 2026-08-01 | 2026-08-17 |
+| [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | 12 | ⭐ 770 | 2026-08-02 | 2026-08-19 |
 | [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 11 | ⭐ 405 | 2026-08-01 | 2026-08-19 |
 | [briansmith/ring](../repos/briansmith/ring.md) | 11 | ⭐ 4,104 | 2026-08-01 | 2026-08-14 |
-| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | 11 | ⭐ 2,223 | 2026-08-01 | 2026-08-19 |
 
 ---
 
@@ -170,4 +170,4 @@
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.280Z*
+*Last updated: 2026-08-19T21:01:45.205Z*

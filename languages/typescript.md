@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 122
+- **Total Repositories**: 124
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,7 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 49,414 | 2026-08-01 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 19,552 | 2026-08-01 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [simstudioai/sim](../repos/simstudioai/sim.md) | ⭐ 29,435 | 2026-08-02 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,312 | 2026-08-04 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 41,702 | 2026-08-08 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 68,347 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [upscayl/upscayl](../repos/upscayl/upscayl.md) | ⭐ 48,561 | 2026-08-14 | 2 |
@@ -26,18 +44,6 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [chaitanyagiri/munder-difflin](../repos/chaitanyagiri/munder-difflin.md) | ⭐ 2,016 | 2026-08-16 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [agalwood/Motrix](../repos/agalwood/Motrix.md) | ⭐ 53,649 | 2026-08-17 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [genlayerlabs/genlayer-project-boilerplate](../repos/genlayerlabs/genlayer-project-boilerplate.md) | ⭐ 15,923 | 2026-08-19 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [rmyndharis/OpenWA](../repos/rmyndharis/OpenWA.md) | ⭐ 12,944 | 2026-08-19 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [bia-pain-bache/BPB-Worker-Panel](../repos/bia-pain-bache/BPB-Worker-Panel.md) | ⭐ 13,085 | 2026-08-19 | 1 |
 
 
 ---
@@ -70,7 +76,7 @@
 | [modelcontextprotocol/ext-apps](../repos/modelcontextprotocol/ext-apps.md) | ⭐ 2,653 | 2026-08-01 | Official repo for spec &amp; SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 48,282 | 2026-08-01 | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 49,414 | 2026-08-01 | Chrome DevTools for coding agents |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google-labs-code/design.md](../repos/google-labs-code/design.md.md) | ⭐ 26,813 | 2026-08-01 | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents ... |
@@ -88,7 +94,7 @@
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 127,577 | 2026-08-02 | 3 |
-| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,071 | 2026-08-17 | 1 |
+| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | 2026-08-17 | 2 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,166 | 2026-08-15 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | 3 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 96,831 | 2026-08-04 | 2 |
@@ -97,10 +103,10 @@
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 84,049 | 2026-08-14 | 1 |
 | [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | 2026-08-12 | 1 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 77,659 | 2026-08-02 | 4 |
-| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,281 | 2026-08-04 | 2 |
+| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,312 | 2026-08-04 | 3 |
 | [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | ⭐ 75,400 | 2026-07-31 | 1 |
 | [strapi/strapi](../repos/strapi/strapi.md) | ⭐ 72,929 | 2026-08-15 | 1 |
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 67,574 | 2026-08-10 | 1 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 68,347 | 2026-08-10 | 2 |
 | [reduxjs/redux](../repos/reduxjs/redux.md) | ⭐ 61,511 | 2026-08-04 | 1 |
 
 ---
@@ -110,9 +116,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 6 | ⭐ 19,552 | 2026-08-01 | 2026-08-19 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 5 | ⭐ 3,040 | 2026-08-01 | 2026-08-16 |
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 5 | ⭐ 18,253 | 2026-08-01 | 2026-08-11 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 5 | ⭐ 24,810 | 2026-08-02 | 2026-08-14 |
 | [cloudflare/computer](../repos/cloudflare/computer.md) | 5 | ⭐ 6,976 | 2026-08-05 | 2026-08-09 |
 | [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | 5 | ⭐ 13,986 | 2026-08-07 | 2026-08-11 |
@@ -152,7 +158,7 @@
 - [paperclipai/paperclip](../repos/paperclipai/paperclip.md) - The open-source app everyone uses to manage agents at work
 - [storybookjs/storybook](../repos/storybookjs/storybook.md) - Storybook is the industry standard workshop for building, documenting, and testing UI components ...
 - [microsoft/flint-chart](../repos/microsoft/flint-chart.md) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking...
-- [simstudioai/sim](../repos/simstudioai/sim.md) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workf...
+- [simstudioai/sim](../repos/simstudioai/sim.md) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by...
 - [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, b...
 - [iptv-org/iptv](../repos/iptv-org/iptv.md) - Collection of publicly available IPTV channels from all over the world
 - [karakeep-app/karakeep](../repos/karakeep-app/karakeep.md) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging...
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-19T00:18:31.336Z*
+*Last updated: 2026-08-19T21:01:45.290Z*
