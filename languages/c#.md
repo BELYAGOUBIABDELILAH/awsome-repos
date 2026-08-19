@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 102
+- **Total Repositories**: 105
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-16
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,885 | 2026-08-01 | 4 |
+| [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,246 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 18,285 | 2026-08-02 | 8 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 18,603 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,883 | 2026-08-02 | 6 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,205 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,596 | 2026-08-02 | 3 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,238 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 14,848 | 2026-08-02 | 9 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,978 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 15,141 | 2026-08-03 | 3 |
+| [mRemoteNG/mRemoteNG](../repos/mRemoteNG/mRemoteNG.md) | ⭐ 11,054 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [space-wizards/space-station-14](../repos/space-wizards/space-station-14.md) | ⭐ 3,743 | 2026-08-04 | 3 |
+| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,602 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 8,428 | 2026-08-09 | 3 |
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,194 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [madoiscool/LuaTools](../repos/madoiscool/LuaTools.md) | ⭐ 256 | 2026-08-14 | 4 |
+| [database64128/youtube-dl-wpf](../repos/database64128/youtube-dl-wpf.md) | ⭐ 1,373 | 2026-08-17 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [database64128/youtube-dl-wpf](../repos/database64128/youtube-dl-wpf.md) | ⭐ 1,350 | 2026-08-17 | 1 |
+| [microsoft/garnet](../repos/microsoft/garnet.md) | ⭐ 11,935 | 2026-08-19 | 1 |
 
 
 ---
@@ -90,9 +90,9 @@
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,982 | 2026-08-02 | 7 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,883 | 2026-08-02 | 6 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,872 | 2026-08-06 | 3 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,978 | 2026-08-06 | 4 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,632 | 2026-08-01 | 4 |
-| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,130 | 2026-08-14 | 1 |
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,194 | 2026-08-14 | 2 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,478 | 2026-08-03 | 5 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,374 | 2026-08-01 | 5 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,700 | 2026-08-08 | 1 |
@@ -105,9 +105,9 @@
 | [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,564 | 2026-08-02 | 3 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,610 | 2026-08-01 | 4 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,885 | 2026-08-01 | 4 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 18,285 | 2026-08-02 | 8 |
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,209 | 2026-08-04 | 5 |
-| [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,187 | 2026-08-01 | 2 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 18,603 | 2026-08-02 | 9 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,205 | 2026-08-04 | 6 |
+| [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,246 | 2026-08-01 | 3 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 9 | ⭐ 18,603 | 2026-08-02 | 2026-08-19 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 9 | ⭐ 14,848 | 2026-08-02 | 2026-08-17 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 8 | ⭐ 18,285 | 2026-08-02 | 2026-08-17 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 7 | ⭐ 26,795 | 2026-08-01 | 2026-08-08 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 7 | ⭐ 113,982 | 2026-08-02 | 2026-08-16 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 6 | ⭐ 3,573 | 2026-08-01 | 2026-08-15 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 6 | ⭐ 55,883 | 2026-08-02 | 2026-08-17 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 6 | ⭐ 5,110 | 2026-08-03 | 2026-08-09 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | 6 | ⭐ 18,205 | 2026-08-04 | 2026-08-19 |
 | [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | 6 | ⭐ 13,331 | 2026-08-05 | 2026-08-11 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 5 | ⭐ 38,374 | 2026-08-01 | 2026-08-15 |
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | 5 | ⭐ 38,478 | 2026-08-03 | 2026-08-16 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-17T21:01:39.541Z*
+*Last updated: 2026-08-19T00:18:31.290Z*

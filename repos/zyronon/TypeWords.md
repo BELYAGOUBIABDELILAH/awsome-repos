@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | CSS |
+| **Language** | Vue |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 8,865 |
-| **Forks** | 🍴 1,080 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 8,966 |
+| **Forks** | 🍴 1,094 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 5, 2026 |
+| **Last Seen** | Aug 19, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in CSS or english-learn*
+*Similar: Check repositories in Vue or english-learn*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in CSS
+- Check similar projects in Vue
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-17T21:01:41.800Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-19T00:18:33.185Z*  
+*Data from 3 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 76
+- **Total Repositories**: 78
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-17
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | ⭐ 3,408 | 2026-08-01 | 5 |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,836 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WordPress/mcp-adapter](../repos/WordPress/mcp-adapter.md) | ⭐ 1,587 | 2026-08-01 | 6 |
+| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,873 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,779 | 2026-08-01 | 7 |
+| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,230 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,123 | 2026-08-02 | 7 |
+| [kimai/kimai](../repos/kimai/kimai.md) | ⭐ 4,917 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cedar2025/Xboard](../repos/cedar2025/Xboard.md) | ⭐ 4,645 | 2026-08-02 | 6 |
+| [invoiceninja/invoiceninja](../repos/invoiceninja/invoiceninja.md) | ⭐ 10,008 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,449 | 2026-08-02 | 11 |
+| [espocrm/espocrm](../repos/espocrm/espocrm.md) | ⭐ 3,256 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kimai/kimai](../repos/kimai/kimai.md) | ⭐ 4,913 | 2026-08-03 | 6 |
+| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 23,693 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 12,912 | 2026-08-05 | 2 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,289 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,278 | 2026-08-09 | 5 |
+| [googleapis/google-api-php-client](../repos/googleapis/google-api-php-client.md) | ⭐ 9,805 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getgrav/grav](../repos/getgrav/grav.md) | ⭐ 15,631 | 2026-08-12 | 4 |
+| [alextselegidis/easyappointments](../repos/alextselegidis/easyappointments.md) | ⭐ 4,329 | 2026-08-11 | 4 |
 
 
 ---
@@ -52,13 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,803 | 2026-08-01 | A free open source IT asset&#x2F;license management system |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,836 | 2026-08-01 | A free open source IT asset&#x2F;license management system |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,867 | 2026-08-01 | Laravel is a web application framework with expressive, elegant syntax. |
+| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,873 | 2026-08-01 | Laravel is a web application framework with expressive, elegant syntax. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,228 | 2026-08-01 | GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Des... |
+| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,230 | 2026-08-01 | GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Des... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pestphp/pest](../repos/pestphp/pest.md) | ⭐ 11,650 | 2026-08-01 | The elegant testing framework for PHP developers and AI agents. |
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,449 | 2026-08-02 | 11 |
-| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,867 | 2026-08-01 | 5 |
+| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,873 | 2026-08-01 | 6 |
 | [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 31,751 | 2026-08-02 | 4 |
 | [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,123 | 2026-08-02 | 7 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 27,972 | 2026-08-01 | 4 |
 | [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,012 | 2026-08-04 | 6 |
-| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 23,643 | 2026-08-07 | 1 |
+| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 23,693 | 2026-08-07 | 2 |
 | [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,283 | 2026-08-01 | 4 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,779 | 2026-08-01 | 7 |
 | [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,582 | 2026-08-04 | 3 |
 | [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 15,788 | 2026-08-02 | 6 |
 | [getgrav/grav](../repos/getgrav/grav.md) | ⭐ 15,631 | 2026-08-12 | 4 |
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,803 | 2026-08-01 | 3 |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,836 | 2026-08-01 | 4 |
+| [PHPOffice/PhpSpreadsheet](../repos/PHPOffice/PhpSpreadsheet.md) | ⭐ 13,975 | 2026-08-19 | 1 |
 | [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,549 | 2026-08-04 | 2 |
 | [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 12,912 | 2026-08-05 | 2 |
 | [SpartnerNL/Laravel-Excel](../repos/SpartnerNL/Laravel-Excel.md) | ⭐ 12,699 | 2026-08-09 | 1 |
 | [typecho/typecho](../repos/typecho/typecho.md) | ⭐ 12,417 | 2026-08-02 | 1 |
 | [magento/magento2](../repos/magento/magento2.md) | ⭐ 12,167 | 2026-08-04 | 6 |
 | [assimon/dujiaoka](../repos/assimon/dujiaoka.md) | ⭐ 12,149 | 2026-08-14 | 1 |
-| [aureuserp/aureuserp](../repos/aureuserp/aureuserp.md) | ⭐ 11,757 | 2026-08-11 | 3 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [nextcloud/server](../repos/nextcloud/server.md) | 11 | ⭐ 36,449 | 2026-08-02 | 2026-08-17 |
+| [glpi-project/glpi](../repos/glpi-project/glpi.md) | 7 | ⭐ 6,230 | 2026-08-01 | 2026-08-19 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | 7 | ⭐ 21,779 | 2026-08-01 | 2026-08-17 |
 | [symfony/symfony](../repos/symfony/symfony.md) | 7 | ⭐ 31,123 | 2026-08-02 | 2026-08-17 |
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | 6 | ⭐ 6,228 | 2026-08-01 | 2026-08-15 |
+| [kimai/kimai](../repos/kimai/kimai.md) | 7 | ⭐ 4,917 | 2026-08-03 | 2026-08-19 |
+| [laravel/framework](../repos/laravel/framework.md) | 6 | ⭐ 34,873 | 2026-08-01 | 2026-08-19 |
 | [WordPress/mcp-adapter](../repos/WordPress/mcp-adapter.md) | 6 | ⭐ 1,587 | 2026-08-01 | 2026-08-17 |
 | [cedar2025/Xboard](../repos/cedar2025/Xboard.md) | 6 | ⭐ 4,645 | 2026-08-02 | 2026-08-17 |
 | [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | 6 | ⭐ 15,788 | 2026-08-02 | 2026-08-16 |
-| [kimai/kimai](../repos/kimai/kimai.md) | 6 | ⭐ 4,913 | 2026-08-03 | 2026-08-17 |
 | [librenms/librenms](../repos/librenms/librenms.md) | 6 | ⭐ 4,836 | 2026-08-04 | 2026-08-15 |
-| [monicahq/monica](../repos/monicahq/monica.md) | 6 | ⭐ 25,012 | 2026-08-04 | 2026-08-10 |
 
 ---
 
@@ -206,7 +206,9 @@
 - [PrivateBin/PrivateBin](../repos/PrivateBin/PrivateBin.md) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Dat...
 - [WordPress/ai](../repos/WordPress/ai.md) - AI features and experiments for WordPress. Modular framework for testing AI capabilities.
 - [phpmyadmin/phpmyadmin](../repos/phpmyadmin/phpmyadmin.md) - A web interface for MySQL and MariaDB
+- [aws/aws-sdk-php](../repos/aws/aws-sdk-php.md) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [PHPOffice/PhpSpreadsheet](../repos/PHPOffice/PhpSpreadsheet.md) - A pure PHP library for reading and writing spreadsheet files
 
 ---
 
-*Last updated: 2026-08-17T21:01:39.580Z*
+*Last updated: 2026-08-19T00:18:31.321Z*

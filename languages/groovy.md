@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 8
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-17
+- **Last Updated**: 2026-08-19
 
 ---
 
@@ -16,10 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,780 | 2026-08-01 | 16 |
+| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,923 | 2026-08-03 | 9 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,784 | 2026-08-01 | 17 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,923 | 2026-08-03 | 10 |
 
 
 ---
@@ -31,7 +34,7 @@
 | [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | Gravitee.io - API Platform - Issues |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,780 | 2026-08-01 | Adaptable, fast automation for all |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,784 | 2026-08-01 | Adaptable, fast automation for all |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 874 | 2026-08-01 | OpenBoxes is a warehouse management system designed to manage inventory and track stock movements... |
@@ -58,14 +61,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,780 | 2026-08-01 | 16 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,784 | 2026-08-01 | 17 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,267 | 2026-08-02 | 11 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,465 | 2026-08-02 | 8 |
-| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,923 | 2026-08-03 | 9 |
+| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,923 | 2026-08-03 | 10 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 874 | 2026-08-01 | 4 |
 | [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | ⭐ 96 | 2026-08-06 | 1 |
-| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | 6 |
+| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | 7 |
 
 ---
 
@@ -73,11 +76,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [gradle/gradle](../repos/gradle/gradle.md) | 16 | ⭐ 18,780 | 2026-08-01 | 2026-08-17 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 17 | ⭐ 18,784 | 2026-08-01 | 2026-08-19 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | 11 | ⭐ 6,267 | 2026-08-02 | 2026-08-14 |
-| [apache/grails-core](../repos/apache/grails-core.md) | 9 | ⭐ 2,923 | 2026-08-03 | 2026-08-17 |
+| [apache/grails-core](../repos/apache/grails-core.md) | 10 | ⭐ 2,923 | 2026-08-03 | 2026-08-19 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 8 | ⭐ 3,465 | 2026-08-02 | 2026-08-15 |
-| [gravitee-io/issues](../repos/gravitee-io/issues.md) | 6 | ⭐ 68 | 2026-08-01 | 2026-08-15 |
+| [gravitee-io/issues](../repos/gravitee-io/issues.md) | 7 | ⭐ 68 | 2026-08-01 | 2026-08-19 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | 4 | ⭐ 874 | 2026-08-01 | 2026-08-12 |
 | [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | 1 | ⭐ 96 | 2026-08-06 | 2026-08-06 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | 1 | ⭐ 4,078 | 2026-08-10 | 2026-08-10 |
@@ -97,4 +100,4 @@
 
 ---
 
-*Last updated: 2026-08-17T21:01:39.561Z*
+*Last updated: 2026-08-19T00:18:31.305Z*

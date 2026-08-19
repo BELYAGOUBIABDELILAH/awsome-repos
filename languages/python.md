@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 126
+- **Total Repositories**: 130
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-17
+- **Last Updated**: 2026-08-19
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 58,475 | 2026-08-01 | 3 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 58,631 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 105,821 | 2026-08-01 | 6 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 108,504 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 463,129 | 2026-08-01 | 4 |
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 464,529 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 11,133 | 2026-08-01 | 2 |
+| [browser-use/video-use](../repos/browser-use/video-use.md) | ⭐ 21,048 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 185,102 | 2026-08-02 | 3 |
+| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 55,066 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 54,022 | 2026-08-04 | 5 |
+| [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](../repos/RVC-Project/Retrieval-based-Voice-Conversion-WebUI.md) | ⭐ 37,568 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cactus-compute/needle](../repos/cactus-compute/needle.md) | ⭐ 7,084 | 2026-08-11 | 6 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 141,897 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [volcengine/OpenViking](../repos/volcengine/OpenViking.md) | ⭐ 28,884 | 2026-08-14 | 2 |
+| [scrapy/scrapy](../repos/scrapy/scrapy.md) | ⭐ 63,942 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 2,134 | 2026-08-15 | 3 |
+| [cactus-compute/needle](../repos/cactus-compute/needle.md) | ⭐ 7,498 | 2026-08-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 47,707 | 2026-08-15 | 3 |
+| [volcengine/OpenViking](../repos/volcengine/OpenViking.md) | ⭐ 29,358 | 2026-08-14 | 3 |
 
 
 ---
@@ -67,7 +67,7 @@
 | [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | 2026-08-10 | Building applications with LLMs through composability |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 58,475 | 2026-08-01 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -... |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 58,631 | 2026-08-01 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [paperswithbacktest/awesome-systematic-trading](../repos/paperswithbacktest/awesome-systematic-trading.md) | ⭐ 11,746 | 2026-08-01 | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic... |
@@ -76,7 +76,7 @@
 | [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 9,822 | 2026-08-01 | Build local voice agents with open-source models |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 105,821 | 2026-08-01 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom... |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 108,504 | 2026-08-01 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [trailofbits/skills](../repos/trailofbits/skills.md) | ⭐ 6,367 | 2026-08-01 | Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows |
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 463,129 | 2026-08-01 | 4 |
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 464,529 | 2026-08-01 | 5 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | 2026-08-03 | 5 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | 2026-08-08 | 3 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 226,554 | 2026-08-01 | 6 |
@@ -96,12 +96,12 @@
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 185,102 | 2026-08-02 | 3 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 168,510 | 2026-08-11 | 2 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | 2026-07-31 | 4 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 141,219 | 2026-08-07 | 2 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 141,897 | 2026-08-07 | 3 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 130,495 | 2026-08-04 | 1 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 129,117 | 2026-08-14 | 2 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 126,231 | 2026-08-05 | 4 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 108,504 | 2026-08-01 | 7 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 105,821 | 2026-08-01 | 6 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 101,806 | 2026-08-03 | 1 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 97,152 | 2026-08-08 | 3 |
 | [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 90,555 | 2026-08-10 | 3 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 8 | ⭐ 1,340 | 2026-08-01 | 2026-08-14 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 6 | ⭐ 105,821 | 2026-08-01 | 2026-08-17 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 7 | ⭐ 108,504 | 2026-08-01 | 2026-08-19 |
+| [cactus-compute/needle](../repos/cactus-compute/needle.md) | 7 | ⭐ 7,498 | 2026-08-11 | 2026-08-19 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 6 | ⭐ 226,554 | 2026-08-01 | 2026-08-06 |
-| [cactus-compute/needle](../repos/cactus-compute/needle.md) | 6 | ⭐ 7,084 | 2026-08-11 | 2026-08-17 |
+| [usestrix/strix](../repos/usestrix/strix.md) | 6 | ⭐ 55,066 | 2026-08-04 | 2026-08-19 |
 | [openai/whisper](../repos/openai/whisper.md) | 5 | ⭐ 106,298 | 2026-07-31 | 2026-08-01 |
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | 5 | ⭐ 464,529 | 2026-08-01 | 2026-08-19 |
 | [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | 5 | ⭐ 46,014 | 2026-08-02 | 2026-08-06 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | 5 | ⭐ 362,245 | 2026-08-03 | 2026-08-07 |
 | [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | 5 | ⭐ 3,574 | 2026-08-04 | 2026-08-08 |
-| [usestrix/strix](../repos/usestrix/strix.md) | 5 | ⭐ 54,022 | 2026-08-04 | 2026-08-17 |
-| [huggingface/transformers](../repos/huggingface/transformers.md) | 4 | ⭐ 164,012 | 2026-07-31 | 2026-08-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-17T21:01:39.584Z*
+*Last updated: 2026-08-19T00:18:31.325Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 76
+- **Total Repositories**: 77
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-07
 
@@ -16,25 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 25,946 | 2026-08-02 | 12 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,636 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 9,623 | 2026-08-03 | 2 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 26,415 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fujibee/agmsg](../repos/fujibee/agmsg.md) | ⭐ 1,444 | 2026-08-03 | 2 |
+| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 9,628 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,428 | 2026-08-07 | 7 |
+| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,206 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,746 | 2026-08-08 | 3 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,100 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wolfi-dev/os](../repos/wolfi-dev/os.md) | ⭐ 1,269 | 2026-08-14 | 4 |
+| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,487 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SHORiN-KiWATA/Shorin-ArchLinux-Guide](../repos/SHORiN-KiWATA/Shorin-ArchLinux-Guide.md) | ⭐ 2,422 | 2026-08-16 | 2 |
+| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,753 | 2026-08-08 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [wolfi-dev/os](../repos/wolfi-dev/os.md) | ⭐ 1,269 | 2026-08-14 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [pwnerblu/surrealra1n](../repos/pwnerblu/surrealra1n.md) | ⭐ 248 | 2026-08-16 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 1,745 | 2026-08-19 | 1 |
 
 
 ---
@@ -46,7 +55,7 @@
 | [HQarroum/docker-android](../repos/HQarroum/docker-android.md) | ⭐ 7,174 | 2026-08-01 | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,552 | 2026-08-01 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,636 | 2026-08-01 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $n... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [The01Geek/prflow](../repos/The01Geek/prflow.md) | ⭐ 112 | 2026-08-01 | Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and... |
@@ -70,7 +79,7 @@
 | [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,642 | 2026-08-01 | Универсальный менеджер для обхода блокировок на OpenWrt |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 25,946 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 26,415 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
 
 
 ---
@@ -80,23 +89,23 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,386 | 2026-08-07 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,552 | 2026-08-01 | 9 |
-| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,093 | 2026-08-04 | 1 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,636 | 2026-08-01 | 10 |
+| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,206 | 2026-08-04 | 2 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,802 | 2026-08-06 | 3 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,419 | 2026-08-04 | 2 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 25,946 | 2026-08-02 | 12 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 26,415 | 2026-08-02 | 13 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,320 | 2026-08-04 | 4 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,694 | 2026-08-07 | 3 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 19,480 | 2026-08-12 | 2 |
-| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,746 | 2026-08-08 | 3 |
+| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,753 | 2026-08-08 | 4 |
 | [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 15,647 | 2026-08-11 | 3 |
 | [DaoCloud/public-image-mirror](../repos/DaoCloud/public-image-mirror.md) | ⭐ 14,853 | 2026-08-14 | 1 |
-| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,366 | 2026-08-07 | 1 |
+| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,487 | 2026-08-07 | 2 |
 | [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,531 | 2026-08-04 | 2 |
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,098 | 2026-08-04 | 5 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,100 | 2026-08-04 | 6 |
 | [1N3/Sn1per](../repos/1N3/Sn1per.md) | ⭐ 10,738 | 2026-08-06 | 2 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,729 | 2026-08-07 | 2 |
 
@@ -106,23 +115,23 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 12 | ⭐ 25,946 | 2026-08-02 | 2026-08-17 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 9 | ⭐ 94,552 | 2026-08-01 | 2026-08-12 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 13 | ⭐ 26,415 | 2026-08-02 | 2026-08-19 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 10 | ⭐ 94,636 | 2026-08-01 | 2026-08-19 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 7 | ⭐ 2,108 | 2026-08-02 | 2026-08-16 |
 | [expo/skills](../repos/expo/skills.md) | 7 | ⭐ 2,428 | 2026-08-07 | 2026-08-17 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | 6 | ⭐ 11,100 | 2026-08-04 | 2026-08-19 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 5 | ⭐ 4,023 | 2026-08-01 | 2026-08-12 |
-| [github/copilot-cli](../repos/github/copilot-cli.md) | 5 | ⭐ 11,098 | 2026-08-04 | 2026-08-16 |
+| [wolfi-dev/os](../repos/wolfi-dev/os.md) | 5 | ⭐ 1,269 | 2026-08-14 | 2026-08-19 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 4 | ⭐ 25,320 | 2026-08-04 | 2026-08-12 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 4 | ⭐ 2,590 | 2026-08-05 | 2026-08-09 |
-| [wolfi-dev/os](../repos/wolfi-dev/os.md) | 4 | ⭐ 1,269 | 2026-08-14 | 2026-08-17 |
-| [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | 3 | ⭐ 2,851 | 2026-08-01 | 2026-08-07 |
+| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | 4 | ⭐ 18,753 | 2026-08-08 | 2026-08-19 |
 
 ---
 
 ## 📋 All Shell Repositories
 
 - [HQarroum/docker-android](../repos/HQarroum/docker-android.md) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
-- [nvm-sh/nvm](../repos/nvm-sh/nvm.md) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm-sh/nvm](../repos/nvm-sh/nvm.md) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $n...
 - [The01Geek/prflow](../repos/The01Geek/prflow.md) - Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and...
 - [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) - Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex...
 - [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) - Burpsuite Professional Latest Version 2026
@@ -193,11 +202,12 @@
 - [ROCm/ROCm](../repos/ROCm/ROCm.md) - AMD ROCm™ Software - GitHub Home
 - [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) - Bonsai Demo
 - [Security-Onion-Solutions/securityonion](../repos/Security-Onion-Solutions/securityonion.md) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, an...
-- [pwnerblu/surrealra1n](../repos/pwnerblu/surrealra1n.md) - Tether downgrade tool for some checkm8&#x2F;usbliter8 64bit devices. Some restores may utilize seprmvr...
+- [pwnerblu/surrealra1n](../repos/pwnerblu/surrealra1n.md) - Tether downgrade tool (iOS 7.0-17.6.1) for some checkm8&#x2F;usbliter8 64bit devices. Some restores ma...
 - [Sergeydigl3/zapret-discord-youtube-linux](../repos/Sergeydigl3/zapret-discord-youtube-linux.md) - Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux
 - [SHORiN-KiWATA/Shorin-ArchLinux-Guide](../repos/SHORiN-KiWATA/Shorin-ArchLinux-Guide.md) - 【2026最适合新手的Arch Linux教程】具体内容包括：系统安装教程、win+linux双系统、N卡驱动、桌面环境、中文输入法、Linux玩游戏、常用虚拟机程序、显卡直通、干净删除linux等。
 - [vinceliuice/grub2-themes](../repos/vinceliuice/grub2-themes.md) - Modern Design theme for Grub2
+- [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) - OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark ...
 
 ---
 
-*Last updated: 2026-08-17T21:01:39.594Z*
+*Last updated: 2026-08-19T00:18:31.333Z*

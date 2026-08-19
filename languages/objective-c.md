@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 67
+- **Total Repositories**: 68
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,488 | 2026-08-01 | 4 |
+| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 681 | 2026-08-02 | 6 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,219 | 2026-08-02 | 6 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Flipboard/FLAnimatedImage](../repos/Flipboard/FLAnimatedImage.md) | ⭐ 7,948 | 2026-08-02 | 4 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,067 | 2026-08-03 | 4 |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,071 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [erikdoe/ocmock](../repos/erikdoe/ocmock.md) | ⭐ 2,171 | 2026-08-03 | 4 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,615 | 2026-08-04 | 6 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,013 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
+| [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,395 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,501 | 2026-08-04 | 2 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,090 | 2026-08-03 | 5 |
 
 
 ---
@@ -67,7 +67,7 @@
 | [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | Branch iOS SDK Swift Package Manager distribution |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,827 | 2026-08-01 | Promises is a modern framework that provides a synchronization construct for Swift and Objective-C. |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | Promises is a modern framework that provides a synchronization construct for Swift and Objective-C. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 |  |
@@ -89,17 +89,17 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
-| [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,412 | 2026-08-02 | 2 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,639 | 2026-08-01 | 9 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 21,994 | 2026-08-02 | 6 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,615 | 2026-08-04 | 6 |
+| [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,395 | 2026-08-02 | 3 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 10 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,013 | 2026-08-02 | 7 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,616 | 2026-08-04 | 7 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,935 | 2026-08-04 | 4 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,906 | 2026-08-04 | 3 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | 3 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,330 | 2026-08-04 | 5 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,090 | 2026-08-03 | 5 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,071 | 2026-08-02 | 1 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,067 | 2026-08-03 | 4 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,453 | 2026-08-06 | 1 |
 | [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,090 | 2026-08-07 | 3 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 9 | ⭐ 134 | 2026-08-01 | 2026-08-15 |
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 9 | ⭐ 59 | 2026-08-01 | 2026-08-14 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 9 | ⭐ 25,639 | 2026-08-01 | 2026-08-15 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 8 | ⭐ 291 | 2026-08-01 | 2026-08-14 |
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 8 | ⭐ 5,071 | 2026-08-01 | 2026-08-15 |
-| [google/promises](../repos/google/promises.md) | 7 | ⭐ 3,827 | 2026-08-01 | 2026-08-14 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 10 | ⭐ 134 | 2026-08-01 | 2026-08-19 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 10 | ⭐ 59 | 2026-08-01 | 2026-08-19 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 10 | ⭐ 25,633 | 2026-08-01 | 2026-08-19 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 9 | ⭐ 291 | 2026-08-01 | 2026-08-19 |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 9 | ⭐ 5,071 | 2026-08-01 | 2026-08-19 |
+| [google/promises](../repos/google/promises.md) | 8 | ⭐ 3,828 | 2026-08-01 | 2026-08-19 |
+| [Mininglamp-OSS/octo-ios](../repos/Mininglamp-OSS/octo-ios.md) | 8 | ⭐ 595 | 2026-08-07 | 2026-08-19 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 7 | ⭐ 22,013 | 2026-08-02 | 2026-08-19 |
 | [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | 7 | ⭐ 493 | 2026-08-02 | 2026-08-16 |
-| [Mininglamp-OSS/octo-ios](../repos/Mininglamp-OSS/octo-ios.md) | 7 | ⭐ 572 | 2026-08-07 | 2026-08-17 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 6 | ⭐ 21,994 | 2026-08-02 | 2026-08-16 |
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 6 | ⭐ 681 | 2026-08-02 | 2026-08-17 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | 7 | ⭐ 16,616 | 2026-08-04 | 2026-08-19 |
 
 ---
 
@@ -197,7 +197,8 @@
 - [Subito-it/SBTUITestTunnel](../repos/Subito-it/SBTUITestTunnel.md) - Enable network mocks and more in UI Tests
 - [Giphy/giphy-ios-sdk](../repos/Giphy/giphy-ios-sdk.md) - Home of the GIPHY SDK iOS example app, along with iOS SDK documentation, issue tracking, &amp; releas...
 - [stripe/stripe-terminal-ios](../repos/stripe/stripe-terminal-ios.md) - Stripe Terminal iOS SDK
+- [datatheorem/TrustKit](../repos/datatheorem/TrustKit.md) - Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.
 
 ---
 
-*Last updated: 2026-08-17T21:01:39.579Z*
+*Last updated: 2026-08-19T00:18:31.320Z*

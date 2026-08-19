@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 119
+- **Total Repositories**: 122
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,25 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) | ⭐ 27,121 | 2026-08-06 | 2 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cordiverse/cordis](../repos/cordiverse/cordis.md) | ⭐ 5,529 | 2026-08-15 | 3 |
+| [upscayl/upscayl](../repos/upscayl/upscayl.md) | ⭐ 48,561 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [liustack/modlens](../repos/liustack/modlens.md) | ⭐ 2,781 | 2026-08-15 | 2 |
+| [cordiverse/cordis](../repos/cordiverse/cordis.md) | ⭐ 6,099 | 2026-08-15 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,071 | 2026-08-17 | 1 |
+| [chaitanyagiri/munder-difflin](../repos/chaitanyagiri/munder-difflin.md) | ⭐ 2,016 | 2026-08-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agalwood/Motrix](../repos/agalwood/Motrix.md) | ⭐ 53,003 | 2026-08-17 | 1 |
+| [agalwood/Motrix](../repos/agalwood/Motrix.md) | ⭐ 53,649 | 2026-08-17 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Gitlawb/openclaude](../repos/Gitlawb/openclaude.md) | ⭐ 30,729 | 2026-08-17 | 1 |
+| [genlayerlabs/genlayer-project-boilerplate](../repos/genlayerlabs/genlayer-project-boilerplate.md) | ⭐ 15,923 | 2026-08-19 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [evershopcommerce/evershop](../repos/evershopcommerce/evershop.md) | ⭐ 10,370 | 2026-08-17 | 1 |
+| [rmyndharis/OpenWA](../repos/rmyndharis/OpenWA.md) | ⭐ 12,944 | 2026-08-19 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [bia-pain-bache/BPB-Worker-Panel](../repos/bia-pain-bache/BPB-Worker-Panel.md) | ⭐ 13,085 | 2026-08-19 | 1 |
 
 
 ---
@@ -87,7 +90,7 @@
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 127,577 | 2026-08-02 | 3 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,071 | 2026-08-17 | 1 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,166 | 2026-08-15 | 1 |
-| [angular/angular](../repos/angular/angular.md) | ⭐ 100,950 | 2026-08-04 | 2 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | 3 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 96,831 | 2026-08-04 | 2 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 90,880 | 2026-08-07 | 5 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
@@ -224,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-08-17T21:01:39.598Z*
+*Last updated: 2026-08-19T00:18:31.336Z*

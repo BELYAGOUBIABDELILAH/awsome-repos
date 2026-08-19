@@ -8,14 +8,16 @@
 
 - **Total Repositories**: 3
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-15
+- **Last Updated**: 2026-08-19
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,320 | 2026-08-01 | 12 |
 
-*No F# repositories trending today*
 
 ---
 
@@ -38,7 +40,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,320 | 2026-08-01 | 11 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,320 | 2026-08-01 | 12 |
 | [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,082 | 2026-08-09 | 1 |
 | [dotnet/performance](../repos/dotnet/performance.md) | ⭐ 771 | 2026-08-07 | 1 |
 
@@ -48,7 +50,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 11 | ⭐ 4,320 | 2026-08-01 | 2026-08-15 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 12 | ⭐ 4,320 | 2026-08-01 | 2026-08-19 |
 | [dotnet/performance](../repos/dotnet/performance.md) | 1 | ⭐ 771 | 2026-08-07 | 2026-08-07 |
 | [fsprojects/Paket](../repos/fsprojects/Paket.md) | 1 | ⭐ 2,082 | 2026-08-09 | 2026-08-09 |
 
@@ -62,4 +64,4 @@
 
 ---
 
-*Last updated: 2026-08-17T21:01:39.556Z*
+*Last updated: 2026-08-19T00:18:31.302Z*

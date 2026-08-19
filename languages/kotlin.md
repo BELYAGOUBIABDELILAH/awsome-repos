@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 99
+- **Total Repositories**: 103
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-17
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bmax121/APatch](../repos/bmax121/APatch.md) | ⭐ 7,809 | 2026-08-02 | 3 |
+| [yuzono/tachiyomi-extensions](../repos/yuzono/tachiyomi-extensions.md) | ⭐ 856 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,276 | 2026-08-03 | 3 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,354 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,974 | 2026-08-08 | 5 |
+| [cwuom/NeriPlayer](../repos/cwuom/NeriPlayer.md) | ⭐ 2,827 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WinNative-Emu/WinNative](../repos/WinNative-Emu/WinNative.md) | ⭐ 484 | 2026-08-08 | 3 |
+| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 589 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,108 | 2026-08-09 | 3 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,395 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keiyoushi/extensions-source](../repos/keiyoushi/extensions-source.md) | ⭐ 4,553 | 2026-08-16 | 2 |
+| [rushiranpise/morphe-patches](../repos/rushiranpise/morphe-patches.md) | ⭐ 417 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,288 | 2026-08-17 | 1 |
+| [WinNative-Emu/WinNative](../repos/WinNative-Emu/WinNative.md) | ⭐ 498 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [prajwalch/TorrentSearch](../repos/prajwalch/TorrentSearch.md) | ⭐ 1,997 | 2026-08-17 | 1 |
+| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,118 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nain57/Smart-AutoClicker](../repos/Nain57/Smart-AutoClicker.md) | ⭐ 3,537 | 2026-08-17 | 1 |
+| [tristinbaker/IdleFantasy](../repos/tristinbaker/IdleFantasy.md) | ⭐ 414 | 2026-08-15 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [keiyoushi/extensions-source](../repos/keiyoushi/extensions-source.md) | ⭐ 4,558 | 2026-08-16 | 3 |
 
 
 ---
@@ -58,7 +61,7 @@
 | [rommapp/argosy-launcher](../repos/rommapp/argosy-launcher.md) | ⭐ 436 | 2026-08-01 | A native Android client for RomM  for syncing, installing, and launching games on any of your mob... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [yuzono/tachiyomi-extensions](../repos/yuzono/tachiyomi-extensions.md) | ⭐ 845 | 2026-08-01 | Source code of extensions for Komikku &#x2F; Mihon &amp; forks. |
+| [yuzono/tachiyomi-extensions](../repos/yuzono/tachiyomi-extensions.md) | ⭐ 856 | 2026-08-01 | Source code of extensions for Komikku &#x2F; Mihon &amp; forks. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Fate-Grand-Automata/FGA](../repos/Fate-Grand-Automata/FGA.md) | ⭐ 2,277 | 2026-08-01 | Auto-battle app for F&#x2F;GO Android |
@@ -87,8 +90,8 @@
 |------------|-------|------------|---------------|
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,276 | 2026-08-03 | 3 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,167 | 2026-08-02 | 6 |
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,317 | 2026-08-04 | 3 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,176 | 2026-08-06 | 5 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,354 | 2026-08-04 | 4 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,395 | 2026-08-06 | 6 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 40,889 | 2026-08-03 | 2 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,182 | 2026-08-05 | 3 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 28,974 | 2026-08-08 | 5 |
@@ -115,13 +118,13 @@
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 9 | ⭐ 22,740 | 2026-08-01 | 2026-08-11 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 8 | ⭐ 4,289 | 2026-08-02 | 2026-08-14 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 6 | ⭐ 61,167 | 2026-08-02 | 2026-08-16 |
+| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 6 | ⭐ 589 | 2026-08-05 | 2026-08-19 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 6 | ⭐ 50,395 | 2026-08-06 | 2026-08-19 |
 | [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | 5 | ⭐ 1,641 | 2026-08-03 | 2026-08-14 |
-| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 5 | ⭐ 546 | 2026-08-05 | 2026-08-16 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 5 | ⭐ 50,176 | 2026-08-06 | 2026-08-10 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 5 | ⭐ 28,974 | 2026-08-08 | 2026-08-17 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 4 | ⭐ 2,129 | 2026-08-02 | 2026-08-12 |
 | [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | 4 | ⭐ 5,662 | 2026-08-02 | 2026-08-15 |
-| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | 4 | ⭐ 753 | 2026-08-04 | 2026-08-15 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | 4 | ⭐ 53,354 | 2026-08-04 | 2026-08-19 |
 
 ---
 
@@ -190,7 +193,7 @@
 - [jqssun/android-airplay-server](../repos/jqssun/android-airplay-server.md) - First open-source AirPlay receiver implementation for Android with mirroring, video and audio sup...
 - [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) - Using system APIs directly with adb&#x2F;root privileges from normal apps through a Java process start...
 - [JetBrains/koog](../repos/JetBrains/koog.md) - Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise...
-- [rushiranpise/morphe-patches](../repos/rushiranpise/morphe-patches.md) - Morphe patches I use and maintain in my spare time. Please report bugs and request patches via Gi...
+- [rushiranpise/morphe-patches](../repos/rushiranpise/morphe-patches.md) - New mask, same task.                                                                 All patches ...
 - [WinNative-Emu/WinNative](../repos/WinNative-Emu/WinNative.md) - An Android app for playing Windows games from Steam, Epic Games, GOG, and more on your device.
 - [Kyant0/AndroidLiquidGlass](../repos/Kyant0/AndroidLiquidGlass.md) - Compose Multiplatform Liquid Glass effect
 - [newo-ether/Agora](../repos/newo-ether/Agora.md) - Android BYOK LLM client with multi-provider access, agentic workflows, and remote device control.
@@ -226,7 +229,8 @@
 - [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) - A Download Manager that speeds up your downloads
 - [prajwalch/TorrentSearch](../repos/prajwalch/TorrentSearch.md) - An Android app for searching torrents across multiple providers - fast, detailed, and packed with...
 - [Nain57/Smart-AutoClicker](../repos/Nain57/Smart-AutoClicker.md) - An open-source auto clicker on images for Android
+- [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) - 一款虚拟定位软件，功能单一，纯定位，需要root以及Lsposed。
 
 ---
 
-*Last updated: 2026-08-17T21:01:39.571Z*
+*Last updated: 2026-08-19T00:18:31.313Z*

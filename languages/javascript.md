@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 79
+- **Total Repositories**: 81
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,13 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 11,048 | 2026-08-01 | 4 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 11,276 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 59,155 | 2026-08-01 | 6 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 59,234 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leaningtech/webvm](../repos/leaningtech/webvm.md) | ⭐ 17,307 | 2026-08-17 | 1 |
+| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 2,256 | 2026-08-14 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [liyupi/ai-guide](../repos/liyupi/ai-guide.md) | ⭐ 18,826 | 2026-08-19 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 30,177 | 2026-08-19 | 1 |
 
 
 ---
@@ -52,13 +58,13 @@
 | [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,475 | 2026-08-01 | Low-code programming for event-driven applications |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 11,048 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 11,276 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) | ⭐ 347 | 2026-08-01 | Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 59,155 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 59,234 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
 
 
 ---
@@ -80,7 +86,7 @@
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 59,155 | 2026-08-01 | 6 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 59,234 | 2026-08-01 | 7 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 56,691 | 2026-08-05 | 2 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,912 | 2026-08-11 | 2 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
@@ -94,16 +100,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [byoungd/up](../repos/byoungd/up.md) | 7 | ⭐ 59,234 | 2026-08-01 | 2026-08-19 |
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 7 | ⭐ 86,177 | 2026-08-05 | 2026-08-11 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 6 | ⭐ 141,656 | 2026-07-30 | 2026-08-06 |
-| [byoungd/up](../repos/byoungd/up.md) | 6 | ⭐ 59,155 | 2026-08-01 | 2026-08-17 |
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 5 | ⭐ 7,142 | 2026-08-01 | 2026-08-12 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 5 | ⭐ 11,276 | 2026-08-01 | 2026-08-19 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 5 | ⭐ 38,736 | 2026-08-06 | 2026-08-10 |
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 4 | ⭐ 11,048 | 2026-08-01 | 2026-08-17 |
 | [is-a-dev/register](../repos/is-a-dev/register.md) | 4 | ⭐ 10,983 | 2026-08-03 | 2026-08-16 |
+| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | 4 | ⭐ 2,256 | 2026-08-14 | 2026-08-19 |
 | [facebook/react](../repos/facebook/react.md) | 3 | ⭐ 219,500 | 2026-07-30 | 2026-08-05 |
 | [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | 3 | ⭐ 7,624 | 2026-08-02 | 2026-08-04 |
-| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | 3 | ⭐ 5,649 | 2026-08-02 | 2026-08-12 |
 
 ---
 
@@ -177,7 +183,7 @@
 - [airbnb/javascript](../repos/airbnb/javascript.md) - JavaScript Style Guide
 - [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) - Create beautiful slides on the web using a coding agent&#39;s frontend skills
 - [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in bro...
-- [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) - 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes vide...
+- [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) - 🎬 Lumen is the fully automated YouTube channel management with AI agents. Creates, optimizes &amp; p...
 - [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项...
 - [dataease/SQLBot](../repos/dataease/SQLBot.md) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 - [WebKit/WebKit](../repos/WebKit/WebKit.md) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other app...
@@ -188,7 +194,9 @@
 - [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 &#x2F; 阿里云盘 &#x2F; 中国移动云盘 &#x2F; 天翼云盘 &#x2F; 迅雷云盘 &#x2F; 夸克网盘 &#x2F; UC网盘...
 - [babalae/bettergi-scripts-list](../repos/babalae/bettergi-scripts-list.md) - BetterGI 的脚本仓库，内含BetterGI 的JS脚本、路径追踪、战斗策略、七圣召唤策略。
 - [leaningtech/webvm](../repos/leaningtech/webvm.md) - Virtual Machine for the Web
+- [liyupi/ai-guide](../repos/liyupi/ai-guide.md) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek &#x2F; GPT &#x2F; Gemini &#x2F; Claude &#x2F; GLM...
+- [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) - Vercel&#39;s official collection of agent skills
 
 ---
 
-*Last updated: 2026-08-17T21:01:39.567Z*
+*Last updated: 2026-08-19T00:18:31.310Z*

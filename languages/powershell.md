@@ -16,19 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,030 | 2026-08-01 | 13 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,030 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,924 | 2026-08-01 | 6 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 880 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | ⭐ 630 | 2026-08-02 | 4 |
+| [actions/python-versions](../repos/actions/python-versions.md) | ⭐ 242 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,533 | 2026-08-03 | 10 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 425 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,940 | 2026-08-06 | 3 |
+| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,036 | 2026-08-07 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [appveyor/ci](../repos/appveyor/ci.md) | ⭐ 340 | 2026-08-07 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [SharePoint/sp-dev-docs](../repos/SharePoint/sp-dev-docs.md) | ⭐ 1,359 | 2026-08-15 | 2 |
 
 
 ---
@@ -58,7 +64,7 @@
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | ⭐ 967 | 2026-08-01 | MCP Server and CLI for accessing Work IQ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 877 | 2026-08-01 | Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your su... |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 880 | 2026-08-01 | Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your su... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/AL](../repos/microsoft/AL.md) | ⭐ 878 | 2026-08-01 | Home of the Dynamics 365 Business Central AL Language extension for Visual Studio Code. Used to t... |
@@ -77,7 +83,7 @@
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,031 | 2026-08-02 | 5 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,089 | 2026-08-04 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,030 | 2026-08-01 | 13 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,030 | 2026-08-01 | 14 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,049 | 2026-08-03 | 6 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,940 | 2026-08-06 | 3 |
@@ -88,7 +94,7 @@
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,822 | 2026-08-04 | 2 |
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,638 | 2026-08-11 | 2 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,517 | 2026-08-04 | 4 |
-| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,023 | 2026-08-07 | 2 |
+| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,036 | 2026-08-07 | 3 |
 | [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,015 | 2026-08-02 | 3 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,904 | 2026-08-01 | 6 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,533 | 2026-08-03 | 10 |
@@ -100,16 +106,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 13 | ⭐ 13,030 | 2026-08-01 | 2026-08-17 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 14 | ⭐ 13,030 | 2026-08-01 | 2026-08-19 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 10 | ⭐ 880 | 2026-08-01 | 2026-08-19 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 10 | ⭐ 1,533 | 2026-08-03 | 2026-08-17 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 9 | ⭐ 877 | 2026-08-01 | 2026-08-15 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 8 | ⭐ 25,466 | 2026-08-01 | 2026-08-15 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 7 | ⭐ 425 | 2026-08-04 | 2026-08-19 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 6 | ⭐ 1,904 | 2026-08-01 | 2026-08-14 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 6 | ⭐ 5,924 | 2026-08-01 | 2026-08-17 |
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | 6 | ⭐ 967 | 2026-08-01 | 2026-08-15 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 6 | ⭐ 1,436 | 2026-08-01 | 2026-08-12 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | 6 | ⭐ 10,049 | 2026-08-03 | 2026-08-11 |
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 6 | ⭐ 422 | 2026-08-04 | 2026-08-15 |
 
 ---
 
@@ -155,4 +161,4 @@
 
 ---
 
-*Last updated: 2026-08-17T21:01:39.583Z*
+*Last updated: 2026-08-19T00:18:31.324Z*

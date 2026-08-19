@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 24
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-17
+- **Last Updated**: 2026-08-19
 
 ---
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,016 | 2026-08-01 | 13 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,018 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 59,782 | 2026-08-01 | 16 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 59,833 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,041 | 2026-08-01 | 10 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 16,836 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 16,820 | 2026-08-01 | 15 |
+| [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | ⭐ 3,533 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rockorager/libvaxis](../repos/rockorager/libvaxis.md) | ⭐ 1,964 | 2026-08-01 | 7 |
+| [david-vanderson/dvui](../repos/david-vanderson/dvui.md) | ⭐ 1,632 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,499 | 2026-08-01 | 12 |
+| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,509 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PixelGuys/Cubyz](../repos/PixelGuys/Cubyz.md) | ⭐ 3,613 | 2026-08-01 | 5 |
+| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 34,078 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [riverwm/river](../repos/riverwm/river.md) | ⭐ 4,246 | 2026-08-01 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [zml/zml](../repos/zml/zml.md) | ⭐ 3,981 | 2026-08-01 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | ⭐ 8,030 | 2026-08-04 | 9 |
+| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | ⭐ 8,031 | 2026-08-04 | 10 |
 
 
 ---
@@ -52,28 +46,28 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,016 | 2026-08-01 | Pacman alternative for ArchLinux, designed with you in mind. |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,018 | 2026-08-01 | Pacman alternative for ArchLinux, designed with you in mind. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 59,782 | 2026-08-01 | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-nativ... |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 59,833 | 2026-08-01 | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-nativ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,041 | 2026-08-01 | Session attach&#x2F;detach for the terminal |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 16,820 | 2026-08-01 | The financial transactions database designed for mission critical safety and performance. |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 16,836 | 2026-08-01 | The financial transactions database designed for mission critical safety and performance. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | ⭐ 3,534 | 2026-08-01 | Better GitHub statistics images for your profile, with stats from private repos too |
+| [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | ⭐ 3,533 | 2026-08-01 | Better GitHub statistics images for your profile, with stats from private repos too |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [david-vanderson/dvui](../repos/david-vanderson/dvui.md) | ⭐ 1,607 | 2026-08-01 | Immediate Zig GUI for Apps and Games |
+| [david-vanderson/dvui](../repos/david-vanderson/dvui.md) | ⭐ 1,632 | 2026-08-01 | Immediate Zig GUI for Apps and Games |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rockorager/libvaxis](../repos/rockorager/libvaxis.md) | ⭐ 1,964 | 2026-08-01 | a modern tui library written in zig |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,499 | 2026-08-01 | A CLI tool to switch and manage Codex accounts |
+| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,509 | 2026-08-01 | A CLI tool to switch and manage Codex accounts |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PixelGuys/Cubyz](../repos/PixelGuys/Cubyz.md) | ⭐ 3,613 | 2026-08-01 | Voxel sandbox game with a large render distance, procedurally generated content and some cool gra... |
@@ -88,17 +82,17 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 59,782 | 2026-08-01 | 16 |
-| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 33,938 | 2026-08-02 | 10 |
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 16,820 | 2026-08-01 | 15 |
-| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | ⭐ 8,030 | 2026-08-04 | 9 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 59,833 | 2026-08-01 | 17 |
+| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 34,078 | 2026-08-02 | 11 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 16,836 | 2026-08-01 | 16 |
+| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | ⭐ 8,031 | 2026-08-04 | 10 |
 | [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,492 | 2026-08-02 | 12 |
 | [riverwm/river](../repos/riverwm/river.md) | ⭐ 4,246 | 2026-08-01 | 6 |
 | [zml/zml](../repos/zml/zml.md) | ⭐ 3,981 | 2026-08-01 | 8 |
 | [PixelGuys/Cubyz](../repos/PixelGuys/Cubyz.md) | ⭐ 3,613 | 2026-08-01 | 5 |
-| [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | ⭐ 3,534 | 2026-08-01 | 7 |
+| [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | ⭐ 3,533 | 2026-08-01 | 8 |
 | [pedropark99/zig-book](../repos/pedropark99/zig-book.md) | ⭐ 2,668 | 2026-08-02 | 2 |
-| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,499 | 2026-08-01 | 12 |
+| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,509 | 2026-08-01 | 13 |
 | [ZigEmbeddedGroup/microzig](../repos/ZigEmbeddedGroup/microzig.md) | ⭐ 2,240 | 2026-08-03 | 1 |
 | [neurocyte/flow](../repos/neurocyte/flow.md) | ⭐ 2,166 | 2026-08-02 | 4 |
 | [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,041 | 2026-08-01 | 10 |
@@ -106,8 +100,8 @@
 | [rockorager/libvaxis](../repos/rockorager/libvaxis.md) | ⭐ 1,964 | 2026-08-01 | 7 |
 | [raylib-zig/raylib-zig](../repos/raylib-zig/raylib-zig.md) | ⭐ 1,852 | 2026-08-07 | 3 |
 | [Vexu/arocc](../repos/Vexu/arocc.md) | ⭐ 1,785 | 2026-08-02 | 2 |
-| [david-vanderson/dvui](../repos/david-vanderson/dvui.md) | ⭐ 1,607 | 2026-08-01 | 1 |
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,016 | 2026-08-01 | 13 |
+| [david-vanderson/dvui](../repos/david-vanderson/dvui.md) | ⭐ 1,632 | 2026-08-01 | 2 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,018 | 2026-08-01 | 14 |
 
 ---
 
@@ -115,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | 16 | ⭐ 59,782 | 2026-08-01 | 2026-08-17 |
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | 15 | ⭐ 16,820 | 2026-08-01 | 2026-08-17 |
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 13 | ⭐ 1,016 | 2026-08-01 | 2026-08-17 |
-| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | 12 | ⭐ 2,499 | 2026-08-01 | 2026-08-17 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | 17 | ⭐ 59,833 | 2026-08-01 | 2026-08-19 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | 16 | ⭐ 16,836 | 2026-08-01 | 2026-08-19 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 14 | ⭐ 1,018 | 2026-08-01 | 2026-08-19 |
+| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | 13 | ⭐ 2,509 | 2026-08-01 | 2026-08-19 |
 | [vercel-labs/native](../repos/vercel-labs/native.md) | 12 | ⭐ 7,492 | 2026-08-02 | 2026-08-16 |
+| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | 11 | ⭐ 34,078 | 2026-08-02 | 2026-08-19 |
 | [neurosnap/zmx](../repos/neurosnap/zmx.md) | 10 | ⭐ 2,041 | 2026-08-01 | 2026-08-17 |
-| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | 10 | ⭐ 33,938 | 2026-08-02 | 2026-08-16 |
+| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 10 | ⭐ 8,031 | 2026-08-04 | 2026-08-19 |
 | [nullclaw/nullhub](../repos/nullclaw/nullhub.md) | 9 | ⭐ 2,015 | 2026-08-02 | 2026-08-10 |
-| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 9 | ⭐ 8,030 | 2026-08-04 | 2026-08-17 |
-| [zml/zml](../repos/zml/zml.md) | 8 | ⭐ 3,981 | 2026-08-01 | 2026-08-17 |
+| [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | 8 | ⭐ 3,533 | 2026-08-01 | 2026-08-19 |
 
 ---
 
@@ -157,4 +151,4 @@
 
 ---
 
-*Last updated: 2026-08-17T21:01:39.616Z*
+*Last updated: 2026-08-19T00:18:31.343Z*

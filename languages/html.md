@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 49
+- **Total Repositories**: 51
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-16
 
@@ -16,25 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 7,098 | 2026-08-03 | 4 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,705 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 13,833 | 2026-08-04 | 9 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 20,111 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,102 | 2026-08-05 | 5 |
+| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 7,106 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 132,042 | 2026-08-08 | 7 |
+| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | ⭐ 8,501 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,917 | 2026-08-09 | 5 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 14,211 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | ⭐ 1,712 | 2026-08-14 | 4 |
+| [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | ⭐ 1,757 | 2026-08-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/training-kit](../repos/github/training-kit.md) | ⭐ 5,060 | 2026-08-15 | 2 |
+| [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,025 | 2026-08-19 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [zhaochenyang20/Awesome-ML-SYS-Tutorial](../repos/zhaochenyang20/Awesome-ML-SYS-Tutorial.md) | ⭐ 6,890 | 2026-08-19 | 1 |
 
 
 ---
@@ -49,7 +52,7 @@
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,616 | 2026-08-01 | A collection of several hundred online tools for OSINT |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,696 | 2026-08-01 | :blue_book: Home Assistant User documentation |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,705 | 2026-08-01 | :blue_book: Home Assistant User documentation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 7,828 | 2026-08-01 | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional... |
@@ -64,7 +67,7 @@
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,774 | 2026-08-01 | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 18,300 | 2026-08-01 | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment dat... |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 20,111 | 2026-08-01 | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment dat... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,095 | 2026-08-01 | Awesome Docker Compose samples |
@@ -81,6 +84,7 @@
 |------------|-------|------------|---------------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,048 | 2026-08-03 | 3 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 132,042 | 2026-08-08 | 7 |
+| [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,025 | 2026-08-19 | 1 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,477 | 2026-08-01 | 6 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,095 | 2026-08-01 | 4 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,483 | 2026-08-07 | 1 |
@@ -89,16 +93,15 @@
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,091 | 2026-08-03 | 4 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,854 | 2026-08-04 | 4 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,307 | 2026-08-03 | 1 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 20,111 | 2026-08-01 | 2 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 18,499 | 2026-08-12 | 3 |
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 18,300 | 2026-08-01 | 1 |
 | [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,567 | 2026-08-02 | 2 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,434 | 2026-08-04 | 4 |
 | [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,264 | 2026-08-05 | 1 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 14,211 | 2026-08-04 | 10 |
 | [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,067 | 2026-08-07 | 1 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 13,833 | 2026-08-04 | 9 |
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 11,860 | 2026-08-01 | 1 |
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,774 | 2026-08-01 | 3 |
-| [cotes2020/jekyll-theme-chirpy](../repos/cotes2020/jekyll-theme-chirpy.md) | ⭐ 10,206 | 2026-08-05 | 1 |
 
 ---
 
@@ -106,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 9 | ⭐ 13,833 | 2026-08-04 | 2026-08-17 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 10 | ⭐ 14,211 | 2026-08-04 | 2026-08-19 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 7 | ⭐ 132,042 | 2026-08-08 | 2026-08-17 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 6 | ⭐ 9,705 | 2026-08-01 | 2026-08-19 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 6 | ⭐ 64,477 | 2026-08-01 | 2026-08-14 |
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 5 | ⭐ 9,696 | 2026-08-01 | 2026-08-15 |
+| [averygan/reclip](../repos/averygan/reclip.md) | 5 | ⭐ 7,106 | 2026-08-03 | 2026-08-19 |
 | [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 5 | ⭐ 6,102 | 2026-08-05 | 2026-08-17 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 5 | ⭐ 28,917 | 2026-08-09 | 2026-08-17 |
+| [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | 5 | ⭐ 1,757 | 2026-08-14 | 2026-08-19 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | 4 | ⭐ 46,095 | 2026-08-01 | 2026-08-14 |
-| [averygan/reclip](../repos/averygan/reclip.md) | 4 | ⭐ 7,098 | 2026-08-03 | 2026-08-17 |
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 4 | ⭐ 27,091 | 2026-08-03 | 2026-08-12 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 4 | ⭐ 23,854 | 2026-08-04 | 2026-08-12 |
+| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 4 | ⭐ 8,501 | 2026-08-03 | 2026-08-19 |
 
 ---
 
@@ -170,7 +173,9 @@
 - [colonelpanichacks/flock-you](../repos/colonelpanichacks/flock-you.md) - flock cam detection
 - [judge0/judge0](../repos/judge0/judge0.md) - Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.
 - [nova-video-player/aos-AVP](../repos/nova-video-player/aos-AVP.md) - NOVA opeN sOurce Video plAyer: main repository to build them all
+- [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) - 计算机自学指南
+- [zhaochenyang20/Awesome-ML-SYS-Tutorial](../repos/zhaochenyang20/Awesome-ML-SYS-Tutorial.md) - My learning notes for ML SYS.
 
 ---
 
-*Last updated: 2026-08-17T21:01:39.562Z*
+*Last updated: 2026-08-19T00:18:31.306Z*

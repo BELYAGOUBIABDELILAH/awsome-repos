@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 103
+- **Total Repositories**: 106
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-05
 
@@ -16,22 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel/turborepo](../repos/vercel/turborepo.md) | ⭐ 30,904 | 2026-08-02 | 2 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 26,255 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 25,845 | 2026-08-03 | 3 |
+| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 4,568 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
+| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 16,075 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 1,965 | 2026-08-17 | 1 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 2,713 | 2026-08-17 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SlimeBoyOwO/LingChat](../repos/SlimeBoyOwO/LingChat.md) | ⭐ 1,457 | 2026-08-17 | 1 |
+| [SlimeBoyOwO/LingChat](../repos/SlimeBoyOwO/LingChat.md) | ⭐ 1,550 | 2026-08-17 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sollimann/bonsai](../repos/Sollimann/bonsai.md) | ⭐ 949 | 2026-08-17 | 1 |
+| [vectordotdev/vector](../repos/vectordotdev/vector.md) | ⭐ 22,396 | 2026-08-19 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [memvid/memvid](../repos/memvid/memvid.md) | ⭐ 16,400 | 2026-08-19 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [cloudflare/quiche](../repos/cloudflare/quiche.md) | ⭐ 11,781 | 2026-08-19 | 1 |
 
 
 ---
@@ -110,9 +116,9 @@
 | [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | 4 | ⭐ 7,528 | 2026-08-01 | 2026-08-15 |
 | [moghtech/komodo](../repos/moghtech/komodo.md) | 4 | ⭐ 11,836 | 2026-08-02 | 2026-08-05 |
 | [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | 4 | ⭐ 12,324 | 2026-08-03 | 2026-08-06 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 4 | ⭐ 26,255 | 2026-08-03 | 2026-08-19 |
 | [katanemo/plano](../repos/katanemo/plano.md) | 4 | ⭐ 6,977 | 2026-08-03 | 2026-08-06 |
 | [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | 4 | ⭐ 5,377 | 2026-08-03 | 2026-08-06 |
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | 4 | ⭐ 43,464 | 2026-08-05 | 2026-08-12 |
 
 ---
 
@@ -221,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-08-17T21:01:39.590Z*
+*Last updated: 2026-08-19T00:18:31.330Z*

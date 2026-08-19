@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 136
+- **Total Repositories**: 138
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,737 | 2026-08-01 | 5 |
+| [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,757 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,642 | 2026-08-02 | 5 |
+| [debezium/debezium](../repos/debezium/debezium.md) | ⭐ 13,023 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 26,199 | 2026-08-02 | 5 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 26,225 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 32,005 | 2026-08-04 | 2 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,828 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/cassandra](../repos/apache/cassandra.md) | ⭐ 10,070 | 2026-08-04 | 3 |
+| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,550 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,712 | 2026-08-05 | 3 |
+| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 4,895 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mininglamp-OSS/octo-android](../repos/Mininglamp-OSS/octo-android.md) | ⭐ 549 | 2026-08-07 | 5 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,470 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [eddyizm/tempus](../repos/eddyizm/tempus.md) | ⭐ 1,203 | 2026-08-17 | 1 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,753 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [magefree/mage](../repos/magefree/mage.md) | ⭐ 2,335 | 2026-08-17 | 1 |
+| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,473 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FCL-Team/FoldCraftLauncher](../repos/FCL-Team/FoldCraftLauncher.md) | ⭐ 4,557 | 2026-08-17 | 1 |
+| [apache/fluss](../repos/apache/fluss.md) | ⭐ 2,098 | 2026-08-08 | 3 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,412 | 2026-08-01 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,737 | 2026-08-01 | morphe patches for twitter and instagram |
+| [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,757 | 2026-08-01 | morphe patches for twitter and instagram |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alibaba/fastjson2](../repos/alibaba/fastjson2.md) | ⭐ 4,372 | 2026-08-01 | 🚄 FASTJSON2 is a Java JSON  library with excellent performance. |
@@ -90,21 +90,21 @@
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 129,236 | 2026-08-04 | 2 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,282 | 2026-08-04 | 3 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,827 | 2026-08-02 | 5 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,828 | 2026-08-02 | 6 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,145 | 2026-08-03 | 5 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,155 | 2026-08-04 | 4 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,197 | 2026-08-08 | 2 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,889 | 2026-08-02 | 6 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,438 | 2026-08-04 | 5 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,470 | 2026-08-04 | 6 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,036 | 2026-08-12 | 1 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,318 | 2026-08-07 | 1 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,712 | 2026-08-05 | 3 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,753 | 2026-08-05 | 4 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,299 | 2026-08-02 | 3 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,618 | 2026-08-06 | 3 |
 | [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,462 | 2026-08-08 | 2 |
-| [apache/kafka](../repos/apache/kafka.md) | ⭐ 33,533 | 2026-08-12 | 1 |
+| [apache/kafka](../repos/apache/kafka.md) | ⭐ 33,546 | 2026-08-12 | 2 |
 | [alibaba/nacos](../repos/alibaba/nacos.md) | ⭐ 33,271 | 2026-08-15 | 1 |
 | [binarywang/WxJava](../repos/binarywang/WxJava.md) | ⭐ 33,017 | 2026-08-12 | 1 |
 | [conductor-oss/conductor](../repos/conductor-oss/conductor.md) | ⭐ 32,066 | 2026-08-09 | 1 |
@@ -115,13 +115,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [crimera/piko](../repos/crimera/piko.md) | 6 | ⭐ 4,757 | 2026-08-01 | 2026-08-19 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 6 | ⭐ 26,225 | 2026-08-02 | 2026-08-19 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 6 | ⭐ 77,828 | 2026-08-02 | 2026-08-19 |
 | [google/guava](../repos/google/guava.md) | 6 | ⭐ 51,889 | 2026-08-02 | 2026-08-09 |
-| [crimera/piko](../repos/crimera/piko.md) | 5 | ⭐ 4,737 | 2026-08-01 | 2026-08-17 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 6 | ⭐ 51,470 | 2026-08-04 | 2026-08-19 |
 | [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | 5 | ⭐ 28,642 | 2026-08-02 | 2026-08-17 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 5 | ⭐ 26,199 | 2026-08-02 | 2026-08-17 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 5 | ⭐ 77,827 | 2026-08-02 | 2026-08-15 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 5 | ⭐ 72,145 | 2026-08-03 | 2026-08-09 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 5 | ⭐ 51,438 | 2026-08-04 | 2026-08-15 |
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 5 | ⭐ 5,076 | 2026-08-05 | 2026-08-15 |
 | [Mininglamp-OSS/octo-android](../repos/Mininglamp-OSS/octo-android.md) | 5 | ⭐ 549 | 2026-08-07 | 2026-08-17 |
 | [github/copilot-sdk](../repos/github/copilot-sdk.md) | 4 | ⭐ 10,412 | 2026-08-01 | 2026-08-15 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-17T21:01:39.565Z*
+*Last updated: 2026-08-19T00:18:31.309Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Clojure |
 | **License** | Not specified |
-| **Stars** | ⭐ 2,455 |
-| **Forks** | 🍴 251 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 2,483 |
+| **Forks** | 🍴 252 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #13 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 17, 2026 |
+| **Last Seen** | Aug 19, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #13
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 8 days
 
 ---
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-08-17T21:01:41.343Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-08-19T00:18:32.810Z*  
+*Data from 13 trending reports*
