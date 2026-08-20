@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 67
+- **Total Repositories**: 70
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-19
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 29,118 | 2026-08-01 | 10 |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 281 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,998 | 2026-08-01 | 9 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,416 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 280 | 2026-08-01 | 3 |
+| [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,100 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Footagesus/WindUI](../repos/Footagesus/WindUI.md) | ⭐ 329 | 2026-08-02 | 6 |
+| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,295 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EllesmereGaming/EllesmereUI](../repos/EllesmereGaming/EllesmereUI.md) | ⭐ 177 | 2026-08-03 | 7 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 7,994 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yetone/avante.nvim](../repos/yetone/avante.nvim.md) | ⭐ 18,120 | 2026-08-03 | 5 |
+| [PathOfBuildingCommunity/PathOfBuilding-PoE2](../repos/PathOfBuildingCommunity/PathOfBuilding-PoE2.md) | ⭐ 1,853 | 2026-08-20 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,289 | 2026-08-04 | 8 |
+| [FrSkyRC/ETHOS-Feedback-Community](../repos/FrSkyRC/ETHOS-Feedback-Community.md) | ⭐ 243 | 2026-08-20 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,198 | 2026-08-04 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,443 | 2026-08-04 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,438 | 2026-08-06 | 3 |
+| [3rd/image.nvim](../repos/3rd/image.nvim.md) | ⭐ 2,061 | 2026-08-20 | 1 |
 
 
 ---
@@ -76,10 +70,10 @@
 | [stevearc/conform.nvim](../repos/stevearc/conform.nvim.md) | ⭐ 5,303 | 2026-08-01 | Lightweight yet powerful formatter plugin for Neovim |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 280 | 2026-08-01 | A beta Dota2 Bot Script aims to provide better bot game experience |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 281 | 2026-08-01 | A beta Dota2 Bot Script aims to provide better bot game experience |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,377 | 2026-08-01 | 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 &#x2F; 11631066 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,416 | 2026-08-01 | 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 &#x2F; 11631066 |
 
 
 ---
@@ -89,7 +83,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Kong/kong](../repos/Kong/kong.md) | ⭐ 43,998 | 2026-08-01 | 9 |
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,289 | 2026-08-04 | 8 |
+| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,295 | 2026-08-04 | 9 |
 | [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 29,118 | 2026-08-01 | 10 |
 | [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) | ⭐ 28,211 | 2026-08-01 | 1 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,198 | 2026-08-04 | 6 |
@@ -102,8 +96,8 @@
 | [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,443 | 2026-08-04 | 3 |
 | [nvim-tree/nvim-tree.lua](../repos/nvim-tree/nvim-tree.lua.md) | ⭐ 8,613 | 2026-08-05 | 1 |
 | [folke/tokyonight.nvim](../repos/folke/tokyonight.nvim.md) | ⭐ 8,161 | 2026-08-05 | 1 |
-| [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,084 | 2026-08-02 | 2 |
-| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 7,988 | 2026-08-08 | 4 |
+| [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,100 | 2026-08-02 | 3 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 7,994 | 2026-08-08 | 5 |
 | [awesomeWM/awesome](../repos/awesomeWM/awesome.md) | ⭐ 6,934 | 2026-08-04 | 1 |
 | [stevearc/oil.nvim](../repos/stevearc/oil.nvim.md) | ⭐ 6,808 | 2026-08-04 | 1 |
 | [rebelot/kanagawa.nvim](../repos/rebelot/kanagawa.nvim.md) | ⭐ 6,323 | 2026-08-12 | 1 |
@@ -117,10 +111,10 @@
 |------------|---------------|-------|------------|-----------|
 | [koreader/koreader](../repos/koreader/koreader.md) | 10 | ⭐ 29,118 | 2026-08-01 | 2026-08-19 |
 | [Kong/kong](../repos/Kong/kong.md) | 9 | ⭐ 43,998 | 2026-08-01 | 2026-08-19 |
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 8 | ⭐ 31,289 | 2026-08-04 | 2026-08-19 |
+| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 9 | ⭐ 31,295 | 2026-08-04 | 2026-08-20 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | 8 | ⭐ 4,416 | 2026-08-01 | 2026-08-20 |
 | [finlater/weread.koplugin](../repos/finlater/weread.koplugin.md) | 8 | ⭐ 538 | 2026-08-07 | 2026-08-17 |
 | [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 7 | ⭐ 632 | 2026-08-01 | 2026-08-17 |
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | 7 | ⭐ 4,377 | 2026-08-01 | 2026-08-14 |
 | [EllesmereGaming/EllesmereUI](../repos/EllesmereGaming/EllesmereUI.md) | 7 | ⭐ 177 | 2026-08-03 | 2026-08-19 |
 | [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 7 | ⭐ 18,831 | 2026-08-03 | 2026-08-14 |
 | [Footagesus/WindUI](../repos/Footagesus/WindUI.md) | 6 | ⭐ 329 | 2026-08-02 | 2026-08-19 |
@@ -197,7 +191,10 @@
 - [b0o/SchemaStore.nvim](../repos/b0o/SchemaStore.nvim.md) - 🛍 JSON schemas for Neovim
 - [zimbadev/crystalserver](../repos/zimbadev/crystalserver.md) - Crystal Server for 15.25 protocol with Vocation Balancing.
 - [gaboolic/rime-frost](../repos/gaboolic/rime-frost.md) - 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，经评测准确性已经不输于商业...
+- [PathOfBuildingCommunity/PathOfBuilding-PoE2](../repos/PathOfBuildingCommunity/PathOfBuilding-PoE2.md) - 
+- [FrSkyRC/ETHOS-Feedback-Community](../repos/FrSkyRC/ETHOS-Feedback-Community.md) - Feedback &amp; suggestions are welcomed here for ETHOS by FrSky
+- [3rd/image.nvim](../repos/3rd/image.nvim.md) - 🖼️ Bringing images to Neovim.
 
 ---
 
-*Last updated: 2026-08-19T21:01:45.259Z*
+*Last updated: 2026-08-20T21:01:31.846Z*

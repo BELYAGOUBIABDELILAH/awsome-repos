@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 112
+- **Total Repositories**: 113
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-16
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,485 | 2026-08-01 | 3 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,386 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,678 | 2026-08-01 | 5 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 19,138 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,246 | 2026-08-01 | 3 |
+| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 5,406 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 18,603 | 2026-08-02 | 9 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,206 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,960 | 2026-08-02 | 7 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 15,180 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,195 | 2026-08-03 | 7 |
+| [actions/runner](../repos/actions/runner.md) | ⭐ 6,203 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,205 | 2026-08-04 | 6 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,249 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DataDog/dd-trace-dotnet](../repos/DataDog/dd-trace-dotnet.md) | ⭐ 574 | 2026-08-04 | 3 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,468 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,238 | 2026-08-05 | 5 |
+| [mRemoteNG/mRemoteNG](../repos/mRemoteNG/mRemoteNG.md) | ⭐ 11,059 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,978 | 2026-08-06 | 4 |
+| [umbraco/Umbraco-CMS](../repos/umbraco/Umbraco-CMS.md) | ⭐ 5,225 | 2026-08-14 | 2 |
 
 
 ---
@@ -79,7 +79,7 @@
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,864 | 2026-08-01 | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&amp;more) - cross-platform! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,374 | 2026-08-01 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications ... |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,386 | 2026-08-01 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications ... |
 
 
 ---
@@ -94,9 +94,9 @@
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,678 | 2026-08-01 | 5 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,194 | 2026-08-14 | 2 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,478 | 2026-08-03 | 5 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,374 | 2026-08-01 | 5 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,386 | 2026-08-01 | 6 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,700 | 2026-08-08 | 1 |
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,449 | 2026-08-05 | 2 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,468 | 2026-08-05 | 3 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | 2026-08-01 | 7 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,506 | 2026-08-10 | 2 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,864 | 2026-08-01 | 3 |
@@ -106,7 +106,7 @@
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,610 | 2026-08-01 | 4 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,885 | 2026-08-01 | 4 |
 | [Unity-Technologies/ml-agents](../repos/Unity-Technologies/ml-agents.md) | ⭐ 19,636 | 2026-08-19 | 1 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 18,603 | 2026-08-02 | 9 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 19,138 | 2026-08-02 | 10 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,205 | 2026-08-04 | 6 |
 
 ---
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 9 | ⭐ 18,603 | 2026-08-02 | 2026-08-19 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 10 | ⭐ 19,138 | 2026-08-02 | 2026-08-20 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 9 | ⭐ 14,848 | 2026-08-02 | 2026-08-17 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 8 | ⭐ 5,206 | 2026-08-03 | 2026-08-20 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 7 | ⭐ 26,795 | 2026-08-01 | 2026-08-08 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 7 | ⭐ 113,982 | 2026-08-02 | 2026-08-16 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 7 | ⭐ 55,960 | 2026-08-02 | 2026-08-19 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 7 | ⭐ 5,195 | 2026-08-03 | 2026-08-19 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 6 | ⭐ 3,573 | 2026-08-01 | 2026-08-15 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 6 | ⭐ 38,386 | 2026-08-01 | 2026-08-20 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | 6 | ⭐ 18,205 | 2026-08-04 | 2026-08-19 |
-| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | 6 | ⭐ 13,331 | 2026-08-05 | 2026-08-11 |
-| [files-community/Files](../repos/files-community/Files.md) | 5 | ⭐ 44,678 | 2026-08-01 | 2026-08-19 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | 6 | ⭐ 6,249 | 2026-08-05 | 2026-08-20 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-19T21:01:45.218Z*
+*Last updated: 2026-08-20T21:01:31.812Z*

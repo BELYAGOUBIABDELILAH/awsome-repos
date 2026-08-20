@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vue |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 3,315 |
-| **Forks** | 🍴 1,328 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 3,360 |
+| **Forks** | 🍴 1,370 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 11, 2026 |
+| **Last Seen** | Aug 20, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 5 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`crm`](../../topics/crm.md) [`crm-connections`](../../topics/crm-connections.md) [`crm-platform`](../../topics/crm-platform.md) [`crm-software`](../../topics/crm-software.md) [`crm-solution`](../../topics/crm-solution.md) [`crm-system`](../../topics/crm-system.md) [`customer`](../../topics/customer.md) [`frappe`](../../topics/frappe.md) [`frappe-app`](../../topics/frappe-app.md) [`javascript`](../../topics/javascript.md) [`marketing`](../../topics/marketing.md) [`open-source`](../../topics/open-source.md) [`python`](../../topics/python.md) [`sales`](../../topics/sales.md) [`vue`](../../topics/vue.md) [`vuejs3`](../../topics/vuejs3.md) [`web`](../../topics/web.md) [`webapp`](../../topics/webapp.md) 
+[`crm`](../../topics/crm.md) [`crm-connections`](../../topics/crm-connections.md) [`crm-platform`](../../topics/crm-platform.md) [`crm-software`](../../topics/crm-software.md) [`crm-solution`](../../topics/crm-solution.md) [`crm-system`](../../topics/crm-system.md) [`customer`](../../topics/customer.md) [`frappe`](../../topics/frappe.md) [`frappe-app`](../../topics/frappe-app.md) [`javascript`](../../topics/javascript.md) [`low-code`](../../topics/low-code.md) [`marketing`](../../topics/marketing.md) [`open-source`](../../topics/open-source.md) [`python`](../../topics/python.md) [`sales`](../../topics/sales.md) [`vue`](../../topics/vue.md) [`vuejs3`](../../topics/vuejs3.md) [`web`](../../topics/web.md) [`webapp`](../../topics/webapp.md) 
 
 ### Curated Categories
 `Web Development` `Systems Programming` 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 3,315+ stars, strong contributor base |
+| **Community** | Very Active | 3,360+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-19T21:01:46.837Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-08-20T21:01:33.427Z*  
+*Data from 10 trending reports*

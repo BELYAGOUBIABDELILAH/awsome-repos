@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Swift |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 1,612 |
-| **Forks** | 🍴 150 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 1,649 |
+| **Forks** | 🍴 155 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 12, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Aug 20, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
-- **Longest Streak**: 1 days
+- **Trending Days**: 4
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 70&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-19T21:01:48.456Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-20T21:01:35.060Z*  
+*Data from 4 trending reports*

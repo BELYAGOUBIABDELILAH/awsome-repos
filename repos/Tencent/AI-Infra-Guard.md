@@ -1,0 +1,95 @@
+# Tencent&#x2F;AI-Infra-Guard
+
+> A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tencent&#x2F;AI-Infra-Guard) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | Python |
+| **License** | Apache-2.0 |
+| **Stars** | ⭐ 4,899 |
+| **Forks** | 🍴 479 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #16 |
+
+| **First Seen** | Aug 20, 2026 |
+| **Last Seen** | Aug 20, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in Python or agent*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #16
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`agent`](../../topics/agent.md) [`agent-security`](../../topics/agent-security.md) [`ai-infra`](../../topics/ai-infra.md) [`ai-red-teaming`](../../topics/ai-red-teaming.md) [`ai-security`](../../topics/ai-security.md) [`llm`](../../topics/llm.md) [`llm-evaluation`](../../topics/llm-evaluation.md) [`llm-jailbreak`](../../topics/llm-jailbreak.md) [`llm-security`](../../topics/llm-security.md) [`mcp-scan`](../../topics/mcp-scan.md) [`openclaw-security`](../../topics/openclaw-security.md) [`prompt-injection`](../../topics/prompt-injection.md) [`prompt-security`](../../topics/prompt-security.md) [`scanner`](../../topics/scanner.md) [`security`](../../topics/security.md) [`security-tools`](../../topics/security-tools.md) [`skill-scanner`](../../topics/skill-scanner.md) [`skills-security`](../../topics/skills-security.md) [`vulnerability`](../../topics/vulnerability.md) 
+
+### Curated Categories
+`Artificial Intelligence` `Large Language Models` `Cybersecurity` `Systems Programming` `Developer Tools` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Limited | May require reading source code |
+| **Community** | Small | Niche but dedicated community |
+| **Maturity** | Stable | Established project |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in Python
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: Peak: #16
+
+
+---
+
+*Last updated: 2026-08-20T21:01:35.497Z*  
+*Data from 1 trending reports*

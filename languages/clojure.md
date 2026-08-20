@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 8
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-19
+- **Last Updated**: 2026-08-20
 
 ---
 
@@ -16,22 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,838 | 2026-08-01 | 15 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,852 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 81,930 | 2026-08-01 | 10 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 81,938 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 58,848 | 2026-08-01 | 14 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 58,941 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,504 | 2026-08-01 | 16 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,532 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 2,483 | 2026-08-02 | 13 |
+| [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,020 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [logseq/og](../repos/logseq/og.md) | ⭐ 235 | 2026-08-02 | 5 |
+| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 2,542 | 2026-08-02 | 14 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [logseq/og](../repos/logseq/og.md) | ⭐ 243 | 2026-08-02 | 6 |
 
 
 ---
@@ -40,28 +43,28 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,838 | 2026-08-01 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone ... |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,852 | 2026-08-01 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 81,930 | 2026-08-01 | Free monospaced font with programming ligatures |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 81,938 | 2026-08-01 | Free monospaced font with programming ligatures |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 58,848 | 2026-08-01 | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 58,941 | 2026-08-01 | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,504 | 2026-08-01 | A privacy-first, open-source platform for knowledge management and collaboration. Download link: ... |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,532 | 2026-08-01 | A privacy-first, open-source platform for knowledge management and collaboration. Download link: ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cognitect-labs/test-runner](../repos/cognitect-labs/test-runner.md) | ⭐ 308 | 2026-08-01 | A test runner for clojure.test |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,019 | 2026-08-02 | a free (libre) open source, mobile OS for Ethereum |
+| [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,020 | 2026-08-02 | a free (libre) open source, mobile OS for Ethereum |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 2,483 | 2026-08-02 | A simple tool for coordinating several AI agents. |
+| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 2,542 | 2026-08-02 | A simple tool for coordinating several AI agents. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [logseq/og](../repos/logseq/og.md) | ⭐ 235 | 2026-08-02 | Logseq og (file version) |
+| [logseq/og](../repos/logseq/og.md) | ⭐ 243 | 2026-08-02 | Logseq og (file version) |
 
 
 ---
@@ -70,14 +73,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 81,930 | 2026-08-01 | 10 |
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 58,848 | 2026-08-01 | 14 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,838 | 2026-08-01 | 15 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,504 | 2026-08-01 | 16 |
-| [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,019 | 2026-08-02 | 7 |
-| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 2,483 | 2026-08-02 | 13 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 81,938 | 2026-08-01 | 11 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 58,941 | 2026-08-01 | 15 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,852 | 2026-08-01 | 16 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,532 | 2026-08-01 | 17 |
+| [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,020 | 2026-08-02 | 8 |
+| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 2,542 | 2026-08-02 | 14 |
 | [cognitect-labs/test-runner](../repos/cognitect-labs/test-runner.md) | ⭐ 308 | 2026-08-01 | 11 |
-| [logseq/og](../repos/logseq/og.md) | ⭐ 235 | 2026-08-02 | 5 |
+| [logseq/og](../repos/logseq/og.md) | ⭐ 243 | 2026-08-02 | 6 |
 
 ---
 
@@ -85,14 +88,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [logseq/logseq](../repos/logseq/logseq.md) | 16 | ⭐ 44,504 | 2026-08-01 | 2026-08-19 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 15 | ⭐ 48,838 | 2026-08-01 | 2026-08-19 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 14 | ⭐ 58,848 | 2026-08-01 | 2026-08-19 |
-| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | 13 | ⭐ 2,483 | 2026-08-02 | 2026-08-19 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 17 | ⭐ 44,532 | 2026-08-01 | 2026-08-20 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 16 | ⭐ 48,852 | 2026-08-01 | 2026-08-20 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 15 | ⭐ 58,941 | 2026-08-01 | 2026-08-20 |
+| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | 14 | ⭐ 2,542 | 2026-08-02 | 2026-08-20 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 11 | ⭐ 81,938 | 2026-08-01 | 2026-08-20 |
 | [cognitect-labs/test-runner](../repos/cognitect-labs/test-runner.md) | 11 | ⭐ 308 | 2026-08-01 | 2026-08-14 |
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 10 | ⭐ 81,930 | 2026-08-01 | 2026-08-19 |
-| [status-im/status-legacy](../repos/status-im/status-legacy.md) | 7 | ⭐ 4,019 | 2026-08-02 | 2026-08-17 |
-| [logseq/og](../repos/logseq/og.md) | 5 | ⭐ 235 | 2026-08-02 | 2026-08-19 |
+| [status-im/status-legacy](../repos/status-im/status-legacy.md) | 8 | ⭐ 4,020 | 2026-08-02 | 2026-08-20 |
+| [logseq/og](../repos/logseq/og.md) | 6 | ⭐ 243 | 2026-08-02 | 2026-08-20 |
 
 ---
 
@@ -109,4 +112,4 @@
 
 ---
 
-*Last updated: 2026-08-19T21:01:45.226Z*
+*Last updated: 2026-08-20T21:01:31.819Z*

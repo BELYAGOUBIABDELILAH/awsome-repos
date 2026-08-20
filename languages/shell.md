@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 77
+- **Total Repositories**: 79
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-07
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,636 | 2026-08-01 | 10 |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,081 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 26,415 | 2026-08-02 | 13 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 27,028 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 5,914 | 2026-08-02 | 3 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,434 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 9,628 | 2026-08-03 | 3 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,437 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fujibee/agmsg](../repos/fujibee/agmsg.md) | ⭐ 1,452 | 2026-08-03 | 3 |
+| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,150 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,206 | 2026-08-04 | 2 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 3,851 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,100 | 2026-08-04 | 6 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 32,900 | 2026-08-20 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,435 | 2026-08-07 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,753 | 2026-08-07 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,487 | 2026-08-07 | 2 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,397 | 2026-08-20 | 1 |
 
 
 ---
@@ -70,7 +64,7 @@
 | [Chachamaru127/claude-code-harness](../repos/Chachamaru127/claude-code-harness.md) | ⭐ 3,034 | 2026-08-01 | Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonom... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,023 | 2026-08-01 | Achieve state of the art inference performance with modern accelerators on Kubernetes |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,081 | 2026-08-01 | Achieve state of the art inference performance with modern accelerators on Kubernetes |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [void-linux/void-packages](../repos/void-linux/void-packages.md) | ⭐ 3,371 | 2026-08-01 | The Void source packages collection |
@@ -79,7 +73,7 @@
 | [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,642 | 2026-08-01 | Универсальный менеджер для обхода блокировок на OpenWrt |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 26,415 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 27,028 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
 
 
 ---
@@ -94,9 +88,10 @@
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,802 | 2026-08-06 | 3 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,419 | 2026-08-04 | 2 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 32,900 | 2026-08-20 | 1 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 26,415 | 2026-08-02 | 13 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,320 | 2026-08-04 | 4 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 27,028 | 2026-08-02 | 14 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,434 | 2026-08-04 | 5 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,694 | 2026-08-07 | 3 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 19,480 | 2026-08-12 | 2 |
@@ -107,7 +102,6 @@
 | [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,531 | 2026-08-04 | 2 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,100 | 2026-08-04 | 6 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,753 | 2026-08-07 | 3 |
-| [1N3/Sn1per](../repos/1N3/Sn1per.md) | ⭐ 10,738 | 2026-08-06 | 2 |
 
 ---
 
@@ -115,14 +109,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 13 | ⭐ 26,415 | 2026-08-02 | 2026-08-19 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 14 | ⭐ 27,028 | 2026-08-02 | 2026-08-20 |
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 10 | ⭐ 94,636 | 2026-08-01 | 2026-08-19 |
-| [expo/skills](../repos/expo/skills.md) | 8 | ⭐ 2,435 | 2026-08-07 | 2026-08-19 |
+| [expo/skills](../repos/expo/skills.md) | 9 | ⭐ 2,437 | 2026-08-07 | 2026-08-20 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 7 | ⭐ 2,108 | 2026-08-02 | 2026-08-16 |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | 6 | ⭐ 4,081 | 2026-08-01 | 2026-08-20 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 6 | ⭐ 11,100 | 2026-08-04 | 2026-08-19 |
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | 5 | ⭐ 4,023 | 2026-08-01 | 2026-08-12 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 5 | ⭐ 25,434 | 2026-08-04 | 2026-08-20 |
 | [wolfi-dev/os](../repos/wolfi-dev/os.md) | 5 | ⭐ 1,269 | 2026-08-14 | 2026-08-19 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 4 | ⭐ 25,320 | 2026-08-04 | 2026-08-12 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 4 | ⭐ 2,590 | 2026-08-05 | 2026-08-09 |
 | [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | 4 | ⭐ 18,753 | 2026-08-08 | 2026-08-19 |
 
@@ -207,7 +201,9 @@
 - [SHORiN-KiWATA/Shorin-ArchLinux-Guide](../repos/SHORiN-KiWATA/Shorin-ArchLinux-Guide.md) - 【2026最适合新手的Arch Linux教程】具体内容包括：系统安装教程、win+linux双系统、N卡驱动、桌面环境、中文输入法、Linux玩游戏、常用虚拟机程序、显卡直通、干净删除linux等。
 - [vinceliuice/grub2-themes](../repos/vinceliuice/grub2-themes.md) - Modern Design theme for Grub2
 - [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) - OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark ...
+- [VSCodium/vscodium](../repos/VSCodium/vscodium.md) - binary releases of VS Code without MS branding&#x2F;telemetry&#x2F;licensing
+- [microsoft/azure-skills](../repos/microsoft/azure-skills.md) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
 
 ---
 
-*Last updated: 2026-08-19T21:01:45.285Z*
+*Last updated: 2026-08-20T21:01:31.869Z*

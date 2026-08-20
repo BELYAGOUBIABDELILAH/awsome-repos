@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 48
+- **Total Repositories**: 49
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-19
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,430 | 2026-08-01 | 13 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,433 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 8,943 | 2026-08-01 | 13 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 8,942 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | ⭐ 995 | 2026-08-01 | 11 |
+| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | ⭐ 996 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,586 | 2026-08-01 | 12 |
+| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,586 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,276 | 2026-08-01 | 8 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,202 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,819 | 2026-08-01 | 11 |
+| [canton-network/splice](../repos/canton-network/splice.md) | ⭐ 112 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,200 | 2026-08-01 | 13 |
+| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,292 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [canton-network/splice](../repos/canton-network/splice.md) | ⭐ 109 | 2026-08-01 | 13 |
+| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,948 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,238 | 2026-08-01 | 8 |
+| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,391 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,948 | 2026-08-01 | 9 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,845 | 2026-08-01 | 18 |
 
 
 ---
@@ -52,13 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,430 | 2026-08-01 | Open-source code analysis platform for C&#x2F;C++&#x2F;Java&#x2F;Binary&#x2F;Javascript&#x2F;Python&#x2F;Kotlin based on code p... |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,433 | 2026-08-01 | Open-source code analysis platform for C&#x2F;C++&#x2F;Java&#x2F;Binary&#x2F;Javascript&#x2F;Python&#x2F;Kotlin based on code p... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 8,943 | 2026-08-01 | An open-source storage framework that enables building a Lakehouse architecture with compute engi... |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 8,942 | 2026-08-01 | An open-source storage framework that enables building a Lakehouse architecture with compute engi... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | ⭐ 995 | 2026-08-01 | NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs |
+| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | ⭐ 996 | 2026-08-01 | NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,586 | 2026-08-01 | Gluten is a middle layer responsible for offloading JVM-based SQL engines&#39; execution to native en... |
@@ -73,10 +73,10 @@
 | [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,819 | 2026-08-01 | Source code for the X Recommendation Algorithm |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,200 | 2026-08-01 | Open-source high-performance RISC-V processor |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,202 | 2026-08-01 | Open-source high-performance RISC-V processor |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [canton-network/splice](../repos/canton-network/splice.md) | ⭐ 109 | 2026-08-01 | Splice repository |
+| [canton-network/splice](../repos/canton-network/splice.md) | ⭐ 112 | 2026-08-01 | Splice repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,238 | 2026-08-01 | Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark |
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,819 | 2026-08-01 | 11 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,833 | 2026-08-01 | 17 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,845 | 2026-08-01 | 18 |
 | [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,644 | 2026-08-02 | 13 |
-| [scala/scala](../repos/scala/scala.md) | ⭐ 14,568 | 2026-08-01 | 11 |
+| [scala/scala](../repos/scala/scala.md) | ⭐ 14,566 | 2026-08-01 | 12 |
 | [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,276 | 2026-08-01 | 8 |
-| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,389 | 2026-08-01 | 9 |
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 8,943 | 2026-08-01 | 13 |
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,200 | 2026-08-01 | 13 |
+| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,391 | 2026-08-01 | 10 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 8,942 | 2026-08-01 | 14 |
+| [twitter/finagle](../repos/twitter/finagle.md) | ⭐ 8,864 | 2026-08-20 | 1 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,202 | 2026-08-01 | 14 |
 | [snowplow/snowplow](../repos/snowplow/snowplow.md) | ⭐ 7,029 | 2026-08-11 | 1 |
-| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,948 | 2026-08-01 | 9 |
+| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,948 | 2026-08-01 | 10 |
 | [apache/openwhisk](../repos/apache/openwhisk.md) | ⭐ 6,792 | 2026-08-05 | 3 |
-| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,289 | 2026-08-01 | 8 |
+| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,292 | 2026-08-01 | 9 |
 | [guardian/frontend](../repos/guardian/frontend.md) | ⭐ 5,897 | 2026-08-03 | 6 |
 | [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,238 | 2026-08-01 | 8 |
-| [sbt/sbt](../repos/sbt/sbt.md) | ⭐ 4,934 | 2026-08-04 | 7 |
+| [sbt/sbt](../repos/sbt/sbt.md) | ⭐ 4,934 | 2026-08-04 | 8 |
 | [chipsalliance/chisel](../repos/chipsalliance/chisel.md) | ⭐ 4,760 | 2026-08-05 | 9 |
-| [zio/zio](../repos/zio/zio.md) | ⭐ 4,405 | 2026-08-02 | 6 |
+| [zio/zio](../repos/zio/zio.md) | ⭐ 4,405 | 2026-08-02 | 7 |
 | [TheHive-Project/TheHive](../repos/TheHive-Project/TheHive.md) | ⭐ 3,944 | 2026-08-03 | 6 |
 | [chipsalliance/rocket-chip](../repos/chipsalliance/rocket-chip.md) | ⭐ 3,846 | 2026-08-01 | 5 |
-| [Netflix/atlas](../repos/Netflix/atlas.md) | ⭐ 3,559 | 2026-08-02 | 1 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [apache/spark](../repos/apache/spark.md) | 17 | ⭐ 43,833 | 2026-08-01 | 2026-08-19 |
-| [joernio/joern](../repos/joernio/joern.md) | 13 | ⭐ 3,430 | 2026-08-01 | 2026-08-19 |
-| [delta-io/delta](../repos/delta-io/delta.md) | 13 | ⭐ 8,943 | 2026-08-01 | 2026-08-19 |
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 13 | ⭐ 7,200 | 2026-08-01 | 2026-08-19 |
-| [canton-network/splice](../repos/canton-network/splice.md) | 13 | ⭐ 109 | 2026-08-01 | 2026-08-19 |
+| [apache/spark](../repos/apache/spark.md) | 18 | ⭐ 43,845 | 2026-08-01 | 2026-08-20 |
+| [joernio/joern](../repos/joernio/joern.md) | 14 | ⭐ 3,433 | 2026-08-01 | 2026-08-20 |
+| [delta-io/delta](../repos/delta-io/delta.md) | 14 | ⭐ 8,942 | 2026-08-01 | 2026-08-20 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 14 | ⭐ 7,202 | 2026-08-01 | 2026-08-20 |
+| [canton-network/splice](../repos/canton-network/splice.md) | 14 | ⭐ 112 | 2026-08-01 | 2026-08-20 |
+| [apache/gluten](../repos/apache/gluten.md) | 13 | ⭐ 1,586 | 2026-08-01 | 2026-08-20 |
 | [lichess-org/lila](../repos/lichess-org/lila.md) | 13 | ⭐ 18,644 | 2026-08-02 | 2026-08-19 |
-| [apache/gluten](../repos/apache/gluten.md) | 12 | ⭐ 1,586 | 2026-08-01 | 2026-08-19 |
+| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 12 | ⭐ 996 | 2026-08-01 | 2026-08-20 |
 | [apache/tvm-vta](../repos/apache/tvm-vta.md) | 12 | ⭐ 360 | 2026-08-01 | 2026-08-12 |
-| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 11 | ⭐ 995 | 2026-08-01 | 2026-08-19 |
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 11 | ⭐ 73,819 | 2026-08-01 | 2026-08-19 |
+| [scala/scala](../repos/scala/scala.md) | 12 | ⭐ 14,566 | 2026-08-01 | 2026-08-20 |
 
 ---
 
@@ -178,7 +178,8 @@
 - [snowplow/snowplow](../repos/snowplow/snowplow.md) - The leader in Customer Data Infrastructure
 - [ucb-bar/testchipip](../repos/ucb-bar/testchipip.md) - 
 - [ucb-bar/gemmini](../repos/ucb-bar/gemmini.md) - Berkeley&#39;s Spatial Array Generator
+- [twitter/finagle](../repos/twitter/finagle.md) - A fault tolerant, protocol-agnostic RPC system
 
 ---
 
-*Last updated: 2026-08-19T21:01:45.282Z*
+*Last updated: 2026-08-20T21:01:31.867Z*

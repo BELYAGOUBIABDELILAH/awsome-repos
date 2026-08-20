@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [NawfalMotii79/PLFM_RADAR](../repos/NawfalMotii79/PLFM_RADAR.md) | ⭐ 24,288 | 2026-08-19 | 1 |
 
+*No PLSQL repositories trending today*
 
 ---
 
@@ -52,4 +50,4 @@
 
 ---
 
-*Last updated: 2026-08-19T21:01:45.269Z*
+*Last updated: 2026-08-20T21:01:31.856Z*

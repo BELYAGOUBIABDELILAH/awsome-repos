@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,152 | 2026-08-06 | 5 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,032 | 2026-08-01 | 14 |
 
 
 ---
@@ -28,7 +28,7 @@
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,600 | 2026-08-01 | No longer maintained, see pinned issues |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,029 | 2026-08-01 | Low-Budget Password Strength Estimation |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,032 | 2026-08-01 | Low-Budget Password Strength Estimation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | The motion graphics toolbelt for the web |
@@ -49,7 +49,7 @@
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,600 | 2026-08-01 | 4 |
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | 1 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,601 | 2026-08-09 | 1 |
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,029 | 2026-08-01 | 13 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,032 | 2026-08-01 | 14 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,152 | 2026-08-06 | 5 |
 
 ---
@@ -58,7 +58,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 13 | ⭐ 16,029 | 2026-08-01 | 2026-08-17 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 14 | ⭐ 16,032 | 2026-08-01 | 2026-08-20 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 5 | ⭐ 1,152 | 2026-08-06 | 2026-08-19 |
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 4 | ⭐ 22,600 | 2026-08-01 | 2026-08-12 |
 | [mojs/mojs](../repos/mojs/mojs.md) | 1 | ⭐ 18,747 | 2026-08-01 | 2026-08-01 |
@@ -76,4 +76,4 @@
 
 ---
 
-*Last updated: 2026-08-19T21:01:45.227Z*
+*Last updated: 2026-08-20T21:01:31.820Z*

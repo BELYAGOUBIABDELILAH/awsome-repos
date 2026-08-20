@@ -1,0 +1,95 @@
+# browser-use&#x2F;browser-use
+
+> 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;browser-use&#x2F;browser-use) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | Python |
+| **License** | MIT |
+| **Stars** | ⭐ 109,874 |
+| **Forks** | 🍴 12,085 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Aug 20, 2026 |
+| **Last Seen** | Aug 20, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in Python or ai-agents*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`ai-agents`](../../topics/ai-agents.md) [`ai-tools`](../../topics/ai-tools.md) [`browser-automation`](../../topics/browser-automation.md) [`browser-use`](../../topics/browser-use.md) [`llm`](../../topics/llm.md) [`playwright`](../../topics/playwright.md) [`python`](../../topics/python.md) 
+
+### Curated Categories
+`Artificial Intelligence` `Large Language Models` `DevOps &amp; CI&#x2F;CD` `Developer Tools` `Automation` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Intermediate | Well-documented but extensive API |
+| **Documentation** | Excellent | Comprehensive guides and examples |
+| **Community** | Very Active | 109,874+ stars, strong contributor base |
+| **Maturity** | Stable | Established project |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Easy | Beginner-friendly with tutorials |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in Python
+
+#### Metrics
+- **Hidden Gem**: ✗ No
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-08-20T21:01:35.501Z*  
+*Data from 1 trending reports*

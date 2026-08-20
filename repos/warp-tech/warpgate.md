@@ -1,6 +1,6 @@
 # warp-tech&#x2F;warpgate
 
-> Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion&#x2F;PAM that doesn&#39;t need additional client-side software
+> Fully transparent SSH, HTTPS, Kubernetes, database and RDP&#x2F;VNC bastion&#x2F;PAM that doesn&#39;t need additional client-side software
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;warp-tech&#x2F;warpgate) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 7,468 |
-| **Forks** | 🍴 329 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 7,666 |
+| **Forks** | 🍴 349 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Aug 6, 2026 |
+| **Last Seen** | Aug 20, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-19T21:01:47.803Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-20T21:01:34.402Z*  
+*Data from 2 trending reports*
