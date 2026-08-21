@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | LGPL-3.0 |
-| **Stars** | ⭐ 3,572 |
-| **Forks** | 🍴 1,675 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 3,574 |
+| **Forks** | 🍴 1,677 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Aug 20, 2026 |
+| **Last Seen** | Aug 21, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
-- **Longest Streak**: 1 days
+- **Trending Days**: 4
+- **Longest Streak**: 2 days
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 3,572+ stars, strong contributor base |
+| **Community** | Very Active | 3,574+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 70&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-20T21:01:34.450Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-21T21:01:49.249Z*  
+*Data from 4 trending reports*

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:01:35.910Z",
+  "generated_at": "2026-08-21T21:01:50.682Z",
   "total_count": 100,
   "repositories": [
     {
@@ -137,10 +137,10 @@
       "full_name": "yt-dlp/yt-dlp",
       "owner": "yt-dlp",
       "name": "yt-dlp",
-      "stars": 185863,
+      "stars": 186102,
       "language": "Python",
       "first_seen": "2026-08-02",
-      "trending_days": 4
+      "trending_days": 5
     },
     {
       "rank": 15,
@@ -157,10 +157,10 @@
       "full_name": "flutter/flutter",
       "owner": "flutter",
       "name": "flutter",
-      "stars": 178525,
+      "stars": 178571,
       "language": "Dart",
       "first_seen": "2026-08-01",
-      "trending_days": 12
+      "trending_days": 13
     },
     {
       "rank": 17,
@@ -217,20 +217,20 @@
       "full_name": "Genymobile/scrcpy",
       "owner": "Genymobile",
       "name": "scrcpy",
-      "stars": 147985,
+      "stars": 148039,
       "language": "C",
       "first_seen": "2026-08-07",
-      "trending_days": 6
+      "trending_days": 7
     },
     {
       "rank": 23,
       "full_name": "anthropics/claude-code",
       "owner": "anthropics",
       "name": "claude-code",
-      "stars": 142134,
+      "stars": 142287,
       "language": "Python",
       "first_seen": "2026-08-07",
-      "trending_days": 4
+      "trending_days": 5
     },
     {
       "rank": 24,
@@ -247,10 +247,10 @@
       "full_name": "microsoft/PowerToys",
       "owner": "microsoft",
       "name": "PowerToys",
-      "stars": 137910,
+      "stars": 137944,
       "language": "C",
       "first_seen": "2026-08-01",
-      "trending_days": 8
+      "trending_days": 9
     },
     {
       "rank": 26,
@@ -317,10 +317,10 @@
       "full_name": "garrytan/gstack",
       "owner": "garrytan",
       "name": "gstack",
-      "stars": 128890,
+      "stars": 129064,
       "language": "TypeScript",
       "first_seen": "2026-08-02",
-      "trending_days": 4
+      "trending_days": 5
     },
     {
       "rank": 33,
@@ -414,6 +414,16 @@
     },
     {
       "rank": 42,
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "stars": 113790,
+      "language": "Python",
+      "first_seen": "2026-08-01",
+      "trending_days": 9
+    },
+    {
+      "rank": 43,
       "full_name": "d3/d3",
       "owner": "d3",
       "name": "d3",
@@ -421,16 +431,6 @@
       "language": "Shell",
       "first_seen": "2026-08-07",
       "trending_days": 1
-    },
-    {
-      "rank": 43,
-      "full_name": "harry0703/MoneyPrinterTurbo",
-      "owner": "harry0703",
-      "name": "MoneyPrinterTurbo",
-      "stars": 112807,
-      "language": "Python",
-      "first_seen": "2026-08-01",
-      "trending_days": 8
     },
     {
       "rank": 44,
@@ -457,10 +457,10 @@
       "full_name": "browser-use/browser-use",
       "owner": "browser-use",
       "name": "browser-use",
-      "stars": 109874,
+      "stars": 110011,
       "language": "Python",
       "first_seen": "2026-08-20",
-      "trending_days": 1
+      "trending_days": 2
     },
     {
       "rank": 47,
@@ -737,30 +737,30 @@
       "full_name": "animate-css/animate.css",
       "owner": "animate-css",
       "name": "animate.css",
-      "stars": 82741,
+      "stars": 82744,
       "language": "CSS",
       "first_seen": "2026-08-06",
-      "trending_days": 5
+      "trending_days": 6
     },
     {
       "rank": 75,
       "full_name": "tonsky/FiraCode",
       "owner": "tonsky",
       "name": "FiraCode",
-      "stars": 81938,
+      "stars": 81943,
       "language": "Clojure",
       "first_seen": "2026-08-01",
-      "trending_days": 11
+      "trending_days": 12
     },
     {
       "rank": 76,
       "full_name": "spring-projects/spring-boot",
       "owner": "spring-projects",
       "name": "spring-boot",
-      "stars": 81326,
+      "stars": 81334,
       "language": "Java",
       "first_seen": "2026-08-04",
-      "trending_days": 5
+      "trending_days": 6
     },
     {
       "rank": 77,
@@ -877,10 +877,10 @@
       "full_name": "redis/redis",
       "owner": "redis",
       "name": "redis",
-      "stars": 76063,
+      "stars": 76073,
       "language": "C",
       "first_seen": "2026-08-04",
-      "trending_days": 3
+      "trending_days": 4
     },
     {
       "rank": 89,
@@ -897,10 +897,10 @@
       "full_name": "ocornut/imgui",
       "owner": "ocornut",
       "name": "imgui",
-      "stars": 75758,
+      "stars": 75784,
       "language": "C++",
       "first_seen": "2026-08-08",
-      "trending_days": 5
+      "trending_days": 6
     },
     {
       "rank": 91,

@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 49,152 | 2026-08-01 | 5 |
+| [apple/container](../repos/apple/container.md) | ⭐ 49,186 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,877 | 2026-08-04 | 6 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,880 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 5,971 | 2026-08-04 | 4 |
+| [sozercan/kaset](../repos/sozercan/kaset.md) | ⭐ 2,094 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sozercan/kaset](../repos/sozercan/kaset.md) | ⭐ 2,087 | 2026-08-04 | 6 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,838 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,837 | 2026-08-04 | 3 |
+| [RevenueCat/purchases-ios](../repos/RevenueCat/purchases-ios.md) | ⭐ 3,055 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RevenueCat/purchases-ios](../repos/RevenueCat/purchases-ios.md) | ⭐ 3,053 | 2026-08-07 | 2 |
+| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 1,654 | 2026-08-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 1,649 | 2026-08-12 | 4 |
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,758 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,698 | 2026-08-12 | 2 |
+| [jipika/WaifuX](../repos/jipika/WaifuX.md) | ⭐ 1,274 | 2026-08-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jipika/WaifuX](../repos/jipika/WaifuX.md) | ⭐ 1,261 | 2026-08-20 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [adidshaft/atria](../repos/adidshaft/atria.md) | ⭐ 132 | 2026-08-20 | 1 |
+| [adidshaft/atria](../repos/adidshaft/atria.md) | ⭐ 138 | 2026-08-20 | 2 |
 
 
 ---
@@ -64,7 +61,7 @@
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,938 | 2026-08-01 | The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with n... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 49,152 | 2026-08-01 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It ... |
+| [apple/container](../repos/apple/container.md) | ⭐ 49,186 | 2026-08-01 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [livekit/client-sdk-swift](../repos/livekit/client-sdk-swift.md) | ⭐ 434 | 2026-08-01 | LiveKit Swift Client SDK. Easily build live audio or video experiences on iOS, macOS, tvOS, and v... |
@@ -89,16 +86,16 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,260 | 2026-08-05 | 4 |
-| [apple/container](../repos/apple/container.md) | ⭐ 49,152 | 2026-08-01 | 5 |
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,698 | 2026-08-12 | 2 |
+| [apple/container](../repos/apple/container.md) | ⭐ 49,186 | 2026-08-01 | 6 |
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,758 | 2026-08-12 | 3 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,837 | 2026-08-04 | 3 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,838 | 2026-08-04 | 4 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,203 | 2026-08-01 | 6 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
 | [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,226 | 2026-08-12 | 2 |
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,877 | 2026-08-04 | 6 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,880 | 2026-08-04 | 7 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,186 | 2026-08-17 | 1 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 13,577 | 2026-08-08 | 2 |
@@ -116,11 +113,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 7 | ⭐ 10,858 | 2026-08-01 | 2026-08-17 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 7 | ⭐ 14,880 | 2026-08-04 | 2026-08-21 |
+| [sozercan/kaset](../repos/sozercan/kaset.md) | 7 | ⭐ 2,094 | 2026-08-04 | 2026-08-21 |
+| [apple/container](../repos/apple/container.md) | 6 | ⭐ 49,186 | 2026-08-01 | 2026-08-21 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 6 | ⭐ 26,203 | 2026-08-01 | 2026-08-19 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 6 | ⭐ 14,877 | 2026-08-04 | 2026-08-20 |
-| [sozercan/kaset](../repos/sozercan/kaset.md) | 6 | ⭐ 2,087 | 2026-08-04 | 2026-08-20 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 5 | ⭐ 5,938 | 2026-08-01 | 2026-08-17 |
-| [apple/container](../repos/apple/container.md) | 5 | ⭐ 49,152 | 2026-08-01 | 2026-08-20 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 5 | ⭐ 8,852 | 2026-08-02 | 2026-08-16 |
 | [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | 5 | ⭐ 2,415 | 2026-08-03 | 2026-08-08 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 5 | ⭐ 8,509 | 2026-08-04 | 2026-08-19 |
@@ -213,4 +210,4 @@
 
 ---
 
-*Last updated: 2026-08-20T21:01:31.872Z*
+*Last updated: 2026-08-21T21:01:46.677Z*

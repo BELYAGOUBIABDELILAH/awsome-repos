@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 72
+- **Total Repositories**: 73
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-20
+- **Last Updated**: 2026-08-21
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,525 | 2026-08-01 | 12 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,571 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 29,035 | 2026-08-01 | 11 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 29,075 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 14,388 | 2026-08-02 | 10 |
+| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 14,411 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 49,398 | 2026-08-02 | 12 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 49,519 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 17,346 | 2026-08-02 | 11 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 17,403 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 32,283 | 2026-08-02 | 12 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 32,305 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodjodevf/mangayomi](../repos/kodjodevf/mangayomi.md) | ⭐ 3,698 | 2026-08-02 | 4 |
+| [kodjodevf/mangayomi](../repos/kodjodevf/mangayomi.md) | ⭐ 3,701 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firebase/flutterfire](../repos/firebase/flutterfire.md) | ⭐ 9,247 | 2026-08-03 | 5 |
+| [firebase/flutterfire](../repos/firebase/flutterfire.md) | ⭐ 9,249 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anxcye/anx-reader](../repos/Anxcye/anx-reader.md) | ⭐ 8,719 | 2026-08-04 | 5 |
+| [Anxcye/anx-reader](../repos/Anxcye/anx-reader.md) | ⭐ 8,726 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 48,542 | 2026-08-04 | 10 |
+| [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 48,579 | 2026-08-04 | 11 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [appsfolder/livebridge](../repos/appsfolder/livebridge.md) | ⭐ 926 | 2026-08-01 | Level up your dynamic pill&#x2F;island on Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,525 | 2026-08-01 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,571 | 2026-08-01 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mitesh77/Best-Flutter-UI-Templates](../repos/mitesh77/Best-Flutter-UI-Templates.md) | ⭐ 22,769 | 2026-08-01 | completely free for everyone. Its build-in Flutter Dart. |
@@ -76,7 +76,7 @@
 | [flutter/packages](../repos/flutter/packages.md) | ⭐ 5,284 | 2026-08-01 | A collection of useful packages maintained by the Flutter team |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 29,035 | 2026-08-01 | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 29,075 | 2026-08-01 | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [miru-project/miru-app](../repos/miru-project/miru-app.md) | ⭐ 5,591 | 2026-08-01 | 🎉 A versatile application that is free, open-source, and supports extension sources for videos, ... |
@@ -88,25 +88,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,525 | 2026-08-01 | 12 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,571 | 2026-08-01 | 13 |
 | [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 88,289 | 2026-08-02 | 9 |
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 75,696 | 2026-08-01 | 7 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 49,398 | 2026-08-02 | 12 |
-| [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 48,542 | 2026-08-04 | 10 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 32,283 | 2026-08-02 | 12 |
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 29,035 | 2026-08-01 | 11 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 49,519 | 2026-08-02 | 13 |
+| [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 48,579 | 2026-08-04 | 11 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 32,305 | 2026-08-02 | 13 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 29,075 | 2026-08-01 | 12 |
 | [mitesh77/Best-Flutter-UI-Templates](../repos/mitesh77/Best-Flutter-UI-Templates.md) | ⭐ 22,769 | 2026-08-01 | 1 |
 | [flutter/samples](../repos/flutter/samples.md) | ⭐ 19,239 | 2026-08-06 | 3 |
-| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 17,346 | 2026-08-02 | 11 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 17,403 | 2026-08-02 | 12 |
 | [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 15,923 | 2026-08-01 | 6 |
-| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 14,388 | 2026-08-02 | 10 |
-| [guozhigq/pilipala](../repos/guozhigq/pilipala.md) | ⭐ 13,848 | 2026-08-20 | 1 |
+| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 14,411 | 2026-08-02 | 11 |
+| [guozhigq/pilipala](../repos/guozhigq/pilipala.md) | ⭐ 13,848 | 2026-08-20 | 2 |
 | [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 13,752 | 2026-08-06 | 5 |
 | [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) | ⭐ 12,567 | 2026-08-09 | 3 |
 | [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,254 | 2026-08-01 | 7 |
 | [venera-app/venera](../repos/venera-app/venera.md) | ⭐ 10,811 | 2026-08-02 | 7 |
 | [flame-engine/flame](../repos/flame-engine/flame.md) | ⭐ 10,705 | 2026-08-02 | 1 |
-| [firebase/flutterfire](../repos/firebase/flutterfire.md) | ⭐ 9,247 | 2026-08-03 | 5 |
+| [firebase/flutterfire](../repos/firebase/flutterfire.md) | ⭐ 9,249 | 2026-08-03 | 6 |
 | [KaringX/clashmi](../repos/KaringX/clashmi.md) | ⭐ 8,740 | 2026-08-02 | 2 |
 
 ---
@@ -115,13 +115,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [flutter/flutter](../repos/flutter/flutter.md) | 12 | ⭐ 178,525 | 2026-08-01 | 2026-08-20 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 12 | ⭐ 49,398 | 2026-08-02 | 2026-08-20 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 12 | ⭐ 32,283 | 2026-08-02 | 2026-08-20 |
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 11 | ⭐ 29,035 | 2026-08-01 | 2026-08-20 |
-| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 11 | ⭐ 17,346 | 2026-08-02 | 2026-08-20 |
-| [KaringX/karing](../repos/KaringX/karing.md) | 10 | ⭐ 14,388 | 2026-08-02 | 2026-08-20 |
-| [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | 10 | ⭐ 48,542 | 2026-08-04 | 2026-08-20 |
+| [flutter/flutter](../repos/flutter/flutter.md) | 13 | ⭐ 178,571 | 2026-08-01 | 2026-08-21 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 13 | ⭐ 49,519 | 2026-08-02 | 2026-08-21 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 13 | ⭐ 32,305 | 2026-08-02 | 2026-08-21 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 12 | ⭐ 29,075 | 2026-08-01 | 2026-08-21 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 12 | ⭐ 17,403 | 2026-08-02 | 2026-08-21 |
+| [KaringX/karing](../repos/KaringX/karing.md) | 11 | ⭐ 14,411 | 2026-08-02 | 2026-08-21 |
+| [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | 11 | ⭐ 48,579 | 2026-08-04 | 2026-08-21 |
 | [localsend/localsend](../repos/localsend/localsend.md) | 9 | ⭐ 88,289 | 2026-08-02 | 2026-08-14 |
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 7 | ⭐ 75,696 | 2026-08-01 | 2026-08-19 |
 | [dart-lang/sdk](../repos/dart-lang/sdk.md) | 7 | ⭐ 11,254 | 2026-08-01 | 2026-08-19 |
@@ -202,7 +202,8 @@
 - [anandnet/Harmony-Music](../repos/anandnet/Harmony-Music.md) - A cross platform App for streaming Music
 - [sheikhhaziq/gyawun_music](../repos/sheikhhaziq/gyawun_music.md) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-fre...
 - [guozhigq/pilipala](../repos/guozhigq/pilipala.md) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+- [rusty4444/hermes-android](../repos/rusty4444/hermes-android.md) - Android client for Hermes Agent - chat with your Hermes sessions from a phone or tablet over loca...
 
 ---
 
-*Last updated: 2026-08-20T21:01:31.824Z*
+*Last updated: 2026-08-21T21:01:46.627Z*

@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 25,022 | 2026-08-01 | 2 |
+| [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 25,039 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 26,694 | 2026-08-03 | 5 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 27,038 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quickwit-oss/tantivy](../repos/quickwit-oss/tantivy.md) | ⭐ 15,934 | 2026-08-04 | 3 |
+| [quickwit-oss/tantivy](../repos/quickwit-oss/tantivy.md) | ⭐ 15,953 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,410 | 2026-08-05 | 2 |
+| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,432 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [warp-tech/warpgate](../repos/warp-tech/warpgate.md) | ⭐ 7,666 | 2026-08-06 | 2 |
+| [warp-tech/warpgate](../repos/warp-tech/warpgate.md) | ⭐ 7,685 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 10,812 | 2026-08-09 | 3 |
+| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 10,838 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 31,240 | 2026-08-09 | 3 |
+| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 31,282 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 3,539 | 2026-08-17 | 3 |
+| [amadeusprotocol/node](../repos/amadeusprotocol/node.md) | ⭐ 5,133 | 2026-08-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amadeusprotocol/node](../repos/amadeusprotocol/node.md) | ⭐ 5,121 | 2026-08-19 | 2 |
+| [RyanCodrai/turbovec](../repos/RyanCodrai/turbovec.md) | ⭐ 16,191 | 2026-08-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RyanCodrai/turbovec](../repos/RyanCodrai/turbovec.md) | ⭐ 15,893 | 2026-08-19 | 2 |
+| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,184 | 2026-08-19 | 3 |
 
 
 ---
@@ -76,7 +76,7 @@
 | [openai/codex](../repos/openai/codex.md) | ⭐ 105,551 | 2026-08-01 | Lightweight coding agent that runs in your terminal |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 25,022 | 2026-08-01 | Development at the speed of light |
+| [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 25,039 | 2026-08-01 | Development at the speed of light |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [paritytech/polkadot-sdk](../repos/paritytech/polkadot-sdk.md) | ⭐ 2,792 | 2026-08-01 | The Parity Polkadot Blockchain SDK |
@@ -97,16 +97,16 @@
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
-| [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 64,404 | 2026-08-20 | 1 |
+| [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 64,431 | 2026-08-20 | 2 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
-| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,058 | 2026-08-19 | 2 |
+| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,184 | 2026-08-19 | 3 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,169 | 2026-08-12 | 1 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,464 | 2026-08-05 | 4 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,953 | 2026-08-02 | 4 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,155 | 2026-08-02 | 1 |
-| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,410 | 2026-08-05 | 2 |
-| [firecracker-microvm/firecracker](../repos/firecracker-microvm/firecracker.md) | ⭐ 36,169 | 2026-08-20 | 1 |
+| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,432 | 2026-08-05 | 3 |
+| [firecracker-microvm/firecracker](../repos/firecracker-microvm/firecracker.md) | ⭐ 36,198 | 2026-08-20 | 2 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 36,163 | 2026-08-10 | 1 |
 
 ---
@@ -116,10 +116,10 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 6 | ⭐ 13,249 | 2026-08-01 | 2026-08-19 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 6 | ⭐ 27,038 | 2026-08-03 | 2026-08-21 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 5 | ⭐ 115,277 | 2026-07-30 | 2026-08-05 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 5 | ⭐ 15,903 | 2026-08-01 | 2026-08-19 |
 | [moghtech/komodo](../repos/moghtech/komodo.md) | 5 | ⭐ 11,998 | 2026-08-02 | 2026-08-19 |
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 5 | ⭐ 26,694 | 2026-08-03 | 2026-08-20 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 5 | ⭐ 90,961 | 2026-08-09 | 2026-08-19 |
 | [openai/codex](../repos/openai/codex.md) | 4 | ⭐ 105,551 | 2026-08-01 | 2026-08-12 |
 | [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | 4 | ⭐ 7,528 | 2026-08-01 | 2026-08-15 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-20T21:01:31.866Z*
+*Last updated: 2026-08-21T21:01:46.671Z*

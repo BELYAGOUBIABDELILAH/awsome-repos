@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 60,213 | 2026-08-01 | 8 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 60,344 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Axorax/awesome-free-apps](../repos/Axorax/awesome-free-apps.md) | ⭐ 7,467 | 2026-08-03 | 2 |
+| [Axorax/awesome-free-apps](../repos/Axorax/awesome-free-apps.md) | ⭐ 7,483 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 61,053 | 2026-08-05 | 3 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 61,359 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 1,439 | 2026-08-07 | 4 |
+| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 1,530 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenSenseNova/SenseNova-Skills](../repos/OpenSenseNova/SenseNova-Skills.md) | ⭐ 4,899 | 2026-08-08 | 3 |
+| [OpenSenseNova/SenseNova-Skills](../repos/OpenSenseNova/SenseNova-Skills.md) | ⭐ 4,919 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 30,272 | 2026-08-19 | 2 |
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 30,300 | 2026-08-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chuspeeism/dashi-ppt-skill](../repos/chuspeeism/dashi-ppt-skill.md) | ⭐ 5,811 | 2026-08-20 | 1 |
+| [chuspeeism/dashi-ppt-skill](../repos/chuspeeism/dashi-ppt-skill.md) | ⭐ 5,877 | 2026-08-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [simple-icons/simple-icons](../repos/simple-icons/simple-icons.md) | ⭐ 25,656 | 2026-08-20 | 1 |
+| [simple-icons/simple-icons](../repos/simple-icons/simple-icons.md) | ⭐ 25,674 | 2026-08-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jarrodwatts/claude-hud](../repos/jarrodwatts/claude-hud.md) | ⭐ 27,521 | 2026-08-20 | 1 |
+| [jarrodwatts/claude-hud](../repos/jarrodwatts/claude-hud.md) | ⭐ 27,542 | 2026-08-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/zx](../repos/google/zx.md) | ⭐ 45,674 | 2026-08-20 | 1 |
+| [google/zx](../repos/google/zx.md) | ⭐ 45,685 | 2026-08-20 | 2 |
 
 
 ---
@@ -79,7 +79,7 @@
 | [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) | ⭐ 347 | 2026-08-01 | Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 60,213 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 60,344 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
 
 
 ---
@@ -100,13 +100,13 @@
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 61,359 | 2026-08-05 | 4 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 61,053 | 2026-08-05 | 3 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 60,213 | 2026-08-01 | 8 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 60,344 | 2026-08-01 | 9 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,912 | 2026-08-11 | 2 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,206 | 2026-08-08 | 1 |
-| [google/zx](../repos/google/zx.md) | ⭐ 45,674 | 2026-08-20 | 1 |
+| [google/zx](../repos/google/zx.md) | ⭐ 45,685 | 2026-08-20 | 2 |
 | [remoteintech/remote-jobs](../repos/remoteintech/remote-jobs.md) | ⭐ 40,682 | 2026-08-19 | 1 |
 
 ---
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [byoungd/up](../repos/byoungd/up.md) | 8 | ⭐ 60,213 | 2026-08-01 | 2026-08-20 |
+| [byoungd/up](../repos/byoungd/up.md) | 9 | ⭐ 60,344 | 2026-08-01 | 2026-08-21 |
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 7 | ⭐ 86,177 | 2026-08-05 | 2026-08-11 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 6 | ⭐ 141,656 | 2026-07-30 | 2026-08-06 |
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 5 | ⭐ 7,142 | 2026-08-01 | 2026-08-12 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 5 | ⭐ 11,276 | 2026-08-01 | 2026-08-19 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 5 | ⭐ 38,736 | 2026-08-06 | 2026-08-10 |
+| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 5 | ⭐ 1,530 | 2026-08-07 | 2026-08-21 |
 | [is-a-dev/register](../repos/is-a-dev/register.md) | 4 | ⭐ 10,983 | 2026-08-03 | 2026-08-16 |
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 4 | ⭐ 1,439 | 2026-08-07 | 2026-08-20 |
-| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | 4 | ⭐ 2,256 | 2026-08-14 | 2026-08-19 |
-| [facebook/react](../repos/facebook/react.md) | 3 | ⭐ 219,500 | 2026-07-30 | 2026-08-05 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 4 | ⭐ 61,359 | 2026-08-05 | 2026-08-21 |
+| [OpenSenseNova/SenseNova-Skills](../repos/OpenSenseNova/SenseNova-Skills.md) | 4 | ⭐ 4,919 | 2026-08-08 | 2026-08-21 |
 
 ---
 
@@ -223,4 +223,4 @@
 
 ---
 
-*Last updated: 2026-08-20T21:01:31.840Z*
+*Last updated: 2026-08-21T21:01:46.644Z*

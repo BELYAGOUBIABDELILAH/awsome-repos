@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 4
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-20
+- **Last Updated**: 2026-08-21
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,951 | 2026-08-01 | 4 |
+| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,955 | 2026-08-01 | 5 |
 
 
 ---
@@ -25,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,951 | 2026-08-01 | :mortar_board: All things Vim! |
+| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,955 | 2026-08-01 | :mortar_board: All things Vim! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [easymotion/vim-easymotion](../repos/easymotion/vim-easymotion.md) | ⭐ 7,737 | 2026-08-01 | Vim motions on speed! |
@@ -43,7 +43,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,951 | 2026-08-01 | 4 |
+| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,955 | 2026-08-01 | 5 |
 | [vim-syntastic/syntastic](../repos/vim-syntastic/syntastic.md) | ⭐ 11,223 | 2026-08-02 | 1 |
 | [easymotion/vim-easymotion](../repos/easymotion/vim-easymotion.md) | ⭐ 7,737 | 2026-08-01 | 2 |
 | [jiangmiao/auto-pairs](../repos/jiangmiao/auto-pairs.md) | ⭐ 4,201 | 2026-08-01 | 1 |
@@ -54,7 +54,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | 4 | ⭐ 17,951 | 2026-08-01 | 2026-08-20 |
+| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | 5 | ⭐ 17,955 | 2026-08-01 | 2026-08-21 |
 | [easymotion/vim-easymotion](../repos/easymotion/vim-easymotion.md) | 2 | ⭐ 7,737 | 2026-08-01 | 2026-08-04 |
 | [jiangmiao/auto-pairs](../repos/jiangmiao/auto-pairs.md) | 1 | ⭐ 4,201 | 2026-08-01 | 2026-08-01 |
 | [vim-syntastic/syntastic](../repos/vim-syntastic/syntastic.md) | 1 | ⭐ 11,223 | 2026-08-02 | 2026-08-02 |
@@ -70,4 +70,4 @@
 
 ---
 
-*Last updated: 2026-08-20T21:01:31.878Z*
+*Last updated: 2026-08-21T21:01:46.684Z*

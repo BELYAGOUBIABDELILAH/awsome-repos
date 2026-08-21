@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 72
+- **Total Repositories**: 73
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 9 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 11 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 11 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 10 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,071 | 2026-08-01 | 10 |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,072 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 11 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 8 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | ⭐ 673 | 2026-08-04 | 8 |
+| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | ⭐ 673 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,934 | 2026-08-04 | 5 |
+| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,934 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,510 | 2026-08-04 | 4 |
+| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,511 | 2026-08-04 | 5 |
 
 
 ---
@@ -79,7 +79,7 @@
 | [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 |  Google Toolbox for Mac - Session Fetcher |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,071 | 2026-08-01 | Stub your network requests easily! Test your apps with fake network data and custom response time... |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,072 | 2026-08-01 | Stub your network requests easily! Test your apps with fake network data and custom response time... |
 
 
 ---
@@ -90,10 +90,10 @@
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,395 | 2026-08-02 | 3 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 11 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 12 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,013 | 2026-08-02 | 7 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 8 |
-| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,934 | 2026-08-04 | 5 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 9 |
+| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,934 | 2026-08-04 | 6 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,906 | 2026-08-04 | 3 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | 3 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
@@ -104,7 +104,7 @@
 | [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,090 | 2026-08-07 | 3 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
 | [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) | ⭐ 10,646 | 2026-08-06 | 1 |
-| [facebookincubator/SocketRocket](../repos/facebookincubator/SocketRocket.md) | ⭐ 9,611 | 2026-08-08 | 4 |
+| [facebookincubator/SocketRocket](../repos/facebookincubator/SocketRocket.md) | ⭐ 9,610 | 2026-08-08 | 5 |
 | [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,511 | 2026-08-01 | 5 |
 | [facebookarchive/Shimmer](../repos/facebookarchive/Shimmer.md) | ⭐ 9,331 | 2026-08-02 | 2 |
 | [TTTAttributedLabel/TTTAttributedLabel](../repos/TTTAttributedLabel/TTTAttributedLabel.md) | ⭐ 8,711 | 2026-08-03 | 1 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 11 | ⭐ 134 | 2026-08-01 | 2026-08-20 |
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 11 | ⭐ 59 | 2026-08-01 | 2026-08-20 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 11 | ⭐ 25,633 | 2026-08-01 | 2026-08-20 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 10 | ⭐ 291 | 2026-08-01 | 2026-08-20 |
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 10 | ⭐ 5,071 | 2026-08-01 | 2026-08-20 |
-| [google/promises](../repos/google/promises.md) | 9 | ⭐ 3,828 | 2026-08-01 | 2026-08-20 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | 8 | ⭐ 16,614 | 2026-08-04 | 2026-08-20 |
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 8 | ⭐ 673 | 2026-08-04 | 2026-08-20 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 12 | ⭐ 134 | 2026-08-01 | 2026-08-21 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 12 | ⭐ 59 | 2026-08-01 | 2026-08-21 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 12 | ⭐ 25,633 | 2026-08-01 | 2026-08-21 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 11 | ⭐ 291 | 2026-08-01 | 2026-08-21 |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 11 | ⭐ 5,072 | 2026-08-01 | 2026-08-21 |
+| [google/promises](../repos/google/promises.md) | 10 | ⭐ 3,828 | 2026-08-01 | 2026-08-21 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | 9 | ⭐ 16,614 | 2026-08-04 | 2026-08-21 |
+| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 9 | ⭐ 673 | 2026-08-04 | 2026-08-21 |
+| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 8 | ⭐ 4,481 | 2026-08-05 | 2026-08-21 |
 | [Mininglamp-OSS/octo-ios](../repos/Mininglamp-OSS/octo-ios.md) | 8 | ⭐ 595 | 2026-08-07 | 2026-08-19 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 7 | ⭐ 22,013 | 2026-08-02 | 2026-08-19 |
 
 ---
 
@@ -202,7 +202,8 @@
 - [SDWebImage/SDWebImageWebPCoder](../repos/SDWebImage/SDWebImageWebPCoder.md) - A WebP coder plugin for SDWebImage, use libwebp
 - [SDWebImage/SDWebImageSVGCoder](../repos/SDWebImage/SDWebImageSVGCoder.md) - A SVG coder plugin for SDWebImage, using Apple&#39;s built-in framework
 - [SDWebImage/SDWebImageAVIFCoder](../repos/SDWebImage/SDWebImageAVIFCoder.md) - A SDWebImage coder plugin to support AVIF(AV1 Image File Format) image
+- [google/app-check](../repos/google/app-check.md) - Google-internal core components of Firebase App Check.
 
 ---
 
-*Last updated: 2026-08-20T21:01:31.853Z*
+*Last updated: 2026-08-21T21:01:46.658Z*

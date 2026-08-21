@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 4,024 | 2026-08-01 | 6 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 4,361 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 19,755 | 2026-08-01 | 7 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 19,940 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 128,890 | 2026-08-02 | 4 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 129,064 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CyberTimon/RapidRAW](../repos/CyberTimon/RapidRAW.md) | ⭐ 9,456 | 2026-08-02 | 2 |
+| [CyberTimon/RapidRAW](../repos/CyberTimon/RapidRAW.md) | ⭐ 9,498 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 56,424 | 2026-08-06 | 3 |
+| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 56,953 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 19,091 | 2026-08-07 | 3 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 19,281 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chaitanyagiri/munder-difflin](../repos/chaitanyagiri/munder-difflin.md) | ⭐ 3,084 | 2026-08-16 | 3 |
+| [chaitanyagiri/munder-difflin](../repos/chaitanyagiri/munder-difflin.md) | ⭐ 3,374 | 2026-08-16 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agalwood/Motrix](../repos/agalwood/Motrix.md) | ⭐ 54,156 | 2026-08-17 | 3 |
+| [agalwood/Motrix](../repos/agalwood/Motrix.md) | ⭐ 54,244 | 2026-08-17 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 1,450 | 2026-08-20 | 1 |
+| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 1,480 | 2026-08-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/maka](../repos/apache/maka.md) | ⭐ 1,875 | 2026-08-20 | 1 |
+| [apache/maka](../repos/apache/maka.md) | ⭐ 1,989 | 2026-08-20 | 2 |
 
 
 ---
@@ -64,7 +64,7 @@
 | [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 20,293 | 2026-08-01 | The open-source alternative to Claude Cowork (powered by opencode) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 4,024 | 2026-08-01 | Cursor plugin specification and official plugins |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 4,361 | 2026-08-01 | Cursor plugin specification and official plugins |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 17,453 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
@@ -93,7 +93,7 @@
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 128,890 | 2026-08-02 | 4 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 129,064 | 2026-08-02 | 5 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | 2026-08-17 | 2 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,166 | 2026-08-15 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | 3 |
@@ -107,7 +107,7 @@
 | [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | ⭐ 75,400 | 2026-07-31 | 1 |
 | [strapi/strapi](../repos/strapi/strapi.md) | ⭐ 72,929 | 2026-08-15 | 1 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 68,347 | 2026-08-10 | 2 |
-| [cline/cline](../repos/cline/cline.md) | ⭐ 66,548 | 2026-08-20 | 1 |
+| [cline/cline](../repos/cline/cline.md) | ⭐ 66,614 | 2026-08-20 | 2 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 7 | ⭐ 4,361 | 2026-08-01 | 2026-08-21 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 7 | ⭐ 19,755 | 2026-08-01 | 2026-08-20 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 6 | ⭐ 4,024 | 2026-08-01 | 2026-08-20 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | 5 | ⭐ 129,064 | 2026-08-02 | 2026-08-21 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 5 | ⭐ 24,810 | 2026-08-02 | 2026-08-14 |
 | [cloudflare/computer](../repos/cloudflare/computer.md) | 5 | ⭐ 6,976 | 2026-08-05 | 2026-08-09 |
 | [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | 5 | ⭐ 13,986 | 2026-08-07 | 2026-08-11 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | 5 | ⭐ 166,401 | 2026-08-07 | 2026-08-12 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | 5 | ⭐ 90,880 | 2026-08-07 | 2026-08-15 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 4 | ⭐ 128,890 | 2026-08-02 | 2026-08-20 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-20T21:01:31.874Z*
+*Last updated: 2026-08-21T21:01:46.679Z*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 1
 - **First Seen**: 2026-08-20
-- **Last Updated**: 2026-08-20
+- **Last Updated**: 2026-08-21
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [modular/modular](../repos/modular/modular.md) | ⭐ 27,848 | 2026-08-20 | 1 |
+| [modular/modular](../repos/modular/modular.md) | ⭐ 28,655 | 2026-08-20 | 2 |
 
 
 ---
@@ -25,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [modular/modular](../repos/modular/modular.md) | ⭐ 27,848 | 2026-08-20 | The Modular Platform (includes MAX &amp; Mojo) |
+| [modular/modular](../repos/modular/modular.md) | ⭐ 28,655 | 2026-08-20 | The Modular Platform (includes MAX &amp; Mojo) |
 
 
 ---
@@ -34,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [modular/modular](../repos/modular/modular.md) | ⭐ 27,848 | 2026-08-20 | 1 |
+| [modular/modular](../repos/modular/modular.md) | ⭐ 28,655 | 2026-08-20 | 2 |
 
 ---
 
@@ -42,7 +42,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [modular/modular](../repos/modular/modular.md) | 1 | ⭐ 27,848 | 2026-08-20 | 2026-08-20 |
+| [modular/modular](../repos/modular/modular.md) | 2 | ⭐ 28,655 | 2026-08-20 | 2026-08-21 |
 
 ---
 
@@ -52,4 +52,4 @@
 
 ---
 
-*Last updated: 2026-08-20T21:01:31.850Z*
+*Last updated: 2026-08-21T21:01:46.654Z*

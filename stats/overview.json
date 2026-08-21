@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-20T21:01:35.905Z",
-  "total_repositories": 2447,
-  "trending_today": 417,
-  "new_this_month": 2447,
+  "generated_at": "2026-08-21T21:01:50.676Z",
+  "total_repositories": 2451,
+  "trending_today": 418,
+  "new_this_month": 2451,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-08-20",
+  "last_collection": "2026-08-21",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "rubysec/ruby-advisory-db",
-    "trending_days": 18,
+    "trending_days": 19,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "modular/modular",
-    "stars": 27848,
-    "first_seen": "2026-08-20"
+    "full_name": "omacom-io/omawrite",
+    "stars": 139,
+    "first_seen": "2026-08-21"
   },
   "fastest_growing": {
     "full_name": "openai/whisper",
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 38230410,
-  "avg_stars": 15623,
-  "avg_trending_days": 3.1,
+  "total_stars": 38244594,
+  "avg_stars": 15604,
+  "avg_trending_days": 3.3,
   "language_count": 54,
-  "topic_count": 7205,
+  "topic_count": 7206,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

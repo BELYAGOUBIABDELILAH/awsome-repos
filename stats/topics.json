@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:01:35.945Z",
+  "generated_at": "2026-08-21T21:01:50.713Z",
   "total_topics": 100,
   "topics": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "topic": "android",
-      "repository_count": 125,
+      "repository_count": 126,
       "percentage": 5.1
     },
     {
@@ -30,7 +30,7 @@
     {
       "topic": "rust",
       "repository_count": 87,
-      "percentage": 3.6
+      "percentage": 3.5
     },
     {
       "topic": "macos",
@@ -85,7 +85,7 @@
     {
       "topic": "ai-agents",
       "repository_count": 60,
-      "percentage": 2.5
+      "percentage": 2.4
     },
     {
       "topic": "security",
@@ -134,7 +134,7 @@
     },
     {
       "topic": "flutter",
-      "repository_count": 49,
+      "repository_count": 50,
       "percentage": 2
     },
     {
@@ -383,6 +383,11 @@
       "percentage": 0.8
     },
     {
+      "topic": "dart",
+      "repository_count": 20,
+      "percentage": 0.8
+    },
+    {
       "topic": "web",
       "repository_count": 20,
       "percentage": 0.8
@@ -404,11 +409,6 @@
     },
     {
       "topic": "cloud",
-      "repository_count": 19,
-      "percentage": 0.8
-    },
-    {
-      "topic": "dart",
       "repository_count": 19,
       "percentage": 0.8
     },
@@ -483,17 +483,17 @@
       "percentage": 0.7
     },
     {
-      "topic": "generative-ai",
-      "repository_count": 17,
-      "percentage": 0.7
-    },
-    {
       "topic": "cursor",
       "repository_count": 17,
       "percentage": 0.7
     },
     {
       "topic": "laravel",
+      "repository_count": 17,
+      "percentage": 0.7
+    },
+    {
+      "topic": "generative-ai",
       "repository_count": 17,
       "percentage": 0.7
     },

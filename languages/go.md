@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 45,742 | 2026-08-01 | 5 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 45,860 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stretchr/testify](../repos/stretchr/testify.md) | ⭐ 26,171 | 2026-08-02 | 3 |
+| [stretchr/testify](../repos/stretchr/testify.md) | ⭐ 26,174 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 1,363 | 2026-08-02 | 5 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 1,577 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pulumi/pulumi](../repos/pulumi/pulumi.md) | ⭐ 25,592 | 2026-08-03 | 3 |
+| [pulumi/pulumi](../repos/pulumi/pulumi.md) | ⭐ 25,597 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zzet/gortex](../repos/zzet/gortex.md) | ⭐ 1,373 | 2026-08-04 | 5 |
+| [zzet/gortex](../repos/zzet/gortex.md) | ⭐ 1,427 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/osv-scanner](../repos/google/osv-scanner.md) | ⭐ 10,885 | 2026-08-06 | 5 |
+| [google/osv-scanner](../repos/google/osv-scanner.md) | ⭐ 10,903 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,496 | 2026-08-06 | 4 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,505 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 37,827 | 2026-08-07 | 4 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 38,526 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shadow1ng/fscan](../repos/shadow1ng/fscan.md) | ⭐ 14,408 | 2026-08-19 | 2 |
+| [shadow1ng/fscan](../repos/shadow1ng/fscan.md) | ⭐ 14,420 | 2026-08-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/sam](../repos/google/sam.md) | ⭐ 345 | 2026-08-19 | 2 |
+| [google/sam](../repos/google/sam.md) | ⭐ 367 | 2026-08-19 | 3 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [golang/go](../repos/golang/go.md) | ⭐ 135,891 | 2026-07-31 | The Go programming language |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 45,742 | 2026-08-01 | A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs ... |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 45,860 | 2026-08-01 | A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | ⭐ 197 | 2026-08-01 | Offensive security framework for AI agent infrastructure - recon, credential looting, model exfil... |
@@ -102,10 +102,10 @@
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,391 | 2026-08-12 | 1 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,295 | 2026-08-04 | 2 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
-| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,496 | 2026-08-06 | 4 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,505 | 2026-08-06 | 5 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 46,694 | 2026-08-01 | 8 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 45,860 | 2026-08-01 | 6 |
 | [cli/cli](../repos/cli/cli.md) | ⭐ 45,795 | 2026-08-11 | 1 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 45,742 | 2026-08-01 | 5 |
 | [milvus-io/milvus](../repos/milvus-io/milvus.md) | ⭐ 45,699 | 2026-08-19 | 1 |
 | [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 41,084 | 2026-08-02 | 3 |
 
@@ -119,12 +119,12 @@
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 8 | ⭐ 46,694 | 2026-08-01 | 2026-08-19 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 8 | ⭐ 37,482 | 2026-08-01 | 2026-08-19 |
 | [golang/go](../repos/golang/go.md) | 6 | ⭐ 135,891 | 2026-07-31 | 2026-08-19 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 6 | ⭐ 45,860 | 2026-08-01 | 2026-08-21 |
 | [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 6 | ⭐ 32,878 | 2026-08-02 | 2026-08-07 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 5 | ⭐ 45,742 | 2026-08-01 | 2026-08-20 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 6 | ⭐ 1,577 | 2026-08-02 | 2026-08-21 |
+| [zzet/gortex](../repos/zzet/gortex.md) | 6 | ⭐ 1,427 | 2026-08-04 | 2026-08-21 |
+| [google/osv-scanner](../repos/google/osv-scanner.md) | 6 | ⭐ 10,903 | 2026-08-06 | 2026-08-21 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 5 | ⭐ 19,889 | 2026-08-01 | 2026-08-14 |
-| [superplanehq/superplane](../repos/superplanehq/superplane.md) | 5 | ⭐ 5,333 | 2026-08-02 | 2026-08-16 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 5 | ⭐ 1,363 | 2026-08-02 | 2026-08-20 |
-| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 5 | ⭐ 37,105 | 2026-08-03 | 2026-08-19 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-20T21:01:31.832Z*
+*Last updated: 2026-08-21T21:01:46.635Z*

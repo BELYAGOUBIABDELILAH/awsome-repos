@@ -16,28 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,081 | 2026-08-01 | 6 |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,093 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 27,028 | 2026-08-02 | 14 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 27,417 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,434 | 2026-08-04 | 5 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,446 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,437 | 2026-08-07 | 9 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,444 | 2026-08-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,150 | 2026-08-08 | 3 |
+| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,156 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 3,851 | 2026-08-12 | 3 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 3,899 | 2026-08-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 32,900 | 2026-08-20 | 1 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 32,922 | 2026-08-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,397 | 2026-08-20 | 1 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,404 | 2026-08-20 | 2 |
 
 
 ---
@@ -64,7 +64,7 @@
 | [Chachamaru127/claude-code-harness](../repos/Chachamaru127/claude-code-harness.md) | ⭐ 3,034 | 2026-08-01 | Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonom... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,081 | 2026-08-01 | Achieve state of the art inference performance with modern accelerators on Kubernetes |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,093 | 2026-08-01 | Achieve state of the art inference performance with modern accelerators on Kubernetes |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [void-linux/void-packages](../repos/void-linux/void-packages.md) | ⭐ 3,371 | 2026-08-01 | The Void source packages collection |
@@ -73,7 +73,7 @@
 | [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,642 | 2026-08-01 | Универсальный менеджер для обхода блокировок на OpenWrt |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 27,028 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 27,417 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
 
 
 ---
@@ -88,10 +88,10 @@
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,802 | 2026-08-06 | 3 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,419 | 2026-08-04 | 2 |
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 32,900 | 2026-08-20 | 1 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 32,922 | 2026-08-20 | 2 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 27,417 | 2026-08-02 | 15 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 27,028 | 2026-08-02 | 14 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,434 | 2026-08-04 | 5 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,446 | 2026-08-04 | 6 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,694 | 2026-08-07 | 3 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 19,480 | 2026-08-12 | 2 |
@@ -109,13 +109,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 14 | ⭐ 27,028 | 2026-08-02 | 2026-08-20 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 15 | ⭐ 27,417 | 2026-08-02 | 2026-08-21 |
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 10 | ⭐ 94,636 | 2026-08-01 | 2026-08-19 |
-| [expo/skills](../repos/expo/skills.md) | 9 | ⭐ 2,437 | 2026-08-07 | 2026-08-20 |
+| [expo/skills](../repos/expo/skills.md) | 10 | ⭐ 2,444 | 2026-08-07 | 2026-08-21 |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | 7 | ⭐ 4,093 | 2026-08-01 | 2026-08-21 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 7 | ⭐ 2,108 | 2026-08-02 | 2026-08-16 |
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | 6 | ⭐ 4,081 | 2026-08-01 | 2026-08-20 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 6 | ⭐ 11,100 | 2026-08-04 | 2026-08-19 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 5 | ⭐ 25,434 | 2026-08-04 | 2026-08-20 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 6 | ⭐ 25,446 | 2026-08-04 | 2026-08-21 |
 | [wolfi-dev/os](../repos/wolfi-dev/os.md) | 5 | ⭐ 1,269 | 2026-08-14 | 2026-08-19 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 4 | ⭐ 2,590 | 2026-08-05 | 2026-08-09 |
 | [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | 4 | ⭐ 18,753 | 2026-08-08 | 2026-08-19 |
@@ -206,4 +206,4 @@
 
 ---
 
-*Last updated: 2026-08-20T21:01:31.869Z*
+*Last updated: 2026-08-21T21:01:46.674Z*
