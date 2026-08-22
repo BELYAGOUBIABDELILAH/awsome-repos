@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 73
+- **Total Repositories**: 74
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 10 |
+| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 12 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 12 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 11 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,072 | 2026-08-01 | 11 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 12 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,632 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 9 |
+| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | ⭐ 673 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | ⭐ 673 | 2026-08-04 | 9 |
+| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,933 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,934 | 2026-08-04 | 6 |
+| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | ⭐ 4,484 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,511 | 2026-08-04 | 5 |
+| [AzureAD/microsoft-authentication-library-common-for-objc](../repos/AzureAD/microsoft-authentication-library-common-for-objc.md) | ⭐ 65 | 2026-08-07 | 9 |
 
 
 ---
@@ -90,10 +90,10 @@
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,395 | 2026-08-02 | 3 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 12 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,632 | 2026-08-01 | 13 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,013 | 2026-08-02 | 7 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 9 |
-| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,934 | 2026-08-04 | 6 |
+| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,933 | 2026-08-04 | 7 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,906 | 2026-08-04 | 3 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | 3 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 12 | ⭐ 134 | 2026-08-01 | 2026-08-21 |
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 12 | ⭐ 59 | 2026-08-01 | 2026-08-21 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 12 | ⭐ 25,633 | 2026-08-01 | 2026-08-21 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 11 | ⭐ 291 | 2026-08-01 | 2026-08-21 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 13 | ⭐ 134 | 2026-08-01 | 2026-08-22 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 13 | ⭐ 59 | 2026-08-01 | 2026-08-22 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 13 | ⭐ 25,632 | 2026-08-01 | 2026-08-22 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 12 | ⭐ 291 | 2026-08-01 | 2026-08-22 |
+| [google/promises](../repos/google/promises.md) | 11 | ⭐ 3,828 | 2026-08-01 | 2026-08-22 |
 | [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 11 | ⭐ 5,072 | 2026-08-01 | 2026-08-21 |
-| [google/promises](../repos/google/promises.md) | 10 | ⭐ 3,828 | 2026-08-01 | 2026-08-21 |
+| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 10 | ⭐ 673 | 2026-08-04 | 2026-08-22 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 9 | ⭐ 16,614 | 2026-08-04 | 2026-08-21 |
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 9 | ⭐ 673 | 2026-08-04 | 2026-08-21 |
-| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 8 | ⭐ 4,481 | 2026-08-05 | 2026-08-21 |
-| [Mininglamp-OSS/octo-ios](../repos/Mininglamp-OSS/octo-ios.md) | 8 | ⭐ 595 | 2026-08-07 | 2026-08-19 |
+| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 9 | ⭐ 4,484 | 2026-08-05 | 2026-08-22 |
+| [AzureAD/microsoft-authentication-library-common-for-objc](../repos/AzureAD/microsoft-authentication-library-common-for-objc.md) | 9 | ⭐ 65 | 2026-08-07 | 2026-08-22 |
 
 ---
 
@@ -203,7 +203,8 @@
 - [SDWebImage/SDWebImageSVGCoder](../repos/SDWebImage/SDWebImageSVGCoder.md) - A SVG coder plugin for SDWebImage, using Apple&#39;s built-in framework
 - [SDWebImage/SDWebImageAVIFCoder](../repos/SDWebImage/SDWebImageAVIFCoder.md) - A SDWebImage coder plugin to support AVIF(AV1 Image File Format) image
 - [google/app-check](../repos/google/app-check.md) - Google-internal core components of Firebase App Check.
+- [uber/ios-snapshot-test-case](../repos/uber/ios-snapshot-test-case.md) - Snapshot view unit tests for iOS
 
 ---
 
-*Last updated: 2026-08-21T21:01:46.658Z*
+*Last updated: 2026-08-22T21:01:46.293Z*

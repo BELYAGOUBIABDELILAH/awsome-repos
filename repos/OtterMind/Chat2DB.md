@@ -1,6 +1,6 @@
 # OtterMind&#x2F;Chat2DB
 
-> 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+> Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;OtterMind&#x2F;Chat2DB) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | Other |
-| **Stars** | ⭐ 27,937 |
-| **Forks** | 🍴 3,010 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 28,014 |
+| **Forks** | 🍴 3,016 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Aug 11, 2026 |
+| **Last Seen** | Aug 22, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`ai`](../../topics/ai.md) [`bi`](../../topics/bi.md) [`chatgpt`](../../topics/chatgpt.md) [`clickhouse`](../../topics/clickhouse.md) [`clickhouse-client`](../../topics/clickhouse-client.md) [`database`](../../topics/database.md) [`datagrip`](../../topics/datagrip.md) [`db2`](../../topics/db2.md) [`dbeaver`](../../topics/dbeaver.md) [`gpt`](../../topics/gpt.md) [`hive`](../../topics/hive.md) [`mysql`](../../topics/mysql.md) [`navicat`](../../topics/navicat.md) [`oracle`](../../topics/oracle.md) [`postgresql`](../../topics/postgresql.md) [`redis`](../../topics/redis.md) [`redis-client`](../../topics/redis-client.md) [`sqlserver`](../../topics/sqlserver.md) [`text2sql`](../../topics/text2sql.md) 
+[`ai`](../../topics/ai.md) [`clickhouse`](../../topics/clickhouse.md) [`database`](../../topics/database.md) [`database-client`](../../topics/database-client.md) [`database-gui`](../../topics/database-gui.md) [`database-management`](../../topics/database-management.md) [`jdbc`](../../topics/jdbc.md) [`llm`](../../topics/llm.md) [`mcp`](../../topics/mcp.md) [`mongodb`](../../topics/mongodb.md) [`mysql`](../../topics/mysql.md) [`oracle`](../../topics/oracle.md) [`postgresql`](../../topics/postgresql.md) [`redis`](../../topics/redis.md) [`sql`](../../topics/sql.md) [`sql-client`](../../topics/sql-client.md) [`sql-editor`](../../topics/sql-editor.md) [`sql-server`](../../topics/sql-server.md) [`sqlite`](../../topics/sqlite.md) [`text-to-sql`](../../topics/text-to-sql.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `Backend Development` `Databases` `Systems Programming` `Developer Tools` 
+`Artificial Intelligence` `Large Language Models` `Frontend Development` `Backend Development` `Databases` `Systems Programming` `Developer Tools` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-21T21:01:49.343Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-22T21:01:49.016Z*  
+*Data from 3 trending reports*

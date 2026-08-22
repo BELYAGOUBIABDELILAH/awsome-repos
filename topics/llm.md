@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 300
+- **Total Repositories**: 308
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-19
-- **Average Stars**: 23748
+- **Last Updated**: 2026-08-22
+- **Average Stars**: 23443
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 113,790 | Python |  |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 234,355 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,706 | Java |  |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 74,127 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 181 | Kotlin |  |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 12,200 | JavaScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,436 | Scala |  |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,359 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,850 | Scala |  |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,058 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,093 | Shell |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,686 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,340 | OCaml |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,440 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [zml/zml](../repos/zml/zml.md) | ⭐ 3,998 | Zig |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,857 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,779 | Vim Script |  |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,105 | Shell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,178 | Nim |  |
+| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,261 | Dart |  |
 
 
 ---
@@ -53,8 +53,8 @@
 
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 233,013 | Python | 2026-08-01 | 7 |
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 200,252 | TypeScript | 2026-08-11 | 1 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 234,355 | Python | 2026-08-01 | 8 |
+| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 201,757 | TypeScript | 2026-08-11 | 2 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,458 | Python | 2026-08-06 | 4 |
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,803 | Go | 2026-08-01 | 9 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | TypeScript | 2026-08-07 | 5 |
@@ -76,28 +76,28 @@
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 113,790 | Python | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 233,013 | Python | 1 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 234,355 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 11,133 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 11,276 | JavaScript | 1 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 74,127 | Python | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 12,200 | JavaScript | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 15,903 | Rust | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,359 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,803 | Go | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,706 | Java | 3 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,039 | C | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,388 | C | 1 |
 
 ---
 
@@ -132,11 +132,15 @@
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 113,790 | Python | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 233,013 | Python | 2026-08-01 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 234,355 | Python | 2026-08-01 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-08-22](../archive/2026/08/2026-08-22.md)
+- 55 repositories trending
+- Top: NousResearch&#x2F;hermes-agent
 
 ### [2026-08-21](../archive/2026/08/2026-08-21.md)
 - 46 repositories trending
@@ -158,10 +162,6 @@
 - 25 repositories trending
 - Top: ollama&#x2F;ollama
 
-### [2026-08-15](../archive/2026/08/2026-08-15.md)
-- 39 repositories trending
-- Top: ollama&#x2F;ollama
-
 
 ---
 
@@ -171,30 +171,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 19 days | 2026-08-01 | 2026-08-21 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 17 days | 2026-08-01 | 2026-08-21 |
-| [vlang/v](../repos/vlang/v.md) | 17 days | 2026-08-01 | 2026-08-21 |
-| [joernio/joern](../repos/joernio/joern.md) | 15 days | 2026-08-01 | 2026-08-21 |
-| [vim/vim](../repos/vim/vim.md) | 15 days | 2026-08-01 | 2026-08-21 |
+| [apache/spark](../repos/apache/spark.md) | 20 days | 2026-08-01 | 2026-08-22 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 18 days | 2026-08-01 | 2026-08-22 |
+| [vlang/v](../repos/vlang/v.md) | 18 days | 2026-08-01 | 2026-08-22 |
+| [joernio/joern](../repos/joernio/joern.md) | 16 days | 2026-08-01 | 2026-08-22 |
+| [vim/vim](../repos/vim/vim.md) | 16 days | 2026-08-01 | 2026-08-22 |
 | [nim-lang/Nim](../repos/nim-lang/Nim.md) | 15 days | 2026-08-01 | 2026-08-21 |
-| [facebook/infer](../repos/facebook/infer.md) | 12 days | 2026-08-02 | 2026-08-21 |
+| [facebook/infer](../repos/facebook/infer.md) | 13 days | 2026-08-02 | 2026-08-22 |
+| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 13 days | 2026-08-04 | 2026-08-22 |
+| [zml/zml](../repos/zml/zml.md) | 12 days | 2026-08-01 | 2026-08-22 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 12 days | 2026-08-02 | 2026-08-21 |
-| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 12 days | 2026-08-04 | 2026-08-21 |
-| [zml/zml](../repos/zml/zml.md) | 11 days | 2026-08-01 | 2026-08-21 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 55 repositories (18%)
+- **Python**: 58 repositories (19%)
 - **TypeScript**: 33 repositories (11%)
-- **Go**: 26 repositories (9%)
-- **C**: 26 repositories (9%)
+- **Go**: 29 repositories (9%)
+- **C**: 28 repositories (9%)
 - **Rust**: 21 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 41.2 repositories
+- **Daily Average**: 41.8 repositories
 - **Peak Day**: 2026-08-19 (64 repositories)
 - **Growth Rate**: 100% this month
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-08-21T21:01:46.379Z*
+*Last updated: 2026-08-22T21:01:45.995Z*

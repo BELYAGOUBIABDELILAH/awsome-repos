@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 46
+- **Total Repositories**: 50
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-21
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,520 | 2026-08-01 | 4 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 921 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,405 | 2026-08-01 | 14 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,405 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,403 | 2026-08-01 | 17 |
+| [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,434 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,483 | 2026-08-02 | 12 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 26,585 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,258 | 2026-08-04 | 9 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,472 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,471 | 2026-08-05 | 7 |
+| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,585 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,744 | 2026-08-06 | 6 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 4,182 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,583 | 2026-08-06 | 4 |
+| [AcademySoftwareFoundation/OpenPBR](../repos/AcademySoftwareFoundation/OpenPBR.md) | ⭐ 774 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,318 | 2026-08-08 | 5 |
+| [fontsource/font-files](../repos/fontsource/font-files.md) | ⭐ 485 | 2026-08-22 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
+| [KyleAMathews/typefaces](../repos/KyleAMathews/typefaces.md) | ⭐ 2,587 | 2026-08-22 | 1 |
 
 
 ---
@@ -79,7 +79,7 @@
 | [vinceliuice/Orchis-theme](../repos/vinceliuice/Orchis-theme.md) | ⭐ 4,045 | 2026-08-02 | Orchis is a [Material Design](https:&#x2F;&#x2F;material.io) theme for GNOME&#x2F;GTK based desktop environments. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,424 | 2026-08-02 | A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course... |
+| [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,434 | 2026-08-02 | A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course... |
 
 
 ---
@@ -91,23 +91,23 @@
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,744 | 2026-08-06 | 6 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,520 | 2026-08-01 | 4 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,258 | 2026-08-04 | 9 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 25,792 | 2026-08-02 | 10 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 26,585 | 2026-08-02 | 11 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,501 | 2026-08-04 | 1 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,768 | 2026-08-08 | 1 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,114 | 2026-08-01 | 11 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,773 | 2026-08-04 | 3 |
-| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,583 | 2026-08-06 | 4 |
+| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,585 | 2026-08-06 | 5 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,431 | 2026-08-09 | 1 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,483 | 2026-08-02 | 12 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,471 | 2026-08-05 | 7 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,472 | 2026-08-05 | 8 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,179 | 2026-08-01 | 6 |
 | [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,412 | 2026-08-03 | 2 |
 | [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,318 | 2026-08-08 | 5 |
 | [progit/progit2](../repos/progit/progit2.md) | ⭐ 6,551 | 2026-08-06 | 2 |
 | [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) | ⭐ 5,977 | 2026-08-02 | 3 |
-| [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,424 | 2026-08-02 | 4 |
+| [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,434 | 2026-08-02 | 5 |
 
 ---
 
@@ -116,13 +116,13 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 17 | ⭐ 1,403 | 2026-08-01 | 2026-08-21 |
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 14 | ⭐ 1,405 | 2026-08-01 | 2026-08-21 |
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 12 | ⭐ 921 | 2026-08-01 | 2026-08-19 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 15 | ⭐ 1,405 | 2026-08-01 | 2026-08-22 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 13 | ⭐ 921 | 2026-08-01 | 2026-08-22 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 12 | ⭐ 10,483 | 2026-08-02 | 2026-08-21 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 11 | ⭐ 12,114 | 2026-08-01 | 2026-08-17 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 10 | ⭐ 25,792 | 2026-08-02 | 2026-08-19 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 11 | ⭐ 26,585 | 2026-08-02 | 2026-08-22 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 9 | ⭐ 45,258 | 2026-08-04 | 2026-08-21 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 7 | ⭐ 9,471 | 2026-08-05 | 2026-08-21 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 8 | ⭐ 9,472 | 2026-08-05 | 2026-08-22 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 6 | ⭐ 9,179 | 2026-08-01 | 2026-08-17 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 6 | ⭐ 82,744 | 2026-08-06 | 2026-08-21 |
 
@@ -176,7 +176,11 @@
 - [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) - :octocat: Dark GitHub style
 - [Terminus2049/Terminus2049.github.io](../repos/Terminus2049/Terminus2049.github.io.md) - No more 404
 - [BingyanStudio/LapisCV](../repos/BingyanStudio/LapisCV.md) - 📄 Easily create your resume with Markdown on VSCode &#x2F; Typora &#x2F; Obsidian
+- [fontsource/font-files](../repos/fontsource/font-files.md) - 2000+ open-source fonts bundled into neat packages.
+- [KyleAMathews/typefaces](../repos/KyleAMathews/typefaces.md) - NPM packages for Open Source typefaces
+- [adobe/spectrum-css](../repos/adobe/spectrum-css.md) - The standard CSS implementation of the Spectrum design language.
+- [mingw-w64/mingw-w64.github.io](../repos/mingw-w64/mingw-w64.github.io.md) - mingw-w64.net web page contents (The new web page)
 
 ---
 
-*Last updated: 2026-08-21T21:01:46.619Z*
+*Last updated: 2026-08-22T21:01:46.244Z*

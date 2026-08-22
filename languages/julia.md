@@ -14,13 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 728 | 2026-08-01 | 18 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [kahliburke/Kaimon.jl](../repos/kahliburke/Kaimon.jl.md) | ⭐ 25 | 2026-08-20 | 2 |
 
+*No Julia repositories trending today*
 
 ---
 
@@ -121,4 +116,4 @@
 
 ---
 
-*Last updated: 2026-08-21T21:01:46.645Z*
+*Last updated: 2026-08-22T21:01:46.278Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 125
+- **Total Repositories**: 128
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-21
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,944 | 2026-08-01 | 9 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,967 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 67,588 | 2026-08-01 | 9 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 67,693 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,467 | 2026-08-02 | 3 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,125 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mimalloc](../repos/microsoft/mimalloc.md) | ⭐ 13,316 | 2026-08-04 | 4 |
+| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,937 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,893 | 2026-08-04 | 6 |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,058 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,428 | 2026-08-04 | 6 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,312 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [redis/redis](../repos/redis/redis.md) | ⭐ 76,073 | 2026-08-04 | 4 |
+| [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) | ⭐ 646 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | 5 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,897 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,280 | 2026-08-06 | 7 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,430 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 39,798 | 2026-08-07 | 8 |
+| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | 6 |
 
 
 ---
@@ -52,22 +52,22 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,944 | 2026-08-01 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization ... |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,967 | 2026-08-01 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 67,588 | 2026-08-01 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur... |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 67,693 | 2026-08-01 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,119 | 2026-08-01 | Cross-platform asynchronous I&#x2F;O |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,125 | 2026-08-01 | Cross-platform asynchronous I&#x2F;O |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,071 | 2026-08-01 | Flipper Zero Unleashed Firmware |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,927 | 2026-08-01 | Ultralightweight JSON parser in ANSI C |
+| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,937 | 2026-08-01 | Ultralightweight JSON parser in ANSI C |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,039 | 2026-08-01 | Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,058 | 2026-08-01 | Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,229 | 2026-08-01 | A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input |
@@ -89,24 +89,24 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,039 | 2026-08-07 | 7 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,944 | 2026-08-01 | 9 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,967 | 2026-08-01 | 10 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,073 | 2026-08-04 | 4 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,128 | 2026-08-02 | 6 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 67,588 | 2026-08-01 | 9 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 67,693 | 2026-08-01 | 10 |
 | [git/git](../repos/git/git.md) | ⭐ 62,663 | 2026-08-05 | 3 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 40,280 | 2026-08-01 | 2 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,312 | 2026-08-01 | 3 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 39,798 | 2026-08-07 | 8 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,255 | 2026-08-08 | 3 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,462 | 2026-08-02 | 3 |
-| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | 5 |
+| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | 6 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,385 | 2026-08-03 | 3 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 32,007 | 2026-08-17 | 1 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 31,813 | 2026-08-01 | 1 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,571 | 2026-08-16 | 1 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,467 | 2026-08-02 | 3 |
 | [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,016 | 2026-08-09 | 3 |
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,592 | 2026-08-07 | 6 |
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,119 | 2026-08-01 | 6 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,598 | 2026-08-07 | 7 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,125 | 2026-08-01 | 7 |
 | [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 26,835 | 2026-08-08 | 2 |
 
 ---
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 9 | ⭐ 137,944 | 2026-08-01 | 2026-08-21 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 9 | ⭐ 67,588 | 2026-08-01 | 2026-08-21 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 10 | ⭐ 137,967 | 2026-08-01 | 2026-08-22 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 10 | ⭐ 67,693 | 2026-08-01 | 2026-08-22 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 8 | ⭐ 16,290 | 2026-08-06 | 2026-08-22 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 8 | ⭐ 39,798 | 2026-08-07 | 2026-08-21 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 7 | ⭐ 16,280 | 2026-08-06 | 2026-08-21 |
+| [libuv/libuv](../repos/libuv/libuv.md) | 7 | ⭐ 27,125 | 2026-08-01 | 2026-08-22 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 7 | ⭐ 6,897 | 2026-08-04 | 2026-08-22 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 7 | ⭐ 4,430 | 2026-08-04 | 2026-08-22 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 7 | ⭐ 148,039 | 2026-08-07 | 2026-08-21 |
-| [libuv/libuv](../repos/libuv/libuv.md) | 6 | ⭐ 27,119 | 2026-08-01 | 2026-08-19 |
+| [facebook/zstd](../repos/facebook/zstd.md) | 7 | ⭐ 27,598 | 2026-08-07 | 2026-08-22 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 6 | ⭐ 75,128 | 2026-08-02 | 2026-08-17 |
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 6 | ⭐ 6,893 | 2026-08-04 | 2026-08-21 |
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 6 | ⭐ 4,428 | 2026-08-04 | 2026-08-21 |
-| [facebook/zstd](../repos/facebook/zstd.md) | 6 | ⭐ 27,592 | 2026-08-07 | 2026-08-21 |
 
 ---
 
@@ -155,7 +155,7 @@
 - [mpv-player/mpv](../repos/mpv-player/mpv.md) - 🎥 Command line media player
 - [TsudaKageyu/minhook](../repos/TsudaKageyu/minhook.md) - The Minimalistic x86&#x2F;x64 API Hooking Library for Windows
 - [olikraus/u8g2](../repos/olikraus/u8g2.md) - U8glib library for monochrome displays, version 2 
-- [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) - ArkOS for Unofficial Devices
+- [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) - Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.
 - [bmax121/KernelPatch](../repos/bmax121/KernelPatch.md) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
 - [mgba-emu/mgba](../repos/mgba-emu/mgba.md) - mGBA Game Boy Advance Emulator
 - [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) - Flipper Zero firmware source code
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-21T21:01:46.609Z*
+*Last updated: 2026-08-22T21:01:46.234Z*

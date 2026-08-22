@@ -1,6 +1,6 @@
 # lcdyk0517&#x2F;arkos4clone
 
-> ArkOS for Unofficial Devices
+> Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;lcdyk0517&#x2F;arkos4clone) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | MIT |
-| **Stars** | ⭐ 619 |
-| **Forks** | 🍴 355 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 646 |
+| **Forks** | 🍴 384 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 9, 2026 |
+| **Last Seen** | Aug 22, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 619+ stars, strong contributor base |
+| **Community** | Very Active | 646+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-21T21:01:48.454Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-22T21:01:48.120Z*  
+*Data from 4 trending reports*

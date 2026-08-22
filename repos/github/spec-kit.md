@@ -72,7 +72,7 @@
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
 | **Community** | Very Active | 129,117+ stars, strong contributor base |
-| **Maturity** | Experimental | New project, evolving rapidly |
+| **Maturity** | Stable | Established project |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-08-21T21:01:49.898Z*  
+*Last updated: 2026-08-22T21:01:49.562Z*  
 *Data from 2 trending reports*

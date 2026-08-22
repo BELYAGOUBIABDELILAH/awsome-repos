@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T21:01:50.701Z",
+  "generated_at": "2026-08-22T21:01:50.590Z",
   "total_count": 100,
   "repositories": [
     {
@@ -342,19 +342,6 @@
     },
     {
       "rank": 27,
-      "full_name": "VSCodium/vscodium",
-      "owner": "VSCodium",
-      "name": "vscodium",
-      "stars": 32922,
-      "estimated_initial_stars": 32822,
-      "growth": 100,
-      "growth_rate": 100,
-      "language": "Shell",
-      "first_seen": "2026-08-20",
-      "trending_days": 2
-    },
-    {
-      "rank": 28,
       "full_name": "surrealdb/surrealdb",
       "owner": "surrealdb",
       "name": "surrealdb",
@@ -367,7 +354,7 @@
       "trending_days": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "full_name": "amix/vimrc",
       "owner": "amix",
       "name": "vimrc",
@@ -380,7 +367,7 @@
       "trending_days": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "full_name": "iOfficeAI/AionUi",
       "owner": "iOfficeAI",
       "name": "AionUi",
@@ -393,7 +380,7 @@
       "trending_days": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "full_name": "SillyTavern/SillyTavern",
       "owner": "SillyTavern",
       "name": "SillyTavern",
@@ -406,7 +393,7 @@
       "trending_days": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "full_name": "projectdiscovery/nuclei",
       "owner": "projectdiscovery",
       "name": "nuclei",
@@ -419,7 +406,7 @@
       "trending_days": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "full_name": "DrKLO/Telegram",
       "owner": "DrKLO",
       "name": "Telegram",
@@ -432,7 +419,7 @@
       "trending_days": 2
     },
     {
-      "rank": 34,
+      "rank": 33,
       "full_name": "ankitects/anki",
       "owner": "ankitects",
       "name": "anki",
@@ -445,7 +432,7 @@
       "trending_days": 2
     },
     {
-      "rank": 35,
+      "rank": 34,
       "full_name": "notepad-plus-plus/notepad-plus-plus",
       "owner": "notepad-plus-plus",
       "name": "notepad-plus-plus",
@@ -458,20 +445,7 @@
       "trending_days": 2
     },
     {
-      "rank": 36,
-      "full_name": "modular/modular",
-      "owner": "modular",
-      "name": "modular",
-      "stars": 28655,
-      "estimated_initial_stars": 28555,
-      "growth": 100,
-      "growth_rate": 100,
-      "language": "Mojo",
-      "first_seen": "2026-08-20",
-      "trending_days": 2
-    },
-    {
-      "rank": 37,
+      "rank": 35,
       "full_name": "jarrodwatts/claude-hud",
       "owner": "jarrodwatts",
       "name": "claude-hud",
@@ -484,7 +458,7 @@
       "trending_days": 2
     },
     {
-      "rank": 38,
+      "rank": 36,
       "full_name": "charmbracelet/crush",
       "owner": "charmbracelet",
       "name": "crush",
@@ -497,7 +471,7 @@
       "trending_days": 2
     },
     {
-      "rank": 39,
+      "rank": 37,
       "full_name": "ATH-MaaS/Pixelle-Video",
       "owner": "ATH-MaaS",
       "name": "Pixelle-Video",
@@ -510,7 +484,7 @@
       "trending_days": 2
     },
     {
-      "rank": 40,
+      "rank": 38,
       "full_name": "valkey-io/valkey",
       "owner": "valkey-io",
       "name": "valkey",
@@ -523,7 +497,7 @@
       "trending_days": 2
     },
     {
-      "rank": 41,
+      "rank": 39,
       "full_name": "simple-icons/simple-icons",
       "owner": "simple-icons",
       "name": "simple-icons",
@@ -536,7 +510,7 @@
       "trending_days": 2
     },
     {
-      "rank": 42,
+      "rank": 40,
       "full_name": "arendst/Tasmota",
       "owner": "arendst",
       "name": "Tasmota",
@@ -549,7 +523,7 @@
       "trending_days": 2
     },
     {
-      "rank": 43,
+      "rank": 41,
       "full_name": "dubinc/dub",
       "owner": "dubinc",
       "name": "dub",
@@ -562,7 +536,7 @@
       "trending_days": 2
     },
     {
-      "rank": 44,
+      "rank": 42,
       "full_name": "simdjson/simdjson",
       "owner": "simdjson",
       "name": "simdjson",
@@ -575,7 +549,7 @@
       "trending_days": 2
     },
     {
-      "rank": 45,
+      "rank": 43,
       "full_name": "OpenListTeam/OpenList",
       "owner": "OpenListTeam",
       "name": "OpenList",
@@ -588,7 +562,7 @@
       "trending_days": 2
     },
     {
-      "rank": 46,
+      "rank": 44,
       "full_name": "dotnet/maui",
       "owner": "dotnet",
       "name": "maui",
@@ -601,7 +575,7 @@
       "trending_days": 2
     },
     {
-      "rank": 47,
+      "rank": 45,
       "full_name": "chaitin/SafeLine",
       "owner": "chaitin",
       "name": "SafeLine",
@@ -614,20 +588,7 @@
       "trending_days": 2
     },
     {
-      "rank": 48,
-      "full_name": "alibaba/open-code-review",
-      "owner": "alibaba",
-      "name": "open-code-review",
-      "stars": 21069,
-      "estimated_initial_stars": 20969,
-      "growth": 100,
-      "growth_rate": 100,
-      "language": "Go",
-      "first_seen": "2026-08-20",
-      "trending_days": 2
-    },
-    {
-      "rank": 49,
+      "rank": 46,
       "full_name": "nats-io/nats-server",
       "owner": "nats-io",
       "name": "nats-server",
@@ -640,7 +601,7 @@
       "trending_days": 2
     },
     {
-      "rank": 50,
+      "rank": 47,
       "full_name": "different-ai/openwork",
       "owner": "different-ai",
       "name": "openwork",
@@ -653,7 +614,7 @@
       "trending_days": 2
     },
     {
-      "rank": 51,
+      "rank": 48,
       "full_name": "reactos/reactos",
       "owner": "reactos",
       "name": "reactos",
@@ -666,7 +627,7 @@
       "trending_days": 2
     },
     {
-      "rank": 52,
+      "rank": 49,
       "full_name": "apache/brpc",
       "owner": "apache",
       "name": "brpc",
@@ -679,7 +640,7 @@
       "trending_days": 2
     },
     {
-      "rank": 53,
+      "rank": 50,
       "full_name": "htr-tech/zphisher",
       "owner": "htr-tech",
       "name": "zphisher",
@@ -692,7 +653,7 @@
       "trending_days": 2
     },
     {
-      "rank": 54,
+      "rank": 51,
       "full_name": "kgretzky/evilginx2",
       "owner": "kgretzky",
       "name": "evilginx2",
@@ -705,7 +666,7 @@
       "trending_days": 2
     },
     {
-      "rank": 55,
+      "rank": 52,
       "full_name": "acidanthera/OpenCorePkg",
       "owner": "acidanthera",
       "name": "OpenCorePkg",
@@ -718,7 +679,7 @@
       "trending_days": 2
     },
     {
-      "rank": 56,
+      "rank": 53,
       "full_name": "transmission/transmission",
       "owner": "transmission",
       "name": "transmission",
@@ -731,7 +692,7 @@
       "trending_days": 2
     },
     {
-      "rank": 57,
+      "rank": 54,
       "full_name": "Tichau/FileConverter",
       "owner": "Tichau",
       "name": "FileConverter",
@@ -744,7 +705,7 @@
       "trending_days": 2
     },
     {
-      "rank": 58,
+      "rank": 55,
       "full_name": "duixcom/Duix-Avatar",
       "owner": "duixcom",
       "name": "Duix-Avatar",
@@ -757,7 +718,7 @@
       "trending_days": 2
     },
     {
-      "rank": 59,
+      "rank": 56,
       "full_name": "pipecat-ai/pipecat",
       "owner": "pipecat-ai",
       "name": "pipecat",
@@ -770,7 +731,7 @@
       "trending_days": 2
     },
     {
-      "rank": 60,
+      "rank": 57,
       "full_name": "coredns/coredns",
       "owner": "coredns",
       "name": "coredns",
@@ -783,7 +744,7 @@
       "trending_days": 2
     },
     {
-      "rank": 61,
+      "rank": 58,
       "full_name": "coder/coder",
       "owner": "coder",
       "name": "coder",
@@ -796,7 +757,7 @@
       "trending_days": 2
     },
     {
-      "rank": 62,
+      "rank": 59,
       "full_name": "apache/druid",
       "owner": "apache",
       "name": "druid",
@@ -809,7 +770,7 @@
       "trending_days": 2
     },
     {
-      "rank": 63,
+      "rank": 60,
       "full_name": "guozhigq/pilipala",
       "owner": "guozhigq",
       "name": "pilipala",
@@ -822,7 +783,7 @@
       "trending_days": 2
     },
     {
-      "rank": 64,
+      "rank": 61,
       "full_name": "AlexxIT/go2rtc",
       "owner": "AlexxIT",
       "name": "go2rtc",
@@ -835,7 +796,7 @@
       "trending_days": 2
     },
     {
-      "rank": 65,
+      "rank": 62,
       "full_name": "FreeRDP/FreeRDP",
       "owner": "FreeRDP",
       "name": "FreeRDP",
@@ -848,7 +809,7 @@
       "trending_days": 2
     },
     {
-      "rank": 66,
+      "rank": 63,
       "full_name": "trinodb/trino",
       "owner": "trinodb",
       "name": "trino",
@@ -861,7 +822,7 @@
       "trending_days": 2
     },
     {
-      "rank": 67,
+      "rank": 64,
       "full_name": "tiny-craft/tiny-rdm",
       "owner": "tiny-craft",
       "name": "tiny-rdm",
@@ -874,7 +835,7 @@
       "trending_days": 2
     },
     {
-      "rank": 68,
+      "rank": 65,
       "full_name": "microsoft/agent-framework",
       "owner": "microsoft",
       "name": "agent-framework",
@@ -887,7 +848,7 @@
       "trending_days": 2
     },
     {
-      "rank": 69,
+      "rank": 66,
       "full_name": "CleverRaven/Cataclysm-DDA",
       "owner": "CleverRaven",
       "name": "Cataclysm-DDA",
@@ -900,7 +861,7 @@
       "trending_days": 2
     },
     {
-      "rank": 70,
+      "rank": 67,
       "full_name": "abus-aikorea/voice-pro",
       "owner": "abus-aikorea",
       "name": "voice-pro",
@@ -913,7 +874,7 @@
       "trending_days": 2
     },
     {
-      "rank": 71,
+      "rank": 68,
       "full_name": "veracrypt/VeraCrypt",
       "owner": "veracrypt",
       "name": "VeraCrypt",
@@ -926,7 +887,7 @@
       "trending_days": 2
     },
     {
-      "rank": 72,
+      "rank": 69,
       "full_name": "gcc-mirror/gcc",
       "owner": "gcc-mirror",
       "name": "gcc",
@@ -939,7 +900,7 @@
       "trending_days": 2
     },
     {
-      "rank": 73,
+      "rank": 70,
       "full_name": "ClassicOldSong/Apollo",
       "owner": "ClassicOldSong",
       "name": "Apollo",
@@ -952,7 +913,7 @@
       "trending_days": 2
     },
     {
-      "rank": 74,
+      "rank": 71,
       "full_name": "yugabyte/yugabyte-db",
       "owner": "yugabyte",
       "name": "yugabyte-db",
@@ -965,7 +926,7 @@
       "trending_days": 2
     },
     {
-      "rank": 75,
+      "rank": 72,
       "full_name": "velero-io/velero",
       "owner": "velero-io",
       "name": "velero",
@@ -978,7 +939,7 @@
       "trending_days": 2
     },
     {
-      "rank": 76,
+      "rank": 73,
       "full_name": "deepseek-ai/3FS",
       "owner": "deepseek-ai",
       "name": "3FS",
@@ -991,20 +952,7 @@
       "trending_days": 2
     },
     {
-      "rank": 77,
-      "full_name": "kanboard/kanboard",
-      "owner": "kanboard",
-      "name": "kanboard",
-      "stars": 9808,
-      "estimated_initial_stars": 9708,
-      "growth": 100,
-      "growth_rate": 100,
-      "language": "PHP",
-      "first_seen": "2026-08-20",
-      "trending_days": 2
-    },
-    {
-      "rank": 78,
+      "rank": 74,
       "full_name": "optiscaler/OptiScaler",
       "owner": "optiscaler",
       "name": "OptiScaler",
@@ -1017,7 +965,7 @@
       "trending_days": 2
     },
     {
-      "rank": 79,
+      "rank": 75,
       "full_name": "facebookarchive/Shimmer",
       "owner": "facebookarchive",
       "name": "Shimmer",
@@ -1030,7 +978,7 @@
       "trending_days": 2
     },
     {
-      "rank": 80,
+      "rank": 76,
       "full_name": "risingwavelabs/risingwave",
       "owner": "risingwavelabs",
       "name": "risingwave",
@@ -1043,7 +991,7 @@
       "trending_days": 2
     },
     {
-      "rank": 81,
+      "rank": 77,
       "full_name": "twitter/finagle",
       "owner": "twitter",
       "name": "finagle",
@@ -1056,7 +1004,7 @@
       "trending_days": 2
     },
     {
-      "rank": 82,
+      "rank": 78,
       "full_name": "LibreHardwareMonitor/LibreHardwareMonitor",
       "owner": "LibreHardwareMonitor",
       "name": "LibreHardwareMonitor",
@@ -1069,7 +1017,7 @@
       "trending_days": 2
     },
     {
-      "rank": 83,
+      "rank": 79,
       "full_name": "revfactory/harness",
       "owner": "revfactory",
       "name": "harness",
@@ -1082,7 +1030,7 @@
       "trending_days": 2
     },
     {
-      "rank": 84,
+      "rank": 80,
       "full_name": "cipher387/osint_stuff_tool_collection",
       "owner": "cipher387",
       "name": "osint_stuff_tool_collection",
@@ -1095,7 +1043,7 @@
       "trending_days": 2
     },
     {
-      "rank": 85,
+      "rank": 81,
       "full_name": "cloudflare/workerd",
       "owner": "cloudflare",
       "name": "workerd",
@@ -1108,7 +1056,7 @@
       "trending_days": 2
     },
     {
-      "rank": 86,
+      "rank": 82,
       "full_name": "CodebuffAI/codebuff",
       "owner": "CodebuffAI",
       "name": "codebuff",
@@ -1121,7 +1069,7 @@
       "trending_days": 2
     },
     {
-      "rank": 87,
+      "rank": 83,
       "full_name": "MariaDB/server",
       "owner": "MariaDB",
       "name": "server",
@@ -1134,7 +1082,7 @@
       "trending_days": 2
     },
     {
-      "rank": 88,
+      "rank": 84,
       "full_name": "FEX-Emu/FEX",
       "owner": "FEX-Emu",
       "name": "FEX",
@@ -1147,7 +1095,7 @@
       "trending_days": 2
     },
     {
-      "rank": 89,
+      "rank": 85,
       "full_name": "btcpayserver/btcpayserver",
       "owner": "btcpayserver",
       "name": "btcpayserver",
@@ -1160,7 +1108,7 @@
       "trending_days": 2
     },
     {
-      "rank": 90,
+      "rank": 86,
       "full_name": "vercel-labs/deepsec",
       "owner": "vercel-labs",
       "name": "deepsec",
@@ -1173,7 +1121,7 @@
       "trending_days": 2
     },
     {
-      "rank": 91,
+      "rank": 87,
       "full_name": "permissionlesstech/bitchat-android",
       "owner": "permissionlesstech",
       "name": "bitchat-android",
@@ -1186,7 +1134,7 @@
       "trending_days": 2
     },
     {
-      "rank": 92,
+      "rank": 88,
       "full_name": "sabrogden/Ditto",
       "owner": "sabrogden",
       "name": "Ditto",
@@ -1199,7 +1147,7 @@
       "trending_days": 2
     },
     {
-      "rank": 93,
+      "rank": 89,
       "full_name": "VueTorrent/VueTorrent",
       "owner": "VueTorrent",
       "name": "VueTorrent",
@@ -1212,7 +1160,7 @@
       "trending_days": 2
     },
     {
-      "rank": 94,
+      "rank": 90,
       "full_name": "NickvisionApps/Parabolic",
       "owner": "NickvisionApps",
       "name": "Parabolic",
@@ -1225,7 +1173,7 @@
       "trending_days": 2
     },
     {
-      "rank": 95,
+      "rank": 91,
       "full_name": "wesnoth/wesnoth",
       "owner": "wesnoth",
       "name": "wesnoth",
@@ -1238,7 +1186,7 @@
       "trending_days": 2
     },
     {
-      "rank": 96,
+      "rank": 92,
       "full_name": "throneproj/Throne",
       "owner": "throneproj",
       "name": "Throne",
@@ -1251,7 +1199,7 @@
       "trending_days": 2
     },
     {
-      "rank": 97,
+      "rank": 93,
       "full_name": "olikraus/u8g2",
       "owner": "olikraus",
       "name": "u8g2",
@@ -1264,7 +1212,7 @@
       "trending_days": 2
     },
     {
-      "rank": 98,
+      "rank": 94,
       "full_name": "rime/squirrel",
       "owner": "rime",
       "name": "squirrel",
@@ -1277,7 +1225,7 @@
       "trending_days": 2
     },
     {
-      "rank": 99,
+      "rank": 95,
       "full_name": "cloud-hypervisor/cloud-hypervisor",
       "owner": "cloud-hypervisor",
       "name": "cloud-hypervisor",
@@ -1290,7 +1238,7 @@
       "trending_days": 2
     },
     {
-      "rank": 100,
+      "rank": 96,
       "full_name": "rivet-dev/rivet",
       "owner": "rivet-dev",
       "name": "rivet",
@@ -1300,6 +1248,58 @@
       "growth_rate": 100,
       "language": "Rust",
       "first_seen": "2026-08-08",
+      "trending_days": 2
+    },
+    {
+      "rank": 97,
+      "full_name": "chuspeeism/dashi-ppt-skill",
+      "owner": "chuspeeism",
+      "name": "dashi-ppt-skill",
+      "stars": 5877,
+      "estimated_initial_stars": 5777,
+      "growth": 100,
+      "growth_rate": 100,
+      "language": "JavaScript",
+      "first_seen": "2026-08-20",
+      "trending_days": 2
+    },
+    {
+      "rank": 98,
+      "full_name": "PathOfBuildingCommunity/PathOfBuilding",
+      "owner": "PathOfBuildingCommunity",
+      "name": "PathOfBuilding",
+      "stars": 5411,
+      "estimated_initial_stars": 5311,
+      "growth": 100,
+      "growth_rate": 100,
+      "language": "Lua",
+      "first_seen": "2026-08-09",
+      "trending_days": 2
+    },
+    {
+      "rank": 99,
+      "full_name": "hslr-s/sun-panel",
+      "owner": "hslr-s",
+      "name": "sun-panel",
+      "stars": 5255,
+      "estimated_initial_stars": 5155,
+      "growth": 100,
+      "growth_rate": 100,
+      "language": "Vue",
+      "first_seen": "2026-08-04",
+      "trending_days": 2
+    },
+    {
+      "rank": 100,
+      "full_name": "bol-van/zapret2",
+      "owner": "bol-van",
+      "name": "zapret2",
+      "stars": 5228,
+      "estimated_initial_stars": 5128,
+      "growth": 100,
+      "growth_rate": 100,
+      "language": "C",
+      "first_seen": "2026-08-16",
       "trending_days": 2
     }
   ]

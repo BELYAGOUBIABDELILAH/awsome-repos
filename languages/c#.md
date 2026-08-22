@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 113
+- **Total Repositories**: 117
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-16
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,389 | 2026-08-01 | 7 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,618 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 19,434 | 2026-08-02 | 11 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,390 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 5,435 | 2026-08-02 | 4 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 19,787 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,215 | 2026-08-03 | 9 |
+| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,580 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 15,194 | 2026-08-03 | 5 |
+| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 5,464 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner](../repos/actions/runner.md) | ⭐ 6,205 | 2026-08-04 | 6 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,223 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,254 | 2026-08-05 | 7 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 15,217 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,477 | 2026-08-05 | 4 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 8,538 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mRemoteNG/mRemoteNG](../repos/mRemoteNG/mRemoteNG.md) | ⭐ 11,063 | 2026-08-07 | 4 |
+| [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | ⭐ 3,116 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [umbraco/Umbraco-CMS](../repos/umbraco/Umbraco-CMS.md) | ⭐ 5,227 | 2026-08-14 | 3 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,256 | 2026-08-05 | 8 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,485 | 2026-08-01 | The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration w... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,610 | 2026-08-01 | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,618 | 2026-08-01 | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 10,741 | 2026-08-01 | A reference .NET application implementing an eCommerce site |
@@ -79,7 +79,7 @@
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,864 | 2026-08-01 | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&amp;more) - cross-platform! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,389 | 2026-08-01 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications ... |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,390 | 2026-08-01 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications ... |
 
 
 ---
@@ -90,11 +90,12 @@
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 113,982 | 2026-08-02 | 7 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 55,960 | 2026-08-02 | 7 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 54,978 | 2026-08-06 | 4 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,061 | 2026-08-06 | 5 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,678 | 2026-08-01 | 5 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,194 | 2026-08-14 | 2 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,478 | 2026-08-03 | 5 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,389 | 2026-08-01 | 7 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,390 | 2026-08-01 | 8 |
+| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,880 | 2026-08-22 | 1 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,700 | 2026-08-08 | 1 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,477 | 2026-08-05 | 4 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | 2026-08-01 | 7 |
@@ -103,11 +104,10 @@
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,596 | 2026-08-02 | 3 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,292 | 2026-08-04 | 2 |
 | [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,564 | 2026-08-02 | 3 |
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,610 | 2026-08-01 | 4 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,618 | 2026-08-01 | 5 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,885 | 2026-08-01 | 4 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 19,787 | 2026-08-02 | 12 |
 | [Unity-Technologies/ml-agents](../repos/Unity-Technologies/ml-agents.md) | ⭐ 19,636 | 2026-08-19 | 1 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 19,434 | 2026-08-02 | 11 |
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,205 | 2026-08-04 | 6 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 11 | ⭐ 19,434 | 2026-08-02 | 2026-08-21 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 12 | ⭐ 19,787 | 2026-08-02 | 2026-08-22 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 10 | ⭐ 5,223 | 2026-08-03 | 2026-08-22 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 9 | ⭐ 14,848 | 2026-08-02 | 2026-08-17 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 9 | ⭐ 5,215 | 2026-08-03 | 2026-08-21 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 8 | ⭐ 38,390 | 2026-08-01 | 2026-08-22 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | 8 | ⭐ 6,256 | 2026-08-05 | 2026-08-22 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 7 | ⭐ 26,795 | 2026-08-01 | 2026-08-08 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 7 | ⭐ 38,389 | 2026-08-01 | 2026-08-21 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 7 | ⭐ 113,982 | 2026-08-02 | 2026-08-16 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 7 | ⭐ 55,960 | 2026-08-02 | 2026-08-19 |
-| [microsoft/aspire](../repos/microsoft/aspire.md) | 7 | ⭐ 6,254 | 2026-08-05 | 2026-08-21 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 6 | ⭐ 3,573 | 2026-08-01 | 2026-08-15 |
-| [actions/runner](../repos/actions/runner.md) | 6 | ⭐ 6,205 | 2026-08-04 | 2026-08-21 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | 6 | ⭐ 15,217 | 2026-08-03 | 2026-08-22 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-21T21:01:46.615Z*
+*Last updated: 2026-08-22T21:01:46.237Z*

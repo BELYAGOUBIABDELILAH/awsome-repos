@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-21T21:01:50.676Z",
-  "total_repositories": 2451,
-  "trending_today": 418,
-  "new_this_month": 2451,
+  "generated_at": "2026-08-22T21:01:50.464Z",
+  "total_repositories": 2507,
+  "trending_today": 419,
+  "new_this_month": 2507,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-08-21",
+  "last_collection": "2026-08-22",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "rubysec/ruby-advisory-db",
-    "trending_days": 19,
+    "trending_days": 20,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "omacom-io/omawrite",
-    "stars": 139,
-    "first_seen": "2026-08-21"
+    "full_name": "multica-ai/andrej-karpathy-skills",
+    "stars": 205247,
+    "first_seen": "2026-08-22"
   },
   "fastest_growing": {
     "full_name": "openai/whisper",
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 38244594,
-  "avg_stars": 15604,
-  "avg_trending_days": 3.3,
+  "total_stars": 39307841,
+  "avg_stars": 15679,
+  "avg_trending_days": 3.4,
   "language_count": 54,
-  "topic_count": 7206,
+  "topic_count": 7359,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

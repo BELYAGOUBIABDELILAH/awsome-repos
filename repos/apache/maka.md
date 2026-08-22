@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 1,989 |
-| **Forks** | 🍴 240 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 2,167 |
+| **Forks** | 🍴 253 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Aug 21, 2026 |
+| **Last Seen** | Aug 22, 2026 |
 
 
 ---
@@ -47,15 +47,15 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
-- **Longest Streak**: 2 days
+- **Trending Days**: 3
+- **Longest Streak**: 3 days
 
 ---
 
 ## Categories
 
 ### Topics
-[`agent-runtime`](../../topics/agent-runtime.md) [`ai`](../../topics/ai.md) [`ai-agent`](../../topics/ai-agent.md) [`apache`](../../topics/apache.md) [`cli`](../../topics/cli.md) [`desktop`](../../topics/desktop.md) [`electron`](../../topics/electron.md) [`event-sourcing`](../../topics/event-sourcing.md) [`llm`](../../topics/llm.md) [`local-first`](../../topics/local-first.md) [`maka`](../../topics/maka.md) [`tool-use`](../../topics/tool-use.md) [`typescript`](../../topics/typescript.md) 
+[`agent-runtime`](../../topics/agent-runtime.md) [`ai`](../../topics/ai.md) [`ai-agent`](../../topics/ai-agent.md) [`apache`](../../topics/apache.md) [`cli`](../../topics/cli.md) [`desktop`](../../topics/desktop.md) [`electron`](../../topics/electron.md) [`event-sourcing`](../../topics/event-sourcing.md) [`incubator`](../../topics/incubator.md) [`llm`](../../topics/llm.md) [`local-first`](../../topics/local-first.md) [`maka`](../../topics/maka.md) [`tool-use`](../../topics/tool-use.md) [`typescript`](../../topics/typescript.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Systems Programming` `Developer Tools` 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 60&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-21T21:01:50.295Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-22T21:01:49.951Z*  
+*Data from 3 trending reports*

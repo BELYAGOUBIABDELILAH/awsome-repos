@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 5
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-12
+- **Last Updated**: 2026-08-22
 
 ---
 
@@ -16,7 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,034 | 2026-08-01 | 15 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,603 | 2026-08-01 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,033 | 2026-08-01 | 16 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | 6 |
 
 
 ---
@@ -25,16 +31,16 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,600 | 2026-08-01 | No longer maintained, see pinned issues |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,603 | 2026-08-01 | No longer maintained, see pinned issues |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,034 | 2026-08-01 | Low-Budget Password Strength Estimation |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,033 | 2026-08-01 | Low-Budget Password Strength Estimation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | The motion graphics toolbelt for the web |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,152 | 2026-08-06 | Adds various features to anonymous imageboards. |
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | Adds various features to anonymous imageboards. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,601 | 2026-08-09 | Unfancy JavaScript |
@@ -46,11 +52,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,600 | 2026-08-01 | 4 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,603 | 2026-08-01 | 5 |
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | 1 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,601 | 2026-08-09 | 1 |
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,034 | 2026-08-01 | 15 |
-| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,152 | 2026-08-06 | 5 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,033 | 2026-08-01 | 16 |
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | 6 |
 
 ---
 
@@ -58,9 +64,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 15 | ⭐ 16,034 | 2026-08-01 | 2026-08-21 |
-| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 5 | ⭐ 1,152 | 2026-08-06 | 2026-08-19 |
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 4 | ⭐ 22,600 | 2026-08-01 | 2026-08-12 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 16 | ⭐ 16,033 | 2026-08-01 | 2026-08-22 |
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 6 | ⭐ 1,151 | 2026-08-06 | 2026-08-22 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 5 | ⭐ 22,603 | 2026-08-01 | 2026-08-22 |
 | [mojs/mojs](../repos/mojs/mojs.md) | 1 | ⭐ 18,747 | 2026-08-01 | 2026-08-01 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | 1 | ⭐ 16,601 | 2026-08-09 | 2026-08-09 |
 
@@ -76,4 +82,4 @@
 
 ---
 
-*Last updated: 2026-08-21T21:01:46.622Z*
+*Last updated: 2026-08-22T21:01:46.246Z*

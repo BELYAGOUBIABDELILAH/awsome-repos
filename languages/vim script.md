@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 4
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-21
+- **Last Updated**: 2026-08-22
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,955 | 2026-08-01 | 5 |
+| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,955 | 2026-08-01 | 6 |
 
 
 ---
@@ -43,7 +43,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,955 | 2026-08-01 | 5 |
+| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,955 | 2026-08-01 | 6 |
 | [vim-syntastic/syntastic](../repos/vim-syntastic/syntastic.md) | ⭐ 11,223 | 2026-08-02 | 1 |
 | [easymotion/vim-easymotion](../repos/easymotion/vim-easymotion.md) | ⭐ 7,737 | 2026-08-01 | 2 |
 | [jiangmiao/auto-pairs](../repos/jiangmiao/auto-pairs.md) | ⭐ 4,201 | 2026-08-01 | 1 |
@@ -54,7 +54,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | 5 | ⭐ 17,955 | 2026-08-01 | 2026-08-21 |
+| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | 6 | ⭐ 17,955 | 2026-08-01 | 2026-08-22 |
 | [easymotion/vim-easymotion](../repos/easymotion/vim-easymotion.md) | 2 | ⭐ 7,737 | 2026-08-01 | 2026-08-04 |
 | [jiangmiao/auto-pairs](../repos/jiangmiao/auto-pairs.md) | 1 | ⭐ 4,201 | 2026-08-01 | 2026-08-01 |
 | [vim-syntastic/syntastic](../repos/vim-syntastic/syntastic.md) | 1 | ⭐ 11,223 | 2026-08-02 | 2026-08-02 |
@@ -70,4 +70,4 @@
 
 ---
 
-*Last updated: 2026-08-21T21:01:46.684Z*
+*Last updated: 2026-08-22T21:01:46.323Z*

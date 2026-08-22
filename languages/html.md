@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 54
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-19
+- **Last Updated**: 2026-08-22
 
 ---
 
@@ -16,10 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 20,546 | 2026-08-01 | 4 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,863 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 28,848 | 2026-08-19 | 3 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,327 | 2026-08-03 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,523 | 2026-08-07 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 133,840 | 2026-08-08 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 3,075 | 2026-08-11 | 3 |
 
 
 ---
@@ -43,7 +52,7 @@
 | [GoogleCloudPlatform/knowledge-catalog](../repos/GoogleCloudPlatform/knowledge-catalog.md) | ⭐ 8,131 | 2026-08-01 | Google Cloud Knowledge Catalog Tools and Samples |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,477 | 2026-08-01 | from vibe coding to agentic engineering - practice makes claude perfect |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,863 | 2026-08-01 | from vibe coding to agentic engineering - practice makes claude perfect |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,774 | 2026-08-01 | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
@@ -64,12 +73,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,175 | 2026-08-03 | 4 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 132,042 | 2026-08-08 | 7 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,327 | 2026-08-03 | 5 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 133,840 | 2026-08-08 | 8 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,025 | 2026-08-19 | 1 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,477 | 2026-08-01 | 6 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,863 | 2026-08-01 | 7 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,095 | 2026-08-01 | 4 |
-| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,483 | 2026-08-07 | 1 |
+| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,523 | 2026-08-07 | 2 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,917 | 2026-08-09 | 5 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 28,848 | 2026-08-19 | 3 |
@@ -92,15 +101,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 10 | ⭐ 14,211 | 2026-08-04 | 2026-08-19 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 7 | ⭐ 132,042 | 2026-08-08 | 2026-08-17 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 8 | ⭐ 133,840 | 2026-08-08 | 2026-08-22 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 7 | ⭐ 64,863 | 2026-08-01 | 2026-08-22 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 6 | ⭐ 9,705 | 2026-08-01 | 2026-08-19 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 6 | ⭐ 64,477 | 2026-08-01 | 2026-08-14 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 5 | ⭐ 7,106 | 2026-08-03 | 2026-08-19 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | 5 | ⭐ 208,327 | 2026-08-03 | 2026-08-22 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 5 | ⭐ 16,471 | 2026-08-04 | 2026-08-19 |
 | [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 5 | ⭐ 6,102 | 2026-08-05 | 2026-08-17 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 5 | ⭐ 28,917 | 2026-08-09 | 2026-08-17 |
 | [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | 5 | ⭐ 1,757 | 2026-08-14 | 2026-08-19 |
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | 4 | ⭐ 20,546 | 2026-08-01 | 2026-08-21 |
 
 ---
 
@@ -163,4 +172,4 @@
 
 ---
 
-*Last updated: 2026-08-21T21:01:46.638Z*
+*Last updated: 2026-08-22T21:01:46.268Z*

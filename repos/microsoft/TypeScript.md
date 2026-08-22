@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | TypeScript |
+| **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 110,166 |
-| **Forks** | 🍴 13,720 |
-| **Trending Days** | 1 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 110,518 |
+| **Forks** | 🍴 13,747 |
+| **Trending Days** | 2 |
+| **Peak Rank** | #14 |
 
 | **First Seen** | Aug 15, 2026 |
-| **Last Seen** | Aug 15, 2026 |
+| **Last Seen** | Aug 22, 2026 |
 
 
 ---
@@ -37,17 +37,18 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or javascript*
+*Similar: Check repositories in Go or javascript*
 
 ---
 
 ## Trending Timeline
 
+**Aug 22, 2026** — Rank #14 (+65 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Peak Rank**: #14
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -70,9 +71,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 110,166+ stars, strong contributor base |
+| **Community** | Very Active | 110,518+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -81,15 +82,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in TypeScript
+- Check similar projects in Go
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 35&#x2F;100
+- **Historical Rank**: Peak: #14
 
 
 ---
 
-*Last updated: 2026-08-21T21:01:49.995Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-22T21:01:49.662Z*  
+*Data from 2 trending reports*

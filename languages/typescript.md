@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 129
+- **Total Repositories**: 135
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 4,361 | 2026-08-01 | 7 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 4,631 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 19,940 | 2026-08-01 | 8 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 26,507 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 129,064 | 2026-08-02 | 5 |
+| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 57,175 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CyberTimon/RapidRAW](../repos/CyberTimon/RapidRAW.md) | ⭐ 9,498 | 2026-08-02 | 3 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 19,365 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 56,953 | 2026-08-06 | 4 |
+| [CopilotKit/CopilotKit](../repos/CopilotKit/CopilotKit.md) | ⭐ 36,961 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 19,281 | 2026-08-07 | 4 |
+| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 201,757 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chaitanyagiri/munder-difflin](../repos/chaitanyagiri/munder-difflin.md) | ⭐ 3,374 | 2026-08-16 | 4 |
+| [apache/maka](../repos/apache/maka.md) | ⭐ 2,167 | 2026-08-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agalwood/Motrix](../repos/agalwood/Motrix.md) | ⭐ 54,244 | 2026-08-17 | 4 |
+| [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 1,480 | 2026-08-20 | 2 |
+| [ItzCrazyKns/Vane](../repos/ItzCrazyKns/Vane.md) | ⭐ 36,377 | 2026-08-22 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/maka](../repos/apache/maka.md) | ⭐ 1,989 | 2026-08-20 | 2 |
+| [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 89,779 | 2026-08-22 | 1 |
 
 
 ---
@@ -64,7 +64,7 @@
 | [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 20,293 | 2026-08-01 | The open-source alternative to Claude Cowork (powered by opencode) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 4,361 | 2026-08-01 | Cursor plugin specification and official plugins |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 4,631 | 2026-08-01 | Cursor plugin specification and official plugins |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 17,453 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
@@ -89,17 +89,18 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 200,252 | 2026-08-11 | 1 |
+| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 201,757 | 2026-08-11 | 2 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 129,064 | 2026-08-02 | 5 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | 2026-08-17 | 2 |
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,166 | 2026-08-15 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | 3 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 96,831 | 2026-08-04 | 2 |
+| [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 90,880 | 2026-08-07 | 5 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
+| [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 89,779 | 2026-08-22 | 1 |
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 84,049 | 2026-08-14 | 1 |
 | [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | 2026-08-12 | 1 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 77,659 | 2026-08-02 | 4 |
@@ -107,7 +108,6 @@
 | [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | ⭐ 75,400 | 2026-07-31 | 1 |
 | [strapi/strapi](../repos/strapi/strapi.md) | ⭐ 72,929 | 2026-08-15 | 1 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 68,347 | 2026-08-10 | 2 |
-| [cline/cline](../repos/cline/cline.md) | ⭐ 66,614 | 2026-08-20 | 2 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [cursor/plugins](../repos/cursor/plugins.md) | 8 | ⭐ 4,631 | 2026-08-01 | 2026-08-22 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 7 | ⭐ 4,361 | 2026-08-01 | 2026-08-21 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 6 | ⭐ 26,507 | 2026-08-02 | 2026-08-22 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 5 | ⭐ 129,064 | 2026-08-02 | 2026-08-21 |
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 5 | ⭐ 24,810 | 2026-08-02 | 2026-08-14 |
 | [cloudflare/computer](../repos/cloudflare/computer.md) | 5 | ⭐ 6,976 | 2026-08-05 | 2026-08-09 |
+| [makeplane/plane](../repos/makeplane/plane.md) | 5 | ⭐ 57,175 | 2026-08-06 | 2026-08-22 |
 | [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | 5 | ⭐ 13,986 | 2026-08-07 | 2026-08-11 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | 5 | ⭐ 166,401 | 2026-08-07 | 2026-08-12 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | 5 | ⭐ 90,880 | 2026-08-07 | 2026-08-15 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 5 | ⭐ 19,365 | 2026-08-07 | 2026-08-22 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-21T21:01:46.679Z*
+*Last updated: 2026-08-22T21:01:46.317Z*

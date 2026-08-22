@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 90
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-04
+- **Last Updated**: 2026-08-22
 
 ---
 
@@ -16,34 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 60,344 | 2026-08-01 | 9 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 12,200 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Axorax/awesome-free-apps](../repos/Axorax/awesome-free-apps.md) | ⭐ 7,483 | 2026-08-03 | 3 |
+| [decolua/9router](../repos/decolua/9router.md) | ⭐ 26,072 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 61,359 | 2026-08-05 | 4 |
+| [react/react](../repos/react/react.md) | ⭐ 247,637 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 1,530 | 2026-08-07 | 5 |
+| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 1,584 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenSenseNova/SenseNova-Skills](../repos/OpenSenseNova/SenseNova-Skills.md) | ⭐ 4,919 | 2026-08-08 | 4 |
+| [dataease/SQLBot](../repos/dataease/SQLBot.md) | ⭐ 6,671 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 30,300 | 2026-08-19 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [chuspeeism/dashi-ppt-skill](../repos/chuspeeism/dashi-ppt-skill.md) | ⭐ 5,877 | 2026-08-20 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [simple-icons/simple-icons](../repos/simple-icons/simple-icons.md) | ⭐ 25,674 | 2026-08-20 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [jarrodwatts/claude-hud](../repos/jarrodwatts/claude-hud.md) | ⭐ 27,542 | 2026-08-20 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [google/zx](../repos/google/zx.md) | ⭐ 45,685 | 2026-08-20 | 2 |
+| [remoteintech/remote-jobs](../repos/remoteintech/remote-jobs.md) | ⭐ 40,725 | 2026-08-19 | 2 |
 
 
 ---
@@ -73,7 +61,7 @@
 | [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,475 | 2026-08-01 | Low-code programming for event-driven applications |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 11,276 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 12,200 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) | ⭐ 347 | 2026-08-01 | Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module... |
@@ -88,7 +76,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react](../repos/react/react.md) | ⭐ 246,953 | 2026-08-04 | 1 |
+| [react/react](../repos/react/react.md) | ⭐ 247,637 | 2026-08-04 | 2 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | 2026-08-06 | 2 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
@@ -107,7 +95,7 @@
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,206 | 2026-08-08 | 1 |
 | [google/zx](../repos/google/zx.md) | ⭐ 45,685 | 2026-08-20 | 2 |
-| [remoteintech/remote-jobs](../repos/remoteintech/remote-jobs.md) | ⭐ 40,682 | 2026-08-19 | 1 |
+| [remoteintech/remote-jobs](../repos/remoteintech/remote-jobs.md) | ⭐ 40,725 | 2026-08-19 | 2 |
 
 ---
 
@@ -118,10 +106,10 @@
 | [byoungd/up](../repos/byoungd/up.md) | 9 | ⭐ 60,344 | 2026-08-01 | 2026-08-21 |
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 7 | ⭐ 86,177 | 2026-08-05 | 2026-08-11 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 6 | ⭐ 141,656 | 2026-07-30 | 2026-08-06 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 6 | ⭐ 12,200 | 2026-08-01 | 2026-08-22 |
+| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 6 | ⭐ 1,584 | 2026-08-07 | 2026-08-22 |
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 5 | ⭐ 7,142 | 2026-08-01 | 2026-08-12 |
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 5 | ⭐ 11,276 | 2026-08-01 | 2026-08-19 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 5 | ⭐ 38,736 | 2026-08-06 | 2026-08-10 |
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 5 | ⭐ 1,530 | 2026-08-07 | 2026-08-21 |
 | [is-a-dev/register](../repos/is-a-dev/register.md) | 4 | ⭐ 10,983 | 2026-08-03 | 2026-08-16 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 4 | ⭐ 61,359 | 2026-08-05 | 2026-08-21 |
 | [OpenSenseNova/SenseNova-Skills](../repos/OpenSenseNova/SenseNova-Skills.md) | 4 | ⭐ 4,919 | 2026-08-08 | 2026-08-21 |
@@ -223,4 +211,4 @@
 
 ---
 
-*Last updated: 2026-08-21T21:01:46.644Z*
+*Last updated: 2026-08-22T21:01:46.276Z*

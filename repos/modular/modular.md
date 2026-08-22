@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Mojo |
 | **License** | Other |
-| **Stars** | ⭐ 28,655 |
-| **Forks** | 🍴 3,050 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 28,822 |
+| **Forks** | 🍴 3,066 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Aug 21, 2026 |
+| **Last Seen** | Aug 22, 2026 |
 
 
 ---
@@ -44,12 +44,13 @@
 ## Trending Timeline
 
 **Aug 21, 2026** — Rank #1 (+905 ⭐)  
+**Aug 22, 2026** — Rank #10 (+395 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 2
-- **Longest Streak**: 2 days
+- **Trending Days**: 3
+- **Longest Streak**: 3 days
 
 ---
 
@@ -86,11 +87,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 60&#x2F;100
 - **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-08-21T21:01:50.281Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-22T21:01:49.935Z*  
+*Data from 3 trending reports*
