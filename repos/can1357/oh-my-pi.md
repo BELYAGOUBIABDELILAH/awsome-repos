@@ -1,6 +1,6 @@
 # can1357&#x2F;oh-my-pi
 
-> ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+> ⌥ Coding agent with the IDE wired in
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;can1357&#x2F;oh-my-pi) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 26,507 |
-| **Forks** | 🍴 2,580 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 26,758 |
+| **Forks** | 🍴 2,603 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 22, 2026 |
+| **Last Seen** | Aug 23, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 2 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 95&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-22T21:01:48.053Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-08-23T21:02:02.356Z*  
+*Data from 7 trending reports*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | GPL-2.0 |
-| **Stars** | ⭐ 19,413 |
-| **Forks** | 🍴 2,374 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 19,536 |
+| **Forks** | 🍴 2,401 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Aug 9, 2026 |
+| **Last Seen** | Aug 23, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`assembly-language`](../../topics/assembly-language.md) [`c`](../../topics/c.md) [`cpp`](../../topics/cpp.md) [`emulation`](../../topics/emulation.md) [`emulator`](../../topics/emulator.md) [`hacktoberfest`](../../topics/hacktoberfest.md) [`llvm`](../../topics/llvm.md) [`multiplatform`](../../topics/multiplatform.md) [`opengl`](../../topics/opengl.md) [`ps3`](../../topics/ps3.md) [`vulkan`](../../topics/vulkan.md) 
+[`assembly-language`](../../topics/assembly-language.md) [`c`](../../topics/c.md) [`cpp`](../../topics/cpp.md) [`emulation`](../../topics/emulation.md) [`emulator`](../../topics/emulator.md) [`llvm`](../../topics/llvm.md) [`multiplatform`](../../topics/multiplatform.md) [`opengl`](../../topics/opengl.md) [`ps3`](../../topics/ps3.md) [`vulkan`](../../topics/vulkan.md) 
 
 ### Curated Categories
 `Game Development` `Systems Programming` 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-22T21:01:49.233Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-23T21:02:03.649Z*  
+*Data from 2 trending reports*

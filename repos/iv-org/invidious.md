@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Crystal |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 22,726 |
-| **Forks** | 🍴 2,568 |
-| **Trending Days** | 11 |
+| **Stars** | ⭐ 22,743 |
+| **Forks** | 🍴 2,574 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 22, 2026 |
+| **Last Seen** | Aug 23, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 11
+- **Trending Days**: 12
 - **Longest Streak**: 5 days
 
 ---
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-08-22T21:01:47.987Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-08-23T21:02:02.287Z*  
+*Data from 12 trending reports*

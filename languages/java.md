@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 145
+- **Total Repositories**: 149
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/guava](../repos/google/guava.md) | ⭐ 51,889 | 2026-08-02 | 7 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,569 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MCRcortex/voxy](../repos/MCRcortex/voxy.md) | ⭐ 1,184 | 2026-08-03 | 2 |
+| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,762 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shmykelsa/AAAD](../repos/shmykelsa/AAAD.md) | ⭐ 2,898 | 2026-08-03 | 3 |
+| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,463 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 32,217 | 2026-08-04 | 5 |
+| [google/guava](../repos/google/guava.md) | ⭐ 51,890 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,340 | 2026-08-04 | 7 |
+| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,137 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openjdk/jdk](../repos/openjdk/jdk.md) | ⭐ 23,258 | 2026-08-04 | 4 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 32,243 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [neo4j/neo4j](../repos/neo4j/neo4j.md) | ⭐ 17,111 | 2026-08-05 | 2 |
+| [apache/flink](../repos/apache/flink.md) | ⭐ 26,282 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,898 | 2026-08-06 | 4 |
+| [neo4j/neo4j](../repos/neo4j/neo4j.md) | ⭐ 17,116 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) | ⭐ 28,014 | 2026-08-07 | 3 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 14,321 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,444 | 2026-08-07 | 2 |
+| [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,492 | 2026-08-08 | 3 |
 
 
 ---
@@ -79,7 +79,7 @@
 | [grpc/grpc-java](../repos/grpc/grpc-java.md) | ⭐ 12,056 | 2026-08-01 | The Java gRPC implementation. HTTP&#x2F;2 based RPC |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,558 | 2026-08-01 | 🔎 Open source distributed and RESTful search engine. |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,569 | 2026-08-01 | 🔎 Open source distributed and RESTful search engine. |
 
 
 ---
@@ -96,16 +96,16 @@
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,155 | 2026-08-04 | 4 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,201 | 2026-08-08 | 3 |
-| [google/guava](../repos/google/guava.md) | ⭐ 51,889 | 2026-08-02 | 7 |
+| [google/guava](../repos/google/guava.md) | ⭐ 51,890 | 2026-08-02 | 8 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,496 | 2026-08-04 | 8 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,036 | 2026-08-12 | 1 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,444 | 2026-08-07 | 2 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,753 | 2026-08-05 | 4 |
-| [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,532 | 2026-08-22 | 1 |
-| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,299 | 2026-08-02 | 3 |
+| [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,552 | 2026-08-22 | 2 |
+| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,463 | 2026-08-02 | 4 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,898 | 2026-08-06 | 4 |
-| [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,462 | 2026-08-08 | 2 |
-| [apache/kafka](../repos/apache/kafka.md) | ⭐ 33,583 | 2026-08-12 | 4 |
+| [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,492 | 2026-08-08 | 3 |
+| [apache/kafka](../repos/apache/kafka.md) | ⭐ 33,600 | 2026-08-12 | 5 |
 | [alibaba/nacos](../repos/alibaba/nacos.md) | ⭐ 33,271 | 2026-08-15 | 1 |
 | [binarywang/WxJava](../repos/binarywang/WxJava.md) | ⭐ 33,017 | 2026-08-12 | 1 |
 
@@ -115,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [google/guava](../repos/google/guava.md) | 8 | ⭐ 51,890 | 2026-08-02 | 2026-08-23 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 8 | ⭐ 51,496 | 2026-08-04 | 2026-08-21 |
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 8 | ⭐ 5,211 | 2026-08-05 | 2026-08-21 |
-| [google/guava](../repos/google/guava.md) | 7 | ⭐ 51,889 | 2026-08-02 | 2026-08-22 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 7 | ⭐ 13,569 | 2026-08-01 | 2026-08-23 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 7 | ⭐ 81,340 | 2026-08-04 | 2026-08-22 |
 | [github/copilot-sdk](../repos/github/copilot-sdk.md) | 6 | ⭐ 10,428 | 2026-08-01 | 2026-08-21 |
 | [crimera/piko](../repos/crimera/piko.md) | 6 | ⭐ 4,757 | 2026-08-01 | 2026-08-19 |
 | [nageoffer/ragent](../repos/nageoffer/ragent.md) | 6 | ⭐ 3,706 | 2026-08-01 | 2026-08-21 |
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 6 | ⭐ 13,558 | 2026-08-01 | 2026-08-21 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 6 | ⭐ 26,225 | 2026-08-02 | 2026-08-19 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 6 | ⭐ 77,828 | 2026-08-02 | 2026-08-19 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-22T21:01:46.273Z*
+*Last updated: 2026-08-23T21:02:00.324Z*

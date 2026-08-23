@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 74
+- **Total Repositories**: 75
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 6 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,542 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 11 |
+| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 13 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,048 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 13 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 689 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 12 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,631 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,632 | 2026-08-01 | 13 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,225 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | ⭐ 673 | 2026-08-04 | 10 |
+| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,933 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,933 | 2026-08-04 | 7 |
+| [zendesk/support_sdk_ios](../repos/zendesk/support_sdk_ios.md) | ⭐ 55 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | ⭐ 4,484 | 2026-08-05 | 9 |
+| [alexzielenski/Mousecape](../repos/alexzielenski/Mousecape.md) | ⭐ 2,064 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AzureAD/microsoft-authentication-library-common-for-objc](../repos/AzureAD/microsoft-authentication-library-common-for-objc.md) | ⭐ 65 | 2026-08-07 | 9 |
+| [stripe/stripe-terminal-ios](../repos/stripe/stripe-terminal-ios.md) | ⭐ 133 | 2026-08-15 | 2 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [maderix/ANE](../repos/maderix/ANE.md) | ⭐ 7,228 | 2026-08-01 | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,511 | 2026-08-01 | A software update framework for macOS |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,542 | 2026-08-01 | A software update framework for macOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | KeyCastr, an open-source keystroke visualizer |
@@ -91,9 +91,9 @@
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,395 | 2026-08-02 | 3 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,632 | 2026-08-01 | 13 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,013 | 2026-08-02 | 7 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,048 | 2026-08-02 | 8 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 9 |
-| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,933 | 2026-08-04 | 7 |
+| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,933 | 2026-08-04 | 8 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,906 | 2026-08-04 | 3 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | 3 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
@@ -105,7 +105,7 @@
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
 | [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) | ⭐ 10,646 | 2026-08-06 | 1 |
 | [facebookincubator/SocketRocket](../repos/facebookincubator/SocketRocket.md) | ⭐ 9,610 | 2026-08-08 | 5 |
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,511 | 2026-08-01 | 5 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,542 | 2026-08-01 | 6 |
 | [facebookarchive/Shimmer](../repos/facebookarchive/Shimmer.md) | ⭐ 9,331 | 2026-08-02 | 2 |
 | [TTTAttributedLabel/TTTAttributedLabel](../repos/TTTAttributedLabel/TTTAttributedLabel.md) | ⭐ 8,711 | 2026-08-03 | 1 |
 
@@ -204,7 +204,8 @@
 - [SDWebImage/SDWebImageAVIFCoder](../repos/SDWebImage/SDWebImageAVIFCoder.md) - A SDWebImage coder plugin to support AVIF(AV1 Image File Format) image
 - [google/app-check](../repos/google/app-check.md) - Google-internal core components of Firebase App Check.
 - [uber/ios-snapshot-test-case](../repos/uber/ios-snapshot-test-case.md) - Snapshot view unit tests for iOS
+- [tiktok/tiktok-business-ios-sdk](../repos/tiktok/tiktok-business-ios-sdk.md) - 
 
 ---
 
-*Last updated: 2026-08-22T21:01:46.293Z*
+*Last updated: 2026-08-23T21:02:00.343Z*

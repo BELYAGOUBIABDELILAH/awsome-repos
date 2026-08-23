@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | MIT |
-| **Stars** | ⭐ 2,545 |
-| **Forks** | 🍴 298 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 2,684 |
+| **Forks** | 🍴 318 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #11 |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Aug 22, 2026 |
+| **Last Seen** | Aug 23, 2026 |
 
 
 ---
@@ -49,8 +49,8 @@
 ### Highlights
 
 - **Peak Rank**: #11
-- **Trending Days**: 3
-- **Longest Streak**: 3 days
+- **Trending Days**: 4
+- **Longest Streak**: 4 days
 
 ---
 
@@ -87,11 +87,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 60&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: Peak: #11
 
 
 ---
 
-*Last updated: 2026-08-22T21:01:49.936Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-23T21:02:04.435Z*  
+*Data from 4 trending reports*

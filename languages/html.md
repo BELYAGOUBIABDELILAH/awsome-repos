@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 54
+- **Total Repositories**: 55
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-22
+- **Last Updated**: 2026-08-23
 
 ---
 
@@ -16,19 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,863 | 2026-08-01 | 7 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,365 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,327 | 2026-08-03 | 5 |
+| [google/fonts](../repos/google/fonts.md) | ⭐ 20,401 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,523 | 2026-08-07 | 2 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,223 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 133,840 | 2026-08-08 | 8 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,118 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 3,075 | 2026-08-11 | 3 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 134,351 | 2026-08-08 | 9 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 3,097 | 2026-08-11 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [webmin/webmin](../repos/webmin/webmin.md) | ⭐ 6,018 | 2026-08-23 | 1 |
 
 
 ---
@@ -73,8 +79,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,327 | 2026-08-03 | 5 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 133,840 | 2026-08-08 | 8 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,365 | 2026-08-03 | 6 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 134,351 | 2026-08-08 | 9 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,025 | 2026-08-19 | 1 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,863 | 2026-08-01 | 7 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,095 | 2026-08-01 | 4 |
@@ -82,11 +88,11 @@
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,917 | 2026-08-09 | 5 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 28,848 | 2026-08-19 | 3 |
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,091 | 2026-08-03 | 4 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,223 | 2026-08-03 | 5 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,854 | 2026-08-04 | 4 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 20,546 | 2026-08-01 | 4 |
-| [google/fonts](../repos/google/fonts.md) | ⭐ 20,307 | 2026-08-03 | 1 |
+| [google/fonts](../repos/google/fonts.md) | ⭐ 20,401 | 2026-08-03 | 2 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 18,499 | 2026-08-12 | 3 |
 | [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,567 | 2026-08-02 | 2 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,471 | 2026-08-04 | 5 |
@@ -101,15 +107,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 10 | ⭐ 14,211 | 2026-08-04 | 2026-08-19 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 8 | ⭐ 133,840 | 2026-08-08 | 2026-08-22 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 9 | ⭐ 134,351 | 2026-08-08 | 2026-08-23 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 7 | ⭐ 64,863 | 2026-08-01 | 2026-08-22 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 6 | ⭐ 9,705 | 2026-08-01 | 2026-08-19 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | 6 | ⭐ 208,365 | 2026-08-03 | 2026-08-23 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 6 | ⭐ 6,118 | 2026-08-05 | 2026-08-23 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 5 | ⭐ 7,106 | 2026-08-03 | 2026-08-19 |
-| [ossu/computer-science](../repos/ossu/computer-science.md) | 5 | ⭐ 208,327 | 2026-08-03 | 2026-08-22 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 5 | ⭐ 27,223 | 2026-08-03 | 2026-08-23 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 5 | ⭐ 16,471 | 2026-08-04 | 2026-08-19 |
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 5 | ⭐ 6,102 | 2026-08-05 | 2026-08-17 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 5 | ⭐ 28,917 | 2026-08-09 | 2026-08-17 |
-| [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | 5 | ⭐ 1,757 | 2026-08-14 | 2026-08-19 |
 
 ---
 
@@ -141,7 +147,7 @@
 - [trickest/cve](../repos/trickest/cve.md) - Gather and update all available and newest CVEs with their PoC.
 - [DefectDojo/django-DefectDojo](../repos/DefectDojo/django-DefectDojo.md) - Open-Source Unified Vulnerability Management, DevSecOps &amp; ASPM
 - [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) - Curso de HTML5 e CSS3
-- [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) - Test suites for Web platform specs — including WHATWG, W3C, and others
+- [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for t...
 - [Commando-X/vuln-bank](../repos/Commando-X/vuln-bank.md) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App...
 - [cotes2020/jekyll-theme-chirpy](../repos/cotes2020/jekyll-theme-chirpy.md) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
@@ -169,7 +175,8 @@
 - [MengTo/Skills](../repos/MengTo/Skills.md) - Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents
 - [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
 - [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) - A one stop repository for generative AI research updates, interview resources, notebooks and much...
+- [webmin/webmin](../repos/webmin/webmin.md) - Powerful and flexible web-based server management control panel
 
 ---
 
-*Last updated: 2026-08-22T21:01:46.268Z*
+*Last updated: 2026-08-23T21:02:00.320Z*

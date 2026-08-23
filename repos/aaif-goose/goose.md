@@ -71,7 +71,7 @@
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
-| **Maturity** | Stable | Established project |
+| **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-22T21:01:49.885Z*  
+*Last updated: 2026-08-23T21:02:04.379Z*  
 *Data from 4 trending reports*

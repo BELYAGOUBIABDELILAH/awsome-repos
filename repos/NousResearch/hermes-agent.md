@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 234,355 |
-| **Forks** | 🍴 47,144 |
-| **Trending Days** | 8 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 234,889 |
+| **Forks** | 🍴 47,316 |
+| **Trending Days** | 9 |
+| **Peak Rank** | #18 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 22, 2026 |
+| **Last Seen** | Aug 23, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Aug 23, 2026** — Rank #18 (+519 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Peak Rank**: #18
+- **Trending Days**: 9
 - **Longest Streak**: 6 days
 
 ---
@@ -70,7 +71,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 234,355+ stars, strong contributor base |
+| **Community** | Very Active | 234,889+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
@@ -86,10 +87,10 @@
 #### Metrics
 - **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
-- **Historical Rank**: No ranking data
+- **Historical Rank**: Peak: #18
 
 
 ---
 
-*Last updated: 2026-08-22T21:01:47.589Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-08-23T21:02:01.853Z*  
+*Data from 9 trending reports*

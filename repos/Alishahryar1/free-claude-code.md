@@ -1,6 +1,6 @@
 # Alishahryar1&#x2F;free-claude-code
 
-> Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
+> Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Alishahryar1&#x2F;free-claude-code) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 44,517 |
-| **Forks** | 🍴 7,342 |
-| **Trending Days** | 3 |
-| **Peak Rank** | #12 |
+| **Stars** | ⭐ 47,870 |
+| **Forks** | 🍴 7,879 |
+| **Trending Days** | 4 |
+| **Peak Rank** | #8 |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 5, 2026 |
+| **Last Seen** | Aug 23, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Aug 23, 2026** — Rank #8 (+1040 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #12
-- **Trending Days**: 3
+- **Peak Rank**: #8
+- **Trending Days**: 4
 - **Longest Streak**: 3 days
 
 ---
@@ -72,7 +73,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 60&#x2F;100
-- **Historical Rank**: Peak: #12
+- **Trending Score**: 65&#x2F;100
+- **Historical Rank**: Top 10 (Peak: #8)
 
 
 ---
 
-*Last updated: 2026-08-22T21:01:48.310Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-23T21:02:02.636Z*  
+*Data from 4 trending reports*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 166
+- **Total Repositories**: 169
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-19
+- **Last Updated**: 2026-08-23
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 125,170 | 2026-08-01 | 13 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,374 | 2026-07-30 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 469 | 2026-08-01 | 8 |
+| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,607 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,810 | 2026-08-01 | 8 |
+| [assimp/assimp](../repos/assimp/assimp.md) | ⭐ 13,155 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,513 | 2026-08-01 | 9 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 9,920 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ValveSoftware/Proton](../repos/ValveSoftware/Proton.md) | ⭐ 32,615 | 2026-08-03 | 2 |
+| [official-stockfish/Stockfish](../repos/official-stockfish/Stockfish.md) | ⭐ 16,392 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | ⭐ 1,038 | 2026-08-04 | 4 |
+| [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) | ⭐ 8,817 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 38,953 | 2026-08-04 | 8 |
+| [ValveSoftware/Proton](../repos/ValveSoftware/Proton.md) | ⭐ 32,625 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 21,599 | 2026-08-06 | 4 |
+| [telegramdesktop/tdesktop](../repos/telegramdesktop/tdesktop.md) | ⭐ 32,706 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 38,068 | 2026-08-07 | 4 |
+| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 21,612 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,812 | 2026-08-08 | 7 |
+| [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 38,112 | 2026-08-07 | 5 |
 
 
 ---
@@ -52,10 +52,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,065 | 2026-07-30 | An Open Source Machine Learning Framework for Everyone |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,374 | 2026-07-30 | An Open Source Machine Learning Framework for Everyone |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,453 | 2026-08-01 | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  |
+| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,607 | 2026-08-01 | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 125,170 | 2026-08-01 | LLM inference in C&#x2F;C++ |
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,065 | 2026-07-30 | 9 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,374 | 2026-07-30 | 10 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,334 | 2026-08-04 | 2 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 125,170 | 2026-08-01 | 13 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,565 | 2026-08-01 | 4 |
@@ -96,7 +96,7 @@
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,607 | 2026-08-06 | 2 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,938 | 2026-08-02 | 4 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,116 | 2026-08-12 | 2 |
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,812 | 2026-08-08 | 7 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,832 | 2026-08-08 | 8 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,810 | 2026-08-01 | 8 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,473 | 2026-08-05 | 7 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 13 | ⭐ 125,170 | 2026-08-01 | 2026-08-22 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 9 | ⭐ 197,065 | 2026-07-30 | 2026-08-19 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 10 | ⭐ 197,374 | 2026-07-30 | 2026-08-23 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 9 | ⭐ 29,513 | 2026-08-01 | 2026-08-22 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 8 | ⭐ 469 | 2026-08-01 | 2026-08-22 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 8 | ⭐ 71,810 | 2026-08-01 | 2026-08-22 |
 | [google/googletest](../repos/google/googletest.md) | 8 | ⭐ 38,953 | 2026-08-04 | 2026-08-22 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | 8 | ⭐ 75,832 | 2026-08-08 | 2026-08-23 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 7 | ⭐ 65,473 | 2026-08-05 | 2026-08-12 |
-| [ocornut/imgui](../repos/ocornut/imgui.md) | 7 | ⭐ 75,812 | 2026-08-08 | 2026-08-22 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 6 | ⭐ 115,881 | 2026-08-01 | 2026-08-19 |
-| [ml-explore/mlx](../repos/ml-explore/mlx.md) | 5 | ⭐ 28,056 | 2026-08-06 | 2026-08-19 |
+| [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) | 5 | ⭐ 8,817 | 2026-08-03 | 2026-08-23 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-22T21:01:46.242Z*
+*Last updated: 2026-08-23T21:02:00.297Z*

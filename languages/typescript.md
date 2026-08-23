@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 135
+- **Total Repositories**: 139
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 4,631 | 2026-08-01 | 8 |
+| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 48,281 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 26,507 | 2026-08-02 | 6 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 26,758 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 57,175 | 2026-08-06 | 5 |
+| [facebook/astryx](../repos/facebook/astryx.md) | ⭐ 12,273 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 19,365 | 2026-08-07 | 5 |
+| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 57,520 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CopilotKit/CopilotKit](../repos/CopilotKit/CopilotKit.md) | ⭐ 36,961 | 2026-08-07 | 2 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 42,295 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 201,757 | 2026-08-11 | 2 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 69,034 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/maka](../repos/apache/maka.md) | ⭐ 2,167 | 2026-08-20 | 3 |
+| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 202,134 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
+| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 55,395 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ItzCrazyKns/Vane](../repos/ItzCrazyKns/Vane.md) | ⭐ 36,377 | 2026-08-22 | 1 |
+| [apache/maka](../repos/apache/maka.md) | ⭐ 2,302 | 2026-08-20 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 89,779 | 2026-08-22 | 1 |
+| [bookorbit/bookorbit](../repos/bookorbit/bookorbit.md) | ⭐ 3,033 | 2026-08-20 | 3 |
 
 
 ---
@@ -70,7 +70,7 @@
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 17,453 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 46,198 | 2026-08-01 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring... |
+| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 48,281 | 2026-08-01 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [modelcontextprotocol/ext-apps](../repos/modelcontextprotocol/ext-apps.md) | ⭐ 2,653 | 2026-08-01 | Official repo for spec &amp; SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served... |
@@ -89,12 +89,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 201,757 | 2026-08-11 | 2 |
+| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 202,134 | 2026-08-11 | 3 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 129,064 | 2026-08-02 | 5 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | 2026-08-17 | 2 |
+| [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | 3 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 96,831 | 2026-08-04 | 2 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
@@ -107,7 +108,6 @@
 | [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,312 | 2026-08-04 | 3 |
 | [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | ⭐ 75,400 | 2026-07-31 | 1 |
 | [strapi/strapi](../repos/strapi/strapi.md) | ⭐ 72,929 | 2026-08-15 | 1 |
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 68,347 | 2026-08-10 | 2 |
 
 ---
 
@@ -118,11 +118,11 @@
 | [cursor/plugins](../repos/cursor/plugins.md) | 8 | ⭐ 4,631 | 2026-08-01 | 2026-08-22 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 6 | ⭐ 26,507 | 2026-08-02 | 2026-08-22 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 7 | ⭐ 26,758 | 2026-08-02 | 2026-08-23 |
+| [makeplane/plane](../repos/makeplane/plane.md) | 6 | ⭐ 57,520 | 2026-08-06 | 2026-08-23 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 5 | ⭐ 129,064 | 2026-08-02 | 2026-08-21 |
 | [cloudflare/computer](../repos/cloudflare/computer.md) | 5 | ⭐ 6,976 | 2026-08-05 | 2026-08-09 |
-| [makeplane/plane](../repos/makeplane/plane.md) | 5 | ⭐ 57,175 | 2026-08-06 | 2026-08-22 |
 | [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | 5 | ⭐ 13,986 | 2026-08-07 | 2026-08-11 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 5 | ⭐ 19,365 | 2026-08-07 | 2026-08-22 |
 
@@ -159,7 +159,7 @@
 - [storybookjs/storybook](../repos/storybookjs/storybook.md) - Storybook is the industry standard workshop for building, documenting, and testing UI components ...
 - [microsoft/flint-chart](../repos/microsoft/flint-chart.md) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking...
 - [simstudioai/sim](../repos/simstudioai/sim.md) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by...
-- [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, b...
+- [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) - ⌥ Coding agent with the IDE wired in
 - [iptv-org/iptv](../repos/iptv-org/iptv.md) - Collection of publicly available IPTV channels from all over the world
 - [karakeep-app/karakeep](../repos/karakeep-app/karakeep.md) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging...
 - [darkreader/darkreader](../repos/darkreader/darkreader.md) - Dark Reader Chrome and Firefox extension
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-22T21:01:46.317Z*
+*Last updated: 2026-08-23T21:02:00.365Z*

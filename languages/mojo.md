@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [modular/modular](../repos/modular/modular.md) | ⭐ 28,822 | 2026-08-20 | 3 |
 
+*No Mojo repositories trending today*
 
 ---
 
@@ -52,4 +50,4 @@
 
 ---
 
-*Last updated: 2026-08-22T21:01:46.289Z*
+*Last updated: 2026-08-23T21:02:00.339Z*

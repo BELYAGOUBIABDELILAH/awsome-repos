@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 149
+- **Total Repositories**: 152
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-19
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 234,355 | 2026-08-01 | 8 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 234,889 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 74,127 | 2026-08-01 | 5 |
+| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 80,691 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 109,532 | 2026-08-03 | 3 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 47,870 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostHog/posthog](../repos/PostHog/posthog.md) | ⭐ 38,565 | 2026-08-03 | 5 |
+| [PostHog/posthog](../repos/PostHog/posthog.md) | ⭐ 38,779 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 73,032 | 2026-08-06 | 2 |
+| [NVIDIA-NeMo/Speech](../repos/NVIDIA-NeMo/Speech.md) | ⭐ 18,268 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 142,494 | 2026-08-07 | 6 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 129,329 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/AI-Infra-Guard](../repos/Tencent/AI-Infra-Guard.md) | ⭐ 5,454 | 2026-08-20 | 3 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,821 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shy3130/tickflow-stock-panel](../repos/shy3130/tickflow-stock-panel.md) | ⭐ 3,455 | 2026-08-22 | 1 |
+| [666ghj/MiroFish](../repos/666ghj/MiroFish.md) | ⭐ 71,453 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [forcedotcom/sf-skills](../repos/forcedotcom/sf-skills.md) | ⭐ 900 | 2026-08-22 | 1 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 142,745 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-community](../repos/anthropics/claude-plugins-community.md) | ⭐ 585 | 2026-08-22 | 1 |
+| [anthropics/claude-plugins-community](../repos/anthropics/claude-plugins-community.md) | ⭐ 878 | 2026-08-22 | 2 |
 
 
 ---
@@ -91,15 +91,15 @@
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 464,529 | 2026-08-01 | 5 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | 2026-08-03 | 5 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | 2026-08-08 | 3 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 234,355 | 2026-08-01 | 8 |
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,458 | 2026-08-06 | 4 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 234,889 | 2026-08-01 | 9 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,821 | 2026-08-06 | 5 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 186,102 | 2026-08-02 | 5 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 168,510 | 2026-08-11 | 2 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | 2026-07-31 | 4 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 142,494 | 2026-08-07 | 6 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 142,745 | 2026-08-07 | 7 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 130,495 | 2026-08-04 | 1 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 129,329 | 2026-08-05 | 5 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 129,117 | 2026-08-14 | 2 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 126,231 | 2026-08-05 | 4 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 113,790 | 2026-08-01 | 9 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 110,011 | 2026-08-20 | 2 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 109,532 | 2026-08-03 | 3 |
@@ -107,7 +107,7 @@
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 97,152 | 2026-08-08 | 3 |
 | [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 90,555 | 2026-08-10 | 3 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 89,336 | 2026-08-02 | 3 |
-| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 79,146 | 2026-08-02 | 2 |
+| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 80,691 | 2026-08-02 | 3 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 9 | ⭐ 113,790 | 2026-08-01 | 2026-08-21 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 8 | ⭐ 234,355 | 2026-08-01 | 2026-08-22 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 9 | ⭐ 234,889 | 2026-08-01 | 2026-08-23 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 8 | ⭐ 1,340 | 2026-08-01 | 2026-08-14 |
 | [usestrix/strix](../repos/usestrix/strix.md) | 8 | ⭐ 56,671 | 2026-08-04 | 2026-08-21 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | 7 | ⭐ 142,745 | 2026-08-07 | 2026-08-23 |
 | [cactus-compute/needle](../repos/cactus-compute/needle.md) | 7 | ⭐ 7,498 | 2026-08-11 | 2026-08-19 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | 6 | ⭐ 142,494 | 2026-08-07 | 2026-08-22 |
+| [PostHog/posthog](../repos/PostHog/posthog.md) | 6 | ⭐ 38,779 | 2026-08-03 | 2026-08-23 |
 | [openai/whisper](../repos/openai/whisper.md) | 5 | ⭐ 106,298 | 2026-07-31 | 2026-08-01 |
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | 5 | ⭐ 464,529 | 2026-08-01 | 2026-08-19 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 5 | ⭐ 74,127 | 2026-08-01 | 2026-08-22 |
-| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | 5 | ⭐ 46,014 | 2026-08-02 | 2026-08-06 |
 
 ---
 
@@ -164,7 +164,7 @@
 - [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) - A Patch for GIMP 3+ for Photoshop Users
 - [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...
 - [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) - Kronos: A Foundation Model for the Language of Financial Markets
-- [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voic...
+- [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) - Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, ID...
 - [livekit/agents](../repos/livekit/agents.md) - A framework for building realtime voice AI agents 🤖🎙️📹 
 - [comet-ml/opik](../repos/comet-ml/opik.md) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with compr...
 - [jamwithai/production-agentic-rag-course](../repos/jamwithai/production-agentic-rag-course.md) - 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-22T21:01:46.301Z*
+*Last updated: 2026-08-23T21:02:00.350Z*

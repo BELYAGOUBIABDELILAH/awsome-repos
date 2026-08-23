@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 112
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-17
+- **Last Updated**: 2026-08-23
 
 ---
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,463 | 2026-08-02 | 7 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,068 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) | ⭐ 1,625 | 2026-08-02 | 5 |
+| [zly2006/zhihu-plus-plus](../repos/zly2006/zhihu-plus-plus.md) | ⭐ 3,828 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,091 | 2026-08-03 | 3 |
+| [aniyomiorg/aniyomi](../repos/aniyomiorg/aniyomi.md) | ⭐ 7,622 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,524 | 2026-08-06 | 5 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,500 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 29,211 | 2026-08-08 | 8 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,385 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rushiranpise/morphe-patches](../repos/rushiranpise/morphe-patches.md) | ⭐ 457 | 2026-08-08 | 3 |
+| [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | ⭐ 4,319 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | ⭐ 5,439 | 2026-08-11 | 4 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,114 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FoedusProgramme/Gramophone](../repos/FoedusProgramme/Gramophone.md) | ⭐ 2,236 | 2026-08-19 | 2 |
+| [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,536 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mahlernim/google-timeline-visualizer](../repos/mahlernim/google-timeline-visualizer.md) | ⭐ 2,545 | 2026-08-20 | 3 |
+| [Kyant0/AndroidLiquidGlass](../repos/Kyant0/AndroidLiquidGlass.md) | ⭐ 3,349 | 2026-08-08 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | ⭐ 5,487 | 2026-08-11 | 5 |
 
 
 ---
@@ -49,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,740 | 2026-08-01 | Free and open source manga reader for Android |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,068 | 2026-08-01 | Free and open source manga reader for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 181 | 2026-08-01 | Android app for BYD DiLink 5.0: real consumption from BMS, GPS trips, charges journal, automation... |
@@ -64,7 +67,7 @@
 | [Fate-Grand-Automata/FGA](../repos/Fate-Grand-Automata/FGA.md) | ⭐ 2,277 | 2026-08-01 | Auto-battle app for F&#x2F;GO Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zly2006/zhihu-plus-plus](../repos/zly2006/zhihu-plus-plus.md) | ⭐ 3,556 | 2026-08-01 | Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎... |
+| [zly2006/zhihu-plus-plus](../repos/zly2006/zhihu-plus-plus.md) | ⭐ 3,828 | 2026-08-01 | Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Tencent-TDS/KuiklyUI](../repos/Tencent-TDS/KuiklyUI.md) | ⭐ 3,366 | 2026-08-01 | A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six pla... |
@@ -85,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,276 | 2026-08-03 | 3 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,385 | 2026-08-03 | 4 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,463 | 2026-08-02 | 7 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,354 | 2026-08-04 | 4 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,395 | 2026-08-06 | 6 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,091 | 2026-08-03 | 3 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,114 | 2026-08-03 | 4 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 29,211 | 2026-08-08 | 8 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,182 | 2026-08-05 | 3 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,467 | 2026-08-11 | 1 |
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,429 | 2026-08-12 | 1 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,355 | 2026-08-05 | 2 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 22,740 | 2026-08-01 | 9 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,068 | 2026-08-01 | 10 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,198 | 2026-08-02 | 2 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,661 | 2026-08-01 | 3 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,290 | 2026-08-12 | 1 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,288 | 2026-08-17 | 1 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,380 | 2026-08-02 | 2 |
-| [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,524 | 2026-08-06 | 5 |
+| [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,536 | 2026-08-06 | 6 |
 | [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,091 | 2026-08-10 | 2 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 10,983 | 2026-08-02 | 3 |
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,410 | 2026-08-03 | 3 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,500 | 2026-08-03 | 4 |
 
 ---
 
@@ -112,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 9 | ⭐ 22,740 | 2026-08-01 | 2026-08-11 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 10 | ⭐ 23,068 | 2026-08-01 | 2026-08-23 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 8 | ⭐ 4,289 | 2026-08-02 | 2026-08-14 |
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 8 | ⭐ 643 | 2026-08-05 | 2026-08-21 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 8 | ⭐ 29,211 | 2026-08-08 | 2026-08-22 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 7 | ⭐ 61,463 | 2026-08-02 | 2026-08-22 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 6 | ⭐ 50,395 | 2026-08-06 | 2026-08-19 |
+| [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | 6 | ⭐ 12,536 | 2026-08-06 | 2026-08-23 |
 | [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) | 5 | ⭐ 1,625 | 2026-08-02 | 2026-08-22 |
 | [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | 5 | ⭐ 1,641 | 2026-08-03 | 2026-08-14 |
-| [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | 5 | ⭐ 12,524 | 2026-08-06 | 2026-08-22 |
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 4 | ⭐ 2,129 | 2026-08-02 | 2026-08-12 |
+| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | 5 | ⭐ 5,487 | 2026-08-11 | 2026-08-23 |
 
 ---
 
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-22T21:01:46.283Z*
+*Last updated: 2026-08-23T21:02:00.332Z*

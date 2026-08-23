@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,105 | 2026-08-01 | 8 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,700 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 28,212 | 2026-08-02 | 16 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 29,015 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 2,131 | 2026-08-02 | 3 |
+| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 2,147 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,513 | 2026-08-04 | 3 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,980 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,964 | 2026-08-06 | 4 |
+| [linux-surface/linux-surface](../repos/linux-surface/linux-surface.md) | ⭐ 7,613 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,446 | 2026-08-07 | 11 |
+| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,031 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,542 | 2026-08-07 | 3 |
+| [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 19,824 | 2026-08-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 3,978 | 2026-08-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 19,747 | 2026-08-12 | 3 |
+| [wolfi-dev/os](../repos/wolfi-dev/os.md) | ⭐ 1,275 | 2026-08-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 32,937 | 2026-08-20 | 3 |
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 1,975 | 2026-08-19 | 2 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [HQarroum/docker-android](../repos/HQarroum/docker-android.md) | ⭐ 7,174 | 2026-08-01 | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,636 | 2026-08-01 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $n... |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,700 | 2026-08-01 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $n... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [The01Geek/prflow](../repos/The01Geek/prflow.md) | ⭐ 112 | 2026-08-01 | Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and... |
@@ -79,7 +79,7 @@
 | [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,642 | 2026-08-01 | Универсальный менеджер для обхода блокировок на OpenWrt |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 28,212 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 29,015 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
 
 
 ---
@@ -89,18 +89,18 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,636 | 2026-08-01 | 10 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,700 | 2026-08-01 | 11 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,206 | 2026-08-04 | 2 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,964 | 2026-08-06 | 4 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 52,980 | 2026-08-06 | 5 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,513 | 2026-08-04 | 3 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 32,937 | 2026-08-20 | 3 |
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 28,212 | 2026-08-02 | 16 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 29,015 | 2026-08-02 | 17 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,446 | 2026-08-04 | 6 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,694 | 2026-08-07 | 3 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
-| [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 19,747 | 2026-08-12 | 3 |
+| [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 19,824 | 2026-08-12 | 4 |
 | [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,753 | 2026-08-08 | 4 |
 | [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 15,647 | 2026-08-11 | 3 |
 | [DaoCloud/public-image-mirror](../repos/DaoCloud/public-image-mirror.md) | ⭐ 14,853 | 2026-08-14 | 1 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 16 | ⭐ 28,212 | 2026-08-02 | 2026-08-22 |
+| [basecamp/omarchy](../repos/basecamp/omarchy.md) | 17 | ⭐ 29,015 | 2026-08-02 | 2026-08-23 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 11 | ⭐ 94,700 | 2026-08-01 | 2026-08-23 |
 | [expo/skills](../repos/expo/skills.md) | 11 | ⭐ 2,446 | 2026-08-07 | 2026-08-22 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 10 | ⭐ 94,636 | 2026-08-01 | 2026-08-19 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 8 | ⭐ 4,105 | 2026-08-01 | 2026-08-22 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 7 | ⭐ 2,108 | 2026-08-02 | 2026-08-16 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 6 | ⭐ 11,100 | 2026-08-04 | 2026-08-19 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 6 | ⭐ 25,446 | 2026-08-04 | 2026-08-21 |
-| [wolfi-dev/os](../repos/wolfi-dev/os.md) | 5 | ⭐ 1,269 | 2026-08-14 | 2026-08-19 |
-| [cloudflare/skills](../repos/cloudflare/skills.md) | 4 | ⭐ 2,590 | 2026-08-05 | 2026-08-09 |
-| [dockur/windows](../repos/dockur/windows.md) | 4 | ⭐ 52,964 | 2026-08-06 | 2026-08-22 |
+| [wolfi-dev/os](../repos/wolfi-dev/os.md) | 6 | ⭐ 1,275 | 2026-08-14 | 2026-08-23 |
+| [dockur/windows](../repos/dockur/windows.md) | 5 | ⭐ 52,980 | 2026-08-06 | 2026-08-23 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 5 | ⭐ 3,978 | 2026-08-12 | 2026-08-23 |
 
 ---
 
@@ -214,4 +214,4 @@
 
 ---
 
-*Last updated: 2026-08-22T21:01:46.312Z*
+*Last updated: 2026-08-23T21:02:00.361Z*

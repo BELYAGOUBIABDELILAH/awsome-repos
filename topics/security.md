@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 174
+- **Total Repositories**: 176
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-21
-- **Average Stars**: 16923
+- **Last Updated**: 2026-08-23
+- **Average Stars**: 16798
 
 ---
 
@@ -17,16 +17,13 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,125 | C |  |
+| [pestphp/pest](../repos/pestphp/pest.md) | ⭐ 11,679 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,058 | C |  |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,799 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,483 | PHP |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,686 | Ruby |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,688 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | Ruby |  |
@@ -35,16 +32,19 @@
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,440 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,857 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,865 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,882 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,893 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,558 | Clojure |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,578 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,353 | OCaml |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,364 | OCaml |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,634 | Perl |  |
 
 
 ---
@@ -53,13 +53,13 @@
 
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,039 | C | 2026-08-07 | 7 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,127 | C | 2026-08-07 | 8 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | TypeScript | 2026-08-22 | 1 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 90,961 | Rust | 2026-08-09 | 5 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 91,388 | Rust | 2026-08-09 | 6 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | TypeScript | 2026-08-02 | 1 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,938 | C++ | 2026-08-02 | 4 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 89,336 | Python | 2026-08-02 | 3 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,128 | C | 2026-08-02 | 6 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,351 | C | 2026-08-02 | 7 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | Go | 2026-08-03 | 3 |
 | [git/git](../repos/git/git.md) | ⭐ 62,663 | C | 2026-08-05 | 3 |
 | [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 56,671 | Python | 2026-08-04 | 8 |
@@ -88,16 +88,16 @@
 | [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,388 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,796 | PHP | 2 |
+| [pestphp/pest](../repos/pestphp/pest.md) | ⭐ 11,679 | PHP | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,799 | PHP | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,483 | PHP | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,686 | Ruby | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | Ruby | 4 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,688 | Ruby | 2 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-23](../archive/2026/08/2026-08-23.md)
+- 39 repositories trending
+- Top: Genymobile&#x2F;scrcpy
+
 ### [2026-08-22](../archive/2026/08/2026-08-22.md)
 - 40 repositories trending
 - Top: puppeteer&#x2F;puppeteer
@@ -158,10 +162,6 @@
 - 35 repositories trending
 - Top: obsproject&#x2F;obs-studio
 
-### [2026-08-16](../archive/2026/08/2026-08-16.md)
-- 18 repositories trending
-- Top: usestrix&#x2F;strix
-
 
 ---
 
@@ -171,16 +171,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 20 days | 2026-08-01 | 2026-08-22 |
-| [apache/spark](../repos/apache/spark.md) | 20 days | 2026-08-01 | 2026-08-22 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 19 days | 2026-08-01 | 2026-08-22 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 19 days | 2026-08-01 | 2026-08-22 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 18 days | 2026-08-01 | 2026-08-22 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 18 days | 2026-08-01 | 2026-08-22 |
-| [vlang/v](../repos/vlang/v.md) | 18 days | 2026-08-01 | 2026-08-22 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 18 days | 2026-08-02 | 2026-08-22 |
-| [joernio/joern](../repos/joernio/joern.md) | 16 days | 2026-08-01 | 2026-08-22 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 16 days | 2026-08-01 | 2026-08-22 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 21 days | 2026-08-01 | 2026-08-23 |
+| [apache/spark](../repos/apache/spark.md) | 21 days | 2026-08-01 | 2026-08-23 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 20 days | 2026-08-01 | 2026-08-23 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 20 days | 2026-08-01 | 2026-08-23 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 19 days | 2026-08-01 | 2026-08-23 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 19 days | 2026-08-01 | 2026-08-23 |
+| [vlang/v](../repos/vlang/v.md) | 19 days | 2026-08-01 | 2026-08-23 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 19 days | 2026-08-02 | 2026-08-23 |
+| [joernio/joern](../repos/joernio/joern.md) | 17 days | 2026-08-01 | 2026-08-23 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 17 days | 2026-08-01 | 2026-08-23 |
 
 ---
 
@@ -188,13 +188,13 @@
 
 ### Language Breakdown
 - **C**: 35 repositories (20%)
-- **Go**: 27 repositories (16%)
+- **Go**: 27 repositories (15%)
 - **Python**: 12 repositories (7%)
 - **C++**: 10 repositories (6%)
-- **Java**: 7 repositories (4%)
+- **Java**: 8 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 33.6 repositories
+- **Daily Average**: 33.9 repositories
 - **Peak Day**: 2026-08-19 (42 repositories)
 - **Growth Rate**: 100% this month
 
@@ -301,7 +301,7 @@
 - [lz4/lz4](../repos/lz4/lz4.md) - Extremely Fast Compression algorithm
 - [git/git](../repos/git/git.md) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into p...
 - [radareorg/radare2](../repos/radareorg/radare2.md) - UNIX-like reverse engineering framework and command-line toolset
-- [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) - Test suites for Web platform specs — including WHATWG, W3C, and others
+- [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [Commando-X/vuln-bank](../repos/Commando-X/vuln-bank.md) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App...
 - [pq-code-package/mldsa-native](../repos/pq-code-package/mldsa-native.md) - Secure, fast, and portable C90 implementation of ML-DSA &#x2F; FIPS 204
 - [crashappsec/chalk](../repos/crashappsec/chalk.md) - Chalk allows you to follow code from development, through builds and into production.
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-08-22T21:01:46.100Z*
+*Last updated: 2026-08-23T21:02:00.162Z*

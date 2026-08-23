@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 128
+- **Total Repositories**: 132
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-21
+- **Last Updated**: 2026-08-23
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,967 | 2026-08-01 | 10 |
+| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,390 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 67,693 | 2026-08-01 | 10 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,314 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,125 | 2026-08-01 | 7 |
+| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 679 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,937 | 2026-08-01 | 5 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,351 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,058 | 2026-08-01 | 5 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,646 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [php/php-src](../repos/php/php-src.md) | ⭐ 40,312 | 2026-08-01 | 3 |
+| [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 26,604 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) | ⭐ 646 | 2026-08-02 | 4 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,127 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,897 | 2026-08-04 | 7 |
+| [EpicGames/raddebugger](../repos/EpicGames/raddebugger.md) | ⭐ 7,416 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,430 | 2026-08-04 | 7 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,076 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | 6 |
+| [arendst/Tasmota](../repos/arendst/Tasmota.md) | ⭐ 24,723 | 2026-08-09 | 3 |
 
 
 ---
@@ -88,23 +88,23 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,039 | 2026-08-07 | 7 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,127 | 2026-08-07 | 8 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 137,967 | 2026-08-01 | 10 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,073 | 2026-08-04 | 4 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,128 | 2026-08-02 | 6 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,351 | 2026-08-02 | 7 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 67,693 | 2026-08-01 | 10 |
 | [git/git](../repos/git/git.md) | ⭐ 62,663 | 2026-08-05 | 3 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 40,312 | 2026-08-01 | 3 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,314 | 2026-08-01 | 4 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 39,798 | 2026-08-07 | 8 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,255 | 2026-08-08 | 3 |
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,462 | 2026-08-02 | 3 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,646 | 2026-08-02 | 4 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | 6 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,385 | 2026-08-03 | 3 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 32,007 | 2026-08-17 | 1 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 31,813 | 2026-08-01 | 1 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,571 | 2026-08-16 | 1 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,467 | 2026-08-02 | 3 |
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,016 | 2026-08-09 | 3 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,076 | 2026-08-09 | 4 |
 | [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,598 | 2026-08-07 | 7 |
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,125 | 2026-08-01 | 7 |
 | [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 26,835 | 2026-08-08 | 2 |
@@ -119,12 +119,12 @@
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 10 | ⭐ 67,693 | 2026-08-01 | 2026-08-22 |
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 8 | ⭐ 16,290 | 2026-08-06 | 2026-08-22 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 8 | ⭐ 39,798 | 2026-08-07 | 2026-08-21 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 8 | ⭐ 148,127 | 2026-08-07 | 2026-08-23 |
 | [libuv/libuv](../repos/libuv/libuv.md) | 7 | ⭐ 27,125 | 2026-08-01 | 2026-08-22 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 7 | ⭐ 75,351 | 2026-08-02 | 2026-08-23 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 7 | ⭐ 6,897 | 2026-08-04 | 2026-08-22 |
 | [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 7 | ⭐ 4,430 | 2026-08-04 | 2026-08-22 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 7 | ⭐ 148,039 | 2026-08-07 | 2026-08-21 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 7 | ⭐ 27,598 | 2026-08-07 | 2026-08-22 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 6 | ⭐ 75,128 | 2026-08-02 | 2026-08-17 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-22T21:01:46.234Z*
+*Last updated: 2026-08-23T21:02:00.290Z*

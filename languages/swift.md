@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 81
+- **Total Repositories**: 83
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-22
+- **Last Updated**: 2026-08-23
 
 ---
 
@@ -16,22 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 49,193 | 2026-08-01 | 7 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,170 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,056 | 2026-08-01 | 3 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,071 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,879 | 2026-08-04 | 8 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,278 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,275 | 2026-08-05 | 5 |
+| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 1,953 | 2026-08-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,796 | 2026-08-12 | 4 |
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,843 | 2026-08-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ronitsingh10/FineTune](../repos/ronitsingh10/FineTune.md) | ⭐ 8,815 | 2026-08-22 | 1 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,219 | 2026-08-17 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ronitsingh10/FineTune](../repos/ronitsingh10/FineTune.md) | ⭐ 8,835 | 2026-08-22 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ob-f/OpenBot](../repos/ob-f/OpenBot.md) | ⭐ 3,424 | 2026-08-23 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Meeep1/EeveeSpotifyRevivedPublic](../repos/Meeep1/EeveeSpotifyRevivedPublic.md) | ⭐ 707 | 2026-08-23 | 1 |
 
 
 ---
@@ -40,7 +49,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,858 | 2026-08-01 | Run iOS apps without actually installing them! |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,170 | 2026-08-01 | Run iOS apps without actually installing them! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,176 | 2026-08-01 | 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source,... |
@@ -67,7 +76,7 @@
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,203 | 2026-08-01 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agent... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,056 | 2026-08-01 | Feature-packed native macOS screenshot &amp; recording tool: annotate, auto-redact PII, record GIFs, ... |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,071 | 2026-08-01 | Feature-packed native macOS screenshot &amp; recording tool: annotate, auto-redact PII, record GIFs, ... |
 
 
 ---
@@ -76,9 +85,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,275 | 2026-08-05 | 5 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,278 | 2026-08-05 | 6 |
 | [apple/container](../repos/apple/container.md) | ⭐ 49,193 | 2026-08-01 | 7 |
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,796 | 2026-08-12 | 4 |
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,843 | 2026-08-12 | 5 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,838 | 2026-08-04 | 4 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,203 | 2026-08-01 | 6 |
@@ -88,13 +97,13 @@
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,879 | 2026-08-04 | 8 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,186 | 2026-08-17 | 1 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,219 | 2026-08-17 | 2 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 13,577 | 2026-08-08 | 2 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,568 | 2026-08-01 | 1 |
 | [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,422 | 2026-08-17 | 2 |
 | [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
 | [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,200 | 2026-08-06 | 2 |
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 10,858 | 2026-08-01 | 7 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,170 | 2026-08-01 | 8 |
 | [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,376 | 2026-08-06 | 5 |
 
 ---
@@ -103,16 +112,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 8 | ⭐ 11,170 | 2026-08-01 | 2026-08-23 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 8 | ⭐ 14,879 | 2026-08-04 | 2026-08-22 |
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 7 | ⭐ 10,858 | 2026-08-01 | 2026-08-17 |
 | [apple/container](../repos/apple/container.md) | 7 | ⭐ 49,193 | 2026-08-01 | 2026-08-22 |
 | [sozercan/kaset](../repos/sozercan/kaset.md) | 7 | ⭐ 2,094 | 2026-08-04 | 2026-08-21 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 6 | ⭐ 26,203 | 2026-08-01 | 2026-08-19 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | 6 | ⭐ 70,278 | 2026-08-05 | 2026-08-23 |
+| [apple/coreai-models](../repos/apple/coreai-models.md) | 6 | ⭐ 1,953 | 2026-08-12 | 2026-08-23 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 5 | ⭐ 5,938 | 2026-08-01 | 2026-08-17 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 5 | ⭐ 8,852 | 2026-08-02 | 2026-08-16 |
 | [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | 5 | ⭐ 2,415 | 2026-08-03 | 2026-08-08 |
-| [apple/swift-nio](../repos/apple/swift-nio.md) | 5 | ⭐ 8,509 | 2026-08-04 | 2026-08-19 |
-| [swiftlang/swift](../repos/swiftlang/swift.md) | 5 | ⭐ 70,275 | 2026-08-05 | 2026-08-22 |
 
 ---
 
@@ -199,7 +208,9 @@
 - [jipika/WaifuX](../repos/jipika/WaifuX.md) - macos (mac) Wallhaven · MotionBG · Anime | 壁纸 · 动态壁纸 · 番剧
 - [adidshaft/atria](../repos/adidshaft/atria.md) - Free local WHOOP strap companion: iOS app and BLE toolkit for local-only strap usage.
 - [ronitsingh10/FineTune](../repos/ronitsingh10/FineTune.md) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, an...
+- [ob-f/OpenBot](../repos/ob-f/OpenBot.md) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric ve...
+- [Meeep1/EeveeSpotifyRevivedPublic](../repos/Meeep1/EeveeSpotifyRevivedPublic.md) - 
 
 ---
 
-*Last updated: 2026-08-22T21:01:46.315Z*
+*Last updated: 2026-08-23T21:02:00.363Z*

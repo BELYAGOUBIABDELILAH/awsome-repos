@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 169
+- **Total Repositories**: 174
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-08-17
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 45,931 | 2026-08-01 | 7 |
+| [restic/restic](../repos/restic/restic.md) | ⭐ 35,678 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,359 | 2026-08-01 | 6 |
+| [github/github-mcp-server](../repos/github/github-mcp-server.md) | ⭐ 32,449 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 1,592 | 2026-08-02 | 7 |
+| [k3s-io/k3s](../repos/k3s-io/k3s.md) | ⭐ 33,792 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 37,207 | 2026-08-03 | 6 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 39,000 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
+| [charmbracelet/crush](../repos/charmbracelet/crush.md) | ⭐ 27,616 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 38,763 | 2026-08-07 | 6 |
+| [astaxie/TokenHub](../repos/astaxie/TokenHub.md) | ⭐ 1,159 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [henrygd/beszel](../repos/henrygd/beszel.md) | ⭐ 24,546 | 2026-08-10 | 2 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,629 | 2026-08-15 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,518 | 2026-08-15 | 2 |
+| [compozy/compozy](../repos/compozy/compozy.md) | ⭐ 2,659 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 21,131 | 2026-08-20 | 3 |
+| [opentofu/opentofu](../repos/opentofu/opentofu.md) | ⭐ 29,880 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [entireio/cli](../repos/entireio/cli.md) | ⭐ 4,990 | 2026-08-20 | 3 |
+| [argoproj/argo-workflows](../repos/argoproj/argo-workflows.md) | ⭐ 16,929 | 2026-08-19 | 2 |
 
 
 ---
@@ -91,7 +91,7 @@
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,803 | 2026-08-01 | 9 |
 | [golang/go](../repos/golang/go.md) | ⭐ 135,891 | 2026-07-31 | 6 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,500 | 2026-08-04 | 2 |
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,518 | 2026-08-15 | 2 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,629 | 2026-08-15 | 3 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,298 | 2026-08-03 | 1 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 88,549 | 2026-08-06 | 5 |
@@ -120,11 +120,11 @@
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 8 | ⭐ 37,482 | 2026-08-01 | 2026-08-19 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 7 | ⭐ 45,931 | 2026-08-01 | 2026-08-22 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 7 | ⭐ 1,592 | 2026-08-02 | 2026-08-22 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 7 | ⭐ 39,000 | 2026-08-07 | 2026-08-23 |
 | [golang/go](../repos/golang/go.md) | 6 | ⭐ 135,891 | 2026-07-31 | 2026-08-19 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 6 | ⭐ 20,359 | 2026-08-01 | 2026-08-22 |
 | [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 6 | ⭐ 32,878 | 2026-08-02 | 2026-08-07 |
 | [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 6 | ⭐ 37,207 | 2026-08-03 | 2026-08-22 |
-| [zzet/gortex](../repos/zzet/gortex.md) | 6 | ⭐ 1,427 | 2026-08-04 | 2026-08-21 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-22T21:01:46.264Z*
+*Last updated: 2026-08-23T21:02:00.317Z*

@@ -14,8 +14,10 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,486 | 2026-08-03 | 10 |
 
-*No Common Lisp repositories trending today*
 
 ---
 
@@ -26,7 +28,7 @@
 | [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | General-purpose editor&#x2F;IDE with high expansibility in Common Lisp |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,485 | 2026-08-03 | Reviving the language that brought us the Jak &amp; Daxter Series |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,486 | 2026-08-03 | Reviving the language that brought us the Jak &amp; Daxter Series |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | Nyxt - the hacker&#39;s browser. |
@@ -42,7 +44,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | 1 |
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,485 | 2026-08-03 | 9 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,486 | 2026-08-03 | 10 |
 | [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 3 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | ⭐ 1,734 | 2026-08-04 | 1 |
 
@@ -52,7 +54,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 9 | ⭐ 3,485 | 2026-08-03 | 2026-08-19 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 10 | ⭐ 3,486 | 2026-08-03 | 2026-08-23 |
 | [lem-project/lem](../repos/lem-project/lem.md) | 3 | ⭐ 3,023 | 2026-08-01 | 2026-08-03 |
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | 1 | ⭐ 10,986 | 2026-08-04 | 2026-08-04 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | 1 | ⭐ 1,734 | 2026-08-04 | 2026-08-04 |
@@ -68,4 +70,4 @@
 
 ---
 
-*Last updated: 2026-08-22T21:01:46.248Z*
+*Last updated: 2026-08-23T21:02:00.306Z*

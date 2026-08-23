@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 90
+- **Total Repositories**: 91
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,22 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 12,200 | 2026-08-01 | 6 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 12,640 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [decolua/9router](../repos/decolua/9router.md) | ⭐ 26,072 | 2026-08-02 | 2 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,032 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react](../repos/react/react.md) | ⭐ 247,637 | 2026-08-04 | 2 |
+| [worldwonderer/oh-story-claudecode](../repos/worldwonderer/oh-story-claudecode.md) | ⭐ 5,980 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 1,584 | 2026-08-07 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [dataease/SQLBot](../repos/dataease/SQLBot.md) | ⭐ 6,671 | 2026-08-14 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [remoteintech/remote-jobs](../repos/remoteintech/remote-jobs.md) | ⭐ 40,725 | 2026-08-19 | 2 |
+| [team-codebug/babua-dsa-patterns-course](../repos/team-codebug/babua-dsa-patterns-course.md) | ⭐ 866 | 2026-08-23 | 1 |
 
 
 ---
@@ -61,13 +55,13 @@
 | [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,475 | 2026-08-01 | Low-code programming for event-driven applications |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 12,200 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 12,640 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) | ⭐ 347 | 2026-08-01 | Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 60,344 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,032 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生&#x2F;人生进阶 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
 
 
 ---
@@ -90,7 +84,7 @@
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 61,359 | 2026-08-05 | 4 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 60,344 | 2026-08-01 | 9 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,032 | 2026-08-01 | 10 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,912 | 2026-08-11 | 2 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,206 | 2026-08-08 | 1 |
@@ -103,10 +97,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [byoungd/up](../repos/byoungd/up.md) | 9 | ⭐ 60,344 | 2026-08-01 | 2026-08-21 |
+| [byoungd/up](../repos/byoungd/up.md) | 10 | ⭐ 61,032 | 2026-08-01 | 2026-08-23 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 7 | ⭐ 12,640 | 2026-08-01 | 2026-08-23 |
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 7 | ⭐ 86,177 | 2026-08-05 | 2026-08-11 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 6 | ⭐ 141,656 | 2026-07-30 | 2026-08-06 |
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 6 | ⭐ 12,200 | 2026-08-01 | 2026-08-22 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 6 | ⭐ 1,584 | 2026-08-07 | 2026-08-22 |
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 5 | ⭐ 7,142 | 2026-08-01 | 2026-08-12 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 5 | ⭐ 38,736 | 2026-08-06 | 2026-08-10 |
@@ -127,7 +121,7 @@
 - [node-red/node-red](../repos/node-red/node-red.md) - Low-code programming for event-driven applications
 - [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 - [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) - Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module...
-- [byoungd/up](../repos/byoungd/up.md) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语
+- [byoungd/up](../repos/byoungd/up.md) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生&#x2F;人生进阶 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语
 - [pdone/lx-music-source](../repos/pdone/lx-music-source.md) - 洛雪音乐源
 - [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) - LLM Frontend for Power Users.
 - [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) - Use Codex from Claude Code to review code or delegate tasks.
@@ -208,7 +202,8 @@
 - [simple-icons/simple-icons](../repos/simple-icons/simple-icons.md) - SVG icons for popular brands
 - [jarrodwatts/claude-hud](../repos/jarrodwatts/claude-hud.md) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, a...
 - [google/zx](../repos/google/zx.md) - A tool for writing better scripts
+- [team-codebug/babua-dsa-patterns-course](../repos/team-codebug/babua-dsa-patterns-course.md) - 
 
 ---
 
-*Last updated: 2026-08-22T21:01:46.276Z*
+*Last updated: 2026-08-23T21:02:00.327Z*
