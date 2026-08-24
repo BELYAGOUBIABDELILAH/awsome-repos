@@ -14,11 +14,11 @@
 | **License** | WTFPL |
 | **Stars** | ⭐ 20,088 |
 | **Forks** | 🍴 1,437 |
-| **Trending Days** | 4 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Aug 22, 2026 |
+| **Last Seen** | Aug 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 3 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 75&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-23T21:02:03.715Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-08-24T21:22:04.081Z*  
+*Data from 5 trending reports*

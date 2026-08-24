@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 1663
+- **Total Repositories**: 1691
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 18313
+- **Average Stars**: 18263
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,374 | C++ |  |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,558 | C++ |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,607 | C++ |  |
+| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 18,442 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 234,889 | Python |  |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 235,725 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 12,640 | JavaScript |  |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 74,794 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,032 | JavaScript |  |
+| [langchain-ai/deepagents](../repos/langchain-ai/deepagents.md) | ⭐ 28,374 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 48,281 | TypeScript |  |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 15,404 | JavaScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,569 | Java |  |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,334 | JavaScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [assimp/assimp](../repos/assimp/assimp.md) | ⭐ 13,155 | C++ |  |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,527 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,391 | C# |  |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 116,086 | C++ |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,270 | C# |  |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,061 | C |  |
 
 
 ---
@@ -58,7 +58,7 @@
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | Python | 2026-08-03 | 5 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | Python | 2026-08-08 | 3 |
 | [react/react](../repos/react/react.md) | ⭐ 247,637 | JavaScript | 2026-08-04 | 2 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 234,889 | Python | 2026-08-01 | 9 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 235,725 | Python | 2026-08-01 | 10 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | TypeScript | 2026-08-04 | 1 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,365 | HTML | 2026-08-03 | 6 |
@@ -70,7 +70,7 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,374 | C++ | 1 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,558 | C++ | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 58,631 | Python | 1 |
@@ -79,25 +79,25 @@
 | [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,607 | C++ | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 18,442 | Rust | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 113,790 | Python | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 464,529 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 234,889 | Python | 2 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 235,725 | Python | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 11,133 | Python | 1 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 74,794 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 74,127 | Python | 1 |
+| [langchain-ai/deepagents](../repos/langchain-ai/deepagents.md) | ⭐ 28,374 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 12,640 | JavaScript | 2 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,032 | JavaScript | 1 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 15,404 | JavaScript | 3 |
 
 ---
 
@@ -105,7 +105,7 @@
 
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,374 | C++ | 2026-07-30 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,558 | C++ | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 75,000 | Python | 2026-07-30 |
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-24](../archive/2026/08/2026-08-24.md)
+- 266 repositories trending
+- Top: NousResearch&#x2F;hermes-agent
+
 ### [2026-08-23](../archive/2026/08/2026-08-23.md)
 - 236 repositories trending
 - Top: NousResearch&#x2F;hermes-agent
@@ -158,10 +162,6 @@
 - 381 repositories trending
 - Top: public-apis&#x2F;public-apis
 
-### [2026-08-17](../archive/2026/08/2026-08-17.md)
-- 219 repositories trending
-- Top: public-apis&#x2F;public-apis
-
 
 ---
 
@@ -171,30 +171,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 21 days | 2026-08-01 | 2026-08-23 |
-| [apache/spark](../repos/apache/spark.md) | 21 days | 2026-08-01 | 2026-08-23 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 20 days | 2026-08-01 | 2026-08-23 |
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 20 days | 2026-08-01 | 2026-08-23 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 20 days | 2026-08-01 | 2026-08-23 |
-| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | 20 days | 2026-08-01 | 2026-08-23 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 20 days | 2026-08-01 | 2026-08-23 |
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 19 days | 2026-08-01 | 2026-08-23 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 19 days | 2026-08-01 | 2026-08-23 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 19 days | 2026-08-01 | 2026-08-23 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 22 days | 2026-08-01 | 2026-08-24 |
+| [apache/spark](../repos/apache/spark.md) | 22 days | 2026-08-01 | 2026-08-24 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 21 days | 2026-08-01 | 2026-08-24 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 21 days | 2026-08-01 | 2026-08-24 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 21 days | 2026-08-01 | 2026-08-24 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 21 days | 2026-08-01 | 2026-08-24 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 20 days | 2026-08-01 | 2026-08-24 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 20 days | 2026-08-01 | 2026-08-24 |
+| [vlang/v](../repos/vlang/v.md) | 20 days | 2026-08-01 | 2026-08-24 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 20 days | 2026-08-01 | 2026-08-24 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 146 repositories (9%)
-- **C++**: 117 repositories (7%)
-- **Python**: 104 repositories (6%)
-- **TypeScript**: 103 repositories (6%)
-- **Java**: 101 repositories (6%)
+- **Go**: 147 repositories (9%)
+- **C++**: 121 repositories (7%)
+- **Python**: 106 repositories (6%)
+- **TypeScript**: 106 repositories (6%)
+- **Java**: 102 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 240.2 repositories
+- **Daily Average**: 241.3 repositories
 - **Peak Day**: 2026-08-19 (381 repositories)
 - **Growth Rate**: 100% this month
 
@@ -236,7 +236,7 @@
 - [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) - Socket-based TS&#x2F;JavaScript API for WhatsApp Web
 - [huggingface/transformers.js](../repos/huggingface/transformers.js.md) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with...
 - [node-red/node-red](../repos/node-red/node-red.md) - Low-code programming for event-driven applications
-- [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+- [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 - [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) - Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module...
 - [byoungd/up](../repos/byoungd/up.md) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生&#x2F;人生进阶 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语
 - [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an...
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:00.183Z*
+*Last updated: 2026-08-24T21:21:59.573Z*

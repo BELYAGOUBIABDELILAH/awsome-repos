@@ -1,6 +1,6 @@
 # freestylefly&#x2F;awesome-gpt-image-2
 
-> Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+> Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;freestylefly&#x2F;awesome-gpt-image-2) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 12,640 |
-| **Forks** | 🍴 1,423 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 15,404 |
+| **Forks** | 🍴 1,632 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 23, 2026 |
+| **Last Seen** | Aug 24, 2026 |
 
 
 ---
@@ -44,12 +44,13 @@
 ## Trending Timeline
 
 **Aug 23, 2026** — Rank #2 (+440 ⭐)  
+**Aug 24, 2026** — Rank #17 (+2442 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 7
-- **Longest Streak**: 2 days
+- **Trending Days**: 8
+- **Longest Streak**: 3 days
 
 ---
 
@@ -92,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:01.864Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-08-24T21:22:02.356Z*  
+*Data from 8 trending reports*

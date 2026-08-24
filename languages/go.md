@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 174
+- **Total Repositories**: 175
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-08-17
+- **Last Updated**: 2026-08-24
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [restic/restic](../repos/restic/restic.md) | ⭐ 35,678 | 2026-08-03 | 2 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,527 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/github-mcp-server](../repos/github/github-mcp-server.md) | ⭐ 32,449 | 2026-08-05 | 3 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 179,343 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k3s-io/k3s](../repos/k3s-io/k3s.md) | ⭐ 33,792 | 2026-08-05 | 2 |
+| [authelia/authelia](../repos/authelia/authelia.md) | ⭐ 28,681 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 39,000 | 2026-08-07 | 7 |
+| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,529 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [charmbracelet/crush](../repos/charmbracelet/crush.md) | ⭐ 27,616 | 2026-08-08 | 3 |
+| [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) | ⭐ 30,766 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astaxie/TokenHub](../repos/astaxie/TokenHub.md) | ⭐ 1,159 | 2026-08-14 | 2 |
+| [wailsapp/wails](../repos/wailsapp/wails.md) | ⭐ 35,948 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,629 | 2026-08-15 | 3 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,527 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [compozy/compozy](../repos/compozy/compozy.md) | ⭐ 2,659 | 2026-08-15 | 2 |
+| [charmbracelet/crush](../repos/charmbracelet/crush.md) | ⭐ 27,643 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opentofu/opentofu](../repos/opentofu/opentofu.md) | ⭐ 29,880 | 2026-08-15 | 2 |
+| [navidrome/navidrome](../repos/navidrome/navidrome.md) | ⭐ 23,093 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [argoproj/argo-workflows](../repos/argoproj/argo-workflows.md) | ⭐ 16,929 | 2026-08-19 | 2 |
+| [henrygd/beszel](../repos/henrygd/beszel.md) | ⭐ 24,616 | 2026-08-10 | 3 |
 
 
 ---
@@ -76,7 +76,7 @@
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,482 | 2026-08-01 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,359 | 2026-08-01 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason... |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,527 | 2026-08-01 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nianzhibai/91](../repos/nianzhibai/91.md) | ⭐ 1,316 | 2026-08-01 | nine one |
@@ -88,11 +88,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 178,803 | 2026-08-01 | 9 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 179,343 | 2026-08-01 | 10 |
 | [golang/go](../repos/golang/go.md) | ⭐ 135,891 | 2026-07-31 | 6 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,500 | 2026-08-04 | 2 |
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,629 | 2026-08-15 | 3 |
-| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,298 | 2026-08-03 | 1 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,657 | 2026-08-15 | 4 |
+| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,529 | 2026-08-03 | 2 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 88,549 | 2026-08-06 | 5 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,212 | 2026-08-12 | 3 |
@@ -101,13 +101,13 @@
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | 2026-08-07 | 1 |
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 65,743 | 2026-08-11 | 3 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,391 | 2026-08-12 | 1 |
+| [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,796 | 2026-08-24 | 1 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,155 | 2026-08-22 | 1 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
-| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,505 | 2026-08-06 | 5 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,527 | 2026-08-06 | 6 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 46,694 | 2026-08-01 | 8 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 45,931 | 2026-08-01 | 7 |
-| [cli/cli](../repos/cli/cli.md) | ⭐ 45,795 | 2026-08-11 | 1 |
 
 ---
 
@@ -115,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ollama/ollama](../repos/ollama/ollama.md) | 9 | ⭐ 178,803 | 2026-08-01 | 2026-08-17 |
+| [ollama/ollama](../repos/ollama/ollama.md) | 10 | ⭐ 179,343 | 2026-08-01 | 2026-08-24 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 8 | ⭐ 46,694 | 2026-08-01 | 2026-08-19 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 8 | ⭐ 37,482 | 2026-08-01 | 2026-08-19 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 7 | ⭐ 45,931 | 2026-08-01 | 2026-08-22 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 7 | ⭐ 20,527 | 2026-08-01 | 2026-08-24 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 7 | ⭐ 1,592 | 2026-08-02 | 2026-08-22 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 7 | ⭐ 39,000 | 2026-08-07 | 2026-08-23 |
 | [golang/go](../repos/golang/go.md) | 6 | ⭐ 135,891 | 2026-07-31 | 2026-08-19 |
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 6 | ⭐ 20,359 | 2026-08-01 | 2026-08-22 |
 | [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 6 | ⭐ 32,878 | 2026-08-02 | 2026-08-07 |
 | [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 6 | ⭐ 37,207 | 2026-08-03 | 2026-08-22 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:00.317Z*
+*Last updated: 2026-08-24T21:21:59.711Z*

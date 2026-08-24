@@ -14,11 +14,11 @@
 | **License** | CC0-1.0 |
 | **Stars** | ⭐ 1,470 |
 | **Forks** | 🍴 598 |
-| **Trending Days** | 7 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 23, 2026 |
+| **Last Seen** | Aug 24, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
-- **Longest Streak**: 2 days
+- **Trending Days**: 8
+- **Longest Streak**: 3 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:03.058Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-08-24T21:22:03.475Z*  
+*Data from 8 trending reports*

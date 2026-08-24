@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Groovy |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 2,923 |
-| **Forks** | 🍴 973 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 2,924 |
+| **Forks** | 🍴 974 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Aug 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 5 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 2,923+ stars, strong contributor base |
+| **Community** | Very Active | 2,924+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:02.836Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-08-24T21:22:03.271Z*  
+*Data from 11 trending reports*

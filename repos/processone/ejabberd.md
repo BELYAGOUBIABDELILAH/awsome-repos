@@ -13,12 +13,12 @@
 | **Language** | Erlang |
 | **License** | Other |
 | **Stars** | ⭐ 6,719 |
-| **Forks** | 🍴 1,547 |
-| **Trending Days** | 8 |
+| **Forks** | 🍴 1,548 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Aug 21, 2026 |
+| **Last Seen** | Aug 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 5 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Very Active | Updated within last week |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:03.592Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-08-24T21:22:03.969Z*  
+*Data from 9 trending reports*

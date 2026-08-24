@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Assembly |
 | **License** | Not specified |
-| **Stars** | ⭐ 1,621 |
-| **Forks** | 🍴 336 |
-| **Trending Days** | 15 |
+| **Stars** | ⭐ 1,622 |
+| **Forks** | 🍴 337 |
+| **Trending Days** | 16 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 23, 2026 |
+| **Last Seen** | Aug 24, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 15
-- **Longest Streak**: 4 days
+- **Trending Days**: 16
+- **Longest Streak**: 5 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:02.275Z*  
-*Data from 15 trending reports*
+*Last updated: 2026-08-24T21:22:02.753Z*  
+*Data from 16 trending reports*

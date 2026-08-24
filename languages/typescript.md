@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 139
+- **Total Repositories**: 145
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 48,281 | 2026-08-01 | 2 |
+| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 35,086 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 26,758 | 2026-08-02 | 7 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 129,470 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebook/astryx](../repos/facebook/astryx.md) | ⭐ 12,273 | 2026-08-04 | 2 |
+| [elizaOS/eliza](../repos/elizaOS/eliza.md) | ⭐ 19,151 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 57,520 | 2026-08-06 | 6 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 27,129 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 42,295 | 2026-08-08 | 4 |
+| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 136,627 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 69,034 | 2026-08-10 | 3 |
+| [expo/expo](../repos/expo/expo.md) | ⭐ 51,800 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 202,134 | 2026-08-11 | 3 |
+| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 57,864 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 55,395 | 2026-08-12 | 2 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 19,728 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/maka](../repos/apache/maka.md) | ⭐ 2,302 | 2026-08-20 | 4 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 42,457 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bookorbit/bookorbit](../repos/bookorbit/bookorbit.md) | ⭐ 3,033 | 2026-08-20 | 3 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 52,779 | 2026-08-11 | 4 |
 
 
 ---
@@ -92,8 +92,8 @@
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 202,134 | 2026-08-11 | 3 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
-| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 135,054 | 2026-08-02 | 2 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 129,064 | 2026-08-02 | 5 |
+| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 136,627 | 2026-08-02 | 3 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 129,470 | 2026-08-02 | 6 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | 2026-08-17 | 2 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | 3 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [cursor/plugins](../repos/cursor/plugins.md) | 8 | ⭐ 4,631 | 2026-08-01 | 2026-08-22 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 8 | ⭐ 27,129 | 2026-08-02 | 2026-08-24 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 7 | ⭐ 26,758 | 2026-08-02 | 2026-08-23 |
-| [makeplane/plane](../repos/makeplane/plane.md) | 6 | ⭐ 57,520 | 2026-08-06 | 2026-08-23 |
+| [makeplane/plane](../repos/makeplane/plane.md) | 7 | ⭐ 57,864 | 2026-08-06 | 2026-08-24 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | 6 | ⭐ 129,470 | 2026-08-02 | 2026-08-24 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 6 | ⭐ 19,728 | 2026-08-07 | 2026-08-24 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 5 | ⭐ 129,064 | 2026-08-02 | 2026-08-21 |
 | [cloudflare/computer](../repos/cloudflare/computer.md) | 5 | ⭐ 6,976 | 2026-08-05 | 2026-08-09 |
 | [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | 5 | ⭐ 13,986 | 2026-08-07 | 2026-08-11 |
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 5 | ⭐ 19,365 | 2026-08-07 | 2026-08-22 |
 
 ---
 
@@ -188,7 +188,7 @@
 - [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) - The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No...
 - [promptfoo/promptfoo](../repos/promptfoo/promptfoo.md) - Test your prompts, agents, and RAGs. Red teaming&#x2F;pentesting&#x2F;vulnerability scanning for AI. Compar...
 - [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-- [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) - OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens&#x2F;month) behind ...
+- [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one &#x2F;v1...
 - [open-mercato/open-mercato](../repos/open-mercato/open-mercato.md) - AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural ...
 - [payloadcms/payload](../repos/payloadcms/payload.md) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. ...
 - [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) - The free coding agent
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:00.365Z*
+*Last updated: 2026-08-24T21:21:59.772Z*

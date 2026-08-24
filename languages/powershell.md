@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 39
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-21
+- **Last Updated**: 2026-08-24
 
 ---
 
@@ -16,28 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,051 | 2026-08-01 | 18 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 28,676 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,229 | 2026-08-01 | 8 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,058 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,025 | 2026-08-02 | 4 |
+| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,024 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | ⭐ 637 | 2026-08-02 | 6 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,551 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,550 | 2026-08-03 | 12 |
+| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,614 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,065 | 2026-08-03 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [iiroak/Kindle-Filler-Disk](../repos/iiroak/Kindle-Filler-Disk.md) | ⭐ 409 | 2026-08-10 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [CubeCoders/AMPTemplates](../repos/CubeCoders/AMPTemplates.md) | ⭐ 183 | 2026-08-11 | 3 |
+| [iiroak/Kindle-Filler-Disk](../repos/iiroak/Kindle-Filler-Disk.md) | ⭐ 411 | 2026-08-10 | 7 |
 
 
 ---
@@ -46,10 +40,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 27,205 | 2026-08-01 | Reverse Engineering &#x2F; Authorized Penetration Testing &#x2F; Security Research Skill Router Pack AI-pow... |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 28,676 | 2026-08-01 | Reverse Engineering &#x2F; Authorized Penetration Testing &#x2F; Security Research Skill Router Pack AI-pow... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,051 | 2026-08-01 | GitHub Actions runner images |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,058 | 2026-08-01 | GitHub Actions runner images |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,229 | 2026-08-01 | game of active directory |
@@ -82,26 +76,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 27,205 | 2026-08-01 | 10 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 28,676 | 2026-08-01 | 11 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,031 | 2026-08-02 | 5 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,089 | 2026-08-04 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,051 | 2026-08-01 | 18 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,058 | 2026-08-01 | 19 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,065 | 2026-08-03 | 7 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,947 | 2026-08-06 | 4 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,229 | 2026-08-01 | 8 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
-| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,597 | 2026-08-07 | 4 |
+| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,614 | 2026-08-07 | 5 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,942 | 2026-08-01 | 10 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,822 | 2026-08-04 | 2 |
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,638 | 2026-08-11 | 2 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,517 | 2026-08-04 | 4 |
 | [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,170 | 2026-08-19 | 2 |
 | [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,036 | 2026-08-07 | 3 |
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,025 | 2026-08-02 | 4 |
+| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,024 | 2026-08-02 | 5 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,904 | 2026-08-01 | 6 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,550 | 2026-08-03 | 12 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,551 | 2026-08-03 | 13 |
 
 ---
 
@@ -109,10 +103,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 18 | ⭐ 13,051 | 2026-08-01 | 2026-08-23 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 19 | ⭐ 13,058 | 2026-08-01 | 2026-08-24 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 13 | ⭐ 884 | 2026-08-01 | 2026-08-22 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 12 | ⭐ 1,550 | 2026-08-03 | 2026-08-23 |
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 10 | ⭐ 27,205 | 2026-08-01 | 2026-08-21 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 13 | ⭐ 1,551 | 2026-08-03 | 2026-08-24 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 11 | ⭐ 28,676 | 2026-08-01 | 2026-08-24 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 10 | ⭐ 5,942 | 2026-08-01 | 2026-08-22 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 9 | ⭐ 1,443 | 2026-08-01 | 2026-08-22 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 8 | ⭐ 8,229 | 2026-08-01 | 2026-08-23 |
@@ -166,4 +160,4 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:00.348Z*
+*Last updated: 2026-08-24T21:21:59.740Z*

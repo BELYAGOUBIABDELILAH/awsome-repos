@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 55
+- **Total Repositories**: 56
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-23
 
@@ -16,25 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,365 | 2026-08-03 | 6 |
+| [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,726 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/fonts](../repos/google/fonts.md) | ⭐ 20,401 | 2026-08-03 | 2 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,684 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,223 | 2026-08-03 | 5 |
+| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 7,267 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,118 | 2026-08-05 | 6 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 24,767 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 134,351 | 2026-08-08 | 9 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 135,036 | 2026-08-08 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 3,097 | 2026-08-11 | 4 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,135 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [webmin/webmin](../repos/webmin/webmin.md) | ⭐ 6,018 | 2026-08-23 | 1 |
+| [zhaochenyang20/Awesome-ML-SYS-Tutorial](../repos/zhaochenyang20/Awesome-ML-SYS-Tutorial.md) | ⭐ 6,950 | 2026-08-19 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 28,882 | 2026-08-19 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [w3c/wcag](../repos/w3c/wcag.md) | ⭐ 1,475 | 2026-08-24 | 1 |
 
 
 ---
@@ -46,7 +52,7 @@
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 11,860 | 2026-08-01 | The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailw... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,616 | 2026-08-01 | A collection of several hundred online tools for OSINT |
+| [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,726 | 2026-08-01 | A collection of several hundred online tools for OSINT |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,705 | 2026-08-01 | :blue_book: Home Assistant User documentation |
@@ -80,21 +86,21 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,365 | 2026-08-03 | 6 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 134,351 | 2026-08-08 | 9 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 135,036 | 2026-08-08 | 10 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,025 | 2026-08-19 | 1 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,863 | 2026-08-01 | 7 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,095 | 2026-08-01 | 4 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,523 | 2026-08-07 | 2 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 28,917 | 2026-08-09 | 5 |
-| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 28,848 | 2026-08-19 | 3 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,135 | 2026-08-09 | 6 |
+| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 28,882 | 2026-08-19 | 4 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,223 | 2026-08-03 | 5 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 23,854 | 2026-08-04 | 4 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 24,767 | 2026-08-04 | 5 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 20,546 | 2026-08-01 | 4 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,401 | 2026-08-03 | 2 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 18,499 | 2026-08-12 | 3 |
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,567 | 2026-08-02 | 2 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,684 | 2026-08-02 | 3 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,471 | 2026-08-04 | 5 |
 | [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,264 | 2026-08-05 | 1 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 14,211 | 2026-08-04 | 10 |
@@ -107,15 +113,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 10 | ⭐ 14,211 | 2026-08-04 | 2026-08-19 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 9 | ⭐ 134,351 | 2026-08-08 | 2026-08-23 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 10 | ⭐ 135,036 | 2026-08-08 | 2026-08-24 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 7 | ⭐ 64,863 | 2026-08-01 | 2026-08-22 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 6 | ⭐ 9,705 | 2026-08-01 | 2026-08-19 |
+| [averygan/reclip](../repos/averygan/reclip.md) | 6 | ⭐ 7,267 | 2026-08-03 | 2026-08-24 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 6 | ⭐ 208,365 | 2026-08-03 | 2026-08-23 |
 | [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 6 | ⭐ 6,118 | 2026-08-05 | 2026-08-23 |
-| [averygan/reclip](../repos/averygan/reclip.md) | 5 | ⭐ 7,106 | 2026-08-03 | 2026-08-19 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 6 | ⭐ 29,135 | 2026-08-09 | 2026-08-24 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 5 | ⭐ 27,223 | 2026-08-03 | 2026-08-23 |
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 5 | ⭐ 16,471 | 2026-08-04 | 2026-08-19 |
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 5 | ⭐ 28,917 | 2026-08-09 | 2026-08-17 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 5 | ⭐ 24,767 | 2026-08-04 | 2026-08-24 |
 
 ---
 
@@ -176,7 +182,8 @@
 - [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
 - [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) - A one stop repository for generative AI research updates, interview resources, notebooks and much...
 - [webmin/webmin](../repos/webmin/webmin.md) - Powerful and flexible web-based server management control panel
+- [w3c/wcag](../repos/w3c/wcag.md) - Web Content Accessibility Guidelines
 
 ---
 
-*Last updated: 2026-08-23T21:02:00.320Z*
+*Last updated: 2026-08-24T21:21:59.713Z*

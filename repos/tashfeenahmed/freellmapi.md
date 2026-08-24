@@ -1,6 +1,6 @@
 # tashfeenahmed&#x2F;freellmapi
 
-> OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens&#x2F;month) behind one &#x2F;v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+> 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one &#x2F;v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;tashfeenahmed&#x2F;freellmapi) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 19,365 |
-| **Forks** | 🍴 2,825 |
-| **Trending Days** | 5 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 19,728 |
+| **Forks** | 🍴 2,871 |
+| **Trending Days** | 6 |
+| **Peak Rank** | #15 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Aug 22, 2026 |
+| **Last Seen** | Aug 24, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Aug 24, 2026** — Rank #15 (+153 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Peak Rank**: #15
+- **Trending Days**: 6
 - **Longest Streak**: 3 days
 
 ---
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 90&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 95&#x2F;100
+- **Historical Rank**: Peak: #15
 
 
 ---
 
-*Last updated: 2026-08-23T21:02:03.381Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-08-24T21:22:03.771Z*  
+*Data from 6 trending reports*

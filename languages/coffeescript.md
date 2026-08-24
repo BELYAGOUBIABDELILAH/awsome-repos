@@ -16,10 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,034 | 2026-08-01 | 17 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,034 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | 7 |
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | 8 |
 
 
 ---
@@ -52,8 +52,8 @@
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,603 | 2026-08-01 | 5 |
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | 1 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,601 | 2026-08-09 | 1 |
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,034 | 2026-08-01 | 17 |
-| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | 7 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,034 | 2026-08-01 | 18 |
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | 8 |
 
 ---
 
@@ -61,8 +61,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 17 | ⭐ 16,034 | 2026-08-01 | 2026-08-23 |
-| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 7 | ⭐ 1,151 | 2026-08-06 | 2026-08-23 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 18 | ⭐ 16,034 | 2026-08-01 | 2026-08-24 |
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 8 | ⭐ 1,151 | 2026-08-06 | 2026-08-24 |
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 5 | ⭐ 22,603 | 2026-08-01 | 2026-08-22 |
 | [mojs/mojs](../repos/mojs/mojs.md) | 1 | ⭐ 18,747 | 2026-08-01 | 2026-08-01 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | 1 | ⭐ 16,601 | 2026-08-09 | 2026-08-09 |
@@ -79,4 +79,4 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:00.302Z*
+*Last updated: 2026-08-24T21:21:59.696Z*

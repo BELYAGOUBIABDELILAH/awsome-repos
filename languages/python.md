@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 152
+- **Total Repositories**: 155
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-19
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 234,889 | 2026-08-01 | 9 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 235,725 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 80,691 | 2026-08-02 | 3 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 74,794 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 47,870 | 2026-08-03 | 4 |
+| [langchain-ai/deepagents](../repos/langchain-ai/deepagents.md) | ⭐ 28,374 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostHog/posthog](../repos/PostHog/posthog.md) | ⭐ 38,779 | 2026-08-03 | 6 |
+| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 80,799 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA-NeMo/Speech](../repos/NVIDIA-NeMo/Speech.md) | ⭐ 18,268 | 2026-08-05 | 3 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 48,852 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 129,329 | 2026-08-05 | 5 |
+| [PostHog/posthog](../repos/PostHog/posthog.md) | ⭐ 38,949 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,821 | 2026-08-06 | 5 |
+| [NVIDIA-NeMo/Speech](../repos/NVIDIA-NeMo/Speech.md) | ⭐ 18,308 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [666ghj/MiroFish](../repos/666ghj/MiroFish.md) | ⭐ 71,453 | 2026-08-07 | 3 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 129,762 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 142,745 | 2026-08-07 | 7 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,850 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-community](../repos/anthropics/claude-plugins-community.md) | ⭐ 878 | 2026-08-22 | 2 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 142,873 | 2026-08-07 | 8 |
 
 
 ---
@@ -91,14 +91,14 @@
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 464,529 | 2026-08-01 | 5 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | 2026-08-03 | 5 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | 2026-08-08 | 3 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 234,889 | 2026-08-01 | 9 |
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,821 | 2026-08-06 | 5 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 235,725 | 2026-08-01 | 10 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,850 | 2026-08-06 | 6 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 186,102 | 2026-08-02 | 5 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 168,510 | 2026-08-11 | 2 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | 2026-07-31 | 4 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 142,745 | 2026-08-07 | 7 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 142,873 | 2026-08-07 | 8 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 130,495 | 2026-08-04 | 1 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 129,329 | 2026-08-05 | 5 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 129,762 | 2026-08-05 | 6 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 129,117 | 2026-08-14 | 2 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 113,790 | 2026-08-01 | 9 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 110,011 | 2026-08-20 | 2 |
@@ -107,7 +107,7 @@
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 97,152 | 2026-08-08 | 3 |
 | [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 90,555 | 2026-08-10 | 3 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 89,336 | 2026-08-02 | 3 |
-| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 80,691 | 2026-08-02 | 3 |
+| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 80,799 | 2026-08-02 | 4 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 10 | ⭐ 235,725 | 2026-08-01 | 2026-08-24 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 9 | ⭐ 113,790 | 2026-08-01 | 2026-08-21 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 9 | ⭐ 234,889 | 2026-08-01 | 2026-08-23 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 8 | ⭐ 1,340 | 2026-08-01 | 2026-08-14 |
 | [usestrix/strix](../repos/usestrix/strix.md) | 8 | ⭐ 56,671 | 2026-08-04 | 2026-08-21 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | 7 | ⭐ 142,745 | 2026-08-07 | 2026-08-23 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | 8 | ⭐ 142,873 | 2026-08-07 | 2026-08-24 |
+| [PostHog/posthog](../repos/PostHog/posthog.md) | 7 | ⭐ 38,949 | 2026-08-03 | 2026-08-24 |
 | [cactus-compute/needle](../repos/cactus-compute/needle.md) | 7 | ⭐ 7,498 | 2026-08-11 | 2026-08-19 |
-| [PostHog/posthog](../repos/PostHog/posthog.md) | 6 | ⭐ 38,779 | 2026-08-03 | 2026-08-23 |
-| [openai/whisper](../repos/openai/whisper.md) | 5 | ⭐ 106,298 | 2026-07-31 | 2026-08-01 |
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | 5 | ⭐ 464,529 | 2026-08-01 | 2026-08-19 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 5 | ⭐ 74,127 | 2026-08-01 | 2026-08-22 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 6 | ⭐ 74,794 | 2026-08-01 | 2026-08-24 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 6 | ⭐ 129,762 | 2026-08-05 | 2026-08-24 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | 6 | ⭐ 186,850 | 2026-08-06 | 2026-08-24 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:00.350Z*
+*Last updated: 2026-08-24T21:21:59.742Z*

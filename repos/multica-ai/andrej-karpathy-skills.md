@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Unknown |
 | **License** | Not specified |
-| **Stars** | ⭐ 205,247 |
-| **Forks** | 🍴 21,005 |
-| **Trending Days** | 1 |
-| **Peak Rank** | #11 |
+| **Stars** | ⭐ 206,425 |
+| **Forks** | 🍴 21,080 |
+| **Trending Days** | 2 |
+| **Peak Rank** | #4 |
 
 | **First Seen** | Aug 22, 2026 |
-| **Last Seen** | Aug 22, 2026 |
+| **Last Seen** | Aug 24, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Aug 24, 2026** — Rank #4 (+491 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #11
-- **Trending Days**: 1
+- **Peak Rank**: #4
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -70,7 +71,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 205,247+ stars, strong contributor base |
+| **Community** | Very Active | 206,425+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
 | **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
-- **Historical Rank**: Peak: #11
+- **Trending Score**: 35&#x2F;100
+- **Historical Rank**: Top 5 (Peak: #4)
 
 
 ---
 
-*Last updated: 2026-08-23T21:02:04.511Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-24T21:22:04.819Z*  
+*Data from 2 trending reports*

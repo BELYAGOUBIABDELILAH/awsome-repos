@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 51
+- **Total Repositories**: 52
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-21
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,199 | 2026-08-01 | 7 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,409 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 922 | 2026-08-01 | 14 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 26,867 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,406 | 2026-08-01 | 16 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,264 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,407 | 2026-08-01 | 18 |
+| [ZYY817/YuqiEngine](../repos/ZYY817/YuqiEngine.md) | ⭐ 512 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 26,736 | 2026-08-02 | 12 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 4,412 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZYY817/YuqiEngine](../repos/ZYY817/YuqiEngine.md) | ⭐ 502 | 2026-08-09 | 2 |
+| [lscambo13/ElegantFin](../repos/lscambo13/ElegantFin.md) | ⭐ 2,042 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fontsource/font-files](../repos/fontsource/font-files.md) | ⭐ 488 | 2026-08-22 | 2 |
+| [fontsource/font-files](../repos/fontsource/font-files.md) | ⭐ 488 | 2026-08-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KyleAMathews/typefaces](../repos/KyleAMathews/typefaces.md) | ⭐ 2,588 | 2026-08-22 | 2 |
+| [KyleAMathews/typefaces](../repos/KyleAMathews/typefaces.md) | ⭐ 2,589 | 2026-08-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,491 | 2026-08-23 | 1 |
+| [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) | ⭐ 7,323 | 2026-08-24 | 1 |
 
 
 ---
@@ -67,7 +70,7 @@
 | [rk192324217/cubosapiens_world-tools](../repos/rk192324217/cubosapiens_world-tools.md) | ⭐ 21 | 2026-08-01 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,407 | 2026-08-01 |  |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,409 | 2026-08-01 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sapthesh/Birthday](../repos/sapthesh/Birthday.md) | ⭐ 150 | 2026-08-01 | The Customizable Birthday Web Template is a versatile and user-friendly website template designed... |
@@ -87,8 +90,8 @@
 |------------|-------|------------|---------------|
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,744 | 2026-08-06 | 6 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,520 | 2026-08-01 | 4 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,258 | 2026-08-04 | 9 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 26,736 | 2026-08-02 | 12 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,264 | 2026-08-04 | 10 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 26,867 | 2026-08-02 | 13 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,501 | 2026-08-04 | 1 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,768 | 2026-08-08 | 1 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
@@ -98,13 +101,13 @@
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,431 | 2026-08-09 | 1 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 10,483 | 2026-08-02 | 12 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
-| [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,491 | 2026-08-23 | 1 |
+| [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,472 | 2026-08-05 | 8 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,199 | 2026-08-01 | 7 |
 | [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,412 | 2026-08-03 | 2 |
 | [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,318 | 2026-08-08 | 5 |
+| [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) | ⭐ 7,323 | 2026-08-24 | 1 |
 | [progit/progit2](../repos/progit/progit2.md) | ⭐ 6,551 | 2026-08-06 | 2 |
-| [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) | ⭐ 5,977 | 2026-08-02 | 3 |
 
 ---
 
@@ -112,13 +115,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 18 | ⭐ 1,407 | 2026-08-01 | 2026-08-23 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 19 | ⭐ 1,409 | 2026-08-01 | 2026-08-24 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 16 | ⭐ 1,406 | 2026-08-01 | 2026-08-23 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 14 | ⭐ 922 | 2026-08-01 | 2026-08-23 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 12 | ⭐ 26,736 | 2026-08-02 | 2026-08-23 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 13 | ⭐ 26,867 | 2026-08-02 | 2026-08-24 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 12 | ⭐ 10,483 | 2026-08-02 | 2026-08-21 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 11 | ⭐ 12,114 | 2026-08-01 | 2026-08-17 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 9 | ⭐ 45,258 | 2026-08-04 | 2026-08-21 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 10 | ⭐ 45,264 | 2026-08-04 | 2026-08-24 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 8 | ⭐ 9,472 | 2026-08-05 | 2026-08-22 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 7 | ⭐ 9,199 | 2026-08-01 | 2026-08-23 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 6 | ⭐ 82,744 | 2026-08-06 | 2026-08-21 |
@@ -178,7 +181,8 @@
 - [adobe/spectrum-css](../repos/adobe/spectrum-css.md) - The standard CSS implementation of the Spectrum design language.
 - [mingw-w64/mingw-w64.github.io](../repos/mingw-w64/mingw-w64.github.io.md) - mingw-w64.net web page contents (The new web page)
 - [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) - List of awesome CSS frameworks in 2026
+- [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) - ❤️静态响应式网址导航网站 - webstack.cc
 
 ---
 
-*Last updated: 2026-08-23T21:02:00.299Z*
+*Last updated: 2026-08-24T21:21:59.693Z*

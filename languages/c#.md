@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 120
+- **Total Repositories**: 121
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-23
+- **Last Updated**: 2026-08-24
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,391 | 2026-08-01 | 9 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 13,942 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 13,930 | 2026-08-01 | 5 |
+| [openutau/OpenUtau](../repos/openutau/OpenUtau.md) | ⭐ 4,228 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,270 | 2026-08-01 | 4 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 114,584 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 114,505 | 2026-08-02 | 8 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 20,345 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 20,112 | 2026-08-02 | 13 |
+| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,947 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,587 | 2026-08-02 | 3 |
+| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,590 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 5,497 | 2026-08-02 | 6 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,135 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,103 | 2026-08-02 | 8 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 15,032 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 15,239 | 2026-08-03 | 7 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,225 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LibreHardwareMonitor/LibreHardwareMonitor](../repos/LibreHardwareMonitor/LibreHardwareMonitor.md) | ⭐ 8,935 | 2026-08-09 | 3 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,259 | 2026-08-05 | 9 |
 
 
 ---
@@ -88,8 +88,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 114,505 | 2026-08-02 | 8 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,103 | 2026-08-02 | 8 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 114,584 | 2026-08-02 | 9 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,135 | 2026-08-02 | 9 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,061 | 2026-08-06 | 5 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,678 | 2026-08-01 | 5 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,194 | 2026-08-14 | 2 |
@@ -97,15 +97,15 @@
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,391 | 2026-08-01 | 9 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,880 | 2026-08-22 | 1 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,700 | 2026-08-08 | 1 |
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,477 | 2026-08-05 | 4 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,490 | 2026-08-05 | 5 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | 2026-08-01 | 7 |
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,506 | 2026-08-10 | 2 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,603 | 2026-08-10 | 3 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,864 | 2026-08-01 | 3 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,596 | 2026-08-02 | 3 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,292 | 2026-08-04 | 2 |
 | [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,564 | 2026-08-02 | 3 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,618 | 2026-08-01 | 5 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 20,112 | 2026-08-02 | 13 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 20,345 | 2026-08-02 | 14 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,885 | 2026-08-01 | 4 |
 | [Unity-Technologies/ml-agents](../repos/Unity-Technologies/ml-agents.md) | ⭐ 19,636 | 2026-08-19 | 1 |
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 13 | ⭐ 20,112 | 2026-08-02 | 2026-08-23 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 14 | ⭐ 20,345 | 2026-08-02 | 2026-08-24 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 10 | ⭐ 15,032 | 2026-08-02 | 2026-08-24 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 10 | ⭐ 5,223 | 2026-08-03 | 2026-08-22 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 9 | ⭐ 38,391 | 2026-08-01 | 2026-08-23 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 9 | ⭐ 14,848 | 2026-08-02 | 2026-08-17 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 8 | ⭐ 114,505 | 2026-08-02 | 2026-08-23 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 8 | ⭐ 56,103 | 2026-08-02 | 2026-08-23 |
-| [microsoft/aspire](../repos/microsoft/aspire.md) | 8 | ⭐ 6,256 | 2026-08-05 | 2026-08-22 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 9 | ⭐ 114,584 | 2026-08-02 | 2026-08-24 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 9 | ⭐ 56,135 | 2026-08-02 | 2026-08-24 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | 9 | ⭐ 6,259 | 2026-08-05 | 2026-08-24 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 7 | ⭐ 26,795 | 2026-08-01 | 2026-08-08 |
 | [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | 7 | ⭐ 15,239 | 2026-08-03 | 2026-08-23 |
-| [microsoft/mcp](../repos/microsoft/mcp.md) | 6 | ⭐ 3,573 | 2026-08-01 | 2026-08-15 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | 7 | ⭐ 18,225 | 2026-08-04 | 2026-08-24 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:00.294Z*
+*Last updated: 2026-08-24T21:21:59.687Z*

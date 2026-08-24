@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 119
+- **Total Repositories**: 123
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-05
+- **Last Updated**: 2026-08-24
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 115,072 | 2026-08-01 | 6 |
+| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 18,442 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel/turborepo](../repos/vercel/turborepo.md) | ⭐ 30,988 | 2026-08-02 | 3 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 116,964 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 27,494 | 2026-08-03 | 8 |
+| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 10,891 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gfx-rs/wgpu](../repos/gfx-rs/wgpu.md) | ⭐ 17,844 | 2026-08-03 | 2 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 37,200 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 91,388 | 2026-08-09 | 6 |
+| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,653 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 36,671 | 2026-08-10 | 3 |
+| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,303 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,615 | 2026-08-11 | 5 |
+| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,385 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [block/buzz](../repos/block/buzz.md) | ⭐ 30,046 | 2026-08-19 | 3 |
+| [windmill-labs/windmill](../repos/windmill-labs/windmill.md) | ⭐ 17,662 | 2026-08-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [windmill-labs/windmill](../repos/windmill-labs/windmill.md) | ⭐ 17,640 | 2026-08-22 | 2 |
+| [slint-ui/slint](../repos/slint-ui/slint.md) | ⭐ 23,569 | 2026-08-23 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [slint-ui/slint](../repos/slint-ui/slint.md) | ⭐ 23,538 | 2026-08-23 | 1 |
+| [GitoxideLabs/gitoxide](../repos/GitoxideLabs/gitoxide.md) | ⭐ 11,816 | 2026-08-24 | 1 |
 
 
 ---
@@ -64,7 +64,7 @@
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | 2026-07-31 | An extremely fast Python package and project manager, written in Rust. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 17,331 | 2026-08-01 | The most RAM efficient harness |
+| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 18,442 | 2026-08-01 | The most RAM efficient harness |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [modelcontextprotocol/rust-sdk](../repos/modelcontextprotocol/rust-sdk.md) | ⭐ 3,724 | 2026-08-01 | The official Rust SDK for the Model Context Protocol |
@@ -73,7 +73,7 @@
 | [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | ⭐ 13,249 | 2026-08-01 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 115,072 | 2026-08-01 | Lightweight coding agent that runs in your terminal |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 116,964 | 2026-08-01 | Lightweight coding agent that runs in your terminal |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 25,045 | 2026-08-01 | Development at the speed of light |
@@ -88,10 +88,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [openai/codex](../repos/openai/codex.md) | ⭐ 116,964 | 2026-08-01 | 7 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,277 | 2026-07-30 | 5 |
-| [openai/codex](../repos/openai/codex.md) | ⭐ 115,072 | 2026-08-01 | 6 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,046 | 2026-07-30 | 2 |
-| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,615 | 2026-08-11 | 5 |
+| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,653 | 2026-08-11 | 6 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 91,388 | 2026-08-09 | 6 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | 2026-07-31 | 2 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
@@ -99,15 +99,15 @@
 | [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
 | [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 64,431 | 2026-08-20 | 2 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
-| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,253 | 2026-08-19 | 4 |
-| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,169 | 2026-08-12 | 1 |
+| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,385 | 2026-08-19 | 5 |
+| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,303 | 2026-08-12 | 2 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,464 | 2026-08-05 | 4 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,953 | 2026-08-02 | 4 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,155 | 2026-08-02 | 1 |
 | [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,444 | 2026-08-05 | 4 |
 | [spacedriveapp/spacedrive](../repos/spacedriveapp/spacedrive.md) | ⭐ 38,820 | 2026-08-22 | 1 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 36,671 | 2026-08-10 | 3 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 37,200 | 2026-08-10 | 4 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 8 | ⭐ 27,494 | 2026-08-03 | 2026-08-23 |
+| [openai/codex](../repos/openai/codex.md) | 7 | ⭐ 116,964 | 2026-08-01 | 2026-08-24 |
 | [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 6 | ⭐ 13,249 | 2026-08-01 | 2026-08-19 |
-| [openai/codex](../repos/openai/codex.md) | 6 | ⭐ 115,072 | 2026-08-01 | 2026-08-23 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 6 | ⭐ 91,388 | 2026-08-09 | 2026-08-23 |
+| [oven-sh/bun](../repos/oven-sh/bun.md) | 6 | ⭐ 95,653 | 2026-08-11 | 2026-08-24 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 5 | ⭐ 115,277 | 2026-07-30 | 2026-08-05 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 5 | ⭐ 15,903 | 2026-08-01 | 2026-08-19 |
 | [moghtech/komodo](../repos/moghtech/komodo.md) | 5 | ⭐ 11,998 | 2026-08-02 | 2026-08-19 |
+| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 5 | ⭐ 10,891 | 2026-08-09 | 2026-08-24 |
 | [rustfs/rustfs](../repos/rustfs/rustfs.md) | 5 | ⭐ 31,305 | 2026-08-09 | 2026-08-22 |
-| [oven-sh/bun](../repos/oven-sh/bun.md) | 5 | ⭐ 95,615 | 2026-08-11 | 2026-08-23 |
-| [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | 4 | ⭐ 25,045 | 2026-08-01 | 2026-08-22 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:00.356Z*
+*Last updated: 2026-08-24T21:21:59.749Z*

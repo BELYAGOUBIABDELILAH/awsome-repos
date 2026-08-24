@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 363
+- **Total Repositories**: 367
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
-- **Average Stars**: 16062
+- **Average Stars**: 16058
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [assimp/assimp](../repos/assimp/assimp.md) | ⭐ 13,155 | C++ |  |
+| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,278 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,799 | PHP |  |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,803 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,688 | Ruby |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,687 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,068 | Kotlin |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,442 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [zly2006/zhihu-plus-plus](../repos/zly2006/zhihu-plus-plus.md) | ⭐ 3,828 | Kotlin |  |
+| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,952 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,440 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,871 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,865 | Scala |  |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 29,183 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 29,149 | Dart |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,908 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,893 | Clojure |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,377 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,364 | OCaml |  |
+| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,207 | Vue |  |
 
 
 ---
@@ -56,12 +56,12 @@
 | [react/react](../repos/react/react.md) | ⭐ 247,637 | JavaScript | 2026-08-04 | 2 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,604 | Dart | 2026-08-01 | 14 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,127 | C | 2026-08-07 | 8 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,181 | C | 2026-08-07 | 9 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | JavaScript | 2026-07-30 | 6 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,334 | C++ | 2026-08-04 | 2 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | TypeScript | 2026-08-17 | 2 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | JavaScript | 2026-08-06 | 1 |
-| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,615 | Rust | 2026-08-11 | 5 |
+| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,653 | Rust | 2026-08-11 | 6 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 91,388 | Rust | 2026-08-09 | 6 |
 
 ---
@@ -79,16 +79,13 @@
 | [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,058 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,388 | C | 1 |
+| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,278 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,799 | PHP | 1 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,803 | PHP | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,688 | Ruby | 2 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,938 | Swift | 1 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,687 | Ruby | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,068 | Kotlin | 1 |
@@ -98,6 +95,9 @@
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [zly2006/zhihu-plus-plus](../repos/zly2006/zhihu-plus-plus.md) | ⭐ 3,828 | Kotlin | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,442 | Scala | 6 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-24](../archive/2026/08/2026-08-24.md)
+- 71 repositories trending
+- Top: Genymobile&#x2F;scrcpy
+
 ### [2026-08-23](../archive/2026/08/2026-08-23.md)
 - 66 repositories trending
 - Top: Genymobile&#x2F;scrcpy
@@ -158,10 +162,6 @@
 - 77 repositories trending
 - Top: flutter&#x2F;flutter
 
-### [2026-08-17](../archive/2026/08/2026-08-17.md)
-- 64 repositories trending
-- Top: flutter&#x2F;flutter
-
 
 ---
 
@@ -171,30 +171,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 21 days | 2026-08-01 | 2026-08-23 |
-| [gradle/gradle](../repos/gradle/gradle.md) | 21 days | 2026-08-01 | 2026-08-23 |
-| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 20 days | 2026-08-01 | 2026-08-23 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 19 days | 2026-08-01 | 2026-08-23 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 19 days | 2026-08-01 | 2026-08-23 |
-| [vlang/v](../repos/vlang/v.md) | 19 days | 2026-08-01 | 2026-08-23 |
-| [joernio/joern](../repos/joernio/joern.md) | 17 days | 2026-08-01 | 2026-08-23 |
-| [vim/vim](../repos/vim/vim.md) | 17 days | 2026-08-01 | 2026-08-23 |
-| [flutter/flutter](../repos/flutter/flutter.md) | 14 days | 2026-08-01 | 2026-08-22 |
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 14 days | 2026-08-01 | 2026-08-23 |
+| [apache/spark](../repos/apache/spark.md) | 22 days | 2026-08-01 | 2026-08-24 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 22 days | 2026-08-01 | 2026-08-24 |
+| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 21 days | 2026-08-01 | 2026-08-24 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 20 days | 2026-08-01 | 2026-08-24 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 20 days | 2026-08-01 | 2026-08-24 |
+| [vlang/v](../repos/vlang/v.md) | 20 days | 2026-08-01 | 2026-08-24 |
+| [joernio/joern](../repos/joernio/joern.md) | 18 days | 2026-08-01 | 2026-08-24 |
+| [vim/vim](../repos/vim/vim.md) | 18 days | 2026-08-01 | 2026-08-24 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 15 days | 2026-08-01 | 2026-08-24 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 15 days | 2026-08-02 | 2026-08-24 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Kotlin**: 71 repositories (20%)
+- **Kotlin**: 73 repositories (20%)
 - **Dart**: 52 repositories (14%)
 - **Swift**: 44 repositories (12%)
-- **C**: 31 repositories (9%)
-- **Objective-C**: 27 repositories (7%)
+- **C**: 31 repositories (8%)
+- **Objective-C**: 28 repositories (8%)
 
 ### Trending Frequency
-- **Daily Average**: 54 repositories
+- **Daily Average**: 54.7 repositories
 - **Peak Day**: 2026-08-19 (77 repositories)
 - **Growth Rate**: 100% this month
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:00.142Z*
+*Last updated: 2026-08-24T21:21:59.527Z*

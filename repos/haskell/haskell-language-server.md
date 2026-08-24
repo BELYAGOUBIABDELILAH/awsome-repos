@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Haskell |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 2,948 |
-| **Forks** | 🍴 451 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 2,952 |
+| **Forks** | 🍴 453 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Aug 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:02.118Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-08-24T21:22:02.608Z*  
+*Data from 9 trending reports*

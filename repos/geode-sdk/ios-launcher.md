@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Objective-C |
 | **License** | BSL-1.0 |
-| **Stars** | ⭐ 689 |
+| **Stars** | ⭐ 690 |
 | **Forks** | 🍴 249 |
-| **Trending Days** | 7 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 23, 2026 |
+| **Last Seen** | Aug 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 2 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 689+ stars, strong contributor base |
+| **Community** | Very Active | 690+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-23T21:02:02.585Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-08-24T21:22:03.043Z*  
+*Data from 8 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 4
+- **Total Repositories**: 5
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-04
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,486 | 2026-08-03 | 10 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,485 | 2026-08-03 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,135 | 2026-08-24 | 1 |
 
 
 ---
@@ -28,13 +31,16 @@
 | [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | General-purpose editor&#x2F;IDE with high expansibility in Common Lisp |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,486 | 2026-08-03 | Reviving the language that brought us the Jak &amp; Daxter Series |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,485 | 2026-08-03 | Reviving the language that brought us the Jak &amp; Daxter Series |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | Nyxt - the hacker&#39;s browser. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | ⭐ 1,734 | 2026-08-04 | Coalton is an efficient, statically typed functional programming language that supercharges Commo... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,135 | 2026-08-24 | Mirror of Steel Bank Common Lisp (SBCL)&#39;s official repository |
 
 
 ---
@@ -44,8 +50,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | 1 |
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,486 | 2026-08-03 | 10 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,485 | 2026-08-03 | 11 |
 | [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 3 |
+| [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,135 | 2026-08-24 | 1 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | ⭐ 1,734 | 2026-08-04 | 1 |
 
 ---
@@ -54,10 +61,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 10 | ⭐ 3,486 | 2026-08-03 | 2026-08-23 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 11 | ⭐ 3,485 | 2026-08-03 | 2026-08-24 |
 | [lem-project/lem](../repos/lem-project/lem.md) | 3 | ⭐ 3,023 | 2026-08-01 | 2026-08-03 |
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | 1 | ⭐ 10,986 | 2026-08-04 | 2026-08-04 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | 1 | ⭐ 1,734 | 2026-08-04 | 2026-08-04 |
+| [sbcl/sbcl](../repos/sbcl/sbcl.md) | 1 | ⭐ 2,135 | 2026-08-24 | 2026-08-24 |
 
 ---
 
@@ -67,7 +75,8 @@
 - [open-goal/jak-project](../repos/open-goal/jak-project.md) - Reviving the language that brought us the Jak &amp; Daxter Series
 - [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) - Nyxt - the hacker&#39;s browser.
 - [coalton-lang/coalton](../repos/coalton-lang/coalton.md) - Coalton is an efficient, statically typed functional programming language that supercharges Commo...
+- [sbcl/sbcl](../repos/sbcl/sbcl.md) - Mirror of Steel Bank Common Lisp (SBCL)&#39;s official repository
 
 ---
 
-*Last updated: 2026-08-23T21:02:00.306Z*
+*Last updated: 2026-08-24T21:21:59.697Z*

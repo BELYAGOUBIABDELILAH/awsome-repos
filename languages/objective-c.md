@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 75
+- **Total Repositories**: 76
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,542 | 2026-08-01 | 6 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,552 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 7 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,051 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,048 | 2026-08-02 | 8 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 690 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 689 | 2026-08-02 | 7 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 500 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,631 | 2026-08-02 | 3 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,225 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,225 | 2026-08-02 | 7 |
+| [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,933 | 2026-08-04 | 8 |
+| [erikdoe/ocmock](../repos/erikdoe/ocmock.md) | ⭐ 2,171 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zendesk/support_sdk_ios](../repos/zendesk/support_sdk_ios.md) | ⭐ 55 | 2026-08-05 | 4 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,986 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alexzielenski/Mousecape](../repos/alexzielenski/Mousecape.md) | ⭐ 2,064 | 2026-08-09 | 2 |
+| [bugsnag/bugsnag-cocoa](../repos/bugsnag/bugsnag-cocoa.md) | ⭐ 262 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stripe/stripe-terminal-ios](../repos/stripe/stripe-terminal-ios.md) | ⭐ 133 | 2026-08-15 | 2 |
+| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | ⭐ 2,023 | 2026-08-08 | 8 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [maderix/ANE](../repos/maderix/ANE.md) | ⭐ 7,228 | 2026-08-01 | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,542 | 2026-08-01 | A software update framework for macOS |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,552 | 2026-08-01 | A software update framework for macOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | KeyCastr, an open-source keystroke visualizer |
@@ -91,21 +91,21 @@
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,395 | 2026-08-02 | 3 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,632 | 2026-08-01 | 13 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,048 | 2026-08-02 | 8 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,051 | 2026-08-02 | 9 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 9 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,986 | 2026-08-04 | 4 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,933 | 2026-08-04 | 8 |
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,906 | 2026-08-04 | 3 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | 3 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,330 | 2026-08-04 | 5 |
 | [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,090 | 2026-08-03 | 5 |
-| [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,071 | 2026-08-02 | 1 |
+| [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,453 | 2026-08-06 | 1 |
 | [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,090 | 2026-08-07 | 3 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
 | [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) | ⭐ 10,646 | 2026-08-06 | 1 |
 | [facebookincubator/SocketRocket](../repos/facebookincubator/SocketRocket.md) | ⭐ 9,610 | 2026-08-08 | 5 |
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,542 | 2026-08-01 | 6 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,552 | 2026-08-01 | 7 |
 | [facebookarchive/Shimmer](../repos/facebookarchive/Shimmer.md) | ⭐ 9,331 | 2026-08-02 | 2 |
 | [TTTAttributedLabel/TTTAttributedLabel](../repos/TTTAttributedLabel/TTTAttributedLabel.md) | ⭐ 8,711 | 2026-08-03 | 1 |
 
@@ -122,9 +122,9 @@
 | [google/promises](../repos/google/promises.md) | 11 | ⭐ 3,828 | 2026-08-01 | 2026-08-22 |
 | [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 11 | ⭐ 5,072 | 2026-08-01 | 2026-08-21 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 10 | ⭐ 673 | 2026-08-04 | 2026-08-22 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 9 | ⭐ 22,051 | 2026-08-02 | 2026-08-24 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 9 | ⭐ 16,614 | 2026-08-04 | 2026-08-21 |
 | [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 9 | ⭐ 4,484 | 2026-08-05 | 2026-08-22 |
-| [AzureAD/microsoft-authentication-library-common-for-objc](../repos/AzureAD/microsoft-authentication-library-common-for-objc.md) | 9 | ⭐ 65 | 2026-08-07 | 2026-08-22 |
 
 ---
 
@@ -205,7 +205,8 @@
 - [google/app-check](../repos/google/app-check.md) - Google-internal core components of Firebase App Check.
 - [uber/ios-snapshot-test-case](../repos/uber/ios-snapshot-test-case.md) - Snapshot view unit tests for iOS
 - [tiktok/tiktok-business-ios-sdk](../repos/tiktok/tiktok-business-ios-sdk.md) - 
+- [microsoftconnect/ms-intune-app-sdk-ios](../repos/microsoftconnect/ms-intune-app-sdk-ios.md) - Intune App SDK for iOS enables data protection and mobile app management features in iOS mobile a...
 
 ---
 
-*Last updated: 2026-08-23T21:02:00.343Z*
+*Last updated: 2026-08-24T21:21:59.734Z*
