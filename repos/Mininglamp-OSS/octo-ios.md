@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Objective-C |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 595 |
-| **Forks** | 🍴 78 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 636 |
+| **Forks** | 🍴 88 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Aug 25, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 4 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-24T21:22:03.858Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-08-25T21:01:47.459Z*  
+*Data from 9 trending reports*

@@ -14,11 +14,11 @@
 | **License** | Other |
 | **Stars** | ⭐ 16,216 |
 | **Forks** | 🍴 1,428 |
-| **Trending Days** | 5 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 12, 2026 |
-| **Last Seen** | Aug 24, 2026 |
+| **Last Seen** | Aug 25, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
-- **Longest Streak**: 2 days
+- **Trending Days**: 6
+- **Longest Streak**: 3 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 85&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-24T21:22:04.363Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-08-25T21:01:47.976Z*  
+*Data from 6 trending reports*

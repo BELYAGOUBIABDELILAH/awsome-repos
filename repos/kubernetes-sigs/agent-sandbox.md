@@ -1,6 +1,6 @@
 # kubernetes-sigs&#x2F;agent-sandbox
 
-> agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
+> agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL).
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;kubernetes-sigs&#x2F;agent-sandbox) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 3,520 |
-| **Forks** | 🍴 448 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 3,622 |
+| **Forks** | 🍴 463 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Aug 14, 2026 |
+| **Last Seen** | Aug 25, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Go or similar-topics*
+*Similar: Check repositories in Go or agent*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-
+[`agent`](../../topics/agent.md) [`ai`](../../topics/ai.md) [`kubernetes`](../../topics/kubernetes.md) [`rl`](../../topics/rl.md) [`sandbox`](../../topics/sandbox.md) 
 
 ### Curated Categories
-`General` 
+`Artificial Intelligence` `Containers &amp; Orchestration` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-24T21:22:03.514Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-25T21:01:47.091Z*  
+*Data from 3 trending reports*

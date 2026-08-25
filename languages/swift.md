@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 84
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-24
+- **Last Updated**: 2026-08-25
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,242 | 2026-08-01 | 9 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,284 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 49,370 | 2026-08-01 | 8 |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 6,100 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,508 | 2026-08-04 | 6 |
+| [apple/container](../repos/apple/container.md) | ⭐ 49,391 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,280 | 2026-08-05 | 7 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,105 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,210 | 2026-08-06 | 3 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,886 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,380 | 2026-08-07 | 5 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,847 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rime/squirrel](../repos/rime/squirrel.md) | ⭐ 6,284 | 2026-08-09 | 3 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,289 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 1,972 | 2026-08-12 | 7 |
+| [getsentry/sentry-cocoa](../repos/getsentry/sentry-cocoa.md) | ⭐ 1,109 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/Swiftfin](../repos/jellyfin/Swiftfin.md) | ⭐ 4,115 | 2026-08-14 | 3 |
+| [yonaskolb/XcodeGen](../repos/yonaskolb/XcodeGen.md) | ⭐ 8,736 | 2026-08-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quoid/userscripts](../repos/quoid/userscripts.md) | ⭐ 4,730 | 2026-08-16 | 3 |
+| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,353 | 2026-08-24 | 2 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,242 | 2026-08-01 | Run iOS apps without actually installing them! |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,284 | 2026-08-01 | Run iOS apps without actually installing them! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [caezium/Burrow](../repos/caezium/Burrow.md) | ⭐ 1,176 | 2026-08-01 | 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source,... |
@@ -61,10 +61,10 @@
 | [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,599 | 2026-08-01 | Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detect... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 5,938 | 2026-08-01 | The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with n... |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 6,100 | 2026-08-01 | The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with n... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 49,370 | 2026-08-01 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It ... |
+| [apple/container](../repos/apple/container.md) | ⭐ 49,391 | 2026-08-01 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [livekit/client-sdk-swift](../repos/livekit/client-sdk-swift.md) | ⭐ 434 | 2026-08-01 | LiveKit Swift Client SDK. Easily build live audio or video experiences on iOS, macOS, tvOS, and v... |
@@ -79,7 +79,7 @@
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,203 | 2026-08-01 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agent... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,071 | 2026-08-01 | Feature-packed native macOS screenshot &amp; recording tool: annotate, auto-redact PII, record GIFs, ... |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,105 | 2026-08-01 | Feature-packed native macOS screenshot &amp; recording tool: annotate, auto-redact PII, record GIFs, ... |
 
 
 ---
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,280 | 2026-08-05 | 7 |
-| [apple/container](../repos/apple/container.md) | ⭐ 49,370 | 2026-08-01 | 8 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,289 | 2026-08-05 | 8 |
+| [apple/container](../repos/apple/container.md) | ⭐ 49,391 | 2026-08-01 | 9 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,843 | 2026-08-12 | 5 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,838 | 2026-08-04 | 4 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,847 | 2026-08-04 | 5 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,203 | 2026-08-01 | 6 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
 | [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,226 | 2026-08-12 | 2 |
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,879 | 2026-08-04 | 8 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,886 | 2026-08-04 | 9 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,329 | 2026-08-24 | 1 |
+| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,353 | 2026-08-24 | 2 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,219 | 2026-08-17 | 2 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 13,577 | 2026-08-08 | 2 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,568 | 2026-08-01 | 1 |
 | [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,422 | 2026-08-17 | 2 |
 | [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
 | [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,210 | 2026-08-06 | 3 |
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,242 | 2026-08-01 | 9 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,284 | 2026-08-01 | 10 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 9 | ⭐ 11,242 | 2026-08-01 | 2026-08-24 |
-| [apple/container](../repos/apple/container.md) | 8 | ⭐ 49,370 | 2026-08-01 | 2026-08-24 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 8 | ⭐ 14,879 | 2026-08-04 | 2026-08-22 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 10 | ⭐ 11,284 | 2026-08-01 | 2026-08-25 |
+| [apple/container](../repos/apple/container.md) | 9 | ⭐ 49,391 | 2026-08-01 | 2026-08-25 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 9 | ⭐ 14,886 | 2026-08-04 | 2026-08-25 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | 8 | ⭐ 70,289 | 2026-08-05 | 2026-08-25 |
 | [sozercan/kaset](../repos/sozercan/kaset.md) | 7 | ⭐ 2,094 | 2026-08-04 | 2026-08-21 |
-| [swiftlang/swift](../repos/swiftlang/swift.md) | 7 | ⭐ 70,280 | 2026-08-05 | 2026-08-24 |
 | [apple/coreai-models](../repos/apple/coreai-models.md) | 7 | ⭐ 1,972 | 2026-08-12 | 2026-08-24 |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 6 | ⭐ 6,100 | 2026-08-01 | 2026-08-25 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 6 | ⭐ 26,203 | 2026-08-01 | 2026-08-19 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 6 | ⭐ 8,508 | 2026-08-04 | 2026-08-24 |
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 5 | ⭐ 5,938 | 2026-08-01 | 2026-08-17 |
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 5 | ⭐ 8,852 | 2026-08-02 | 2026-08-16 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 5 | ⭐ 3,105 | 2026-08-01 | 2026-08-25 |
 
 ---
 
@@ -217,4 +217,4 @@
 
 ---
 
-*Last updated: 2026-08-24T21:21:59.770Z*
+*Last updated: 2026-08-25T21:01:44.351Z*

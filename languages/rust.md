@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 123
+- **Total Repositories**: 126
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-24
+- **Last Updated**: 2026-08-25
 
 ---
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 18,442 | 2026-08-01 | 3 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 116,205 | 2026-07-30 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 116,964 | 2026-08-01 | 7 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 118,042 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 10,891 | 2026-08-09 | 5 |
+| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | ⭐ 2,507 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 37,200 | 2026-08-10 | 4 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 37,715 | 2026-08-10 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,653 | 2026-08-11 | 6 |
+| [block/buzz](../repos/block/buzz.md) | ⭐ 30,670 | 2026-08-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,303 | 2026-08-12 | 2 |
+| [GitoxideLabs/gitoxide](../repos/GitoxideLabs/gitoxide.md) | ⭐ 11,849 | 2026-08-24 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,385 | 2026-08-19 | 5 |
+| [confeden/Antigravity](../repos/confeden/Antigravity.md) | ⭐ 358 | 2026-08-25 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [windmill-labs/windmill](../repos/windmill-labs/windmill.md) | ⭐ 17,662 | 2026-08-22 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [slint-ui/slint](../repos/slint-ui/slint.md) | ⭐ 23,569 | 2026-08-23 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [GitoxideLabs/gitoxide](../repos/GitoxideLabs/gitoxide.md) | ⭐ 11,816 | 2026-08-24 | 1 |
+| [transact-rs/sqlx](../repos/transact-rs/sqlx.md) | ⭐ 17,417 | 2026-08-25 | 1 |
 
 
 ---
@@ -52,7 +46,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,277 | 2026-07-30 | Empowering everyone to build reliable and efficient software. |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 116,205 | 2026-07-30 | Empowering everyone to build reliable and efficient software. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | Build smaller, faster, and more secure desktop applications with a web frontend |
@@ -73,7 +67,7 @@
 | [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | ⭐ 13,249 | 2026-08-01 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 116,964 | 2026-08-01 | Lightweight coding agent that runs in your terminal |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 118,042 | 2026-08-01 | Lightweight coding agent that runs in your terminal |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 25,045 | 2026-08-01 | Development at the speed of light |
@@ -88,8 +82,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 116,964 | 2026-08-01 | 7 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 115,277 | 2026-07-30 | 5 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 118,042 | 2026-08-01 | 8 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 116,205 | 2026-07-30 | 6 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,046 | 2026-07-30 | 2 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,653 | 2026-08-11 | 6 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 91,388 | 2026-08-09 | 6 |
@@ -107,7 +101,7 @@
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,155 | 2026-08-02 | 1 |
 | [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,444 | 2026-08-05 | 4 |
 | [spacedriveapp/spacedrive](../repos/spacedriveapp/spacedrive.md) | ⭐ 38,820 | 2026-08-22 | 1 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 37,200 | 2026-08-10 | 4 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 37,715 | 2026-08-10 | 5 |
 
 ---
 
@@ -115,12 +109,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [openai/codex](../repos/openai/codex.md) | 8 | ⭐ 118,042 | 2026-08-01 | 2026-08-25 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 8 | ⭐ 27,494 | 2026-08-03 | 2026-08-23 |
-| [openai/codex](../repos/openai/codex.md) | 7 | ⭐ 116,964 | 2026-08-01 | 2026-08-24 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | 6 | ⭐ 116,205 | 2026-07-30 | 2026-08-25 |
 | [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 6 | ⭐ 13,249 | 2026-08-01 | 2026-08-19 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 6 | ⭐ 91,388 | 2026-08-09 | 2026-08-23 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | 6 | ⭐ 95,653 | 2026-08-11 | 2026-08-24 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | 5 | ⭐ 115,277 | 2026-07-30 | 2026-08-05 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 5 | ⭐ 15,903 | 2026-08-01 | 2026-08-19 |
 | [moghtech/komodo](../repos/moghtech/komodo.md) | 5 | ⭐ 11,998 | 2026-08-02 | 2026-08-19 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 5 | ⭐ 10,891 | 2026-08-09 | 2026-08-24 |
@@ -185,6 +179,7 @@
 - [pola-rs/polars](../repos/pola-rs/polars.md) - Extremely fast Query Engine for DataFrames, written in Rust
 - [hyperium/hyper](../repos/hyperium/hyper.md) - An HTTP library for Rust
 - [WeaveMindAI/weft](../repos/WeaveMindAI/weft.md) - A programming language for AI orchestrations (POC)
+- [leookun/cursor-byok](../repos/leookun/cursor-byok.md) - cursor-byok is a local implementation of Cursor&#39;s backend. https:&#x2F;&#x2F;github.com&#x2F;leookun&#x2F;cursor-byok...
 - [warp-tech/warpgate](../repos/warp-tech/warpgate.md) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP&#x2F;VNC bastion&#x2F;PAM that doesn&#39;t need addi...
 - [getzola/zola](../repos/getzola/zola.md) - A fast static site generator in a single binary with everything built-in. https:&#x2F;&#x2F;www.getzola.org
 - [GCWing/BitFun](../repos/GCWing/BitFun.md) - BitFun combines a high-performance agent runtime written in Rust with a polished desktop applicat...
@@ -229,8 +224,7 @@
 - [kenforthewin/atomic](../repos/kenforthewin/atomic.md) - Self-hosted, semantically-connected personal knowledge base
 - [unionlabs/union](../repos/unionlabs/union.md) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extrem...
 - [base/base](../repos/base/base.md) - All components used to run Base
-- [sxyazi/yazi](../repos/sxyazi/yazi.md) - 💥 Blazing fast terminal file manager written in Rust, based on async I&#x2F;O.
 
 ---
 
-*Last updated: 2026-08-24T21:21:59.749Z*
+*Last updated: 2026-08-25T21:01:44.343Z*

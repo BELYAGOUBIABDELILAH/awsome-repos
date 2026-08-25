@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Zig |
 | **License** | Zlib |
-| **Stars** | ⭐ 2,240 |
-| **Forks** | 🍴 185 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 2,261 |
+| **Forks** | 🍴 187 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 3, 2026 |
+| **Last Seen** | Aug 25, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-24T21:22:03.262Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-25T21:01:46.824Z*  
+*Data from 2 trending reports*

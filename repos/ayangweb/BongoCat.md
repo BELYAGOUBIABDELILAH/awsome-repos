@@ -1,6 +1,6 @@
 # ayangweb&#x2F;BongoCat
 
-> 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+> 🐱 🧸跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;ayangweb&#x2F;BongoCat) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vue |
 | **License** | MIT |
-| **Stars** | ⭐ 22,653 |
-| **Forks** | 🍴 1,093 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 22,778 |
+| **Forks** | 🍴 1,098 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Aug 25, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 4 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 95&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-24T21:22:03.974Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-08-25T21:01:47.580Z*  
+*Data from 7 trending reports*

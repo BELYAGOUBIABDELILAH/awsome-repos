@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 86,177 |
-| **Forks** | 🍴 9,262 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 89,736 |
+| **Forks** | 🍴 9,609 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Aug 11, 2026 |
+| **Last Seen** | Aug 25, 2026 |
 
 
 ---
@@ -53,7 +53,7 @@
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 7 days
 
 ---
@@ -78,7 +78,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -97,5 +97,5 @@
 
 ---
 
-*Last updated: 2026-08-24T21:22:03.489Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-08-25T21:01:47.065Z*  
+*Data from 8 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 145
+- **Total Repositories**: 150
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 35,086 | 2026-08-02 | 3 |
+| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 48,413 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 129,470 | 2026-08-02 | 6 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 27,421 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elizaOS/eliza](../repos/elizaOS/eliza.md) | ⭐ 19,151 | 2026-08-02 | 2 |
+| [EveryInc/compound-engineering-plugin](../repos/EveryInc/compound-engineering-plugin.md) | ⭐ 24,536 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 27,129 | 2026-08-02 | 8 |
+| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 58,248 | 2026-08-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 136,627 | 2026-08-02 | 3 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 20,213 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/expo](../repos/expo/expo.md) | ⭐ 51,800 | 2026-08-06 | 2 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 53,560 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 57,864 | 2026-08-06 | 7 |
+| [apache/maka](../repos/apache/maka.md) | ⭐ 3,279 | 2026-08-20 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 19,728 | 2026-08-07 | 6 |
+| [DefinitelyTyped/DefinitelyTyped](../repos/DefinitelyTyped/DefinitelyTyped.md) | ⭐ 51,398 | 2026-08-23 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 42,457 | 2026-08-08 | 5 |
+| [traycerai/traycer](../repos/traycerai/traycer.md) | ⭐ 1,325 | 2026-08-24 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 52,779 | 2026-08-11 | 4 |
+| [cloudflare/cloudflare-os](../repos/cloudflare/cloudflare-os.md) | ⭐ 9,189 | 2026-08-25 | 1 |
 
 
 ---
@@ -70,7 +70,7 @@
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 17,453 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 48,281 | 2026-08-01 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring... |
+| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 48,413 | 2026-08-01 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [modelcontextprotocol/ext-apps](../repos/modelcontextprotocol/ext-apps.md) | ⭐ 2,653 | 2026-08-01 | Official repo for spec &amp; SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served... |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 9 | ⭐ 27,421 | 2026-08-02 | 2026-08-25 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 8 | ⭐ 4,631 | 2026-08-01 | 2026-08-22 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 8 | ⭐ 27,129 | 2026-08-02 | 2026-08-24 |
+| [makeplane/plane](../repos/makeplane/plane.md) | 8 | ⭐ 58,248 | 2026-08-06 | 2026-08-25 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
-| [makeplane/plane](../repos/makeplane/plane.md) | 7 | ⭐ 57,864 | 2026-08-06 | 2026-08-24 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 7 | ⭐ 20,213 | 2026-08-07 | 2026-08-25 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 6 | ⭐ 129,470 | 2026-08-02 | 2026-08-24 |
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 6 | ⭐ 19,728 | 2026-08-07 | 2026-08-24 |
+| [apache/maka](../repos/apache/maka.md) | 6 | ⭐ 3,279 | 2026-08-20 | 2026-08-25 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
 | [cloudflare/computer](../repos/cloudflare/computer.md) | 5 | ⭐ 6,976 | 2026-08-05 | 2026-08-09 |
-| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | 5 | ⭐ 13,986 | 2026-08-07 | 2026-08-11 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-24T21:21:59.772Z*
+*Last updated: 2026-08-25T21:01:44.352Z*

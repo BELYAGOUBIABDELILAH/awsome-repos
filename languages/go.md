@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 175
+- **Total Repositories**: 178
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-08-24
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,527 | 2026-08-01 | 7 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 46,253 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 179,343 | 2026-08-01 | 10 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,608 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [authelia/authelia](../repos/authelia/authelia.md) | ⭐ 28,681 | 2026-08-03 | 3 |
+| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,529 | 2026-08-03 | 2 |
+| [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) | ⭐ 30,810 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) | ⭐ 30,766 | 2026-08-04 | 3 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 26,579 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wailsapp/wails](../repos/wailsapp/wails.md) | ⭐ 35,948 | 2026-08-05 | 3 |
+| [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) | ⭐ 3,622 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,527 | 2026-08-06 | 6 |
+| [containerd/containerd](../repos/containerd/containerd.md) | ⭐ 21,166 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [charmbracelet/crush](../repos/charmbracelet/crush.md) | ⭐ 27,643 | 2026-08-08 | 4 |
+| [rorkai/App-Store-Connect-CLI](../repos/rorkai/App-Store-Connect-CLI.md) | ⭐ 6,220 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [navidrome/navidrome](../repos/navidrome/navidrome.md) | ⭐ 23,093 | 2026-08-08 | 3 |
+| [github/gh-aw](../repos/github/gh-aw.md) | ⭐ 4,999 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [henrygd/beszel](../repos/henrygd/beszel.md) | ⭐ 24,616 | 2026-08-10 | 3 |
+| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,296 | 2026-08-12 | 4 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [golang/go](../repos/golang/go.md) | ⭐ 135,891 | 2026-07-31 | The Go programming language |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 45,931 | 2026-08-01 | A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs ... |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 46,253 | 2026-08-01 | A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | ⭐ 197 | 2026-08-01 | Offensive security framework for AI agent infrastructure - recon, credential looting, model exfil... |
@@ -76,7 +76,7 @@
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,482 | 2026-08-01 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,527 | 2026-08-01 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason... |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,608 | 2026-08-01 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nianzhibai/91](../repos/nianzhibai/91.md) | ⭐ 1,316 | 2026-08-01 | nine one |
@@ -92,10 +92,10 @@
 | [golang/go](../repos/golang/go.md) | ⭐ 135,891 | 2026-07-31 | 6 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,500 | 2026-08-04 | 2 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,657 | 2026-08-15 | 4 |
-| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,529 | 2026-08-03 | 2 |
+| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 88,549 | 2026-08-06 | 5 |
-| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,212 | 2026-08-12 | 3 |
+| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,296 | 2026-08-12 | 4 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | 2026-08-03 | 3 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 71,989 | 2026-08-04 | 2 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | 2026-08-07 | 1 |
@@ -107,7 +107,7 @@
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,527 | 2026-08-06 | 6 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 46,694 | 2026-08-01 | 8 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 45,931 | 2026-08-01 | 7 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 46,253 | 2026-08-01 | 8 |
 
 ---
 
@@ -116,10 +116,10 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ollama/ollama](../repos/ollama/ollama.md) | 10 | ⭐ 179,343 | 2026-08-01 | 2026-08-24 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 8 | ⭐ 46,253 | 2026-08-01 | 2026-08-25 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 8 | ⭐ 46,694 | 2026-08-01 | 2026-08-19 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 8 | ⭐ 37,482 | 2026-08-01 | 2026-08-19 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 7 | ⭐ 45,931 | 2026-08-01 | 2026-08-22 |
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 7 | ⭐ 20,527 | 2026-08-01 | 2026-08-24 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 8 | ⭐ 20,608 | 2026-08-01 | 2026-08-25 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 7 | ⭐ 1,592 | 2026-08-02 | 2026-08-22 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 7 | ⭐ 39,000 | 2026-08-07 | 2026-08-23 |
 | [golang/go](../repos/golang/go.md) | 6 | ⭐ 135,891 | 2026-07-31 | 2026-08-19 |
@@ -184,7 +184,6 @@
 - [github/github-mcp-server](../repos/github/github-mcp-server.md) - GitHub&#39;s official MCP Server
 - [k3s-io/k3s](../repos/k3s-io/k3s.md) - Lightweight Kubernetes
 - [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use c...
-- [leookun/cursor-byok](../repos/leookun/cursor-byok.md) - cursor-byok is a local implementation of Cursor&#39;s backend. https:&#x2F;&#x2F;github.com&#x2F;leookun&#x2F;cursor-byok...
 - [authzed/spicedb](../repos/authzed/spicedb.md) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained aut...
 - [google/osv.dev](../repos/google/osv.dev.md) - Open source vulnerability DB and triage service.
 - [gastownhall/gascity](../repos/gastownhall/gascity.md) - Orchestration-builder SDK for multi-agent coding workflows
@@ -230,7 +229,8 @@
 - [grafana/loki](../repos/grafana/loki.md) - Like Prometheus, but for logs.
 - [henrygd/beszel](../repos/henrygd/beszel.md) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [github/gh-aw](../repos/github/gh-aw.md) - GitHub Agentic Workflows
+- [putyy/res-downloader](../repos/putyy/res-downloader.md) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 
 ---
 
-*Last updated: 2026-08-24T21:21:59.711Z*
+*Last updated: 2026-08-25T21:01:44.306Z*

@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 178
+- **Total Repositories**: 182
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-24
-- **Average Stars**: 16735
+- **Average Stars**: 16448
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,278 | C |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,448 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,803 | PHP |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,874 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,687 | Ruby |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,925 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,070 | Ruby |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,627 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,442 | Scala |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,397 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,871 | Scala |  |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,641 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,908 | Clojure |  |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,066 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,602 | Clojure |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 40,798 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,377 | OCaml |  |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,453 | PowerShell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,640 | Perl |  |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,718 | Assembly |  |
 
 
 ---
@@ -59,7 +59,7 @@
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | TypeScript | 2026-08-02 | 1 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 89,938 | C++ | 2026-08-02 | 4 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 89,336 | Python | 2026-08-02 | 3 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,392 | C | 2026-08-02 | 8 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,443 | C | 2026-08-02 | 9 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | Go | 2026-08-03 | 3 |
 | [git/git](../repos/git/git.md) | ⭐ 62,663 | C | 2026-08-05 | 3 |
 | [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 56,671 | Python | 2026-08-04 | 8 |
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-25](../archive/2026/08/2026-08-25.md)
+- 34 repositories trending
+- Top: obsproject&#x2F;obs-studio
+
 ### [2026-08-24](../archive/2026/08/2026-08-24.md)
 - 42 repositories trending
 - Top: Genymobile&#x2F;scrcpy
@@ -171,26 +175,26 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
+| [apache/spark](../repos/apache/spark.md) | 23 days | 2026-08-01 | 2026-08-25 |
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 22 days | 2026-08-01 | 2026-08-24 |
-| [apache/spark](../repos/apache/spark.md) | 22 days | 2026-08-01 | 2026-08-24 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 21 days | 2026-08-01 | 2026-08-24 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 21 days | 2026-08-01 | 2026-08-24 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 20 days | 2026-08-01 | 2026-08-24 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 20 days | 2026-08-01 | 2026-08-24 |
-| [vlang/v](../repos/vlang/v.md) | 20 days | 2026-08-01 | 2026-08-24 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 20 days | 2026-08-02 | 2026-08-24 |
-| [joernio/joern](../repos/joernio/joern.md) | 18 days | 2026-08-01 | 2026-08-24 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 18 days | 2026-08-01 | 2026-08-24 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 22 days | 2026-08-01 | 2026-08-25 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 22 days | 2026-08-01 | 2026-08-25 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 21 days | 2026-08-01 | 2026-08-25 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 21 days | 2026-08-01 | 2026-08-25 |
+| [vlang/v](../repos/vlang/v.md) | 21 days | 2026-08-01 | 2026-08-25 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 21 days | 2026-08-02 | 2026-08-25 |
+| [joernio/joern](../repos/joernio/joern.md) | 19 days | 2026-08-01 | 2026-08-25 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 19 days | 2026-08-01 | 2026-08-25 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **C**: 35 repositories (20%)
-- **Go**: 27 repositories (15%)
+- **C**: 36 repositories (20%)
+- **Go**: 29 repositories (16%)
 - **Python**: 12 repositories (7%)
-- **C++**: 10 repositories (6%)
+- **C++**: 10 repositories (5%)
 - **Java**: 8 repositories (4%)
 
 ### Trending Frequency
@@ -310,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-08-24T21:21:59.550Z*
+*Last updated: 2026-08-25T21:01:44.136Z*

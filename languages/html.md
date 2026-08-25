@@ -16,31 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,726 | 2026-08-01 | 3 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,014 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,684 | 2026-08-02 | 3 |
+| [vava-nessa/free-coding-models](../repos/vava-nessa/free-coding-models.md) | ⭐ 2,331 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 7,267 | 2026-08-03 | 6 |
+| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | ⭐ 8,788 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 24,767 | 2026-08-04 | 5 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 135,251 | 2026-08-08 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 135,036 | 2026-08-08 | 10 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,171 | 2026-08-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,135 | 2026-08-09 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [zhaochenyang20/Awesome-ML-SYS-Tutorial](../repos/zhaochenyang20/Awesome-ML-SYS-Tutorial.md) | ⭐ 6,950 | 2026-08-19 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 28,882 | 2026-08-19 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [w3c/wcag](../repos/w3c/wcag.md) | ⭐ 1,475 | 2026-08-24 | 1 |
+| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 5,393 | 2026-08-19 | 2 |
 
 
 ---
@@ -64,7 +55,7 @@
 | [GoogleCloudPlatform/knowledge-catalog](../repos/GoogleCloudPlatform/knowledge-catalog.md) | ⭐ 8,131 | 2026-08-01 | Google Cloud Knowledge Catalog Tools and Samples |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,863 | 2026-08-01 | from vibe coding to agentic engineering - practice makes claude perfect |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,014 | 2026-08-01 | from vibe coding to agentic engineering - practice makes claude perfect |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,774 | 2026-08-01 | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
@@ -86,13 +77,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,365 | 2026-08-03 | 6 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 135,036 | 2026-08-08 | 10 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 135,251 | 2026-08-08 | 11 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,025 | 2026-08-19 | 1 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 64,863 | 2026-08-01 | 7 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,014 | 2026-08-01 | 8 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,095 | 2026-08-01 | 4 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,523 | 2026-08-07 | 2 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,135 | 2026-08-09 | 6 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,171 | 2026-08-09 | 7 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 28,882 | 2026-08-19 | 4 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,223 | 2026-08-03 | 5 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
@@ -112,16 +103,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 11 | ⭐ 135,251 | 2026-08-08 | 2026-08-25 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 10 | ⭐ 14,211 | 2026-08-04 | 2026-08-19 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 10 | ⭐ 135,036 | 2026-08-08 | 2026-08-24 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 7 | ⭐ 64,863 | 2026-08-01 | 2026-08-22 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 8 | ⭐ 65,014 | 2026-08-01 | 2026-08-25 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 7 | ⭐ 29,171 | 2026-08-09 | 2026-08-25 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 6 | ⭐ 9,705 | 2026-08-01 | 2026-08-19 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 6 | ⭐ 7,267 | 2026-08-03 | 2026-08-24 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 6 | ⭐ 208,365 | 2026-08-03 | 2026-08-23 |
 | [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 6 | ⭐ 6,118 | 2026-08-05 | 2026-08-23 |
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 6 | ⭐ 29,135 | 2026-08-09 | 2026-08-24 |
+| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 5 | ⭐ 8,788 | 2026-08-03 | 2026-08-25 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 5 | ⭐ 27,223 | 2026-08-03 | 2026-08-23 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 5 | ⭐ 24,767 | 2026-08-04 | 2026-08-24 |
 
 ---
 
@@ -186,4 +177,4 @@
 
 ---
 
-*Last updated: 2026-08-24T21:21:59.713Z*
+*Last updated: 2026-08-25T21:01:44.309Z*

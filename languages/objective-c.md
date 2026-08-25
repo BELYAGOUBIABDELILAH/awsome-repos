@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,552 | 2026-08-01 | 7 |
+| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,051 | 2026-08-02 | 9 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,829 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 690 | 2026-08-02 | 8 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 500 | 2026-08-02 | 8 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,225 | 2026-08-02 | 8 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,634 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [erikdoe/ocmock](../repos/erikdoe/ocmock.md) | ⭐ 2,171 | 2026-08-03 | 5 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,103 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,986 | 2026-08-04 | 4 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,989 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bugsnag/bugsnag-cocoa](../repos/bugsnag/bugsnag-cocoa.md) | ⭐ 262 | 2026-08-06 | 7 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,611 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | ⭐ 2,023 | 2026-08-08 | 8 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,325 | 2026-08-04 | 6 |
 
 
 ---
@@ -67,7 +67,7 @@
 | [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | Branch iOS SDK Swift Package Manager distribution |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | Promises is a modern framework that provides a synchronization construct for Swift and Objective-C. |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,829 | 2026-08-01 | Promises is a modern framework that provides a synchronization construct for Swift and Objective-C. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 |  |
@@ -90,21 +90,21 @@
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,395 | 2026-08-02 | 3 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,632 | 2026-08-01 | 13 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,634 | 2026-08-01 | 14 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,051 | 2026-08-02 | 9 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 9 |
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,986 | 2026-08-04 | 4 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,611 | 2026-08-04 | 10 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,989 | 2026-08-04 | 5 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,933 | 2026-08-04 | 8 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | 3 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,330 | 2026-08-04 | 5 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,090 | 2026-08-03 | 5 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,325 | 2026-08-04 | 6 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,103 | 2026-08-03 | 6 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,453 | 2026-08-06 | 1 |
 | [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,090 | 2026-08-07 | 3 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
 | [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) | ⭐ 10,646 | 2026-08-06 | 1 |
-| [facebookincubator/SocketRocket](../repos/facebookincubator/SocketRocket.md) | ⭐ 9,610 | 2026-08-08 | 5 |
+| [facebookincubator/SocketRocket](../repos/facebookincubator/SocketRocket.md) | ⭐ 9,609 | 2026-08-08 | 6 |
 | [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,552 | 2026-08-01 | 7 |
 | [facebookarchive/Shimmer](../repos/facebookarchive/Shimmer.md) | ⭐ 9,331 | 2026-08-02 | 2 |
 | [TTTAttributedLabel/TTTAttributedLabel](../repos/TTTAttributedLabel/TTTAttributedLabel.md) | ⭐ 8,711 | 2026-08-03 | 1 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 13 | ⭐ 134 | 2026-08-01 | 2026-08-22 |
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 13 | ⭐ 59 | 2026-08-01 | 2026-08-22 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 13 | ⭐ 25,632 | 2026-08-01 | 2026-08-22 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 12 | ⭐ 291 | 2026-08-01 | 2026-08-22 |
-| [google/promises](../repos/google/promises.md) | 11 | ⭐ 3,828 | 2026-08-01 | 2026-08-22 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 14 | ⭐ 134 | 2026-08-01 | 2026-08-25 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 14 | ⭐ 59 | 2026-08-01 | 2026-08-25 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 14 | ⭐ 25,634 | 2026-08-01 | 2026-08-25 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 13 | ⭐ 291 | 2026-08-01 | 2026-08-25 |
+| [google/promises](../repos/google/promises.md) | 12 | ⭐ 3,829 | 2026-08-01 | 2026-08-25 |
 | [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 11 | ⭐ 5,072 | 2026-08-01 | 2026-08-21 |
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 10 | ⭐ 673 | 2026-08-04 | 2026-08-22 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 9 | ⭐ 22,051 | 2026-08-02 | 2026-08-24 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | 9 | ⭐ 16,614 | 2026-08-04 | 2026-08-21 |
-| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 9 | ⭐ 4,484 | 2026-08-05 | 2026-08-22 |
+| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 11 | ⭐ 673 | 2026-08-04 | 2026-08-25 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | 10 | ⭐ 16,611 | 2026-08-04 | 2026-08-25 |
+| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 10 | ⭐ 4,486 | 2026-08-05 | 2026-08-25 |
+| [AzureAD/microsoft-authentication-library-common-for-objc](../repos/AzureAD/microsoft-authentication-library-common-for-objc.md) | 10 | ⭐ 65 | 2026-08-07 | 2026-08-25 |
 
 ---
 
@@ -209,4 +209,4 @@
 
 ---
 
-*Last updated: 2026-08-24T21:21:59.734Z*
+*Last updated: 2026-08-25T21:01:44.329Z*

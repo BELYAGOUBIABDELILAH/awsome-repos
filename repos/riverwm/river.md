@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Zig |
 | **License** | Not specified |
-| **Stars** | ⭐ 4,265 |
-| **Forks** | 🍴 167 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 4,264 |
+| **Forks** | 🍴 168 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 24, 2026 |
+| **Last Seen** | Aug 25, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
-- **Longest Streak**: 2 days
+- **Trending Days**: 9
+- **Longest Streak**: 3 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-24T21:22:02.711Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-08-25T21:01:46.228Z*  
+*Data from 9 trending reports*

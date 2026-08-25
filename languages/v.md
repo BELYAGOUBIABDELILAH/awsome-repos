@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-24
+- **Last Updated**: 2026-08-25
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,800 | 2026-08-01 | 20 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,803 | 2026-08-01 | 21 |
 
 
 ---
@@ -25,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,800 | 2026-08-01 | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1... |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,803 | 2026-08-01 | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | ⭐ 206 | 2026-08-09 | The @vlang language server, for all your editing needs like go-to-definition, code completion, ty... |
@@ -37,7 +37,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,800 | 2026-08-01 | 20 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,803 | 2026-08-01 | 21 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | ⭐ 206 | 2026-08-09 | 2 |
 
 ---
@@ -46,7 +46,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vlang/v](../repos/vlang/v.md) | 20 | ⭐ 37,800 | 2026-08-01 | 2026-08-24 |
+| [vlang/v](../repos/vlang/v.md) | 21 | ⭐ 37,803 | 2026-08-01 | 2026-08-25 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | 2 | ⭐ 206 | 2026-08-09 | 2026-08-11 |
 
 ---
@@ -58,4 +58,4 @@
 
 ---
 
-*Last updated: 2026-08-24T21:21:59.774Z*
+*Last updated: 2026-08-25T21:01:44.354Z*

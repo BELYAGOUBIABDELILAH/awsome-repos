@@ -8,14 +8,16 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-21
+- **Last Updated**: 2026-08-25
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,868 | 2026-08-01 | 13 |
 
-*No VHDL repositories trending today*
 
 ---
 
@@ -23,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,865 | 2026-08-01 | VHDL 2008&#x2F;93&#x2F;87 simulator |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,868 | 2026-08-01 | VHDL 2008&#x2F;93&#x2F;87 simulator |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,238 | 2026-08-07 | 🖥️ A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontrolle... |
@@ -35,7 +37,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,865 | 2026-08-01 | 12 |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,868 | 2026-08-01 | 13 |
 | [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,238 | 2026-08-07 | 8 |
 
 ---
@@ -44,7 +46,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | 12 | ⭐ 2,865 | 2026-08-01 | 2026-08-21 |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | 13 | ⭐ 2,868 | 2026-08-01 | 2026-08-25 |
 | [stnolting/neorv32](../repos/stnolting/neorv32.md) | 8 | ⭐ 2,238 | 2026-08-07 | 2026-08-19 |
 
 ---
@@ -56,4 +58,4 @@
 
 ---
 
-*Last updated: 2026-08-24T21:21:59.775Z*
+*Last updated: 2026-08-25T21:01:44.355Z*

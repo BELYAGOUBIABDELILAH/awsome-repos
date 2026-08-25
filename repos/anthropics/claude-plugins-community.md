@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 1,315 |
-| **Forks** | 🍴 150 |
-| **Trending Days** | 3 |
-| **Peak Rank** | #7 |
+| **Stars** | ⭐ 1,695 |
+| **Forks** | 🍴 176 |
+| **Trending Days** | 4 |
+| **Peak Rank** | #2 |
 
 | **First Seen** | Aug 22, 2026 |
-| **Last Seen** | Aug 24, 2026 |
+| **Last Seen** | Aug 25, 2026 |
 
 
 ---
@@ -45,12 +45,13 @@
 
 **Aug 23, 2026** — Rank #15 (+257 ⭐)  
 **Aug 24, 2026** — Rank #7 (+490 ⭐)  
+**Aug 25, 2026** — Rank #2 (+350 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #7
-- **Trending Days**: 3
-- **Longest Streak**: 3 days
+- **Peak Rank**: #2
+- **Trending Days**: 4
+- **Longest Streak**: 4 days
 
 ---
 
@@ -87,11 +88,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 60&#x2F;100
-- **Historical Rank**: Top 10 (Peak: #7)
+- **Trending Score**: 80&#x2F;100
+- **Historical Rank**: Top 5 (Peak: #2)
 
 
 ---
 
-*Last updated: 2026-08-24T21:22:04.823Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-25T21:01:48.478Z*  
+*Data from 4 trending reports*

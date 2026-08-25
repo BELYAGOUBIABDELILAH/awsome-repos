@@ -16,13 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 728 | 2026-08-01 | 20 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 728 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 14 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [NumericalEarth/NumericalEarth.jl](../repos/NumericalEarth/NumericalEarth.jl.md) | ⭐ 46 | 2026-08-24 | 1 |
+| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 15 |
 
 
 ---
@@ -73,7 +70,7 @@
 | [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,410 | 2026-08-02 | 9 |
 | [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 728 | 2026-08-01 | 20 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 728 | 2026-08-01 | 21 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 719 | 2026-08-07 | 1 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | 3 |
@@ -81,7 +78,7 @@
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | 8 |
 | [davidanthoff/Electron.jl](../repos/davidanthoff/Electron.jl.md) | ⭐ 96 | 2026-08-14 | 2 |
 | [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 8 |
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 14 |
+| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 15 |
 | [NumericalEarth/NumericalEarth.jl](../repos/NumericalEarth/NumericalEarth.jl.md) | ⭐ 46 | 2026-08-24 | 1 |
 | [kahliburke/Kaimon.jl](../repos/kahliburke/Kaimon.jl.md) | ⭐ 25 | 2026-08-20 | 2 |
 
@@ -91,8 +88,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 20 | ⭐ 728 | 2026-08-01 | 2026-08-24 |
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 14 | ⭐ 46 | 2026-08-02 | 2026-08-24 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 21 | ⭐ 728 | 2026-08-01 | 2026-08-25 |
+| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 15 | ⭐ 46 | 2026-08-02 | 2026-08-25 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 12 | ⭐ 125 | 2026-08-01 | 2026-08-16 |
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 9 | ⭐ 1,410 | 2026-08-02 | 2026-08-19 |
 | [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | 8 | ⭐ 73 | 2026-08-01 | 2026-08-12 |
@@ -126,4 +123,4 @@
 
 ---
 
-*Last updated: 2026-08-24T21:21:59.721Z*
+*Last updated: 2026-08-25T21:01:44.317Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 121
+- **Total Repositories**: 123
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-24
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 13,942 | 2026-08-01 | 6 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,625 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openutau/OpenUtau](../repos/openutau/OpenUtau.md) | ⭐ 4,228 | 2026-08-01 | 2 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 13,955 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 114,584 | 2026-08-02 | 9 |
+| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 5,576 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 20,345 | 2026-08-02 | 14 |
+| [LavaGang/MelonLoader](../repos/LavaGang/MelonLoader.md) | ⭐ 4,135 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 15,947 | 2026-08-02 | 5 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 15,051 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,590 | 2026-08-02 | 4 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 8,662 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,135 | 2026-08-02 | 9 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,223 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 15,032 | 2026-08-02 | 10 |
+| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 8,494 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,225 | 2026-08-04 | 7 |
+| [Unity-Technologies/skills](../repos/Unity-Technologies/skills.md) | ⭐ 341 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,259 | 2026-08-05 | 9 |
+| [umbraco/Umbraco-CMS](../repos/umbraco/Umbraco-CMS.md) | ⭐ 5,232 | 2026-08-14 | 4 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,485 | 2026-08-01 | The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration w... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,618 | 2026-08-01 | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,625 | 2026-08-01 | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 10,741 | 2026-08-01 | A reference .NET application implementing an eCommerce site |
@@ -104,7 +104,7 @@
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,596 | 2026-08-02 | 3 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,292 | 2026-08-04 | 2 |
 | [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,564 | 2026-08-02 | 3 |
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,618 | 2026-08-01 | 5 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,625 | 2026-08-01 | 6 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 20,345 | 2026-08-02 | 14 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,885 | 2026-08-01 | 4 |
 | [Unity-Technologies/ml-agents](../repos/Unity-Technologies/ml-agents.md) | ⭐ 19,636 | 2026-08-19 | 1 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 14 | ⭐ 20,345 | 2026-08-02 | 2026-08-24 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 10 | ⭐ 15,032 | 2026-08-02 | 2026-08-24 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 11 | ⭐ 15,051 | 2026-08-02 | 2026-08-25 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 10 | ⭐ 5,223 | 2026-08-03 | 2026-08-22 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 9 | ⭐ 38,391 | 2026-08-01 | 2026-08-23 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 9 | ⭐ 114,584 | 2026-08-02 | 2026-08-24 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 9 | ⭐ 56,135 | 2026-08-02 | 2026-08-24 |
 | [microsoft/aspire](../repos/microsoft/aspire.md) | 9 | ⭐ 6,259 | 2026-08-05 | 2026-08-24 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 7 | ⭐ 26,795 | 2026-08-01 | 2026-08-08 |
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | 7 | ⭐ 15,239 | 2026-08-03 | 2026-08-23 |
-| [dotnet/runtime](../repos/dotnet/runtime.md) | 7 | ⭐ 18,225 | 2026-08-04 | 2026-08-24 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 7 | ⭐ 13,955 | 2026-08-01 | 2026-08-25 |
+| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | 7 | ⭐ 5,576 | 2026-08-02 | 2026-08-25 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-24T21:21:59.687Z*
+*Last updated: 2026-08-25T21:01:44.283Z*

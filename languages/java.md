@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 152
+- **Total Repositories**: 154
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,770 | 2026-08-02 | 4 |
+| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,685 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 26,345 | 2026-08-02 | 7 |
+| [bazelbuild/bazel](../repos/bazelbuild/bazel.md) | ⭐ 25,763 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/guava](../repos/google/guava.md) | ⭐ 51,891 | 2026-08-02 | 9 |
+| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,788 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 32,286 | 2026-08-04 | 7 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,791 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 14,336 | 2026-08-06 | 7 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,919 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,499 | 2026-08-08 | 4 |
+| [apache/camel](../repos/apache/camel.md) | ⭐ 6,298 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [booklore-app/booklore](../repos/booklore-app/booklore.md) | ⭐ 961 | 2026-08-08 | 3 |
+| [quarkusio/quarkus](../repos/quarkusio/quarkus.md) | ⭐ 15,846 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CaffeineMC/sodium](../repos/CaffeineMC/sodium.md) | ⭐ 5,729 | 2026-08-09 | 4 |
+| [Mininglamp-OSS/octo-android](../repos/Mininglamp-OSS/octo-android.md) | ⭐ 613 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Card-Forge/forge](../repos/Card-Forge/forge.md) | ⭐ 2,630 | 2026-08-16 | 3 |
+| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,212 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
+| [booklore-app/booklore](../repos/booklore-app/booklore.md) | ⭐ 971 | 2026-08-08 | 4 |
 
 
 ---
@@ -92,13 +92,13 @@
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,340 | 2026-08-04 | 7 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,828 | 2026-08-02 | 6 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,530 | 2026-08-03 | 6 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,791 | 2026-08-03 | 7 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,155 | 2026-08-04 | 4 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,201 | 2026-08-08 | 3 |
+| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,212 | 2026-08-08 | 4 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,891 | 2026-08-02 | 9 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,496 | 2026-08-04 | 8 |
-| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,036 | 2026-08-12 | 1 |
+| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,206 | 2026-08-12 | 2 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,444 | 2026-08-07 | 2 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,753 | 2026-08-05 | 4 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
@@ -106,7 +106,7 @@
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,898 | 2026-08-06 | 4 |
 | [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,499 | 2026-08-08 | 4 |
 | [apache/kafka](../repos/apache/kafka.md) | ⭐ 33,600 | 2026-08-12 | 5 |
-| [alibaba/nacos](../repos/alibaba/nacos.md) | ⭐ 33,271 | 2026-08-15 | 1 |
+| [alibaba/nacos](../repos/alibaba/nacos.md) | ⭐ 33,300 | 2026-08-15 | 2 |
 | [binarywang/WxJava](../repos/binarywang/WxJava.md) | ⭐ 33,017 | 2026-08-12 | 1 |
 
 ---
@@ -120,11 +120,11 @@
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 8 | ⭐ 5,211 | 2026-08-05 | 2026-08-21 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 7 | ⭐ 13,569 | 2026-08-01 | 2026-08-23 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 7 | ⭐ 26,345 | 2026-08-02 | 2026-08-24 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 7 | ⭐ 72,791 | 2026-08-03 | 2026-08-25 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 7 | ⭐ 32,286 | 2026-08-04 | 2026-08-24 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 7 | ⭐ 81,340 | 2026-08-04 | 2026-08-22 |
 | [microg/GmsCore](../repos/microg/GmsCore.md) | 7 | ⭐ 14,336 | 2026-08-06 | 2026-08-24 |
 | [github/copilot-sdk](../repos/github/copilot-sdk.md) | 6 | ⭐ 10,428 | 2026-08-01 | 2026-08-21 |
-| [crimera/piko](../repos/crimera/piko.md) | 6 | ⭐ 4,757 | 2026-08-01 | 2026-08-19 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-24T21:21:59.717Z*
+*Last updated: 2026-08-25T21:01:44.313Z*

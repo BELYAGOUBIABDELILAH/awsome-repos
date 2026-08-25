@@ -1,6 +1,6 @@
 # QuantumNous&#x2F;new-api
 
-> A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
+> A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;QuantumNous&#x2F;new-api) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 45,931 |
-| **Forks** | 🍴 10,903 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 46,253 |
+| **Forks** | 🍴 10,991 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 22, 2026 |
+| **Last Seen** | Aug 25, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 4 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-24T21:22:02.391Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-08-25T21:01:45.894Z*  
+*Data from 8 trending reports*

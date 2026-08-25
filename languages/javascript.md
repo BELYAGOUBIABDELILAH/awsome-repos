@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 94
+- **Total Repositories**: 96
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 15,404 | 2026-08-01 | 8 |
+| [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,850 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,334 | 2026-08-01 | 11 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 17,489 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 5,822 | 2026-08-02 | 4 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,500 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 62,213 | 2026-08-05 | 5 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 32,355 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wwebjs/whatsapp-web.js](../repos/wwebjs/whatsapp-web.js.md) | ⭐ 22,463 | 2026-08-08 | 2 |
+| [decolua/9router](../repos/decolua/9router.md) | ⭐ 26,315 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 27,043 | 2026-08-08 | 4 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 89,736 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cobusgreyling/loop-engineering](../repos/cobusgreyling/loop-engineering.md) | ⭐ 10,638 | 2026-08-10 | 4 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 27,106 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/lavish-axi](../repos/kunchenguid/lavish-axi.md) | ⭐ 3,057 | 2026-08-24 | 1 |
+| [FB208/OpenBidKit_Yibiao](../repos/FB208/OpenBidKit_Yibiao.md) | ⭐ 2,536 | 2026-08-25 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [webbrain-one/webbrain](../repos/webbrain-one/webbrain.md) | ⭐ 912 | 2026-08-24 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [openwrt/luci](../repos/openwrt/luci.md) | ⭐ 7,804 | 2026-08-24 | 1 |
+| [fmhy/edit](../repos/fmhy/edit.md) | ⭐ 11,359 | 2026-08-25 | 1 |
 
 
 ---
@@ -58,7 +55,7 @@
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | 2026-07-30 | The React Framework |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,535 | 2026-08-01 | Socket-based TS&#x2F;JavaScript API for WhatsApp Web |
+| [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,850 | 2026-08-01 | Socket-based TS&#x2F;JavaScript API for WhatsApp Web |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 7,142 | 2026-08-01 | 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 |
@@ -73,13 +70,13 @@
 | [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,475 | 2026-08-01 | Low-code programming for event-driven applications |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 15,404 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 17,489 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) | ⭐ 347 | 2026-08-01 | Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,334 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生&#x2F;人生进阶 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,500 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生&#x2F;人生进阶 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
 
 
 ---
@@ -96,12 +93,12 @@
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 86,177 | 2026-08-05 | 7 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 89,736 | 2026-08-05 | 8 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 62,213 | 2026-08-05 | 5 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,334 | 2026-08-01 | 11 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,500 | 2026-08-01 | 12 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,912 | 2026-08-11 | 2 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
@@ -115,16 +112,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [byoungd/up](../repos/byoungd/up.md) | 11 | ⭐ 61,334 | 2026-08-01 | 2026-08-24 |
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 8 | ⭐ 15,404 | 2026-08-01 | 2026-08-24 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 7 | ⭐ 86,177 | 2026-08-05 | 2026-08-11 |
+| [byoungd/up](../repos/byoungd/up.md) | 12 | ⭐ 61,500 | 2026-08-01 | 2026-08-25 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 9 | ⭐ 17,489 | 2026-08-01 | 2026-08-25 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 8 | ⭐ 89,736 | 2026-08-05 | 2026-08-25 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 6 | ⭐ 141,656 | 2026-07-30 | 2026-08-06 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 6 | ⭐ 1,584 | 2026-08-07 | 2026-08-22 |
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 5 | ⭐ 7,142 | 2026-08-01 | 2026-08-12 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 5 | ⭐ 62,213 | 2026-08-05 | 2026-08-24 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 5 | ⭐ 38,736 | 2026-08-06 | 2026-08-10 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 5 | ⭐ 27,106 | 2026-08-08 | 2026-08-25 |
 | [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | 4 | ⭐ 5,822 | 2026-08-02 | 2026-08-24 |
-| [is-a-dev/register](../repos/is-a-dev/register.md) | 4 | ⭐ 10,983 | 2026-08-03 | 2026-08-16 |
 
 ---
 
@@ -224,7 +221,9 @@
 - [kunchenguid/lavish-axi](../repos/kunchenguid/lavish-axi.md) - HTML is the new markdown. Lavish is the new editor for your HTML artifacts.
 - [webbrain-one/webbrain](../repos/webbrain-one/webbrain.md) - Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 
 - [openwrt/luci](../repos/openwrt/luci.md) - LuCI - OpenWrt Configuration Interface
+- [FB208/OpenBidKit_Yibiao](../repos/FB208/OpenBidKit_Yibiao.md) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
+- [fmhy/edit](../repos/fmhy/edit.md) - Make changes to FMHY
 
 ---
 
-*Last updated: 2026-08-24T21:21:59.719Z*
+*Last updated: 2026-08-25T21:01:44.315Z*

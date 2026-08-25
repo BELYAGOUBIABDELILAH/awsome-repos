@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,052 | 2026-08-01 | 11 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,066 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,207 | 2026-08-01 | 6 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,799 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 250 | 2026-08-01 | 6 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,746 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,192 | 2026-08-01 | 10 |
+| [aniyomiorg/aniyomi-website](../repos/aniyomiorg/aniyomi-website.md) | ⭐ 226 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,059 | 2026-08-01 | 8 |
+| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | ⭐ 335 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,736 | 2026-08-01 | 10 |
+| [inovector/mixpost](../repos/inovector/mixpost.md) | ⭐ 3,540 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | ⭐ 329 | 2026-08-01 | 6 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,230 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,218 | 2026-08-01 | 15 |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 1,802 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 432 | 2026-08-02 | 11 |
+| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 2,002 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 1,796 | 2026-08-02 | 8 |
+| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,455 | 2026-08-05 | 7 |
 
 
 ---
@@ -52,10 +52,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,052 | 2026-08-01 | BewlyCat——基于BewlyBewly开发的Bilibili拓展 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,066 | 2026-08-01 | BewlyCat——基于BewlyBewly开发的Bilibili拓展 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,787 | 2026-08-01 | Wiki.js | A modern and powerful wiki app built on Node.js |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,799 | 2026-08-01 | Wiki.js | A modern and powerful wiki app built on Node.js |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,323 | 2026-08-01 | Modern, Streamlined, Free and Open Source Customer Service Software |
@@ -90,16 +90,16 @@
 |------------|-------|------------|---------------|
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,207 | 2026-08-01 | 6 |
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,059 | 2026-08-01 | 8 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,218 | 2026-08-01 | 15 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,230 | 2026-08-01 | 16 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,192 | 2026-08-01 | 10 |
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,787 | 2026-08-01 | 11 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,799 | 2026-08-01 | 12 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,653 | 2026-08-08 | 6 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,736 | 2026-08-01 | 10 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,778 | 2026-08-08 | 7 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,746 | 2026-08-01 | 11 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,624 | 2026-08-02 | 11 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,889 | 2026-08-07 | 1 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,430 | 2026-08-02 | 7 |
-| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,460 | 2026-08-05 | 6 |
+| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,455 | 2026-08-05 | 7 |
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,047 | 2026-08-20 | 2 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,700 | 2026-08-12 | 1 |
 | [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,527 | 2026-08-17 | 1 |
@@ -115,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 15 | ⭐ 33,218 | 2026-08-01 | 2026-08-24 |
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 11 | ⭐ 4,052 | 2026-08-01 | 2026-08-24 |
-| [requarks/wiki](../repos/requarks/wiki.md) | 11 | ⭐ 28,787 | 2026-08-01 | 2026-08-23 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 16 | ⭐ 33,230 | 2026-08-01 | 2026-08-25 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 12 | ⭐ 4,066 | 2026-08-01 | 2026-08-25 |
+| [requarks/wiki](../repos/requarks/wiki.md) | 12 | ⭐ 28,799 | 2026-08-01 | 2026-08-25 |
 | [frappe/crm](../repos/frappe/crm.md) | 11 | ⭐ 3,365 | 2026-08-01 | 2026-08-21 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 11 | ⭐ 21,746 | 2026-08-01 | 2026-08-25 |
 | [RikkaApps/websites](../repos/RikkaApps/websites.md) | 11 | ⭐ 432 | 2026-08-02 | 2026-08-24 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | 11 | ⭐ 21,624 | 2026-08-02 | 2026-08-23 |
+| [julyx10/lap](../repos/julyx10/lap.md) | 11 | ⭐ 2,002 | 2026-08-02 | 2026-08-25 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 10 | ⭐ 33,192 | 2026-08-01 | 2026-08-24 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 10 | ⭐ 21,736 | 2026-08-01 | 2026-08-24 |
-| [julyx10/lap](../repos/julyx10/lap.md) | 10 | ⭐ 1,992 | 2026-08-02 | 2026-08-24 |
 | [unovue/reka-ui](../repos/unovue/reka-ui.md) | 10 | ⭐ 6,741 | 2026-08-02 | 2026-08-24 |
 
 ---
@@ -175,7 +175,7 @@
 - [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin ...
 - [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-a...
 - [freqtrade/frequi](../repos/freqtrade/frequi.md) - Freqtrade UI - Frontend for Freqtrade
-- [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+- [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) - 🐱 🧸跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 - [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on R...
 - [x2rr/funds](../repos/x2rr/funds.md) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 - [chenjigang4167/testhub_platform](../repos/chenjigang4167/testhub_platform.md) - AI-Powered Testing Platform
@@ -201,4 +201,4 @@
 
 ---
 
-*Last updated: 2026-08-24T21:21:59.781Z*
+*Last updated: 2026-08-25T21:01:44.360Z*
