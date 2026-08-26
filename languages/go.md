@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 178
+- **Total Repositories**: 185
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-08-24
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 46,253 | 2026-08-01 | 8 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,628 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,608 | 2026-08-01 | 8 |
+| [moby/moby](../repos/moby/moby.md) | ⭐ 72,001 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
+| [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) | ⭐ 30,850 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) | ⭐ 30,810 | 2026-08-04 | 4 |
+| [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) | ⭐ 3,640 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 26,579 | 2026-08-04 | 4 |
+| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 7,146 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) | ⭐ 3,622 | 2026-08-05 | 3 |
+| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 16,774 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [containerd/containerd](../repos/containerd/containerd.md) | ⭐ 21,166 | 2026-08-08 | 2 |
+| [containerd/containerd](../repos/containerd/containerd.md) | ⭐ 21,186 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rorkai/App-Store-Connect-CLI](../repos/rorkai/App-Store-Connect-CLI.md) | ⭐ 6,220 | 2026-08-09 | 2 |
+| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 20,600 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/gh-aw](../repos/github/gh-aw.md) | ⭐ 4,999 | 2026-08-10 | 3 |
+| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,306 | 2026-08-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,296 | 2026-08-12 | 4 |
+| [ongridio/ongrid](../repos/ongridio/ongrid.md) | ⭐ 890 | 2026-08-19 | 2 |
 
 
 ---
@@ -73,7 +73,7 @@
 | [heroiclabs/nakama](../repos/heroiclabs/nakama.md) | ⭐ 13,066 | 2026-08-01 | Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and socia... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,482 | 2026-08-01 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori... |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,628 | 2026-08-01 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,608 | 2026-08-01 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason... |
@@ -95,9 +95,9 @@
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 88,549 | 2026-08-06 | 5 |
-| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,296 | 2026-08-12 | 4 |
+| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,306 | 2026-08-12 | 5 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | 2026-08-03 | 3 |
-| [moby/moby](../repos/moby/moby.md) | ⭐ 71,989 | 2026-08-04 | 2 |
+| [moby/moby](../repos/moby/moby.md) | ⭐ 72,001 | 2026-08-04 | 3 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | 2026-08-07 | 1 |
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 65,743 | 2026-08-11 | 3 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,391 | 2026-08-12 | 1 |
@@ -116,9 +116,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ollama/ollama](../repos/ollama/ollama.md) | 10 | ⭐ 179,343 | 2026-08-01 | 2026-08-24 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 9 | ⭐ 37,628 | 2026-08-01 | 2026-08-26 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 8 | ⭐ 46,253 | 2026-08-01 | 2026-08-25 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 8 | ⭐ 46,694 | 2026-08-01 | 2026-08-19 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 8 | ⭐ 37,482 | 2026-08-01 | 2026-08-19 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 8 | ⭐ 20,608 | 2026-08-01 | 2026-08-25 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 7 | ⭐ 1,592 | 2026-08-02 | 2026-08-22 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 7 | ⭐ 39,000 | 2026-08-07 | 2026-08-23 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:44.306Z*
+*Last updated: 2026-08-26T21:01:53.633Z*

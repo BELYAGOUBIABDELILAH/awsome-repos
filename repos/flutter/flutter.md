@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 178,652 |
-| **Forks** | 🍴 31,003 |
-| **Trending Days** | 15 |
+| **Stars** | ⭐ 178,662 |
+| **Forks** | 🍴 31,004 |
+| **Trending Days** | 16 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 25, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 15
+- **Trending Days**: 16
 - **Longest Streak**: 4 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 178,652+ stars, strong contributor base |
+| **Community** | Very Active | 178,662+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:46.092Z*  
-*Data from 15 trending reports*
+*Last updated: 2026-08-26T21:01:55.010Z*  
+*Data from 16 trending reports*

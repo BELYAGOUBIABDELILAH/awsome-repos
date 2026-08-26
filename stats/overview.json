@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-25T21:01:49.015Z",
-  "total_repositories": 2628,
-  "trending_today": 422,
-  "new_this_month": 2628,
+  "generated_at": "2026-08-26T21:01:57.329Z",
+  "total_repositories": 2678,
+  "trending_today": 443,
+  "new_this_month": 2678,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-08-25",
+  "last_collection": "2026-08-26",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 23,
+    "trending_days": 24,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "NVIDIA/Megatron-LM",
-    "stars": 17589,
-    "first_seen": "2026-08-25"
+    "full_name": "netbox-community/netbox",
+    "stars": 21393,
+    "first_seen": "2026-08-26"
   },
   "fastest_growing": {
     "full_name": "openai/whisper",
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 40673049,
-  "avg_stars": 15477,
-  "avg_trending_days": 3.7,
+  "total_stars": 41138998,
+  "avg_stars": 15362,
+  "avg_trending_days": 3.8,
   "language_count": 54,
-  "topic_count": 7590,
+  "topic_count": 7683,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

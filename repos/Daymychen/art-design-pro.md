@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vue |
 | **License** | MIT |
-| **Stars** | ⭐ 5,785 |
-| **Forks** | 🍴 1,097 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 5,804 |
+| **Forks** | 🍴 1,101 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Aug 23, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 2 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:47.455Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-08-26T21:01:56.111Z*  
+*Data from 9 trending reports*

@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,803 | 2026-08-01 | 21 |
 
+*No V repositories trending today*
 
 ---
 
@@ -58,4 +56,4 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:44.354Z*
+*Last updated: 2026-08-26T21:01:53.668Z*

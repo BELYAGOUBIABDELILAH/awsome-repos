@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 49,697 |
-| **Forks** | 🍴 8,088 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 50,309 |
+| **Forks** | 🍴 8,150 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 25, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -45,12 +45,13 @@
 
 **Aug 23, 2026** — Rank #8 (+1040 ⭐)  
 **Aug 24, 2026** — Rank #1 (+889 ⭐)  
+**Aug 26, 2026** — Rank #4 (+566 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 6
-- **Longest Streak**: 3 days
+- **Trending Days**: 7
+- **Longest Streak**: 4 days
 
 ---
 
@@ -70,12 +71,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Average | Basic documentation available |
-| **Community** | Growing | Emerging community |
+| **Difficulty** | Intermediate | Well-documented but extensive API |
+| **Documentation** | Good | Well-maintained documentation |
+| **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
 | **Maintenance** | Very Active | Updated within last week |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
 - General purpose
@@ -93,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:46.633Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-08-26T21:01:55.436Z*  
+*Data from 7 trending reports*

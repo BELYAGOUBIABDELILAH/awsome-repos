@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Very Active | Updated within last week |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:48.348Z*  
+*Last updated: 2026-08-26T21:01:56.822Z*  
 *Data from 1 trending reports*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | HTML |
 | **License** | MIT |
-| **Stars** | ⭐ 14,211 |
-| **Forks** | 🍴 1,035 |
-| **Trending Days** | 10 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 17,640 |
+| **Forks** | 🍴 1,227 |
+| **Trending Days** | 11 |
+| **Peak Rank** | #1 |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Aug 26, 2026** — Rank #1 (+1002 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 10
+- **Peak Rank**: #1
+- **Trending Days**: 11
 - **Longest Streak**: 6 days
 
 ---
@@ -72,7 +73,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -86,10 +87,10 @@
 #### Metrics
 - **Hidden Gem**: ✓ Yes
 - **Trending Score**: 100&#x2F;100
-- **Historical Rank**: No ranking data
+- **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-08-25T21:01:47.015Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-08-26T21:01:55.752Z*  
+*Data from 11 trending reports*

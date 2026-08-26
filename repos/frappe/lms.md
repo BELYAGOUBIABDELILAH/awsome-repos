@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Vue |
+| **Language** | TypeScript |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 3,157 |
-| **Forks** | 🍴 1,453 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 3,166 |
+| **Forks** | 🍴 1,456 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Aug 22, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Vue or courses-management-system*
+*Similar: Check repositories in TypeScript or courses-management-system*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 2 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 3,157+ stars, strong contributor base |
+| **Community** | Very Active | 3,166+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -81,7 +81,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Vue
+- Check similar projects in TypeScript
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:47.348Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-08-26T21:01:56.012Z*  
+*Data from 9 trending reports*

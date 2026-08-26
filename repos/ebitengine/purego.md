@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Assembly |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 3,805 |
+| **Stars** | ⭐ 3,806 |
 | **Forks** | 🍴 125 |
-| **Trending Days** | 11 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 25, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 11
+- **Trending Days**: 12
 - **Longest Streak**: 5 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:47.051Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-08-26T21:01:55.782Z*  
+*Data from 12 trending reports*

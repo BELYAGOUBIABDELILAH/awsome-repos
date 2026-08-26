@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 13 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 14 |
 
 
 ---
@@ -44,7 +44,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,733 | 2026-08-01 | 11 |
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 13 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 14 |
 | [CERN/TIGRE](../repos/CERN/TIGRE.md) | ⭐ 795 | 2026-08-04 | 1 |
 | [mtex-toolbox/mtex](../repos/mtex-toolbox/mtex.md) | ⭐ 376 | 2026-08-14 | 4 |
 
@@ -54,7 +54,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 13 | ⭐ 981 | 2026-08-01 | 2026-08-25 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 14 | ⭐ 981 | 2026-08-01 | 2026-08-26 |
 | [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | 11 | ⭐ 7,733 | 2026-08-01 | 2026-08-15 |
 | [mtex-toolbox/mtex](../repos/mtex-toolbox/mtex.md) | 4 | ⭐ 376 | 2026-08-14 | 2026-08-17 |
 | [CERN/TIGRE](../repos/CERN/TIGRE.md) | 1 | ⭐ 795 | 2026-08-04 | 2026-08-04 |
@@ -70,4 +70,4 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:44.324Z*
+*Last updated: 2026-08-26T21:01:53.646Z*

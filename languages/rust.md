@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 126
+- **Total Repositories**: 131
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-25
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 116,205 | 2026-07-30 | 6 |
+| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 4,560 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 118,042 | 2026-08-01 | 8 |
+| [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,341 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | ⭐ 2,507 | 2026-08-05 | 4 |
+| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | ⭐ 2,537 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 37,715 | 2026-08-10 | 5 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 38,154 | 2026-08-10 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [block/buzz](../repos/block/buzz.md) | ⭐ 30,670 | 2026-08-19 | 4 |
+| [cachix/devenv](../repos/cachix/devenv.md) | ⭐ 7,404 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GitoxideLabs/gitoxide](../repos/GitoxideLabs/gitoxide.md) | ⭐ 11,849 | 2026-08-24 | 2 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 6,661 | 2026-08-26 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [confeden/Antigravity](../repos/confeden/Antigravity.md) | ⭐ 358 | 2026-08-25 | 1 |
+| [RizRiyz/luvus](../repos/RizRiyz/luvus.md) | ⭐ 441 | 2026-08-26 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [transact-rs/sqlx](../repos/transact-rs/sqlx.md) | ⭐ 17,417 | 2026-08-25 | 1 |
+| [zhom/donutbrowser](../repos/zhom/donutbrowser.md) | ⭐ 3,720 | 2026-08-26 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Xoshbin/asyar](../repos/Xoshbin/asyar.md) | ⭐ 519 | 2026-08-26 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [influxdata/influxdb](../repos/influxdata/influxdb.md) | ⭐ 31,720 | 2026-08-26 | 1 |
 
 
 ---
@@ -98,10 +104,10 @@
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,464 | 2026-08-05 | 4 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,953 | 2026-08-02 | 4 |
-| [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,155 | 2026-08-02 | 1 |
+| [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,341 | 2026-08-02 | 2 |
 | [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,444 | 2026-08-05 | 4 |
 | [spacedriveapp/spacedrive](../repos/spacedriveapp/spacedrive.md) | ⭐ 38,820 | 2026-08-22 | 1 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 37,715 | 2026-08-10 | 5 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 38,154 | 2026-08-10 | 6 |
 
 ---
 
@@ -114,11 +120,11 @@
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 6 | ⭐ 116,205 | 2026-07-30 | 2026-08-25 |
 | [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 6 | ⭐ 13,249 | 2026-08-01 | 2026-08-19 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 6 | ⭐ 91,388 | 2026-08-09 | 2026-08-23 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 6 | ⭐ 38,154 | 2026-08-10 | 2026-08-26 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | 6 | ⭐ 95,653 | 2026-08-11 | 2026-08-24 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 5 | ⭐ 15,903 | 2026-08-01 | 2026-08-19 |
 | [moghtech/komodo](../repos/moghtech/komodo.md) | 5 | ⭐ 11,998 | 2026-08-02 | 2026-08-19 |
-| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 5 | ⭐ 10,891 | 2026-08-09 | 2026-08-24 |
-| [rustfs/rustfs](../repos/rustfs/rustfs.md) | 5 | ⭐ 31,305 | 2026-08-09 | 2026-08-22 |
+| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 5 | ⭐ 2,537 | 2026-08-05 | 2026-08-26 |
 
 ---
 
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:44.343Z*
+*Last updated: 2026-08-26T21:01:53.660Z*

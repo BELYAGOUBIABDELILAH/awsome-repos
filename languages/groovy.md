@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 8
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-25
+- **Last Updated**: 2026-08-26
 
 ---
 
@@ -16,13 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,796 | 2026-08-01 | 23 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,801 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,277 | 2026-08-02 | 18 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,277 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,474 | 2026-08-02 | 13 |
+| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,475 | 2026-08-02 | 14 |
 
 
 ---
@@ -34,7 +34,7 @@
 | [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | Gravitee.io - API Platform - Issues |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,796 | 2026-08-01 | Adaptable, fast automation for all |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,801 | 2026-08-01 | Adaptable, fast automation for all |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 874 | 2026-08-01 | OpenBoxes is a warehouse management system designed to manage inventory and track stock movements... |
@@ -43,7 +43,7 @@
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,277 | 2026-08-02 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,474 | 2026-08-02 | A DSL for data-driven computational pipelines |
+| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,475 | 2026-08-02 | A DSL for data-driven computational pipelines |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,924 | 2026-08-03 | Grails - the Web Application Framework |
@@ -61,10 +61,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,796 | 2026-08-01 | 23 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,277 | 2026-08-02 | 18 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,801 | 2026-08-01 | 24 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,277 | 2026-08-02 | 19 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
-| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,474 | 2026-08-02 | 13 |
+| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,475 | 2026-08-02 | 14 |
 | [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,924 | 2026-08-03 | 11 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 874 | 2026-08-01 | 4 |
 | [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | ⭐ 96 | 2026-08-06 | 1 |
@@ -76,9 +76,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [gradle/gradle](../repos/gradle/gradle.md) | 23 | ⭐ 18,796 | 2026-08-01 | 2026-08-25 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 18 | ⭐ 6,277 | 2026-08-02 | 2026-08-25 |
-| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 13 | ⭐ 3,474 | 2026-08-02 | 2026-08-25 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 24 | ⭐ 18,801 | 2026-08-01 | 2026-08-26 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 19 | ⭐ 6,277 | 2026-08-02 | 2026-08-26 |
+| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 14 | ⭐ 3,475 | 2026-08-02 | 2026-08-26 |
 | [apache/grails-core](../repos/apache/grails-core.md) | 11 | ⭐ 2,924 | 2026-08-03 | 2026-08-24 |
 | [gravitee-io/issues](../repos/gravitee-io/issues.md) | 7 | ⭐ 68 | 2026-08-01 | 2026-08-19 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | 4 | ⭐ 874 | 2026-08-01 | 2026-08-12 |
@@ -100,4 +100,4 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:44.308Z*
+*Last updated: 2026-08-26T21:01:53.635Z*

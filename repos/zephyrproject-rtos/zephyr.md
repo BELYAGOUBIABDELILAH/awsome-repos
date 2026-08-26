@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 16,290 |
-| **Forks** | 🍴 9,805 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 16,316 |
+| **Forks** | 🍴 9,845 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Aug 22, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 4 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 16,290+ stars, strong contributor base |
+| **Community** | Very Active | 16,316+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:47.280Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-08-26T21:01:55.956Z*  
+*Data from 9 trending reports*

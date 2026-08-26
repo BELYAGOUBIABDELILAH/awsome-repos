@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 4,917 |
-| **Forks** | 🍴 828 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 4,946 |
+| **Forks** | 🍴 834 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:46.728Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-08-26T21:01:55.507Z*  
+*Data from 8 trending reports*

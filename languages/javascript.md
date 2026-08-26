@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 96
+- **Total Repositories**: 99
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,31 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,850 | 2026-08-01 | 2 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,945 | 2026-07-30 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 17,489 | 2026-08-01 | 9 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 21,180 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,500 | 2026-08-01 | 12 |
+| [projectdiscovery/nuclei-templates](../repos/projectdiscovery/nuclei-templates.md) | ⭐ 12,849 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 32,355 | 2026-08-02 | 3 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 90,007 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [decolua/9router](../repos/decolua/9router.md) | ⭐ 26,315 | 2026-08-02 | 3 |
+| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,338 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 89,736 | 2026-08-05 | 8 |
+| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 38,280 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 27,106 | 2026-08-08 | 5 |
+| [chuspeeism/dashi-ppt-skill](../repos/chuspeeism/dashi-ppt-skill.md) | ⭐ 6,375 | 2026-08-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FB208/OpenBidKit_Yibiao](../repos/FB208/OpenBidKit_Yibiao.md) | ⭐ 2,536 | 2026-08-25 | 1 |
+| [nasa-gibs/worldview](../repos/nasa-gibs/worldview.md) | ⭐ 1,650 | 2026-08-26 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fmhy/edit](../repos/fmhy/edit.md) | ⭐ 11,359 | 2026-08-25 | 1 |
+| [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 51,713 | 2026-08-26 | 1 |
 
 
 ---
@@ -52,7 +52,7 @@
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | The library for web and native user interfaces |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | 2026-07-30 | The React Framework |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,945 | 2026-07-30 | The React Framework |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,850 | 2026-08-01 | Socket-based TS&#x2F;JavaScript API for WhatsApp Web |
@@ -70,7 +70,7 @@
 | [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,475 | 2026-08-01 | Low-code programming for event-driven applications |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 17,489 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 21,180 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) | ⭐ 347 | 2026-08-01 | Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module... |
@@ -89,22 +89,22 @@
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | 2026-08-06 | 2 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,656 | 2026-07-30 | 6 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,945 | 2026-07-30 | 7 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 89,736 | 2026-08-05 | 8 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 90,007 | 2026-08-05 | 9 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 62,213 | 2026-08-05 | 5 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,500 | 2026-08-01 | 12 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
-| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 51,912 | 2026-08-11 | 2 |
+| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,338 | 2026-08-11 | 3 |
+| [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 51,713 | 2026-08-26 | 1 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,206 | 2026-08-08 | 1 |
 | [google/zx](../repos/google/zx.md) | ⭐ 45,685 | 2026-08-20 | 2 |
-| [remoteintech/remote-jobs](../repos/remoteintech/remote-jobs.md) | ⭐ 40,725 | 2026-08-19 | 2 |
 
 ---
 
@@ -113,9 +113,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [byoungd/up](../repos/byoungd/up.md) | 12 | ⭐ 61,500 | 2026-08-01 | 2026-08-25 |
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 9 | ⭐ 17,489 | 2026-08-01 | 2026-08-25 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 8 | ⭐ 89,736 | 2026-08-05 | 2026-08-25 |
-| [vercel/next.js](../repos/vercel/next.js.md) | 6 | ⭐ 141,656 | 2026-07-30 | 2026-08-06 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 10 | ⭐ 21,180 | 2026-08-01 | 2026-08-26 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 9 | ⭐ 90,007 | 2026-08-05 | 2026-08-26 |
+| [vercel/next.js](../repos/vercel/next.js.md) | 7 | ⭐ 141,945 | 2026-07-30 | 2026-08-26 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 6 | ⭐ 1,584 | 2026-08-07 | 2026-08-22 |
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 5 | ⭐ 7,142 | 2026-08-01 | 2026-08-12 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 5 | ⭐ 62,213 | 2026-08-05 | 2026-08-24 |
@@ -195,6 +195,7 @@
 - [airbnb/javascript](../repos/airbnb/javascript.md) - JavaScript Style Guide
 - [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) - Create beautiful slides on the web using a coding agent&#39;s frontend skills
 - [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in bro...
+- [github/awesome-copilot](../repos/github/awesome-copilot.md) - Community-contributed instructions, agents, skills, and configurations to help you make the most ...
 - [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) - 🎬 Lumen is the fully automated YouTube channel management with AI agents. Creates, optimizes &amp; p...
 - [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项...
 - [dataease/SQLBot](../repos/dataease/SQLBot.md) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
@@ -223,7 +224,9 @@
 - [openwrt/luci](../repos/openwrt/luci.md) - LuCI - OpenWrt Configuration Interface
 - [FB208/OpenBidKit_Yibiao](../repos/FB208/OpenBidKit_Yibiao.md) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
 - [fmhy/edit](../repos/fmhy/edit.md) - Make changes to FMHY
+- [nasa-gibs/worldview](../repos/nasa-gibs/worldview.md) - Interactive interface for browsing global, full-resolution satellite imagery
+- [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) - ⭐️  Companies that don&#39;t have a broken hiring process
 
 ---
 
-*Last updated: 2026-08-25T21:01:44.315Z*
+*Last updated: 2026-08-26T21:01:53.640Z*

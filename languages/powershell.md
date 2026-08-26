@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 40
+- **Total Repositories**: 41
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-25
+- **Last Updated**: 2026-08-26
 
 ---
 
@@ -16,31 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 29,193 | 2026-08-01 | 12 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 29,571 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,057 | 2026-08-01 | 20 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 889 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/work-iq](../repos/microsoft/work-iq.md) | ⭐ 976 | 2026-08-01 | 8 |
+| [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | ⭐ 647 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 887 | 2026-08-01 | 14 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 440 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,453 | 2026-08-01 | 10 |
+| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,530 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoftgraph/microsoft-graph-docs-contrib](../repos/microsoftgraph/microsoft-graph-docs-contrib.md) | ⭐ 153 | 2026-08-05 | 5 |
+| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,963 | 2026-08-06 | 5 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,650 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,649 | 2026-08-11 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [MicrosoftDocs/architecture-center](../repos/MicrosoftDocs/architecture-center.md) | ⭐ 2,018 | 2026-08-25 | 1 |
+| [github/copilot-plugins](../repos/github/copilot-plugins.md) | ⭐ 345 | 2026-08-26 | 1 |
 
 
 ---
@@ -49,7 +46,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 29,193 | 2026-08-01 | Reverse Engineering &#x2F; Authorized Penetration Testing &#x2F; Security Research Skill Router Pack AI-pow... |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 29,571 | 2026-08-01 | Reverse Engineering &#x2F; Authorized Penetration Testing &#x2F; Security Research Skill Router Pack AI-pow... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,057 | 2026-08-01 | GitHub Actions runner images |
@@ -70,7 +67,7 @@
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | ⭐ 976 | 2026-08-01 | MCP Server and CLI for accessing Work IQ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 887 | 2026-08-01 | Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your su... |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 889 | 2026-08-01 | Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your su... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/AL](../repos/microsoft/AL.md) | ⭐ 879 | 2026-08-01 | Home of the Dynamics 365 Business Central AL Language extension for Visual Studio Code. Used to t... |
@@ -85,7 +82,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 29,193 | 2026-08-01 | 12 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 29,571 | 2026-08-01 | 13 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,031 | 2026-08-02 | 5 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,089 | 2026-08-04 | 1 |
@@ -95,11 +92,11 @@
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,963 | 2026-08-06 | 5 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,229 | 2026-08-01 | 8 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
-| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,614 | 2026-08-07 | 5 |
+| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,942 | 2026-08-01 | 10 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,822 | 2026-08-04 | 2 |
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,649 | 2026-08-11 | 3 |
-| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,517 | 2026-08-04 | 4 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,650 | 2026-08-11 | 4 |
+| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,530 | 2026-08-04 | 5 |
 | [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,170 | 2026-08-19 | 2 |
 | [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,036 | 2026-08-07 | 3 |
 | [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,024 | 2026-08-02 | 5 |
@@ -113,15 +110,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [actions/runner-images](../repos/actions/runner-images.md) | 20 | ⭐ 13,057 | 2026-08-01 | 2026-08-25 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 14 | ⭐ 887 | 2026-08-01 | 2026-08-25 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 15 | ⭐ 889 | 2026-08-01 | 2026-08-26 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 13 | ⭐ 29,571 | 2026-08-01 | 2026-08-26 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 13 | ⭐ 1,551 | 2026-08-03 | 2026-08-24 |
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 12 | ⭐ 29,193 | 2026-08-01 | 2026-08-25 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 10 | ⭐ 5,942 | 2026-08-01 | 2026-08-22 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 10 | ⭐ 1,453 | 2026-08-01 | 2026-08-25 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 9 | ⭐ 440 | 2026-08-04 | 2026-08-26 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 8 | ⭐ 8,229 | 2026-08-01 | 2026-08-23 |
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | 8 | ⭐ 976 | 2026-08-01 | 2026-08-25 |
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 8 | ⭐ 429 | 2026-08-04 | 2026-08-22 |
-| [samratashok/nishang](../repos/samratashok/nishang.md) | 7 | ⭐ 10,065 | 2026-08-03 | 2026-08-23 |
+| [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | 7 | ⭐ 647 | 2026-08-02 | 2026-08-26 |
 
 ---
 
@@ -167,7 +164,8 @@
 - [pnp/List-Formatting](../repos/pnp/List-Formatting.md) - List Formatting Samples for use in SharePoint and Microsoft Lists
 - [he3als/EdgeRemover](../repos/he3als/EdgeRemover.md) - A PowerShell script that correctly uninstalls or reinstalls Microsoft Edge on Windows 10 &amp; 11.
 - [MicrosoftDocs/architecture-center](../repos/MicrosoftDocs/architecture-center.md) - Open source documentation for the Azure Architecture Center on Microsoft Learn.
+- [github/copilot-plugins](../repos/github/copilot-plugins.md) - The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibil...
 
 ---
 
-*Last updated: 2026-08-25T21:01:44.335Z*
+*Last updated: 2026-08-26T21:01:53.654Z*

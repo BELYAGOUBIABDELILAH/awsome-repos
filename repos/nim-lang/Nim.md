@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Nim |
 | **License** | Other |
-| **Stars** | ⭐ 18,188 |
-| **Forks** | 🍴 1,546 |
-| **Trending Days** | 18 |
+| **Stars** | ⭐ 18,192 |
+| **Forks** | 🍴 1,545 |
+| **Trending Days** | 19 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 25, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 18
+- **Trending Days**: 19
 - **Longest Streak**: 5 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:46.282Z*  
-*Data from 18 trending reports*
+*Last updated: 2026-08-26T21:01:55.161Z*  
+*Data from 19 trending reports*

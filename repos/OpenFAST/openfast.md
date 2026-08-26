@@ -1,6 +1,6 @@
 # OpenFAST&#x2F;openfast
 
-> Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.
+> Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;OpenFAST&#x2F;openfast) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Fortran |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 953 |
+| **Stars** | ⭐ 956 |
 | **Forks** | 🍴 536 |
-| **Trending Days** | 11 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 22, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 11
+- **Trending Days**: 12
 - **Longest Streak**: 4 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 953+ stars, strong contributor base |
+| **Community** | Very Active | 956+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:46.279Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-08-26T21:01:55.159Z*  
+*Data from 12 trending reports*

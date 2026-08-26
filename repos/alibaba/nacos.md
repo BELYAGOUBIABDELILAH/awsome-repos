@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 33,300 |
-| **Forks** | 🍴 13,286 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 33,307 |
+| **Forks** | 🍴 13,284 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 15, 2026 |
-| **Last Seen** | Aug 25, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
-- **Longest Streak**: 1 days
+- **Trending Days**: 3
+- **Longest Streak**: 2 days
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 33,300+ stars, strong contributor base |
+| **Community** | Very Active | 33,307+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 55&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-25T21:01:48.101Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-26T21:01:56.655Z*  
+*Data from 3 trending reports*

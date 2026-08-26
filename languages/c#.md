@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 123
+- **Total Repositories**: 124
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-24
+- **Last Updated**: 2026-08-26
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,625 | 2026-08-01 | 6 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,328 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 13,955 | 2026-08-01 | 7 |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,954 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 5,576 | 2026-08-02 | 7 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 114,738 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LavaGang/MelonLoader](../repos/LavaGang/MelonLoader.md) | ⭐ 4,135 | 2026-08-02 | 2 |
+| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 5,607 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 15,051 | 2026-08-02 | 11 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,227 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 8,662 | 2026-08-04 | 3 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,256 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,223 | 2026-08-04 | 5 |
+| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | ⭐ 13,453 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 8,494 | 2026-08-09 | 5 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,504 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Unity-Technologies/skills](../repos/Unity-Technologies/skills.md) | ⭐ 341 | 2026-08-14 | 3 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,132 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [umbraco/Umbraco-CMS](../repos/umbraco/Umbraco-CMS.md) | ⭐ 5,232 | 2026-08-14 | 4 |
+| [Azure/azure-powershell](../repos/Azure/azure-powershell.md) | ⭐ 4,774 | 2026-08-06 | 2 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | 2026-08-01 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and auto... |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,328 | 2026-08-01 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and auto... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,485 | 2026-08-01 | The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration w... |
@@ -76,7 +76,7 @@
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,885 | 2026-08-01 | Bitwarden infrastructure&#x2F;backend (API, database, Docker, etc). |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,864 | 2026-08-01 | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&amp;more) - cross-platform! |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,954 | 2026-08-01 | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&amp;more) - cross-platform! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,391 | 2026-08-01 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications ... |
@@ -88,19 +88,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 114,584 | 2026-08-02 | 9 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,135 | 2026-08-02 | 9 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,061 | 2026-08-06 | 5 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 114,738 | 2026-08-02 | 10 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,227 | 2026-08-02 | 10 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,132 | 2026-08-06 | 6 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,678 | 2026-08-01 | 5 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,194 | 2026-08-14 | 2 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,478 | 2026-08-03 | 5 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,391 | 2026-08-01 | 9 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,880 | 2026-08-22 | 1 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,700 | 2026-08-08 | 1 |
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,490 | 2026-08-05 | 5 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 26,795 | 2026-08-01 | 7 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,328 | 2026-08-01 | 8 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,504 | 2026-08-05 | 6 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,603 | 2026-08-10 | 3 |
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,864 | 2026-08-01 | 3 |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,954 | 2026-08-01 | 4 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,596 | 2026-08-02 | 3 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,292 | 2026-08-04 | 2 |
 | [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,564 | 2026-08-02 | 3 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 14 | ⭐ 20,345 | 2026-08-02 | 2026-08-24 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 11 | ⭐ 15,051 | 2026-08-02 | 2026-08-25 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 10 | ⭐ 5,223 | 2026-08-03 | 2026-08-22 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 11 | ⭐ 5,256 | 2026-08-03 | 2026-08-26 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 10 | ⭐ 114,738 | 2026-08-02 | 2026-08-26 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 10 | ⭐ 56,227 | 2026-08-02 | 2026-08-26 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 9 | ⭐ 38,391 | 2026-08-01 | 2026-08-23 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 9 | ⭐ 114,584 | 2026-08-02 | 2026-08-24 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 9 | ⭐ 56,135 | 2026-08-02 | 2026-08-24 |
 | [microsoft/aspire](../repos/microsoft/aspire.md) | 9 | ⭐ 6,259 | 2026-08-05 | 2026-08-24 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 7 | ⭐ 26,795 | 2026-08-01 | 2026-08-08 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 8 | ⭐ 29,328 | 2026-08-01 | 2026-08-26 |
+| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | 8 | ⭐ 5,607 | 2026-08-02 | 2026-08-26 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 7 | ⭐ 13,955 | 2026-08-01 | 2026-08-25 |
-| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | 7 | ⭐ 5,576 | 2026-08-02 | 2026-08-25 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:44.283Z*
+*Last updated: 2026-08-26T21:01:53.617Z*

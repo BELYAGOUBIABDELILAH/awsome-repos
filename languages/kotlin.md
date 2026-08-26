@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 116
+- **Total Repositories**: 120
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-24
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 4,373 | 2026-08-02 | 9 |
+| [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 212 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 7,172 | 2026-08-02 | 5 |
+| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,725 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,173 | 2026-08-02 | 5 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 4,386 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 5,845 | 2026-08-02 | 5 |
+| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,198 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Luoyacheng/legado-E](../repos/Luoyacheng/legado-E.md) | ⭐ 2,471 | 2026-08-03 | 2 |
+| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 922 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,351 | 2026-08-04 | 5 |
+| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,271 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [element-hq/element-x-android](../repos/element-hq/element-x-android.md) | ⭐ 2,345 | 2026-08-04 | 4 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,898 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KotatsuApp/Kotatsu](../repos/KotatsuApp/Kotatsu.md) | ⭐ 8,827 | 2026-08-06 | 3 |
+| [Kyant0/AndroidLiquidGlass](../repos/Kyant0/AndroidLiquidGlass.md) | ⭐ 3,455 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rushiranpise/morphe-patches](../repos/rushiranpise/morphe-patches.md) | ⭐ 502 | 2026-08-08 | 4 |
+| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | ⭐ 6,161 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kyant0/AndroidLiquidGlass](../repos/Kyant0/AndroidLiquidGlass.md) | ⭐ 3,431 | 2026-08-08 | 3 |
+| [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) | ⭐ 5,893 | 2026-08-16 | 4 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,068 | 2026-08-01 | Free and open source manga reader for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 181 | 2026-08-01 | Android app for BYD DiLink 5.0: real consumption from BMS, GPS trips, charges journal, automation... |
+| [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 212 | 2026-08-01 | BYD DiLink app (3.0&#x2F;5.0&#x2F;5.1, UI7): split screen 1&#x2F;3+2&#x2F;3, navigation on instrument cluster, Yandex... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rommapp/argosy-launcher](../repos/rommapp/argosy-launcher.md) | ⭐ 436 | 2026-08-01 | A native Android client for RomM  for syncing, installing, and launching games on any of your mob... |
@@ -73,7 +73,7 @@
 | [Tencent-TDS/KuiklyUI](../repos/Tencent-TDS/KuiklyUI.md) | ⭐ 3,366 | 2026-08-01 | A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six pla... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,661 | 2026-08-01 | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
+| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,725 | 2026-08-01 | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | ⭐ 6,331 | 2026-08-01 | Material design file manager for Android |
@@ -91,7 +91,7 @@
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,412 | 2026-08-03 | 5 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,463 | 2026-08-02 | 7 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,351 | 2026-08-04 | 5 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,395 | 2026-08-06 | 6 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,898 | 2026-08-06 | 7 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,114 | 2026-08-03 | 4 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 29,211 | 2026-08-08 | 8 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,182 | 2026-08-05 | 3 |
@@ -100,12 +100,12 @@
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,355 | 2026-08-05 | 2 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,068 | 2026-08-01 | 10 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,198 | 2026-08-02 | 2 |
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,661 | 2026-08-01 | 3 |
+| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,725 | 2026-08-01 | 4 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,290 | 2026-08-12 | 1 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,288 | 2026-08-17 | 1 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,380 | 2026-08-02 | 2 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,536 | 2026-08-06 | 6 |
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,173 | 2026-08-02 | 5 |
+| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,198 | 2026-08-02 | 6 |
 | [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,091 | 2026-08-10 | 2 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,520 | 2026-08-03 | 5 |
 
@@ -116,22 +116,22 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 10 | ⭐ 23,068 | 2026-08-01 | 2026-08-23 |
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 9 | ⭐ 4,373 | 2026-08-02 | 2026-08-25 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 10 | ⭐ 4,386 | 2026-08-02 | 2026-08-26 |
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 8 | ⭐ 643 | 2026-08-05 | 2026-08-21 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 8 | ⭐ 29,211 | 2026-08-08 | 2026-08-22 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 7 | ⭐ 61,463 | 2026-08-02 | 2026-08-22 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 7 | ⭐ 50,898 | 2026-08-06 | 2026-08-26 |
 | [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | 7 | ⭐ 5,534 | 2026-08-11 | 2026-08-25 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 6 | ⭐ 50,395 | 2026-08-06 | 2026-08-19 |
+| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 6 | ⭐ 11,198 | 2026-08-02 | 2026-08-26 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | 6 | ⭐ 12,536 | 2026-08-06 | 2026-08-23 |
 | [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 5 | ⭐ 7,172 | 2026-08-02 | 2026-08-25 |
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 5 | ⭐ 11,173 | 2026-08-02 | 2026-08-25 |
 
 ---
 
 ## 📋 All Kotlin Repositories
 
 - [mihonapp/mihon](../repos/mihonapp/mihon.md) - Free and open source manga reader for Android
-- [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) - Android app for BYD DiLink 5.0: real consumption from BMS, GPS trips, charges journal, automation...
+- [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) - BYD DiLink app (3.0&#x2F;5.0&#x2F;5.1, UI7): split screen 1&#x2F;3+2&#x2F;3, navigation on instrument cluster, Yandex...
 - [rommapp/argosy-launcher](../repos/rommapp/argosy-launcher.md) - A native Android client for RomM  for syncing, installing, and launching games on any of your mob...
 - [yuzono/tachiyomi-extensions](../repos/yuzono/tachiyomi-extensions.md) - Source code of extensions for Komikku &#x2F; Mihon &amp; forks.
 - [Fate-Grand-Automata/FGA](../repos/Fate-Grand-Automata/FGA.md) - Auto-battle app for F&#x2F;GO Android
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:44.320Z*
+*Last updated: 2026-08-26T21:01:53.643Z*

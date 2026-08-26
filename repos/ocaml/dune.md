@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | OCaml |
 | **License** | MIT |
-| **Stars** | ⭐ 1,910 |
+| **Stars** | ⭐ 1,911 |
 | **Forks** | 🍴 495 |
-| **Trending Days** | 13 |
+| **Trending Days** | 14 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 25, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 13
-- **Longest Streak**: 6 days
+- **Trending Days**: 14
+- **Longest Streak**: 7 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:46.150Z*  
-*Data from 13 trending reports*
+*Last updated: 2026-08-26T21:01:55.057Z*  
+*Data from 14 trending reports*

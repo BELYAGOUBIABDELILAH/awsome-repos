@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 157
+- **Total Repositories**: 159
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-19
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 236,363 | 2026-08-01 | 11 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 75,597 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [langchain-ai/deepagents](../repos/langchain-ai/deepagents.md) | ⭐ 28,458 | 2026-08-01 | 3 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 50,309 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 49,697 | 2026-08-03 | 6 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 34,678 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 134,172 | 2026-08-04 | 2 |
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 34,327 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 34,045 | 2026-08-07 | 3 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 100,722 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 100,143 | 2026-08-08 | 4 |
+| [AgriciDaniel/claude-obsidian](../repos/AgriciDaniel/claude-obsidian.md) | ⭐ 13,339 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AgriciDaniel/claude-obsidian](../repos/AgriciDaniel/claude-obsidian.md) | ⭐ 12,624 | 2026-08-11 | 3 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 131,675 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pipecat-ai/pipecat](../repos/pipecat-ai/pipecat.md) | ⭐ 14,712 | 2026-08-20 | 3 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 48,297 | 2026-08-15 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-community](../repos/anthropics/claude-plugins-community.md) | ⭐ 1,695 | 2026-08-22 | 4 |
+| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 110,881 | 2026-08-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shy3130/tick-stock-panel](../repos/shy3130/tick-stock-panel.md) | ⭐ 3,760 | 2026-08-23 | 2 |
+| [anthropics/claude-plugins-community](../repos/anthropics/claude-plugins-community.md) | ⭐ 2,146 | 2026-08-22 | 5 |
 
 
 ---
@@ -98,13 +98,13 @@
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | 2026-07-31 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 142,873 | 2026-08-07 | 8 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 134,172 | 2026-08-04 | 2 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 131,675 | 2026-08-14 | 3 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 129,762 | 2026-08-05 | 6 |
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 129,117 | 2026-08-14 | 2 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 113,790 | 2026-08-01 | 9 |
-| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 110,011 | 2026-08-20 | 2 |
+| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 110,881 | 2026-08-20 | 3 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 109,532 | 2026-08-03 | 3 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 100,143 | 2026-08-08 | 4 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 100,722 | 2026-08-08 | 5 |
 | [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 90,555 | 2026-08-10 | 3 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 89,336 | 2026-08-02 | 3 |
 | [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 80,799 | 2026-08-02 | 4 |
@@ -120,11 +120,11 @@
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 8 | ⭐ 1,340 | 2026-08-01 | 2026-08-14 |
 | [usestrix/strix](../repos/usestrix/strix.md) | 8 | ⭐ 56,671 | 2026-08-04 | 2026-08-21 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 8 | ⭐ 142,873 | 2026-08-07 | 2026-08-24 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 7 | ⭐ 75,597 | 2026-08-01 | 2026-08-26 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 7 | ⭐ 50,309 | 2026-08-03 | 2026-08-26 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 7 | ⭐ 38,949 | 2026-08-03 | 2026-08-24 |
 | [cactus-compute/needle](../repos/cactus-compute/needle.md) | 7 | ⭐ 7,498 | 2026-08-11 | 2026-08-19 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 6 | ⭐ 74,794 | 2026-08-01 | 2026-08-24 |
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 6 | ⭐ 49,697 | 2026-08-03 | 2026-08-25 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 6 | ⭐ 129,762 | 2026-08-05 | 2026-08-24 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 6 | ⭐ 34,678 | 2026-08-03 | 2026-08-26 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:44.337Z*
+*Last updated: 2026-08-26T21:01:53.655Z*

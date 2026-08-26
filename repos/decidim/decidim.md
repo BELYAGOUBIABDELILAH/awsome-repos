@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Ruby |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 1,805 |
-| **Forks** | 🍴 475 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 1,808 |
+| **Forks** | 🍴 476 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 14, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 3 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 95&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-25T21:01:46.013Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-08-26T21:01:54.959Z*  
+*Data from 7 trending reports*

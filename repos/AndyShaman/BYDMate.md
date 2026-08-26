@@ -1,6 +1,6 @@
 # AndyShaman&#x2F;BYDMate
 
-> Android app for BYD DiLink 5.0: real consumption from BMS, GPS trips, charges journal, automation rules, floating widget, AI insights. Bilingual RU&#x2F;EN. Tested on Leopard 3 &#x2F; Fangchengbao Bao 3.
+> BYD DiLink app (3.0&#x2F;5.0&#x2F;5.1, UI7): split screen 1&#x2F;3+2&#x2F;3, navigation on instrument cluster, Yandex Navigator on HUD, blind-spot cameras on turn signal, Russian voice AI agent, real BMS consumption, trips&#x2F;charges journal, automation, ABRP + webhook telemetry. Leopard 3 &#x2F; Bao 3, Sea Lion 07, Song, Atto 3.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;AndyShaman&#x2F;BYDMate) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | Other |
-| **Stars** | ⭐ 181 |
-| **Forks** | 🍴 34 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 212 |
+| **Forks** | 🍴 40 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 21, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Kotlin or ai*
+*Similar: Check repositories in Kotlin or abrp*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`ai`](../../topics/ai.md) [`android`](../../topics/android.md) [`automation`](../../topics/automation.md) [`bilingual`](../../topics/bilingual.md) [`byd`](../../topics/byd.md) [`dilink`](../../topics/dilink.md) [`electric-vehicle`](../../topics/electric-vehicle.md) [`ev`](../../topics/ev.md) [`fangchengbao`](../../topics/fangchengbao.md) [`floating-widget`](../../topics/floating-widget.md) [`hilt`](../../topics/hilt.md) [`jetpack-compose`](../../topics/jetpack-compose.md) [`kotlin`](../../topics/kotlin.md) [`leopard3`](../../topics/leopard3.md) [`obd-free`](../../topics/obd-free.md) [`room`](../../topics/room.md) [`trip-tracker`](../../topics/trip-tracker.md) 
+[`abrp`](../../topics/abrp.md) [`ai`](../../topics/ai.md) [`android`](../../topics/android.md) [`atto3`](../../topics/atto3.md) [`automation`](../../topics/automation.md) [`blind-spot-camera`](../../topics/blind-spot-camera.md) [`byd`](../../topics/byd.md) [`dilink`](../../topics/dilink.md) [`electric-vehicle`](../../topics/electric-vehicle.md) [`ev`](../../topics/ev.md) [`fangchengbao`](../../topics/fangchengbao.md) [`hud`](../../topics/hud.md) [`instrument-cluster`](../../topics/instrument-cluster.md) [`kotlin`](../../topics/kotlin.md) [`leopard3`](../../topics/leopard3.md) [`sea-lion`](../../topics/sea-lion.md) [`split-screen`](../../topics/split-screen.md) [`ui7`](../../topics/ui7.md) [`voice-assistant`](../../topics/voice-assistant.md) [`yandex-navigator`](../../topics/yandex-navigator.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Mobile Development` `DevOps &amp; CI&#x2F;CD` `Systems Programming` `Automation` 
+`Artificial Intelligence` `Frontend Development` `Mobile Development` `DevOps &amp; CI&#x2F;CD` `Systems Programming` `Automation` 
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 55&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-25T21:01:46.043Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-26T21:01:54.976Z*  
+*Data from 4 trending reports*

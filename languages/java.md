@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 154
+- **Total Repositories**: 155
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,685 | 2026-08-01 | 5 |
+| [OpenLineage/OpenLineage](../repos/OpenLineage/OpenLineage.md) | ⭐ 2,626 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bazelbuild/bazel](../repos/bazelbuild/bazel.md) | ⭐ 25,763 | 2026-08-02 | 3 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 26,401 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,788 | 2026-08-03 | 4 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,862 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,791 | 2026-08-03 | 7 |
+| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,814 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,919 | 2026-08-04 | 5 |
+| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 4,890 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/camel](../repos/apache/camel.md) | ⭐ 6,298 | 2026-08-05 | 2 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,931 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quarkusio/quarkus](../repos/quarkusio/quarkus.md) | ⭐ 15,846 | 2026-08-07 | 5 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,367 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mininglamp-OSS/octo-android](../repos/Mininglamp-OSS/octo-android.md) | ⭐ 613 | 2026-08-07 | 6 |
+| [apache/flink](../repos/apache/flink.md) | ⭐ 26,294 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,212 | 2026-08-08 | 4 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,290 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [booklore-app/booklore](../repos/booklore-app/booklore.md) | ⭐ 971 | 2026-08-08 | 4 |
+| [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) | ⭐ 12,959 | 2026-08-05 | 5 |
 
 
 ---
@@ -89,8 +89,8 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 129,236 | 2026-08-04 | 2 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,340 | 2026-08-04 | 7 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,828 | 2026-08-02 | 6 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,367 | 2026-08-04 | 8 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,862 | 2026-08-02 | 7 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,791 | 2026-08-03 | 7 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,155 | 2026-08-04 | 4 |
@@ -104,10 +104,10 @@
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,463 | 2026-08-02 | 4 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,898 | 2026-08-06 | 4 |
-| [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,499 | 2026-08-08 | 4 |
+| [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,511 | 2026-08-08 | 5 |
+| [airbnb/lottie-android](../repos/airbnb/lottie-android.md) | ⭐ 35,712 | 2026-08-26 | 1 |
 | [apache/kafka](../repos/apache/kafka.md) | ⭐ 33,600 | 2026-08-12 | 5 |
-| [alibaba/nacos](../repos/alibaba/nacos.md) | ⭐ 33,300 | 2026-08-15 | 2 |
-| [binarywang/WxJava](../repos/binarywang/WxJava.md) | ⭐ 33,017 | 2026-08-12 | 1 |
+| [alibaba/nacos](../repos/alibaba/nacos.md) | ⭐ 33,307 | 2026-08-15 | 3 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [google/guava](../repos/google/guava.md) | 9 | ⭐ 51,891 | 2026-08-02 | 2026-08-24 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 9 | ⭐ 5,290 | 2026-08-05 | 2026-08-26 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 8 | ⭐ 26,401 | 2026-08-02 | 2026-08-26 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 8 | ⭐ 51,496 | 2026-08-04 | 2026-08-21 |
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 8 | ⭐ 5,211 | 2026-08-05 | 2026-08-21 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 8 | ⭐ 81,367 | 2026-08-04 | 2026-08-26 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 7 | ⭐ 13,569 | 2026-08-01 | 2026-08-23 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 7 | ⭐ 26,345 | 2026-08-02 | 2026-08-24 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 7 | ⭐ 77,862 | 2026-08-02 | 2026-08-26 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 7 | ⭐ 72,791 | 2026-08-03 | 2026-08-25 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 7 | ⭐ 32,286 | 2026-08-04 | 2026-08-24 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 7 | ⭐ 81,340 | 2026-08-04 | 2026-08-22 |
 | [microg/GmsCore](../repos/microg/GmsCore.md) | 7 | ⭐ 14,336 | 2026-08-06 | 2026-08-24 |
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | 6 | ⭐ 10,428 | 2026-08-01 | 2026-08-21 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:44.313Z*
+*Last updated: 2026-08-26T21:01:53.638Z*

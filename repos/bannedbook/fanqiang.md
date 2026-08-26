@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | Not specified |
-| **Stars** | ⭐ 50,395 |
-| **Forks** | 🍴 8,296 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 50,898 |
+| **Forks** | 🍴 8,338 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #12 |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #12
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 5 days
 
 ---
@@ -73,7 +73,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -86,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 95&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: Peak: #12
 
 
 ---
 
-*Last updated: 2026-08-25T21:01:47.305Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-08-26T21:01:55.978Z*  
+*Data from 7 trending reports*

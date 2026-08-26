@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 56
+- **Total Repositories**: 57
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-23
 
@@ -16,22 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,014 | 2026-08-01 | 8 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,186 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vava-nessa/free-coding-models](../repos/vava-nessa/free-coding-models.md) | ⭐ 2,331 | 2026-08-02 | 2 |
+| [vava-nessa/free-coding-models](../repos/vava-nessa/free-coding-models.md) | ⭐ 2,345 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | ⭐ 8,788 | 2026-08-03 | 5 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 17,640 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 135,251 | 2026-08-08 | 11 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 3,247 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,171 | 2026-08-09 | 7 |
+| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 5,468 | 2026-08-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 5,393 | 2026-08-19 | 2 |
+| [davidarroyo1234/InstagramUnfollowers](../repos/davidarroyo1234/InstagramUnfollowers.md) | ⭐ 4,781 | 2026-08-26 | 1 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [GoogleCloudPlatform/knowledge-catalog](../repos/GoogleCloudPlatform/knowledge-catalog.md) | ⭐ 8,131 | 2026-08-01 | Google Cloud Knowledge Catalog Tools and Samples |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,014 | 2026-08-01 | from vibe coding to agentic engineering - practice makes claude perfect |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,186 | 2026-08-01 | from vibe coding to agentic engineering - practice makes claude perfect |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,774 | 2026-08-01 | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
@@ -79,7 +79,7 @@
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,365 | 2026-08-03 | 6 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 135,251 | 2026-08-08 | 11 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,025 | 2026-08-19 | 1 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,014 | 2026-08-01 | 8 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,186 | 2026-08-01 | 9 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,095 | 2026-08-01 | 4 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,523 | 2026-08-07 | 2 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
@@ -91,10 +91,10 @@
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 20,546 | 2026-08-01 | 4 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,401 | 2026-08-03 | 2 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 18,499 | 2026-08-12 | 3 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 17,640 | 2026-08-04 | 11 |
 | [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,684 | 2026-08-02 | 3 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,471 | 2026-08-04 | 5 |
 | [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,264 | 2026-08-05 | 1 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 14,211 | 2026-08-04 | 10 |
 | [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,067 | 2026-08-07 | 1 |
 
 ---
@@ -103,9 +103,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 11 | ⭐ 17,640 | 2026-08-04 | 2026-08-26 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 11 | ⭐ 135,251 | 2026-08-08 | 2026-08-25 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 10 | ⭐ 14,211 | 2026-08-04 | 2026-08-19 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 8 | ⭐ 65,014 | 2026-08-01 | 2026-08-25 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 9 | ⭐ 65,186 | 2026-08-01 | 2026-08-26 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 7 | ⭐ 29,171 | 2026-08-09 | 2026-08-25 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 6 | ⭐ 9,705 | 2026-08-01 | 2026-08-19 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 6 | ⭐ 7,267 | 2026-08-03 | 2026-08-24 |
@@ -174,7 +174,8 @@
 - [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) - A one stop repository for generative AI research updates, interview resources, notebooks and much...
 - [webmin/webmin](../repos/webmin/webmin.md) - Powerful and flexible web-based server management control panel
 - [w3c/wcag](../repos/w3c/wcag.md) - Web Content Accessibility Guidelines
+- [davidarroyo1234/InstagramUnfollowers](../repos/davidarroyo1234/InstagramUnfollowers.md) - Check if people follows you back on Instagram.
 
 ---
 
-*Last updated: 2026-08-25T21:01:44.309Z*
+*Last updated: 2026-08-26T21:01:53.636Z*

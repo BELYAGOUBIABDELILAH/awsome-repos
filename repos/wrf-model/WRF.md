@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Fortran |
 | **License** | Other |
-| **Stars** | ⭐ 1,739 |
-| **Forks** | 🍴 874 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 1,743 |
+| **Forks** | 🍴 875 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 25, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 5 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 1,739+ stars, strong contributor base |
+| **Community** | Very Active | 1,743+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:47.054Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-08-26T21:01:55.785Z*  
+*Data from 13 trending reports*

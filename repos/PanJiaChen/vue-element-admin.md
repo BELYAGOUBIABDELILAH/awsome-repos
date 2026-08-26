@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vue |
 | **License** | MIT |
-| **Stars** | ⭐ 90,207 |
-| **Forks** | 🍴 30,347 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 90,208 |
+| **Forks** | 🍴 30,344 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 24, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 2 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Good | Well-maintained documentation |
-| **Community** | Very Active | 90,207+ stars, strong contributor base |
+| **Community** | Very Active | 90,208+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Inactive | No recent updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 95&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-25T21:01:46.194Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-08-26T21:01:55.090Z*  
+*Data from 7 trending reports*

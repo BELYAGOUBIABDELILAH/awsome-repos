@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 150
+- **Total Repositories**: 156
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 48,413 | 2026-08-01 | 3 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 27,673 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 27,421 | 2026-08-02 | 9 |
+| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EveryInc/compound-engineering-plugin](../repos/EveryInc/compound-engineering-plugin.md) | ⭐ 24,536 | 2026-08-04 | 2 |
+| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,436 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 58,248 | 2026-08-06 | 8 |
+| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 58,350 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 20,213 | 2026-08-07 | 7 |
+| [frappe/lms](../repos/frappe/lms.md) | ⭐ 3,166 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 53,560 | 2026-08-11 | 5 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 20,652 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/maka](../repos/apache/maka.md) | ⭐ 3,279 | 2026-08-20 | 6 |
+| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 13,588 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DefinitelyTyped/DefinitelyTyped](../repos/DefinitelyTyped/DefinitelyTyped.md) | ⭐ 51,398 | 2026-08-23 | 2 |
+| [apache/maka](../repos/apache/maka.md) | ⭐ 3,585 | 2026-08-20 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [traycerai/traycer](../repos/traycerai/traycer.md) | ⭐ 1,325 | 2026-08-24 | 2 |
+| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 8,056 | 2026-08-26 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/cloudflare-os](../repos/cloudflare/cloudflare-os.md) | ⭐ 9,189 | 2026-08-25 | 1 |
+| [janhq/jan](../repos/janhq/jan.md) | ⭐ 44,197 | 2026-08-26 | 1 |
 
 
 ---
@@ -97,7 +97,7 @@
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | 2026-08-17 | 2 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | 3 |
-| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 96,831 | 2026-08-04 | 2 |
+| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 90,880 | 2026-08-07 | 5 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
@@ -105,7 +105,7 @@
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 84,049 | 2026-08-14 | 1 |
 | [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | 2026-08-12 | 1 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 77,659 | 2026-08-02 | 4 |
-| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,312 | 2026-08-04 | 3 |
+| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,436 | 2026-08-04 | 4 |
 | [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | ⭐ 75,400 | 2026-07-31 | 1 |
 | [strapi/strapi](../repos/strapi/strapi.md) | ⭐ 72,929 | 2026-08-15 | 1 |
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 9 | ⭐ 27,421 | 2026-08-02 | 2026-08-25 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 10 | ⭐ 27,673 | 2026-08-02 | 2026-08-26 |
+| [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
+| [frappe/lms](../repos/frappe/lms.md) | 9 | ⭐ 3,166 | 2026-08-06 | 2026-08-26 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 8 | ⭐ 4,631 | 2026-08-01 | 2026-08-22 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
-| [makeplane/plane](../repos/makeplane/plane.md) | 8 | ⭐ 58,248 | 2026-08-06 | 2026-08-25 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 8 | ⭐ 20,652 | 2026-08-07 | 2026-08-26 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 7 | ⭐ 20,213 | 2026-08-07 | 2026-08-25 |
+| [apache/maka](../repos/apache/maka.md) | 7 | ⭐ 3,585 | 2026-08-20 | 2026-08-26 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 6 | ⭐ 129,470 | 2026-08-02 | 2026-08-24 |
-| [apache/maka](../repos/apache/maka.md) | 6 | ⭐ 3,279 | 2026-08-20 | 2026-08-25 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
-| [cloudflare/computer](../repos/cloudflare/computer.md) | 5 | ⭐ 6,976 | 2026-08-05 | 2026-08-09 |
 
 ---
 
@@ -187,6 +187,7 @@
 - [playcanvas/supersplat](../repos/playcanvas/supersplat.md) - 3D Gaussian Splat Editor
 - [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) - The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No...
 - [promptfoo/promptfoo](../repos/promptfoo/promptfoo.md) - Test your prompts, agents, and RAGs. Red teaming&#x2F;pentesting&#x2F;vulnerability scanning for AI. Compar...
+- [frappe/lms](../repos/frappe/lms.md) - Easy to Use, 100% Open Source Learning Management System
 - [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one &#x2F;v1...
 - [open-mercato/open-mercato](../repos/open-mercato/open-mercato.md) - AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural ...
@@ -229,8 +230,7 @@
 - [Jakubantalik/Libraries](../repos/Jakubantalik/Libraries.md) - Collection of effects for React: Border beam, Liquid Gooey
 - [every-app/open-seo](../repos/every-app/open-seo.md) - Open source alternative to Semrush and Ahrefs
 - [documenso/documenso](../repos/documenso/documenso.md) - The Open Source DocuSign Alternative.
-- [vercel-labs/deepsec](../repos/vercel-labs/deepsec.md) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 
 ---
 
-*Last updated: 2026-08-25T21:01:44.352Z*
+*Last updated: 2026-08-26T21:01:53.667Z*

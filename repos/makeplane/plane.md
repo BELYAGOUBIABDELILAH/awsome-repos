@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 58,248 |
-| **Forks** | 🍴 5,515 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 58,350 |
+| **Forks** | 🍴 5,529 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #5 |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Aug 25, 2026 |
+| **Last Seen** | Aug 26, 2026 |
 
 
 ---
@@ -51,8 +51,8 @@
 ### Highlights
 
 - **Peak Rank**: #5
-- **Trending Days**: 8
-- **Longest Streak**: 6 days
+- **Trending Days**: 9
+- **Longest Streak**: 7 days
 
 ---
 
@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-08-25T21:01:47.239Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-08-26T21:01:55.922Z*  
+*Data from 9 trending reports*
