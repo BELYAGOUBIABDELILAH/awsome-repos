@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 331
+- **Total Repositories**: 339
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-25
-- **Average Stars**: 23209
+- **Average Stars**: 22801
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 75,597 | Python |  |
+| [langchain-ai/deepagents](../repos/langchain-ai/deepagents.md) | ⭐ 28,601 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 21,180 | JavaScript |  |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 22,922 | JavaScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 4,560 | Rust |  |
+| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 4,592 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,062 | C |  |
+| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,291 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,328 | C# |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 212 | Kotlin |  |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,386 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,453 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,882 | Scala |  |
+| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,241 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,045 | Lua |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,893 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,408 | OCaml |  |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,049 | Lua |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,419 | OCaml |  |
 
 
 ---
@@ -85,13 +85,13 @@
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 75,597 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [langchain-ai/deepagents](../repos/langchain-ai/deepagents.md) | ⭐ 28,458 | Python | 2 |
+| [langchain-ai/deepagents](../repos/langchain-ai/deepagents.md) | ⭐ 28,601 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 21,180 | JavaScript | 5 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 22,922 | JavaScript | 6 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 4,560 | Rust | 1 |
+| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 4,592 | Rust | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,608 | Go | 2 |
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-27](../archive/2026/08/2026-08-27.md)
+- 48 repositories trending
+- Top: TauricResearch&#x2F;TradingAgents
+
 ### [2026-08-26](../archive/2026/08/2026-08-26.md)
 - 55 repositories trending
 - Top: github&#x2F;spec-kit
@@ -162,10 +166,6 @@
 - 46 repositories trending
 - Top: Genymobile&#x2F;scrcpy
 
-### [2026-08-20](../archive/2026/08/2026-08-20.md)
-- 45 repositories trending
-- Top: Genymobile&#x2F;scrcpy
-
 
 ---
 
@@ -175,30 +175,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 24 days | 2026-08-01 | 2026-08-26 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 22 days | 2026-08-01 | 2026-08-26 |
-| [vlang/v](../repos/vlang/v.md) | 21 days | 2026-08-01 | 2026-08-25 |
-| [joernio/joern](../repos/joernio/joern.md) | 20 days | 2026-08-01 | 2026-08-26 |
-| [vim/vim](../repos/vim/vim.md) | 20 days | 2026-08-01 | 2026-08-26 |
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 19 days | 2026-08-01 | 2026-08-26 |
+| [apache/spark](../repos/apache/spark.md) | 25 days | 2026-08-01 | 2026-08-27 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 23 days | 2026-08-01 | 2026-08-27 |
+| [vlang/v](../repos/vlang/v.md) | 22 days | 2026-08-01 | 2026-08-27 |
+| [joernio/joern](../repos/joernio/joern.md) | 21 days | 2026-08-01 | 2026-08-27 |
+| [vim/vim](../repos/vim/vim.md) | 21 days | 2026-08-01 | 2026-08-27 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 20 days | 2026-08-01 | 2026-08-27 |
 | [facebook/infer](../repos/facebook/infer.md) | 17 days | 2026-08-02 | 2026-08-26 |
 | [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 17 days | 2026-08-04 | 2026-08-26 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 14 days | 2026-08-01 | 2026-08-26 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 14 days | 2026-08-02 | 2026-08-26 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 15 days | 2026-08-01 | 2026-08-27 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 15 days | 2026-08-02 | 2026-08-27 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 62 repositories (19%)
-- **TypeScript**: 39 repositories (12%)
-- **Go**: 31 repositories (9%)
+- **Python**: 62 repositories (18%)
+- **TypeScript**: 40 repositories (12%)
+- **Go**: 33 repositories (10%)
 - **C**: 30 repositories (9%)
-- **Rust**: 24 repositories (7%)
+- **Rust**: 25 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 43.4 repositories
+- **Daily Average**: 43.6 repositories
 - **Peak Day**: 2026-08-19 (64 repositories)
 - **Growth Rate**: 100% this month
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.467Z*
+*Last updated: 2026-08-27T21:01:55.127Z*

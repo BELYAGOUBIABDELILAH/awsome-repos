@@ -11,14 +11,14 @@
 | | |
 |---|---|
 | **Language** | Python |
-| **License** | BSD-3-Clause |
-| **Stars** | ⭐ 75,000 |
-| **Forks** | 🍴 21,000 |
-| **Trending Days** | 1 |
+| **License** | Other |
+| **Stars** | ⭐ 102,626 |
+| **Forks** | 🍴 29,015 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Jul 30, 2026 |
-| **Last Seen** | Jul 30, 2026 |
+| **Last Seen** | Aug 27, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -57,10 +57,10 @@
 ## Categories
 
 ### Topics
-[`pytorch`](../../topics/pytorch.md) [`deep-learning`](../../topics/deep-learning.md) [`machine-learning`](../../topics/machine-learning.md) [`neural-networks`](../../topics/neural-networks.md) [`gpu`](../../topics/gpu.md) 
+[`autograd`](../../topics/autograd.md) [`deep-learning`](../../topics/deep-learning.md) [`gpu`](../../topics/gpu.md) [`machine-learning`](../../topics/machine-learning.md) [`neural-network`](../../topics/neural-network.md) [`numpy`](../../topics/numpy.md) [`python`](../../topics/python.md) [`tensor`](../../topics/tensor.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Systems Programming` `Education &amp; Learning` 
+`Artificial Intelligence` `Data Science` `Systems Programming` `Education &amp; Learning` 
 
 ---
 
@@ -71,10 +71,10 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
-| **Documentation** | Good | Well-maintained documentation |
-| **Community** | Active | Regular contributions and discussions |
+| **Documentation** | Excellent | Comprehensive guides and examples |
+| **Community** | Very Active | 102,626+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -93,11 +93,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #2)
 
 
 ---
 
-*Last updated: 2026-08-26T21:01:54.777Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-27T21:01:56.948Z*  
+*Data from 2 trending reports*

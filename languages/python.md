@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 159
+- **Total Repositories**: 164
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-19
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 75,597 | 2026-08-01 | 7 |
+| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 102,626 | 2026-07-30 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 50,309 | 2026-08-03 | 7 |
+| [langchain-ai/deepagents](../repos/langchain-ai/deepagents.md) | ⭐ 28,601 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 34,678 | 2026-08-03 | 6 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 35,245 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 34,327 | 2026-08-07 | 4 |
+| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 73,570 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 100,722 | 2026-08-08 | 5 |
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 34,641 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AgriciDaniel/claude-obsidian](../repos/AgriciDaniel/claude-obsidian.md) | ⭐ 13,339 | 2026-08-11 | 4 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 101,130 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 131,675 | 2026-08-14 | 3 |
+| [AgriciDaniel/claude-seo](../repos/AgriciDaniel/claude-seo.md) | ⭐ 15,549 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 48,297 | 2026-08-15 | 4 |
+| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 64,125 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 110,881 | 2026-08-20 | 3 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 172,058 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-community](../repos/anthropics/claude-plugins-community.md) | ⭐ 2,146 | 2026-08-22 | 5 |
+| [AgriciDaniel/claude-obsidian](../repos/AgriciDaniel/claude-obsidian.md) | ⭐ 13,929 | 2026-08-11 | 5 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 75,000 | 2026-07-30 | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
+| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 102,626 | 2026-07-30 | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | Robust Speech Recognition via Large-Scale Weak Supervision |
@@ -94,7 +94,7 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 236,363 | 2026-08-01 | 11 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,850 | 2026-08-06 | 6 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 186,102 | 2026-08-02 | 5 |
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 168,510 | 2026-08-11 | 2 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 172,058 | 2026-08-11 | 3 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,012 | 2026-07-31 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 142,873 | 2026-08-07 | 8 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 134,172 | 2026-08-04 | 2 |
@@ -104,10 +104,10 @@
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 110,881 | 2026-08-20 | 3 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 109,532 | 2026-08-03 | 3 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 100,722 | 2026-08-08 | 5 |
+| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 102,626 | 2026-07-30 | 2 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 101,130 | 2026-08-08 | 6 |
 | [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 90,555 | 2026-08-10 | 3 |
-| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 89,336 | 2026-08-02 | 3 |
-| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 80,799 | 2026-08-02 | 4 |
+| [home-assistant/core](../repos/home-assistant/core.md) | ⭐ 90,140 | 2026-08-27 | 1 |
 
 ---
 
@@ -122,9 +122,9 @@
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 8 | ⭐ 142,873 | 2026-08-07 | 2026-08-24 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 7 | ⭐ 75,597 | 2026-08-01 | 2026-08-26 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 7 | ⭐ 50,309 | 2026-08-03 | 2026-08-26 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 7 | ⭐ 35,245 | 2026-08-03 | 2026-08-27 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 7 | ⭐ 38,949 | 2026-08-03 | 2026-08-24 |
 | [cactus-compute/needle](../repos/cactus-compute/needle.md) | 7 | ⭐ 7,498 | 2026-08-11 | 2026-08-19 |
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 6 | ⭐ 34,678 | 2026-08-03 | 2026-08-26 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.655Z*
+*Last updated: 2026-08-27T21:01:55.421Z*

@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,601 | 2026-08-01 | 7 |
 
+*No CoffeeScript repositories trending today*
 
 ---
 
@@ -76,4 +74,4 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.623Z*
+*Last updated: 2026-08-27T21:01:55.376Z*

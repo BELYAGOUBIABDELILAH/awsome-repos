@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Not specified |
-| **Stars** | ⭐ 168,510 |
-| **Forks** | 🍴 20,073 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 172,058 |
+| **Forks** | 🍴 20,448 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #7 |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Aug 12, 2026 |
+| **Last Seen** | Aug 27, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #7
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 168,510+ stars, strong contributor base |
+| **Community** | Very Active | 172,058+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: Top 10 (Peak: #7)
 
 
 ---
 
-*Last updated: 2026-08-26T21:01:56.413Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-27T21:01:58.953Z*  
+*Data from 3 trending reports*

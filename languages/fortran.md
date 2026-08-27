@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 24
+- **Total Repositories**: 25
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-05
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 438 | 2026-08-01 | 23 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 438 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | ⭐ 31 | 2026-08-01 | 14 |
+| [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | ⭐ 31 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | ⭐ 26 | 2026-08-01 | 16 |
+| [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | ⭐ 26 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 865 | 2026-08-01 | 11 |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,194 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,195 | 2026-08-01 | 16 |
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 957 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 956 | 2026-08-01 | 12 |
+| [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 20 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 22 |
+| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ecmwf/fckit](../repos/ecmwf/fckit.md) | ⭐ 48 | 2026-08-02 | 10 |
+| [ecmwf/fckit](../repos/ecmwf/fckit.md) | ⭐ 48 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,743 | 2026-08-04 | 13 |
+| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 405 | 2026-08-03 | 4 |
 
 
 ---
@@ -64,10 +64,10 @@
 | [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 865 | 2026-08-01 | Fire Dynamics Simulator |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,195 | 2026-08-01 | Quantum chemistry and solid state physics software package |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,194 | 2026-08-01 | Quantum chemistry and solid state physics software package |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 956 | 2026-08-01 | Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation c... |
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 957 | 2026-08-01 | Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation c... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the ... |
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,883 | 2026-08-02 | 3 |
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,743 | 2026-08-04 | 13 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,744 | 2026-08-04 | 14 |
 | [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,672 | 2026-08-04 | 9 |
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,195 | 2026-08-01 | 16 |
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 956 | 2026-08-01 | 12 |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,194 | 2026-08-01 | 17 |
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 957 | 2026-08-01 | 13 |
 | [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 865 | 2026-08-01 | 11 |
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 438 | 2026-08-01 | 23 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 438 | 2026-08-01 | 24 |
 | [MFlowCode/MFC](../repos/MFlowCode/MFC.md) | ⭐ 411 | 2026-08-19 | 2 |
-| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 404 | 2026-08-03 | 3 |
+| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 405 | 2026-08-03 | 4 |
 | [MODFLOW-ORG/modflow6](../repos/MODFLOW-ORG/modflow6.md) | ⭐ 366 | 2026-08-20 | 3 |
 | [ESCOMP/CTSM](../repos/ESCOMP/CTSM.md) | ⭐ 352 | 2026-08-09 | 2 |
 | [MPAS-Dev/MPAS-Model](../repos/MPAS-Dev/MPAS-Model.md) | ⭐ 311 | 2026-08-07 | 1 |
 | [DSSAT/dssat-csm-os](../repos/DSSAT/dssat-csm-os.md) | ⭐ 228 | 2026-08-08 | 2 |
 | [esmf-org/esmf](../repos/esmf-org/esmf.md) | ⭐ 211 | 2026-08-17 | 3 |
-| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 22 |
-| [fabm-model/fabm](../repos/fabm-model/fabm.md) | ⭐ 94 | 2026-08-26 | 1 |
-| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 20 |
-| [ecmwf/fckit](../repos/ecmwf/fckit.md) | ⭐ 48 | 2026-08-02 | 10 |
-| [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | 14 |
-| [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | ⭐ 31 | 2026-08-01 | 14 |
+| [nasa/cea](../repos/nasa/cea.md) | ⭐ 178 | 2026-08-27 | 1 |
+| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 23 |
+| [fabm-model/fabm](../repos/fabm-model/fabm.md) | ⭐ 94 | 2026-08-26 | 2 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 21 |
+| [ecmwf/fckit](../repos/ecmwf/fckit.md) | ⭐ 48 | 2026-08-02 | 11 |
+| [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | ⭐ 43 | 2026-08-01 | 15 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 23 | ⭐ 438 | 2026-08-01 | 2026-08-26 |
-| [NGEET/fates](../repos/NGEET/fates.md) | 22 | ⭐ 130 | 2026-08-02 | 2026-08-26 |
-| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | 20 | ⭐ 54 | 2026-08-02 | 2026-08-26 |
-| [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | 16 | ⭐ 26 | 2026-08-01 | 2026-08-26 |
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | 16 | ⭐ 1,195 | 2026-08-01 | 2026-08-26 |
-| [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | 14 | ⭐ 31 | 2026-08-01 | 2026-08-26 |
-| [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | 14 | ⭐ 43 | 2026-08-01 | 2026-08-25 |
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 13 | ⭐ 1,743 | 2026-08-04 | 2026-08-26 |
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | 12 | ⭐ 956 | 2026-08-01 | 2026-08-26 |
-| [firemodels/fds](../repos/firemodels/fds.md) | 11 | ⭐ 865 | 2026-08-01 | 2026-08-26 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 24 | ⭐ 438 | 2026-08-01 | 2026-08-27 |
+| [NGEET/fates](../repos/NGEET/fates.md) | 23 | ⭐ 130 | 2026-08-02 | 2026-08-27 |
+| [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | 21 | ⭐ 54 | 2026-08-02 | 2026-08-27 |
+| [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | 17 | ⭐ 26 | 2026-08-01 | 2026-08-27 |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | 17 | ⭐ 1,194 | 2026-08-01 | 2026-08-27 |
+| [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | 15 | ⭐ 31 | 2026-08-01 | 2026-08-27 |
+| [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | 15 | ⭐ 43 | 2026-08-01 | 2026-08-27 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 14 | ⭐ 1,744 | 2026-08-04 | 2026-08-27 |
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | 13 | ⭐ 957 | 2026-08-01 | 2026-08-27 |
+| [MetOffice/jules](../repos/MetOffice/jules.md) | 12 | ⭐ 21 | 2026-08-11 | 2026-08-27 |
 
 ---
 
@@ -154,7 +154,8 @@
 - [iterorganization/JOREK](../repos/iterorganization/JOREK.md) - Non-linear extended fluid and hybrid fluid-kinetic code for simulations of transient events in ma...
 - [MODFLOW-ORG/modflow6](../repos/MODFLOW-ORG/modflow6.md) - USGS Modular Hydrologic Model
 - [fabm-model/fabm](../repos/fabm-model/fabm.md) - The Framework for Aquatic Biogeochemical Models (FABM): a Fortran 2003 programming framework for ...
+- [nasa/cea](../repos/nasa/cea.md) - CEA computes the equilibrium composition of mixtures via free-energy minimization, and uses the r...
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.632Z*
+*Last updated: 2026-08-27T21:01:55.387Z*

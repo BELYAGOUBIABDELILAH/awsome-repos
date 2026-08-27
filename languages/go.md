@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 185
+- **Total Repositories**: 192
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-08-24
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,628 | 2026-08-01 | 9 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,658 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moby/moby](../repos/moby/moby.md) | ⭐ 72,001 | 2026-08-04 | 3 |
+| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,012 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) | ⭐ 30,850 | 2026-08-04 | 5 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 26,649 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) | ⭐ 3,640 | 2026-08-05 | 4 |
+| [github/github-mcp-server](../repos/github/github-mcp-server.md) | ⭐ 32,563 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 7,146 | 2026-08-06 | 3 |
+| [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) | ⭐ 3,659 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 16,774 | 2026-08-06 | 2 |
+| [wailsapp/wails](../repos/wailsapp/wails.md) | ⭐ 36,017 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [containerd/containerd](../repos/containerd/containerd.md) | ⭐ 21,186 | 2026-08-08 | 3 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 89,402 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 20,600 | 2026-08-11 | 3 |
+| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 16,802 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,306 | 2026-08-12 | 5 |
+| [higress-group/higress](../repos/higress-group/higress.md) | ⭐ 9,218 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ongridio/ongrid](../repos/ongridio/ongrid.md) | ⭐ 890 | 2026-08-19 | 2 |
+| [containerd/containerd](../repos/containerd/containerd.md) | ⭐ 21,204 | 2026-08-08 | 4 |
 
 
 ---
@@ -73,7 +73,7 @@
 | [heroiclabs/nakama](../repos/heroiclabs/nakama.md) | ⭐ 13,066 | 2026-08-01 | Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and socia... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,628 | 2026-08-01 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori... |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,658 | 2026-08-01 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,608 | 2026-08-01 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason... |
@@ -93,8 +93,8 @@
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,500 | 2026-08-04 | 2 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,657 | 2026-08-15 | 4 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 89,402 | 2026-08-06 | 6 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 88,549 | 2026-08-06 | 5 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,306 | 2026-08-12 | 5 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | 2026-08-03 | 3 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 72,001 | 2026-08-04 | 3 |
@@ -102,7 +102,7 @@
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 65,743 | 2026-08-11 | 3 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,391 | 2026-08-12 | 1 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,796 | 2026-08-24 | 1 |
-| [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,155 | 2026-08-22 | 1 |
+| [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,190 | 2026-08-22 | 2 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,527 | 2026-08-06 | 6 |
@@ -115,8 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 10 | ⭐ 37,658 | 2026-08-01 | 2026-08-27 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 10 | ⭐ 179,343 | 2026-08-01 | 2026-08-24 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 9 | ⭐ 37,628 | 2026-08-01 | 2026-08-26 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 8 | ⭐ 46,253 | 2026-08-01 | 2026-08-25 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 8 | ⭐ 46,694 | 2026-08-01 | 2026-08-19 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 8 | ⭐ 20,608 | 2026-08-01 | 2026-08-25 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.633Z*
+*Last updated: 2026-08-27T21:01:55.389Z*

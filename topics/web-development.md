@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 333
+- **Total Repositories**: 339
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-07
-- **Average Stars**: 24976
+- **Average Stars**: 24682
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,945 | JavaScript |  |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,962 | JavaScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 75,597 | Python |  |
+| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,291 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,062 | C |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,807 | PHP |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,856 | Ruby |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 5,869 | Ruby |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 15,943 | Ruby |  |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 15,957 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,453 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,882 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,893 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,755 | Shell |  |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,768 | Shell |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,676 | Dart |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,419 | OCaml |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,808 | Vue |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,341 | Vue |  |
 
 
 ---
@@ -58,10 +58,10 @@
 | [react/react](../repos/react/react.md) | ⭐ 247,637 | JavaScript | 2026-08-04 | 2 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | TypeScript | 2026-08-04 | 1 |
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,662 | Dart | 2026-08-01 | 16 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,676 | Dart | 2026-08-01 | 17 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | TypeScript | 2026-08-07 | 5 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,181 | C | 2026-08-07 | 9 |
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,945 | JavaScript | 2026-07-30 | 7 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,962 | JavaScript | 2026-07-30 | 8 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,334 | C++ | 2026-08-04 | 2 |
 
 ---
@@ -70,7 +70,7 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,945 | JavaScript | 1 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,962 | JavaScript | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 75,597 | Python | 1 |
@@ -85,7 +85,7 @@
 | [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,062 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,278 | C | 1 |
+| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,291 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,807 | PHP | 1 |
@@ -108,7 +108,7 @@
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,945 | JavaScript | 2026-07-30 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,962 | JavaScript | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | Rust | 2026-07-30 |
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-08-27](../archive/2026/08/2026-08-27.md)
+- 54 repositories trending
+- Top: flutter&#x2F;flutter
+
 ### [2026-08-26](../archive/2026/08/2026-08-26.md)
 - 47 repositories trending
 - Top: flutter&#x2F;flutter
@@ -162,10 +166,6 @@
 - 54 repositories trending
 - Top: flutter&#x2F;flutter
 
-### [2026-08-20](../archive/2026/08/2026-08-20.md)
-- 55 repositories trending
-- Top: flutter&#x2F;flutter
-
 
 ---
 
@@ -175,30 +175,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 24 days | 2026-08-01 | 2026-08-26 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 22 days | 2026-08-01 | 2026-08-26 |
-| [vlang/v](../repos/vlang/v.md) | 21 days | 2026-08-01 | 2026-08-25 |
-| [joernio/joern](../repos/joernio/joern.md) | 20 days | 2026-08-01 | 2026-08-26 |
+| [apache/spark](../repos/apache/spark.md) | 25 days | 2026-08-01 | 2026-08-27 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 23 days | 2026-08-01 | 2026-08-27 |
+| [vlang/v](../repos/vlang/v.md) | 22 days | 2026-08-01 | 2026-08-27 |
+| [joernio/joern](../repos/joernio/joern.md) | 21 days | 2026-08-01 | 2026-08-27 |
+| [vim/vim](../repos/vim/vim.md) | 21 days | 2026-08-01 | 2026-08-27 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 20 days | 2026-08-01 | 2026-08-26 |
-| [vim/vim](../repos/vim/vim.md) | 20 days | 2026-08-01 | 2026-08-26 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 17 days | 2026-08-01 | 2026-08-26 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 18 days | 2026-08-01 | 2026-08-27 |
+| [flutter/flutter](../repos/flutter/flutter.md) | 17 days | 2026-08-01 | 2026-08-27 |
 | [facebook/infer](../repos/facebook/infer.md) | 17 days | 2026-08-02 | 2026-08-26 |
-| [flutter/flutter](../repos/flutter/flutter.md) | 16 days | 2026-08-01 | 2026-08-26 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 16 days | 2026-08-03 | 2026-08-26 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 17 days | 2026-08-03 | 2026-08-27 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **TypeScript**: 45 repositories (14%)
+- **TypeScript**: 46 repositories (14%)
 - **Vue**: 39 repositories (12%)
-- **JavaScript**: 30 repositories (9%)
+- **JavaScript**: 31 repositories (9%)
 - **C**: 28 repositories (8%)
-- **Go**: 22 repositories (7%)
+- **Go**: 22 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 46.5 repositories
+- **Daily Average**: 46.7 repositories
 - **Peak Day**: 2026-08-04 (66 repositories)
 - **Growth Rate**: 100% this month
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.493Z*
+*Last updated: 2026-08-27T21:01:55.166Z*

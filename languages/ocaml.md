@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 20
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-26
+- **Last Updated**: 2026-08-27
 
 ---
 
@@ -16,28 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,408 | 2026-08-01 | 22 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,419 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,995 | 2026-08-01 | 21 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,996 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,116 | 2026-08-01 | 13 |
+| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 59 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,911 | 2026-08-01 | 14 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 59 | 2026-08-01 | 21 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 925 | 2026-08-01 | 14 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,537 | 2026-08-01 | 17 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,689 | 2026-08-02 | 17 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,537 | 2026-08-01 | 18 |
 
 
 ---
@@ -46,10 +34,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,408 | 2026-08-01 | Lightweight static analysis for many languages. Find bug variants with patterns that look like so... |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,419 | 2026-08-01 | Lightweight static analysis for many languages. Find bug variants with patterns that look like so... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,995 | 2026-08-01 | 🔎 Static code analysis engine to find security issues in code. |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,996 | 2026-08-01 | 🔎 Static code analysis engine to find security issues in code. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,555 | 2026-08-01 | The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal langua... |
@@ -82,13 +70,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,408 | 2026-08-01 | 22 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,419 | 2026-08-01 | 23 |
 | [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,689 | 2026-08-02 | 17 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,537 | 2026-08-01 | 17 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,537 | 2026-08-01 | 18 |
 | [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,228 | 2026-08-05 | 4 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,555 | 2026-08-01 | 12 |
 | [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,454 | 2026-08-07 | 6 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,995 | 2026-08-01 | 21 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 2,996 | 2026-08-01 | 22 |
 | [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,353 | 2026-08-02 | 1 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,116 | 2026-08-01 | 13 |
 | [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,911 | 2026-08-01 | 14 |
@@ -101,7 +89,7 @@
 | [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 831 | 2026-08-03 | 3 |
 | [caffeinelabs/motoko](../repos/caffeinelabs/motoko.md) | ⭐ 588 | 2026-08-01 | 5 |
 | [cryspen/hax](../repos/cryspen/hax.md) | ⭐ 464 | 2026-08-03 | 3 |
-| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 59 | 2026-08-01 | 21 |
+| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 59 | 2026-08-01 | 22 |
 
 ---
 
@@ -109,10 +97,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 22 | ⭐ 16,408 | 2026-08-01 | 2026-08-26 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 21 | ⭐ 2,995 | 2026-08-01 | 2026-08-26 |
-| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | 21 | ⭐ 59 | 2026-08-01 | 2026-08-26 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 17 | ⭐ 6,537 | 2026-08-01 | 2026-08-26 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 23 | ⭐ 16,419 | 2026-08-01 | 2026-08-27 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 22 | ⭐ 2,996 | 2026-08-01 | 2026-08-27 |
+| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | 22 | ⭐ 59 | 2026-08-01 | 2026-08-27 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 18 | ⭐ 6,537 | 2026-08-01 | 2026-08-27 |
 | [facebook/infer](../repos/facebook/infer.md) | 17 | ⭐ 15,689 | 2026-08-02 | 2026-08-26 |
 | [ocaml/dune](../repos/ocaml/dune.md) | 14 | ⭐ 1,911 | 2026-08-01 | 2026-08-26 |
 | [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 14 | ⭐ 925 | 2026-08-01 | 2026-08-26 |
@@ -147,4 +135,4 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.649Z*
+*Last updated: 2026-08-27T21:01:55.411Z*

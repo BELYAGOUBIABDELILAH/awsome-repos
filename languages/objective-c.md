@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 76
+- **Total Repositories**: 77
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 9 |
+| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,705 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,829 | 2026-08-01 | 13 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,830 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 15 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 15 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 14 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,072 | 2026-08-01 | 12 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,632 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,634 | 2026-08-01 | 15 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,075 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,070 | 2026-08-02 | 10 |
+| [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,392 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 694 | 2026-08-02 | 9 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,007 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,612 | 2026-08-04 | 11 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 12 |
 
 
 ---
@@ -61,13 +61,13 @@
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | KeyCastr, an open-source keystroke visualizer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,704 | 2026-08-01 | AWS SDK for iOS. For more information, see our web site: |
+| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,705 | 2026-08-01 | AWS SDK for iOS. For more information, see our web site: |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | Branch iOS SDK Swift Package Manager distribution |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,829 | 2026-08-01 | Promises is a modern framework that provides a synchronization construct for Swift and Objective-C. |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,830 | 2026-08-01 | Promises is a modern framework that provides a synchronization construct for Swift and Objective-C. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 |  |
@@ -76,7 +76,7 @@
 | [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 |  Google Toolbox for Mac - Session Fetcher |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 |  Google Toolbox for Mac - Session Fetcher |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,072 | 2026-08-01 | Stub your network requests easily! Test your apps with fake network data and custom response time... |
@@ -89,15 +89,15 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
-| [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,395 | 2026-08-02 | 3 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,634 | 2026-08-01 | 15 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,070 | 2026-08-02 | 10 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,612 | 2026-08-04 | 11 |
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 15,989 | 2026-08-04 | 5 |
+| [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,392 | 2026-08-02 | 4 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,632 | 2026-08-01 | 16 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,075 | 2026-08-02 | 11 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,614 | 2026-08-04 | 12 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,007 | 2026-08-04 | 6 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,933 | 2026-08-04 | 8 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | 3 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,325 | 2026-08-04 | 7 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,325 | 2026-08-04 | 8 |
 | [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,103 | 2026-08-03 | 6 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,453 | 2026-08-06 | 1 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 15 | ⭐ 134 | 2026-08-01 | 2026-08-26 |
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 15 | ⭐ 59 | 2026-08-01 | 2026-08-26 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 15 | ⭐ 25,634 | 2026-08-01 | 2026-08-26 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 14 | ⭐ 291 | 2026-08-01 | 2026-08-26 |
-| [google/promises](../repos/google/promises.md) | 13 | ⭐ 3,829 | 2026-08-01 | 2026-08-26 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 16 | ⭐ 134 | 2026-08-01 | 2026-08-27 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 16 | ⭐ 59 | 2026-08-01 | 2026-08-27 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 16 | ⭐ 25,632 | 2026-08-01 | 2026-08-27 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 15 | ⭐ 292 | 2026-08-01 | 2026-08-27 |
+| [google/promises](../repos/google/promises.md) | 14 | ⭐ 3,830 | 2026-08-01 | 2026-08-27 |
 | [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 12 | ⭐ 5,072 | 2026-08-01 | 2026-08-26 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | 11 | ⭐ 16,612 | 2026-08-04 | 2026-08-26 |
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 11 | ⭐ 673 | 2026-08-04 | 2026-08-25 |
-| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 11 | ⭐ 4,487 | 2026-08-05 | 2026-08-26 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 10 | ⭐ 22,070 | 2026-08-02 | 2026-08-26 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | 12 | ⭐ 16,614 | 2026-08-04 | 2026-08-27 |
+| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 12 | ⭐ 673 | 2026-08-04 | 2026-08-27 |
+| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 12 | ⭐ 4,487 | 2026-08-05 | 2026-08-27 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 11 | ⭐ 22,075 | 2026-08-02 | 2026-08-27 |
 
 ---
 
@@ -206,7 +206,8 @@
 - [uber/ios-snapshot-test-case](../repos/uber/ios-snapshot-test-case.md) - Snapshot view unit tests for iOS
 - [tiktok/tiktok-business-ios-sdk](../repos/tiktok/tiktok-business-ios-sdk.md) - 
 - [microsoftconnect/ms-intune-app-sdk-ios](../repos/microsoftconnect/ms-intune-app-sdk-ios.md) - Intune App SDK for iOS enables data protection and mobile app management features in iOS mobile a...
+- [jverdi/JVFloatLabeledTextField](../repos/jverdi/JVFloatLabeledTextField.md) - UITextField subclass with floating labels - inspired by Matt D. Smith&#39;s design: http:&#x2F;&#x2F;dribbble.c...
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.650Z*
+*Last updated: 2026-08-27T21:01:55.413Z*

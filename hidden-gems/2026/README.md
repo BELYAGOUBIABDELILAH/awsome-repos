@@ -7,7 +7,7 @@
 ## 2026
 
 **Period**: 2026-01-01 to 2026-12-31  
-**Gems Found**: 734
+**Gems Found**: 754
 
 ---
 
@@ -59,7 +59,7 @@
 |---|---|
 | ⭐ **Stars** | 3,247 |
 | 💻 **Language** | HTML |
-| 🏆 **Gem Score** | 97/100 |
+| 🏆 **Gem Score** | 96/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
@@ -231,7 +231,27 @@
 
 ---
 
-### 12. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
+### 12. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+
+**Native GUI for Homebrew Casks**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 909 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+62 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
+
+---
+
+### 13. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
 
 **ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.**
 
@@ -251,7 +271,7 @@
 
 ---
 
-### 13. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
+### 14. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
 
 **14MB foundation model for tiny devices; phones, wearables, smart home, and robots.**
 
@@ -271,7 +291,7 @@
 
 ---
 
-### 14. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
+### 15. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
 
 **Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
 
@@ -291,7 +311,7 @@
 
 ---
 
-### 15. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
+### 16. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
 
 **Model export recipes, Python primitives, and Swift runtime utilities for on-device AI**
 
@@ -311,7 +331,27 @@
 
 ---
 
-### 16. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
+### 17. [Unity-Technologies&#x2F;skills](../../repos/Unity-Technologies/skills.md)
+
+**A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built for Unity workflows**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 603 |
+| 💻 **Language** | C# |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 14, 2026 |
+
+**Why it's a gem**: High growth velocity (+54 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Unity-Technologies/skills.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Unity-Technologies&#x2F;skills)
+
+---
+
+### 18. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
 
 **OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
 
@@ -331,7 +371,7 @@
 
 ---
 
-### 17. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
+### 19. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
 
 **Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de&#x2F;plugin-directory-submission.**
 
@@ -351,7 +391,7 @@
 
 ---
 
-### 18. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+### 20. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
 
 **GitHub Stacked PRs**
 
@@ -371,7 +411,7 @@
 
 ---
 
-### 19. [builtbybel&#x2F;FluentCleaner](../../repos/builtbybel/FluentCleaner.md)
+### 21. [builtbybel&#x2F;FluentCleaner](../../repos/builtbybel/FluentCleaner.md)
 
 **A real WinUI desktop cleaner with terminal control and multi-database support**
 
@@ -391,19 +431,19 @@
 
 ---
 
-### 20. [unclebob&#x2F;swarm-forge](../../repos/unclebob/swarm-forge.md)
+### 22. [unclebob&#x2F;swarm-forge](../../repos/unclebob/swarm-forge.md)
 
 **A simple tool for coordinating several AI agents.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,886 |
+| ⭐ **Stars** | 2,919 |
 | 💻 **Language** | Clojure |
 | 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 20 |
+| 📈 **Trending Days** | 21 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+70 stars&#x2F;day) • Trending 20 times • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+68 stars&#x2F;day) • Trending 21 times • Very active development • Underrated project
 
 **Best for**: 
 
@@ -411,27 +451,7 @@
 
 ---
 
-### 21. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
-
-**OCTO Android Client — Open-source enterprise IM**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 613 |
-| 💻 **Language** | Java |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 7, 2026 |
-
-**Why it's a gem**: High growth velocity (+45 stars&#x2F;day) • Trending 6 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
-
----
-
-### 22. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+### 23. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
 
 **A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
 
@@ -451,7 +471,7 @@
 
 ---
 
-### 23. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
+### 24. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
 
 **📼 The missing YouTube and YouTube Music macOS app**
 
@@ -471,7 +491,27 @@
 
 ---
 
-### 24. [kunchenguid&#x2F;firstmate](../../repos/kunchenguid/firstmate.md)
+### 25. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+
+**OCTO Android Client — Open-source enterprise IM**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 613 |
+| 💻 **Language** | Java |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 7, 2026 |
+
+**Why it's a gem**: High growth velocity (+45 stars&#x2F;day) • Trending 6 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
+
+---
+
+### 26. [kunchenguid&#x2F;firstmate](../../repos/kunchenguid/firstmate.md)
 
 **Talk to one agent. Ship with a crew.**
 
@@ -491,27 +531,7 @@
 
 ---
 
-### 25. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
-
-**BookOrbit: Your Reading Space**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,033 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+195 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/bookorbit/bookorbit.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;bookorbit&#x2F;bookorbit)
-
----
-
-### 26. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
+### 27. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
 
 **A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.**
 
@@ -528,26 +548,6 @@
 **Best for**: 
 
 [View Passport](../../repos/h3nock/remux.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;h3nock&#x2F;remux)
-
----
-
-### 27. [Mininglamp-OSS&#x2F;octo-ios](../../repos/Mininglamp-OSS/octo-ios.md)
-
-**OCTO iOS Client — Open-source enterprise IM**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 653 |
-| 💻 **Language** | Objective-C |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 10 |
-| 📅 **First Seen** | Aug 7, 2026 |
-
-**Why it's a gem**: High growth velocity (+41 stars&#x2F;day) • Trending 10 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Mininglamp-OSS/octo-ios.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-ios)
 
 ---
 
@@ -571,7 +571,47 @@
 
 ---
 
-### 29. [cursor&#x2F;plugins](../../repos/cursor/plugins.md)
+### 29. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
+
+**BookOrbit: Your Reading Space**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,033 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+195 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/bookorbit/bookorbit.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;bookorbit&#x2F;bookorbit)
+
+---
+
+### 30. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
+
+**Mission control for your AI agents**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 477 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 26, 2026 |
+
+**Why it's a gem**: High growth velocity (+86 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/RizRiyz/luvus.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;RizRiyz&#x2F;luvus)
+
+---
+
+### 31. [cursor&#x2F;plugins](../../repos/cursor/plugins.md)
 
 **Cursor plugin specification and official plugins**
 
@@ -591,7 +631,7 @@
 
 ---
 
-### 30. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 32. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
 **ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
@@ -611,7 +651,27 @@
 
 ---
 
-### 31. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
+### 33. [Mininglamp-OSS&#x2F;octo-ios](../../repos/Mininglamp-OSS/octo-ios.md)
+
+**OCTO iOS Client — Open-source enterprise IM**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 667 |
+| 💻 **Language** | Objective-C |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 11 |
+| 📅 **First Seen** | Aug 7, 2026 |
+
+**Why it's a gem**: High growth velocity (+40 stars&#x2F;day) • Trending 11 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Mininglamp-OSS/octo-ios.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-ios)
+
+---
+
+### 34. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
 
 **BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
 
@@ -631,7 +691,7 @@
 
 ---
 
-### 32. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
+### 35. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
 
 **BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
 
@@ -651,7 +711,27 @@
 
 ---
 
-### 33. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+### 36. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
+
+**Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy&#39;s LLM Wiki pattern.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 13,929 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 86/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 11, 2026 |
+
+**Why it's a gem**: High growth velocity (+1021 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/AgriciDaniel/claude-obsidian.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;AgriciDaniel&#x2F;claude-obsidian)
+
+---
+
+### 37. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
 
 **Visualize your year in travel using your Google Location History (Timeline) data**
 
@@ -671,27 +751,27 @@
 
 ---
 
-### 34. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
+### 38. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
 
-**A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.**
+**Open-source framework for the research and development of foundation models.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,454 |
+| ⭐ **Stars** | 2,673 |
 | 💻 **Language** | Python |
 | 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 20, 2026 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 24, 2026 |
 
-**Why it's a gem**: High growth velocity (+416 stars&#x2F;day) • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+544 stars&#x2F;day) • Trending 4 times • Very active development • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/Tencent/AI-Infra-Guard.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tencent&#x2F;AI-Infra-Guard)
+[View Passport](../../repos/marin-community/marin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;marin-community&#x2F;marin)
 
 ---
 
-### 35. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+### 39. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
 
 **Portable Tool for an Ideal Windows Setup**
 
@@ -711,7 +791,7 @@
 
 ---
 
-### 36. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
+### 40. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
 
 **🧱 easy fast local-first microVM runtime and library**
 
@@ -731,7 +811,7 @@
 
 ---
 
-### 37. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
+### 41. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
 
 **Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode&#x2F;Homebrew&#x2F;system cache cleanup. MIT licensed.**
 
@@ -751,7 +831,7 @@
 
 ---
 
-### 38. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 42. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
 **Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
@@ -771,7 +851,7 @@
 
 ---
 
-### 39. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
+### 43. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
 
 **Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
 
@@ -791,7 +871,7 @@
 
 ---
 
-### 40. [cobusgreyling&#x2F;loop-engineering](../../repos/cobusgreyling/loop-engineering.md)
+### 44. [cobusgreyling&#x2F;loop-engineering](../../repos/cobusgreyling/loop-engineering.md)
 
 **Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.**
 
@@ -811,27 +891,7 @@
 
 ---
 
-### 41. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
-
-**Native GUI for Homebrew Casks**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 738 |
-| 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 85/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 10, 2026 |
-
-**Why it's a gem**: High growth velocity (+88 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
-
----
-
-### 42. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
+### 45. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
 **Source control for agents. Use multiple coding agents, track they change, and query them in one place**
 
@@ -851,7 +911,7 @@
 
 ---
 
-### 43. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
+### 46. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
 
 **The coding agent that answers to you, your model, your machine, your rules.**
 
@@ -871,7 +931,27 @@
 
 ---
 
-### 44. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
+### 47. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
+
+**A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,454 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 85/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+416 stars&#x2F;day) • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/Tencent/AI-Infra-Guard.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tencent&#x2F;AI-Infra-Guard)
+
+---
+
+### 48. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
 
 **Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
 
@@ -891,7 +971,7 @@
 
 ---
 
-### 45. [embabel&#x2F;embabel-agent](../../repos/embabel/embabel-agent.md)
+### 49. [embabel&#x2F;embabel-agent](../../repos/embabel/embabel-agent.md)
 
 **Agent framework for the JVM. Pronounced Em-BAY-bel &#x2F;ɛmˈbeɪbəl&#x2F;**
 
@@ -911,7 +991,7 @@
 
 ---
 
-### 46. [rikkahub&#x2F;rikkahub](../../repos/rikkahub/rikkahub.md)
+### 50. [rikkahub&#x2F;rikkahub](../../repos/rikkahub/rikkahub.md)
 
 **RikkaHub is an Android APP that supports for multiple LLM providers.**
 
@@ -931,86 +1011,6 @@
 
 ---
 
-### 47. [liustack&#x2F;modlens](../../repos/liustack/modlens.md)
-
-**The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,781 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 84/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 15, 2026 |
-
-**Why it's a gem**: High growth velocity (+527 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/liustack/modlens.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;liustack&#x2F;modlens)
-
----
-
-### 48. [shiaho777&#x2F;web-to-app](../../repos/shiaho777/web-to-app.md)
-
-**The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,893 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 84/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 16, 2026 |
-
-**Why it's a gem**: High growth velocity (+43 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/shiaho777/web-to-app.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;shiaho777&#x2F;web-to-app)
-
----
-
-### 49. [shy3130&#x2F;tick-stock-panel](../../repos/shy3130/tick-stock-panel.md)
-
-**TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非第三方官方项目**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,760 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 84/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 23, 2026 |
-
-**Why it's a gem**: High growth velocity (+110 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/shy3130/tick-stock-panel.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;shy3130&#x2F;tick-stock-panel)
-
----
-
-### 50. [NomaDamas&#x2F;k-skill](../../repos/NomaDamas/k-skill.md)
-
-**한국인을 위한 스킬 모음집 - 에이전트를 한국인으로**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 7,142 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 83/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+134 stars&#x2F;day) • Trending 5 times • Very active development
-
-**Best for**: 
-
-[View Passport](../../repos/NomaDamas/k-skill.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;NomaDamas&#x2F;k-skill)
-
----
-
 
 ## Scoring Methodology
 
@@ -1027,5 +1027,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-08-26T21:01:57.249Z*  
+*Generated: 2026-08-27T21:02:00.158Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

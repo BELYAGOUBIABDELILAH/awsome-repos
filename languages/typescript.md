@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 156
+- **Total Repositories**: 161
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 27,673 | 2026-08-02 | 10 |
+| [actions/checkout](../repos/actions/checkout.md) | ⭐ 8,703 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 130,028 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,436 | 2026-08-04 | 4 |
+| [EveryInc/compound-engineering-plugin](../repos/EveryInc/compound-engineering-plugin.md) | ⭐ 24,607 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 58,350 | 2026-08-06 | 9 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 21,022 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/lms](../repos/frappe/lms.md) | ⭐ 3,166 | 2026-08-06 | 9 |
+| [Tencent/BrowserSkill](../repos/Tencent/BrowserSkill.md) | ⭐ 1,407 | 2026-08-27 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 20,652 | 2026-08-07 | 8 |
+| [NeoLabHQ/context-engineering-kit](../repos/NeoLabHQ/context-engineering-kit.md) | ⭐ 1,426 | 2026-08-27 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 13,588 | 2026-08-14 | 2 |
+| [tutti-os/tutti](../repos/tutti-os/tutti.md) | ⭐ 3,503 | 2026-08-27 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/maka](../repos/apache/maka.md) | ⭐ 3,585 | 2026-08-20 | 7 |
+| [tradingview/lightweight-charts](../repos/tradingview/lightweight-charts.md) | ⭐ 17,095 | 2026-08-27 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 8,056 | 2026-08-26 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [janhq/jan](../repos/janhq/jan.md) | ⭐ 44,197 | 2026-08-26 | 1 |
+| [1weiho/open-slide](../repos/1weiho/open-slide.md) | ⭐ 7,182 | 2026-08-27 | 1 |
 
 
 ---
@@ -93,7 +90,7 @@
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 136,627 | 2026-08-02 | 3 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 129,470 | 2026-08-02 | 6 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 130,028 | 2026-08-02 | 7 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | 2026-08-17 | 2 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | 3 |
@@ -118,12 +115,12 @@
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 10 | ⭐ 27,673 | 2026-08-02 | 2026-08-26 |
 | [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
 | [frappe/lms](../repos/frappe/lms.md) | 9 | ⭐ 3,166 | 2026-08-06 | 2026-08-26 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 9 | ⭐ 21,022 | 2026-08-07 | 2026-08-27 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 8 | ⭐ 4,631 | 2026-08-01 | 2026-08-22 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 8 | ⭐ 20,652 | 2026-08-07 | 2026-08-26 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | 7 | ⭐ 130,028 | 2026-08-02 | 2026-08-27 |
 | [apache/maka](../repos/apache/maka.md) | 7 | ⭐ 3,585 | 2026-08-20 | 2026-08-26 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 6 | ⭐ 129,470 | 2026-08-02 | 2026-08-24 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
 
 ---
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.667Z*
+*Last updated: 2026-08-27T21:01:55.438Z*

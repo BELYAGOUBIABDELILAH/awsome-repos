@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 124
+- **Total Repositories**: 127
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-26
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,328 | 2026-08-01 | 8 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,386 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,954 | 2026-08-01 | 4 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,613 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 114,738 | 2026-08-02 | 10 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 13,980 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 5,607 | 2026-08-02 | 8 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,268 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,227 | 2026-08-02 | 10 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,228 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,256 | 2026-08-03 | 11 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,270 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | ⭐ 13,453 | 2026-08-05 | 7 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,507 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,504 | 2026-08-05 | 6 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,144 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,132 | 2026-08-06 | 6 |
+| [LorisYounger/VPet](../repos/LorisYounger/VPet.md) | ⭐ 6,715 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Azure/azure-powershell](../repos/Azure/azure-powershell.md) | ⭐ 4,774 | 2026-08-06 | 2 |
+| [TechnitiumSoftware/DnsServer](../repos/TechnitiumSoftware/DnsServer.md) | ⭐ 9,694 | 2026-08-12 | 4 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,328 | 2026-08-01 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and auto... |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,386 | 2026-08-01 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and auto... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,485 | 2026-08-01 | The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration w... |
@@ -70,7 +70,7 @@
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,678 | 2026-08-01 | A modern file manager that helps users organize their files and folders. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,573 | 2026-08-01 | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered ... |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,613 | 2026-08-01 | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,885 | 2026-08-01 | Bitwarden infrastructure&#x2F;backend (API, database, Docker, etc). |
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 114,738 | 2026-08-02 | 10 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,227 | 2026-08-02 | 10 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,132 | 2026-08-06 | 6 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,268 | 2026-08-02 | 11 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,144 | 2026-08-06 | 7 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,678 | 2026-08-01 | 5 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,194 | 2026-08-14 | 2 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,478 | 2026-08-03 | 5 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,391 | 2026-08-01 | 9 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,880 | 2026-08-22 | 1 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,700 | 2026-08-08 | 1 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,328 | 2026-08-01 | 8 |
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,504 | 2026-08-05 | 6 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,386 | 2026-08-01 | 9 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,507 | 2026-08-05 | 7 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,603 | 2026-08-10 | 3 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,954 | 2026-08-01 | 4 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,596 | 2026-08-02 | 3 |
+| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,527 | 2026-08-27 | 1 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,292 | 2026-08-04 | 2 |
 | [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,564 | 2026-08-02 | 3 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,625 | 2026-08-01 | 6 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 20,345 | 2026-08-02 | 14 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,885 | 2026-08-01 | 4 |
-| [Unity-Technologies/ml-agents](../repos/Unity-Technologies/ml-agents.md) | ⭐ 19,636 | 2026-08-19 | 1 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 14 | ⭐ 20,345 | 2026-08-02 | 2026-08-24 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 11 | ⭐ 56,268 | 2026-08-02 | 2026-08-27 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 11 | ⭐ 15,051 | 2026-08-02 | 2026-08-25 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 11 | ⭐ 5,256 | 2026-08-03 | 2026-08-26 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 10 | ⭐ 114,738 | 2026-08-02 | 2026-08-26 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 10 | ⭐ 56,227 | 2026-08-02 | 2026-08-26 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | 10 | ⭐ 6,270 | 2026-08-05 | 2026-08-27 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 9 | ⭐ 29,386 | 2026-08-01 | 2026-08-27 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 9 | ⭐ 38,391 | 2026-08-01 | 2026-08-23 |
-| [microsoft/aspire](../repos/microsoft/aspire.md) | 9 | ⭐ 6,259 | 2026-08-05 | 2026-08-24 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 8 | ⭐ 29,328 | 2026-08-01 | 2026-08-26 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 8 | ⭐ 13,980 | 2026-08-01 | 2026-08-27 |
 | [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | 8 | ⭐ 5,607 | 2026-08-02 | 2026-08-26 |
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 7 | ⭐ 13,955 | 2026-08-01 | 2026-08-25 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.617Z*
+*Last updated: 2026-08-27T21:01:55.365Z*

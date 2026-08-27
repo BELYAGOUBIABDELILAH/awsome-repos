@@ -16,28 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 29,571 | 2026-08-01 | 13 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,069 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 889 | 2026-08-01 | 15 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,956 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | ⭐ 647 | 2026-08-02 | 7 |
+| [microsoft/work-iq](../repos/microsoft/work-iq.md) | ⭐ 976 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 440 | 2026-08-04 | 9 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 891 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,530 | 2026-08-04 | 5 |
+| [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | ⭐ 650 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 442 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,650 | 2026-08-11 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [github/copilot-plugins](../repos/github/copilot-plugins.md) | ⭐ 345 | 2026-08-26 | 1 |
+| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,171 | 2026-08-19 | 3 |
 
 
 ---
@@ -49,7 +46,7 @@
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 29,571 | 2026-08-01 | Reverse Engineering &#x2F; Authorized Penetration Testing &#x2F; Security Research Skill Router Pack AI-pow... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,057 | 2026-08-01 | GitHub Actions runner images |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,069 | 2026-08-01 | GitHub Actions runner images |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,229 | 2026-08-01 | game of active directory |
@@ -61,13 +58,13 @@
 | [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 423 | 2026-08-01 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,942 | 2026-08-01 | The Official USB Rubber Ducky Payload Repository |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,956 | 2026-08-01 | The Official USB Rubber Ducky Payload Repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | ⭐ 976 | 2026-08-01 | MCP Server and CLI for accessing Work IQ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 889 | 2026-08-01 | Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your su... |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 891 | 2026-08-01 | Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your su... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/AL](../repos/microsoft/AL.md) | ⭐ 879 | 2026-08-01 | Home of the Dynamics 365 Business Central AL Language extension for Visual Studio Code. Used to t... |
@@ -86,18 +83,18 @@
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,031 | 2026-08-02 | 5 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,089 | 2026-08-04 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,057 | 2026-08-01 | 20 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,069 | 2026-08-01 | 21 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,065 | 2026-08-03 | 7 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,963 | 2026-08-06 | 5 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,229 | 2026-08-01 | 8 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,942 | 2026-08-01 | 10 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,956 | 2026-08-01 | 11 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,822 | 2026-08-04 | 2 |
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,650 | 2026-08-11 | 4 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,530 | 2026-08-04 | 5 |
-| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,170 | 2026-08-19 | 2 |
+| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,171 | 2026-08-19 | 3 |
 | [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,036 | 2026-08-07 | 3 |
 | [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,024 | 2026-08-02 | 5 |
 | [MicrosoftDocs/architecture-center](../repos/MicrosoftDocs/architecture-center.md) | ⭐ 2,018 | 2026-08-25 | 1 |
@@ -109,16 +106,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 20 | ⭐ 13,057 | 2026-08-01 | 2026-08-25 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 15 | ⭐ 889 | 2026-08-01 | 2026-08-26 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 21 | ⭐ 13,069 | 2026-08-01 | 2026-08-27 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 16 | ⭐ 891 | 2026-08-01 | 2026-08-27 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 13 | ⭐ 29,571 | 2026-08-01 | 2026-08-26 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 13 | ⭐ 1,551 | 2026-08-03 | 2026-08-24 |
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 10 | ⭐ 5,942 | 2026-08-01 | 2026-08-22 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 11 | ⭐ 5,956 | 2026-08-01 | 2026-08-27 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 10 | ⭐ 1,453 | 2026-08-01 | 2026-08-25 |
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 9 | ⭐ 440 | 2026-08-04 | 2026-08-26 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 10 | ⭐ 442 | 2026-08-04 | 2026-08-27 |
+| [microsoft/work-iq](../repos/microsoft/work-iq.md) | 9 | ⭐ 976 | 2026-08-01 | 2026-08-27 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 8 | ⭐ 8,229 | 2026-08-01 | 2026-08-23 |
-| [microsoft/work-iq](../repos/microsoft/work-iq.md) | 8 | ⭐ 976 | 2026-08-01 | 2026-08-25 |
-| [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | 7 | ⭐ 647 | 2026-08-02 | 2026-08-26 |
+| [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | 8 | ⭐ 650 | 2026-08-02 | 2026-08-27 |
 
 ---
 
@@ -168,4 +165,4 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.654Z*
+*Last updated: 2026-08-27T21:01:55.419Z*

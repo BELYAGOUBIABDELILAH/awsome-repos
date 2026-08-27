@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 155
+- **Total Repositories**: 158
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenLineage/OpenLineage](../repos/OpenLineage/OpenLineage.md) | ⭐ 2,626 | 2026-08-01 | 5 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,149 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 26,401 | 2026-08-02 | 8 |
+| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,753 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,862 | 2026-08-02 | 7 |
+| [bazelbuild/bazel](../repos/bazelbuild/bazel.md) | ⭐ 25,768 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,814 | 2026-08-03 | 5 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 73,002 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 4,890 | 2026-08-04 | 4 |
+| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 4,891 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,931 | 2026-08-04 | 6 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 27,939 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,367 | 2026-08-04 | 8 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,568 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/flink](../repos/apache/flink.md) | ⭐ 26,294 | 2026-08-04 | 3 |
+| [apache/flink](../repos/apache/flink.md) | ⭐ 26,297 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,290 | 2026-08-05 | 9 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,990 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) | ⭐ 12,959 | 2026-08-05 | 5 |
+| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,497 | 2026-08-07 | 3 |
 
 
 ---
@@ -61,7 +61,7 @@
 | [alibaba/fastjson2](../repos/alibaba/fastjson2.md) | ⭐ 4,372 | 2026-08-01 | 🚄 FASTJSON2 is a Java JSON  library with excellent performance. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,132 | 2026-08-01 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to ident... |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,149 | 2026-08-01 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to ident... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,269 | 2026-08-01 | An Application Framework for AI Engineering |
@@ -92,22 +92,22 @@
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,367 | 2026-08-04 | 8 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,862 | 2026-08-02 | 7 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 72,791 | 2026-08-03 | 7 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 73,002 | 2026-08-03 | 8 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,155 | 2026-08-04 | 4 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,212 | 2026-08-08 | 4 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,891 | 2026-08-02 | 9 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,496 | 2026-08-04 | 8 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,568 | 2026-08-04 | 9 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,206 | 2026-08-12 | 2 |
-| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,444 | 2026-08-07 | 2 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,753 | 2026-08-05 | 4 |
+| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,497 | 2026-08-07 | 3 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 40,990 | 2026-08-05 | 5 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,463 | 2026-08-02 | 4 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 38,898 | 2026-08-06 | 4 |
 | [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,511 | 2026-08-08 | 5 |
 | [airbnb/lottie-android](../repos/airbnb/lottie-android.md) | ⭐ 35,712 | 2026-08-26 | 1 |
 | [apache/kafka](../repos/apache/kafka.md) | ⭐ 33,600 | 2026-08-12 | 5 |
-| [alibaba/nacos](../repos/alibaba/nacos.md) | ⭐ 33,307 | 2026-08-15 | 3 |
+| [alibaba/nacos](../repos/alibaba/nacos.md) | ⭐ 33,315 | 2026-08-15 | 4 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [google/guava](../repos/google/guava.md) | 9 | ⭐ 51,891 | 2026-08-02 | 2026-08-24 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 9 | ⭐ 51,568 | 2026-08-04 | 2026-08-27 |
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 9 | ⭐ 5,290 | 2026-08-05 | 2026-08-26 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 8 | ⭐ 26,401 | 2026-08-02 | 2026-08-26 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 8 | ⭐ 51,496 | 2026-08-04 | 2026-08-21 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 8 | ⭐ 73,002 | 2026-08-03 | 2026-08-27 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 8 | ⭐ 81,367 | 2026-08-04 | 2026-08-26 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 7 | ⭐ 13,569 | 2026-08-01 | 2026-08-23 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 7 | ⭐ 77,862 | 2026-08-02 | 2026-08-26 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 7 | ⭐ 72,791 | 2026-08-03 | 2026-08-25 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 7 | ⭐ 27,939 | 2026-08-04 | 2026-08-27 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 7 | ⭐ 32,286 | 2026-08-04 | 2026-08-24 |
-| [microg/GmsCore](../repos/microg/GmsCore.md) | 7 | ⭐ 14,336 | 2026-08-06 | 2026-08-24 |
 
 ---
 
@@ -213,7 +213,7 @@
 - [quarkusio/quarkus](../repos/quarkusio/quarkus.md) - Quarkus: Supersonic Subatomic Java. 
 - [DataDog/dd-trace-java](../repos/DataDog/dd-trace-java.md) - Datadog APM client for Java
 - [Mininglamp-OSS/octo-android](../repos/Mininglamp-OSS/octo-android.md) - OCTO Android Client — Open-source enterprise IM
-- [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) - 【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI...
+- [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) - 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知...
 - [kdn251/interviews](../repos/kdn251/interviews.md) - Everything you need to know to get the job.
 - [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) - Spring Framework
 - [anddea/revanced-patches](../repos/anddea/revanced-patches.md) - 🧩 Patches for ReVanced
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.638Z*
+*Last updated: 2026-08-27T21:01:55.396Z*

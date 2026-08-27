@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 14 |
 
+*No MATLAB repositories trending today*
 
 ---
 
@@ -70,4 +68,4 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.646Z*
+*Last updated: 2026-08-27T21:01:55.407Z*

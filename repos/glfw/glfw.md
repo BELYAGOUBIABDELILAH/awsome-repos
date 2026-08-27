@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | Zlib |
-| **Stars** | ⭐ 15,278 |
-| **Forks** | 🍴 5,922 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 15,291 |
+| **Forks** | 🍴 5,924 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 24, 2026 |
+| **Last Seen** | Aug 27, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 15,278+ stars, strong contributor base |
+| **Community** | Very Active | 15,291+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-26T21:01:54.915Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-27T21:01:57.126Z*  
+*Data from 4 trending reports*

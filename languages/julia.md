@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 728 | 2026-08-01 | 22 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 728 | 2026-08-01 | 23 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 115 | 2026-08-01 | 9 |
 
 
 ---
@@ -34,7 +37,7 @@
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 125 | 2026-08-01 | GPU-capable global atmosphere model of the CliMA Earth System Model, designed for calibration wit... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-differen... |
+| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 115 | 2026-08-01 | GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-differen... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,410 | 2026-08-02 | 🌊  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs |
@@ -67,12 +70,12 @@
 | [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,410 | 2026-08-02 | 9 |
 | [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 728 | 2026-08-01 | 22 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 728 | 2026-08-01 | 23 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 719 | 2026-08-07 | 1 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | 3 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 125 | 2026-08-01 | 12 |
-| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 114 | 2026-08-01 | 8 |
+| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 115 | 2026-08-01 | 9 |
 | [davidanthoff/Electron.jl](../repos/davidanthoff/Electron.jl.md) | ⭐ 96 | 2026-08-14 | 2 |
 | [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 8 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 15 |
@@ -85,12 +88,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 22 | ⭐ 728 | 2026-08-01 | 2026-08-26 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 23 | ⭐ 728 | 2026-08-01 | 2026-08-27 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 15 | ⭐ 46 | 2026-08-02 | 2026-08-25 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 12 | ⭐ 125 | 2026-08-01 | 2026-08-16 |
+| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 9 | ⭐ 115 | 2026-08-01 | 2026-08-27 |
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 9 | ⭐ 1,410 | 2026-08-02 | 2026-08-19 |
 | [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | 8 | ⭐ 73 | 2026-08-01 | 2026-08-12 |
-| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 8 | ⭐ 114 | 2026-08-01 | 2026-08-11 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | 3 | ⭐ 355 | 2026-08-07 | 2026-08-11 |
 | [davidanthoff/Electron.jl](../repos/davidanthoff/Electron.jl.md) | 2 | ⭐ 96 | 2026-08-14 | 2026-08-19 |
 | [kahliburke/Kaimon.jl](../repos/kahliburke/Kaimon.jl.md) | 2 | ⭐ 25 | 2026-08-20 | 2026-08-21 |
@@ -120,4 +123,4 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.641Z*
+*Last updated: 2026-08-27T21:01:55.400Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Lua |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 29,288 |
-| **Forks** | 🍴 1,887 |
-| **Trending Days** | 15 |
+| **Stars** | ⭐ 29,304 |
+| **Forks** | 🍴 1,888 |
+| **Trending Days** | 16 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 26, 2026 |
+| **Last Seen** | Aug 27, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 15
-- **Longest Streak**: 5 days
+- **Trending Days**: 16
+- **Longest Streak**: 6 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:55.026Z*  
-*Data from 15 trending reports*
+*Last updated: 2026-08-27T21:01:57.271Z*  
+*Data from 16 trending reports*

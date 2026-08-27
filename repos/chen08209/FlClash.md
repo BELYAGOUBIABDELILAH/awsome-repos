@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 49,519 |
-| **Forks** | 🍴 3,128 |
-| **Trending Days** | 13 |
+| **Stars** | ⭐ 50,115 |
+| **Forks** | 🍴 3,162 |
+| **Trending Days** | 14 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 21, 2026 |
+| **Last Seen** | Aug 27, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 13
+- **Trending Days**: 14
 - **Longest Streak**: 4 days
 
 ---
@@ -68,9 +68,9 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Average | Basic documentation available |
-| **Community** | Growing | Emerging community |
+| **Difficulty** | Intermediate | Well-documented but extensive API |
+| **Documentation** | Good | Well-maintained documentation |
+| **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:55.329Z*  
-*Data from 13 trending reports*
+*Last updated: 2026-08-27T21:01:57.677Z*  
+*Data from 14 trending reports*

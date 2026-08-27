@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 131
+- **Total Repositories**: 134
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-25
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 4,560 | 2026-08-01 | 2 |
+| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,341 | 2026-08-02 | 2 |
+| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 4,592 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | ⭐ 2,537 | 2026-08-05 | 5 |
+| [googleworkspace/cli](../repos/googleworkspace/cli.md) | ⭐ 30,593 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 38,154 | 2026-08-10 | 6 |
+| [n0-computer/iroh](../repos/n0-computer/iroh.md) | ⭐ 12,347 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cachix/devenv](../repos/cachix/devenv.md) | ⭐ 7,404 | 2026-08-11 | 2 |
+| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | ⭐ 2,564 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 6,661 | 2026-08-26 | 1 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 38,525 | 2026-08-10 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RizRiyz/luvus](../repos/RizRiyz/luvus.md) | ⭐ 441 | 2026-08-26 | 1 |
+| [cachix/devenv](../repos/cachix/devenv.md) | ⭐ 7,429 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhom/donutbrowser](../repos/zhom/donutbrowser.md) | ⭐ 3,720 | 2026-08-26 | 1 |
+| [tonhowtf/omniget](../repos/tonhowtf/omniget.md) | ⭐ 9,137 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Xoshbin/asyar](../repos/Xoshbin/asyar.md) | ⭐ 519 | 2026-08-26 | 1 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 6,694 | 2026-08-26 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [influxdata/influxdb](../repos/influxdata/influxdb.md) | ⭐ 31,720 | 2026-08-26 | 1 |
+| [RizRiyz/luvus](../repos/RizRiyz/luvus.md) | ⭐ 477 | 2026-08-26 | 2 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | Build smaller, faster, and more secure desktop applications with a web frontend |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,046 | 2026-07-30 | A modern runtime for JavaScript and TypeScript. |
+| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | A modern runtime for JavaScript and TypeScript. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | 2026-07-31 | An extremely fast Python package and project manager, written in Rust. |
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [openai/codex](../repos/openai/codex.md) | ⭐ 118,042 | 2026-08-01 | 8 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 116,205 | 2026-07-30 | 6 |
-| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,046 | 2026-07-30 | 2 |
+| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,653 | 2026-08-11 | 6 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 91,388 | 2026-08-09 | 6 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | 2026-07-31 | 2 |
@@ -107,7 +107,7 @@
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,341 | 2026-08-02 | 2 |
 | [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,444 | 2026-08-05 | 4 |
 | [spacedriveapp/spacedrive](../repos/spacedriveapp/spacedrive.md) | ⭐ 38,820 | 2026-08-22 | 1 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 38,154 | 2026-08-10 | 6 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 38,525 | 2026-08-10 | 7 |
 
 ---
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [openai/codex](../repos/openai/codex.md) | 8 | ⭐ 118,042 | 2026-08-01 | 2026-08-25 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 8 | ⭐ 27,494 | 2026-08-03 | 2026-08-23 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 7 | ⭐ 38,525 | 2026-08-10 | 2026-08-27 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 6 | ⭐ 116,205 | 2026-07-30 | 2026-08-25 |
 | [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 6 | ⭐ 13,249 | 2026-08-01 | 2026-08-19 |
+| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 6 | ⭐ 2,564 | 2026-08-05 | 2026-08-27 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 6 | ⭐ 91,388 | 2026-08-09 | 2026-08-23 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 6 | ⭐ 38,154 | 2026-08-10 | 2026-08-26 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | 6 | ⭐ 95,653 | 2026-08-11 | 2026-08-24 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 5 | ⭐ 15,903 | 2026-08-01 | 2026-08-19 |
 | [moghtech/komodo](../repos/moghtech/komodo.md) | 5 | ⭐ 11,998 | 2026-08-02 | 2026-08-19 |
-| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 5 | ⭐ 2,537 | 2026-08-05 | 2026-08-26 |
 
 ---
 
@@ -185,7 +185,7 @@
 - [pola-rs/polars](../repos/pola-rs/polars.md) - Extremely fast Query Engine for DataFrames, written in Rust
 - [hyperium/hyper](../repos/hyperium/hyper.md) - An HTTP library for Rust
 - [WeaveMindAI/weft](../repos/WeaveMindAI/weft.md) - A programming language for AI orchestrations (POC)
-- [leookun/cursor-byok](../repos/leookun/cursor-byok.md) - cursor-byok is a local implementation of Cursor&#39;s backend. https:&#x2F;&#x2F;github.com&#x2F;leookun&#x2F;cursor-byok...
+- [leookun/cursor-byok](../repos/leookun/cursor-byok.md) - cursor-byok is a local implementation of Cursor&#39;s backend. https:&#x2F;&#x2F;docs.leokun.cn&#x2F;
 - [warp-tech/warpgate](../repos/warp-tech/warpgate.md) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP&#x2F;VNC bastion&#x2F;PAM that doesn&#39;t need addi...
 - [getzola/zola](../repos/getzola/zola.md) - A fast static site generator in a single binary with everything built-in. https:&#x2F;&#x2F;www.getzola.org
 - [GCWing/BitFun](../repos/GCWing/BitFun.md) - BitFun combines a high-performance agent runtime written in Rust with a polished desktop applicat...
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.660Z*
+*Last updated: 2026-08-27T21:01:55.428Z*

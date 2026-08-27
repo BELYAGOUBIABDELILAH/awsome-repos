@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 734
+**Gems Found**: 754
 
 ---
 
@@ -59,7 +59,7 @@
 |---|---|
 | ⭐ **Stars** | 3,247 |
 | 💻 **Language** | HTML |
-| 🏆 **Gem Score** | 97/100 |
+| 🏆 **Gem Score** | 96/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
@@ -231,7 +231,27 @@
 
 ---
 
-### 12. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
+### 12. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+
+**Native GUI for Homebrew Casks**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 909 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+62 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
+
+---
+
+### 13. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
 
 **ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.**
 
@@ -251,7 +271,7 @@
 
 ---
 
-### 13. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
+### 14. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
 
 **14MB foundation model for tiny devices; phones, wearables, smart home, and robots.**
 
@@ -271,7 +291,7 @@
 
 ---
 
-### 14. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
+### 15. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
 
 **Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
 
@@ -291,7 +311,7 @@
 
 ---
 
-### 15. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
+### 16. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
 
 **Model export recipes, Python primitives, and Swift runtime utilities for on-device AI**
 
@@ -311,7 +331,27 @@
 
 ---
 
-### 16. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
+### 17. [Unity-Technologies&#x2F;skills](../../repos/Unity-Technologies/skills.md)
+
+**A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built for Unity workflows**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 603 |
+| 💻 **Language** | C# |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 14, 2026 |
+
+**Why it's a gem**: High growth velocity (+54 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Unity-Technologies/skills.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Unity-Technologies&#x2F;skills)
+
+---
+
+### 18. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
 
 **OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
 
@@ -331,7 +371,7 @@
 
 ---
 
-### 17. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
+### 19. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
 
 **Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de&#x2F;plugin-directory-submission.**
 
@@ -351,7 +391,7 @@
 
 ---
 
-### 18. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+### 20. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
 
 **GitHub Stacked PRs**
 
@@ -371,46 +411,6 @@
 
 ---
 
-### 19. [builtbybel&#x2F;FluentCleaner](../../repos/builtbybel/FluentCleaner.md)
-
-**A real WinUI desktop cleaner with terminal control and multi-database support**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,607 |
-| 💻 **Language** | C# |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+47 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/builtbybel/FluentCleaner.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;builtbybel&#x2F;FluentCleaner)
-
----
-
-### 20. [unclebob&#x2F;swarm-forge](../../repos/unclebob/swarm-forge.md)
-
-**A simple tool for coordinating several AI agents.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,886 |
-| 💻 **Language** | Clojure |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 20 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+70 stars&#x2F;day) • Trending 20 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/unclebob/swarm-forge.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;unclebob&#x2F;swarm-forge)
-
----
-
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-08-26T21:01:57.235Z*  
+*Generated: 2026-08-27T21:02:00.135Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

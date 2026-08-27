@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 85
+- **Total Repositories**: 86
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-25
+- **Last Updated**: 2026-08-27
 
 ---
 
@@ -16,25 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,886 | 2026-08-04 | 10 |
+| [apple/container](../repos/apple/container.md) | ⭐ 49,456 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,847 | 2026-08-04 | 6 |
+| [pluk-inc/markdown-preview](../repos/pluk-inc/markdown-preview.md) | ⭐ 2,060 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,488 | 2026-08-06 | 6 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,303 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 13,951 | 2026-08-08 | 3 |
+| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,099 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ronitsingh10/FineTune](../repos/ronitsingh10/FineTune.md) | ⭐ 8,929 | 2026-08-22 | 3 |
+| [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 909 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,372 | 2026-08-24 | 3 |
+| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,285 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [awaseem/foqos](../repos/awaseem/foqos.md) | ⭐ 714 | 2026-08-26 | 1 |
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,360 | 2026-08-12 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ronitsingh10/FineTune](../repos/ronitsingh10/FineTune.md) | ⭐ 8,966 | 2026-08-22 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [kitknox/rootshell](../repos/kitknox/rootshell.md) | ⭐ 357 | 2026-08-27 | 1 |
 
 
 ---
@@ -55,7 +61,7 @@
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 6,100 | 2026-08-01 | The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with n... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 49,391 | 2026-08-01 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It ... |
+| [apple/container](../repos/apple/container.md) | ⭐ 49,456 | 2026-08-01 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [livekit/client-sdk-swift](../repos/livekit/client-sdk-swift.md) | ⭐ 434 | 2026-08-01 | LiveKit Swift Client SDK. Easily build live audio or video experiences on iOS, macOS, tvOS, and v... |
@@ -79,21 +85,21 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,289 | 2026-08-05 | 8 |
-| [apple/container](../repos/apple/container.md) | ⭐ 49,391 | 2026-08-01 | 9 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,303 | 2026-08-05 | 9 |
+| [apple/container](../repos/apple/container.md) | ⭐ 49,456 | 2026-08-01 | 10 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,843 | 2026-08-12 | 5 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,847 | 2026-08-04 | 6 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,203 | 2026-08-01 | 6 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
-| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,226 | 2026-08-12 | 2 |
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,360 | 2026-08-12 | 3 |
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,886 | 2026-08-04 | 10 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,372 | 2026-08-24 | 3 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,219 | 2026-08-17 | 2 |
-| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 13,951 | 2026-08-08 | 3 |
+| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,099 | 2026-08-08 | 4 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,568 | 2026-08-01 | 1 |
 | [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,422 | 2026-08-17 | 2 |
 | [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
@@ -107,9 +113,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 10 | ⭐ 11,284 | 2026-08-01 | 2026-08-25 |
+| [apple/container](../repos/apple/container.md) | 10 | ⭐ 49,456 | 2026-08-01 | 2026-08-27 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 10 | ⭐ 14,886 | 2026-08-04 | 2026-08-26 |
-| [apple/container](../repos/apple/container.md) | 9 | ⭐ 49,391 | 2026-08-01 | 2026-08-25 |
-| [swiftlang/swift](../repos/swiftlang/swift.md) | 8 | ⭐ 70,289 | 2026-08-05 | 2026-08-25 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | 9 | ⭐ 70,303 | 2026-08-05 | 2026-08-27 |
 | [sozercan/kaset](../repos/sozercan/kaset.md) | 7 | ⭐ 2,094 | 2026-08-04 | 2026-08-21 |
 | [apple/coreai-models](../repos/apple/coreai-models.md) | 7 | ⭐ 1,972 | 2026-08-12 | 2026-08-24 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 6 | ⭐ 6,100 | 2026-08-01 | 2026-08-25 |
@@ -206,7 +212,8 @@
 - [Meeep1/EeveeSpotifyRevivedPublic](../repos/Meeep1/EeveeSpotifyRevivedPublic.md) - 
 - [tisfeng/Easydict](../repos/tisfeng/Easydict.md) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing...
 - [awaseem/foqos](../repos/awaseem/foqos.md) - Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open sou...
+- [kitknox/rootshell](../repos/kitknox/rootshell.md) - rootshell - The terminal, reimagined for Apple platforms
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.665Z*
+*Last updated: 2026-08-27T21:01:55.436Z*

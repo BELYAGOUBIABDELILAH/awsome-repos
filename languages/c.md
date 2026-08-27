@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 139
+- **Total Repositories**: 140
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-24
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,136 | 2026-08-01 | 13 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,164 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,953 | 2026-08-01 | 6 |
+| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,291 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,062 | 2026-08-01 | 6 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,800 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,476 | 2026-08-02 | 10 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,922 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,630 | 2026-08-03 | 3 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,445 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,918 | 2026-08-04 | 10 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,325 | 2026-08-06 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,442 | 2026-08-04 | 8 |
+| [veracrypt/VeraCrypt](../repos/veracrypt/VeraCrypt.md) | ⭐ 11,447 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
+| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 18,888 | 2026-08-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FRRouting/frr](../repos/FRRouting/frr.md) | ⭐ 4,268 | 2026-08-05 | 7 |
+| [cilium/tetragon](../repos/cilium/tetragon.md) | ⭐ 4,957 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,316 | 2026-08-06 | 9 |
+| [espeak-ng/espeak-ng](../repos/espeak-ng/espeak-ng.md) | ⭐ 6,772 | 2026-08-27 | 1 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,136 | 2026-08-01 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization ... |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,164 | 2026-08-01 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 67,693 | 2026-08-01 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur... |
@@ -70,7 +70,7 @@
 | [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,062 | 2026-08-01 | Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,278 | 2026-08-01 | A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input |
+| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,291 | 2026-08-01 | A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mcu-tools/mcuboot](../repos/mcu-tools/mcuboot.md) | ⭐ 2,006 | 2026-08-01 | Secure boot for 32-bit Microcontrollers! |
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,181 | 2026-08-07 | 9 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,136 | 2026-08-01 | 13 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,164 | 2026-08-01 | 14 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 78,928 | 2026-08-24 | 1 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,476 | 2026-08-02 | 10 |
@@ -115,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 13 | ⭐ 138,136 | 2026-08-01 | 2026-08-26 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 14 | ⭐ 138,164 | 2026-08-01 | 2026-08-27 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 11 | ⭐ 6,922 | 2026-08-04 | 2026-08-27 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 11 | ⭐ 40,762 | 2026-08-07 | 2026-08-26 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 10 | ⭐ 67,693 | 2026-08-01 | 2026-08-22 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 10 | ⭐ 75,476 | 2026-08-02 | 2026-08-26 |
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 10 | ⭐ 6,918 | 2026-08-04 | 2026-08-26 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 9 | ⭐ 16,316 | 2026-08-06 | 2026-08-26 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 10 | ⭐ 16,325 | 2026-08-06 | 2026-08-27 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 9 | ⭐ 4,445 | 2026-08-04 | 2026-08-27 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 9 | ⭐ 148,181 | 2026-08-07 | 2026-08-24 |
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 8 | ⭐ 4,442 | 2026-08-04 | 2026-08-26 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 8 | ⭐ 27,620 | 2026-08-07 | 2026-08-25 |
 | [libuv/libuv](../repos/libuv/libuv.md) | 7 | ⭐ 27,125 | 2026-08-01 | 2026-08-22 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-26T21:01:53.615Z*
+*Last updated: 2026-08-27T21:01:55.361Z*
