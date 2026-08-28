@@ -1,6 +1,6 @@
 # ayangweb&#x2F;BongoCat
 
-> 🐱 🧸跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+> 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;ayangweb&#x2F;BongoCat) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vue |
 | **License** | MIT |
-| **Stars** | ⭐ 22,778 |
-| **Forks** | 🍴 1,098 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 22,832 |
+| **Forks** | 🍴 1,107 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Aug 25, 2026 |
+| **Last Seen** | Aug 28, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 4 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-27T21:01:58.741Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-08-28T21:02:00.134Z*  
+*Data from 8 trending reports*

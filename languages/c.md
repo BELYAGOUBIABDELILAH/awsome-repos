@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 140
+- **Total Repositories**: 142
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-24
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,164 | 2026-08-01 | 14 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,143 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,291 | 2026-08-01 | 4 |
+| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,091 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,800 | 2026-08-02 | 6 |
+| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,636 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,922 | 2026-08-04 | 11 |
+| [FRRouting/frr](../repos/FRRouting/frr.md) | ⭐ 4,272 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,445 | 2026-08-04 | 9 |
+| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,054 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,325 | 2026-08-06 | 10 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,644 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [veracrypt/VeraCrypt](../repos/veracrypt/VeraCrypt.md) | ⭐ 11,447 | 2026-08-09 | 3 |
+| [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 27,002 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 18,888 | 2026-08-12 | 6 |
+| [veracrypt/VeraCrypt](../repos/veracrypt/VeraCrypt.md) | ⭐ 11,472 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cilium/tetragon](../repos/cilium/tetragon.md) | ⭐ 4,957 | 2026-08-19 | 2 |
+| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 22,802 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espeak-ng/espeak-ng](../repos/espeak-ng/espeak-ng.md) | ⭐ 6,772 | 2026-08-27 | 1 |
+| [reactos/reactos](../repos/reactos/reactos.md) | ⭐ 17,974 | 2026-08-16 | 5 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 67,693 | 2026-08-01 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,125 | 2026-08-01 | Cross-platform asynchronous I&#x2F;O |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,143 | 2026-08-01 | Cross-platform asynchronous I&#x2F;O |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,071 | 2026-08-01 | Flipper Zero Unleashed Firmware |
@@ -101,13 +101,13 @@
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,666 | 2026-08-02 | 5 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | 6 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,501 | 2026-08-03 | 4 |
+| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,091 | 2026-08-01 | 2 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 32,007 | 2026-08-17 | 1 |
-| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 31,813 | 2026-08-01 | 1 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,467 | 2026-08-02 | 3 |
 | [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,076 | 2026-08-09 | 4 |
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,620 | 2026-08-07 | 8 |
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,125 | 2026-08-01 | 7 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,644 | 2026-08-07 | 9 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,143 | 2026-08-01 | 8 |
 
 ---
 
@@ -123,8 +123,8 @@
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 10 | ⭐ 16,325 | 2026-08-06 | 2026-08-27 |
 | [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 9 | ⭐ 4,445 | 2026-08-04 | 2026-08-27 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 9 | ⭐ 148,181 | 2026-08-07 | 2026-08-24 |
-| [facebook/zstd](../repos/facebook/zstd.md) | 8 | ⭐ 27,620 | 2026-08-07 | 2026-08-25 |
-| [libuv/libuv](../repos/libuv/libuv.md) | 7 | ⭐ 27,125 | 2026-08-01 | 2026-08-22 |
+| [facebook/zstd](../repos/facebook/zstd.md) | 9 | ⭐ 27,644 | 2026-08-07 | 2026-08-28 |
+| [libuv/libuv](../repos/libuv/libuv.md) | 8 | ⭐ 27,143 | 2026-08-01 | 2026-08-28 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-27T21:01:55.361Z*
+*Last updated: 2026-08-28T21:01:56.998Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 60
+- **Total Repositories**: 61
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-23
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,732 | 2026-08-01 | 7 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,746 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,257 | 2026-08-01 | 10 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,305 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,179 | 2026-08-01 | 5 |
+| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | ⭐ 8,923 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vava-nessa/free-coding-models](../repos/vava-nessa/free-coding-models.md) | ⭐ 2,365 | 2026-08-02 | 4 |
+| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,359 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,545 | 2026-08-07 | 3 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 28,307 | 2026-08-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 5,509 | 2026-08-19 | 4 |
+| [Manavarya09/design-extract](../repos/Manavarya09/design-extract.md) | ⭐ 3,961 | 2026-08-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Manavarya09/design-extract](../repos/Manavarya09/design-extract.md) | ⭐ 3,895 | 2026-08-27 | 1 |
+| [tianma-if/edgeever](../repos/tianma-if/edgeever.md) | ⭐ 1,289 | 2026-08-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fcaronte/KingInstaller](../repos/fcaronte/KingInstaller.md) | ⭐ 461 | 2026-08-27 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tianma-if/edgeever](../repos/tianma-if/edgeever.md) | ⭐ 1,271 | 2026-08-27 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [rdkit/rdkit](../repos/rdkit/rdkit.md) | ⭐ 3,566 | 2026-08-27 | 1 |
+| [openshift/openshift-docs](../repos/openshift/openshift-docs.md) | ⭐ 878 | 2026-08-28 | 1 |
 
 
 ---
@@ -58,7 +52,7 @@
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,726 | 2026-08-01 | A collection of several hundred online tools for OSINT |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,732 | 2026-08-01 | :blue_book: Home Assistant User documentation |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,746 | 2026-08-01 | :blue_book: Home Assistant User documentation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 7,828 | 2026-08-01 | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional... |
@@ -67,7 +61,7 @@
 | [GoogleCloudPlatform/knowledge-catalog](../repos/GoogleCloudPlatform/knowledge-catalog.md) | ⭐ 8,131 | 2026-08-01 | Google Cloud Knowledge Catalog Tools and Samples |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,257 | 2026-08-01 | from vibe coding to agentic engineering - practice makes claude perfect |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,305 | 2026-08-01 | from vibe coding to agentic engineering - practice makes claude perfect |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,774 | 2026-08-01 | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
@@ -91,21 +85,21 @@
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,365 | 2026-08-03 | 6 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 135,251 | 2026-08-08 | 11 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,025 | 2026-08-19 | 1 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,257 | 2026-08-01 | 10 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,305 | 2026-08-01 | 11 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,179 | 2026-08-01 | 5 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,545 | 2026-08-07 | 3 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,171 | 2026-08-09 | 7 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 28,882 | 2026-08-19 | 4 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 28,307 | 2026-08-12 | 4 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,223 | 2026-08-03 | 5 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 24,767 | 2026-08-04 | 5 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 20,546 | 2026-08-01 | 4 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,401 | 2026-08-03 | 2 |
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 18,499 | 2026-08-12 | 3 |
 | [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,684 | 2026-08-02 | 3 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,471 | 2026-08-04 | 5 |
-| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,264 | 2026-08-05 | 1 |
+| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,359 | 2026-08-05 | 2 |
 | [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,067 | 2026-08-07 | 1 |
 | [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 11,860 | 2026-08-01 | 1 |
 
@@ -115,15 +109,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 11 | ⭐ 65,305 | 2026-08-01 | 2026-08-28 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 11 | ⭐ 135,251 | 2026-08-08 | 2026-08-25 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 10 | ⭐ 65,257 | 2026-08-01 | 2026-08-27 |
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 7 | ⭐ 9,732 | 2026-08-01 | 2026-08-27 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 8 | ⭐ 9,746 | 2026-08-01 | 2026-08-28 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 7 | ⭐ 29,171 | 2026-08-09 | 2026-08-25 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 6 | ⭐ 7,267 | 2026-08-03 | 2026-08-24 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 6 | ⭐ 208,365 | 2026-08-03 | 2026-08-23 |
+| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 6 | ⭐ 8,923 | 2026-08-03 | 2026-08-28 |
 | [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 6 | ⭐ 6,118 | 2026-08-05 | 2026-08-23 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | 5 | ⭐ 46,179 | 2026-08-01 | 2026-08-27 |
-| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 5 | ⭐ 8,788 | 2026-08-03 | 2026-08-25 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 5 | ⭐ 27,223 | 2026-08-03 | 2026-08-23 |
 
 ---
@@ -169,7 +163,7 @@
 - [github/choosealicense.com](../repos/github/choosealicense.com.md) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [revfactory/harness](../repos/revfactory/harness.md) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates ...
 - [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) - Collection of the most essential transitions for web apps, skill for agents and Refine tool for a...
-- [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows....
 - [alpinejs/alpine](../repos/alpinejs/alpine.md) - A rugged, minimal framework for composing JavaScript behavior in your markup. 
 - [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) - AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos,...
 - [Arrow-air/project-quiver](../repos/Arrow-air/project-quiver.md) - Project Quiver documentation, designs, and project artifacts.
@@ -190,7 +184,8 @@
 - [fcaronte/KingInstaller](../repos/fcaronte/KingInstaller.md) - Porting of KingInstaller get from GitLab by annexhack
 - [tianma-if/edgeever](../repos/tianma-if/edgeever.md) - Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器...
 - [rdkit/rdkit](../repos/rdkit/rdkit.md) - The official sources for the RDKit library
+- [openshift/openshift-docs](../repos/openshift/openshift-docs.md) - OpenShift 3 and 4 product and community documentation
 
 ---
 
-*Last updated: 2026-08-27T21:01:55.392Z*
+*Last updated: 2026-08-28T21:01:57.046Z*

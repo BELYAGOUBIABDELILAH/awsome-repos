@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | MIT |
-| **Stars** | ⭐ 75,860 |
-| **Forks** | 🍴 12,026 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 75,914 |
+| **Forks** | 🍴 12,031 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Aug 25, 2026 |
+| **Last Seen** | Aug 28, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 5 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-27T21:01:58.682Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-08-28T21:02:00.080Z*  
+*Data from 10 trending reports*

@@ -1,6 +1,6 @@
 # cathrynlavery&#x2F;diagram-design
 
-> 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+> 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;cathrynlavery&#x2F;diagram-design) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | HTML |
 | **License** | MIT |
-| **Stars** | ⭐ 18,499 |
-| **Forks** | 🍴 1,112 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 28,307 |
+| **Forks** | 🍴 1,775 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 12, 2026 |
-| **Last Seen** | Aug 15, 2026 |
+| **Last Seen** | Aug 28, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in HTML or similar-topics*
+*Similar: Check repositories in HTML or agent-skills*
 
 ---
 
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -57,10 +57,10 @@
 ## Categories
 
 ### Topics
-
+[`agent-skills`](../../topics/agent-skills.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`data-visualization`](../../topics/data-visualization.md) [`diagrams`](../../topics/diagrams.md) [`drawio`](../../topics/drawio.md) [`mermaid`](../../topics/mermaid.md) [`svg`](../../topics/svg.md) 
 
 ### Curated Categories
-`General` 
+`Artificial Intelligence` `Large Language Models` `Data Science` `Systems Programming` 
 
 ---
 
@@ -74,7 +74,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -86,12 +86,12 @@
 - Check similar projects in HTML
 
 #### Metrics
-- **Hidden Gem**: ✓ Yes
-- **Trending Score**: 55&#x2F;100
+- **Hidden Gem**: ✗ No
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-08-27T21:01:59.043Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-28T21:02:00.439Z*  
+*Data from 4 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 68
+- **Total Repositories**: 70
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-27
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,808 | 2026-08-01 | 14 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,813 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,341 | 2026-08-01 | 6 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,423 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 4,039 | 2026-08-01 | 5 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,791 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,410 | 2026-08-01 | 13 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,265 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,205 | 2026-08-01 | 8 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 434 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,207 | 2026-08-01 | 12 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,536 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,774 | 2026-08-01 | 12 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,749 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,247 | 2026-08-01 | 18 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,020 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,457 | 2026-08-05 | 8 |
+| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,456 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,908 | 2026-08-07 | 2 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,832 | 2026-08-08 | 8 |
 
 
 ---
@@ -55,7 +55,7 @@
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,076 | 2026-08-01 | BewlyCat——基于BewlyBewly开发的Bilibili拓展 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,808 | 2026-08-01 | Wiki.js | A modern and powerful wiki app built on Node.js |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,813 | 2026-08-01 | Wiki.js | A modern and powerful wiki app built on Node.js |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,341 | 2026-08-01 | Modern, Streamlined, Free and Open Source Customer Service Software |
@@ -64,7 +64,7 @@
 | [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 4,039 | 2026-08-01 | 跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,410 | 2026-08-01 | Fully featured, open source CRM |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,423 | 2026-08-01 | Fully featured, open source CRM |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,205 | 2026-08-01 | :tada: A magical vue admin                                                                https:&#x2F;... |
@@ -90,22 +90,22 @@
 |------------|-------|------------|---------------|
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,205 | 2026-08-01 | 8 |
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,059 | 2026-08-01 | 8 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,247 | 2026-08-01 | 18 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,265 | 2026-08-01 | 19 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,207 | 2026-08-01 | 12 |
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,808 | 2026-08-01 | 14 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,813 | 2026-08-01 | 15 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,778 | 2026-08-08 | 7 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,774 | 2026-08-01 | 12 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,832 | 2026-08-08 | 8 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,791 | 2026-08-01 | 13 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,624 | 2026-08-02 | 11 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,908 | 2026-08-07 | 2 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,523 | 2026-08-02 | 8 |
-| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,457 | 2026-08-05 | 8 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,536 | 2026-08-02 | 9 |
+| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,456 | 2026-08-05 | 9 |
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,047 | 2026-08-20 | 2 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,700 | 2026-08-12 | 1 |
-| [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,527 | 2026-08-17 | 1 |
+| [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,537 | 2026-08-17 | 2 |
 | [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,277 | 2026-08-23 | 2 |
 | [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,250 | 2026-08-03 | 9 |
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,007 | 2026-08-04 | 4 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,020 | 2026-08-04 | 5 |
 | [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,844 | 2026-08-03 | 2 |
 | [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,679 | 2026-08-08 | 5 |
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 18 | ⭐ 33,247 | 2026-08-01 | 2026-08-27 |
-| [requarks/wiki](../repos/requarks/wiki.md) | 14 | ⭐ 28,808 | 2026-08-01 | 2026-08-27 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 19 | ⭐ 33,265 | 2026-08-01 | 2026-08-28 |
+| [requarks/wiki](../repos/requarks/wiki.md) | 15 | ⭐ 28,813 | 2026-08-01 | 2026-08-28 |
+| [frappe/crm](../repos/frappe/crm.md) | 14 | ⭐ 3,423 | 2026-08-01 | 2026-08-28 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 13 | ⭐ 4,076 | 2026-08-01 | 2026-08-26 |
-| [frappe/crm](../repos/frappe/crm.md) | 13 | ⭐ 3,410 | 2026-08-01 | 2026-08-27 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 13 | ⭐ 21,791 | 2026-08-01 | 2026-08-28 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 13 | ⭐ 434 | 2026-08-02 | 2026-08-28 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 12 | ⭐ 33,207 | 2026-08-01 | 2026-08-27 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 12 | ⭐ 21,774 | 2026-08-01 | 2026-08-27 |
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 12 | ⭐ 433 | 2026-08-02 | 2026-08-26 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | 12 | ⭐ 6,749 | 2026-08-02 | 2026-08-28 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | 11 | ⭐ 21,624 | 2026-08-02 | 2026-08-23 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 11 | ⭐ 2,002 | 2026-08-02 | 2026-08-25 |
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | 11 | ⭐ 6,743 | 2026-08-02 | 2026-08-26 |
 
 ---
 
@@ -174,7 +174,7 @@
 - [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin ...
 - [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-a...
 - [freqtrade/frequi](../repos/freqtrade/frequi.md) - Freqtrade UI - Frontend for Freqtrade
-- [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) - 🐱 🧸跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+- [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) - 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 - [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on R...
 - [x2rr/funds](../repos/x2rr/funds.md) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 - [chenjigang4167/testhub_platform](../repos/chenjigang4167/testhub_platform.md) - AI-Powered Testing Platform
@@ -198,7 +198,9 @@
 - [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) - PowerPoint-ist（&#x2F;&#39;pauəpɔintist&#x2F;）, An online presentation application that replicates most of the c...
 - [Kong/kongponents](../repos/Kong/kongponents.md) - 🦍 Kong Vue Component Library
 - [Tencent/tdesign](../repos/Tencent/tdesign.md) - Enterprise Design System
+- [yudaocode/yudao-ui-admin-vben](../repos/yudaocode/yudao-ui-admin-vben.md) - ruoyi-vue-pro-vben 芋道管理后台，基于 vben5.0 最新版本，最新的 vue3 vite6 ant-design-vue typescript 语法进行重构开发，支持 sp...
+- [anghunk/linuxdo-scripts](../repos/anghunk/linuxdo-scripts.md) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https:&#x2F;&#x2F;linuxdo-scripts....
 
 ---
 
-*Last updated: 2026-08-27T21:01:55.447Z*
+*Last updated: 2026-08-28T21:01:57.115Z*

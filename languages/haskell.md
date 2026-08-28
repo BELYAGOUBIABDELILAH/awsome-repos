@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 26
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-27
+- **Last Updated**: 2026-08-28
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,630 | 2026-08-01 | 22 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,632 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,944 | 2026-08-01 | 22 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,951 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,177 | 2026-08-01 | 9 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,658 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,650 | 2026-08-01 | 21 |
+| [cardano-foundation/cardano-wallet](../repos/cardano-foundation/cardano-wallet.md) | ⭐ 821 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,719 | 2026-08-06 | 6 |
+| [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | ⭐ 2,533 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elm/compiler](../repos/elm/compiler.md) | ⭐ 7,887 | 2026-08-09 | 3 |
+| [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,721 | 2026-08-06 | 7 |
 
 
 ---
@@ -43,13 +43,13 @@
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,952 | 2026-08-01 | Official Haskell IDE support via the language server protocol (LSP) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,630 | 2026-08-01 | REST API for any Postgres database |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,632 | 2026-08-01 | REST API for any Postgres database |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,745 | 2026-08-01 | Official upstream development repository for Cabal and cabal-install |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,944 | 2026-08-01 | ShellCheck, a static analysis tool for shell scripts |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,951 | 2026-08-01 | ShellCheck, a static analysis tool for shell scripts |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [digital-asset/daml](../repos/digital-asset/daml.md) | ⭐ 913 | 2026-08-01 | The Daml smart contract language |
@@ -61,7 +61,7 @@
 | [IntersectMBO/ouroboros-consensus](../repos/IntersectMBO/ouroboros-consensus.md) | ⭐ 66 | 2026-08-01 | Implementation of a Consensus Layer for the Ouroboros family of protocols |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,650 | 2026-08-01 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compati... |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,658 | 2026-08-01 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compati... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [digitallyinduced/ihp](../repos/digitallyinduced/ihp.md) | ⭐ 5,330 | 2026-08-02 | 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework opt... |
@@ -76,11 +76,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,944 | 2026-08-01 | 22 |
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,630 | 2026-08-01 | 22 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,951 | 2026-08-01 | 23 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,632 | 2026-08-01 | 23 |
 | [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,898 | 2026-08-08 | 2 |
 | [elm/compiler](../repos/elm/compiler.md) | ⭐ 7,887 | 2026-08-09 | 3 |
-| [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,719 | 2026-08-06 | 6 |
+| [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,721 | 2026-08-06 | 7 |
 | [digitallyinduced/ihp](../repos/digitallyinduced/ihp.md) | ⭐ 5,330 | 2026-08-02 | 1 |
 | [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,076 | 2026-08-05 | 5 |
 | [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,177 | 2026-08-01 | 9 |
@@ -88,12 +88,12 @@
 | [agda/agda](../repos/agda/agda.md) | ⭐ 2,920 | 2026-08-03 | 12 |
 | [wireapp/wire-server](../repos/wireapp/wire-server.md) | ⭐ 2,783 | 2026-08-04 | 2 |
 | [diku-dk/futhark](../repos/diku-dk/futhark.md) | ⭐ 2,778 | 2026-08-02 | 1 |
-| [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | ⭐ 2,533 | 2026-08-03 | 9 |
+| [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | ⭐ 2,533 | 2026-08-03 | 10 |
 | [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,745 | 2026-08-01 | 12 |
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,650 | 2026-08-01 | 21 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,658 | 2026-08-01 | 22 |
 | [IntersectMBO/plutus](../repos/IntersectMBO/plutus.md) | ⭐ 1,635 | 2026-08-05 | 2 |
 | [digital-asset/daml](../repos/digital-asset/daml.md) | ⭐ 913 | 2026-08-01 | 8 |
-| [cardano-foundation/cardano-wallet](../repos/cardano-foundation/cardano-wallet.md) | ⭐ 821 | 2026-08-03 | 4 |
+| [cardano-foundation/cardano-wallet](../repos/cardano-foundation/cardano-wallet.md) | ⭐ 821 | 2026-08-03 | 5 |
 | [halogenandtoast/ArkhamHorror](../repos/halogenandtoast/ArkhamHorror.md) | ⭐ 401 | 2026-08-03 | 1 |
 | [IntersectMBO/ouroboros-network](../repos/IntersectMBO/ouroboros-network.md) | ⭐ 293 | 2026-08-06 | 1 |
 
@@ -103,15 +103,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 22 | ⭐ 27,630 | 2026-08-01 | 2026-08-27 |
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 22 | ⭐ 39,944 | 2026-08-01 | 2026-08-27 |
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 21 | ⭐ 1,650 | 2026-08-01 | 2026-08-27 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 23 | ⭐ 27,632 | 2026-08-01 | 2026-08-28 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 23 | ⭐ 39,951 | 2026-08-01 | 2026-08-28 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 22 | ⭐ 1,658 | 2026-08-01 | 2026-08-28 |
 | [haskell/cabal](../repos/haskell/cabal.md) | 12 | ⭐ 1,745 | 2026-08-01 | 2026-08-25 |
 | [agda/agda](../repos/agda/agda.md) | 12 | ⭐ 2,920 | 2026-08-03 | 2026-08-26 |
+| [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | 10 | ⭐ 2,533 | 2026-08-03 | 2026-08-28 |
 | [mtolly/onyx](../repos/mtolly/onyx.md) | 10 | ⭐ 291 | 2026-08-08 | 2026-08-24 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 9 | ⭐ 2,952 | 2026-08-01 | 2026-08-24 |
 | [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 9 | ⭐ 3,177 | 2026-08-01 | 2026-08-27 |
-| [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | 9 | ⭐ 2,533 | 2026-08-03 | 2026-08-25 |
 | [digital-asset/daml](../repos/digital-asset/daml.md) | 8 | ⭐ 913 | 2026-08-01 | 2026-08-19 |
 
 ---
@@ -147,4 +147,4 @@
 
 ---
 
-*Last updated: 2026-08-27T21:01:55.394Z*
+*Last updated: 2026-08-28T21:01:57.049Z*

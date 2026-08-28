@@ -1,26 +1,31 @@
 {
-  "generated_at": "2026-08-27T21:02:00.322Z",
+  "generated_at": "2026-08-28T21:02:01.841Z",
   "total_topics": 100,
   "topics": [
     {
       "topic": "hacktoberfest",
-      "repository_count": 212,
+      "repository_count": 216,
       "percentage": 7.8
     },
     {
       "topic": "ai",
-      "repository_count": 152,
+      "repository_count": 154,
       "percentage": 5.6
     },
     {
       "topic": "android",
-      "repository_count": 138,
+      "repository_count": 141,
       "percentage": 5.1
     },
     {
       "topic": "llm",
-      "repository_count": 115,
+      "repository_count": 116,
       "percentage": 4.2
+    },
+    {
+      "topic": "rust",
+      "repository_count": 102,
+      "percentage": 3.7
     },
     {
       "topic": "javascript",
@@ -28,14 +33,9 @@
       "percentage": 3.6
     },
     {
-      "topic": "rust",
-      "repository_count": 99,
-      "percentage": 3.6
-    },
-    {
       "topic": "python",
-      "repository_count": 93,
-      "percentage": 3.4
+      "repository_count": 97,
+      "percentage": 3.5
     },
     {
       "topic": "macos",
@@ -44,18 +44,23 @@
     },
     {
       "topic": "windows",
-      "repository_count": 88,
+      "repository_count": 89,
       "percentage": 3.2
     },
     {
       "topic": "java",
+      "repository_count": 88,
+      "percentage": 3.2
+    },
+    {
+      "topic": "typescript",
       "repository_count": 85,
       "percentage": 3.1
     },
     {
-      "topic": "typescript",
-      "repository_count": 83,
-      "percentage": 3
+      "topic": "mcp",
+      "repository_count": 81,
+      "percentage": 2.9
     },
     {
       "topic": "ios",
@@ -63,33 +68,28 @@
       "percentage": 2.9
     },
     {
-      "topic": "mcp",
-      "repository_count": 79,
-      "percentage": 2.9
-    },
-    {
       "topic": "claude-code",
-      "repository_count": 75,
+      "repository_count": 77,
       "percentage": 2.8
     },
     {
-      "topic": "linux",
-      "repository_count": 72,
-      "percentage": 2.6
+      "topic": "ai-agents",
+      "repository_count": 74,
+      "percentage": 2.7
     },
     {
-      "topic": "ai-agents",
-      "repository_count": 72,
+      "topic": "linux",
+      "repository_count": 73,
       "percentage": 2.6
     },
     {
       "topic": "open-source",
-      "repository_count": 70,
+      "repository_count": 72,
       "percentage": 2.6
     },
     {
       "topic": "kubernetes",
-      "repository_count": 67,
+      "repository_count": 69,
       "percentage": 2.5
     },
     {
@@ -99,7 +99,12 @@
     },
     {
       "topic": "self-hosted",
-      "repository_count": 60,
+      "repository_count": 62,
+      "percentage": 2.2
+    },
+    {
+      "topic": "golang",
+      "repository_count": 62,
       "percentage": 2.2
     },
     {
@@ -108,19 +113,19 @@
       "percentage": 2.2
     },
     {
-      "topic": "golang",
-      "repository_count": 60,
-      "percentage": 2.2
-    },
-    {
       "topic": "docker",
-      "repository_count": 58,
+      "repository_count": 59,
       "percentage": 2.1
     },
     {
       "topic": "agent",
-      "repository_count": 57,
+      "repository_count": 59,
       "percentage": 2.1
+    },
+    {
+      "topic": "go",
+      "repository_count": 54,
+      "percentage": 2
     },
     {
       "topic": "swift",
@@ -128,7 +133,7 @@
       "percentage": 2
     },
     {
-      "topic": "go",
+      "topic": "codex",
       "repository_count": 53,
       "percentage": 1.9
     },
@@ -140,12 +145,7 @@
     {
       "topic": "php",
       "repository_count": 51,
-      "percentage": 1.9
-    },
-    {
-      "topic": "codex",
-      "repository_count": 51,
-      "percentage": 1.9
+      "percentage": 1.8
     },
     {
       "topic": "agents",
@@ -164,7 +164,7 @@
     },
     {
       "topic": "cpp",
-      "repository_count": 47,
+      "repository_count": 48,
       "percentage": 1.7
     },
     {
@@ -173,14 +173,14 @@
       "percentage": 1.7
     },
     {
-      "topic": "c",
-      "repository_count": 45,
+      "topic": "ai-agent",
+      "repository_count": 46,
       "percentage": 1.7
     },
     {
-      "topic": "ai-agent",
+      "topic": "c",
       "repository_count": 45,
-      "percentage": 1.7
+      "percentage": 1.6
     },
     {
       "topic": "developer-tools",
@@ -198,17 +198,22 @@
       "percentage": 1.6
     },
     {
+      "topic": "machine-learning",
+      "repository_count": 43,
+      "percentage": 1.6
+    },
+    {
       "topic": "vue",
-      "repository_count": 42,
-      "percentage": 1.5
+      "repository_count": 43,
+      "percentage": 1.6
     },
     {
       "topic": "automation",
-      "repository_count": 39,
+      "repository_count": 40,
       "percentage": 1.4
     },
     {
-      "topic": "machine-learning",
+      "topic": "csharp",
       "repository_count": 39,
       "percentage": 1.4
     },
@@ -218,18 +223,13 @@
       "percentage": 1.4
     },
     {
-      "topic": "csharp",
+      "topic": "neovim",
       "repository_count": 38,
       "percentage": 1.4
     },
     {
-      "topic": "neovim",
-      "repository_count": 37,
-      "percentage": 1.4
-    },
-    {
       "topic": "kotlin",
-      "repository_count": 35,
+      "repository_count": 37,
       "percentage": 1.3
     },
     {
@@ -254,18 +254,23 @@
     },
     {
       "topic": "lua",
-      "repository_count": 30,
+      "repository_count": 31,
       "percentage": 1.1
     },
     {
       "topic": "sql",
       "repository_count": 29,
-      "percentage": 1.1
+      "percentage": 1
     },
     {
       "topic": "postgresql",
       "repository_count": 29,
-      "percentage": 1.1
+      "percentage": 1
+    },
+    {
+      "topic": "vim",
+      "repository_count": 29,
+      "percentage": 1
     },
     {
       "topic": "mysql",
@@ -273,17 +278,17 @@
       "percentage": 1
     },
     {
-      "topic": "vim",
-      "repository_count": 28,
-      "percentage": 1
-    },
-    {
-      "topic": "framework",
+      "topic": "monitoring",
       "repository_count": 28,
       "percentage": 1
     },
     {
       "topic": "skills",
+      "repository_count": 28,
+      "percentage": 1
+    },
+    {
+      "topic": "framework",
       "repository_count": 28,
       "percentage": 1
     },
@@ -294,11 +299,6 @@
     },
     {
       "topic": "privacy",
-      "repository_count": 27,
-      "percentage": 1
-    },
-    {
-      "topic": "monitoring",
       "repository_count": 27,
       "percentage": 1
     },
@@ -318,19 +318,29 @@
       "percentage": 1
     },
     {
+      "topic": "agentic-ai",
+      "repository_count": 27,
+      "percentage": 1
+    },
+    {
       "topic": "openclaw",
       "repository_count": 27,
       "percentage": 1
     },
     {
-      "topic": "c-plus-plus",
+      "topic": "mcp-server",
       "repository_count": 26,
-      "percentage": 1
+      "percentage": 0.9
     },
     {
-      "topic": "agentic-ai",
+      "topic": "neovim-plugin",
       "repository_count": 26,
-      "percentage": 1
+      "percentage": 0.9
+    },
+    {
+      "topic": "c-plus-plus",
+      "repository_count": 26,
+      "percentage": 0.9
     },
     {
       "topic": "scala",
@@ -338,19 +348,24 @@
       "percentage": 0.9
     },
     {
-      "topic": "mcp-server",
-      "repository_count": 25,
-      "percentage": 0.9
-    },
-    {
-      "topic": "neovim-plugin",
-      "repository_count": 25,
-      "percentage": 0.9
-    },
-    {
       "topic": "agent-skills",
+      "repository_count": 25,
+      "percentage": 0.9
+    },
+    {
+      "topic": "devops",
       "repository_count": 24,
       "percentage": 0.9
+    },
+    {
+      "topic": "anthropic",
+      "repository_count": 24,
+      "percentage": 0.9
+    },
+    {
+      "topic": "cloud",
+      "repository_count": 23,
+      "percentage": 0.8
     },
     {
       "topic": "api",
@@ -358,12 +373,7 @@
       "percentage": 0.8
     },
     {
-      "topic": "devops",
-      "repository_count": 23,
-      "percentage": 0.8
-    },
-    {
-      "topic": "artificial-intelligence",
+      "topic": "deep-learning",
       "repository_count": 23,
       "percentage": 0.8
     },
@@ -373,12 +383,12 @@
       "percentage": 0.8
     },
     {
-      "topic": "anthropic",
+      "topic": "artificial-intelligence",
       "repository_count": 23,
       "percentage": 0.8
     },
     {
-      "topic": "cloud",
+      "topic": "analytics",
       "repository_count": 22,
       "percentage": 0.8
     },
@@ -388,17 +398,7 @@
       "percentage": 0.8
     },
     {
-      "topic": "deep-learning",
-      "repository_count": 22,
-      "percentage": 0.8
-    },
-    {
       "topic": "git",
-      "repository_count": 21,
-      "percentage": 0.8
-    },
-    {
-      "topic": "analytics",
       "repository_count": 21,
       "percentage": 0.8
     },
@@ -414,6 +414,11 @@
     },
     {
       "topic": "security-tools",
+      "repository_count": 21,
+      "percentage": 0.8
+    },
+    {
+      "topic": "containers",
       "repository_count": 21,
       "percentage": 0.8
     },
@@ -458,11 +463,6 @@
       "percentage": 0.7
     },
     {
-      "topic": "containers",
-      "repository_count": 19,
-      "percentage": 0.7
-    },
-    {
       "topic": "distributed-systems",
       "repository_count": 19,
       "percentage": 0.7
@@ -474,6 +474,11 @@
     },
     {
       "topic": "ethereum",
+      "repository_count": 18,
+      "percentage": 0.7
+    },
+    {
+      "topic": "vpn",
       "repository_count": 18,
       "percentage": 0.7
     },
@@ -494,11 +499,6 @@
     },
     {
       "topic": "video",
-      "repository_count": 18,
-      "percentage": 0.7
-    },
-    {
-      "topic": "css",
       "repository_count": 18,
       "percentage": 0.7
     }

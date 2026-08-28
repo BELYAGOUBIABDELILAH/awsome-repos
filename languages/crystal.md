@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-27
+- **Last Updated**: 2026-08-28
 
 ---
 
@@ -16,10 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,913 | 2026-08-01 | 16 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,383 | 2026-08-06 | 3 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,949 | 2026-08-01 | 17 |
 
 
 ---
@@ -28,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,913 | 2026-08-01 | Invidious is an alternative front-end to YouTube |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,949 | 2026-08-01 | Invidious is an alternative front-end to YouTube |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,383 | 2026-08-06 | Hunt every Endpoint in your code, expose Shadow APIs, map the Attack Surface. |
@@ -40,7 +37,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,913 | 2026-08-01 | 16 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 22,949 | 2026-08-01 | 17 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,383 | 2026-08-06 | 3 |
 
 ---
@@ -49,7 +46,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | 16 | ⭐ 22,913 | 2026-08-01 | 2026-08-27 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | 17 | ⭐ 22,949 | 2026-08-01 | 2026-08-28 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | 3 | ⭐ 1,383 | 2026-08-06 | 2026-08-27 |
 
 ---
@@ -61,4 +58,4 @@
 
 ---
 
-*Last updated: 2026-08-27T21:01:55.379Z*
+*Last updated: 2026-08-28T21:01:57.027Z*

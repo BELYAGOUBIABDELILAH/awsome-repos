@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 134
+- **Total Repositories**: 139
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-25
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 17,268 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 4,592 | 2026-08-01 | 3 |
+| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | ⭐ 2,575 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [googleworkspace/cli](../repos/googleworkspace/cli.md) | ⭐ 30,593 | 2026-08-01 | 2 |
+| [apache/datafusion](../repos/apache/datafusion.md) | ⭐ 9,217 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [n0-computer/iroh](../repos/n0-computer/iroh.md) | ⭐ 12,347 | 2026-08-02 | 4 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 38,707 | 2026-08-10 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | ⭐ 2,564 | 2026-08-05 | 6 |
+| [vectordotdev/vector](../repos/vectordotdev/vector.md) | ⭐ 22,474 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 38,525 | 2026-08-10 | 7 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 6,730 | 2026-08-26 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cachix/devenv](../repos/cachix/devenv.md) | ⭐ 7,429 | 2026-08-11 | 3 |
+| [apache/opendal](../repos/apache/opendal.md) | ⭐ 5,355 | 2026-08-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonhowtf/omniget](../repos/tonhowtf/omniget.md) | ⭐ 9,137 | 2026-08-12 | 2 |
+| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 7,894 | 2026-08-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 6,694 | 2026-08-26 | 2 |
+| [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 45,967 | 2026-08-28 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RizRiyz/luvus](../repos/RizRiyz/luvus.md) | ⭐ 477 | 2026-08-26 | 2 |
+| [lance-format/lance](../repos/lance-format/lance.md) | ⭐ 6,986 | 2026-08-28 | 1 |
 
 
 ---
@@ -101,13 +101,13 @@
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,385 | 2026-08-19 | 5 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,303 | 2026-08-12 | 2 |
+| [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 47,938 | 2026-08-28 | 1 |
+| [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 45,967 | 2026-08-28 | 1 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,464 | 2026-08-05 | 4 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,953 | 2026-08-02 | 4 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,341 | 2026-08-02 | 2 |
 | [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,444 | 2026-08-05 | 4 |
-| [spacedriveapp/spacedrive](../repos/spacedriveapp/spacedrive.md) | ⭐ 38,820 | 2026-08-22 | 1 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 38,525 | 2026-08-10 | 7 |
 
 ---
 
@@ -117,13 +117,13 @@
 |------------|---------------|-------|------------|-----------|
 | [openai/codex](../repos/openai/codex.md) | 8 | ⭐ 118,042 | 2026-08-01 | 2026-08-25 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 8 | ⭐ 27,494 | 2026-08-03 | 2026-08-23 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 7 | ⭐ 38,525 | 2026-08-10 | 2026-08-27 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 8 | ⭐ 38,707 | 2026-08-10 | 2026-08-28 |
+| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 7 | ⭐ 2,575 | 2026-08-05 | 2026-08-28 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 6 | ⭐ 116,205 | 2026-07-30 | 2026-08-25 |
 | [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 6 | ⭐ 13,249 | 2026-08-01 | 2026-08-19 |
-| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 6 | ⭐ 2,564 | 2026-08-05 | 2026-08-27 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 6 | ⭐ 17,268 | 2026-08-01 | 2026-08-28 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 6 | ⭐ 91,388 | 2026-08-09 | 2026-08-23 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | 6 | ⭐ 95,653 | 2026-08-11 | 2026-08-24 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | 5 | ⭐ 15,903 | 2026-08-01 | 2026-08-19 |
 | [moghtech/komodo](../repos/moghtech/komodo.md) | 5 | ⭐ 11,998 | 2026-08-02 | 2026-08-19 |
 
 ---
@@ -146,7 +146,7 @@
 - [nolabs-ai/nono](../repos/nolabs-ai/nono.md) - Sandbox any AI agent in seconds - zero setup, zero latency.
 - [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [microsoft/mxc](../repos/microsoft/mxc.md) - Policy-driven, layered isolation and containment 
-- [t8y2/dbx](../repos/t8y2/dbx.md) - 20 MB lightweight cross-platform database client for 80+ databases, including MySQL, PostgreSQL, ...
+- [t8y2/dbx](../repos/t8y2/dbx.md) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, ...
 - [cocoindex-io/cocoindex](../repos/cocoindex-io/cocoindex.md) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [googleworkspace/cli](../repos/googleworkspace/cli.md) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admi...
 - [huggingface/candle](../repos/huggingface/candle.md) - Minimalist ML framework for Rust
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-27T21:01:55.428Z*
+*Last updated: 2026-08-28T21:01:57.096Z*

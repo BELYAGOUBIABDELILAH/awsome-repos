@@ -1,6 +1,6 @@
 # Aidoku&#x2F;Aidoku
 
-> Free and open source manga reader for iOS and iPadOS
+> Manga reading app for iOS, iPadOS, and macOS
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Aidoku&#x2F;Aidoku) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Swift |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 4,465 |
-| **Forks** | 🍴 278 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 4,502 |
+| **Forks** | 🍴 287 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 16, 2026 |
+| **Last Seen** | Aug 28, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-27T21:01:57.912Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-28T21:01:59.347Z*  
+*Data from 3 trending reports*

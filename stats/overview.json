@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-27T21:02:00.285Z",
-  "total_repositories": 2727,
-  "trending_today": 435,
-  "new_this_month": 2727,
+  "generated_at": "2026-08-28T21:02:01.797Z",
+  "total_repositories": 2767,
+  "trending_today": 446,
+  "new_this_month": 2767,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-08-27",
+  "last_collection": "2026-08-28",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 25,
+    "trending_days": 26,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "bilawalsidhu/gods-eye-view",
-    "stars": 7557,
-    "first_seen": "2026-08-27"
+    "full_name": "tailscale/tailcat",
+    "stars": 2582,
+    "first_seen": "2026-08-28"
   },
   "fastest_growing": {
     "full_name": "openai/whisper",
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 41697331,
-  "avg_stars": 15291,
-  "avg_trending_days": 3.9,
+  "total_stars": 42259727,
+  "avg_stars": 15273,
+  "avg_trending_days": 4,
   "language_count": 54,
-  "topic_count": 7776,
+  "topic_count": 7845,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }
