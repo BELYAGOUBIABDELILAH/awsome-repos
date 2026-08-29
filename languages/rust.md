@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 139
+- **Total Repositories**: 142
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-25
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 17,268 | 2026-08-01 | 6 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 89,217 | 2026-07-31 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | ⭐ 2,575 | 2026-08-05 | 7 |
+| [paritytech/polkadot-sdk](../repos/paritytech/polkadot-sdk.md) | ⭐ 2,799 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/datafusion](../repos/apache/datafusion.md) | ⭐ 9,217 | 2026-08-10 | 2 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 17,401 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 38,707 | 2026-08-10 | 8 |
+| [neondatabase/neon](../repos/neondatabase/neon.md) | ⭐ 22,988 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vectordotdev/vector](../repos/vectordotdev/vector.md) | ⭐ 22,474 | 2026-08-19 | 2 |
+| [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | ⭐ 5,697 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 6,730 | 2026-08-26 | 3 |
+| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 17,670 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/opendal](../repos/apache/opendal.md) | ⭐ 5,355 | 2026-08-27 | 2 |
+| [run-llama/liteparse](../repos/run-llama/liteparse.md) | ⭐ 12,196 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 7,894 | 2026-08-27 | 2 |
+| [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 64,633 | 2026-08-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 45,967 | 2026-08-28 | 1 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 6,745 | 2026-08-26 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lance-format/lance](../repos/lance-format/lance.md) | ⭐ 6,986 | 2026-08-28 | 1 |
+| [lance-format/lance](../repos/lance-format/lance.md) | ⭐ 6,998 | 2026-08-28 | 2 |
 
 
 ---
@@ -52,16 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 116,205 | 2026-07-30 | Empowering everyone to build reliable and efficient software. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | Build smaller, faster, and more secure desktop applications with a web frontend |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | A modern runtime for JavaScript and TypeScript. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | 2026-07-31 | An extremely fast Python package and project manager, written in Rust. |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 89,217 | 2026-07-31 | An extremely fast Python package and project manager, written in Rust. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 18,442 | 2026-08-01 | The most RAM efficient harness |
@@ -79,7 +70,16 @@
 | [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 25,045 | 2026-08-01 | Development at the speed of light |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [paritytech/polkadot-sdk](../repos/paritytech/polkadot-sdk.md) | ⭐ 2,792 | 2026-08-01 | The Parity Polkadot Blockchain SDK |
+| [paritytech/polkadot-sdk](../repos/paritytech/polkadot-sdk.md) | ⭐ 2,799 | 2026-08-01 | The Parity Polkadot Blockchain SDK |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bruits/satteri](../repos/bruits/satteri.md) | ⭐ 1,070 | 2026-08-01 | High-performance Markdown and MDX processing for the JavaScript ecosystem |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tursodatabase/turso](../repos/tursodatabase/turso.md) | ⭐ 23,593 | 2026-08-01 | A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [git-ai-project/git-ai](../repos/git-ai-project/git-ai.md) | ⭐ 2,445 | 2026-08-01 | A Git extension for tracking the AI-generated code in your repos |
 
 
 ---
@@ -93,11 +93,11 @@
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,653 | 2026-08-11 | 6 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 91,388 | 2026-08-09 | 6 |
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 88,393 | 2026-07-31 | 2 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 89,217 | 2026-07-31 | 3 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
-| [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 64,431 | 2026-08-20 | 2 |
+| [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 64,633 | 2026-08-20 | 3 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,385 | 2026-08-19 | 5 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,303 | 2026-08-12 | 2 |
@@ -118,10 +118,10 @@
 | [openai/codex](../repos/openai/codex.md) | 8 | ⭐ 118,042 | 2026-08-01 | 2026-08-25 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 8 | ⭐ 27,494 | 2026-08-03 | 2026-08-23 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 8 | ⭐ 38,707 | 2026-08-10 | 2026-08-28 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 7 | ⭐ 17,401 | 2026-08-01 | 2026-08-29 |
 | [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 7 | ⭐ 2,575 | 2026-08-05 | 2026-08-28 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 6 | ⭐ 116,205 | 2026-07-30 | 2026-08-25 |
 | [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 6 | ⭐ 13,249 | 2026-08-01 | 2026-08-19 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | 6 | ⭐ 17,268 | 2026-08-01 | 2026-08-28 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 6 | ⭐ 91,388 | 2026-08-09 | 2026-08-23 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | 6 | ⭐ 95,653 | 2026-08-11 | 2026-08-24 |
 | [moghtech/komodo](../repos/moghtech/komodo.md) | 5 | ⭐ 11,998 | 2026-08-02 | 2026-08-19 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-28T21:01:57.096Z*
+*Last updated: 2026-08-29T21:01:34.556Z*

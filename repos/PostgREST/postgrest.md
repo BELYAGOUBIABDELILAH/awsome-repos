@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Haskell |
 | **License** | MIT |
-| **Stars** | ⭐ 27,632 |
+| **Stars** | ⭐ 27,634 |
 | **Forks** | 🍴 1,227 |
-| **Trending Days** | 23 |
+| **Trending Days** | 24 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 28, 2026 |
+| **Last Seen** | Aug 29, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 23
-- **Longest Streak**: 10 days
+- **Trending Days**: 24
+- **Longest Streak**: 11 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-28T21:01:58.760Z*  
-*Data from 23 trending reports*
+*Last updated: 2026-08-29T21:01:36.326Z*  
+*Data from 24 trending reports*

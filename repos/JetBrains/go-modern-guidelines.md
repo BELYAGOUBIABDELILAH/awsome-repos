@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 2,556 |
-| **Forks** | 🍴 78 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 2,846 |
+| **Forks** | 🍴 81 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #5 |
 
 | **First Seen** | Aug 27, 2026 |
-| **Last Seen** | Aug 28, 2026 |
+| **Last Seen** | Aug 29, 2026 |
 
 
 ---
@@ -44,12 +44,13 @@
 ## Trending Timeline
 
 **Aug 28, 2026** — Rank #6 (+574 ⭐)  
+**Aug 29, 2026** — Rank #8 (+294 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #5
-- **Trending Days**: 2
-- **Longest Streak**: 2 days
+- **Trending Days**: 3
+- **Longest Streak**: 3 days
 
 ---
 
@@ -73,7 +74,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -86,11 +87,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 60&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #5)
 
 
 ---
 
-*Last updated: 2026-08-28T21:02:01.314Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-29T21:01:38.836Z*  
+*Data from 3 trending reports*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Not specified |
-| **Stars** | ⭐ 2,792 |
-| **Forks** | 🍴 1,231 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 2,799 |
+| **Forks** | 🍴 1,241 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 11, 2026 |
+| **Last Seen** | Aug 29, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 2,792+ stars, strong contributor base |
+| **Community** | Very Active | 2,799+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-28T21:01:58.527Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-08-29T21:01:36.096Z*  
+*Data from 3 trending reports*

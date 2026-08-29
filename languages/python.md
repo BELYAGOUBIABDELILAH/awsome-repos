@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 167
+- **Total Repositories**: 173
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-19
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,572 | 2026-07-31 | 5 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 59,900 | 2026-08-01 | 5 |
+| [livekit/agents](../repos/livekit/agents.md) | ⭐ 13,556 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,384 | 2026-08-01 | 9 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 37,858 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [livekit/agents](../repos/livekit/agents.md) | ⭐ 13,301 | 2026-08-03 | 4 |
+| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 73,881 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 36,435 | 2026-08-03 | 8 |
+| [google/skills](../repos/google/skills.md) | ⭐ 18,969 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 111,962 | 2026-08-03 | 4 |
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 35,358 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 73,810 | 2026-08-06 | 4 |
+| [Osmantic/ODS](../repos/Osmantic/ODS.md) | ⭐ 4,849 | 2026-08-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 34,991 | 2026-08-07 | 6 |
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 28,632 | 2026-08-29 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 3,466 | 2026-08-15 | 4 |
+| [warpdotdev/common-skills](../repos/warpdotdev/common-skills.md) | ⭐ 346 | 2026-08-29 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/Vibe-Trading](../repos/HKUDS/Vibe-Trading.md) | ⭐ 31,965 | 2026-08-24 | 2 |
+| [yifanfeng97/Hyper-Extract](../repos/yifanfeng97/Hyper-Extract.md) | ⭐ 3,720 | 2026-08-29 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 102,626 | 2026-07-30 | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | Robust Speech Recognition via Large-Scale Weak Supervision |
@@ -76,10 +73,13 @@
 | [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 9,822 | 2026-08-01 | Build local voice agents with open-source models |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 113,790 | 2026-08-01 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom... |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | 2026-08-01 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [trailofbits/skills](../repos/trailofbits/skills.md) | ⭐ 6,367 | 2026-08-01 | Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kangarooking/cangjie-skill](../repos/kangarooking/cangjie-skill.md) | ⭐ 5,798 | 2026-08-01 | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills |
 
 
 ---
@@ -100,7 +100,7 @@
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 134,172 | 2026-08-04 | 2 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 131,675 | 2026-08-14 | 3 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 129,762 | 2026-08-05 | 6 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 113,790 | 2026-08-01 | 9 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | 2026-08-01 | 10 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 111,962 | 2026-08-03 | 4 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 110,881 | 2026-08-20 | 3 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 11 | ⭐ 236,363 | 2026-08-01 | 2026-08-25 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 9 | ⭐ 113,790 | 2026-08-01 | 2026-08-21 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 10 | ⭐ 118,456 | 2026-08-01 | 2026-08-29 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 9 | ⭐ 1,384 | 2026-08-01 | 2026-08-28 |
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 8 | ⭐ 36,435 | 2026-08-03 | 2026-08-28 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 9 | ⭐ 37,858 | 2026-08-03 | 2026-08-29 |
 | [usestrix/strix](../repos/usestrix/strix.md) | 8 | ⭐ 56,671 | 2026-08-04 | 2026-08-21 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 8 | ⭐ 142,873 | 2026-08-07 | 2026-08-24 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 7 | ⭐ 75,597 | 2026-08-01 | 2026-08-26 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 7 | ⭐ 50,309 | 2026-08-03 | 2026-08-26 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 7 | ⭐ 38,949 | 2026-08-03 | 2026-08-24 |
-| [cactus-compute/needle](../repos/cactus-compute/needle.md) | 7 | ⭐ 7,498 | 2026-08-11 | 2026-08-19 |
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 7 | ⭐ 35,358 | 2026-08-07 | 2026-08-29 |
 
 ---
 
@@ -168,7 +168,7 @@
 - [livekit/agents](../repos/livekit/agents.md) - A framework for building realtime voice AI agents 🤖🎙️📹 
 - [comet-ml/opik](../repos/comet-ml/opik.md) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with compr...
 - [jamwithai/production-agentic-rag-course](../repos/jamwithai/production-agentic-rag-course.md) - 
-- [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+...
+- [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+...
 - [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...
 - [PostHog/posthog](../repos/PostHog/posthog.md) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tool...
 - [frappe/builder](../repos/frappe/builder.md) - Craft beautiful websites effortlessly with an intuitive visual builder and publish them instantly
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-28T21:01:57.088Z*
+*Last updated: 2026-08-29T21:01:34.549Z*

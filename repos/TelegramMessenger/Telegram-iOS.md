@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Swift |
 | **License** | Not specified |
-| **Stars** | ⭐ 8,852 |
-| **Forks** | 🍴 2,803 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 8,915 |
+| **Forks** | 🍴 2,856 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 16, 2026 |
+| **Last Seen** | Aug 29, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 2 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 8,852+ stars, strong contributor base |
+| **Community** | Very Active | 8,915+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-28T21:01:59.090Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-08-29T21:01:36.657Z*  
+*Data from 6 trending reports*

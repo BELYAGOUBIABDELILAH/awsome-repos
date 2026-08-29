@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 164
+- **Total Repositories**: 167
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 5,920 | 2026-08-01 | 9 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 6,150 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 49,948 | 2026-08-01 | 3 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 50,154 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/checkout](../repos/actions/checkout.md) | ⭐ 8,775 | 2026-08-02 | 4 |
+| [actions/checkout](../repos/actions/checkout.md) | ⭐ 8,784 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EveryInc/compound-engineering-plugin](../repos/EveryInc/compound-engineering-plugin.md) | ⭐ 24,650 | 2026-08-04 | 4 |
+| [EveryInc/compound-engineering-plugin](../repos/EveryInc/compound-engineering-plugin.md) | ⭐ 24,672 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 21,556 | 2026-08-07 | 10 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 22,177 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 55,796 | 2026-08-12 | 3 |
+| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 14,574 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 85,461 | 2026-08-14 | 2 |
+| [THU-MAIC/OpenMAIC](../repos/THU-MAIC/OpenMAIC.md) | ⭐ 22,101 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NeoLabHQ/context-engineering-kit](../repos/NeoLabHQ/context-engineering-kit.md) | ⭐ 1,466 | 2026-08-27 | 2 |
+| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 8,221 | 2026-08-26 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tutti-os/tutti](../repos/tutti-os/tutti.md) | ⭐ 3,575 | 2026-08-27 | 2 |
+| [anthropics/claude-code-action](../repos/anthropics/claude-code-action.md) | ⭐ 8,752 | 2026-08-29 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [1weiho/open-slide](../repos/1weiho/open-slide.md) | ⭐ 7,243 | 2026-08-27 | 2 |
+| [cloudflare/kumo](../repos/cloudflare/kumo.md) | ⭐ 3,759 | 2026-08-29 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | Visual Studio Code |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 52,300 | 2026-07-31 | Beautifully designed components that you can copy and paste into your apps |
@@ -64,7 +61,7 @@
 | [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 20,293 | 2026-08-01 | The open-source alternative to Claude Cowork (powered by opencode) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 5,920 | 2026-08-01 | Cursor plugin specification and official plugins |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 6,150 | 2026-08-01 | Cursor plugin specification and official plugins |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 17,453 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
@@ -76,10 +73,13 @@
 | [modelcontextprotocol/ext-apps](../repos/modelcontextprotocol/ext-apps.md) | ⭐ 2,653 | 2026-08-01 | Official repo for spec &amp; SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 49,948 | 2026-08-01 | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 50,154 | 2026-08-01 | Chrome DevTools for coding agents |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google-labs-code/design.md](../repos/google-labs-code/design.md.md) | ⭐ 26,813 | 2026-08-01 | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [fingerprintjs/fingerprintjs](../repos/fingerprintjs/fingerprintjs.md) | ⭐ 28,015 | 2026-08-01 | The most advanced free and open-source browser fingerprinting library |
 
 
 ---
@@ -115,9 +115,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 11 | ⭐ 22,177 | 2026-08-07 | 2026-08-29 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 10 | ⭐ 6,150 | 2026-08-01 | 2026-08-29 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 10 | ⭐ 27,673 | 2026-08-02 | 2026-08-26 |
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 10 | ⭐ 21,556 | 2026-08-07 | 2026-08-28 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 9 | ⭐ 5,920 | 2026-08-01 | 2026-08-28 |
 | [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
 | [frappe/lms](../repos/frappe/lms.md) | 9 | ⭐ 3,166 | 2026-08-06 | 2026-08-26 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-28T21:01:57.106Z*
+*Last updated: 2026-08-29T21:01:34.566Z*

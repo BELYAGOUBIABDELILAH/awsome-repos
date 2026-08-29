@@ -1,6 +1,6 @@
 # K-Dense-AI&#x2F;scientific-agent-skills
 
-> Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+> Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;K-Dense-AI&#x2F;scientific-agent-skills) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 36,435 |
-| **Forks** | 🍴 3,473 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 37,858 |
+| **Forks** | 🍴 3,567 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 28, 2026 |
+| **Last Seen** | Aug 29, 2026 |
 
 
 ---
@@ -46,12 +46,13 @@
 **Aug 26, 2026** — Rank #14 (+130 ⭐)  
 **Aug 27, 2026** — Rank #7 (+494 ⭐)  
 **Aug 28, 2026** — Rank #2 (+720 ⭐)  
+**Aug 29, 2026** — Rank #3 (+1604 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 8
-- **Longest Streak**: 3 days
+- **Trending Days**: 9
+- **Longest Streak**: 4 days
 
 ---
 
@@ -94,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-08-28T21:01:59.250Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-08-29T21:01:36.814Z*  
+*Data from 9 trending reports*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 9
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-28
+- **Last Updated**: 2026-08-29
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,197 | 2026-08-01 | 21 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,200 | 2026-08-01 | 22 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | ⭐ 248 | 2026-08-05 | 3 |
 
 
 ---
@@ -28,7 +31,7 @@
 | [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 501 | 2026-08-01 | List of packages for Nimble |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,197 | 2026-08-01 | Nim is a statically typed compiled systems programming language. It combines successful concepts ... |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,200 | 2026-08-01 | Nim is a statically typed compiled systems programming language. It combines successful concepts ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 661 | 2026-08-02 | Nim implementation of the Ethereum Beacon Chain |
@@ -58,14 +61,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,197 | 2026-08-01 | 21 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,200 | 2026-08-01 | 22 |
 | [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | ⭐ 1,301 | 2026-08-14 | 2 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 661 | 2026-08-02 | 6 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 625 | 2026-08-05 | 2 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 501 | 2026-08-01 | 7 |
 | [crashappsec/chalk](../repos/crashappsec/chalk.md) | ⭐ 438 | 2026-08-05 | 1 |
 | [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | ⭐ 317 | 2026-08-06 | 3 |
-| [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | ⭐ 248 | 2026-08-05 | 2 |
+| [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | ⭐ 248 | 2026-08-05 | 3 |
 | [status-im/nim-stew](../repos/status-im/nim-stew.md) | ⭐ 154 | 2026-08-06 | 3 |
 
 ---
@@ -74,12 +77,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 21 | ⭐ 18,197 | 2026-08-01 | 2026-08-28 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 22 | ⭐ 18,200 | 2026-08-01 | 2026-08-29 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | 7 | ⭐ 501 | 2026-08-01 | 2026-08-27 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | 6 | ⭐ 661 | 2026-08-02 | 2026-08-15 |
+| [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | 3 | ⭐ 248 | 2026-08-05 | 2026-08-29 |
 | [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | 3 | ⭐ 317 | 2026-08-06 | 2026-08-09 |
 | [status-im/nim-stew](../repos/status-im/nim-stew.md) | 3 | ⭐ 154 | 2026-08-06 | 2026-08-08 |
-| [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | 2 | ⭐ 248 | 2026-08-05 | 2026-08-06 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | 2 | ⭐ 625 | 2026-08-05 | 2026-08-06 |
 | [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | 2 | ⭐ 1,301 | 2026-08-14 | 2026-08-17 |
 | [crashappsec/chalk](../repos/crashappsec/chalk.md) | 1 | ⭐ 438 | 2026-08-05 | 2026-08-05 |
@@ -100,4 +103,4 @@
 
 ---
 
-*Last updated: 2026-08-28T21:01:57.072Z*
+*Last updated: 2026-08-29T21:01:34.538Z*

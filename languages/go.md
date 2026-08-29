@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 198
+- **Total Repositories**: 204
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-08-24
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 46,699 | 2026-08-01 | 9 |
+| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 6,049 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,678 | 2026-08-01 | 11 |
+| [tailscale/tailscale](../repos/tailscale/tailscale.md) | ⭐ 35,770 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,858 | 2026-08-01 | 9 |
+| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,033 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailscale/tailscale](../repos/tailscale/tailscale.md) | ⭐ 35,705 | 2026-08-02 | 3 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 89,592 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 22,125 | 2026-08-06 | 2 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 22,167 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 20,625 | 2026-08-11 | 4 |
+| [anchore/syft](../repos/anchore/syft.md) | ⭐ 9,476 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [compozy/compozy](../repos/compozy/compozy.md) | ⭐ 2,694 | 2026-08-15 | 3 |
+| [envoyproxy/gateway](../repos/envoyproxy/gateway.md) | ⭐ 2,997 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [milvus-io/milvus](../repos/milvus-io/milvus.md) | ⭐ 45,852 | 2026-08-19 | 4 |
+| [JetBrains/go-modern-guidelines](../repos/JetBrains/go-modern-guidelines.md) | ⭐ 2,846 | 2026-08-27 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grafana/alloy](../repos/grafana/alloy.md) | ⭐ 3,480 | 2026-08-25 | 3 |
+| [tailscale/tailcat](../repos/tailscale/tailcat.md) | ⭐ 3,418 | 2026-08-28 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/go-modern-guidelines](../repos/JetBrains/go-modern-guidelines.md) | ⭐ 2,556 | 2026-08-27 | 2 |
+| [workweave/router](../repos/workweave/router.md) | ⭐ 2,635 | 2026-08-28 | 2 |
 
 
 ---
@@ -64,7 +64,7 @@
 | [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,047 | 2026-08-01 | GitHub Stacked PRs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 5,435 | 2026-08-01 | The system of action for AI-native cybersecurity—where intent becomes governed execution, evidenc... |
+| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 6,049 | 2026-08-01 | The system of action for AI-native cybersecurity—where intent becomes governed execution, evidenc... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 46,694 | 2026-08-01 | Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-sour... |
@@ -92,8 +92,8 @@
 | [golang/go](../repos/golang/go.md) | ⭐ 135,891 | 2026-07-31 | 6 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,500 | 2026-08-04 | 2 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,657 | 2026-08-15 | 4 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 89,592 | 2026-08-06 | 7 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 89,402 | 2026-08-06 | 6 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,306 | 2026-08-12 | 5 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | 2026-08-03 | 3 |
@@ -121,10 +121,10 @@
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 9 | ⭐ 20,858 | 2026-08-01 | 2026-08-28 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 8 | ⭐ 46,694 | 2026-08-01 | 2026-08-19 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 7 | ⭐ 1,592 | 2026-08-02 | 2026-08-22 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 7 | ⭐ 89,592 | 2026-08-06 | 2026-08-29 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 7 | ⭐ 39,000 | 2026-08-07 | 2026-08-23 |
 | [golang/go](../repos/golang/go.md) | 6 | ⭐ 135,891 | 2026-07-31 | 2026-08-19 |
 | [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 6 | ⭐ 32,878 | 2026-08-02 | 2026-08-07 |
-| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 6 | ⭐ 37,207 | 2026-08-03 | 2026-08-22 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-28T21:01:57.041Z*
+*Last updated: 2026-08-29T21:01:34.514Z*

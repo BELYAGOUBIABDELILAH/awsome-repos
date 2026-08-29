@@ -14,8 +14,10 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 982 | 2026-08-01 | 15 |
 
-*No MATLAB repositories trending today*
 
 ---
 
@@ -23,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | The MATLAB toolbox for MEG, EEG and iEEG analysis |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 982 | 2026-08-01 | The MATLAB toolbox for MEG, EEG and iEEG analysis |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,733 | 2026-08-01 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, ... |
@@ -42,7 +44,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,733 | 2026-08-01 | 11 |
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 981 | 2026-08-01 | 14 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 982 | 2026-08-01 | 15 |
 | [CERN/TIGRE](../repos/CERN/TIGRE.md) | ⭐ 795 | 2026-08-04 | 1 |
 | [mtex-toolbox/mtex](../repos/mtex-toolbox/mtex.md) | ⭐ 376 | 2026-08-14 | 4 |
 
@@ -52,7 +54,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 14 | ⭐ 981 | 2026-08-01 | 2026-08-26 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 15 | ⭐ 982 | 2026-08-01 | 2026-08-29 |
 | [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | 11 | ⭐ 7,733 | 2026-08-01 | 2026-08-15 |
 | [mtex-toolbox/mtex](../repos/mtex-toolbox/mtex.md) | 4 | ⭐ 376 | 2026-08-14 | 2026-08-17 |
 | [CERN/TIGRE](../repos/CERN/TIGRE.md) | 1 | ⭐ 795 | 2026-08-04 | 2026-08-04 |
@@ -68,4 +70,4 @@
 
 ---
 
-*Last updated: 2026-08-28T21:01:57.068Z*
+*Last updated: 2026-08-29T21:01:34.534Z*

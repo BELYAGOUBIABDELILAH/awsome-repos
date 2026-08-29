@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 61
+- **Total Repositories**: 63
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-23
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,746 | 2026-08-01 | 8 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,748 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,305 | 2026-08-01 | 11 |
+| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,800 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | ⭐ 8,923 | 2026-08-03 | 6 |
+| [yangzongzhuan/RuoYi](../repos/yangzongzhuan/RuoYi.md) | ⭐ 8,525 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,359 | 2026-08-05 | 2 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,723 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 28,307 | 2026-08-12 | 4 |
+| [google/fonts](../repos/google/fonts.md) | ⭐ 20,428 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Manavarya09/design-extract](../repos/Manavarya09/design-extract.md) | ⭐ 3,961 | 2026-08-27 | 2 |
+| [kubernetes/website](../repos/kubernetes/website.md) | ⭐ 5,365 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tianma-if/edgeever](../repos/tianma-if/edgeever.md) | ⭐ 1,289 | 2026-08-27 | 2 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 25,167 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openshift/openshift-docs](../repos/openshift/openshift-docs.md) | ⭐ 878 | 2026-08-28 | 1 |
+| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,362 | 2026-08-05 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [davidarroyo1234/InstagramUnfollowers](../repos/davidarroyo1234/InstagramUnfollowers.md) | ⭐ 4,788 | 2026-08-26 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ultrasecurity/Storm-Breaker](../repos/ultrasecurity/Storm-Breaker.md) | ⭐ 5,901 | 2026-08-29 | 1 |
 
 
 ---
@@ -52,7 +58,7 @@
 | [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,726 | 2026-08-01 | A collection of several hundred online tools for OSINT |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,746 | 2026-08-01 | :blue_book: Home Assistant User documentation |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,748 | 2026-08-01 | :blue_book: Home Assistant User documentation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 7,828 | 2026-08-01 | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional... |
@@ -64,7 +70,7 @@
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,305 | 2026-08-01 | from vibe coding to agentic engineering - practice makes claude perfect |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,774 | 2026-08-01 | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
+| [microsoft/fluentui-system-icons](../repos/microsoft/fluentui-system-icons.md) | ⭐ 10,800 | 2026-08-01 | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 20,546 | 2026-08-01 | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment dat... |
@@ -73,7 +79,7 @@
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,179 | 2026-08-01 | Awesome Docker Compose samples |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [yangzongzhuan/RuoYi](../repos/yangzongzhuan/RuoYi.md) | ⭐ 8,470 | 2026-08-02 | :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用 |
+| [yangzongzhuan/RuoYi](../repos/yangzongzhuan/RuoYi.md) | ⭐ 8,525 | 2026-08-02 | :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用 |
 
 
 ---
@@ -93,15 +99,15 @@
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 28,882 | 2026-08-19 | 4 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 28,307 | 2026-08-12 | 4 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,223 | 2026-08-03 | 5 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 25,167 | 2026-08-04 | 6 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 24,767 | 2026-08-04 | 5 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 20,546 | 2026-08-01 | 4 |
-| [google/fonts](../repos/google/fonts.md) | ⭐ 20,401 | 2026-08-03 | 2 |
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,684 | 2026-08-02 | 3 |
+| [google/fonts](../repos/google/fonts.md) | ⭐ 20,428 | 2026-08-03 | 3 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,723 | 2026-08-02 | 4 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,471 | 2026-08-04 | 5 |
-| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,359 | 2026-08-05 | 2 |
+| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,362 | 2026-08-05 | 3 |
+| [atelier-anchor/smiley-sans](../repos/atelier-anchor/smiley-sans.md) | ⭐ 14,742 | 2026-08-29 | 1 |
 | [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,067 | 2026-08-07 | 1 |
-| [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 11,860 | 2026-08-01 | 1 |
 
 ---
 
@@ -111,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 11 | ⭐ 65,305 | 2026-08-01 | 2026-08-28 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 11 | ⭐ 135,251 | 2026-08-08 | 2026-08-25 |
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 8 | ⭐ 9,746 | 2026-08-01 | 2026-08-28 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 9 | ⭐ 9,748 | 2026-08-01 | 2026-08-29 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 7 | ⭐ 29,171 | 2026-08-09 | 2026-08-25 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 6 | ⭐ 7,267 | 2026-08-03 | 2026-08-24 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 6 | ⭐ 208,365 | 2026-08-03 | 2026-08-23 |
 | [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 6 | ⭐ 8,923 | 2026-08-03 | 2026-08-28 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 6 | ⭐ 25,167 | 2026-08-04 | 2026-08-29 |
 | [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 6 | ⭐ 6,118 | 2026-08-05 | 2026-08-23 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | 5 | ⭐ 46,179 | 2026-08-01 | 2026-08-27 |
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 5 | ⭐ 27,223 | 2026-08-03 | 2026-08-23 |
 
 ---
 
@@ -185,7 +191,9 @@
 - [tianma-if/edgeever](../repos/tianma-if/edgeever.md) - Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器...
 - [rdkit/rdkit](../repos/rdkit/rdkit.md) - The official sources for the RDKit library
 - [openshift/openshift-docs](../repos/openshift/openshift-docs.md) - OpenShift 3 and 4 product and community documentation
+- [ultrasecurity/Storm-Breaker](../repos/ultrasecurity/Storm-Breaker.md) - Social engineering tool [Access Webcam &amp; Microphone  &amp; Location Finder] With {Py,JS,PHP}
+- [atelier-anchor/smiley-sans](../repos/atelier-anchor/smiley-sans.md) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 
 ---
 
-*Last updated: 2026-08-28T21:01:57.046Z*
+*Last updated: 2026-08-29T21:01:34.518Z*

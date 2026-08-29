@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | ⭐ 10,329 | 2026-08-03 | 4 |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 6,167 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Aidoku/Aidoku](../repos/Aidoku/Aidoku.md) | ⭐ 4,502 | 2026-08-03 | 3 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,915 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,891 | 2026-08-04 | 11 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,892 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,510 | 2026-08-04 | 7 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,853 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getsentry/sentry-cocoa](../repos/getsentry/sentry-cocoa.md) | ⭐ 1,111 | 2026-08-07 | 4 |
+| [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,219 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,142 | 2026-08-08 | 5 |
+| [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,904 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 923 | 2026-08-10 | 4 |
+| [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 933 | 2026-08-10 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/Swiftfin](../repos/jellyfin/Swiftfin.md) | ⭐ 4,125 | 2026-08-14 | 4 |
+| [openai/tart](../repos/openai/tart.md) | ⭐ 6,610 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [awaseem/foqos](../repos/awaseem/foqos.md) | ⭐ 747 | 2026-08-26 | 2 |
+| [awaseem/foqos](../repos/awaseem/foqos.md) | ⭐ 755 | 2026-08-26 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [kitknox/rootshell](../repos/kitknox/rootshell.md) | ⭐ 555 | 2026-08-27 | 2 |
 
 
 ---
@@ -58,7 +61,7 @@
 | [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,599 | 2026-08-01 | Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detect... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 6,100 | 2026-08-01 | The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with n... |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 6,167 | 2026-08-01 | The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with n... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apple/container](../repos/apple/container.md) | ⭐ 49,456 | 2026-08-01 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It ... |
@@ -89,13 +92,13 @@
 | [apple/container](../repos/apple/container.md) | ⭐ 49,456 | 2026-08-01 | 10 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,843 | 2026-08-12 | 5 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,847 | 2026-08-04 | 6 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,853 | 2026-08-04 | 7 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,203 | 2026-08-01 | 6 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
 | [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,360 | 2026-08-12 | 3 |
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,891 | 2026-08-04 | 11 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,892 | 2026-08-04 | 12 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,372 | 2026-08-24 | 3 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,219 | 2026-08-17 | 2 |
@@ -103,7 +106,7 @@
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,568 | 2026-08-01 | 1 |
 | [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,422 | 2026-08-17 | 2 |
 | [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
-| [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,210 | 2026-08-06 | 3 |
+| [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,219 | 2026-08-06 | 4 |
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,284 | 2026-08-01 | 10 |
 
 ---
@@ -112,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 11 | ⭐ 14,891 | 2026-08-04 | 2026-08-28 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 12 | ⭐ 14,892 | 2026-08-04 | 2026-08-29 |
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 10 | ⭐ 11,284 | 2026-08-01 | 2026-08-25 |
 | [apple/container](../repos/apple/container.md) | 10 | ⭐ 49,456 | 2026-08-01 | 2026-08-27 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 9 | ⭐ 70,303 | 2026-08-05 | 2026-08-27 |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 7 | ⭐ 6,167 | 2026-08-01 | 2026-08-29 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 7 | ⭐ 8,510 | 2026-08-04 | 2026-08-28 |
 | [sozercan/kaset](../repos/sozercan/kaset.md) | 7 | ⭐ 2,094 | 2026-08-04 | 2026-08-21 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 7 | ⭐ 26,853 | 2026-08-04 | 2026-08-29 |
 | [apple/coreai-models](../repos/apple/coreai-models.md) | 7 | ⭐ 1,972 | 2026-08-12 | 2026-08-24 |
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 6 | ⭐ 6,100 | 2026-08-01 | 2026-08-25 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 6 | ⭐ 26,203 | 2026-08-01 | 2026-08-19 |
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 6 | ⭐ 26,847 | 2026-08-04 | 2026-08-26 |
 
 ---
 
@@ -216,4 +219,4 @@
 
 ---
 
-*Last updated: 2026-08-28T21:01:57.104Z*
+*Last updated: 2026-08-29T21:01:34.564Z*

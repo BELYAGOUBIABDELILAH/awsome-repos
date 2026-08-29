@@ -1,6 +1,6 @@
 # thejaustin&#x2F;ShizukuPlus
 
-> [ HOBBY PROJECT ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you find. [WIP - Development slowed due to new job]
+> An enhanced fork of Shizuku — adds Root&#x2F;ADB&#x2F;Dhizuku unification, a Plus API suite, and OneUI&#x2F;Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;thejaustin&#x2F;ShizukuPlus) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 603 |
-| **Forks** | 🍴 39 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 810 |
+| **Forks** | 🍴 47 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 4, 2026 |
+| **Last Seen** | Aug 29, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Kotlin or similar-topics*
+*Similar: Check repositories in Kotlin or adb*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 3 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-
+[`adb`](../../topics/adb.md) [`android`](../../topics/android.md) [`android-app`](../../topics/android-app.md) [`dhizuku`](../../topics/dhizuku.md) [`kotlin`](../../topics/kotlin.md) [`privileged-access`](../../topics/privileged-access.md) [`root`](../../topics/root.md) [`shizuku`](../../topics/shizuku.md) 
 
 ### Curated Categories
-`General` 
+`Mobile Development` `Systems Programming` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 60&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-28T21:01:59.094Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-08-29T21:01:36.661Z*  
+*Data from 4 trending reports*

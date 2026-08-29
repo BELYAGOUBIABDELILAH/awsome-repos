@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | MIT |
-| **Stars** | ⭐ 15,200 |
-| **Forks** | 🍴 1,783 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 15,258 |
+| **Forks** | 🍴 1,798 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 19, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Aug 29, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in C++ or automatic-differentiation*
+*Similar: Check repositories in C++ or machine-learning*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`automatic-differentiation`](../../topics/automatic-differentiation.md) [`large-language-models`](../../topics/large-language-models.md) [`machine-learning`](../../topics/machine-learning.md) [`tensor-algebra`](../../topics/tensor-algebra.md) 
+[`machine-learning`](../../topics/machine-learning.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `Systems Programming` `Education &amp; Learning` 
+`Artificial Intelligence` `Systems Programming` `Education &amp; Learning` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-28T21:02:00.886Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-08-29T21:01:38.469Z*  
+*Data from 2 trending reports*

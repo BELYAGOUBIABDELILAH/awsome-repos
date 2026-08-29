@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 345
+- **Total Repositories**: 349
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-25
-- **Average Stars**: 22820
+- **Average Stars**: 22734
 
 ---
 
@@ -17,19 +17,19 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,572 | Python |  |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 24,188 | JavaScript |  |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 17,401 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 17,268 | Rust |  |
+| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 6,049 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,858 | Go |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,692 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,456 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,457 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,242 | Scala |  |
@@ -38,13 +38,13 @@
 | [apache/spark](../repos/apache/spark.md) | ⭐ 43,900 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,302 | Shell |  |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,323 | Shell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,055 | Lua |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,438 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,431 | OCaml |  |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,200 | Nim |  |
 
 
 ---
@@ -79,6 +79,9 @@
 | [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 18,442 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | Python | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 236,363 | Python | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
@@ -94,18 +97,12 @@
 | [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 4,592 | Rust | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 17,268 | Rust | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,858 | Go | 1 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 17,401 | Rust | 2 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 116,205 | Rust | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,572 | Python | 2026-07-31 |
@@ -129,14 +126,21 @@
 | [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 9,822 | Python | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 113,790 | Python | 2026-08-01 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | Python | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 236,363 | Python | 2026-08-01 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [fishaudio/fish-speech](../repos/fishaudio/fish-speech.md) | ⭐ 31,852 | Python | 2026-08-01 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-08-29](../archive/2026/08/2026-08-29.md)
+- 42 repositories trending
+- Top: harry0703&#x2F;MoneyPrinterTurbo
 
 ### [2026-08-28](../archive/2026/08/2026-08-28.md)
 - 60 repositories trending
@@ -162,10 +166,6 @@
 - 42 repositories trending
 - Top: NousResearch&#x2F;hermes-agent
 
-### [2026-08-22](../archive/2026/08/2026-08-22.md)
-- 55 repositories trending
-- Top: NousResearch&#x2F;hermes-agent
-
 
 ---
 
@@ -175,31 +175,31 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 26 days | 2026-08-01 | 2026-08-28 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 24 days | 2026-08-01 | 2026-08-28 |
-| [vlang/v](../repos/vlang/v.md) | 23 days | 2026-08-01 | 2026-08-28 |
-| [joernio/joern](../repos/joernio/joern.md) | 22 days | 2026-08-01 | 2026-08-28 |
+| [apache/spark](../repos/apache/spark.md) | 27 days | 2026-08-01 | 2026-08-29 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 25 days | 2026-08-01 | 2026-08-29 |
+| [vlang/v](../repos/vlang/v.md) | 24 days | 2026-08-01 | 2026-08-29 |
+| [joernio/joern](../repos/joernio/joern.md) | 23 days | 2026-08-01 | 2026-08-29 |
 | [vim/vim](../repos/vim/vim.md) | 22 days | 2026-08-01 | 2026-08-28 |
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 21 days | 2026-08-01 | 2026-08-28 |
-| [facebook/infer](../repos/facebook/infer.md) | 18 days | 2026-08-02 | 2026-08-28 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 22 days | 2026-08-01 | 2026-08-29 |
+| [facebook/infer](../repos/facebook/infer.md) | 19 days | 2026-08-02 | 2026-08-29 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 17 days | 2026-08-02 | 2026-08-29 |
 | [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 17 days | 2026-08-04 | 2026-08-26 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | 16 days | 2026-08-01 | 2026-08-28 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 16 days | 2026-08-02 | 2026-08-28 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 63 repositories (18%)
+- **Python**: 65 repositories (19%)
 - **TypeScript**: 41 repositories (12%)
-- **Go**: 34 repositories (10%)
+- **Go**: 35 repositories (10%)
 - **C**: 30 repositories (9%)
-- **Rust**: 26 repositories (8%)
+- **Rust**: 27 repositories (8%)
 
 ### Trending Frequency
-- **Daily Average**: 44.2 repositories
-- **Peak Day**: 2026-08-19 (64 repositories)
+- **Daily Average**: 44.1 repositories
+- **Peak Day**: 2026-08-19 (63 repositories)
 - **Growth Rate**: 100% this month
 
 ---
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-08-28T21:01:56.759Z*
+*Last updated: 2026-08-29T21:01:34.274Z*

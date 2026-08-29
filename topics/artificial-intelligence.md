@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 658
+- **Total Repositories**: 665
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-25
-- **Average Stars**: 19118
+- **Average Stars**: 19104
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,766 | C++ |  |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,572 | Python |  |
+| [paritytech/polkadot-sdk](../repos/paritytech/polkadot-sdk.md) | ⭐ 2,799 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 59,900 | Python |  |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 17,401 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 24,188 | JavaScript |  |
+| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 6,049 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 17,268 | Rust |  |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 126,245 | C++ |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 46,699 | Go |  |
+| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,096 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,678 | Go |  |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,819 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,858 | Go |  |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,757 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,373 | Java |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,692 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,091 | C |  |
+| [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,546 | Ruby |  |
 
 
 ---
@@ -85,6 +85,9 @@
 | [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 18,442 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | Python | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 236,363 | Python | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
@@ -95,20 +98,11 @@
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 24,188 | JavaScript | 7 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 48,413 | TypeScript | 1 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,766 | C++ | 2026-07-30 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 102,626 | Python | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,572 | Python | 2026-07-31 |
@@ -132,11 +126,21 @@
 | [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 9,822 | Python | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 113,790 | Python | 2026-08-01 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | Python | 2026-08-01 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [kangarooking/cangjie-skill](../repos/kangarooking/cangjie-skill.md) | ⭐ 5,798 | Python | 2026-08-01 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 236,363 | Python | 2026-08-01 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-08-29](../archive/2026/08/2026-08-29.md)
+- 76 repositories trending
+- Top: ggml-org&#x2F;llama.cpp
 
 ### [2026-08-28](../archive/2026/08/2026-08-28.md)
 - 105 repositories trending
@@ -162,10 +166,6 @@
 - 80 repositories trending
 - Top: NousResearch&#x2F;hermes-agent
 
-### [2026-08-22](../archive/2026/08/2026-08-22.md)
-- 90 repositories trending
-- Top: NousResearch&#x2F;hermes-agent
-
 
 ---
 
@@ -175,30 +175,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 26 days | 2026-08-01 | 2026-08-28 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 24 days | 2026-08-01 | 2026-08-28 |
+| [apache/spark](../repos/apache/spark.md) | 27 days | 2026-08-01 | 2026-08-29 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 25 days | 2026-08-01 | 2026-08-29 |
 | [firezone/firezone](../repos/firezone/firezone.md) | 24 days | 2026-08-02 | 2026-08-28 |
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 23 days | 2026-08-01 | 2026-08-28 |
-| [joernio/joern](../repos/joernio/joern.md) | 22 days | 2026-08-01 | 2026-08-28 |
+| [joernio/joern](../repos/joernio/joern.md) | 23 days | 2026-08-01 | 2026-08-29 |
 | [vim/vim](../repos/vim/vim.md) | 22 days | 2026-08-01 | 2026-08-28 |
-| [emqx/emqx](../repos/emqx/emqx.md) | 20 days | 2026-08-01 | 2026-08-28 |
-| [sainnhe/everforest](../repos/sainnhe/everforest.md) | 20 days | 2026-08-01 | 2026-08-28 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 19 days | 2026-08-01 | 2026-08-28 |
-| [discourse/discourse](../repos/discourse/discourse.md) | 18 days | 2026-08-01 | 2026-08-28 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 21 days | 2026-08-01 | 2026-08-29 |
+| [sainnhe/everforest](../repos/sainnhe/everforest.md) | 21 days | 2026-08-01 | 2026-08-29 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 20 days | 2026-08-01 | 2026-08-29 |
+| [discourse/discourse](../repos/discourse/discourse.md) | 19 days | 2026-08-01 | 2026-08-29 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 88 repositories (13%)
-- **Go**: 78 repositories (12%)
+- **Python**: 89 repositories (13%)
+- **Go**: 81 repositories (12%)
 - **TypeScript**: 64 repositories (10%)
 - **C++**: 42 repositories (6%)
-- **C**: 40 repositories (6%)
+- **Rust**: 41 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 85.1 repositories
+- **Daily Average**: 84.8 repositories
 - **Peak Day**: 2026-08-19 (144 repositories)
 - **Growth Rate**: 100% this month
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-08-28T21:01:56.744Z*
+*Last updated: 2026-08-29T21:01:34.258Z*

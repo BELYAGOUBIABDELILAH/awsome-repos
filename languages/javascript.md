@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 103
+- **Total Repositories**: 106
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,46 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 24,188 | 2026-08-01 | 12 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 30,732 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [projectdiscovery/nuclei-templates](../repos/projectdiscovery/nuclei-templates.md) | ⭐ 12,872 | 2026-08-04 | 5 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 90,677 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 26,997 | 2026-08-04 | 13 |
+| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | ⭐ 1,000 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 90,491 | 2026-08-05 | 11 |
+| [chuspeeism/dashi-ppt-skill](../repos/chuspeeism/dashi-ppt-skill.md) | ⭐ 6,824 | 2026-08-20 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 63,589 | 2026-08-05 | 6 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 12,459 | 2026-08-27 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | ⭐ 999 | 2026-08-05 | 5 |
+| [Stremio/stremio-web](../repos/Stremio/stremio-web.md) | ⭐ 12,910 | 2026-08-29 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 7,159 | 2026-08-10 | 4 |
+| [rabbitmq/rabbitmq-server](../repos/rabbitmq/rabbitmq-server.md) | ⭐ 13,822 | 2026-08-29 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,420 | 2026-08-11 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 51,812 | 2026-08-26 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 10,866 | 2026-08-27 | 2 |
+| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 5,830 | 2026-08-29 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | The library for web and native user interfaces |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,962 | 2026-07-30 | The React Framework |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,850 | 2026-08-01 | Socket-based TS&#x2F;JavaScript API for WhatsApp Web |
@@ -80,6 +68,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,500 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生&#x2F;人生进阶 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | ⭐ 7,624 | 2026-08-02 | 洛雪音乐源 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | ⭐ 31,602 | 2026-08-02 | LLM Frontend for Power Users. |
 
 
 ---
@@ -96,7 +90,7 @@
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 90,491 | 2026-08-05 | 11 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 90,677 | 2026-08-05 | 12 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
@@ -115,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 13 | ⭐ 26,997 | 2026-08-04 | 2026-08-28 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 14 | ⭐ 30,732 | 2026-08-04 | 2026-08-29 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 12 | ⭐ 24,188 | 2026-08-01 | 2026-08-28 |
 | [byoungd/up](../repos/byoungd/up.md) | 12 | ⭐ 61,500 | 2026-08-01 | 2026-08-25 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 11 | ⭐ 90,491 | 2026-08-05 | 2026-08-28 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 12 | ⭐ 90,677 | 2026-08-05 | 2026-08-29 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 8 | ⭐ 141,962 | 2026-07-30 | 2026-08-27 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 6 | ⭐ 63,589 | 2026-08-05 | 2026-08-28 |
+| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | 6 | ⭐ 1,000 | 2026-08-05 | 2026-08-29 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 6 | ⭐ 39,289 | 2026-08-06 | 2026-08-27 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 6 | ⭐ 1,584 | 2026-08-07 | 2026-08-22 |
 | [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 5 | ⭐ 7,142 | 2026-08-01 | 2026-08-12 |
-| [projectdiscovery/nuclei-templates](../repos/projectdiscovery/nuclei-templates.md) | 5 | ⭐ 12,872 | 2026-08-04 | 2026-08-28 |
 
 ---
 
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-08-28T21:01:57.055Z*
+*Last updated: 2026-08-29T21:01:34.524Z*

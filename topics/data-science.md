@@ -9,7 +9,7 @@
 - **Total Repositories**: 90
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-24
-- **Average Stars**: 17580
+- **Average Stars**: 17597
 
 ---
 
@@ -17,7 +17,10 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,456 | Scala |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,692 | Ruby |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,457 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,242 | Scala |  |
@@ -26,25 +29,22 @@
 | [apache/spark](../repos/apache/spark.md) | ⭐ 43,900 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,980 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,990 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,431 | OCaml |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,438 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,818 | Vim Script |  |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 982 | MATLAB |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,693 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 36,435 | Python |  |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 37,858 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,636 | C |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,064 | R |  |
+| [esmuellert/codediff.nvim](../repos/esmuellert/codediff.nvim.md) | ⭐ 1,538 | Lua |  |
 
 
 ---
@@ -60,9 +60,9 @@
 | [git/git](../repos/git/git.md) | ⭐ 62,663 | C | 2026-08-05 | 3 |
 | [TanStack/query](../repos/TanStack/query.md) | ⭐ 50,183 | TypeScript | 2026-08-22 | 1 |
 | [pandas-dev/pandas](../repos/pandas-dev/pandas.md) | ⭐ 49,417 | Python | 2026-08-04 | 1 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,980 | Clojure | 2026-08-01 | 24 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,990 | Clojure | 2026-08-01 | 25 |
 | [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 46,014 | Python | 2026-08-02 | 5 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,900 | Scala | 2026-08-01 | 26 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,900 | Scala | 2026-08-01 | 27 |
 
 ---
 
@@ -79,33 +79,30 @@
 | [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,291 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,687 | Ruby | 3 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,692 | Ruby | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,456 | Scala | 10 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,457 | Scala | 11 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,242 | Scala | 2 |
+| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,242 | Scala | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [apache/texera](../repos/apache/texera.md) | ⭐ 274 | Scala | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,900 | Scala | 10 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,900 | Scala | 11 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,980 | Clojure | 10 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,990 | Clojure | 11 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,431 | OCaml | 10 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,438 | OCaml | 11 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 102,626 | Python | 2026-07-30 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,062 | C | 2026-08-01 |
@@ -120,10 +117,10 @@
 | [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,175 | C | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,687 | Ruby | 2026-08-01 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,692 | Ruby | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,456 | Scala | 2026-08-01 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,457 | Scala | 2026-08-01 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,242 | Scala | 2026-08-01 |
@@ -133,10 +130,17 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [apache/spark](../repos/apache/spark.md) | ⭐ 43,900 | Scala | 2026-08-01 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 48,990 | Clojure | 2026-08-01 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-08-29](../archive/2026/08/2026-08-29.md)
+- 19 repositories trending
+- Top: metabase&#x2F;metabase
 
 ### [2026-08-28](../archive/2026/08/2026-08-28.md)
 - 23 repositories trending
@@ -162,10 +166,6 @@
 - 19 repositories trending
 - Top: Genymobile&#x2F;scrcpy
 
-### [2026-08-22](../archive/2026/08/2026-08-22.md)
-- 22 repositories trending
-- Top: TanStack&#x2F;query
-
 
 ---
 
@@ -175,16 +175,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 26 days | 2026-08-01 | 2026-08-28 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 24 days | 2026-08-01 | 2026-08-28 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 24 days | 2026-08-01 | 2026-08-28 |
-| [joernio/joern](../repos/joernio/joern.md) | 22 days | 2026-08-01 | 2026-08-28 |
+| [apache/spark](../repos/apache/spark.md) | 27 days | 2026-08-01 | 2026-08-29 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 25 days | 2026-08-01 | 2026-08-29 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 25 days | 2026-08-01 | 2026-08-29 |
+| [joernio/joern](../repos/joernio/joern.md) | 23 days | 2026-08-01 | 2026-08-29 |
 | [vim/vim](../repos/vim/vim.md) | 22 days | 2026-08-01 | 2026-08-28 |
-| [facebook/infer](../repos/facebook/infer.md) | 18 days | 2026-08-02 | 2026-08-28 |
+| [facebook/infer](../repos/facebook/infer.md) | 19 days | 2026-08-02 | 2026-08-29 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 15 days | 2026-08-01 | 2026-08-29 |
 | [apache/texera](../repos/apache/texera.md) | 14 days | 2026-08-01 | 2026-08-24 |
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 14 days | 2026-08-01 | 2026-08-26 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | 12 days | 2026-08-02 | 2026-08-25 |
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 11 days | 2026-08-04 | 2026-08-28 |
+| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | 11 days | 2026-08-01 | 2026-08-29 |
 
 ---
 
@@ -198,9 +198,9 @@
 - **Java**: 6 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 16 repositories
+- **Daily Average**: 16.1 repositories
 - **Peak Day**: 2026-08-04 (23 repositories)
-- **Growth Rate**: 100% this month
+- **Growth Rate**: 99% this month
 
 ---
 
@@ -234,7 +234,7 @@
 - [facebook/infer](../repos/facebook/infer.md) - A static analyzer for Java, C, C++, and Objective-C
 - [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) - Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a browsable public se...
 - [Vexu/arocc](../repos/Vexu/arocc.md) - A modern fully featured C compiler.
-- [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+...
+- [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+...
 - [systemd/systemd](../repos/systemd/systemd.md) - The systemd System and Service Manager 
 - [esmuellert/codediff.nvim](../repos/esmuellert/codediff.nvim.md) - VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level...
 - [pandas-dev/pandas](../repos/pandas-dev/pandas.md) - Flexible and powerful data analysis &#x2F; manipulation library for Python, providing labeled data str...
@@ -304,4 +304,4 @@
 
 ---
 
-*Last updated: 2026-08-28T21:01:56.779Z*
+*Last updated: 2026-08-29T21:01:34.291Z*

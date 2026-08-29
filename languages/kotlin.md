@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rommapp/argosy-launcher](../repos/rommapp/argosy-launcher.md) | ⭐ 528 | 2026-08-01 | 2 |
+| [rommapp/argosy-launcher](../repos/rommapp/argosy-launcher.md) | ⭐ 534 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Fate-Grand-Automata/FGA](../repos/Fate-Grand-Automata/FGA.md) | ⭐ 2,358 | 2026-08-01 | 3 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,799 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,736 | 2026-08-01 | 5 |
+| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | ⭐ 810 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 7,237 | 2026-08-02 | 6 |
+| [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,507 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/android](../repos/nextcloud/android.md) | ⭐ 5,540 | 2026-08-02 | 5 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,454 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | ⭐ 1,669 | 2026-08-03 | 6 |
+| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 1,738 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getsentry/sentry-java](../repos/getsentry/sentry-java.md) | ⭐ 1,349 | 2026-08-04 | 2 |
+| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 722 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,283 | 2026-08-05 | 5 |
+| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,290 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,262 | 2026-08-05 | 4 |
+| [celzero/rethink-app](../repos/celzero/rethink-app.md) | ⭐ 5,353 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,730 | 2026-08-11 | 3 |
+| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,197 | 2026-08-10 | 3 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 212 | 2026-08-01 | BYD DiLink app (3.0&#x2F;5.0&#x2F;5.1, UI7): split screen 1&#x2F;3+2&#x2F;3, navigation on instrument cluster, Yandex... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [rommapp/argosy-launcher](../repos/rommapp/argosy-launcher.md) | ⭐ 528 | 2026-08-01 | A native Android client for RomM  for syncing, installing, and launching games on any of your mob... |
+| [rommapp/argosy-launcher](../repos/rommapp/argosy-launcher.md) | ⭐ 534 | 2026-08-01 | A native Android client for RomM  for syncing, installing, and launching games on any of your mob... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [yuzono/tachiyomi-extensions](../repos/yuzono/tachiyomi-extensions.md) | ⭐ 856 | 2026-08-01 | Source code of extensions for Komikku &#x2F; Mihon &amp; forks. |
@@ -79,7 +79,7 @@
 | [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | ⭐ 6,331 | 2026-08-01 | Material design file manager for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,463 | 2026-08-02 | A V2Ray client for Android, support Xray core and v2fly core |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,799 | 2026-08-02 | A V2Ray client for Android, support Xray core and v2fly core |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,412 | 2026-08-03 | 5 |
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,463 | 2026-08-02 | 7 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,799 | 2026-08-02 | 8 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,356 | 2026-08-04 | 6 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,917 | 2026-08-06 | 8 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,114 | 2026-08-03 | 4 |
@@ -99,14 +99,14 @@
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,429 | 2026-08-12 | 1 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,414 | 2026-08-05 | 3 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,068 | 2026-08-01 | 10 |
-| [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,198 | 2026-08-02 | 2 |
+| [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,507 | 2026-08-02 | 3 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,736 | 2026-08-01 | 5 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,326 | 2026-08-12 | 3 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,288 | 2026-08-17 | 1 |
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,380 | 2026-08-02 | 2 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,454 | 2026-08-02 | 3 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,536 | 2026-08-06 | 6 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,215 | 2026-08-02 | 7 |
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,091 | 2026-08-10 | 2 |
+| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,197 | 2026-08-10 | 3 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,520 | 2026-08-03 | 5 |
 
 ---
@@ -117,10 +117,10 @@
 |------------|---------------|-------|------------|-----------|
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 10 | ⭐ 23,068 | 2026-08-01 | 2026-08-23 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 10 | ⭐ 4,386 | 2026-08-02 | 2026-08-26 |
-| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 8 | ⭐ 643 | 2026-08-05 | 2026-08-21 |
+| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 9 | ⭐ 722 | 2026-08-05 | 2026-08-29 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 8 | ⭐ 61,799 | 2026-08-02 | 2026-08-29 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 8 | ⭐ 50,917 | 2026-08-06 | 2026-08-27 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 8 | ⭐ 29,211 | 2026-08-08 | 2026-08-22 |
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 7 | ⭐ 61,463 | 2026-08-02 | 2026-08-22 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 7 | ⭐ 11,215 | 2026-08-02 | 2026-08-27 |
 | [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | 7 | ⭐ 5,534 | 2026-08-11 | 2026-08-25 |
 | [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 6 | ⭐ 7,237 | 2026-08-02 | 2026-08-28 |
@@ -141,7 +141,7 @@
 - [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) - Material design file manager for Android
 - [2dust/v2rayNG](../repos/2dust/v2rayNG.md) - A V2Ray client for Android, support Xray core and v2fly core
 - [embabel/embabel-agent](../repos/embabel/embabel-agent.md) - Agent framework for the JVM. Pronounced Em-BAY-bel &#x2F;ɛmˈbeɪbəl&#x2F;
-- [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) - [ HOBBY PROJECT ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you ...
+- [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) - An enhanced fork of Shizuku — adds Root&#x2F;ADB&#x2F;Dhizuku unification, a Plus API suite, and OneUI&#x2F;Andr...
 - [aniyomiorg/aniyomi](../repos/aniyomiorg/aniyomi.md) - An app for manga and anime
 - [bmax121/APatch](../repos/bmax121/APatch.md) - The patching of Android kernel and Android system
 - [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) - NekoBox for Android &#x2F; sing-box &#x2F; universal proxy toolchain for Android
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-28T21:01:57.062Z*
+*Last updated: 2026-08-29T21:01:34.530Z*
