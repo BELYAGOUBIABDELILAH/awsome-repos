@@ -14,21 +14,13 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 982 | 2026-08-01 | 15 |
 
+*No MATLAB repositories trending today*
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 982 | 2026-08-01 | The MATLAB toolbox for MEG, EEG and iEEG analysis |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [TadasBaltrusaitis/OpenFace](../repos/TadasBaltrusaitis/OpenFace.md) | ⭐ 7,733 | 2026-08-01 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CERN/TIGRE](../repos/CERN/TIGRE.md) | ⭐ 795 | 2026-08-04 | TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox |
@@ -70,4 +62,4 @@
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.534Z*
+*Last updated: 2026-09-01T18:41:33.260Z*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 28
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-29
+- **Last Updated**: 2026-09-01
 
 ---
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,073 | 2026-08-01 | 24 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,081 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 60,428 | 2026-08-01 | 27 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 60,562 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 16,929 | 2026-08-01 | 25 |
+| [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,107 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,561 | 2026-08-01 | 20 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 16,938 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PixelGuys/Cubyz](../repos/PixelGuys/Cubyz.md) | ⭐ 3,641 | 2026-08-01 | 12 |
+| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,577 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,594 | 2026-08-02 | 23 |
+| [zml/zml](../repos/zml/zml.md) | ⭐ 4,016 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [neurocyte/flow](../repos/neurocyte/flow.md) | ⭐ 2,197 | 2026-08-02 | 7 |
+| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,614 | 2026-08-02 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 34,310 | 2026-08-02 | 19 |
+| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 34,362 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonybanters/oxwm](../repos/tonybanters/oxwm.md) | ⭐ 928 | 2026-08-09 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mitchellh/libxev](../repos/mitchellh/libxev.md) | ⭐ 3,577 | 2026-08-23 | 6 |
+| [ZigEmbeddedGroup/microzig](../repos/ZigEmbeddedGroup/microzig.md) | ⭐ 2,270 | 2026-08-03 | 3 |
 
 
 ---
@@ -52,34 +49,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,073 | 2026-08-01 | Pacman alternative for ArchLinux, designed with you in mind. |
+| [ZigEmbeddedGroup/microzig](../repos/ZigEmbeddedGroup/microzig.md) | ⭐ 2,270 | 2026-08-03 | MicroZig is a toolbox for building embedded applications in Zig. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 60,428 | 2026-08-01 | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-nativ... |
+| [vancluever/z2d](../repos/vancluever/z2d.md) | ⭐ 287 | 2026-08-03 | Pure Zig 2D graphics library |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,090 | 2026-08-01 | Session attach&#x2F;detach for the terminal |
+| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | ⭐ 8,051 | 2026-08-04 | Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 16,929 | 2026-08-01 | The financial transactions database designed for mission critical safety and performance. |
+| [Syndica/sig](../repos/Syndica/sig.md) | ⭐ 403 | 2026-08-07 | a Solana validator client implementation written in Zig |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | ⭐ 3,542 | 2026-08-01 | Better GitHub statistics images for your profile, with stats from private repos too |
+| [raylib-zig/raylib-zig](../repos/raylib-zig/raylib-zig.md) | ⭐ 1,852 | 2026-08-07 | Manually tweaked, auto-generated raylib bindings for zig. https:&#x2F;&#x2F;github.com&#x2F;raysan5&#x2F;raylib |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [david-vanderson/dvui](../repos/david-vanderson/dvui.md) | ⭐ 1,642 | 2026-08-01 | Immediate Zig GUI for Apps and Games |
+| [boldsoftware/exe.dev](../repos/boldsoftware/exe.dev.md) | ⭐ 138 | 2026-08-08 | just use ssh |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [rockorager/libvaxis](../repos/rockorager/libvaxis.md) | ⭐ 1,981 | 2026-08-01 | a modern tui library written in zig |
+| [tonybanters/oxwm](../repos/tonybanters/oxwm.md) | ⭐ 928 | 2026-08-09 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,561 | 2026-08-01 | A CLI tool to switch and manage Codex accounts |
+| [mitchellh/libxev](../repos/mitchellh/libxev.md) | ⭐ 3,577 | 2026-08-23 | libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocki... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [PixelGuys/Cubyz](../repos/PixelGuys/Cubyz.md) | ⭐ 3,641 | 2026-08-01 | Voxel sandbox game with a large render distance, procedurally generated content and some cool gra... |
+| [coder/boo](../repos/coder/boo.md) | ⭐ 769 | 2026-08-24 | A GNU screen style terminal multiplexer built on libghostty. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [riverwm/river](../repos/riverwm/river.md) | ⭐ 4,264 | 2026-08-01 | [mirror] A non-monolithic Wayland compositor |
+| [justrach/codegraff](../repos/justrach/codegraff.md) | ⭐ 198 | 2026-08-26 | graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DGM evolution loop,... |
 
 
 ---
@@ -88,21 +85,21 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 60,428 | 2026-08-01 | 27 |
-| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 34,310 | 2026-08-02 | 19 |
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 16,929 | 2026-08-01 | 25 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 60,562 | 2026-08-01 | 28 |
+| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 34,362 | 2026-08-02 | 20 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 16,938 | 2026-08-01 | 26 |
 | [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | ⭐ 8,051 | 2026-08-04 | 17 |
-| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,594 | 2026-08-02 | 23 |
+| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,614 | 2026-08-02 | 24 |
 | [riverwm/river](../repos/riverwm/river.md) | ⭐ 4,264 | 2026-08-01 | 9 |
-| [zml/zml](../repos/zml/zml.md) | ⭐ 4,007 | 2026-08-01 | 13 |
+| [zml/zml](../repos/zml/zml.md) | ⭐ 4,016 | 2026-08-01 | 14 |
 | [PixelGuys/Cubyz](../repos/PixelGuys/Cubyz.md) | ⭐ 3,641 | 2026-08-01 | 12 |
 | [mitchellh/libxev](../repos/mitchellh/libxev.md) | ⭐ 3,577 | 2026-08-23 | 6 |
 | [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | ⭐ 3,542 | 2026-08-01 | 13 |
 | [pedropark99/zig-book](../repos/pedropark99/zig-book.md) | ⭐ 2,679 | 2026-08-02 | 3 |
-| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,561 | 2026-08-01 | 20 |
-| [ZigEmbeddedGroup/microzig](../repos/ZigEmbeddedGroup/microzig.md) | ⭐ 2,261 | 2026-08-03 | 2 |
+| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,577 | 2026-08-01 | 21 |
+| [ZigEmbeddedGroup/microzig](../repos/ZigEmbeddedGroup/microzig.md) | ⭐ 2,270 | 2026-08-03 | 3 |
 | [neurocyte/flow](../repos/neurocyte/flow.md) | ⭐ 2,197 | 2026-08-02 | 7 |
-| [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,090 | 2026-08-01 | 19 |
+| [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,107 | 2026-08-01 | 20 |
 | [nullclaw/nullhub](../repos/nullclaw/nullhub.md) | ⭐ 2,015 | 2026-08-02 | 9 |
 | [rockorager/libvaxis](../repos/rockorager/libvaxis.md) | ⭐ 1,981 | 2026-08-01 | 11 |
 | [raylib-zig/raylib-zig](../repos/raylib-zig/raylib-zig.md) | ⭐ 1,852 | 2026-08-07 | 3 |
@@ -115,16 +112,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | 27 | ⭐ 60,428 | 2026-08-01 | 2026-08-29 |
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | 25 | ⭐ 16,929 | 2026-08-01 | 2026-08-29 |
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 24 | ⭐ 1,073 | 2026-08-01 | 2026-08-29 |
-| [vercel-labs/native](../repos/vercel-labs/native.md) | 23 | ⭐ 7,594 | 2026-08-02 | 2026-08-29 |
-| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | 20 | ⭐ 2,561 | 2026-08-01 | 2026-08-29 |
-| [neurosnap/zmx](../repos/neurosnap/zmx.md) | 19 | ⭐ 2,090 | 2026-08-01 | 2026-08-28 |
-| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | 19 | ⭐ 34,310 | 2026-08-02 | 2026-08-29 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | 28 | ⭐ 60,562 | 2026-08-01 | 2026-09-01 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | 26 | ⭐ 16,938 | 2026-08-01 | 2026-09-01 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 25 | ⭐ 1,081 | 2026-08-01 | 2026-09-01 |
+| [vercel-labs/native](../repos/vercel-labs/native.md) | 24 | ⭐ 7,614 | 2026-08-02 | 2026-09-01 |
+| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | 21 | ⭐ 2,577 | 2026-08-01 | 2026-09-01 |
+| [neurosnap/zmx](../repos/neurosnap/zmx.md) | 20 | ⭐ 2,107 | 2026-08-01 | 2026-09-01 |
+| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | 20 | ⭐ 34,362 | 2026-08-02 | 2026-09-01 |
 | [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 17 | ⭐ 8,051 | 2026-08-04 | 2026-08-26 |
+| [zml/zml](../repos/zml/zml.md) | 14 | ⭐ 4,016 | 2026-08-01 | 2026-09-01 |
 | [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | 13 | ⭐ 3,542 | 2026-08-01 | 2026-08-27 |
-| [zml/zml](../repos/zml/zml.md) | 13 | ⭐ 4,007 | 2026-08-01 | 2026-08-28 |
 
 ---
 
@@ -161,4 +158,4 @@
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.576Z*
+*Last updated: 2026-09-01T18:41:33.309Z*

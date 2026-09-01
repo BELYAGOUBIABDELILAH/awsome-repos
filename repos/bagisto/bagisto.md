@@ -1,6 +1,6 @@
 # bagisto&#x2F;bagisto
 
-> Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs
+> Open Source eCommerce &amp; Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;bagisto&#x2F;bagisto) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | MIT |
-| **Stars** | ⭐ 28,027 |
-| **Forks** | 🍴 3,258 |
-| **Trending Days** | 11 |
+| **Stars** | ⭐ 28,086 |
+| **Forks** | 🍴 3,264 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 28, 2026 |
+| **Last Seen** | Sep 1, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 11
+- **Trending Days**: 12
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-08-29T21:01:36.218Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-09-01T18:41:35.121Z*  
+*Data from 12 trending reports*

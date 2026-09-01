@@ -23,9 +23,6 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [scality/metalk8s](../repos/scality/metalk8s.md) | ⭐ 391 | 2026-08-02 | An opinionated Kubernetes distribution with a focus on long-term on-prem deployments |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [MoganLab/mogan](../repos/MoganLab/mogan.md) | ⭐ 573 | 2026-08-05 | Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
@@ -62,4 +59,4 @@
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.559Z*
+*Last updated: 2026-09-01T18:41:33.289Z*

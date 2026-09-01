@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 192
+- **Total Repositories**: 195
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-28
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 126,245 | 2026-08-01 | 17 |
+| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,184 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [doitsujin/dxvk](../repos/doitsujin/dxvk.md) | ⭐ 17,955 | 2026-08-03 | 2 |
+| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,281 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 29,440 | 2026-08-03 | 6 |
+| [doitsujin/dxvk](../repos/doitsujin/dxvk.md) | ⭐ 17,978 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,299 | 2026-08-04 | 12 |
+| [ceph/ceph](../repos/ceph/ceph.md) | ⭐ 16,990 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,728 | 2026-08-06 | 4 |
+| [mltframework/shotcut](../repos/mltframework/shotcut.md) | ⭐ 15,054 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lemonade-sdk/lemonade](../repos/lemonade-sdk/lemonade.md) | ⭐ 5,530 | 2026-08-07 | 2 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,959 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YimMenu/YimMenuV2](../repos/YimMenu/YimMenuV2.md) | ⭐ 1,682 | 2026-08-09 | 2 |
+| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 25,844 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/intelligent-terminal](../repos/microsoft/intelligent-terminal.md) | ⭐ 1,865 | 2026-08-12 | 3 |
+| [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,293 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kvcache-ai/Mooncake](../repos/kvcache-ai/Mooncake.md) | ⭐ 6,430 | 2026-08-15 | 2 |
+| [microsoft/microsoft-ui-xaml](../repos/microsoft/microsoft-ui-xaml.md) | ⭐ 8,265 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ikawrakow/ik_llama.cpp](../repos/ikawrakow/ik_llama.cpp.md) | ⭐ 3,144 | 2026-08-17 | 3 |
+| [OHF-Voice/piper1-gpl](../repos/OHF-Voice/piper1-gpl.md) | ⭐ 5,415 | 2026-08-19 | 2 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) | ⭐ 5,607 | 2026-08-01 | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  |
+| [official-stockfish/Stockfish](../repos/official-stockfish/Stockfish.md) | ⭐ 16,392 | 2026-08-03 | A free and strong UCI chess engine |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 126,245 | 2026-08-01 | LLM inference in C&#x2F;C++ |
+| [doitsujin/dxvk](../repos/doitsujin/dxvk.md) | ⭐ 17,978 | 2026-08-03 | Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux &#x2F; Wine |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [chriskohlhoff/asio](../repos/chriskohlhoff/asio.md) | ⭐ 6,150 | 2026-08-01 | Asio C++ Library |
+| [CleverRaven/Cataclysm-DDA](../repos/CleverRaven/Cataclysm-DDA.md) | ⭐ 13,032 | 2026-08-03 | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [lightvector/KataGo](../repos/lightvector/KataGo.md) | ⭐ 4,902 | 2026-08-01 | GTP engine and self-play learning in Go |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 29,440 | 2026-08-03 | An MCP-based chatbot | 一个基于MCP的聊天机器人 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 472 | 2026-08-01 | super repo for rocm systems projects |
+| [TrinityCore/TrinityCore](../repos/TrinityCore/TrinityCore.md) | ⭐ 10,730 | 2026-08-03 | TrinityCore Open Source MMO Framework (master &#x3D; 12.0.7.68974, 3.3.5 &#x3D; 3.3.5a.12340, cata classic ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,827 | 2026-08-01 | Protocol Buffers - Google&#39;s data interchange format |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | ClickHouse® is a real-time analytics database management system |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 116,297 | 2026-08-01 | Godot Engine – Multi-platform 2D and 3D game engine |
+| [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) | ⭐ 8,817 | 2026-08-03 | Complete Open Source and Modular solution for MMO |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [gem5/gem5](../repos/gem5/gem5.md) | ⭐ 2,737 | 2026-08-01 | The official repository for the gem5 computer-system architecture simulator. |
+| [ValveSoftware/Proton](../repos/ValveSoftware/Proton.md) | ⭐ 32,625 | 2026-08-03 | Compatibility tool for Steam Play based on Wine and additional components |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,536 | 2026-08-01 | Fast C++ logging library. |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 32,602 | 2026-08-03 | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [twelvesec/PwnPad](../repos/twelvesec/PwnPad.md) | ⭐ 1,165 | 2026-08-01 | PwnPad is an affordable, hands-on hardware hacking platform built for practical learning. It feat... |
+| [wled/WLED](../repos/wled/WLED.md) | ⭐ 18,565 | 2026-08-03 | Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi! |
 
 
 ---
@@ -95,19 +95,19 @@
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 116,297 | 2026-08-01 | 8 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,728 | 2026-08-06 | 4 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,016 | 2026-08-02 | 5 |
-| [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,116 | 2026-08-12 | 2 |
+| [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,293 | 2026-08-12 | 3 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 75,914 | 2026-08-08 | 10 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,827 | 2026-08-01 | 9 |
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,473 | 2026-08-05 | 7 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,959 | 2026-08-05 | 8 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
-| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,271 | 2026-08-02 | 5 |
+| [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 45,973 | 2026-09-01 | 1 |
+| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,281 | 2026-08-02 | 6 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 40,773 | 2026-08-19 | 5 |
 | [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,206 | 2026-08-09 | 6 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,679 | 2026-08-02 | 5 |
 | [google/leveldb](../repos/google/leveldb.md) | ⭐ 39,306 | 2026-08-07 | 2 |
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,299 | 2026-08-04 | 12 |
 
 ---
 
@@ -123,8 +123,8 @@
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 9 | ⭐ 472 | 2026-08-01 | 2026-08-26 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 9 | ⭐ 71,827 | 2026-08-01 | 2026-08-28 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 8 | ⭐ 116,297 | 2026-08-01 | 2026-08-28 |
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 7 | ⭐ 65,473 | 2026-08-05 | 2026-08-12 |
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 6 | ⭐ 29,440 | 2026-08-03 | 2026-08-29 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 8 | ⭐ 65,959 | 2026-08-05 | 2026-09-01 |
+| [grpc/grpc](../repos/grpc/grpc.md) | 6 | ⭐ 45,281 | 2026-08-02 | 2026-09-01 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.493Z*
+*Last updated: 2026-09-01T18:41:33.216Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 173
+- **Total Repositories**: 180
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-19
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | 2026-08-01 | 10 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 41,423 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [livekit/agents](../repos/livekit/agents.md) | ⭐ 13,556 | 2026-08-03 | 5 |
+| [browser-use/video-use](../repos/browser-use/video-use.md) | ⭐ 22,775 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 37,858 | 2026-08-03 | 9 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 143,675 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 73,881 | 2026-08-06 | 5 |
+| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 92,487 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/skills](../repos/google/skills.md) | ⭐ 18,969 | 2026-08-07 | 5 |
+| [HKUDS/DeepTutor](../repos/HKUDS/DeepTutor.md) | ⭐ 38,256 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 35,358 | 2026-08-07 | 7 |
+| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 4,453 | 2026-08-15 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Osmantic/ODS](../repos/Osmantic/ODS.md) | ⭐ 4,849 | 2026-08-20 | 3 |
+| [Osmantic/ODS](../repos/Osmantic/ODS.md) | ⭐ 5,807 | 2026-08-20 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 28,632 | 2026-08-29 | 1 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 13,569 | 2026-08-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [warpdotdev/common-skills](../repos/warpdotdev/common-skills.md) | ⭐ 346 | 2026-08-29 | 1 |
+| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 44,769 | 2026-09-01 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yifanfeng97/Hyper-Extract](../repos/yifanfeng97/Hyper-Extract.md) | ⭐ 3,720 | 2026-08-29 | 1 |
+| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 56,927 | 2026-09-01 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | Robust Speech Recognition via Large-Scale Weak Supervision |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,572 | 2026-07-31 | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in t... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [anthropics/anthropic-sdk-python](../repos/anthropics/anthropic-sdk-python.md) | ⭐ 1,250 | 2026-07-31 | SDK for Anthropic&#39;s Claude AI |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | 2026-08-10 | Building applications with LLMs through composability |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 59,900 | 2026-08-01 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -... |
+| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | 2026-08-03 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [paperswithbacktest/awesome-systematic-trading](../repos/paperswithbacktest/awesome-systematic-trading.md) | ⭐ 11,746 | 2026-08-01 | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic... |
+| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 36,918 | 2026-08-03 | Kronos: A Foundation Model for the Language of Financial Markets |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 9,822 | 2026-08-01 | Build local voice agents with open-source models |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 50,309 | 2026-08-03 | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, ID... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | 2026-08-01 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom... |
+| [livekit/agents](../repos/livekit/agents.md) | ⭐ 13,556 | 2026-08-03 | A framework for building realtime voice AI agents 🤖🎙️📹  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [trailofbits/skills](../repos/trailofbits/skills.md) | ⭐ 6,367 | 2026-08-01 | Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows |
+| [comet-ml/opik](../repos/comet-ml/opik.md) | ⭐ 21,086 | 2026-08-03 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with compr... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [kangarooking/cangjie-skill](../repos/kangarooking/cangjie-skill.md) | ⭐ 5,798 | 2026-08-01 | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills |
+| [jamwithai/production-agentic-rag-course](../repos/jamwithai/production-agentic-rag-course.md) | ⭐ 8,247 | 2026-08-03 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 41,423 | 2026-08-03 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 111,962 | 2026-08-03 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PostHog/posthog](../repos/PostHog/posthog.md) | ⭐ 38,949 | 2026-08-03 | :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tool... |
 
 
 ---
@@ -96,7 +96,7 @@
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 186,102 | 2026-08-02 | 5 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 172,058 | 2026-08-11 | 3 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,572 | 2026-07-31 | 5 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 142,873 | 2026-08-07 | 8 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 143,675 | 2026-08-07 | 9 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 134,172 | 2026-08-04 | 2 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 131,675 | 2026-08-14 | 3 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 129,762 | 2026-08-05 | 6 |
@@ -106,7 +106,7 @@
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 102,626 | 2026-07-30 | 2 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 101,130 | 2026-08-08 | 6 |
-| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 90,555 | 2026-08-10 | 3 |
+| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 92,487 | 2026-08-10 | 4 |
 | [home-assistant/core](../repos/home-assistant/core.md) | ⭐ 90,140 | 2026-08-27 | 1 |
 
 ---
@@ -117,10 +117,10 @@
 |------------|---------------|-------|------------|-----------|
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 11 | ⭐ 236,363 | 2026-08-01 | 2026-08-25 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 10 | ⭐ 118,456 | 2026-08-01 | 2026-08-29 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 10 | ⭐ 41,423 | 2026-08-03 | 2026-09-01 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 9 | ⭐ 1,384 | 2026-08-01 | 2026-08-28 |
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 9 | ⭐ 37,858 | 2026-08-03 | 2026-08-29 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | 9 | ⭐ 143,675 | 2026-08-07 | 2026-09-01 |
 | [usestrix/strix](../repos/usestrix/strix.md) | 8 | ⭐ 56,671 | 2026-08-04 | 2026-08-21 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | 8 | ⭐ 142,873 | 2026-08-07 | 2026-08-24 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 7 | ⭐ 75,597 | 2026-08-01 | 2026-08-26 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 7 | ⭐ 50,309 | 2026-08-03 | 2026-08-26 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 7 | ⭐ 38,949 | 2026-08-03 | 2026-08-24 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.549Z*
+*Last updated: 2026-09-01T18:41:33.276Z*

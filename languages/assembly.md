@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 40
+- **Total Repositories**: 42
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-29
+- **Last Updated**: 2026-09-01
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,895 | 2026-08-01 | 15 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,900 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | ⭐ 3,087 | 2026-08-01 | 23 |
+| [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | ⭐ 3,089 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 413 | 2026-08-01 | 21 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 415 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aws/aws-lc](../repos/aws/aws-lc.md) | ⭐ 822 | 2026-08-01 | 26 |
+| [aws/aws-lc](../repos/aws/aws-lc.md) | ⭐ 823 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | ⭐ 436 | 2026-08-01 | 26 |
+| [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,107 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,720 | 2026-08-01 | 19 |
+| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,226 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,226 | 2026-08-01 | 17 |
+| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,692 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [boostorg/context](../repos/boostorg/context.md) | ⭐ 367 | 2026-08-01 | 23 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,631 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,686 | 2026-08-01 | 20 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,405 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,629 | 2026-08-01 | 20 |
+| [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 11,941 | 2026-08-02 | 14 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,895 | 2026-08-01 | Disassembly of Pokémon Red&#x2F;Blue |
+| [supranational/blst](../repos/supranational/blst.md) | ⭐ 573 | 2026-08-03 | Multilingual BLS12-381 signature library |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | ⭐ 3,087 | 2026-08-01 | The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded a... |
+| [SheerSt/pokewilds](../repos/SheerSt/pokewilds.md) | ⭐ 2,877 | 2026-08-03 | PokeWilds - A Gen 2 Game&#x2F;Engine using libGDX |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 413 | 2026-08-01 | super repo for rocm libraries |
+| [lukechampine/blake3](../repos/lukechampine/blake3.md) | ⭐ 424 | 2026-08-03 | An AVX-512 accelerated implementation of the BLAKE3 cryptographic hash function |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aws/aws-lc](../repos/aws/aws-lc.md) | ⭐ 822 | 2026-08-01 | AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS... |
+| [PlummersSoftwareLLC/TinyRetroPad](../repos/PlummersSoftwareLLC/TinyRetroPad.md) | ⭐ 1,737 | 2026-08-04 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,104 | 2026-08-01 | An experiment. |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 3,817 | 2026-08-04 | A library for calling C functions from Go without Cgo |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | ⭐ 436 | 2026-08-01 | TLS Support for SwiftNIO, based on BoringSSL. |
+| [cemu-project/cemu_graphic_packs](../repos/cemu-project/cemu_graphic_packs.md) | ⭐ 1,470 | 2026-08-04 | Community Graphic Packs for Cemu |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,720 | 2026-08-01 | Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for us... |
+| [livekit/rust-sdks](../repos/livekit/rust-sdks.md) | ⭐ 484 | 2026-08-04 | LiveKit realtime and server SDKs for Rust |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [PRoX2011/x16-PRos](../repos/PRoX2011/x16-PRos.md) | ⭐ 592 | 2026-08-01 | Simple 16 bit (real mode) operating system writen in NASM from scratch  |
+| [pq-code-package/mldsa-native](../repos/pq-code-package/mldsa-native.md) | ⭐ 99 | 2026-08-05 | Secure, fast, and portable C90 implementation of ML-DSA &#x2F; FIPS 204 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [virtualagc/virtualagc](../repos/virtualagc/virtualagc.md) | ⭐ 3,192 | 2026-08-01 | Virtual Apollo Guidance Computer (AGC) software |
+| [z88dk/z88dk](../repos/z88dk/z88dk.md) | ⭐ 1,131 | 2026-08-06 | The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libra... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hiteshchoudhary/open-source-contribution](../repos/hiteshchoudhary/open-source-contribution.md) | ⭐ 538 | 2026-08-01 | A repo to contribute in open source via README only. A dream repo for open source beginner |
+| [apache/arrow-go](../repos/apache/arrow-go.md) | ⭐ 399 | 2026-08-07 | Official Go implementation of Apache Arrow |
 
 
 ---
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,686 | 2026-08-01 | 20 |
-| [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 11,935 | 2026-08-02 | 13 |
+| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,692 | 2026-08-01 | 21 |
+| [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 11,941 | 2026-08-02 | 14 |
 | [kanaka/mal](../repos/kanaka/mal.md) | ⭐ 10,722 | 2026-08-11 | 4 |
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,399 | 2026-08-01 | 25 |
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,895 | 2026-08-01 | 15 |
-| [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,104 | 2026-08-01 | 11 |
-| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 3,807 | 2026-08-04 | 15 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,405 | 2026-08-01 | 26 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,900 | 2026-08-01 | 16 |
+| [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,107 | 2026-08-01 | 12 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 3,817 | 2026-08-04 | 16 |
+| [netwide-assembler/nasm](../repos/netwide-assembler/nasm.md) | ⭐ 3,301 | 2026-09-01 | 1 |
 | [virtualagc/virtualagc](../repos/virtualagc/virtualagc.md) | ⭐ 3,192 | 2026-08-01 | 1 |
-| [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | ⭐ 3,087 | 2026-08-01 | 23 |
+| [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | ⭐ 3,089 | 2026-08-01 | 24 |
 | [SheerSt/pokewilds](../repos/SheerSt/pokewilds.md) | ⭐ 2,877 | 2026-08-03 | 5 |
 | [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,494 | 2026-08-01 | 15 |
-| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,226 | 2026-08-01 | 17 |
+| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,226 | 2026-08-01 | 18 |
 | [PlummersSoftwareLLC/TinyRetroPad](../repos/PlummersSoftwareLLC/TinyRetroPad.md) | ⭐ 1,737 | 2026-08-04 | 14 |
 | [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,720 | 2026-08-01 | 19 |
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,629 | 2026-08-01 | 20 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,631 | 2026-08-01 | 21 |
 | [cemu-project/cemu_graphic_packs](../repos/cemu-project/cemu_graphic_packs.md) | ⭐ 1,470 | 2026-08-04 | 8 |
 | [riscv-software-src/riscv-tests](../repos/riscv-software-src/riscv-tests.md) | ⭐ 1,238 | 2026-08-01 | 14 |
 | [z88dk/z88dk](../repos/z88dk/z88dk.md) | ⭐ 1,131 | 2026-08-06 | 4 |
 | [espressif/esp-dl](../repos/espressif/esp-dl.md) | ⭐ 1,123 | 2026-08-01 | 13 |
-| [JSsixtyfour/smashremix](../repos/JSsixtyfour/smashremix.md) | ⭐ 953 | 2026-08-10 | 7 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [aws/aws-lc](../repos/aws/aws-lc.md) | 26 | ⭐ 822 | 2026-08-01 | 2026-08-29 |
+| [aws/aws-lc](../repos/aws/aws-lc.md) | 27 | ⭐ 823 | 2026-08-01 | 2026-09-01 |
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 26 | ⭐ 436 | 2026-08-01 | 2026-08-29 |
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | 25 | ⭐ 6,399 | 2026-08-01 | 2026-08-29 |
-| [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | 23 | ⭐ 3,087 | 2026-08-01 | 2026-08-29 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | 26 | ⭐ 6,405 | 2026-08-01 | 2026-09-01 |
+| [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | 24 | ⭐ 3,089 | 2026-08-01 | 2026-09-01 |
 | [boostorg/context](../repos/boostorg/context.md) | 23 | ⭐ 367 | 2026-08-01 | 2026-08-29 |
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 21 | ⭐ 413 | 2026-08-01 | 2026-08-29 |
-| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | 20 | ⭐ 18,686 | 2026-08-01 | 2026-08-29 |
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 20 | ⭐ 1,629 | 2026-08-01 | 2026-08-29 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 22 | ⭐ 415 | 2026-08-01 | 2026-09-01 |
+| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | 21 | ⭐ 18,692 | 2026-08-01 | 2026-09-01 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 21 | ⭐ 1,631 | 2026-08-01 | 2026-09-01 |
 | [apple/swift-crypto](../repos/apple/swift-crypto.md) | 19 | ⭐ 1,720 | 2026-08-01 | 2026-08-29 |
-| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | 17 | ⭐ 2,226 | 2026-08-01 | 2026-08-29 |
+| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | 18 | ⭐ 2,226 | 2026-08-01 | 2026-09-01 |
 
 ---
 
@@ -170,7 +170,9 @@
 - [Cpasjuste/pemu](../repos/Cpasjuste/pemu.md) - 
 - [joaorb64/smashremix-plus-extra](../repos/joaorb64/smashremix-plus-extra.md) - Modding engine for Smash Remix
 - [pret/pokediamond](../repos/pret/pokediamond.md) - Decompilation of Pokémon Diamond&#x2F;Pearl
+- [netwide-assembler/nasm](../repos/netwide-assembler/nasm.md) - A cross-platform x86 assembler with an Intel-like syntax
+- [Multicorewareinc/x265](../repos/Multicorewareinc/x265.md) - Open Source H.265 &#x2F; HEVC video encoder
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.481Z*
+*Last updated: 2026-09-01T18:41:33.203Z*

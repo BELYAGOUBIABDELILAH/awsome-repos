@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 106
+- **Total Repositories**: 111
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 30,732 | 2026-08-04 | 14 |
+| [decolua/9router](../repos/decolua/9router.md) | ⭐ 26,863 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 90,677 | 2026-08-05 | 12 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 41,549 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | ⭐ 1,000 | 2026-08-05 | 6 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,422 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chuspeeism/dashi-ppt-skill](../repos/chuspeeism/dashi-ppt-skill.md) | ⭐ 6,824 | 2026-08-20 | 4 |
+| [eze-is/web-access](../repos/eze-is/web-access.md) | ⭐ 8,811 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 12,459 | 2026-08-27 | 3 |
+| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 3,033 | 2026-08-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Stremio/stremio-web](../repos/Stremio/stremio-web.md) | ⭐ 12,910 | 2026-08-29 | 1 |
+| [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) | ⭐ 7,735 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rabbitmq/rabbitmq-server](../repos/rabbitmq/rabbitmq-server.md) | ⭐ 13,822 | 2026-08-29 | 1 |
+| [openai/plugins](../repos/openai/plugins.md) | ⭐ 5,320 | 2026-08-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 5,830 | 2026-08-29 | 1 |
+| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 5,957 | 2026-08-29 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [amElnagdy/delegate-skills](../repos/amElnagdy/delegate-skills.md) | ⭐ 1,584 | 2026-09-01 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Neet-Nestor/Telegram-Media-Downloader](../repos/Neet-Nestor/Telegram-Media-Downloader.md) | ⭐ 5,407 | 2026-09-01 | 1 |
 
 
 ---
@@ -46,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) | ⭐ 10,850 | 2026-08-01 | Socket-based TS&#x2F;JavaScript API for WhatsApp Web |
+| [4ian/GDevelop](../repos/4ian/GDevelop.md) | ⭐ 25,523 | 2026-08-03 | 🎮 Open-source, cross-platform 2D&#x2F;3D&#x2F;multiplayer game engine designed for everyone. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 7,142 | 2026-08-01 | 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 |
+| [NodeBB/NodeBB](../repos/NodeBB/NodeBB.md) | ⭐ 15,175 | 2026-08-03 | Node.js based forum software built for the modern web |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [woosal1337/blog](../repos/woosal1337/blog.md) | ⭐ 311 | 2026-08-01 | My blog website. |
+| [jellyfin/jellyfin-web](../repos/jellyfin/jellyfin-web.md) | ⭐ 3,800 | 2026-08-03 | The Free Software Media System - Official Web Client |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [huggingface/transformers.js](../repos/huggingface/transformers.js.md) | ⭐ 16,223 | 2026-08-01 | State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with... |
+| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 10,983 | 2026-08-03 | Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,475 | 2026-08-01 | Low-code programming for event-driven applications |
+| [validatorjs/validator.js](../repos/validatorjs/validator.js.md) | ⭐ 23,737 | 2026-08-03 | String validation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 24,188 | 2026-08-01 | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [Axorax/awesome-free-apps](../repos/Axorax/awesome-free-apps.md) | ⭐ 7,483 | 2026-08-03 | Curated list of the best free apps for PC and mobile |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) | ⭐ 347 | 2026-08-01 | Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module... |
+| [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splittin... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,500 | 2026-08-01 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生&#x2F;人生进阶 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语 |
+| [greensock/GSAP](../repos/greensock/GSAP.md) | ⭐ 27,405 | 2026-08-04 | GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | ⭐ 7,624 | 2026-08-02 | 洛雪音乐源 |
+| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | Fast, unopinionated, minimalist web framework for node. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) | ⭐ 31,602 | 2026-08-02 | LLM Frontend for Power Users. |
+| [projectdiscovery/nuclei-templates](../repos/projectdiscovery/nuclei-templates.md) | ⭐ 12,872 | 2026-08-04 | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
 
 
 ---
@@ -90,7 +96,7 @@
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 90,677 | 2026-08-05 | 12 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,422 | 2026-08-05 | 13 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
@@ -109,10 +115,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 14 | ⭐ 30,732 | 2026-08-04 | 2026-08-29 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 15 | ⭐ 41,549 | 2026-08-04 | 2026-09-01 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 13 | ⭐ 91,422 | 2026-08-05 | 2026-09-01 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 12 | ⭐ 24,188 | 2026-08-01 | 2026-08-28 |
 | [byoungd/up](../repos/byoungd/up.md) | 12 | ⭐ 61,500 | 2026-08-01 | 2026-08-25 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 12 | ⭐ 90,677 | 2026-08-05 | 2026-08-29 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 8 | ⭐ 141,962 | 2026-07-30 | 2026-08-27 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 6 | ⭐ 63,589 | 2026-08-05 | 2026-08-28 |
 | [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | 6 | ⭐ 1,000 | 2026-08-05 | 2026-08-29 |
@@ -194,7 +200,7 @@
 - [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) - Create beautiful slides on the web using a coding agent&#39;s frontend skills
 - [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in bro...
 - [github/awesome-copilot](../repos/github/awesome-copilot.md) - Community-contributed instructions, agents, skills, and configurations to help you make the most ...
-- [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) - 🎬 Lumen is the fully automated YouTube channel management with AI agents. Creates, optimizes &amp; p...
+- [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) - 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes vide...
 - [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项...
 - [dataease/SQLBot](../repos/dataease/SQLBot.md) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 - [WebKit/WebKit](../repos/WebKit/WebKit.md) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other app...
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.524Z*
+*Last updated: 2026-09-01T18:41:33.249Z*

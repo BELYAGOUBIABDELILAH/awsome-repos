@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 41
+- **Total Repositories**: 42
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-29
+- **Last Updated**: 2026-09-01
 
 ---
 
@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 30,384 | 2026-08-01 | 15 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 33,724 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,070 | 2026-08-01 | 23 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,088 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,247 | 2026-08-01 | 10 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,265 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,935 | 2026-08-01 | 7 |
+| [microsoft/work-iq](../repos/microsoft/work-iq.md) | ⭐ 981 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,963 | 2026-08-01 | 13 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 894 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,560 | 2026-08-03 | 14 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 448 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 443 | 2026-08-04 | 12 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,977 | 2026-08-06 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [SharePoint/sp-dev-docs](../repos/SharePoint/sp-dev-docs.md) | ⭐ 1,362 | 2026-08-15 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [github/copilot-plugins](../repos/github/copilot-plugins.md) | ⭐ 344 | 2026-08-26 | 2 |
+| [MicrosoftEdge/WebView2Feedback](../repos/MicrosoftEdge/WebView2Feedback.md) | ⭐ 524 | 2026-09-01 | 1 |
 
 
 ---
@@ -52,34 +43,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 30,384 | 2026-08-01 | Reverse Engineering &#x2F; Authorized Penetration Testing &#x2F; Security Research Skill Router Pack AI-pow... |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,560 | 2026-08-03 | Adds 3D acceleration support for P106-090 &#x2F; P106-100 &#x2F; P104-090 &#x2F;  P104-100 &#x2F; P102-100 &#x2F; CMP 30HX... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,070 | 2026-08-01 | GitHub Actions runner images |
+| [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,065 | 2026-08-03 | Nishang - Offensive PowerShell for red team, penetration testing and offensive security.  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,247 | 2026-08-01 | game of active directory |
+| [actions/python-versions](../repos/actions/python-versions.md) | ⭐ 242 | 2026-08-03 | Python builds for Actions Runner Images |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,935 | 2026-08-01 | Automate the setup and configuration of your Windows development environment. |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 448 | 2026-08-04 | Rules\skills\subagens for vibecoding in 1C(bsl) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 423 | 2026-08-01 |  |
+| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,530 | 2026-08-04 | The official PowerShell documentation sources |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,963 | 2026-08-01 | The Official USB Rubber Ducky Payload Repository |
+| [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,822 | 2026-08-04 | 🚀 SQL Server automation and instance migrations have never been safer, faster or freer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/work-iq](../repos/microsoft/work-iq.md) | ⭐ 976 | 2026-08-01 | MCP Server and CLI for accessing Work IQ |
+| [Calinou/scoop-games](../repos/Calinou/scoop-games.md) | ⭐ 355 | 2026-08-04 | Scoop bucket for open source&#x2F;freeware games and game-related tools |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 892 | 2026-08-01 | Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your su... |
+| [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,089 | 2026-08-04 | PowerSploit - A PowerShell Post-Exploitation Framework |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/AL](../repos/microsoft/AL.md) | ⭐ 879 | 2026-08-01 | Home of the Dynamics 365 Business Central AL Language extension for Visual Studio Code. Used to t... |
+| [microsoftgraph/microsoft-graph-docs-contrib](../repos/microsoftgraph/microsoft-graph-docs-contrib.md) | ⭐ 153 | 2026-08-05 | Documentation for the Microsoft Graph REST API |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,453 | 2026-08-01 | Community-driven baseline to accelerate Intune adoption and learning. |
+| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,977 | 2026-08-06 | A collection of software installations scripts for Windows systems that allows you to easily setu... |
 
 
 ---
@@ -88,15 +79,15 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 30,384 | 2026-08-01 | 15 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 33,724 | 2026-08-01 | 16 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,031 | 2026-08-02 | 5 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,089 | 2026-08-04 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,070 | 2026-08-01 | 23 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,088 | 2026-08-01 | 24 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,065 | 2026-08-03 | 7 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,977 | 2026-08-06 | 7 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,247 | 2026-08-01 | 10 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,265 | 2026-08-01 | 11 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,963 | 2026-08-01 | 13 |
@@ -115,15 +106,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 23 | ⭐ 13,070 | 2026-08-01 | 2026-08-29 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 17 | ⭐ 892 | 2026-08-01 | 2026-08-28 |
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 15 | ⭐ 30,384 | 2026-08-01 | 2026-08-29 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 24 | ⭐ 13,088 | 2026-08-01 | 2026-09-01 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 18 | ⭐ 894 | 2026-08-01 | 2026-09-01 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 16 | ⭐ 33,724 | 2026-08-01 | 2026-09-01 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 14 | ⭐ 1,560 | 2026-08-03 | 2026-08-29 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 13 | ⭐ 5,963 | 2026-08-01 | 2026-08-29 |
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 12 | ⭐ 443 | 2026-08-04 | 2026-08-29 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 10 | ⭐ 8,247 | 2026-08-01 | 2026-08-29 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 13 | ⭐ 448 | 2026-08-04 | 2026-09-01 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 11 | ⭐ 8,265 | 2026-08-01 | 2026-09-01 |
+| [microsoft/work-iq](../repos/microsoft/work-iq.md) | 10 | ⭐ 981 | 2026-08-01 | 2026-09-01 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 10 | ⭐ 1,453 | 2026-08-01 | 2026-08-25 |
-| [microsoft/work-iq](../repos/microsoft/work-iq.md) | 9 | ⭐ 976 | 2026-08-01 | 2026-08-27 |
 | [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | 8 | ⭐ 650 | 2026-08-02 | 2026-08-27 |
 
 ---
@@ -171,7 +162,8 @@
 - [he3als/EdgeRemover](../repos/he3als/EdgeRemover.md) - A PowerShell script that correctly uninstalls or reinstalls Microsoft Edge on Windows 10 &amp; 11.
 - [MicrosoftDocs/architecture-center](../repos/MicrosoftDocs/architecture-center.md) - Open source documentation for the Azure Architecture Center on Microsoft Learn.
 - [github/copilot-plugins](../repos/github/copilot-plugins.md) - The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibil...
+- [MicrosoftEdge/WebView2Feedback](../repos/MicrosoftEdge/WebView2Feedback.md) - Feedback and discussions about Microsoft Edge WebView2
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.547Z*
+*Last updated: 2026-09-01T18:41:33.274Z*

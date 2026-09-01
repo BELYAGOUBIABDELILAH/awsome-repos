@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 162
+- **Total Repositories**: 164
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,156 | 2026-08-01 | 6 |
+| [crimera/piko](../repos/crimera/piko.md) | ⭐ 5,030 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,701 | 2026-08-01 | 7 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,634 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 73,614 | 2026-08-03 | 10 |
+| [modelcontextprotocol/java-sdk](../repos/modelcontextprotocol/java-sdk.md) | ⭐ 3,678 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 4,919 | 2026-08-04 | 7 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 74,217 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,376 | 2026-08-04 | 9 |
+| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 4,937 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,345 | 2026-08-05 | 10 |
+| [apache/cassandra](../repos/apache/cassandra.md) | ⭐ 10,093 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,057 | 2026-08-05 | 6 |
+| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,509 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,063 | 2026-08-06 | 5 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,390 | 2026-08-05 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quarkusio/quarkus](../repos/quarkusio/quarkus.md) | ⭐ 15,855 | 2026-08-07 | 6 |
+| [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) | ⭐ 12,996 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/fluss](../repos/apache/fluss.md) | ⭐ 2,120 | 2026-08-08 | 4 |
+| [checkstyle/checkstyle](../repos/checkstyle/checkstyle.md) | ⭐ 9,518 | 2026-08-09 | 3 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,428 | 2026-08-01 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [ashishps1/awesome-leetcode-resources](../repos/ashishps1/awesome-leetcode-resources.md) | ⭐ 17,584 | 2026-08-03 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Intervi... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [crimera/piko](../repos/crimera/piko.md) | ⭐ 4,941 | 2026-08-01 | morphe patches for twitter and instagram |
+| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,814 | 2026-08-03 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [alibaba/fastjson2](../repos/alibaba/fastjson2.md) | ⭐ 4,372 | 2026-08-01 | 🚄 FASTJSON2 is a Java JSON  library with excellent performance. |
+| [adityatandon15/Low-Level-Design-Course](../repos/adityatandon15/Low-Level-Design-Course.md) | ⭐ 1,175 | 2026-08-03 | All Code of LLD Playlist |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,156 | 2026-08-01 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to ident... |
+| [Crystaelix/Create-Simurail](../repos/Crystaelix/Create-Simurail.md) | ⭐ 127 | 2026-08-03 | An experimental train mod using Create and Sable. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,373 | 2026-08-01 | An Application Framework for AI Engineering |
+| [AntennaPod/AntennaPod](../repos/AntennaPod/AntennaPod.md) | ⭐ 8,049 | 2026-08-03 | A podcast manager for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [langchain4j/langchain4j-examples](../repos/langchain4j/langchain4j-examples.md) | ⭐ 1,837 | 2026-08-01 |  |
+| [Dwinovo/minecraft-numen](../repos/Dwinovo/minecraft-numen.md) | ⭐ 232 | 2026-08-03 | 住在 Minecraft 里的 AI 同伴——召唤它、跟它说话，它自己规划并动手：挖矿、建造、种地、战斗、合成。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | ⭐ 9,665 | 2026-08-01 | MCP Server for Ghidra |
+| [MCRcortex/voxy](../repos/MCRcortex/voxy.md) | ⭐ 1,184 | 2026-08-03 | An LoD rendering mod for minecraft |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,706 | 2026-08-01 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
+| [shmykelsa/AAAD](../repos/shmykelsa/AAAD.md) | ⭐ 2,898 | 2026-08-03 | The original application for downloading and installing apps made specifically for Android Auto o... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [grpc/grpc-java](../repos/grpc/grpc-java.md) | ⭐ 12,056 | 2026-08-01 | The Java gRPC implementation. HTTP&#x2F;2 based RPC |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 74,217 | 2026-08-03 | Ghidra is a software reverse engineering (SRE) framework |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,569 | 2026-08-01 | 🔎 Open source distributed and RESTful search engine. |
+| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,137 | 2026-08-03 | google maps for block game |
 
 
 ---
@@ -92,7 +92,7 @@
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,376 | 2026-08-04 | 9 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,875 | 2026-08-02 | 8 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 73,614 | 2026-08-03 | 10 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 74,217 | 2026-08-03 | 11 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,155 | 2026-08-04 | 4 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,212 | 2026-08-08 | 4 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 11 | ⭐ 74,217 | 2026-08-03 | 2026-09-01 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 11 | ⭐ 5,390 | 2026-08-05 | 2026-09-01 |
 | [google/guava](../repos/google/guava.md) | 10 | ⭐ 51,896 | 2026-08-02 | 2026-08-28 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 10 | ⭐ 73,614 | 2026-08-03 | 2026-08-29 |
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 10 | ⭐ 5,345 | 2026-08-05 | 2026-08-29 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 9 | ⭐ 51,568 | 2026-08-04 | 2026-08-27 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 9 | ⭐ 81,376 | 2026-08-04 | 2026-08-29 |
+| [crimera/piko](../repos/crimera/piko.md) | 8 | ⭐ 5,030 | 2026-08-01 | 2026-09-01 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 8 | ⭐ 13,634 | 2026-08-01 | 2026-09-01 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 8 | ⭐ 26,401 | 2026-08-02 | 2026-08-26 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 8 | ⭐ 77,875 | 2026-08-02 | 2026-08-28 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 8 | ⭐ 27,944 | 2026-08-04 | 2026-08-28 |
-| [crimera/piko](../repos/crimera/piko.md) | 7 | ⭐ 4,941 | 2026-08-01 | 2026-08-28 |
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 7 | ⭐ 13,569 | 2026-08-01 | 2026-08-23 |
+| [iflytek/skillhub](../repos/iflytek/skillhub.md) | 8 | ⭐ 4,937 | 2026-08-04 | 2026-09-01 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.522Z*
+*Last updated: 2026-09-01T18:41:33.246Z*

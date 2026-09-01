@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 142
+- **Total Repositories**: 146
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-25
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 89,217 | 2026-07-31 | 3 |
+| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | ⭐ 17,817 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [paritytech/polkadot-sdk](../repos/paritytech/polkadot-sdk.md) | ⭐ 2,799 | 2026-08-01 | 3 |
+| [0xPlaygrounds/rig](../repos/0xPlaygrounds/rig.md) | ⭐ 8,484 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 17,401 | 2026-08-01 | 7 |
+| [firecracker-microvm/firecracker](../repos/firecracker-microvm/firecracker.md) | ⭐ 36,425 | 2026-08-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [neondatabase/neon](../repos/neondatabase/neon.md) | ⭐ 22,988 | 2026-08-03 | 2 |
+| [dbt-labs/dbt-core](../repos/dbt-labs/dbt-core.md) | ⭐ 13,761 | 2026-08-28 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | ⭐ 5,697 | 2026-08-03 | 5 |
+| [apache/iggy](../repos/apache/iggy.md) | ⭐ 4,731 | 2026-09-01 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 17,670 | 2026-08-09 | 3 |
+| [raine/workmux](../repos/raine/workmux.md) | ⭐ 2,343 | 2026-09-01 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [run-llama/liteparse](../repos/run-llama/liteparse.md) | ⭐ 12,196 | 2026-08-10 | 3 |
+| [NVIDIA/OpenShell](../repos/NVIDIA/OpenShell.md) | ⭐ 8,471 | 2026-09-01 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 64,633 | 2026-08-20 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 6,745 | 2026-08-26 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [lance-format/lance](../repos/lance-format/lance.md) | ⭐ 6,998 | 2026-08-28 | 2 |
+| [alphaXiv/openresearch-cli](../repos/alphaXiv/openresearch-cli.md) | ⭐ 629 | 2026-09-01 | 1 |
 
 
 ---
@@ -52,34 +46,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 89,217 | 2026-07-31 | An extremely fast Python package and project manager, written in Rust. |
+| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | ⭐ 17,817 | 2026-08-03 | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 18,442 | 2026-08-01 | The most RAM efficient harness |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 27,494 | 2026-08-03 | Production-grade Rust-native trading engine with deterministic event-driven architecture |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [modelcontextprotocol/rust-sdk](../repos/modelcontextprotocol/rust-sdk.md) | ⭐ 3,724 | 2026-08-01 | The official Rust SDK for the Model Context Protocol |
+| [bytecodealliance/wasmtime](../repos/bytecodealliance/wasmtime.md) | ⭐ 18,528 | 2026-08-03 | A lightweight WebAssembly runtime that is fast, secure, and standards-compliant |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | ⭐ 13,249 | 2026-08-01 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
+| [0xPlaygrounds/rig](../repos/0xPlaygrounds/rig.md) | ⭐ 8,484 | 2026-08-03 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 118,042 | 2026-08-01 | Lightweight coding agent that runs in your terminal |
+| [reacherhq/check-if-email-exists](../repos/reacherhq/check-if-email-exists.md) | ⭐ 9,433 | 2026-08-03 | Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 25,045 | 2026-08-01 | Development at the speed of light |
+| [neondatabase/neon](../repos/neondatabase/neon.md) | ⭐ 22,988 | 2026-08-03 | Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like datab... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [paritytech/polkadot-sdk](../repos/paritytech/polkadot-sdk.md) | ⭐ 2,799 | 2026-08-01 | The Parity Polkadot Blockchain SDK |
+| [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | :crab: Small exercises to get you used to reading and writing Rust code! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [bruits/satteri](../repos/bruits/satteri.md) | ⭐ 1,070 | 2026-08-01 | High-performance Markdown and MDX processing for the JavaScript ecosystem |
+| [rust-lang/cargo](../repos/rust-lang/cargo.md) | ⭐ 15,410 | 2026-08-03 | The Rust package manager |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tursodatabase/turso](../repos/tursodatabase/turso.md) | ⭐ 23,593 | 2026-08-01 | A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of... |
+| [gfx-rs/wgpu](../repos/gfx-rs/wgpu.md) | ⭐ 17,844 | 2026-08-03 | A cross-platform, safe, pure-Rust graphics API. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [git-ai-project/git-ai](../repos/git-ai-project/git-ai.md) | ⭐ 2,445 | 2026-08-01 | A Git extension for tracking the AI-generated code in your repos |
+| [katanemo/plano](../repos/katanemo/plano.md) | ⭐ 6,977 | 2026-08-03 | Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observabil... |
 
 
 ---
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.556Z*
+*Last updated: 2026-09-01T18:41:33.285Z*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 76
+- **Total Repositories**: 78
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-29
+- **Last Updated**: 2026-09-01
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,757 | 2026-08-01 | 19 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,697 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,872 | 2026-08-01 | 13 |
+| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,256 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,692 | 2026-08-01 | 10 |
+| [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,546 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,256 | 2026-08-01 | 5 |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 15,989 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,546 | 2026-08-01 | 7 |
+| [spree/spree](../repos/spree/spree.md) | ⭐ 15,658 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [instructure/canvas-lms](../repos/instructure/canvas-lms.md) | ⭐ 6,789 | 2026-08-01 | 5 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,671 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [antiwork/gumroad](../repos/antiwork/gumroad.md) | ⭐ 9,635 | 2026-08-01 | 14 |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,747 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,665 | 2026-08-01 | 12 |
+| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 38,927 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruby/gem_rbs_collection](../repos/ruby/gem_rbs_collection.md) | ⭐ 303 | 2026-08-01 | 3 |
+| [we-promise/sure](../repos/we-promise/sure.md) | ⭐ 9,682 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [we-promise/sure](../repos/we-promise/sure.md) | ⭐ 9,649 | 2026-08-02 | 13 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 58,747 | 2026-08-02 | 17 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [faker-ruby/faker](../repos/faker-ruby/faker.md) | ⭐ 11,933 | 2026-08-01 | A library for generating fake data such as names, addresses, and phone numbers. |
+| [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,659 | 2026-08-03 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,757 | 2026-08-01 | A platform for community discussion. Free, open, simple. |
+| [github/gemoji](../repos/github/gemoji.md) | ⭐ 4,528 | 2026-08-03 | Emoji images and names. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,872 | 2026-08-01 | Create agents that monitor and act on your behalf.  Your agents are standing by! |
+| [googleapis/google-api-ruby-client](../repos/googleapis/google-api-ruby-client.md) | ⭐ 2,896 | 2026-08-03 | REST client for Google APIs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 5,869 | 2026-08-01 | Zammad is a web based open source helpdesk&#x2F;customer support system. |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,042 | 2026-08-04 | 🚀 The easiest way to automate building and releasing your iOS and Android apps |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,692 | 2026-08-01 | The Ruby Programming Language |
+| [puma/puma](../repos/puma/puma.md) | ⭐ 7,915 | 2026-08-04 | A Ruby&#x2F;Rack web server built for parallelism |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,256 | 2026-08-01 | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and loa... |
+| [forem/forem](../repos/forem/forem.md) | ⭐ 22,773 | 2026-08-04 | For empowering community 🌱 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,546 | 2026-08-01 | GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com |
+| [ytti/oxidized](../repos/ytti/oxidized.md) | ⭐ 3,538 | 2026-08-04 | Oxidized is a network device configuration backup tool. It&#39;s a RANCID replacement! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 15,963 | 2026-08-01 | OpenProject is the leading open source project management software for product, project and portf... |
+| [postalserver/postal](../repos/postalserver/postal.md) | ⭐ 16,778 | 2026-08-04 | 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [spree/spree](../repos/spree/spree.md) | ⭐ 15,640 | 2026-08-01 | Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, an... |
+| [ruby/rubygems](../repos/ruby/rubygems.md) | ⭐ 3,953 | 2026-08-04 | Library packaging and distribution for Ruby. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [decidim/decidim](../repos/decidim/decidim.md) | ⭐ 1,809 | 2026-08-01 | The participatory democracy framework. A generator and multiple gems made with Ruby on Rails |
+| [theforeman/foreman](../repos/theforeman/foreman.md) | ⭐ 2,899 | 2026-08-05 | an application that automates the lifecycle of servers  |
 
 
 ---
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rails/rails](../repos/rails/rails.md) | ⭐ 58,736 | 2026-08-02 | 16 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 58,747 | 2026-08-02 | 17 |
 | [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,659 | 2026-08-03 | 7 |
 | [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,872 | 2026-08-01 | 13 |
 | [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,757 | 2026-08-01 | 19 |
 | [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,042 | 2026-08-04 | 14 |
-| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 38,904 | 2026-08-01 | 17 |
+| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 38,927 | 2026-08-01 | 18 |
 | [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,200 | 2026-08-05 | 3 |
-| [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,546 | 2026-08-01 | 7 |
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,692 | 2026-08-01 | 10 |
+| [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,546 | 2026-08-01 | 8 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,697 | 2026-08-01 | 11 |
 | [forem/forem](../repos/forem/forem.md) | ⭐ 22,773 | 2026-08-04 | 6 |
 | [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,390 | 2026-08-02 | 12 |
-| [postalserver/postal](../repos/postalserver/postal.md) | ⭐ 16,764 | 2026-08-04 | 5 |
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 15,963 | 2026-08-01 | 16 |
-| [spree/spree](../repos/spree/spree.md) | ⭐ 15,640 | 2026-08-01 | 15 |
-| [basecamp/kamal](../repos/basecamp/kamal.md) | ⭐ 14,541 | 2026-08-12 | 5 |
-| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,665 | 2026-08-01 | 12 |
+| [postalserver/postal](../repos/postalserver/postal.md) | ⭐ 16,778 | 2026-08-04 | 6 |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 15,989 | 2026-08-01 | 17 |
+| [spree/spree](../repos/spree/spree.md) | ⭐ 15,658 | 2026-08-01 | 16 |
+| [basecamp/kamal](../repos/basecamp/kamal.md) | ⭐ 14,549 | 2026-08-12 | 6 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,671 | 2026-08-01 | 13 |
 | [sidekiq/sidekiq](../repos/sidekiq/sidekiq.md) | ⭐ 13,551 | 2026-08-05 | 5 |
 | [rubocop/rubocop](../repos/rubocop/rubocop.md) | ⭐ 12,898 | 2026-08-02 | 7 |
 | [sinatra/sinatra](../repos/sinatra/sinatra.md) | ⭐ 12,452 | 2026-08-23 | 1 |
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,256 | 2026-08-01 | 5 |
+| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,256 | 2026-08-01 | 6 |
 
 ---
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 23 | ⭐ 1,070 | 2026-08-01 | 2026-08-28 |
 | [discourse/discourse](../repos/discourse/discourse.md) | 19 | ⭐ 47,757 | 2026-08-01 | 2026-08-29 |
-| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | 17 | ⭐ 38,904 | 2026-08-01 | 2026-08-28 |
-| [opf/openproject](../repos/opf/openproject.md) | 16 | ⭐ 15,963 | 2026-08-01 | 2026-08-28 |
-| [rails/rails](../repos/rails/rails.md) | 16 | ⭐ 58,736 | 2026-08-02 | 2026-08-29 |
-| [spree/spree](../repos/spree/spree.md) | 15 | ⭐ 15,640 | 2026-08-01 | 2026-08-24 |
+| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | 18 | ⭐ 38,927 | 2026-08-01 | 2026-09-01 |
+| [opf/openproject](../repos/opf/openproject.md) | 17 | ⭐ 15,989 | 2026-08-01 | 2026-09-01 |
+| [rails/rails](../repos/rails/rails.md) | 17 | ⭐ 58,747 | 2026-08-02 | 2026-09-01 |
+| [spree/spree](../repos/spree/spree.md) | 16 | ⭐ 15,658 | 2026-08-01 | 2026-09-01 |
 | [antiwork/gumroad](../repos/antiwork/gumroad.md) | 14 | ⭐ 9,635 | 2026-08-01 | 2026-08-29 |
+| [we-promise/sure](../repos/we-promise/sure.md) | 14 | ⭐ 9,682 | 2026-08-02 | 2026-09-01 |
 | [fastlane/fastlane](../repos/fastlane/fastlane.md) | 14 | ⭐ 42,042 | 2026-08-04 | 2026-08-29 |
 | [huginn/huginn](../repos/huginn/huginn.md) | 13 | ⭐ 49,872 | 2026-08-01 | 2026-08-29 |
-| [DataDog/dd-trace-rb](../repos/DataDog/dd-trace-rb.md) | 13 | ⭐ 415 | 2026-08-01 | 2026-08-28 |
 
 ---
 
@@ -206,7 +206,9 @@
 - [ManageIQ/manageiq](../repos/ManageIQ/manageiq.md) - ManageIQ Open-Source Management Platform
 - [TheOdinProject/theodinproject](../repos/TheOdinProject/theodinproject.md) - Main website for The Odin Project
 - [Kong/developer.konghq.com](../repos/Kong/developer.konghq.com.md) - 🦍 Source code for developer.konghq.com website.
+- [activeadmin/activeadmin](../repos/activeadmin/activeadmin.md) - The administration framework for Ruby on Rails applications.
+- [openai/openai-ruby](../repos/openai/openai-ruby.md) - Official Ruby SDK for the OpenAI API
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.554Z*
+*Last updated: 2026-09-01T18:41:33.282Z*

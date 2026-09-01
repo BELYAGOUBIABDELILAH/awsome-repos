@@ -1,6 +1,6 @@
 # 1812z&#x2F;HyperIsland
 
-> HyperOS 3 Dynamic  Island Enhancer
+> HyperOS  Dynamic  Island Enhancer
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;1812z&#x2F;HyperIsland) 
 
@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Dart |
+| **Language** | Kotlin |
 | **License** | MIT |
-| **Stars** | ⭐ 440 |
-| **Forks** | 🍴 43 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 472 |
+| **Forks** | 🍴 50 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Aug 15, 2026 |
+| **Last Seen** | Sep 1, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Dart or android*
+*Similar: Check repositories in Kotlin or android*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 3 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Dart
+- Check similar projects in Kotlin
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 95&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-29T21:01:37.582Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-09-01T18:41:36.573Z*  
+*Data from 7 trending reports*

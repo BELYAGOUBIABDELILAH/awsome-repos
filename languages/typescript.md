@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 167
+- **Total Repositories**: 169
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 6,150 | 2026-08-01 | 10 |
+| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,270 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 50,154 | 2026-08-01 | 4 |
+| [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) | ⭐ 4,824 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/checkout](../repos/actions/checkout.md) | ⭐ 8,784 | 2026-08-02 | 5 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 59,095 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EveryInc/compound-engineering-plugin](../repos/EveryInc/compound-engineering-plugin.md) | ⭐ 24,672 | 2026-08-04 | 5 |
+| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 16,080 | 2026-08-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 22,177 | 2026-08-07 | 11 |
+| [THU-MAIC/OpenMAIC](../repos/THU-MAIC/OpenMAIC.md) | ⭐ 29,270 | 2026-08-15 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 14,574 | 2026-08-14 | 3 |
+| [Gitlawb/openclaude](../repos/Gitlawb/openclaude.md) | ⭐ 31,173 | 2026-08-17 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [THU-MAIC/OpenMAIC](../repos/THU-MAIC/OpenMAIC.md) | ⭐ 22,101 | 2026-08-15 | 2 |
+| [rmyndharis/OpenWA](../repos/rmyndharis/OpenWA.md) | ⭐ 13,559 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 8,221 | 2026-08-26 | 2 |
+| [oblien/openship](../repos/oblien/openship.md) | ⭐ 11,964 | 2026-08-25 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code-action](../repos/anthropics/claude-code-action.md) | ⭐ 8,752 | 2026-08-29 | 1 |
+| [inkeep/open-knowledge](../repos/inkeep/open-knowledge.md) | ⭐ 3,860 | 2026-09-01 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/kumo](../repos/cloudflare/kumo.md) | ⭐ 3,759 | 2026-08-29 | 1 |
+| [YishenTu/claudian](../repos/YishenTu/claudian.md) | ⭐ 15,098 | 2026-09-01 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 52,300 | 2026-07-31 | Beautifully designed components that you can copy and paste into your apps |
+| [karakeep-app/karakeep](../repos/karakeep-app/karakeep.md) | ⭐ 28,063 | 2026-08-03 | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | ⭐ 75,400 | 2026-07-31 | Virtual whiteboard for sketching hand-drawn like diagrams |
+| [darkreader/darkreader](../repos/darkreader/darkreader.md) | ⭐ 22,236 | 2026-08-03 | Dark Reader Chrome and Firefox extension |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [different-ai/openwork](../repos/different-ai/openwork.md) | ⭐ 20,293 | 2026-08-01 | The open-source alternative to Claude Cowork (powered by opencode) |
+| [meshery/meshery](../repos/meshery/meshery.md) | ⭐ 11,424 | 2026-08-03 | Meshery, the cloud native manager |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 6,150 | 2026-08-01 | Cursor plugin specification and official plugins |
+| [CodebuffAI/codebuff](../repos/CodebuffAI/codebuff.md) | ⭐ 8,315 | 2026-08-03 | Generate code from the terminal! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 17,453 | 2026-08-01 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an... |
+| [cypress-io/cypress](../repos/cypress-io/cypress.md) | ⭐ 50,912 | 2026-08-04 | Fast, easy and reliable testing for anything that runs in a browser. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 48,413 | 2026-08-01 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring... |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | Deliver web apps with confidence 🚀 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [modelcontextprotocol/ext-apps](../repos/modelcontextprotocol/ext-apps.md) | ⭐ 2,653 | 2026-08-01 | Official repo for spec &amp; SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served... |
+| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | A utility-first CSS framework for rapid UI development. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 50,154 | 2026-08-01 | Chrome DevTools for coding agents |
+| [EveryInc/compound-engineering-plugin](../repos/EveryInc/compound-engineering-plugin.md) | ⭐ 24,672 | 2026-08-04 | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google-labs-code/design.md](../repos/google-labs-code/design.md.md) | ⭐ 26,813 | 2026-08-01 | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents ... |
+| [prisma/prisma](../repos/prisma/prisma.md) | ⭐ 47,526 | 2026-08-04 | Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, Mo... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [fingerprintjs/fingerprintjs](../repos/fingerprintjs/fingerprintjs.md) | ⭐ 28,015 | 2026-08-01 | The most advanced free and open-source browser fingerprinting library |
+| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,436 | 2026-08-04 | The open and composable observability and data visualization platform. Visualize metrics, logs, a... |
 
 
 ---
@@ -92,7 +92,8 @@
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 202,134 | 2026-08-11 | 3 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
-| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 136,627 | 2026-08-02 | 3 |
+| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,112 | 2026-09-01 | 1 |
+| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,270 | 2026-08-02 | 4 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 130,028 | 2026-08-02 | 7 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | 2026-08-17 | 2 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
@@ -107,7 +108,6 @@
 | [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | 2026-08-12 | 1 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 77,659 | 2026-08-02 | 4 |
 | [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,436 | 2026-08-04 | 4 |
-| [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) | ⭐ 75,400 | 2026-07-31 | 1 |
 
 ---
 
@@ -119,11 +119,11 @@
 | [cursor/plugins](../repos/cursor/plugins.md) | 10 | ⭐ 6,150 | 2026-08-01 | 2026-08-29 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 10 | ⭐ 27,673 | 2026-08-02 | 2026-08-26 |
 | [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
-| [frappe/lms](../repos/frappe/lms.md) | 9 | ⭐ 3,166 | 2026-08-06 | 2026-08-26 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 7 | ⭐ 130,028 | 2026-08-02 | 2026-08-27 |
 | [apache/maka](../repos/apache/maka.md) | 7 | ⭐ 3,585 | 2026-08-20 | 2026-08-26 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 6 | ⭐ 59,095 | 2026-08-11 | 2026-09-01 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
 
 ---
@@ -187,7 +187,6 @@
 - [playcanvas/supersplat](../repos/playcanvas/supersplat.md) - 3D Gaussian Splat Editor
 - [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) - The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No...
 - [promptfoo/promptfoo](../repos/promptfoo/promptfoo.md) - Test your prompts, agents, and RAGs. Red teaming&#x2F;pentesting&#x2F;vulnerability scanning for AI. Compar...
-- [frappe/lms](../repos/frappe/lms.md) - Easy to Use, 100% Open Source Learning Management System
 - [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one &#x2F;v1...
 - [open-mercato/open-mercato](../repos/open-mercato/open-mercato.md) - AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural ...
@@ -230,7 +229,8 @@
 - [Jakubantalik/Libraries](../repos/Jakubantalik/Libraries.md) - Collection of effects for React: Border beam, Liquid Gooey
 - [every-app/open-seo](../repos/every-app/open-seo.md) - Open source alternative to Semrush and Ahrefs
 - [documenso/documenso](../repos/documenso/documenso.md) - The Open Source DocuSign Alternative.
+- [vercel-labs/deepsec](../repos/vercel-labs/deepsec.md) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.566Z*
+*Last updated: 2026-09-01T18:41:33.296Z*

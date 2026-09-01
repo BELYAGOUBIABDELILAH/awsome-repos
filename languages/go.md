@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 204
+- **Total Repositories**: 206
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-08-24
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 6,049 | 2026-08-01 | 2 |
+| [golang/go](../repos/golang/go.md) | ⭐ 137,097 | 2026-07-31 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailscale/tailscale](../repos/tailscale/tailscale.md) | ⭐ 35,770 | 2026-08-02 | 4 |
+| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 6,202 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,033 | 2026-08-04 | 3 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 21,123 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 89,592 | 2026-08-06 | 7 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 1,702 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 22,167 | 2026-08-06 | 3 |
+| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 37,500 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anchore/syft](../repos/anchore/syft.md) | ⭐ 9,476 | 2026-08-11 | 3 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 125,919 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [envoyproxy/gateway](../repos/envoyproxy/gateway.md) | ⭐ 2,997 | 2026-08-19 | 2 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 26,792 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/go-modern-guidelines](../repos/JetBrains/go-modern-guidelines.md) | ⭐ 2,846 | 2026-08-27 | 3 |
+| [TecharoHQ/anubis](../repos/TecharoHQ/anubis.md) | ⭐ 22,034 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailscale/tailcat](../repos/tailscale/tailcat.md) | ⭐ 3,418 | 2026-08-28 | 2 |
+| [seakee/CPA-Manager-Plus](../repos/seakee/CPA-Manager-Plus.md) | ⭐ 3,032 | 2026-08-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [workweave/router](../repos/workweave/router.md) | ⭐ 2,635 | 2026-08-28 | 2 |
+| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 11,589 | 2026-08-19 | 2 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 135,891 | 2026-07-31 | The Go programming language |
+| [lharries/whatsapp-mcp](../repos/lharries/whatsapp-mcp.md) | ⭐ 6,054 | 2026-08-03 | WhatsApp MCP server |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 46,699 | 2026-08-01 | A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs ... |
+| [bettercap/bettercap](../repos/bettercap/bettercap.md) | ⭐ 19,711 | 2026-08-03 | The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MIT... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) | ⭐ 197 | 2026-08-01 | Offensive security framework for AI agent infrastructure - recon, credential looting, model exfil... |
+| [krillinai/KrillinAI](../repos/krillinai/KrillinAI.md) | ⭐ 11,134 | 2026-08-03 | AI video translation &amp; dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: dow... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,047 | 2026-08-01 | GitHub Stacked PRs |
+| [authelia/authelia](../repos/authelia/authelia.md) | ⭐ 28,681 | 2026-08-03 | The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 6,049 | 2026-08-01 | The system of action for AI-native cybersecurity—where intent becomes governed execution, evidenc... |
+| [restic/restic](../repos/restic/restic.md) | ⭐ 35,678 | 2026-08-03 | Fast, secure, efficient backup program |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 46,694 | 2026-08-01 | Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-sour... |
+| [chaitin/SafeLine](../repos/chaitin/SafeLine.md) | ⭐ 22,261 | 2026-08-03 | SafeLine is a self-hosted WAF(Web Application Firewall) &#x2F; reverse proxy to protect your web apps ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [heroiclabs/nakama](../repos/heroiclabs/nakama.md) | ⭐ 13,066 | 2026-08-01 | Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and socia... |
+| [micro/go-micro](../repos/micro/go-micro.md) | ⭐ 22,996 | 2026-08-03 | A Go agent harness and service framework |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,678 | 2026-08-01 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori... |
+| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 37,500 | 2026-08-03 | The universal proxy platform |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 20,858 | 2026-08-01 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason... |
+| [pulumi/pulumi](../repos/pulumi/pulumi.md) | ⭐ 25,597 | 2026-08-03 | Pulumi - Infrastructure as Code in any programming language 🚀 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nianzhibai/91](../repos/nianzhibai/91.md) | ⭐ 1,316 | 2026-08-01 | nine one |
+| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | 2026-08-03 | Fast and extensible multi-platform HTTP&#x2F;1-2-3 web server with automatic HTTPS |
 
 
 ---
@@ -89,8 +89,8 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 179,343 | 2026-08-01 | 10 |
-| [golang/go](../repos/golang/go.md) | ⭐ 135,891 | 2026-07-31 | 6 |
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 124,500 | 2026-08-04 | 2 |
+| [golang/go](../repos/golang/go.md) | ⭐ 137,097 | 2026-07-31 | 7 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 125,919 | 2026-08-04 | 3 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,657 | 2026-08-15 | 4 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 89,592 | 2026-08-06 | 7 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 11 | ⭐ 37,678 | 2026-08-01 | 2026-08-28 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 10 | ⭐ 21,123 | 2026-08-01 | 2026-09-01 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 10 | ⭐ 179,343 | 2026-08-01 | 2026-08-24 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 9 | ⭐ 46,699 | 2026-08-01 | 2026-08-28 |
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 9 | ⭐ 20,858 | 2026-08-01 | 2026-08-28 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 8 | ⭐ 46,694 | 2026-08-01 | 2026-08-19 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 7 | ⭐ 1,592 | 2026-08-02 | 2026-08-22 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 8 | ⭐ 1,702 | 2026-08-02 | 2026-09-01 |
+| [golang/go](../repos/golang/go.md) | 7 | ⭐ 137,097 | 2026-07-31 | 2026-09-01 |
+| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 7 | ⭐ 37,500 | 2026-08-03 | 2026-09-01 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 7 | ⭐ 89,592 | 2026-08-06 | 2026-08-29 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 7 | ⭐ 39,000 | 2026-08-07 | 2026-08-23 |
-| [golang/go](../repos/golang/go.md) | 6 | ⭐ 135,891 | 2026-07-31 | 2026-08-19 |
-| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 6 | ⭐ 32,878 | 2026-08-02 | 2026-08-07 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.514Z*
+*Last updated: 2026-09-01T18:41:33.238Z*

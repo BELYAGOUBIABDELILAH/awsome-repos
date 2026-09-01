@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 144
+- **Total Repositories**: 148
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-24
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,201 | 2026-08-01 | 15 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 69,051 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,144 | 2026-08-01 | 9 |
+| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,418 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,959 | 2026-08-01 | 7 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,550 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,096 | 2026-08-01 | 3 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,804 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vedderb/bldc](../repos/vedderb/bldc.md) | ⭐ 3,395 | 2026-08-05 | 3 |
+| [immortalwrt/immortalwrt](../repos/immortalwrt/immortalwrt.md) | ⭐ 11,527 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,339 | 2026-08-06 | 11 |
+| [microsoft/mimalloc](../repos/microsoft/mimalloc.md) | ⭐ 13,343 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rexglue/rexglue-sdk](../repos/rexglue/rexglue-sdk.md) | ⭐ 815 | 2026-08-08 | 3 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,463 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [u-boot/u-boot](../repos/u-boot/u-boot.md) | ⭐ 5,216 | 2026-08-14 | 3 |
+| [armel/uv-k1-k5v3-firmware-custom](../repos/armel/uv-k1-k5v3-firmware-custom.md) | ⭐ 643 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRDP/FreeRDP](../repos/FreeRDP/FreeRDP.md) | ⭐ 13,613 | 2026-08-20 | 4 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,373 | 2026-08-06 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sabrogden/Ditto](../repos/sabrogden/Ditto.md) | ⭐ 7,040 | 2026-08-20 | 3 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 41,696 | 2026-08-07 | 12 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,201 | 2026-08-01 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization ... |
+| [mgba-emu/mgba](../repos/mgba-emu/mgba.md) | ⭐ 7,248 | 2026-08-03 | mGBA Game Boy Advance Emulator |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 67,693 | 2026-08-01 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur... |
+| [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) | ⭐ 16,451 | 2026-08-03 | Flipper Zero firmware source code |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,144 | 2026-08-01 | Cross-platform asynchronous I&#x2F;O |
+| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,501 | 2026-08-03 | stb single-file public domain libraries for C&#x2F;C++ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,071 | 2026-08-01 | Flipper Zero Unleashed Firmware |
+| [karpathy/llama2.c](../repos/karpathy/llama2.c.md) | ⭐ 19,914 | 2026-08-03 | Inference Llama 2 in one file of pure C |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,959 | 2026-08-01 | Ultralightweight JSON parser in ANSI C |
+| [HandBrake/HandBrake](../repos/HandBrake/HandBrake.md) | ⭐ 24,067 | 2026-08-03 | HandBrake&#39;s development repository  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,062 | 2026-08-01 | Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows |
+| [immortalwrt/immortalwrt](../repos/immortalwrt/immortalwrt.md) | ⭐ 11,527 | 2026-08-03 | An opensource OpenWrt variant for mainland China users. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,291 | 2026-08-01 | A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input |
+| [darktable-org/darktable](../repos/darktable-org/darktable.md) | ⭐ 12,926 | 2026-08-03 | darktable is an open source photography workflow application and raw developer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mcu-tools/mcuboot](../repos/mcu-tools/mcuboot.md) | ⭐ 2,006 | 2026-08-01 | Secure boot for 32-bit Microcontrollers! |
+| [mit-pdos/xv6-riscv](../repos/mit-pdos/xv6-riscv.md) | ⭐ 10,253 | 2026-08-03 | Xv6 for RISC-V |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,388 | 2026-08-01 | Decompilation of Pokémon Emerald |
+| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,636 | 2026-08-03 | The systemd System and Service Manager  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [linux-rdma/rdma-core](../repos/linux-rdma/rdma-core.md) | ⭐ 2,335 | 2026-08-01 | RDMA core userspace libraries and daemons |
+| [microsoft/mimalloc](../repos/microsoft/mimalloc.md) | ⭐ 13,343 | 2026-08-04 | mimalloc is a compact general purpose allocator with excellent performance. |
 
 
 ---
@@ -93,18 +93,18 @@
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 78,928 | 2026-08-24 | 1 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,476 | 2026-08-02 | 10 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 67,693 | 2026-08-01 | 10 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 69,051 | 2026-08-01 | 11 |
 | [git/git](../repos/git/git.md) | ⭐ 62,663 | 2026-08-05 | 3 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 40,762 | 2026-08-07 | 11 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 41,696 | 2026-08-07 | 12 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,314 | 2026-08-01 | 4 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,255 | 2026-08-08 | 3 |
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,666 | 2026-08-02 | 5 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,804 | 2026-08-02 | 6 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | 6 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,501 | 2026-08-03 | 4 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,096 | 2026-08-01 | 3 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 32,007 | 2026-08-17 | 1 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,467 | 2026-08-02 | 3 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,550 | 2026-08-02 | 4 |
 | [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,076 | 2026-08-09 | 4 |
 | [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,644 | 2026-08-07 | 9 |
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,144 | 2026-08-01 | 9 |
@@ -116,13 +116,13 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 15 | ⭐ 138,201 | 2026-08-01 | 2026-08-29 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 12 | ⭐ 16,373 | 2026-08-06 | 2026-09-01 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 12 | ⭐ 41,696 | 2026-08-07 | 2026-09-01 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 11 | ⭐ 69,051 | 2026-08-01 | 2026-09-01 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 11 | ⭐ 6,922 | 2026-08-04 | 2026-08-27 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 11 | ⭐ 16,339 | 2026-08-06 | 2026-08-29 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 11 | ⭐ 40,762 | 2026-08-07 | 2026-08-26 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 10 | ⭐ 67,693 | 2026-08-01 | 2026-08-22 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 10 | ⭐ 75,476 | 2026-08-02 | 2026-08-26 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 10 | ⭐ 4,463 | 2026-08-04 | 2026-09-01 |
 | [libuv/libuv](../repos/libuv/libuv.md) | 9 | ⭐ 27,144 | 2026-08-01 | 2026-08-29 |
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 9 | ⭐ 4,445 | 2026-08-04 | 2026-08-27 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 9 | ⭐ 148,181 | 2026-08-07 | 2026-08-24 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 9 | ⭐ 27,644 | 2026-08-07 | 2026-08-28 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.487Z*
+*Last updated: 2026-09-01T18:41:33.208Z*

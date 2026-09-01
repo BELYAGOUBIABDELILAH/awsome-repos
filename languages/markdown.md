@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [codecrafters-io/build-your-own-x](../repos/codecrafters-io/build-your-own-x.md) | ⭐ 534,798 | 2026-08-02 | Master programming by recreating your favorite technologies from scratch. |
 
+*No new Markdown repositories in the last 30 days*
 
 ---
 
@@ -50,4 +48,4 @@
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.535Z*
+*Last updated: 2026-09-01T18:41:33.261Z*

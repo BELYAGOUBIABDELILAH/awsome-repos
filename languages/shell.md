@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 88
+- **Total Repositories**: 89
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,778 | 2026-08-01 | 17 |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,378 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,323 | 2026-08-01 | 12 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,567 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,764 | 2026-08-01 | 3 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,582 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [super-linter/super-linter](../repos/super-linter/super-linter.md) | ⭐ 10,565 | 2026-08-04 | 3 |
+| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,648 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [1N3/Sn1per](../repos/1N3/Sn1per.md) | ⭐ 11,166 | 2026-08-06 | 6 |
+| [linux-surface/linux-surface](../repos/linux-surface/linux-surface.md) | ⭐ 7,653 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,478 | 2026-08-07 | 14 |
+| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,068 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,617 | 2026-08-07 | 4 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 4,610 | 2026-08-12 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,187 | 2026-08-08 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ophub/fnnas](../repos/ophub/fnnas.md) | ⭐ 3,286 | 2026-08-22 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 34,686 | 2026-08-29 | 1 |
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,578 | 2026-09-01 | 1 |
 
 
 ---
@@ -52,34 +46,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [HQarroum/docker-android](../repos/HQarroum/docker-android.md) | ⭐ 7,174 | 2026-08-01 | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
+| [bats-core/bats-core](../repos/bats-core/bats-core.md) | ⭐ 6,216 | 2026-08-03 | Bash Automated Testing System |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,778 | 2026-08-01 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $n... |
+| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 9,628 | 2026-08-03 | Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [The01Geek/prflow](../repos/The01Geek/prflow.md) | ⭐ 112 | 2026-08-01 | Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and... |
+| [techjarves/termux-hacklab](../repos/techjarves/termux-hacklab.md) | ⭐ 700 | 2026-08-03 | Turn your Android into a GPU-accelerated Linux hacking lab with one command! XFCE Desktop + Nmap,... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 6,712 | 2026-08-01 | Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex... |
+| [fujibee/agmsg](../repos/fujibee/agmsg.md) | ⭐ 1,452 | 2026-08-03 | Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini &amp; Copilot talk t... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | ⭐ 2,986 | 2026-08-01 | Burpsuite Professional Latest Version 2026 |
+| [PapirusDevelopmentTeam/papirus-icon-theme](../repos/PapirusDevelopmentTeam/papirus-icon-theme.md) | ⭐ 7,969 | 2026-08-03 | Pixel perfect icon theme for Linux |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Chachamaru127/claude-code-harness](../repos/Chachamaru127/claude-code-harness.md) | ⭐ 3,034 | 2026-08-01 | Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonom... |
+| [openshift/release](../repos/openshift/release.md) | ⭐ 325 | 2026-08-04 | Release tooling for OpenShift |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,323 | 2026-08-01 | Achieve state of the art inference performance with modern accelerators on Kubernetes |
+| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 7,333 | 2026-08-04 | Claude Code skill to support Android app&#39;s reverse engineering |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [void-linux/void-packages](../repos/void-linux/void-packages.md) | ⭐ 3,371 | 2026-08-01 | The Void source packages collection |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,567 | 2026-08-04 | A pure Unix shell script ACME client for SSL &#x2F; TLS certificate automation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,764 | 2026-08-01 | Универсальный менеджер для обхода блокировок на OpenWrt https:&#x2F;&#x2F;t.me&#x2F;stressozz_manager |
+| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,306 | 2026-08-04 | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | Beautiful, Modern &amp; Opinionated Linux |
+| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,593 | 2026-08-04 | OSS-Fuzz - continuous fuzzing for open source software. |
 
 
 ---
@@ -93,21 +87,21 @@
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,306 | 2026-08-04 | 4 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,015 | 2026-08-06 | 7 |
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,513 | 2026-08-04 | 3 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,567 | 2026-08-04 | 4 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 34,686 | 2026-08-29 | 1 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,007 | 2026-08-20 | 4 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,531 | 2026-08-04 | 8 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,582 | 2026-08-04 | 9 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,694 | 2026-08-07 | 3 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 6 |
 | [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,794 | 2026-08-08 | 5 |
 | [CISOfy/lynis](../repos/CISOfy/lynis.md) | ⭐ 16,222 | 2026-08-24 | 1 |
-| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 15,647 | 2026-08-11 | 3 |
+| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,068 | 2026-08-11 | 4 |
 | [DaoCloud/public-image-mirror](../repos/DaoCloud/public-image-mirror.md) | ⭐ 14,853 | 2026-08-14 | 1 |
-| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,617 | 2026-08-07 | 4 |
+| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,648 | 2026-08-07 | 5 |
 
 ---
 
@@ -118,11 +112,11 @@
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 17 | ⭐ 94,778 | 2026-08-01 | 2026-08-29 |
 | [expo/skills](../repos/expo/skills.md) | 14 | ⭐ 2,478 | 2026-08-07 | 2026-08-29 |
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | 12 | ⭐ 4,323 | 2026-08-01 | 2026-08-29 |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | 13 | ⭐ 4,378 | 2026-08-01 | 2026-09-01 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 9 | ⭐ 25,582 | 2026-08-04 | 2026-09-01 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 9 | ⭐ 4,610 | 2026-08-12 | 2026-09-01 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 8 | ⭐ 2,192 | 2026-08-02 | 2026-08-27 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 8 | ⭐ 11,121 | 2026-08-04 | 2026-08-27 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 8 | ⭐ 25,531 | 2026-08-04 | 2026-08-28 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 8 | ⭐ 4,159 | 2026-08-12 | 2026-08-26 |
 | [wolfi-dev/os](../repos/wolfi-dev/os.md) | 8 | ⭐ 1,276 | 2026-08-14 | 2026-08-26 |
 | [dockur/windows](../repos/dockur/windows.md) | 7 | ⭐ 53,015 | 2026-08-06 | 2026-08-25 |
 
@@ -218,7 +212,8 @@
 - [laude-institute/headlong](../repos/laude-institute/headlong.md) - An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bas...
 - [juewuy/ShellCrash](../repos/juewuy/ShellCrash.md) - Run sing-box&#x2F;mihomo as client in shell
 - [omacom/omarchy](../repos/omacom/omarchy.md) - Beautiful, Modern &amp; Opinionated Linux
+- [233boy/sing-box](../repos/233boy/sing-box.md) - 最好用的 sing-box 一键安装脚本 &amp; 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.560Z*
+*Last updated: 2026-09-01T18:41:33.290Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 81
+- **Total Repositories**: 83
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,597 | 2026-08-01 | 8 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,616 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,705 | 2026-08-01 | 7 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,077 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,830 | 2026-08-01 | 16 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 18 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,686 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 18 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,231 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 17 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,264 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,073 | 2026-08-01 | 14 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,029 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,634 | 2026-08-01 | 18 |
+| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,523 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,080 | 2026-08-02 | 12 |
+| [bugsnag/bugsnag-cocoa](../repos/bugsnag/bugsnag-cocoa.md) | ⭐ 262 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,615 | 2026-08-04 | 14 |
+| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,115 | 2026-08-07 | 4 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [maderix/ANE](../repos/maderix/ANE.md) | ⭐ 7,228 | 2026-08-01 | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,264 | 2026-08-03 | Darwin&#x2F;macOS emulation layer for Linux |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,597 | 2026-08-01 | A software update framework for macOS |
+| [google/eDistantObject](../repos/google/eDistantObject.md) | ⭐ 176 | 2026-08-03 |  eDistantObject (eDO) - Remote invocation library for iOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | KeyCastr, an open-source keystroke visualizer |
+| [robbiehanson/KissXML](../repos/robbiehanson/KissXML.md) | ⭐ 858 | 2026-08-03 | A replacement for Cocoa&#39;s NSXML cluster of classes. Based on libxml. Works on iOS. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,705 | 2026-08-01 | AWS SDK for iOS. For more information, see our web site: |
+| [joeldev/JLRoutes](../repos/joeldev/JLRoutes.md) | ⭐ 5,705 | 2026-08-03 | URL routing library for iOS with a simple block-based API |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | Branch iOS SDK Swift Package Manager distribution |
+| [erikdoe/ocmock](../repos/erikdoe/ocmock.md) | ⭐ 2,171 | 2026-08-03 | Mock objects for Objective-C |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,830 | 2026-08-01 | Promises is a modern framework that provides a synchronization construct for Swift and Objective-C. |
+| [danveloper/flash-moe](../repos/danveloper/flash-moe.md) | ⭐ 4,073 | 2026-08-03 | Running a big model on a small laptop |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 |  |
+| [TTTAttributedLabel/TTTAttributedLabel](../repos/TTTAttributedLabel/TTTAttributedLabel.md) | ⭐ 8,711 | 2026-08-03 | A drop-in replacement for UILabel that supports attributes, data detectors, links, and more |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 |  |
+| [roothide/Bootstrap](../repos/roothide/Bootstrap.md) | ⭐ 1,694 | 2026-08-03 | A full featured bootstrap for iOS 15.0-17.0 A8-A17Pro &amp; M1+M2 using roothide |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 |  Google Toolbox for Mac - Session Fetcher |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,029 | 2026-08-04 | Staggeringly powerful macOS desktop automation with Lua |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,073 | 2026-08-01 | Stub your network requests easily! Test your apps with fake network data and custom response time... |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,615 | 2026-08-04 | Realm is a mobile database: a replacement for Core Data &amp; SQLite |
 
 
 ---
@@ -90,24 +90,24 @@
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,392 | 2026-08-02 | 4 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,634 | 2026-08-01 | 18 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 19 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,080 | 2026-08-02 | 12 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,615 | 2026-08-04 | 14 |
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,007 | 2026-08-04 | 6 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,029 | 2026-08-04 | 7 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,933 | 2026-08-04 | 8 |
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,043 | 2026-08-01 | 3 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,077 | 2026-08-01 | 4 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
 | [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,836 | 2026-08-28 | 1 |
+| [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,325 | 2026-08-04 | 8 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,103 | 2026-08-03 | 6 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,264 | 2026-08-03 | 7 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,453 | 2026-08-06 | 1 |
-| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,090 | 2026-08-07 | 3 |
+| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,115 | 2026-08-07 | 4 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
 | [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) | ⭐ 10,643 | 2026-08-06 | 2 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,616 | 2026-08-01 | 9 |
 | [facebookincubator/SocketRocket](../repos/facebookincubator/SocketRocket.md) | ⭐ 9,609 | 2026-08-08 | 6 |
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,597 | 2026-08-01 | 8 |
-| [facebookarchive/Shimmer](../repos/facebookarchive/Shimmer.md) | ⭐ 9,331 | 2026-08-02 | 2 |
 
 ---
 
@@ -115,9 +115,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 19 | ⭐ 25,633 | 2026-08-01 | 2026-09-01 |
 | [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 18 | ⭐ 134 | 2026-08-01 | 2026-08-29 |
 | [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 18 | ⭐ 59 | 2026-08-01 | 2026-08-29 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 18 | ⭐ 25,634 | 2026-08-01 | 2026-08-29 |
 | [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 17 | ⭐ 292 | 2026-08-01 | 2026-08-29 |
 | [google/promises](../repos/google/promises.md) | 16 | ⭐ 3,830 | 2026-08-01 | 2026-08-29 |
 | [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 14 | ⭐ 5,073 | 2026-08-01 | 2026-08-29 |
@@ -211,7 +211,9 @@
 - [pinterest/PINOperation](../repos/pinterest/PINOperation.md) - 
 - [QMUI/LookinServer](../repos/QMUI/LookinServer.md) - Free macOS app for iOS view debugging.
 - [michaeltyson/TPKeyboardAvoiding](../repos/michaeltyson/TPKeyboardAvoiding.md) - A drop-in universal solution for moving text fields out of the way of the keyboard in iOS
+- [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) - An easy way to use pull-to-refresh.
+- [julienXX/terminal-notifier](../repos/julienXX/terminal-notifier.md) - Send User Notifications on macOS from the command-line.
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.541Z*
+*Last updated: 2026-09-01T18:41:33.267Z*

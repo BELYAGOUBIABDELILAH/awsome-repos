@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | Zlib |
-| **Stars** | ⭐ 17,955 |
-| **Forks** | 🍴 1,213 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 17,978 |
+| **Forks** | 🍴 1,222 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 29, 2026 |
+| **Last Seen** | Sep 1, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-29T21:01:36.865Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-01T18:41:35.823Z*  
+*Data from 3 trending reports*

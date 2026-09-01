@@ -1,6 +1,6 @@
 # Spyou&#x2F;Zangetsu
 
-> Zangetsu is an anime and movie&#x2F;series streaming app.
+> Free, open-source app for anime, movies, series, manga and light novels — on Android, Android TV and iOS (beta).
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Spyou&#x2F;Zangetsu) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 193 |
-| **Forks** | 🍴 24 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 222 |
+| **Forks** | 🍴 27 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 12, 2026 |
-| **Last Seen** | Aug 24, 2026 |
+| **Last Seen** | Sep 1, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Dart or anime*
+*Similar: Check repositories in Dart or android-tv*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 3 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`anime`](../../topics/anime.md) [`animeapp`](../../topics/animeapp.md) [`movie-app-flutter`](../../topics/movie-app-flutter.md) [`movie-download`](../../topics/movie-download.md) [`movies-streaming`](../../topics/movies-streaming.md) [`zangetsu`](../../topics/zangetsu.md) 
+[`android-tv`](../../topics/android-tv.md) [`anime`](../../topics/anime.md) [`animeapp`](../../topics/animeapp.md) [`ios`](../../topics/ios.md) [`light-novel`](../../topics/light-novel.md) [`manga`](../../topics/manga.md) [`movie-app-flutter`](../../topics/movie-app-flutter.md) [`movie-download`](../../topics/movie-download.md) [`movies-streaming`](../../topics/movies-streaming.md) [`zangetsu`](../../topics/zangetsu.md) 
 
 ### Curated Categories
-`Data Engineering` `Mobile Development` 
+`Data Engineering` `Mobile Development` `Systems Programming` 
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 90&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-08-29T21:01:38.063Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-09-01T18:41:37.072Z*  
+*Data from 6 trending reports*

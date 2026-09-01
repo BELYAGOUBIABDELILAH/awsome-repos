@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 124
+- **Total Repositories**: 128
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-24
+- **Last Updated**: 2026-09-01
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rommapp/argosy-launcher](../repos/rommapp/argosy-launcher.md) | ⭐ 534 | 2026-08-01 | 3 |
+| [zly2006/zhihu-plus-plus](../repos/zly2006/zhihu-plus-plus.md) | ⭐ 3,892 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,799 | 2026-08-02 | 8 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,962 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | ⭐ 810 | 2026-08-02 | 4 |
+| [sfsakhawat999/mpvRex](../repos/sfsakhawat999/mpvRex.md) | ⭐ 610 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,507 | 2026-08-02 | 3 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,474 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,454 | 2026-08-02 | 3 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,543 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 1,738 | 2026-08-04 | 4 |
+| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 7,461 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 722 | 2026-08-05 | 9 |
+| [cwuom/NeriPlayer](../repos/cwuom/NeriPlayer.md) | ⭐ 3,174 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,290 | 2026-08-05 | 6 |
+| [1812z/HyperIsland](../repos/1812z/HyperIsland.md) | ⭐ 472 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [celzero/rethink-app](../repos/celzero/rethink-app.md) | ⭐ 5,353 | 2026-08-10 | 2 |
+| [WinNative-Emu/WinNative](../repos/WinNative-Emu/WinNative.md) | ⭐ 539 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,197 | 2026-08-10 | 3 |
+| [torlando-tech/columba](../repos/torlando-tech/columba.md) | ⭐ 1,117 | 2026-08-11 | 2 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,068 | 2026-08-01 | Free and open source manga reader for Android |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,520 | 2026-08-03 | Android app for streaming and downloading media. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 212 | 2026-08-01 | BYD DiLink app (3.0&#x2F;5.0&#x2F;5.1, UI7): split screen 1&#x2F;3+2&#x2F;3, navigation on instrument cluster, Yandex... |
+| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | ⭐ 1,669 | 2026-08-03 | WhatsApp tools for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [rommapp/argosy-launcher](../repos/rommapp/argosy-launcher.md) | ⭐ 534 | 2026-08-01 | A native Android client for RomM  for syncing, installing, and launching games on any of your mob... |
+| [jellyfin/jellyfin-android](../repos/jellyfin/jellyfin-android.md) | ⭐ 2,667 | 2026-08-03 | Android Client for Jellyfin |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [yuzono/tachiyomi-extensions](../repos/yuzono/tachiyomi-extensions.md) | ⭐ 856 | 2026-08-01 | Source code of extensions for Komikku &#x2F; Mihon &amp; forks. |
+| [Luoyacheng/legado-E](../repos/Luoyacheng/legado-E.md) | ⭐ 2,495 | 2026-08-03 | 阅读Sigma是legado的继承，保持开源免费，延续开源精神。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Fate-Grand-Automata/FGA](../repos/Fate-Grand-Automata/FGA.md) | ⭐ 2,358 | 2026-08-01 | Auto-battle app for F&#x2F;GO Android |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,543 | 2026-08-03 | The Magic Mask for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zly2006/zhihu-plus-plus](../repos/zly2006/zhihu-plus-plus.md) | ⭐ 3,828 | 2026-08-01 | Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎... |
+| [videolan/vlc-android](../repos/videolan/vlc-android.md) | ⭐ 3,909 | 2026-08-03 |   VLC for Android, Android TV and ChromeOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Tencent-TDS/KuiklyUI](../repos/Tencent-TDS/KuiklyUI.md) | ⭐ 3,366 | 2026-08-01 | A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six pla... |
+| [aistra0528/Hail](../repos/aistra0528/Hail.md) | ⭐ 6,411 | 2026-08-03 | Disable &#x2F; Hide &#x2F; Suspend &#x2F; Uninstall Android apps without root. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,736 | 2026-08-01 | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
+| [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | ⭐ 4,319 | 2026-08-03 | 原生、纯净、可扩展 —— 重新定义你的 B 站体验 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TeamAmaze/AmazeFileManager](../repos/TeamAmaze/AmazeFileManager.md) | ⭐ 6,331 | 2026-08-01 | Material design file manager for Android |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,114 | 2026-08-03 | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,799 | 2026-08-02 | A V2Ray client for Android, support Xray core and v2fly core |
+| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 7,461 | 2026-08-03 | The most powerful AI agent and AI chat software on Android&#x2F;Operit是一款Android上能力最为强大、发展最久的AI Agent |
 
 
 ---
@@ -88,22 +88,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,412 | 2026-08-03 | 5 |
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,799 | 2026-08-02 | 8 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,543 | 2026-08-03 | 6 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,962 | 2026-08-02 | 9 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,356 | 2026-08-04 | 6 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,917 | 2026-08-06 | 8 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,114 | 2026-08-03 | 4 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,262 | 2026-08-05 | 4 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 29,211 | 2026-08-08 | 8 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,730 | 2026-08-11 | 3 |
-| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,429 | 2026-08-12 | 1 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,596 | 2026-08-12 | 2 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,414 | 2026-08-05 | 3 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,068 | 2026-08-01 | 10 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,507 | 2026-08-02 | 3 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,736 | 2026-08-01 | 5 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,326 | 2026-08-12 | 3 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,288 | 2026-08-17 | 1 |
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,454 | 2026-08-02 | 3 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,474 | 2026-08-02 | 4 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,536 | 2026-08-06 | 6 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,215 | 2026-08-02 | 7 |
 | [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,197 | 2026-08-10 | 3 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 10 | ⭐ 23,068 | 2026-08-01 | 2026-08-23 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 10 | ⭐ 4,386 | 2026-08-02 | 2026-08-26 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 9 | ⭐ 61,962 | 2026-08-02 | 2026-09-01 |
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 9 | ⭐ 722 | 2026-08-05 | 2026-08-29 |
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 8 | ⭐ 61,799 | 2026-08-02 | 2026-08-29 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 8 | ⭐ 50,917 | 2026-08-06 | 2026-08-27 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 8 | ⭐ 29,211 | 2026-08-08 | 2026-08-22 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 7 | ⭐ 11,215 | 2026-08-02 | 2026-08-27 |
+| [1812z/HyperIsland](../repos/1812z/HyperIsland.md) | 7 | ⭐ 472 | 2026-08-07 | 2026-09-01 |
 | [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | 7 | ⭐ 5,534 | 2026-08-11 | 2026-08-25 |
 | [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 6 | ⭐ 7,237 | 2026-08-02 | 2026-08-28 |
-| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | 6 | ⭐ 1,669 | 2026-08-03 | 2026-08-28 |
 
 ---
 
@@ -191,6 +191,7 @@
 - [xororz/local-dream](../repos/xororz/local-dream.md) - Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU&#x2F;GPU i...
 - [samolego/Canta](../repos/samolego/Canta.md) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, ...
 - [jqssun/android-airplay-server](../repos/jqssun/android-airplay-server.md) - First open-source AirPlay receiver implementation for Android with mirroring, video and audio sup...
+- [1812z/HyperIsland](../repos/1812z/HyperIsland.md) - HyperOS  Dynamic  Island Enhancer
 - [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) - Using system APIs directly with adb&#x2F;root privileges from normal apps through a Java process start...
 - [JetBrains/koog](../repos/JetBrains/koog.md) - Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise...
 - [rushiranpise/morphe-patches](../repos/rushiranpise/morphe-patches.md) - New mask, same task.                                                                 All patches ...
@@ -229,8 +230,7 @@
 - [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) - A Download Manager that speeds up your downloads
 - [prajwalch/TorrentSearch](../repos/prajwalch/TorrentSearch.md) - An Android app for searching torrents across multiple providers - fast, detailed, and packed with...
 - [Nain57/Smart-AutoClicker](../repos/Nain57/Smart-AutoClicker.md) - An open-source auto clicker on images for Android
-- [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) - 一款虚拟定位软件，功能单一，纯定位，需要root以及Lsposed。
 
 ---
 
-*Last updated: 2026-08-29T21:01:34.530Z*
+*Last updated: 2026-09-01T18:41:33.255Z*
