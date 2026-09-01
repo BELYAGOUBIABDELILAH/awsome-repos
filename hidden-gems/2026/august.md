@@ -211,27 +211,7 @@
 
 ---
 
-### 11. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
-
-**OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,537 |
-| 💻 **Language** | Shell |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 19, 2026 |
-
-**Why it's a gem**: High growth velocity (+147 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/rawfilejson/awesome-osint-arsenal.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;rawfilejson&#x2F;awesome-osint-arsenal)
-
----
-
-### 12. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
+### 11. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
 
 **14MB foundation model for tiny devices; phones, wearables, smart home, and robots.**
 
@@ -251,7 +231,7 @@
 
 ---
 
-### 13. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
+### 12. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
 
 **Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
 
@@ -271,7 +251,7 @@
 
 ---
 
-### 14. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
+### 13. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
 
 **Model export recipes, Python primitives, and Swift runtime utilities for on-device AI**
 
@@ -288,6 +268,26 @@
 **Best for**: 
 
 [View Passport](../../repos/apple/coreai-models.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;apple&#x2F;coreai-models)
+
+---
+
+### 14. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
+
+**OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,537 |
+| 💻 **Language** | Shell |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 19, 2026 |
+
+**Why it's a gem**: High growth velocity (+147 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/rawfilejson/awesome-osint-arsenal.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;rawfilejson&#x2F;awesome-osint-arsenal)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-01T18:41:39.435Z*  
+*Generated: 2026-09-01T21:02:05.065Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

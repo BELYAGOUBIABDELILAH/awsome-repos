@@ -7,7 +7,7 @@
 ## 2026
 
 **Period**: 2026-01-01 to 2026-12-31  
-**Gems Found**: 806
+**Gems Found**: 807
 
 ---
 
@@ -291,27 +291,7 @@
 
 ---
 
-### 15. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
-
-**OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,537 |
-| 💻 **Language** | Shell |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 19, 2026 |
-
-**Why it's a gem**: High growth velocity (+147 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/rawfilejson/awesome-osint-arsenal.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;rawfilejson&#x2F;awesome-osint-arsenal)
-
----
-
-### 16. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
+### 15. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
 
 **https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
+### 16. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
 
 **14MB foundation model for tiny devices; phones, wearables, smart home, and robots.**
 
@@ -351,7 +331,7 @@
 
 ---
 
-### 18. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
+### 17. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
 
 **Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
+### 18. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
 
 **Model export recipes, Python primitives, and Swift runtime utilities for on-device AI**
 
@@ -388,6 +368,26 @@
 **Best for**: 
 
 [View Passport](../../repos/apple/coreai-models.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;apple&#x2F;coreai-models)
+
+---
+
+### 19. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
+
+**OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,537 |
+| 💻 **Language** | Shell |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 19, 2026 |
+
+**Why it's a gem**: High growth velocity (+147 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/rawfilejson/awesome-osint-arsenal.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;rawfilejson&#x2F;awesome-osint-arsenal)
 
 ---
 
@@ -1027,5 +1027,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-01T18:41:39.464Z*  
+*Generated: 2026-09-01T21:02:05.088Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

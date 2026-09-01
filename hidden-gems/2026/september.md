@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 113
+**Gems Found**: 114
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-01T18:41:39.440Z*  
+*Generated: 2026-09-01T21:02:05.071Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

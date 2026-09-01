@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T18:41:39.632Z",
+  "generated_at": "2026-09-01T21:02:05.245Z",
   "total_languages": 55,
   "languages": [
     {
@@ -74,9 +74,9 @@
     },
     {
       "language": "Shell",
-      "repository_count": 89,
-      "total_stars": 1039818,
-      "avg_stars": 11683,
+      "repository_count": 90,
+      "total_stars": 1040395,
+      "avg_stars": 11560,
       "percentage": 3.1
     },
     {
@@ -182,7 +182,7 @@
       "repository_count": 33,
       "total_stars": 138880,
       "avg_stars": 4208,
-      "percentage": 1.2
+      "percentage": 1.1
     },
     {
       "language": "Zig",

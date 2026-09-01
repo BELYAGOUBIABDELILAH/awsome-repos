@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T18:41:39.644Z",
+  "generated_at": "2026-09-01T21:02:05.256Z",
   "total_topics": 100,
   "topics": [
     {
@@ -245,7 +245,7 @@
     {
       "topic": "rag",
       "repository_count": 33,
-      "percentage": 1.2
+      "percentage": 1.1
     },
     {
       "topic": "postgresql",

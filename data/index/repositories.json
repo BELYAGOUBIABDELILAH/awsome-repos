@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-01T18:41:32.540Z",
-  "total_repositories": 2869,
+  "last_updated": "2026-09-01T21:01:58.999Z",
+  "total_repositories": 2870,
   "repositories": {
     "tensorflow/tensorflow": {
       "full_name": "tensorflow/tensorflow",
@@ -196335,6 +196335,41 @@
           "source_slug": "solidity",
           "rank": 2,
           "stars_gained": 4
+        }
+      ]
+    },
+    "raphabot/awesome-cybersecurity-agentic-ai": {
+      "full_name": "raphabot/awesome-cybersecurity-agentic-ai",
+      "owner": "raphabot",
+      "name": "awesome-cybersecurity-agentic-ai",
+      "github_id": 988698008,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "trending_days": 1,
+      "current_consecutive_days": 1,
+      "appearance_dates": [
+        "2026-09-01"
+      ],
+      "latest_stars": 577,
+      "previous_stars": 0,
+      "star_change_since_last_seen": 577,
+      "latest_language": "Shell",
+      "latest_topics": [],
+      "latest_metadata": {
+        "description": null,
+        "url": "https://github.com/raphabot/awesome-cybersecurity-agentic-ai",
+        "license": "MIT",
+        "forks": 125,
+        "created_at": "2025-05-23T00:12:31Z",
+        "updated_at": "2026-09-01T16:30:05Z",
+        "pushed_at": "2026-08-26T21:17:36Z"
+      },
+      "appearances_history": [
+        {
+          "source_type": "language",
+          "source_slug": "shell",
+          "rank": 15,
+          "stars_gained": 7
         }
       ]
     }

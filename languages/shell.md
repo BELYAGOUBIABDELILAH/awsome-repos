@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 89
+- **Total Repositories**: 90
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -38,6 +38,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,578 | 2026-09-01 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [raphabot/awesome-cybersecurity-agentic-ai](../repos/raphabot/awesome-cybersecurity-agentic-ai.md) | ⭐ 577 | 2026-09-01 | 1 |
 
 
 ---
@@ -213,7 +216,8 @@
 - [juewuy/ShellCrash](../repos/juewuy/ShellCrash.md) - Run sing-box&#x2F;mihomo as client in shell
 - [omacom/omarchy](../repos/omacom/omarchy.md) - Beautiful, Modern &amp; Opinionated Linux
 - [233boy/sing-box](../repos/233boy/sing-box.md) - 最好用的 sing-box 一键安装脚本 &amp; 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议
+- [raphabot/awesome-cybersecurity-agentic-ai](../repos/raphabot/awesome-cybersecurity-agentic-ai.md) - 
 
 ---
 
-*Last updated: 2026-09-01T18:41:33.290Z*
+*Last updated: 2026-09-01T21:01:59.863Z*

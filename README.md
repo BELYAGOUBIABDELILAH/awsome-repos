@@ -6,7 +6,7 @@
 
 [![Daily Updates](https://img.shields.io/github/actions/workflow/status/BELYAGOUBIABDELILAH/awsome-repos/process-trending.yml?branch=main&label=Daily%20Updates&style=flat-square&logo=github)](https://github.com/BELYAGOUBIABDELILAH/awsome-repos/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-01696f?style=flat-square)](./LICENSE)
-[![Repositories](https://img.shields.io/badge/Repositories-2869-2d6a4f?style=flat-square)](./stats/)
+[![Repositories](https://img.shields.io/badge/Repositories-2870-2d6a4f?style=flat-square)](./stats/)
 [![Languages](https://img.shields.io/badge/Languages-54-e07b39?style=flat-square)](./languages/)
 
 ---
@@ -453,7 +453,7 @@
 
 | 🗂️ Repositories | 💻 Languages | 🏷️ Topics |
 | :---: | :---: | :---: |
-| <sub style="font-size:14px">Indexed & Analyzed</sub><br><strong style="font-size:28px;color:#2d6a4f">2869</strong> | <sub style="font-size:14px">Languages Covered</sub><br><strong style="font-size:28px;color:#e07b39">54</strong> | <sub style="font-size:14px">Topics Tracked</sub><br><strong style="font-size:28px;color:#01696f">8042</strong> |
+| <sub style="font-size:14px">Indexed & Analyzed</sub><br><strong style="font-size:28px;color:#2d6a4f">2870</strong> | <sub style="font-size:14px">Languages Covered</sub><br><strong style="font-size:28px;color:#e07b39">54</strong> | <sub style="font-size:14px">Topics Tracked</sub><br><strong style="font-size:28px;color:#01696f">8042</strong> |
 
 > 🔄 **Daily updates** via automated workflow &nbsp;•&nbsp; ⏳ **Historical data** since July 2026
 
