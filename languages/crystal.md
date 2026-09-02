@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-01
+- **Last Updated**: 2026-09-02
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 23,705 | 2026-08-01 | 19 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 23,946 | 2026-08-01 | 20 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,414 | 2026-08-06 | 4 |
 
 
 ---
@@ -25,7 +28,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,383 | 2026-08-06 | Hunt every Endpoint in your code, expose Shadow APIs, map the Attack Surface. |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,414 | 2026-08-06 | Hunt every Endpoint in your code, expose Shadow APIs, map the Attack Surface. |
 
 
 ---
@@ -34,8 +37,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 23,705 | 2026-08-01 | 19 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,383 | 2026-08-06 | 3 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 23,946 | 2026-08-01 | 20 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,414 | 2026-08-06 | 4 |
 
 ---
 
@@ -43,8 +46,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | 19 | ⭐ 23,705 | 2026-08-01 | 2026-09-01 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 3 | ⭐ 1,383 | 2026-08-06 | 2026-08-27 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | 20 | ⭐ 23,946 | 2026-08-01 | 2026-09-02 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 4 | ⭐ 1,414 | 2026-08-06 | 2026-09-02 |
 
 ---
 
@@ -55,4 +58,4 @@
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.799Z*
+*Last updated: 2026-09-02T21:02:12.632Z*

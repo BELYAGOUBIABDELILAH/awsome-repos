@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 17
+- **Total Repositories**: 18
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,10 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 728 | 2026-08-01 | 26 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 728 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 116 | 2026-08-01 | 11 |
+| [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) | ⭐ 200 | 2026-09-02 | 1 |
 
 
 ---
@@ -70,10 +70,11 @@
 | [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,410 | 2026-08-02 | 9 |
 | [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 728 | 2026-08-01 | 26 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 728 | 2026-08-01 | 27 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 719 | 2026-08-07 | 1 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | 3 |
+| [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) | ⭐ 200 | 2026-09-02 | 1 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 125 | 2026-08-01 | 13 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 116 | 2026-08-01 | 11 |
 | [davidanthoff/Electron.jl](../repos/davidanthoff/Electron.jl.md) | ⭐ 96 | 2026-08-14 | 2 |
@@ -88,7 +89,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 26 | ⭐ 728 | 2026-08-01 | 2026-09-01 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 27 | ⭐ 728 | 2026-08-01 | 2026-09-02 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 15 | ⭐ 46 | 2026-08-02 | 2026-08-25 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 13 | ⭐ 125 | 2026-08-01 | 2026-08-28 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 11 | ⭐ 116 | 2026-08-01 | 2026-09-01 |
@@ -120,7 +121,8 @@
 - [davidanthoff/Electron.jl](../repos/davidanthoff/Electron.jl.md) - Julia wrapper for Electron
 - [kahliburke/Kaimon.jl](../repos/kahliburke/Kaimon.jl.md) - MCP server giving AI agents full access to Julia&#39;s runtime via a live Gate — code execution, intr...
 - [NumericalEarth/NumericalEarth.jl](../repos/NumericalEarth/NumericalEarth.jl.md) - 🌎 A framework for simulating the Earth system at all scales with prescribed or prognostic atmosp...
+- [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) - Boosted trees in Julia
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.824Z*
+*Last updated: 2026-09-02T21:02:12.655Z*

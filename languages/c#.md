@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 131
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-01
+- **Last Updated**: 2026-09-02
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,668 | 2026-08-01 | 10 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,735 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,508 | 2026-08-01 | 5 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,991 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,992 | 2026-08-01 | 5 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,265 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,411 | 2026-08-01 | 11 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 24,059 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,032 | 2026-08-01 | 9 |
+| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,615 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,176 | 2026-08-02 | 13 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 8,913 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 23,687 | 2026-08-02 | 17 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,244 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,438 | 2026-08-02 | 13 |
+| [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,315 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 8,847 | 2026-08-04 | 4 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,246 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner](../repos/actions/runner.md) | ⭐ 6,224 | 2026-08-04 | 7 |
+| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | ⭐ 13,497 | 2026-08-05 | 8 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,281 | 2026-08-03 | Repository for skills to assist AI coding agents with .NET and C# |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zhongkaifu/TensorSharp](../repos/zhongkaifu/TensorSharp.md) | ⭐ 323 | 2026-08-03 | A native .NET LLM inference engine for GGUF models. TensorSharp provides a console application, a... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,608 | 2026-08-03 | :trollface: A hex editor for WeChat&#x2F;QQ&#x2F;TIM - PC版微信&#x2F;QQ&#x2F;TIM防撤回补丁（我已经看到了，撤回也没用了） |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OhKannaDuh/BOCCHI](../repos/OhKannaDuh/BOCCHI.md) | ⭐ 31 | 2026-08-03 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 15,239 | 2026-08-03 | Smart PVR for newsgroup and bittorrent users. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [killkimno/MORT](../repos/killkimno/MORT.md) | ⭐ 1,653 | 2026-08-03 | MORT 번역기 프로젝트 - Real-time game translator with OCR |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [neelabo/NeeView](../repos/neelabo/NeeView.md) | ⭐ 965 | 2026-08-03 | An image viewer that allows you to browse images in folders and compressed files like a book. Pow... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/PTVS](../repos/microsoft/PTVS.md) | ⭐ 2,565 | 2026-08-03 | Python Tools for Visual Studio |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 8,847 | 2026-08-04 | Free, open-source Windows optimization tool for performance, privacy, and simplicity. |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 8,913 | 2026-08-04 | Free, open-source Windows optimization tool for performance, privacy, and simplicity. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [dotnet/efcore](../repos/dotnet/efcore.md) | ⭐ 14,784 | 2026-08-04 | EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, u... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [actions/runner](../repos/actions/runner.md) | ⭐ 6,224 | 2026-08-04 | The Runner for GitHub Actions :rocket: |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Dailin521/codex-provider-sync](../repos/Dailin521/codex-provider-sync.md) | ⭐ 3,168 | 2026-08-04 | Synchronize Codex session provider metadata across rollout files and SQLite state. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [space-wizards/space-station-14](../repos/space-wizards/space-station-14.md) | ⭐ 3,743 | 2026-08-04 | A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | ⭐ 3,140 | 2026-08-04 | An alternative bootstrapper for Roblox with a bunch of extra features. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,244 | 2026-08-04 | Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and oth... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,315 | 2026-08-04 | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,246 | 2026-08-04 | .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [DataDog/dd-trace-dotnet](../repos/DataDog/dd-trace-dotnet.md) | ⭐ 574 | 2026-08-04 | .NET Client Library for Datadog APM |
 
 
 ---
@@ -88,24 +88,24 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,176 | 2026-08-02 | 13 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,265 | 2026-08-02 | 14 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,438 | 2026-08-02 | 13 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,144 | 2026-08-06 | 7 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,819 | 2026-08-01 | 6 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,194 | 2026-08-14 | 2 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,608 | 2026-08-03 | 6 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,411 | 2026-08-01 | 11 |
-| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,880 | 2026-08-22 | 1 |
+| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,914 | 2026-08-22 | 2 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,025 | 2026-08-28 | 1 |
-| [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,700 | 2026-08-08 | 1 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,668 | 2026-08-01 | 10 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,735 | 2026-08-01 | 11 |
+| [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,509 | 2026-08-05 | 8 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,603 | 2026-08-10 | 3 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,992 | 2026-08-01 | 5 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,884 | 2026-08-02 | 4 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,553 | 2026-08-27 | 2 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 23,687 | 2026-08-02 | 17 |
-| [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,292 | 2026-08-04 | 2 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 24,059 | 2026-08-02 | 18 |
+| [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,315 | 2026-08-04 | 3 |
 | [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,564 | 2026-08-02 | 3 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,625 | 2026-08-01 | 6 |
 
@@ -115,13 +115,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 17 | ⭐ 23,687 | 2026-08-02 | 2026-09-01 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 13 | ⭐ 115,176 | 2026-08-02 | 2026-09-01 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 18 | ⭐ 24,059 | 2026-08-02 | 2026-09-02 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 14 | ⭐ 115,265 | 2026-08-02 | 2026-09-02 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 13 | ⭐ 56,438 | 2026-08-02 | 2026-09-01 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 12 | ⭐ 5,281 | 2026-08-03 | 2026-08-28 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 11 | ⭐ 29,735 | 2026-08-01 | 2026-09-02 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 11 | ⭐ 38,411 | 2026-08-01 | 2026-09-01 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 11 | ⭐ 15,051 | 2026-08-02 | 2026-08-25 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 10 | ⭐ 29,668 | 2026-08-01 | 2026-09-01 |
 | [microsoft/aspire](../repos/microsoft/aspire.md) | 10 | ⭐ 6,270 | 2026-08-05 | 2026-08-27 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 9 | ⭐ 3,622 | 2026-08-01 | 2026-08-29 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 9 | ⭐ 14,032 | 2026-08-01 | 2026-09-01 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.783Z*
+*Last updated: 2026-09-02T21:02:12.616Z*

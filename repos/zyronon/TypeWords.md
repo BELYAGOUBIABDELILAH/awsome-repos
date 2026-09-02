@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vue |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 9,187 |
-| **Forks** | 🍴 1,118 |
-| **Trending Days** | 6 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 9,277 |
+| **Forks** | 🍴 1,127 |
+| **Trending Days** | 7 |
+| **Peak Rank** | #10 |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Sep 1, 2026 |
+| **Last Seen** | Sep 2, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Sep 2, 2026** — Rank #10 (+68 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Peak Rank**: #10
+- **Trending Days**: 7
 - **Longest Streak**: 2 days
 
 ---
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 95&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 100&#x2F;100
+- **Historical Rank**: Top 10 (Peak: #10)
 
 
 ---
 
-*Last updated: 2026-09-01T21:02:02.881Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-09-02T21:02:15.351Z*  
+*Data from 7 trending reports*

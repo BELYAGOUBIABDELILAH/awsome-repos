@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 114
+**Gems Found**: 155
 
 ---
 
@@ -17,13 +17,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,033 |
+| ⭐ **Stars** | 3,084 |
 | 💻 **Language** | JavaScript |
 | 🏆 **Gem Score** | 96/100 |
-| 📈 **Trending Days** | 5 |
+| 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 14, 2026 |
 
-**Why it's a gem**: High growth velocity (+76 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+72 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -39,7 +39,7 @@
 |---|---|
 | ⭐ **Stars** | 4,453 |
 | 💻 **Language** | Python |
-| 🏆 **Gem Score** | 96/100 |
+| 🏆 **Gem Score** | 95/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 15, 2026 |
 
@@ -51,27 +51,7 @@
 
 ---
 
-### 3. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
-
-**An offline-first photo manager for large local libraries**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,062 |
-| 💻 **Language** | Vue |
-| 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 13 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+37 stars&#x2F;day) • Trending 13 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/julyx10/lap.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;julyx10&#x2F;lap)
-
----
-
-### 4. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
+### 3. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
 
 **Agent Substrate: the core system**
 
@@ -91,23 +71,43 @@
 
 ---
 
-### 5. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
+### 4. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
 
-**https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成**
+**An offline-first photo manager for large local libraries**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9,077 |
-| 💻 **Language** | HTML |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Aug 3, 2026 |
+| ⭐ **Stars** | 2,062 |
+| 💻 **Language** | Vue |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 13 |
+| 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+37 stars&#x2F;day) • Trending 13 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/adongwanai/AgentGuide.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;adongwanai&#x2F;AgentGuide)
+[View Passport](../../repos/julyx10/lap.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;julyx10&#x2F;lap)
+
+---
+
+### 5. [itsfatduck&#x2F;optimizerDuck](../../repos/itsfatduck/optimizerDuck.md)
+
+**Free, open-source Windows optimization tool for performance, privacy, and simplicity.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 8,913 |
+| 💻 **Language** | C# |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+68 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/itsfatduck/optimizerDuck.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;itsfatduck&#x2F;optimizerDuck)
 
 ---
 
@@ -131,19 +131,39 @@
 
 ---
 
-### 7. [unclebob&#x2F;swarm-forge](../../repos/unclebob/swarm-forge.md)
+### 7. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
+
+**The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6,280 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+56 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/Ed1s0nZ/CyberStrikeAI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Ed1s0nZ&#x2F;CyberStrikeAI)
+
+---
+
+### 8. [unclebob&#x2F;swarm-forge](../../repos/unclebob/swarm-forge.md)
 
 **A simple tool for coordinating several AI agents.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,513 |
+| ⭐ **Stars** | 3,611 |
 | 💻 **Language** | Clojure |
 | 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 24 |
+| 📈 **Trending Days** | 25 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+66 stars&#x2F;day) • Trending 24 times • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+66 stars&#x2F;day) • Trending 25 times • Very active development • Underrated project
 
 **Best for**: 
 
@@ -151,7 +171,47 @@
 
 ---
 
-### 8. [kunchenguid&#x2F;firstmate](../../repos/kunchenguid/firstmate.md)
+### 9. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
+
+**https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 9,116 |
+| 💻 **Language** | HTML |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 3, 2026 |
+
+**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/adongwanai/AgentGuide.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;adongwanai&#x2F;AgentGuide)
+
+---
+
+### 10. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
+
+**Source control for agents. Use multiple coding agents, track their changes and query them in one place**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,823 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 14, 2026 |
+
+**Why it's a gem**: High growth velocity (+726 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/pacifio/atlas.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas)
+
+---
+
+### 11. [kunchenguid&#x2F;firstmate](../../repos/kunchenguid/firstmate.md)
 
 **Talk to one agent. Ship with a crew.**
 
@@ -171,27 +231,27 @@
 
 ---
 
-### 9. [itsfatduck&#x2F;optimizerDuck](../../repos/itsfatduck/optimizerDuck.md)
+### 12. [David-Crty&#x2F;databasement](../../repos/David-Crty/databasement.md)
 
-**Free, open-source Windows optimization tool for performance, privacy, and simplicity.**
+**Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite &amp; Redis to S3, SFTP, Samba or local storage. SSH Tunnel support.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8,847 |
-| 💻 **Language** | C# |
+| ⭐ **Stars** | 2,275 |
+| 💻 **Language** | PHP |
 | 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 4, 2026 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 10, 2026 |
 
-**Why it's a gem**: High growth velocity (+74 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
+**Why it's a gem**: Trending 6 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/itsfatduck/optimizerDuck.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;itsfatduck&#x2F;optimizerDuck)
+[View Passport](../../repos/David-Crty/databasement.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;David-Crty&#x2F;databasement)
 
 ---
 
-### 10. [AAswordman&#x2F;Operit](../../repos/AAswordman/Operit.md)
+### 13. [AAswordman&#x2F;Operit](../../repos/AAswordman/Operit.md)
 
 **The most powerful AI agent and AI chat software on Android&#x2F;Operit是一款Android上能力最为强大、发展最久的AI Agent**
 
@@ -211,7 +271,7 @@
 
 ---
 
-### 11. [palmier-io&#x2F;palmier-pro](../../repos/palmier-io/palmier-pro.md)
+### 14. [palmier-io&#x2F;palmier-pro](../../repos/palmier-io/palmier-pro.md)
 
 **macOS video editor built for AI**
 
@@ -231,47 +291,47 @@
 
 ---
 
-### 12. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
+### 15. [superlinked&#x2F;sie](../../repos/superlinked/sie.md)
 
-**The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.**
+**Open-source inference server and production cluster for all the models your agent needs.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,202 |
-| 💻 **Language** | Go |
+| ⭐ **Stars** | 3,027 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 84/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 8, 2026 |
+
+**Why it's a gem**: High growth velocity (+79 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/superlinked/sie.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superlinked&#x2F;sie)
+
+---
+
+### 16. [laoma2053&#x2F;awesome-zhuiju-free](../../repos/laoma2053/awesome-zhuiju-free.md)
+
+**免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,801 |
+| 💻 **Language** | JavaScript |
 | 🏆 **Gem Score** | 84/100 |
 | 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| 📅 **First Seen** | Aug 14, 2026 |
 
-**Why it's a gem**: High growth velocity (+49 stars&#x2F;day) • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/Ed1s0nZ/CyberStrikeAI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Ed1s0nZ&#x2F;CyberStrikeAI)
-
----
-
-### 13. [David-Crty&#x2F;databasement](../../repos/David-Crty/databasement.md)
-
-**Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite &amp; Redis to S3, SFTP, Samba or local storage. SSH Tunnel support.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,129 |
-| 💻 **Language** | PHP |
-| 🏆 **Gem Score** | 84/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 10, 2026 |
-
-**Why it's a gem**: Trending 5 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+156 stars&#x2F;day) • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/David-Crty/databasement.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;David-Crty&#x2F;databasement)
+[View Passport](../../repos/laoma2053/awesome-zhuiju-free.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;laoma2053&#x2F;awesome-zhuiju-free)
 
 ---
 
-### 14. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
+### 17. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
 
 **The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
 
@@ -291,59 +351,19 @@
 
 ---
 
-### 15. [llm-d&#x2F;llm-d](../../repos/llm-d/llm-d.md)
-
-**Achieve state of the art inference performance with modern accelerators on Kubernetes**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,378 |
-| 💻 **Language** | Shell |
-| 🏆 **Gem Score** | 82/100 |
-| 📈 **Trending Days** | 13 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: Trending 13 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/llm-d/llm-d.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;llm-d&#x2F;llm-d)
-
----
-
-### 16. [bggRGjQaUbCoE&#x2F;PiliPlus](../../repos/bggRGjQaUbCoE/PiliPlus.md)
-
-**PiliPlus**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 17,952 |
-| 💻 **Language** | Dart |
-| 🏆 **Gem Score** | 82/100 |
-| 📈 **Trending Days** | 18 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+50 stars&#x2F;day) • Trending 18 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/bggRGjQaUbCoE/PiliPlus.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;bggRGjQaUbCoE&#x2F;PiliPlus)
-
----
-
-### 17. [firecrawl&#x2F;pdf-inspector](../../repos/firecrawl/pdf-inspector.md)
+### 18. [firecrawl&#x2F;pdf-inspector](../../repos/firecrawl/pdf-inspector.md)
 
 **Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 17,817 |
+| ⭐ **Stars** | 18,445 |
 | 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 82/100 |
-| 📈 **Trending Days** | 5 |
+| 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 3, 2026 |
 
-**Why it's a gem**: High growth velocity (+3046 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+2735 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -351,7 +371,7 @@
 
 ---
 
-### 18. [luolangaga&#x2F;tubatools](../../repos/luolangaga/tubatools.md)
+### 19. [luolangaga&#x2F;tubatools](../../repos/luolangaga/tubatools.md)
 
 **图吧工具箱 winUI3 版**
 
@@ -371,43 +391,23 @@
 
 ---
 
-### 19. [cwuom&#x2F;NeriPlayer](../../repos/cwuom/NeriPlayer.md)
+### 20. [debpalash&#x2F;VoiceStudio](../../repos/debpalash/VoiceStudio.md)
 
-**A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. &#x2F; ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,174 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 81/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 5, 2026 |
-
-**Why it's a gem**: Trending 5 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/cwuom/NeriPlayer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;cwuom&#x2F;NeriPlayer)
-
----
-
-### 20. [agentscope-ai&#x2F;agentscope-java](../../repos/agentscope-ai/agentscope-java.md)
-
-**Build distributed, production-grade, long-running agents.**
+**VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,390 |
-| 💻 **Language** | Java |
-| 🏆 **Gem Score** | 80/100 |
-| 📈 **Trending Days** | 11 |
-| 📅 **First Seen** | Aug 5, 2026 |
+| ⭐ **Stars** | 14,493 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 82/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 22, 2026 |
 
-**Why it's a gem**: Trending 11 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+870 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/agentscope-ai/agentscope-java.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;agentscope-ai&#x2F;agentscope-java)
+[View Passport](../../repos/debpalash/VoiceStudio.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;debpalash&#x2F;VoiceStudio)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-01T21:02:05.071Z*  
+*Generated: 2026-09-02T21:02:17.556Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

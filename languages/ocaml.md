@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 20
+- **Total Repositories**: 21
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-01
+- **Last Updated**: 2026-09-02
 
 ---
 
@@ -16,37 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,467 | 2026-08-01 | 26 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,481 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,022 | 2026-08-01 | 25 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,028 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,117 | 2026-08-01 | 15 |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,117 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,912 | 2026-08-01 | 17 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,548 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,547 | 2026-08-01 | 20 |
+| [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,700 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,700 | 2026-08-02 | 20 |
+| [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 870 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [savonet/liquidsoap](../repos/savonet/liquidsoap.md) | ⭐ 1,722 | 2026-08-10 | 2 |
+| [facebook/pyre-check](../repos/facebook/pyre-check.md) | ⭐ 7,171 | 2026-09-02 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cryspen/hax](../repos/cryspen/hax.md) | ⭐ 464 | 2026-08-03 | A Rust verification tool |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 831 | 2026-08-03 | OCaml - Oxidized! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [janestreet/bonsai](../repos/janestreet/bonsai.md) | ⭐ 1,381 | 2026-08-05 | A library for building dynamic webapps, using Js_of_ocaml |
@@ -65,6 +59,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [savonet/liquidsoap](../repos/savonet/liquidsoap.md) | ⭐ 1,722 | 2026-08-10 | Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [facebook/pyre-check](../repos/facebook/pyre-check.md) | ⭐ 7,171 | 2026-09-02 | Performant type-checking for python. |
 
 
 ---
@@ -73,15 +70,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,467 | 2026-08-01 | 26 |
-| [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,700 | 2026-08-02 | 20 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,547 | 2026-08-01 | 20 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,481 | 2026-08-01 | 27 |
+| [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,700 | 2026-08-02 | 21 |
+| [facebook/pyre-check](../repos/facebook/pyre-check.md) | ⭐ 7,171 | 2026-09-02 | 1 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,548 | 2026-08-01 | 21 |
 | [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,228 | 2026-08-05 | 4 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,555 | 2026-08-01 | 12 |
 | [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,454 | 2026-08-07 | 6 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,022 | 2026-08-01 | 25 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,028 | 2026-08-01 | 26 |
 | [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,353 | 2026-08-02 | 1 |
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,117 | 2026-08-01 | 15 |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,117 | 2026-08-01 | 16 |
 | [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,912 | 2026-08-01 | 17 |
 | [savonet/liquidsoap](../repos/savonet/liquidsoap.md) | ⭐ 1,722 | 2026-08-10 | 2 |
 | [janestreet/bonsai](../repos/janestreet/bonsai.md) | ⭐ 1,381 | 2026-08-05 | 3 |
@@ -89,10 +87,9 @@
 | [stategraph/stategraph](../repos/stategraph/stategraph.md) | ⭐ 1,255 | 2026-08-09 | 1 |
 | [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 925 | 2026-08-01 | 14 |
 | [ocaml/ocaml-lsp](../repos/ocaml/ocaml-lsp.md) | ⭐ 909 | 2026-08-06 | 3 |
-| [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 831 | 2026-08-03 | 3 |
+| [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 870 | 2026-08-03 | 4 |
 | [caffeinelabs/motoko](../repos/caffeinelabs/motoko.md) | ⭐ 588 | 2026-08-01 | 5 |
 | [cryspen/hax](../repos/cryspen/hax.md) | ⭐ 464 | 2026-08-03 | 3 |
-| [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | ⭐ 59 | 2026-08-01 | 24 |
 
 ---
 
@@ -100,13 +97,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 26 | ⭐ 16,467 | 2026-08-01 | 2026-09-01 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 25 | ⭐ 3,022 | 2026-08-01 | 2026-09-01 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 27 | ⭐ 16,481 | 2026-08-01 | 2026-09-02 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 26 | ⭐ 3,028 | 2026-08-01 | 2026-09-02 |
 | [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | 24 | ⭐ 59 | 2026-08-01 | 2026-08-29 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 20 | ⭐ 6,547 | 2026-08-01 | 2026-09-01 |
-| [facebook/infer](../repos/facebook/infer.md) | 20 | ⭐ 15,700 | 2026-08-02 | 2026-09-01 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 21 | ⭐ 6,548 | 2026-08-01 | 2026-09-02 |
+| [facebook/infer](../repos/facebook/infer.md) | 21 | ⭐ 15,700 | 2026-08-02 | 2026-09-02 |
 | [ocaml/dune](../repos/ocaml/dune.md) | 17 | ⭐ 1,912 | 2026-08-01 | 2026-09-01 |
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 15 | ⭐ 2,117 | 2026-08-01 | 2026-09-01 |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 16 | ⭐ 2,117 | 2026-08-01 | 2026-09-02 |
 | [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 14 | ⭐ 925 | 2026-08-01 | 2026-08-26 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 12 | ⭐ 5,555 | 2026-08-01 | 2026-08-24 |
 | [ocaml/opam](../repos/ocaml/opam.md) | 9 | ⭐ 1,374 | 2026-08-01 | 2026-08-21 |
@@ -135,7 +132,8 @@
 - [bcpierce00/unison](../repos/bcpierce00/unison.md) - Unison file synchronizer
 - [stategraph/stategraph](../repos/stategraph/stategraph.md) - Terraform without the state file bottleneck
 - [savonet/liquidsoap](../repos/savonet/liquidsoap.md) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and ...
+- [facebook/pyre-check](../repos/facebook/pyre-check.md) - Performant type-checking for python.
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.839Z*
+*Last updated: 2026-09-02T21:02:12.668Z*

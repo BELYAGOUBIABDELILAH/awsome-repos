@@ -1,6 +1,6 @@
 # pacifio&#x2F;atlas
 
-> Source control for agents. Use multiple coding agents, track they change, and query them in one place
+> Source control for agents. Use multiple coding agents, track their changes and query them in one place
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas) 
 
@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | TypeScript |
+| **Language** | Rust |
 | **License** | MIT |
-| **Stars** | ⭐ 1,037 |
-| **Forks** | 🍴 177 |
-| **Trending Days** | 2 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 2,823 |
+| **Forks** | 🍴 185 |
+| **Trending Days** | 3 |
+| **Peak Rank** | #9 |
 
 | **First Seen** | Aug 14, 2026 |
-| **Last Seen** | Aug 15, 2026 |
+| **Last Seen** | Sep 2, 2026 |
 
 
 ---
@@ -37,17 +37,18 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or ai*
+*Similar: Check repositories in Rust or ai*
 
 ---
 
 ## Trending Timeline
 
+**Sep 2, 2026** — Rank #9 (+895 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Peak Rank**: #9
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -68,12 +69,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
+| **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
 - General purpose
@@ -81,15 +82,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in TypeScript
+- Check similar projects in Rust
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 50&#x2F;100
+- **Historical Rank**: Top 10 (Peak: #9)
 
 
 ---
 
-*Last updated: 2026-09-01T21:02:03.908Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-02T21:02:16.285Z*  
+*Data from 3 trending reports*

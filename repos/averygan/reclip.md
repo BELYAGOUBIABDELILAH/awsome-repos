@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | HTML |
 | **License** | MIT |
-| **Stars** | ⭐ 7,530 |
-| **Forks** | 🍴 1,313 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 8,104 |
+| **Forks** | 🍴 1,344 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #13 |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Sep 1, 2026 |
+| **Last Seen** | Sep 2, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #13
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 2 days
 
 ---
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-09-01T21:02:02.646Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-09-02T21:02:15.139Z*  
+*Data from 8 trending reports*

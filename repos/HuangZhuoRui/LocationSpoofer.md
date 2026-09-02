@@ -1,6 +1,6 @@
 # HuangZhuoRui&#x2F;LocationSpoofer
 
-> 一款虚拟定位软件，功能单一，纯定位，需要root以及Lsposed。
+> 一款虚拟定位软件，主要是定位，路线模拟什么的，比较随缘，其实更新也随缘，功能也是看心情
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;HuangZhuoRui&#x2F;LocationSpoofer) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | Other |
-| **Stars** | ⭐ 849 |
-| **Forks** | 🍴 185 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 942 |
+| **Forks** | 🍴 194 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 19, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Sep 2, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-01T21:02:04.215Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-02T21:02:16.582Z*  
+*Data from 2 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 146
+- **Total Repositories**: 150
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-25
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | ⭐ 17,817 | 2026-08-03 | 5 |
+| [ankitects/anki](../repos/ankitects/anki.md) | ⭐ 30,231 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [0xPlaygrounds/rig](../repos/0xPlaygrounds/rig.md) | ⭐ 8,484 | 2026-08-03 | 2 |
+| [emilk/egui](../repos/emilk/egui.md) | ⭐ 30,363 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecracker-microvm/firecracker](../repos/firecracker-microvm/firecracker.md) | ⭐ 36,425 | 2026-08-20 | 3 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 41,798 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dbt-labs/dbt-core](../repos/dbt-labs/dbt-core.md) | ⭐ 13,761 | 2026-08-28 | 2 |
+| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | ⭐ 18,445 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/iggy](../repos/apache/iggy.md) | ⭐ 4,731 | 2026-09-01 | 1 |
+| [gfx-rs/wgpu](../repos/gfx-rs/wgpu.md) | ⭐ 17,914 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [raine/workmux](../repos/raine/workmux.md) | ⭐ 2,343 | 2026-09-01 | 1 |
+| [EFForg/rayhunter](../repos/EFForg/rayhunter.md) | ⭐ 5,745 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/OpenShell](../repos/NVIDIA/OpenShell.md) | ⭐ 8,471 | 2026-09-01 | 1 |
+| [pacifio/atlas](../repos/pacifio/atlas.md) | ⭐ 2,823 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alphaXiv/openresearch-cli](../repos/alphaXiv/openresearch-cli.md) | ⭐ 629 | 2026-09-01 | 1 |
+| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 16,933 | 2026-08-14 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [librespot-org/librespot](../repos/librespot-org/librespot.md) | ⭐ 7,071 | 2026-09-02 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [arcboxlabs/arcbox](../repos/arcboxlabs/arcbox.md) | ⭐ 2,343 | 2026-09-02 | 1 |
 
 
 ---
@@ -46,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | ⭐ 17,817 | 2026-08-03 | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects ... |
+| [quickwit-oss/tantivy](../repos/quickwit-oss/tantivy.md) | ⭐ 15,953 | 2026-08-04 | Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 27,494 | 2026-08-03 | Production-grade Rust-native trading engine with deterministic event-driven architecture |
+| [risingwavelabs/risingwave](../repos/risingwavelabs/risingwave.md) | ⭐ 9,218 | 2026-08-04 | Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [bytecodealliance/wasmtime](../repos/bytecodealliance/wasmtime.md) | ⭐ 18,528 | 2026-08-03 | A lightweight WebAssembly runtime that is fast, secure, and standards-compliant |
+| [PyO3/pyo3](../repos/PyO3/pyo3.md) | ⭐ 15,992 | 2026-08-04 | Rust bindings for the Python interpreter |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [0xPlaygrounds/rig](../repos/0xPlaygrounds/rig.md) | ⭐ 8,484 | 2026-08-03 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| [rerun-io/rerun](../repos/rerun-io/rerun.md) | ⭐ 11,249 | 2026-08-04 | Visualize, query, and stream to train on multimodal robotics data. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [reacherhq/check-if-email-exists](../repos/reacherhq/check-if-email-exists.md) | ⭐ 9,433 | 2026-08-03 | Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP... |
+| [zellij-org/zellij](../repos/zellij-org/zellij.md) | ⭐ 35,050 | 2026-08-04 | A terminal workspace with batteries included |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [neondatabase/neon](../repos/neondatabase/neon.md) | ⭐ 22,988 | 2026-08-03 | Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like datab... |
+| [ovexro/dockpanel](../repos/ovexro/dockpanel.md) | ⭐ 876 | 2026-08-05 | Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git depl... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | :crab: Small exercises to get you used to reading and writing Rust code! |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,464 | 2026-08-05 | Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [rust-lang/cargo](../repos/rust-lang/cargo.md) | ⭐ 15,410 | 2026-08-03 | The Rust package manager |
+| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,444 | 2026-08-05 | Extremely fast Query Engine for DataFrames, written in Rust |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [gfx-rs/wgpu](../repos/gfx-rs/wgpu.md) | ⭐ 17,844 | 2026-08-03 | A cross-platform, safe, pure-Rust graphics API. |
+| [hyperium/hyper](../repos/hyperium/hyper.md) | ⭐ 16,260 | 2026-08-05 | An HTTP library for Rust |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [katanemo/plano](../repos/katanemo/plano.md) | ⭐ 6,977 | 2026-08-03 | Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observabil... |
+| [WeaveMindAI/weft](../repos/WeaveMindAI/weft.md) | ⭐ 1,783 | 2026-08-05 | A programming language for AI orchestrations (POC) |
 
 
 ---
@@ -98,8 +104,8 @@
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 47,938 | 2026-08-28 | 1 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 45,967 | 2026-08-28 | 1 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,464 | 2026-08-05 | 4 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 41,798 | 2026-08-02 | 5 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 40,953 | 2026-08-02 | 4 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,341 | 2026-08-02 | 2 |
 | [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,444 | 2026-08-05 | 4 |
 
@@ -116,9 +122,9 @@
 | [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 7 | ⭐ 2,575 | 2026-08-05 | 2026-08-28 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 6 | ⭐ 116,205 | 2026-07-30 | 2026-08-25 |
 | [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 6 | ⭐ 13,249 | 2026-08-01 | 2026-08-19 |
+| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | 6 | ⭐ 18,445 | 2026-08-03 | 2026-09-02 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 6 | ⭐ 91,388 | 2026-08-09 | 2026-08-23 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | 6 | ⭐ 95,653 | 2026-08-11 | 2026-08-24 |
-| [moghtech/komodo](../repos/moghtech/komodo.md) | 5 | ⭐ 11,998 | 2026-08-02 | 2026-08-19 |
 
 ---
 
@@ -219,12 +225,12 @@
 - [BoundaryML/baml](../repos/BoundaryML/baml.md) - The programming language for agents
 - [astral-sh/ruff](../repos/astral-sh/ruff.md) - An extremely fast Python linter and code formatter, written in Rust.
 - [tonhowtf/omniget](../repos/tonhowtf/omniget.md) - Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. ...
+- [pacifio/atlas](../repos/pacifio/atlas.md) - Source control for agents. Use multiple coding agents, track their changes and query them in one ...
 - [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity &#x2F; Codex &#x2F; GitHub Copilot &#x2F; Windsurf &#x2F; Kiro &#x2F; Cursor &#x2F; Gemini-...
 - [waditu/czsc](../repos/waditu/czsc.md) - 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易
 - [kenforthewin/atomic](../repos/kenforthewin/atomic.md) - Self-hosted, semantically-connected personal knowledge base
 - [unionlabs/union](../repos/unionlabs/union.md) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extrem...
-- [base/base](../repos/base/base.md) - All components used to run Base
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.858Z*
+*Last updated: 2026-09-02T21:02:12.689Z*

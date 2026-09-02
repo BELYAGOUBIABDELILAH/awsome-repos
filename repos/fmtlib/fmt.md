@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | MIT |
-| **Stars** | ⭐ 23,764 |
-| **Forks** | 🍴 2,959 |
-| **Trending Days** | 4 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 24,164 |
+| **Forks** | 🍴 2,981 |
+| **Trending Days** | 5 |
+| **Peak Rank** | #1 |
 
 | **First Seen** | Aug 12, 2026 |
-| **Last Seen** | Aug 26, 2026 |
+| **Last Seen** | Sep 2, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Sep 2, 2026** — Rank #1 (+3 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Peak Rank**: #1
+- **Trending Days**: 5
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +73,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 65&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 80&#x2F;100
+- **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-09-01T21:02:03.825Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-09-02T21:02:16.200Z*  
+*Data from 5 trending reports*

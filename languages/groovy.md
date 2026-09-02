@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 9
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-01
+- **Last Updated**: 2026-09-02
 
 ---
 
@@ -16,22 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | 9 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,823 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,819 | 2026-08-01 | 28 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,926 | 2026-08-03 | 15 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,285 | 2026-08-02 | 22 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,926 | 2026-08-03 | Grails - the Web Application Framework |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | ⭐ 96 | 2026-08-06 | okta-jwt-verifier-java |
@@ -49,8 +43,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,819 | 2026-08-01 | 28 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,281 | 2026-08-02 | 21 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,823 | 2026-08-01 | 29 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,285 | 2026-08-02 | 22 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,476 | 2026-08-02 | 17 |
 | [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,926 | 2026-08-03 | 15 |
@@ -65,8 +59,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [gradle/gradle](../repos/gradle/gradle.md) | 28 | ⭐ 18,819 | 2026-08-01 | 2026-09-01 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 21 | ⭐ 6,281 | 2026-08-02 | 2026-08-29 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 29 | ⭐ 18,823 | 2026-08-01 | 2026-09-02 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 22 | ⭐ 6,285 | 2026-08-02 | 2026-09-02 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 17 | ⭐ 3,476 | 2026-08-02 | 2026-08-29 |
 | [apache/grails-core](../repos/apache/grails-core.md) | 15 | ⭐ 2,926 | 2026-08-03 | 2026-09-01 |
 | [gravitee-io/issues](../repos/gravitee-io/issues.md) | 9 | ⭐ 68 | 2026-08-01 | 2026-09-01 |
@@ -91,4 +85,4 @@
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.813Z*
+*Last updated: 2026-09-02T21:02:12.644Z*

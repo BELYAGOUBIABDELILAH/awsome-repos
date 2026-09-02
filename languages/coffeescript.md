@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 5
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-01
+- **Last Updated**: 2026-09-02
 
 ---
 
@@ -16,10 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,604 | 2026-08-01 | 10 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,603 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,040 | 2026-08-01 | 20 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,042 | 2026-08-01 | 21 |
 
 
 ---
@@ -40,10 +40,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,604 | 2026-08-01 | 10 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,603 | 2026-08-01 | 11 |
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,747 | 2026-08-01 | 1 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,601 | 2026-08-09 | 1 |
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,040 | 2026-08-01 | 20 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,042 | 2026-08-01 | 21 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | 8 |
 
 ---
@@ -52,8 +52,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 20 | ⭐ 16,040 | 2026-08-01 | 2026-09-01 |
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 10 | ⭐ 22,604 | 2026-08-01 | 2026-09-01 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 21 | ⭐ 16,042 | 2026-08-01 | 2026-09-02 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 11 | ⭐ 22,603 | 2026-08-01 | 2026-09-02 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 8 | ⭐ 1,151 | 2026-08-06 | 2026-08-24 |
 | [mojs/mojs](../repos/mojs/mojs.md) | 1 | ⭐ 18,747 | 2026-08-01 | 2026-08-01 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | 1 | ⭐ 16,601 | 2026-08-09 | 2026-08-09 |
@@ -70,4 +70,4 @@
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.796Z*
+*Last updated: 2026-09-02T21:02:12.629Z*

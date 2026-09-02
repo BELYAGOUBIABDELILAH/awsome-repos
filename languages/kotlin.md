@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 128
+- **Total Repositories**: 129
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-01
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zly2006/zhihu-plus-plus](../repos/zly2006/zhihu-plus-plus.md) | ⭐ 3,892 | 2026-08-01 | 3 |
+| [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,573 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,962 | 2026-08-02 | 9 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,248 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sfsakhawat999/mpvRex](../repos/sfsakhawat999/mpvRex.md) | ⭐ 610 | 2026-08-02 | 4 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,571 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,474 | 2026-08-02 | 4 |
+| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 1,015 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,543 | 2026-08-03 | 6 |
+| [element-hq/element-x-android](../repos/element-hq/element-x-android.md) | ⭐ 2,366 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 7,461 | 2026-08-03 | 4 |
+| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | ⭐ 5,636 | 2026-08-11 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cwuom/NeriPlayer](../repos/cwuom/NeriPlayer.md) | ⭐ 3,174 | 2026-08-05 | 5 |
+| [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 942 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [1812z/HyperIsland](../repos/1812z/HyperIsland.md) | ⭐ 472 | 2026-08-07 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [WinNative-Emu/WinNative](../repos/WinNative-Emu/WinNative.md) | ⭐ 539 | 2026-08-08 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [torlando-tech/columba](../repos/torlando-tech/columba.md) | ⭐ 1,117 | 2026-08-11 | 2 |
+| [streetcomplete/StreetComplete](../repos/streetcomplete/StreetComplete.md) | ⭐ 4,780 | 2026-09-02 | 1 |
 
 
 ---
@@ -52,34 +46,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,520 | 2026-08-03 | Android app for streaming and downloading media. |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,356 | 2026-08-04 | The Kotlin Programming Language.  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | ⭐ 1,669 | 2026-08-03 | WhatsApp tools for Android |
+| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 1,015 | 2026-08-04 | Legado 3.0 Book Reader with powerful controls  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jellyfin/jellyfin-android](../repos/jellyfin/jellyfin-android.md) | ⭐ 2,667 | 2026-08-03 | Android Client for Jellyfin |
+| [dmzz-yyhyy/LightNovelReader](../repos/dmzz-yyhyy/LightNovelReader.md) | ⭐ 1,910 | 2026-08-04 | 一款基于Compose的多数据源轻小说阅读器。支持epub导出，自定义背景样式，本地书架和更新提醒等功能。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Luoyacheng/legado-E](../repos/Luoyacheng/legado-E.md) | ⭐ 2,495 | 2026-08-03 | 阅读Sigma是legado的继承，保持开源免费，延续开源精神。 |
+| [cat3399/blbl](../repos/cat3399/blbl.md) | ⭐ 2,560 | 2026-08-04 | 一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,543 | 2026-08-03 | The Magic Mask for Android |
+| [element-hq/element-x-android](../repos/element-hq/element-x-android.md) | ⭐ 2,366 | 2026-08-04 | Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [videolan/vlc-android](../repos/videolan/vlc-android.md) | ⭐ 3,909 | 2026-08-03 |   VLC for Android, Android TV and ChromeOS |
+| [woocommerce/woocommerce-android](../repos/woocommerce/woocommerce-android.md) | ⭐ 317 | 2026-08-04 | WooCommerce Android app |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aistra0528/Hail](../repos/aistra0528/Hail.md) | ⭐ 6,411 | 2026-08-03 | Disable &#x2F; Hide &#x2F; Suspend &#x2F; Uninstall Android apps without root. |
+| [getsentry/sentry-java](../repos/getsentry/sentry-java.md) | ⭐ 1,349 | 2026-08-04 | A Sentry SDK for Java, Android and other JVM languages. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | ⭐ 4,319 | 2026-08-03 | 原生、纯净、可扩展 —— 重新定义你的 B 站体验 |
+| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 1,738 | 2026-08-04 | A Minecraft: Java Edition Launcher for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,114 | 2026-08-03 | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, ... |
+| [cwuom/NeriPlayer](../repos/cwuom/NeriPlayer.md) | ⭐ 3,174 | 2026-08-05 | A native Android audio player that combines multi-source streaming, local control, rich lyrics, a... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 7,461 | 2026-08-03 | The most powerful AI agent and AI chat software on Android&#x2F;Operit是一款Android上能力最为强大、发展最久的AI Agent |
+| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 722 | 2026-08-05 | WeChat, now with superpowers |
 
 
 ---
@@ -99,7 +93,7 @@
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,596 | 2026-08-12 | 2 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,414 | 2026-08-05 | 3 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,068 | 2026-08-01 | 10 |
-| [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,507 | 2026-08-02 | 3 |
+| [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,573 | 2026-08-02 | 4 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,736 | 2026-08-01 | 5 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,326 | 2026-08-12 | 3 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,288 | 2026-08-17 | 1 |
@@ -107,7 +101,7 @@
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,536 | 2026-08-06 | 6 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,215 | 2026-08-02 | 7 |
 | [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,197 | 2026-08-10 | 3 |
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,520 | 2026-08-03 | 5 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,571 | 2026-08-03 | 6 |
 
 ---
 
@@ -121,9 +115,9 @@
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 9 | ⭐ 722 | 2026-08-05 | 2026-08-29 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 8 | ⭐ 50,917 | 2026-08-06 | 2026-08-27 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 8 | ⭐ 29,211 | 2026-08-08 | 2026-08-22 |
+| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | 8 | ⭐ 5,636 | 2026-08-11 | 2026-09-02 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 7 | ⭐ 11,215 | 2026-08-02 | 2026-08-27 |
 | [1812z/HyperIsland](../repos/1812z/HyperIsland.md) | 7 | ⭐ 472 | 2026-08-07 | 2026-09-01 |
-| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | 7 | ⭐ 5,534 | 2026-08-11 | 2026-08-25 |
 | [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 6 | ⭐ 7,237 | 2026-08-02 | 2026-08-28 |
 
 ---
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.827Z*
+*Last updated: 2026-09-02T21:02:12.658Z*

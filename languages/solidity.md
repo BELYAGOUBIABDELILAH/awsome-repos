@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 47
+- **Total Repositories**: 49
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-01
+- **Last Updated**: 2026-09-02
 
 ---
 
@@ -16,43 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,235 | 2026-08-01 | 27 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,054 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OffchainLabs/nitro-contracts](../repos/OffchainLabs/nitro-contracts.md) | ⭐ 151 | 2026-08-03 | 14 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,234 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ethereum/ERCs](../repos/ethereum/ERCs.md) | ⭐ 747 | 2026-08-04 | 9 |
+| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | ⭐ 223 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [morpho-org/vault-v2](../repos/morpho-org/vault-v2.md) | ⭐ 98 | 2026-08-04 | 12 |
+| [dapphub/ds-test](../repos/dapphub/ds-test.md) | ⭐ 239 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FhenixProtocol/fhenix-contracts](../repos/FhenixProtocol/fhenix-contracts.md) | ⭐ 517 | 2026-08-20 | 3 |
+| [bnb-chain/BEPs](../repos/bnb-chain/BEPs.md) | ⭐ 976 | 2026-08-26 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kimba999/base-bro](../repos/kimba999/base-bro.md) | ⭐ 20 | 2026-09-01 | 1 |
+| [defisaver/defisaver-v3-contracts](../repos/defisaver/defisaver-v3-contracts.md) | ⭐ 377 | 2026-09-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Slimba121/DOZEN](../repos/Slimba121/DOZEN.md) | ⭐ 20 | 2026-09-01 | 1 |
+| [Cyfrin/security-and-auditing-full-course-s23](../repos/Cyfrin/security-and-auditing-full-course-s23.md) | ⭐ 1,954 | 2026-09-02 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [morpho-org/morpho-blue-oracles](../repos/morpho-org/morpho-blue-oracles.md) | ⭐ 113 | 2026-08-03 | Morpho Blue Oracles |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [across-protocol/contracts](../repos/across-protocol/contracts.md) | ⭐ 150 | 2026-08-03 | Smart contracts for Across protocol |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [coinbase/spend-permissions](../repos/coinbase/spend-permissions.md) | ⭐ 49 | 2026-08-03 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OffchainLabs/nitro-contracts](../repos/OffchainLabs/nitro-contracts.md) | ⭐ 151 | 2026-08-03 | The core Arbitrum Nitro contracts deployed to the parent chain to host the rollup |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [GNSPS/solidity-bytes-utils](../repos/GNSPS/solidity-bytes-utils.md) | ⭐ 562 | 2026-08-04 | Utility Solidity library composed of basic operations for tightly packed bytes arrays |
@@ -71,6 +59,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [paxoslabs/pxl-boring-vault](../repos/paxoslabs/pxl-boring-vault.md) | ⭐ 21 | 2026-08-05 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [celo-org/celo-monorepo](../repos/celo-org/celo-monorepo.md) | ⭐ 801 | 2026-08-05 | Official repository for core projects comprising the Celo platform |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lifinance/contracts](../repos/lifinance/contracts.md) | ⭐ 209 | 2026-08-05 | LI.FI Smart Contracts |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [matter-labs/era-contracts](../repos/matter-labs/era-contracts.md) | ⭐ 537 | 2026-08-07 | Smart Contract Submodule For zkSync Era |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pendle-finance/pendle-core-v2-public](../repos/pendle-finance/pendle-core-v2-public.md) | ⭐ 214 | 2026-08-07 |  |
 
 
 ---
@@ -79,14 +79,15 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,235 | 2026-08-01 | 27 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,234 | 2026-08-01 | 28 |
 | [AmazingAng/WTF-Solidity](../repos/AmazingAng/WTF-Solidity.md) | ⭐ 14,033 | 2026-08-19 | 2 |
 | [transmissions11/solmate](../repos/transmissions11/solmate.md) | ⭐ 4,288 | 2026-08-01 | 23 |
 | [Uniswap/v4-core](../repos/Uniswap/v4-core.md) | ⭐ 2,526 | 2026-08-01 | 12 |
+| [Cyfrin/security-and-auditing-full-course-s23](../repos/Cyfrin/security-and-auditing-full-course-s23.md) | ⭐ 1,954 | 2026-09-02 | 1 |
 | [Uniswap/v2-periphery](../repos/Uniswap/v2-periphery.md) | ⭐ 1,268 | 2026-08-02 | 2 |
 | [Arachnid/solidity-stringutils](../repos/Arachnid/solidity-stringutils.md) | ⭐ 1,154 | 2026-08-02 | 23 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,053 | 2026-08-01 | 25 |
-| [bnb-chain/BEPs](../repos/bnb-chain/BEPs.md) | ⭐ 976 | 2026-08-26 | 1 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,054 | 2026-08-01 | 26 |
+| [bnb-chain/BEPs](../repos/bnb-chain/BEPs.md) | ⭐ 976 | 2026-08-26 | 2 |
 | [foundry-rs/book](../repos/foundry-rs/book.md) | ⭐ 960 | 2026-08-10 | 3 |
 | [Uniswap/permit2](../repos/Uniswap/permit2.md) | ⭐ 946 | 2026-08-01 | 11 |
 | [Uniswap/v4-periphery](../repos/Uniswap/v4-periphery.md) | ⭐ 904 | 2026-08-01 | 12 |
@@ -98,7 +99,6 @@
 | [dmfxyz/murky](../repos/dmfxyz/murky.md) | ⭐ 516 | 2026-08-04 | 20 |
 | [smartcontractkit/chainlink-brownie-contracts](../repos/smartcontractkit/chainlink-brownie-contracts.md) | ⭐ 510 | 2026-08-02 | 3 |
 | [coinbase/smart-wallet](../repos/coinbase/smart-wallet.md) | ⭐ 484 | 2026-08-04 | 1 |
-| [Uniswap/UniswapX](../repos/Uniswap/UniswapX.md) | ⭐ 461 | 2026-08-10 | 1 |
 
 ---
 
@@ -106,10 +106,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 27 | ⭐ 27,235 | 2026-08-01 | 2026-09-01 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 25 | ⭐ 1,053 | 2026-08-01 | 2026-08-29 |
-| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | 25 | ⭐ 222 | 2026-08-01 | 2026-08-29 |
-| [dapphub/ds-test](../repos/dapphub/ds-test.md) | 25 | ⭐ 238 | 2026-08-01 | 2026-08-29 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 28 | ⭐ 27,234 | 2026-08-01 | 2026-09-02 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 26 | ⭐ 1,054 | 2026-08-01 | 2026-09-02 |
+| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | 26 | ⭐ 223 | 2026-08-01 | 2026-09-02 |
+| [dapphub/ds-test](../repos/dapphub/ds-test.md) | 26 | ⭐ 239 | 2026-08-01 | 2026-09-02 |
 | [OpenZeppelin/openzeppelin-foundry-upgrades](../repos/OpenZeppelin/openzeppelin-foundry-upgrades.md) | 24 | ⭐ 258 | 2026-08-01 | 2026-08-29 |
 | [transmissions11/solmate](../repos/transmissions11/solmate.md) | 23 | ⭐ 4,288 | 2026-08-01 | 2026-08-29 |
 | [Arachnid/solidity-stringutils](../repos/Arachnid/solidity-stringutils.md) | 23 | ⭐ 1,154 | 2026-08-02 | 2026-08-29 |
@@ -168,7 +168,9 @@
 - [bnb-chain/BEPs](../repos/bnb-chain/BEPs.md) - BNB Evolution Proposals
 - [kimba999/base-bro](../repos/kimba999/base-bro.md) - 
 - [Slimba121/DOZEN](../repos/Slimba121/DOZEN.md) - 
+- [defisaver/defisaver-v3-contracts](../repos/defisaver/defisaver-v3-contracts.md) - All the contracts related to the Defi Saver ecosystem
+- [Cyfrin/security-and-auditing-full-course-s23](../repos/Cyfrin/security-and-auditing-full-course-s23.md) - The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created. 
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.865Z*
+*Last updated: 2026-09-02T21:02:12.695Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 54
+- **Total Repositories**: 56
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-01
 
@@ -16,25 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,519 | 2026-08-01 | 7 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,208 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 924 | 2026-08-01 | 19 |
+| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,518 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,420 | 2026-08-01 | 24 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 923 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jenqyang/Awesome-AI-Agents](../repos/Jenqyang/Awesome-AI-Agents.md) | ⭐ 1,224 | 2026-08-03 | 5 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,420 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,596 | 2026-08-04 | 3 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,293 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,767 | 2026-08-06 | 9 |
+| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,302 | 2026-09-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) | ⭐ 7,332 | 2026-08-24 | 4 |
+| [CopticScriptorium/corpora](../repos/CopticScriptorium/corpora.md) | ⭐ 50 | 2026-09-02 | 1 |
 
 
 ---
@@ -43,13 +43,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,416 | 2026-08-03 | Build a Jekyll blog in minutes, without touching the command line. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Jenqyang/Awesome-AI-Agents](../repos/Jenqyang/Awesome-AI-Agents.md) | ⭐ 1,224 | 2026-08-03 | A collection of autonomous agents 🤖️ powered by LLM. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,278 | 2026-08-04 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about c... |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,293 | 2026-08-04 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about c... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [evildmp/diataxis-documentation-framework](../repos/evildmp/diataxis-documentation-framework.md) | ⭐ 1,181 | 2026-08-04 | A systematic approach to creating better documentation. |
@@ -71,6 +65,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tanabe/markdown-live-preview](../repos/tanabe/markdown-live-preview.md) | ⭐ 958 | 2026-08-06 | markdown editor with live preview |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,767 | 2026-08-06 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,600 | 2026-08-06 | The package of IBM’s typeface, IBM Plex. |
 
 
 ---
@@ -80,13 +80,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,767 | 2026-08-06 | 9 |
-| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,519 | 2026-08-01 | 7 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,278 | 2026-08-04 | 12 |
+| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,518 | 2026-08-01 | 8 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,293 | 2026-08-04 | 13 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 27,499 | 2026-08-02 | 15 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,596 | 2026-08-04 | 3 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,768 | 2026-08-08 | 1 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,188 | 2026-08-01 | 13 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,208 | 2026-08-01 | 14 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,795 | 2026-08-04 | 5 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 11,646 | 2026-08-02 | 17 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,600 | 2026-08-06 | 6 |
@@ -94,11 +94,11 @@
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,479 | 2026-08-05 | 9 |
+| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,302 | 2026-09-02 | 1 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,220 | 2026-08-01 | 10 |
 | [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,416 | 2026-08-03 | 3 |
 | [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,319 | 2026-08-08 | 7 |
 | [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) | ⭐ 7,332 | 2026-08-24 | 4 |
-| [progit/progit2](../repos/progit/progit2.md) | ⭐ 6,551 | 2026-08-06 | 2 |
 
 ---
 
@@ -106,13 +106,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 24 | ⭐ 1,420 | 2026-08-01 | 2026-09-01 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 25 | ⭐ 1,420 | 2026-08-01 | 2026-09-02 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 21 | ⭐ 1,408 | 2026-08-01 | 2026-08-29 |
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 19 | ⭐ 924 | 2026-08-01 | 2026-09-01 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 20 | ⭐ 923 | 2026-08-01 | 2026-09-02 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 17 | ⭐ 11,646 | 2026-08-02 | 2026-08-29 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 15 | ⭐ 27,499 | 2026-08-02 | 2026-08-29 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 13 | ⭐ 12,188 | 2026-08-01 | 2026-08-29 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 12 | ⭐ 45,278 | 2026-08-04 | 2026-08-27 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 14 | ⭐ 12,208 | 2026-08-01 | 2026-09-02 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 13 | ⭐ 45,293 | 2026-08-04 | 2026-09-02 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 10 | ⭐ 9,220 | 2026-08-01 | 2026-08-29 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 9 | ⭐ 9,479 | 2026-08-05 | 2026-08-25 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 9 | ⭐ 82,767 | 2026-08-06 | 2026-09-01 |
@@ -175,7 +175,9 @@
 - [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) - ❤️静态响应式网址导航网站 - webstack.cc
 - [ayusharma/birthday](../repos/ayusharma/birthday.md) - A Happy Birthday animation design in CSS3, HTML5 
 - [apachecn/sklearn-doc-zh](../repos/apachecn/sklearn-doc-zh.md) - :book: [译] scikit-learn（sklearn） 中文文档
+- [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) - 🕶️ Awesome stuff for Obsidian
+- [CopticScriptorium/corpora](../repos/CopticScriptorium/corpora.md) - Public repository for Coptic SCRIPTORIUM Corpora Releases
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.789Z*
+*Last updated: 2026-09-02T21:02:12.622Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 60,212 |
-| **Forks** | 🍴 38,774 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 60,219 |
+| **Forks** | 🍴 38,768 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Aug 25, 2026 |
+| **Last Seen** | Sep 2, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Java or framework*
+*Similar: Check repositories in Java or spring*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`framework`](../../topics/framework.md) [`spring`](../../topics/spring.md) [`spring-framework`](../../topics/spring-framework.md) 
+[`spring`](../../topics/spring.md) [`spring-framework`](../../topics/spring-framework.md) [`spring-mvc`](../../topics/spring-mvc.md) 
 
 ### Curated Categories
-`General` 
+`Systems Programming` 
 
 ---
 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Good | Well-maintained documentation |
-| **Community** | Very Active | 60,212+ stars, strong contributor base |
+| **Community** | Very Active | 60,219+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 65&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-01T21:02:03.407Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-09-02T21:02:15.817Z*  
+*Data from 5 trending reports*

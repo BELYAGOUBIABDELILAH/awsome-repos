@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | MIT |
-| **Stars** | ⭐ 17,817 |
-| **Forks** | 🍴 1,215 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 18,445 |
+| **Forks** | 🍴 1,244 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #3 |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Sep 1, 2026 |
+| **Last Seen** | Sep 2, 2026 |
 
 
 ---
@@ -47,11 +47,12 @@
 **Aug 5, 2026** — Rank #5 (+1583 ⭐)  
 **Aug 6, 2026** — Rank #13 (+1194 ⭐)  
 **Sep 1, 2026** — Rank #8 (+545 ⭐)  
+**Sep 2, 2026** — Rank #19 (+589 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #3
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 4 days
 
 ---
@@ -89,11 +90,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #3)
 
 
 ---
 
-*Last updated: 2026-09-01T21:02:02.472Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-09-02T21:02:14.985Z*  
+*Data from 6 trending reports*

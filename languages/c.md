@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 148
+- **Total Repositories**: 151
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-24
+- **Last Updated**: 2026-09-02
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 69,051 | 2026-08-01 | 11 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 69,273 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,418 | 2026-08-01 | 4 |
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 26,642 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,550 | 2026-08-02 | 4 |
+| [mit-pdos/xv6-riscv](../repos/mit-pdos/xv6-riscv.md) | ⭐ 10,293 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,804 | 2026-08-02 | 6 |
+| [microsoft/mimalloc](../repos/microsoft/mimalloc.md) | ⭐ 13,345 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [immortalwrt/immortalwrt](../repos/immortalwrt/immortalwrt.md) | ⭐ 11,527 | 2026-08-03 | 2 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,379 | 2026-08-06 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mimalloc](../repos/microsoft/mimalloc.md) | ⭐ 13,343 | 2026-08-04 | 5 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 41,906 | 2026-08-07 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,463 | 2026-08-04 | 10 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | 2026-08-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [armel/uv-k1-k5v3-firmware-custom](../repos/armel/uv-k1-k5v3-firmware-custom.md) | ⭐ 643 | 2026-08-05 | 3 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,674 | 2026-08-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,373 | 2026-08-06 | 12 |
+| [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 27,111 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 41,696 | 2026-08-07 | 12 |
+| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 18,932 | 2026-08-12 | 7 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mgba-emu/mgba](../repos/mgba-emu/mgba.md) | ⭐ 7,248 | 2026-08-03 | mGBA Game Boy Advance Emulator |
+| [microsoft/mimalloc](../repos/microsoft/mimalloc.md) | ⭐ 13,345 | 2026-08-04 | mimalloc is a compact general purpose allocator with excellent performance. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) | ⭐ 16,451 | 2026-08-03 | Flipper Zero firmware source code |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,922 | 2026-08-04 | An open source, portable, easy to use, readable and flexible TLS library, and reference implement... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,501 | 2026-08-03 | stb single-file public domain libraries for C&#x2F;C++ |
+| [openzfs/zfs](../repos/openzfs/zfs.md) | ⭐ 12,369 | 2026-08-04 | OpenZFS on Linux and FreeBSD |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [karpathy/llama2.c](../repos/karpathy/llama2.c.md) | ⭐ 19,914 | 2026-08-03 | Inference Llama 2 in one file of pure C |
+| [portapack-mayhem/mayhem-firmware](../repos/portapack-mayhem/mayhem-firmware.md) | ⭐ 5,339 | 2026-08-04 | The firmware for the HackRF+PortaPack H1&#x2F;H2&#x2F;H4&#x2F;H4M |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [HandBrake/HandBrake](../repos/HandBrake/HandBrake.md) | ⭐ 24,067 | 2026-08-03 | HandBrake&#39;s development repository  |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,463 | 2026-08-04 | FreeRTOS kernel files only, submoduled into https:&#x2F;&#x2F;github.com&#x2F;FreeRTOS&#x2F;FreeRTOS and various othe... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [immortalwrt/immortalwrt](../repos/immortalwrt/immortalwrt.md) | ⭐ 11,527 | 2026-08-03 | An opensource OpenWrt variant for mainland China users. |
+| [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,659 | 2026-08-04 | Open-source keyboard firmware for Atmel AVR and Arm USB families |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [darktable-org/darktable](../repos/darktable-org/darktable.md) | ⭐ 12,926 | 2026-08-03 | darktable is an open source photography workflow application and raw developer |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | For developers, who are building real-time data-driven applications, Redis is the preferred, fast... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mit-pdos/xv6-riscv](../repos/mit-pdos/xv6-riscv.md) | ⭐ 10,253 | 2026-08-03 | Xv6 for RISC-V |
+| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | Command-line JSON processor |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,636 | 2026-08-03 | The systemd System and Service Manager  |
+| [lz4/lz4](../repos/lz4/lz4.md) | ⭐ 11,993 | 2026-08-05 | Extremely Fast Compression algorithm |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/mimalloc](../repos/microsoft/mimalloc.md) | ⭐ 13,343 | 2026-08-04 | mimalloc is a compact general purpose allocator with excellent performance. |
+| [git/git](../repos/git/git.md) | ⭐ 62,663 | 2026-08-05 | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into p... |
 
 
 ---
@@ -88,14 +88,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,181 | 2026-08-07 | 9 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | 2026-08-07 | 10 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,201 | 2026-08-01 | 15 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 78,928 | 2026-08-24 | 1 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,476 | 2026-08-02 | 10 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 69,051 | 2026-08-01 | 11 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 69,273 | 2026-08-01 | 12 |
 | [git/git](../repos/git/git.md) | ⭐ 62,663 | 2026-08-05 | 3 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 41,696 | 2026-08-07 | 12 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 41,906 | 2026-08-07 | 13 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,314 | 2026-08-01 | 4 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,255 | 2026-08-08 | 3 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,804 | 2026-08-02 | 6 |
@@ -106,7 +106,7 @@
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,550 | 2026-08-02 | 4 |
 | [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,076 | 2026-08-09 | 4 |
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,644 | 2026-08-07 | 9 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,674 | 2026-08-07 | 10 |
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,144 | 2026-08-01 | 9 |
 
 ---
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 15 | ⭐ 138,201 | 2026-08-01 | 2026-08-29 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 12 | ⭐ 16,373 | 2026-08-06 | 2026-09-01 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 12 | ⭐ 41,696 | 2026-08-07 | 2026-09-01 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 11 | ⭐ 69,051 | 2026-08-01 | 2026-09-01 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 13 | ⭐ 16,379 | 2026-08-06 | 2026-09-02 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 13 | ⭐ 41,906 | 2026-08-07 | 2026-09-02 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 12 | ⭐ 69,273 | 2026-08-01 | 2026-09-02 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 11 | ⭐ 6,922 | 2026-08-04 | 2026-08-27 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 10 | ⭐ 75,476 | 2026-08-02 | 2026-08-26 |
 | [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 10 | ⭐ 4,463 | 2026-08-04 | 2026-09-01 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 10 | ⭐ 148,747 | 2026-08-07 | 2026-09-02 |
+| [facebook/zstd](../repos/facebook/zstd.md) | 10 | ⭐ 27,674 | 2026-08-07 | 2026-09-02 |
 | [libuv/libuv](../repos/libuv/libuv.md) | 9 | ⭐ 27,144 | 2026-08-01 | 2026-08-29 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 9 | ⭐ 148,181 | 2026-08-07 | 2026-08-24 |
-| [facebook/zstd](../repos/facebook/zstd.md) | 9 | ⭐ 27,644 | 2026-08-07 | 2026-08-28 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.778Z*
+*Last updated: 2026-09-02T21:02:12.612Z*

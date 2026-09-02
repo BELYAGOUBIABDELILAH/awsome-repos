@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 169
+- **Total Repositories**: 173
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,270 | 2026-08-02 | 4 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 50,603 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) | ⭐ 4,824 | 2026-08-06 | 2 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 100,973 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 59,095 | 2026-08-11 | 6 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 43,709 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 16,080 | 2026-08-14 | 4 |
+| [browseros-ai/BrowserOS](../repos/browseros-ai/BrowserOS.md) | ⭐ 13,503 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [THU-MAIC/OpenMAIC](../repos/THU-MAIC/OpenMAIC.md) | ⭐ 29,270 | 2026-08-15 | 3 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 70,242 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Gitlawb/openclaude](../repos/Gitlawb/openclaude.md) | ⭐ 31,173 | 2026-08-17 | 2 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 59,929 | 2026-08-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rmyndharis/OpenWA](../repos/rmyndharis/OpenWA.md) | ⭐ 13,559 | 2026-08-19 | 2 |
+| [THU-MAIC/OpenMAIC](../repos/THU-MAIC/OpenMAIC.md) | ⭐ 30,459 | 2026-08-15 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [oblien/openship](../repos/oblien/openship.md) | ⭐ 11,964 | 2026-08-25 | 2 |
+| [Gitlawb/openclaude](../repos/Gitlawb/openclaude.md) | ⭐ 31,920 | 2026-08-17 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [inkeep/open-knowledge](../repos/inkeep/open-knowledge.md) | ⭐ 3,860 | 2026-09-01 | 1 |
+| [superset-sh/superset](../repos/superset-sh/superset.md) | ⭐ 13,664 | 2026-08-23 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YishenTu/claudian](../repos/YishenTu/claudian.md) | ⭐ 15,098 | 2026-09-01 | 1 |
+| [vercel-labs/portless](../repos/vercel-labs/portless.md) | ⭐ 11,673 | 2026-09-02 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [karakeep-app/karakeep](../repos/karakeep-app/karakeep.md) | ⭐ 28,063 | 2026-08-03 | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [darkreader/darkreader](../repos/darkreader/darkreader.md) | ⭐ 22,236 | 2026-08-03 | Dark Reader Chrome and Firefox extension |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [meshery/meshery](../repos/meshery/meshery.md) | ⭐ 11,424 | 2026-08-03 | Meshery, the cloud native manager |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [CodebuffAI/codebuff](../repos/CodebuffAI/codebuff.md) | ⭐ 8,315 | 2026-08-03 | Generate code from the terminal! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cypress-io/cypress](../repos/cypress-io/cypress.md) | ⭐ 50,912 | 2026-08-04 | Fast, easy and reliable testing for anything that runs in a browser. |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,436 | 2026-08-04 | The open and composable observability and data visualization platform. Visualize metrics, logs, a... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | This is the repo for Vue 2. For Vue 3, go to https:&#x2F;&#x2F;github.com&#x2F;vuejs&#x2F;core |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [reduxjs/redux](../repos/reduxjs/redux.md) | ⭐ 61,511 | 2026-08-04 | A JS library for predictable global state management |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [facebook/astryx](../repos/facebook/astryx.md) | ⭐ 12,273 | 2026-08-04 | An open source design system that&#39;s fully customizable and agent ready |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cloudflare/computer](../repos/cloudflare/computer.md) | ⭐ 6,976 | 2026-08-05 | Give your agent a computer 👾 |
 
 
 ---
@@ -98,9 +98,9 @@
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | 2026-08-17 | 2 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | 3 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 100,973 | 2026-08-07 | 6 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 90,880 | 2026-08-07 | 5 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
 | [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 89,779 | 2026-08-22 | 1 |
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 85,461 | 2026-08-14 | 2 |
@@ -122,9 +122,9 @@
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 7 | ⭐ 130,028 | 2026-08-02 | 2026-08-27 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 7 | ⭐ 59,929 | 2026-08-11 | 2026-09-02 |
 | [apache/maka](../repos/apache/maka.md) | 7 | ⭐ 3,585 | 2026-08-20 | 2026-08-26 |
-| [stablyai/orca](../repos/stablyai/orca.md) | 6 | ⭐ 59,095 | 2026-08-11 | 2026-09-01 |
-| [microsoft/vscode](../repos/microsoft/vscode.md) | 5 | ⭐ 188,451 | 2026-07-30 | 2026-08-06 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | 6 | ⭐ 100,973 | 2026-08-07 | 2026-09-02 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.869Z*
+*Last updated: 2026-09-02T21:02:12.699Z*

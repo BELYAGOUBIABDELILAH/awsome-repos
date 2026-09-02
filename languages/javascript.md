@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 111
+- **Total Repositories**: 112
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [decolua/9router](../repos/decolua/9router.md) | ⭐ 26,863 | 2026-08-02 | 4 |
+| [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,614 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 41,549 | 2026-08-04 | 15 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 43,692 | 2026-08-04 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,422 | 2026-08-05 | 13 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,694 | 2026-08-05 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [eze-is/web-access](../repos/eze-is/web-access.md) | ⭐ 8,811 | 2026-08-05 | 2 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 64,966 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 3,033 | 2026-08-14 | 5 |
+| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,711 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) | ⭐ 7,735 | 2026-08-14 | 2 |
+| [plankanban/planka](../repos/plankanban/planka.md) | ⭐ 12,484 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/plugins](../repos/openai/plugins.md) | ⭐ 5,320 | 2026-08-27 | 2 |
+| [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) | ⭐ 28,619 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 5,957 | 2026-08-29 | 2 |
+| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 3,084 | 2026-08-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amElnagdy/delegate-skills](../repos/amElnagdy/delegate-skills.md) | ⭐ 1,584 | 2026-09-01 | 1 |
+| [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) | ⭐ 7,801 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Neet-Nestor/Telegram-Media-Downloader](../repos/Neet-Nestor/Telegram-Media-Downloader.md) | ⭐ 5,407 | 2026-09-01 | 1 |
+| [carbon-design-system/carbon](../repos/carbon-design-system/carbon.md) | ⭐ 9,409 | 2026-08-15 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [4ian/GDevelop](../repos/4ian/GDevelop.md) | ⭐ 25,523 | 2026-08-03 | 🎮 Open-source, cross-platform 2D&#x2F;3D&#x2F;multiplayer game engine designed for everyone. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NodeBB/NodeBB](../repos/NodeBB/NodeBB.md) | ⭐ 15,175 | 2026-08-03 | Node.js based forum software built for the modern web |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jellyfin/jellyfin-web](../repos/jellyfin/jellyfin-web.md) | ⭐ 3,800 | 2026-08-03 | The Free Software Media System - Official Web Client |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 10,983 | 2026-08-03 | Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [validatorjs/validator.js](../repos/validatorjs/validator.js.md) | ⭐ 23,737 | 2026-08-03 | String validation |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Axorax/awesome-free-apps](../repos/Axorax/awesome-free-apps.md) | ⭐ 7,483 | 2026-08-03 | Curated list of the best free apps for PC and mobile |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splittin... |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [projectdiscovery/nuclei-templates](../repos/projectdiscovery/nuclei-templates.md) | ⭐ 12,872 | 2026-08-04 | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | Clean Code concepts adapted for JavaScript |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [worldwonderer/oh-story-claudecode](../repos/worldwonderer/oh-story-claudecode.md) | ⭐ 5,980 | 2026-08-04 | 网文&#x2F;小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-f... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [react/react](../repos/react/react.md) | ⭐ 247,637 | 2026-08-04 | The library for web and native user interfaces. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 43,692 | 2026-08-04 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,694 | 2026-08-05 | Production-grade engineering skills for AI coding agents. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 64,966 | 2026-08-05 | The design language that makes your AI harness better at design. |
 
 
 ---
@@ -96,17 +96,17 @@
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,422 | 2026-08-05 | 13 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,694 | 2026-08-05 | 14 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 63,589 | 2026-08-05 | 6 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 64,966 | 2026-08-05 | 7 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,500 | 2026-08-01 | 12 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,420 | 2026-08-11 | 4 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 51,812 | 2026-08-26 | 3 |
+| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,711 | 2026-08-08 | 2 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
-| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,206 | 2026-08-08 | 1 |
 | [google/zx](../repos/google/zx.md) | ⭐ 45,685 | 2026-08-20 | 2 |
 
 ---
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 15 | ⭐ 41,549 | 2026-08-04 | 2026-09-01 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 13 | ⭐ 91,422 | 2026-08-05 | 2026-09-01 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 16 | ⭐ 43,692 | 2026-08-04 | 2026-09-02 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 14 | ⭐ 91,694 | 2026-08-05 | 2026-09-02 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 12 | ⭐ 24,188 | 2026-08-01 | 2026-08-28 |
 | [byoungd/up](../repos/byoungd/up.md) | 12 | ⭐ 61,500 | 2026-08-01 | 2026-08-25 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 8 | ⭐ 141,962 | 2026-07-30 | 2026-08-27 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 6 | ⭐ 63,589 | 2026-08-05 | 2026-08-28 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 7 | ⭐ 64,966 | 2026-08-05 | 2026-09-02 |
 | [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | 6 | ⭐ 1,000 | 2026-08-05 | 2026-08-29 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 6 | ⭐ 39,289 | 2026-08-06 | 2026-08-27 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 6 | ⭐ 1,584 | 2026-08-07 | 2026-08-22 |
-| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | 5 | ⭐ 7,142 | 2026-08-01 | 2026-08-12 |
+| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | 6 | ⭐ 3,084 | 2026-08-14 | 2026-09-02 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.822Z*
+*Last updated: 2026-09-02T21:02:12.653Z*

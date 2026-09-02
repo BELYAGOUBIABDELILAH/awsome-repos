@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 9
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-01
+- **Last Updated**: 2026-09-02
 
 ---
 
@@ -16,13 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 501 | 2026-08-01 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,210 | 2026-08-01 | 23 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | ⭐ 248 | 2026-08-05 | 4 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,213 | 2026-08-01 | 24 |
 
 
 ---
@@ -55,7 +49,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,210 | 2026-08-01 | 23 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,213 | 2026-08-01 | 24 |
 | [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | ⭐ 1,301 | 2026-08-14 | 2 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 661 | 2026-08-02 | 6 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 625 | 2026-08-05 | 2 |
@@ -71,7 +65,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 23 | ⭐ 18,210 | 2026-08-01 | 2026-09-01 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 24 | ⭐ 18,213 | 2026-08-01 | 2026-09-02 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | 8 | ⭐ 501 | 2026-08-01 | 2026-09-01 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | 6 | ⭐ 661 | 2026-08-02 | 2026-08-15 |
 | [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | 4 | ⭐ 248 | 2026-08-05 | 2026-09-01 |
@@ -97,4 +91,4 @@
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.837Z*
+*Last updated: 2026-09-02T21:02:12.667Z*

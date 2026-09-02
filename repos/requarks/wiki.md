@@ -1,6 +1,6 @@
 # requarks&#x2F;wiki
 
-> Wiki.js | A modern and powerful wiki app built on Node.js
+> Wiki.js | Next Generation Open Source Wiki
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;requarks&#x2F;wiki) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vue |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 28,813 |
-| **Forks** | 🍴 3,297 |
-| **Trending Days** | 15 |
+| **Stars** | ⭐ 28,831 |
+| **Forks** | 🍴 3,307 |
+| **Trending Days** | 16 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 28, 2026 |
+| **Last Seen** | Sep 2, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 15
+- **Trending Days**: 16
 - **Longest Streak**: 4 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-01T21:02:02.029Z*  
-*Data from 15 trending reports*
+*Last updated: 2026-09-02T21:02:14.568Z*  
+*Data from 16 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 83
+- **Total Repositories**: 84
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,616 | 2026-08-01 | 9 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,627 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,077 | 2026-08-01 | 4 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,829 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 19 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,686 | 2026-08-02 | 4 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,231 | 2026-08-02 | 9 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,264 | 2026-08-03 | 7 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,634 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,029 | 2026-08-04 | 7 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,092 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,523 | 2026-08-04 | 6 |
+| [newmarcel/KeepingYouAwake](../repos/newmarcel/KeepingYouAwake.md) | ⭐ 6,880 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bugsnag/bugsnag-cocoa](../repos/bugsnag/bugsnag-cocoa.md) | ⭐ 262 | 2026-08-06 | 9 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,298 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,115 | 2026-08-07 | 4 |
+| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | ⭐ 675 | 2026-08-04 | 14 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,264 | 2026-08-03 | Darwin&#x2F;macOS emulation layer for Linux |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/eDistantObject](../repos/google/eDistantObject.md) | ⭐ 176 | 2026-08-03 |  eDistantObject (eDO) - Remote invocation library for iOS |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [robbiehanson/KissXML](../repos/robbiehanson/KissXML.md) | ⭐ 858 | 2026-08-03 | A replacement for Cocoa&#39;s NSXML cluster of classes. Based on libxml. Works on iOS. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [joeldev/JLRoutes](../repos/joeldev/JLRoutes.md) | ⭐ 5,705 | 2026-08-03 | URL routing library for iOS with a simple block-based API |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [erikdoe/ocmock](../repos/erikdoe/ocmock.md) | ⭐ 2,171 | 2026-08-03 | Mock objects for Objective-C |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [danveloper/flash-moe](../repos/danveloper/flash-moe.md) | ⭐ 4,073 | 2026-08-03 | Running a big model on a small laptop |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [TTTAttributedLabel/TTTAttributedLabel](../repos/TTTAttributedLabel/TTTAttributedLabel.md) | ⭐ 8,711 | 2026-08-03 | A drop-in replacement for UILabel that supports attributes, data detectors, links, and more |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [roothide/Bootstrap](../repos/roothide/Bootstrap.md) | ⭐ 1,694 | 2026-08-03 | A full featured bootstrap for iOS 15.0-17.0 A8-A17Pro &amp; M1+M2 using roothide |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,029 | 2026-08-04 | Staggeringly powerful macOS desktop automation with Lua |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,615 | 2026-08-04 | Realm is a mobile database: a replacement for Core Data &amp; SQLite |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,325 | 2026-08-04 | A fast &amp; simple, yet powerful &amp; flexible logging framework for macOS, iOS, tvOS, watchOS and visi... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SVGKit/SVGKit](../repos/SVGKit/SVGKit.md) | ⭐ 4,588 | 2026-08-04 | Display and interact with SVG Images on iOS &#x2F; OS X, using native rendering (CoreAnimation) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | ⭐ 675 | 2026-08-04 | This is the iOS SDK of |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kif-framework/KIF](../repos/kif-framework/KIF.md) | ⭐ 6,244 | 2026-08-04 | Keep It Functional - An iOS Functional Testing Framework |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,933 | 2026-08-04 | MBProgressHUD + Customizations |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | An in-app debugging and exploration tool for iOS |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,523 | 2026-08-04 | MySQL&#x2F;MariaDB database management for macOS |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CleverTap/CTNotificationService](../repos/CleverTap/CTNotificationService.md) | ⭐ 23 | 2026-08-04 | A simple Notification Service Extension class to add media attachments to iOS 10 rich push notifi... |
 
 
 ---
@@ -90,8 +90,9 @@
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,392 | 2026-08-02 | 4 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 19 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,080 | 2026-08-02 | 12 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,634 | 2026-08-01 | 20 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,092 | 2026-08-02 | 13 |
+| [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,615 | 2026-08-04 | 14 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,029 | 2026-08-04 | 7 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,933 | 2026-08-04 | 8 |
@@ -100,14 +101,13 @@
 | [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,836 | 2026-08-28 | 1 |
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,325 | 2026-08-04 | 8 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,264 | 2026-08-03 | 7 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,298 | 2026-08-03 | 8 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,453 | 2026-08-06 | 1 |
-| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,115 | 2026-08-07 | 4 |
+| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,116 | 2026-08-07 | 5 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
 | [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) | ⭐ 10,643 | 2026-08-06 | 2 |
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,616 | 2026-08-01 | 9 |
-| [facebookincubator/SocketRocket](../repos/facebookincubator/SocketRocket.md) | ⭐ 9,609 | 2026-08-08 | 6 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,627 | 2026-08-01 | 10 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 19 | ⭐ 25,633 | 2026-08-01 | 2026-09-01 |
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 18 | ⭐ 134 | 2026-08-01 | 2026-08-29 |
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 18 | ⭐ 59 | 2026-08-01 | 2026-08-29 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 17 | ⭐ 292 | 2026-08-01 | 2026-08-29 |
-| [google/promises](../repos/google/promises.md) | 16 | ⭐ 3,830 | 2026-08-01 | 2026-08-29 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 20 | ⭐ 25,634 | 2026-08-01 | 2026-09-02 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 19 | ⭐ 134 | 2026-08-01 | 2026-09-02 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 19 | ⭐ 59 | 2026-08-01 | 2026-09-02 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 18 | ⭐ 292 | 2026-08-01 | 2026-09-02 |
+| [google/promises](../repos/google/promises.md) | 17 | ⭐ 3,829 | 2026-08-01 | 2026-09-02 |
 | [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | 14 | ⭐ 5,073 | 2026-08-01 | 2026-08-29 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 14 | ⭐ 16,615 | 2026-08-04 | 2026-08-29 |
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 13 | ⭐ 673 | 2026-08-04 | 2026-08-28 |
-| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 13 | ⭐ 4,489 | 2026-08-05 | 2026-08-28 |
-| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 13 | ⭐ 2,025 | 2026-08-08 | 2026-08-29 |
+| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 14 | ⭐ 675 | 2026-08-04 | 2026-09-02 |
+| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 14 | ⭐ 4,492 | 2026-08-05 | 2026-09-02 |
+| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 14 | ⭐ 2,028 | 2026-08-08 | 2026-09-02 |
 
 ---
 
@@ -213,7 +213,8 @@
 - [michaeltyson/TPKeyboardAvoiding](../repos/michaeltyson/TPKeyboardAvoiding.md) - A drop-in universal solution for moving text fields out of the way of the keyboard in iOS
 - [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) - An easy way to use pull-to-refresh.
 - [julienXX/terminal-notifier](../repos/julienXX/terminal-notifier.md) - Send User Notifications on macOS from the command-line.
+- [SnapKit/Masonry](../repos/SnapKit/Masonry.md) - Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive s...
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.841Z*
+*Last updated: 2026-09-02T21:02:12.670Z*

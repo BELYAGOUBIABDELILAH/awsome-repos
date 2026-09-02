@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 29,417 | 2026-08-01 | 18 |
+| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,072 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,068 | 2026-08-01 | 8 |
+| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | ⭐ 737 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | ⭐ 733 | 2026-08-01 | 11 |
+| [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) | ⭐ 28,218 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,071 | 2026-08-01 | 15 |
+| [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) | ⭐ 4,188 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 285 | 2026-08-01 | 13 |
+| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 19,151 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Footagesus/WindUI](../repos/Footagesus/WindUI.md) | ⭐ 341 | 2026-08-02 | 7 |
+| [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | ⭐ 4,977 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) | ⭐ 4,188 | 2026-08-03 | 8 |
+| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,355 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 19,127 | 2026-08-03 | 10 |
+| [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,516 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,375 | 2026-08-04 | 18 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,044 | 2026-08-08 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tarantool/tarantool](../repos/tarantool/tarantool.md) | ⭐ 3,662 | 2026-08-04 | 3 |
+| [miscusi-peek/cheatengine-mcp-bridge](../repos/miscusi-peek/cheatengine-mcp-bridge.md) | ⭐ 1,368 | 2026-08-09 | 7 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [esmuellert/codediff.nvim](../repos/esmuellert/codediff.nvim.md) | ⭐ 1,538 | 2026-08-03 | VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [EllesmereGaming/EllesmereUI](../repos/EllesmereGaming/EllesmereUI.md) | ⭐ 177 | 2026-08-03 | EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization an... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) | ⭐ 4,188 | 2026-08-03 | Main game repository for Beyond All Reason. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [yetone/avante.nvim](../repos/yetone/avante.nvim.md) | ⭐ 18,120 | 2026-08-03 | Use your Neovim like using Cursor AI IDE! |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 19,127 | 2026-08-03 | Rime 配置：雾凇拼音 | 长期维护的简体词库 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [milanglacier/minuet-ai.nvim](../repos/milanglacier/minuet-ai.nvim.md) | ⭐ 1,351 | 2026-08-03 | 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular L... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [coder/claudecode.nvim](../repos/coder/claudecode.nvim.md) | ⭐ 3,028 | 2026-08-03 | 🧩 Claude Code Neovim IDE Extension |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,375 | 2026-08-04 | A launch point for your personal nvim configuration |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | ⭐ 4,958 | 2026-08-04 | Improve viewing Markdown in Neovim |
+| [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | ⭐ 4,977 | 2026-08-04 | Improve viewing Markdown in Neovim |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CopilotC-Nvim/CopilotChat.nvim](../repos/CopilotC-Nvim/CopilotChat.nvim.md) | ⭐ 3,650 | 2026-08-04 | Chat with GitHub Copilot in Neovim |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tarantool/tarantool](../repos/tarantool/tarantool.md) | ⭐ 3,662 | 2026-08-04 | Get your data in RAM. Get compute close to data. Enjoy the performance. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,355 | 2026-08-04 | Neovim config for the lazy |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [awesomeWM/awesome](../repos/awesomeWM/awesome.md) | ⭐ 6,934 | 2026-08-04 | awesome window manager |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,174 | 2026-08-04 | 🔥 A cross-platform build utility based on Lua |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LandSandBoat/server](../repos/LandSandBoat/server.md) | ⭐ 503 | 2026-08-04 | :sailboat: LandSandBoat - a server emulator for Final Fantasy XI |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,455 | 2026-08-04 | Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage L... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [stevearc/oil.nvim](../repos/stevearc/oil.nvim.md) | ⭐ 6,854 | 2026-08-04 | Neovim file explorer: edit your filesystem like a buffer |
 
 
 ---
@@ -91,20 +91,20 @@
 | [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,071 | 2026-08-01 | 15 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,375 | 2026-08-04 | 18 |
 | [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 29,417 | 2026-08-01 | 18 |
-| [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) | ⭐ 28,211 | 2026-08-01 | 1 |
-| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,309 | 2026-08-04 | 12 |
-| [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,438 | 2026-08-06 | 3 |
-| [nvim-telescope/telescope.nvim](../repos/nvim-telescope/telescope.nvim.md) | ⭐ 19,753 | 2026-08-11 | 6 |
-| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 19,127 | 2026-08-03 | 10 |
+| [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) | ⭐ 28,218 | 2026-08-01 | 2 |
+| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,355 | 2026-08-04 | 13 |
+| [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,516 | 2026-08-06 | 4 |
+| [nvim-telescope/telescope.nvim](../repos/nvim-telescope/telescope.nvim.md) | ⭐ 19,759 | 2026-08-11 | 7 |
+| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 19,151 | 2026-08-03 | 11 |
 | [yetone/avante.nvim](../repos/yetone/avante.nvim.md) | ⭐ 18,120 | 2026-08-03 | 5 |
-| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,068 | 2026-08-01 | 8 |
+| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,072 | 2026-08-01 | 9 |
 | [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,174 | 2026-08-04 | 9 |
 | [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,455 | 2026-08-04 | 4 |
-| [nvim-mini/mini.nvim](../repos/nvim-mini/mini.nvim.md) | ⭐ 9,481 | 2026-08-26 | 5 |
+| [nvim-mini/mini.nvim](../repos/nvim-mini/mini.nvim.md) | ⭐ 9,483 | 2026-08-26 | 6 |
 | [nvim-tree/nvim-tree.lua](../repos/nvim-tree/nvim-tree.lua.md) | ⭐ 8,632 | 2026-08-05 | 3 |
 | [folke/tokyonight.nvim](../repos/folke/tokyonight.nvim.md) | ⭐ 8,179 | 2026-08-05 | 2 |
 | [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,099 | 2026-08-02 | 4 |
-| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,039 | 2026-08-08 | 9 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,044 | 2026-08-08 | 10 |
 | [awesomeWM/awesome](../repos/awesomeWM/awesome.md) | ⭐ 6,934 | 2026-08-04 | 1 |
 | [stevearc/oil.nvim](../repos/stevearc/oil.nvim.md) | ⭐ 6,854 | 2026-08-04 | 5 |
 | [rebelot/kanagawa.nvim](../repos/rebelot/kanagawa.nvim.md) | ⭐ 6,366 | 2026-08-12 | 3 |
@@ -119,12 +119,12 @@
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 18 | ⭐ 31,375 | 2026-08-04 | 2026-09-01 |
 | [Kong/kong](../repos/Kong/kong.md) | 15 | ⭐ 44,071 | 2026-08-01 | 2026-09-01 |
 | [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 13 | ⭐ 285 | 2026-08-01 | 2026-09-01 |
-| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | 12 | ⭐ 27,309 | 2026-08-04 | 2026-08-29 |
-| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 11 | ⭐ 733 | 2026-08-01 | 2026-09-01 |
+| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | 13 | ⭐ 27,355 | 2026-08-04 | 2026-09-02 |
+| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 12 | ⭐ 737 | 2026-08-01 | 2026-09-02 |
+| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 11 | ⭐ 19,151 | 2026-08-03 | 2026-09-02 |
 | [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | 10 | ⭐ 4,450 | 2026-08-01 | 2026-08-25 |
-| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 10 | ⭐ 19,127 | 2026-08-03 | 2026-09-01 |
-| [xmake-io/xmake](../repos/xmake-io/xmake.md) | 9 | ⭐ 12,174 | 2026-08-04 | 2026-08-29 |
-| [finlater/weread.koplugin](../repos/finlater/weread.koplugin.md) | 9 | ⭐ 627 | 2026-08-07 | 2026-08-27 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | 10 | ⭐ 8,044 | 2026-08-08 | 2026-09-02 |
+| [apache/apisix](../repos/apache/apisix.md) | 9 | ⭐ 17,072 | 2026-08-01 | 2026-09-02 |
 
 ---
 
@@ -218,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.831Z*
+*Last updated: 2026-09-02T21:02:12.661Z*

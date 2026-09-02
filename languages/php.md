@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 84
+- **Total Repositories**: 85
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-29
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,895 | 2026-08-01 | 12 |
+| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,890 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,890 | 2026-08-01 | 16 |
+| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,300 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,086 | 2026-08-01 | 12 |
+| [WordPress/mcp-adapter](../repos/WordPress/mcp-adapter.md) | ⭐ 1,653 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensourcepos/opensourcepos](../repos/opensourcepos/opensourcepos.md) | ⭐ 4,369 | 2026-08-02 | 6 |
+| [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,287 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cedar2025/Xboard](../repos/cedar2025/Xboard.md) | ⭐ 4,682 | 2026-08-02 | 9 |
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,087 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,709 | 2026-08-04 | 5 |
+| [PrestaShop/PrestaShop](../repos/PrestaShop/PrestaShop.md) | ⭐ 9,200 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,185 | 2026-08-04 | 11 |
+| [opensourcepos/opensourcepos](../repos/opensourcepos/opensourcepos.md) | ⭐ 4,373 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 23,820 | 2026-08-07 | 9 |
+| [opencart/opencart](../repos/opencart/opencart.md) | ⭐ 8,194 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,360 | 2026-08-09 | 11 |
+| [RSS-Bridge/rss-bridge](../repos/RSS-Bridge/rss-bridge.md) | ⭐ 9,202 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [David-Crty/databasement](../repos/David-Crty/databasement.md) | ⭐ 2,129 | 2026-08-10 | 5 |
+| [librenms/librenms](../repos/librenms/librenms.md) | ⭐ 4,868 | 2026-08-04 | 9 |
 
 
 ---
@@ -52,25 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [kimai/kimai](../repos/kimai/kimai.md) | ⭐ 4,946 | 2026-08-03 | Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisa... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ChurchCRM/CRM](../repos/ChurchCRM/CRM.md) | ⭐ 933 | 2026-08-03 | ChurchCRM - A free and open-source Church Management Software (ChMS) to help churches manage thei... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [KhronosGroup/glTF-Sample-Assets](../repos/KhronosGroup/glTF-Sample-Assets.md) | ⭐ 1,019 | 2026-08-03 | An assortment of assets that demonstrate features and capabilities of the glTF format |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [RSS-Bridge/rss-bridge](../repos/RSS-Bridge/rss-bridge.md) | ⭐ 9,190 | 2026-08-03 | The RSS feed for websites missing it |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [elementor/elementor](../repos/elementor/elementor.md) | ⭐ 7,062 | 2026-08-03 | The most advanced frontend drag &amp; drop page builder. Create high-end, pixel perfect websites at r... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mahdiMGF2/mirzabot](../repos/mahdiMGF2/mirzabot.md) | ⭐ 624 | 2026-08-03 | bot pro for sell vpn |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [librenms/librenms](../repos/librenms/librenms.md) | ⭐ 4,848 | 2026-08-04 | Community-based GPL-licensed network monitoring system |
+| [librenms/librenms](../repos/librenms/librenms.md) | ⭐ 4,868 | 2026-08-04 | Community-based GPL-licensed network monitoring system |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [twigphp/Twig](../repos/twigphp/Twig.md) | ⭐ 8,374 | 2026-08-04 | Twig, the flexible, fast, and secure template language for PHP |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [drush-ops/drush](../repos/drush-ops/drush.md) | ⭐ 2,378 | 2026-08-04 | Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife de... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,544 | 2026-08-04 | A tool to automatically fix PHP Coding Standards issues |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [roundcube/roundcubemail](../repos/roundcube/roundcubemail.md) | ⭐ 7,149 | 2026-08-04 | The Roundcube Webmail suite |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [shopware/shopware](../repos/shopware/shopware.md) | ⭐ 3,408 | 2026-08-04 | Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a wor... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,709 | 2026-08-04 | 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,216 | 2026-08-04 | Personal CRM. Remember everything about your friends, family and business relationships. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [magento/magento2](../repos/magento/magento2.md) | ⭐ 12,169 | 2026-08-04 | Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, availabl... |
 
 
 ---
@@ -89,13 +89,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,625 | 2026-08-02 | 19 |
-| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,890 | 2026-08-01 | 16 |
+| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,890 | 2026-08-01 | 17 |
 | [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 31,924 | 2026-08-02 | 11 |
 | [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,138 | 2026-08-02 | 16 |
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,086 | 2026-08-01 | 12 |
-| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,185 | 2026-08-04 | 11 |
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,087 | 2026-08-01 | 13 |
+| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,216 | 2026-08-04 | 12 |
 | [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 23,820 | 2026-08-07 | 9 |
-| [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,280 | 2026-08-01 | 5 |
+| [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,287 | 2026-08-01 | 6 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,827 | 2026-08-01 | 14 |
 | [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,709 | 2026-08-04 | 5 |
 | [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 15,851 | 2026-08-02 | 9 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [nextcloud/server](../repos/nextcloud/server.md) | 19 | ⭐ 36,625 | 2026-08-02 | 2026-08-29 |
-| [laravel/framework](../repos/laravel/framework.md) | 16 | ⭐ 34,890 | 2026-08-01 | 2026-09-01 |
+| [laravel/framework](../repos/laravel/framework.md) | 17 | ⭐ 34,890 | 2026-08-01 | 2026-09-02 |
 | [symfony/symfony](../repos/symfony/symfony.md) | 16 | ⭐ 31,138 | 2026-08-02 | 2026-08-29 |
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | 14 | ⭐ 6,272 | 2026-08-01 | 2026-08-27 |
+| [glpi-project/glpi](../repos/glpi-project/glpi.md) | 15 | ⭐ 6,300 | 2026-08-01 | 2026-09-02 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | 14 | ⭐ 21,827 | 2026-08-01 | 2026-08-29 |
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | 13 | ⭐ 28,087 | 2026-08-01 | 2026-09-02 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | 12 | ⭐ 14,895 | 2026-08-01 | 2026-09-01 |
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | 12 | ⭐ 28,086 | 2026-08-01 | 2026-09-01 |
+| [monicahq/monica](../repos/monicahq/monica.md) | 12 | ⭐ 25,216 | 2026-08-04 | 2026-09-02 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 12 | ⭐ 10,365 | 2026-08-09 | 2026-09-02 |
 | [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 11 | ⭐ 3,424 | 2026-08-01 | 2026-08-29 |
-| [filamentphp/filament](../repos/filamentphp/filament.md) | 11 | ⭐ 31,924 | 2026-08-02 | 2026-08-29 |
-| [monicahq/monica](../repos/monicahq/monica.md) | 11 | ⭐ 25,185 | 2026-08-04 | 2026-09-01 |
 
 ---
 
@@ -214,7 +214,8 @@
 - [phpipam/phpipam](../repos/phpipam/phpipam.md) - phpipam development repository
 - [pixelfed/pixelfed](../repos/pixelfed/pixelfed.md) - Photo Sharing. For Everyone.
 - [openmediavault/openmediavault](../repos/openmediavault/openmediavault.md) - openmediavault is the next generation network attached storage (NAS) solution based on Debian Lin...
+- [OpenSID/OpenSID](../repos/OpenSID/OpenSID.md) - Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sa...
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.843Z*
+*Last updated: 2026-09-02T21:02:12.673Z*

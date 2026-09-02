@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | Other |
-| **Stars** | ⭐ 11,121 |
-| **Forks** | 🍴 1,909 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 11,134 |
+| **Forks** | 🍴 1,911 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 27, 2026 |
+| **Last Seen** | Sep 2, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 2 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-01T21:02:02.839Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-09-02T21:02:15.319Z*  
+*Data from 9 trending reports*

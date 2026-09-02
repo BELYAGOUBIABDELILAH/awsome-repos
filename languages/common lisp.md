@@ -14,18 +14,13 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,498 | 2026-08-03 | 17 |
 
+*No Common Lisp repositories trending today*
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,498 | 2026-08-03 | Reviving the language that brought us the Jak &amp; Daxter Series |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | Nyxt - the hacker&#39;s browser. |
@@ -73,4 +68,4 @@
 
 ---
 
-*Last updated: 2026-09-01T21:01:59.798Z*
+*Last updated: 2026-09-02T21:02:12.630Z*
