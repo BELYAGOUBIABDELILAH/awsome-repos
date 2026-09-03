@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 131
+- **Total Repositories**: 132
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-02
+- **Last Updated**: 2026-09-03
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,735 | 2026-08-01 | 11 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,796 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,991 | 2026-08-01 | 5 |
+| [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,516 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,265 | 2026-08-02 | 14 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,639 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 24,059 | 2026-08-02 | 18 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,996 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,615 | 2026-08-02 | 5 |
+| [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,325 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 8,913 | 2026-08-04 | 5 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,350 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,244 | 2026-08-04 | 7 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 15,332 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,315 | 2026-08-04 | 3 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,344 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,246 | 2026-08-04 | 8 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 9,019 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | ⭐ 13,497 | 2026-08-05 | 8 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,247 | 2026-08-04 | 8 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 8,913 | 2026-08-04 | Free, open-source Windows optimization tool for performance, privacy, and simplicity. |
+| [mono/SkiaSharp](../repos/mono/SkiaSharp.md) | ⭐ 5,538 | 2026-08-05 | SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google&#39;s Skia Graphics ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/efcore](../repos/dotnet/efcore.md) | ⭐ 14,784 | 2026-08-04 | EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, u... |
+| [dotnet/extensions](../repos/dotnet/extensions.md) | ⭐ 3,196 | 2026-08-05 | This repository contains a suite of libraries that provide facilities commonly needed when creati... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [actions/runner](../repos/actions/runner.md) | ⭐ 6,224 | 2026-08-04 | The Runner for GitHub Actions :rocket: |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,270 | 2026-08-05 | Aspire is the tool for code-first, extensible, observable dev and deploy. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Dailin521/codex-provider-sync](../repos/Dailin521/codex-provider-sync.md) | ⭐ 3,168 | 2026-08-04 | Synchronize Codex session provider metadata across rollout files and SQLite state. |
+| [win-acme/win-acme](../repos/win-acme/win-acme.md) | ⭐ 5,761 | 2026-08-05 | Automate SSL&#x2F;TLS certificates on Windows with ease |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [space-wizards/space-station-14](../repos/space-wizards/space-station-14.md) | ⭐ 3,743 | 2026-08-04 | A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space ... |
+| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | ⭐ 13,497 | 2026-08-05 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | ⭐ 3,140 | 2026-08-04 | An alternative bootstrapper for Roblox with a bunch of extra features. |
+| [dremin/RetroBar](../repos/dremin/RetroBar.md) | ⭐ 4,306 | 2026-08-05 | Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,244 | 2026-08-04 | Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and oth... |
+| [mcmonkeyprojects/SwarmUI](../repos/mcmonkeyprojects/SwarmUI.md) | ⭐ 4,478 | 2026-08-05 | SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,315 | 2026-08-04 | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications ... |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,509 | 2026-08-05 | Integrate cutting-edge LLM technology quickly and easily into your apps |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,246 | 2026-08-04 | .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps. |
+| [Azure/azure-cosmos-dotnet-v3](../repos/Azure/azure-cosmos-dotnet-v3.md) | ⭐ 791 | 2026-08-05 | .NET SDK for Azure Cosmos DB for the core SQL API |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [DataDog/dd-trace-dotnet](../repos/DataDog/dd-trace-dotnet.md) | ⭐ 574 | 2026-08-04 | .NET Client Library for Datadog APM |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,144 | 2026-08-06 | PowerShell for every system! |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,265 | 2026-08-02 | 14 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,350 | 2026-08-02 | 15 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,438 | 2026-08-02 | 13 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,144 | 2026-08-06 | 7 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,819 | 2026-08-01 | 6 |
@@ -97,7 +97,7 @@
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,411 | 2026-08-01 | 11 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,914 | 2026-08-22 | 2 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,025 | 2026-08-28 | 1 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,735 | 2026-08-01 | 11 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,796 | 2026-08-01 | 12 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,509 | 2026-08-05 | 8 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,603 | 2026-08-10 | 3 |
@@ -116,14 +116,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 18 | ⭐ 24,059 | 2026-08-02 | 2026-09-02 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 14 | ⭐ 115,265 | 2026-08-02 | 2026-09-02 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 15 | ⭐ 115,350 | 2026-08-02 | 2026-09-03 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 13 | ⭐ 56,438 | 2026-08-02 | 2026-09-01 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 12 | ⭐ 5,281 | 2026-08-03 | 2026-08-28 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 11 | ⭐ 29,735 | 2026-08-01 | 2026-09-02 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 13 | ⭐ 5,344 | 2026-08-03 | 2026-09-03 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 12 | ⭐ 29,796 | 2026-08-01 | 2026-09-03 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 12 | ⭐ 15,332 | 2026-08-02 | 2026-09-03 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 11 | ⭐ 38,411 | 2026-08-01 | 2026-09-01 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 11 | ⭐ 15,051 | 2026-08-02 | 2026-08-25 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | 10 | ⭐ 3,639 | 2026-08-01 | 2026-09-03 |
 | [microsoft/aspire](../repos/microsoft/aspire.md) | 10 | ⭐ 6,270 | 2026-08-05 | 2026-08-27 |
-| [microsoft/mcp](../repos/microsoft/mcp.md) | 9 | ⭐ 3,622 | 2026-08-01 | 2026-08-29 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 9 | ⭐ 14,032 | 2026-08-01 | 2026-09-01 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.616Z*
+*Last updated: 2026-09-03T21:01:49.898Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 112
+- **Total Repositories**: 113
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [node-red/node-red](../repos/node-red/node-red.md) | ⭐ 23,614 | 2026-08-01 | 2 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,993 | 2026-08-05 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 43,692 | 2026-08-04 | 16 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 65,306 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,694 | 2026-08-05 | 14 |
+| [zarazhangrui/follow-builders](../repos/zarazhangrui/follow-builders.md) | ⭐ 6,605 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 64,966 | 2026-08-05 | 7 |
+| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 38,608 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,711 | 2026-08-08 | 2 |
+| [openai/plugins](../repos/openai/plugins.md) | ⭐ 5,360 | 2026-08-27 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [plankanban/planka](../repos/plankanban/planka.md) | ⭐ 12,484 | 2026-08-11 | 4 |
+| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 6,436 | 2026-08-29 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) | ⭐ 28,619 | 2026-08-12 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 3,084 | 2026-08-14 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) | ⭐ 7,801 | 2026-08-14 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [carbon-design-system/carbon](../repos/carbon-design-system/carbon.md) | ⭐ 9,409 | 2026-08-15 | 2 |
+| [facebook/stylex](../repos/facebook/stylex.md) | ⭐ 10,104 | 2026-09-03 | 1 |
 
 
 ---
@@ -52,34 +43,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splittin... |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,993 | 2026-08-05 | Production-grade engineering skills for AI coding agents. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [greensock/GSAP](../repos/greensock/GSAP.md) | ⭐ 27,405 | 2026-08-04 | GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 65,306 | 2026-08-05 | The design language that makes your AI harness better at design. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | Fast, unopinionated, minimalist web framework for node. |
+| [eze-is/web-access](../repos/eze-is/web-access.md) | ⭐ 8,811 | 2026-08-05 | 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [projectdiscovery/nuclei-templates](../repos/projectdiscovery/nuclei-templates.md) | ⭐ 12,872 | 2026-08-04 | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
+| [xuanyustudio/LocalMiniDrama](../repos/xuanyustudio/LocalMiniDrama.md) | ⭐ 1,285 | 2026-08-05 | 🎬 seedance2接入  开源本地 AI 短剧 &amp; 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-sou... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | Clean Code concepts adapted for JavaScript |
+| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | ⭐ 1,000 | 2026-08-05 | Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Managem... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [worldwonderer/oh-story-claudecode](../repos/worldwonderer/oh-story-claudecode.md) | ⭐ 5,980 | 2026-08-04 | 网文&#x2F;小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-f... |
+| [zotero/zotero](../repos/zotero/zotero.md) | ⭐ 14,882 | 2026-08-05 | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [react/react](../repos/react/react.md) | ⭐ 247,637 | 2026-08-04 | The library for web and native user interfaces. |
+| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | 2026-08-06 | Java 面试 &amp; 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 43,692 | 2026-08-04 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle ... |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,694 | 2026-08-05 | Production-grade engineering skills for AI coding agents. |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 39,289 | 2026-08-06 | Free, simple, and intuitive online database diagram editor and SQL generator. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 64,966 | 2026-08-05 | The design language that makes your AI harness better at design. |
+| [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | Set up a modern web app by running one command. |
 
 
 ---
@@ -96,11 +87,11 @@
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,694 | 2026-08-05 | 14 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,993 | 2026-08-05 | 15 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 64,966 | 2026-08-05 | 7 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 65,306 | 2026-08-05 | 8 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,500 | 2026-08-01 | 12 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,420 | 2026-08-11 | 4 |
@@ -116,11 +107,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 16 | ⭐ 43,692 | 2026-08-04 | 2026-09-02 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 14 | ⭐ 91,694 | 2026-08-05 | 2026-09-02 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 15 | ⭐ 91,993 | 2026-08-05 | 2026-09-03 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 12 | ⭐ 24,188 | 2026-08-01 | 2026-08-28 |
 | [byoungd/up](../repos/byoungd/up.md) | 12 | ⭐ 61,500 | 2026-08-01 | 2026-08-25 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 8 | ⭐ 141,962 | 2026-07-30 | 2026-08-27 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 7 | ⭐ 64,966 | 2026-08-05 | 2026-09-02 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 8 | ⭐ 65,306 | 2026-08-05 | 2026-09-03 |
 | [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | 6 | ⭐ 1,000 | 2026-08-05 | 2026-08-29 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 6 | ⭐ 39,289 | 2026-08-06 | 2026-08-27 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 6 | ⭐ 1,584 | 2026-08-07 | 2026-08-22 |
@@ -233,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.653Z*
+*Last updated: 2026-09-03T21:01:49.933Z*

@@ -14,13 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 728 | 2026-08-01 | 27 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) | ⭐ 200 | 2026-09-02 | 1 |
 
+*No Julia repositories trending today*
 
 ---
 
@@ -125,4 +120,4 @@
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.655Z*
+*Last updated: 2026-09-03T21:01:49.935Z*

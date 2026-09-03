@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,831 | 2026-08-01 | 16 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,839 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,353 | 2026-08-01 | 8 |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,356 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,197 | 2026-08-01 | 9 |
+| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | ⭐ 371 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,244 | 2026-08-01 | 14 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 435 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [inovector/mixpost](../repos/inovector/mixpost.md) | ⭐ 3,650 | 2026-08-01 | 7 |
+| [ljxi/Cloudflare-R2-oss](../repos/ljxi/Cloudflare-R2-oss.md) | ⭐ 515 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,344 | 2026-08-01 | 22 |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 1,835 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,587 | 2026-08-02 | 11 |
+| [imsyy/yt-dlp-gui](../repos/imsyy/yt-dlp-gui.md) | ⭐ 290 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 1,832 | 2026-08-02 | 12 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,564 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,305 | 2026-08-03 | 10 |
+| [frappe/lms](../repos/frappe/lms.md) | ⭐ 3,184 | 2026-08-06 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,277 | 2026-08-04 | 7 |
+| [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 5,839 | 2026-08-07 | 10 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,277 | 2026-08-04 | Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hslr-s/sun-panel](../repos/hslr-s/sun-panel.md) | ⭐ 5,255 | 2026-08-04 | A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [DependencyTrack/frontend](../repos/DependencyTrack/frontend.md) | ⭐ 168 | 2026-08-04 | Frontend UI for Dependency-Track |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [luckjiawei/frpc-desktop](../repos/luckjiawei/frpc-desktop.md) | ⭐ 6,811 | 2026-08-04 | Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration! |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [un-pany/v3-admin-vite](../repos/un-pany/v3-admin-vite.md) | ⭐ 7,018 | 2026-08-04 | ☀️ AI-friendly Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [jumpserver/lina](../repos/jumpserver/lina.md) | ⭐ 233 | 2026-08-05 | Lina is the JumpServer Web UI |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,456 | 2026-08-05 | Next Generation Vue UI Component Library |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [frappe/lms](../repos/frappe/lms.md) | ⭐ 3,180 | 2026-08-06 | Easy to Use, 100% Open Source Learning Management System |
+| [frappe/lms](../repos/frappe/lms.md) | ⭐ 3,184 | 2026-08-06 | Easy to Use, 100% Open Source Learning Management System |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 5,804 | 2026-08-07 | A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin ... |
+| [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 5,839 | 2026-08-07 | A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,908 | 2026-08-07 | 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-a... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [freqtrade/frequi](../repos/freqtrade/frequi.md) | ⭐ 1,062 | 2026-08-07 | Freqtrade UI - Frontend for Freqtrade |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,856 | 2026-08-08 | 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！ |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,679 | 2026-08-08 | 🍀 A cross-platform instant messaging desktop application with exceptional performance built on R... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [x2rr/funds](../repos/x2rr/funds.md) | ⭐ 3,212 | 2026-08-08 | 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [chenjigang4167/testhub_platform](../repos/chenjigang4167/testhub_platform.md) | ⭐ 736 | 2026-08-12 | AI-Powered Testing Platform |
 
 
 ---
@@ -92,7 +92,7 @@
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,059 | 2026-08-01 | 8 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,344 | 2026-08-01 | 22 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,244 | 2026-08-01 | 14 |
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,831 | 2026-08-01 | 16 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,839 | 2026-08-01 | 17 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,856 | 2026-08-08 | 9 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,805 | 2026-08-01 | 14 |
@@ -103,9 +103,9 @@
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,047 | 2026-08-20 | 2 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,728 | 2026-08-12 | 2 |
 | [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,538 | 2026-08-17 | 3 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,564 | 2026-08-04 | 8 |
 | [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,305 | 2026-08-03 | 10 |
 | [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,292 | 2026-08-23 | 3 |
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,277 | 2026-08-04 | 7 |
 | [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,844 | 2026-08-03 | 2 |
 | [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,679 | 2026-08-08 | 5 |
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 22 | ⭐ 33,344 | 2026-08-01 | 2026-09-02 |
-| [requarks/wiki](../repos/requarks/wiki.md) | 16 | ⭐ 28,831 | 2026-08-01 | 2026-09-02 |
+| [requarks/wiki](../repos/requarks/wiki.md) | 17 | ⭐ 28,839 | 2026-08-01 | 2026-09-03 |
 | [frappe/crm](../repos/frappe/crm.md) | 16 | ⭐ 3,448 | 2026-08-01 | 2026-09-01 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 15 | ⭐ 435 | 2026-08-02 | 2026-09-03 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 14 | ⭐ 4,099 | 2026-08-01 | 2026-08-29 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 14 | ⭐ 33,244 | 2026-08-01 | 2026-09-02 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 14 | ⭐ 21,805 | 2026-08-01 | 2026-08-29 |
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 14 | ⭐ 434 | 2026-08-02 | 2026-08-29 |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 13 | ⭐ 1,835 | 2026-08-02 | 2026-09-03 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 13 | ⭐ 2,062 | 2026-08-02 | 2026-09-01 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | 12 | ⭐ 21,637 | 2026-08-02 | 2026-09-01 |
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 12 | ⭐ 1,832 | 2026-08-02 | 2026-09-02 |
 
 ---
 
@@ -144,7 +144,7 @@
 - [ElemeFE/element](../repos/ElemeFE/element.md) - A Vue.js 2.0 UI Toolkit for Web
 - [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) - An Open Source YouTube app for privacy
 - [aniyomiorg/aniyomi-website](../repos/aniyomiorg/aniyomi-website.md) - website for aniyomi
-- [ys-ll/uniterm](../repos/ys-ll/uniterm.md) - A lightweight all-in-one terminal with 20+ protocols — SSH, RDP, SFTP, databases, Kubernetes and ...
+- [ys-ll/uniterm](../repos/ys-ll/uniterm.md) - A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and ...
 - [inovector/mixpost](../repos/inovector/mixpost.md) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions,...
 - [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It&#39;s fast!
 - [RikkaApps/websites](../repos/RikkaApps/websites.md) - Websites for Rikka apps.
@@ -207,4 +207,4 @@
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.707Z*
+*Last updated: 2026-09-03T21:01:49.988Z*

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T21:02:17.733Z",
-  "total_repositories": 2925,
-  "trending_today": 414,
-  "new_this_month": 2008,
+  "generated_at": "2026-09-03T21:01:55.208Z",
+  "total_repositories": 2968,
+  "trending_today": 344,
+  "new_this_month": 1838,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-09-02",
+  "last_collection": "2026-09-03",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 29,
+    "trending_days": 30,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "sngyai/Sequoia-X",
-    "stars": 6011,
-    "first_seen": "2026-09-02"
+    "full_name": "ByteByteGoHq/system-design-101",
+    "stars": 88275,
+    "first_seen": "2026-09-03"
   },
   "fastest_growing": {
     "full_name": "openai/whisper",
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 44123616,
-  "avg_stars": 15085,
-  "avg_trending_days": 4.2,
+  "total_stars": 44676372,
+  "avg_stars": 15053,
+  "avg_trending_days": 4.3,
   "language_count": 54,
-  "topic_count": 8126,
+  "topic_count": 8170,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [MoganLab/mogan](../repos/MoganLab/mogan.md) | ⭐ 573 | 2026-08-05 | 2 |
 
+*No Scheme repositories trending today*
 
 ---
 
@@ -61,4 +59,4 @@
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.692Z*
+*Last updated: 2026-09-03T21:01:49.973Z*

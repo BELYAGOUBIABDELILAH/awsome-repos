@@ -13,12 +13,12 @@
 | **Language** | Nim |
 | **License** | Other |
 | **Stars** | ⭐ 661 |
-| **Forks** | 🍴 329 |
-| **Trending Days** | 6 |
+| **Forks** | 🍴 335 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 15, 2026 |
+| **Last Seen** | Sep 3, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 5 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`beacon-chain`](../../topics/beacon-chain.md) [`eth2`](../../topics/eth2.md) [`eth2-clients`](../../topics/eth2-clients.md) [`ethereum`](../../topics/ethereum.md) [`hacktoberfest`](../../topics/hacktoberfest.md) [`nim`](../../topics/nim.md) [`nimbus`](../../topics/nimbus.md) [`nimbus-eth2`](../../topics/nimbus-eth2.md) [`proof-of-stake`](../../topics/proof-of-stake.md) [`serenity`](../../topics/serenity.md) 
+[`beacon-chain`](../../topics/beacon-chain.md) [`consensus-layer`](../../topics/consensus-layer.md) [`eth2`](../../topics/eth2.md) [`eth2-clients`](../../topics/eth2-clients.md) [`ethereum`](../../topics/ethereum.md) [`nim`](../../topics/nim.md) [`nimbus`](../../topics/nimbus.md) [`nimbus-eth2`](../../topics/nimbus-eth2.md) [`proof-of-stake`](../../topics/proof-of-stake.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Blockchain &amp; Web3` `Systems Programming` `Developer Tools` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Very Active | 661+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 95&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-02T21:02:14.975Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-09-03T21:01:52.439Z*  
+*Data from 7 trending reports*

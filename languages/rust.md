@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 150
+- **Total Repositories**: 155
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-25
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ankitects/anki](../repos/ankitects/anki.md) | ⭐ 30,231 | 2026-08-02 | 3 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 41,871 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emilk/egui](../repos/emilk/egui.md) | ⭐ 30,363 | 2026-08-02 | 2 |
+| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | ⭐ 18,760 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 41,798 | 2026-08-02 | 5 |
+| [LanRhyme/MicYou](../repos/LanRhyme/MicYou.md) | ⭐ 3,534 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | ⭐ 18,445 | 2026-08-03 | 6 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,437 | 2026-08-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gfx-rs/wgpu](../repos/gfx-rs/wgpu.md) | ⭐ 17,914 | 2026-08-03 | 3 |
+| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 31,695 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EFForg/rayhunter](../repos/EFForg/rayhunter.md) | ⭐ 5,745 | 2026-08-06 | 5 |
+| [pacifio/atlas](../repos/pacifio/atlas.md) | ⭐ 3,122 | 2026-08-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pacifio/atlas](../repos/pacifio/atlas.md) | ⭐ 2,823 | 2026-08-14 | 3 |
+| [arcboxlabs/arcbox](../repos/arcboxlabs/arcbox.md) | ⭐ 2,893 | 2026-09-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 16,933 | 2026-08-14 | 3 |
+| [xai-org/x-algorithm](../repos/xai-org/x-algorithm.md) | ⭐ 32,574 | 2026-09-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [librespot-org/librespot](../repos/librespot-org/librespot.md) | ⭐ 7,071 | 2026-09-02 | 1 |
+| [espanso/espanso](../repos/espanso/espanso.md) | ⭐ 14,410 | 2026-09-03 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [arcboxlabs/arcbox](../repos/arcboxlabs/arcbox.md) | ⭐ 2,343 | 2026-09-02 | 1 |
+| [qufei1993/skills-hub](../repos/qufei1993/skills-hub.md) | ⭐ 1,560 | 2026-09-03 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [quickwit-oss/tantivy](../repos/quickwit-oss/tantivy.md) | ⭐ 15,953 | 2026-08-04 | Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [risingwavelabs/risingwave](../repos/risingwavelabs/risingwave.md) | ⭐ 9,218 | 2026-08-04 | Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PyO3/pyo3](../repos/PyO3/pyo3.md) | ⭐ 15,992 | 2026-08-04 | Rust bindings for the Python interpreter |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rerun-io/rerun](../repos/rerun-io/rerun.md) | ⭐ 11,249 | 2026-08-04 | Visualize, query, and stream to train on multimodal robotics data. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zellij-org/zellij](../repos/zellij-org/zellij.md) | ⭐ 35,050 | 2026-08-04 | A terminal workspace with batteries included |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ovexro/dockpanel](../repos/ovexro/dockpanel.md) | ⭐ 876 | 2026-08-05 | Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git depl... |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [WeaveMindAI/weft](../repos/WeaveMindAI/weft.md) | ⭐ 1,783 | 2026-08-05 | A programming language for AI orchestrations (POC) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | ⭐ 2,575 | 2026-08-05 | cursor-byok is a local implementation of Cursor&#39;s backend. https:&#x2F;&#x2F;docs.leokun.cn&#x2F; |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [warp-tech/warpgate](../repos/warp-tech/warpgate.md) | ⭐ 7,685 | 2026-08-06 | Fully transparent SSH, HTTPS, Kubernetes, database and RDP&#x2F;VNC bastion&#x2F;PAM that doesn&#39;t need addi... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [getzola/zola](../repos/getzola/zola.md) | ⭐ 17,302 | 2026-08-06 | A fast static site generator in a single binary with everything built-in. https:&#x2F;&#x2F;www.getzola.org |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [GCWing/BitFun](../repos/GCWing/BitFun.md) | ⭐ 1,608 | 2026-08-06 | BitFun combines a high-performance agent runtime written in Rust with a polished desktop applicat... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [EFForg/rayhunter](../repos/EFForg/rayhunter.md) | ⭐ 5,745 | 2026-08-06 | Rust tool to detect cell site simulators on an orbic mobile hotspot  |
 
 
 ---
@@ -92,22 +92,22 @@
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 116,205 | 2026-07-30 | 6 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,653 | 2026-08-11 | 6 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 91,388 | 2026-08-09 | 6 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,437 | 2026-08-09 | 7 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 89,217 | 2026-07-31 | 3 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
 | [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 64,633 | 2026-08-20 | 3 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
+| [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,161 | 2026-09-03 | 1 |
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,385 | 2026-08-19 | 5 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,303 | 2026-08-12 | 2 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 47,938 | 2026-08-28 | 1 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 45,967 | 2026-08-28 | 1 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,464 | 2026-08-05 | 4 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 41,798 | 2026-08-02 | 5 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 41,871 | 2026-08-02 | 6 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,341 | 2026-08-02 | 2 |
-| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,444 | 2026-08-05 | 4 |
 
 ---
 
@@ -119,12 +119,12 @@
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 8 | ⭐ 27,494 | 2026-08-03 | 2026-08-23 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 8 | ⭐ 38,707 | 2026-08-10 | 2026-08-28 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 7 | ⭐ 17,401 | 2026-08-01 | 2026-08-29 |
+| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | 7 | ⭐ 18,760 | 2026-08-03 | 2026-09-03 |
 | [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 7 | ⭐ 2,575 | 2026-08-05 | 2026-08-28 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 7 | ⭐ 92,437 | 2026-08-09 | 2026-09-03 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 6 | ⭐ 116,205 | 2026-07-30 | 2026-08-25 |
 | [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 6 | ⭐ 13,249 | 2026-08-01 | 2026-08-19 |
-| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | 6 | ⭐ 18,445 | 2026-08-03 | 2026-09-02 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 6 | ⭐ 91,388 | 2026-08-09 | 2026-08-23 |
-| [oven-sh/bun](../repos/oven-sh/bun.md) | 6 | ⭐ 95,653 | 2026-08-11 | 2026-08-24 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 6 | ⭐ 41,871 | 2026-08-02 | 2026-09-03 |
 
 ---
 
@@ -196,6 +196,7 @@
 - [cloudflare/pingora](../repos/cloudflare/pingora.md) - A library for building fast, reliable and evolvable network services.
 - [pimalaya/himalaya](../repos/pimalaya/himalaya.md) - CLI to manage emails
 - [cloud-hypervisor/cloud-hypervisor](../repos/cloud-hypervisor/cloud-hypervisor.md) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hot...
+- [LanRhyme/MicYou](../repos/LanRhyme/MicYou.md) - MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC.
 - [malisper/pgrust](../repos/malisper/pgrust.md) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 - [rivet-dev/rivet](../repos/rivet-dev/rivet.md) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, a...
 - [iii-hq/iii](../repos/iii-hq/iii.md) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
@@ -229,8 +230,7 @@
 - [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity &#x2F; Codex &#x2F; GitHub Copilot &#x2F; Windsurf &#x2F; Kiro &#x2F; Cursor &#x2F; Gemini-...
 - [waditu/czsc](../repos/waditu/czsc.md) - 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易
 - [kenforthewin/atomic](../repos/kenforthewin/atomic.md) - Self-hosted, semantically-connected personal knowledge base
-- [unionlabs/union](../repos/unionlabs/union.md) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extrem...
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.689Z*
+*Last updated: 2026-09-03T21:01:49.969Z*

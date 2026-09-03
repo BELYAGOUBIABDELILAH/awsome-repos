@@ -1,6 +1,6 @@
 # freescout-help-desk&#x2F;freescout
 
-> FreeScout — Free self-hosted help desk &amp; shared mailbox (Zendesk &#x2F; Help Scout alternative)
+> FreeScout — Free self-hosted omnichannel AI-powered helpdesk &amp; shared mailbox
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;freescout-help-desk&#x2F;freescout) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 4,520 |
-| **Forks** | 🍴 709 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 4,523 |
+| **Forks** | 🍴 712 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 14, 2026 |
-| **Last Seen** | Sep 2, 2026 |
+| **Last Seen** | Sep 3, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 2 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 95&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-02T21:02:16.318Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-09-03T21:01:53.858Z*  
+*Data from 7 trending reports*

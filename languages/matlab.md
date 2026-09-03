@@ -23,9 +23,6 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [CERN/TIGRE](../repos/CERN/TIGRE.md) | ⭐ 795 | 2026-08-04 | TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [mtex-toolbox/mtex](../repos/mtex-toolbox/mtex.md) | ⭐ 376 | 2026-08-14 | MTEX is a free Matlab toolbox for quantitative texture analysis. Homepage: |
 
 
@@ -62,4 +59,4 @@
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.663Z*
+*Last updated: 2026-09-03T21:01:49.943Z*

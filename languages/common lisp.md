@@ -23,12 +23,6 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | Nyxt - the hacker&#39;s browser. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | ⭐ 1,734 | 2026-08-04 | Coalton is an efficient, statically typed functional programming language that supercharges Commo... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,135 | 2026-08-24 | Mirror of Steel Bank Common Lisp (SBCL)&#39;s official repository |
 
 
@@ -68,4 +62,4 @@
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.630Z*
+*Last updated: 2026-09-03T21:01:49.911Z*

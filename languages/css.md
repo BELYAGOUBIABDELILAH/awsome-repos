@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 56
+- **Total Repositories**: 57
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-01
 
@@ -16,46 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,208 | 2026-08-01 | 14 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,215 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,518 | 2026-08-01 | 8 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,422 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 923 | 2026-08-01 | 20 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 27,963 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,420 | 2026-08-01 | 25 |
+| [dend/awesome-product-management](../repos/dend/awesome-product-management.md) | ⭐ 2,338 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,293 | 2026-08-04 | 13 |
+| [CopticScriptorium/corpora](../repos/CopticScriptorium/corpora.md) | ⭐ 50 | 2026-09-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,302 | 2026-09-02 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [CopticScriptorium/corpora](../repos/CopticScriptorium/corpora.md) | ⭐ 50 | 2026-09-02 | 1 |
+| [DeGrandis/canvas-dark-mode](../repos/DeGrandis/canvas-dark-mode.md) | ⭐ 33 | 2026-09-03 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,293 | 2026-08-04 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about c... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [evildmp/diataxis-documentation-framework](../repos/evildmp/diataxis-documentation-framework.md) | ⭐ 1,181 | 2026-08-04 | A systematic approach to creating better documentation. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,795 | 2026-08-04 | Set of icons representing programming languages, designing &amp; development tools |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dend/awesome-product-management](../repos/dend/awesome-product-management.md) | ⭐ 2,295 | 2026-08-04 | 🚀 A curated list of awesome resources for product&#x2F;program managers to learn and grow. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,596 | 2026-08-04 | UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for ev... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,479 | 2026-08-05 | A sample Spring-based application |
@@ -71,6 +53,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,600 | 2026-08-06 | The package of IBM’s typeface, IBM Plex. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [progit/progit2](../repos/progit/progit2.md) | ⭐ 6,551 | 2026-08-06 | Pro Git 2nd Edition |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [karpathy/karpathy.github.io](../repos/karpathy/karpathy.github.io.md) | ⭐ 1,878 | 2026-08-07 | my blog |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [GregTech-Odyssey/GregTech-Odyssey](../repos/GregTech-Odyssey/GregTech-Odyssey.md) | ⭐ 418 | 2026-08-07 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,319 | 2026-08-08 | The Most Complete React UI Component Library |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,768 | 2026-08-08 | Minimal CSS Framework for semantic HTML |
 
 
 ---
@@ -82,11 +79,11 @@
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,767 | 2026-08-06 | 9 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,518 | 2026-08-01 | 8 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,293 | 2026-08-04 | 13 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 27,499 | 2026-08-02 | 15 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 27,963 | 2026-08-02 | 16 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,596 | 2026-08-04 | 3 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,768 | 2026-08-08 | 1 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,208 | 2026-08-01 | 14 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,215 | 2026-08-01 | 15 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,795 | 2026-08-04 | 5 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 11,646 | 2026-08-02 | 17 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,600 | 2026-08-06 | 6 |
@@ -106,12 +103,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 25 | ⭐ 1,420 | 2026-08-01 | 2026-09-02 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 26 | ⭐ 1,422 | 2026-08-01 | 2026-09-03 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 21 | ⭐ 1,408 | 2026-08-01 | 2026-08-29 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 20 | ⭐ 923 | 2026-08-01 | 2026-09-02 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 17 | ⭐ 11,646 | 2026-08-02 | 2026-08-29 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 15 | ⭐ 27,499 | 2026-08-02 | 2026-08-29 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 14 | ⭐ 12,208 | 2026-08-01 | 2026-09-02 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 16 | ⭐ 27,963 | 2026-08-02 | 2026-09-03 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 15 | ⭐ 12,215 | 2026-08-01 | 2026-09-03 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 13 | ⭐ 45,293 | 2026-08-04 | 2026-09-02 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 10 | ⭐ 9,220 | 2026-08-01 | 2026-08-29 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 9 | ⭐ 9,479 | 2026-08-05 | 2026-08-25 |
@@ -177,7 +174,8 @@
 - [apachecn/sklearn-doc-zh](../repos/apachecn/sklearn-doc-zh.md) - :book: [译] scikit-learn（sklearn） 中文文档
 - [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) - 🕶️ Awesome stuff for Obsidian
 - [CopticScriptorium/corpora](../repos/CopticScriptorium/corpora.md) - Public repository for Coptic SCRIPTORIUM Corpora Releases
+- [DeGrandis/canvas-dark-mode](../repos/DeGrandis/canvas-dark-mode.md) - Canvas Dark Mode
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.622Z*
+*Last updated: 2026-09-03T21:01:49.907Z*

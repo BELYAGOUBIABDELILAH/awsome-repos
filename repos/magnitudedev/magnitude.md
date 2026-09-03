@@ -1,6 +1,6 @@
 # magnitudedev&#x2F;magnitude
 
-> Open source agent with local models built in. Fully private and offline. Works out of the box on any hardware.
+> Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;magnitudedev&#x2F;magnitude) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 1,480 |
-| **Forks** | 🍴 109 |
-| **Trending Days** | 2 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 1,897 |
+| **Forks** | 🍴 142 |
+| **Trending Days** | 3 |
+| **Peak Rank** | #14 |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Aug 21, 2026 |
+| **Last Seen** | Sep 3, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Sep 3, 2026** — Rank #14 (+130 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Peak Rank**: #14
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +73,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 50&#x2F;100
+- **Historical Rank**: Peak: #14
 
 
 ---
 
-*Last updated: 2026-09-02T21:02:16.680Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-03T21:01:54.232Z*  
+*Data from 3 trending reports*

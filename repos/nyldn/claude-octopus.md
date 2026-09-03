@@ -1,6 +1,6 @@
 # nyldn&#x2F;claude-octopus
 
-> Surface AI blindspots before you ship. Put up to 8 AI models on every research, design or coding task.
+> Run multiple AI models against the same research, design, or coding task. Surface disagreements before you ship.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;nyldn&#x2F;claude-octopus) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | MIT |
-| **Stars** | ⭐ 3,954 |
-| **Forks** | 🍴 372 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 4,037 |
+| **Forks** | 🍴 378 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Aug 10, 2026 |
+| **Last Seen** | Sep 3, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-02T21:02:15.632Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-03T21:01:53.130Z*  
+*Data from 3 trending reports*

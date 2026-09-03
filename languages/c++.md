@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 199
+- **Total Repositories**: 202
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-28
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,920 | 2026-08-01 | 10 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,988 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,564 | 2026-08-01 | 12 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 10,250 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 10,213 | 2026-08-02 | 5 |
+| [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | ⭐ 15,802 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ceph/ceph](../repos/ceph/ceph.md) | ⭐ 16,995 | 2026-08-03 | 4 |
+| [ceph/ceph](../repos/ceph/ceph.md) | ⭐ 17,000 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 21,728 | 2026-08-06 | 7 |
+| [colmap/colmap](../repos/colmap/colmap.md) | ⭐ 12,642 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,017 | 2026-08-08 | 11 |
+| [tenstorrent/tt-metal](../repos/tenstorrent/tt-metal.md) | ⭐ 1,660 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/WSL](../repos/microsoft/WSL.md) | ⭐ 33,603 | 2026-08-08 | 6 |
+| [fmtlib/fmt](../repos/fmtlib/fmt.md) | ⭐ 25,005 | 2026-08-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [audacity/audacity](../repos/audacity/audacity.md) | ⭐ 17,687 | 2026-08-09 | 2 |
+| [abseil/abseil-cpp](../repos/abseil/abseil-cpp.md) | ⭐ 18,121 | 2026-08-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moonshine-ai/moonshine](../repos/moonshine-ai/moonshine.md) | ⭐ 10,996 | 2026-08-11 | 2 |
+| [project-chip/connectedhomeip](../repos/project-chip/connectedhomeip.md) | ⭐ 8,922 | 2026-08-25 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fmtlib/fmt](../repos/fmtlib/fmt.md) | ⭐ 24,164 | 2026-08-12 | 5 |
+| [M2Team/NanaZip](../repos/M2Team/NanaZip.md) | ⭐ 15,416 | 2026-08-25 | 2 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [catchorg/Catch2](../repos/catchorg/Catch2.md) | ⭐ 21,448 | 2026-08-04 | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (... |
+| [SwagSoftware/KisakCOD](../repos/SwagSoftware/KisakCOD.md) | ⭐ 395 | 2026-08-05 | COD4 Open Source Reimplementation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [carbon-language/carbon-lang](../repos/carbon-language/carbon-lang.md) | ⭐ 33,849 | 2026-08-04 | Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: C... |
+| [mltframework/shotcut](../repos/mltframework/shotcut.md) | ⭐ 15,054 | 2026-08-05 | cross-platform (Qt), open-source (GPLv3) video editor |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [orailnoor/cross-platform-llm-client](../repos/orailnoor/cross-platform-llm-client.md) | ⭐ 1,038 | 2026-08-04 | A unified cross-platform AI client supporting seamless transitions between standard cloud APIs an... |
+| [FEX-Emu/FEX](../repos/FEX-Emu/FEX.md) | ⭐ 7,885 | 2026-08-05 | A fast usermode x86 and x86-64 emulator for Arm64 Linux |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [xournalpp/xournalpp](../repos/xournalpp/xournalpp.md) | ⭐ 15,148 | 2026-08-04 | Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with G... |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,959 | 2026-08-05 | Truly independent web browser |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,299 | 2026-08-04 | GoogleTest - Google Testing and Mocking Framework |
+| [ai-dynamo/nixl](../repos/ai-dynamo/nixl.md) | ⭐ 1,207 | 2026-08-05 | NVIDIA Inference Xfer Library (NIXL) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [react/react-native](../repos/react/react-native.md) | ⭐ 126,441 | 2026-08-04 | A framework for building native applications using React |
+| [MariaDB/server](../repos/MariaDB/server.md) | ⭐ 8,144 | 2026-08-05 | MariaDB server is a community developed fork of MySQL server. Started by core members of the orig... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [deepseek-ai/FlashMLA](../repos/deepseek-ai/FlashMLA.md) | ⭐ 12,817 | 2026-08-04 | FlashMLA: Efficient Multi-head Latent Attention Kernels |
+| [iree-org/iree](../repos/iree-org/iree.md) | ⭐ 3,894 | 2026-08-05 | A retargetable MLIR-based machine learning compiler and runtime toolkit. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/glog](../repos/google/glog.md) | ⭐ 7,392 | 2026-08-04 | C++ implementation of the Google logging module |
+| [envoyproxy/envoy](../repos/envoyproxy/envoy.md) | ⭐ 28,781 | 2026-08-05 | Cloud-native high-performance edge&#x2F;middle&#x2F;service proxy |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [wazuh/wazuh](../repos/wazuh/wazuh.md) | ⭐ 16,593 | 2026-08-04 | Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and clou... |
+| [dyang886/Game-Cheats-Manager](../repos/dyang886/Game-Cheats-Manager.md) | ⭐ 13,970 | 2026-08-05 | Easily download and manage single-player game cheats for your convenience |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [argotorg/solidity](../repos/argotorg/solidity.md) | ⭐ 25,703 | 2026-08-04 | Solidity, the Smart Contract Programming Language |
+| [NVIDIA/nccl](../repos/NVIDIA/nccl.md) | ⭐ 4,982 | 2026-08-05 | Optimized primitives for collective multi-GPU communication |
 
 
 ---
@@ -97,7 +97,7 @@
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,016 | 2026-08-02 | 5 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,293 | 2026-08-12 | 3 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,017 | 2026-08-08 | 11 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,920 | 2026-08-01 | 10 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,988 | 2026-08-01 | 11 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,959 | 2026-08-05 | 8 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
@@ -119,8 +119,8 @@
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 15 | ⭐ 197,766 | 2026-07-30 | 2026-08-28 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 12 | ⭐ 29,564 | 2026-08-01 | 2026-09-02 |
 | [google/googletest](../repos/google/googletest.md) | 12 | ⭐ 39,299 | 2026-08-04 | 2026-08-29 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 11 | ⭐ 71,988 | 2026-08-01 | 2026-09-03 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 11 | ⭐ 76,017 | 2026-08-08 | 2026-09-02 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 10 | ⭐ 71,920 | 2026-08-01 | 2026-09-02 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 9 | ⭐ 472 | 2026-08-01 | 2026-08-26 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 8 | ⭐ 116,297 | 2026-08-01 | 2026-08-28 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 8 | ⭐ 65,959 | 2026-08-05 | 2026-09-01 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.619Z*
+*Last updated: 2026-09-03T21:01:49.902Z*

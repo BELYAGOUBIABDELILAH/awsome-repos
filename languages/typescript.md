@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 173
+- **Total Repositories**: 175
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 50,603 | 2026-08-01 | 5 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 50,829 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 100,973 | 2026-08-07 | 6 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 131,147 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 43,709 | 2026-08-08 | 6 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 101,427 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [browseros-ai/BrowserOS](../repos/browseros-ai/BrowserOS.md) | ⭐ 13,503 | 2026-08-09 | 2 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 60,859 | 2026-08-11 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 70,242 | 2026-08-10 | 4 |
+| [Gitlawb/openclaude](../repos/Gitlawb/openclaude.md) | ⭐ 32,307 | 2026-08-17 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 59,929 | 2026-08-11 | 7 |
+| [rmyndharis/OpenWA](../repos/rmyndharis/OpenWA.md) | ⭐ 13,718 | 2026-08-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [THU-MAIC/OpenMAIC](../repos/THU-MAIC/OpenMAIC.md) | ⭐ 30,459 | 2026-08-15 | 4 |
+| [eneskirca/nodeterm](../repos/eneskirca/nodeterm.md) | ⭐ 1,675 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Gitlawb/openclaude](../repos/Gitlawb/openclaude.md) | ⭐ 31,920 | 2026-08-17 | 3 |
+| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 1,897 | 2026-08-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superset-sh/superset](../repos/superset-sh/superset.md) | ⭐ 13,664 | 2026-08-23 | 2 |
+| [vercel-labs/portless](../repos/vercel-labs/portless.md) | ⭐ 12,042 | 2026-09-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/portless](../repos/vercel-labs/portless.md) | ⭐ 11,673 | 2026-09-02 | 1 |
+| [awslabs/aidlc-workflows](../repos/awslabs/aidlc-workflows.md) | ⭐ 4,322 | 2026-09-03 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cypress-io/cypress](../repos/cypress-io/cypress.md) | ⭐ 50,912 | 2026-08-04 | Fast, easy and reliable testing for anything that runs in a browser. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | Deliver web apps with confidence 🚀 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | A utility-first CSS framework for rapid UI development. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [EveryInc/compound-engineering-plugin](../repos/EveryInc/compound-engineering-plugin.md) | ⭐ 24,672 | 2026-08-04 | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [prisma/prisma](../repos/prisma/prisma.md) | ⭐ 47,526 | 2026-08-04 | Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, Mo... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,436 | 2026-08-04 | The open and composable observability and data visualization platform. Visualize metrics, logs, a... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | This is the repo for Vue 2. For Vue 3, go to https:&#x2F;&#x2F;github.com&#x2F;vuejs&#x2F;core |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [reduxjs/redux](../repos/reduxjs/redux.md) | ⭐ 61,511 | 2026-08-04 | A JS library for predictable global state management |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [facebook/astryx](../repos/facebook/astryx.md) | ⭐ 12,273 | 2026-08-04 | An open source design system that&#39;s fully customizable and agent ready |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [cloudflare/computer](../repos/cloudflare/computer.md) | ⭐ 6,976 | 2026-08-05 | Give your agent a computer 👾 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ln-dev7/circle](../repos/ln-dev7/circle.md) | ⭐ 3,041 | 2026-08-05 | UI - Project management interface inspired by Linear. Built with Next.js and shadcn&#x2F;ui, this appl... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) | ⭐ 372 | 2026-08-05 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternati... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 14,038 | 2026-08-05 | Univer is a full-stack framework for creating and editing spreadsheets &#x2F; word processor &#x2F; present... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [AdventDevInc/kudu](../repos/AdventDevInc/kudu.md) | ⭐ 2,029 | 2026-08-06 | Free Windows, Mac and Linux cleaner, scanner, and more. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [iOfficeAI/AionUi](../repos/iOfficeAI/AionUi.md) | ⭐ 31,664 | 2026-08-06 | Open-source 24&#x2F;7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI A... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [expo/expo](../repos/expo/expo.md) | ⭐ 51,800 | 2026-08-06 | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 58,350 | 2026-08-06 | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project manag... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CherryHQ/cherry-studio](../repos/CherryHQ/cherry-studio.md) | ⭐ 49,894 | 2026-08-06 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) | ⭐ 27,121 | 2026-08-06 | An open-source AI coding agent that lives in your terminal. |
 
 
 ---
@@ -94,11 +94,11 @@
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,112 | 2026-09-01 | 1 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,270 | 2026-08-02 | 4 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 130,028 | 2026-08-02 | 7 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 131,147 | 2026-08-02 | 8 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | 2026-08-17 | 2 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 101,427 | 2026-08-07 | 7 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | 3 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 100,973 | 2026-08-07 | 6 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
@@ -120,11 +120,11 @@
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 10 | ⭐ 27,673 | 2026-08-02 | 2026-08-26 |
 | [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | 8 | ⭐ 131,147 | 2026-08-02 | 2026-09-03 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 8 | ⭐ 60,859 | 2026-08-11 | 2026-09-03 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 7 | ⭐ 130,028 | 2026-08-02 | 2026-08-27 |
-| [stablyai/orca](../repos/stablyai/orca.md) | 7 | ⭐ 59,929 | 2026-08-11 | 2026-09-02 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | 7 | ⭐ 101,427 | 2026-08-07 | 2026-09-03 |
 | [apache/maka](../repos/apache/maka.md) | 7 | ⭐ 3,585 | 2026-08-20 | 2026-08-26 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | 6 | ⭐ 100,973 | 2026-08-07 | 2026-09-02 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.699Z*
+*Last updated: 2026-09-03T21:01:49.980Z*

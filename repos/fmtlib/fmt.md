@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | MIT |
-| **Stars** | ⭐ 24,164 |
-| **Forks** | 🍴 2,981 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 25,005 |
+| **Forks** | 🍴 3,011 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 12, 2026 |
-| **Last Seen** | Sep 2, 2026 |
+| **Last Seen** | Sep 3, 2026 |
 
 
 ---
@@ -44,12 +44,13 @@
 ## Trending Timeline
 
 **Sep 2, 2026** — Rank #1 (+3 ⭐)  
+**Sep 3, 2026** — Rank #1 (+955 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 5
-- **Longest Streak**: 1 days
+- **Trending Days**: 6
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,12 +86,12 @@
 - Check similar projects in C++
 
 #### Metrics
-- **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Hidden Gem**: ✗ No
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-09-02T21:02:16.200Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-09-03T21:01:53.739Z*  
+*Data from 6 trending reports*

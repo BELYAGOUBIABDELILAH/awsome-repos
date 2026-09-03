@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 209
+- **Total Repositories**: 214
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-08-24
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 47,102 | 2026-08-01 | 10 |
+| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 6,342 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 6,280 | 2026-08-01 | 4 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 1,736 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 125,949 | 2026-08-04 | 4 |
+| [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 41,380 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker/compose](../repos/docker/compose.md) | ⭐ 38,116 | 2026-08-04 | 3 |
+| [cli/cli](../repos/cli/cli.md) | ⭐ 46,127 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/github-mcp-server](../repos/github/github-mcp-server.md) | ⭐ 32,672 | 2026-08-05 | 5 |
+| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 11,737 | 2026-08-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [livekit/livekit](../repos/livekit/livekit.md) | ⭐ 20,660 | 2026-08-07 | 2 |
+| [coredns/coredns](../repos/coredns/coredns.md) | ⭐ 14,287 | 2026-08-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [containerd/containerd](../repos/containerd/containerd.md) | ⭐ 21,240 | 2026-08-08 | 5 |
+| [open-telemetry/opentelemetry-collector-contrib](../repos/open-telemetry/opentelemetry-collector-contrib.md) | ⭐ 4,903 | 2026-08-26 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anchore/syft](../repos/anchore/syft.md) | ⭐ 9,503 | 2026-08-11 | 4 |
+| [cloudwego/eino](../repos/cloudwego/eino.md) | ⭐ 12,936 | 2026-08-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [seaweedfs/seaweedfs](../repos/seaweedfs/seaweedfs.md) | ⭐ 34,416 | 2026-08-19 | 2 |
+| [slackhq/nebula](../repos/slackhq/nebula.md) | ⭐ 18,265 | 2026-09-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 11,640 | 2026-08-19 | 3 |
+| [kopia/kopia](../repos/kopia/kopia.md) | ⭐ 14,027 | 2026-09-03 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [moby/moby](../repos/moby/moby.md) | ⭐ 72,001 | 2026-08-04 | The Moby Project - a collaborative project for the container ecosystem to assemble container-base... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 125,949 | 2026-08-04 | Production-Grade Container Scheduling and Management |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) | ⭐ 30,850 | 2026-08-04 | Nuclei is a fast, customizable vulnerability scanner powered by the global security community and... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,033 | 2026-08-04 | Declarative Continuous Deployment for Kubernetes |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | Go implementation of the Ethereum protocol |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [docker/compose](../repos/docker/compose.md) | ⭐ 38,116 | 2026-08-04 | Define and run multi-container applications with Docker |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 26,792 | 2026-08-04 | Beads - A memory upgrade for your coding agent |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zzet/gortex](../repos/zzet/gortex.md) | ⭐ 1,427 | 2026-08-04 | High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi re... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Project-HAMi/HAMi](../repos/Project-HAMi/HAMi.md) | ⭐ 4,226 | 2026-08-04 | Heterogeneous GPU Sharing on Kubernetes |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but wi... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [github/github-mcp-server](../repos/github/github-mcp-server.md) | ⭐ 32,672 | 2026-08-05 | GitHub&#39;s official MCP Server |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [k3s-io/k3s](../repos/k3s-io/k3s.md) | ⭐ 33,792 | 2026-08-05 | Lightweight Kubernetes |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) | ⭐ 3,659 | 2026-08-05 | agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use c... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [authzed/spicedb](../repos/authzed/spicedb.md) | ⭐ 6,928 | 2026-08-05 | Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained aut... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google/osv.dev](../repos/google/osv.dev.md) | ⭐ 2,867 | 2026-08-05 | Open source vulnerability DB and triage service. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [gastownhall/gascity](../repos/gastownhall/gascity.md) | ⭐ 1,075 | 2026-08-05 | Orchestration-builder SDK for multi-agent coding workflows |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [wailsapp/wails](../repos/wailsapp/wails.md) | ⭐ 36,017 | 2026-08-05 | Create beautiful applications using Go |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [coder/coder](../repos/coder/coder.md) | ⭐ 14,086 | 2026-08-06 | Secure environments for developers and their agents |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [DataDog/datadog-agent](../repos/DataDog/datadog-agent.md) | ⭐ 3,696 | 2026-08-06 | Main repository for Datadog Agent |
 
 
 ---
@@ -106,8 +106,8 @@
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,527 | 2026-08-06 | 6 |
+| [gogs/gogs](../repos/gogs/gogs.md) | ⭐ 47,800 | 2026-09-03 | 1 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 47,102 | 2026-08-01 | 10 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 46,694 | 2026-08-01 | 8 |
 
 ---
 
@@ -119,8 +119,8 @@
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 10 | ⭐ 47,102 | 2026-08-01 | 2026-09-02 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 10 | ⭐ 21,123 | 2026-08-01 | 2026-09-01 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 10 | ⭐ 179,343 | 2026-08-01 | 2026-08-24 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 9 | ⭐ 1,736 | 2026-08-02 | 2026-09-03 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 8 | ⭐ 46,694 | 2026-08-01 | 2026-08-19 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 8 | ⭐ 1,702 | 2026-08-02 | 2026-09-01 |
 | [golang/go](../repos/golang/go.md) | 7 | ⭐ 137,097 | 2026-07-31 | 2026-09-01 |
 | [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 7 | ⭐ 37,500 | 2026-08-03 | 2026-09-01 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 7 | ⭐ 89,592 | 2026-08-06 | 2026-08-29 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.642Z*
+*Last updated: 2026-09-03T21:01:49.923Z*

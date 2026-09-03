@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 186
+- **Total Repositories**: 188
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-19
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 240,059 | 2026-08-01 | 12 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 240,766 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [browser-use/video-use](../repos/browser-use/video-use.md) | ⭐ 23,485 | 2026-08-04 | 6 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 114,356 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [blader/humanizer](../repos/blader/humanizer.md) | ⭐ 40,254 | 2026-08-05 | 2 |
+| [blader/humanizer](../repos/blader/humanizer.md) | ⭐ 41,372 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 143,803 | 2026-08-07 | 10 |
+| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 92,978 | 2026-08-10 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superlinked/sie](../repos/superlinked/sie.md) | ⭐ 3,027 | 2026-08-08 | 2 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 173,590 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 92,854 | 2026-08-10 | 5 |
+| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 5,113 | 2026-08-15 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 133,089 | 2026-08-14 | 4 |
+| [google-research/timesfm](../repos/google-research/timesfm.md) | ⭐ 30,663 | 2026-08-16 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-research/timesfm](../repos/google-research/timesfm.md) | ⭐ 29,591 | 2026-08-16 | 2 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 16,108 | 2026-08-22 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 14,493 | 2026-08-22 | 4 |
+| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 45,965 | 2026-09-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 30,158 | 2026-08-29 | 2 |
+| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 58,219 | 2026-09-01 | 3 |
 
 
 ---
@@ -55,31 +55,31 @@
 | [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | 2026-08-10 | Building applications with LLMs through composability |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [uber/ADR](../repos/uber/ADR.md) | ⭐ 1,230 | 2026-08-04 | ADR secures enterprise AI agents through observability, security benchmarking, and threat detecti... |
+| [roboflow/supervision](../repos/roboflow/supervision.md) | ⭐ 48,893 | 2026-08-05 | We write your reusable computer vision tools. 💜 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [browser-use/video-use](../repos/browser-use/video-use.md) | ⭐ 23,485 | 2026-08-04 | Edit videos with coding agents |
+| [Comfy-Org/workflow_templates](../repos/Comfy-Org/workflow_templates.md) | ⭐ 731 | 2026-08-05 | ComfyUI template workflows |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | ⭐ 3,574 | 2026-08-04 | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic ac... |
+| [mpfaffenberger/code_puppy](../repos/mpfaffenberger/code_puppy.md) | ⭐ 743 | 2026-08-05 | Agentic AI for writing code |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Coldcard/firmware](../repos/Coldcard/firmware.md) | ⭐ 752 | 2026-08-04 | ❄️ Firmware and simulator for Coldcard Hardware Wallet |
+| [didilili/ai-agents-from-zero](../repos/didilili/ai-agents-from-zero.md) | ⭐ 3,456 | 2026-08-05 |  🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain &#x2F; Lang... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 56,671 | 2026-08-04 | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| [blader/humanizer](../repos/blader/humanizer.md) | ⭐ 41,372 | 2026-08-05 | Agent skill that removes signs of AI-generated writing from text |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 134,172 | 2026-08-04 | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
+| [NovaSky-AI/SkyRL](../repos/NovaSky-AI/SkyRL.md) | ⭐ 2,126 | 2026-08-05 | SkyRL: A Modular Full-stack RL Library for LLMs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](../repos/RVC-Project/Retrieval-based-Voice-Conversion-WebUI.md) | ⭐ 37,568 | 2026-08-04 | Easily train a good VC model with voice data &lt;&#x3D; 10 mins! |
+| [NVIDIA-NeMo/Speech](../repos/NVIDIA-NeMo/Speech.md) | ⭐ 18,308 | 2026-08-05 | A scalable generative AI framework built for researchers and developers working on Large Language... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pandas-dev/pandas](../repos/pandas-dev/pandas.md) | ⭐ 49,417 | 2026-08-04 | Flexible and powerful data analysis &#x2F; manipulation library for Python, providing labeled data str... |
+| [sierra-research/tau2-bench](../repos/sierra-research/tau2-bench.md) | ⭐ 1,747 | 2026-08-05 | τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [alirezarezvani/claude-skills](../repos/alirezarezvani/claude-skills.md) | ⭐ 23,810 | 2026-08-04 | 345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, cu... |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 129,762 | 2026-08-05 | The most powerful and modular diffusion model GUI, api and backend with a graph&#x2F;nodes interface. |
 
 
 ---
@@ -91,22 +91,22 @@
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 464,529 | 2026-08-01 | 5 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | 2026-08-03 | 5 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | 2026-08-08 | 3 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 240,059 | 2026-08-01 | 12 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 240,766 | 2026-08-01 | 13 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,850 | 2026-08-06 | 6 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 186,102 | 2026-08-02 | 5 |
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 172,058 | 2026-08-11 | 3 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 173,590 | 2026-08-11 | 4 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,572 | 2026-07-31 | 5 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 143,803 | 2026-08-07 | 10 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 134,172 | 2026-08-04 | 2 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 133,089 | 2026-08-14 | 4 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 129,762 | 2026-08-05 | 6 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | 2026-08-01 | 10 |
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 111,962 | 2026-08-03 | 4 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 114,356 | 2026-08-03 | 5 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 110,881 | 2026-08-20 | 3 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 106,298 | 2026-07-31 | 5 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 102,626 | 2026-07-30 | 2 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 101,130 | 2026-08-08 | 6 |
-| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 92,854 | 2026-08-10 | 5 |
+| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 92,978 | 2026-08-10 | 6 |
 | [home-assistant/core](../repos/home-assistant/core.md) | ⭐ 90,140 | 2026-08-27 | 1 |
 
 ---
@@ -115,7 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 12 | ⭐ 240,059 | 2026-08-01 | 2026-09-02 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 13 | ⭐ 240,766 | 2026-08-01 | 2026-09-03 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 10 | ⭐ 118,456 | 2026-08-01 | 2026-08-29 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 10 | ⭐ 41,423 | 2026-08-03 | 2026-09-01 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 10 | ⭐ 143,803 | 2026-08-07 | 2026-09-02 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.681Z*
+*Last updated: 2026-09-03T21:01:49.962Z*

@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 438 | 2026-08-01 | 28 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 439 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 865 | 2026-08-01 | 15 |
+| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 866 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,198 | 2026-08-01 | 21 |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,198 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 960 | 2026-08-01 | 17 |
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 960 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 404 | 2026-08-03 | 5 |
+| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 404 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,747 | 2026-08-04 | 18 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,747 | 2026-08-04 | 19 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,747 | 2026-08-04 | The official repository for the Weather Research and Forecasting (WRF) model |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,672 | 2026-08-04 | Official git repository of Elmer FEM software |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MPAS-Dev/MPAS-Model](../repos/MPAS-Dev/MPAS-Model.md) | ⭐ 311 | 2026-08-07 | Repository for MPAS models and shared framework releases. |
@@ -68,6 +62,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MODFLOW-ORG/modflow6](../repos/MODFLOW-ORG/modflow6.md) | ⭐ 366 | 2026-08-20 | USGS Modular Hydrologic Model |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [fabm-model/fabm](../repos/fabm-model/fabm.md) | ⭐ 94 | 2026-08-26 | The Framework for Aquatic Biogeochemical Models (FABM): a Fortran 2003 programming framework for ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nasa/cea](../repos/nasa/cea.md) | ⭐ 178 | 2026-08-27 | CEA computes the equilibrium composition of mixtures via free-energy minimization, and uses the r... |
 
 
 ---
@@ -77,14 +77,14 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,883 | 2026-08-02 | 3 |
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,747 | 2026-08-04 | 18 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,747 | 2026-08-04 | 19 |
 | [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,672 | 2026-08-04 | 9 |
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,198 | 2026-08-01 | 21 |
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 960 | 2026-08-01 | 17 |
-| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 865 | 2026-08-01 | 15 |
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 438 | 2026-08-01 | 28 |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,198 | 2026-08-01 | 22 |
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 960 | 2026-08-01 | 18 |
+| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 866 | 2026-08-01 | 16 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 439 | 2026-08-01 | 29 |
 | [MFlowCode/MFC](../repos/MFlowCode/MFC.md) | ⭐ 412 | 2026-08-19 | 4 |
-| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 404 | 2026-08-03 | 5 |
+| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 404 | 2026-08-03 | 6 |
 | [MODFLOW-ORG/modflow6](../repos/MODFLOW-ORG/modflow6.md) | ⭐ 366 | 2026-08-20 | 3 |
 | [ESCOMP/CTSM](../repos/ESCOMP/CTSM.md) | ⭐ 352 | 2026-08-09 | 2 |
 | [MPAS-Dev/MPAS-Model](../repos/MPAS-Dev/MPAS-Model.md) | ⭐ 311 | 2026-08-07 | 1 |
@@ -103,16 +103,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 28 | ⭐ 438 | 2026-08-01 | 2026-09-02 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 29 | ⭐ 439 | 2026-08-01 | 2026-09-03 |
 | [NGEET/fates](../repos/NGEET/fates.md) | 25 | ⭐ 130 | 2026-08-02 | 2026-09-01 |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | 22 | ⭐ 1,198 | 2026-08-01 | 2026-09-03 |
 | [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | 22 | ⭐ 54 | 2026-08-02 | 2026-08-28 |
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | 21 | ⭐ 1,198 | 2026-08-01 | 2026-09-02 |
 | [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | 19 | ⭐ 26 | 2026-08-01 | 2026-08-29 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 19 | ⭐ 1,747 | 2026-08-04 | 2026-09-03 |
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | 18 | ⭐ 960 | 2026-08-01 | 2026-09-03 |
 | [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | 18 | ⭐ 43 | 2026-08-01 | 2026-09-01 |
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 18 | ⭐ 1,747 | 2026-08-04 | 2026-09-02 |
 | [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | 17 | ⭐ 31 | 2026-08-01 | 2026-08-29 |
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | 17 | ⭐ 960 | 2026-08-01 | 2026-09-02 |
-| [firemodels/fds](../repos/firemodels/fds.md) | 15 | ⭐ 865 | 2026-08-01 | 2026-09-02 |
+| [firemodels/fds](../repos/firemodels/fds.md) | 16 | ⭐ 866 | 2026-08-01 | 2026-09-03 |
 
 ---
 
@@ -146,4 +146,4 @@
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.640Z*
+*Last updated: 2026-09-03T21:01:49.921Z*

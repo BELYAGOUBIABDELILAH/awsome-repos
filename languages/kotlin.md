@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 129
+- **Total Repositories**: 128
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-01
 
@@ -16,28 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,573 | 2026-08-02 | 4 |
+| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | ⭐ 883 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,248 | 2026-08-02 | 6 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,265 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,571 | 2026-08-03 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 1,015 | 2026-08-04 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [element-hq/element-x-android](../repos/element-hq/element-x-android.md) | ⭐ 2,366 | 2026-08-04 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | ⭐ 5,636 | 2026-08-11 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 942 | 2026-08-19 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [streetcomplete/StreetComplete](../repos/streetcomplete/StreetComplete.md) | ⭐ 4,780 | 2026-09-02 | 1 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 52,110 | 2026-08-06 | 9 |
 
 
 ---
@@ -46,34 +31,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,356 | 2026-08-04 | The Kotlin Programming Language.  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 1,015 | 2026-08-04 | Legado 3.0 Book Reader with powerful controls  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dmzz-yyhyy/LightNovelReader](../repos/dmzz-yyhyy/LightNovelReader.md) | ⭐ 1,910 | 2026-08-04 | 一款基于Compose的多数据源轻小说阅读器。支持epub导出，自定义背景样式，本地书架和更新提醒等功能。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cat3399/blbl](../repos/cat3399/blbl.md) | ⭐ 2,560 | 2026-08-04 | 一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [element-hq/element-x-android](../repos/element-hq/element-x-android.md) | ⭐ 2,366 | 2026-08-04 | Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [woocommerce/woocommerce-android](../repos/woocommerce/woocommerce-android.md) | ⭐ 317 | 2026-08-04 | WooCommerce Android app |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [getsentry/sentry-java](../repos/getsentry/sentry-java.md) | ⭐ 1,349 | 2026-08-04 | A Sentry SDK for Java, Android and other JVM languages. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 1,738 | 2026-08-04 | A Minecraft: Java Edition Launcher for Android |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [cwuom/NeriPlayer](../repos/cwuom/NeriPlayer.md) | ⭐ 3,174 | 2026-08-05 | A native Android audio player that combines multi-source streaming, local control, rich lyrics, a... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 722 | 2026-08-05 | WeChat, now with superpowers |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mpv-android/mpv-android](../repos/mpv-android/mpv-android.md) | ⭐ 3,470 | 2026-08-05 | Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,414 | 2026-08-05 | Official Jetpack Compose samples. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,290 | 2026-08-05 | Bitwarden mobile apps (Password Manager and Authenticator) for Android. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [prof18/feed-flow](../repos/prof18/feed-flow.md) | ⭐ 1,088 | 2026-08-05 | FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,262 | 2026-08-05 | A private messenger for Android. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [aws/aws-sdk-kotlin](../repos/aws/aws-sdk-kotlin.md) | ⭐ 501 | 2026-08-05 | Multiplatform AWS SDK for Kotlin |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 52,110 | 2026-08-06 | 翻墙-科学上网 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [misaka10032w/Han1meViewer](../repos/misaka10032w/Han1meViewer.md) | ⭐ 233 | 2026-08-06 | hanime1的三方客户端，提高了一些播放体验 |
 
 
 ---
@@ -85,7 +70,7 @@
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,543 | 2026-08-03 | 6 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,962 | 2026-08-02 | 9 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,356 | 2026-08-04 | 6 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 50,917 | 2026-08-06 | 8 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 52,110 | 2026-08-06 | 9 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,114 | 2026-08-03 | 4 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,262 | 2026-08-05 | 4 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 29,211 | 2026-08-08 | 8 |
@@ -113,12 +98,12 @@
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 10 | ⭐ 4,386 | 2026-08-02 | 2026-08-26 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 9 | ⭐ 61,962 | 2026-08-02 | 2026-09-01 |
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 9 | ⭐ 722 | 2026-08-05 | 2026-08-29 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 8 | ⭐ 50,917 | 2026-08-06 | 2026-08-27 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 9 | ⭐ 52,110 | 2026-08-06 | 2026-09-03 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 8 | ⭐ 29,211 | 2026-08-08 | 2026-08-22 |
 | [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | 8 | ⭐ 5,636 | 2026-08-11 | 2026-09-02 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 7 | ⭐ 11,215 | 2026-08-02 | 2026-08-27 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 7 | ⭐ 2,265 | 2026-08-02 | 2026-09-03 |
 | [1812z/HyperIsland](../repos/1812z/HyperIsland.md) | 7 | ⭐ 472 | 2026-08-07 | 2026-09-01 |
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 6 | ⭐ 7,237 | 2026-08-02 | 2026-08-28 |
 
 ---
 
@@ -181,7 +166,6 @@
 - [Kotlin/kotlin-lsp](../repos/Kotlin/kotlin-lsp.md) - Kotlin Language Server and plugin for Visual Studio Code
 - [KotatsuApp/Kotatsu](../repos/KotatsuApp/Kotatsu.md) - Manga reader for Android
 - [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) - An alternative frontend for YouTube, for Android.
-- [LanRhyme/MicYou](../repos/LanRhyme/MicYou.md) - MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC.
 - [xororz/local-dream](../repos/xororz/local-dream.md) - Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU&#x2F;GPU i...
 - [samolego/Canta](../repos/samolego/Canta.md) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, ...
 - [jqssun/android-airplay-server](../repos/jqssun/android-airplay-server.md) - First open-source AirPlay receiver implementation for Android with mirroring, video and audio sup...
@@ -224,7 +208,8 @@
 - [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) - A Download Manager that speeds up your downloads
 - [prajwalch/TorrentSearch](../repos/prajwalch/TorrentSearch.md) - An Android app for searching torrents across multiple providers - fast, detailed, and packed with...
 - [Nain57/Smart-AutoClicker](../repos/Nain57/Smart-AutoClicker.md) - An open-source auto clicker on images for Android
+- [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) - 一款虚拟定位软件，主要是定位，路线模拟什么的，比较随缘，其实更新也随缘，功能也是看心情
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.658Z*
+*Last updated: 2026-09-03T21:01:49.938Z*

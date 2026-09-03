@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,810 | 2026-08-01 | 18 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,815 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | ⭐ 3,018 | 2026-08-01 | 5 |
+| [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 6,804 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,572 | 2026-08-04 | 5 |
+| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,616 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,134 | 2026-08-04 | 9 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,769 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,495 | 2026-08-07 | 15 |
+| [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) | ⭐ 4,037 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,799 | 2026-08-07 | 5 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,801 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,585 | 2026-08-08 | 4 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,100 | 2026-08-20 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,085 | 2026-08-11 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,089 | 2026-08-20 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,448 | 2026-08-20 | 6 |
 
 
 ---
@@ -52,34 +46,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [openshift/release](../repos/openshift/release.md) | ⭐ 325 | 2026-08-04 | Release tooling for OpenShift |
+| [pgsty/pigsty](../repos/pgsty/pigsty.md) | ⭐ 5,474 | 2026-08-05 | Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 500... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 7,333 | 2026-08-04 | Claude Code skill to support Android app&#39;s reverse engineering |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,769 | 2026-08-05 | Skills for teaching agents how to build on Cloudflare. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,572 | 2026-08-04 | A pure Unix shell script ACME client for SSL &#x2F; TLS certificate automation |
+| [docker-library/official-images](../repos/docker-library/official-images.md) | ⭐ 6,988 | 2026-08-05 | Primary source of truth for the Docker &quot;Official Images&quot; program |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,306 | 2026-08-04 | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版... |
+| [n8n-io/skills](../repos/n8n-io/skills.md) | ⭐ 462 | 2026-08-06 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,593 | 2026-08-04 | OSS-Fuzz - continuous fuzzing for open source software. |
+| [1N3/Sn1per](../repos/1N3/Sn1per.md) | ⭐ 11,166 | 2026-08-06 | Automated penetration testing &amp; attack surface management platform. Recon, scan, exploit, report ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [longhorn/longhorn](../repos/longhorn/longhorn.md) | ⭐ 7,905 | 2026-08-04 | Cloud-Native distributed storage built on and for Kubernetes |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,015 | 2026-08-06 | Windows inside a Docker container. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [super-linter/super-linter](../repos/super-linter/super-linter.md) | ⭐ 10,565 | 2026-08-04 | Combination of multiple linters to run as a GitHub Action or standalone |
+| [hestiacp/hestiacp](../repos/hestiacp/hestiacp.md) | ⭐ 4,474 | 2026-08-06 | Hestia Control Panel | A lightweight and powerful control panel for the modern web. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,134 | 2026-08-04 | GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  |
+| [PolyArch/humanize](../repos/PolyArch/humanize.md) | ⭐ 1,373 | 2026-08-06 | From Automated Idea Factory to Realization |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [marcusquinn/aidevops](../repos/marcusquinn/aidevops.md) | ⭐ 363 | 2026-08-04 | Vibe-Coding is easy. DevOps is hard. OpenCode &amp; Git token-efficient AI agent automation for your ... |
+| [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) | ⭐ 4,037 | 2026-08-06 | Run multiple AI models against the same research, design, or coding task. Surface disagreements b... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [orbstack/orbstack](../repos/orbstack/orbstack.md) | ⭐ 9,134 | 2026-08-04 | Fast, light, simple Docker containers &amp; Linux machines |
+| [bitnami/containers](../repos/bitnami/containers.md) | ⭐ 4,446 | 2026-08-06 | Bitnami container images |
 
 
 ---
@@ -89,7 +83,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,810 | 2026-08-01 | 18 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,815 | 2026-08-01 | 19 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,306 | 2026-08-04 | 4 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,015 | 2026-08-06 | 7 |
@@ -97,7 +91,7 @@
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 34,686 | 2026-08-29 | 1 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,089 | 2026-08-20 | 5 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,100 | 2026-08-20 | 6 |
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,550 | 2026-09-02 | 1 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,582 | 2026-08-04 | 9 |
@@ -116,7 +110,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 18 | ⭐ 94,810 | 2026-08-01 | 2026-09-02 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 19 | ⭐ 94,815 | 2026-08-01 | 2026-09-03 |
 | [expo/skills](../repos/expo/skills.md) | 15 | ⭐ 2,495 | 2026-08-07 | 2026-09-02 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 13 | ⭐ 4,378 | 2026-08-01 | 2026-09-01 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 9 | ⭐ 11,134 | 2026-08-04 | 2026-09-02 |
@@ -171,7 +165,7 @@
 - [dockur/windows](../repos/dockur/windows.md) - Windows inside a Docker container.
 - [hestiacp/hestiacp](../repos/hestiacp/hestiacp.md) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
 - [PolyArch/humanize](../repos/PolyArch/humanize.md) - From Automated Idea Factory to Realization
-- [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) - Surface AI blindspots before you ship. Put up to 8 AI models on every research, design or coding ...
+- [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) - Run multiple AI models against the same research, design, or coding task. Surface disagreements b...
 - [bitnami/containers](../repos/bitnami/containers.md) - Bitnami container images
 - [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) - A Zsh theme
 - [expo/skills](../repos/expo/skills.md) - A collection of AI agent skills for working with Expo projects and Expo Application Services
@@ -226,4 +220,4 @@
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.694Z*
+*Last updated: 2026-09-03T21:01:49.974Z*

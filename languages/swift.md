@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 91
+- **Total Repositories**: 92
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-27
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,766 | 2026-08-01 | 11 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,793 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 6,257 | 2026-08-01 | 9 |
+| [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,758 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,709 | 2026-08-01 | 7 |
+| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,327 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,250 | 2026-08-01 | 7 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,750 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | ⭐ 10,351 | 2026-08-03 | 5 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,287 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,861 | 2026-08-04 | 8 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,866 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Starmel/OpenSuperWhisper](../repos/Starmel/OpenSuperWhisper.md) | ⭐ 2,776 | 2026-08-10 | 3 |
+| [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,914 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,444 | 2026-08-12 | 5 |
+| [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 1,056 | 2026-08-10 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ronitsingh10/FineTune](../repos/ronitsingh10/FineTune.md) | ⭐ 9,104 | 2026-08-22 | 6 |
+| [openai/tart](../repos/openai/tart.md) | ⭐ 6,661 | 2026-08-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,440 | 2026-08-24 | 4 |
+| [ProxymanApp/TCPViewer](../repos/ProxymanApp/TCPViewer.md) | ⭐ 406 | 2026-09-03 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,630 | 2026-08-04 | Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous e... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,892 | 2026-08-04 | A library for building applications in a consistent and understandable way, with composition, tes... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,510 | 2026-08-04 | Event-driven network application framework for high performance protocol servers &amp; clients, non-b... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [swiftlang/swift-syntax](../repos/swiftlang/swift-syntax.md) | ⭐ 3,687 | 2026-08-04 | A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 5,971 | 2026-08-04 | Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, sche... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [sozercan/kaset](../repos/sozercan/kaset.md) | ⭐ 2,094 | 2026-08-04 | 📼 The missing YouTube and YouTube Music macOS app |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,861 | 2026-08-04 | An iOS library to natively render After Effects vector animations |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [home-assistant/iOS](../repos/home-assistant/iOS.md) | ⭐ 2,284 | 2026-08-04 | :iphone: Home Assistant for Apple platforms |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | Beautiful charts for iOS&#x2F;tvOS&#x2F;OSX! The Apple side of the crossplatform MPAndroidChart. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,303 | 2026-08-05 | The Swift Programming Language |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | Firefox for iOS |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Octane0411/open-vibe-island](../repos/Octane0411/open-vibe-island.md) | ⭐ 1,895 | 2026-08-05 | Native macOS control center for AI coding agents — monitor sessions, approve actions, and jump ba... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [erha19/ping-island](../repos/erha19/ping-island.md) | ⭐ 1,031 | 2026-08-05 | A Dynamic Island-style command center for managing all your AI coding agents on macOS. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [h3nock/remux](../repos/h3nock/remux.md) | ⭐ 423 | 2026-08-06 | A native iOS client for remote tmux workspaces, designed to feel natural on iPhone. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,568 | 2026-08-06 | TheBoringNotch: Not so boring notch That Rocks 🎸🎶 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [swiftlang/swift-subprocess](../repos/swiftlang/swift-subprocess.md) | ⭐ 712 | 2026-08-06 | Subprocess is a cross-platform package for spawning processes in Swift. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [matthartman/ghost-pepper](../repos/matthartman/ghost-pepper.md) | ⭐ 3,065 | 2026-08-06 | 100% private on-device voice models for speech-to-text and meeting transcription on macOS |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,219 | 2026-08-06 | A private messenger for iOS. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,380 | 2026-08-07 | A tweak to enhance Spotify experience |
 
 
 ---
@@ -93,8 +93,8 @@
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,843 | 2026-08-12 | 5 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,080 | 2026-09-01 | 1 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,861 | 2026-08-04 | 8 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,709 | 2026-08-01 | 7 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,866 | 2026-08-04 | 9 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,750 | 2026-08-01 | 8 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
 | [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,444 | 2026-08-12 | 5 |
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
@@ -104,7 +104,7 @@
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,440 | 2026-08-24 | 4 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,244 | 2026-08-08 | 6 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,219 | 2026-08-17 | 2 |
-| [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,568 | 2026-08-01 | 1 |
+| [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,758 | 2026-08-01 | 2 |
 | [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,422 | 2026-08-17 | 2 |
 | [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
 | [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,219 | 2026-08-06 | 4 |
@@ -115,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 12 | ⭐ 11,793 | 2026-08-01 | 2026-09-03 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 12 | ⭐ 14,892 | 2026-08-04 | 2026-08-29 |
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 11 | ⭐ 11,766 | 2026-08-01 | 2026-09-02 |
 | [apple/container](../repos/apple/container.md) | 11 | ⭐ 49,580 | 2026-08-01 | 2026-09-01 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 9 | ⭐ 6,257 | 2026-08-01 | 2026-09-02 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 9 | ⭐ 26,866 | 2026-08-04 | 2026-09-03 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 9 | ⭐ 70,303 | 2026-08-05 | 2026-08-27 |
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 8 | ⭐ 26,861 | 2026-08-04 | 2026-09-02 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 7 | ⭐ 26,709 | 2026-08-01 | 2026-09-02 |
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 7 | ⭐ 3,250 | 2026-08-01 | 2026-09-02 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 8 | ⭐ 26,750 | 2026-08-01 | 2026-09-03 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 8 | ⭐ 3,287 | 2026-08-01 | 2026-09-03 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 7 | ⭐ 8,510 | 2026-08-04 | 2026-08-28 |
 | [sozercan/kaset](../repos/sozercan/kaset.md) | 7 | ⭐ 2,094 | 2026-08-04 | 2026-08-21 |
 
@@ -221,7 +221,8 @@
 - [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Us...
 - [cshariq/Sapphire](../repos/cshariq/Sapphire.md) - The all in one mac app that redefines the notch
 - [ninxsoft/Mist](../repos/ninxsoft/Mist.md) - A Mac utility that automatically downloads macOS Firmwares &#x2F; Installers.
+- [ProxymanApp/TCPViewer](../repos/ProxymanApp/TCPViewer.md) - The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark
 
 ---
 
-*Last updated: 2026-09-02T21:02:12.697Z*
+*Last updated: 2026-09-03T21:01:49.977Z*
