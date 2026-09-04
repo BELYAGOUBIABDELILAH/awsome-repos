@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 132
+- **Total Repositories**: 133
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-03
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,796 | 2026-08-01 | 12 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,642 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,516 | 2026-08-01 | 6 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,360 | 2026-08-03 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,639 | 2026-08-01 | 10 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 9,076 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,996 | 2026-08-01 | 6 |
+| [HotCakeX/Harden-Windows-Security](../repos/HotCakeX/Harden-Windows-Security.md) | ⭐ 4,701 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,325 | 2026-08-01 | 5 |
+| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,753 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,350 | 2026-08-02 | 15 |
+| [Azure/azure-sdk-for-net](../repos/Azure/azure-sdk-for-net.md) | ⭐ 6,049 | 2026-08-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 15,332 | 2026-08-02 | 12 |
+| [rocksdanister/lively](../repos/rocksdanister/lively.md) | ⭐ 19,544 | 2026-08-23 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,344 | 2026-08-03 | 13 |
+| [PixiEditor/PixiEditor](../repos/PixiEditor/PixiEditor.md) | ⭐ 8,031 | 2026-09-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 9,019 | 2026-08-04 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,247 | 2026-08-04 | 8 |
+| [umlx5h/LLPlayer](../repos/umlx5h/LLPlayer.md) | ⭐ 4,099 | 2026-09-04 | 1 |
 
 
 ---
@@ -52,34 +49,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mono/SkiaSharp](../repos/mono/SkiaSharp.md) | ⭐ 5,538 | 2026-08-05 | SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google&#39;s Skia Graphics ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dotnet/extensions](../repos/dotnet/extensions.md) | ⭐ 3,196 | 2026-08-05 | This repository contains a suite of libraries that provide facilities commonly needed when creati... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,270 | 2026-08-05 | Aspire is the tool for code-first, extensible, observable dev and deploy. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [win-acme/win-acme](../repos/win-acme/win-acme.md) | ⭐ 5,761 | 2026-08-05 | Automate SSL&#x2F;TLS certificates on Windows with ease |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | ⭐ 13,497 | 2026-08-05 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dremin/RetroBar](../repos/dremin/RetroBar.md) | ⭐ 4,306 | 2026-08-05 | Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mcmonkeyprojects/SwarmUI](../repos/mcmonkeyprojects/SwarmUI.md) | ⭐ 4,478 | 2026-08-05 | SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,509 | 2026-08-05 | Integrate cutting-edge LLM technology quickly and easily into your apps |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Azure/azure-cosmos-dotnet-v3](../repos/Azure/azure-cosmos-dotnet-v3.md) | ⭐ 791 | 2026-08-05 | .NET SDK for Azure Cosmos DB for the core SQL API |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,144 | 2026-08-06 | PowerShell for every system! |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Azure/azure-powershell](../repos/Azure/azure-powershell.md) | ⭐ 4,774 | 2026-08-06 | Microsoft Azure PowerShell |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dotnet/arcade](../repos/dotnet/arcade.md) | ⭐ 726 | 2026-08-06 | Tools that provide common build infrastructure for multiple .NET Foundation projects. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [AIDotNet/OpenDeepWiki](../repos/AIDotNet/OpenDeepWiki.md) | ⭐ 3,520 | 2026-08-06 | OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful kno... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hbashton/DS4Windows](../repos/hbashton/DS4Windows.md) | ⭐ 151 | 2026-08-06 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dotnet/AspNetCore.Docs](../repos/dotnet/AspNetCore.Docs.md) | ⭐ 13,130 | 2026-08-06 | Documentation for ASP.NET Core |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HotCakeX/Harden-Windows-Security](../repos/HotCakeX/Harden-Windows-Security.md) | ⭐ 4,701 | 2026-08-07 | Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [creazyboyone/FastGithub](../repos/creazyboyone/FastGithub.md) | ⭐ 1,347 | 2026-08-07 | FastGithub 是 GitHub 加速神器，解决 GitHub 打不开、用户头像无法加载、releases 无法上传下载、git-clone、git-pull、git-push |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mRemoteNG/mRemoteNG](../repos/mRemoteNG/mRemoteNG.md) | ⭐ 11,083 | 2026-08-07 | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connecti... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Azure/azure-functions-core-tools](../repos/Azure/azure-functions-core-tools.md) | ⭐ 1,459 | 2026-08-07 | Command line tools for Azure Functions |
 
 
 ---
@@ -106,8 +103,8 @@
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,553 | 2026-08-27 | 2 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 24,059 | 2026-08-02 | 18 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,315 | 2026-08-04 | 3 |
-| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 22,564 | 2026-08-02 | 3 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,625 | 2026-08-01 | 6 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,996 | 2026-08-01 | 6 |
 
 ---
 
@@ -117,12 +114,12 @@
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 18 | ⭐ 24,059 | 2026-08-02 | 2026-09-02 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 15 | ⭐ 115,350 | 2026-08-02 | 2026-09-03 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 14 | ⭐ 5,360 | 2026-08-03 | 2026-09-04 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 13 | ⭐ 56,438 | 2026-08-02 | 2026-09-01 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 13 | ⭐ 5,344 | 2026-08-03 | 2026-09-03 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 12 | ⭐ 29,796 | 2026-08-01 | 2026-09-03 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 12 | ⭐ 15,332 | 2026-08-02 | 2026-09-03 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | 11 | ⭐ 3,642 | 2026-08-01 | 2026-09-04 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 11 | ⭐ 38,411 | 2026-08-01 | 2026-09-01 |
-| [microsoft/mcp](../repos/microsoft/mcp.md) | 10 | ⭐ 3,639 | 2026-08-01 | 2026-09-03 |
 | [microsoft/aspire](../repos/microsoft/aspire.md) | 10 | ⭐ 6,270 | 2026-08-05 | 2026-08-27 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 9 | ⭐ 14,032 | 2026-08-01 | 2026-09-01 |
 
@@ -145,7 +142,6 @@
 - [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) - Open Source real-time strategy game engine for early Westwood games such as Command &amp; Conquer: Re...
 - [lucasg/Dependencies](../repos/lucasg/Dependencies.md) - A rewrite of the old legacy software &quot;depends.exe&quot; in C# for Windows devs to troubleshoot dll loa...
 - [microsoft/vstest](../repos/microsoft/vstest.md) - Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console.
-- [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
 - [2dust/v2rayN](../repos/2dust/v2rayN.md) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) - Advanced UX and interoperability extension for Wand (WeMod) app
 - [Jackett/Jackett](../repos/Jackett/Jackett.md) - API Support for your favorite torrent trackers
@@ -230,7 +226,8 @@
 - [umbraco/Umbraco-CMS](../repos/umbraco/Umbraco-CMS.md) - Umbraco is a free and open source .NET content management system helping you deliver delightful d...
 - [YSGStudyHards/DotNetGuide](../repos/YSGStudyHards/DotNetGuide.md) - 🌈【C#&#x2F;.NET&#x2F;.NET Core学习、工作、面试指南】记录、收集和总结C#&#x2F;.NET&#x2F;.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组...
 - [dotnet/orleans](../repos/dotnet/orleans.md) - Cloud Native application framework for .NET
+- [database64128/youtube-dl-wpf](../repos/database64128/youtube-dl-wpf.md) - WPF GUI for youtube-dl and yt-dlp.
 
 ---
 
-*Last updated: 2026-09-03T21:01:49.898Z*
+*Last updated: 2026-09-04T21:32:08.665Z*

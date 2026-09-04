@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 699
+- **Total Repositories**: 710
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-09-03
-- **Average Stars**: 19111
+- **Last Updated**: 2026-09-04
+- **Average Stars**: 19187
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 240,766 | Python |  |
+| [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,032 | TypeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 6,342 | Go |  |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 241,422 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,878 | Java |  |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 47,310 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,796 | C# |  |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,782 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,500 | PHP |  |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 21,340 | Go |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,891 | Java |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,076 | C |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,289 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,091 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,783 | Ruby |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 5,888 | Ruby |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,071 | Ruby |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,470 | Scala |  |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,791 | Ruby |  |
 
 
 ---
@@ -53,16 +53,16 @@
 
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 240,766 | Python | 2026-08-01 | 13 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 241,422 | Python | 2026-08-01 | 14 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 202,134 | TypeScript | 2026-08-11 | 3 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,766 | C++ | 2026-07-30 | 15 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,850 | Python | 2026-08-06 | 6 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | TypeScript | 2026-08-07 | 5 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,572 | Python | 2026-07-31 | 5 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | JavaScript | 2026-08-06 | 2 |
-| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,112 | TypeScript | 2026-09-01 | 1 |
+| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | TypeScript | 2026-09-01 | 2 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | C | 2026-08-07 | 10 |
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 133,089 | Python | 2026-08-14 | 4 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 133,493 | Python | 2026-08-14 | 5 |
 
 ---
 
@@ -70,22 +70,13 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,766 | C++ | 6 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,572 | Python | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 59,900 | Python | 1 |
+| [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,032 | TypeScript | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 240,766 | Python | 2 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 24,188 | JavaScript | 7 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 241,422 | Python | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [paritytech/polkadot-sdk](../repos/paritytech/polkadot-sdk.md) | ⭐ 2,799 | Rust | 1 |
@@ -94,10 +85,19 @@
 | [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 17,401 | Rust | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 47,102 | Go | 1 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 47,310 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [Ed1s0nZ/CyberStrikeAI](../repos/Ed1s0nZ/CyberStrikeAI.md) | ⭐ 6,342 | Go | 3 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,782 | Go | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 21,340 | Go | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 3,891 | Java | 2 |
 
 ---
 
@@ -108,35 +108,39 @@
 | [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | Python | 2026-08-10 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [roboflow/supervision](../repos/roboflow/supervision.md) | ⭐ 48,893 | Python | 2026-08-05 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,850 | Python | 2026-08-06 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [didilili/ai-agents-from-zero](../repos/didilili/ai-agents-from-zero.md) | ⭐ 3,456 | Python | 2026-08-05 |
+| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 73,881 | Python | 2026-08-06 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [blader/humanizer](../repos/blader/humanizer.md) | ⭐ 41,372 | Python | 2026-08-05 |
+| [langchain-ai/open-swe](../repos/langchain-ai/open-swe.md) | ⭐ 10,496 | Python | 2026-08-06 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [NVIDIA-NeMo/Speech](../repos/NVIDIA-NeMo/Speech.md) | ⭐ 18,308 | Python | 2026-08-05 |
+| [Unclecheng-li/VulnClaw](../repos/Unclecheng-li/VulnClaw.md) | ⭐ 2,600 | Python | 2026-08-06 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [sierra-research/tau2-bench](../repos/sierra-research/tau2-bench.md) | ⭐ 1,747 | Python | 2026-08-05 |
+| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | JavaScript | 2026-08-06 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 129,762 | Python | 2026-08-05 |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | JavaScript | 2026-08-06 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [xuanyustudio/LocalMiniDrama](../repos/xuanyustudio/LocalMiniDrama.md) | ⭐ 1,285 | JavaScript | 2026-08-05 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 39,289 | JavaScript | 2026-08-06 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | ⭐ 1,000 | JavaScript | 2026-08-05 |
+| [AdventDevInc/kudu](../repos/AdventDevInc/kudu.md) | ⭐ 2,029 | TypeScript | 2026-08-06 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) | ⭐ 372 | TypeScript | 2026-08-05 |
+| [iOfficeAI/AionUi](../repos/iOfficeAI/AionUi.md) | ⭐ 31,664 | TypeScript | 2026-08-06 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-09-04](../archive/2026/09/2026-09-04.md)
+- 78 repositories trending
+- Top: NousResearch&#x2F;hermes-agent
 
 ### [2026-09-03](../archive/2026/09/2026-09-03.md)
 - 72 repositories trending
@@ -154,10 +158,6 @@
 - 76 repositories trending
 - Top: ggml-org&#x2F;llama.cpp
 
-### [2026-08-28](../archive/2026/08/2026-08-28.md)
-- 105 repositories trending
-- Top: tensorflow&#x2F;tensorflow
-
 
 ---
 
@@ -167,32 +167,32 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 30 days | 2026-08-01 | 2026-09-03 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 28 days | 2026-08-01 | 2026-09-03 |
-| [joernio/joern](../repos/joernio/joern.md) | 26 days | 2026-08-01 | 2026-09-03 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 26 days | 2026-08-02 | 2026-09-02 |
+| [apache/spark](../repos/apache/spark.md) | 31 days | 2026-08-01 | 2026-09-04 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 29 days | 2026-08-01 | 2026-09-04 |
+| [joernio/joern](../repos/joernio/joern.md) | 27 days | 2026-08-01 | 2026-09-04 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 27 days | 2026-08-02 | 2026-09-04 |
+| [vim/vim](../repos/vim/vim.md) | 26 days | 2026-08-01 | 2026-09-04 |
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 25 days | 2026-08-01 | 2026-09-03 |
-| [vim/vim](../repos/vim/vim.md) | 25 days | 2026-08-01 | 2026-09-03 |
-| [emqx/emqx](../repos/emqx/emqx.md) | 24 days | 2026-08-01 | 2026-09-03 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 22 days | 2026-08-01 | 2026-09-03 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 22 days | 2026-08-01 | 2026-09-02 |
-| [sainnhe/everforest](../repos/sainnhe/everforest.md) | 22 days | 2026-08-01 | 2026-09-02 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 25 days | 2026-08-01 | 2026-09-04 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 23 days | 2026-08-01 | 2026-09-04 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 23 days | 2026-08-01 | 2026-09-04 |
+| [sainnhe/everforest](../repos/sainnhe/everforest.md) | 23 days | 2026-08-01 | 2026-09-04 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 94 repositories (13%)
-- **Go**: 83 repositories (12%)
-- **TypeScript**: 67 repositories (10%)
+- **Python**: 97 repositories (14%)
+- **Go**: 86 repositories (12%)
+- **TypeScript**: 68 repositories (10%)
 - **C++**: 45 repositories (6%)
-- **Rust**: 44 repositories (6%)
+- **Rust**: 45 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 84.9 repositories
+- **Daily Average**: 84.7 repositories
 - **Peak Day**: 2026-08-19 (144 repositories)
-- **Growth Rate**: 65% this month
+- **Growth Rate**: 60% this month
 
 ---
 
@@ -206,6 +206,7 @@
 - [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) - An Open Source Machine Learning Framework for Everyone
 - [pytorch/pytorch](../repos/pytorch/pytorch.md) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [huggingface/transformers](../repos/huggingface/transformers.md) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in t...
+- [shadcn-ui/ui](../repos/shadcn-ui/ui.md) - A set of beautifully-designed, accessible components and a code distribution platform. Works with...
 - [anthropics/anthropic-sdk-python](../repos/anthropics/anthropic-sdk-python.md) - SDK for Anthropic&#39;s Claude AI
 - [langchain-ai/langchain](../repos/langchain-ai/langchain.md) - Building applications with LLMs through composability
 - [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...
@@ -302,8 +303,7 @@
 - [openboxes/openboxes](../repos/openboxes/openboxes.md) - OpenBoxes is a warehouse management system designed to manage inventory and track stock movements...
 - [smartcontractkit/chainlink-local](../repos/smartcontractkit/chainlink-local.md) - The Chainlink CCIP Local Simulator, visit documentation by clicking the link below:
 - [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) - The MATLAB toolbox for MEG, EEG and iEEG analysis
-- [microsoft/generative-ai-for-beginners](../repos/microsoft/generative-ai-for-beginners.md) - 21 Lessons, Get Started Building with Generative AI 
 
 ---
 
-*Last updated: 2026-09-03T21:01:49.654Z*
+*Last updated: 2026-09-04T21:32:08.424Z*

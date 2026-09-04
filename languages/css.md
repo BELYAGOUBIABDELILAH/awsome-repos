@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,215 | 2026-08-01 | 15 |
+| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,239 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,422 | 2026-08-01 | 26 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,423 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 27,963 | 2026-08-02 | 16 |
+| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,414 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dend/awesome-product-management](../repos/dend/awesome-product-management.md) | ⭐ 2,338 | 2026-08-04 | 2 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,497 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CopticScriptorium/corpora](../repos/CopticScriptorium/corpora.md) | ⭐ 50 | 2026-09-02 | 2 |
+| [karpathy/karpathy.github.io](../repos/karpathy/karpathy.github.io.md) | ⭐ 1,889 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeGrandis/canvas-dark-mode](../repos/DeGrandis/canvas-dark-mode.md) | ⭐ 33 | 2026-09-03 | 1 |
+| [Terminus2049/Terminus2049.github.io](../repos/Terminus2049/Terminus2049.github.io.md) | ⭐ 2,324 | 2026-08-20 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [mingw-w64/mingw-w64.github.io](../repos/mingw-w64/mingw-w64.github.io.md) | ⭐ 1,015 | 2026-08-22 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [CopticScriptorium/corpora](../repos/CopticScriptorium/corpora.md) | ⭐ 51 | 2026-09-02 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,479 | 2026-08-05 | A sample Spring-based application |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AumGupta/abyss-jellyfin](../repos/AumGupta/abyss-jellyfin.md) | ⭐ 580 | 2026-08-05 | Minimal Dark Theme for Jellyfin [Customisable] |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tanabe/markdown-live-preview](../repos/tanabe/markdown-live-preview.md) | ⭐ 958 | 2026-08-06 | markdown editor with live preview |
@@ -58,7 +58,7 @@
 | [progit/progit2](../repos/progit/progit2.md) | ⭐ 6,551 | 2026-08-06 | Pro Git 2nd Edition |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [karpathy/karpathy.github.io](../repos/karpathy/karpathy.github.io.md) | ⭐ 1,878 | 2026-08-07 | my blog |
+| [karpathy/karpathy.github.io](../repos/karpathy/karpathy.github.io.md) | ⭐ 1,889 | 2026-08-07 | my blog |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [GregTech-Odyssey/GregTech-Odyssey](../repos/GregTech-Odyssey/GregTech-Odyssey.md) | ⭐ 418 | 2026-08-07 |  |
@@ -68,6 +68,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,768 | 2026-08-08 | Minimal CSS Framework for semantic HTML |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,431 | 2026-08-09 | A design system for building faithful recreations of old UIs |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ZYY817/YuqiEngine](../repos/ZYY817/YuqiEngine.md) | ⭐ 512 | 2026-08-09 | 宇奇引擎 - 游戏性能优化工具 |
 
 
 ---
@@ -89,11 +95,11 @@
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,600 | 2026-08-06 | 6 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,431 | 2026-08-09 | 1 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,497 | 2026-08-05 | 10 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,479 | 2026-08-05 | 9 |
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,302 | 2026-09-02 | 1 |
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,220 | 2026-08-01 | 10 |
-| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,416 | 2026-08-03 | 3 |
+| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,239 | 2026-08-01 | 11 |
+| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,414 | 2026-08-03 | 4 |
 | [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,319 | 2026-08-08 | 7 |
 | [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) | ⭐ 7,332 | 2026-08-24 | 4 |
 
@@ -103,15 +109,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 26 | ⭐ 1,422 | 2026-08-01 | 2026-09-03 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 27 | ⭐ 1,423 | 2026-08-01 | 2026-09-04 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 21 | ⭐ 1,408 | 2026-08-01 | 2026-08-29 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 20 | ⭐ 923 | 2026-08-01 | 2026-09-02 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 17 | ⭐ 11,646 | 2026-08-02 | 2026-08-29 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 16 | ⭐ 27,963 | 2026-08-02 | 2026-09-03 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 15 | ⭐ 12,215 | 2026-08-01 | 2026-09-03 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 13 | ⭐ 45,293 | 2026-08-04 | 2026-09-02 |
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 10 | ⭐ 9,220 | 2026-08-01 | 2026-08-29 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 9 | ⭐ 9,479 | 2026-08-05 | 2026-08-25 |
+| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 11 | ⭐ 9,239 | 2026-08-01 | 2026-09-04 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 10 | ⭐ 9,497 | 2026-08-05 | 2026-09-04 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 9 | ⭐ 82,767 | 2026-08-06 | 2026-09-01 |
 
 ---
@@ -178,4 +184,4 @@
 
 ---
 
-*Last updated: 2026-09-03T21:01:49.907Z*
+*Last updated: 2026-09-04T21:32:08.671Z*

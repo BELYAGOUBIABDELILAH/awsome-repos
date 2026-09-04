@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,044 | 2026-08-01 | 22 |
 
+*No CoffeeScript repositories trending today*
 
 ---
 
@@ -67,4 +65,4 @@
 
 ---
 
-*Last updated: 2026-09-03T21:01:49.910Z*
+*Last updated: 2026-09-04T21:32:08.677Z*

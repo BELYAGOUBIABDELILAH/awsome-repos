@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 128
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-01
+- **Last Updated**: 2026-09-04
 
 ---
 
@@ -16,13 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | ⭐ 883 | 2026-08-02 | 5 |
+| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,285 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,265 | 2026-08-02 | 7 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,281 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 52,110 | 2026-08-06 | 9 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,586 | 2026-08-03 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 1,047 | 2026-08-04 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 52,745 | 2026-08-06 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 29,746 | 2026-08-08 | 9 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,195 | 2026-08-09 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [osfans/trime](../repos/osfans/trime.md) | ⭐ 4,618 | 2026-08-15 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,681 | 2026-08-17 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [The412Banner/Bannerlator](../repos/The412Banner/Bannerlator.md) | ⭐ 244 | 2026-08-26 | 2 |
 
 
 ---
@@ -31,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cwuom/NeriPlayer](../repos/cwuom/NeriPlayer.md) | ⭐ 3,174 | 2026-08-05 | A native Android audio player that combines multi-source streaming, local control, rich lyrics, a... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 722 | 2026-08-05 | WeChat, now with superpowers |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mpv-android/mpv-android](../repos/mpv-android/mpv-android.md) | ⭐ 3,470 | 2026-08-05 | Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,414 | 2026-08-05 | Official Jetpack Compose samples. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,290 | 2026-08-05 | Bitwarden mobile apps (Password Manager and Authenticator) for Android. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [prof18/feed-flow](../repos/prof18/feed-flow.md) | ⭐ 1,088 | 2026-08-05 | FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,262 | 2026-08-05 | A private messenger for Android. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [aws/aws-sdk-kotlin](../repos/aws/aws-sdk-kotlin.md) | ⭐ 501 | 2026-08-05 | Multiplatform AWS SDK for Kotlin |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 52,110 | 2026-08-06 | 翻墙-科学上网 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 52,745 | 2026-08-06 | 翻墙-科学上网 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [misaka10032w/Han1meViewer](../repos/misaka10032w/Han1meViewer.md) | ⭐ 233 | 2026-08-06 | hanime1的三方客户端，提高了一些播放体验 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Kotlin/kotlin-lsp](../repos/Kotlin/kotlin-lsp.md) | ⭐ 3,459 | 2026-08-06 | Kotlin Language Server and plugin for Visual Studio Code |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [KotatsuApp/Kotatsu](../repos/KotatsuApp/Kotatsu.md) | ⭐ 8,827 | 2026-08-06 | Manga reader for Android |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,536 | 2026-08-06 | An alternative frontend for YouTube, for Android. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [xororz/local-dream](../repos/xororz/local-dream.md) | ⭐ 3,180 | 2026-08-07 | Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU&#x2F;GPU i... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [samolego/Canta](../repos/samolego/Canta.md) | ⭐ 5,473 | 2026-08-07 | Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jqssun/android-airplay-server](../repos/jqssun/android-airplay-server.md) | ⭐ 190 | 2026-08-07 | First open-source AirPlay receiver implementation for Android with mirroring, video and audio sup... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [1812z/HyperIsland](../repos/1812z/HyperIsland.md) | ⭐ 472 | 2026-08-07 | HyperOS  Dynamic  Island Enhancer |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 29,746 | 2026-08-08 | Using system APIs directly with adb&#x2F;root privileges from normal apps through a Java process start... |
 
 
 ---
@@ -67,13 +88,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,543 | 2026-08-03 | 6 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,586 | 2026-08-03 | 7 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 61,962 | 2026-08-02 | 9 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,356 | 2026-08-04 | 6 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 52,110 | 2026-08-06 | 9 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 52,745 | 2026-08-06 | 10 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,114 | 2026-08-03 | 4 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 29,746 | 2026-08-08 | 9 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,262 | 2026-08-05 | 4 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 29,211 | 2026-08-08 | 8 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,730 | 2026-08-11 | 3 |
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,596 | 2026-08-12 | 2 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,414 | 2026-08-05 | 3 |
@@ -81,10 +102,10 @@
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,573 | 2026-08-02 | 4 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,736 | 2026-08-01 | 5 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,326 | 2026-08-12 | 3 |
-| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,288 | 2026-08-17 | 1 |
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,681 | 2026-08-17 | 2 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,474 | 2026-08-02 | 4 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,536 | 2026-08-06 | 6 |
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,215 | 2026-08-02 | 7 |
+| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,285 | 2026-08-02 | 8 |
 | [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,197 | 2026-08-10 | 3 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,571 | 2026-08-03 | 6 |
 
@@ -96,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 10 | ⭐ 23,068 | 2026-08-01 | 2026-08-23 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 10 | ⭐ 4,386 | 2026-08-02 | 2026-08-26 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 10 | ⭐ 52,745 | 2026-08-06 | 2026-09-04 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 9 | ⭐ 61,962 | 2026-08-02 | 2026-09-01 |
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 9 | ⭐ 722 | 2026-08-05 | 2026-08-29 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 9 | ⭐ 52,110 | 2026-08-06 | 2026-09-03 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 8 | ⭐ 29,211 | 2026-08-08 | 2026-08-22 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 9 | ⭐ 29,746 | 2026-08-08 | 2026-09-04 |
+| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 8 | ⭐ 11,285 | 2026-08-02 | 2026-09-04 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 8 | ⭐ 2,281 | 2026-08-02 | 2026-09-04 |
 | [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | 8 | ⭐ 5,636 | 2026-08-11 | 2026-09-02 |
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 7 | ⭐ 11,215 | 2026-08-02 | 2026-08-27 |
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 7 | ⭐ 2,265 | 2026-08-02 | 2026-09-03 |
-| [1812z/HyperIsland](../repos/1812z/HyperIsland.md) | 7 | ⭐ 472 | 2026-08-07 | 2026-09-01 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 7 | ⭐ 62,586 | 2026-08-03 | 2026-09-04 |
 
 ---
 
@@ -212,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-03T21:01:49.938Z*
+*Last updated: 2026-09-04T21:32:08.707Z*

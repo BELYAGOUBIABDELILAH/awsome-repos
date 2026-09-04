@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | ⭐ 3,091 | 2026-08-01 | 26 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,909 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 416 | 2026-08-01 | 24 |
+| [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | ⭐ 3,091 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | ⭐ 436 | 2026-08-01 | 28 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 417 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,720 | 2026-08-01 | 21 |
+| [aws/aws-lc](../repos/aws/aws-lc.md) | ⭐ 827 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hiteshchoudhary/open-source-contribution](../repos/hiteshchoudhary/open-source-contribution.md) | ⭐ 539 | 2026-08-01 | 8 |
+| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | ⭐ 436 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,228 | 2026-08-01 | 20 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,720 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,411 | 2026-08-01 | 28 |
+| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,228 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PlummersSoftwareLLC/TinyRetroPad](../repos/PlummersSoftwareLLC/TinyRetroPad.md) | ⭐ 1,750 | 2026-08-04 | 15 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,416 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 3,850 | 2026-08-04 | 18 |
+| [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 11,944 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [livekit/rust-sdks](../repos/livekit/rust-sdks.md) | ⭐ 486 | 2026-08-04 | 18 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 3,856 | 2026-08-04 | 19 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pq-code-package/mldsa-native](../repos/pq-code-package/mldsa-native.md) | ⭐ 99 | 2026-08-05 | Secure, fast, and portable C90 implementation of ML-DSA &#x2F; FIPS 204 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [z88dk/z88dk](../repos/z88dk/z88dk.md) | ⭐ 1,131 | 2026-08-06 | The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libra... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Cpasjuste/pemu](../repos/Cpasjuste/pemu.md) | ⭐ 508 | 2026-08-22 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [joaorb64/smashremix-plus-extra](../repos/joaorb64/smashremix-plus-extra.md) | ⭐ 114 | 2026-08-24 | Modding engine for Smash Remix |
 
 
 ---
@@ -89,21 +89,21 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,694 | 2026-08-01 | 22 |
-| [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 11,941 | 2026-08-02 | 14 |
+| [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 11,944 | 2026-08-02 | 15 |
 | [kanaka/mal](../repos/kanaka/mal.md) | ⭐ 10,722 | 2026-08-11 | 4 |
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,411 | 2026-08-01 | 28 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,416 | 2026-08-01 | 29 |
 | [below/HelloSilicon](../repos/below/HelloSilicon.md) | ⭐ 4,987 | 2026-09-02 | 1 |
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,902 | 2026-08-01 | 17 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,909 | 2026-08-01 | 18 |
 | [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,107 | 2026-08-01 | 12 |
-| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 3,850 | 2026-08-04 | 18 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 3,856 | 2026-08-04 | 19 |
 | [netwide-assembler/nasm](../repos/netwide-assembler/nasm.md) | ⭐ 3,303 | 2026-09-01 | 2 |
 | [virtualagc/virtualagc](../repos/virtualagc/virtualagc.md) | ⭐ 3,192 | 2026-08-01 | 1 |
-| [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | ⭐ 3,091 | 2026-08-01 | 26 |
+| [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | ⭐ 3,091 | 2026-08-01 | 27 |
 | [SheerSt/pokewilds](../repos/SheerSt/pokewilds.md) | ⭐ 2,877 | 2026-08-03 | 5 |
 | [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,494 | 2026-08-01 | 15 |
-| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,228 | 2026-08-01 | 20 |
+| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,228 | 2026-08-01 | 21 |
 | [PlummersSoftwareLLC/TinyRetroPad](../repos/PlummersSoftwareLLC/TinyRetroPad.md) | ⭐ 1,750 | 2026-08-04 | 15 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,720 | 2026-08-01 | 21 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,720 | 2026-08-01 | 22 |
 | [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,631 | 2026-08-01 | 22 |
 | [cemu-project/cemu_graphic_packs](../repos/cemu-project/cemu_graphic_packs.md) | ⭐ 1,470 | 2026-08-04 | 8 |
 | [riscv-software-src/riscv-tests](../repos/riscv-software-src/riscv-tests.md) | ⭐ 1,238 | 2026-08-01 | 14 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [aws/aws-lc](../repos/aws/aws-lc.md) | 28 | ⭐ 823 | 2026-08-01 | 2026-09-02 |
-| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 28 | ⭐ 436 | 2026-08-01 | 2026-09-03 |
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | 28 | ⭐ 6,411 | 2026-08-01 | 2026-09-03 |
-| [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | 26 | ⭐ 3,091 | 2026-08-01 | 2026-09-03 |
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 24 | ⭐ 416 | 2026-08-01 | 2026-09-03 |
+| [aws/aws-lc](../repos/aws/aws-lc.md) | 29 | ⭐ 827 | 2026-08-01 | 2026-09-04 |
+| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 29 | ⭐ 436 | 2026-08-01 | 2026-09-04 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | 29 | ⭐ 6,416 | 2026-08-01 | 2026-09-04 |
+| [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | 27 | ⭐ 3,091 | 2026-08-01 | 2026-09-04 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 25 | ⭐ 417 | 2026-08-01 | 2026-09-04 |
 | [boostorg/context](../repos/boostorg/context.md) | 23 | ⭐ 367 | 2026-08-01 | 2026-08-29 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 22 | ⭐ 1,720 | 2026-08-01 | 2026-09-04 |
 | [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | 22 | ⭐ 18,694 | 2026-08-01 | 2026-09-02 |
 | [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 22 | ⭐ 1,631 | 2026-08-01 | 2026-09-02 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 21 | ⭐ 1,720 | 2026-08-01 | 2026-09-03 |
-| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | 20 | ⭐ 2,228 | 2026-08-01 | 2026-09-03 |
+| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | 21 | ⭐ 2,228 | 2026-08-01 | 2026-09-04 |
 
 ---
 
@@ -176,4 +176,4 @@
 
 ---
 
-*Last updated: 2026-09-03T21:01:49.889Z*
+*Last updated: 2026-09-04T21:32:08.657Z*

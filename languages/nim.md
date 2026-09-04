@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 9
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-03
+- **Last Updated**: 2026-09-04
 
 ---
 
@@ -16,28 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 500 | 2026-08-01 | 9 |
+| [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 500 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,213 | 2026-08-01 | 25 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 661 | 2026-08-02 | 7 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,217 | 2026-08-01 | 26 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [crashappsec/chalk](../repos/crashappsec/chalk.md) | ⭐ 438 | 2026-08-05 | Chalk allows you to follow code from development, through builds and into production. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | ⭐ 248 | 2026-08-05 | Logos Messaging protocols implemented in Nim |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 625 | 2026-08-05 | Nimbus: an Ethereum Execution Client for Resource-Restricted Devices |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | ⭐ 317 | 2026-08-06 | libp2p implementation in Nim |
@@ -55,11 +43,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,213 | 2026-08-01 | 25 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,217 | 2026-08-01 | 26 |
 | [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | ⭐ 1,301 | 2026-08-14 | 2 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 661 | 2026-08-02 | 7 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 625 | 2026-08-05 | 2 |
-| [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 500 | 2026-08-01 | 9 |
+| [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 500 | 2026-08-01 | 10 |
 | [crashappsec/chalk](../repos/crashappsec/chalk.md) | ⭐ 438 | 2026-08-05 | 1 |
 | [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | ⭐ 317 | 2026-08-06 | 3 |
 | [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | ⭐ 248 | 2026-08-05 | 4 |
@@ -71,8 +59,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 25 | ⭐ 18,213 | 2026-08-01 | 2026-09-03 |
-| [nim-lang/packages](../repos/nim-lang/packages.md) | 9 | ⭐ 500 | 2026-08-01 | 2026-09-03 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 26 | ⭐ 18,217 | 2026-08-01 | 2026-09-04 |
+| [nim-lang/packages](../repos/nim-lang/packages.md) | 10 | ⭐ 500 | 2026-08-01 | 2026-09-04 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | 7 | ⭐ 661 | 2026-08-02 | 2026-09-03 |
 | [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | 4 | ⭐ 248 | 2026-08-05 | 2026-09-01 |
 | [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | 3 | ⭐ 317 | 2026-08-06 | 2026-08-09 |
@@ -97,4 +85,4 @@
 
 ---
 
-*Last updated: 2026-09-03T21:01:49.946Z*
+*Last updated: 2026-09-04T21:32:08.715Z*

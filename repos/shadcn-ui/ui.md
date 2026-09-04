@@ -1,6 +1,6 @@
 # shadcn-ui&#x2F;ui
 
-> Beautifully designed components that you can copy and paste into your apps
+> A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;shadcn-ui&#x2F;ui) 
 
@@ -11,14 +11,14 @@
 | | |
 |---|---|
 | **Language** | TypeScript |
-| **License** | Not specified |
-| **Stars** | ⭐ 52,300 |
-| **Forks** | 🍴 2,980 |
-| **Trending Days** | 1 |
+| **License** | MIT |
+| **Stars** | ⭐ 123,032 |
+| **Forks** | 🍴 10,098 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #10 |
 
 | **First Seen** | Jul 31, 2026 |
-| **Last Seen** | Jul 31, 2026 |
+| **Last Seen** | Sep 4, 2026 |
 
 
 ---
@@ -39,7 +39,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or react*
+*Similar: Check repositories in TypeScript or base-ui*
 
 ---
 
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #10
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -57,10 +57,10 @@
 ## Categories
 
 ### Topics
-[`react`](../../topics/react.md) [`components`](../../topics/components.md) [`ui`](../../topics/ui.md) [`design-system`](../../topics/design-system.md) [`typescript`](../../topics/typescript.md) 
+[`base-ui`](../../topics/base-ui.md) [`components`](../../topics/components.md) [`laravel`](../../topics/laravel.md) [`nextjs`](../../topics/nextjs.md) [`radix-ui`](../../topics/radix-ui.md) [`react`](../../topics/react.md) [`react-aria`](../../topics/react-aria.md) [`react-aria-components`](../../topics/react-aria-components.md) [`shadcn`](../../topics/shadcn.md) [`tailwindcss`](../../topics/tailwindcss.md) [`tanstack`](../../topics/tanstack.md) [`ui`](../../topics/ui.md) [`vite`](../../topics/vite.md) 
 
 ### Curated Categories
-`Web Development` `Frontend Development` `Systems Programming` 
+`Artificial Intelligence` `Web Development` `Frontend Development` `Systems Programming` 
 
 ---
 
@@ -71,10 +71,10 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
-| **Documentation** | Good | Well-maintained documentation |
-| **Community** | Active | Regular contributions and discussions |
+| **Documentation** | Excellent | Comprehensive guides and examples |
+| **Community** | Very Active | 123,032+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -93,11 +93,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: Top 10 (Peak: #10)
 
 
 ---
 
-*Last updated: 2026-09-03T21:01:51.608Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-04T21:32:10.412Z*  
+*Data from 2 trending reports*

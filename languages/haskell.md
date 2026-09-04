@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 28
+- **Total Repositories**: 29
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-03
+- **Last Updated**: 2026-09-04
 
 ---
 
@@ -16,28 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,639 | 2026-08-01 | 27 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,988 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,981 | 2026-08-01 | 27 |
+| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 292 | 2026-08-08 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 292 | 2026-08-08 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [augustss/MicroHs](../repos/augustss/MicroHs.md) | ⭐ 774 | 2026-09-03 | 1 |
+| [carp-lang/Carp](../repos/carp-lang/Carp.md) | ⭐ 6,030 | 2026-09-04 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,076 | 2026-08-05 | The Haskell Tool Stack |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [IntersectMBO/plutus](../repos/IntersectMBO/plutus.md) | ⭐ 1,635 | 2026-08-05 | The Plutus language implementation and tools |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,721 | 2026-08-06 | A friendly programming language from the future |
@@ -62,6 +53,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [therepanic/openleetcode](../repos/therepanic/openleetcode.md) | ⭐ 163 | 2026-08-20 | we have democratized the LeetCode tests |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [haskell-servant/servant](../repos/haskell-servant/servant.md) | ⭐ 1,967 | 2026-09-02 | Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [augustss/MicroHs](../repos/augustss/MicroHs.md) | ⭐ 774 | 2026-09-03 | Haskell implemented with combinators |
 
 
 ---
@@ -70,11 +67,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,981 | 2026-08-01 | 27 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,988 | 2026-08-01 | 28 |
 | [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,639 | 2026-08-01 | 27 |
 | [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,898 | 2026-08-08 | 2 |
 | [elm/compiler](../repos/elm/compiler.md) | ⭐ 7,887 | 2026-08-09 | 3 |
 | [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,721 | 2026-08-06 | 7 |
+| [carp-lang/Carp](../repos/carp-lang/Carp.md) | ⭐ 6,030 | 2026-09-04 | 1 |
 | [digitallyinduced/ihp](../repos/digitallyinduced/ihp.md) | ⭐ 5,330 | 2026-08-02 | 1 |
 | [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,076 | 2026-08-05 | 5 |
 | [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,177 | 2026-08-01 | 9 |
@@ -89,7 +87,6 @@
 | [IntersectMBO/plutus](../repos/IntersectMBO/plutus.md) | ⭐ 1,635 | 2026-08-05 | 2 |
 | [digital-asset/daml](../repos/digital-asset/daml.md) | ⭐ 913 | 2026-08-01 | 8 |
 | [cardano-foundation/cardano-wallet](../repos/cardano-foundation/cardano-wallet.md) | ⭐ 821 | 2026-08-03 | 5 |
-| [augustss/MicroHs](../repos/augustss/MicroHs.md) | ⭐ 774 | 2026-09-03 | 1 |
 
 ---
 
@@ -97,12 +94,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 28 | ⭐ 39,988 | 2026-08-01 | 2026-09-04 |
 | [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 27 | ⭐ 27,639 | 2026-08-01 | 2026-09-03 |
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 27 | ⭐ 39,981 | 2026-08-01 | 2026-09-03 |
 | [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 24 | ⭐ 1,704 | 2026-08-01 | 2026-09-02 |
 | [haskell/cabal](../repos/haskell/cabal.md) | 13 | ⭐ 1,746 | 2026-08-01 | 2026-08-29 |
 | [agda/agda](../repos/agda/agda.md) | 12 | ⭐ 2,920 | 2026-08-03 | 2026-08-26 |
-| [mtolly/onyx](../repos/mtolly/onyx.md) | 11 | ⭐ 292 | 2026-08-08 | 2026-09-03 |
+| [mtolly/onyx](../repos/mtolly/onyx.md) | 12 | ⭐ 292 | 2026-08-08 | 2026-09-04 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 10 | ⭐ 2,955 | 2026-08-01 | 2026-09-02 |
 | [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | 10 | ⭐ 2,533 | 2026-08-03 | 2026-08-28 |
 | [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 9 | ⭐ 3,177 | 2026-08-01 | 2026-08-27 |
@@ -140,7 +137,8 @@
 - [therepanic/openleetcode](../repos/therepanic/openleetcode.md) - we have democratized the LeetCode tests
 - [haskell-servant/servant](../repos/haskell-servant/servant.md) - Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications...
 - [augustss/MicroHs](../repos/augustss/MicroHs.md) - Haskell implemented with combinators
+- [carp-lang/Carp](../repos/carp-lang/Carp.md) - A statically typed lisp, without a GC, for real-time applications.
 
 ---
 
-*Last updated: 2026-09-03T21:01:49.928Z*
+*Last updated: 2026-09-04T21:32:08.698Z*

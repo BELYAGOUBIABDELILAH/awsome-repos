@@ -76,7 +76,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -101,5 +101,5 @@
 
 ---
 
-*Last updated: 2026-09-03T21:01:51.597Z*  
+*Last updated: 2026-09-04T21:32:10.400Z*  
 *Data from 3 trending reports*

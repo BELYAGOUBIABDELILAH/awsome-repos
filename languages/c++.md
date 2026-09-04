@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 202
+- **Total Repositories**: 203
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-28
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,988 | 2026-08-01 | 11 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,999 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 10,250 | 2026-08-02 | 6 |
+| [google/benchmark](../repos/google/benchmark.md) | ⭐ 10,385 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | ⭐ 15,802 | 2026-08-02 | 6 |
+| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 23,018 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ceph/ceph](../repos/ceph/ceph.md) | ⭐ 17,000 | 2026-08-03 | 5 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 10,308 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colmap/colmap](../repos/colmap/colmap.md) | ⭐ 12,642 | 2026-08-06 | 2 |
+| [cloudflare/workerd](../repos/cloudflare/workerd.md) | ⭐ 8,683 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tenstorrent/tt-metal](../repos/tenstorrent/tt-metal.md) | ⭐ 1,660 | 2026-08-07 | 2 |
+| [tenstorrent/tt-metal](../repos/tenstorrent/tt-metal.md) | ⭐ 1,659 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fmtlib/fmt](../repos/fmtlib/fmt.md) | ⭐ 25,005 | 2026-08-12 | 6 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,068 | 2026-08-08 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [abseil/abseil-cpp](../repos/abseil/abseil-cpp.md) | ⭐ 18,121 | 2026-08-14 | 6 |
+| [audacity/audacity](../repos/audacity/audacity.md) | ⭐ 18,191 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [project-chip/connectedhomeip](../repos/project-chip/connectedhomeip.md) | ⭐ 8,922 | 2026-08-25 | 3 |
+| [mavlink/qgroundcontrol](../repos/mavlink/qgroundcontrol.md) | ⭐ 4,895 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [M2Team/NanaZip](../repos/M2Team/NanaZip.md) | ⭐ 15,416 | 2026-08-25 | 2 |
+| [fmtlib/fmt](../repos/fmtlib/fmt.md) | ⭐ 25,451 | 2026-08-12 | 7 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [SwagSoftware/KisakCOD](../repos/SwagSoftware/KisakCOD.md) | ⭐ 395 | 2026-08-05 | COD4 Open Source Reimplementation |
+| [cloudflare/workerd](../repos/cloudflare/workerd.md) | ⭐ 8,683 | 2026-08-06 | The JavaScript &#x2F; Wasm runtime that powers Cloudflare Workers |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mltframework/shotcut](../repos/mltframework/shotcut.md) | ⭐ 15,054 | 2026-08-05 | cross-platform (Qt), open-source (GPLv3) video editor |
+| [colmap/colmap](../repos/colmap/colmap.md) | ⭐ 12,642 | 2026-08-06 | COLMAP - Structure-from-Motion and Multi-View Stereo |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [FEX-Emu/FEX](../repos/FEX-Emu/FEX.md) | ⭐ 7,885 | 2026-08-05 | A fast usermode x86 and x86-64 emulator for Arm64 Linux |
+| [realsenseai/librealsense](../repos/realsenseai/librealsense.md) | ⭐ 8,937 | 2026-08-06 | RealSense SDK |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,959 | 2026-08-05 | Truly independent web browser |
+| [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | A library for efficient similarity search and clustering of dense vectors. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ai-dynamo/nixl](../repos/ai-dynamo/nixl.md) | ⭐ 1,207 | 2026-08-05 | NVIDIA Inference Xfer Library (NIXL) |
+| [PX4/PX4-Autopilot](../repos/PX4/PX4-Autopilot.md) | ⭐ 12,403 | 2026-08-06 | PX4 Autopilot Software |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [MariaDB/server](../repos/MariaDB/server.md) | ⭐ 8,144 | 2026-08-05 | MariaDB server is a community developed fork of MySQL server. Started by core members of the orig... |
+| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 21,728 | 2026-08-06 | ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [iree-org/iree](../repos/iree-org/iree.md) | ⭐ 3,894 | 2026-08-05 | A retargetable MLIR-based machine learning compiler and runtime toolkit. |
+| [zeek/zeek](../repos/zeek/zeek.md) | ⭐ 7,846 | 2026-08-06 | Zeek is a powerful network analysis framework that is much different from the typical IDS you may... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [envoyproxy/envoy](../repos/envoyproxy/envoy.md) | ⭐ 28,781 | 2026-08-05 | Cloud-native high-performance edge&#x2F;middle&#x2F;service proxy |
+| [ml-explore/mlx](../repos/ml-explore/mlx.md) | ⭐ 28,056 | 2026-08-06 | MLX: An array framework for Apple silicon |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dyang886/Game-Cheats-Manager](../repos/dyang886/Game-Cheats-Manager.md) | ⭐ 13,970 | 2026-08-05 | Easily download and manage single-player game cheats for your convenience |
+| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,728 | 2026-08-06 | The new Windows Terminal and the original Windows console host, all in the same place! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [NVIDIA/nccl](../repos/NVIDIA/nccl.md) | ⭐ 4,982 | 2026-08-05 | Optimized primitives for collective multi-GPU communication |
+| [google/leveldb](../repos/google/leveldb.md) | ⭐ 39,306 | 2026-08-07 | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping fr... |
 
 
 ---
@@ -96,8 +96,8 @@
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,728 | 2026-08-06 | 4 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,016 | 2026-08-02 | 5 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,293 | 2026-08-12 | 3 |
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,017 | 2026-08-08 | 11 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,988 | 2026-08-01 | 11 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,068 | 2026-08-08 | 12 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,999 | 2026-08-01 | 12 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,959 | 2026-08-05 | 8 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 17 | ⭐ 126,245 | 2026-08-01 | 2026-08-29 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 15 | ⭐ 197,766 | 2026-07-30 | 2026-08-28 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 12 | ⭐ 71,999 | 2026-08-01 | 2026-09-04 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 12 | ⭐ 29,564 | 2026-08-01 | 2026-09-02 |
 | [google/googletest](../repos/google/googletest.md) | 12 | ⭐ 39,299 | 2026-08-04 | 2026-08-29 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 11 | ⭐ 71,988 | 2026-08-01 | 2026-09-03 |
-| [ocornut/imgui](../repos/ocornut/imgui.md) | 11 | ⭐ 76,017 | 2026-08-08 | 2026-09-02 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | 12 | ⭐ 76,068 | 2026-08-08 | 2026-09-04 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 9 | ⭐ 472 | 2026-08-01 | 2026-08-26 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 8 | ⭐ 116,297 | 2026-08-01 | 2026-08-28 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 8 | ⭐ 65,959 | 2026-08-05 | 2026-09-01 |
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | 7 | ⭐ 21,728 | 2026-08-06 | 2026-09-02 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 7 | ⭐ 10,308 | 2026-08-02 | 2026-09-04 |
 
 ---
 
@@ -149,6 +149,7 @@
 - [v8/v8](../repos/v8/v8.md) - The official mirror of the V8 Git repository
 - [electron/electron](../repos/electron/electron.md) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [espressif/arduino-esp32](../repos/espressif/arduino-esp32.md) - Arduino core for the ESP32 family of SoCs
+- [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
 - [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) - Port of OpenAI&#39;s Whisper model in C&#x2F;C++
 - [sz3/libcimbar](../repos/sz3/libcimbar.md) - Optimized implementation for color-icon-matrix barcodes
 - [grpc/grpc](../repos/grpc/grpc.md) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
@@ -229,8 +230,7 @@
 - [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) - Distribute and run LLMs with a single file.
 - [YimMenu/YimMenuV2](../repos/YimMenu/YimMenuV2.md) - Experimental menu for GTA 5: Enhanced
 - [futo-org/android-keyboard](../repos/futo-org/android-keyboard.md) - Official FUTO Keyboard Issue Tracker and Source Mirror of https:&#x2F;&#x2F;gitlab.futo.org&#x2F;keyboard&#x2F;latinime
-- [audacity/audacity](../repos/audacity/audacity.md) - Audio Editor                                     
 
 ---
 
-*Last updated: 2026-09-03T21:01:49.902Z*
+*Last updated: 2026-09-04T21:32:08.669Z*

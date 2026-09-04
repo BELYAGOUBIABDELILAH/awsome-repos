@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 155
+- **Total Repositories**: 157
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-25
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 41,871 | 2026-08-02 | 6 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 117,447 | 2026-07-30 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | ⭐ 18,760 | 2026-08-03 | 7 |
+| [ankitects/anki](../repos/ankitects/anki.md) | ⭐ 30,318 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LanRhyme/MicYou](../repos/LanRhyme/MicYou.md) | ⭐ 3,534 | 2026-08-07 | 2 |
+| [LanRhyme/MicYou](../repos/LanRhyme/MicYou.md) | ⭐ 3,589 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,437 | 2026-08-09 | 7 |
+| [tonhowtf/omniget](../repos/tonhowtf/omniget.md) | ⭐ 9,478 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 31,695 | 2026-08-09 | 6 |
+| [pacifio/atlas](../repos/pacifio/atlas.md) | ⭐ 3,191 | 2026-08-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pacifio/atlas](../repos/pacifio/atlas.md) | ⭐ 3,122 | 2026-08-14 | 4 |
+| [confeden/Antigravity](../repos/confeden/Antigravity.md) | ⭐ 443 | 2026-08-25 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [arcboxlabs/arcbox](../repos/arcboxlabs/arcbox.md) | ⭐ 2,893 | 2026-09-02 | 2 |
+| [arcboxlabs/arcbox](../repos/arcboxlabs/arcbox.md) | ⭐ 2,503 | 2026-09-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xai-org/x-algorithm](../repos/xai-org/x-algorithm.md) | ⭐ 32,574 | 2026-09-03 | 1 |
+| [jj-vcs/jj](../repos/jj-vcs/jj.md) | ⭐ 31,391 | 2026-09-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espanso/espanso](../repos/espanso/espanso.md) | ⭐ 14,410 | 2026-09-03 | 1 |
+| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 13,964 | 2026-09-04 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qufei1993/skills-hub](../repos/qufei1993/skills-hub.md) | ⭐ 1,560 | 2026-09-03 | 1 |
+| [GreptimeTeam/greptimedb](../repos/GreptimeTeam/greptimedb.md) | ⭐ 6,615 | 2026-09-04 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ovexro/dockpanel](../repos/ovexro/dockpanel.md) | ⭐ 876 | 2026-08-05 | Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git depl... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,464 | 2026-08-05 | Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,444 | 2026-08-05 | Extremely fast Query Engine for DataFrames, written in Rust |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hyperium/hyper](../repos/hyperium/hyper.md) | ⭐ 16,260 | 2026-08-05 | An HTTP library for Rust |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [WeaveMindAI/weft](../repos/WeaveMindAI/weft.md) | ⭐ 1,783 | 2026-08-05 | A programming language for AI orchestrations (POC) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | ⭐ 2,575 | 2026-08-05 | cursor-byok is a local implementation of Cursor&#39;s backend. https:&#x2F;&#x2F;docs.leokun.cn&#x2F; |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [warp-tech/warpgate](../repos/warp-tech/warpgate.md) | ⭐ 7,685 | 2026-08-06 | Fully transparent SSH, HTTPS, Kubernetes, database and RDP&#x2F;VNC bastion&#x2F;PAM that doesn&#39;t need addi... |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [EFForg/rayhunter](../repos/EFForg/rayhunter.md) | ⭐ 5,745 | 2026-08-06 | Rust tool to detect cell site simulators on an orbic mobile hotspot  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nubjs/nub](../repos/nubjs/nub.md) | ⭐ 3,887 | 2026-08-06 | The fast all-in-one Node.js toolkit |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [denoland/celld](../repos/denoland/celld.md) | ⭐ 2,993 | 2026-08-07 | self-hosted, distributed Durable Objects |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [glzr-io/glazewm](../repos/glzr-io/glazewm.md) | ⭐ 12,554 | 2026-08-07 | GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cloudflare/pingora](../repos/cloudflare/pingora.md) | ⭐ 27,151 | 2026-08-07 | A library for building fast, reliable and evolvable network services. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pimalaya/himalaya](../repos/pimalaya/himalaya.md) | ⭐ 6,956 | 2026-08-07 | CLI to manage emails |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cloud-hypervisor/cloud-hypervisor](../repos/cloud-hypervisor/cloud-hypervisor.md) | ⭐ 6,074 | 2026-08-07 | A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hot... |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [openai/codex](../repos/openai/codex.md) | ⭐ 118,042 | 2026-08-01 | 8 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 116,205 | 2026-07-30 | 6 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 117,447 | 2026-07-30 | 7 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,653 | 2026-08-11 | 6 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,437 | 2026-08-09 | 7 |
@@ -118,11 +118,11 @@
 | [openai/codex](../repos/openai/codex.md) | 8 | ⭐ 118,042 | 2026-08-01 | 2026-08-25 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 8 | ⭐ 27,494 | 2026-08-03 | 2026-08-23 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 8 | ⭐ 38,707 | 2026-08-10 | 2026-08-28 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | 7 | ⭐ 117,447 | 2026-07-30 | 2026-09-04 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 7 | ⭐ 17,401 | 2026-08-01 | 2026-08-29 |
 | [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | 7 | ⭐ 18,760 | 2026-08-03 | 2026-09-03 |
 | [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 7 | ⭐ 2,575 | 2026-08-05 | 2026-08-28 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 7 | ⭐ 92,437 | 2026-08-09 | 2026-09-03 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | 6 | ⭐ 116,205 | 2026-07-30 | 2026-08-25 |
 | [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 6 | ⭐ 13,249 | 2026-08-01 | 2026-08-19 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 6 | ⭐ 41,871 | 2026-08-02 | 2026-09-03 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-03T21:01:49.969Z*
+*Last updated: 2026-09-04T21:32:08.734Z*

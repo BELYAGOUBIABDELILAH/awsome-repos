@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | VHDL |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 2,247 |
-| **Forks** | 🍴 380 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 2,252 |
+| **Forks** | 🍴 382 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Sep 1, 2026 |
+| **Last Seen** | Sep 4, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-03T21:01:53.295Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-09-04T21:32:12.059Z*  
+*Data from 10 trending reports*

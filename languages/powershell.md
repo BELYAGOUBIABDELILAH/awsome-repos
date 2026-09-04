@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 43
+- **Total Repositories**: 46
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-02
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,100 | 2026-08-01 | 26 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 1,969 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,273 | 2026-08-01 | 12 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 896 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,976 | 2026-08-01 | 14 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 451 | 2026-08-04 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 894 | 2026-08-01 | 20 |
+| [microsoftgraph/microsoft-graph-docs-contrib](../repos/microsoftgraph/microsoft-graph-docs-contrib.md) | ⭐ 153 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,570 | 2026-08-03 | 16 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,654 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 450 | 2026-08-04 | 15 |
+| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,173 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,992 | 2026-08-06 | 9 |
+| [github/copilot-plugins](../repos/github/copilot-plugins.md) | ⭐ 347 | 2026-08-26 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,172 | 2026-08-19 | 4 |
+| [MicrosoftEdge/WebView2Feedback](../repos/MicrosoftEdge/WebView2Feedback.md) | ⭐ 524 | 2026-09-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MicrosoftEdge/WebView2Feedback](../repos/MicrosoftEdge/WebView2Feedback.md) | ⭐ 524 | 2026-09-01 | 3 |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,206 | 2026-09-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,206 | 2026-09-02 | 2 |
+| [jimrtyler/Guerrilla](../repos/jimrtyler/Guerrilla.md) | ⭐ 72 | 2026-09-04 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoftgraph/microsoft-graph-docs-contrib](../repos/microsoftgraph/microsoft-graph-docs-contrib.md) | ⭐ 153 | 2026-08-05 | Documentation for the Microsoft Graph REST API |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,992 | 2026-08-06 | A collection of software installations scripts for Windows systems that allows you to easily setu... |
@@ -79,7 +76,10 @@
 | [CubeCoders/AMPTemplates](../repos/CubeCoders/AMPTemplates.md) | ⭐ 183 | 2026-08-11 | For the AMP community to share Generic Module templates. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,650 | 2026-08-11 | Automation to assess the state of your M365 tenant against CISA&#39;s baselines |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,654 | 2026-08-11 | Automation to assess the state of your M365 tenant against CISA&#39;s baselines |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtu... |
 
 
 ---
@@ -93,7 +93,7 @@
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
 | [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,100 | 2026-08-01 | 26 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,089 | 2026-08-04 | 1 |
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,206 | 2026-09-02 | 2 |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,206 | 2026-09-02 | 3 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,065 | 2026-08-03 | 7 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,992 | 2026-08-06 | 9 |
@@ -102,9 +102,9 @@
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,976 | 2026-08-01 | 14 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,822 | 2026-08-04 | 2 |
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,650 | 2026-08-11 | 4 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,654 | 2026-08-11 | 5 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,530 | 2026-08-04 | 5 |
-| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,172 | 2026-08-19 | 4 |
+| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,173 | 2026-08-19 | 5 |
 | [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,036 | 2026-08-07 | 3 |
 | [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,024 | 2026-08-02 | 5 |
 | [MicrosoftDocs/architecture-center](../repos/MicrosoftDocs/architecture-center.md) | ⭐ 2,018 | 2026-08-25 | 1 |
@@ -116,10 +116,10 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [actions/runner-images](../repos/actions/runner-images.md) | 26 | ⭐ 13,100 | 2026-08-01 | 2026-09-03 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 20 | ⭐ 894 | 2026-08-01 | 2026-09-03 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 21 | ⭐ 896 | 2026-08-01 | 2026-09-04 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 17 | ⭐ 34,103 | 2026-08-01 | 2026-09-02 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 16 | ⭐ 1,570 | 2026-08-03 | 2026-09-03 |
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 15 | ⭐ 450 | 2026-08-04 | 2026-09-03 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 16 | ⭐ 451 | 2026-08-04 | 2026-09-04 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 14 | ⭐ 5,976 | 2026-08-01 | 2026-09-03 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 12 | ⭐ 8,273 | 2026-08-01 | 2026-09-03 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 11 | ⭐ 1,457 | 2026-08-01 | 2026-09-02 |
@@ -173,7 +173,10 @@
 - [github/copilot-plugins](../repos/github/copilot-plugins.md) - The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibil...
 - [MicrosoftEdge/WebView2Feedback](../repos/MicrosoftEdge/WebView2Feedback.md) - Feedback and discussions about Microsoft Edge WebView2
 - [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Ser...
+- [jimrtyler/Guerrilla](../repos/jimrtyler/Guerrilla.md) - PowerShell security assessment &amp; continuous monitoring module for Google Workspace, Active Direct...
+- [pnp/copilot-prompts](../repos/pnp/copilot-prompts.md) - Examples of prompts for Microsoft Copilot
+- [MicrosoftDocs/power-platform](../repos/MicrosoftDocs/power-platform.md) - Documentation for Microsoft Power Platform
 
 ---
 
-*Last updated: 2026-09-03T21:01:49.959Z*
+*Last updated: 2026-09-04T21:32:08.724Z*

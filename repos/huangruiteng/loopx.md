@@ -1,6 +1,6 @@
 # huangruiteng&#x2F;loopx
 
-> Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
+> Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx) 
 
@@ -11,14 +11,14 @@
 | | |
 |---|---|
 | **Language** | Python |
-| **License** | MIT |
-| **Stars** | ⭐ 3,574 |
-| **Forks** | 🍴 284 |
-| **Trending Days** | 5 |
+| **License** | Apache-2.0 |
+| **Stars** | ⭐ 5,605 |
+| **Forks** | 🍴 501 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 8, 2026 |
+| **Last Seen** | Sep 4, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 5 days
 
 ---
@@ -57,7 +57,7 @@
 ## Categories
 
 ### Topics
-[`agent-control-plane`](../../topics/agent-control-plane.md) [`agent-ops`](../../topics/agent-ops.md) [`ai-agents`](../../topics/ai-agents.md) [`codex`](../../topics/codex.md) [`long-running-agents`](../../topics/long-running-agents.md) [`loop-engineering`](../../topics/loop-engineering.md) [`loopx`](../../topics/loopx.md) [`workflow-automation`](../../topics/workflow-automation.md) 
+[`agent-control-plane`](../../topics/agent-control-plane.md) [`agent-harness`](../../topics/agent-harness.md) [`agent-ops`](../../topics/agent-ops.md) [`ai-agents`](../../topics/ai-agents.md) [`codex`](../../topics/codex.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`long-horizon`](../../topics/long-horizon.md) [`long-horizon-agents`](../../topics/long-horizon-agents.md) [`loop-engineering`](../../topics/loop-engineering.md) [`loopx`](../../topics/loopx.md) [`workflow-automation`](../../topics/workflow-automation.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `DevOps &amp; CI&#x2F;CD` `Systems Programming` `Automation` 
@@ -74,7 +74,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -87,11 +87,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 100&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #2)
 
 
 ---
 
-*Last updated: 2026-09-03T21:01:52.667Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-09-04T21:32:11.432Z*  
+*Data from 6 trending reports*

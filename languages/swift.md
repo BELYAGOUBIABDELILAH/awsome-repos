@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 92
+- **Total Repositories**: 94
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-27
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,793 | 2026-08-01 | 12 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,884 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,758 | 2026-08-01 | 2 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,791 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,327 | 2026-08-01 | 3 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,308 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,750 | 2026-08-01 | 8 |
+| [pluk-inc/markdown-preview](../repos/pluk-inc/markdown-preview.md) | ⭐ 2,265 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,287 | 2026-08-01 | 8 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,866 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,866 | 2026-08-04 | 9 |
+| [frankea/Whisky](../repos/frankea/Whisky.md) | ⭐ 616 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,914 | 2026-08-08 | 4 |
+| [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 1,111 | 2026-08-10 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 1,056 | 2026-08-10 | 6 |
+| [Starmel/OpenSuperWhisper](../repos/Starmel/OpenSuperWhisper.md) | ⭐ 2,804 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/tart](../repos/openai/tart.md) | ⭐ 6,661 | 2026-08-14 | 5 |
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,471 | 2026-08-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ProxymanApp/TCPViewer](../repos/ProxymanApp/TCPViewer.md) | ⭐ 406 | 2026-09-03 | 1 |
+| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,482 | 2026-08-24 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,303 | 2026-08-05 | The Swift Programming Language |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | Firefox for iOS |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Octane0411/open-vibe-island](../repos/Octane0411/open-vibe-island.md) | ⭐ 1,895 | 2026-08-05 | Native macOS control center for AI coding agents — monitor sessions, approve actions, and jump ba... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [erha19/ping-island](../repos/erha19/ping-island.md) | ⭐ 1,031 | 2026-08-05 | A Dynamic Island-style command center for managing all your AI coding agents on macOS. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [h3nock/remux](../repos/h3nock/remux.md) | ⭐ 423 | 2026-08-06 | A native iOS client for remote tmux workspaces, designed to feel natural on iPhone. |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,380 | 2026-08-07 | A tweak to enhance Spotify experience |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [RevenueCat/purchases-ios](../repos/RevenueCat/purchases-ios.md) | ⭐ 3,055 | 2026-08-07 | In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [crossoverJie/SkillDeck](../repos/crossoverJie/SkillDeck.md) | ⭐ 522 | 2026-08-07 | Native macOS SwiftUI app for managing multiple AI code agent skills |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [wxtsky/CodeIsland](../repos/wxtsky/CodeIsland.md) | ⭐ 2,299 | 2026-08-07 | Real-time AI coding agent status panel in your MacBook notch — live status, approvals &amp; replies f... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [getsentry/sentry-cocoa](../repos/getsentry/sentry-cocoa.md) | ⭐ 1,111 | 2026-08-07 | The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS. |
 
 
 ---
@@ -89,25 +89,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,303 | 2026-08-05 | 9 |
+| [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | 2026-09-04 | 1 |
 | [apple/container](../repos/apple/container.md) | ⭐ 49,580 | 2026-08-01 | 11 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,843 | 2026-08-12 | 5 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,080 | 2026-09-01 | 1 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,866 | 2026-08-04 | 9 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,750 | 2026-08-01 | 8 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,866 | 2026-08-04 | 10 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,791 | 2026-08-01 | 9 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
-| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,444 | 2026-08-12 | 5 |
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,471 | 2026-08-12 | 6 |
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,892 | 2026-08-04 | 12 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,440 | 2026-08-24 | 4 |
+| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,482 | 2026-08-24 | 5 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,244 | 2026-08-08 | 6 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,219 | 2026-08-17 | 2 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,758 | 2026-08-01 | 2 |
 | [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,422 | 2026-08-17 | 2 |
 | [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
-| [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,219 | 2026-08-06 | 4 |
 
 ---
 
@@ -115,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 12 | ⭐ 11,793 | 2026-08-01 | 2026-09-03 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 13 | ⭐ 11,884 | 2026-08-01 | 2026-09-04 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 12 | ⭐ 14,892 | 2026-08-04 | 2026-08-29 |
 | [apple/container](../repos/apple/container.md) | 11 | ⭐ 49,580 | 2026-08-01 | 2026-09-01 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 10 | ⭐ 26,866 | 2026-08-04 | 2026-09-04 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 9 | ⭐ 6,257 | 2026-08-01 | 2026-09-02 |
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 9 | ⭐ 26,866 | 2026-08-04 | 2026-09-03 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 9 | ⭐ 26,791 | 2026-08-01 | 2026-09-04 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 9 | ⭐ 3,308 | 2026-08-01 | 2026-09-04 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 9 | ⭐ 70,303 | 2026-08-05 | 2026-08-27 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 8 | ⭐ 26,750 | 2026-08-01 | 2026-09-03 |
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 8 | ⭐ 3,287 | 2026-08-01 | 2026-09-03 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 7 | ⭐ 8,510 | 2026-08-04 | 2026-08-28 |
 | [sozercan/kaset](../repos/sozercan/kaset.md) | 7 | ⭐ 2,094 | 2026-08-04 | 2026-08-21 |
 
@@ -222,7 +222,9 @@
 - [cshariq/Sapphire](../repos/cshariq/Sapphire.md) - The all in one mac app that redefines the notch
 - [ninxsoft/Mist](../repos/ninxsoft/Mist.md) - A Mac utility that automatically downloads macOS Firmwares &#x2F; Installers.
 - [ProxymanApp/TCPViewer](../repos/ProxymanApp/TCPViewer.md) - The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark
+- [farzaa/clicky](../repos/farzaa/clicky.md) - 
+- [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 
 ---
 
-*Last updated: 2026-09-03T21:01:49.977Z*
+*Last updated: 2026-09-04T21:32:08.742Z*

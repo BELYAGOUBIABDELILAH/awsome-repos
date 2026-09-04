@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Objective-C |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 12,116 |
-| **Forks** | 🍴 1,491 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 12,117 |
+| **Forks** | 🍴 1,490 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Sep 2, 2026 |
+| **Last Seen** | Sep 4, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 3 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 85&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-03T21:01:53.281Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-09-04T21:32:12.045Z*  
+*Data from 6 trending reports*

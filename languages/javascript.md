@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 113
+- **Total Repositories**: 114
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,25 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,993 | 2026-08-05 | 15 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 32,777 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 65,306 | 2026-08-05 | 8 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 92,262 | 2026-08-05 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zarazhangrui/follow-builders](../repos/zarazhangrui/follow-builders.md) | ⭐ 6,605 | 2026-08-10 | 2 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 65,595 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 38,608 | 2026-08-14 | 3 |
+| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | ⭐ 1,017 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/plugins](../repos/openai/plugins.md) | ⭐ 5,360 | 2026-08-27 | 3 |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 6,436 | 2026-08-29 | 3 |
+| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 824 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebook/stylex](../repos/facebook/stylex.md) | ⭐ 10,104 | 2026-09-03 | 1 |
+| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 2,107 | 2026-08-07 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 27,716 | 2026-08-08 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 15,038 | 2026-08-14 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 6,731 | 2026-08-29 | 4 |
 
 
 ---
@@ -43,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,993 | 2026-08-05 | Production-grade engineering skills for AI coding agents. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 65,306 | 2026-08-05 | The design language that makes your AI harness better at design. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [eze-is/web-access](../repos/eze-is/web-access.md) | ⭐ 8,811 | 2026-08-05 | 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [xuanyustudio/LocalMiniDrama](../repos/xuanyustudio/LocalMiniDrama.md) | ⭐ 1,285 | 2026-08-05 | 🎬 seedance2接入  开源本地 AI 短剧 &amp; 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-sou... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | ⭐ 1,000 | 2026-08-05 | Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Managem... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zotero/zotero](../repos/zotero/zotero.md) | ⭐ 14,882 | 2026-08-05 | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | 2026-08-06 | Java 面试 &amp; 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 39,289 | 2026-08-06 | Free, simple, and intuitive online database diagram editor and SQL generator. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | Set up a modern web app by running one command. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vrgamegirl19/comfyui-vrgamedevgirl](../repos/vrgamegirl19/comfyui-vrgamedevgirl.md) | ⭐ 604 | 2026-08-06 | Custom ComfyUI nodes for film grain, color matching, and video enhancement. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 824 | 2026-08-07 | A plugin marketplace for Claude Code&#x2F;GitHub Copilot that provides Power Platform development plug... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 2,107 | 2026-08-07 | Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted devel... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lackeyjb/playwright-skill](../repos/lackeyjb/playwright-skill.md) | ⭐ 2,997 | 2026-08-08 | Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously wri... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,711 | 2026-08-08 | Opensource IDE For Exploring and Testing API&#39;s (lightweight alternative to Postman&#x2F;Insomnia) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | A browser based code editor |
 
 
 ---
@@ -85,13 +94,13 @@
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,962 | 2026-07-30 | 8 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
-| [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,230 | 2026-08-06 | 2 |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 91,993 | 2026-08-05 | 15 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 92,262 | 2026-08-05 | 16 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 65,306 | 2026-08-05 | 8 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 65,595 | 2026-08-05 | 9 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,500 | 2026-08-01 | 12 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,420 | 2026-08-11 | 4 |
@@ -107,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 16 | ⭐ 43,692 | 2026-08-04 | 2026-09-02 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 15 | ⭐ 91,993 | 2026-08-05 | 2026-09-03 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 16 | ⭐ 92,262 | 2026-08-05 | 2026-09-04 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 12 | ⭐ 24,188 | 2026-08-01 | 2026-08-28 |
 | [byoungd/up](../repos/byoungd/up.md) | 12 | ⭐ 61,500 | 2026-08-01 | 2026-08-25 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 9 | ⭐ 65,595 | 2026-08-05 | 2026-09-04 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 8 | ⭐ 141,962 | 2026-07-30 | 2026-08-27 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 8 | ⭐ 65,306 | 2026-08-05 | 2026-09-03 |
-| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | 6 | ⭐ 1,000 | 2026-08-05 | 2026-08-29 |
+| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | 7 | ⭐ 1,017 | 2026-08-05 | 2026-09-04 |
+| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 7 | ⭐ 2,107 | 2026-08-07 | 2026-09-04 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 6 | ⭐ 39,289 | 2026-08-06 | 2026-08-27 |
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 6 | ⭐ 1,584 | 2026-08-07 | 2026-08-22 |
-| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | 6 | ⭐ 3,084 | 2026-08-14 | 2026-09-02 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 6 | ⭐ 27,716 | 2026-08-08 | 2026-09-04 |
 
 ---
 
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-03T21:01:49.933Z*
+*Last updated: 2026-09-04T21:32:08.702Z*

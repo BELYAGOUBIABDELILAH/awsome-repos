@@ -1,6 +1,6 @@
 # multica-ai&#x2F;multica
 
-> Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
+> Make humans and AI agents work as one team — open-source and self-hostable.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;multica-ai&#x2F;multica) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Other |
-| **Stars** | ⭐ 46,694 |
-| **Forks** | 🍴 5,960 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 48,886 |
+| **Forks** | 🍴 6,312 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Sep 4, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 3 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-03T21:01:51.700Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-09-04T21:32:10.495Z*  
+*Data from 9 trending reports*

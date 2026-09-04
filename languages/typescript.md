@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 175
+- **Total Repositories**: 176
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 50,829 | 2026-08-01 | 6 |
+| [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,032 | 2026-07-31 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 131,147 | 2026-08-02 | 8 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 50,924 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 101,427 | 2026-08-07 | 7 |
+| [NateBJones-Projects/OB1](../repos/NateBJones-Projects/OB1.md) | ⭐ 4,557 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 60,859 | 2026-08-11 | 8 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 131,342 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Gitlawb/openclaude](../repos/Gitlawb/openclaude.md) | ⭐ 32,307 | 2026-08-17 | 4 |
+| [github/docs](../repos/github/docs.md) | ⭐ 20,780 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rmyndharis/OpenWA](../repos/rmyndharis/OpenWA.md) | ⭐ 13,718 | 2026-08-19 | 3 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 61,677 | 2026-08-11 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [eneskirca/nodeterm](../repos/eneskirca/nodeterm.md) | ⭐ 1,675 | 2026-08-19 | 2 |
+| [Gitlawb/openclaude](../repos/Gitlawb/openclaude.md) | ⭐ 32,553 | 2026-08-17 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 1,897 | 2026-08-20 | 3 |
+| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 2,395 | 2026-08-20 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/portless](../repos/vercel-labs/portless.md) | ⭐ 12,042 | 2026-09-02 | 2 |
+| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | 2026-09-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [awslabs/aidlc-workflows](../repos/awslabs/aidlc-workflows.md) | ⭐ 4,322 | 2026-09-03 | 1 |
+| [vercel-labs/portless](../repos/vercel-labs/portless.md) | ⭐ 12,124 | 2026-09-02 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cloudflare/computer](../repos/cloudflare/computer.md) | ⭐ 6,976 | 2026-08-05 | Give your agent a computer 👾 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ln-dev7/circle](../repos/ln-dev7/circle.md) | ⭐ 3,041 | 2026-08-05 | UI - Project management interface inspired by Linear. Built with Next.js and shadcn&#x2F;ui, this appl... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) | ⭐ 372 | 2026-08-05 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternati... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 14,038 | 2026-08-05 | Univer is a full-stack framework for creating and editing spreadsheets &#x2F; word processor &#x2F; present... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AdventDevInc/kudu](../repos/AdventDevInc/kudu.md) | ⭐ 2,029 | 2026-08-06 | Free Windows, Mac and Linux cleaner, scanner, and more. |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) | ⭐ 27,121 | 2026-08-06 | An open-source AI coding agent that lives in your terminal. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [playcanvas/supersplat](../repos/playcanvas/supersplat.md) | ⭐ 9,798 | 2026-08-06 | 3D Gaussian Splat Editor |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) | ⭐ 4,824 | 2026-08-06 | The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [promptfoo/promptfoo](../repos/promptfoo/promptfoo.md) | ⭐ 24,013 | 2026-08-06 | Test your prompts, agents, and RAGs. Red teaming&#x2F;pentesting&#x2F;vulnerability scanning for AI. Compar... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 13,986 | 2026-08-07 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
 
 
 ---
@@ -92,9 +92,10 @@
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 202,134 | 2026-08-11 | 3 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
-| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,112 | 2026-09-01 | 1 |
+| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | 2026-09-01 | 2 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,270 | 2026-08-02 | 4 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 131,147 | 2026-08-02 | 8 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 131,342 | 2026-08-02 | 9 |
+| [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,032 | 2026-07-31 | 2 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | 2026-08-17 | 2 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 101,427 | 2026-08-07 | 7 |
@@ -107,7 +108,6 @@
 | [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 84,671 | 2026-08-28 | 1 |
 | [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | 2026-08-12 | 1 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 77,659 | 2026-08-02 | 4 |
-| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 76,436 | 2026-08-04 | 4 |
 
 ---
 
@@ -118,20 +118,20 @@
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 11 | ⭐ 22,177 | 2026-08-07 | 2026-08-29 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 10 | ⭐ 6,150 | 2026-08-01 | 2026-08-29 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 10 | ⭐ 27,673 | 2026-08-02 | 2026-08-26 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | 9 | ⭐ 131,342 | 2026-08-02 | 2026-09-04 |
 | [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 9 | ⭐ 61,677 | 2026-08-11 | 2026-09-04 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 8 | ⭐ 131,147 | 2026-08-02 | 2026-09-03 |
-| [stablyai/orca](../repos/stablyai/orca.md) | 8 | ⭐ 60,859 | 2026-08-11 | 2026-09-03 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 7 | ⭐ 50,924 | 2026-08-01 | 2026-09-04 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | 7 | ⭐ 101,427 | 2026-08-07 | 2026-09-03 |
-| [apache/maka](../repos/apache/maka.md) | 7 | ⭐ 3,585 | 2026-08-20 | 2026-08-26 |
 
 ---
 
 ## 📋 All TypeScript Repositories
 
 - [microsoft/vscode](../repos/microsoft/vscode.md) - Visual Studio Code
-- [shadcn-ui/ui](../repos/shadcn-ui/ui.md) - Beautifully designed components that you can copy and paste into your apps
+- [shadcn-ui/ui](../repos/shadcn-ui/ui.md) - A set of beautifully-designed, accessible components and a code distribution platform. Works with...
 - [excalidraw/excalidraw](../repos/excalidraw/excalidraw.md) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [different-ai/openwork](../repos/different-ai/openwork.md) - The open-source alternative to Claude Cowork (powered by opencode)
 - [cursor/plugins](../repos/cursor/plugins.md) - Cursor plugin specification and official plugins
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-03T21:01:49.980Z*
+*Last updated: 2026-09-04T21:32:08.744Z*

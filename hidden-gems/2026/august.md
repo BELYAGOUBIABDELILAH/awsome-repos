@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 637
+**Gems Found**: 616
 
 ---
 
@@ -111,47 +111,7 @@
 
 ---
 
-### 6. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
-
-**Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,574 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+773 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
-
----
-
-### 7. [chaitanyagiri&#x2F;munder-difflin](../../repos/chaitanyagiri/munder-difflin.md)
-
-**local multi-agent harness**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,374 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 16, 2026 |
-
-**Why it's a gem**: High growth velocity (+634 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/chaitanyagiri/munder-difflin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chaitanyagiri&#x2F;munder-difflin)
-
----
-
-### 8. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
+### 6. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
 
 **ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.**
 
@@ -171,7 +131,7 @@
 
 ---
 
-### 9. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
+### 7. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
 
 **14MB foundation model for tiny devices; phones, wearables, smart home, and robots.**
 
@@ -183,7 +143,7 @@
 | 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
-**Why it's a gem**: High growth velocity (+755 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+755 stars&#x2F;day) • Trending 7 times • Strong community engagement
 
 **Best for**: 
 
@@ -191,7 +151,7 @@
 
 ---
 
-### 10. [Unity-Technologies&#x2F;skills](../../repos/Unity-Technologies/skills.md)
+### 8. [Unity-Technologies&#x2F;skills](../../repos/Unity-Technologies/skills.md)
 
 **A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built for Unity workflows**
 
@@ -211,7 +171,27 @@
 
 ---
 
-### 11. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
+### 9. [chaitanyagiri&#x2F;munder-difflin](../../repos/chaitanyagiri/munder-difflin.md)
+
+**local multi-agent harness**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,374 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 16, 2026 |
+
+**Why it's a gem**: High growth velocity (+634 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/chaitanyagiri/munder-difflin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chaitanyagiri&#x2F;munder-difflin)
+
+---
+
+### 10. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
 
 **OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
 
@@ -231,7 +211,7 @@
 
 ---
 
-### 12. [builtbybel&#x2F;FluentCleaner](../../repos/builtbybel/FluentCleaner.md)
+### 11. [builtbybel&#x2F;FluentCleaner](../../repos/builtbybel/FluentCleaner.md)
 
 **A real WinUI desktop cleaner with terminal control and multi-database support**
 
@@ -251,7 +231,7 @@
 
 ---
 
-### 13. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
+### 12. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
 
 **Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
 
@@ -271,7 +251,7 @@
 
 ---
 
-### 14. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
+### 13. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
 
 **Model export recipes, Python primitives, and Swift runtime utilities for on-device AI**
 
@@ -291,7 +271,7 @@
 
 ---
 
-### 15. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
+### 14. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
 
 **Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de&#x2F;plugin-directory-submission.**
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
+### 15. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
 
 **Open-source framework for the research and development of foundation models.**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+### 16. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
 
 **GitHub Stacked PRs**
 
@@ -351,7 +331,7 @@
 
 ---
 
-### 18. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
+### 17. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
 
 **📼 The missing YouTube and YouTube Music macOS app**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+### 18. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
 
 **OCTO Android Client — Open-source enterprise IM**
 
@@ -391,7 +371,7 @@
 
 ---
 
-### 20. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
+### 19. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
 
 **Help AI coding agents write modern Go**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+
+**A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,607 |
+| 💻 **Language** | C++ |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+74 stars&#x2F;day) • Trending 4 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/geo-tp/ESP32-Bit-Pirate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;geo-tp&#x2F;ESP32-Bit-Pirate)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-03T21:01:55.063Z*  
+*Generated: 2026-09-04T21:32:13.842Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

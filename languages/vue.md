@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 74
+- **Total Repositories**: 75
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,839 | 2026-08-01 | 17 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,846 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,356 | 2026-08-01 | 9 |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,359 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | ⭐ 371 | 2026-08-01 | 8 |
+| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 4,081 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 435 | 2026-08-02 | 15 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,468 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ljxi/Cloudflare-R2-oss](../repos/ljxi/Cloudflare-R2-oss.md) | ⭐ 515 | 2026-08-02 | 5 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,362 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 1,835 | 2026-08-02 | 13 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 436 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [imsyy/yt-dlp-gui](../repos/imsyy/yt-dlp-gui.md) | ⭐ 290 | 2026-08-03 | 4 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,609 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,564 | 2026-08-04 | 8 |
+| [imsyy/yt-dlp-gui](../repos/imsyy/yt-dlp-gui.md) | ⭐ 298 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/lms](../repos/frappe/lms.md) | ⭐ 3,184 | 2026-08-06 | 11 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,591 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 5,839 | 2026-08-07 | 10 |
+| [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
 
 
 ---
@@ -52,19 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jumpserver/lina](../repos/jumpserver/lina.md) | ⭐ 233 | 2026-08-05 | Lina is the JumpServer Web UI |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,456 | 2026-08-05 | Next Generation Vue UI Component Library |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [frappe/lms](../repos/frappe/lms.md) | ⭐ 3,184 | 2026-08-06 | Easy to Use, 100% Open Source Learning Management System |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 5,839 | 2026-08-07 | A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,908 | 2026-08-07 | 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-a... |
+| [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-a... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [freqtrade/frequi](../repos/freqtrade/frequi.md) | ⭐ 1,062 | 2026-08-07 | Freqtrade UI - Frontend for Freqtrade |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chenjigang4167/testhub_platform](../repos/chenjigang4167/testhub_platform.md) | ⭐ 736 | 2026-08-12 | AI-Powered Testing Platform |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [yangzongzhuan/RuoYi-Vue3](../repos/yangzongzhuan/RuoYi-Vue3.md) | ⭐ 6,710 | 2026-08-12 | :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 &amp; Vite、Element Plus 的前后端分离权限管理系统 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BansheeTech/HomeDockOS](../repos/BansheeTech/HomeDockOS.md) | ⭐ 894 | 2026-08-12 | An intuitive, versatile, and powerful home server operating system for self-hosting. Featuring a ... |
 
 
 ---
@@ -90,22 +90,22 @@
 |------------|-------|------------|---------------|
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,197 | 2026-08-01 | 9 |
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,059 | 2026-08-01 | 8 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,344 | 2026-08-01 | 22 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,362 | 2026-08-01 | 23 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,244 | 2026-08-01 | 14 |
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,839 | 2026-08-01 | 17 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,846 | 2026-08-01 | 18 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,856 | 2026-08-08 | 9 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,805 | 2026-08-01 | 14 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,637 | 2026-08-02 | 12 |
-| [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,908 | 2026-08-07 | 2 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,587 | 2026-08-02 | 11 |
+| [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,609 | 2026-08-02 | 12 |
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,456 | 2026-08-05 | 9 |
-| [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,047 | 2026-08-20 | 2 |
+| [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,077 | 2026-08-20 | 3 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,728 | 2026-08-12 | 2 |
 | [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,538 | 2026-08-17 | 3 |
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,564 | 2026-08-04 | 8 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,591 | 2026-08-04 | 9 |
 | [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,305 | 2026-08-03 | 10 |
-| [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,292 | 2026-08-23 | 3 |
+| [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,297 | 2026-08-23 | 4 |
 | [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,844 | 2026-08-03 | 2 |
 | [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,679 | 2026-08-08 | 5 |
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 22 | ⭐ 33,344 | 2026-08-01 | 2026-09-02 |
-| [requarks/wiki](../repos/requarks/wiki.md) | 17 | ⭐ 28,839 | 2026-08-01 | 2026-09-03 |
-| [frappe/crm](../repos/frappe/crm.md) | 16 | ⭐ 3,448 | 2026-08-01 | 2026-09-01 |
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 15 | ⭐ 435 | 2026-08-02 | 2026-09-03 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 23 | ⭐ 33,362 | 2026-08-01 | 2026-09-04 |
+| [requarks/wiki](../repos/requarks/wiki.md) | 18 | ⭐ 28,846 | 2026-08-01 | 2026-09-04 |
+| [frappe/crm](../repos/frappe/crm.md) | 17 | ⭐ 3,468 | 2026-08-01 | 2026-09-04 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 16 | ⭐ 436 | 2026-08-02 | 2026-09-04 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 14 | ⭐ 4,099 | 2026-08-01 | 2026-08-29 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 14 | ⭐ 33,244 | 2026-08-01 | 2026-09-02 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 14 | ⭐ 21,805 | 2026-08-01 | 2026-08-29 |
 | [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 13 | ⭐ 1,835 | 2026-08-02 | 2026-09-03 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 13 | ⭐ 2,062 | 2026-08-02 | 2026-09-01 |
-| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | 12 | ⭐ 21,637 | 2026-08-02 | 2026-09-01 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 12 | ⭐ 16,609 | 2026-08-02 | 2026-09-04 |
 
 ---
 
@@ -204,7 +204,8 @@
 - [fastapiadmin/FastapiAdmin](../repos/fastapiadmin/FastapiAdmin.md) - FastapiAdmin 是一套完全开源的快速开发平台，提供免费使用。它结合了现代、高性能的技术栈，后端采用Fastapi + SQLAlchemy，前端采用基于 vue3 + typescri...
 - [Jelosus2/BD2-L2D-Viewer](../repos/Jelosus2/BD2-L2D-Viewer.md) - Brown Dust 2 Live 2D Viewer
 - [build-admin/buildadmin](../repos/build-admin/buildadmin.md) - 可视化生成CRUD代码、内置WEB终端、workerman常驻内存运行支持，技术栈为Vue3.x(setup)+ThinkPHP8+TypeScript+Vite+Pinia+Element P...
+- [1sdv/TripStar](../repos/1sdv/TripStar.md) - 旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的各种问题，为提供一站式旅游攻略而生。
 
 ---
 
-*Last updated: 2026-09-03T21:01:49.988Z*
+*Last updated: 2026-09-04T21:32:08.754Z*
