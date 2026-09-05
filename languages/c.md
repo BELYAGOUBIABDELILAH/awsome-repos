@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 161
+- **Total Repositories**: 166
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 69,627 | 2026-08-01 | 14 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,429 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,076 | 2026-08-01 | 7 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 69,737 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mcu-tools/mcuboot](../repos/mcu-tools/mcuboot.md) | ⭐ 2,082 | 2026-08-01 | 2 |
+| [mcu-tools/mcuboot](../repos/mcu-tools/mcuboot.md) | ⭐ 2,088 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,937 | 2026-08-04 | 12 |
+| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 814 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sonic-net/sonic-buildimage](../repos/sonic-net/sonic-buildimage.md) | ⭐ 1,019 | 2026-08-05 | 4 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,473 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,699 | 2026-08-07 | 12 |
+| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,067 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rexglue/rexglue-sdk](../repos/rexglue/rexglue-sdk.md) | ⭐ 845 | 2026-08-08 | 4 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,331 | 2026-08-07 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 22,910 | 2026-08-12 | 4 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,711 | 2026-08-07 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/esp-claw](../repos/espressif/esp-claw.md) | ⭐ 2,086 | 2026-08-12 | 4 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,285 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [u-boot/u-boot](../repos/u-boot/u-boot.md) | ⭐ 5,231 | 2026-08-14 | 4 |
+| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 22,922 | 2026-08-12 | 5 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 26,621 | 2026-08-06 | World&#39;s fastest and most advanced password recovery utility |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,379 | 2026-08-06 | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, s... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [esnet/iperf](../repos/esnet/iperf.md) | ⭐ 8,691 | 2026-08-06 | iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [uber/h3](../repos/uber/h3.md) | ⭐ 6,448 | 2026-08-06 | Hexagonal hierarchical geospatial indexing system |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [srwi/EverythingToolbar](../repos/srwi/EverythingToolbar.md) | ⭐ 14,510 | 2026-08-06 | Everything integration for the Windows taskbar. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nrfconnect/sdk-nrf](../repos/nrfconnect/sdk-nrf.md) | ⭐ 1,406 | 2026-08-06 | nRF Connect SDK main repository |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/XNNPACK](../repos/google/XNNPACK.md) | ⭐ 2,425 | 2026-08-06 | High-efficiency floating-point neural network inference operators for mobile, server, and Web |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [timescale/timescaledb](../repos/timescale/timescaledb.md) | ⭐ 23,310 | 2026-08-07 | A time-series database for high-performance real-time analytics packaged as a Postgres extension |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,054 | 2026-08-07 | A massively spiffy yet delicately unobtrusive compression library. |
+| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,067 | 2026-08-07 | A massively spiffy yet delicately unobtrusive compression library. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [quickjs-ng/quickjs](../repos/quickjs-ng/quickjs.md) | ⭐ 3,631 | 2026-08-07 | QuickJS, the Next Generation: a mighty JavaScript engine |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,331 | 2026-08-07 | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge grap... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zmkfirmware/zmk](../repos/zmkfirmware/zmk.md) | ⭐ 4,205 | 2026-08-07 | ZMK Firmware Repository |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [asterisk/asterisk](../repos/asterisk/asterisk.md) | ⭐ 3,470 | 2026-08-07 | The official Asterisk Project repository. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [wolfSSL/wolfssl](../repos/wolfSSL/wolfssl.md) | ⭐ 2,899 | 2026-08-07 | The wolfSSL library is a small, fast, portable implementation of TLS&#x2F;SSL for embedded devices to ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | 2026-08-07 | Display and control your Android device |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,711 | 2026-08-07 | Zstandard - Fast real-time compression algorithm |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 6,424 | 2026-08-08 | Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1) |
 
 
 ---
@@ -89,13 +89,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | 2026-08-07 | 10 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,201 | 2026-08-01 | 15 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,429 | 2026-08-01 | 16 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 78,928 | 2026-08-24 | 1 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,476 | 2026-08-02 | 10 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 69,627 | 2026-08-01 | 14 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 69,737 | 2026-08-01 | 15 |
 | [git/git](../repos/git/git.md) | ⭐ 62,663 | 2026-08-05 | 3 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,058 | 2026-08-07 | 14 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,331 | 2026-08-07 | 15 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,314 | 2026-08-01 | 4 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,255 | 2026-08-08 | 3 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,804 | 2026-08-02 | 6 |
@@ -105,8 +105,8 @@
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 32,007 | 2026-08-17 | 1 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,565 | 2026-08-02 | 5 |
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,249 | 2026-08-09 | 5 |
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,699 | 2026-08-07 | 12 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,285 | 2026-08-09 | 6 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,711 | 2026-08-07 | 13 |
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,144 | 2026-08-01 | 9 |
 
 ---
@@ -115,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 15 | ⭐ 138,201 | 2026-08-01 | 2026-08-29 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 14 | ⭐ 69,627 | 2026-08-01 | 2026-09-04 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 14 | ⭐ 42,058 | 2026-08-07 | 2026-09-03 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 16 | ⭐ 138,429 | 2026-08-01 | 2026-09-05 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 15 | ⭐ 69,737 | 2026-08-01 | 2026-09-05 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 15 | ⭐ 42,331 | 2026-08-07 | 2026-09-05 |
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 13 | ⭐ 16,379 | 2026-08-06 | 2026-09-02 |
+| [facebook/zstd](../repos/facebook/zstd.md) | 13 | ⭐ 27,711 | 2026-08-07 | 2026-09-05 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 12 | ⭐ 6,937 | 2026-08-04 | 2026-09-04 |
-| [facebook/zstd](../repos/facebook/zstd.md) | 12 | ⭐ 27,699 | 2026-08-07 | 2026-09-04 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 11 | ⭐ 4,473 | 2026-08-04 | 2026-09-05 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 10 | ⭐ 75,476 | 2026-08-02 | 2026-08-26 |
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 10 | ⭐ 4,463 | 2026-08-04 | 2026-09-01 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 10 | ⭐ 148,747 | 2026-08-07 | 2026-09-02 |
 | [libuv/libuv](../repos/libuv/libuv.md) | 9 | ⭐ 27,144 | 2026-08-01 | 2026-08-29 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.662Z*
+*Last updated: 2026-09-05T21:02:01.053Z*

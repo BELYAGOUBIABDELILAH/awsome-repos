@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-04T21:32:13.988Z",
-  "total_repositories": 3005,
-  "trending_today": 387,
-  "new_this_month": 1735,
+  "generated_at": "2026-09-05T21:02:04.978Z",
+  "total_repositories": 3036,
+  "trending_today": 391,
+  "new_this_month": 1629,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-09-04",
+  "last_collection": "2026-09-05",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 31,
+    "trending_days": 32,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "bikini/exploitarium",
-    "stars": 4487,
-    "first_seen": "2026-09-04"
+    "full_name": "BraveOPotato/FckSignups",
+    "stars": 2831,
+    "first_seen": "2026-09-05"
   },
   "fastest_growing": {
     "full_name": "openai/whisper",
@@ -26,11 +26,11 @@
     "growth_rate": 250,
     "first_seen": "2026-07-31"
   },
-  "total_stars": 45168339,
-  "avg_stars": 15031,
-  "avg_trending_days": 4.3,
+  "total_stars": 45376818,
+  "avg_stars": 14946,
+  "avg_trending_days": 4.4,
   "language_count": 55,
-  "topic_count": 8263,
+  "topic_count": 8312,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

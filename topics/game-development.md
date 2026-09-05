@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 229
+- **Total Repositories**: 231
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-08-24
-- **Average Stars**: 18297
+- **Last Updated**: 2026-09-05
+- **Average Stars**: 18178
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,782 | Go |  |
+| [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 25,097 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,076 | C |  |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,239 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [decidim/decidim](../repos/decidim/decidim.md) | ⭐ 1,810 | Ruby |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,702 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,755 | Ruby |  |
+| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,257 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,472 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,473 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,948 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,950 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,772 | Clojure |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,786 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,513 | OCaml |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,523 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,088 | Zig |  |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,514 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,852 | Vim Script |  |
+| [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 12,442 | HTML |  |
 
 
 ---
@@ -53,7 +53,7 @@
 
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 179,343 | Go | 2026-08-01 | 10 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,239 | Go | 2026-08-01 | 11 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | C | 2026-08-07 | 10 |
 | [golang/go](../repos/golang/go.md) | ⭐ 137,097 | Go | 2026-07-31 | 7 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 125,949 | Go | 2026-08-04 | 4 |
@@ -73,7 +73,13 @@
 | [golang/go](../repos/golang/go.md) | ⭐ 137,097 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 25,097 | Rust | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,782 | Go | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,239 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,076 | C | 1 |
@@ -88,16 +94,10 @@
 | [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,325 | C# | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,697 | Ruby | 1 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,702 | Ruby | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,256 | Ruby | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [decidim/decidim](../repos/decidim/decidim.md) | ⭐ 1,810 | Ruby | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,755 | Ruby | 4 |
+| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,257 | Ruby | 1 |
 
 ---
 
@@ -105,38 +105,42 @@
 
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [playcanvas/supersplat](../repos/playcanvas/supersplat.md) | ⭐ 9,798 | TypeScript | 2026-08-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [coder/coder](../repos/coder/coder.md) | ⭐ 14,086 | Go | 2026-08-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [DataDog/datadog-agent](../repos/DataDog/datadog-agent.md) | ⭐ 3,715 | Go | 2026-08-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,527 | Go | 2026-08-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 7,146 | Go | 2026-08-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [harness/harness](../repos/harness/harness.md) | ⭐ 37,964 | Go | 2026-08-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 26,621 | C | 2026-08-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [laravel/boost](../repos/laravel/boost.md) | ⭐ 3,592 | PHP | 2026-08-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [z88dk/z88dk](../repos/z88dk/z88dk.md) | ⭐ 1,131 | Assembly | 2026-08-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
 | [openbao/openbao](../repos/openbao/openbao.md) | ⭐ 6,958 | Go | 2026-08-07 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [lemonade-sdk/lemonade](../repos/lemonade-sdk/lemonade.md) | ⭐ 5,530 | C++ | 2026-08-07 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [aseprite/aseprite](../repos/aseprite/aseprite.md) | ⭐ 39,045 | C++ | 2026-08-07 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [asterisk/asterisk](../repos/asterisk/asterisk.md) | ⭐ 3,470 | C | 2026-08-07 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | C | 2026-08-07 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [raylib-zig/raylib-zig](../repos/raylib-zig/raylib-zig.md) | ⭐ 1,852 | Zig | 2026-08-07 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [apache/arrow-go](../repos/apache/arrow-go.md) | ⭐ 399 | Assembly | 2026-08-07 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [anchore/grype](../repos/anchore/grype.md) | ⭐ 12,704 | Go | 2026-08-08 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,068 | C++ | 2026-08-08 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [alibaba/MNN](../repos/alibaba/MNN.md) | ⭐ 15,925 | C++ | 2026-08-08 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-09-05](../archive/2026/09/2026-09-05.md)
+- 34 repositories trending
+- Top: ollama&#x2F;ollama
 
 ### [2026-09-04](../archive/2026/09/2026-09-04.md)
 - 27 repositories trending
@@ -154,10 +158,6 @@
 - 30 repositories trending
 - Top: golang&#x2F;go
 
-### [2026-08-29](../archive/2026/08/2026-08-29.md)
-- 30 repositories trending
-- Top: logseq&#x2F;logseq
-
 
 ---
 
@@ -167,32 +167,32 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 31 days | 2026-08-01 | 2026-09-04 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 30 days | 2026-08-01 | 2026-09-04 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 29 days | 2026-08-01 | 2026-09-04 |
-| [vlang/v](../repos/vlang/v.md) | 28 days | 2026-08-01 | 2026-09-04 |
-| [joernio/joern](../repos/joernio/joern.md) | 27 days | 2026-08-01 | 2026-09-04 |
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 26 days | 2026-08-01 | 2026-09-04 |
-| [vim/vim](../repos/vim/vim.md) | 26 days | 2026-08-01 | 2026-09-04 |
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 22 days | 2026-08-01 | 2026-09-02 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | 22 days | 2026-08-02 | 2026-09-04 |
-| [facebook/infer](../repos/facebook/infer.md) | 21 days | 2026-08-02 | 2026-09-02 |
+| [apache/spark](../repos/apache/spark.md) | 32 days | 2026-08-01 | 2026-09-05 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 31 days | 2026-08-01 | 2026-09-05 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 30 days | 2026-08-01 | 2026-09-05 |
+| [vlang/v](../repos/vlang/v.md) | 29 days | 2026-08-01 | 2026-09-05 |
+| [joernio/joern](../repos/joernio/joern.md) | 28 days | 2026-08-01 | 2026-09-05 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 27 days | 2026-08-01 | 2026-09-05 |
+| [vim/vim](../repos/vim/vim.md) | 27 days | 2026-08-01 | 2026-09-05 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 23 days | 2026-08-01 | 2026-09-05 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | 23 days | 2026-08-02 | 2026-09-05 |
+| [facebook/infer](../repos/facebook/infer.md) | 22 days | 2026-08-02 | 2026-09-05 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 50 repositories (22%)
-- **C**: 31 repositories (14%)
+- **Go**: 51 repositories (22%)
+- **C**: 31 repositories (13%)
 - **C++**: 28 repositories (12%)
-- **C#**: 19 repositories (8%)
+- **C#**: 20 repositories (9%)
 - **Rust**: 10 repositories (4%)
 
 ### Trending Frequency
-- **Daily Average**: 32 repositories
+- **Daily Average**: 32.1 repositories
 - **Peak Day**: 2026-08-24 (48 repositories)
-- **Growth Rate**: 55% this month
+- **Growth Rate**: 52% this month
 
 ---
 
@@ -306,4 +306,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.532Z*
+*Last updated: 2026-09-05T21:02:00.962Z*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-04
+- **Last Updated**: 2026-09-05
 
 ---
 
@@ -16,10 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,874 | 2026-08-01 | 20 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,252 | 2026-08-07 | 10 |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,875 | 2026-08-01 | 21 |
 
 
 ---
@@ -37,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,874 | 2026-08-01 | 20 |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,875 | 2026-08-01 | 21 |
 | [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,252 | 2026-08-07 | 10 |
 
 ---
@@ -46,7 +43,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | 20 | ⭐ 2,874 | 2026-08-01 | 2026-09-04 |
+| [ghdl/ghdl](../repos/ghdl/ghdl.md) | 21 | ⭐ 2,875 | 2026-08-01 | 2026-09-05 |
 | [stnolting/neorv32](../repos/stnolting/neorv32.md) | 10 | ⭐ 2,252 | 2026-08-07 | 2026-09-04 |
 
 ---
@@ -58,4 +55,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.746Z*
+*Last updated: 2026-09-05T21:02:01.112Z*

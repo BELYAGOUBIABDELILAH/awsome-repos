@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 15
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-04
+- **Last Updated**: 2026-09-05
 
 ---
 
@@ -16,22 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,689 | 2026-08-01 | 25 |
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,691 | 2026-08-01 | 26 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [proper-testing/proper](../repos/proper-testing/proper.md) | ⭐ 918 | 2026-08-06 | PropEr: a QuickCheck-inspired property-based testing tool for Erlang |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ninenines/gun](../repos/ninenines/gun.md) | ⭐ 947 | 2026-08-06 | HTTP&#x2F;1.1, HTTP&#x2F;2, Websocket client (and more) for Erlang&#x2F;OTP. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hexpm/hex_core](../repos/hexpm/hex_core.md) | ⭐ 105 | 2026-08-06 | Reference implementation of Hex specifications. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,720 | 2026-08-08 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |
@@ -46,7 +37,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,689 | 2026-08-01 | 25 |
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,691 | 2026-08-01 | 26 |
 | [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,347 | 2026-08-01 | 27 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | ⭐ 7,524 | 2026-08-03 | 20 |
 | [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 6,944 | 2026-08-03 | 11 |
@@ -69,7 +60,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [erlang/otp](../repos/erlang/otp.md) | 27 | ⭐ 12,347 | 2026-08-01 | 2026-09-03 |
-| [emqx/emqx](../repos/emqx/emqx.md) | 25 | ⭐ 16,689 | 2026-08-01 | 2026-09-04 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 26 | ⭐ 16,691 | 2026-08-01 | 2026-09-05 |
 | [WhatsApp/erlfmt](../repos/WhatsApp/erlfmt.md) | 23 | ⭐ 464 | 2026-08-01 | 2026-09-01 |
 | [blt/port_compiler](../repos/blt/port_compiler.md) | 20 | ⭐ 69 | 2026-08-01 | 2026-08-29 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | 20 | ⭐ 7,524 | 2026-08-03 | 2026-09-01 |
@@ -101,4 +92,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.686Z*
+*Last updated: 2026-09-05T21:02:01.070Z*

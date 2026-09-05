@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 218
+- **Total Repositories**: 221
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-08-24
+- **Last Updated**: 2026-09-05
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 47,310 | 2026-08-01 | 11 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 48,995 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 48,886 | 2026-08-01 | 9 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,239 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,782 | 2026-08-01 | 12 |
+| [looplj/axonhub](../repos/looplj/axonhub.md) | ⭐ 5,167 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 21,340 | 2026-08-01 | 11 |
+| [AlexxIT/go2rtc](../repos/AlexxIT/go2rtc.md) | ⭐ 14,119 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 1,756 | 2026-08-02 | 10 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 26,920 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 26,896 | 2026-08-04 | 7 |
+| [github/github-mcp-server](../repos/github/github-mcp-server.md) | ⭐ 32,736 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DataDog/datadog-agent](../repos/DataDog/datadog-agent.md) | ⭐ 3,715 | 2026-08-06 | 2 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 40,552 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 40,452 | 2026-08-07 | 8 |
+| [livekit/livekit](../repos/livekit/livekit.md) | ⭐ 20,723 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/actions-runner-controller](../repos/actions/actions-runner-controller.md) | ⭐ 6,481 | 2026-08-08 | 2 |
+| [hatchet-dev/hatchet](../repos/hatchet-dev/hatchet.md) | ⭐ 7,879 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kedacore/keda](../repos/kedacore/keda.md) | ⭐ 10,493 | 2026-08-14 | 2 |
+| [coredns/coredns](../repos/coredns/coredns.md) | ⭐ 14,293 | 2026-08-20 | 4 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [coder/coder](../repos/coder/coder.md) | ⭐ 14,086 | 2026-08-06 | Secure environments for developers and their agents |
+| [apernet/hysteria](../repos/apernet/hysteria.md) | ⭐ 22,288 | 2026-08-07 | Hysteria is a powerful, lightning fast and censorship resistant proxy. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [DataDog/datadog-agent](../repos/DataDog/datadog-agent.md) | ⭐ 3,715 | 2026-08-06 | Main repository for Datadog Agent |
+| [gophish/gophish](../repos/gophish/gophish.md) | ⭐ 14,099 | 2026-08-07 | Open-Source Phishing Toolkit |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/osv-scanner](../repos/google/osv-scanner.md) | ⭐ 10,903 | 2026-08-06 | Vulnerability scanner written in Go which uses the data provided by https:&#x2F;&#x2F;osv.dev |
+| [kubernetes-sigs/kind](../repos/kubernetes-sigs/kind.md) | ⭐ 15,404 | 2026-08-07 | Kubernetes IN Docker - local clusters for testing Kubernetes |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,527 | 2026-08-06 | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is... |
+| [openbao/openbao](../repos/openbao/openbao.md) | ⭐ 6,958 | 2026-08-07 | OpenBao is a software solution to manage, store, and distribute sensitive data including secrets,... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 7,146 | 2026-08-06 | Modern Docker Management, Designed for Everyone |
+| [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | 2026-08-07 | Run your GitHub Actions locally 🚀 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 89,592 | 2026-08-06 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-e... |
+| [veops/oneterm](../repos/veops/oneterm.md) | ⭐ 1,688 | 2026-08-07 | Provide secure access and control over all infrastructure |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [akuity/kargo](../repos/akuity/kargo.md) | ⭐ 3,515 | 2026-08-06 | Application lifecycle orchestration |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 40,552 | 2026-08-07 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [chenyme/grok2api](../repos/chenyme/grok2api.md) | ⭐ 7,237 | 2026-08-06 | Multi-account API gateway for Grok Build, Grok Web, and Grok Console |
+| [livekit/livekit](../repos/livekit/livekit.md) | ⭐ 20,723 | 2026-08-07 | End-to-end realtime stack for connecting humans and AI |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [YouROK/TorrServer](../repos/YouROK/TorrServer.md) | ⭐ 2,872 | 2026-08-06 | Torrent stream server |
+| [higress-group/higress](../repos/higress-group/higress.md) | ⭐ 9,218 | 2026-08-07 | 🤖 AI Gateway | AI Native API Gateway |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [komari-monitor/komari](../repos/komari-monitor/komari.md) | ⭐ 5,590 | 2026-08-06 | A simple server monitor tool. |
+| [containers/kubernetes-mcp-server](../repos/containers/kubernetes-mcp-server.md) | ⭐ 1,912 | 2026-08-07 | Model Context Protocol (MCP) server for Kubernetes and OpenShift |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 179,343 | 2026-08-01 | 10 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,239 | 2026-08-01 | 11 |
 | [golang/go](../repos/golang/go.md) | ⭐ 137,097 | 2026-07-31 | 7 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 125,949 | 2026-08-04 | 4 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,657 | 2026-08-15 | 4 |
@@ -106,7 +106,7 @@
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,527 | 2026-08-06 | 6 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 48,886 | 2026-08-01 | 9 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 48,995 | 2026-08-01 | 10 |
 | [gogs/gogs](../repos/gogs/gogs.md) | ⭐ 47,800 | 2026-09-03 | 1 |
 
 ---
@@ -118,13 +118,13 @@
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 12 | ⭐ 37,782 | 2026-08-01 | 2026-09-04 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 11 | ⭐ 47,310 | 2026-08-01 | 2026-09-04 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 11 | ⭐ 21,340 | 2026-08-01 | 2026-09-04 |
-| [ollama/ollama](../repos/ollama/ollama.md) | 10 | ⭐ 179,343 | 2026-08-01 | 2026-08-24 |
+| [ollama/ollama](../repos/ollama/ollama.md) | 11 | ⭐ 180,239 | 2026-08-01 | 2026-09-05 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 10 | ⭐ 48,995 | 2026-08-01 | 2026-09-05 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 10 | ⭐ 1,756 | 2026-08-02 | 2026-09-04 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 9 | ⭐ 48,886 | 2026-08-01 | 2026-09-04 |
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 8 | ⭐ 40,452 | 2026-08-07 | 2026-09-04 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 9 | ⭐ 40,552 | 2026-08-07 | 2026-09-05 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | 8 | ⭐ 26,920 | 2026-08-04 | 2026-09-05 |
 | [golang/go](../repos/golang/go.md) | 7 | ⭐ 137,097 | 2026-07-31 | 2026-09-01 |
 | [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 7 | ⭐ 37,500 | 2026-08-03 | 2026-09-01 |
-| [gastownhall/beads](../repos/gastownhall/beads.md) | 7 | ⭐ 26,896 | 2026-08-04 | 2026-09-04 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.691Z*
+*Last updated: 2026-09-05T21:02:01.074Z*

@@ -16,22 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,590 | 2026-08-01 | 24 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,590 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 662 | 2026-08-01 | 23 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 663 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 891 | 2026-08-01 | 22 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,795 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,990 | 2026-08-04 | 14 |
+| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,149 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,149 | 2026-08-04 | 14 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 384 | 2026-08-08 | 20 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 385 | 2026-08-08 | 21 |
 
 
 ---
@@ -40,10 +37,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [rstudio/renv](../repos/rstudio/renv.md) | ⭐ 1,160 | 2026-08-06 | renv: Project environments for R. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 384 | 2026-08-08 | Automated nflverse data repository |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 385 | 2026-08-08 | Automated nflverse data repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,054 | 2026-08-08 | Dynamic Documents for R |
@@ -69,19 +63,19 @@
 |------------|-------|------------|---------------|
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,990 | 2026-08-04 | 14 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,681 | 2026-08-02 | 12 |
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,149 | 2026-08-04 | 14 |
+| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,149 | 2026-08-04 | 15 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,066 | 2026-08-04 | 12 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,590 | 2026-08-01 | 24 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,590 | 2026-08-01 | 25 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,913 | 2026-08-04 | 12 |
 | [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,054 | 2026-08-08 | 1 |
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,792 | 2026-08-01 | 21 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,795 | 2026-08-01 | 22 |
 | [jokergoo/ComplexHeatmap](../repos/jokergoo/ComplexHeatmap.md) | ⭐ 1,554 | 2026-09-01 | 1 |
 | [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,442 | 2026-08-04 | 5 |
 | [rstudio/renv](../repos/rstudio/renv.md) | ⭐ 1,160 | 2026-08-06 | 1 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 891 | 2026-08-01 | 22 |
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 662 | 2026-08-01 | 23 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 663 | 2026-08-01 | 24 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 486 | 2026-08-03 | 8 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 384 | 2026-08-08 | 20 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 385 | 2026-08-08 | 21 |
 | [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 153 | 2026-08-09 | 12 |
 | [cf-convention/cf-conventions](../repos/cf-convention/cf-conventions.md) | ⭐ 100 | 2026-08-17 | 2 |
 | [r-lib/bit64](../repos/r-lib/bit64.md) | ⭐ 40 | 2026-08-16 | 1 |
@@ -92,13 +86,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 24 | ⭐ 4,590 | 2026-08-01 | 2026-09-04 |
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 23 | ⭐ 662 | 2026-08-01 | 2026-09-04 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 25 | ⭐ 4,590 | 2026-08-01 | 2026-09-05 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 24 | ⭐ 663 | 2026-08-01 | 2026-09-05 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | 22 | ⭐ 2,795 | 2026-08-01 | 2026-09-05 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 22 | ⭐ 891 | 2026-08-01 | 2026-09-04 |
-| [satijalab/seurat](../repos/satijalab/seurat.md) | 21 | ⭐ 2,792 | 2026-08-01 | 2026-09-02 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 20 | ⭐ 384 | 2026-08-08 | 2026-09-04 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 21 | ⭐ 385 | 2026-08-08 | 2026-09-05 |
+| [hadley/r4ds](../repos/hadley/r4ds.md) | 15 | ⭐ 5,149 | 2026-08-04 | 2026-09-05 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 14 | ⭐ 6,990 | 2026-08-04 | 2026-09-04 |
-| [hadley/r4ds](../repos/hadley/r4ds.md) | 14 | ⭐ 5,149 | 2026-08-04 | 2026-09-04 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | 12 | ⭐ 5,681 | 2026-08-02 | 2026-08-25 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 12 | ⭐ 5,066 | 2026-08-04 | 2026-09-02 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 12 | ⭐ 3,913 | 2026-08-04 | 2026-08-29 |
@@ -128,4 +122,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.728Z*
+*Last updated: 2026-09-05T21:02:01.101Z*

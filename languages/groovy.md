@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 9
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-03
+- **Last Updated**: 2026-09-05
 
 ---
 
@@ -16,16 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,286 | 2026-08-02 | 23 |
+| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,827 | 2026-08-01 | 31 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,287 | 2026-08-02 | 24 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,927 | 2026-08-03 | 16 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | ⭐ 96 | 2026-08-06 | okta-jwt-verifier-java |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | Gradle plugin to discover dependency updates |
@@ -40,15 +46,15 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,823 | 2026-08-01 | 30 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,286 | 2026-08-02 | 23 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,827 | 2026-08-01 | 31 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,287 | 2026-08-02 | 24 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,476 | 2026-08-02 | 17 |
-| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,926 | 2026-08-03 | 15 |
+| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,927 | 2026-08-03 | 16 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 874 | 2026-08-01 | 4 |
 | [NationalSecurityAgency/skills-service](../repos/NationalSecurityAgency/skills-service.md) | ⭐ 633 | 2026-08-27 | 1 |
 | [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | ⭐ 96 | 2026-08-06 | 1 |
-| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | 9 |
+| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | 10 |
 
 ---
 
@@ -56,11 +62,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [gradle/gradle](../repos/gradle/gradle.md) | 30 | ⭐ 18,823 | 2026-08-01 | 2026-09-03 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 23 | ⭐ 6,286 | 2026-08-02 | 2026-09-04 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 31 | ⭐ 18,827 | 2026-08-01 | 2026-09-05 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 24 | ⭐ 6,287 | 2026-08-02 | 2026-09-05 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 17 | ⭐ 3,476 | 2026-08-02 | 2026-08-29 |
-| [apache/grails-core](../repos/apache/grails-core.md) | 15 | ⭐ 2,926 | 2026-08-03 | 2026-09-01 |
-| [gravitee-io/issues](../repos/gravitee-io/issues.md) | 9 | ⭐ 68 | 2026-08-01 | 2026-09-01 |
+| [apache/grails-core](../repos/apache/grails-core.md) | 16 | ⭐ 2,927 | 2026-08-03 | 2026-09-05 |
+| [gravitee-io/issues](../repos/gravitee-io/issues.md) | 10 | ⭐ 68 | 2026-08-01 | 2026-09-05 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | 4 | ⭐ 874 | 2026-08-01 | 2026-08-12 |
 | [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | 1 | ⭐ 96 | 2026-08-06 | 2026-08-06 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | 1 | ⭐ 4,078 | 2026-08-10 | 2026-08-10 |
@@ -82,4 +88,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.693Z*
+*Last updated: 2026-09-05T21:02:01.075Z*

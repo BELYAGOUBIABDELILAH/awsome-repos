@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 93
+- **Total Repositories**: 94
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,28 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,831 | 2026-08-01 | 20 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,896 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openshift/release](../repos/openshift/release.md) | ⭐ 329 | 2026-08-04 | 3 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,138 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,582 | 2026-08-04 | 6 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,787 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,136 | 2026-08-04 | 10 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,503 | 2026-08-07 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,500 | 2026-08-07 | 16 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,808 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,690 | 2026-08-07 | 6 |
+| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,592 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,452 | 2026-08-20 | 7 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,130 | 2026-08-20 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,563 | 2026-09-02 | 2 |
+| [omacom/omarchy-pkgs](../repos/omacom/omarchy-pkgs.md) | ⭐ 97 | 2026-09-02 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [skills/introduction-to-git](../repos/skills/introduction-to-git.md) | ⭐ 195 | 2026-09-05 | 1 |
 
 
 ---
@@ -46,34 +49,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [n8n-io/skills](../repos/n8n-io/skills.md) | ⭐ 462 | 2026-08-06 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [1N3/Sn1per](../repos/1N3/Sn1per.md) | ⭐ 11,166 | 2026-08-06 | Automated penetration testing &amp; attack surface management platform. Recon, scan, exploit, report ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,015 | 2026-08-06 | Windows inside a Docker container. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hestiacp/hestiacp](../repos/hestiacp/hestiacp.md) | ⭐ 4,474 | 2026-08-06 | Hestia Control Panel | A lightweight and powerful control panel for the modern web. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PolyArch/humanize](../repos/PolyArch/humanize.md) | ⭐ 1,373 | 2026-08-06 | From Automated Idea Factory to Realization |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) | ⭐ 4,037 | 2026-08-06 | Run multiple AI models against the same research, design, or coding task. Surface disagreements b... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bitnami/containers](../repos/bitnami/containers.md) | ⭐ 4,446 | 2026-08-06 | Bitnami container images |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | A Zsh theme |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,500 | 2026-08-07 | A collection of AI agent skills for working with Expo projects and Expo Application Services |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,503 | 2026-08-07 | A collection of AI agent skills for working with Expo projects and Expo Application Services |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,801 | 2026-08-07 | Certified Kubernetes Administrator - CKA Course |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,808 | 2026-08-07 | Certified Kubernetes Administrator - CKA Course |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,690 | 2026-08-07 | 😼 优雅地使用基于 clash&#x2F;mihomo 的代理环境 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,694 | 2026-08-07 | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,794 | 2026-08-08 | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) r... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,592 | 2026-08-08 | Redpill Recovery (arpl-i18n) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,187 | 2026-08-08 | Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [testdouble/han](../repos/testdouble/han.md) | ⭐ 195 | 2026-08-08 | Han: AI skills and agents for &quot;Solo&quot; product engineers and small teams |
 
 
 ---
@@ -83,15 +86,15 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,831 | 2026-08-01 | 20 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,896 | 2026-08-01 | 21 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,306 | 2026-08-04 | 4 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,015 | 2026-08-06 | 7 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,582 | 2026-08-04 | 6 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 34,686 | 2026-08-29 | 1 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,130 | 2026-08-20 | 7 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,100 | 2026-08-20 | 6 |
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,563 | 2026-09-02 | 2 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,582 | 2026-08-04 | 9 |
@@ -110,15 +113,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 20 | ⭐ 94,831 | 2026-08-01 | 2026-09-04 |
-| [expo/skills](../repos/expo/skills.md) | 16 | ⭐ 2,500 | 2026-08-07 | 2026-09-04 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 21 | ⭐ 94,896 | 2026-08-01 | 2026-09-05 |
+| [expo/skills](../repos/expo/skills.md) | 17 | ⭐ 2,503 | 2026-08-07 | 2026-09-05 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 13 | ⭐ 4,378 | 2026-08-01 | 2026-09-01 |
-| [github/copilot-cli](../repos/github/copilot-cli.md) | 10 | ⭐ 11,136 | 2026-08-04 | 2026-09-04 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | 11 | ⭐ 11,138 | 2026-08-04 | 2026-09-05 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 9 | ⭐ 25,582 | 2026-08-04 | 2026-09-01 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 9 | ⭐ 4,610 | 2026-08-12 | 2026-09-01 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 8 | ⭐ 2,192 | 2026-08-02 | 2026-08-27 |
 | [wolfi-dev/os](../repos/wolfi-dev/os.md) | 8 | ⭐ 1,276 | 2026-08-14 | 2026-08-26 |
-| [dockur/windows](../repos/dockur/windows.md) | 7 | ⭐ 53,015 | 2026-08-06 | 2026-08-25 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | 7 | ⭐ 2,787 | 2026-08-05 | 2026-09-05 |
 
 ---
 
@@ -217,7 +220,8 @@
 - [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) - Fish-like autosuggestions for zsh
 - [233boy/v2ray](../repos/233boy/v2ray.md) - 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
 - [omacom/omarchy-pkgs](../repos/omacom/omarchy-pkgs.md) - 
+- [skills/introduction-to-git](../repos/skills/introduction-to-git.md) - Use Git version control to work on a game using command line (CLI) and VS Code
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.738Z*
+*Last updated: 2026-09-05T21:02:01.107Z*

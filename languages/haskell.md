@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 29
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-04
+- **Last Updated**: 2026-09-05
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,988 | 2026-08-01 | 28 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,639 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 292 | 2026-08-08 | 12 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,995 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [carp-lang/Carp](../repos/carp-lang/Carp.md) | ⭐ 6,030 | 2026-09-04 | 1 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,177 | 2026-08-01 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [agda/agda](../repos/agda/agda.md) | ⭐ 2,925 | 2026-08-03 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 292 | 2026-08-08 | 13 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,721 | 2026-08-06 | A friendly programming language from the future |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [IntersectMBO/ouroboros-network](../repos/IntersectMBO/ouroboros-network.md) | ⭐ 293 | 2026-08-06 | Specifications of network protocols and implementations of components running these protocols whi... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CategoricalData/hydra](../repos/CategoricalData/hydra.md) | ⭐ 190 | 2026-08-07 | Graph programming language |
@@ -59,6 +59,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [augustss/MicroHs](../repos/augustss/MicroHs.md) | ⭐ 774 | 2026-09-03 | Haskell implemented with combinators |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [carp-lang/Carp](../repos/carp-lang/Carp.md) | ⭐ 6,030 | 2026-09-04 | A statically typed lisp, without a GC, for real-time applications. |
 
 
 ---
@@ -67,17 +70,17 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,988 | 2026-08-01 | 28 |
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,639 | 2026-08-01 | 27 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 39,995 | 2026-08-01 | 29 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,639 | 2026-08-01 | 28 |
 | [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,898 | 2026-08-08 | 2 |
 | [elm/compiler](../repos/elm/compiler.md) | ⭐ 7,887 | 2026-08-09 | 3 |
 | [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,721 | 2026-08-06 | 7 |
 | [carp-lang/Carp](../repos/carp-lang/Carp.md) | ⭐ 6,030 | 2026-09-04 | 1 |
 | [digitallyinduced/ihp](../repos/digitallyinduced/ihp.md) | ⭐ 5,330 | 2026-08-02 | 1 |
 | [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,076 | 2026-08-05 | 5 |
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,177 | 2026-08-01 | 9 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,177 | 2026-08-01 | 10 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,955 | 2026-08-01 | 10 |
-| [agda/agda](../repos/agda/agda.md) | ⭐ 2,920 | 2026-08-03 | 12 |
+| [agda/agda](../repos/agda/agda.md) | ⭐ 2,925 | 2026-08-03 | 13 |
 | [wireapp/wire-server](../repos/wireapp/wire-server.md) | ⭐ 2,783 | 2026-08-04 | 2 |
 | [diku-dk/futhark](../repos/diku-dk/futhark.md) | ⭐ 2,778 | 2026-08-02 | 1 |
 | [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | ⭐ 2,533 | 2026-08-03 | 10 |
@@ -94,15 +97,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 28 | ⭐ 39,988 | 2026-08-01 | 2026-09-04 |
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 27 | ⭐ 27,639 | 2026-08-01 | 2026-09-03 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 29 | ⭐ 39,995 | 2026-08-01 | 2026-09-05 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 28 | ⭐ 27,639 | 2026-08-01 | 2026-09-05 |
 | [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 24 | ⭐ 1,704 | 2026-08-01 | 2026-09-02 |
 | [haskell/cabal](../repos/haskell/cabal.md) | 13 | ⭐ 1,746 | 2026-08-01 | 2026-08-29 |
-| [agda/agda](../repos/agda/agda.md) | 12 | ⭐ 2,920 | 2026-08-03 | 2026-08-26 |
-| [mtolly/onyx](../repos/mtolly/onyx.md) | 12 | ⭐ 292 | 2026-08-08 | 2026-09-04 |
+| [agda/agda](../repos/agda/agda.md) | 13 | ⭐ 2,925 | 2026-08-03 | 2026-09-05 |
+| [mtolly/onyx](../repos/mtolly/onyx.md) | 13 | ⭐ 292 | 2026-08-08 | 2026-09-05 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 10 | ⭐ 2,955 | 2026-08-01 | 2026-09-02 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 10 | ⭐ 3,177 | 2026-08-01 | 2026-09-05 |
 | [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | 10 | ⭐ 2,533 | 2026-08-03 | 2026-08-28 |
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 9 | ⭐ 3,177 | 2026-08-01 | 2026-08-27 |
 | [digital-asset/daml](../repos/digital-asset/daml.md) | 8 | ⭐ 913 | 2026-08-01 | 2026-08-19 |
 
 ---
@@ -141,4 +144,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.698Z*
+*Last updated: 2026-09-05T21:02:01.078Z*

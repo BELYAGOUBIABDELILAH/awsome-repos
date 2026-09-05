@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [clshortfuse/renodx](../repos/clshortfuse/renodx.md) | ⭐ 3,506 | 2026-09-04 | 1 |
 
+*No HLSL repositories trending today*
 
 ---
 
@@ -52,4 +50,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.694Z*
+*Last updated: 2026-09-05T21:02:01.076Z*

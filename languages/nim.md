@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 9
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-04
+- **Last Updated**: 2026-09-05
 
 ---
 
@@ -16,22 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 500 | 2026-08-01 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,217 | 2026-08-01 | 26 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,217 | 2026-08-01 | 27 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | ⭐ 317 | 2026-08-06 | libp2p implementation in Nim |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [status-im/nim-stew](../repos/status-im/nim-stew.md) | ⭐ 154 | 2026-08-06 | stew is collection of utilities, std library extensions and budding libraries that are frequently... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | ⭐ 1,301 | 2026-08-14 | CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of program... |
@@ -43,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,217 | 2026-08-01 | 26 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,217 | 2026-08-01 | 27 |
 | [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | ⭐ 1,301 | 2026-08-14 | 2 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 661 | 2026-08-02 | 7 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 625 | 2026-08-05 | 2 |
@@ -59,7 +50,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 26 | ⭐ 18,217 | 2026-08-01 | 2026-09-04 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 27 | ⭐ 18,217 | 2026-08-01 | 2026-09-05 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | 10 | ⭐ 500 | 2026-08-01 | 2026-09-04 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | 7 | ⭐ 661 | 2026-08-02 | 2026-09-03 |
 | [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | 4 | ⭐ 248 | 2026-08-05 | 2026-09-01 |
@@ -85,4 +76,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.715Z*
+*Last updated: 2026-09-05T21:02:01.091Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 176
+- **Total Repositories**: 181
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,032 | 2026-07-31 | 2 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 29,675 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 50,924 | 2026-08-01 | 7 |
+| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,718 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NateBJones-Projects/OB1](../repos/NateBJones-Projects/OB1.md) | ⭐ 4,557 | 2026-08-02 | 2 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 102,103 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 131,342 | 2026-08-02 | 9 |
+| [cobusgreyling/loop-engineering](../repos/cobusgreyling/loop-engineering.md) | ⭐ 10,982 | 2026-08-10 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/docs](../repos/github/docs.md) | ⭐ 20,780 | 2026-08-09 | 2 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 70,662 | 2026-08-10 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 61,677 | 2026-08-11 | 9 |
+| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 3,134 | 2026-08-20 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Gitlawb/openclaude](../repos/Gitlawb/openclaude.md) | ⭐ 32,553 | 2026-08-17 | 5 |
+| [tradingview/lightweight-charts](../repos/tradingview/lightweight-charts.md) | ⭐ 17,184 | 2026-08-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 2,395 | 2026-08-20 | 4 |
+| [humanlayer/skills](../repos/humanlayer/skills.md) | ⭐ 2,650 | 2026-09-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | 2026-09-01 | 2 |
+| [BraveOPotato/FckSignups](../repos/BraveOPotato/FckSignups.md) | ⭐ 2,831 | 2026-09-05 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/portless](../repos/vercel-labs/portless.md) | ⭐ 12,124 | 2026-09-02 | 3 |
+| [actions/upload-artifact](../repos/actions/upload-artifact.md) | ⭐ 4,188 | 2026-09-05 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [AdventDevInc/kudu](../repos/AdventDevInc/kudu.md) | ⭐ 2,029 | 2026-08-06 | Free Windows, Mac and Linux cleaner, scanner, and more. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [iOfficeAI/AionUi](../repos/iOfficeAI/AionUi.md) | ⭐ 31,664 | 2026-08-06 | Open-source 24&#x2F;7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI A... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [expo/expo](../repos/expo/expo.md) | ⭐ 51,800 | 2026-08-06 | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [makeplane/plane](../repos/makeplane/plane.md) | ⭐ 58,350 | 2026-08-06 | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project manag... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [CherryHQ/cherry-studio](../repos/CherryHQ/cherry-studio.md) | ⭐ 49,894 | 2026-08-06 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [QwenLM/qwen-code](../repos/QwenLM/qwen-code.md) | ⭐ 27,121 | 2026-08-06 | An open-source AI coding agent that lives in your terminal. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [playcanvas/supersplat](../repos/playcanvas/supersplat.md) | ⭐ 9,798 | 2026-08-06 | 3D Gaussian Splat Editor |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) | ⭐ 4,824 | 2026-08-06 | The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [promptfoo/promptfoo](../repos/promptfoo/promptfoo.md) | ⭐ 24,013 | 2026-08-06 | Test your prompts, agents, and RAGs. Red teaming&#x2F;pentesting&#x2F;vulnerability scanning for AI. Compar... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 13,986 | 2026-08-07 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 22,177 | 2026-08-07 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one &#x2F;v1... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [open-mercato/open-mercato](../repos/open-mercato/open-mercato.md) | ⭐ 1,576 | 2026-08-07 | AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [payloadcms/payload](../repos/payloadcms/payload.md) | ⭐ 44,042 | 2026-08-07 | Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) | ⭐ 9,675 | 2026-08-07 | The free coding agent |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | The context API to search, scrape, and interact with the web at scale. 🔥 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CopilotKit/CopilotKit](../repos/CopilotKit/CopilotKit.md) | ⭐ 36,961 | 2026-08-07 | The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more.  Makers o... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 102,103 | 2026-08-07 | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [deepcoldy/botmux](../repos/deepcoldy/botmux.md) | ⭐ 998 | 2026-08-07 | Bridge Feishu&#x2F;Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or t... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 43,709 | 2026-08-08 | Write HTML. Render video. Built for agents. |
 
 
 ---
@@ -93,12 +93,12 @@
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | 2026-09-01 | 2 |
-| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,270 | 2026-08-02 | 4 |
+| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,718 | 2026-08-02 | 5 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 131,342 | 2026-08-02 | 9 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,032 | 2026-07-31 | 2 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | 2026-08-17 | 2 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 101,427 | 2026-08-07 | 7 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 102,103 | 2026-08-07 | 8 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | 3 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 11 | ⭐ 29,675 | 2026-08-02 | 2026-09-05 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 11 | ⭐ 22,177 | 2026-08-07 | 2026-08-29 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 10 | ⭐ 6,150 | 2026-08-01 | 2026-08-29 |
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 10 | ⭐ 27,673 | 2026-08-02 | 2026-08-26 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 9 | ⭐ 131,342 | 2026-08-02 | 2026-09-04 |
 | [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 9 | ⭐ 61,677 | 2026-08-11 | 2026-09-04 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | 8 | ⭐ 102,103 | 2026-08-07 | 2026-09-05 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 7 | ⭐ 50,924 | 2026-08-01 | 2026-09-04 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | 7 | ⭐ 101,427 | 2026-08-07 | 2026-09-03 |
 
 ---
 
@@ -203,6 +203,7 @@
 - [browseros-ai/BrowserOS](../repos/browseros-ai/BrowserOS.md) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [yikart/AiToEarn](../repos/yikart/AiToEarn.md) - Let&#39;s use AI to Earn!
 - [Mininglamp-OSS/octo-web](../repos/Mininglamp-OSS/octo-web.md) - Web &amp; desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shi...
+- [cobusgreyling/loop-engineering](../repos/cobusgreyling/loop-engineering.md) - Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design syste...
 - [dyad-sh/dyad](../repos/dyad-sh/dyad.md) - Local, open-source AI app builder for power users ✨ v0 &#x2F; Lovable &#x2F; Replit &#x2F; Bolt alternative 🌟 S...
 - [vercel-labs/skills](../repos/vercel-labs/skills.md) - The open agent skills tool - npx skills
 - [joelbqz/writer-computer](../repos/joelbqz/writer-computer.md) - Local-first desktop markdown editor
@@ -229,8 +230,7 @@
 - [Jakubantalik/Libraries](../repos/Jakubantalik/Libraries.md) - Collection of effects for React: Border beam, Liquid Gooey
 - [every-app/open-seo](../repos/every-app/open-seo.md) - Open source alternative to Semrush and Ahrefs
 - [documenso/documenso](../repos/documenso/documenso.md) - The Open Source DocuSign Alternative.
-- [vercel-labs/deepsec](../repos/vercel-labs/deepsec.md) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.744Z*
+*Last updated: 2026-09-05T21:02:01.111Z*

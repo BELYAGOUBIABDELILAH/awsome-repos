@@ -14,11 +14,11 @@
 | **License** | AGPL-3.0 |
 | **Stars** | ⭐ 3,327 |
 | **Forks** | 🍴 969 |
-| **Trending Days** | 7 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Sep 4, 2026 |
+| **Last Seen** | Sep 5, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
-- **Longest Streak**: 2 days
+- **Trending Days**: 8
+- **Longest Streak**: 3 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:11.874Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-09-05T21:02:03.335Z*  
+*Data from 8 trending reports*

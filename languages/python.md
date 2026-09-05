@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 195
+- **Total Repositories**: 197
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-19
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 241,422 | 2026-08-01 | 14 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 241,948 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huangruiteng/loopx](../repos/huangruiteng/loopx.md) | ⭐ 5,605 | 2026-08-04 | 6 |
+| [blader/humanizer](../repos/blader/humanizer.md) | ⭐ 43,393 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [blader/humanizer](../repos/blader/humanizer.md) | ⭐ 42,608 | 2026-08-05 | 4 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,163 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/skills](../repos/google/skills.md) | ⭐ 19,499 | 2026-08-07 | 6 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 174,517 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 144,076 | 2026-08-07 | 11 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 18,880 | 2026-08-22 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-deepmind/weathernext](../repos/google-deepmind/weathernext.md) | ⭐ 7,623 | 2026-08-08 | 5 |
+| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 46,418 | 2026-09-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 174,082 | 2026-08-11 | 5 |
+| [NVIDIA/SkillSpector](../repos/NVIDIA/SkillSpector.md) | ⭐ 16,276 | 2026-09-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 133,493 | 2026-08-14 | 5 |
+| [sngyai/Sequoia-X](../repos/sngyai/Sequoia-X.md) | ⭐ 6,724 | 2026-09-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-research/timesfm](../repos/google-research/timesfm.md) | ⭐ 31,006 | 2026-08-16 | 4 |
+| [bikini/exploitarium](../repos/bikini/exploitarium.md) | ⭐ 4,677 | 2026-09-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 17,788 | 2026-08-22 | 6 |
+| [radixark/miles](../repos/radixark/miles.md) | ⭐ 2,631 | 2026-09-04 | 2 |
 
 
 ---
@@ -55,24 +55,6 @@
 | [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | 2026-08-10 | Building applications with LLMs through composability |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,850 | 2026-08-06 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [frappe/hrms](../repos/frappe/hrms.md) | ⭐ 8,515 | 2026-08-06 | Open Source HR and Payroll Software |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 73,881 | 2026-08-06 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [aws/agent-toolkit-for-aws](../repos/aws/agent-toolkit-for-aws.md) | ⭐ 2,252 | 2026-08-06 | Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [langchain-ai/open-swe](../repos/langchain-ai/open-swe.md) | ⭐ 10,496 | 2026-08-06 | An Open-Source Asynchronous Coding Agent |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Unclecheng-li/VulnClaw](../repos/Unclecheng-li/VulnClaw.md) | ⭐ 2,600 | 2026-08-06 | 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [666ghj/MiroFish](../repos/666ghj/MiroFish.md) | ⭐ 71,453 | 2026-08-07 | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [android/skills](../repos/android/skills.md) | ⭐ 6,612 | 2026-08-07 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [p1ngul1n0/blackbird](../repos/p1ngul1n0/blackbird.md) | ⭐ 7,401 | 2026-08-07 | An OSINT tool to search for accounts by username and email in social networks. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 35,358 | 2026-08-07 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 144,076 | 2026-08-07 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 101,130 | 2026-08-08 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | 2026-08-08 | Curated list of project-based tutorials |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kyutai-labs/pocket-tts](../repos/kyutai-labs/pocket-tts.md) | ⭐ 8,174 | 2026-08-08 | A TTS that fits in your CPU (and pocket) |
 
 
 ---
@@ -91,10 +91,10 @@
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 464,529 | 2026-08-01 | 5 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 362,245 | 2026-08-03 | 5 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | 2026-08-08 | 3 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 241,422 | 2026-08-01 | 14 |
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 186,850 | 2026-08-06 | 6 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 241,948 | 2026-08-01 | 15 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,163 | 2026-08-06 | 7 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 186,102 | 2026-08-02 | 5 |
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 174,082 | 2026-08-11 | 5 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 174,517 | 2026-08-11 | 6 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,572 | 2026-07-31 | 5 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 144,076 | 2026-08-07 | 11 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 134,172 | 2026-08-04 | 2 |
@@ -115,7 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 14 | ⭐ 241,422 | 2026-08-01 | 2026-09-04 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 15 | ⭐ 241,948 | 2026-08-01 | 2026-09-05 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 11 | ⭐ 144,076 | 2026-08-07 | 2026-09-04 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 10 | ⭐ 118,456 | 2026-08-01 | 2026-08-29 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 10 | ⭐ 41,423 | 2026-08-03 | 2026-09-01 |
@@ -124,7 +124,7 @@
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 7 | ⭐ 75,597 | 2026-08-01 | 2026-08-26 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 7 | ⭐ 50,309 | 2026-08-03 | 2026-08-26 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 7 | ⭐ 38,949 | 2026-08-03 | 2026-08-24 |
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 7 | ⭐ 35,358 | 2026-08-07 | 2026-08-29 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | 7 | ⭐ 187,163 | 2026-08-06 | 2026-09-05 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.727Z*
+*Last updated: 2026-09-05T21:02:01.099Z*

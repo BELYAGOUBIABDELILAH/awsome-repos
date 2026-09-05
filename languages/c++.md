@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 203
+- **Total Repositories**: 205
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-28
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,999 | 2026-08-01 | 12 |
+| [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/benchmark](../repos/google/benchmark.md) | ⭐ 10,385 | 2026-08-01 | 2 |
+| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 23,049 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 23,018 | 2026-08-02 | 4 |
+| [imputnet/helium](../repos/imputnet/helium.md) | ⭐ 20,287 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 10,308 | 2026-08-02 | 7 |
+| [audacity/audacity](../repos/audacity/audacity.md) | ⭐ 18,265 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/workerd](../repos/cloudflare/workerd.md) | ⭐ 8,683 | 2026-08-06 | 3 |
+| [google/flatbuffers](../repos/google/flatbuffers.md) | ⭐ 26,435 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tenstorrent/tt-metal](../repos/tenstorrent/tt-metal.md) | ⭐ 1,659 | 2026-08-07 | 3 |
+| [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,350 | 2026-08-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,068 | 2026-08-08 | 12 |
+| [fmtlib/fmt](../repos/fmtlib/fmt.md) | ⭐ 25,560 | 2026-08-12 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [audacity/audacity](../repos/audacity/audacity.md) | ⭐ 18,191 | 2026-08-09 | 3 |
+| [google/filament](../repos/google/filament.md) | ⭐ 20,459 | 2026-08-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mavlink/qgroundcontrol](../repos/mavlink/qgroundcontrol.md) | ⭐ 4,895 | 2026-08-11 | 4 |
+| [Neroued/ninfer](../repos/Neroued/ninfer.md) | ⭐ 1,426 | 2026-08-29 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fmtlib/fmt](../repos/fmtlib/fmt.md) | ⭐ 25,451 | 2026-08-12 | 7 |
+| [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,046 | 2026-09-01 | 2 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cloudflare/workerd](../repos/cloudflare/workerd.md) | ⭐ 8,683 | 2026-08-06 | The JavaScript &#x2F; Wasm runtime that powers Cloudflare Workers |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [colmap/colmap](../repos/colmap/colmap.md) | ⭐ 12,642 | 2026-08-06 | COLMAP - Structure-from-Motion and Multi-View Stereo |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [realsenseai/librealsense](../repos/realsenseai/librealsense.md) | ⭐ 8,937 | 2026-08-06 | RealSense SDK |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | A library for efficient similarity search and clustering of dense vectors. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PX4/PX4-Autopilot](../repos/PX4/PX4-Autopilot.md) | ⭐ 12,403 | 2026-08-06 | PX4 Autopilot Software |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 21,728 | 2026-08-06 | ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zeek/zeek](../repos/zeek/zeek.md) | ⭐ 7,846 | 2026-08-06 | Zeek is a powerful network analysis framework that is much different from the typical IDS you may... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ml-explore/mlx](../repos/ml-explore/mlx.md) | ⭐ 28,056 | 2026-08-06 | MLX: An array framework for Apple silicon |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,728 | 2026-08-06 | The new Windows Terminal and the original Windows console host, all in the same place! |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [google/leveldb](../repos/google/leveldb.md) | ⭐ 39,306 | 2026-08-07 | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping fr... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google/perfetto](../repos/google/perfetto.md) | ⭐ 6,403 | 2026-08-07 | Production-grade client-side tracing, profiling, and analysis for complex software systems. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lemonade-sdk/lemonade](../repos/lemonade-sdk/lemonade.md) | ⭐ 5,530 | 2026-08-07 | Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their ow... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [aseprite/aseprite](../repos/aseprite/aseprite.md) | ⭐ 39,045 | 2026-08-07 | Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/foundry-local](../repos/microsoft/foundry-local.md) | ⭐ 2,495 | 2026-08-07 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [openvinotoolkit/openvino](../repos/openvinotoolkit/openvino.md) | ⭐ 10,740 | 2026-08-07 | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tenstorrent/tt-metal](../repos/tenstorrent/tt-metal.md) | ⭐ 1,659 | 2026-08-07 | :metal: TT-NN operator library, and TT-Metalium low level kernel programming model. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 38,112 | 2026-08-07 | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t s... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [k2-fsa/sherpa-onnx](../repos/k2-fsa/sherpa-onnx.md) | ⭐ 14,111 | 2026-08-07 | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and V... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,068 | 2026-08-08 | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
 
 
 ---
@@ -91,17 +91,17 @@
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,766 | 2026-07-30 | 15 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,441 | 2026-08-04 | 3 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 126,245 | 2026-08-01 | 17 |
-| [electron/electron](../repos/electron/electron.md) | ⭐ 122,565 | 2026-08-01 | 4 |
+| [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 116,297 | 2026-08-01 | 8 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,728 | 2026-08-06 | 4 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,016 | 2026-08-02 | 5 |
-| [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,293 | 2026-08-12 | 3 |
+| [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,350 | 2026-08-12 | 4 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,068 | 2026-08-08 | 12 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,999 | 2026-08-01 | 12 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,959 | 2026-08-05 | 8 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
-| [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 45,973 | 2026-09-01 | 1 |
+| [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,046 | 2026-09-01 | 2 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,281 | 2026-08-02 | 6 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 40,773 | 2026-08-19 | 5 |
@@ -124,7 +124,7 @@
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 9 | ⭐ 472 | 2026-08-01 | 2026-08-26 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 8 | ⭐ 116,297 | 2026-08-01 | 2026-08-28 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 8 | ⭐ 65,959 | 2026-08-05 | 2026-09-01 |
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 7 | ⭐ 10,308 | 2026-08-02 | 2026-09-04 |
+| [fmtlib/fmt](../repos/fmtlib/fmt.md) | 8 | ⭐ 25,560 | 2026-08-12 | 2026-09-05 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.669Z*
+*Last updated: 2026-09-05T21:02:01.058Z*

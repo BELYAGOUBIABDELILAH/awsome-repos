@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 157
+- **Total Repositories**: 158
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-25
+- **Last Updated**: 2026-09-05
 
 ---
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 117,447 | 2026-07-30 | 7 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 121,738 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ankitects/anki](../repos/ankitects/anki.md) | ⭐ 30,318 | 2026-08-02 | 4 |
+| [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 25,097 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LanRhyme/MicYou](../repos/LanRhyme/MicYou.md) | ⭐ 3,589 | 2026-08-07 | 3 |
+| [nolabs-ai/nono](../repos/nolabs-ai/nono.md) | ⭐ 3,970 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonhowtf/omniget](../repos/tonhowtf/omniget.md) | ⭐ 9,478 | 2026-08-12 | 3 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 42,005 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pacifio/atlas](../repos/pacifio/atlas.md) | ⭐ 3,191 | 2026-08-14 | 5 |
+| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,503 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [confeden/Antigravity](../repos/confeden/Antigravity.md) | ⭐ 443 | 2026-08-25 | 2 |
+| [tonhowtf/omniget](../repos/tonhowtf/omniget.md) | ⭐ 9,518 | 2026-08-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [arcboxlabs/arcbox](../repos/arcboxlabs/arcbox.md) | ⭐ 2,503 | 2026-09-02 | 3 |
+| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 17,106 | 2026-08-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jj-vcs/jj](../repos/jj-vcs/jj.md) | ⭐ 31,391 | 2026-09-02 | 2 |
+| [slint-ui/slint](../repos/slint-ui/slint.md) | ⭐ 23,711 | 2026-08-23 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 13,964 | 2026-09-04 | 1 |
+| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 7,975 | 2026-08-27 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GreptimeTeam/greptimedb](../repos/GreptimeTeam/greptimedb.md) | ⭐ 6,615 | 2026-09-04 | 1 |
+| [espanso/espanso](../repos/espanso/espanso.md) | ⭐ 14,432 | 2026-09-03 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [warp-tech/warpgate](../repos/warp-tech/warpgate.md) | ⭐ 7,685 | 2026-08-06 | Fully transparent SSH, HTTPS, Kubernetes, database and RDP&#x2F;VNC bastion&#x2F;PAM that doesn&#39;t need addi... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [getzola/zola](../repos/getzola/zola.md) | ⭐ 17,302 | 2026-08-06 | A fast static site generator in a single binary with everything built-in. https:&#x2F;&#x2F;www.getzola.org |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [GCWing/BitFun](../repos/GCWing/BitFun.md) | ⭐ 1,608 | 2026-08-06 | BitFun combines a high-performance agent runtime written in Rust with a polished desktop applicat... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [EFForg/rayhunter](../repos/EFForg/rayhunter.md) | ⭐ 5,745 | 2026-08-06 | Rust tool to detect cell site simulators on an orbic mobile hotspot  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nubjs/nub](../repos/nubjs/nub.md) | ⭐ 3,887 | 2026-08-06 | The fast all-in-one Node.js toolkit |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [denoland/celld](../repos/denoland/celld.md) | ⭐ 2,993 | 2026-08-07 | self-hosted, distributed Durable Objects |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cloud-hypervisor/cloud-hypervisor](../repos/cloud-hypervisor/cloud-hypervisor.md) | ⭐ 6,074 | 2026-08-07 | A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hot... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LanRhyme/MicYou](../repos/LanRhyme/MicYou.md) | ⭐ 3,589 | 2026-08-07 | MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 4,568 | 2026-08-08 | Postgres rewritten in Rust, now faster than Postgres and Clickhouse |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rivet-dev/rivet](../repos/rivet-dev/rivet.md) | ⭐ 5,974 | 2026-08-08 | Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, a... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [iii-hq/iii](../repos/iii-hq/iii.md) | ⭐ 18,577 | 2026-08-08 | Effortlessly compose, extend, and observe every service in real-time for the first time ever. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ClementTsang/bottom](../repos/ClementTsang/bottom.md) | ⭐ 13,861 | 2026-08-08 | Yet another cross-platform graphical process&#x2F;system monitor. |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 118,042 | 2026-08-01 | 8 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 121,738 | 2026-08-01 | 9 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 117,447 | 2026-07-30 | 7 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,653 | 2026-08-11 | 6 |
@@ -101,11 +101,11 @@
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 63,734 | 2026-08-03 | 1 |
 | [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,161 | 2026-09-03 | 1 |
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,385 | 2026-08-19 | 5 |
-| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,303 | 2026-08-12 | 2 |
+| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,503 | 2026-08-12 | 3 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 47,938 | 2026-08-28 | 1 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 45,967 | 2026-08-28 | 1 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,464 | 2026-08-05 | 4 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 41,871 | 2026-08-02 | 6 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 42,005 | 2026-08-02 | 7 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,341 | 2026-08-02 | 2 |
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [openai/codex](../repos/openai/codex.md) | 8 | ⭐ 118,042 | 2026-08-01 | 2026-08-25 |
+| [openai/codex](../repos/openai/codex.md) | 9 | ⭐ 121,738 | 2026-08-01 | 2026-09-05 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 8 | ⭐ 27,494 | 2026-08-03 | 2026-08-23 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 8 | ⭐ 38,707 | 2026-08-10 | 2026-08-28 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 7 | ⭐ 117,447 | 2026-07-30 | 2026-09-04 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 7 | ⭐ 17,401 | 2026-08-01 | 2026-08-29 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 7 | ⭐ 42,005 | 2026-08-02 | 2026-09-05 |
 | [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | 7 | ⭐ 18,760 | 2026-08-03 | 2026-09-03 |
 | [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 7 | ⭐ 2,575 | 2026-08-05 | 2026-08-28 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 7 | ⭐ 92,437 | 2026-08-09 | 2026-09-03 |
 | [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 6 | ⭐ 13,249 | 2026-08-01 | 2026-08-19 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 6 | ⭐ 41,871 | 2026-08-02 | 2026-09-03 |
 
 ---
 
@@ -143,7 +143,7 @@
 - [bruits/satteri](../repos/bruits/satteri.md) - High-performance Markdown and MDX processing for the JavaScript ecosystem
 - [tursodatabase/turso](../repos/tursodatabase/turso.md) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of...
 - [git-ai-project/git-ai](../repos/git-ai-project/git-ai.md) - A Git extension for tracking the AI-generated code in your repos
-- [nolabs-ai/nono](../repos/nolabs-ai/nono.md) - Sandbox any AI agent in seconds - zero setup, zero latency.
+- [nolabs-ai/nono](../repos/nolabs-ai/nono.md) - secure multiplexed execution paths for agents - zero trust, zero setup, zero latency.
 - [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [microsoft/mxc](../repos/microsoft/mxc.md) - Policy-driven, layered isolation and containment 
 - [t8y2/dbx](../repos/t8y2/dbx.md) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, ...
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.734Z*
+*Last updated: 2026-09-05T21:02:01.104Z*

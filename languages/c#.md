@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 133
+- **Total Repositories**: 135
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-03
+- **Last Updated**: 2026-09-05
 
 ---
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,642 | 2026-08-01 | 11 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,504 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,360 | 2026-08-03 | 14 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,362 | 2026-08-03 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 9,076 | 2026-08-04 | 7 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 9,149 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HotCakeX/Harden-Windows-Security](../repos/HotCakeX/Harden-Windows-Security.md) | ⭐ 4,701 | 2026-08-07 | 2 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,244 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,753 | 2026-08-07 | 6 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,287 | 2026-08-05 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Azure/azure-sdk-for-net](../repos/Azure/azure-sdk-for-net.md) | ⭐ 6,049 | 2026-08-12 | 5 |
+| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,757 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rocksdanister/lively](../repos/rocksdanister/lively.md) | ⭐ 19,544 | 2026-08-23 | 3 |
+| [Unity-Technologies/skills](../repos/Unity-Technologies/skills.md) | ⭐ 723 | 2026-08-14 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PixiEditor/PixiEditor](../repos/PixiEditor/PixiEditor.md) | ⭐ 8,031 | 2026-09-04 | 1 |
+| [redis-windows/redis-windows](../repos/redis-windows/redis-windows.md) | ⭐ 4,245 | 2026-08-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [umlx5h/LLPlayer](../repos/umlx5h/LLPlayer.md) | ⭐ 4,099 | 2026-09-04 | 1 |
+| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,928 | 2026-08-22 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,038 | 2026-08-28 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,144 | 2026-08-06 | PowerShell for every system! |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Azure/azure-powershell](../repos/Azure/azure-powershell.md) | ⭐ 4,774 | 2026-08-06 | Microsoft Azure PowerShell |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dotnet/arcade](../repos/dotnet/arcade.md) | ⭐ 726 | 2026-08-06 | Tools that provide common build infrastructure for multiple .NET Foundation projects. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AIDotNet/OpenDeepWiki](../repos/AIDotNet/OpenDeepWiki.md) | ⭐ 3,520 | 2026-08-06 | OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful kno... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hbashton/DS4Windows](../repos/hbashton/DS4Windows.md) | ⭐ 151 | 2026-08-06 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dotnet/AspNetCore.Docs](../repos/dotnet/AspNetCore.Docs.md) | ⭐ 13,130 | 2026-08-06 | Documentation for ASP.NET Core |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [HotCakeX/Harden-Windows-Security](../repos/HotCakeX/Harden-Windows-Security.md) | ⭐ 4,701 | 2026-08-07 | Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation... |
@@ -77,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Azure/azure-functions-core-tools](../repos/Azure/azure-functions-core-tools.md) | ⭐ 1,459 | 2026-08-07 | Command line tools for Azure Functions |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,757 | 2026-08-07 | Source code for Unturned, a free open-world zombie survival sandbox game. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [btcpayserver/btcpayserver](../repos/btcpayserver/btcpayserver.md) | ⭐ 7,728 | 2026-08-08 | Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | .NET debugger and assembly editor |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LorisYounger/VPet](../repos/LorisYounger/VPet.md) | ⭐ 6,723 | 2026-08-08 | 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Goob-Station/Goob-Station](../repos/Goob-Station/Goob-Station.md) | ⭐ 235 | 2026-08-08 | We&#39;re not even close to &quot;Wizden, but random&quot; at this point. Super chud SS14 fork. By chuds, for c... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dotnet/dotnet](../repos/dotnet/dotnet.md) | ⭐ 1,223 | 2026-08-08 | Home of .NET&#39;s Virtual Monolithic Repository which includes all the code needed to build the .NET... |
 
 
 ---
@@ -85,15 +88,15 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,350 | 2026-08-02 | 15 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,504 | 2026-08-02 | 16 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,438 | 2026-08-02 | 13 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,144 | 2026-08-06 | 7 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,819 | 2026-08-01 | 6 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,194 | 2026-08-14 | 2 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,608 | 2026-08-03 | 6 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,411 | 2026-08-01 | 11 |
-| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,914 | 2026-08-22 | 2 |
-| [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,025 | 2026-08-28 | 1 |
+| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,928 | 2026-08-22 | 3 |
+| [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,038 | 2026-08-28 | 2 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,796 | 2026-08-01 | 12 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,509 | 2026-08-05 | 8 |
@@ -113,14 +116,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 18 | ⭐ 24,059 | 2026-08-02 | 2026-09-02 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 15 | ⭐ 115,350 | 2026-08-02 | 2026-09-03 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 14 | ⭐ 5,360 | 2026-08-03 | 2026-09-04 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 16 | ⭐ 115,504 | 2026-08-02 | 2026-09-05 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 15 | ⭐ 5,362 | 2026-08-03 | 2026-09-05 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 13 | ⭐ 56,438 | 2026-08-02 | 2026-09-01 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 12 | ⭐ 29,796 | 2026-08-01 | 2026-09-03 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 12 | ⭐ 15,332 | 2026-08-02 | 2026-09-03 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 11 | ⭐ 3,642 | 2026-08-01 | 2026-09-04 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 11 | ⭐ 38,411 | 2026-08-01 | 2026-09-01 |
-| [microsoft/aspire](../repos/microsoft/aspire.md) | 10 | ⭐ 6,270 | 2026-08-05 | 2026-08-27 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | 11 | ⭐ 6,287 | 2026-08-05 | 2026-09-05 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 9 | ⭐ 14,032 | 2026-08-01 | 2026-09-01 |
 
 ---
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.665Z*
+*Last updated: 2026-09-05T21:02:01.055Z*

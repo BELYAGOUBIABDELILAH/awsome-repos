@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 94
+- **Total Repositories**: 96
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-02
-- **Average Stars**: 17777
+- **Average Stars**: 17702
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,076 | C |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,702 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,472 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,473 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,948 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,950 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,095 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,097 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,513 | OCaml |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,523 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,852 | Vim Script |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 40,858 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,990 | R |  |
+| [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,702 | OCaml |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,207 | Java |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,149 | R |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [sngyai/Sequoia-X](../repos/sngyai/Sequoia-X.md) | ⭐ 6,629 | Python |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [eriklindernoren/ML-From-Scratch](../repos/eriklindernoren/ML-From-Scratch.md) | ⭐ 32,614 | Python |  |
+| [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,198 | Lua |  |
 
 
 ---
@@ -60,9 +60,9 @@
 | [git/git](../repos/git/git.md) | ⭐ 62,663 | C | 2026-08-05 | 3 |
 | [TanStack/query](../repos/TanStack/query.md) | ⭐ 50,183 | TypeScript | 2026-08-22 | 1 |
 | [pandas-dev/pandas](../repos/pandas-dev/pandas.md) | ⭐ 49,417 | Python | 2026-08-04 | 1 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,095 | Clojure | 2026-08-01 | 29 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,097 | Clojure | 2026-08-01 | 30 |
 | [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 46,014 | Python | 2026-08-02 | 5 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,948 | Scala | 2026-08-01 | 31 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,950 | Scala | 2026-08-01 | 32 |
 
 ---
 
@@ -76,45 +76,33 @@
 | [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,418 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,697 | Ruby | 1 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,702 | Ruby | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,472 | Scala | 4 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,242 | Scala | 3 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,473 | Scala | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [apache/texera](../repos/apache/texera.md) | ⭐ 276 | Scala | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,948 | Scala | 4 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,950 | Scala | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,095 | Clojure | 4 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,097 | Clojure | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,513 | OCaml | 4 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,523 | OCaml | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,852 | Vim Script | 4 |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 40,858 | Vim Script | 5 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 26,642 | C | 1 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [promptfoo/promptfoo](../repos/promptfoo/promptfoo.md) | ⭐ 24,013 | TypeScript | 2026-08-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [harness/harness](../repos/harness/harness.md) | ⭐ 37,964 | Go | 2026-08-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 26,621 | C | 2026-08-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [z88dk/z88dk](../repos/z88dk/z88dk.md) | ⭐ 1,131 | Assembly | 2026-08-06 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | Go | 2026-08-07 |
@@ -133,10 +121,26 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [tianocore/edk2](../repos/tianocore/edk2.md) | ⭐ 6,204 | C | 2026-08-08 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [delta-io/delta-sharing](../repos/delta-io/delta-sharing.md) | ⭐ 955 | Scala | 2026-08-08 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,054 | R | 2026-08-08 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [RPCS3/rpcs3](../repos/RPCS3/rpcs3.md) | ⭐ 19,536 | C++ | 2026-08-09 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader/sumatrapdf.md) | ⭐ 17,379 | C | 2026-08-09 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-09-05](../archive/2026/09/2026-09-05.md)
+- 17 repositories trending
+- Top: metabase&#x2F;metabase
 
 ### [2026-09-04](../archive/2026/09/2026-09-04.md)
 - 11 repositories trending
@@ -154,10 +158,6 @@
 - 19 repositories trending
 - Top: metabase&#x2F;metabase
 
-### [2026-08-29](../archive/2026/08/2026-08-29.md)
-- 19 repositories trending
-- Top: metabase&#x2F;metabase
-
 
 ---
 
@@ -167,24 +167,24 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 31 days | 2026-08-01 | 2026-09-04 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 29 days | 2026-08-01 | 2026-09-04 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 29 days | 2026-08-01 | 2026-09-04 |
-| [joernio/joern](../repos/joernio/joern.md) | 27 days | 2026-08-01 | 2026-09-04 |
-| [vim/vim](../repos/vim/vim.md) | 26 days | 2026-08-01 | 2026-09-04 |
-| [facebook/infer](../repos/facebook/infer.md) | 21 days | 2026-08-02 | 2026-09-02 |
+| [apache/spark](../repos/apache/spark.md) | 32 days | 2026-08-01 | 2026-09-05 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 30 days | 2026-08-01 | 2026-09-05 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 30 days | 2026-08-01 | 2026-09-05 |
+| [joernio/joern](../repos/joernio/joern.md) | 28 days | 2026-08-01 | 2026-09-05 |
+| [vim/vim](../repos/vim/vim.md) | 27 days | 2026-08-01 | 2026-09-05 |
+| [facebook/infer](../repos/facebook/infer.md) | 22 days | 2026-08-02 | 2026-09-05 |
 | [apache/texera](../repos/apache/texera.md) | 15 days | 2026-08-01 | 2026-09-01 |
 | [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 15 days | 2026-08-01 | 2026-08-29 |
+| [hadley/r4ds](../repos/hadley/r4ds.md) | 15 days | 2026-08-04 | 2026-09-05 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 14 days | 2026-08-04 | 2026-09-04 |
-| [hadley/r4ds](../repos/hadley/r4ds.md) | 14 days | 2026-08-04 | 2026-09-04 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **C**: 27 repositories (29%)
-- **Python**: 8 repositories (9%)
+- **C**: 27 repositories (28%)
+- **Python**: 9 repositories (9%)
 - **Scala**: 6 repositories (6%)
 - **R**: 6 repositories (6%)
 - **Java**: 6 repositories (6%)
@@ -192,7 +192,7 @@
 ### Trending Frequency
 - **Daily Average**: 15.8 repositories
 - **Peak Day**: 2026-08-04 (23 repositories)
-- **Growth Rate**: 59% this month
+- **Growth Rate**: 55% this month
 
 ---
 
@@ -297,7 +297,9 @@
 - [lite-xl/lite-xl](../repos/lite-xl/lite-xl.md) - A lightweight text editor written in Lua
 - [eriklindernoren/ML-From-Scratch](../repos/eriklindernoren/ML-From-Scratch.md) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and al...
 - [gchq/CyberChef](../repos/gchq/CyberChef.md) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [huggingface/datasets](../repos/huggingface/datasets.md) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient da...
+- [PlotJuggler/PlotJuggler](../repos/PlotJuggler/PlotJuggler.md) - The Time Series Visualization Tool that you deserve.
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.458Z*
+*Last updated: 2026-09-05T21:02:00.901Z*

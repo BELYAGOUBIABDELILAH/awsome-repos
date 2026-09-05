@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [TapXWorld/ChinaTextbook](../repos/TapXWorld/ChinaTextbook.md) | ⭐ 77,865 | 2026-08-06 | 所有小初高、大学PDF教材。 |
 
+*No new Roff repositories in the last 30 days*
 
 ---
 
@@ -50,4 +48,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.730Z*
+*Last updated: 2026-09-05T21:02:01.102Z*

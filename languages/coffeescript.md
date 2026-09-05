@@ -23,9 +23,6 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | Adds various features to anonymous imageboards. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,601 | 2026-08-09 | Unfancy JavaScript |
 
 
@@ -65,4 +62,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.677Z*
+*Last updated: 2026-09-05T21:02:01.064Z*

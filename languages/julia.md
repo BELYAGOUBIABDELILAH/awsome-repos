@@ -14,8 +14,10 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 729 | 2026-08-01 | 28 |
 
-*No Julia repositories trending today*
 
 ---
 
@@ -65,7 +67,7 @@
 | [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,410 | 2026-08-02 | 9 |
 | [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 728 | 2026-08-01 | 27 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 729 | 2026-08-01 | 28 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 719 | 2026-08-07 | 1 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | 3 |
@@ -84,7 +86,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 27 | ⭐ 728 | 2026-08-01 | 2026-09-02 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 28 | ⭐ 729 | 2026-08-01 | 2026-09-05 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 15 | ⭐ 46 | 2026-08-02 | 2026-08-25 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 13 | ⭐ 125 | 2026-08-01 | 2026-08-28 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 11 | ⭐ 116 | 2026-08-01 | 2026-09-01 |
@@ -120,4 +122,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.704Z*
+*Last updated: 2026-09-05T21:02:01.083Z*

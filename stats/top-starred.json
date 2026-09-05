@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T21:32:13.995Z",
+  "generated_at": "2026-09-05T21:02:04.982Z",
   "total_count": 100,
   "repositories": [
     {
@@ -57,10 +57,10 @@
       "full_name": "NousResearch/hermes-agent",
       "owner": "NousResearch",
       "name": "hermes-agent",
-      "stars": 241422,
+      "stars": 241948,
       "language": "Python",
       "first_seen": "2026-08-01",
-      "trending_days": 14
+      "trending_days": 15
     },
     {
       "rank": 7,
@@ -87,10 +87,10 @@
       "full_name": "ossu/computer-science",
       "owner": "ossu",
       "name": "computer-science",
-      "stars": 208714,
+      "stars": 208743,
       "language": "HTML",
       "first_seen": "2026-08-03",
-      "trending_days": 7
+      "trending_days": 8
     },
     {
       "rank": 10,
@@ -137,10 +137,10 @@
       "full_name": "Significant-Gravitas/AutoGPT",
       "owner": "Significant-Gravitas",
       "name": "AutoGPT",
-      "stars": 186850,
+      "stars": 187163,
       "language": "Python",
       "first_seen": "2026-08-06",
-      "trending_days": 6
+      "trending_days": 7
     },
     {
       "rank": 15,
@@ -157,30 +157,30 @@
       "full_name": "ollama/ollama",
       "owner": "ollama",
       "name": "ollama",
-      "stars": 179343,
+      "stars": 180239,
       "language": "Go",
       "first_seen": "2026-08-01",
-      "trending_days": 10
+      "trending_days": 11
     },
     {
       "rank": 17,
       "full_name": "flutter/flutter",
       "owner": "flutter",
       "name": "flutter",
-      "stars": 178771,
+      "stars": 178792,
       "language": "Dart",
       "first_seen": "2026-08-01",
-      "trending_days": 21
+      "trending_days": 22
     },
     {
       "rank": 18,
       "full_name": "anthropics/skills",
       "owner": "anthropics",
       "name": "skills",
-      "stars": 174082,
+      "stars": 174517,
       "language": "Python",
       "first_seen": "2026-08-11",
-      "trending_days": 5
+      "trending_days": 6
     },
     {
       "rank": 19,
@@ -267,20 +267,20 @@
       "full_name": "microsoft/PowerToys",
       "owner": "microsoft",
       "name": "PowerToys",
-      "stars": 138201,
+      "stars": 138429,
       "language": "C",
       "first_seen": "2026-08-01",
-      "trending_days": 15
+      "trending_days": 16
     },
     {
       "rank": 28,
       "full_name": "iptv-org/iptv",
       "owner": "iptv-org",
       "name": "iptv",
-      "stars": 137270,
+      "stars": 137718,
       "language": "TypeScript",
       "first_seen": "2026-08-02",
-      "trending_days": 4
+      "trending_days": 5
     },
     {
       "rank": 29,
@@ -337,10 +337,10 @@
       "full_name": "krahets/hello-algo",
       "owner": "krahets",
       "name": "hello-algo",
-      "stars": 129863,
+      "stars": 129891,
       "language": "Java",
       "first_seen": "2026-08-04",
-      "trending_days": 4
+      "trending_days": 5
     },
     {
       "rank": 35,
@@ -397,13 +397,23 @@
       "full_name": "electron/electron",
       "owner": "electron",
       "name": "electron",
-      "stars": 122565,
+      "stars": 122898,
       "language": "C++",
       "first_seen": "2026-08-01",
-      "trending_days": 4
+      "trending_days": 5
     },
     {
       "rank": 41,
+      "full_name": "openai/codex",
+      "owner": "openai",
+      "name": "codex",
+      "stars": 121738,
+      "language": "Rust",
+      "first_seen": "2026-08-01",
+      "trending_days": 9
+    },
+    {
+      "rank": 42,
       "full_name": "harry0703/MoneyPrinterTurbo",
       "owner": "harry0703",
       "name": "MoneyPrinterTurbo",
@@ -411,16 +421,6 @@
       "language": "Python",
       "first_seen": "2026-08-01",
       "trending_days": 10
-    },
-    {
-      "rank": 42,
-      "full_name": "openai/codex",
-      "owner": "openai",
-      "name": "codex",
-      "stars": 118042,
-      "language": "Rust",
-      "first_seen": "2026-08-01",
-      "trending_days": 8
     },
     {
       "rank": 43,
@@ -457,10 +457,10 @@
       "full_name": "2dust/v2rayN",
       "owner": "2dust",
       "name": "v2rayN",
-      "stars": 115350,
+      "stars": 115504,
       "language": "C#",
       "first_seen": "2026-08-02",
-      "trending_days": 15
+      "trending_days": 16
     },
     {
       "rank": 47,
@@ -577,10 +577,10 @@
       "full_name": "earendil-works/pi",
       "owner": "earendil-works",
       "name": "pi",
-      "stars": 101427,
+      "stars": 102103,
       "language": "TypeScript",
       "first_seen": "2026-08-07",
-      "trending_days": 7
+      "trending_days": 8
     },
     {
       "rank": 59,
@@ -647,10 +647,10 @@
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
-      "stars": 94831,
+      "stars": 94896,
       "language": "Shell",
       "first_seen": "2026-08-01",
-      "trending_days": 20
+      "trending_days": 21
     },
     {
       "rank": 66,
@@ -687,10 +687,10 @@
       "full_name": "addyosmani/agent-skills",
       "owner": "addyosmani",
       "name": "agent-skills",
-      "stars": 92262,
+      "stars": 92430,
       "language": "JavaScript",
       "first_seen": "2026-08-05",
-      "trending_days": 16
+      "trending_days": 17
     },
     {
       "rank": 70,
@@ -707,13 +707,23 @@
       "full_name": "PanJiaChen/vue-element-admin",
       "owner": "PanJiaChen",
       "name": "vue-element-admin",
-      "stars": 90197,
+      "stars": 90200,
       "language": "Vue",
       "first_seen": "2026-08-01",
-      "trending_days": 9
+      "trending_days": 10
     },
     {
       "rank": 72,
+      "full_name": "localsend/localsend",
+      "owner": "localsend",
+      "name": "localsend",
+      "stars": 90145,
+      "language": "Dart",
+      "first_seen": "2026-08-02",
+      "trending_days": 15
+    },
+    {
+      "rank": 73,
       "full_name": "home-assistant/core",
       "owner": "home-assistant",
       "name": "core",
@@ -723,7 +733,7 @@
       "trending_days": 1
     },
     {
-      "rank": 73,
+      "rank": 74,
       "full_name": "bitcoin/bitcoin",
       "owner": "bitcoin",
       "name": "bitcoin",
@@ -733,7 +743,7 @@
       "trending_days": 5
     },
     {
-      "rank": 74,
+      "rank": 75,
       "full_name": "modelcontextprotocol/servers",
       "owner": "modelcontextprotocol",
       "name": "servers",
@@ -743,7 +753,7 @@
       "trending_days": 1
     },
     {
-      "rank": 75,
+      "rank": 76,
       "full_name": "infiniflow/ragflow",
       "owner": "infiniflow",
       "name": "ragflow",
@@ -753,7 +763,7 @@
       "trending_days": 7
     },
     {
-      "rank": 76,
+      "rank": 77,
       "full_name": "gohugoio/hugo",
       "owner": "gohugoio",
       "name": "hugo",
@@ -761,16 +771,6 @@
       "language": "Go",
       "first_seen": "2026-08-03",
       "trending_days": 3
-    },
-    {
-      "rank": 77,
-      "full_name": "localsend/localsend",
-      "owner": "localsend",
-      "name": "localsend",
-      "stars": 89443,
-      "language": "Dart",
-      "first_seen": "2026-08-02",
-      "trending_days": 14
     },
     {
       "rank": 78,
@@ -847,10 +847,10 @@
       "full_name": "tonsky/FiraCode",
       "owner": "tonsky",
       "name": "FiraCode",
-      "stars": 81983,
+      "stars": 81985,
       "language": "Clojure",
       "first_seen": "2026-08-01",
-      "trending_days": 22
+      "trending_days": 23
     },
     {
       "rank": 86,
@@ -997,10 +997,10 @@
       "full_name": "tesseract-ocr/tesseract",
       "owner": "tesseract-ocr",
       "name": "tesseract",
-      "stars": 76293,
+      "stars": 76350,
       "language": "C++",
       "first_seen": "2026-08-12",
-      "trending_days": 3
+      "trending_days": 4
     }
   ]
 }

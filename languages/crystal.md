@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-04
+- **Last Updated**: 2026-09-05
 
 ---
 
@@ -16,17 +16,18 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,229 | 2026-08-01 | 22 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,259 | 2026-08-01 | 23 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,418 | 2026-08-06 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,414 | 2026-08-06 | Hunt every Endpoint in your code, expose Shadow APIs, map the Attack Surface. |
 
+*No new Crystal repositories in the last 30 days*
 
 ---
 
@@ -34,8 +35,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,229 | 2026-08-01 | 22 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,414 | 2026-08-06 | 5 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,259 | 2026-08-01 | 23 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,418 | 2026-08-06 | 6 |
 
 ---
 
@@ -43,8 +44,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | 22 | ⭐ 24,229 | 2026-08-01 | 2026-09-04 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 5 | ⭐ 1,414 | 2026-08-06 | 2026-09-03 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | 23 | ⭐ 24,259 | 2026-08-01 | 2026-09-05 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 6 | ⭐ 1,418 | 2026-08-06 | 2026-09-05 |
 
 ---
 
@@ -55,4 +56,4 @@
 
 ---
 
-*Last updated: 2026-09-04T21:32:08.680Z*
+*Last updated: 2026-09-05T21:02:01.066Z*
