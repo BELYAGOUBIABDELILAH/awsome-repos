@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Objective-C |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 3,231 |
-| **Forks** | 🍴 1,393 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 3,237 |
+| **Forks** | 🍴 1,405 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Sep 1, 2026 |
+| **Last Seen** | Sep 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 2 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 3,231+ stars, strong contributor base |
+| **Community** | Very Active | 3,237+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Inactive | No recent updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:02.777Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-09-06T21:01:33.106Z*  
+*Data from 10 trending reports*

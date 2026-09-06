@@ -14,8 +14,13 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,502 | 2026-08-03 | 18 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,140 | 2026-08-24 | 2 |
 
-*No Common Lisp repositories trending today*
 
 ---
 
@@ -23,7 +28,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,135 | 2026-08-24 | Mirror of Steel Bank Common Lisp (SBCL)&#39;s official repository |
+| [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,140 | 2026-08-24 | Mirror of Steel Bank Common Lisp (SBCL)&#39;s official repository |
 
 
 ---
@@ -33,9 +38,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | 1 |
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,498 | 2026-08-03 | 17 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,502 | 2026-08-03 | 18 |
 | [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 3 |
-| [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,135 | 2026-08-24 | 1 |
+| [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,140 | 2026-08-24 | 2 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | ⭐ 1,734 | 2026-08-04 | 1 |
 
 ---
@@ -44,11 +49,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 17 | ⭐ 3,498 | 2026-08-03 | 2026-09-01 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 18 | ⭐ 3,502 | 2026-08-03 | 2026-09-06 |
 | [lem-project/lem](../repos/lem-project/lem.md) | 3 | ⭐ 3,023 | 2026-08-01 | 2026-08-03 |
+| [sbcl/sbcl](../repos/sbcl/sbcl.md) | 2 | ⭐ 2,140 | 2026-08-24 | 2026-09-06 |
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | 1 | ⭐ 10,986 | 2026-08-04 | 2026-08-04 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | 1 | ⭐ 1,734 | 2026-08-04 | 2026-08-04 |
-| [sbcl/sbcl](../repos/sbcl/sbcl.md) | 1 | ⭐ 2,135 | 2026-08-24 | 2026-08-24 |
 
 ---
 
@@ -62,4 +67,4 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.065Z*
+*Last updated: 2026-09-06T21:01:31.290Z*

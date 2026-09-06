@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 21
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-05
+- **Last Updated**: 2026-09-06
 
 ---
 
@@ -16,40 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,523 | 2026-08-01 | 30 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,530 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,043 | 2026-08-01 | 29 |
+| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,567 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,566 | 2026-08-01 | 14 |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,119 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,119 | 2026-08-01 | 18 |
+| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,914 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,913 | 2026-08-01 | 18 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,555 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 946 | 2026-08-01 | 16 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,554 | 2026-08-01 | 24 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,702 | 2026-08-02 | 22 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 873 | 2026-08-03 | 7 |
+| [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,261 | 2026-08-05 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,454 | 2026-08-07 | Unison file synchronizer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [stategraph/stategraph](../repos/stategraph/stategraph.md) | ⭐ 1,255 | 2026-08-09 | Terraform without the state file bottleneck |
@@ -67,17 +55,17 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,523 | 2026-08-01 | 30 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,530 | 2026-08-01 | 31 |
 | [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,702 | 2026-08-02 | 22 |
 | [facebook/pyre-check](../repos/facebook/pyre-check.md) | ⭐ 7,171 | 2026-09-02 | 2 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,554 | 2026-08-01 | 24 |
-| [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,228 | 2026-08-05 | 4 |
-| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,566 | 2026-08-01 | 14 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,555 | 2026-08-01 | 25 |
+| [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,261 | 2026-08-05 | 5 |
+| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,567 | 2026-08-01 | 15 |
 | [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,454 | 2026-08-07 | 6 |
 | [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,043 | 2026-08-01 | 29 |
 | [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,353 | 2026-08-02 | 1 |
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,119 | 2026-08-01 | 18 |
-| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,913 | 2026-08-01 | 18 |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,119 | 2026-08-01 | 19 |
+| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,914 | 2026-08-01 | 19 |
 | [savonet/liquidsoap](../repos/savonet/liquidsoap.md) | ⭐ 1,722 | 2026-08-10 | 2 |
 | [janestreet/bonsai](../repos/janestreet/bonsai.md) | ⭐ 1,381 | 2026-08-05 | 3 |
 | [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,374 | 2026-08-01 | 9 |
@@ -94,15 +82,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 30 | ⭐ 16,523 | 2026-08-01 | 2026-09-05 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 31 | ⭐ 16,530 | 2026-08-01 | 2026-09-06 |
 | [opengrep/opengrep](../repos/opengrep/opengrep.md) | 29 | ⭐ 3,043 | 2026-08-01 | 2026-09-05 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 25 | ⭐ 6,555 | 2026-08-01 | 2026-09-06 |
 | [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | 24 | ⭐ 59 | 2026-08-01 | 2026-08-29 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 24 | ⭐ 6,554 | 2026-08-01 | 2026-09-05 |
 | [facebook/infer](../repos/facebook/infer.md) | 22 | ⭐ 15,702 | 2026-08-02 | 2026-09-05 |
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 18 | ⭐ 2,119 | 2026-08-01 | 2026-09-05 |
-| [ocaml/dune](../repos/ocaml/dune.md) | 18 | ⭐ 1,913 | 2026-08-01 | 2026-09-05 |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 19 | ⭐ 2,119 | 2026-08-01 | 2026-09-06 |
+| [ocaml/dune](../repos/ocaml/dune.md) | 19 | ⭐ 1,914 | 2026-08-01 | 2026-09-06 |
 | [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 16 | ⭐ 946 | 2026-08-01 | 2026-09-05 |
-| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 14 | ⭐ 5,566 | 2026-08-01 | 2026-09-05 |
+| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 15 | ⭐ 5,567 | 2026-08-01 | 2026-09-06 |
 | [ocaml/opam](../repos/ocaml/opam.md) | 9 | ⭐ 1,374 | 2026-08-01 | 2026-08-21 |
 
 ---
@@ -133,4 +121,4 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.092Z*
+*Last updated: 2026-09-06T21:01:31.321Z*

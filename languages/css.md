@@ -16,37 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 922 | 2026-08-01 | 21 |
+| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,249 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,422 | 2026-08-01 | 28 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 922 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,119 | 2026-08-02 | 17 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,423 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,304 | 2026-08-04 | 14 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,162 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,498 | 2026-08-05 | 11 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,308 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [octaviovillegas/CursoIngresoJS](../repos/octaviovillegas/CursoIngresoJS.md) | ⭐ 121 | 2026-09-05 | 1 |
+| [AumGupta/abyss-jellyfin](../repos/AumGupta/abyss-jellyfin.md) | ⭐ 612 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AlirezaKJ/BetterSoundCloud](../repos/AlirezaKJ/BetterSoundCloud.md) | ⭐ 439 | 2026-09-05 | 1 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 4,847 | 2026-08-10 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [karpathy/karpathy.github.io](../repos/karpathy/karpathy.github.io.md) | ⭐ 1,889 | 2026-08-07 | my blog |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [GregTech-Odyssey/GregTech-Odyssey](../repos/GregTech-Odyssey/GregTech-Odyssey.md) | ⭐ 418 | 2026-08-07 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,319 | 2026-08-08 | The Most Complete React UI Component Library |
@@ -67,10 +61,16 @@
 | [google/google-api-javascript-client](../repos/google/google-api-javascript-client.md) | ⭐ 3,529 | 2026-08-10 | Google APIs Client Library for browser JavaScript, aka gapi. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 4,689 | 2026-08-10 | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn... |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 4,847 | 2026-08-10 | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [john-smilga/react-projects](../repos/john-smilga/react-projects.md) | ⭐ 5,146 | 2026-08-10 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pors/reactionic](../repos/pors/reactionic.md) | ⭐ 643 | 2026-08-10 | React Ionic: We are looking for a new maintainer! |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [FlutterFlow/flutterflow-documentation](../repos/FlutterFlow/flutterflow-documentation.md) | ⭐ 89 | 2026-08-11 |  |
 
 
 ---
@@ -81,8 +81,8 @@
 |------------|-------|------------|---------------|
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,767 | 2026-08-06 | 9 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,518 | 2026-08-01 | 8 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,304 | 2026-08-04 | 14 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,119 | 2026-08-02 | 17 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,308 | 2026-08-04 | 15 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,162 | 2026-08-02 | 18 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,596 | 2026-08-04 | 3 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,768 | 2026-08-08 | 1 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
@@ -95,7 +95,7 @@
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,498 | 2026-08-05 | 11 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,302 | 2026-09-02 | 1 |
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,239 | 2026-08-01 | 11 |
+| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,249 | 2026-08-01 | 12 |
 | [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,414 | 2026-08-03 | 4 |
 | [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,319 | 2026-08-08 | 7 |
 | [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) | ⭐ 7,332 | 2026-08-24 | 4 |
@@ -106,14 +106,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 28 | ⭐ 1,422 | 2026-08-01 | 2026-09-05 |
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 21 | ⭐ 922 | 2026-08-01 | 2026-09-05 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 29 | ⭐ 1,423 | 2026-08-01 | 2026-09-06 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 22 | ⭐ 922 | 2026-08-01 | 2026-09-06 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 21 | ⭐ 1,408 | 2026-08-01 | 2026-08-29 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 17 | ⭐ 28,119 | 2026-08-02 | 2026-09-05 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 18 | ⭐ 28,162 | 2026-08-02 | 2026-09-06 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 17 | ⭐ 11,646 | 2026-08-02 | 2026-08-29 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 15 | ⭐ 12,215 | 2026-08-01 | 2026-09-03 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 14 | ⭐ 45,304 | 2026-08-04 | 2026-09-05 |
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 11 | ⭐ 9,239 | 2026-08-01 | 2026-09-04 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 15 | ⭐ 45,308 | 2026-08-04 | 2026-09-06 |
+| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 12 | ⭐ 9,249 | 2026-08-01 | 2026-09-06 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 11 | ⭐ 9,498 | 2026-08-05 | 2026-09-05 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 9 | ⭐ 82,767 | 2026-08-06 | 2026-09-01 |
 
@@ -183,4 +183,4 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.062Z*
+*Last updated: 2026-09-06T21:01:31.287Z*

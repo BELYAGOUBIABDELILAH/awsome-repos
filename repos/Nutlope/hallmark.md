@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | CSS |
 | **License** | MIT |
-| **Stars** | ⭐ 28,119 |
-| **Forks** | 🍴 1,434 |
-| **Trending Days** | 17 |
+| **Stars** | ⭐ 28,162 |
+| **Forks** | 🍴 1,440 |
+| **Trending Days** | 18 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Sep 5, 2026 |
+| **Last Seen** | Sep 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 17
+- **Trending Days**: 18
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:02.755Z*  
-*Data from 17 trending reports*
+*Last updated: 2026-09-06T21:01:33.088Z*  
+*Data from 18 trending reports*

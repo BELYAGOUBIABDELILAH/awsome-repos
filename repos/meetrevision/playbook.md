@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PowerShell |
 | **License** | CC-BY-SA-4.0 |
-| **Stars** | ⭐ 2,024 |
-| **Forks** | 🍴 118 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 2,038 |
+| **Forks** | 🍴 120 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 24, 2026 |
+| **Last Seen** | Sep 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 2 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 85&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-05T21:02:02.789Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-09-06T21:01:33.120Z*  
+*Data from 6 trending reports*

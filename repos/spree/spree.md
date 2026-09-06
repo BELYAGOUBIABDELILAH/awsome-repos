@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Ruby |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 15,666 |
+| **Stars** | ⭐ 15,671 |
 | **Forks** | 🍴 5,295 |
-| **Trending Days** | 18 |
+| **Trending Days** | 19 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 4, 2026 |
+| **Last Seen** | Sep 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 18
+- **Trending Days**: 19
 - **Longest Streak**: 5 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 15,666+ stars, strong contributor base |
+| **Community** | Very Active | 15,671+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:02.331Z*  
-*Data from 18 trending reports*
+*Last updated: 2026-09-06T21:01:32.687Z*  
+*Data from 19 trending reports*

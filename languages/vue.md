@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 75
+- **Total Repositories**: 77
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-05
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,845 | 2026-08-01 | 19 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,167 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,362 | 2026-08-01 | 11 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,861 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 4,082 | 2026-08-01 | 7 |
+| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | ⭐ 392 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,200 | 2026-08-01 | 10 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 436 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [imsyy/home](../repos/imsyy/home.md) | ⭐ 4,574 | 2026-08-01 | 2 |
+| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 2,186 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | ⭐ 380 | 2026-08-01 | 9 |
+| [imsyy/yt-dlp-gui](../repos/imsyy/yt-dlp-gui.md) | ⭐ 312 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,366 | 2026-08-01 | 24 |
+| [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 5,847 | 2026-08-07 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 436 | 2026-08-02 | 17 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,004 | 2026-08-08 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 2,163 | 2026-08-02 | 14 |
+| [Rule-34/App](../repos/Rule-34/App.md) | ⭐ 375 | 2026-08-16 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,768 | 2026-08-02 | 13 |
+| [Jelosus2/BD2-L2D-Viewer](../repos/Jelosus2/BD2-L2D-Viewer.md) | ⭐ 393 | 2026-08-29 | 2 |
 
 
 ---
@@ -52,16 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 5,845 | 2026-08-07 | A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-a... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [freqtrade/frequi](../repos/freqtrade/frequi.md) | ⭐ 1,062 | 2026-08-07 | Freqtrade UI - Frontend for Freqtrade |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,856 | 2026-08-08 | 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！ |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,004 | 2026-08-08 | 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,679 | 2026-08-08 | 🍀 A cross-platform instant messaging desktop application with exceptional performance built on R... |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,734 | 2026-08-12 | 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [OpenListTeam/OpenList-Desktop](../repos/OpenListTeam/OpenList-Desktop.md) | ⭐ 1,394 | 2026-08-14 | A desktop application for OpenList |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [creazy231/tools-for-autodarts](../repos/creazy231/tools-for-autodarts.md) | ⭐ 127 | 2026-08-15 | Tools for Autodarts enhances the gaming experience on autodarts.io |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ZTMYO/XiaoShiLiu](../repos/ZTMYO/XiaoShiLiu.md) | ⭐ 277 | 2026-08-15 | 一个高仿小红书的图文社区项目，支持图文发布、社交互动等核心功能，旨在提供从前端到后端的完整实践范本 |
 
 
 ---
@@ -94,8 +94,8 @@
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,244 | 2026-08-01 | 14 |
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,845 | 2026-08-01 | 19 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 22,856 | 2026-08-08 | 9 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,805 | 2026-08-01 | 14 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,004 | 2026-08-08 | 10 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,861 | 2026-08-01 | 15 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,637 | 2026-08-02 | 12 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,609 | 2026-08-02 | 12 |
@@ -117,12 +117,12 @@
 |------------|---------------|-------|------------|-----------|
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 24 | ⭐ 33,366 | 2026-08-01 | 2026-09-05 |
 | [requarks/wiki](../repos/requarks/wiki.md) | 19 | ⭐ 28,845 | 2026-08-01 | 2026-09-05 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 18 | ⭐ 436 | 2026-08-02 | 2026-09-06 |
 | [frappe/crm](../repos/frappe/crm.md) | 17 | ⭐ 3,468 | 2026-08-01 | 2026-09-04 |
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 17 | ⭐ 436 | 2026-08-02 | 2026-09-05 |
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 14 | ⭐ 4,099 | 2026-08-01 | 2026-08-29 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 15 | ⭐ 4,167 | 2026-08-01 | 2026-09-06 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 15 | ⭐ 21,861 | 2026-08-01 | 2026-09-06 |
+| [julyx10/lap](../repos/julyx10/lap.md) | 15 | ⭐ 2,186 | 2026-08-02 | 2026-09-06 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 14 | ⭐ 33,244 | 2026-08-01 | 2026-09-02 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 14 | ⭐ 21,805 | 2026-08-01 | 2026-08-29 |
-| [julyx10/lap](../repos/julyx10/lap.md) | 14 | ⭐ 2,163 | 2026-08-02 | 2026-09-05 |
 | [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 13 | ⭐ 1,835 | 2026-08-02 | 2026-09-03 |
 | [unovue/reka-ui](../repos/unovue/reka-ui.md) | 13 | ⭐ 6,768 | 2026-08-02 | 2026-09-05 |
 
@@ -205,7 +205,9 @@
 - [Jelosus2/BD2-L2D-Viewer](../repos/Jelosus2/BD2-L2D-Viewer.md) - Brown Dust 2 Live 2D Viewer
 - [build-admin/buildadmin](../repos/build-admin/buildadmin.md) - 可视化生成CRUD代码、内置WEB终端、workerman常驻内存运行支持，技术栈为Vue3.x(setup)+ThinkPHP8+TypeScript+Vite+Pinia+Element P...
 - [1sdv/TripStar](../repos/1sdv/TripStar.md) - 旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的各种问题，为提供一站式旅游攻略而生。
+- [miragecoa/AI-Cubby](../repos/miragecoa/AI-Cubby.md) - Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for image...
+- [wrapper-offline/wrapper-offline](../repos/wrapper-offline/wrapper-offline.md) - A project with the purpose of providing a way to use the Legacy Video Maker from GoAnimate &#x2F; Vyond.
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.117Z*
+*Last updated: 2026-09-06T21:01:31.350Z*

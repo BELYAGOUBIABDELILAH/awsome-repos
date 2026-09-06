@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C# |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 24,059 |
-| **Forks** | 🍴 60,938 |
-| **Trending Days** | 18 |
+| **Stars** | ⭐ 25,423 |
+| **Forks** | 🍴 64,282 |
+| **Trending Days** | 19 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Sep 2, 2026 |
+| **Last Seen** | Sep 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 18
+- **Trending Days**: 19
 - **Longest Streak**: 6 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 24,059+ stars, strong contributor base |
+| **Community** | Very Active | 25,423+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -84,12 +84,12 @@
 - Check similar projects in C#
 
 #### Metrics
-- **Hidden Gem**: ✓ Yes
+- **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-05T21:02:02.652Z*  
-*Data from 18 trending reports*
+*Last updated: 2026-09-06T21:01:32.995Z*  
+*Data from 19 trending reports*

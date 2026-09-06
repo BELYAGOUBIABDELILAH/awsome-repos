@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Other |
-| **Stars** | ⭐ 95,653 |
-| **Forks** | 🍴 4,996 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 95,895 |
+| **Forks** | 🍴 5,044 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Aug 24, 2026 |
+| **Last Seen** | Sep 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 3 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:03.762Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-09-06T21:01:33.990Z*  
+*Data from 7 trending reports*

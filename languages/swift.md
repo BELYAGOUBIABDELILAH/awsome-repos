@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 94
+- **Total Repositories**: 96
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-27
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,926 | 2026-08-01 | 14 |
+| [apple/container](../repos/apple/container.md) | ⭐ 49,723 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,820 | 2026-08-01 | 10 |
+| [swiftlang/swift-syntax](../repos/swiftlang/swift-syntax.md) | ⭐ 3,696 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pluk-inc/markdown-preview](../repos/pluk-inc/markdown-preview.md) | ⭐ 2,272 | 2026-08-03 | 6 |
+| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 6,276 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,791 | 2026-08-04 | 4 |
+| [frankea/Whisky](../repos/frankea/Whisky.md) | ⭐ 650 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,512 | 2026-08-04 | 8 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,304 | 2026-08-17 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,622 | 2026-08-06 | 8 |
+| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 2,284 | 2026-09-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frankea/Whisky](../repos/frankea/Whisky.md) | ⭐ 635 | 2026-08-08 | 4 |
+| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,510 | 2026-09-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 1,131 | 2026-08-10 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,295 | 2026-08-17 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 2,210 | 2026-09-01 | 2 |
+| [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,116 | 2026-09-06 | 1 |
 
 
 ---
@@ -52,34 +46,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,380 | 2026-08-07 | A tweak to enhance Spotify experience |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [RevenueCat/purchases-ios](../repos/RevenueCat/purchases-ios.md) | ⭐ 3,055 | 2026-08-07 | In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [crossoverJie/SkillDeck](../repos/crossoverJie/SkillDeck.md) | ⭐ 522 | 2026-08-07 | Native macOS SwiftUI app for managing multiple AI code agent skills |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [wxtsky/CodeIsland](../repos/wxtsky/CodeIsland.md) | ⭐ 2,299 | 2026-08-07 | Real-time AI coding agent status panel in your MacBook notch — live status, approvals &amp; replies f... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [getsentry/sentry-cocoa](../repos/getsentry/sentry-cocoa.md) | ⭐ 1,111 | 2026-08-07 | The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,244 | 2026-08-08 | macOS video editor built for AI |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,914 | 2026-08-08 | Containerization is a Swift package for running Linux containers on macOS. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [frankea/Whisky](../repos/frankea/Whisky.md) | ⭐ 635 | 2026-08-08 | Active community fork of the archived whisky-app&#x2F;whisky — a modern Wine wrapper for macOS built w... |
+| [frankea/Whisky](../repos/frankea/Whisky.md) | ⭐ 650 | 2026-08-08 | Active community fork of the archived whisky-app&#x2F;whisky — a modern Wine wrapper for macOS built w... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rime/squirrel](../repos/rime/squirrel.md) | ⭐ 6,284 | 2026-08-09 | 【鼠鬚管】Rime for macOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 1,131 | 2026-08-10 | Native GUI for Homebrew Casks |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LoopKit/Loop](../repos/LoopKit/Loop.md) | ⭐ 1,704 | 2026-08-10 | An automated insulin delivery app for iOS, built on LoopKit |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Starmel/OpenSuperWhisper](../repos/Starmel/OpenSuperWhisper.md) | ⭐ 2,804 | 2026-08-10 | macOS dictation app |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,915 | 2026-08-11 | A command-line tool and Xcode Extension for formatting Swift code |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,285 | 2026-08-11 | AI coding assistant for Xcode |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ml-explore/mlx-swift-lm](../repos/ml-explore/mlx-swift-lm.md) | ⭐ 781 | 2026-08-11 | LLMs and VLMs with MLX Swift |
 
 
 ---
@@ -90,7 +84,7 @@
 |------------|-------|------------|---------------|
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,303 | 2026-08-05 | 9 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | 2026-09-04 | 1 |
-| [apple/container](../repos/apple/container.md) | ⭐ 49,580 | 2026-08-01 | 11 |
+| [apple/container](../repos/apple/container.md) | ⭐ 49,723 | 2026-08-01 | 12 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,843 | 2026-08-12 | 5 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,109 | 2026-09-01 | 2 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
@@ -100,14 +94,14 @@
 | [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,471 | 2026-08-12 | 6 |
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
+| [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,116 | 2026-09-06 | 1 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,892 | 2026-08-04 | 12 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,482 | 2026-08-24 | 5 |
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,295 | 2026-08-17 | 3 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,304 | 2026-08-17 | 4 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,244 | 2026-08-08 | 6 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,758 | 2026-08-01 | 2 |
 | [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,422 | 2026-08-17 | 2 |
-| [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,018 | 2026-08-05 | 1 |
 
 ---
 
@@ -116,8 +110,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 14 | ⭐ 11,926 | 2026-08-01 | 2026-09-05 |
+| [apple/container](../repos/apple/container.md) | 12 | ⭐ 49,723 | 2026-08-01 | 2026-09-06 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 12 | ⭐ 14,892 | 2026-08-04 | 2026-08-29 |
-| [apple/container](../repos/apple/container.md) | 11 | ⭐ 49,580 | 2026-08-01 | 2026-09-01 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 10 | ⭐ 26,820 | 2026-08-01 | 2026-09-05 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 10 | ⭐ 26,866 | 2026-08-04 | 2026-09-04 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 9 | ⭐ 6,257 | 2026-08-01 | 2026-09-02 |
@@ -217,14 +211,16 @@
 - [awaseem/foqos](../repos/awaseem/foqos.md) - Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open sou...
 - [kitknox/rootshell](../repos/kitknox/rootshell.md) - rootshell - The terminal, reimagined for Apple platforms
 - [Nanako0129/TokenBar](../repos/Nanako0129/TokenBar.md) - AI token usage &amp; quota monitor for the macOS menu bar — native Swift, Liquid Glass, 3D contributi...
-- [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. CA: 682r79Fjc3U2a...
+- [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 - [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Us...
 - [cshariq/Sapphire](../repos/cshariq/Sapphire.md) - The all in one mac app that redefines the notch
 - [ninxsoft/Mist](../repos/ninxsoft/Mist.md) - A Mac utility that automatically downloads macOS Firmwares &#x2F; Installers.
 - [ProxymanApp/TCPViewer](../repos/ProxymanApp/TCPViewer.md) - The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark
 - [farzaa/clicky](../repos/farzaa/clicky.md) - 
 - [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
+- [iliyami/MacSai](../repos/iliyami/MacSai.md) - Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alt...
+- [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) - A modern Wine wrapper for macOS built with SwiftUI
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.109Z*
+*Last updated: 2026-09-06T21:01:31.341Z*

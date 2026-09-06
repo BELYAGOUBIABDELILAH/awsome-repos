@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 113
+- **Total Repositories**: 115
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,46 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 32,801 | 2026-08-02 | 6 |
+| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 2,542 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 6,021 | 2026-08-02 | 5 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 27,909 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 92,430 | 2026-08-05 | 17 |
+| [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) | ⭐ 9,220 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 65,820 | 2026-08-05 | 10 |
+| [openai/plugins](../repos/openai/plugins.md) | ⭐ 5,431 | 2026-08-27 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 2,304 | 2026-08-07 | 8 |
+| [Stremio/stremio-web](../repos/Stremio/stremio-web.md) | ⭐ 13,434 | 2026-08-29 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 30,876 | 2026-08-19 | 4 |
+| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 7,271 | 2026-08-29 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jarrodwatts/claude-hud](../repos/jarrodwatts/claude-hud.md) | ⭐ 27,837 | 2026-08-20 | 3 |
+| [maillab/cloud-mail](../repos/maillab/cloud-mail.md) | ⭐ 13,996 | 2026-09-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/plugins](../repos/openai/plugins.md) | ⭐ 5,403 | 2026-08-27 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 6,951 | 2026-08-29 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [facebook/stylex](../repos/facebook/stylex.md) | ⭐ 10,160 | 2026-09-03 | 2 |
+| [ilysenko/codex-desktop-linux](../repos/ilysenko/codex-desktop-linux.md) | ⭐ 3,772 | 2026-09-06 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 824 | 2026-08-07 | A plugin marketplace for Claude Code&#x2F;GitHub Copilot that provides Power Platform development plug... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 2,304 | 2026-08-07 | Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted devel... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lackeyjb/playwright-skill](../repos/lackeyjb/playwright-skill.md) | ⭐ 2,997 | 2026-08-08 | Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously wri... |
@@ -70,16 +58,22 @@
 | [wwebjs/whatsapp-web.js](../repos/wwebjs/whatsapp-web.js.md) | ⭐ 22,463 | 2026-08-08 | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 27,716 | 2026-08-08 | Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation stu... |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 27,909 | 2026-08-08 | Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation stu... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OpenSenseNova/SenseNova-Skills](../repos/OpenSenseNova/SenseNova-Skills.md) | ⭐ 4,919 | 2026-08-08 | Modular SenseNova skills for building AI-powered office assistants and productivity workflows |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) | ⭐ 8,455 | 2026-08-09 | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Dro... |
+| [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) | ⭐ 9,220 | 2026-08-09 | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Dro... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | The iconic SVG, font, and CSS toolkit |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [open-telemetry/opentelemetry.io](../repos/open-telemetry/opentelemetry.io.md) | ⭐ 945 | 2026-08-09 | The OpenTelemetry website and documentation |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [techjarves/Uncensored-Local-Studio](../repos/techjarves/Uncensored-Local-Studio.md) | ⭐ 906 | 2026-08-10 | Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GG... |
 
 
 ---
@@ -120,11 +114,11 @@
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 12 | ⭐ 24,188 | 2026-08-01 | 2026-08-28 |
 | [byoungd/up](../repos/byoungd/up.md) | 12 | ⭐ 61,500 | 2026-08-01 | 2026-08-25 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 10 | ⭐ 65,820 | 2026-08-05 | 2026-09-05 |
+| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 9 | ⭐ 2,542 | 2026-08-07 | 2026-09-06 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 8 | ⭐ 141,962 | 2026-07-30 | 2026-08-27 |
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 8 | ⭐ 2,304 | 2026-08-07 | 2026-09-05 |
 | [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | 7 | ⭐ 1,017 | 2026-08-05 | 2026-09-04 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 7 | ⭐ 27,909 | 2026-08-08 | 2026-09-06 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 6 | ⭐ 32,801 | 2026-08-02 | 2026-09-05 |
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 6 | ⭐ 39,289 | 2026-08-06 | 2026-08-27 |
 
 ---
 
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.082Z*
+*Last updated: 2026-09-06T21:01:31.309Z*

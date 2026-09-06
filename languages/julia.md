@@ -16,19 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 729 | 2026-08-01 | 28 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 730 | 2026-08-01 | 29 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 719 | 2026-08-07 | Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jump-dev/JuMP.jl](../repos/jump-dev/JuMP.jl.md) | ⭐ 2,462 | 2026-08-12 | Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonl... |
@@ -53,6 +47,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kahliburke/Kaimon.jl](../repos/kahliburke/Kaimon.jl.md) | ⭐ 25 | 2026-08-20 | MCP server giving AI agents full access to Julia&#39;s runtime via a live Gate — code execution, intr... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NumericalEarth/NumericalEarth.jl](../repos/NumericalEarth/NumericalEarth.jl.md) | ⭐ 47 | 2026-08-24 | 🌎 A framework for simulating the Earth system at all scales with prescribed or prognostic atmosp... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) | ⭐ 200 | 2026-09-02 | Boosted trees in Julia |
 
 
 ---
@@ -67,7 +67,7 @@
 | [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,410 | 2026-08-02 | 9 |
 | [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 729 | 2026-08-01 | 28 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 730 | 2026-08-01 | 29 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 719 | 2026-08-07 | 1 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | 3 |
@@ -86,7 +86,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 28 | ⭐ 729 | 2026-08-01 | 2026-09-05 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 29 | ⭐ 730 | 2026-08-01 | 2026-09-06 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 15 | ⭐ 46 | 2026-08-02 | 2026-08-25 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 13 | ⭐ 125 | 2026-08-01 | 2026-08-28 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 11 | ⭐ 116 | 2026-08-01 | 2026-09-01 |
@@ -122,4 +122,4 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.083Z*
+*Last updated: 2026-09-06T21:01:31.311Z*

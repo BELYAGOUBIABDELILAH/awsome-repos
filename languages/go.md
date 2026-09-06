@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 221
+- **Total Repositories**: 222
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-09-05
+- **Last Updated**: 2026-09-06
 
 ---
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 48,995 | 2026-08-01 | 10 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 21,544 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,239 | 2026-08-01 | 11 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,296 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [looplj/axonhub](../repos/looplj/axonhub.md) | ⭐ 5,167 | 2026-08-01 | 2 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 40,614 | 2026-08-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AlexxIT/go2rtc](../repos/AlexxIT/go2rtc.md) | ⭐ 14,119 | 2026-08-02 | 3 |
+| [XIU2/CloudflareSpeedTest](../repos/XIU2/CloudflareSpeedTest.md) | ⭐ 28,917 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 26,920 | 2026-08-04 | 8 |
+| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,444 | 2026-08-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/github-mcp-server](../repos/github/github-mcp-server.md) | ⭐ 32,736 | 2026-08-05 | 6 |
+| [cilium/cilium](../repos/cilium/cilium.md) | ⭐ 25,084 | 2026-08-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 40,552 | 2026-08-07 | 9 |
+| [Layr-Labs/d-inference](../repos/Layr-Labs/d-inference.md) | ⭐ 504 | 2026-08-26 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [livekit/livekit](../repos/livekit/livekit.md) | ⭐ 20,723 | 2026-08-07 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [hatchet-dev/hatchet](../repos/hatchet-dev/hatchet.md) | ⭐ 7,879 | 2026-08-19 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [coredns/coredns](../repos/coredns/coredns.md) | ⭐ 14,293 | 2026-08-20 | 4 |
+| [james-6-23/codex2api](../repos/james-6-23/codex2api.md) | ⭐ 2,030 | 2026-09-06 | 1 |
 
 
 ---
@@ -52,34 +46,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apernet/hysteria](../repos/apernet/hysteria.md) | ⭐ 22,288 | 2026-08-07 | Hysteria is a powerful, lightning fast and censorship resistant proxy. |
+| [sysadminsmedia/homebox](../repos/sysadminsmedia/homebox.md) | ⭐ 6,869 | 2026-08-08 | A continuation of HomeBox the inventory and organization system built for the Home User |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [gophish/gophish](../repos/gophish/gophish.md) | ⭐ 14,099 | 2026-08-07 | Open-Source Phishing Toolkit |
+| [beclab/Olares](../repos/beclab/Olares.md) | ⭐ 5,197 | 2026-08-08 | Open-Source Personal Cloud OS for Always-On Agents |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [kubernetes-sigs/kind](../repos/kubernetes-sigs/kind.md) | ⭐ 15,404 | 2026-08-07 | Kubernetes IN Docker - local clusters for testing Kubernetes |
+| [pocket-id/pocket-id](../repos/pocket-id/pocket-id.md) | ⭐ 8,744 | 2026-08-08 | The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in t... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [openbao/openbao](../repos/openbao/openbao.md) | ⭐ 6,958 | 2026-08-07 | OpenBao is a software solution to manage, store, and distribute sensitive data including secrets,... |
+| [alexballas/go2tv](../repos/alexballas/go2tv.md) | ⭐ 1,030 | 2026-08-08 | Cast media files to Smart TVs and Chromecast devices. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | 2026-08-07 | Run your GitHub Actions locally 🚀 |
+| [charmbracelet/crush](../repos/charmbracelet/crush.md) | ⭐ 27,643 | 2026-08-08 | Glamourous agentic coding for all 💘 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [veops/oneterm](../repos/veops/oneterm.md) | ⭐ 1,688 | 2026-08-07 | Provide secure access and control over all infrastructure |
+| [actions/actions-runner-controller](../repos/actions/actions-runner-controller.md) | ⭐ 6,481 | 2026-08-08 | Kubernetes controller for GitHub Actions self-hosted runners |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 40,552 | 2026-08-07 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| [navidrome/navidrome](../repos/navidrome/navidrome.md) | ⭐ 23,093 | 2026-08-08 | 🎧 Your Personal Streaming Service  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [livekit/livekit](../repos/livekit/livekit.md) | ⭐ 20,723 | 2026-08-07 | End-to-end realtime stack for connecting humans and AI |
+| [anchore/grype](../repos/anchore/grype.md) | ⭐ 12,704 | 2026-08-08 | A vulnerability scanner for container images and filesystems |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [higress-group/higress](../repos/higress-group/higress.md) | ⭐ 9,218 | 2026-08-07 | 🤖 AI Gateway | AI Native API Gateway |
+| [kubernetes-sigs/kueue](../repos/kubernetes-sigs/kueue.md) | ⭐ 2,785 | 2026-08-08 | Kubernetes-native Job Queueing |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [containers/kubernetes-mcp-server](../repos/containers/kubernetes-mcp-server.md) | ⭐ 1,912 | 2026-08-07 | Model Context Protocol (MCP) server for Kubernetes and OpenShift |
+| [containerd/containerd](../repos/containerd/containerd.md) | ⭐ 21,240 | 2026-08-08 | An open and reliable container runtime |
 
 
 ---
@@ -88,14 +82,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,239 | 2026-08-01 | 11 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,296 | 2026-08-01 | 12 |
 | [golang/go](../repos/golang/go.md) | ⭐ 137,097 | 2026-07-31 | 7 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 125,949 | 2026-08-04 | 4 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,657 | 2026-08-15 | 4 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 89,592 | 2026-08-06 | 7 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
-| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,306 | 2026-08-12 | 5 |
+| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,444 | 2026-08-12 | 6 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | 2026-08-03 | 3 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 72,001 | 2026-08-04 | 3 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | 2026-08-07 | 1 |
@@ -116,12 +110,12 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 12 | ⭐ 37,782 | 2026-08-01 | 2026-09-04 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 12 | ⭐ 21,544 | 2026-08-01 | 2026-09-06 |
+| [ollama/ollama](../repos/ollama/ollama.md) | 12 | ⭐ 180,296 | 2026-08-01 | 2026-09-06 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 11 | ⭐ 47,310 | 2026-08-01 | 2026-09-04 |
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 11 | ⭐ 21,340 | 2026-08-01 | 2026-09-04 |
-| [ollama/ollama](../repos/ollama/ollama.md) | 11 | ⭐ 180,239 | 2026-08-01 | 2026-09-05 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 10 | ⭐ 48,995 | 2026-08-01 | 2026-09-05 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 10 | ⭐ 1,756 | 2026-08-02 | 2026-09-04 |
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 9 | ⭐ 40,552 | 2026-08-07 | 2026-09-05 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 10 | ⭐ 40,614 | 2026-08-07 | 2026-09-06 |
 | [gastownhall/beads](../repos/gastownhall/beads.md) | 8 | ⭐ 26,920 | 2026-08-04 | 2026-09-05 |
 | [golang/go](../repos/golang/go.md) | 7 | ⭐ 137,097 | 2026-07-31 | 2026-09-01 |
 | [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 7 | ⭐ 37,500 | 2026-08-03 | 2026-09-01 |
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.074Z*
+*Last updated: 2026-09-06T21:01:31.300Z*

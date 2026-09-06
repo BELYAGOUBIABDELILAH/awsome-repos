@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Common Lisp |
 | **License** | Other |
-| **Stars** | ⭐ 2,135 |
-| **Forks** | 🍴 354 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 2,140 |
+| **Forks** | 🍴 359 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 24, 2026 |
-| **Last Seen** | Aug 24, 2026 |
+| **Last Seen** | Sep 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-05T21:02:04.381Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-06T21:01:34.599Z*  
+*Data from 2 trending reports*

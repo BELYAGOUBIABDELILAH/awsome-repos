@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 181
+- **Total Repositories**: 183
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 29,675 | 2026-08-02 | 11 |
+| [CyberTimon/RapidRAW](../repos/CyberTimon/RapidRAW.md) | ⭐ 9,887 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,718 | 2026-08-02 | 5 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 29,827 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 102,103 | 2026-08-07 | 8 |
+| [AdventDevInc/kudu](../repos/AdventDevInc/kudu.md) | ⭐ 2,960 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cobusgreyling/loop-engineering](../repos/cobusgreyling/loop-engineering.md) | ⭐ 10,982 | 2026-08-10 | 5 |
+| [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) | ⭐ 5,127 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 70,662 | 2026-08-10 | 5 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 44,347 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 3,134 | 2026-08-20 | 5 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 70,945 | 2026-08-10 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tradingview/lightweight-charts](../repos/tradingview/lightweight-charts.md) | ⭐ 17,184 | 2026-08-27 | 2 |
+| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 3,628 | 2026-08-20 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [humanlayer/skills](../repos/humanlayer/skills.md) | ⭐ 2,650 | 2026-09-04 | 2 |
+| [humanlayer/skills](../repos/humanlayer/skills.md) | ⭐ 3,086 | 2026-09-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BraveOPotato/FckSignups](../repos/BraveOPotato/FckSignups.md) | ⭐ 2,831 | 2026-09-05 | 1 |
+| [BraveOPotato/FckSignups](../repos/BraveOPotato/FckSignups.md) | ⭐ 3,258 | 2026-09-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/upload-artifact](../repos/actions/upload-artifact.md) | ⭐ 4,188 | 2026-09-05 | 1 |
+| [aipoch/open-science](../repos/aipoch/open-science.md) | ⭐ 3,811 | 2026-09-06 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 13,986 | 2026-08-07 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 44,347 | 2026-08-08 | Write HTML. Render video. Built for agents. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 22,177 | 2026-08-07 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one &#x2F;v1... |
+| [remnawave/panel](../repos/remnawave/panel.md) | ⭐ 4,804 | 2026-08-08 | A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [open-mercato/open-mercato](../repos/open-mercato/open-mercato.md) | ⭐ 1,576 | 2026-08-07 | AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural ... |
+| [jordanrendric/claude-video-vision](../repos/jordanrendric/claude-video-vision.md) | ⭐ 1,163 | 2026-08-08 | Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [payloadcms/payload](../repos/payloadcms/payload.md) | ⭐ 44,042 | 2026-08-07 | Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. ... |
+| [github/docs](../repos/github/docs.md) | ⭐ 20,780 | 2026-08-09 | The open-source repo for docs.github.com |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) | ⭐ 9,675 | 2026-08-07 | The free coding agent |
+| [browseros-ai/BrowserOS](../repos/browseros-ai/BrowserOS.md) | ⭐ 13,503 | 2026-08-09 | 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | The context API to search, scrape, and interact with the web at scale. 🔥 |
+| [yikart/AiToEarn](../repos/yikart/AiToEarn.md) | ⭐ 24,945 | 2026-08-09 | Let&#39;s use AI to Earn! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [CopilotKit/CopilotKit](../repos/CopilotKit/CopilotKit.md) | ⭐ 36,961 | 2026-08-07 | The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more.  Makers o... |
+| [Mininglamp-OSS/octo-web](../repos/Mininglamp-OSS/octo-web.md) | ⭐ 604 | 2026-08-09 | Web &amp; desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shi... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 102,103 | 2026-08-07 | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| [cobusgreyling/loop-engineering](../repos/cobusgreyling/loop-engineering.md) | ⭐ 10,982 | 2026-08-10 | Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design syste... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [deepcoldy/botmux](../repos/deepcoldy/botmux.md) | ⭐ 998 | 2026-08-07 | Bridge Feishu&#x2F;Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or t... |
+| [dyad-sh/dyad](../repos/dyad-sh/dyad.md) | ⭐ 21,195 | 2026-08-10 | Local, open-source AI app builder for power users ✨ v0 &#x2F; Lovable &#x2F; Replit &#x2F; Bolt alternative 🌟 S... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 43,709 | 2026-08-08 | Write HTML. Render video. Built for agents. |
+| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 28,580 | 2026-08-10 | The open agent skills tool - npx skills |
 
 
 ---
@@ -115,7 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 11 | ⭐ 29,675 | 2026-08-02 | 2026-09-05 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 12 | ⭐ 29,827 | 2026-08-02 | 2026-09-06 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 11 | ⭐ 22,177 | 2026-08-07 | 2026-08-29 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 10 | ⭐ 6,150 | 2026-08-01 | 2026-08-29 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 9 | ⭐ 131,342 | 2026-08-02 | 2026-09-04 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.111Z*
+*Last updated: 2026-09-06T21:01:31.343Z*

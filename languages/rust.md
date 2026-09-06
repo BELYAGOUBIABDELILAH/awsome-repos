@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 158
+- **Total Repositories**: 160
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-05
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 121,738 | 2026-08-01 | 9 |
+| [cocoindex-io/cocoindex](../repos/cocoindex-io/cocoindex.md) | ⭐ 11,493 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [clockworklabs/SpacetimeDB](../repos/clockworklabs/SpacetimeDB.md) | ⭐ 25,097 | 2026-08-01 | 5 |
+| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 11,103 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nolabs-ai/nono](../repos/nolabs-ai/nono.md) | ⭐ 3,970 | 2026-08-01 | 2 |
+| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,895 | 2026-08-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 42,005 | 2026-08-02 | 7 |
+| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 17,149 | 2026-08-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,503 | 2026-08-12 | 3 |
+| [slint-ui/slint](../repos/slint-ui/slint.md) | ⭐ 23,730 | 2026-08-23 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonhowtf/omniget](../repos/tonhowtf/omniget.md) | ⭐ 9,518 | 2026-08-12 | 4 |
+| [arcboxlabs/arcbox](../repos/arcboxlabs/arcbox.md) | ⭐ 3,363 | 2026-09-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 17,106 | 2026-08-14 | 4 |
+| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 14,067 | 2026-09-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [slint-ui/slint](../repos/slint-ui/slint.md) | ⭐ 23,711 | 2026-08-23 | 3 |
+| [GreptimeTeam/greptimedb](../repos/GreptimeTeam/greptimedb.md) | ⭐ 6,642 | 2026-09-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 7,975 | 2026-08-27 | 3 |
+| [nklmilojevic/sofka](../repos/nklmilojevic/sofka.md) | ⭐ 553 | 2026-09-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espanso/espanso](../repos/espanso/espanso.md) | ⭐ 14,432 | 2026-09-03 | 2 |
+| [mixelpixx/Konnect](../repos/mixelpixx/Konnect.md) | ⭐ 464 | 2026-09-06 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [denoland/celld](../repos/denoland/celld.md) | ⭐ 2,993 | 2026-08-07 | self-hosted, distributed Durable Objects |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [glzr-io/glazewm](../repos/glzr-io/glazewm.md) | ⭐ 12,554 | 2026-08-07 | GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cloudflare/pingora](../repos/cloudflare/pingora.md) | ⭐ 27,151 | 2026-08-07 | A library for building fast, reliable and evolvable network services. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pimalaya/himalaya](../repos/pimalaya/himalaya.md) | ⭐ 6,956 | 2026-08-07 | CLI to manage emails |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cloud-hypervisor/cloud-hypervisor](../repos/cloud-hypervisor/cloud-hypervisor.md) | ⭐ 6,074 | 2026-08-07 | A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hot... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [LanRhyme/MicYou](../repos/LanRhyme/MicYou.md) | ⭐ 3,589 | 2026-08-07 | MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 4,568 | 2026-08-08 | Postgres rewritten in Rust, now faster than Postgres and Clickhouse |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ClementTsang/bottom](../repos/ClementTsang/bottom.md) | ⭐ 13,861 | 2026-08-08 | Yet another cross-platform graphical process&#x2F;system monitor. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,437 | 2026-08-09 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lancedb/lancedb](../repos/lancedb/lancedb.md) | ⭐ 11,238 | 2026-08-09 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [surrealdb/surrealdb](../repos/surrealdb/surrealdb.md) | ⭐ 32,874 | 2026-08-09 | A scalable, distributed, collaborative, document-graph database, for the realtime web |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [RustPython/RustPython](../repos/RustPython/RustPython.md) | ⭐ 22,260 | 2026-08-09 | A Python Interpreter written in Rust |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lanyeeee/bilibili-video-downloader](../repos/lanyeeee/bilibili-video-downloader.md) | ⭐ 1,815 | 2026-08-09 | 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 17,670 | 2026-08-09 | Generate any location from the real world in Minecraft with a high level of detail. |
 
 
 ---
@@ -91,7 +91,7 @@
 | [openai/codex](../repos/openai/codex.md) | ⭐ 121,738 | 2026-08-01 | 9 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 117,447 | 2026-07-30 | 7 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
-| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,653 | 2026-08-11 | 6 |
+| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,895 | 2026-08-11 | 7 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,437 | 2026-08-09 | 7 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 89,217 | 2026-07-31 | 3 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
@@ -124,7 +124,7 @@
 | [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | 7 | ⭐ 18,760 | 2026-08-03 | 2026-09-03 |
 | [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 7 | ⭐ 2,575 | 2026-08-05 | 2026-08-28 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 7 | ⭐ 92,437 | 2026-08-09 | 2026-09-03 |
-| [longbridge/gpui-component](../repos/longbridge/gpui-component.md) | 6 | ⭐ 13,249 | 2026-08-01 | 2026-08-19 |
+| [oven-sh/bun](../repos/oven-sh/bun.md) | 7 | ⭐ 95,895 | 2026-08-11 | 2026-09-06 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.104Z*
+*Last updated: 2026-09-06T21:01:31.335Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Swift |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 49,580 |
-| **Forks** | 🍴 1,778 |
-| **Trending Days** | 11 |
+| **Stars** | ⭐ 49,723 |
+| **Forks** | 🍴 1,783 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 1, 2026 |
+| **Last Seen** | Sep 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 11
+- **Trending Days**: 12
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:02.341Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-09-06T21:01:32.699Z*  
+*Data from 12 trending reports*

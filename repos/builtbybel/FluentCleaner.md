@@ -1,6 +1,6 @@
 # builtbybel&#x2F;FluentCleaner
 
-> A real WinUI desktop cleaner with terminal control and multi-database support
+> FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;builtbybel&#x2F;FluentCleaner) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C# |
 | **License** | MIT |
-| **Stars** | ⭐ 5,607 |
-| **Forks** | 🍴 191 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 5,873 |
+| **Forks** | 🍴 206 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 26, 2026 |
+| **Last Seen** | Sep 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 4 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:02.654Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-09-06T21:01:32.997Z*  
+*Data from 9 trending reports*

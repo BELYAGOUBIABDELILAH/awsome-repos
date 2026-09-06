@@ -1,6 +1,6 @@
 # abue-ammar&#x2F;tinycast
 
-> Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. CA: 682r79Fjc3U2aMEZASFSbd5SW2u4bzqfVPAHofsipump
+> Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;abue-ammar&#x2F;tinycast) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Swift |
 | **License** | Other |
-| **Stars** | ⭐ 2,210 |
-| **Forks** | 🍴 144 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 2,284 |
+| **Forks** | 🍴 145 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 1, 2026 |
-| **Last Seen** | Sep 5, 2026 |
+| **Last Seen** | Sep 6, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
-- **Longest Streak**: 1 days
+- **Trending Days**: 3
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 55&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-05T21:02:04.595Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-06T21:01:34.796Z*  
+*Data from 3 trending reports*

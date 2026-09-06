@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 96
+- **Total Repositories**: 98
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-02
-- **Average Stars**: 17702
+- **Average Stars**: 17412
 
 ---
 
@@ -20,31 +20,31 @@
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,702 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,473 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,478 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,950 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,956 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,097 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,108 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,523 | OCaml |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,530 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,858 | Vim Script |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 40,864 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,702 | OCaml |  |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,893 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,207 | Java |  |
+| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,682 | R |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,149 | R |  |
+| [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,200 | Lua |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,198 | Lua |  |
+| [kanaka/mal](../repos/kanaka/mal.md) | ⭐ 10,725 | Assembly |  |
 
 
 ---
@@ -55,14 +55,14 @@
 |------------|-------|----------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | C | 2026-08-07 | 10 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 102,626 | Python | 2026-07-30 | 2 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,476 | C | 2026-08-02 | 10 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,893 | C | 2026-08-02 | 11 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | Go | 2026-08-07 | 1 |
 | [git/git](../repos/git/git.md) | ⭐ 62,663 | C | 2026-08-05 | 3 |
 | [TanStack/query](../repos/TanStack/query.md) | ⭐ 50,183 | TypeScript | 2026-08-22 | 1 |
 | [pandas-dev/pandas](../repos/pandas-dev/pandas.md) | ⭐ 49,417 | Python | 2026-08-04 | 1 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,097 | Clojure | 2026-08-01 | 30 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,108 | Clojure | 2026-08-01 | 31 |
 | [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 46,014 | Python | 2026-08-02 | 5 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,950 | Scala | 2026-08-01 | 32 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,956 | Scala | 2026-08-01 | 33 |
 
 ---
 
@@ -76,25 +76,25 @@
 | [pret/pokeemerald](../repos/pret/pokeemerald.md) | ⭐ 3,418 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,702 | Ruby | 1 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,702 | Ruby | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,473 | Scala | 5 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,478 | Scala | 6 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [apache/texera](../repos/apache/texera.md) | ⭐ 276 | Scala | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,950 | Scala | 5 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,956 | Scala | 6 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,097 | Clojure | 5 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,108 | Clojure | 6 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,523 | OCaml | 5 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,530 | OCaml | 6 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,858 | Vim Script | 5 |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 40,864 | Vim Script | 6 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 26,642 | C | 1 |
@@ -103,15 +103,6 @@
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | Go | 2026-08-07 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [asterisk/asterisk](../repos/asterisk/asterisk.md) | ⭐ 3,470 | C | 2026-08-07 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | C | 2026-08-07 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [OpenSenseNova/SenseNova-Skills](../repos/OpenSenseNova/SenseNova-Skills.md) | ⭐ 4,919 | JavaScript | 2026-08-08 |
@@ -133,10 +124,23 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader/sumatrapdf.md) | ⭐ 17,379 | C | 2026-08-09 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [libusb/libusb](../repos/libusb/libusb.md) | ⭐ 6,127 | C | 2026-08-09 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [everypolitician/everypolitician-data](../repos/everypolitician/everypolitician-data.md) | ⭐ 256 | Ruby | 2026-08-09 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [semaphoreio/semaphore](../repos/semaphoreio/semaphore.md) | ⭐ 1,570 | Elixir | 2026-08-09 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-09-06](../archive/2026/09/2026-09-06.md)
+- 13 repositories trending
+- Top: obsproject&#x2F;obs-studio
 
 ### [2026-09-05](../archive/2026/09/2026-09-05.md)
 - 17 repositories trending
@@ -167,11 +171,11 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 32 days | 2026-08-01 | 2026-09-05 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 30 days | 2026-08-01 | 2026-09-05 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 30 days | 2026-08-01 | 2026-09-05 |
-| [joernio/joern](../repos/joernio/joern.md) | 28 days | 2026-08-01 | 2026-09-05 |
-| [vim/vim](../repos/vim/vim.md) | 27 days | 2026-08-01 | 2026-09-05 |
+| [apache/spark](../repos/apache/spark.md) | 33 days | 2026-08-01 | 2026-09-06 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 31 days | 2026-08-01 | 2026-09-06 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 31 days | 2026-08-01 | 2026-09-06 |
+| [joernio/joern](../repos/joernio/joern.md) | 29 days | 2026-08-01 | 2026-09-06 |
+| [vim/vim](../repos/vim/vim.md) | 28 days | 2026-08-01 | 2026-09-06 |
 | [facebook/infer](../repos/facebook/infer.md) | 22 days | 2026-08-02 | 2026-09-05 |
 | [apache/texera](../repos/apache/texera.md) | 15 days | 2026-08-01 | 2026-09-01 |
 | [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 15 days | 2026-08-01 | 2026-08-29 |
@@ -185,14 +189,14 @@
 ### Language Breakdown
 - **C**: 27 repositories (28%)
 - **Python**: 9 repositories (9%)
-- **Scala**: 6 repositories (6%)
+- **Scala**: 7 repositories (7%)
 - **R**: 6 repositories (6%)
 - **Java**: 6 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 15.8 repositories
+- **Daily Average**: 15.7 repositories
 - **Peak Day**: 2026-08-04 (23 repositories)
-- **Growth Rate**: 55% this month
+- **Growth Rate**: 53% this month
 
 ---
 
@@ -299,7 +303,9 @@
 - [gchq/CyberChef](../repos/gchq/CyberChef.md) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [huggingface/datasets](../repos/huggingface/datasets.md) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient da...
 - [PlotJuggler/PlotJuggler](../repos/PlotJuggler/PlotJuggler.md) - The Time Series Visualization Tool that you deserve.
+- [aipoch/open-science](../repos/aipoch/open-science.md) - Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for m...
+- [spotify/scio](../repos/spotify/scio.md) - A Scala API for Apache Beam and Google Cloud Dataflow.
 
 ---
 
-*Last updated: 2026-09-05T21:02:00.901Z*
+*Last updated: 2026-09-06T21:01:31.039Z*

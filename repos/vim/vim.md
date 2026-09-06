@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vim Script |
 | **License** | Vim |
-| **Stars** | ⭐ 40,858 |
-| **Forks** | 🍴 6,137 |
-| **Trending Days** | 27 |
+| **Stars** | ⭐ 40,864 |
+| **Forks** | 🍴 6,138 |
+| **Trending Days** | 28 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 5, 2026 |
+| **Last Seen** | Sep 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 27
+- **Trending Days**: 28
 - **Longest Streak**: 10 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:02.499Z*  
-*Data from 27 trending reports*
+*Last updated: 2026-09-06T21:01:32.851Z*  
+*Data from 28 trending reports*

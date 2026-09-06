@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 166
+- **Total Repositories**: 170
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,429 | 2026-08-01 | 16 |
+| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,978 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 69,737 | 2026-08-01 | 15 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,893 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mcu-tools/mcuboot](../repos/mcu-tools/mcuboot.md) | ⭐ 2,088 | 2026-08-01 | 3 |
+| [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) | ⭐ 16,550 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 814 | 2026-08-02 | 6 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,943 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,473 | 2026-08-04 | 11 |
+| [portapack-mayhem/mayhem-firmware](../repos/portapack-mayhem/mayhem-firmware.md) | ⭐ 5,391 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,067 | 2026-08-07 | 7 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,719 | 2026-08-07 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,331 | 2026-08-07 | 15 |
+| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 6,575 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,711 | 2026-08-07 | 13 |
+| [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,285 | 2026-08-09 | 6 |
+| [xmrig/xmrig](../repos/xmrig/xmrig.md) | ⭐ 10,112 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 22,922 | 2026-08-12 | 5 |
+| [sandboxie-plus/Sandboxie](../repos/sandboxie-plus/Sandboxie.md) | ⭐ 19,358 | 2026-08-23 | 4 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [timescale/timescaledb](../repos/timescale/timescaledb.md) | ⭐ 23,310 | 2026-08-07 | A time-series database for high-performance real-time analytics packaged as a Postgres extension |
+| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 6,575 | 2026-08-08 | Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,067 | 2026-08-07 | A massively spiffy yet delicately unobtrusive compression library. |
+| [EpicGames/raddebugger](../repos/EpicGames/raddebugger.md) | ⭐ 7,435 | 2026-08-08 | A native, user-mode, multi-process, graphical debugger. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [quickjs-ng/quickjs](../repos/quickjs-ng/quickjs.md) | ⭐ 3,631 | 2026-08-07 | QuickJS, the Next Generation: a mighty JavaScript engine |
+| [acidanthera/OpenCorePkg](../repos/acidanthera/OpenCorePkg.md) | ⭐ 15,341 | 2026-08-08 | OpenCore bootloader |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,331 | 2026-08-07 | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge grap... |
+| [qualcomm-linux/kernel](../repos/qualcomm-linux/kernel.md) | ⭐ 29 | 2026-08-08 | Linux Kernel for QLI mainline |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zmkfirmware/zmk](../repos/zmkfirmware/zmk.md) | ⭐ 4,205 | 2026-08-07 | ZMK Firmware Repository |
+| [rexglue/rexglue-sdk](../repos/rexglue/rexglue-sdk.md) | ⭐ 845 | 2026-08-08 | Xbox 360 Recompilation Runtime and Toolkit |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [asterisk/asterisk](../repos/asterisk/asterisk.md) | ⭐ 3,470 | 2026-08-07 | The official Asterisk Project repository. |
+| [taosdata/TDengine](../repos/taosdata/TDengine.md) | ⭐ 25,039 | 2026-08-08 | High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [wolfSSL/wolfssl](../repos/wolfSSL/wolfssl.md) | ⭐ 2,899 | 2026-08-07 | The wolfSSL library is a small, fast, portable implementation of TLS&#x2F;SSL for embedded devices to ... |
+| [tianocore/edk2](../repos/tianocore/edk2.md) | ⭐ 6,204 | 2026-08-08 | EDK II |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | 2026-08-07 | Display and control your Android device |
+| [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 27,111 | 2026-08-08 | A flexible distributed key-value database that is optimized for caching and other realtime worklo... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,711 | 2026-08-07 | Zstandard - Fast real-time compression algorithm |
+| [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | The Reliable USB Formatting Utility |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 6,424 | 2026-08-08 | Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1) |
+| [veracrypt/VeraCrypt](../repos/veracrypt/VeraCrypt.md) | ⭐ 11,472 | 2026-08-09 | Disk encryption with strong security based on TrueCrypt |
 
 
 ---
@@ -92,22 +92,22 @@
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,429 | 2026-08-01 | 16 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 78,928 | 2026-08-24 | 1 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,476 | 2026-08-02 | 10 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,893 | 2026-08-02 | 11 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 69,737 | 2026-08-01 | 15 |
 | [git/git](../repos/git/git.md) | ⭐ 62,663 | 2026-08-05 | 3 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,331 | 2026-08-07 | 15 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,314 | 2026-08-01 | 4 |
-| [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,255 | 2026-08-08 | 3 |
+| [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,804 | 2026-08-02 | 6 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | 6 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,501 | 2026-08-03 | 4 |
+| [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,803 | 2026-09-06 | 1 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,096 | 2026-08-01 | 3 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 32,007 | 2026-08-17 | 1 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,565 | 2026-08-02 | 5 |
 | [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,285 | 2026-08-09 | 6 |
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,711 | 2026-08-07 | 13 |
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,144 | 2026-08-01 | 9 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,719 | 2026-08-07 | 14 |
 
 ---
 
@@ -118,11 +118,11 @@
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 16 | ⭐ 138,429 | 2026-08-01 | 2026-09-05 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 15 | ⭐ 69,737 | 2026-08-01 | 2026-09-05 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 15 | ⭐ 42,331 | 2026-08-07 | 2026-09-05 |
+| [facebook/zstd](../repos/facebook/zstd.md) | 14 | ⭐ 27,719 | 2026-08-07 | 2026-09-06 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 13 | ⭐ 6,943 | 2026-08-04 | 2026-09-06 |
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 13 | ⭐ 16,379 | 2026-08-06 | 2026-09-02 |
-| [facebook/zstd](../repos/facebook/zstd.md) | 13 | ⭐ 27,711 | 2026-08-07 | 2026-09-05 |
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 12 | ⭐ 6,937 | 2026-08-04 | 2026-09-04 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 11 | ⭐ 75,893 | 2026-08-02 | 2026-09-06 |
 | [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 11 | ⭐ 4,473 | 2026-08-04 | 2026-09-05 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 10 | ⭐ 75,476 | 2026-08-02 | 2026-08-26 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 10 | ⭐ 148,747 | 2026-08-07 | 2026-09-02 |
 | [libuv/libuv](../repos/libuv/libuv.md) | 9 | ⭐ 27,144 | 2026-08-01 | 2026-08-29 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.053Z*
+*Last updated: 2026-09-06T21:01:31.276Z*

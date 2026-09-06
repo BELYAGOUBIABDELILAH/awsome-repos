@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 28,382 |
-| **Forks** | 🍴 5,367 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 28,917 |
+| **Forks** | 🍴 5,429 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Aug 9, 2026 |
+| **Last Seen** | Sep 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-05T21:02:03.603Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-06T21:01:33.843Z*  
+*Data from 2 trending reports*

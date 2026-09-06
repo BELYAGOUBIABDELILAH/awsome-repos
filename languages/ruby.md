@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 82
+- **Total Repositories**: 83
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-05
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,790 | 2026-08-01 | 23 |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,793 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,900 | 2026-08-01 | 14 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,702 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,702 | 2026-08-01 | 12 |
+| [spree/spree](../repos/spree/spree.md) | ⭐ 15,671 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,257 | 2026-08-01 | 7 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,680 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,030 | 2026-08-01 | 21 |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,760 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,676 | 2026-08-01 | 14 |
+| [we-promise/sure](../repos/we-promise/sure.md) | ⭐ 9,736 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [we-promise/sure](../repos/we-promise/sure.md) | ⭐ 9,723 | 2026-08-02 | 16 |
+| [rubocop/rubocop](../repos/rubocop/rubocop.md) | ⭐ 12,893 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rails/rails](../repos/rails/rails.md) | ⭐ 58,753 | 2026-08-02 | 18 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,068 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,659 | 2026-08-03 | 10 |
+| [citation-style-language/styles](../repos/citation-style-language/styles.md) | ⭐ 3,888 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,062 | 2026-08-04 | 16 |
+| [otwcode/otwarchive](../repos/otwcode/otwarchive.md) | ⭐ 2,210 | 2026-08-19 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [solidusio/solidus](../repos/solidusio/solidus.md) | ⭐ 5,323 | 2026-08-07 | 🛒 Solidus, the open-source eCommerce framework for industry trailblazers. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [basecamp/fizzy](../repos/basecamp/fizzy.md) | ⭐ 8,178 | 2026-08-08 | Kanban as it should be. Not as it has been. |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Kong/docs.konghq.com](../repos/Kong/docs.konghq.com.md) | ⭐ 212 | 2026-08-09 | 🦍 Archived repo for docs.konghq.com website. Use https:&#x2F;&#x2F;github.com&#x2F;Kong&#x2F;developer.konghq.com in... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [basecamp/writebook](../repos/basecamp/writebook.md) | ⭐ 534 | 2026-08-09 |  |
 
 
 ---
@@ -91,23 +91,23 @@
 | [rails/rails](../repos/rails/rails.md) | ⭐ 58,753 | 2026-08-02 | 18 |
 | [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,659 | 2026-08-03 | 10 |
 | [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,900 | 2026-08-01 | 14 |
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,790 | 2026-08-01 | 23 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,062 | 2026-08-04 | 16 |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,793 | 2026-08-01 | 24 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,068 | 2026-08-04 | 17 |
 | [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 38,931 | 2026-08-01 | 19 |
 | [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,200 | 2026-08-05 | 3 |
 | [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,549 | 2026-08-01 | 9 |
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,702 | 2026-08-01 | 12 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,702 | 2026-08-01 | 13 |
 | [forem/forem](../repos/forem/forem.md) | ⭐ 22,773 | 2026-08-04 | 6 |
 | [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,438 | 2026-08-02 | 13 |
 | [postalserver/postal](../repos/postalserver/postal.md) | ⭐ 16,781 | 2026-08-04 | 7 |
 | [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,030 | 2026-08-01 | 21 |
-| [spree/spree](../repos/spree/spree.md) | ⭐ 15,666 | 2026-08-01 | 18 |
+| [spree/spree](../repos/spree/spree.md) | ⭐ 15,671 | 2026-08-01 | 19 |
 | [CocoaPods/CocoaPods](../repos/CocoaPods/CocoaPods.md) | ⭐ 14,831 | 2026-09-02 | 1 |
 | [basecamp/kamal](../repos/basecamp/kamal.md) | ⭐ 14,549 | 2026-08-12 | 6 |
 | [neutraltone/awesome-stock-resources](../repos/neutraltone/awesome-stock-resources.md) | ⭐ 14,514 | 2026-09-04 | 1 |
-| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,676 | 2026-08-01 | 14 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,680 | 2026-08-01 | 15 |
 | [sidekiq/sidekiq](../repos/sidekiq/sidekiq.md) | ⭐ 13,554 | 2026-08-05 | 6 |
-| [rubocop/rubocop](../repos/rubocop/rubocop.md) | ⭐ 12,898 | 2026-08-02 | 7 |
+| [rubocop/rubocop](../repos/rubocop/rubocop.md) | ⭐ 12,893 | 2026-08-02 | 8 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 25 | ⭐ 1,071 | 2026-08-01 | 2026-09-03 |
-| [discourse/discourse](../repos/discourse/discourse.md) | 23 | ⭐ 47,790 | 2026-08-01 | 2026-09-05 |
+| [discourse/discourse](../repos/discourse/discourse.md) | 24 | ⭐ 47,793 | 2026-08-01 | 2026-09-06 |
 | [opf/openproject](../repos/opf/openproject.md) | 21 | ⭐ 16,030 | 2026-08-01 | 2026-09-05 |
+| [spree/spree](../repos/spree/spree.md) | 19 | ⭐ 15,671 | 2026-08-01 | 2026-09-06 |
 | [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | 19 | ⭐ 38,931 | 2026-08-01 | 2026-09-03 |
-| [spree/spree](../repos/spree/spree.md) | 18 | ⭐ 15,666 | 2026-08-01 | 2026-09-04 |
 | [rails/rails](../repos/rails/rails.md) | 18 | ⭐ 58,753 | 2026-08-02 | 2026-09-05 |
-| [we-promise/sure](../repos/we-promise/sure.md) | 16 | ⭐ 9,723 | 2026-08-02 | 2026-09-05 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 16 | ⭐ 42,062 | 2026-08-04 | 2026-09-05 |
+| [we-promise/sure](../repos/we-promise/sure.md) | 17 | ⭐ 9,736 | 2026-08-02 | 2026-09-06 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 17 | ⭐ 42,068 | 2026-08-04 | 2026-09-06 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | 15 | ⭐ 13,680 | 2026-08-01 | 2026-09-06 |
 | [huginn/huginn](../repos/huginn/huginn.md) | 14 | ⭐ 49,900 | 2026-08-01 | 2026-09-05 |
-| [zammad/zammad](../repos/zammad/zammad.md) | 14 | ⭐ 5,889 | 2026-08-01 | 2026-09-04 |
 
 ---
 
@@ -212,7 +212,8 @@
 - [urbanadventurer/WhatWeb](../repos/urbanadventurer/WhatWeb.md) - Next generation web scanner
 - [lobsters/lobsters](../repos/lobsters/lobsters.md) - Computing-focused community centered around link aggregation and discussion
 - [neutraltone/awesome-stock-resources](../repos/neutraltone/awesome-stock-resources.md) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
+- [chromebrew/chromebrew](../repos/chromebrew/chromebrew.md) - Package manager for Chrome OS
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.103Z*
+*Last updated: 2026-09-06T21:01:31.334Z*

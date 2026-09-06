@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 50
+- **Total Repositories**: 51
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-05
+- **Last Updated**: 2026-09-06
 
 ---
 
@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,055 | 2026-08-01 | 29 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,055 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,229 | 2026-08-01 | 31 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,232 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | ⭐ 223 | 2026-08-01 | 29 |
+| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | ⭐ 223 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dapphub/ds-test](../repos/dapphub/ds-test.md) | ⭐ 239 | 2026-08-01 | 29 |
+| [dapphub/ds-test](../repos/dapphub/ds-test.md) | ⭐ 239 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [base/contracts](../repos/base/contracts.md) | ⭐ 323 | 2026-08-22 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) | ⭐ 6,768 | 2026-09-05 | 1 |
+| [1inch/swap-vm](../repos/1inch/swap-vm.md) | ⭐ 38 | 2026-09-06 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [matter-labs/era-contracts](../repos/matter-labs/era-contracts.md) | ⭐ 537 | 2026-08-07 | Smart Contract Submodule For zkSync Era |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pendle-finance/pendle-core-v2-public](../repos/pendle-finance/pendle-core-v2-public.md) | ⭐ 214 | 2026-08-07 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cowprotocol/contracts](../repos/cowprotocol/contracts.md) | ⭐ 158 | 2026-08-08 | Smart contracts for CoW Protocol |
@@ -68,6 +59,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [FhenixProtocol/fhenix-contracts](../repos/FhenixProtocol/fhenix-contracts.md) | ⭐ 517 | 2026-08-20 | Solidity Contracts that allow developers to use FHE on Fhenix |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [base/eip-8130](../repos/base/eip-8130.md) | ⭐ 27 | 2026-08-21 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [base/contracts](../repos/base/contracts.md) | ⭐ 323 | 2026-08-22 |  |
 
 
 ---
@@ -76,7 +73,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,229 | 2026-08-01 | 31 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,232 | 2026-08-01 | 32 |
 | [AmazingAng/WTF-Solidity](../repos/AmazingAng/WTF-Solidity.md) | ⭐ 14,033 | 2026-08-19 | 2 |
 | [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) | ⭐ 6,768 | 2026-09-05 | 1 |
 | [transmissions11/solmate](../repos/transmissions11/solmate.md) | ⭐ 4,288 | 2026-08-01 | 23 |
@@ -84,7 +81,7 @@
 | [Cyfrin/security-and-auditing-full-course-s23](../repos/Cyfrin/security-and-auditing-full-course-s23.md) | ⭐ 1,954 | 2026-09-02 | 1 |
 | [Uniswap/v2-periphery](../repos/Uniswap/v2-periphery.md) | ⭐ 1,268 | 2026-08-02 | 2 |
 | [Arachnid/solidity-stringutils](../repos/Arachnid/solidity-stringutils.md) | ⭐ 1,154 | 2026-08-02 | 23 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,055 | 2026-08-01 | 29 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,055 | 2026-08-01 | 30 |
 | [bnb-chain/BEPs](../repos/bnb-chain/BEPs.md) | ⭐ 976 | 2026-08-26 | 3 |
 | [foundry-rs/book](../repos/foundry-rs/book.md) | ⭐ 960 | 2026-08-10 | 3 |
 | [Uniswap/permit2](../repos/Uniswap/permit2.md) | ⭐ 946 | 2026-08-01 | 11 |
@@ -103,10 +100,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 31 | ⭐ 27,229 | 2026-08-01 | 2026-09-05 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 29 | ⭐ 1,055 | 2026-08-01 | 2026-09-05 |
-| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | 29 | ⭐ 223 | 2026-08-01 | 2026-09-05 |
-| [dapphub/ds-test](../repos/dapphub/ds-test.md) | 29 | ⭐ 239 | 2026-08-01 | 2026-09-05 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 32 | ⭐ 27,232 | 2026-08-01 | 2026-09-06 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 30 | ⭐ 1,055 | 2026-08-01 | 2026-09-06 |
+| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | 30 | ⭐ 223 | 2026-08-01 | 2026-09-06 |
+| [dapphub/ds-test](../repos/dapphub/ds-test.md) | 30 | ⭐ 239 | 2026-08-01 | 2026-09-06 |
 | [OpenZeppelin/openzeppelin-foundry-upgrades](../repos/OpenZeppelin/openzeppelin-foundry-upgrades.md) | 24 | ⭐ 258 | 2026-08-01 | 2026-08-29 |
 | [transmissions11/solmate](../repos/transmissions11/solmate.md) | 23 | ⭐ 4,288 | 2026-08-01 | 2026-08-29 |
 | [Arachnid/solidity-stringutils](../repos/Arachnid/solidity-stringutils.md) | 23 | ⭐ 1,154 | 2026-08-02 | 2026-08-29 |
@@ -168,7 +165,8 @@
 - [defisaver/defisaver-v3-contracts](../repos/defisaver/defisaver-v3-contracts.md) - All the contracts related to the Defi Saver ecosystem
 - [Cyfrin/security-and-auditing-full-course-s23](../repos/Cyfrin/security-and-auditing-full-course-s23.md) - The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created. 
 - [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) - Reproduce DeFi hacked incidents using Foundry.
+- [1inch/swap-vm](../repos/1inch/swap-vm.md) - 
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.108Z*
+*Last updated: 2026-09-06T21:01:31.340Z*

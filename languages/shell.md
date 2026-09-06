@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 94
+- **Total Repositories**: 99
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,896 | 2026-08-01 | 21 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,004 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,138 | 2026-08-04 | 11 |
+| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 9,755 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,787 | 2026-08-05 | 7 |
+| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,390 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,503 | 2026-08-07 | 17 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,792 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,808 | 2026-08-07 | 7 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,180 | 2026-08-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,592 | 2026-08-08 | 5 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,503 | 2026-08-07 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,130 | 2026-08-20 | 7 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 4,868 | 2026-08-12 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy-pkgs](../repos/omacom/omarchy-pkgs.md) | ⭐ 97 | 2026-09-02 | 2 |
+| [pystardust/ani-cli](../repos/pystardust/ani-cli.md) | ⭐ 13,729 | 2026-09-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [skills/introduction-to-git](../repos/skills/introduction-to-git.md) | ⭐ 195 | 2026-09-05 | 1 |
+| [WhatsApp/proxy](../repos/WhatsApp/proxy.md) | ⭐ 2,340 | 2026-09-06 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [hq450/fancyss](../repos/hq450/fancyss.md) | ⭐ 13,735 | 2026-09-06 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | A Zsh theme |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,503 | 2026-08-07 | A collection of AI agent skills for working with Expo projects and Expo Application Services |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,808 | 2026-08-07 | Certified Kubernetes Administrator - CKA Course |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,690 | 2026-08-07 | 😼 优雅地使用基于 clash&#x2F;mihomo 的代理环境 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,694 | 2026-08-07 | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,794 | 2026-08-08 | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) r... |
@@ -77,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [testdouble/han](../repos/testdouble/han.md) | ⭐ 195 | 2026-08-08 | Han: AI skills and agents for &quot;Solo&quot; product engineers and small teams |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) | ⭐ 4,695 | 2026-08-09 | A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [linux-surface/linux-surface](../repos/linux-surface/linux-surface.md) | ⭐ 7,653 | 2026-08-10 | Linux Kernel for Surface Devices |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [anthropics/claude-agent-sdk-typescript](../repos/anthropics/claude-agent-sdk-typescript.md) | ⭐ 1,684 | 2026-08-10 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,031 | 2026-08-11 | A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,085 | 2026-08-11 | Quickly create and run optimised Windows, macOS and Linux virtual machines |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent&#x2F;Claude Code&#x2F;Cursor&#x2F;Copilot 等 18 种工具，覆盖工程&#x2F;设计&#x2F;营销&#x2F;金融等 20 个部门... |
 
 
 ---
@@ -86,10 +89,10 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 94,896 | 2026-08-01 | 21 |
-| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,306 | 2026-08-04 | 4 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,004 | 2026-08-01 | 22 |
+| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,390 | 2026-08-04 | 5 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,015 | 2026-08-06 | 7 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,180 | 2026-08-06 | 8 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,582 | 2026-08-04 | 6 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 34,686 | 2026-08-29 | 1 |
@@ -112,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 22 | ⭐ 95,004 | 2026-08-01 | 2026-09-06 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 21 | ⭐ 94,896 | 2026-08-01 | 2026-09-05 |
-| [expo/skills](../repos/expo/skills.md) | 17 | ⭐ 2,503 | 2026-08-07 | 2026-09-05 |
+| [expo/skills](../repos/expo/skills.md) | 18 | ⭐ 2,503 | 2026-08-07 | 2026-09-06 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 13 | ⭐ 4,378 | 2026-08-01 | 2026-09-01 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 11 | ⭐ 11,138 | 2026-08-04 | 2026-09-05 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 10 | ⭐ 4,868 | 2026-08-12 | 2026-09-06 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 9 | ⭐ 25,582 | 2026-08-04 | 2026-09-01 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 9 | ⭐ 4,610 | 2026-08-12 | 2026-09-01 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 8 | ⭐ 2,192 | 2026-08-02 | 2026-08-27 |
-| [wolfi-dev/os](../repos/wolfi-dev/os.md) | 8 | ⭐ 1,276 | 2026-08-14 | 2026-08-26 |
-| [cloudflare/skills](../repos/cloudflare/skills.md) | 7 | ⭐ 2,787 | 2026-08-05 | 2026-09-05 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | 8 | ⭐ 2,792 | 2026-08-05 | 2026-09-06 |
+| [dockur/windows](../repos/dockur/windows.md) | 8 | ⭐ 53,180 | 2026-08-06 | 2026-09-06 |
 
 ---
 
@@ -221,7 +224,12 @@
 - [233boy/v2ray](../repos/233boy/v2ray.md) - 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
 - [omacom/omarchy-pkgs](../repos/omacom/omarchy-pkgs.md) - 
 - [skills/introduction-to-git](../repos/skills/introduction-to-git.md) - Use Git version control to work on a game using command line (CLI) and VS Code
+- [pystardust/ani-cli](../repos/pystardust/ani-cli.md) - A cli tool to browse and play anime
+- [WhatsApp/proxy](../repos/WhatsApp/proxy.md) - This repository contains the WhatsApp proxy implementation for users to host their own proxy infr...
+- [hq450/fancyss](../repos/hq450/fancyss.md) - fancyss is a project providing tools to across the GFW on asuswrt&#x2F;merlin based router.
+- [aditya-shri/VPN](../repos/aditya-shri/VPN.md) - Personal VPN using Shadowsocks and v2ray
+- [sabamdarif/termux-desktop](../repos/sabamdarif/termux-desktop.md) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) a...
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.107Z*
+*Last updated: 2026-09-06T21:01:31.339Z*

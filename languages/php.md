@@ -16,49 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,910 | 2026-08-01 | 14 |
+| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | ⭐ 3,431 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,899 | 2026-08-01 | 19 |
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,096 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,314 | 2026-08-01 | 18 |
+| [lizhipay/acg-faka](../repos/lizhipay/acg-faka.md) | ⭐ 5,579 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | ⭐ 3,431 | 2026-08-01 | 12 |
+| [opencart/opencart](../repos/opencart/opencart.md) | ⭐ 8,193 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,841 | 2026-08-01 | 16 |
+| [Automattic/jetpack](../repos/Automattic/jetpack.md) | ⭐ 1,843 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,503 | 2026-08-01 | 5 |
+| [invoiceninja/invoiceninja](../repos/invoiceninja/invoiceninja.md) | ⭐ 10,059 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lizhipay/acg-faka](../repos/lizhipay/acg-faka.md) | ⭐ 5,567 | 2026-08-01 | 8 |
+| [assimon/dujiaoka](../repos/assimon/dujiaoka.md) | ⭐ 12,140 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [librenms/librenms](../repos/librenms/librenms.md) | ⭐ 4,875 | 2026-08-04 | 12 |
+| [phpmyadmin/phpmyadmin](../repos/phpmyadmin/phpmyadmin.md) | ⭐ 7,929 | 2026-08-17 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Automattic/jetpack](../repos/Automattic/jetpack.md) | ⭐ 1,843 | 2026-08-04 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [laravel/boost](../repos/laravel/boost.md) | ⭐ 3,608 | 2026-08-06 | 7 |
+| [pixelfed/pixelfed](../repos/pixelfed/pixelfed.md) | ⭐ 7,095 | 2026-08-26 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 23,837 | 2026-08-07 | Krayin CRM is Free &amp; Open Source CRM Built with Laravel for Customer, Lead, and Sales Management. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [elabftw/elabftw](../repos/elabftw/elabftw.md) | ⭐ 1,402 | 2026-08-07 | :notebook: eLabFTW is the most popular open source electronic lab notebook for research labs. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [TYPO3/typo3](../repos/TYPO3/typo3.md) | ⭐ 1,200 | 2026-08-07 | The TYPO3 Core - Enterprise Content Management System. Synchronized mirror of https:&#x2F;&#x2F;review.typo... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pimcore/pimcore](../repos/pimcore/pimcore.md) | ⭐ 3,823 | 2026-08-08 | Core Framework for the Open Core Data &amp; Experience Management Platform (PIM, MDM, CDP, DAM, DXP&#x2F;C... |
@@ -80,6 +68,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alextselegidis/easyappointments](../repos/alextselegidis/easyappointments.md) | ⭐ 4,334 | 2026-08-11 | :date: Easy!Appointments - Self Hosted Appointment Scheduler |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [aureuserp/aureuserp](../repos/aureuserp/aureuserp.md) | ⭐ 11,891 | 2026-08-11 | Free and Open Source ERP platform |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [php/pie](../repos/php/pie.md) | ⭐ 1,980 | 2026-08-11 | 🥧 The PHP Installer for Extensions |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [unopim/unopim](../repos/unopim/unopim.md) | ⭐ 10,952 | 2026-08-12 | Open source Product Information Management (PIM) and Digital Asset Management (DAM) platform buil... |
 
 
 ---
@@ -92,7 +89,7 @@
 | [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,899 | 2026-08-01 | 19 |
 | [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 31,975 | 2026-08-02 | 12 |
 | [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,138 | 2026-08-02 | 16 |
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,091 | 2026-08-01 | 15 |
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,096 | 2026-08-01 | 16 |
 | [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,219 | 2026-08-04 | 13 |
 | [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 23,837 | 2026-08-07 | 10 |
 | [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,289 | 2026-08-01 | 7 |
@@ -107,7 +104,7 @@
 | [SpartnerNL/Laravel-Excel](../repos/SpartnerNL/Laravel-Excel.md) | ⭐ 12,699 | 2026-08-09 | 1 |
 | [typecho/typecho](../repos/typecho/typecho.md) | ⭐ 12,417 | 2026-08-02 | 1 |
 | [magento/magento2](../repos/magento/magento2.md) | ⭐ 12,169 | 2026-08-04 | 8 |
-| [assimon/dujiaoka](../repos/assimon/dujiaoka.md) | ⭐ 12,149 | 2026-08-14 | 1 |
+| [assimon/dujiaoka](../repos/assimon/dujiaoka.md) | ⭐ 12,140 | 2026-08-14 | 2 |
 
 ---
 
@@ -119,12 +116,12 @@
 | [laravel/framework](../repos/laravel/framework.md) | 19 | ⭐ 34,899 | 2026-08-01 | 2026-09-05 |
 | [glpi-project/glpi](../repos/glpi-project/glpi.md) | 18 | ⭐ 6,314 | 2026-08-01 | 2026-09-05 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | 16 | ⭐ 21,841 | 2026-08-01 | 2026-09-05 |
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | 16 | ⭐ 28,096 | 2026-08-01 | 2026-09-06 |
 | [symfony/symfony](../repos/symfony/symfony.md) | 16 | ⭐ 31,138 | 2026-08-02 | 2026-08-29 |
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | 15 | ⭐ 28,091 | 2026-08-01 | 2026-09-04 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | 14 | ⭐ 14,910 | 2026-08-01 | 2026-09-05 |
 | [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 14 | ⭐ 10,380 | 2026-08-09 | 2026-09-05 |
+| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 13 | ⭐ 3,431 | 2026-08-01 | 2026-09-06 |
 | [monicahq/monica](../repos/monicahq/monica.md) | 13 | ⭐ 25,219 | 2026-08-04 | 2026-09-03 |
-| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 12 | ⭐ 3,431 | 2026-08-01 | 2026-09-05 |
 
 ---
 
@@ -219,4 +216,4 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.095Z*
+*Last updated: 2026-09-06T21:01:31.324Z*

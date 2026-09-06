@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 135
+- **Total Repositories**: 137
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-05
+- **Last Updated**: 2026-09-06
 
 ---
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,504 | 2026-08-02 | 16 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 30,138 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,362 | 2026-08-03 | 15 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,044 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 9,149 | 2026-08-04 | 8 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,092 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,244 | 2026-08-04 | 9 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,586 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,287 | 2026-08-05 | 11 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 25,423 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,757 | 2026-08-07 | 7 |
+| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 5,873 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Unity-Technologies/skills](../repos/Unity-Technologies/skills.md) | ⭐ 723 | 2026-08-14 | 7 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,591 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [redis-windows/redis-windows](../repos/redis-windows/redis-windows.md) | ⭐ 4,245 | 2026-08-19 | 4 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,018 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,928 | 2026-08-22 | 3 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 9,225 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,038 | 2026-08-28 | 2 |
+| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 8,593 | 2026-08-09 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [HotCakeX/Harden-Windows-Security](../repos/HotCakeX/Harden-Windows-Security.md) | ⭐ 4,701 | 2026-08-07 | Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [creazyboyone/FastGithub](../repos/creazyboyone/FastGithub.md) | ⭐ 1,347 | 2026-08-07 | FastGithub 是 GitHub 加速神器，解决 GitHub 打不开、用户头像无法加载、releases 无法上传下载、git-clone、git-pull、git-push |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mRemoteNG/mRemoteNG](../repos/mRemoteNG/mRemoteNG.md) | ⭐ 11,083 | 2026-08-07 | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connecti... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Azure/azure-functions-core-tools](../repos/Azure/azure-functions-core-tools.md) | ⭐ 1,459 | 2026-08-07 | Command line tools for Azure Functions |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,757 | 2026-08-07 | Source code for Unturned, a free open-world zombie survival sandbox game. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [btcpayserver/btcpayserver](../repos/btcpayserver/btcpayserver.md) | ⭐ 7,728 | 2026-08-08 | Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.  |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [dotnet/dotnet](../repos/dotnet/dotnet.md) | ⭐ 1,223 | 2026-08-08 | Home of .NET&#39;s Virtual Monolithic Repository which includes all the code needed to build the .NET... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [StartupHakk/OpenMonoAgent.ai](../repos/StartupHakk/OpenMonoAgent.ai.md) | ⭐ 1,734 | 2026-08-09 | (BETA) AI shouldn&#39;t have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it fro... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [UnigramDev/Unigram](../repos/UnigramDev/Unigram.md) | ⭐ 5,345 | 2026-08-09 | Telegram for Windows |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LibreHardwareMonitor/LibreHardwareMonitor](../repos/LibreHardwareMonitor/LibreHardwareMonitor.md) | ⭐ 8,943 | 2026-08-09 | Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, vol... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 8,593 | 2026-08-09 | Unity &#x2F; XNA game patcher and plugin framework |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [shinyflvre/VRCNext](../repos/shinyflvre/VRCNext.md) | ⭐ 159 | 2026-08-10 | VRCN is a VRChat launcher for Windows that includes various useful tools within a clean interface... |
 
 
 ---
@@ -88,8 +88,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,504 | 2026-08-02 | 16 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,438 | 2026-08-02 | 13 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,586 | 2026-08-02 | 17 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,591 | 2026-08-02 | 14 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,144 | 2026-08-06 | 7 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,819 | 2026-08-01 | 6 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,194 | 2026-08-14 | 2 |
@@ -97,17 +97,17 @@
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,411 | 2026-08-01 | 11 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,928 | 2026-08-22 | 3 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,038 | 2026-08-28 | 2 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 29,796 | 2026-08-01 | 12 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 30,138 | 2026-08-01 | 13 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,509 | 2026-08-05 | 8 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,603 | 2026-08-10 | 3 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,018 | 2026-08-02 | 5 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,992 | 2026-08-01 | 5 |
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 25,884 | 2026-08-02 | 4 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 25,423 | 2026-08-02 | 19 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,553 | 2026-08-27 | 2 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 24,059 | 2026-08-02 | 18 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,315 | 2026-08-04 | 3 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,625 | 2026-08-01 | 6 |
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 19,996 | 2026-08-01 | 6 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,044 | 2026-08-01 | 7 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 18 | ⭐ 24,059 | 2026-08-02 | 2026-09-02 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 16 | ⭐ 115,504 | 2026-08-02 | 2026-09-05 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 19 | ⭐ 25,423 | 2026-08-02 | 2026-09-06 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 17 | ⭐ 115,586 | 2026-08-02 | 2026-09-06 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 15 | ⭐ 5,362 | 2026-08-03 | 2026-09-05 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 13 | ⭐ 56,438 | 2026-08-02 | 2026-09-01 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 12 | ⭐ 29,796 | 2026-08-01 | 2026-09-03 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 14 | ⭐ 56,591 | 2026-08-02 | 2026-09-06 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 13 | ⭐ 30,138 | 2026-08-01 | 2026-09-06 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 12 | ⭐ 15,332 | 2026-08-02 | 2026-09-03 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 11 | ⭐ 3,642 | 2026-08-01 | 2026-09-04 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 11 | ⭐ 38,411 | 2026-08-01 | 2026-09-01 |
 | [microsoft/aspire](../repos/microsoft/aspire.md) | 11 | ⭐ 6,287 | 2026-08-05 | 2026-09-05 |
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 9 | ⭐ 14,032 | 2026-08-01 | 2026-09-01 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 10 | ⭐ 14,092 | 2026-08-01 | 2026-09-06 |
 
 ---
 
@@ -149,7 +149,7 @@
 - [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) - Advanced UX and interoperability extension for Wand (WeMod) app
 - [Jackett/Jackett](../repos/Jackett/Jackett.md) - API Support for your favorite torrent trackers
 - [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations 
-- [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) - A real WinUI desktop cleaner with terminal control and multi-database support
+- [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) - FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
 - [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) - The Free Software Media System - Server Backend &amp; API
 - [LavaGang/MelonLoader](../repos/LavaGang/MelonLoader.md) - The World&#39;s First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
 - [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a pac...
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.055Z*
+*Last updated: 2026-09-06T21:01:31.279Z*

@@ -16,28 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,733 | 2026-08-01 | 30 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 591 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 484 | 2026-08-01 | 24 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,668 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,665 | 2026-08-01 | 26 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,009 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,514 | 2026-08-01 | 17 |
+| [os-autoinst/os-autoinst-distri-opensuse](../repos/os-autoinst/os-autoinst-distri-opensuse.md) | ⭐ 92 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,007 | 2026-08-01 | 25 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,324 | 2026-08-03 | 18 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [os-autoinst/os-autoinst-distri-opensuse](../repos/os-autoinst/os-autoinst-distri-opensuse.md) | ⭐ 92 | 2026-08-05 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 2 |
+| [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 3 |
 
 
 ---
@@ -83,11 +74,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,733 | 2026-08-01 | 30 |
-| [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 2 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,007 | 2026-08-01 | 25 |
+| [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 3 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,009 | 2026-08-01 | 26 |
 | [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,884 | 2026-08-02 | 8 |
 | [ddclient/ddclient](../repos/ddclient/ddclient.md) | ⭐ 3,517 | 2026-08-10 | 5 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,665 | 2026-08-01 | 26 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,668 | 2026-08-01 | 27 |
 | [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,324 | 2026-08-03 | 18 |
 | [LMS-Community/slimserver](../repos/LMS-Community/slimserver.md) | ⭐ 1,750 | 2026-08-09 | 1 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,678 | 2026-08-01 | 16 |
@@ -97,7 +88,7 @@
 | [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,144 | 2026-08-01 | 13 |
 | [linux-test-project/lcov](../repos/linux-test-project/lcov.md) | ⭐ 1,106 | 2026-08-08 | 2 |
 | [aspiers/stow](../repos/aspiers/stow.md) | ⭐ 1,104 | 2026-08-26 | 2 |
-| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 591 | 2026-08-01 | 13 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 591 | 2026-08-01 | 14 |
 | [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 484 | 2026-08-01 | 24 |
 | [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | ⭐ 364 | 2026-08-02 | 14 |
 | [ko-ichi-h/khcoder](../repos/ko-ichi-h/khcoder.md) | ⭐ 335 | 2026-08-26 | 1 |
@@ -110,15 +101,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 30 | ⭐ 19,733 | 2026-08-01 | 2026-09-05 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 26 | ⭐ 2,665 | 2026-08-01 | 2026-09-05 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 25 | ⭐ 5,007 | 2026-08-01 | 2026-09-05 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 27 | ⭐ 2,668 | 2026-08-01 | 2026-09-06 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 26 | ⭐ 5,009 | 2026-08-01 | 2026-09-06 |
 | [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 24 | ⭐ 484 | 2026-08-01 | 2026-09-05 |
 | [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | 19 | ⭐ 263 | 2026-08-02 | 2026-08-29 |
 | [Perl/perl5](../repos/Perl/perl5.md) | 18 | ⭐ 2,324 | 2026-08-03 | 2026-09-05 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | 17 | ⭐ 1,514 | 2026-08-01 | 2026-09-05 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 16 | ⭐ 1,678 | 2026-08-01 | 2026-08-29 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | 14 | ⭐ 591 | 2026-08-01 | 2026-09-06 |
 | [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | 14 | ⭐ 364 | 2026-08-02 | 2026-08-26 |
-| [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | 13 | ⭐ 1,144 | 2026-08-01 | 2026-08-29 |
 
 ---
 
@@ -156,4 +147,4 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.097Z*
+*Last updated: 2026-09-06T21:01:31.327Z*

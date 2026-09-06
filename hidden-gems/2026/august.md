@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 595
+**Gems Found**: 571
 
 ---
 
@@ -111,27 +111,7 @@
 
 ---
 
-### 6. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
-
-**ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,689 |
-| 💻 **Language** | CSS |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 10, 2026 |
-
-**Why it's a gem**: High growth velocity (+88 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/XiaomingX/ai-money-maker-handbook.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;XiaomingX&#x2F;ai-money-maker-handbook)
-
----
-
-### 7. [chaitanyagiri&#x2F;munder-difflin](../../repos/chaitanyagiri/munder-difflin.md)
+### 6. [chaitanyagiri&#x2F;munder-difflin](../../repos/chaitanyagiri/munder-difflin.md)
 
 **local multi-agent harness**
 
@@ -151,7 +131,7 @@
 
 ---
 
-### 8. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
+### 7. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
 
 **OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
 
@@ -171,27 +151,7 @@
 
 ---
 
-### 9. [builtbybel&#x2F;FluentCleaner](../../repos/builtbybel/FluentCleaner.md)
-
-**A real WinUI desktop cleaner with terminal control and multi-database support**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,607 |
-| 💻 **Language** | C# |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+47 stars&#x2F;day) • Trending 8 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/builtbybel/FluentCleaner.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;builtbybel&#x2F;FluentCleaner)
-
----
-
-### 10. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
+### 8. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
 
 **14MB foundation model for tiny devices; phones, wearables, smart home, and robots.**
 
@@ -211,7 +171,7 @@
 
 ---
 
-### 11. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
+### 9. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
 
 **Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
 
@@ -231,7 +191,7 @@
 
 ---
 
-### 12. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
+### 10. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
 
 **Model export recipes, Python primitives, and Swift runtime utilities for on-device AI**
 
@@ -251,7 +211,7 @@
 
 ---
 
-### 13. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
+### 11. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
 
 **Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de&#x2F;plugin-directory-submission.**
 
@@ -271,7 +231,7 @@
 
 ---
 
-### 14. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
+### 12. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
 
 **Open-source framework for the research and development of foundation models.**
 
@@ -291,7 +251,7 @@
 
 ---
 
-### 15. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+### 13. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
 
 **GitHub Stacked PRs**
 
@@ -311,7 +271,7 @@
 
 ---
 
-### 16. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
+### 14. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
 
 **📼 The missing YouTube and YouTube Music macOS app**
 
@@ -331,7 +291,7 @@
 
 ---
 
-### 17. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+### 15. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
 
 **OCTO Android Client — Open-source enterprise IM**
 
@@ -351,7 +311,7 @@
 
 ---
 
-### 18. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
+### 16. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
 
 **Help AI coding agents write modern Go**
 
@@ -371,7 +331,7 @@
 
 ---
 
-### 19. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+### 17. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
 
 **A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
 
@@ -391,7 +351,7 @@
 
 ---
 
-### 20. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
+### 18. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
 
 **A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.**
 
@@ -411,6 +371,46 @@
 
 ---
 
+### 19. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
+
+**BookOrbit: Your Reading Space**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,033 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+195 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/bookorbit/bookorbit.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;bookorbit&#x2F;bookorbit)
+
+---
+
+### 20. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+
+**ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,230 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 86/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+436 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/uber/ADR.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;uber&#x2F;ADR)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-05T21:02:04.880Z*  
+*Generated: 2026-09-06T21:01:35.163Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vim script |
 | **License** | WTFPL |
-| **Stars** | ⭐ 11,223 |
-| **Forks** | 🍴 1,124 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 11,214 |
+| **Forks** | 🍴 1,120 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 2, 2026 |
+| **Last Seen** | Sep 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-05T21:02:02.789Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-06T21:01:33.120Z*  
+*Data from 2 trending reports*

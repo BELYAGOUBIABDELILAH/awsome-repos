@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 205
+- **Total Repositories**: 209
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-28
+- **Last Updated**: 2026-09-06
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 198,899 | 2026-07-30 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 23,049 | 2026-08-02 | 5 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 127,272 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [imputnet/helium](../repos/imputnet/helium.md) | ⭐ 20,287 | 2026-08-03 | 2 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 10,413 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [audacity/audacity](../repos/audacity/audacity.md) | ⭐ 18,265 | 2026-08-09 | 4 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,122 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/flatbuffers](../repos/google/flatbuffers.md) | ⭐ 26,435 | 2026-08-11 | 5 |
+| [official-stockfish/Stockfish](../repos/official-stockfish/Stockfish.md) | ⭐ 16,512 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,350 | 2026-08-12 | 4 |
+| [imputnet/helium](../repos/imputnet/helium.md) | ⭐ 20,336 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fmtlib/fmt](../repos/fmtlib/fmt.md) | ⭐ 25,560 | 2026-08-12 | 8 |
+| [notepad-plus-plus/notepad-plus-plus](../repos/notepad-plus-plus/notepad-plus-plus.md) | ⭐ 29,251 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/filament](../repos/google/filament.md) | ⭐ 20,459 | 2026-08-27 | 2 |
+| [YimMenu/YimMenuV2](../repos/YimMenu/YimMenuV2.md) | ⭐ 1,699 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Neroued/ninfer](../repos/Neroued/ninfer.md) | ⭐ 1,426 | 2026-08-29 | 2 |
+| [jellyfin/jellyfin-desktop](../repos/jellyfin/jellyfin-desktop.md) | ⭐ 5,707 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,046 | 2026-09-01 | 2 |
+| [esphome/esphome](../repos/esphome/esphome.md) | ⭐ 11,653 | 2026-08-17 | 3 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/leveldb](../repos/google/leveldb.md) | ⭐ 39,306 | 2026-08-07 | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping fr... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/perfetto](../repos/google/perfetto.md) | ⭐ 6,403 | 2026-08-07 | Production-grade client-side tracing, profiling, and analysis for complex software systems. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [lemonade-sdk/lemonade](../repos/lemonade-sdk/lemonade.md) | ⭐ 5,530 | 2026-08-07 | Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their ow... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [aseprite/aseprite](../repos/aseprite/aseprite.md) | ⭐ 39,045 | 2026-08-07 | Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/foundry-local](../repos/microsoft/foundry-local.md) | ⭐ 2,495 | 2026-08-07 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openvinotoolkit/openvino](../repos/openvinotoolkit/openvino.md) | ⭐ 10,740 | 2026-08-07 | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tenstorrent/tt-metal](../repos/tenstorrent/tt-metal.md) | ⭐ 1,659 | 2026-08-07 | :metal: TT-NN operator library, and TT-Metalium low level kernel programming model. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hyprwm/Hyprland](../repos/hyprwm/Hyprland.md) | ⭐ 38,112 | 2026-08-07 | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t s... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [k2-fsa/sherpa-onnx](../repos/k2-fsa/sherpa-onnx.md) | ⭐ 14,111 | 2026-08-07 | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and V... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,068 | 2026-08-08 | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [throneproj/Throne](../repos/throneproj/Throne.md) | ⭐ 6,874 | 2026-08-08 | Cross-platform GUI proxy utility (Empowered by sing-box) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/WSL](../repos/microsoft/WSL.md) | ⭐ 33,603 | 2026-08-08 | Windows Subsystem for Linux |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BruceDevices/firmware](../repos/BruceDevices/firmware.md) | ⭐ 6,478 | 2026-08-08 | Predatory ESP32 Firmware |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [alibaba/MNN](../repos/alibaba/MNN.md) | ⭐ 15,925 | 2026-08-08 | MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-perform... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [notepad-plus-plus/notepad-plus-plus](../repos/notepad-plus-plus/notepad-plus-plus.md) | ⭐ 29,251 | 2026-08-08 | Notepad++ official repository |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google-ai-edge/LiteRT](../repos/google-ai-edge/LiteRT.md) | ⭐ 3,273 | 2026-08-08 | LiteRT, successor to TensorFlow Lite. is Google&#39;s On-device framework for high-performance ML &amp; G... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bambulab/BambuStudio](../repos/bambulab/BambuStudio.md) | ⭐ 4,883 | 2026-08-09 | PC Software for BambuLab and other 3D printers |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,206 | 2026-08-09 | Official inference framework for 1-bit LLMs |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [juce-framework/JUCE](../repos/juce-framework/JUCE.md) | ⭐ 8,832 | 2026-08-09 | JUCE is an open-source cross-platform C++ application framework for desktop and mobile applicatio... |
 
 
 ---
@@ -88,13 +88,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 197,766 | 2026-07-30 | 15 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 198,899 | 2026-07-30 | 16 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 127,272 | 2026-08-01 | 18 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,441 | 2026-08-04 | 3 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 126,245 | 2026-08-01 | 17 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 116,297 | 2026-08-01 | 8 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,728 | 2026-08-06 | 4 |
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,016 | 2026-08-02 | 5 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,122 | 2026-08-02 | 6 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,350 | 2026-08-12 | 4 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,068 | 2026-08-08 | 12 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,999 | 2026-08-01 | 12 |
@@ -103,11 +103,11 @@
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,046 | 2026-09-01 | 2 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,281 | 2026-08-02 | 6 |
+| [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 41,933 | 2026-09-06 | 1 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 40,773 | 2026-08-19 | 5 |
 | [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,206 | 2026-08-09 | 6 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,679 | 2026-08-02 | 5 |
-| [google/leveldb](../repos/google/leveldb.md) | ⭐ 39,306 | 2026-08-07 | 2 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 17 | ⭐ 126,245 | 2026-08-01 | 2026-08-29 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 15 | ⭐ 197,766 | 2026-07-30 | 2026-08-28 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 18 | ⭐ 127,272 | 2026-08-01 | 2026-09-06 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 16 | ⭐ 198,899 | 2026-07-30 | 2026-09-06 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 12 | ⭐ 71,999 | 2026-08-01 | 2026-09-04 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 12 | ⭐ 29,564 | 2026-08-01 | 2026-09-02 |
 | [google/googletest](../repos/google/googletest.md) | 12 | ⭐ 39,299 | 2026-08-04 | 2026-08-29 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 12 | ⭐ 76,068 | 2026-08-08 | 2026-09-04 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 9 | ⭐ 472 | 2026-08-01 | 2026-08-26 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 8 | ⭐ 116,297 | 2026-08-01 | 2026-08-28 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 8 | ⭐ 10,413 | 2026-08-02 | 2026-09-06 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 8 | ⭐ 65,959 | 2026-08-05 | 2026-09-01 |
-| [fmtlib/fmt](../repos/fmtlib/fmt.md) | 8 | ⭐ 25,560 | 2026-08-12 | 2026-09-05 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.058Z*
+*Last updated: 2026-09-06T21:01:31.282Z*

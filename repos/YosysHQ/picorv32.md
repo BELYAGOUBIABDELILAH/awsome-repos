@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Verilog |
 | **License** | ISC |
-| **Stars** | ⭐ 4,366 |
-| **Forks** | 🍴 992 |
-| **Trending Days** | 25 |
+| **Stars** | ⭐ 4,379 |
+| **Forks** | 🍴 997 |
+| **Trending Days** | 26 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 29, 2026 |
+| **Last Seen** | Sep 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 25
+- **Trending Days**: 26
 - **Longest Streak**: 12 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:02.562Z*  
-*Data from 25 trending reports*
+*Last updated: 2026-09-06T21:01:32.904Z*  
+*Data from 26 trending reports*

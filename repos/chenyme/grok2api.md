@@ -73,7 +73,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Very Active | 7,237+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:03.303Z*  
+*Last updated: 2026-09-06T21:01:33.583Z*  
 *Data from 4 trending reports*

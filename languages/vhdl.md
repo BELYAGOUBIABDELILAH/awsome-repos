@@ -14,19 +14,15 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,875 | 2026-08-01 | 21 |
 
+*No VHDL repositories trending today*
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,252 | 2026-08-07 | 🖥️ A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontrolle... |
 
+*No new VHDL repositories in the last 30 days*
 
 ---
 
@@ -55,4 +51,4 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.112Z*
+*Last updated: 2026-09-06T21:01:31.345Z*

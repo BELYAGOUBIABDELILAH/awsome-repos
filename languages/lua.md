@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,090 | 2026-08-01 | 17 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 29,529 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 287 | 2026-08-01 | 16 |
+| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | ⭐ 763 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,137 | 2026-08-02 | 6 |
+| [Footagesus/WindUI](../repos/Footagesus/WindUI.md) | ⭐ 348 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 19,193 | 2026-08-03 | 13 |
+| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,416 | 2026-08-04 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [coder/claudecode.nvim](../repos/coder/claudecode.nvim.md) | ⭐ 3,044 | 2026-08-03 | 4 |
+| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,405 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,408 | 2026-08-04 | 21 |
+| [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,200 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,395 | 2026-08-04 | 16 |
+| [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,469 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,198 | 2026-08-04 | 10 |
+| [stevearc/oil.nvim](../repos/stevearc/oil.nvim.md) | ⭐ 6,878 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,064 | 2026-08-08 | 13 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,070 | 2026-08-08 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvim-telescope/telescope.nvim](../repos/nvim-telescope/telescope.nvim.md) | ⭐ 19,770 | 2026-08-11 | 9 |
+| [nvim-mini/mini.nvim](../repos/nvim-mini/mini.nvim.md) | ⭐ 9,497 | 2026-08-26 | 8 |
 
 
 ---
@@ -52,10 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [finlater/weread.koplugin](../repos/finlater/weread.koplugin.md) | ⭐ 627 | 2026-08-07 | 微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kob... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,064 | 2026-08-08 | 🍿 A collection of QoL plugins for Neovim |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,070 | 2026-08-08 | 🍿 A collection of QoL plugins for Neovim |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [overextended/ox_lib](../repos/overextended/ox_lib.md) | ⭐ 408 | 2026-08-09 | A FiveM resource and script library for Lua and JS. |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tukui-org/ElvUI](../repos/tukui-org/ElvUI.md) | ⭐ 693 | 2026-08-12 | User Interface replacement AddOn for World of Warcraft. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rebelot/kanagawa.nvim](../repos/rebelot/kanagawa.nvim.md) | ⭐ 6,366 | 2026-08-12 | NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. |
 
 
 ---
@@ -89,23 +89,23 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,090 | 2026-08-01 | 17 |
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,408 | 2026-08-04 | 21 |
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 29,466 | 2026-08-01 | 19 |
+| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,416 | 2026-08-04 | 22 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 29,529 | 2026-08-01 | 20 |
 | [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) | ⭐ 28,218 | 2026-08-01 | 2 |
-| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,395 | 2026-08-04 | 16 |
+| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,405 | 2026-08-04 | 17 |
 | [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,527 | 2026-08-06 | 5 |
 | [nvim-telescope/telescope.nvim](../repos/nvim-telescope/telescope.nvim.md) | ⭐ 19,770 | 2026-08-11 | 9 |
 | [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 19,193 | 2026-08-03 | 13 |
 | [yetone/avante.nvim](../repos/yetone/avante.nvim.md) | ⭐ 18,120 | 2026-08-03 | 5 |
 | [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,084 | 2026-08-01 | 10 |
-| [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,198 | 2026-08-04 | 10 |
-| [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,455 | 2026-08-04 | 4 |
-| [nvim-mini/mini.nvim](../repos/nvim-mini/mini.nvim.md) | ⭐ 9,494 | 2026-08-26 | 7 |
+| [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,200 | 2026-08-04 | 11 |
+| [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,469 | 2026-08-04 | 5 |
+| [nvim-mini/mini.nvim](../repos/nvim-mini/mini.nvim.md) | ⭐ 9,497 | 2026-08-26 | 8 |
 | [nvim-tree/nvim-tree.lua](../repos/nvim-tree/nvim-tree.lua.md) | ⭐ 8,632 | 2026-08-05 | 3 |
 | [folke/tokyonight.nvim](../repos/folke/tokyonight.nvim.md) | ⭐ 8,179 | 2026-08-05 | 2 |
 | [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,137 | 2026-08-02 | 6 |
-| [nvim-lualine/lualine.nvim](../repos/nvim-lualine/lualine.nvim.md) | ⭐ 8,116 | 2026-09-05 | 1 |
-| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,064 | 2026-08-08 | 13 |
+| [nvim-lualine/lualine.nvim](../repos/nvim-lualine/lualine.nvim.md) | ⭐ 8,120 | 2026-09-05 | 2 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,070 | 2026-08-08 | 14 |
 | [folke/which-key.nvim](../repos/folke/which-key.nvim.md) | ⭐ 7,279 | 2026-09-03 | 1 |
 | [awesomeWM/awesome](../repos/awesomeWM/awesome.md) | ⭐ 6,934 | 2026-08-04 | 1 |
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 21 | ⭐ 31,408 | 2026-08-04 | 2026-09-05 |
-| [koreader/koreader](../repos/koreader/koreader.md) | 19 | ⭐ 29,466 | 2026-08-01 | 2026-09-03 |
+| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 22 | ⭐ 31,416 | 2026-08-04 | 2026-09-06 |
+| [koreader/koreader](../repos/koreader/koreader.md) | 20 | ⭐ 29,529 | 2026-08-01 | 2026-09-06 |
 | [Kong/kong](../repos/Kong/kong.md) | 17 | ⭐ 44,090 | 2026-08-01 | 2026-09-05 |
+| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | 17 | ⭐ 27,405 | 2026-08-04 | 2026-09-06 |
 | [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 16 | ⭐ 287 | 2026-08-01 | 2026-09-05 |
-| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | 16 | ⭐ 27,395 | 2026-08-04 | 2026-09-05 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | 14 | ⭐ 8,070 | 2026-08-08 | 2026-09-06 |
+| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 13 | ⭐ 763 | 2026-08-01 | 2026-09-06 |
 | [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 13 | ⭐ 19,193 | 2026-08-03 | 2026-09-05 |
-| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | 13 | ⭐ 8,064 | 2026-08-08 | 2026-09-05 |
-| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 12 | ⭐ 737 | 2026-08-01 | 2026-09-02 |
 | [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) | 11 | ⭐ 4,197 | 2026-08-03 | 2026-09-04 |
-| [apache/apisix](../repos/apache/apisix.md) | 10 | ⭐ 17,084 | 2026-08-01 | 2026-09-04 |
+| [xmake-io/xmake](../repos/xmake-io/xmake.md) | 11 | ⭐ 12,200 | 2026-08-04 | 2026-09-06 |
 
 ---
 
@@ -225,4 +225,4 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:01.087Z*
+*Last updated: 2026-09-06T21:01:31.316Z*

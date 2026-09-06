@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | GPL-2.0 |
-| **Stars** | ⭐ 75,476 |
-| **Forks** | 🍴 9,899 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 75,893 |
+| **Forks** | 🍴 10,061 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 26, 2026 |
+| **Last Seen** | Sep 6, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 4 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-05T21:02:02.645Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-09-06T21:01:32.989Z*  
+*Data from 11 trending reports*

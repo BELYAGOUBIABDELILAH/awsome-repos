@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-05T21:02:04.978Z",
-  "total_repositories": 3036,
-  "trending_today": 391,
-  "new_this_month": 1629,
+  "generated_at": "2026-09-06T21:01:35.336Z",
+  "total_repositories": 3080,
+  "trending_today": 372,
+  "new_this_month": 1560,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-09-05",
+  "last_collection": "2026-09-06",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,25 +12,25 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 32,
+    "trending_days": 33,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "BraveOPotato/FckSignups",
-    "stars": 2831,
-    "first_seen": "2026-09-05"
+    "full_name": "openai/skills",
+    "stars": 25579,
+    "first_seen": "2026-09-06"
   },
   "fastest_growing": {
-    "full_name": "openai/whisper",
-    "growth": 250,
-    "growth_rate": 250,
-    "first_seen": "2026-07-31"
+    "full_name": "different-ai/openwork",
+    "growth": 100,
+    "growth_rate": 100,
+    "first_seen": "2026-08-01"
   },
-  "total_stars": 45376818,
-  "avg_stars": 14946,
-  "avg_trending_days": 4.4,
+  "total_stars": 45801126,
+  "avg_stars": 14870,
+  "avg_trending_days": 4.5,
   "language_count": 55,
-  "topic_count": 8312,
+  "topic_count": 8414,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }
