@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 47
+- **Total Repositories**: 46
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-02
 
@@ -16,22 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,009 | 2026-08-01 | 10 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,293 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,987 | 2026-08-01 | 16 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,071 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,038 | 2026-08-02 | 6 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,989 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,577 | 2026-08-03 | 17 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,579 | 2026-08-03 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/python-versions](../repos/actions/python-versions.md) | ⭐ 242 | 2026-08-03 | 6 |
+| [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,084 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,589 | 2026-09-06 | 1 |
+| [microsoftgraph/microsoft-graph-docs-contrib](../repos/microsoftgraph/microsoft-graph-docs-contrib.md) | ⭐ 153 | 2026-08-05 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [iiroak/Kindle-Filler-Disk](../repos/iiroak/Kindle-Filler-Disk.md) | ⭐ 433 | 2026-08-10 | 8 |
 
 
 ---
@@ -43,7 +46,7 @@
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | Script to remove Windows 10 bloatware. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [iiroak/Kindle-Filler-Disk](../repos/iiroak/Kindle-Filler-Disk.md) | ⭐ 411 | 2026-08-10 |  |
+| [iiroak/Kindle-Filler-Disk](../repos/iiroak/Kindle-Filler-Disk.md) | ⭐ 433 | 2026-08-10 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CubeCoders/AMPTemplates](../repos/CubeCoders/AMPTemplates.md) | ⭐ 183 | 2026-08-11 | For the AMP community to share Generic Module templates. |
@@ -83,19 +86,19 @@
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,089 | 2026-08-04 | 1 |
 | [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,206 | 2026-09-02 | 3 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
-| [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,065 | 2026-08-03 | 7 |
+| [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,084 | 2026-08-03 | 8 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 8,992 | 2026-08-06 | 9 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,285 | 2026-08-01 | 13 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,293 | 2026-08-01 | 14 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,987 | 2026-08-01 | 16 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 5,989 | 2026-08-01 | 17 |
 | [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,589 | 2026-09-06 | 1 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,822 | 2026-08-04 | 2 |
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,654 | 2026-08-11 | 5 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,530 | 2026-08-04 | 5 |
 | [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,174 | 2026-08-19 | 6 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,071 | 2026-08-01 | 11 |
 | [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,038 | 2026-08-02 | 6 |
-| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,036 | 2026-08-07 | 3 |
 
 ---
 
@@ -105,13 +108,13 @@
 |------------|---------------|-------|------------|-----------|
 | [actions/runner-images](../repos/actions/runner-images.md) | 27 | ⭐ 13,107 | 2026-08-01 | 2026-09-05 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 22 | ⭐ 896 | 2026-08-01 | 2026-09-05 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 18 | ⭐ 1,579 | 2026-08-03 | 2026-09-07 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 17 | ⭐ 34,103 | 2026-08-01 | 2026-09-02 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 17 | ⭐ 1,577 | 2026-08-03 | 2026-09-06 |
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 16 | ⭐ 5,987 | 2026-08-01 | 2026-09-06 |
+| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 17 | ⭐ 5,989 | 2026-08-01 | 2026-09-07 |
 | [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 16 | ⭐ 451 | 2026-08-04 | 2026-09-04 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 13 | ⭐ 8,285 | 2026-08-01 | 2026-09-05 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 14 | ⭐ 8,293 | 2026-08-01 | 2026-09-07 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 12 | ⭐ 1,459 | 2026-08-01 | 2026-09-05 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 10 | ⭐ 2,009 | 2026-08-01 | 2026-09-06 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 11 | ⭐ 2,071 | 2026-08-01 | 2026-09-07 |
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | 10 | ⭐ 981 | 2026-08-01 | 2026-09-01 |
 
 ---
@@ -131,7 +134,6 @@
 - [meetrevision/playbook](../repos/meetrevision/playbook.md) - A lightweight, stable, and performance-focused customized version of Windows that enhances privac...
 - [microsoft/undocked](../repos/microsoft/undocked.md) - Simplifies the process of building internal, native Windows projects
 - [dotnet/core](../repos/dotnet/core.md) - .NET news, announcements, release notes, and more!
-- [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) - FREE AirPlay to Windows PC
 - [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) - Adds 3D acceleration support for P106-090 &#x2F; P106-100 &#x2F; P104-090 &#x2F;  P104-100 &#x2F; P102-100 &#x2F; CMP 30HX...
 - [samratashok/nishang](../repos/samratashok/nishang.md) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security. 
 - [actions/python-versions](../repos/actions/python-versions.md) - Python builds for Actions Runner Images
@@ -168,4 +170,4 @@
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.328Z*
+*Last updated: 2026-09-07T21:01:57.091Z*

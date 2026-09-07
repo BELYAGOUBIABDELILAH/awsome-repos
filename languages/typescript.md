@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 183
+- **Total Repositories**: 187
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CyberTimon/RapidRAW](../repos/CyberTimon/RapidRAW.md) | ⭐ 9,887 | 2026-08-02 | 4 |
+| [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 29,827 | 2026-08-02 | 12 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 131,955 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AdventDevInc/kudu](../repos/AdventDevInc/kudu.md) | ⭐ 2,960 | 2026-08-06 | 2 |
+| [EveryInc/compound-engineering-plugin](../repos/EveryInc/compound-engineering-plugin.md) | ⭐ 24,938 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) | ⭐ 5,127 | 2026-08-06 | 3 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 45,645 | 2026-08-08 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 44,347 | 2026-08-08 | 7 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 71,337 | 2026-08-10 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 70,945 | 2026-08-10 | 6 |
+| [BraveOPotato/FckSignups](../repos/BraveOPotato/FckSignups.md) | ⭐ 3,758 | 2026-09-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 3,628 | 2026-08-20 | 6 |
+| [MoonTechLab/LunaTV](../repos/MoonTechLab/LunaTV.md) | ⭐ 9,675 | 2026-09-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [humanlayer/skills](../repos/humanlayer/skills.md) | ⭐ 3,086 | 2026-09-04 | 3 |
+| [pascalorg/editor](../repos/pascalorg/editor.md) | ⭐ 22,268 | 2026-09-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BraveOPotato/FckSignups](../repos/BraveOPotato/FckSignups.md) | ⭐ 3,258 | 2026-09-05 | 2 |
+| [Nutlope/logocreator](../repos/Nutlope/logocreator.md) | ⭐ 8,599 | 2026-09-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aipoch/open-science](../repos/aipoch/open-science.md) | ⭐ 3,811 | 2026-09-06 | 1 |
+| [getopenscreen/openscreen](../repos/getopenscreen/openscreen.md) | ⭐ 2,482 | 2026-09-07 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 44,347 | 2026-08-08 | Write HTML. Render video. Built for agents. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [remnawave/panel](../repos/remnawave/panel.md) | ⭐ 4,804 | 2026-08-08 | A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jordanrendric/claude-video-vision](../repos/jordanrendric/claude-video-vision.md) | ⭐ 1,163 | 2026-08-08 | Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [github/docs](../repos/github/docs.md) | ⭐ 20,780 | 2026-08-09 | The open-source repo for docs.github.com |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 28,580 | 2026-08-10 | The open agent skills tool - npx skills |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [joelbqz/writer-computer](../repos/joelbqz/writer-computer.md) | ⭐ 1,272 | 2026-08-10 | Local-first desktop markdown editor |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apify/crawlee](../repos/apify/crawlee.md) | ⭐ 25,333 | 2026-08-10 | Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [brightdata/cli](../repos/brightdata/cli.md) | ⭐ 3,702 | 2026-08-10 | Official Bright Data CLI - scrape, search, and extract structured web data directly from your ter... |
 
 
 ---
@@ -94,8 +94,8 @@
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | 2026-09-01 | 2 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,718 | 2026-08-02 | 5 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 131,342 | 2026-08-02 | 9 |
-| [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,032 | 2026-07-31 | 2 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 131,955 | 2026-08-02 | 10 |
+| [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | 2026-08-17 | 2 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 102,103 | 2026-08-07 | 8 |
@@ -118,13 +118,13 @@
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 12 | ⭐ 29,827 | 2026-08-02 | 2026-09-06 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 11 | ⭐ 22,177 | 2026-08-07 | 2026-08-29 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 10 | ⭐ 6,150 | 2026-08-01 | 2026-08-29 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 9 | ⭐ 131,342 | 2026-08-02 | 2026-09-04 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | 10 | ⭐ 131,955 | 2026-08-02 | 2026-09-07 |
 | [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 9 | ⭐ 61,677 | 2026-08-11 | 2026-09-04 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | 8 | ⭐ 102,103 | 2026-08-07 | 2026-09-05 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 8 | ⭐ 45,645 | 2026-08-08 | 2026-09-07 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 7 | ⭐ 17,453 | 2026-08-01 | 2026-08-07 |
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 7 | ⭐ 50,924 | 2026-08-01 | 2026-09-04 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.343Z*
+*Last updated: 2026-09-07T21:01:57.113Z*

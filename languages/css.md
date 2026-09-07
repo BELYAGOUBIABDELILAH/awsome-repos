@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 59
+- **Total Repositories**: 60
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-01
+- **Last Updated**: 2026-09-07
 
 ---
 
@@ -16,37 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,249 | 2026-08-01 | 12 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,232 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 922 | 2026-08-01 | 22 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 922 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,423 | 2026-08-01 | 29 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,425 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,162 | 2026-08-02 | 18 |
+| [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,807 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,308 | 2026-08-04 | 15 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,499 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AumGupta/abyss-jellyfin](../repos/AumGupta/abyss-jellyfin.md) | ⭐ 612 | 2026-08-05 | 7 |
+| [AumGupta/abyss-jellyfin](../repos/AumGupta/abyss-jellyfin.md) | ⭐ 614 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 4,847 | 2026-08-10 | 7 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,782 | 2026-08-06 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,628 | 2026-08-06 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 4,858 | 2026-08-10 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,319 | 2026-08-08 | The Most Complete React UI Component Library |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,768 | 2026-08-08 | Minimal CSS Framework for semantic HTML |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,431 | 2026-08-09 | A design system for building faithful recreations of old UIs |
@@ -61,7 +64,7 @@
 | [google/google-api-javascript-client](../repos/google/google-api-javascript-client.md) | ⭐ 3,529 | 2026-08-10 | Google APIs Client Library for browser JavaScript, aka gapi. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 4,847 | 2026-08-10 | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn... |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 4,858 | 2026-08-10 | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [john-smilga/react-projects](../repos/john-smilga/react-projects.md) | ⭐ 5,146 | 2026-08-10 |  |
@@ -71,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [FlutterFlow/flutterflow-documentation](../repos/FlutterFlow/flutterflow-documentation.md) | ⭐ 89 | 2026-08-11 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lscambo13/ElegantFin](../repos/lscambo13/ElegantFin.md) | ⭐ 2,088 | 2026-08-12 | A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience wi... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | Automatically add a progress bar to your site. |
 
 
 ---
@@ -79,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,767 | 2026-08-06 | 9 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,782 | 2026-08-06 | 10 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,518 | 2026-08-01 | 8 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,308 | 2026-08-04 | 15 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,162 | 2026-08-02 | 18 |
+| [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,596 | 2026-08-04 | 3 |
-| [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,768 | 2026-08-08 | 1 |
+| [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,215 | 2026-08-01 | 15 |
-| [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,795 | 2026-08-04 | 5 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,232 | 2026-08-01 | 16 |
+| [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,807 | 2026-08-04 | 6 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 11,646 | 2026-08-02 | 17 |
-| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,600 | 2026-08-06 | 6 |
+| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,628 | 2026-08-06 | 7 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,431 | 2026-08-09 | 1 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,498 | 2026-08-05 | 11 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,499 | 2026-08-05 | 12 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
-| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,302 | 2026-09-02 | 1 |
+| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,339 | 2026-09-02 | 2 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,249 | 2026-08-01 | 12 |
 | [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,414 | 2026-08-03 | 4 |
 | [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,319 | 2026-08-08 | 7 |
-| [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) | ⭐ 7,332 | 2026-08-24 | 4 |
 
 ---
 
@@ -106,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 29 | ⭐ 1,423 | 2026-08-01 | 2026-09-06 |
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 22 | ⭐ 922 | 2026-08-01 | 2026-09-06 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 30 | ⭐ 1,425 | 2026-08-01 | 2026-09-07 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 23 | ⭐ 922 | 2026-08-01 | 2026-09-07 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 21 | ⭐ 1,408 | 2026-08-01 | 2026-08-29 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 18 | ⭐ 28,162 | 2026-08-02 | 2026-09-06 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 17 | ⭐ 11,646 | 2026-08-02 | 2026-08-29 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 15 | ⭐ 12,215 | 2026-08-01 | 2026-09-03 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 16 | ⭐ 12,232 | 2026-08-01 | 2026-09-07 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 15 | ⭐ 45,308 | 2026-08-04 | 2026-09-06 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 12 | ⭐ 9,249 | 2026-08-01 | 2026-09-06 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 11 | ⭐ 9,498 | 2026-08-05 | 2026-09-05 |
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 9 | ⭐ 82,767 | 2026-08-06 | 2026-09-01 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 12 | ⭐ 9,499 | 2026-08-05 | 2026-09-07 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 10 | ⭐ 82,782 | 2026-08-06 | 2026-09-07 |
 
 ---
 
@@ -180,7 +189,8 @@
 - [DeGrandis/canvas-dark-mode](../repos/DeGrandis/canvas-dark-mode.md) - Canvas Dark Mode
 - [octaviovillegas/CursoIngresoJS](../repos/octaviovillegas/CursoIngresoJS.md) - Curso de ingreso con JavaScript
 - [AlirezaKJ/BetterSoundCloud](../repos/AlirezaKJ/BetterSoundCloud.md) - A PC client of SoundCloud with improvement made using electronjs
+- [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) - Monospaced font family for user interface and coding environments
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.287Z*
+*Last updated: 2026-09-07T21:01:57.031Z*

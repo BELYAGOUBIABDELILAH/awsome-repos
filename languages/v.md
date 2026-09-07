@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-06
+- **Last Updated**: 2026-09-07
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,817 | 2026-08-01 | 30 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,821 | 2026-08-01 | 31 |
 
 
 ---
@@ -34,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,817 | 2026-08-01 | 30 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,821 | 2026-08-01 | 31 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | ⭐ 206 | 2026-08-09 | 2 |
 
 ---
@@ -43,7 +43,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vlang/v](../repos/vlang/v.md) | 30 | ⭐ 37,817 | 2026-08-01 | 2026-09-06 |
+| [vlang/v](../repos/vlang/v.md) | 31 | ⭐ 37,821 | 2026-08-01 | 2026-09-07 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | 2 | ⭐ 206 | 2026-08-09 | 2026-08-11 |
 
 ---
@@ -55,4 +55,4 @@
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.344Z*
+*Last updated: 2026-09-07T21:01:57.115Z*

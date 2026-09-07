@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 202
+- **Total Repositories**: 208
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
+| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 102,844 | 2026-07-30 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 476,436 | 2026-08-01 | 6 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 242,486 | 2026-08-01 | 16 |
+| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 81,800 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 189,411 | 2026-08-02 | 6 |
+| [blader/humanizer](../repos/blader/humanizer.md) | ⭐ 44,920 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 368,341 | 2026-08-03 | 6 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 131,932 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [blader/humanizer](../repos/blader/humanizer.md) | ⭐ 44,139 | 2026-08-05 | 6 |
+| [AgriciDaniel/claude-ads](../repos/AgriciDaniel/claude-ads.md) | ⭐ 8,973 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 131,778 | 2026-08-05 | 7 |
+| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 112,932 | 2026-08-20 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 112,672 | 2026-08-20 | 4 |
+| [bikini/exploitarium](../repos/bikini/exploitarium.md) | ⭐ 4,902 | 2026-09-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/core](../repos/home-assistant/core.md) | ⭐ 90,290 | 2026-08-27 | 2 |
+| [k2-fsa/OmniVoice](../repos/k2-fsa/OmniVoice.md) | ⭐ 10,410 | 2026-09-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bikini/exploitarium](../repos/bikini/exploitarium.md) | ⭐ 4,811 | 2026-09-04 | 3 |
+| [huggingface/datasets](../repos/huggingface/datasets.md) | ⭐ 21,947 | 2026-09-05 | 2 |
 
 
 ---
@@ -55,31 +55,31 @@
 | [langchain-ai/langchain](../repos/langchain-ai/langchain.md) | ⭐ 75,200 | 2026-08-10 | Building applications with LLMs through composability |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 101,130 | 2026-08-08 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 64,125 | 2026-08-09 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | 2026-08-08 | Curated list of project-based tutorials |
+| [funstory-ai/BabelDOC](../repos/funstory-ai/BabelDOC.md) | ⭐ 9,227 | 2026-08-09 | Yet Another Document Translator |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [kyutai-labs/pocket-tts](../repos/kyutai-labs/pocket-tts.md) | ⭐ 8,174 | 2026-08-08 | A TTS that fits in your CPU (and pocket) |
+| [MervinPraison/PraisonAI](../repos/MervinPraison/PraisonAI.md) | ⭐ 8,770 | 2026-08-09 | PraisonAI 🦞 — Hire a 24&#x2F;7 AI Workforce. Stop writing boilerplate and start shipping autonomous s... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google-deepmind/weathernext](../repos/google-deepmind/weathernext.md) | ⭐ 7,623 | 2026-08-08 |  |
+| [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) | ⭐ 19,396 | 2026-08-09 | Hindsight: Agent Memory That  Learns |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [superlinked/sie](../repos/superlinked/sie.md) | ⭐ 3,027 | 2026-08-08 | Open-source inference server and production cluster for all the models your agent needs. |
+| [stanfordnlp/dspy](../repos/stanfordnlp/dspy.md) | ⭐ 37,114 | 2026-08-09 | DSPy: The framework for programming—not prompting—language models |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [harveyai/harvey-labs](../repos/harveyai/harvey-labs.md) | ⭐ 1,056 | 2026-08-08 | A benchmark built to evaluate and improve agent capabilities for supporting legal work. |
+| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 92,978 | 2026-08-10 | Animation engine for explanatory math videos |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/agent-governance-toolkit](../repos/microsoft/agent-governance-toolkit.md) | ⭐ 5,797 | 2026-08-08 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and ... |
+| [langchain-ai/open_deep_research](../repos/langchain-ai/open_deep_research.md) | ⭐ 12,673 | 2026-08-10 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [anthropics/claude-code-security-review](../repos/anthropics/claude-code-security-review.md) | ⭐ 5,811 | 2026-08-08 | An AI-powered security review GitHub Action using Claude to analyze code changes for security vul... |
+| [scrapy/scrapy](../repos/scrapy/scrapy.md) | ⭐ 63,942 | 2026-08-10 | Scrapy, a fast high-level web crawling &amp; scraping framework for Python. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [AgriciDaniel/claude-seo](../repos/AgriciDaniel/claude-seo.md) | ⭐ 15,549 | 2026-08-08 | Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-... |
+| [confident-ai/deepteam](../repos/confident-ai/deepteam.md) | ⭐ 2,415 | 2026-08-10 | DeepTeam is a framework to red team LLMs and AI agents. |
 
 
 ---
@@ -90,24 +90,24 @@
 |------------|-------|------------|---------------|
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 476,436 | 2026-08-01 | 6 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 368,341 | 2026-08-03 | 6 |
+| [vinta/awesome-python](../repos/vinta/awesome-python.md) | ⭐ 319,105 | 2026-09-07 | 1 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | 2026-08-08 | 3 |
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 242,486 | 2026-08-01 | 16 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 189,411 | 2026-08-02 | 6 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,163 | 2026-08-06 | 7 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 180,017 | 2026-09-07 | 1 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 174,517 | 2026-08-11 | 6 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,572 | 2026-07-31 | 5 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 144,076 | 2026-08-07 | 11 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 134,172 | 2026-08-04 | 2 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 133,493 | 2026-08-14 | 5 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 131,778 | 2026-08-05 | 7 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 131,932 | 2026-08-05 | 8 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | 2026-08-01 | 10 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 114,356 | 2026-08-03 | 5 |
-| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 112,672 | 2026-08-20 | 4 |
+| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 112,932 | 2026-08-20 | 5 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
-| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 102,626 | 2026-07-30 | 2 |
+| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 102,844 | 2026-07-30 | 3 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 101,130 | 2026-08-08 | 6 |
-| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 92,978 | 2026-08-10 | 6 |
-| [home-assistant/core](../repos/home-assistant/core.md) | ⭐ 90,290 | 2026-08-27 | 2 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 16 | ⭐ 242,486 | 2026-08-01 | 2026-09-06 |
+| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 11 | ⭐ 144,076 | 2026-08-07 | 2026-09-04 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 10 | ⭐ 118,456 | 2026-08-01 | 2026-08-29 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 10 | ⭐ 41,423 | 2026-08-03 | 2026-09-01 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 9 | ⭐ 1,384 | 2026-08-01 | 2026-08-28 |
 | [usestrix/strix](../repos/usestrix/strix.md) | 8 | ⭐ 56,671 | 2026-08-04 | 2026-08-21 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 8 | ⭐ 131,932 | 2026-08-05 | 2026-09-07 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 7 | ⭐ 75,597 | 2026-08-01 | 2026-08-26 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 7 | ⭐ 50,309 | 2026-08-03 | 2026-08-26 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 7 | ⭐ 38,949 | 2026-08-03 | 2026-08-24 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 7 | ⭐ 131,778 | 2026-08-05 | 2026-09-06 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.330Z*
+*Last updated: 2026-09-07T21:01:57.094Z*

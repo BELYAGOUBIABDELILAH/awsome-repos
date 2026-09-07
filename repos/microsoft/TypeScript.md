@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 110,657 |
-| **Forks** | 🍴 13,761 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 110,971 |
+| **Forks** | 🍴 13,818 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #14 |
 
 | **First Seen** | Aug 15, 2026 |
-| **Last Seen** | Aug 24, 2026 |
+| **Last Seen** | Sep 7, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #14
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 3 days
 
 ---
@@ -71,9 +71,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 110,657+ stars, strong contributor base |
+| **Community** | Very Active | 110,971+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -86,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 75&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: Peak: #14
 
 
 ---
 
-*Last updated: 2026-09-06T21:01:34.201Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-09-07T21:02:01.252Z*  
+*Data from 5 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 222
+- **Total Repositories**: 224
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-09-06
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 21,544 | 2026-08-01 | 12 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 21,689 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,296 | 2026-08-01 | 12 |
+| [moby/moby](../repos/moby/moby.md) | ⭐ 72,088 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 40,614 | 2026-08-07 | 10 |
+| [github/github-mcp-server](../repos/github/github-mcp-server.md) | ⭐ 32,787 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XIU2/CloudflareSpeedTest](../repos/XIU2/CloudflareSpeedTest.md) | ⭐ 28,917 | 2026-08-09 | 2 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 22,513 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,444 | 2026-08-12 | 6 |
+| [sysadminsmedia/homebox](../repos/sysadminsmedia/homebox.md) | ⭐ 7,115 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cilium/cilium](../repos/cilium/cilium.md) | ⭐ 25,084 | 2026-08-19 | 4 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,971 | 2026-08-15 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Layr-Labs/d-inference](../repos/Layr-Labs/d-inference.md) | ⭐ 504 | 2026-08-26 | 2 |
+| [entireio/cli](../repos/entireio/cli.md) | ⭐ 5,075 | 2026-08-20 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [james-6-23/codex2api](../repos/james-6-23/codex2api.md) | ⭐ 2,030 | 2026-09-06 | 1 |
+| [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [amir20/dozzle](../repos/amir20/dozzle.md) | ⭐ 14,298 | 2026-09-07 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [v2fly/domain-list-community](../repos/v2fly/domain-list-community.md) | ⭐ 9,456 | 2026-09-07 | 1 |
 
 
 ---
@@ -46,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sysadminsmedia/homebox](../repos/sysadminsmedia/homebox.md) | ⭐ 6,869 | 2026-08-08 | A continuation of HomeBox the inventory and organization system built for the Home User |
+| [aceberg/WatchYourLAN](../repos/aceberg/WatchYourLAN.md) | ⭐ 7,486 | 2026-08-09 | Lightweight network IP scanner written in Go. With notifications, history, export to Grafana |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [beclab/Olares](../repos/beclab/Olares.md) | ⭐ 5,197 | 2026-08-08 | Open-Source Personal Cloud OS for Always-On Agents |
+| [mubeng/mubeng](../repos/mubeng/mubeng.md) | ⭐ 2,404 | 2026-08-09 | An incredibly fast proxy checker &amp; IP rotator with ease. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pocket-id/pocket-id](../repos/pocket-id/pocket-id.md) | ⭐ 8,744 | 2026-08-08 | The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in t... |
+| [XIU2/CloudflareSpeedTest](../repos/XIU2/CloudflareSpeedTest.md) | ⭐ 28,917 | 2026-08-09 | 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN &#x2F; 多个解析 IP 的网站 ~ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [alexballas/go2tv](../repos/alexballas/go2tv.md) | ⭐ 1,030 | 2026-08-08 | Cast media files to Smart TVs and Chromecast devices. |
+| [rorkai/App-Store-Connect-CLI](../repos/rorkai/App-Store-Connect-CLI.md) | ⭐ 6,220 | 2026-08-09 | Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, sig... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [charmbracelet/crush](../repos/charmbracelet/crush.md) | ⭐ 27,643 | 2026-08-08 | Glamourous agentic coding for all 💘 |
+| [OpenListTeam/OpenList](../repos/OpenListTeam/OpenList.md) | ⭐ 24,021 | 2026-08-09 | A new AList Fork to Anti Trust Crisis |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [actions/actions-runner-controller](../repos/actions/actions-runner-controller.md) | ⭐ 6,481 | 2026-08-08 | Kubernetes controller for GitHub Actions self-hosted runners |
+| [grafana/loki](../repos/grafana/loki.md) | ⭐ 28,764 | 2026-08-09 | Like Prometheus, but for logs. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [navidrome/navidrome](../repos/navidrome/navidrome.md) | ⭐ 23,093 | 2026-08-08 | 🎧 Your Personal Streaming Service  |
+| [henrygd/beszel](../repos/henrygd/beszel.md) | ⭐ 24,616 | 2026-08-10 | Lightweight server monitoring with historical data, docker stats, and alerts. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [anchore/grype](../repos/anchore/grype.md) | ⭐ 12,704 | 2026-08-08 | A vulnerability scanner for container images and filesystems |
+| [github/gh-aw](../repos/github/gh-aw.md) | ⭐ 4,999 | 2026-08-10 | GitHub Agentic Workflows |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [kubernetes-sigs/kueue](../repos/kubernetes-sigs/kueue.md) | ⭐ 2,785 | 2026-08-08 | Kubernetes-native Job Queueing |
+| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 19,289 | 2026-08-10 | 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [containerd/containerd](../repos/containerd/containerd.md) | ⭐ 21,240 | 2026-08-08 | An open and reliable container runtime |
+| [kdlbs/kandev](../repos/kdlbs/kandev.md) | ⭐ 570 | 2026-08-10 | AI Kanban &amp; Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi... |
 
 
 ---
@@ -85,17 +91,17 @@
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,296 | 2026-08-01 | 12 |
 | [golang/go](../repos/golang/go.md) | ⭐ 137,097 | 2026-07-31 | 7 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 125,949 | 2026-08-04 | 4 |
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,657 | 2026-08-15 | 4 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,971 | 2026-08-15 | 5 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 89,592 | 2026-08-06 | 7 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,444 | 2026-08-12 | 6 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | 2026-08-03 | 3 |
-| [moby/moby](../repos/moby/moby.md) | ⭐ 72,001 | 2026-08-04 | 3 |
+| [moby/moby](../repos/moby/moby.md) | ⭐ 72,088 | 2026-08-04 | 4 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | 2026-08-07 | 1 |
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 65,743 | 2026-08-11 | 3 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,391 | 2026-08-12 | 1 |
-| [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,796 | 2026-08-24 | 1 |
+| [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,190 | 2026-08-22 | 2 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
@@ -109,8 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 13 | ⭐ 21,689 | 2026-08-01 | 2026-09-07 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 12 | ⭐ 37,782 | 2026-08-01 | 2026-09-04 |
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 12 | ⭐ 21,544 | 2026-08-01 | 2026-09-06 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 12 | ⭐ 180,296 | 2026-08-01 | 2026-09-06 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 11 | ⭐ 47,310 | 2026-08-01 | 2026-09-04 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 10 | ⭐ 48,995 | 2026-08-01 | 2026-09-05 |
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.300Z*
+*Last updated: 2026-09-07T21:01:57.050Z*

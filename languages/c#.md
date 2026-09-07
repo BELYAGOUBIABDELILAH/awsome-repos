@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 137
+- **Total Repositories**: 138
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-06
+- **Last Updated**: 2026-09-07
 
 ---
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 30,138 | 2026-08-01 | 13 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,112 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,044 | 2026-08-01 | 7 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,647 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,092 | 2026-08-01 | 10 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 25,663 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,586 | 2026-08-02 | 17 |
+| [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) | ⭐ 13,912 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 25,423 | 2026-08-02 | 19 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,382 | 2026-08-03 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 5,873 | 2026-08-02 | 9 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 9,379 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,591 | 2026-08-02 | 14 |
+| [rmcrackan/Libation](../repos/rmcrackan/Libation.md) | ⭐ 6,152 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,018 | 2026-08-02 | 5 |
+| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 9,225 | 2026-08-04 | 9 |
+| [TeamWheelWizard/WheelWizard](../repos/TeamWheelWizard/WheelWizard.md) | ⭐ 661 | 2026-08-27 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 8,593 | 2026-08-09 | 6 |
+| [ed0ard/CS2-Bot-Improver](../repos/ed0ard/CS2-Bot-Improver.md) | ⭐ 1,096 | 2026-09-05 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [btcpayserver/btcpayserver](../repos/btcpayserver/btcpayserver.md) | ⭐ 7,728 | 2026-08-08 | Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | .NET debugger and assembly editor |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [LorisYounger/VPet](../repos/LorisYounger/VPet.md) | ⭐ 6,723 | 2026-08-08 | 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Goob-Station/Goob-Station](../repos/Goob-Station/Goob-Station.md) | ⭐ 235 | 2026-08-08 | We&#39;re not even close to &quot;Wizden, but random&quot; at this point. Super chud SS14 fork. By chuds, for c... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dotnet/dotnet](../repos/dotnet/dotnet.md) | ⭐ 1,223 | 2026-08-08 | Home of .NET&#39;s Virtual Monolithic Repository which includes all the code needed to build the .NET... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [StartupHakk/OpenMonoAgent.ai](../repos/StartupHakk/OpenMonoAgent.ai.md) | ⭐ 1,734 | 2026-08-09 | (BETA) AI shouldn&#39;t have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it fro... |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [shinyflvre/VRCNext](../repos/shinyflvre/VRCNext.md) | ⭐ 159 | 2026-08-10 | VRCN is a VRChat launcher for Windows that includes various useful tools within a clean interface... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BornToBeRoot/NETworkManager](../repos/BornToBeRoot/NETworkManager.md) | ⭐ 8,675 | 2026-08-10 | A powerful open-source tool for managing networks and troubleshooting network problems! |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,603 | 2026-08-10 | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [intro-skipper/intro-skipper](../repos/intro-skipper/intro-skipper.md) | ⭐ 2,638 | 2026-08-10 | Automatically detect and skip intro&#x2F;credit sequences in Jellyfin |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dpadGuy/SalsaNOW](../repos/dpadGuy/SalsaNOW.md) | ⭐ 117 | 2026-08-11 | SalsaNOW, the tool that sets up your GeForce NOW session experiences into local ones ! |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [builtbybel/FlyOOBE](../repos/builtbybel/FlyOOBE.md) | ⭐ 7,253 | 2026-08-11 | Fly through your Windows 11 setup 🐝 |
 
 
 ---
@@ -88,14 +88,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,586 | 2026-08-02 | 17 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,647 | 2026-08-02 | 18 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,591 | 2026-08-02 | 14 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,144 | 2026-08-06 | 7 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,819 | 2026-08-01 | 6 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,194 | 2026-08-14 | 2 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,608 | 2026-08-03 | 6 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,411 | 2026-08-01 | 11 |
-| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,928 | 2026-08-22 | 3 |
+| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,038 | 2026-08-28 | 2 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 30,138 | 2026-08-01 | 13 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
@@ -103,7 +103,7 @@
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,603 | 2026-08-10 | 3 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,018 | 2026-08-02 | 5 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,992 | 2026-08-01 | 5 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 25,423 | 2026-08-02 | 19 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 25,663 | 2026-08-02 | 20 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,553 | 2026-08-27 | 2 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,315 | 2026-08-04 | 3 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,625 | 2026-08-01 | 6 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 19 | ⭐ 25,423 | 2026-08-02 | 2026-09-06 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 17 | ⭐ 115,586 | 2026-08-02 | 2026-09-06 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 15 | ⭐ 5,362 | 2026-08-03 | 2026-09-05 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 20 | ⭐ 25,663 | 2026-08-02 | 2026-09-07 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 18 | ⭐ 115,647 | 2026-08-02 | 2026-09-07 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 16 | ⭐ 5,382 | 2026-08-03 | 2026-09-07 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 14 | ⭐ 56,591 | 2026-08-02 | 2026-09-06 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 13 | ⭐ 30,138 | 2026-08-01 | 2026-09-06 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 12 | ⭐ 15,332 | 2026-08-02 | 2026-09-03 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 11 | ⭐ 3,642 | 2026-08-01 | 2026-09-04 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 11 | ⭐ 38,411 | 2026-08-01 | 2026-09-01 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 11 | ⭐ 14,112 | 2026-08-01 | 2026-09-07 |
 | [microsoft/aspire](../repos/microsoft/aspire.md) | 11 | ⭐ 6,287 | 2026-08-05 | 2026-09-05 |
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 10 | ⭐ 14,092 | 2026-08-01 | 2026-09-06 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.279Z*
+*Last updated: 2026-09-07T21:01:57.021Z*

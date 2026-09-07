@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 571
+**Gems Found**: 551
 
 ---
 
@@ -79,7 +79,7 @@
 |---|---|
 | ⭐ **Stars** | 3,585 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 95/100 |
+| 🏆 **Gem Score** | 94/100 |
 | 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Aug 20, 2026 |
 
@@ -231,27 +231,7 @@
 
 ---
 
-### 12. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
-
-**Open-source framework for the research and development of foundation models.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,876 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 24, 2026 |
-
-**Why it's a gem**: High growth velocity (+529 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/marin-community/marin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;marin-community&#x2F;marin)
-
----
-
-### 13. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+### 12. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
 
 **GitHub Stacked PRs**
 
@@ -271,27 +251,7 @@
 
 ---
 
-### 14. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
-
-**📼 The missing YouTube and YouTube Music macOS app**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,094 |
-| 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+36 stars&#x2F;day) • Trending 7 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/sozercan/kaset.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;sozercan&#x2F;kaset)
-
----
-
-### 15. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+### 13. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
 
 **OCTO Android Client — Open-source enterprise IM**
 
@@ -311,7 +271,27 @@
 
 ---
 
-### 16. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
+### 14. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
+
+**Open-source framework for the research and development of foundation models.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,876 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 24, 2026 |
+
+**Why it's a gem**: High growth velocity (+529 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/marin-community/marin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;marin-community&#x2F;marin)
+
+---
+
+### 15. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
 
 **Help AI coding agents write modern Go**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+### 16. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
 
 **A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
 
@@ -351,6 +331,26 @@
 
 ---
 
+### 17. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
+
+**📼 The missing YouTube and YouTube Music macOS app**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,094 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+36 stars&#x2F;day) • Trending 7 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/sozercan/kaset.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;sozercan&#x2F;kaset)
+
+---
+
 ### 18. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
 
 **A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.**
@@ -359,7 +359,7 @@
 |---|---|
 | ⭐ **Stars** | 423 |
 | 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 87/100 |
+| 🏆 **Gem Score** | 86/100 |
 | 📈 **Trending Days** | 3 |
 | 📅 **First Seen** | Aug 6, 2026 |
 
@@ -371,7 +371,27 @@
 
 ---
 
-### 19. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
+### 19. [mnfst&#x2F;awesome-free-llm-apis](../../repos/mnfst/awesome-free-llm-apis.md)
+
+**List of Permanent Free LLM API  (API Keys)**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,159 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 86/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+52 stars&#x2F;day) • Trending 4 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/mnfst/awesome-free-llm-apis.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mnfst&#x2F;awesome-free-llm-apis)
+
+---
+
+### 20. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
 
 **BookOrbit: Your Reading Space**
 
@@ -379,7 +399,7 @@
 |---|---|
 | ⭐ **Stars** | 3,033 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 87/100 |
+| 🏆 **Gem Score** | 86/100 |
 | 📈 **Trending Days** | 3 |
 | 📅 **First Seen** | Aug 20, 2026 |
 
@@ -388,26 +408,6 @@
 **Best for**: 
 
 [View Passport](../../repos/bookorbit/bookorbit.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;bookorbit&#x2F;bookorbit)
-
----
-
-### 20. [uber&#x2F;ADR](../../repos/uber/ADR.md)
-
-**ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,230 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+436 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/uber/ADR.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;uber&#x2F;ADR)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-06T21:01:35.163Z*  
+*Generated: 2026-09-07T21:02:02.615Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

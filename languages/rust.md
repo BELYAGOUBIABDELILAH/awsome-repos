@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 160
+- **Total Repositories**: 163
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-05
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cocoindex-io/cocoindex](../repos/cocoindex-io/cocoindex.md) | ⭐ 11,493 | 2026-08-01 | 4 |
+| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 19,295 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 11,103 | 2026-08-09 | 6 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 28,615 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,895 | 2026-08-11 | 7 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,730 | 2026-08-09 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 17,149 | 2026-08-14 | 5 |
+| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 17,768 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [slint-ui/slint](../repos/slint-ui/slint.md) | ⭐ 23,730 | 2026-08-23 | 4 |
+| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 11,142 | 2026-08-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [arcboxlabs/arcbox](../repos/arcboxlabs/arcbox.md) | ⭐ 3,363 | 2026-09-02 | 4 |
+| [cachix/devenv](../repos/cachix/devenv.md) | ⭐ 7,588 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 14,067 | 2026-09-04 | 3 |
+| [tonhowtf/omniget](../repos/tonhowtf/omniget.md) | ⭐ 9,651 | 2026-08-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GreptimeTeam/greptimedb](../repos/GreptimeTeam/greptimedb.md) | ⭐ 6,642 | 2026-09-04 | 3 |
+| [nklmilojevic/sofka](../repos/nklmilojevic/sofka.md) | ⭐ 793 | 2026-09-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nklmilojevic/sofka](../repos/nklmilojevic/sofka.md) | ⭐ 553 | 2026-09-06 | 1 |
+| [mixelpixx/Konnect](../repos/mixelpixx/Konnect.md) | ⭐ 511 | 2026-09-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mixelpixx/Konnect](../repos/mixelpixx/Konnect.md) | ⭐ 464 | 2026-09-06 | 1 |
+| [huggingface/funes](../repos/huggingface/funes.md) | ⭐ 257 | 2026-09-07 | 1 |
 
 
 ---
@@ -52,19 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 4,568 | 2026-08-08 | Postgres rewritten in Rust, now faster than Postgres and Clickhouse |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rivet-dev/rivet](../repos/rivet-dev/rivet.md) | ⭐ 5,974 | 2026-08-08 | Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, a... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [iii-hq/iii](../repos/iii-hq/iii.md) | ⭐ 18,577 | 2026-08-08 | Effortlessly compose, extend, and observe every service in real-time for the first time ever. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ClementTsang/bottom](../repos/ClementTsang/bottom.md) | ⭐ 13,861 | 2026-08-08 | Yet another cross-platform graphical process&#x2F;system monitor. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,437 | 2026-08-09 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,... |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,730 | 2026-08-09 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lancedb/lancedb](../repos/lancedb/lancedb.md) | ⭐ 11,238 | 2026-08-09 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
@@ -79,7 +67,19 @@
 | [lanyeeee/bilibili-video-downloader](../repos/lanyeeee/bilibili-video-downloader.md) | ⭐ 1,815 | 2026-08-09 | 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 17,670 | 2026-08-09 | Generate any location from the real world in Minecraft with a high level of detail. |
+| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 17,768 | 2026-08-09 | Generate any location from the real world in Minecraft with a high level of detail. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 11,142 | 2026-08-09 | Empowering everyone to host fast and efficient Minecraft servers. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 31,695 | 2026-08-09 | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-pe... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Kuberwastaken/claurst](../repos/Kuberwastaken/claurst.md) | ⭐ 10,215 | 2026-08-09 | Agentic Coding for Builders who Ship |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [run-llama/liteparse](../repos/run-llama/liteparse.md) | ⭐ 12,196 | 2026-08-10 | A fast, helpful, and open-source document parser |
 
 
 ---
@@ -92,7 +92,7 @@
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 117,447 | 2026-07-30 | 7 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,895 | 2026-08-11 | 7 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,437 | 2026-08-09 | 7 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,730 | 2026-08-09 | 8 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 89,217 | 2026-07-31 | 3 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [openai/codex](../repos/openai/codex.md) | 9 | ⭐ 121,738 | 2026-08-01 | 2026-09-05 |
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 8 | ⭐ 27,494 | 2026-08-03 | 2026-08-23 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 9 | ⭐ 28,615 | 2026-08-03 | 2026-09-07 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 8 | ⭐ 92,730 | 2026-08-09 | 2026-09-07 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 8 | ⭐ 38,707 | 2026-08-10 | 2026-08-28 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 7 | ⭐ 117,447 | 2026-07-30 | 2026-09-04 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 7 | ⭐ 17,401 | 2026-08-01 | 2026-08-29 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 7 | ⭐ 42,005 | 2026-08-02 | 2026-09-05 |
 | [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | 7 | ⭐ 18,760 | 2026-08-03 | 2026-09-03 |
 | [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 7 | ⭐ 2,575 | 2026-08-05 | 2026-08-28 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 7 | ⭐ 92,437 | 2026-08-09 | 2026-09-03 |
-| [oven-sh/bun](../repos/oven-sh/bun.md) | 7 | ⭐ 95,895 | 2026-08-11 | 2026-09-06 |
+| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 7 | ⭐ 11,142 | 2026-08-09 | 2026-09-07 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.335Z*
+*Last updated: 2026-09-07T21:01:57.102Z*

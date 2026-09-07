@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Elixir |
 | **License** | Other |
-| **Stars** | ⭐ 158 |
-| **Forks** | 🍴 17 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 186 |
+| **Forks** | 🍴 18 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 24, 2026 |
+| **Last Seen** | Sep 7, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`aider`](../../topics/aider.md) [`api-gateway`](../../topics/api-gateway.md) [`cline`](../../topics/cline.md) [`codex`](../../topics/codex.md) [`continue`](../../topics/continue.md) [`goose`](../../topics/goose.md) [`hermes-agent`](../../topics/hermes-agent.md) [`kilo`](../../topics/kilo.md) [`mcp-server`](../../topics/mcp-server.md) [`oh-my-pi`](../../topics/oh-my-pi.md) [`openai`](../../topics/openai.md) [`openai-api`](../../topics/openai-api.md) [`openai-node`](../../topics/openai-node.md) [`openai-python`](../../topics/openai-python.md) [`openclaw`](../../topics/openclaw.md) [`opencode`](../../topics/opencode.md) [`openhands`](../../topics/openhands.md) [`pi`](../../topics/pi.md) [`vercel-ai-sdk`](../../topics/vercel-ai-sdk.md) [`windmill`](../../topics/windmill.md) 
+[`aider`](../../topics/aider.md) [`api-gateway`](../../topics/api-gateway.md) [`cline`](../../topics/cline.md) [`codex`](../../topics/codex.md) [`continue`](../../topics/continue.md) [`cursor`](../../topics/cursor.md) [`goose`](../../topics/goose.md) [`hermes-agent`](../../topics/hermes-agent.md) [`kilo`](../../topics/kilo.md) [`mcp-server`](../../topics/mcp-server.md) [`oh-my-pi`](../../topics/oh-my-pi.md) [`openai`](../../topics/openai.md) [`openai-api`](../../topics/openai-api.md) [`openai-node`](../../topics/openai-node.md) [`openai-python`](../../topics/openai-python.md) [`openclaw`](../../topics/openclaw.md) [`opencode`](../../topics/opencode.md) [`openhands`](../../topics/openhands.md) [`pi`](../../topics/pi.md) [`vercel-ai-sdk`](../../topics/vercel-ai-sdk.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Backend Development` `Systems Programming` `Developer Tools` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-06T21:01:33.407Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-09-07T21:02:00.150Z*  
+*Data from 4 trending reports*

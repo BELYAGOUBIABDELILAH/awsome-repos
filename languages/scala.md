@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 55
+- **Total Repositories**: 56
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-06
+- **Last Updated**: 2026-09-07
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,478 | 2026-08-01 | 29 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,479 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 8,986 | 2026-08-01 | 29 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 8,987 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,279 | 2026-08-01 | 12 |
+| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,596 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,882 | 2026-08-01 | 19 |
+| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,279 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,239 | 2026-08-01 | 28 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,885 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,297 | 2026-08-01 | 17 |
+| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,297 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,956 | 2026-08-01 | 20 |
+| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,957 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chipsalliance/rocket-chip](../repos/chipsalliance/rocket-chip.md) | ⭐ 3,854 | 2026-08-01 | 8 |
+| [apache/texera](../repos/apache/texera.md) | ⭐ 305 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,956 | 2026-08-01 | 33 |
+| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,403 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [scala/scala](../repos/scala/scala.md) | ⭐ 14,572 | 2026-08-01 | 18 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,956 | 2026-08-01 | 34 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dasch-swiss/dsp-api](../repos/dasch-swiss/dsp-api.md) | ⭐ 79 | 2026-08-08 | DaSCH Service Platform API |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [delta-io/delta-sharing](../repos/delta-io/delta-sharing.md) | ⭐ 955 | 2026-08-08 | An open protocol for secure data sharing |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [hyperledger-identus/cloud-agent](../repos/hyperledger-identus/cloud-agent.md) | ⭐ 94 | 2026-08-09 | Identus Cloud Agent |
@@ -79,7 +73,13 @@
 | [databricks/Spark-The-Definitive-Guide](../repos/databricks/Spark-The-Definitive-Guide.md) | ⭐ 3,144 | 2026-08-26 | Spark: The Definitive Guide&#39;s Code Repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,517 | 2026-09-02 | PredictionIO, a machine learning server for developers and ML engineers. |
+| [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,518 | 2026-09-02 | PredictionIO, a machine learning server for developers and ML engineers. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Adi23041999/UpstateLiberty](../repos/Adi23041999/UpstateLiberty.md) | ⭐ 201 | 2026-09-02 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [fpinscala/fpinscala](../repos/fpinscala/fpinscala.md) | ⭐ 5,857 | 2026-09-03 | Code, exercises, answers, and hints to go along with the book &quot;Functional Programming in Scala&quot; |
 
 
 ---
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,882 | 2026-08-01 | 19 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,956 | 2026-08-01 | 33 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,709 | 2026-08-02 | 24 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,885 | 2026-08-01 | 20 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,956 | 2026-08-01 | 34 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,709 | 2026-08-02 | 25 |
 | [scala/scala](../repos/scala/scala.md) | ⭐ 14,572 | 2026-08-01 | 18 |
-| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,279 | 2026-08-01 | 12 |
-| [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,517 | 2026-09-02 | 4 |
-| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,402 | 2026-08-01 | 19 |
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 8,986 | 2026-08-01 | 29 |
-| [twitter/finagle](../repos/twitter/finagle.md) | ⭐ 8,865 | 2026-08-20 | 2 |
+| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,279 | 2026-08-01 | 13 |
+| [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,518 | 2026-09-02 | 5 |
+| [yahoo/CMAK](../repos/yahoo/CMAK.md) | ⭐ 11,924 | 2026-09-07 | 1 |
+| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,403 | 2026-08-01 | 20 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 8,987 | 2026-08-01 | 30 |
+| [twitter/finagle](../repos/twitter/finagle.md) | ⭐ 8,865 | 2026-08-20 | 3 |
 | [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,239 | 2026-08-01 | 28 |
 | [snowplow/snowplow](../repos/snowplow/snowplow.md) | ⭐ 7,029 | 2026-08-11 | 1 |
-| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,956 | 2026-08-01 | 20 |
+| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,957 | 2026-08-01 | 21 |
 | [apache/openwhisk](../repos/apache/openwhisk.md) | ⭐ 6,792 | 2026-08-05 | 3 |
-| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,297 | 2026-08-01 | 17 |
+| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,297 | 2026-08-01 | 18 |
 | [guardian/frontend](../repos/guardian/frontend.md) | ⭐ 5,899 | 2026-08-03 | 16 |
 | [fpinscala/fpinscala](../repos/fpinscala/fpinscala.md) | ⭐ 5,857 | 2026-09-03 | 2 |
 | [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,242 | 2026-08-01 | 11 |
 | [sbt/sbt](../repos/sbt/sbt.md) | ⭐ 4,948 | 2026-08-04 | 17 |
 | [chipsalliance/chisel](../repos/chipsalliance/chisel.md) | ⭐ 4,760 | 2026-08-05 | 9 |
-| [zio/zio](../repos/zio/zio.md) | ⭐ 4,411 | 2026-08-02 | 10 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [apache/spark](../repos/apache/spark.md) | 33 | ⭐ 43,956 | 2026-08-01 | 2026-09-06 |
-| [joernio/joern](../repos/joernio/joern.md) | 29 | ⭐ 3,478 | 2026-08-01 | 2026-09-06 |
-| [delta-io/delta](../repos/delta-io/delta.md) | 29 | ⭐ 8,986 | 2026-08-01 | 2026-09-06 |
+| [apache/spark](../repos/apache/spark.md) | 34 | ⭐ 43,956 | 2026-08-01 | 2026-09-07 |
+| [joernio/joern](../repos/joernio/joern.md) | 30 | ⭐ 3,479 | 2026-08-01 | 2026-09-07 |
+| [delta-io/delta](../repos/delta-io/delta.md) | 30 | ⭐ 8,987 | 2026-08-01 | 2026-09-07 |
+| [apache/gluten](../repos/apache/gluten.md) | 28 | ⭐ 1,596 | 2026-08-01 | 2026-09-07 |
 | [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 28 | ⭐ 7,239 | 2026-08-01 | 2026-09-06 |
-| [apache/gluten](../repos/apache/gluten.md) | 27 | ⭐ 1,596 | 2026-08-01 | 2026-09-05 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | 25 | ⭐ 18,709 | 2026-08-02 | 2026-09-07 |
 | [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 24 | ⭐ 998 | 2026-08-01 | 2026-09-05 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | 24 | ⭐ 18,709 | 2026-08-02 | 2026-09-06 |
 | [canton-network/splice](../repos/canton-network/splice.md) | 22 | ⭐ 113 | 2026-08-01 | 2026-08-28 |
+| [gatling/gatling](../repos/gatling/gatling.md) | 21 | ⭐ 6,957 | 2026-08-01 | 2026-09-07 |
 | [apache/kyuubi](../repos/apache/kyuubi.md) | 21 | ⭐ 2,365 | 2026-08-03 | 2026-09-05 |
-| [gatling/gatling](../repos/gatling/gatling.md) | 20 | ⭐ 6,956 | 2026-08-01 | 2026-09-06 |
 
 ---
 
@@ -185,7 +185,8 @@
 - [Adi23041999/UpstateLiberty](../repos/Adi23041999/UpstateLiberty.md) - 
 - [fpinscala/fpinscala](../repos/fpinscala/fpinscala.md) - Code, exercises, answers, and hints to go along with the book &quot;Functional Programming in Scala&quot;
 - [spotify/scio](../repos/spotify/scio.md) - A Scala API for Apache Beam and Google Cloud Dataflow.
+- [yahoo/CMAK](../repos/yahoo/CMAK.md) - CMAK is a tool for managing Apache Kafka clusters
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.337Z*
+*Last updated: 2026-09-07T21:01:57.104Z*

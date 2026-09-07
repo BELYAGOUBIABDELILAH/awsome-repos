@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [LFDT-Minokawa/compact](../repos/LFDT-Minokawa/compact.md) | ⭐ 37 | 2026-08-08 | The Compact programming language |
 
+*No new Scheme repositories in the last 30 days*
 
 ---
 
@@ -56,4 +54,4 @@
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.338Z*
+*Last updated: 2026-09-07T21:01:57.106Z*

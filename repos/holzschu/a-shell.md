@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Perl |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 3,884 |
-| **Forks** | 🍴 208 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 3,903 |
+| **Forks** | 🍴 210 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 26, 2026 |
+| **Last Seen** | Sep 7, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-06T21:01:33.083Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-09-07T21:01:59.679Z*  
+*Data from 9 trending reports*

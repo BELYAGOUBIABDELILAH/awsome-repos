@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 51
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-06
+- **Last Updated**: 2026-09-07
 
 ---
 
@@ -16,31 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,055 | 2026-08-01 | 30 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,055 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,232 | 2026-08-01 | 32 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,231 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | ⭐ 223 | 2026-08-01 | 30 |
+| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | ⭐ 223 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dapphub/ds-test](../repos/dapphub/ds-test.md) | ⭐ 239 | 2026-08-01 | 30 |
+| [dapphub/ds-test](../repos/dapphub/ds-test.md) | ⭐ 239 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [1inch/swap-vm](../repos/1inch/swap-vm.md) | ⭐ 38 | 2026-09-06 | 1 |
+| [Uniswap/v4-core](../repos/Uniswap/v4-core.md) | ⭐ 2,526 | 2026-08-01 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) | ⭐ 6,768 | 2026-09-05 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cowprotocol/contracts](../repos/cowprotocol/contracts.md) | ⭐ 158 | 2026-08-08 | Smart contracts for CoW Protocol |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [morpho-org/midnight](../repos/morpho-org/midnight.md) | ⭐ 108 | 2026-08-08 | Morpho fixed rate market |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Uniswap/UniswapX](../repos/Uniswap/UniswapX.md) | ⭐ 461 | 2026-08-10 | 🦄 Gasless ERC20 swap settlement protocol 🦄 |
@@ -65,6 +62,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [base/contracts](../repos/base/contracts.md) | ⭐ 323 | 2026-08-22 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bnb-chain/BEPs](../repos/bnb-chain/BEPs.md) | ⭐ 976 | 2026-08-26 | BNB Evolution Proposals |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kimba999/base-bro](../repos/kimba999/base-bro.md) | ⭐ 20 | 2026-09-01 |  |
 
 
 ---
@@ -73,15 +76,15 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,232 | 2026-08-01 | 32 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,231 | 2026-08-01 | 33 |
 | [AmazingAng/WTF-Solidity](../repos/AmazingAng/WTF-Solidity.md) | ⭐ 14,033 | 2026-08-19 | 2 |
-| [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) | ⭐ 6,768 | 2026-09-05 | 1 |
+| [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) | ⭐ 6,768 | 2026-09-05 | 2 |
 | [transmissions11/solmate](../repos/transmissions11/solmate.md) | ⭐ 4,288 | 2026-08-01 | 23 |
-| [Uniswap/v4-core](../repos/Uniswap/v4-core.md) | ⭐ 2,526 | 2026-08-01 | 12 |
+| [Uniswap/v4-core](../repos/Uniswap/v4-core.md) | ⭐ 2,526 | 2026-08-01 | 13 |
 | [Cyfrin/security-and-auditing-full-course-s23](../repos/Cyfrin/security-and-auditing-full-course-s23.md) | ⭐ 1,954 | 2026-09-02 | 1 |
 | [Uniswap/v2-periphery](../repos/Uniswap/v2-periphery.md) | ⭐ 1,268 | 2026-08-02 | 2 |
 | [Arachnid/solidity-stringutils](../repos/Arachnid/solidity-stringutils.md) | ⭐ 1,154 | 2026-08-02 | 23 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,055 | 2026-08-01 | 30 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,055 | 2026-08-01 | 31 |
 | [bnb-chain/BEPs](../repos/bnb-chain/BEPs.md) | ⭐ 976 | 2026-08-26 | 3 |
 | [foundry-rs/book](../repos/foundry-rs/book.md) | ⭐ 960 | 2026-08-10 | 3 |
 | [Uniswap/permit2](../repos/Uniswap/permit2.md) | ⭐ 946 | 2026-08-01 | 11 |
@@ -100,10 +103,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 32 | ⭐ 27,232 | 2026-08-01 | 2026-09-06 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 30 | ⭐ 1,055 | 2026-08-01 | 2026-09-06 |
-| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | 30 | ⭐ 223 | 2026-08-01 | 2026-09-06 |
-| [dapphub/ds-test](../repos/dapphub/ds-test.md) | 30 | ⭐ 239 | 2026-08-01 | 2026-09-06 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 33 | ⭐ 27,231 | 2026-08-01 | 2026-09-07 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 31 | ⭐ 1,055 | 2026-08-01 | 2026-09-07 |
+| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | 31 | ⭐ 223 | 2026-08-01 | 2026-09-07 |
+| [dapphub/ds-test](../repos/dapphub/ds-test.md) | 31 | ⭐ 239 | 2026-08-01 | 2026-09-07 |
 | [OpenZeppelin/openzeppelin-foundry-upgrades](../repos/OpenZeppelin/openzeppelin-foundry-upgrades.md) | 24 | ⭐ 258 | 2026-08-01 | 2026-08-29 |
 | [transmissions11/solmate](../repos/transmissions11/solmate.md) | 23 | ⭐ 4,288 | 2026-08-01 | 2026-08-29 |
 | [Arachnid/solidity-stringutils](../repos/Arachnid/solidity-stringutils.md) | 23 | ⭐ 1,154 | 2026-08-02 | 2026-08-29 |
@@ -169,4 +172,4 @@
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.340Z*
+*Last updated: 2026-09-07T21:01:57.109Z*

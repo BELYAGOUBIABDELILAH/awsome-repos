@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 176
+- **Total Repositories**: 178
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-05
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crimera/piko](../repos/crimera/piko.md) | ⭐ 5,131 | 2026-08-01 | 9 |
+| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,836 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MojoLauncher/MojoLauncher](../repos/MojoLauncher/MojoLauncher.md) | ⭐ 969 | 2026-08-02 | 3 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 26,646 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 26,636 | 2026-08-02 | 11 |
+| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 29,009 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Creators-of-Create/Create](../repos/Creators-of-Create/Create.md) | ⭐ 4,491 | 2026-08-02 | 3 |
+| [TGX-Android/Telegram-X](../repos/TGX-Android/Telegram-X.md) | ⭐ 5,957 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | ⭐ 2,517 | 2026-08-02 | 5 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 32,676 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 28,992 | 2026-08-03 | 7 |
+| [AutoMQ/automq](../repos/AutoMQ/automq.md) | ⭐ 10,645 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shmykelsa/AAAD](../repos/shmykelsa/AAAD.md) | ⭐ 2,943 | 2026-08-03 | 4 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 14,496 | 2026-08-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,185 | 2026-08-03 | 4 |
+| [CaffeineMC/sodium](../repos/CaffeineMC/sodium.md) | ⭐ 5,750 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 32,653 | 2026-08-04 | 8 |
+| [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) | ⭐ 5,356 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AutoMQ/automq](../repos/AutoMQ/automq.md) | ⭐ 10,635 | 2026-08-04 | 3 |
+| [HMCL-dev/HMCL](../repos/HMCL-dev/HMCL.md) | ⭐ 10,022 | 2026-08-23 | 3 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | Everything you need to know to get the job. |
+| [CaffeineMC/sodium](../repos/CaffeineMC/sodium.md) | ⭐ 5,750 | 2026-08-09 | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,219 | 2026-08-08 | Spring Framework |
+| [checkstyle/checkstyle](../repos/checkstyle/checkstyle.md) | ⭐ 9,523 | 2026-08-09 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding sta... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [anddea/revanced-patches](../repos/anddea/revanced-patches.md) | ⭐ 1,819 | 2026-08-08 | 🧩 Patches for ReVanced |
+| [conductor-oss/conductor](../repos/conductor-oss/conductor.md) | ⭐ 32,167 | 2026-08-09 | Conductor is an event driven agentic workflow engine providing durable and highly resilient execu... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [thingsboard/thingsboard](../repos/thingsboard/thingsboard.md) | ⭐ 22,316 | 2026-08-08 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| [languagetool-org/languagetool](../repos/languagetool-org/languagetool.md) | ⭐ 14,964 | 2026-08-09 | Style and Grammar Checker for 25+ Languages |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apache/cloudstack](../repos/apache/cloudstack.md) | ⭐ 3,015 | 2026-08-08 | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform |
+| [navinreddy20/Javacode](../repos/navinreddy20/Javacode.md) | ⭐ 1,299 | 2026-08-09 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [micrometer-metrics/micrometer](../repos/micrometer-metrics/micrometer.md) | ⭐ 4,882 | 2026-08-08 | An application observability facade for the most popular observability tools. Think SLF4J, but fo... |
+| [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) | ⭐ 5,356 | 2026-08-10 | HyperOS enhancement module - Make HyperOS Great Again! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,511 | 2026-08-08 | 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第... |
+| [fish2018/webhtv](../repos/fish2018/webhtv.md) | ⭐ 1,137 | 2026-08-10 | WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。  这个项目的核心目标是让 CSP 站点首页... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apache/incubator-seata](../repos/apache/incubator-seata.md) | ⭐ 25,986 | 2026-08-08 | :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution. |
+| [Audiveris/audiveris](../repos/Audiveris/audiveris.md) | ⭐ 2,692 | 2026-08-10 | Latest generation of Audiveris OMR engine |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zalexdev/strykerapp](../repos/zalexdev/strykerapp.md) | ⭐ 1,512 | 2026-08-08 | Magic tool for pentest from your android device! |
+| [hanxinhao000/ZeroTermux](../repos/hanxinhao000/ZeroTermux.md) | ⭐ 2,889 | 2026-08-10 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [booklore-app/booklore](../repos/booklore-app/booklore.md) | ⭐ 971 | 2026-08-08 | BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOR... |
+| [objectionary/eo](../repos/objectionary/eo.md) | ⭐ 1,399 | 2026-08-10 | EOLANG, an Experimental Pure Object-Oriented Programming Language Based on 𝜑-Calculus |
 
 
 ---
@@ -116,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 14 | ⭐ 5,438 | 2026-08-05 | 2026-09-04 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 11 | ⭐ 26,636 | 2026-08-02 | 2026-09-06 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 12 | ⭐ 26,646 | 2026-08-02 | 2026-09-07 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 11 | ⭐ 74,217 | 2026-08-03 | 2026-09-01 |
 | [google/guava](../repos/google/guava.md) | 10 | ⭐ 51,896 | 2026-08-02 | 2026-08-28 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 10 | ⭐ 51,671 | 2026-08-04 | 2026-09-05 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.307Z*
+*Last updated: 2026-09-07T21:01:57.060Z*

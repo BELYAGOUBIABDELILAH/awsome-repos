@@ -16,31 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 440 | 2026-08-01 | 32 |
+| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 405 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,200 | 2026-08-01 | 25 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 962 | 2026-08-01 | 21 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 405 | 2026-08-03 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,748 | 2026-08-04 | 22 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,696 | 2026-08-04 | 11 |
+| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,696 | 2026-08-04 | 12 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [DSSAT/dssat-csm-os](../repos/DSSAT/dssat-csm-os.md) | ⭐ 228 | 2026-08-08 | DSSAT Cropping System Model |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ESCOMP/CTSM](../repos/ESCOMP/CTSM.md) | ⭐ 352 | 2026-08-09 | Community Terrestrial Systems Model (includes the Community Land Model of CESM) |
@@ -78,14 +63,14 @@
 |------------|-------|------------|---------------|
 | [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,883 | 2026-08-02 | 3 |
 | [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,748 | 2026-08-04 | 22 |
-| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,696 | 2026-08-04 | 11 |
+| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,696 | 2026-08-04 | 12 |
 | [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,200 | 2026-08-01 | 25 |
 | [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 962 | 2026-08-01 | 21 |
 | [OpenRadioss/OpenRadioss](../repos/OpenRadioss/OpenRadioss.md) | ⭐ 869 | 2026-09-04 | 2 |
 | [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 868 | 2026-08-01 | 18 |
 | [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 440 | 2026-08-01 | 32 |
 | [MFlowCode/MFC](../repos/MFlowCode/MFC.md) | ⭐ 412 | 2026-08-19 | 4 |
-| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 405 | 2026-08-03 | 8 |
+| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 405 | 2026-08-03 | 9 |
 | [MODFLOW-ORG/modflow6](../repos/MODFLOW-ORG/modflow6.md) | ⭐ 366 | 2026-08-20 | 3 |
 | [ESCOMP/CTSM](../repos/ESCOMP/CTSM.md) | ⭐ 352 | 2026-08-09 | 2 |
 | [MPAS-Dev/MPAS-Model](../repos/MPAS-Dev/MPAS-Model.md) | ⭐ 311 | 2026-08-07 | 1 |
@@ -147,4 +132,4 @@
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.298Z*
+*Last updated: 2026-09-07T21:01:57.047Z*

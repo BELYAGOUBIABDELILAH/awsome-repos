@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 209
+- **Total Repositories**: 214
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 198,899 | 2026-07-30 | 16 |
+| [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | ⭐ 683 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 127,272 | 2026-08-01 | 18 |
+| [official-stockfish/Stockfish](../repos/official-stockfish/Stockfish.md) | ⭐ 16,523 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 10,413 | 2026-08-02 | 8 |
+| [doitsujin/dxvk](../repos/doitsujin/dxvk.md) | ⭐ 18,025 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,122 | 2026-08-02 | 6 |
+| [imputnet/helium](../repos/imputnet/helium.md) | ⭐ 20,390 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [official-stockfish/Stockfish](../repos/official-stockfish/Stockfish.md) | ⭐ 16,512 | 2026-08-03 | 5 |
+| [stenzek/duckstation](../repos/stenzek/duckstation.md) | ⭐ 10,644 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [imputnet/helium](../repos/imputnet/helium.md) | ⭐ 20,336 | 2026-08-03 | 3 |
+| [lemonade-sdk/lemonade](../repos/lemonade-sdk/lemonade.md) | ⭐ 5,652 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [notepad-plus-plus/notepad-plus-plus](../repos/notepad-plus-plus/notepad-plus-plus.md) | ⭐ 29,251 | 2026-08-08 | 3 |
+| [juce-framework/JUCE](../repos/juce-framework/JUCE.md) | ⭐ 8,877 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YimMenu/YimMenuV2](../repos/YimMenu/YimMenuV2.md) | ⭐ 1,699 | 2026-08-09 | 3 |
+| [RPCS3/rpcs3](../repos/RPCS3/rpcs3.md) | ⭐ 19,672 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin-desktop](../repos/jellyfin/jellyfin-desktop.md) | ⭐ 5,707 | 2026-08-15 | 2 |
+| [google/flatbuffers](../repos/google/flatbuffers.md) | ⭐ 26,445 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [esphome/esphome](../repos/esphome/esphome.md) | ⭐ 11,653 | 2026-08-17 | 3 |
+| [ClassicOldSong/Apollo](../repos/ClassicOldSong/Apollo.md) | ⭐ 10,814 | 2026-08-16 | 3 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,068 | 2026-08-08 | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [throneproj/Throne](../repos/throneproj/Throne.md) | ⭐ 6,874 | 2026-08-08 | Cross-platform GUI proxy utility (Empowered by sing-box) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/WSL](../repos/microsoft/WSL.md) | ⭐ 33,603 | 2026-08-08 | Windows Subsystem for Linux |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [BruceDevices/firmware](../repos/BruceDevices/firmware.md) | ⭐ 6,478 | 2026-08-08 | Predatory ESP32 Firmware |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [alibaba/MNN](../repos/alibaba/MNN.md) | ⭐ 15,925 | 2026-08-08 | MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-perform... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [notepad-plus-plus/notepad-plus-plus](../repos/notepad-plus-plus/notepad-plus-plus.md) | ⭐ 29,251 | 2026-08-08 | Notepad++ official repository |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google-ai-edge/LiteRT](../repos/google-ai-edge/LiteRT.md) | ⭐ 3,273 | 2026-08-08 | LiteRT, successor to TensorFlow Lite. is Google&#39;s On-device framework for high-performance ML &amp; G... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [bambulab/BambuStudio](../repos/bambulab/BambuStudio.md) | ⭐ 4,883 | 2026-08-09 | PC Software for BambuLab and other 3D printers |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,206 | 2026-08-09 | Official inference framework for 1-bit LLMs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [juce-framework/JUCE](../repos/juce-framework/JUCE.md) | ⭐ 8,832 | 2026-08-09 | JUCE is an open-source cross-platform C++ application framework for desktop and mobile applicatio... |
+| [juce-framework/JUCE](../repos/juce-framework/JUCE.md) | ⭐ 8,877 | 2026-08-09 | JUCE is an open-source cross-platform C++ application framework for desktop and mobile applicatio... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [RPCS3/rpcs3](../repos/RPCS3/rpcs3.md) | ⭐ 19,672 | 2026-08-09 | PlayStation 3 emulator and debugger |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Tencent/ncnn](../repos/Tencent/ncnn.md) | ⭐ 23,712 | 2026-08-09 | ncnn is a high-performance neural network inference framework optimized for the mobile platform |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 25,844 | 2026-08-09 | Distribute and run LLMs with a single file. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [YimMenu/YimMenuV2](../repos/YimMenu/YimMenuV2.md) | ⭐ 1,699 | 2026-08-09 | Experimental menu for GTA 5: Enhanced |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [futo-org/android-keyboard](../repos/futo-org/android-keyboard.md) | ⭐ 2,988 | 2026-08-09 | Official FUTO Keyboard Issue Tracker and Source Mirror of https:&#x2F;&#x2F;gitlab.futo.org&#x2F;keyboard&#x2F;latinime |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [audacity/audacity](../repos/audacity/audacity.md) | ⭐ 18,265 | 2026-08-09 | Audio Editor                                      |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [UE4SS-RE/RE-UE4SS](../repos/UE4SS-RE/RE-UE4SS.md) | ⭐ 2,820 | 2026-08-09 | Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities ... |
 
 
 ---
@@ -121,10 +121,10 @@
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 12 | ⭐ 29,564 | 2026-08-01 | 2026-09-02 |
 | [google/googletest](../repos/google/googletest.md) | 12 | ⭐ 39,299 | 2026-08-04 | 2026-08-29 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 12 | ⭐ 76,068 | 2026-08-08 | 2026-09-04 |
+| [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | 10 | ⭐ 683 | 2026-08-02 | 2026-09-07 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 9 | ⭐ 472 | 2026-08-01 | 2026-08-26 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 8 | ⭐ 116,297 | 2026-08-01 | 2026-08-28 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 8 | ⭐ 10,413 | 2026-08-02 | 2026-09-06 |
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 8 | ⭐ 65,959 | 2026-08-05 | 2026-09-01 |
 
 ---
 
@@ -158,6 +158,7 @@
 - [nasa/fprime](../repos/nasa/fprime.md) - F´ - A flight software and embedded systems framework
 - [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) - Bitcoin Core integration&#x2F;staging tree
+- [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) - FREE AirPlay to Windows PC
 - [official-stockfish/Stockfish](../repos/official-stockfish/Stockfish.md) - A free and strong UCI chess engine
 - [doitsujin/dxvk](../repos/doitsujin/dxvk.md) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux &#x2F; Wine
 - [CleverRaven/Cataclysm-DDA](../repos/CleverRaven/Cataclysm-DDA.md) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
@@ -229,8 +230,7 @@
 - [Tencent/ncnn](../repos/Tencent/ncnn.md) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) - Distribute and run LLMs with a single file.
 - [YimMenu/YimMenuV2](../repos/YimMenu/YimMenuV2.md) - Experimental menu for GTA 5: Enhanced
-- [futo-org/android-keyboard](../repos/futo-org/android-keyboard.md) - Official FUTO Keyboard Issue Tracker and Source Mirror of https:&#x2F;&#x2F;gitlab.futo.org&#x2F;keyboard&#x2F;latinime
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.282Z*
+*Last updated: 2026-09-07T21:01:57.024Z*

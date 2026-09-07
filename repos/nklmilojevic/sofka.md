@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 553 |
-| **Forks** | 🍴 26 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 793 |
+| **Forks** | 🍴 31 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 6, 2026 |
-| **Last Seen** | Sep 6, 2026 |
+| **Last Seen** | Sep 7, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Rust or similar-topics*
+*Similar: Check repositories in Rust or argocd*
 
 ---
 
@@ -47,18 +47,18 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Trending Days**: 2
+- **Longest Streak**: 2 days
 
 ---
 
 ## Categories
 
 ### Topics
-
+[`argocd`](../../topics/argocd.md) [`devops`](../../topics/devops.md) [`eks`](../../topics/eks.md) [`flux`](../../topics/flux.md) [`fluxcd`](../../topics/fluxcd.md) [`gke`](../../topics/gke.md) [`k8s`](../../topics/k8s.md) [`k9s`](../../topics/k9s.md) [`k9s-alternative`](../../topics/k9s-alternative.md) [`kube-rs`](../../topics/kube-rs.md) [`kubectl`](../../topics/kubectl.md) [`kubernetes`](../../topics/kubernetes.md) [`ratatui`](../../topics/ratatui.md) [`sre`](../../topics/sre.md) [`tui`](../../topics/tui.md) 
 
 ### Curated Categories
-`General` 
+`Frontend Development` `DevOps &amp; CI&#x2F;CD` `Containers &amp; Orchestration` `Systems Programming` 
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 40&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-06T21:01:34.955Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-07T21:02:02.310Z*  
+*Data from 2 trending reports*

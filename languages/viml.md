@@ -6,23 +6,27 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 1
+- **Total Repositories**: 2
 - **First Seen**: 2026-08-02
-- **Last Updated**: 2026-08-09
+- **Last Updated**: 2026-09-07
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [yangyangwithgnu/use_vim_as_ide](../repos/yangyangwithgnu/use_vim_as_ide.md) | ⭐ 9,158 | 2026-09-07 | 1 |
 
-*No VimL repositories trending today*
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [yangyangwithgnu/use_vim_as_ide](../repos/yangyangwithgnu/use_vim_as_ide.md) | ⭐ 9,158 | 2026-09-07 | use vim as IDE |
 
-*No new VimL repositories in the last 30 days*
 
 ---
 
@@ -30,6 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [yangyangwithgnu/use_vim_as_ide](../repos/yangyangwithgnu/use_vim_as_ide.md) | ⭐ 9,158 | 2026-09-07 | 1 |
 | [altercation/vim-colors-solarized](../repos/altercation/vim-colors-solarized.md) | ⭐ 6,593 | 2026-08-02 | 5 |
 
 ---
@@ -39,13 +44,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [altercation/vim-colors-solarized](../repos/altercation/vim-colors-solarized.md) | 5 | ⭐ 6,593 | 2026-08-02 | 2026-08-09 |
+| [yangyangwithgnu/use_vim_as_ide](../repos/yangyangwithgnu/use_vim_as_ide.md) | 1 | ⭐ 9,158 | 2026-09-07 | 2026-09-07 |
 
 ---
 
 ## 📋 All VimL Repositories
 
 - [altercation/vim-colors-solarized](../repos/altercation/vim-colors-solarized.md) - precision colorscheme for the vim text editor
+- [yangyangwithgnu/use_vim_as_ide](../repos/yangyangwithgnu/use_vim_as_ide.md) - use vim as IDE
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.349Z*
+*Last updated: 2026-09-07T21:01:57.122Z*

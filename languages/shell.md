@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 99
+- **Total Repositories**: 100
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,52 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,004 | 2026-08-01 | 22 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,016 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 9,755 | 2026-08-03 | 4 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,793 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,390 | 2026-08-04 | 5 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,796 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,792 | 2026-08-05 | 8 |
+| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,233 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,180 | 2026-08-06 | 8 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 4,915 | 2026-08-12 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,503 | 2026-08-07 | 18 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 4,868 | 2026-08-12 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [pystardust/ani-cli](../repos/pystardust/ani-cli.md) | ⭐ 13,729 | 2026-09-06 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [WhatsApp/proxy](../repos/WhatsApp/proxy.md) | ⭐ 2,340 | 2026-09-06 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [hq450/fancyss](../repos/hq450/fancyss.md) | ⭐ 13,735 | 2026-09-06 | 1 |
+| [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) | ⭐ 775 | 2026-09-07 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,794 | 2026-08-08 | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) r... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,592 | 2026-08-08 | Redpill Recovery (arpl-i18n) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,187 | 2026-08-08 | Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [testdouble/han](../repos/testdouble/han.md) | ⭐ 195 | 2026-08-08 | Han: AI skills and agents for &quot;Solo&quot; product engineers and small teams |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) | ⭐ 4,695 | 2026-08-09 | A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI |
@@ -80,6 +56,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent&#x2F;Claude Code&#x2F;Cursor&#x2F;Copilot 等 18 种工具，覆盖工程&#x2F;设计&#x2F;营销&#x2F;金融等 20 个部门... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 4,915 | 2026-08-12 | Talk to one agent. Ship with a crew. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [conversun/fnos-apps](../repos/conversun/fnos-apps.md) | ⭐ 578 | 2026-08-12 | 飞牛 fnOS NAS 第三方应用商店 — 115 款自托管应用的 .fpk 安装包 | Plex, Emby, Jellyfin, qBittorrent, Immich, Sonarr, R... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vinvcn/mattpocock-skills-zh-CN](../repos/vinvcn/mattpocock-skills-zh-CN.md) | ⭐ 3,667 | 2026-08-14 | 这是 mattpocock&#x2F;skills 的简体中文本地化版本。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [harbor-framework/terminal-bench-2-1](../repos/harbor-framework/terminal-bench-2-1.md) | ⭐ 73 | 2026-08-14 | Terminal-Bench 2.1 |
 
 
 ---
@@ -89,7 +77,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,004 | 2026-08-01 | 22 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,016 | 2026-08-01 | 23 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,390 | 2026-08-04 | 5 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,180 | 2026-08-06 | 8 |
@@ -115,15 +103,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 22 | ⭐ 95,004 | 2026-08-01 | 2026-09-06 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 23 | ⭐ 95,016 | 2026-08-01 | 2026-09-07 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [expo/skills](../repos/expo/skills.md) | 18 | ⭐ 2,503 | 2026-08-07 | 2026-09-06 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 13 | ⭐ 4,378 | 2026-08-01 | 2026-09-01 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 11 | ⭐ 11,138 | 2026-08-04 | 2026-09-05 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 10 | ⭐ 4,868 | 2026-08-12 | 2026-09-06 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 11 | ⭐ 4,915 | 2026-08-12 | 2026-09-07 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 9 | ⭐ 25,582 | 2026-08-04 | 2026-09-01 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | 9 | ⭐ 2,796 | 2026-08-05 | 2026-09-07 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 8 | ⭐ 2,192 | 2026-08-02 | 2026-08-27 |
-| [cloudflare/skills](../repos/cloudflare/skills.md) | 8 | ⭐ 2,792 | 2026-08-05 | 2026-09-06 |
 | [dockur/windows](../repos/dockur/windows.md) | 8 | ⭐ 53,180 | 2026-08-06 | 2026-09-06 |
 
 ---
@@ -229,7 +217,8 @@
 - [hq450/fancyss](../repos/hq450/fancyss.md) - fancyss is a project providing tools to across the GFW on asuswrt&#x2F;merlin based router.
 - [aditya-shri/VPN](../repos/aditya-shri/VPN.md) - Personal VPN using Shadowsocks and v2ray
 - [sabamdarif/termux-desktop](../repos/sabamdarif/termux-desktop.md) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) a...
+- [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) - 面向数学建模竞赛的 Claude Code &#x2F; Codex Skills ，支持分阶段建模流程与 Python、MATLAB&#x2F;北太天元代码分支。
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.339Z*
+*Last updated: 2026-09-07T21:01:57.107Z*

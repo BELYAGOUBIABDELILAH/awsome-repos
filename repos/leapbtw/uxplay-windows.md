@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | PowerShell |
+| **Language** | C++ |
 | **License** | Not specified |
-| **Stars** | ⭐ 674 |
-| **Forks** | 🍴 197 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 683 |
+| **Forks** | 🍴 198 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Sep 5, 2026 |
+| **Last Seen** | Sep 7, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in PowerShell or airplay*
+*Similar: Check repositories in C++ or airplay*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 2 days
 
 ---
@@ -68,12 +68,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
+| **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
 - General purpose
@@ -81,7 +81,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in PowerShell
+- Check similar projects in C++
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-06T21:01:33.122Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-09-07T21:01:59.736Z*  
+*Data from 10 trending reports*

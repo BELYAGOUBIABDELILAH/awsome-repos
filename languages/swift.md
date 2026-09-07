@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 96
+- **Total Repositories**: 98
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-27
 
@@ -16,43 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 49,723 | 2026-08-01 | 12 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,994 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift-syntax](../repos/swiftlang/swift-syntax.md) | ⭐ 3,696 | 2026-08-04 | 2 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,947 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 6,276 | 2026-08-04 | 5 |
+| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 6,298 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frankea/Whisky](../repos/frankea/Whisky.md) | ⭐ 650 | 2026-08-08 | 5 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,312 | 2026-08-17 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,304 | 2026-08-17 | 4 |
+| [Manic-EMU/ManicEMU](../repos/Manic-EMU/ManicEMU.md) | ⭐ 483 | 2026-09-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 2,284 | 2026-09-01 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,510 | 2026-09-06 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,116 | 2026-09-06 | 1 |
+| [PlayCover/PlayCover](../repos/PlayCover/PlayCover.md) | ⭐ 11,700 | 2026-09-07 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,244 | 2026-08-08 | macOS video editor built for AI |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,914 | 2026-08-08 | Containerization is a Swift package for running Linux containers on macOS. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [frankea/Whisky](../repos/frankea/Whisky.md) | ⭐ 650 | 2026-08-08 | Active community fork of the archived whisky-app&#x2F;whisky — a modern Wine wrapper for macOS built w... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rime/squirrel](../repos/rime/squirrel.md) | ⭐ 6,284 | 2026-08-09 | 【鼠鬚管】Rime for macOS |
@@ -74,6 +59,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ml-explore/mlx-swift-lm](../repos/ml-explore/mlx-swift-lm.md) | ⭐ 781 | 2026-08-11 | LLMs and VLMs with MLX Swift |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 1,972 | 2026-08-12 | Model export recipes, Python primitives, and Swift runtime utilities for on-device AI |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,471 | 2026-08-12 | Lightweight clipboard manager for macOS |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lihaoyun6/QuickRecorder](../repos/lihaoyun6/QuickRecorder.md) | ⭐ 8,578 | 2026-08-12 | A lightweight screen recorder based on ScreenCapture Kit for macOS &#x2F; 基于 ScreenCapture Kit 的轻量化多功能... |
 
 
 ---
@@ -98,7 +92,7 @@
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,892 | 2026-08-04 | 12 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,482 | 2026-08-24 | 5 |
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,304 | 2026-08-17 | 4 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,312 | 2026-08-17 | 5 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,244 | 2026-08-08 | 6 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,758 | 2026-08-01 | 2 |
 | [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,422 | 2026-08-17 | 2 |
@@ -109,7 +103,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 14 | ⭐ 11,926 | 2026-08-01 | 2026-09-05 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 15 | ⭐ 11,994 | 2026-08-01 | 2026-09-07 |
 | [apple/container](../repos/apple/container.md) | 12 | ⭐ 49,723 | 2026-08-01 | 2026-09-06 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 12 | ⭐ 14,892 | 2026-08-04 | 2026-08-29 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 10 | ⭐ 26,820 | 2026-08-01 | 2026-09-05 |
@@ -220,7 +214,9 @@
 - [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - [iliyami/MacSai](../repos/iliyami/MacSai.md) - Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alt...
 - [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) - A modern Wine wrapper for macOS built with SwiftUI
+- [Manic-EMU/ManicEMU](../repos/Manic-EMU/ManicEMU.md) - Manic EMU is an all-in-one retro game emulator for iOS. It packs powerful features while keeping ...
+- [PlayCover/PlayCover](../repos/PlayCover/PlayCover.md) - Community fork of PlayCover
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.341Z*
+*Last updated: 2026-09-07T21:01:57.111Z*

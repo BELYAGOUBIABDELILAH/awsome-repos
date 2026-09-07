@@ -1,0 +1,95 @@
+# so-fancy&#x2F;diff-so-fancy
+
+> Make your diffs human readable for improved code quality and faster defect detection. :tada:
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;so-fancy&#x2F;diff-so-fancy) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | Perl |
+| **License** | MIT |
+| **Stars** | ⭐ 18,090 |
+| **Forks** | 🍴 348 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Sep 7, 2026 |
+| **Last Seen** | Sep 7, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in Perl or diff*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`diff`](../../topics/diff.md) [`diff-highlight`](../../topics/diff-highlight.md) [`diffs`](../../topics/diffs.md) [`fancy`](../../topics/fancy.md) [`git`](../../topics/git.md) [`hacktoberfest`](../../topics/hacktoberfest.md) 
+
+### Curated Categories
+`Systems Programming` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
+| **Maturity** | Stable | Mature with proven track record |
+| **Maintenance** | Active | Regular updates |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in Perl
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-09-07T21:02:02.383Z*  
+*Data from 1 trending reports*

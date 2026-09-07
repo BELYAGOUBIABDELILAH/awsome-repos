@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 29
+- **Total Repositories**: 30
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-05
+- **Last Updated**: 2026-09-07
 
 ---
 
@@ -16,28 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 591 | 2026-08-01 | 14 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,736 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,668 | 2026-08-01 | 27 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 592 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,009 | 2026-08-01 | 26 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,671 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [os-autoinst/os-autoinst-distri-opensuse](../repos/os-autoinst/os-autoinst-distri-opensuse.md) | ⭐ 92 | 2026-08-05 | 6 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,515 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 3 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,012 | 2026-08-01 | 27 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,903 | 2026-08-02 | 9 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | ⭐ 364 | 2026-08-02 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [so-fancy/diff-so-fancy](../repos/so-fancy/diff-so-fancy.md) | ⭐ 18,090 | 2026-09-07 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [linux-test-project/lcov](../repos/linux-test-project/lcov.md) | ⭐ 1,106 | 2026-08-08 | LCOV |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [LMS-Community/slimserver](../repos/LMS-Community/slimserver.md) | ⭐ 1,750 | 2026-08-09 | Server for Squeezebox and compatible players. This server is also called Lyrion Music Server. |
@@ -65,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [acl-org/ACLPUB](../repos/acl-org/ACLPUB.md) | ⭐ 252 | 2026-08-28 | The official tool for creating proceedings for conferences of the Association for Computational L... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nginx/nginx-tests](../repos/nginx/nginx-tests.md) | ⭐ 135 | 2026-09-01 | Test suite for nginx. |
 
 
 ---
@@ -73,26 +85,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,733 | 2026-08-01 | 30 |
-| [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 3 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,009 | 2026-08-01 | 26 |
-| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,884 | 2026-08-02 | 8 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,736 | 2026-08-01 | 31 |
+| [so-fancy/diff-so-fancy](../repos/so-fancy/diff-so-fancy.md) | ⭐ 18,090 | 2026-09-07 | 1 |
+| [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 4 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,012 | 2026-08-01 | 27 |
+| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,903 | 2026-08-02 | 9 |
 | [ddclient/ddclient](../repos/ddclient/ddclient.md) | ⭐ 3,517 | 2026-08-10 | 5 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,668 | 2026-08-01 | 27 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,671 | 2026-08-01 | 28 |
 | [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,324 | 2026-08-03 | 18 |
 | [LMS-Community/slimserver](../repos/LMS-Community/slimserver.md) | ⭐ 1,750 | 2026-08-09 | 1 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,678 | 2026-08-01 | 16 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,514 | 2026-08-01 | 17 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,515 | 2026-08-01 | 18 |
 | [mrash/fwknop](../repos/mrash/fwknop.md) | ⭐ 1,441 | 2026-08-22 | 3 |
 | [asbru-cm/asbru-cm](../repos/asbru-cm/asbru-cm.md) | ⭐ 1,294 | 2026-08-03 | 3 |
 | [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,144 | 2026-08-01 | 13 |
 | [linux-test-project/lcov](../repos/linux-test-project/lcov.md) | ⭐ 1,106 | 2026-08-08 | 2 |
 | [aspiers/stow](../repos/aspiers/stow.md) | ⭐ 1,104 | 2026-08-26 | 2 |
-| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 591 | 2026-08-01 | 14 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 592 | 2026-08-01 | 15 |
 | [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 484 | 2026-08-01 | 24 |
-| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | ⭐ 364 | 2026-08-02 | 14 |
+| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | ⭐ 364 | 2026-08-02 | 15 |
 | [ko-ichi-h/khcoder](../repos/ko-ichi-h/khcoder.md) | ⭐ 335 | 2026-08-26 | 1 |
-| [centreon/centreon-plugins](../repos/centreon/centreon-plugins.md) | ⭐ 334 | 2026-08-15 | 1 |
 
 ---
 
@@ -100,16 +112,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 30 | ⭐ 19,733 | 2026-08-01 | 2026-09-05 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 27 | ⭐ 2,668 | 2026-08-01 | 2026-09-06 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 26 | ⭐ 5,009 | 2026-08-01 | 2026-09-06 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 31 | ⭐ 19,736 | 2026-08-01 | 2026-09-07 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 28 | ⭐ 2,671 | 2026-08-01 | 2026-09-07 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 27 | ⭐ 5,012 | 2026-08-01 | 2026-09-07 |
 | [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 24 | ⭐ 484 | 2026-08-01 | 2026-09-05 |
 | [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | 19 | ⭐ 263 | 2026-08-02 | 2026-08-29 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 18 | ⭐ 1,515 | 2026-08-01 | 2026-09-07 |
 | [Perl/perl5](../repos/Perl/perl5.md) | 18 | ⭐ 2,324 | 2026-08-03 | 2026-09-05 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 17 | ⭐ 1,514 | 2026-08-01 | 2026-09-05 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 16 | ⭐ 1,678 | 2026-08-01 | 2026-08-29 |
-| [znuny/Znuny](../repos/znuny/Znuny.md) | 14 | ⭐ 591 | 2026-08-01 | 2026-09-06 |
-| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | 14 | ⭐ 364 | 2026-08-02 | 2026-08-26 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | 15 | ⭐ 592 | 2026-08-01 | 2026-09-07 |
+| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | 15 | ⭐ 364 | 2026-08-02 | 2026-09-07 |
 
 ---
 
@@ -144,7 +156,8 @@
 - [acl-org/ACLPUB](../repos/acl-org/ACLPUB.md) - The official tool for creating proceedings for conferences of the Association for Computational L...
 - [nginx/nginx-tests](../repos/nginx/nginx-tests.md) - Test suite for nginx.
 - [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) - MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and mak...
+- [so-fancy/diff-so-fancy](../repos/so-fancy/diff-so-fancy.md) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.327Z*
+*Last updated: 2026-09-07T21:01:57.090Z*

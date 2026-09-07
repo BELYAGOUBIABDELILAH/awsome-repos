@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 84
+- **Total Repositories**: 85
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,651 | 2026-08-01 | 12 |
+| [maderix/ANE](../repos/maderix/ANE.md) | ⭐ 7,253 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,829 | 2026-08-01 | 21 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,830 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 23 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 134 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 23 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 59 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 22 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,632 | 2026-08-01 | 24 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,632 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,116 | 2026-08-02 | 16 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,125 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 709 | 2026-08-02 | 11 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 710 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,721 | 2026-08-02 | 6 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,237 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 506 | 2026-08-02 | 9 |
+| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,528 | 2026-08-04 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [facebookincubator/SocketRocket](../repos/facebookincubator/SocketRocket.md) | ⭐ 9,605 | 2026-08-08 | A conforming Objective-C WebSocket client library. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | ⭐ 2,029 | 2026-08-08 | iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [muxinc/mux-stats-sdk-avplayer](../repos/muxinc/mux-stats-sdk-avplayer.md) | ⭐ 49 | 2026-08-08 | Mux integration with &#x60;AVPlayer&#x60; for native iOS, tvOS, and visionOS applications |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [roothide/Developer](../repos/roothide/Developer.md) | ⭐ 519 | 2026-08-09 | document for tweak Developers |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Subito-it/SBTUITestTunnel](../repos/Subito-it/SBTUITestTunnel.md) | ⭐ 371 | 2026-08-14 | Enable network mocks and more in UI Tests |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Giphy/giphy-ios-sdk](../repos/Giphy/giphy-ios-sdk.md) | ⭐ 132 | 2026-08-15 | Home of the GIPHY SDK iOS example app, along with iOS SDK documentation, issue tracking, &amp; releas... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [stripe/stripe-terminal-ios](../repos/stripe/stripe-terminal-ios.md) | ⭐ 133 | 2026-08-15 | Stripe Terminal iOS SDK |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [datatheorem/TrustKit](../repos/datatheorem/TrustKit.md) | ⭐ 2,140 | 2026-08-19 | Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS. |
 
 
 ---
@@ -90,8 +90,8 @@
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,387 | 2026-08-02 | 5 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,632 | 2026-08-01 | 24 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,116 | 2026-08-02 | 16 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,632 | 2026-08-01 | 25 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,125 | 2026-08-02 | 17 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,611 | 2026-08-04 | 15 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,059 | 2026-08-04 | 10 |
@@ -115,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 24 | ⭐ 25,632 | 2026-08-01 | 2026-09-06 |
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 23 | ⭐ 134 | 2026-08-01 | 2026-09-06 |
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 23 | ⭐ 59 | 2026-08-01 | 2026-09-06 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 22 | ⭐ 292 | 2026-08-01 | 2026-09-06 |
-| [google/promises](../repos/google/promises.md) | 21 | ⭐ 3,829 | 2026-08-01 | 2026-09-06 |
-| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 18 | ⭐ 2,029 | 2026-08-08 | 2026-09-06 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 25 | ⭐ 25,632 | 2026-08-01 | 2026-09-07 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 24 | ⭐ 134 | 2026-08-01 | 2026-09-07 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 24 | ⭐ 59 | 2026-08-01 | 2026-09-07 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 23 | ⭐ 292 | 2026-08-01 | 2026-09-07 |
+| [google/promises](../repos/google/promises.md) | 22 | ⭐ 3,830 | 2026-08-01 | 2026-09-07 |
+| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 19 | ⭐ 2,029 | 2026-08-08 | 2026-09-07 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 17 | ⭐ 22,125 | 2026-08-02 | 2026-09-07 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 17 | ⭐ 675 | 2026-08-04 | 2026-09-05 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 16 | ⭐ 22,116 | 2026-08-02 | 2026-09-06 |
 | [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 16 | ⭐ 4,494 | 2026-08-05 | 2026-09-04 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 15 | ⭐ 16,611 | 2026-08-04 | 2026-09-04 |
 
@@ -214,7 +214,8 @@
 - [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) - An easy way to use pull-to-refresh.
 - [julienXX/terminal-notifier](../repos/julienXX/terminal-notifier.md) - Send User Notifications on macOS from the command-line.
 - [SnapKit/Masonry](../repos/SnapKit/Masonry.md) - Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive s...
+- [MacPass/MacPass](../repos/MacPass/MacPass.md) - A native macOS KeePass client 
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.323Z*
+*Last updated: 2026-09-07T21:01:57.084Z*

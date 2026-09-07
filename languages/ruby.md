@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,793 | 2026-08-01 | 24 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,705 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,702 | 2026-08-01 | 13 |
+| [spree/spree](../repos/spree/spree.md) | ⭐ 15,672 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spree/spree](../repos/spree/spree.md) | ⭐ 15,671 | 2026-08-01 | 19 |
+| [instructure/canvas-lms](../repos/instructure/canvas-lms.md) | ⭐ 6,800 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,680 | 2026-08-01 | 15 |
+| [antiwork/gumroad](../repos/antiwork/gumroad.md) | ⭐ 9,668 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,760 | 2026-08-01 | 14 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,681 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [we-promise/sure](../repos/we-promise/sure.md) | ⭐ 9,736 | 2026-08-02 | 17 |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,760 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rubocop/rubocop](../repos/rubocop/rubocop.md) | ⭐ 12,893 | 2026-08-02 | 8 |
+| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 38,956 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,068 | 2026-08-04 | 17 |
+| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,464 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [citation-style-language/styles](../repos/citation-style-language/styles.md) | ⭐ 3,888 | 2026-08-11 | 6 |
+| [googleapis/google-api-ruby-client](../repos/googleapis/google-api-ruby-client.md) | ⭐ 2,897 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [otwcode/otwarchive](../repos/otwcode/otwarchive.md) | ⭐ 2,210 | 2026-08-19 | 2 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,075 | 2026-08-04 | 18 |
 
 
 ---
@@ -52,16 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [basecamp/fizzy](../repos/basecamp/fizzy.md) | ⭐ 8,178 | 2026-08-08 | Kanban as it should be. Not as it has been. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rails/activeresource](../repos/rails/activeresource.md) | ⭐ 1,401 | 2026-08-08 | Connects business objects and REST web services |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openstreetmap/openstreetmap-website](../repos/openstreetmap/openstreetmap-website.md) | ⭐ 2,796 | 2026-08-08 | The Rails application that powers OpenStreetMap |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [github/explore](../repos/github/explore.md) | ⭐ 4,873 | 2026-08-09 | Community-curated topic and collection pages on GitHub |
+| [github/explore](../repos/github/explore.md) | ⭐ 4,879 | 2026-08-09 | Community-curated topic and collection pages on GitHub |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [manyfold3d/manyfold](../repos/manyfold3d/manyfold.md) | ⭐ 2,117 | 2026-08-09 | A self-hosted digital asset manager for 3d print files. |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [basecamp/writebook](../repos/basecamp/writebook.md) | ⭐ 534 | 2026-08-09 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cloudfoundry/bosh-linux-stemcell-builder](../repos/cloudfoundry/bosh-linux-stemcell-builder.md) | ⭐ 50 | 2026-08-09 | BOSH Ubuntu Linux stemcells  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Multiwoven/multiwoven](../repos/Multiwoven/multiwoven.md) | ⭐ 1,666 | 2026-08-10 | 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census.  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [greasyfork-org/greasyfork](../repos/greasyfork-org/greasyfork.md) | ⭐ 2,049 | 2026-08-10 | An online repository of user scripts. |
 
 
 ---
@@ -92,20 +92,20 @@
 | [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,659 | 2026-08-03 | 10 |
 | [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,900 | 2026-08-01 | 14 |
 | [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,793 | 2026-08-01 | 24 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,068 | 2026-08-04 | 17 |
-| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 38,931 | 2026-08-01 | 19 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,075 | 2026-08-04 | 18 |
+| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 38,956 | 2026-08-01 | 20 |
 | [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,200 | 2026-08-05 | 3 |
 | [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,549 | 2026-08-01 | 9 |
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,702 | 2026-08-01 | 13 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,705 | 2026-08-01 | 14 |
 | [forem/forem](../repos/forem/forem.md) | ⭐ 22,773 | 2026-08-04 | 6 |
-| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,438 | 2026-08-02 | 13 |
+| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,464 | 2026-08-02 | 14 |
 | [postalserver/postal](../repos/postalserver/postal.md) | ⭐ 16,781 | 2026-08-04 | 7 |
 | [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,030 | 2026-08-01 | 21 |
-| [spree/spree](../repos/spree/spree.md) | ⭐ 15,671 | 2026-08-01 | 19 |
+| [spree/spree](../repos/spree/spree.md) | ⭐ 15,672 | 2026-08-01 | 20 |
 | [CocoaPods/CocoaPods](../repos/CocoaPods/CocoaPods.md) | ⭐ 14,831 | 2026-09-02 | 1 |
 | [basecamp/kamal](../repos/basecamp/kamal.md) | ⭐ 14,549 | 2026-08-12 | 6 |
 | [neutraltone/awesome-stock-resources](../repos/neutraltone/awesome-stock-resources.md) | ⭐ 14,514 | 2026-09-04 | 1 |
-| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,680 | 2026-08-01 | 15 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,681 | 2026-08-01 | 16 |
 | [sidekiq/sidekiq](../repos/sidekiq/sidekiq.md) | ⭐ 13,554 | 2026-08-05 | 6 |
 | [rubocop/rubocop](../repos/rubocop/rubocop.md) | ⭐ 12,893 | 2026-08-02 | 8 |
 
@@ -118,13 +118,13 @@
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 25 | ⭐ 1,071 | 2026-08-01 | 2026-09-03 |
 | [discourse/discourse](../repos/discourse/discourse.md) | 24 | ⭐ 47,793 | 2026-08-01 | 2026-09-06 |
 | [opf/openproject](../repos/opf/openproject.md) | 21 | ⭐ 16,030 | 2026-08-01 | 2026-09-05 |
-| [spree/spree](../repos/spree/spree.md) | 19 | ⭐ 15,671 | 2026-08-01 | 2026-09-06 |
-| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | 19 | ⭐ 38,931 | 2026-08-01 | 2026-09-03 |
+| [spree/spree](../repos/spree/spree.md) | 20 | ⭐ 15,672 | 2026-08-01 | 2026-09-07 |
+| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | 20 | ⭐ 38,956 | 2026-08-01 | 2026-09-07 |
 | [rails/rails](../repos/rails/rails.md) | 18 | ⭐ 58,753 | 2026-08-02 | 2026-09-05 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 18 | ⭐ 42,075 | 2026-08-04 | 2026-09-07 |
 | [we-promise/sure](../repos/we-promise/sure.md) | 17 | ⭐ 9,736 | 2026-08-02 | 2026-09-06 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 17 | ⭐ 42,068 | 2026-08-04 | 2026-09-06 |
-| [github-linguist/linguist](../repos/github-linguist/linguist.md) | 15 | ⭐ 13,680 | 2026-08-01 | 2026-09-06 |
-| [huginn/huginn](../repos/huginn/huginn.md) | 14 | ⭐ 49,900 | 2026-08-01 | 2026-09-05 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | 16 | ⭐ 13,681 | 2026-08-01 | 2026-09-07 |
+| [antiwork/gumroad](../repos/antiwork/gumroad.md) | 15 | ⭐ 9,668 | 2026-08-01 | 2026-09-07 |
 
 ---
 
@@ -216,4 +216,4 @@
 
 ---
 
-*Last updated: 2026-09-06T21:01:31.334Z*
+*Last updated: 2026-09-07T21:01:57.100Z*
