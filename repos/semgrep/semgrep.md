@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | OCaml |
 | **License** | LGPL-2.1 |
-| **Stars** | ⭐ 16,540 |
-| **Forks** | 🍴 1,050 |
-| **Trending Days** | 32 |
+| **Stars** | ⭐ 16,549 |
+| **Forks** | 🍴 1,051 |
+| **Trending Days** | 33 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 7, 2026 |
+| **Last Seen** | Sep 8, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 32
+- **Trending Days**: 33
 - **Longest Streak**: 11 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:59.269Z*  
-*Data from 32 trending reports*
+*Last updated: 2026-09-08T21:01:52.007Z*  
+*Data from 33 trending reports*

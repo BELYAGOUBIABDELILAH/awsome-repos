@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 138
+- **Total Repositories**: 140
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-07
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,112 | 2026-08-01 | 11 |
+| [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 10,846 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,647 | 2026-08-02 | 18 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,097 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 25,663 | 2026-08-02 | 20 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,123 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) | ⭐ 13,912 | 2026-08-02 | 3 |
+| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,631 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,382 | 2026-08-03 | 16 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,742 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 9,379 | 2026-08-04 | 10 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,058 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rmcrackan/Libation](../repos/rmcrackan/Libation.md) | ⭐ 6,152 | 2026-08-11 | 2 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,385 | 2026-08-03 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 9,432 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TeamWheelWizard/WheelWizard](../repos/TeamWheelWizard/WheelWizard.md) | ⭐ 661 | 2026-08-27 | 5 |
+| [Unity-Technologies/skills](../repos/Unity-Technologies/skills.md) | ⭐ 753 | 2026-08-14 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ed0ard/CS2-Bot-Improver](../repos/ed0ard/CS2-Bot-Improver.md) | ⭐ 1,096 | 2026-09-05 | 3 |
+| [YSGStudyHards/DotNetGuide](../repos/YSGStudyHards/DotNetGuide.md) | ⭐ 10,893 | 2026-08-15 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [StartupHakk/OpenMonoAgent.ai](../repos/StartupHakk/OpenMonoAgent.ai.md) | ⭐ 1,734 | 2026-08-09 | (BETA) AI shouldn&#39;t have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it fro... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [UnigramDev/Unigram](../repos/UnigramDev/Unigram.md) | ⭐ 5,345 | 2026-08-09 | Telegram for Windows |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [LibreHardwareMonitor/LibreHardwareMonitor](../repos/LibreHardwareMonitor/LibreHardwareMonitor.md) | ⭐ 8,943 | 2026-08-09 | Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, vol... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 8,593 | 2026-08-09 | Unity &#x2F; XNA game patcher and plugin framework |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [shinyflvre/VRCNext](../repos/shinyflvre/VRCNext.md) | ⭐ 159 | 2026-08-10 | VRCN is a VRChat launcher for Windows that includes various useful tools within a clean interface... |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [builtbybel/FlyOOBE](../repos/builtbybel/FlyOOBE.md) | ⭐ 7,253 | 2026-08-11 | Fly through your Windows 11 setup 🐝 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Decimation/SmartImage](../repos/Decimation/SmartImage.md) | ⭐ 1,299 | 2026-08-11 | Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dotnet/sdk](../repos/dotnet/sdk.md) | ⭐ 3,187 | 2026-08-11 | Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Tichau/FileConverter](../repos/Tichau/FileConverter.md) | ⭐ 15,165 | 2026-08-11 | File Converter is a very simple tool which allows you to convert and compress files using the con... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rmcrackan/Libation](../repos/rmcrackan/Libation.md) | ⭐ 6,152 | 2026-08-11 | Libation: Liberate your Library |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,647 | 2026-08-02 | 18 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,591 | 2026-08-02 | 14 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,742 | 2026-08-02 | 15 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,144 | 2026-08-06 | 7 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,819 | 2026-08-01 | 6 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,194 | 2026-08-14 | 2 |
@@ -101,13 +101,13 @@
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,509 | 2026-08-05 | 8 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,603 | 2026-08-10 | 3 |
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,018 | 2026-08-02 | 5 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,058 | 2026-08-02 | 6 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,992 | 2026-08-01 | 5 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 25,663 | 2026-08-02 | 20 |
-| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,553 | 2026-08-27 | 2 |
+| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,628 | 2026-08-27 | 3 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,315 | 2026-08-04 | 3 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,625 | 2026-08-01 | 6 |
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,044 | 2026-08-01 | 7 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,097 | 2026-08-01 | 8 |
 
 ---
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 20 | ⭐ 25,663 | 2026-08-02 | 2026-09-07 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 18 | ⭐ 115,647 | 2026-08-02 | 2026-09-07 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 16 | ⭐ 5,382 | 2026-08-03 | 2026-09-07 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 14 | ⭐ 56,591 | 2026-08-02 | 2026-09-06 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 17 | ⭐ 5,385 | 2026-08-03 | 2026-09-08 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 15 | ⭐ 56,742 | 2026-08-02 | 2026-09-08 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 13 | ⭐ 30,138 | 2026-08-01 | 2026-09-06 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 12 | ⭐ 14,123 | 2026-08-01 | 2026-09-08 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 12 | ⭐ 15,332 | 2026-08-02 | 2026-09-03 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 11 | ⭐ 3,642 | 2026-08-01 | 2026-09-04 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 11 | ⭐ 38,411 | 2026-08-01 | 2026-09-01 |
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 11 | ⭐ 14,112 | 2026-08-01 | 2026-09-07 |
-| [microsoft/aspire](../repos/microsoft/aspire.md) | 11 | ⭐ 6,287 | 2026-08-05 | 2026-09-05 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | 11 | ⭐ 9,432 | 2026-08-04 | 2026-09-08 |
 
 ---
 
@@ -169,7 +169,6 @@
 - [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 - [dotnet/efcore](../repos/dotnet/efcore.md) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, u...
 - [actions/runner](../repos/actions/runner.md) - The Runner for GitHub Actions :rocket:
-- [Dailin521/codex-provider-sync](../repos/Dailin521/codex-provider-sync.md) - Synchronize Codex session provider metadata across rollout files and SQLite state.
 - [space-wizards/space-station-14](../repos/space-wizards/space-station-14.md) - A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space ...
 - [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) - An alternative bootstrapper for Roblox with a bunch of extra features.
 - [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and oth...
@@ -230,7 +229,8 @@
 - [YSGStudyHards/DotNetGuide](../repos/YSGStudyHards/DotNetGuide.md) - 🌈【C#&#x2F;.NET&#x2F;.NET Core学习、工作、面试指南】记录、收集和总结C#&#x2F;.NET&#x2F;.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组...
 - [dotnet/orleans](../repos/dotnet/orleans.md) - Cloud Native application framework for .NET
 - [database64128/youtube-dl-wpf](../repos/database64128/youtube-dl-wpf.md) - WPF GUI for youtube-dl and yt-dlp.
+- [Bannerlord-Coop-Team/BannerlordCoop](../repos/Bannerlord-Coop-Team/BannerlordCoop.md) - 
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.021Z*
+*Last updated: 2026-09-08T21:01:49.776Z*

@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [luanfujun/deep-photo-styletransfer](../repos/luanfujun/deep-photo-styletransfer.md) | ⭐ 9,989 | 2026-09-07 | 1 |
 
+*No Matlab repositories trending today*
 
 ---
 
@@ -52,4 +50,4 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.077Z*
+*Last updated: 2026-09-08T21:01:49.838Z*

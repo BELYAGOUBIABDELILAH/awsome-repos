@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 171
+- **Total Repositories**: 174
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-02
 
@@ -16,61 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,981 | 2026-08-01 | 9 |
+| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,983 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,926 | 2026-08-02 | 12 |
+| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,195 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,887 | 2026-08-02 | 7 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,951 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) | ⭐ 678 | 2026-08-02 | 5 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,675 | 2026-08-07 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HandBrake/HandBrake](../repos/HandBrake/HandBrake.md) | ⭐ 24,306 | 2026-08-03 | 3 |
+| [asterisk/asterisk](../repos/asterisk/asterisk.md) | ⭐ 3,516 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [immortalwrt/immortalwrt](../repos/immortalwrt/immortalwrt.md) | ⭐ 11,560 | 2026-08-03 | 3 |
+| [tianocore/edk2](../repos/tianocore/edk2.md) | ⭐ 6,233 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openzfs/zfs](../repos/openzfs/zfs.md) | ⭐ 12,448 | 2026-08-04 | 2 |
+| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 22,953 | 2026-08-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git/git](../repos/git/git.md) | ⭐ 63,056 | 2026-08-05 | 4 |
+| [bol-van/zapret2](../repos/bol-van/zapret2.md) | ⭐ 5,415 | 2026-08-16 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [betaflight/betaflight](../repos/betaflight/betaflight.md) | ⭐ 11,508 | 2026-08-05 | 2 |
+| [Sor3nt/Flipper-Zero-ESP32-Port](../repos/Sor3nt/Flipper-Zero-ESP32-Port.md) | ⭐ 443 | 2026-08-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [86Box/86Box](../repos/86Box/86Box.md) | ⭐ 4,774 | 2026-08-09 | 3 |
+| [HarbourMasters/Shipwright](../repos/HarbourMasters/Shipwright.md) | ⭐ 5,334 | 2026-08-24 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [veracrypt/VeraCrypt](../repos/veracrypt/VeraCrypt.md) | ⭐ 11,472 | 2026-08-09 | Disk encryption with strong security based on TrueCrypt |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,285 | 2026-08-09 | This repository is a mirror of https:&#x2F;&#x2F;git.openwrt.org&#x2F;openwrt&#x2F;openwrt.git It is for reference on... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [86Box/86Box](../repos/86Box/86Box.md) | ⭐ 4,774 | 2026-08-09 | Emulator of x86-based machines. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [FWGS/xash3d-fwgs](../repos/FWGS/xash3d-fwgs.md) | ⭐ 2,736 | 2026-08-09 | Xash3D FWGS engine |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [arendst/Tasmota](../repos/arendst/Tasmota.md) | ⭐ 24,741 | 2026-08-09 | Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader/sumatrapdf.md) | ⭐ 17,379 | 2026-08-09 | SumatraPDF reader |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [libusb/libusb](../repos/libusb/libusb.md) | ⭐ 6,127 | 2026-08-09 | A cross-platform library to access USB devices  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [HermannBjorgvin/Clawdmeter](../repos/HermannBjorgvin/Clawdmeter.md) | ⭐ 2,030 | 2026-08-10 | ESP32 desk dashboard that shows Claude Code usage |
@@ -80,6 +59,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ExpressLRS/ExpressLRS](../repos/ExpressLRS/ExpressLRS.md) | ⭐ 5,229 | 2026-08-10 | High Performance Open Source Radio Control Link |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SchedMD/slurm](../repos/SchedMD/slurm.md) | ⭐ 4,311 | 2026-08-11 | Slurm: A Highly Scalable Workload Manager |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [memovai/mimiclaw](../repos/memovai/mimiclaw.md) | ⭐ 5,701 | 2026-08-11 | MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. H... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 18,938 | 2026-08-12 | Espressif IoT Development Framework. Official development framework for Espressif SoCs. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 22,953 | 2026-08-12 | Open-source vector similarity search for Postgres |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [espressif/esp-claw](../repos/espressif/esp-claw.md) | ⭐ 2,091 | 2026-08-12 | ESP-Claw, a &quot;Chat Coding&quot; AI agent framework for IoT devices |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [u-boot/u-boot](../repos/u-boot/u-boot.md) | ⭐ 5,231 | 2026-08-14 | &quot;Das U-Boot&quot; Source Tree |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [eclipse-mosquitto/mosquitto](../repos/eclipse-mosquitto/mosquitto.md) | ⭐ 11,134 | 2026-08-14 | Eclipse Mosquitto - An open source MQTT broker |
 
 
 ---
@@ -95,14 +95,14 @@
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,926 | 2026-08-02 | 12 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 69,737 | 2026-08-01 | 15 |
 | [git/git](../repos/git/git.md) | ⭐ 63,056 | 2026-08-05 | 4 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,331 | 2026-08-07 | 15 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,675 | 2026-08-07 | 16 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,314 | 2026-08-01 | 4 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,887 | 2026-08-02 | 7 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | 6 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,501 | 2026-08-03 | 4 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,803 | 2026-09-06 | 1 |
-| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,096 | 2026-08-01 | 3 |
+| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,195 | 2026-08-01 | 4 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 32,007 | 2026-08-17 | 1 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,565 | 2026-08-02 | 5 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 16 | ⭐ 138,429 | 2026-08-01 | 2026-09-05 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 16 | ⭐ 42,675 | 2026-08-07 | 2026-09-08 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 15 | ⭐ 69,737 | 2026-08-01 | 2026-09-05 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 15 | ⭐ 42,331 | 2026-08-07 | 2026-09-05 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 14 | ⭐ 6,951 | 2026-08-04 | 2026-09-08 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 14 | ⭐ 27,719 | 2026-08-07 | 2026-09-06 |
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 13 | ⭐ 6,943 | 2026-08-04 | 2026-09-06 |
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 13 | ⭐ 16,379 | 2026-08-06 | 2026-09-02 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 12 | ⭐ 75,926 | 2026-08-02 | 2026-09-07 |
 | [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 11 | ⭐ 4,473 | 2026-08-04 | 2026-09-05 |
+| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | 10 | ⭐ 12,983 | 2026-08-01 | 2026-09-08 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 10 | ⭐ 148,747 | 2026-08-07 | 2026-09-02 |
-| [libuv/libuv](../repos/libuv/libuv.md) | 9 | ⭐ 27,144 | 2026-08-01 | 2026-08-29 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.016Z*
+*Last updated: 2026-09-08T21:01:49.771Z*

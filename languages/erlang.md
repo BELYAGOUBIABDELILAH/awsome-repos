@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 15
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-07
+- **Last Updated**: 2026-09-08
 
 ---
 
@@ -16,10 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,348 | 2026-08-01 | 29 |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,351 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,699 | 2026-08-01 | 27 |
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,699 | 2026-08-01 | 28 |
 
 
 ---
@@ -37,8 +37,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,699 | 2026-08-01 | 27 |
-| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,348 | 2026-08-01 | 29 |
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,699 | 2026-08-01 | 28 |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,351 | 2026-08-01 | 30 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | ⭐ 7,524 | 2026-08-03 | 20 |
 | [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 6,944 | 2026-08-03 | 11 |
 | [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,723 | 2026-08-08 | 13 |
@@ -59,8 +59,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [erlang/otp](../repos/erlang/otp.md) | 29 | ⭐ 12,348 | 2026-08-01 | 2026-09-07 |
-| [emqx/emqx](../repos/emqx/emqx.md) | 27 | ⭐ 16,699 | 2026-08-01 | 2026-09-07 |
+| [erlang/otp](../repos/erlang/otp.md) | 30 | ⭐ 12,351 | 2026-08-01 | 2026-09-08 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 28 | ⭐ 16,699 | 2026-08-01 | 2026-09-08 |
 | [WhatsApp/erlfmt](../repos/WhatsApp/erlfmt.md) | 23 | ⭐ 464 | 2026-08-01 | 2026-09-01 |
 | [blt/port_compiler](../repos/blt/port_compiler.md) | 20 | ⭐ 69 | 2026-08-01 | 2026-08-29 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | 20 | ⭐ 7,524 | 2026-08-03 | 2026-09-01 |
@@ -92,4 +92,4 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.044Z*
+*Last updated: 2026-09-08T21:01:49.801Z*

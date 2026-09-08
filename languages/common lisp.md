@@ -14,13 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,504 | 2026-08-03 | 19 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,141 | 2026-08-24 | 3 |
 
+*No Common Lisp repositories trending today*
 
 ---
 
@@ -67,4 +62,4 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.036Z*
+*Last updated: 2026-09-08T21:01:49.791Z*

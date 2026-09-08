@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 86
+- **Total Repositories**: 88
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-07
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,112 | 2026-08-01 | 7 |
+| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,322 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,846 | 2026-08-01 | 17 |
+| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,512 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,293 | 2026-08-01 | 8 |
+| [lizhipay/acg-faka](../repos/lizhipay/acg-faka.md) | ⭐ 5,610 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lizhipay/acg-faka](../repos/lizhipay/acg-faka.md) | ⭐ 5,599 | 2026-08-01 | 10 |
+| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,149 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cedar2025/Xboard](../repos/cedar2025/Xboard.md) | ⭐ 4,695 | 2026-08-02 | 12 |
+| [shopware/shopware](../repos/shopware/shopware.md) | ⭐ 3,420 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 15,947 | 2026-08-02 | 10 |
+| [invoiceninja/invoiceninja](../repos/invoiceninja/invoiceninja.md) | ⭐ 10,064 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,747 | 2026-08-02 | 21 |
+| [espocrm/espocrm](../repos/espocrm/espocrm.md) | ⭐ 3,330 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RSS-Bridge/rss-bridge](../repos/RSS-Bridge/rss-bridge.md) | ⭐ 9,218 | 2026-08-03 | 5 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,397 | 2026-08-09 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [roundcube/roundcubemail](../repos/roundcube/roundcubemail.md) | ⭐ 7,161 | 2026-08-04 | 9 |
+| [LinkStackOrg/LinkStack](../repos/LinkStackOrg/LinkStack.md) | ⭐ 3,856 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pmmp/PocketMine-MP](../repos/pmmp/PocketMine-MP.md) | ⭐ 3,575 | 2026-08-06 | 5 |
+| [symfony/ai](../repos/symfony/ai.md) | ⭐ 1,196 | 2026-09-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,389 | 2026-08-09 | 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [investbrainapp/investbrain](../repos/investbrainapp/investbrain.md) | ⭐ 920 | 2026-08-09 | Smart LLM-enabled investment tracker that consolidates and monitors market performance across you... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [googleapis/google-api-php-client](../repos/googleapis/google-api-php-client.md) | ⭐ 9,809 | 2026-08-09 | A PHP client library for accessing Google APIs |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SpartnerNL/Laravel-Excel](../repos/SpartnerNL/Laravel-Excel.md) | ⭐ 12,699 | 2026-08-09 | 🚀 Supercharged Excel exports and imports in Laravel |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [David-Crty/databasement](../repos/David-Crty/databasement.md) | ⭐ 2,308 | 2026-08-10 | Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQ... |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [getgrav/grav](../repos/getgrav/grav.md) | ⭐ 15,656 | 2026-08-12 | Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdo... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [freescout-help-desk/freescout](../repos/freescout-help-desk/freescout.md) | ⭐ 4,524 | 2026-08-14 | FreeScout — Free self-hosted omnichannel AI-powered helpdesk &amp; shared mailbox |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [assimon/dujiaoka](../repos/assimon/dujiaoka.md) | ⭐ 12,140 | 2026-08-14 | 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LinkStackOrg/LinkStack](../repos/LinkStackOrg/LinkStack.md) | ⭐ 3,856 | 2026-08-14 | LinkStack - the ultimate solution for creating a personalized &amp; professional profile page. Showca... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PrivateBin/PrivateBin](../repos/PrivateBin/PrivateBin.md) | ⭐ 8,570 | 2026-08-16 | A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Dat... |
 
 
 ---
@@ -91,7 +91,7 @@
 | [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,747 | 2026-08-02 | 21 |
 | [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,899 | 2026-08-01 | 19 |
 | [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 31,975 | 2026-08-02 | 12 |
-| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,138 | 2026-08-02 | 16 |
+| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,149 | 2026-08-02 | 17 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,096 | 2026-08-01 | 16 |
 | [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,219 | 2026-08-04 | 13 |
 | [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 23,837 | 2026-08-07 | 10 |
@@ -117,11 +117,11 @@
 |------------|---------------|-------|------------|-----------|
 | [nextcloud/server](../repos/nextcloud/server.md) | 21 | ⭐ 36,747 | 2026-08-02 | 2026-09-07 |
 | [laravel/framework](../repos/laravel/framework.md) | 19 | ⭐ 34,899 | 2026-08-01 | 2026-09-05 |
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | 18 | ⭐ 6,314 | 2026-08-01 | 2026-09-05 |
+| [glpi-project/glpi](../repos/glpi-project/glpi.md) | 19 | ⭐ 6,322 | 2026-08-01 | 2026-09-08 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | 17 | ⭐ 21,846 | 2026-08-01 | 2026-09-07 |
+| [symfony/symfony](../repos/symfony/symfony.md) | 17 | ⭐ 31,149 | 2026-08-02 | 2026-09-08 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | 16 | ⭐ 28,096 | 2026-08-01 | 2026-09-06 |
-| [symfony/symfony](../repos/symfony/symfony.md) | 16 | ⭐ 31,138 | 2026-08-02 | 2026-08-29 |
-| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 15 | ⭐ 10,389 | 2026-08-09 | 2026-09-07 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 16 | ⭐ 10,397 | 2026-08-09 | 2026-09-08 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | 14 | ⭐ 14,910 | 2026-08-01 | 2026-09-05 |
 | [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 13 | ⭐ 3,431 | 2026-08-01 | 2026-09-06 |
 | [monicahq/monica](../repos/monicahq/monica.md) | 13 | ⭐ 25,219 | 2026-08-04 | 2026-09-03 |
@@ -216,7 +216,9 @@
 - [openmediavault/openmediavault](../repos/openmediavault/openmediavault.md) - openmediavault is the next generation network attached storage (NAS) solution based on Debian Lin...
 - [OpenSID/OpenSID](../repos/OpenSID/OpenSID.md) - Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sa...
 - [4jean/lav_sms](../repos/4jean/lav_sms.md) - Laravel School Management System (LAVSMS)
+- [symfony/ai](../repos/symfony/ai.md) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [danog/MadelineProto](../repos/danog/MadelineProto.md) - Async PHP client API for the telegram MTProto protocol
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.086Z*
+*Last updated: 2026-09-08T21:01:49.848Z*

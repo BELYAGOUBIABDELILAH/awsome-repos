@@ -1,6 +1,6 @@
 # aipoch&#x2F;open-science
 
-> Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python&#x2F;R notebooks, data connectors, and reproducible provenance.
+> AIPOCH Open-Science is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python&#x2F;R notebooks, data connectors, and reproducible provenance.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;aipoch&#x2F;open-science) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 3,811 |
-| **Forks** | 🍴 237 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 4,151 |
+| **Forks** | 🍴 256 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #14 |
 
 | **First Seen** | Sep 6, 2026 |
-| **Last Seen** | Sep 6, 2026 |
+| **Last Seen** | Sep 8, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #14
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: Peak: #14
 
 
 ---
 
-*Last updated: 2026-09-07T21:02:02.300Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-08T21:01:54.954Z*  
+*Data from 2 trending reports*

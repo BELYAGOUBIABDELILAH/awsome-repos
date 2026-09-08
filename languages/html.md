@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 77
+- **Total Repositories**: 79
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-07
 
@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 12,532 | 2026-08-01 | 4 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,262 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,728 | 2026-08-01 | 12 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 34,575 | 2026-08-12 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,807 | 2026-08-03 | 9 |
+| [datawhalechina/Agent-Learning-Hub](../repos/datawhalechina/Agent-Learning-Hub.md) | ⭐ 7,630 | 2026-09-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,402 | 2026-08-03 | 8 |
+| [omacom/omarchy-site](../repos/omacom/omarchy-site.md) | ⭐ 71 | 2026-09-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 33,249 | 2026-08-12 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [munificent/craftinginterpreters](../repos/munificent/craftinginterpreters.md) | ⭐ 11,047 | 2026-09-07 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [aoaostar/legado](../repos/aoaostar/legado.md) | ⭐ 6,225 | 2026-09-07 | 1 |
+| [wdndev/llm_interview_note](../repos/wdndev/llm_interview_note.md) | ⭐ 15,058 | 2026-09-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,171 | 2026-08-09 | A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Fin... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [github/choosealicense.com](../repos/github/choosealicense.com.md) | ⭐ 4,193 | 2026-08-10 | A site to provide non-judgmental guidance on choosing a license for your open source project |
@@ -55,7 +46,7 @@
 | [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 3,247 | 2026-08-11 | Collection of the most essential transitions for web apps, skill for agents and Refine tool for a... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 33,249 | 2026-08-12 | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows.... |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 34,575 | 2026-08-12 | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows.... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | A rugged, minimal framework for composing JavaScript behavior in your markup.  |
@@ -71,6 +62,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [github/training-kit](../repos/github/training-kit.md) | ⭐ 5,060 | 2026-08-15 | Open source courseware for Git and GitHub |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [colonelpanichacks/flock-you](../repos/colonelpanichacks/flock-you.md) | ⭐ 1,281 | 2026-08-15 | flock cam detection |
 
 
 ---
@@ -83,11 +77,11 @@
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 135,251 | 2026-08-08 | 11 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,438 | 2026-08-19 | 6 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,728 | 2026-08-01 | 12 |
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,179 | 2026-08-01 | 5 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,262 | 2026-08-01 | 6 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 40,978 | 2026-09-03 | 1 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,545 | 2026-08-07 | 3 |
 | [fengdu78/Coursera-ML-AndrewNg-Notes](../repos/fengdu78/Coursera-ML-AndrewNg-Notes.md) | ⭐ 37,699 | 2026-09-06 | 1 |
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 33,249 | 2026-08-12 | 8 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 34,575 | 2026-08-12 | 9 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,182 | 2026-08-19 | 5 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,171 | 2026-08-09 | 7 |
@@ -111,9 +105,9 @@
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 11 | ⭐ 135,251 | 2026-08-08 | 2026-08-25 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 10 | ⭐ 9,776 | 2026-08-01 | 2026-09-03 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 9 | ⭐ 208,807 | 2026-08-03 | 2026-09-07 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 9 | ⭐ 34,575 | 2026-08-12 | 2026-09-08 |
 | [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 8 | ⭐ 9,116 | 2026-08-03 | 2026-09-02 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 8 | ⭐ 27,402 | 2026-08-03 | 2026-09-07 |
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 8 | ⭐ 33,249 | 2026-08-12 | 2026-09-07 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 7 | ⭐ 25,427 | 2026-08-04 | 2026-09-01 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 7 | ⭐ 16,515 | 2026-08-04 | 2026-09-04 |
 
@@ -198,7 +192,9 @@
 - [twitter/twemoji](../repos/twitter/twemoji.md) - Emoji for everyone. https:&#x2F;&#x2F;twemoji.twitter.com&#x2F;
 - [munificent/craftinginterpreters](../repos/munificent/craftinginterpreters.md) - Repository for the book &quot;Crafting Interpreters&quot;
 - [aoaostar/legado](../repos/aoaostar/legado.md) - 阅读APP书源
+- [omacom/omarchy-site](../repos/omacom/omarchy-site.md) - Beautiful, Modern &amp; Opinionated Linux by DHH
+- [wdndev/llm_interview_note](../repos/wdndev/llm_interview_note.md) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.056Z*
+*Last updated: 2026-09-08T21:01:49.814Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 26
+- **Total Repositories**: 27
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-05
 
@@ -16,19 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 405 | 2026-08-03 | 9 |
+| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 871 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,696 | 2026-08-04 | 12 |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,202 | 2026-08-01 | 26 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 963 | 2026-08-01 | 22 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [OpenRadioss/OpenRadioss](../repos/OpenRadioss/OpenRadioss.md) | ⭐ 869 | 2026-09-04 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [fortran-lang/stdlib](../repos/fortran-lang/stdlib.md) | ⭐ 1,349 | 2026-09-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ESCOMP/CTSM](../repos/ESCOMP/CTSM.md) | ⭐ 352 | 2026-08-09 | Community Terrestrial Systems Model (includes the Community Land Model of CESM) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MetOffice/jules](../repos/MetOffice/jules.md) | ⭐ 21 | 2026-08-11 | The Joint UK Land Environment Simulator |
@@ -53,6 +59,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OpenRadioss/OpenRadioss](../repos/OpenRadioss/OpenRadioss.md) | ⭐ 869 | 2026-09-04 | OpenRadioss is a powerful, industry-proven finite element solver for dynamic event analysis  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [fortran-lang/stdlib](../repos/fortran-lang/stdlib.md) | ⭐ 1,349 | 2026-09-08 | Fortran Standard Library |
 
 
 ---
@@ -64,10 +73,11 @@
 | [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,883 | 2026-08-02 | 3 |
 | [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,748 | 2026-08-04 | 22 |
 | [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,696 | 2026-08-04 | 12 |
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,200 | 2026-08-01 | 25 |
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 962 | 2026-08-01 | 21 |
-| [OpenRadioss/OpenRadioss](../repos/OpenRadioss/OpenRadioss.md) | ⭐ 869 | 2026-09-04 | 2 |
-| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 868 | 2026-08-01 | 18 |
+| [fortran-lang/stdlib](../repos/fortran-lang/stdlib.md) | ⭐ 1,349 | 2026-09-08 | 1 |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,202 | 2026-08-01 | 26 |
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 963 | 2026-08-01 | 22 |
+| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 871 | 2026-08-01 | 19 |
+| [OpenRadioss/OpenRadioss](../repos/OpenRadioss/OpenRadioss.md) | ⭐ 869 | 2026-09-04 | 3 |
 | [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 440 | 2026-08-01 | 32 |
 | [MFlowCode/MFC](../repos/MFlowCode/MFC.md) | ⭐ 412 | 2026-08-19 | 4 |
 | [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 405 | 2026-08-03 | 9 |
@@ -80,7 +90,6 @@
 | [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 25 |
 | [fabm-model/fabm](../repos/fabm-model/fabm.md) | ⭐ 94 | 2026-08-26 | 2 |
 | [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | ⭐ 54 | 2026-08-02 | 22 |
-| [ecmwf/fckit](../repos/ecmwf/fckit.md) | ⭐ 48 | 2026-08-02 | 12 |
 
 ---
 
@@ -89,13 +98,13 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 32 | ⭐ 440 | 2026-08-01 | 2026-09-06 |
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | 25 | ⭐ 1,200 | 2026-08-01 | 2026-09-06 |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | 26 | ⭐ 1,202 | 2026-08-01 | 2026-09-08 |
 | [NGEET/fates](../repos/NGEET/fates.md) | 25 | ⭐ 130 | 2026-08-02 | 2026-09-01 |
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | 22 | ⭐ 963 | 2026-08-01 | 2026-09-08 |
 | [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | 22 | ⭐ 54 | 2026-08-02 | 2026-08-28 |
 | [wrf-model/WRF](../repos/wrf-model/WRF.md) | 22 | ⭐ 1,748 | 2026-08-04 | 2026-09-06 |
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | 21 | ⭐ 962 | 2026-08-01 | 2026-09-06 |
 | [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | 19 | ⭐ 26 | 2026-08-01 | 2026-08-29 |
-| [firemodels/fds](../repos/firemodels/fds.md) | 18 | ⭐ 868 | 2026-08-01 | 2026-09-05 |
+| [firemodels/fds](../repos/firemodels/fds.md) | 19 | ⭐ 871 | 2026-08-01 | 2026-09-08 |
 | [GEOS-ESM/MAPL](../repos/GEOS-ESM/MAPL.md) | 18 | ⭐ 43 | 2026-08-01 | 2026-09-01 |
 | [MetOffice/lfric_apps](../repos/MetOffice/lfric_apps.md) | 17 | ⭐ 31 | 2026-08-01 | 2026-08-29 |
 
@@ -129,7 +138,8 @@
 - [fabm-model/fabm](../repos/fabm-model/fabm.md) - The Framework for Aquatic Biogeochemical Models (FABM): a Fortran 2003 programming framework for ...
 - [nasa/cea](../repos/nasa/cea.md) - CEA computes the equilibrium composition of mixtures via free-energy minimization, and uses the r...
 - [OpenRadioss/OpenRadioss](../repos/OpenRadioss/OpenRadioss.md) - OpenRadioss is a powerful, industry-proven finite element solver for dynamic event analysis 
+- [fortran-lang/stdlib](../repos/fortran-lang/stdlib.md) - Fortran Standard Library
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.047Z*
+*Last updated: 2026-09-08T21:01:49.804Z*

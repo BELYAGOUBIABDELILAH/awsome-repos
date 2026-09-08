@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 30
+- **Total Repositories**: 31
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-07
+- **Last Updated**: 2026-09-08
 
 ---
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,736 | 2026-08-01 | 31 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,739 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 592 | 2026-08-01 | 15 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 486 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,671 | 2026-08-01 | 28 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 592 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,515 | 2026-08-01 | 18 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,673 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,012 | 2026-08-01 | 27 |
+| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,687 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,903 | 2026-08-02 | 9 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,017 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | ⭐ 364 | 2026-08-02 | 15 |
+| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,903 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 4 |
+| [fusioninventory/fusioninventory-agent](../repos/fusioninventory/fusioninventory-agent.md) | ⭐ 269 | 2026-08-19 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [so-fancy/diff-so-fancy](../repos/so-fancy/diff-so-fancy.md) | ⭐ 18,090 | 2026-09-07 | 1 |
+| [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [mysociety/fixmystreet](../repos/mysociety/fixmystreet.md) | ⭐ 616 | 2026-09-08 | 1 |
 
 
 ---
@@ -49,16 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [LMS-Community/slimserver](../repos/LMS-Community/slimserver.md) | ⭐ 1,750 | 2026-08-09 | Server for Squeezebox and compatible players. This server is also called Lyrion Music Server. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [ddclient/ddclient](../repos/ddclient/ddclient.md) | ⭐ 3,517 | 2026-08-10 | ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [centreon/centreon-plugins](../repos/centreon/centreon-plugins.md) | ⭐ 334 | 2026-08-15 | Collection of standard plugins to discover and gather cloud-to-edge metrics and status across you... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [fusioninventory/fusioninventory-agent](../repos/fusioninventory/fusioninventory-agent.md) | ⭐ 268 | 2026-08-19 | FusionInventory Agent |
+| [fusioninventory/fusioninventory-agent](../repos/fusioninventory/fusioninventory-agent.md) | ⭐ 269 | 2026-08-19 | FusionInventory Agent |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mrash/fwknop](../repos/mrash/fwknop.md) | ⭐ 1,441 | 2026-08-22 | Single Packet Authorization &gt; Port Knocking |
@@ -77,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nginx/nginx-tests](../repos/nginx/nginx-tests.md) | ⭐ 135 | 2026-09-01 | Test suite for nginx. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and mak... |
 
 
 ---
@@ -85,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,736 | 2026-08-01 | 31 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,739 | 2026-08-01 | 32 |
 | [so-fancy/diff-so-fancy](../repos/so-fancy/diff-so-fancy.md) | ⭐ 18,090 | 2026-09-07 | 1 |
-| [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 4 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,012 | 2026-08-01 | 27 |
-| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,903 | 2026-08-02 | 9 |
+| [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 5 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,017 | 2026-08-01 | 28 |
+| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,903 | 2026-08-02 | 10 |
 | [ddclient/ddclient](../repos/ddclient/ddclient.md) | ⭐ 3,517 | 2026-08-10 | 5 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,671 | 2026-08-01 | 28 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,673 | 2026-08-01 | 29 |
 | [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,324 | 2026-08-03 | 18 |
 | [LMS-Community/slimserver](../repos/LMS-Community/slimserver.md) | ⭐ 1,750 | 2026-08-09 | 1 |
-| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,678 | 2026-08-01 | 16 |
+| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,687 | 2026-08-01 | 17 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,515 | 2026-08-01 | 18 |
 | [mrash/fwknop](../repos/mrash/fwknop.md) | ⭐ 1,441 | 2026-08-22 | 3 |
 | [asbru-cm/asbru-cm](../repos/asbru-cm/asbru-cm.md) | ⭐ 1,294 | 2026-08-03 | 3 |
 | [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,144 | 2026-08-01 | 13 |
 | [linux-test-project/lcov](../repos/linux-test-project/lcov.md) | ⭐ 1,106 | 2026-08-08 | 2 |
 | [aspiers/stow](../repos/aspiers/stow.md) | ⭐ 1,104 | 2026-08-26 | 2 |
-| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 592 | 2026-08-01 | 15 |
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 484 | 2026-08-01 | 24 |
+| [mysociety/fixmystreet](../repos/mysociety/fixmystreet.md) | ⭐ 616 | 2026-09-08 | 1 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 592 | 2026-08-01 | 16 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 486 | 2026-08-01 | 25 |
 | [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | ⭐ 364 | 2026-08-02 | 15 |
-| [ko-ichi-h/khcoder](../repos/ko-ichi-h/khcoder.md) | ⭐ 335 | 2026-08-26 | 1 |
 
 ---
 
@@ -112,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 31 | ⭐ 19,736 | 2026-08-01 | 2026-09-07 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 28 | ⭐ 2,671 | 2026-08-01 | 2026-09-07 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 27 | ⭐ 5,012 | 2026-08-01 | 2026-09-07 |
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 24 | ⭐ 484 | 2026-08-01 | 2026-09-05 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 32 | ⭐ 19,739 | 2026-08-01 | 2026-09-08 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 29 | ⭐ 2,673 | 2026-08-01 | 2026-09-08 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 28 | ⭐ 5,017 | 2026-08-01 | 2026-09-08 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 25 | ⭐ 486 | 2026-08-01 | 2026-09-08 |
 | [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | 19 | ⭐ 263 | 2026-08-02 | 2026-08-29 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | 18 | ⭐ 1,515 | 2026-08-01 | 2026-09-07 |
 | [Perl/perl5](../repos/Perl/perl5.md) | 18 | ⭐ 2,324 | 2026-08-03 | 2026-09-05 |
-| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 16 | ⭐ 1,678 | 2026-08-01 | 2026-08-29 |
-| [znuny/Znuny](../repos/znuny/Znuny.md) | 15 | ⭐ 592 | 2026-08-01 | 2026-09-07 |
+| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 17 | ⭐ 1,687 | 2026-08-01 | 2026-09-08 |
+| [znuny/Znuny](../repos/znuny/Znuny.md) | 16 | ⭐ 592 | 2026-08-01 | 2026-09-08 |
 | [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | 15 | ⭐ 364 | 2026-08-02 | 2026-09-07 |
 
 ---
@@ -157,7 +160,8 @@
 - [nginx/nginx-tests](../repos/nginx/nginx-tests.md) - Test suite for nginx.
 - [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) - MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and mak...
 - [so-fancy/diff-so-fancy](../repos/so-fancy/diff-so-fancy.md) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
+- [mysociety/fixmystreet](../repos/mysociety/fixmystreet.md) - This is mySociety&#39;s popular map-based reporting platform: easy to install in new countries and re...
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.090Z*
+*Last updated: 2026-09-08T21:01:49.852Z*

@@ -13,12 +13,12 @@
 | **Language** | Fortran |
 | **License** | AGPL-3.0 |
 | **Stars** | ⭐ 869 |
-| **Forks** | 🍴 390 |
-| **Trending Days** | 2 |
+| **Forks** | 🍴 393 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 4, 2026 |
-| **Last Seen** | Sep 5, 2026 |
+| **Last Seen** | Sep 8, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-07T21:02:02.260Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-08T21:01:54.919Z*  
+*Data from 3 trending reports*

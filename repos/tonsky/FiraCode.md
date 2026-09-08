@@ -14,11 +14,11 @@
 | **License** | OFL-1.1 |
 | **Stars** | ⭐ 81,992 |
 | **Forks** | 🍴 3,189 |
-| **Trending Days** | 25 |
+| **Trending Days** | 26 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 7, 2026 |
+| **Last Seen** | Sep 8, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 25
-- **Longest Streak**: 7 days
+- **Trending Days**: 26
+- **Longest Streak**: 8 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:59.265Z*  
-*Data from 25 trending reports*
+*Last updated: 2026-09-08T21:01:52.002Z*  
+*Data from 26 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 178
+- **Total Repositories**: 183
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-05
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,836 | 2026-08-02 | 6 |
+| [woheller69/FreeDroidWarn](../repos/woheller69/FreeDroidWarn.md) | ⭐ 3,368 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 26,646 | 2026-08-02 | 12 |
+| [shmykelsa/AAAD](../repos/shmykelsa/AAAD.md) | ⭐ 2,948 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 29,009 | 2026-08-03 | 8 |
+| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,213 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TGX-Android/Telegram-X](../repos/TGX-Android/Telegram-X.md) | ⭐ 5,957 | 2026-08-03 | 3 |
+| [AutoMQ/automq](../repos/AutoMQ/automq.md) | ⭐ 10,662 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 32,676 | 2026-08-04 | 9 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,498 | 2026-08-05 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AutoMQ/automq](../repos/AutoMQ/automq.md) | ⭐ 10,645 | 2026-08-04 | 4 |
+| [mateaix/mateclaw](../repos/mateaix/mateclaw.md) | ⭐ 1,093 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 14,496 | 2026-08-06 | 8 |
+| [quarkusio/quarkus](../repos/quarkusio/quarkus.md) | ⭐ 15,876 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CaffeineMC/sodium](../repos/CaffeineMC/sodium.md) | ⭐ 5,750 | 2026-08-09 | 5 |
+| [alibaba/spring-ai-alibaba](../repos/alibaba/spring-ai-alibaba.md) | ⭐ 10,814 | 2026-08-11 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) | ⭐ 5,356 | 2026-08-10 | 4 |
+| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | ⭐ 5,984 | 2026-08-14 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HMCL-dev/HMCL](../repos/HMCL-dev/HMCL.md) | ⭐ 10,022 | 2026-08-23 | 3 |
+| [648540858/wvp-GB28181-pro](../repos/648540858/wvp-GB28181-pro.md) | ⭐ 7,303 | 2026-08-15 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [CaffeineMC/sodium](../repos/CaffeineMC/sodium.md) | ⭐ 5,750 | 2026-08-09 | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [checkstyle/checkstyle](../repos/checkstyle/checkstyle.md) | ⭐ 9,523 | 2026-08-09 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding sta... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [conductor-oss/conductor](../repos/conductor-oss/conductor.md) | ⭐ 32,167 | 2026-08-09 | Conductor is an event driven agentic workflow engine providing durable and highly resilient execu... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [languagetool-org/languagetool](../repos/languagetool-org/languagetool.md) | ⭐ 14,964 | 2026-08-09 | Style and Grammar Checker for 25+ Languages |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [navinreddy20/Javacode](../repos/navinreddy20/Javacode.md) | ⭐ 1,299 | 2026-08-09 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) | ⭐ 5,356 | 2026-08-10 | HyperOS enhancement module - Make HyperOS Great Again! |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [objectionary/eo](../repos/objectionary/eo.md) | ⭐ 1,399 | 2026-08-10 | EOLANG, an Experimental Pure Object-Oriented Programming Language Based on 𝜑-Calculus |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [alibaba/spring-ai-alibaba](../repos/alibaba/spring-ai-alibaba.md) | ⭐ 10,814 | 2026-08-11 | Agentic AI Framework for Java Developers |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [freeok/so-novel](../repos/freeok/so-novel.md) | ⭐ 7,773 | 2026-08-11 | 小说下载｜网文下载 | 网络小说 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [exadel-inc/CompreFace](../repos/exadel-inc/CompreFace.md) | ⭐ 8,231 | 2026-08-11 | Leading free and open-source face recognition system |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [elder-plinius/V3SP3R](../repos/elder-plinius/V3SP3R.md) | ⭐ 1,358 | 2026-08-11 | AI Flipper control |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [freeplane/freeplane](../repos/freeplane/freeplane.md) | ⭐ 4,289 | 2026-08-11 | Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and com... |
 
 
 ---
@@ -115,7 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 14 | ⭐ 5,438 | 2026-08-05 | 2026-09-04 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 15 | ⭐ 5,498 | 2026-08-05 | 2026-09-08 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 12 | ⭐ 26,646 | 2026-08-02 | 2026-09-07 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 11 | ⭐ 74,217 | 2026-08-03 | 2026-09-01 |
 | [google/guava](../repos/google/guava.md) | 10 | ⭐ 51,896 | 2026-08-02 | 2026-08-28 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.060Z*
+*Last updated: 2026-09-08T21:01:49.820Z*

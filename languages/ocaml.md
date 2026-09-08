@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 21
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-07
+- **Last Updated**: 2026-09-08
 
 ---
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,540 | 2026-08-01 | 32 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,549 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,567 | 2026-08-01 | 16 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,058 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 949 | 2026-08-01 | 17 |
+| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,567 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,557 | 2026-08-01 | 26 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,558 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,705 | 2026-08-02 | 23 |
+| [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,705 | 2026-08-02 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 874 | 2026-08-03 | 8 |
+| [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 876 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,263 | 2026-08-05 | 6 |
+| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,470 | 2026-08-07 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [stategraph/stategraph](../repos/stategraph/stategraph.md) | ⭐ 1,255 | 2026-08-09 | Terraform without the state file bottleneck |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [savonet/liquidsoap](../repos/savonet/liquidsoap.md) | ⭐ 1,722 | 2026-08-10 | Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and ... |
@@ -58,14 +55,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,540 | 2026-08-01 | 32 |
-| [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,705 | 2026-08-02 | 23 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,549 | 2026-08-01 | 33 |
+| [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,705 | 2026-08-02 | 24 |
 | [facebook/pyre-check](../repos/facebook/pyre-check.md) | ⭐ 7,171 | 2026-09-02 | 2 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,557 | 2026-08-01 | 26 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,558 | 2026-08-01 | 27 |
 | [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,263 | 2026-08-05 | 6 |
-| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,567 | 2026-08-01 | 16 |
-| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,454 | 2026-08-07 | 6 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,043 | 2026-08-01 | 29 |
+| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,567 | 2026-08-01 | 17 |
+| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,470 | 2026-08-07 | 7 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,058 | 2026-08-01 | 30 |
 | [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,353 | 2026-08-02 | 1 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,119 | 2026-08-01 | 19 |
 | [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,914 | 2026-08-01 | 19 |
@@ -75,7 +72,7 @@
 | [stategraph/stategraph](../repos/stategraph/stategraph.md) | ⭐ 1,255 | 2026-08-09 | 1 |
 | [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 949 | 2026-08-01 | 17 |
 | [ocaml/ocaml-lsp](../repos/ocaml/ocaml-lsp.md) | ⭐ 909 | 2026-08-06 | 3 |
-| [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 874 | 2026-08-03 | 8 |
+| [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 876 | 2026-08-03 | 9 |
 | [caffeinelabs/motoko](../repos/caffeinelabs/motoko.md) | ⭐ 588 | 2026-08-01 | 5 |
 | [cryspen/hax](../repos/cryspen/hax.md) | ⭐ 464 | 2026-08-03 | 3 |
 
@@ -85,15 +82,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 32 | ⭐ 16,540 | 2026-08-01 | 2026-09-07 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 29 | ⭐ 3,043 | 2026-08-01 | 2026-09-05 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 26 | ⭐ 6,557 | 2026-08-01 | 2026-09-07 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 33 | ⭐ 16,549 | 2026-08-01 | 2026-09-08 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 30 | ⭐ 3,058 | 2026-08-01 | 2026-09-08 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 27 | ⭐ 6,558 | 2026-08-01 | 2026-09-08 |
 | [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | 24 | ⭐ 59 | 2026-08-01 | 2026-08-29 |
-| [facebook/infer](../repos/facebook/infer.md) | 23 | ⭐ 15,705 | 2026-08-02 | 2026-09-07 |
+| [facebook/infer](../repos/facebook/infer.md) | 24 | ⭐ 15,705 | 2026-08-02 | 2026-09-08 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 19 | ⭐ 2,119 | 2026-08-01 | 2026-09-06 |
 | [ocaml/dune](../repos/ocaml/dune.md) | 19 | ⭐ 1,914 | 2026-08-01 | 2026-09-06 |
+| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 17 | ⭐ 5,567 | 2026-08-01 | 2026-09-08 |
 | [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 17 | ⭐ 949 | 2026-08-01 | 2026-09-07 |
-| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 16 | ⭐ 5,567 | 2026-08-01 | 2026-09-07 |
 | [ocaml/opam](../repos/ocaml/opam.md) | 9 | ⭐ 1,374 | 2026-08-01 | 2026-08-21 |
 
 ---
@@ -124,4 +121,4 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.081Z*
+*Last updated: 2026-09-08T21:01:49.843Z*

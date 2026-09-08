@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 224
+- **Total Repositories**: 228
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-09-06
+- **Last Updated**: 2026-09-08
 
 ---
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 21,689 | 2026-08-01 | 13 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 47,623 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moby/moby](../repos/moby/moby.md) | ⭐ 72,088 | 2026-08-04 | 4 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 21,838 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/github-mcp-server](../repos/github/github-mcp-server.md) | ⭐ 32,787 | 2026-08-05 | 7 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,475 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 22,513 | 2026-08-06 | 4 |
+| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 6,308 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sysadminsmedia/homebox](../repos/sysadminsmedia/homebox.md) | ⭐ 7,115 | 2026-08-08 | 4 |
+| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,110 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,971 | 2026-08-15 | 5 |
+| [Project-HAMi/HAMi](../repos/Project-HAMi/HAMi.md) | ⭐ 4,539 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [entireio/cli](../repos/entireio/cli.md) | ⭐ 5,075 | 2026-08-20 | 4 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 22,564 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 40,887 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amir20/dozzle](../repos/amir20/dozzle.md) | ⭐ 14,298 | 2026-09-07 | 1 |
+| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,017 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [v2fly/domain-list-community](../repos/v2fly/domain-list-community.md) | ⭐ 9,456 | 2026-09-07 | 1 |
+| [gtsteffaniak/filebrowser](../repos/gtsteffaniak/filebrowser.md) | ⭐ 8,191 | 2026-09-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [aceberg/WatchYourLAN](../repos/aceberg/WatchYourLAN.md) | ⭐ 7,486 | 2026-08-09 | Lightweight network IP scanner written in Go. With notifications, history, export to Grafana |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mubeng/mubeng](../repos/mubeng/mubeng.md) | ⭐ 2,404 | 2026-08-09 | An incredibly fast proxy checker &amp; IP rotator with ease. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [XIU2/CloudflareSpeedTest](../repos/XIU2/CloudflareSpeedTest.md) | ⭐ 28,917 | 2026-08-09 | 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN &#x2F; 多个解析 IP 的网站 ~ |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rorkai/App-Store-Connect-CLI](../repos/rorkai/App-Store-Connect-CLI.md) | ⭐ 6,220 | 2026-08-09 | Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, sig... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OpenListTeam/OpenList](../repos/OpenListTeam/OpenList.md) | ⭐ 24,021 | 2026-08-09 | A new AList Fork to Anti Trust Crisis |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [grafana/loki](../repos/grafana/loki.md) | ⭐ 28,764 | 2026-08-09 | Like Prometheus, but for logs. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [henrygd/beszel](../repos/henrygd/beszel.md) | ⭐ 24,616 | 2026-08-10 | Lightweight server monitoring with historical data, docker stats, and alerts. |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kdlbs/kandev](../repos/kdlbs/kandev.md) | ⭐ 570 | 2026-08-10 | AI Kanban &amp; Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [TecharoHQ/anubis](../repos/TecharoHQ/anubis.md) | ⭐ 22,034 | 2026-08-10 | Weighs the soul of incoming HTTP requests to stop AI crawlers |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kenn-io/msgvault](../repos/kenn-io/msgvault.md) | ⭐ 1,992 | 2026-08-10 | Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full mess... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 28,837 | 2026-08-11 | Find secrets with Gitleaks 🔑 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cli/cli](../repos/cli/cli.md) | ⭐ 46,127 | 2026-08-11 | GitHub’s official command line tool |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 20,625 | 2026-08-11 | High-Performance server for NATS.io, the cloud and edge native messaging system. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [getsops/sops](../repos/getsops/sops.md) | ⭐ 22,767 | 2026-08-11 | Simple and flexible tool for managing secrets |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,296 | 2026-08-01 | 12 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,475 | 2026-08-01 | 13 |
 | [golang/go](../repos/golang/go.md) | ⭐ 137,097 | 2026-07-31 | 7 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 125,949 | 2026-08-04 | 4 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,971 | 2026-08-15 | 5 |
@@ -99,7 +99,7 @@
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | 2026-08-03 | 3 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 72,088 | 2026-08-04 | 4 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | 2026-08-07 | 1 |
-| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 65,743 | 2026-08-11 | 3 |
+| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,017 | 2026-08-11 | 4 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,391 | 2026-08-12 | 1 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,190 | 2026-08-22 | 2 |
@@ -115,13 +115,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 13 | ⭐ 21,689 | 2026-08-01 | 2026-09-07 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 14 | ⭐ 21,838 | 2026-08-01 | 2026-09-08 |
+| [ollama/ollama](../repos/ollama/ollama.md) | 13 | ⭐ 180,475 | 2026-08-01 | 2026-09-08 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 12 | ⭐ 47,623 | 2026-08-01 | 2026-09-08 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 12 | ⭐ 37,782 | 2026-08-01 | 2026-09-04 |
-| [ollama/ollama](../repos/ollama/ollama.md) | 12 | ⭐ 180,296 | 2026-08-01 | 2026-09-06 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 11 | ⭐ 47,310 | 2026-08-01 | 2026-09-04 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 11 | ⭐ 40,887 | 2026-08-07 | 2026-09-08 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 10 | ⭐ 48,995 | 2026-08-01 | 2026-09-05 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 10 | ⭐ 1,756 | 2026-08-02 | 2026-09-04 |
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 10 | ⭐ 40,614 | 2026-08-07 | 2026-09-06 |
 | [gastownhall/beads](../repos/gastownhall/beads.md) | 8 | ⭐ 26,920 | 2026-08-04 | 2026-09-05 |
 | [golang/go](../repos/golang/go.md) | 7 | ⭐ 137,097 | 2026-07-31 | 2026-09-01 |
 | [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 7 | ⭐ 37,500 | 2026-08-03 | 2026-09-01 |
@@ -148,7 +148,7 @@
 - [kserve/kserve](../repos/kserve/kserve.md) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Fram...
 - [looplj/axonhub](../repos/looplj/axonhub.md) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cos...
 - [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — lea...
-- [superplanehq/superplane](../repos/superplanehq/superplane.md) - The open source control plane for agentic engineering.
+- [superplanehq/superplane](../repos/superplanehq/superplane.md) - Open source factory for one-shot engineering
 - [stretchr/testify](../repos/stretchr/testify.md) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [agent-substrate/substrate](../repos/agent-substrate/substrate.md) - Agent Substrate: the core system
 - [Solr159/JavBoss](../repos/Solr159/JavBoss.md) - 开箱即用的本地 JAV&#x2F;视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV&#x2F;视频 媒体库，带给你顶级的浏览体验，懒人必备。| You...
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.050Z*
+*Last updated: 2026-09-08T21:01:49.808Z*

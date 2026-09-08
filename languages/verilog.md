@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 14
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-07
+- **Last Updated**: 2026-09-08
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,384 | 2026-08-01 | 27 |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,384 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,238 | 2026-08-04 | 19 |
+| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 2,009 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [corundum/corundum](../repos/corundum/corundum.md) | ⭐ 2,455 | 2026-08-07 | 2 |
+| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | ⭐ 1,276 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TinyTapeout/ttsky-verilog-template](../repos/TinyTapeout/ttsky-verilog-template.md) | ⭐ 51 | 2026-08-14 | 6 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,078 | 2026-08-01 | 33 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 730 | 2026-08-01 | 16 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [chili-chips-ba/wireguard-fpga](../repos/chili-chips-ba/wireguard-fpga.md) | ⭐ 1,352 | 2026-08-09 | Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA wi... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OpenPOWERFoundation/a2o](../repos/OpenPOWERFoundation/a2o.md) | ⭐ 56 | 2026-08-12 | The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than ... |
@@ -49,16 +49,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,384 | 2026-08-01 | 27 |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,384 | 2026-08-01 | 28 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,078 | 2026-08-01 | 33 |
 | [alexforencich/verilog-ethernet](../repos/alexforencich/verilog-ethernet.md) | ⭐ 3,078 | 2026-08-02 | 7 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,070 | 2026-08-01 | 32 |
 | [corundum/corundum](../repos/corundum/corundum.md) | ⭐ 2,455 | 2026-08-07 | 2 |
 | [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,238 | 2026-08-04 | 19 |
-| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 2,006 | 2026-08-01 | 30 |
+| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | ⭐ 2,009 | 2026-08-01 | 31 |
 | [XUANTIE-RV/openc910](../repos/XUANTIE-RV/openc910.md) | ⭐ 1,462 | 2026-08-06 | 2 |
 | [chili-chips-ba/wireguard-fpga](../repos/chili-chips-ba/wireguard-fpga.md) | ⭐ 1,352 | 2026-08-09 | 1 |
-| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | ⭐ 1,273 | 2026-08-01 | 20 |
-| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 730 | 2026-08-01 | 15 |
+| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | ⭐ 1,276 | 2026-08-01 | 21 |
+| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 730 | 2026-08-01 | 16 |
 | [The-OpenROAD-Project/OpenSTA](../repos/The-OpenROAD-Project/OpenSTA.md) | ⭐ 610 | 2026-08-03 | 12 |
 | [OSCPU/yosys-sta](../repos/OSCPU/yosys-sta.md) | ⭐ 97 | 2026-08-02 | 2 |
 | [OpenPOWERFoundation/a2o](../repos/OpenPOWERFoundation/a2o.md) | ⭐ 56 | 2026-08-12 | 8 |
@@ -70,12 +70,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 32 | ⭐ 3,070 | 2026-08-01 | 2026-09-06 |
-| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | 30 | ⭐ 2,006 | 2026-08-01 | 2026-09-05 |
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | 27 | ⭐ 4,384 | 2026-08-01 | 2026-09-07 |
-| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | 20 | ⭐ 1,273 | 2026-08-01 | 2026-09-05 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 33 | ⭐ 3,078 | 2026-08-01 | 2026-09-08 |
+| [analogdevicesinc/hdl](../repos/analogdevicesinc/hdl.md) | 31 | ⭐ 2,009 | 2026-08-01 | 2026-09-08 |
+| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | 28 | ⭐ 4,384 | 2026-08-01 | 2026-09-08 |
+| [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | 21 | ⭐ 1,276 | 2026-08-01 | 2026-09-08 |
 | [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | 19 | ⭐ 2,238 | 2026-08-04 | 2026-09-07 |
-| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 15 | ⭐ 730 | 2026-08-01 | 2026-09-06 |
+| [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 16 | ⭐ 730 | 2026-08-01 | 2026-09-08 |
 | [The-OpenROAD-Project/OpenSTA](../repos/The-OpenROAD-Project/OpenSTA.md) | 12 | ⭐ 610 | 2026-08-03 | 2026-08-29 |
 | [OpenPOWERFoundation/a2o](../repos/OpenPOWERFoundation/a2o.md) | 8 | ⭐ 56 | 2026-08-12 | 2026-08-24 |
 | [alexforencich/verilog-ethernet](../repos/alexforencich/verilog-ethernet.md) | 7 | ⭐ 3,078 | 2026-08-02 | 2026-09-02 |
@@ -102,4 +102,4 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.118Z*
+*Last updated: 2026-09-08T21:01:49.880Z*

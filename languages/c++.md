@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 214
+- **Total Repositories**: 219
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | ⭐ 683 | 2026-08-02 | 10 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 127,521 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [official-stockfish/Stockfish](../repos/official-stockfish/Stockfish.md) | ⭐ 16,523 | 2026-08-03 | 6 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 29,730 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [doitsujin/dxvk](../repos/doitsujin/dxvk.md) | ⭐ 18,025 | 2026-08-03 | 4 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,743 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [imputnet/helium](../repos/imputnet/helium.md) | ⭐ 20,390 | 2026-08-03 | 4 |
+| [argotorg/solidity](../repos/argotorg/solidity.md) | ⭐ 25,726 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stenzek/duckstation](../repos/stenzek/duckstation.md) | ⭐ 10,644 | 2026-08-03 | 2 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lemonade-sdk/lemonade](../repos/lemonade-sdk/lemonade.md) | ⭐ 5,652 | 2026-08-07 | 3 |
+| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,402 | 2026-08-25 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [juce-framework/JUCE](../repos/juce-framework/JUCE.md) | ⭐ 8,877 | 2026-08-09 | 6 |
+| [MaaXYZ/MaaFramework](../repos/MaaXYZ/MaaFramework.md) | ⭐ 4,838 | 2026-09-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RPCS3/rpcs3](../repos/RPCS3/rpcs3.md) | ⭐ 19,672 | 2026-08-09 | 3 |
+| [memgraph/memgraph](../repos/memgraph/memgraph.md) | ⭐ 4,441 | 2026-09-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/flatbuffers](../repos/google/flatbuffers.md) | ⭐ 26,445 | 2026-08-11 | 6 |
+| [mattias800/prosper](../repos/mattias800/prosper.md) | ⭐ 133 | 2026-09-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ClassicOldSong/Apollo](../repos/ClassicOldSong/Apollo.md) | ⭐ 10,814 | 2026-08-16 | 3 |
+| [apple/foundationdb](../repos/apple/foundationdb.md) | ⭐ 16,685 | 2026-09-08 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [bambulab/BambuStudio](../repos/bambulab/BambuStudio.md) | ⭐ 4,883 | 2026-08-09 | PC Software for BambuLab and other 3D printers |
+| [xbmc/xbmc](../repos/xbmc/xbmc.md) | ⭐ 21,141 | 2026-08-10 | Kodi is an award-winning free and open source home theater&#x2F;media center software and entertainmen... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,206 | 2026-08-09 | Official inference framework for 1-bit LLMs |
+| [tdlib/td](../repos/tdlib/td.md) | ⭐ 9,021 | 2026-08-10 | Cross-platform library for building Telegram clients |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [juce-framework/JUCE](../repos/juce-framework/JUCE.md) | ⭐ 8,877 | 2026-08-09 | JUCE is an open-source cross-platform C++ application framework for desktop and mobile applicatio... |
+| [dalathegreat/Battery-Emulator](../repos/dalathegreat/Battery-Emulator.md) | ⭐ 2,868 | 2026-08-10 | This revolutionary software enables EV battery packs to be easily reused for stationary storage i... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [RPCS3/rpcs3](../repos/RPCS3/rpcs3.md) | ⭐ 19,672 | 2026-08-09 | PlayStation 3 emulator and debugger |
+| [transmission/transmission](../repos/transmission/transmission.md) | ⭐ 15,070 | 2026-08-10 | Official Transmission BitTorrent client repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Tencent/ncnn](../repos/Tencent/ncnn.md) | ⭐ 23,712 | 2026-08-09 | ncnn is a high-performance neural network inference framework optimized for the mobile platform |
+| [cemu-project/Cemu](../repos/cemu-project/Cemu.md) | ⭐ 9,730 | 2026-08-10 | Cemu - Wii U emulator |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 25,844 | 2026-08-09 | Distribute and run LLMs with a single file. |
+| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 6,750 | 2026-08-10 | Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C&#x2F;C++ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [YimMenu/YimMenuV2](../repos/YimMenu/YimMenuV2.md) | ⭐ 1,699 | 2026-08-09 | Experimental menu for GTA 5: Enhanced |
+| [moonshine-ai/moonshine](../repos/moonshine-ai/moonshine.md) | ⭐ 10,996 | 2026-08-11 | Very low latency speech to text, intent recognition, and text to speech, for building voice agent... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [futo-org/android-keyboard](../repos/futo-org/android-keyboard.md) | ⭐ 2,988 | 2026-08-09 | Official FUTO Keyboard Issue Tracker and Source Mirror of https:&#x2F;&#x2F;gitlab.futo.org&#x2F;keyboard&#x2F;latinime |
+| [sal063/AC6_recomp](../repos/sal063/AC6_recomp.md) | ⭐ 364 | 2026-08-11 | static Recomp of AC6 with Rexglue |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [audacity/audacity](../repos/audacity/audacity.md) | ⭐ 18,265 | 2026-08-09 | Audio Editor                                      |
+| [google/flatbuffers](../repos/google/flatbuffers.md) | ⭐ 26,445 | 2026-08-11 | FlatBuffers: Memory Efficient Serialization Library |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [UE4SS-RE/RE-UE4SS](../repos/UE4SS-RE/RE-UE4SS.md) | ⭐ 2,820 | 2026-08-09 | Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities ... |
+| [azahar-emu/azahar](../repos/azahar-emu/azahar.md) | ⭐ 7,968 | 2026-08-11 | An open-source 3DS emulator project based on Citra. |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 198,899 | 2026-07-30 | 16 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 127,272 | 2026-08-01 | 18 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 127,521 | 2026-08-01 | 19 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,441 | 2026-08-04 | 3 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 116,297 | 2026-08-01 | 8 |
@@ -98,9 +98,9 @@
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,350 | 2026-08-12 | 4 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,068 | 2026-08-08 | 12 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,999 | 2026-08-01 | 12 |
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 65,959 | 2026-08-05 | 8 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,055 | 2026-08-03 | 2 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,743 | 2026-08-03 | 3 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,046 | 2026-09-01 | 2 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,281 | 2026-08-02 | 6 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 41,933 | 2026-09-06 | 1 |
@@ -115,7 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 18 | ⭐ 127,272 | 2026-08-01 | 2026-09-06 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 19 | ⭐ 127,521 | 2026-08-01 | 2026-09-08 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 16 | ⭐ 198,899 | 2026-07-30 | 2026-09-06 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 12 | ⭐ 71,999 | 2026-08-01 | 2026-09-04 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 12 | ⭐ 29,564 | 2026-08-01 | 2026-09-02 |
@@ -123,8 +123,8 @@
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 12 | ⭐ 76,068 | 2026-08-08 | 2026-09-04 |
 | [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | 10 | ⭐ 683 | 2026-08-02 | 2026-09-07 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 9 | ⭐ 472 | 2026-08-01 | 2026-08-26 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 9 | ⭐ 66,104 | 2026-08-05 | 2026-09-08 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 8 | ⭐ 116,297 | 2026-08-01 | 2026-08-28 |
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 8 | ⭐ 10,413 | 2026-08-02 | 2026-09-06 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.024Z*
+*Last updated: 2026-09-08T21:01:49.780Z*

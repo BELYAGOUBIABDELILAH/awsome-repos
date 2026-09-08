@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 100
+- **Total Repositories**: 101
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,31 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,016 | 2026-08-01 | 23 |
+| [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | ⭐ 3,049 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,793 | 2026-08-01 | 4 |
+| [HyDE-Project/HyDE](../repos/HyDE-Project/HyDE.md) | ⭐ 9,580 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,796 | 2026-08-05 | 9 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,509 | 2026-08-07 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,233 | 2026-08-08 | 6 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,813 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 4,915 | 2026-08-12 | 11 |
+| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,237 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) | ⭐ 775 | 2026-09-07 | 1 |
+| [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) | ⭐ 795 | 2026-09-07 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,853 | 2026-09-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) | ⭐ 4,695 | 2026-08-09 | A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [linux-surface/linux-surface](../repos/linux-surface/linux-surface.md) | ⭐ 7,653 | 2026-08-10 | Linux Kernel for Surface Devices |
@@ -68,6 +68,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [harbor-framework/terminal-bench-2-1](../repos/harbor-framework/terminal-bench-2-1.md) | ⭐ 73 | 2026-08-14 | Terminal-Bench 2.1 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [qemus/qemu](../repos/qemus/qemu.md) | ⭐ 2,090 | 2026-08-14 | QEMU in a Docker container. |
 
 
 ---
@@ -94,8 +97,8 @@
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 6 |
 | [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,794 | 2026-08-08 | 5 |
+| [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,853 | 2026-09-08 | 1 |
 | [CISOfy/lynis](../repos/CISOfy/lynis.md) | ⭐ 16,222 | 2026-08-24 | 1 |
-| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,085 | 2026-08-11 | 5 |
 
 ---
 
@@ -105,7 +108,7 @@
 |------------|---------------|-------|------------|-----------|
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 23 | ⭐ 95,016 | 2026-08-01 | 2026-09-07 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [expo/skills](../repos/expo/skills.md) | 18 | ⭐ 2,503 | 2026-08-07 | 2026-09-06 |
+| [expo/skills](../repos/expo/skills.md) | 19 | ⭐ 2,509 | 2026-08-07 | 2026-09-08 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 13 | ⭐ 4,378 | 2026-08-01 | 2026-09-01 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 11 | ⭐ 11,138 | 2026-08-04 | 2026-09-05 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 11 | ⭐ 4,915 | 2026-08-12 | 2026-09-07 |
@@ -221,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.107Z*
+*Last updated: 2026-09-08T21:01:49.870Z*

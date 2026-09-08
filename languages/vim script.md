@@ -14,16 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 17,971 | 2026-08-01 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [vim-syntastic/syntastic](../repos/vim-syntastic/syntastic.md) | ⭐ 11,214 | 2026-08-02 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [altercation/solarized](../repos/altercation/solarized.md) | ⭐ 16,013 | 2026-09-07 | 1 |
 
+*No Vim script repositories trending today*
 
 ---
 
@@ -70,4 +62,4 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.121Z*
+*Last updated: 2026-09-08T21:01:49.883Z*

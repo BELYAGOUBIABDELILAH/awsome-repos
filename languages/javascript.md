@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 118
+- **Total Repositories**: 120
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 32,885 | 2026-08-02 | 7 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 32,921 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 2,613 | 2026-08-07 | 10 |
+| [decolua/9router](../repos/decolua/9router.md) | ⭐ 28,009 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 28,042 | 2026-08-08 | 8 |
+| [Dailin521/codex-provider-sync](../repos/Dailin521/codex-provider-sync.md) | ⭐ 3,341 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) | ⭐ 9,586 | 2026-08-09 | 3 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 66,586 | 2026-08-05 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fishjar/kiss-translator](../repos/fishjar/kiss-translator.md) | ⭐ 12,392 | 2026-08-10 | 2 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 28,123 | 2026-08-08 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FB208/OpenBidKit_Yibiao](../repos/FB208/OpenBidKit_Yibiao.md) | ⭐ 2,833 | 2026-08-25 | 2 |
+| [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) | ⭐ 10,415 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fmhy/edit](../repos/fmhy/edit.md) | ⭐ 11,658 | 2026-08-25 | 2 |
+| [FB208/OpenBidKit_Yibiao](../repos/FB208/OpenBidKit_Yibiao.md) | ⭐ 2,854 | 2026-08-25 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nasa-gibs/worldview](../repos/nasa-gibs/worldview.md) | ⭐ 1,841 | 2026-08-26 | 2 |
+| [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/plugins](../repos/openai/plugins.md) | ⭐ 5,473 | 2026-08-27 | 6 |
+| [openai/plugins](../repos/openai/plugins.md) | ⭐ 5,731 | 2026-08-27 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Stremio/stremio-web](../repos/Stremio/stremio-web.md) | ⭐ 13,671 | 2026-08-29 | 3 |
+| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 7,851 | 2026-08-29 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) | ⭐ 9,586 | 2026-08-09 | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Dro... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | The iconic SVG, font, and CSS toolkit |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [open-telemetry/opentelemetry.io](../repos/open-telemetry/opentelemetry.io.md) | ⭐ 945 | 2026-08-09 | The OpenTelemetry website and documentation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [techjarves/Uncensored-Local-Studio](../repos/techjarves/Uncensored-Local-Studio.md) | ⭐ 906 | 2026-08-10 | Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GG... |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zarazhangrui/follow-builders](../repos/zarazhangrui/follow-builders.md) | ⭐ 6,605 | 2026-08-10 | AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content in... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [chr0nzz/traefik-manager](../repos/chr0nzz/traefik-manager.md) | ⭐ 1,213 | 2026-08-11 | A clean, self-hosted web UI for managing your Traefik reverse proxy. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,420 | 2026-08-11 | Breakthrough Method for Agile Ai Driven Development |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [polius/FileSync](../repos/polius/FileSync.md) | ⭐ 1,473 | 2026-08-11 | Send files from one device to many in real-time. |
 
 
 ---
@@ -99,12 +99,12 @@
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 92,430 | 2026-08-05 | 17 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 66,586 | 2026-08-05 | 11 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 65,820 | 2026-08-05 | 10 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,500 | 2026-08-01 | 12 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,420 | 2026-08-11 | 4 |
-| [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 51,812 | 2026-08-26 | 3 |
+| [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,711 | 2026-08-08 | 2 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
 | [google/zx](../repos/google/zx.md) | ⭐ 45,685 | 2026-08-20 | 2 |
@@ -119,11 +119,11 @@
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 16 | ⭐ 43,692 | 2026-08-04 | 2026-09-02 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 12 | ⭐ 24,188 | 2026-08-01 | 2026-08-28 |
 | [byoungd/up](../repos/byoungd/up.md) | 12 | ⭐ 61,500 | 2026-08-01 | 2026-08-25 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 10 | ⭐ 65,820 | 2026-08-05 | 2026-09-05 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 11 | ⭐ 66,586 | 2026-08-05 | 2026-09-08 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 10 | ⭐ 2,613 | 2026-08-07 | 2026-09-07 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 9 | ⭐ 28,123 | 2026-08-08 | 2026-09-08 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 8 | ⭐ 141,962 | 2026-07-30 | 2026-08-27 |
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 8 | ⭐ 28,042 | 2026-08-08 | 2026-09-07 |
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 7 | ⭐ 32,885 | 2026-08-02 | 2026-09-07 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 8 | ⭐ 32,921 | 2026-08-02 | 2026-09-08 |
 | [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | 7 | ⭐ 1,017 | 2026-08-05 | 2026-09-04 |
 
 ---
@@ -160,6 +160,7 @@
 - [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) - Clean Code concepts adapted for JavaScript
 - [worldwonderer/oh-story-claudecode](../repos/worldwonderer/oh-story-claudecode.md) - 网文&#x2F;小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-f...
 - [react/react](../repos/react/react.md) - The library for web and native user interfaces.
+- [Dailin521/codex-provider-sync](../repos/Dailin521/codex-provider-sync.md) - Synchronize Codex session provider metadata across rollout files and SQLite state.
 - [tt-a1i/archify](../repos/tt-a1i/archify.md) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle ...
 - [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) - Production-grade engineering skills for AI coding agents.
 - [pbakaus/impeccable](../repos/pbakaus/impeccable.md) - The design language that makes your AI harness better at design.
@@ -229,8 +230,7 @@
 - [fmhy/edit](../repos/fmhy/edit.md) - Make changes to FMHY
 - [nasa-gibs/worldview](../repos/nasa-gibs/worldview.md) - Interactive interface for browsing global, full-resolution satellite imagery
 - [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) - ⭐️  Companies that don&#39;t have a broken hiring process
-- [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) - A spy satellite simulator in your browser, except the data is real. Live open source spatial inte...
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.063Z*
+*Last updated: 2026-09-08T21:01:49.823Z*

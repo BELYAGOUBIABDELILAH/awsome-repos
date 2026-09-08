@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ldc-developers/ldc](../repos/ldc-developers/ldc.md) | ⭐ 1,362 | 2026-08-09 | The LLVM-based D Compiler. |
 
+*No new D repositories in the last 30 days*
 
 ---
 
@@ -50,4 +48,4 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.039Z*
+*Last updated: 2026-09-08T21:01:49.794Z*

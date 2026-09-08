@@ -1,6 +1,6 @@
 # ZoranPandovski&#x2F;awesome-testing-tools
 
-> 🚀 A curated list of awesome software testing tools, from unit and load to accessibility, Web3, and contract testing 🚀
+> A curated collection of the best software testing tools for QA, automation, accessibility, performance, API, security, and more.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;ZoranPandovski&#x2F;awesome-testing-tools) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | CSS |
 | **License** | CC0-1.0 |
-| **Stars** | ⭐ 364 |
-| **Forks** | 🍴 121 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 371 |
+| **Forks** | 🍴 141 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 2, 2026 |
+| **Last Seen** | Sep 8, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`automated-testing`](../../topics/automated-testing.md) [`awesome`](../../topics/awesome.md) [`awesome-list`](../../topics/awesome-list.md) [`hacktoberfest`](../../topics/hacktoberfest.md) [`load-testing`](../../topics/load-testing.md) [`mobile-testing`](../../topics/mobile-testing.md) [`penetration-testing`](../../topics/penetration-testing.md) [`performance-testing`](../../topics/performance-testing.md) [`qa`](../../topics/qa.md) [`qatools`](../../topics/qatools.md) [`quality-assurance`](../../topics/quality-assurance.md) [`quality-assurance-framework`](../../topics/quality-assurance-framework.md) [`quality-assurance-library`](../../topics/quality-assurance-library.md) [`test-automation`](../../topics/test-automation.md) [`test-framework`](../../topics/test-framework.md) [`testing`](../../topics/testing.md) [`testing-framework`](../../topics/testing-framework.md) [`testing-practices`](../../topics/testing-practices.md) [`testing-tools`](../../topics/testing-tools.md) 
+[`automated-testing`](../../topics/automated-testing.md) [`awesome`](../../topics/awesome.md) [`awesome-list`](../../topics/awesome-list.md) [`load-testing`](../../topics/load-testing.md) [`mobile-testing`](../../topics/mobile-testing.md) [`penetration-testing`](../../topics/penetration-testing.md) [`performance-testing`](../../topics/performance-testing.md) [`qa`](../../topics/qa.md) [`qatools`](../../topics/qatools.md) [`quality-assurance`](../../topics/quality-assurance.md) [`quality-assurance-framework`](../../topics/quality-assurance-framework.md) [`quality-assurance-library`](../../topics/quality-assurance-library.md) [`test-automation`](../../topics/test-automation.md) [`test-framework`](../../topics/test-framework.md) [`testing`](../../topics/testing.md) [`testing-framework`](../../topics/testing-framework.md) [`testing-practices`](../../topics/testing-practices.md) [`testing-tools`](../../topics/testing-tools.md) 
 
 ### Curated Categories
 `Mobile Development` `DevOps &amp; CI&#x2F;CD` `Cybersecurity` `Systems Programming` `Developer Tools` `Testing &amp; QA` `Automation` `Education &amp; Learning` 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 364+ stars, strong contributor base |
+| **Community** | Very Active | 371+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-07T21:01:59.688Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-08T21:01:52.429Z*  
+*Data from 2 trending reports*

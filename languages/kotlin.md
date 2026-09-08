@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 130
+- **Total Repositories**: 131
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-06
 
@@ -16,52 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,441 | 2026-08-01 | 12 |
+| [Fate-Grand-Automata/FGA](../repos/Fate-Grand-Automata/FGA.md) | ⭐ 2,372 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 62,317 | 2026-08-02 | 12 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,380 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aniyomiorg/aniyomi](../repos/aniyomiorg/aniyomi.md) | ⭐ 7,662 | 2026-08-02 | 3 |
+| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 1,801 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,337 | 2026-08-02 | 10 |
+| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 796 | 2026-08-05 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,342 | 2026-08-02 | 11 |
+| [Swordfish90/Lemuroid](../repos/Swordfish90/Lemuroid.md) | ⭐ 4,297 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aistra0528/Hail](../repos/aistra0528/Hail.md) | ⭐ 6,619 | 2026-08-03 | 3 |
+| [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 983 | 2026-08-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [samolego/Canta](../repos/samolego/Canta.md) | ⭐ 5,808 | 2026-08-07 | 2 |
+| [The412Banner/Bannerlator](../repos/The412Banner/Bannerlator.md) | ⭐ 269 | 2026-08-26 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 29,869 | 2026-08-08 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,235 | 2026-08-10 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Swordfish90/Lemuroid](../repos/Swordfish90/Lemuroid.md) | ⭐ 4,292 | 2026-08-10 | 2 |
+| [IacobIonut01/ReFra](../repos/IacobIonut01/ReFra.md) | ⭐ 2,756 | 2026-09-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [EchoMusicApp/Echo-Music](../repos/EchoMusicApp/Echo-Music.md) | ⭐ 3,343 | 2026-08-09 | A modern Android music app with ad-free streaming, synced lyrics, offline playback, and an intuit... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/private-compute-services](../repos/google/private-compute-services.md) | ⭐ 827 | 2026-08-09 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,195 | 2026-08-09 | An advanced Kernel based root solution for Android |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | ⭐ 6,221 | 2026-08-09 | Kernel-based Android Root Solution &amp; KPM |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [celzero/rethink-app](../repos/celzero/rethink-app.md) | ⭐ 5,353 | 2026-08-10 | DNS over HTTPS &#x2F; DNS over Tor &#x2F; DNSCrypt client, WireGuard proxifier, firewall, and connection tr... |
@@ -76,10 +58,22 @@
 | [maksimowiczm/FoodYou](../repos/maksimowiczm/FoodYou.md) | ⭐ 562 | 2026-08-10 | A free, open-source, and privacy-focused food diary and nutrition tracker |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Swordfish90/Lemuroid](../repos/Swordfish90/Lemuroid.md) | ⭐ 4,292 | 2026-08-10 | All in one emulator on Android! |
+| [Swordfish90/Lemuroid](../repos/Swordfish90/Lemuroid.md) | ⭐ 4,297 | 2026-08-10 | All in one emulator on Android! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [torlando-tech/columba](../repos/torlando-tech/columba.md) | ⭐ 1,117 | 2026-08-11 | Native Android messaging app using Bluetooth LE, TCP, or RNode (LoRa) over LXMF and Reticulum |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) | ⭐ 7,439 | 2026-08-11 | decentralized mesh chat |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,730 | 2026-08-11 | 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、w... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LagradOst/QuickNovel](../repos/LagradOst/QuickNovel.md) | ⭐ 1,764 | 2026-08-11 | Android app for downloading novels |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | ⭐ 5,636 | 2026-08-11 | The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that c... |
 
 
 ---
@@ -90,7 +84,7 @@
 |------------|-------|------------|---------------|
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,628 | 2026-08-03 | 9 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 62,317 | 2026-08-02 | 12 |
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,356 | 2026-08-04 | 6 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,380 | 2026-08-04 | 7 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,144 | 2026-08-06 | 12 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,483 | 2026-08-03 | 5 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 29,869 | 2026-08-08 | 11 |
@@ -119,10 +113,10 @@
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 12 | ⭐ 62,317 | 2026-08-02 | 2026-09-07 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 12 | ⭐ 53,144 | 2026-08-06 | 2026-09-06 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 11 | ⭐ 2,342 | 2026-08-02 | 2026-09-07 |
+| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 11 | ⭐ 796 | 2026-08-05 | 2026-09-08 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 11 | ⭐ 29,869 | 2026-08-08 | 2026-09-07 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 10 | ⭐ 4,386 | 2026-08-02 | 2026-08-26 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 10 | ⭐ 11,337 | 2026-08-02 | 2026-09-07 |
-| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 10 | ⭐ 777 | 2026-08-05 | 2026-09-06 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 9 | ⭐ 62,628 | 2026-08-03 | 2026-09-06 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 8 | ⭐ 10,600 | 2026-08-03 | 2026-09-06 |
 
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.068Z*
+*Last updated: 2026-09-08T21:01:49.830Z*

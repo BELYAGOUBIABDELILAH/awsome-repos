@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-07
+- **Last Updated**: 2026-09-08
 
 ---
 
@@ -16,17 +16,15 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,821 | 2026-08-01 | 31 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,824 | 2026-08-01 | 32 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | ⭐ 206 | 2026-08-09 | The @vlang language server, for all your editing needs like go-to-definition, code completion, ty... |
 
+*No new V repositories in the last 30 days*
 
 ---
 
@@ -34,7 +32,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,821 | 2026-08-01 | 31 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,824 | 2026-08-01 | 32 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | ⭐ 206 | 2026-08-09 | 2 |
 
 ---
@@ -43,7 +41,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vlang/v](../repos/vlang/v.md) | 31 | ⭐ 37,821 | 2026-08-01 | 2026-09-07 |
+| [vlang/v](../repos/vlang/v.md) | 32 | ⭐ 37,824 | 2026-08-01 | 2026-09-08 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | 2 | ⭐ 206 | 2026-08-09 | 2026-08-11 |
 
 ---
@@ -55,4 +53,4 @@
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.115Z*
+*Last updated: 2026-09-08T21:01:49.878Z*

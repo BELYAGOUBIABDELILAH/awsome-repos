@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 98
+- **Total Repositories**: 99
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-27
+- **Last Updated**: 2026-09-08
 
 ---
 
@@ -16,31 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 11,994 | 2026-08-01 | 15 |
+| [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,947 | 2026-08-02 | 7 |
+| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 6,317 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 6,298 | 2026-08-04 | 6 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,335 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,312 | 2026-08-17 | 5 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,323 | 2026-08-17 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Manic-EMU/ManicEMU](../repos/Manic-EMU/ManicEMU.md) | ⭐ 483 | 2026-09-07 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [PlayCover/PlayCover](../repos/PlayCover/PlayCover.md) | ⭐ 11,700 | 2026-09-07 | 1 |
+| [uzairansaruzi/hermex](../repos/uzairansaruzi/hermex.md) | ⭐ 1,267 | 2026-09-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rime/squirrel](../repos/rime/squirrel.md) | ⭐ 6,284 | 2026-08-09 | 【鼠鬚管】Rime for macOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 1,131 | 2026-08-10 | Native GUI for Homebrew Casks |
@@ -68,6 +62,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lihaoyun6/QuickRecorder](../repos/lihaoyun6/QuickRecorder.md) | ⭐ 8,578 | 2026-08-12 | A lightweight screen recorder based on ScreenCapture Kit for macOS &#x2F; 基于 ScreenCapture Kit 的轻量化多功能... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rileytestut/Delta](../repos/rileytestut/Delta.md) | ⭐ 6,068 | 2026-08-12 | Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices. |
 
 
 ---
@@ -76,7 +73,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,303 | 2026-08-05 | 9 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,335 | 2026-08-05 | 10 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | 2026-09-04 | 1 |
 | [apple/container](../repos/apple/container.md) | ⭐ 49,723 | 2026-08-01 | 12 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,843 | 2026-08-12 | 5 |
@@ -92,9 +89,9 @@
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,892 | 2026-08-04 | 12 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,482 | 2026-08-24 | 5 |
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,312 | 2026-08-17 | 5 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,323 | 2026-08-17 | 6 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,244 | 2026-08-08 | 6 |
-| [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,758 | 2026-08-01 | 2 |
+| [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | 2026-08-01 | 3 |
 | [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,422 | 2026-08-17 | 2 |
 
 ---
@@ -108,9 +105,9 @@
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 12 | ⭐ 14,892 | 2026-08-04 | 2026-08-29 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 10 | ⭐ 26,820 | 2026-08-01 | 2026-09-05 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 10 | ⭐ 26,866 | 2026-08-04 | 2026-09-04 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | 10 | ⭐ 70,335 | 2026-08-05 | 2026-09-08 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 9 | ⭐ 6,257 | 2026-08-01 | 2026-09-02 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 9 | ⭐ 3,308 | 2026-08-01 | 2026-09-04 |
-| [swiftlang/swift](../repos/swiftlang/swift.md) | 9 | ⭐ 70,303 | 2026-08-05 | 2026-08-27 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 8 | ⭐ 8,512 | 2026-08-04 | 2026-09-05 |
 | [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | 8 | ⭐ 10,622 | 2026-08-06 | 2026-09-05 |
 
@@ -216,7 +213,8 @@
 - [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) - A modern Wine wrapper for macOS built with SwiftUI
 - [Manic-EMU/ManicEMU](../repos/Manic-EMU/ManicEMU.md) - Manic EMU is an all-in-one retro game emulator for iOS. It packs powerful features while keeping ...
 - [PlayCover/PlayCover](../repos/PlayCover/PlayCover.md) - Community fork of PlayCover
+- [uzairansaruzi/hermex](../repos/uzairansaruzi/hermex.md) - Native iPhone app for your Hermes agent
 
 ---
 
-*Last updated: 2026-09-07T21:01:57.111Z*
+*Last updated: 2026-09-08T21:01:49.874Z*
