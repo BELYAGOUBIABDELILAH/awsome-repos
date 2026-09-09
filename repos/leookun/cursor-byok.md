@@ -1,6 +1,6 @@
 # leookun&#x2F;cursor-byok
 
-> cursor-byok is a local implementation of Cursor&#39;s backend. https:&#x2F;&#x2F;docs.leokun.cn&#x2F;
+> cursor-byok is a local implementation of Cursor&#39;s backend
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;leookun&#x2F;cursor-byok) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | MIT |
-| **Stars** | ⭐ 2,575 |
-| **Forks** | 🍴 405 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 2,853 |
+| **Forks** | 🍴 445 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Aug 28, 2026 |
+| **Last Seen** | Sep 9, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 4 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-08T21:01:52.955Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-09-09T21:02:05.010Z*  
+*Data from 8 trending reports*

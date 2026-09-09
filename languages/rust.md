@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 164
+- **Total Repositories**: 166
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-08
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 122,533 | 2026-08-01 | 10 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 18,673 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mxc](../repos/microsoft/mxc.md) | ⭐ 1,307 | 2026-08-01 | 3 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 42,307 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 28,668 | 2026-08-03 | 10 |
+| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | ⭐ 2,853 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 64,099 | 2026-08-03 | 2 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,909 | 2026-08-09 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,825 | 2026-08-09 | 9 |
+| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 15,211 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 11,156 | 2026-08-09 | 8 |
+| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 17,389 | 2026-08-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 31,863 | 2026-08-09 | 7 |
+| [waditu/czsc](../repos/waditu/czsc.md) | ⭐ 6,077 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mixelpixx/Konnect](../repos/mixelpixx/Konnect.md) | ⭐ 552 | 2026-09-06 | 3 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 6,276 | 2026-08-17 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huggingface/funes](../repos/huggingface/funes.md) | ⭐ 319 | 2026-09-07 | 2 |
+| [memvid/memvid](../repos/memvid/memvid.md) | ⭐ 16,532 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quickwit-oss/quickwit](../repos/quickwit-oss/quickwit.md) | ⭐ 11,587 | 2026-09-08 | 1 |
+| [mixelpixx/Konnect](../repos/mixelpixx/Konnect.md) | ⭐ 591 | 2026-09-06 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [run-llama/liteparse](../repos/run-llama/liteparse.md) | ⭐ 12,196 | 2026-08-10 | A fast, helpful, and open-source document parser |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 14,503 | 2026-08-10 | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apache/datafusion](../repos/apache/datafusion.md) | ⭐ 9,217 | 2026-08-10 | Apache DataFusion SQL Query Engine |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [screenpipe/screenpipe](../repos/screenpipe/screenpipe.md) | ⭐ 20,883 | 2026-08-10 | YC (S26) | Record your screen 24&#x2F;7 and plug into your agents. Local, private, secure. Connect to ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 38,707 | 2026-08-10 | Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fan... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mufeedvh/code2prompt](../repos/mufeedvh/code2prompt.md) | ⭐ 7,576 | 2026-08-10 | A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating,... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [macro-inc/macro](../repos/macro-inc/macro.md) | ⭐ 3,251 | 2026-08-11 | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-link... |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cachix/devenv](../repos/cachix/devenv.md) | ⭐ 7,588 | 2026-08-11 | Fast, Declarative, Reproducible, and Composable Developer Environments using Nix |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jtroo/kanata](../repos/jtroo/kanata.md) | ⭐ 7,740 | 2026-08-11 | Improve keyboard comfort and usability with advanced customization |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NVIDIA-NeMo/Switchyard](../repos/NVIDIA-NeMo/Switchyard.md) | ⭐ 1,565 | 2026-08-12 | Switchyard lets LLM applications route traffic across models and providers while preserving nativ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [AntigmaLabs/ante](../repos/AntigmaLabs/ante.md) | ⭐ 1,329 | 2026-08-12 | Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It work... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BoundaryML/baml](../repos/BoundaryML/baml.md) | ⭐ 9,004 | 2026-08-12 | The programming language for agents |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,503 | 2026-08-12 | An extremely fast Python linter and code formatter, written in Rust. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tonhowtf/omniget](../repos/tonhowtf/omniget.md) | ⭐ 9,651 | 2026-08-12 | Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. ... |
 
 
 ---
@@ -92,7 +92,7 @@
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 117,447 | 2026-07-30 | 7 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,895 | 2026-08-11 | 7 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,825 | 2026-08-09 | 9 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,909 | 2026-08-09 | 10 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 89,217 | 2026-07-31 | 3 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
@@ -105,7 +105,7 @@
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 47,938 | 2026-08-28 | 1 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 45,967 | 2026-08-28 | 1 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,464 | 2026-08-05 | 4 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 42,005 | 2026-08-02 | 7 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 42,307 | 2026-08-02 | 8 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,341 | 2026-08-02 | 2 |
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [openai/codex](../repos/openai/codex.md) | 10 | ⭐ 122,533 | 2026-08-01 | 2026-09-08 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 10 | ⭐ 28,668 | 2026-08-03 | 2026-09-08 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 9 | ⭐ 92,825 | 2026-08-09 | 2026-09-08 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 10 | ⭐ 92,909 | 2026-08-09 | 2026-09-09 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 8 | ⭐ 18,673 | 2026-08-01 | 2026-09-09 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 8 | ⭐ 42,307 | 2026-08-02 | 2026-09-09 |
+| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 8 | ⭐ 2,853 | 2026-08-05 | 2026-09-09 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 8 | ⭐ 11,156 | 2026-08-09 | 2026-09-08 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 8 | ⭐ 38,707 | 2026-08-10 | 2026-08-28 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 7 | ⭐ 117,447 | 2026-07-30 | 2026-09-04 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | 7 | ⭐ 17,401 | 2026-08-01 | 2026-08-29 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 7 | ⭐ 42,005 | 2026-08-02 | 2026-09-05 |
 | [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | 7 | ⭐ 18,760 | 2026-08-03 | 2026-09-03 |
-| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 7 | ⭐ 2,575 | 2026-08-05 | 2026-08-28 |
 
 ---
 
@@ -185,7 +185,7 @@
 - [pola-rs/polars](../repos/pola-rs/polars.md) - Extremely fast Query Engine for DataFrames, written in Rust
 - [hyperium/hyper](../repos/hyperium/hyper.md) - An HTTP library for Rust
 - [WeaveMindAI/weft](../repos/WeaveMindAI/weft.md) - A programming language for AI orchestrations (POC)
-- [leookun/cursor-byok](../repos/leookun/cursor-byok.md) - cursor-byok is a local implementation of Cursor&#39;s backend. https:&#x2F;&#x2F;docs.leokun.cn&#x2F;
+- [leookun/cursor-byok](../repos/leookun/cursor-byok.md) - cursor-byok is a local implementation of Cursor&#39;s backend
 - [warp-tech/warpgate](../repos/warp-tech/warpgate.md) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP&#x2F;VNC bastion&#x2F;PAM that doesn&#39;t need addi...
 - [getzola/zola](../repos/getzola/zola.md) - A fast static site generator in a single binary with everything built-in. https:&#x2F;&#x2F;www.getzola.org
 - [GCWing/BitFun](../repos/GCWing/BitFun.md) - BitFun combines a high-performance agent runtime written in Rust with a polished desktop applicat...
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-08T21:01:49.866Z*
+*Last updated: 2026-09-09T21:02:01.846Z*

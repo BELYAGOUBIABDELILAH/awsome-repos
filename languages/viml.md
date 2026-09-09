@@ -8,14 +8,16 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-02
-- **Last Updated**: 2026-09-07
+- **Last Updated**: 2026-09-09
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [yangyangwithgnu/use_vim_as_ide](../repos/yangyangwithgnu/use_vim_as_ide.md) | ⭐ 9,158 | 2026-09-07 | 2 |
 
-*No VimL repositories trending today*
 
 ---
 
@@ -32,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yangyangwithgnu/use_vim_as_ide](../repos/yangyangwithgnu/use_vim_as_ide.md) | ⭐ 9,158 | 2026-09-07 | 1 |
+| [yangyangwithgnu/use_vim_as_ide](../repos/yangyangwithgnu/use_vim_as_ide.md) | ⭐ 9,158 | 2026-09-07 | 2 |
 | [altercation/vim-colors-solarized](../repos/altercation/vim-colors-solarized.md) | ⭐ 6,593 | 2026-08-02 | 5 |
 
 ---
@@ -42,7 +44,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [altercation/vim-colors-solarized](../repos/altercation/vim-colors-solarized.md) | 5 | ⭐ 6,593 | 2026-08-02 | 2026-08-09 |
-| [yangyangwithgnu/use_vim_as_ide](../repos/yangyangwithgnu/use_vim_as_ide.md) | 1 | ⭐ 9,158 | 2026-09-07 | 2026-09-07 |
+| [yangyangwithgnu/use_vim_as_ide](../repos/yangyangwithgnu/use_vim_as_ide.md) | 2 | ⭐ 9,158 | 2026-09-07 | 2026-09-09 |
 
 ---
 
@@ -53,4 +55,4 @@
 
 ---
 
-*Last updated: 2026-09-08T21:01:49.884Z*
+*Last updated: 2026-09-09T21:02:01.873Z*

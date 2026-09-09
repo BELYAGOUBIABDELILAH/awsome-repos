@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 434
+- **Total Repositories**: 441
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
-- **Average Stars**: 15378
+- **Average Stars**: 15184
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,708 | Ruby |  |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,086 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | Swift |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,712 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Fate-Grand-Automata/FGA](../repos/Fate-Grand-Automata/FGA.md) | ⭐ 2,372 | Kotlin |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,481 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,480 | Scala |  |
+| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,956 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,957 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,969 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,959 | Scala |  |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,877 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 76,454 | Dart |  |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 29,748 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,853 | Dart |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,162 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 29,710 | Dart |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,566 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,141 | Clojure |  |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,830 | Objective-C |  |
 
 
 ---
@@ -55,10 +55,10 @@
 |------------|-------|----------|------------|---------------|
 | [react/react](../repos/react/react.md) | ⭐ 247,637 | JavaScript | 2026-08-04 | 2 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,853 | Dart | 2026-08-01 | 25 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 178,877 | Dart | 2026-08-01 | 26 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | C | 2026-08-07 | 10 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,962 | JavaScript | 2026-07-30 | 8 |
-| [react/react-native](../repos/react/react-native.md) | ⭐ 126,441 | C++ | 2026-08-04 | 3 |
+| [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | C++ | 2026-08-04 | 4 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | TypeScript | 2026-07-31 | 3 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | TypeScript | 2026-08-17 | 2 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | JavaScript | 2026-08-06 | 1 |
@@ -73,16 +73,13 @@
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | TypeScript | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,076 | C | 1 |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,086 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,846 | PHP | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,708 | Ruby | 4 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 6,257 | Swift | 2 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,712 | Ruby | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | Swift | 1 |
@@ -97,7 +94,10 @@
 | [Fate-Grand-Automata/FGA](../repos/Fate-Grand-Automata/FGA.md) | ⭐ 2,372 | Kotlin | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,480 | Scala | 8 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,481 | Scala | 9 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,956 | Scala | 6 |
 
 ---
 
@@ -105,38 +105,42 @@
 
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [dyad-sh/dyad](../repos/dyad-sh/dyad.md) | ⭐ 21,195 | TypeScript | 2026-08-10 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 61,677 | TypeScript | 2026-08-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 14,503 | Rust | 2026-08-10 |
+| [plankanban/planka](../repos/plankanban/planka.md) | ⭐ 12,484 | JavaScript | 2026-08-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [xbmc/xbmc](../repos/xbmc/xbmc.md) | ⭐ 21,141 | C++ | 2026-08-10 |
+| [TanStack/router](../repos/TanStack/router.md) | ⭐ 14,921 | TypeScript | 2026-08-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,603 | C# | 2026-08-10 |
+| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,895 | Rust | 2026-08-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [Multiwoven/multiwoven](../repos/Multiwoven/multiwoven.md) | ⭐ 1,666 | Ruby | 2026-08-10 |
+| [google/flatbuffers](../repos/google/flatbuffers.md) | ⭐ 26,445 | C++ | 2026-08-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 1,131 | Swift | 2026-08-10 |
+| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,285 | Swift | 2026-08-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [celzero/rethink-app](../repos/celzero/rethink-app.md) | ⭐ 5,353 | Kotlin | 2026-08-10 |
+| [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,730 | Kotlin | 2026-08-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,235 | Kotlin | 2026-08-10 |
+| [LagradOst/QuickNovel](../repos/LagradOst/QuickNovel.md) | ⭐ 1,764 | Kotlin | 2026-08-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [maksimowiczm/FoodYou](../repos/maksimowiczm/FoodYou.md) | ⭐ 562 | Kotlin | 2026-08-10 |
+| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | ⭐ 5,636 | Kotlin | 2026-08-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [Swordfish90/Lemuroid](../repos/Swordfish90/Lemuroid.md) | ⭐ 4,297 | Kotlin | 2026-08-10 |
+| [qingyueyin/Pure-music](../repos/qingyueyin/Pure-music.md) | ⭐ 108 | Dart | 2026-08-11 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-09-09](../archive/2026/09/2026-09-09.md)
+- 52 repositories trending
+- Top: flutter&#x2F;flutter
 
 ### [2026-09-08](../archive/2026/09/2026-09-08.md)
 - 57 repositories trending
@@ -162,10 +166,6 @@
 - 39 repositories trending
 - Top: flutter&#x2F;flutter
 
-### [2026-09-02](../archive/2026/09/2026-09-02.md)
-- 51 repositories trending
-- Top: Genymobile&#x2F;scrcpy
-
 
 ---
 
@@ -175,32 +175,32 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 35 days | 2026-08-01 | 2026-09-08 |
-| [gradle/gradle](../repos/gradle/gradle.md) | 34 days | 2026-08-01 | 2026-09-08 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 33 days | 2026-08-01 | 2026-09-08 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 33 days | 2026-08-01 | 2026-09-08 |
-| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 33 days | 2026-08-01 | 2026-09-08 |
-| [vlang/v](../repos/vlang/v.md) | 32 days | 2026-08-01 | 2026-09-08 |
-| [joernio/joern](../repos/joernio/joern.md) | 31 days | 2026-08-01 | 2026-09-08 |
+| [apache/spark](../repos/apache/spark.md) | 36 days | 2026-08-01 | 2026-09-09 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 35 days | 2026-08-01 | 2026-09-09 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 34 days | 2026-08-01 | 2026-09-09 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 34 days | 2026-08-01 | 2026-09-09 |
+| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 34 days | 2026-08-01 | 2026-09-09 |
+| [vlang/v](../repos/vlang/v.md) | 33 days | 2026-08-01 | 2026-09-09 |
+| [joernio/joern](../repos/joernio/joern.md) | 32 days | 2026-08-01 | 2026-09-09 |
 | [vim/vim](../repos/vim/vim.md) | 29 days | 2026-08-01 | 2026-09-07 |
+| [flutter/flutter](../repos/flutter/flutter.md) | 26 days | 2026-08-01 | 2026-09-09 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 26 days | 2026-08-01 | 2026-09-08 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 26 days | 2026-08-01 | 2026-09-08 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Kotlin**: 85 repositories (20%)
-- **Dart**: 59 repositories (14%)
-- **Swift**: 51 repositories (12%)
-- **C**: 37 repositories (9%)
+- **Kotlin**: 87 repositories (20%)
+- **Dart**: 59 repositories (13%)
+- **Swift**: 52 repositories (12%)
+- **C**: 38 repositories (9%)
 - **Java**: 29 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 55.3 repositories
+- **Daily Average**: 55.4 repositories
 - **Peak Day**: 2026-08-19 (77 repositories)
-- **Growth Rate**: 42% this month
+- **Growth Rate**: 40% this month
 
 ---
 
@@ -296,6 +296,7 @@
 - [GrapheneOS/Camera](../repos/GrapheneOS/Camera.md) - Modern camera app focused on privacy and security with QR &amp; barcode scanning.
 - [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) - Painless E2E Automation for Mobile and Web
 - [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) - An open-source Android app to let you browse YouTube and other services freely. 
+- [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) - Secure open-source Android browser with support for extensions
 - [chen08209/FlClash](../repos/chen08209/FlClash.md) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) - PiliPlus
 - [localsend/localsend](../repos/localsend/localsend.md) - An open-source cross-platform alternative to AirDrop
@@ -310,8 +311,7 @@
 - [gokadzev/Musify](../repos/gokadzev/Musify.md) - Unlock the full potential of music: Stream effortlessly with one app!
 - [rstudio/shiny](../repos/rstudio/shiny.md) - Easy interactive web applications with R
 - [operately/operately](../repos/operately/operately.md) - The open source company operating system.
-- [status-im/status-legacy](../repos/status-im/status-legacy.md) - a free (libre) open source, mobile OS for Ethereum
 
 ---
 
-*Last updated: 2026-09-08T21:01:49.598Z*
+*Last updated: 2026-09-09T21:02:01.581Z*

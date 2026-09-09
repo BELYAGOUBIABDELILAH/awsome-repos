@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 79
+- **Total Repositories**: 80
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-07
 
@@ -16,19 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,262 | 2026-08-01 | 6 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 36,443 | 2026-08-12 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 34,575 | 2026-08-12 | 9 |
+| [w3c/wcag](../repos/w3c/wcag.md) | ⭐ 1,482 | 2026-08-24 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [datawhalechina/Agent-Learning-Hub](../repos/datawhalechina/Agent-Learning-Hub.md) | ⭐ 7,630 | 2026-09-03 | 3 |
+| [openshift/openshift-docs](../repos/openshift/openshift-docs.md) | ⭐ 882 | 2026-08-28 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy-site](../repos/omacom/omarchy-site.md) | ⭐ 71 | 2026-09-08 | 1 |
+| [aoaostar/legado](../repos/aoaostar/legado.md) | ⭐ 6,254 | 2026-09-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wdndev/llm_interview_note](../repos/wdndev/llm_interview_note.md) | ⭐ 15,058 | 2026-09-08 | 1 |
+| [omacom/omarchy-site](../repos/omacom/omarchy-site.md) | ⭐ 77 | 2026-09-08 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Guyungy/damaihelper](../repos/Guyungy/damaihelper.md) | ⭐ 4,121 | 2026-09-09 | 1 |
 
 
 ---
@@ -37,16 +40,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [github/choosealicense.com](../repos/github/choosealicense.com.md) | ⭐ 4,193 | 2026-08-10 | A site to provide non-judgmental guidance on choosing a license for your open source project |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [revfactory/harness](../repos/revfactory/harness.md) | ⭐ 8,905 | 2026-08-11 | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 3,247 | 2026-08-11 | Collection of the most essential transitions for web apps, skill for agents and Refine tool for a... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 34,575 | 2026-08-12 | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows.... |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 36,443 | 2026-08-12 | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows.... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | A rugged, minimal framework for composing JavaScript behavior in your markup.  |
@@ -65,6 +65,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [colonelpanichacks/flock-you](../repos/colonelpanichacks/flock-you.md) | ⭐ 1,281 | 2026-08-15 | flock cam detection |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [judge0/judge0](../repos/judge0/judge0.md) | ⭐ 4,375 | 2026-08-15 | Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI. |
 
 
 ---
@@ -81,7 +84,7 @@
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 40,978 | 2026-09-03 | 1 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,545 | 2026-08-07 | 3 |
 | [fengdu78/Coursera-ML-AndrewNg-Notes](../repos/fengdu78/Coursera-ML-AndrewNg-Notes.md) | ⭐ 37,699 | 2026-09-06 | 1 |
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 34,575 | 2026-08-12 | 9 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 36,443 | 2026-08-12 | 10 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,182 | 2026-08-19 | 5 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,171 | 2026-08-09 | 7 |
@@ -104,8 +107,8 @@
 | [averygan/reclip](../repos/averygan/reclip.md) | 11 | ⭐ 8,735 | 2026-08-03 | 2026-09-05 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 11 | ⭐ 135,251 | 2026-08-08 | 2026-08-25 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 10 | ⭐ 9,776 | 2026-08-01 | 2026-09-03 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 10 | ⭐ 36,443 | 2026-08-12 | 2026-09-09 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 9 | ⭐ 208,807 | 2026-08-03 | 2026-09-07 |
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 9 | ⭐ 34,575 | 2026-08-12 | 2026-09-08 |
 | [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 8 | ⭐ 9,116 | 2026-08-03 | 2026-09-02 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 8 | ⭐ 27,402 | 2026-08-03 | 2026-09-07 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 7 | ⭐ 25,427 | 2026-08-04 | 2026-09-01 |
@@ -194,7 +197,8 @@
 - [aoaostar/legado](../repos/aoaostar/legado.md) - 阅读APP书源
 - [omacom/omarchy-site](../repos/omacom/omarchy-site.md) - Beautiful, Modern &amp; Opinionated Linux by DHH
 - [wdndev/llm_interview_note](../repos/wdndev/llm_interview_note.md) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
+- [Guyungy/damaihelper](../repos/Guyungy/damaihelper.md) - 支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本
 
 ---
 
-*Last updated: 2026-09-08T21:01:49.814Z*
+*Last updated: 2026-09-09T21:02:01.793Z*

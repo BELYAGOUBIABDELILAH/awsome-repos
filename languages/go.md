@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 228
+- **Total Repositories**: 231
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-09-08
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 47,623 | 2026-08-01 | 12 |
+| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 6,571 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 21,838 | 2026-08-01 | 14 |
+| [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 41,494 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,475 | 2026-08-01 | 13 |
+| [authelia/authelia](../repos/authelia/authelia.md) | ⭐ 28,861 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 6,308 | 2026-08-02 | 6 |
+| [chaitin/SafeLine](../repos/chaitin/SafeLine.md) | ⭐ 22,548 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,110 | 2026-08-04 | 4 |
+| [Project-HAMi/HAMi](../repos/Project-HAMi/HAMi.md) | ⭐ 4,562 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Project-HAMi/HAMi](../repos/Project-HAMi/HAMi.md) | ⭐ 4,539 | 2026-08-04 | 3 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 90,391 | 2026-08-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 22,564 | 2026-08-06 | 5 |
+| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 17,097 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 40,887 | 2026-08-07 | 11 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 41,015 | 2026-08-07 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,017 | 2026-08-11 | 4 |
+| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,012 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gtsteffaniak/filebrowser](../repos/gtsteffaniak/filebrowser.md) | ⭐ 8,191 | 2026-09-08 | 1 |
+| [googleapis/mcp-toolbox](../repos/googleapis/mcp-toolbox.md) | ⭐ 16,351 | 2026-08-19 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [henrygd/beszel](../repos/henrygd/beszel.md) | ⭐ 24,616 | 2026-08-10 | Lightweight server monitoring with historical data, docker stats, and alerts. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [github/gh-aw](../repos/github/gh-aw.md) | ⭐ 4,999 | 2026-08-10 | GitHub Agentic Workflows |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 19,289 | 2026-08-10 | 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kdlbs/kandev](../repos/kdlbs/kandev.md) | ⭐ 570 | 2026-08-10 | AI Kanban &amp; Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [TecharoHQ/anubis](../repos/TecharoHQ/anubis.md) | ⭐ 22,034 | 2026-08-10 | Weighs the soul of incoming HTTP requests to stop AI crawlers |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kenn-io/msgvault](../repos/kenn-io/msgvault.md) | ⭐ 1,992 | 2026-08-10 | Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full mess... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 28,837 | 2026-08-11 | Find secrets with Gitleaks 🔑 |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [getsops/sops](../repos/getsops/sops.md) | ⭐ 22,767 | 2026-08-11 | Simple and flexible tool for managing secrets |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [grafana/tempo](../repos/grafana/tempo.md) | ⭐ 5,430 | 2026-08-11 | Grafana Tempo is a high volume, minimal dependency distributed tracing backend. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/typescript-go](../repos/microsoft/typescript-go.md) | ⭐ 26,184 | 2026-08-11 | Staging repo for development of native port of TypeScript |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,012 | 2026-08-11 | The Prometheus monitoring system and time series database. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [anchore/syft](../repos/anchore/syft.md) | ⭐ 9,503 | 2026-08-11 | CLI tool and library for generating a Software Bill of Materials from container images and filesy... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [safing/portmaster](../repos/safing/portmaster.md) | ⭐ 13,515 | 2026-08-11 | 🏔 Love Freedom - ❌ Block Mass Surveillance |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rancher/rancher](../repos/rancher/rancher.md) | ⭐ 25,844 | 2026-08-11 | Complete container management platform |
 
 
 ---
@@ -92,14 +92,14 @@
 | [golang/go](../repos/golang/go.md) | ⭐ 137,097 | 2026-07-31 | 7 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 125,949 | 2026-08-04 | 4 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,971 | 2026-08-15 | 5 |
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 89,592 | 2026-08-06 | 7 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 90,391 | 2026-08-06 | 8 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,444 | 2026-08-12 | 6 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | 2026-08-03 | 3 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 72,088 | 2026-08-04 | 4 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | 2026-08-07 | 1 |
-| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,017 | 2026-08-11 | 4 |
+| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,012 | 2026-08-11 | 5 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,391 | 2026-08-12 | 1 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,190 | 2026-08-22 | 2 |
@@ -119,12 +119,12 @@
 | [ollama/ollama](../repos/ollama/ollama.md) | 13 | ⭐ 180,475 | 2026-08-01 | 2026-09-08 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 12 | ⭐ 47,623 | 2026-08-01 | 2026-09-08 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 12 | ⭐ 37,782 | 2026-08-01 | 2026-09-04 |
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 11 | ⭐ 40,887 | 2026-08-07 | 2026-09-08 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 12 | ⭐ 41,015 | 2026-08-07 | 2026-09-09 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 10 | ⭐ 48,995 | 2026-08-01 | 2026-09-05 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 10 | ⭐ 1,756 | 2026-08-02 | 2026-09-04 |
 | [gastownhall/beads](../repos/gastownhall/beads.md) | 8 | ⭐ 26,920 | 2026-08-04 | 2026-09-05 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 8 | ⭐ 90,391 | 2026-08-06 | 2026-09-09 |
 | [golang/go](../repos/golang/go.md) | 7 | ⭐ 137,097 | 2026-07-31 | 2026-09-01 |
-| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 7 | ⭐ 37,500 | 2026-08-03 | 2026-09-01 |
 
 ---
 
@@ -161,7 +161,7 @@
 - [lharries/whatsapp-mcp](../repos/lharries/whatsapp-mcp.md) - WhatsApp MCP server
 - [bettercap/bettercap](../repos/bettercap/bettercap.md) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MIT...
 - [krillinai/KrillinAI](../repos/krillinai/KrillinAI.md) - AI video translation &amp; dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: dow...
-- [authelia/authelia](../repos/authelia/authelia.md) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](../repos/authelia/authelia.md) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptogra...
 - [restic/restic](../repos/restic/restic.md) - Fast, secure, efficient backup program
 - [chaitin/SafeLine](../repos/chaitin/SafeLine.md) - SafeLine is a self-hosted WAF(Web Application Firewall) &#x2F; reverse proxy to protect your web apps ...
 - [micro/go-micro](../repos/micro/go-micro.md) - A Go agent harness and service framework
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-08T21:01:49.808Z*
+*Last updated: 2026-09-09T21:02:01.788Z*

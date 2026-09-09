@@ -1,6 +1,6 @@
 # authelia&#x2F;authelia
 
-> The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+> The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;authelia&#x2F;authelia) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 28,681 |
-| **Forks** | 🍴 1,471 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 28,861 |
+| **Forks** | 🍴 1,480 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 24, 2026 |
+| **Last Seen** | Sep 9, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`2fa`](../../topics/2fa.md) [`authentication`](../../topics/authentication.md) [`docker`](../../topics/docker.md) [`golang`](../../topics/golang.md) [`kubernetes`](../../topics/kubernetes.md) [`ldap`](../../topics/ldap.md) [`mfa`](../../topics/mfa.md) [`multifactor`](../../topics/multifactor.md) [`oauth2`](../../topics/oauth2.md) [`openid-connect`](../../topics/openid-connect.md) [`passkeys`](../../topics/passkeys.md) [`push-notifications`](../../topics/push-notifications.md) [`security`](../../topics/security.md) [`sso`](../../topics/sso.md) [`sso-authentication`](../../topics/sso-authentication.md) [`totp`](../../topics/totp.md) [`two-factor`](../../topics/two-factor.md) [`two-factor-authentication`](../../topics/two-factor-authentication.md) [`webauthn`](../../topics/webauthn.md) [`yubikey`](../../topics/yubikey.md) 
+[`2fa`](../../topics/2fa.md) [`authentication`](../../topics/authentication.md) [`docker`](../../topics/docker.md) [`golang`](../../topics/golang.md) [`kubernetes`](../../topics/kubernetes.md) [`ldap`](../../topics/ldap.md) [`mfa`](../../topics/mfa.md) [`multifactor`](../../topics/multifactor.md) [`oauth2`](../../topics/oauth2.md) [`openid-connect`](../../topics/openid-connect.md) [`passkeys`](../../topics/passkeys.md) [`pqc`](../../topics/pqc.md) [`push-notifications`](../../topics/push-notifications.md) [`security`](../../topics/security.md) [`sso`](../../topics/sso.md) [`sso-authentication`](../../topics/sso-authentication.md) [`totp`](../../topics/totp.md) [`two-factor`](../../topics/two-factor.md) [`two-factor-authentication`](../../topics/two-factor-authentication.md) [`webauthn`](../../topics/webauthn.md) 
 
 ### Curated Categories
 `Web Development` `Containers &amp; Orchestration` `Cybersecurity` `Systems Programming` 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-08T21:01:52.529Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-09-09T21:02:04.588Z*  
+*Data from 4 trending reports*

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-08T21:01:55.477Z",
-  "total_repositories": 3171,
-  "trending_today": 372,
-  "new_this_month": 1437,
+  "generated_at": "2026-09-09T21:02:07.564Z",
+  "total_repositories": 3219,
+  "trending_today": 427,
+  "new_this_month": 1399,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-09-08",
+  "last_collection": "2026-09-09",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 35,
+    "trending_days": 36,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "viarotel-org/escrcpy",
-    "stars": 11336,
-    "first_seen": "2026-09-08"
+    "full_name": "liquidslr/system-design-notes",
+    "stars": 17916,
+    "first_seen": "2026-09-09"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 47329332,
-  "avg_stars": 14926,
-  "avg_trending_days": 4.6,
+  "total_stars": 47632888,
+  "avg_stars": 14797,
+  "avg_trending_days": 4.7,
   "language_count": 56,
-  "topic_count": 8588,
+  "topic_count": 8699,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 18
+- **Total Repositories**: 19
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -14,8 +14,16 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 730 | 2026-08-01 | 30 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,413 | 2026-08-02 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | 1 |
 
-*No Julia repositories trending today*
 
 ---
 
@@ -63,11 +71,12 @@
 | [TuringLang/Turing.jl](../repos/TuringLang/Turing.jl.md) | ⭐ 2,246 | 2026-08-12 | 1 |
 | [FluxML/Zygote.jl](../repos/FluxML/Zygote.jl.md) | ⭐ 1,568 | 2026-08-12 | 1 |
 | [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,410 | 2026-08-02 | 9 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,413 | 2026-08-02 | 10 |
 | [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 730 | 2026-08-01 | 29 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 730 | 2026-08-01 | 30 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 719 | 2026-08-07 | 1 |
+| [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | 1 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | 3 |
 | [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) | ⭐ 200 | 2026-09-02 | 1 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 125 | 2026-08-01 | 13 |
@@ -84,11 +93,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 29 | ⭐ 730 | 2026-08-01 | 2026-09-06 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 30 | ⭐ 730 | 2026-08-01 | 2026-09-09 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 15 | ⭐ 46 | 2026-08-02 | 2026-08-25 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 13 | ⭐ 125 | 2026-08-01 | 2026-08-28 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 11 | ⭐ 116 | 2026-08-01 | 2026-09-01 |
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 9 | ⭐ 1,410 | 2026-08-02 | 2026-08-19 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 10 | ⭐ 1,413 | 2026-08-02 | 2026-09-09 |
 | [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | 8 | ⭐ 73 | 2026-08-01 | 2026-08-12 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | 3 | ⭐ 355 | 2026-08-07 | 2026-08-11 |
 | [davidanthoff/Electron.jl](../repos/davidanthoff/Electron.jl.md) | 2 | ⭐ 96 | 2026-08-14 | 2026-08-19 |
@@ -117,7 +126,8 @@
 - [kahliburke/Kaimon.jl](../repos/kahliburke/Kaimon.jl.md) - MCP server giving AI agents full access to Julia&#39;s runtime via a live Gate — code execution, intr...
 - [NumericalEarth/NumericalEarth.jl](../repos/NumericalEarth/NumericalEarth.jl.md) - 🌎 A framework for simulating the Earth system at all scales with prescribed or prognostic atmosp...
 - [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) - Boosted trees in Julia
+- [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) - Julia bindings for the Enzyme automatic differentiator
 
 ---
 
-*Last updated: 2026-09-08T21:01:49.825Z*
+*Last updated: 2026-09-09T21:02:01.801Z*

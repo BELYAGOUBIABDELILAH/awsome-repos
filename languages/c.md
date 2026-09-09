@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 174
+- **Total Repositories**: 178
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-02
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 12,983 | 2026-08-01 | 10 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,519 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,195 | 2026-08-01 | 4 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 70,259 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,951 | 2026-08-04 | 14 |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,086 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,675 | 2026-08-07 | 16 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,365 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [asterisk/asterisk](../repos/asterisk/asterisk.md) | ⭐ 3,516 | 2026-08-07 | 4 |
+| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 843 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tianocore/edk2](../repos/tianocore/edk2.md) | ⭐ 6,233 | 2026-08-08 | 3 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,952 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 22,953 | 2026-08-12 | 6 |
+| [git/git](../repos/git/git.md) | ⭐ 63,088 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bol-van/zapret2](../repos/bol-van/zapret2.md) | ⭐ 5,415 | 2026-08-16 | 4 |
+| [timescale/timescaledb](../repos/timescale/timescaledb.md) | ⭐ 23,497 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sor3nt/Flipper-Zero-ESP32-Port](../repos/Sor3nt/Flipper-Zero-ESP32-Port.md) | ⭐ 443 | 2026-08-16 | 2 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,805 | 2026-08-07 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HarbourMasters/Shipwright](../repos/HarbourMasters/Shipwright.md) | ⭐ 5,334 | 2026-08-24 | 2 |
+| [HarbourMasters/Shipwright](../repos/HarbourMasters/Shipwright.md) | ⭐ 5,347 | 2026-08-24 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [HermannBjorgvin/Clawdmeter](../repos/HermannBjorgvin/Clawdmeter.md) | ⭐ 2,030 | 2026-08-10 | ESP32 desk dashboard that shows Claude Code usage |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fastfetch-cli/fastfetch](../repos/fastfetch-cli/fastfetch.md) | ⭐ 24,341 | 2026-08-10 | A maintained, feature-rich and performance oriented, neofetch like system information tool. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ExpressLRS/ExpressLRS](../repos/ExpressLRS/ExpressLRS.md) | ⭐ 5,229 | 2026-08-10 | High Performance Open Source Radio Control Link |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SchedMD/slurm](../repos/SchedMD/slurm.md) | ⭐ 4,311 | 2026-08-11 | Slurm: A Highly Scalable Workload Manager |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [eclipse-mosquitto/mosquitto](../repos/eclipse-mosquitto/mosquitto.md) | ⭐ 11,134 | 2026-08-14 | Eclipse Mosquitto - An open source MQTT broker |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [xmrig/xmrig](../repos/xmrig/xmrig.md) | ⭐ 10,112 | 2026-08-14 | RandomX, KawPow, CryptoNight and GhostRider unified CPU&#x2F;GPU miner and RandomX benchmark |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nuta/operating-system-in-1000-lines](../repos/nuta/operating-system-in-1000-lines.md) | ⭐ 3,589 | 2026-08-14 | Writing an OS in 1,000 lines. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [superturtlee/gbl_root_canoe](../repos/superturtlee/gbl_root_canoe.md) | ⭐ 988 | 2026-08-14 | No TrickyStore on Canoe |
 
 
 ---
@@ -89,14 +89,14 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | 2026-08-07 | 10 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,429 | 2026-08-01 | 16 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,519 | 2026-08-01 | 17 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 78,928 | 2026-08-24 | 1 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,926 | 2026-08-02 | 12 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 69,737 | 2026-08-01 | 15 |
-| [git/git](../repos/git/git.md) | ⭐ 63,056 | 2026-08-05 | 4 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 70,259 | 2026-08-01 | 16 |
+| [git/git](../repos/git/git.md) | ⭐ 63,088 | 2026-08-05 | 5 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,675 | 2026-08-07 | 16 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 40,314 | 2026-08-01 | 4 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,365 | 2026-08-01 | 5 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,887 | 2026-08-02 | 7 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | 6 |
@@ -107,7 +107,7 @@
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,565 | 2026-08-02 | 5 |
 | [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,285 | 2026-08-09 | 6 |
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,719 | 2026-08-07 | 14 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,805 | 2026-08-07 | 15 |
 
 ---
 
@@ -115,11 +115,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 16 | ⭐ 138,429 | 2026-08-01 | 2026-09-05 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 17 | ⭐ 138,519 | 2026-08-01 | 2026-09-09 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 16 | ⭐ 70,259 | 2026-08-01 | 2026-09-09 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 16 | ⭐ 42,675 | 2026-08-07 | 2026-09-08 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 15 | ⭐ 69,737 | 2026-08-01 | 2026-09-05 |
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 14 | ⭐ 6,951 | 2026-08-04 | 2026-09-08 |
-| [facebook/zstd](../repos/facebook/zstd.md) | 14 | ⭐ 27,719 | 2026-08-07 | 2026-09-06 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 15 | ⭐ 6,952 | 2026-08-04 | 2026-09-09 |
+| [facebook/zstd](../repos/facebook/zstd.md) | 15 | ⭐ 27,805 | 2026-08-07 | 2026-09-09 |
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 13 | ⭐ 16,379 | 2026-08-06 | 2026-09-02 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 12 | ⭐ 75,926 | 2026-08-02 | 2026-09-07 |
 | [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 11 | ⭐ 4,473 | 2026-08-04 | 2026-09-05 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-08T21:01:49.771Z*
+*Last updated: 2026-09-09T21:02:01.752Z*

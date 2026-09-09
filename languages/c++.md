@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 219
+- **Total Repositories**: 220
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-06
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 127,521 | 2026-08-01 | 19 |
+| [CleverRaven/Cataclysm-DDA](../repos/CleverRaven/Cataclysm-DDA.md) | ⭐ 13,106 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 29,730 | 2026-08-03 | 7 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,778 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,743 | 2026-08-03 | 3 |
+| [ceph/ceph](../repos/ceph/ceph.md) | ⭐ 17,020 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [argotorg/solidity](../repos/argotorg/solidity.md) | ⭐ 25,726 | 2026-08-04 | 3 |
+| [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
+| [argotorg/solidity](../repos/argotorg/solidity.md) | ⭐ 25,730 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,402 | 2026-08-25 | 7 |
+| [FEX-Emu/FEX](../repos/FEX-Emu/FEX.md) | ⭐ 7,934 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MaaXYZ/MaaFramework](../repos/MaaXYZ/MaaFramework.md) | ⭐ 4,838 | 2026-09-08 | 1 |
+| [NVIDIA/nccl](../repos/NVIDIA/nccl.md) | ⭐ 5,061 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [memgraph/memgraph](../repos/memgraph/memgraph.md) | ⭐ 4,441 | 2026-09-08 | 1 |
+| [telegramdesktop/tdesktop](../repos/telegramdesktop/tdesktop.md) | ⭐ 32,878 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mattias800/prosper](../repos/mattias800/prosper.md) | ⭐ 133 | 2026-09-08 | 1 |
+| [microsoft/WSL](../repos/microsoft/WSL.md) | ⭐ 33,658 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/foundationdb](../repos/apple/foundationdb.md) | ⭐ 16,685 | 2026-09-08 | 1 |
+| [bambulab/BambuStudio](../repos/bambulab/BambuStudio.md) | ⭐ 5,006 | 2026-08-09 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [xbmc/xbmc](../repos/xbmc/xbmc.md) | ⭐ 21,141 | 2026-08-10 | Kodi is an award-winning free and open source home theater&#x2F;media center software and entertainmen... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tdlib/td](../repos/tdlib/td.md) | ⭐ 9,021 | 2026-08-10 | Cross-platform library for building Telegram clients |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dalathegreat/Battery-Emulator](../repos/dalathegreat/Battery-Emulator.md) | ⭐ 2,868 | 2026-08-10 | This revolutionary software enables EV battery packs to be easily reused for stationary storage i... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [transmission/transmission](../repos/transmission/transmission.md) | ⭐ 15,070 | 2026-08-10 | Official Transmission BitTorrent client repository |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cemu-project/Cemu](../repos/cemu-project/Cemu.md) | ⭐ 9,730 | 2026-08-10 | Cemu - Wii U emulator |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 6,750 | 2026-08-10 | Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C&#x2F;C++ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [moonshine-ai/moonshine](../repos/moonshine-ai/moonshine.md) | ⭐ 10,996 | 2026-08-11 | Very low latency speech to text, intent recognition, and text to speech, for building voice agent... |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [azahar-emu/azahar](../repos/azahar-emu/azahar.md) | ⭐ 7,968 | 2026-08-11 | An open-source 3DS emulator project based on Citra. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mavlink/qgroundcontrol](../repos/mavlink/qgroundcontrol.md) | ⭐ 4,895 | 2026-08-11 | Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google-deepmind/mujoco](../repos/google-deepmind/mujoco.md) | ⭐ 14,750 | 2026-08-11 | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/intelligent-terminal](../repos/microsoft/intelligent-terminal.md) | ⭐ 1,865 | 2026-08-12 | A fork of Windows Terminal with native agent integration, right in your command line. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ROCm/FastFlowLM](../repos/ROCm/FastFlowLM.md) | ⭐ 1,724 | 2026-08-12 | Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimi... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,350 | 2026-08-12 | Tesseract Open Source OCR Engine (main repository) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apache/arrow](../repos/apache/arrow.md) | ⭐ 17,052 | 2026-08-12 | Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchang... |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 198,899 | 2026-07-30 | 16 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 127,521 | 2026-08-01 | 19 |
-| [react/react-native](../repos/react/react-native.md) | ⭐ 126,441 | 2026-08-04 | 3 |
+| [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | 2026-08-04 | 4 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 116,297 | 2026-08-01 | 8 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,728 | 2026-08-06 | 4 |
@@ -100,7 +100,7 @@
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,999 | 2026-08-01 | 12 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,743 | 2026-08-03 | 3 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,778 | 2026-08-03 | 4 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,046 | 2026-09-01 | 2 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,281 | 2026-08-02 | 6 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 41,933 | 2026-09-06 | 1 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-08T21:01:49.780Z*
+*Last updated: 2026-09-09T21:02:01.759Z*

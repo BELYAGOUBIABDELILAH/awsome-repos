@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 222
+- **Total Repositories**: 226
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-02
-- **Average Stars**: 15412
+- **Average Stars**: 15199
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 11,687 | Python |  |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,086 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,512 | PHP |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,712 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,708 | Ruby |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,481 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,480 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,969 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,959 | Scala |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,162 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,141 | Clojure |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,851 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,831 | Clojure |  |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,566 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,549 | OCaml |  |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,674 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,673 | Perl |  |
+| [vim-test/vim-test](../repos/vim-test/vim-test.md) | ⭐ 3,165 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,462 | PowerShell |  |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,465 | PowerShell |  |
 
 
 ---
@@ -55,13 +55,13 @@
 |------------|-------|----------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | C | 2026-08-07 | 10 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | TypeScript | 2026-08-22 | 1 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,825 | Rust | 2026-08-09 | 9 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,909 | Rust | 2026-08-09 | 10 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | TypeScript | 2026-08-02 | 1 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,122 | C++ | 2026-08-02 | 6 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 89,336 | Python | 2026-08-02 | 3 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,926 | C | 2026-08-02 | 12 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | Go | 2026-08-03 | 3 |
-| [git/git](../repos/git/git.md) | ⭐ 63,056 | C | 2026-08-05 | 4 |
+| [git/git](../repos/git/git.md) | ⭐ 63,088 | C | 2026-08-05 | 5 |
 | [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 56,671 | Python | 2026-08-04 | 8 |
 
 ---
@@ -82,7 +82,7 @@
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 37,782 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,076 | C | 1 |
+| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,086 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,846 | PHP | 1 |
@@ -91,7 +91,7 @@
 | [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,512 | PHP | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,708 | Ruby | 4 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,712 | Ruby | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,071 | Ruby | 2 |
@@ -103,9 +103,6 @@
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [TecharoHQ/anubis](../repos/TecharoHQ/anubis.md) | ⭐ 22,034 | Go | 2026-08-10 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 28,837 | Go | 2026-08-11 |
@@ -123,20 +120,27 @@
 | [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | ⭐ 5,636 | Kotlin | 2026-08-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,654 | PowerShell | 2026-08-11 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,657 | PowerShell | 2026-08-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [kanaka/mal](../repos/kanaka/mal.md) | ⭐ 10,727 | Assembly | 2026-08-11 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) | ⭐ 21,119 | Python | 2026-08-12 |
+| [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) | ⭐ 21,985 | Python | 2026-08-12 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [web-infra-dev/midscene](../repos/web-infra-dev/midscene.md) | ⭐ 14,556 | TypeScript | 2026-08-12 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [trufflesecurity/trufflehog](../repos/trufflesecurity/trufflehog.md) | ⭐ 27,463 | Go | 2026-08-12 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-09-09](../archive/2026/09/2026-09-09.md)
+- 33 repositories trending
+- Top: ruvnet&#x2F;RuView
 
 ### [2026-09-08](../archive/2026/09/2026-09-08.md)
 - 32 repositories trending
@@ -162,10 +166,6 @@
 - 32 repositories trending
 - Top: ruvnet&#x2F;RuView
 
-### [2026-09-02](../archive/2026/09/2026-09-02.md)
-- 35 repositories trending
-- Top: Genymobile&#x2F;scrcpy
-
 
 ---
 
@@ -175,15 +175,15 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 35 days | 2026-08-01 | 2026-09-08 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 34 days | 2026-08-01 | 2026-09-08 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 34 days | 2026-08-01 | 2026-09-08 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 33 days | 2026-08-01 | 2026-09-08 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 33 days | 2026-08-01 | 2026-09-08 |
-| [vlang/v](../repos/vlang/v.md) | 32 days | 2026-08-01 | 2026-09-08 |
-| [joernio/joern](../repos/joernio/joern.md) | 31 days | 2026-08-01 | 2026-09-08 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 30 days | 2026-08-02 | 2026-09-08 |
-| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 29 days | 2026-08-01 | 2026-09-08 |
+| [apache/spark](../repos/apache/spark.md) | 36 days | 2026-08-01 | 2026-09-09 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 35 days | 2026-08-01 | 2026-09-09 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 35 days | 2026-08-01 | 2026-09-09 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 34 days | 2026-08-01 | 2026-09-09 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 34 days | 2026-08-01 | 2026-09-09 |
+| [vlang/v](../repos/vlang/v.md) | 33 days | 2026-08-01 | 2026-09-09 |
+| [joernio/joern](../repos/joernio/joern.md) | 32 days | 2026-08-01 | 2026-09-09 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 31 days | 2026-08-02 | 2026-09-09 |
+| [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 30 days | 2026-08-01 | 2026-09-09 |
 | [vim/vim](../repos/vim/vim.md) | 29 days | 2026-08-01 | 2026-09-07 |
 
 ---
@@ -191,8 +191,8 @@
 ## 📊 Statistics
 
 ### Language Breakdown
-- **C**: 43 repositories (19%)
-- **Go**: 35 repositories (16%)
+- **C**: 44 repositories (19%)
+- **Go**: 35 repositories (15%)
 - **Python**: 15 repositories (7%)
 - **Java**: 13 repositories (6%)
 - **C++**: 13 repositories (6%)
@@ -270,7 +270,7 @@
 - [ZoranPandovski/awesome-testing-tools](../repos/ZoranPandovski/awesome-testing-tools.md) - A curated collection of the best software testing tools for QA, automation, accessibility, perfor...
 - [Vexu/arocc](../repos/Vexu/arocc.md) - A modern fully featured C compiler.
 - [bettercap/bettercap](../repos/bettercap/bettercap.md) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MIT...
-- [authelia/authelia](../repos/authelia/authelia.md) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](../repos/authelia/authelia.md) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptogra...
 - [chaitin/SafeLine](../repos/chaitin/SafeLine.md) - SafeLine is a self-hosted WAF(Web Application Firewall) &#x2F; reverse proxy to protect your web apps ...
 - [caddyserver/caddy](../repos/caddyserver/caddy.md) - Fast and extensible multi-platform HTTP&#x2F;1-2-3 web server with automatic HTTPS
 - [systemd/systemd](../repos/systemd/systemd.md) - The systemd System and Service Manager 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-09-08T21:01:49.618Z*
+*Last updated: 2026-09-09T21:02:01.602Z*

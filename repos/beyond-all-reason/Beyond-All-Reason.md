@@ -13,12 +13,12 @@
 | **Language** | Lua |
 | **License** | Other |
 | **Stars** | ⭐ 4,200 |
-| **Forks** | 🍴 663 |
-| **Trending Days** | 12 |
+| **Forks** | 🍴 666 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Sep 7, 2026 |
+| **Last Seen** | Sep 9, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 4 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-08T21:01:52.631Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-09-09T21:02:04.695Z*  
+*Data from 13 trending reports*

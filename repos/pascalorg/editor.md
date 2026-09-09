@@ -1,6 +1,6 @@
 # pascalorg&#x2F;editor
 
-> Create and share 3D architectural projects.
+> Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;pascalorg&#x2F;editor) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 22,616 |
-| **Forks** | 🍴 2,882 |
-| **Trending Days** | 2 |
-| **Peak Rank** | #13 |
+| **Stars** | ⭐ 22,844 |
+| **Forks** | 🍴 2,892 |
+| **Trending Days** | 3 |
+| **Peak Rank** | #4 |
 
 | **First Seen** | Sep 7, 2026 |
-| **Last Seen** | Sep 8, 2026 |
+| **Last Seen** | Sep 9, 2026 |
 
 
 ---
@@ -43,22 +43,23 @@
 
 ## Trending Timeline
 
+**Sep 9, 2026** — Rank #4 (+171 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #13
-- **Trending Days**: 2
-- **Longest Streak**: 2 days
+- **Peak Rank**: #4
+- **Trending Days**: 3
+- **Longest Streak**: 3 days
 
 ---
 
 ## Categories
 
 ### Topics
-[`3d`](../../topics/3d.md) [`architecture`](../../topics/architecture.md) [`bim`](../../topics/bim.md) [`cad`](../../topics/cad.md) [`editor`](../../topics/editor.md) [`floorplan`](../../topics/floorplan.md) [`mcp`](../../topics/mcp.md) [`nextjs`](../../topics/nextjs.md) [`parametric-design`](../../topics/parametric-design.md) [`react-three-fiber`](../../topics/react-three-fiber.md) [`threejs`](../../topics/threejs.md) [`typescript`](../../topics/typescript.md) 
+[`3d`](../../topics/3d.md) [`agent-skills`](../../topics/agent-skills.md) [`ai-agents`](../../topics/ai-agents.md) [`architecture`](../../topics/architecture.md) [`bim`](../../topics/bim.md) [`cad`](../../topics/cad.md) [`editor`](../../topics/editor.md) [`floorplan`](../../topics/floorplan.md) [`local-first`](../../topics/local-first.md) [`mcp`](../../topics/mcp.md) [`mcp-server`](../../topics/mcp-server.md) [`model-context-protocol`](../../topics/model-context-protocol.md) [`nextjs`](../../topics/nextjs.md) [`parametric-design`](../../topics/parametric-design.md) [`react-three-fiber`](../../topics/react-three-fiber.md) [`threejs`](../../topics/threejs.md) [`typescript`](../../topics/typescript.md) 
 
 ### Curated Categories
-`Web Development` `Game Development` `Systems Programming` `Developer Tools` 
+`Artificial Intelligence` `Web Development` `Backend Development` `Game Development` `Systems Programming` `Developer Tools` 
 
 ---
 
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
-- **Historical Rank**: Peak: #13
+- **Trending Score**: 60&#x2F;100
+- **Historical Rank**: Top 5 (Peak: #4)
 
 
 ---
 
-*Last updated: 2026-09-08T21:01:55.003Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-09T21:02:07.041Z*  
+*Data from 3 trending reports*

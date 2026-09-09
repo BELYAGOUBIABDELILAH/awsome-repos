@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 99
+- **Total Repositories**: 101
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-08
+- **Last Updated**: 2026-09-09
 
 ---
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | 2026-08-01 | 3 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,331 | 2026-08-05 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 6,317 | 2026-08-04 | 7 |
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,536 | 2026-08-12 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,335 | 2026-08-05 | 10 |
+| [JerryZLiu/Dayflow](../repos/JerryZLiu/Dayflow.md) | ⭐ 7,085 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,323 | 2026-08-17 | 6 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,327 | 2026-08-17 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [uzairansaruzi/hermex](../repos/uzairansaruzi/hermex.md) | ⭐ 1,267 | 2026-09-08 | 1 |
+| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 2,516 | 2026-09-01 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [iFurySt/open-codex-computer-use](../repos/iFurySt/open-codex-computer-use.md) | ⭐ 1,974 | 2026-09-09 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [cashapp/AccessibilitySnapshot](../repos/cashapp/AccessibilitySnapshot.md) | ⭐ 740 | 2026-09-09 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [alielsokary/CaskHub](../repos/alielsokary/CaskHub.md) | ⭐ 1,131 | 2026-08-10 | Native GUI for Homebrew Casks |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [LoopKit/Loop](../repos/LoopKit/Loop.md) | ⭐ 1,704 | 2026-08-10 | An automated insulin delivery app for iOS, built on LoopKit |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Starmel/OpenSuperWhisper](../repos/Starmel/OpenSuperWhisper.md) | ⭐ 2,804 | 2026-08-10 | macOS dictation app |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,915 | 2026-08-11 | A command-line tool and Xcode Extension for formatting Swift code |
@@ -58,13 +55,22 @@
 | [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 1,972 | 2026-08-12 | Model export recipes, Python primitives, and Swift runtime utilities for on-device AI |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,471 | 2026-08-12 | Lightweight clipboard manager for macOS |
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,536 | 2026-08-12 | Lightweight clipboard manager for macOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lihaoyun6/QuickRecorder](../repos/lihaoyun6/QuickRecorder.md) | ⭐ 8,578 | 2026-08-12 | A lightweight screen recorder based on ScreenCapture Kit for macOS &#x2F; 基于 ScreenCapture Kit 的轻量化多功能... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rileytestut/Delta](../repos/rileytestut/Delta.md) | ⭐ 6,068 | 2026-08-12 | Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [gonzalezreal/textual](../repos/gonzalezreal/textual.md) | ⭐ 833 | 2026-08-12 | Render and customize rich attributed text in SwiftUI |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,843 | 2026-08-12 | bluetooth mesh chat, IRC vibes |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ggbond268/MacTools](../repos/ggbond268/MacTools.md) | ⭐ 1,033 | 2026-08-14 | A free and open-source collection of native macOS menu bar tools.  |
 
 
 ---
@@ -73,7 +79,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,335 | 2026-08-05 | 10 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,331 | 2026-08-05 | 11 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | 2026-09-04 | 1 |
 | [apple/container](../repos/apple/container.md) | ⭐ 49,723 | 2026-08-01 | 12 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,843 | 2026-08-12 | 5 |
@@ -82,14 +88,14 @@
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,866 | 2026-08-04 | 10 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,820 | 2026-08-01 | 10 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
-| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,471 | 2026-08-12 | 6 |
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,536 | 2026-08-12 | 7 |
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,116 | 2026-09-06 | 1 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,892 | 2026-08-04 | 12 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,482 | 2026-08-24 | 5 |
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,323 | 2026-08-17 | 6 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,327 | 2026-08-17 | 7 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,244 | 2026-08-08 | 6 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | 2026-08-01 | 3 |
 | [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,422 | 2026-08-17 | 2 |
@@ -103,9 +109,9 @@
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 15 | ⭐ 11,994 | 2026-08-01 | 2026-09-07 |
 | [apple/container](../repos/apple/container.md) | 12 | ⭐ 49,723 | 2026-08-01 | 2026-09-06 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 12 | ⭐ 14,892 | 2026-08-04 | 2026-08-29 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | 11 | ⭐ 70,331 | 2026-08-05 | 2026-09-09 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 10 | ⭐ 26,820 | 2026-08-01 | 2026-09-05 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 10 | ⭐ 26,866 | 2026-08-04 | 2026-09-04 |
-| [swiftlang/swift](../repos/swiftlang/swift.md) | 10 | ⭐ 70,335 | 2026-08-05 | 2026-09-08 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 9 | ⭐ 6,257 | 2026-08-01 | 2026-09-02 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 9 | ⭐ 3,308 | 2026-08-01 | 2026-09-04 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 8 | ⭐ 8,512 | 2026-08-04 | 2026-09-05 |
@@ -214,7 +220,8 @@
 - [Manic-EMU/ManicEMU](../repos/Manic-EMU/ManicEMU.md) - Manic EMU is an all-in-one retro game emulator for iOS. It packs powerful features while keeping ...
 - [PlayCover/PlayCover](../repos/PlayCover/PlayCover.md) - Community fork of PlayCover
 - [uzairansaruzi/hermex](../repos/uzairansaruzi/hermex.md) - Native iPhone app for your Hermes agent
+- [iFurySt/open-codex-computer-use](../repos/iFurySt/open-codex-computer-use.md) - 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
 
 ---
 
-*Last updated: 2026-09-08T21:01:49.874Z*
+*Last updated: 2026-09-09T21:02:01.859Z*

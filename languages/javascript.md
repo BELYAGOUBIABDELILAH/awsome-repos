@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 120
+- **Total Repositories**: 122
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,61 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 32,921 | 2026-08-02 | 8 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 29,968 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [decolua/9router](../repos/decolua/9router.md) | ⭐ 28,009 | 2026-08-02 | 5 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 62,555 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Dailin521/codex-provider-sync](../repos/Dailin521/codex-provider-sync.md) | ⭐ 3,341 | 2026-08-04 | 5 |
+| [decolua/9router](../repos/decolua/9router.md) | ⭐ 28,175 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 66,586 | 2026-08-05 | 11 |
+| [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) | ⭐ 10,834 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 28,123 | 2026-08-08 | 9 |
+| [WhatDreamsCost/WhatDreamsCost-ComfyUI](../repos/WhatDreamsCost/WhatDreamsCost-ComfyUI.md) | ⭐ 2,037 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) | ⭐ 10,415 | 2026-08-09 | 4 |
+| [openai/plugins](../repos/openai/plugins.md) | ⭐ 6,153 | 2026-08-27 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FB208/OpenBidKit_Yibiao](../repos/FB208/OpenBidKit_Yibiao.md) | ⭐ 2,854 | 2026-08-25 | 3 |
+| [Yu9191/wloc](../repos/Yu9191/wloc.md) | ⭐ 10,339 | 2026-09-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
+| [viarotel-org/escrcpy](../repos/viarotel-org/escrcpy.md) | ⭐ 11,621 | 2026-09-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/plugins](../repos/openai/plugins.md) | ⭐ 5,731 | 2026-08-27 | 7 |
+| [open-gsd/gsd-core](../repos/open-gsd/gsd-core.md) | ⭐ 9,300 | 2026-09-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 7,851 | 2026-08-29 | 7 |
+| [UseInterstellar/Interstellar](../repos/UseInterstellar/Interstellar.md) | ⭐ 2,120 | 2026-09-09 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [techjarves/Uncensored-Local-Studio](../repos/techjarves/Uncensored-Local-Studio.md) | ⭐ 906 | 2026-08-10 | Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GG... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 7,159 | 2026-08-10 | List of Permanent Free LLM API  (API Keys) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [BeiDouMS/BeiDou-Server](../repos/BeiDouMS/BeiDou-Server.md) | ⭐ 618 | 2026-08-10 | Global MapleStory Server BeiDou(冒险岛GMS服务端北斗) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rgthree/rgthree-comfy](../repos/rgthree/rgthree-comfy.md) | ⭐ 3,327 | 2026-08-10 | Making ComfyUI more comfortable! |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [CodeWithHarry/Sigma-Web-Dev-Course](../repos/CodeWithHarry/Sigma-Web-Dev-Course.md) | ⭐ 11,839 | 2026-08-10 | Source Code for Sigma Web Development Course |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fishjar/kiss-translator](../repos/fishjar/kiss-translator.md) | ⭐ 12,392 | 2026-08-10 | A simple, open source bilingual translation extension &amp; Greasemonkey script (一个简约、开源的 双语对照翻译扩展 &amp; ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zarazhangrui/follow-builders](../repos/zarazhangrui/follow-builders.md) | ⭐ 6,605 | 2026-08-10 | AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content in... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chr0nzz/traefik-manager](../repos/chr0nzz/traefik-manager.md) | ⭐ 1,213 | 2026-08-11 | A clean, self-hosted web UI for managing your Traefik reverse proxy. |
@@ -80,6 +59,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [polius/FileSync](../repos/polius/FileSync.md) | ⭐ 1,473 | 2026-08-11 | Send files from one device to many in real-time. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [plankanban/planka](../repos/plankanban/planka.md) | ⭐ 12,484 | 2026-08-11 | PLANKA is the Kanban-style project mastering tool for everyone |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | A modern JavaScript utility library delivering modularity, performance, &amp; extras. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | JavaScript Style Guide |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) | ⭐ 28,619 | 2026-08-12 | Create beautiful slides on the web using a coding agent&#39;s frontend skills |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 15,038 | 2026-08-14 | The fastest browser for AI agents to run browser automation, built for sharing your logged-in bro... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 38,608 | 2026-08-14 | Community-contributed instructions, agents, skills, and configurations to help you make the most ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 3,084 | 2026-08-14 | 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes vide... |
 
 
 ---
@@ -101,7 +101,7 @@
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 66,586 | 2026-08-05 | 11 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 61,500 | 2026-08-01 | 12 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 62,555 | 2026-08-01 | 13 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,420 | 2026-08-11 | 4 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 17 | ⭐ 92,430 | 2026-08-05 | 2026-09-05 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 16 | ⭐ 43,692 | 2026-08-04 | 2026-09-02 |
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 12 | ⭐ 24,188 | 2026-08-01 | 2026-08-28 |
-| [byoungd/up](../repos/byoungd/up.md) | 12 | ⭐ 61,500 | 2026-08-01 | 2026-08-25 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 13 | ⭐ 29,968 | 2026-08-01 | 2026-09-09 |
+| [byoungd/up](../repos/byoungd/up.md) | 13 | ⭐ 62,555 | 2026-08-01 | 2026-09-09 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 11 | ⭐ 66,586 | 2026-08-05 | 2026-09-08 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 10 | ⭐ 2,613 | 2026-08-07 | 2026-09-07 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 9 | ⭐ 28,123 | 2026-08-08 | 2026-09-08 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 8 | ⭐ 141,962 | 2026-07-30 | 2026-08-27 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 8 | ⭐ 32,921 | 2026-08-02 | 2026-09-08 |
-| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | 7 | ⭐ 1,017 | 2026-08-05 | 2026-09-04 |
+| [openai/plugins](../repos/openai/plugins.md) | 8 | ⭐ 6,153 | 2026-08-27 | 2026-09-09 |
 
 ---
 
@@ -139,7 +139,7 @@
 - [node-red/node-red](../repos/node-red/node-red.md) - Low-code programming for event-driven applications
 - [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 - [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) - Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module...
-- [byoungd/up](../repos/byoungd/up.md) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生&#x2F;人生进阶 离谱的英语学习指南&#x2F;英语学习教程&#x2F;英语学习&#x2F;学英语
+- [byoungd/up](../repos/byoungd/up.md) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南&#x2F;英语学习教...
 - [pdone/lx-music-source](../repos/pdone/lx-music-source.md) - 洛雪音乐源
 - [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) - LLM Frontend for Power Users.
 - [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) - Use Codex from Claude Code to review code or delegate tasks.
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-08T21:01:49.823Z*
+*Last updated: 2026-09-09T21:02:01.799Z*

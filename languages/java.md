@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 183
+- **Total Repositories**: 185
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-05
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [woheller69/FreeDroidWarn](../repos/woheller69/FreeDroidWarn.md) | ⭐ 3,368 | 2026-08-02 | 5 |
+| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,938 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shmykelsa/AAAD](../repos/shmykelsa/AAAD.md) | ⭐ 2,948 | 2026-08-03 | 5 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 26,689 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,213 | 2026-08-04 | 4 |
+| [adityatandon15/Low-Level-Design-Course](../repos/adityatandon15/Low-Level-Design-Course.md) | ⭐ 1,253 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AutoMQ/automq](../repos/AutoMQ/automq.md) | ⭐ 10,662 | 2026-08-04 | 5 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 74,684 | 2026-08-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,498 | 2026-08-05 | 15 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 28,059 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mateaix/mateclaw](../repos/mateaix/mateclaw.md) | ⭐ 1,093 | 2026-08-06 | 4 |
+| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,234 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quarkusio/quarkus](../repos/quarkusio/quarkus.md) | ⭐ 15,876 | 2026-08-07 | 7 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,275 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/spring-ai-alibaba](../repos/alibaba/spring-ai-alibaba.md) | ⭐ 10,814 | 2026-08-11 | 9 |
+| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,082 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | ⭐ 5,984 | 2026-08-14 | 9 |
+| [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) | ⭐ 13,057 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [648540858/wvp-GB28181-pro](../repos/648540858/wvp-GB28181-pro.md) | ⭐ 7,303 | 2026-08-15 | 4 |
+| [fish2018/webhtv](../repos/fish2018/webhtv.md) | ⭐ 1,381 | 2026-08-10 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) | ⭐ 5,356 | 2026-08-10 | HyperOS enhancement module - Make HyperOS Great Again! |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fish2018/webhtv](../repos/fish2018/webhtv.md) | ⭐ 1,137 | 2026-08-10 | WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。  这个项目的核心目标是让 CSP 站点首页... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Audiveris/audiveris](../repos/Audiveris/audiveris.md) | ⭐ 2,692 | 2026-08-10 | Latest generation of Audiveris OMR engine |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hanxinhao000/ZeroTermux](../repos/hanxinhao000/ZeroTermux.md) | ⭐ 2,889 | 2026-08-10 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [objectionary/eo](../repos/objectionary/eo.md) | ⭐ 1,399 | 2026-08-10 | EOLANG, an Experimental Pure Object-Oriented Programming Language Based on 𝜑-Calculus |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alibaba/spring-ai-alibaba](../repos/alibaba/spring-ai-alibaba.md) | ⭐ 10,814 | 2026-08-11 | Agentic AI Framework for Java Developers |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [freeplane/freeplane](../repos/freeplane/freeplane.md) | ⭐ 4,289 | 2026-08-11 | Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and com... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [binarywang/WxJava](../repos/binarywang/WxJava.md) | ⭐ 33,057 | 2026-08-12 | 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zaproxy/zaproxy](../repos/zaproxy/zaproxy.md) | ⭐ 15,718 | 2026-08-12 | The ZAP by Checkmarx Core project |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apache/iceberg](../repos/apache/iceberg.md) | ⭐ 9,204 | 2026-08-12 | Apache Iceberg |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [YunaiV/yudao-cloud](../repos/YunaiV/yudao-cloud.md) | ⭐ 19,446 | 2026-08-12 | ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue &amp; Element 实现的后台管理... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,363 | 2026-08-12 | Dex to Java decompiler |
 
 
 ---
@@ -92,8 +92,8 @@
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,376 | 2026-08-04 | 9 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,875 | 2026-08-02 | 8 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 74,217 | 2026-08-03 | 11 |
-| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,215 | 2026-08-04 | 5 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 74,684 | 2026-08-03 | 12 |
+| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,234 | 2026-08-04 | 6 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,219 | 2026-08-08 | 5 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,896 | 2026-08-02 | 10 |
@@ -101,11 +101,11 @@
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,363 | 2026-08-12 | 3 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,520 | 2026-08-07 | 4 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,163 | 2026-08-05 | 8 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,275 | 2026-08-05 | 9 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,570 | 2026-08-02 | 5 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,063 | 2026-08-06 | 5 |
-| [alibaba/arthas](../repos/alibaba/arthas.md) | ⭐ 37,503 | 2026-08-28 | 1 |
+| [alibaba/arthas](../repos/alibaba/arthas.md) | ⭐ 37,526 | 2026-08-28 | 2 |
 | [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,511 | 2026-08-08 | 5 |
 | [airbnb/lottie-android](../repos/airbnb/lottie-android.md) | ⭐ 35,712 | 2026-08-26 | 1 |
 
@@ -116,8 +116,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 15 | ⭐ 5,498 | 2026-08-05 | 2026-09-08 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 12 | ⭐ 26,646 | 2026-08-02 | 2026-09-07 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 11 | ⭐ 74,217 | 2026-08-03 | 2026-09-01 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 13 | ⭐ 26,689 | 2026-08-02 | 2026-09-09 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 12 | ⭐ 74,684 | 2026-08-03 | 2026-09-09 |
 | [google/guava](../repos/google/guava.md) | 10 | ⭐ 51,896 | 2026-08-02 | 2026-08-28 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 10 | ⭐ 51,671 | 2026-08-04 | 2026-09-05 |
 | [github/copilot-sdk](../repos/github/copilot-sdk.md) | 9 | ⭐ 10,459 | 2026-08-01 | 2026-09-04 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-08T21:01:49.820Z*
+*Last updated: 2026-09-09T21:02:01.797Z*

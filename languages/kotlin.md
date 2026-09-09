@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 131
+- **Total Repositories**: 133
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-06
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Fate-Grand-Automata/FGA](../repos/Fate-Grand-Automata/FGA.md) | ⭐ 2,372 | 2026-08-01 | 4 |
+| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 7,514 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,380 | 2026-08-04 | 7 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,381 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 1,801 | 2026-08-04 | 6 |
+| [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,445 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 796 | 2026-08-05 | 11 |
+| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,253 | 2026-08-10 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Swordfish90/Lemuroid](../repos/Swordfish90/Lemuroid.md) | ⭐ 4,297 | 2026-08-10 | 3 |
+| [wgtunnel/android](../repos/wgtunnel/android.md) | ⭐ 3,141 | 2026-08-15 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 983 | 2026-08-19 | 3 |
+| [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) | ⭐ 6,304 | 2026-08-16 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [The412Banner/Bannerlator](../repos/The412Banner/Bannerlator.md) | ⭐ 269 | 2026-08-26 | 4 |
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,820 | 2026-08-17 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [IacobIonut01/ReFra](../repos/IacobIonut01/ReFra.md) | ⭐ 2,756 | 2026-09-08 | 1 |
+| [jellyfin/jellyfin-androidtv](../repos/jellyfin/jellyfin-androidtv.md) | ⭐ 4,527 | 2026-08-24 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [The412Banner/Bannerlator](../repos/The412Banner/Bannerlator.md) | ⭐ 271 | 2026-08-26 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ximeiorg/Xime](../repos/ximeiorg/Xime.md) | ⭐ 903 | 2026-09-09 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [celzero/rethink-app](../repos/celzero/rethink-app.md) | ⭐ 5,353 | 2026-08-10 | DNS over HTTPS &#x2F; DNS over Tor &#x2F; DNSCrypt client, WireGuard proxifier, firewall, and connection tr... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ryfineZ/carrier-ims-for-pixel](../repos/ryfineZ/carrier-ims-for-pixel.md) | ⭐ 1,408 | 2026-08-10 | Carrier IMS for Pixel (TurboIMS): multilingual (中文&#x2F;English) pixel ims &#x2F; ims &#x2F; carrierconfig &#x2F; vol... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,235 | 2026-08-10 | Open-source Android&#x2F;Desktop remake of Civ V |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [maksimowiczm/FoodYou](../repos/maksimowiczm/FoodYou.md) | ⭐ 562 | 2026-08-10 | A free, open-source, and privacy-focused food diary and nutrition tracker |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Swordfish90/Lemuroid](../repos/Swordfish90/Lemuroid.md) | ⭐ 4,297 | 2026-08-10 | All in one emulator on Android! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [torlando-tech/columba](../repos/torlando-tech/columba.md) | ⭐ 1,117 | 2026-08-11 | Native Android messaging app using Bluetooth LE, TCP, or RNode (LoRa) over LXMF and Reticulum |
@@ -74,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | ⭐ 5,636 | 2026-08-11 | The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that c... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,641 | 2026-08-12 | A gallery that showcases on-device ML&#x2F;GenAI use cases and allows people to try and use models loc... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sam1am/anyapk](../repos/sam1am/anyapk.md) | ⭐ 2,557 | 2026-08-12 | Install any apk on the device you own.  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,326 | 2026-08-12 | Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beauti... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Davidona/StreamVault-IPTV](../repos/Davidona/StreamVault-IPTV.md) | ⭐ 653 | 2026-08-12 | StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Roo... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [XayahSuSuSu/Android-DataBackup](../repos/XayahSuSuSu/Android-DataBackup.md) | ⭐ 7,192 | 2026-08-12 | DataBackup for Android 7.0+ |
 
 
 ---
@@ -84,24 +90,24 @@
 |------------|-------|------------|---------------|
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,628 | 2026-08-03 | 9 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 62,317 | 2026-08-02 | 12 |
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,380 | 2026-08-04 | 7 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,381 | 2026-08-04 | 8 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,144 | 2026-08-06 | 12 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,483 | 2026-08-03 | 5 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 29,869 | 2026-08-08 | 11 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,262 | 2026-08-05 | 4 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,730 | 2026-08-11 | 3 |
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,641 | 2026-08-12 | 3 |
+| [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,445 | 2026-08-05 | 4 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,441 | 2026-08-01 | 12 |
-| [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,414 | 2026-08-05 | 3 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,573 | 2026-08-02 | 4 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,736 | 2026-08-01 | 5 |
 | [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,002 | 2026-09-07 | 1 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,326 | 2026-08-12 | 3 |
-| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,711 | 2026-08-17 | 3 |
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,820 | 2026-08-17 | 4 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,474 | 2026-08-02 | 4 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,644 | 2026-08-06 | 7 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,337 | 2026-08-02 | 10 |
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,235 | 2026-08-10 | 4 |
+| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,253 | 2026-08-10 | 5 |
 
 ---
 
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-08T21:01:49.830Z*
+*Last updated: 2026-09-09T21:02:01.805Z*

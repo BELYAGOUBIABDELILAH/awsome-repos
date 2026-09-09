@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 5,652 |
-| **Forks** | 🍴 836 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 5,949 |
+| **Forks** | 🍴 857 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #8 |
 
 | **First Seen** | Sep 6, 2026 |
-| **Last Seen** | Sep 8, 2026 |
+| **Last Seen** | Sep 9, 2026 |
 
 
 ---
@@ -49,8 +49,8 @@
 ### Highlights
 
 - **Peak Rank**: #8
-- **Trending Days**: 3
-- **Longest Streak**: 3 days
+- **Trending Days**: 4
+- **Longest Streak**: 4 days
 
 ---
 
@@ -87,11 +87,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 60&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: Top 10 (Peak: #8)
 
 
 ---
 
-*Last updated: 2026-09-08T21:01:54.955Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-09-09T21:02:06.998Z*  
+*Data from 4 trending reports*

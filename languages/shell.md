@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 101
+- **Total Repositories**: 103
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,25 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | ⭐ 3,049 | 2026-08-01 | 6 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,051 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HyDE-Project/HyDE](../repos/HyDE-Project/HyDE.md) | ⭐ 9,580 | 2026-08-02 | 3 |
+| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | ⭐ 2,255 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,509 | 2026-08-07 | 19 |
+| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 2,348 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,813 | 2026-08-07 | 8 |
+| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,417 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,237 | 2026-08-08 | 7 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,152 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) | ⭐ 795 | 2026-09-07 | 2 |
+| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,207 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,853 | 2026-09-08 | 1 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 5,334 | 2026-08-12 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ophub/fnnas](../repos/ophub/fnnas.md) | ⭐ 3,310 | 2026-08-22 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 39,732 | 2026-08-29 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [bitol-io/open-data-contract-standard](../repos/bitol-io/open-data-contract-standard.md) | ⭐ 1,128 | 2026-09-09 | 1 |
 
 
 ---
@@ -43,13 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [linux-surface/linux-surface](../repos/linux-surface/linux-surface.md) | ⭐ 7,653 | 2026-08-10 | Linux Kernel for Surface Devices |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [anthropics/claude-agent-sdk-typescript](../repos/anthropics/claude-agent-sdk-typescript.md) | ⭐ 1,684 | 2026-08-10 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,031 | 2026-08-11 | A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! |
+| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,207 | 2026-08-11 | A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,085 | 2026-08-11 | Quickly create and run optimised Windows, macOS and Linux virtual machines |
@@ -58,7 +61,7 @@
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent&#x2F;Claude Code&#x2F;Cursor&#x2F;Copilot 等 18 种工具，覆盖工程&#x2F;设计&#x2F;营销&#x2F;金融等 20 个部门... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 4,915 | 2026-08-12 | Talk to one agent. Ship with a crew. |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 5,334 | 2026-08-12 | Talk to one agent. Ship with a crew. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [conversun/fnos-apps](../repos/conversun/fnos-apps.md) | ⭐ 578 | 2026-08-12 | 飞牛 fnOS NAS 第三方应用商店 — 115 款自托管应用的 .fpk 安装包 | Plex, Emby, Jellyfin, qBittorrent, Immich, Sonarr, R... |
@@ -71,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [qemus/qemu](../repos/qemus/qemu.md) | ⭐ 2,090 | 2026-08-14 | QEMU in a Docker container. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [wondelai/skills](../repos/wondelai/skills.md) | ⭐ 1,970 | 2026-08-14 | Wondel.ai Agent Skills — Business, Marketing, UX &amp; Coding Frameworks from Bestselling Books. 50 s... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [DaoCloud/public-image-mirror](../repos/DaoCloud/public-image-mirror.md) | ⭐ 14,853 | 2026-08-14 | 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。 |
 
 
 ---
@@ -80,13 +89,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,016 | 2026-08-01 | 23 |
-| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,390 | 2026-08-04 | 5 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,051 | 2026-08-01 | 24 |
+| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,417 | 2026-08-04 | 6 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,180 | 2026-08-06 | 8 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,582 | 2026-08-04 | 6 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 39,732 | 2026-08-29 | 2 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 34,686 | 2026-08-29 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,130 | 2026-08-20 | 7 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,563 | 2026-09-02 | 2 |
@@ -106,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 23 | ⭐ 95,016 | 2026-08-01 | 2026-09-07 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 24 | ⭐ 95,051 | 2026-08-01 | 2026-09-09 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [expo/skills](../repos/expo/skills.md) | 19 | ⭐ 2,509 | 2026-08-07 | 2026-09-08 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 13 | ⭐ 4,378 | 2026-08-01 | 2026-09-01 |
-| [github/copilot-cli](../repos/github/copilot-cli.md) | 11 | ⭐ 11,138 | 2026-08-04 | 2026-09-05 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 11 | ⭐ 4,915 | 2026-08-12 | 2026-09-07 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | 12 | ⭐ 11,152 | 2026-08-04 | 2026-09-09 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 12 | ⭐ 5,334 | 2026-08-12 | 2026-09-09 |
+| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 9 | ⭐ 2,255 | 2026-08-02 | 2026-09-09 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 9 | ⭐ 25,582 | 2026-08-04 | 2026-09-01 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 9 | ⭐ 2,796 | 2026-08-05 | 2026-09-07 |
-| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 8 | ⭐ 2,192 | 2026-08-02 | 2026-08-27 |
 | [dockur/windows](../repos/dockur/windows.md) | 8 | ⭐ 53,180 | 2026-08-06 | 2026-09-06 |
 
 ---
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-08T21:01:49.870Z*
+*Last updated: 2026-09-09T21:02:01.853Z*

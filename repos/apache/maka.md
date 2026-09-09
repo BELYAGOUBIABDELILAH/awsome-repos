@@ -1,6 +1,6 @@
 # apache&#x2F;maka
 
-> Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
+> Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;apache&#x2F;maka) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 3,585 |
-| **Forks** | 🍴 349 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 5,131 |
+| **Forks** | 🍴 476 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Aug 26, 2026 |
+| **Last Seen** | Sep 9, 2026 |
 
 
 ---
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 7 days
 
 ---
@@ -75,7 +75,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-09-08T21:01:54.276Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-09-09T21:02:06.309Z*  
+*Data from 8 trending reports*

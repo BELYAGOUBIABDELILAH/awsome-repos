@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 191
+- **Total Repositories**: 194
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,61 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AdventDevInc/kudu](../repos/AdventDevInc/kudu.md) | ⭐ 3,297 | 2026-08-06 | 3 |
+| [actions/checkout](../repos/actions/checkout.md) | ⭐ 8,859 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 47,661 | 2026-08-08 | 9 |
+| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 52,805 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 71,657 | 2026-08-10 | 8 |
+| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 20,405 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 203,761 | 2026-08-11 | 4 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 48,368 | 2026-08-08 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BraveOPotato/FckSignups](../repos/BraveOPotato/FckSignups.md) | ⭐ 4,097 | 2026-09-05 | 4 |
+| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 30,815 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aipoch/open-science](../repos/aipoch/open-science.md) | ⭐ 4,151 | 2026-09-06 | 2 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 71,802 | 2026-08-10 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MoonTechLab/LunaTV](../repos/MoonTechLab/LunaTV.md) | ⭐ 10,139 | 2026-09-07 | 2 |
+| [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 87,081 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pascalorg/editor](../repos/pascalorg/editor.md) | ⭐ 22,616 | 2026-09-07 | 2 |
+| [apache/maka](../repos/apache/maka.md) | ⭐ 5,131 | 2026-08-20 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/logocreator](../repos/Nutlope/logocreator.md) | ⭐ 8,614 | 2026-09-07 | 2 |
+| [MoonTechLab/LunaTV](../repos/MoonTechLab/LunaTV.md) | ⭐ 10,383 | 2026-09-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nowork-studio/notfair-plugin](../repos/nowork-studio/notfair-plugin.md) | ⭐ 3,678 | 2026-09-08 | 1 |
+| [pascalorg/editor](../repos/pascalorg/editor.md) | ⭐ 22,844 | 2026-09-07 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cobusgreyling/loop-engineering](../repos/cobusgreyling/loop-engineering.md) | ⭐ 10,982 | 2026-08-10 | Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design syste... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dyad-sh/dyad](../repos/dyad-sh/dyad.md) | ⭐ 21,195 | 2026-08-10 | Local, open-source AI app builder for power users ✨ v0 &#x2F; Lovable &#x2F; Replit &#x2F; Bolt alternative 🌟 S... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 28,580 | 2026-08-10 | The open agent skills tool - npx skills |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [joelbqz/writer-computer](../repos/joelbqz/writer-computer.md) | ⭐ 1,272 | 2026-08-10 | Local-first desktop markdown editor |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apify/crawlee](../repos/apify/crawlee.md) | ⭐ 25,333 | 2026-08-10 | Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [brightdata/cli](../repos/brightdata/cli.md) | ⭐ 3,702 | 2026-08-10 | Official Bright Data CLI - scrape, search, and extract structured web data directly from your ter... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 71,657 | 2026-08-10 | 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 61,677 | 2026-08-11 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own s... |
@@ -80,6 +59,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lfnovo/open-notebook](../repos/lfnovo/open-notebook.md) | ⭐ 37,543 | 2026-08-11 | An Open Source implementation of Notebook LM with more flexibility and features |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [garrytan/gbrain](../repos/garrytan/gbrain.md) | ⭐ 28,221 | 2026-08-11 | Garry&#39;s Opinionated OpenClaw&#x2F;Hermes Agent Brain |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sourcebot-dev/sourcebot](../repos/sourcebot-dev/sourcebot.md) | ⭐ 3,820 | 2026-08-11 | Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [JimLiu/baoyu-skills](../repos/JimLiu/baoyu-skills.md) | ⭐ 24,860 | 2026-08-11 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [modelcontextprotocol/typescript-sdk](../repos/modelcontextprotocol/typescript-sdk.md) | ⭐ 13,133 | 2026-08-11 | The official TypeScript SDK for Model Context Protocol servers and clients |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [TanStack/router](../repos/TanStack/router.md) | ⭐ 14,921 | 2026-08-11 | 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (R... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [eigent-ai/eigent](../repos/eigent-ai/eigent.md) | ⭐ 14,943 | 2026-08-11 | Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 203,761 | 2026-08-11 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with ... |
 
 
 ---
@@ -104,7 +104,7 @@
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
 | [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 89,779 | 2026-08-22 | 1 |
-| [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 85,461 | 2026-08-14 | 2 |
+| [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 87,081 | 2026-08-14 | 3 |
 | [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 84,671 | 2026-08-28 | 1 |
 | [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | 2026-08-12 | 1 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 77,659 | 2026-08-02 | 4 |
@@ -119,12 +119,12 @@
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 11 | ⭐ 22,177 | 2026-08-07 | 2026-08-29 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 10 | ⭐ 6,150 | 2026-08-01 | 2026-08-29 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 10 | ⭐ 131,955 | 2026-08-02 | 2026-09-07 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 10 | ⭐ 48,368 | 2026-08-08 | 2026-09-09 |
 | [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 9 | ⭐ 47,661 | 2026-08-08 | 2026-09-08 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 9 | ⭐ 71,802 | 2026-08-10 | 2026-09-09 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 9 | ⭐ 61,677 | 2026-08-11 | 2026-09-04 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | 8 | ⭐ 102,103 | 2026-08-07 | 2026-09-05 |
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 8 | ⭐ 71,657 | 2026-08-10 | 2026-09-08 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-08T21:01:49.876Z*
+*Last updated: 2026-09-09T21:02:01.862Z*
