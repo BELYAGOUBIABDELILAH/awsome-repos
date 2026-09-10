@@ -1,0 +1,95 @@
+# sgoudelis&#x2F;ground-station
+
+> Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;sgoudelis&#x2F;ground-station) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | JavaScript |
+| **License** | GPL-3.0 |
+| **Stars** | ⭐ 4,772 |
+| **Forks** | 🍴 833 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Sep 10, 2026 |
+| **Last Seen** | Sep 10, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in JavaScript or antenna*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`antenna`](../../topics/antenna.md) [`bpsk`](../../topics/bpsk.md) [`fft`](../../topics/fft.md) [`fsk`](../../topics/fsk.md) [`ground-station`](../../topics/ground-station.md) [`python`](../../topics/python.md) [`radio`](../../topics/radio.md) [`react`](../../topics/react.md) [`rig`](../../topics/rig.md) [`rotator`](../../topics/rotator.md) [`satellite`](../../topics/satellite.md) [`satnogs`](../../topics/satnogs.md) [`sdr`](../../topics/sdr.md) [`space`](../../topics/space.md) [`tle`](../../topics/tle.md) [`waterfall`](../../topics/waterfall.md) [`weather`](../../topics/weather.md) 
+
+### Curated Categories
+`Web Development` `Systems Programming` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Limited | May require reading source code |
+| **Community** | Small | Niche but dedicated community |
+| **Maturity** | Stable | Established project |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in JavaScript
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-09-10T21:01:44.682Z*  
+*Data from 1 trending reports*

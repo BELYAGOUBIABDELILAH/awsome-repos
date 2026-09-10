@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 142
+- **Total Repositories**: 144
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-07
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 30,364 | 2026-08-01 | 14 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,175 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,431 | 2026-08-01 | 12 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,660 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,836 | 2026-08-02 | 16 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,905 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 15,412 | 2026-08-03 | 8 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,734 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner](../repos/actions/runner.md) | ⭐ 6,246 | 2026-08-04 | 8 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,271 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,266 | 2026-08-04 | 9 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,264 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,320 | 2026-08-04 | 4 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,298 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,258 | 2026-08-04 | 10 |
+| [MiniMax-AI/skills](../repos/MiniMax-AI/skills.md) | ⭐ 13,543 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,314 | 2026-08-06 | 8 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,331 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YSGStudyHards/DotNetGuide](../repos/YSGStudyHards/DotNetGuide.md) | ⭐ 10,904 | 2026-08-15 | 3 |
+| [dotnet/dotnet](../repos/dotnet/dotnet.md) | ⭐ 1,264 | 2026-08-08 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dpadGuy/SalsaNOW](../repos/dpadGuy/SalsaNOW.md) | ⭐ 117 | 2026-08-11 | SalsaNOW, the tool that sets up your GeForce NOW session experiences into local ones ! |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [builtbybel/FlyOOBE](../repos/builtbybel/FlyOOBE.md) | ⭐ 7,253 | 2026-08-11 | Fly through your Windows 11 setup 🐝 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Decimation/SmartImage](../repos/Decimation/SmartImage.md) | ⭐ 1,299 | 2026-08-11 | Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dotnet/sdk](../repos/dotnet/sdk.md) | ⭐ 3,187 | 2026-08-11 | Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Tichau/FileConverter](../repos/Tichau/FileConverter.md) | ⭐ 15,165 | 2026-08-11 | File Converter is a very simple tool which allows you to convert and compress files using the con... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rmcrackan/Libation](../repos/rmcrackan/Libation.md) | ⭐ 6,152 | 2026-08-11 | Libation: Liberate your Library |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [TechnitiumSoftware/DnsServer](../repos/TechnitiumSoftware/DnsServer.md) | ⭐ 9,752 | 2026-08-12 | Technitium DNS Server |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [TheJoeFin/Text-Grab](../repos/TheJoeFin/Text-Grab.md) | ⭐ 4,955 | 2026-08-12 | Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifi... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [indiff/qttabbar](../repos/indiff/qttabbar.md) | ⭐ 4,884 | 2026-08-14 | QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   h... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Unity-Technologies/skills](../repos/Unity-Technologies/skills.md) | ⭐ 753 | 2026-08-14 | A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built f... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,194 | 2026-08-14 | ShareX is a free and open-source application that enables users to capture or record any area of ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [madoiscool/LuaTools](../repos/madoiscool/LuaTools.md) | ⭐ 256 | 2026-08-14 | AppID Manager for ST |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sbroenne/mcp-server-excel](../repos/sbroenne/mcp-server-excel.md) | ⭐ 640 | 2026-08-14 | Automate real Microsoft Excel with AI via MCP Server or CLI — Power Query, DAX, VBA, PivotTables,... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dotnet/csharplang](../repos/dotnet/csharplang.md) | ⭐ 12,677 | 2026-08-14 | The official repo for the design of the C# programming language |
 
 
 ---
@@ -89,11 +89,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 115,647 | 2026-08-02 | 18 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,836 | 2026-08-02 | 16 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,314 | 2026-08-06 | 8 |
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 44,819 | 2026-08-01 | 6 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,905 | 2026-08-02 | 17 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,331 | 2026-08-06 | 9 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,175 | 2026-08-01 | 7 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,194 | 2026-08-14 | 2 |
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,608 | 2026-08-03 | 6 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,734 | 2026-08-03 | 7 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,431 | 2026-08-01 | 12 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,038 | 2026-08-28 | 2 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 20 | ⭐ 25,663 | 2026-08-02 | 2026-09-07 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 18 | ⭐ 115,647 | 2026-08-02 | 2026-09-07 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 17 | ⭐ 56,905 | 2026-08-02 | 2026-09-10 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 17 | ⭐ 5,385 | 2026-08-03 | 2026-09-08 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 16 | ⭐ 56,836 | 2026-08-02 | 2026-09-09 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 14 | ⭐ 30,364 | 2026-08-01 | 2026-09-09 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | 12 | ⭐ 3,660 | 2026-08-01 | 2026-09-10 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 12 | ⭐ 38,431 | 2026-08-01 | 2026-09-09 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 12 | ⭐ 14,123 | 2026-08-01 | 2026-09-08 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 12 | ⭐ 15,332 | 2026-08-02 | 2026-09-03 |
-| [microsoft/mcp](../repos/microsoft/mcp.md) | 11 | ⭐ 3,642 | 2026-08-01 | 2026-09-04 |
-| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | 11 | ⭐ 9,432 | 2026-08-04 | 2026-09-08 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | 12 | ⭐ 6,298 | 2026-08-05 | 2026-09-10 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-09T21:02:01.755Z*
+*Last updated: 2026-09-10T21:01:37.548Z*

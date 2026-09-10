@@ -1,6 +1,6 @@
 # jacobaraujo7&#x2F;remote_pi
 
-> Control your Pi coding agent from your phone. Pair with a one-time QR code and chat with your local agent — even when you&#39;re away from your computer.
+> Control your Pi coding agent from your phone. Pair with a one-time QR code and chat with your local agent, even when you&#39;re away from your computer.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;jacobaraujo7&#x2F;remote_pi) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | MIT |
-| **Stars** | ⭐ 288 |
-| **Forks** | 🍴 81 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 357 |
+| **Forks** | 🍴 92 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Aug 23, 2026 |
+| **Last Seen** | Sep 10, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 65&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-09T21:02:05.236Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-09-10T21:01:42.485Z*  
+*Data from 5 trending reports*

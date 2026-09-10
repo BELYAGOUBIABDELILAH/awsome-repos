@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | OCaml |
+| **Language** | C |
 | **License** | LGPL-2.1 |
-| **Stars** | ⭐ 16,566 |
-| **Forks** | 🍴 1,051 |
-| **Trending Days** | 34 |
+| **Stars** | ⭐ 16,582 |
+| **Forks** | 🍴 1,050 |
+| **Trending Days** | 35 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 9, 2026 |
+| **Last Seen** | Sep 10, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in OCaml or c*
+*Similar: Check repositories in C or c*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 34
+- **Trending Days**: 35
 - **Longest Streak**: 11 days
 
 ---
@@ -68,7 +68,7 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
+| **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
@@ -81,7 +81,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in OCaml
+- Check similar projects in C
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-09T21:02:04.074Z*  
-*Data from 34 trending reports*
+*Last updated: 2026-09-10T21:01:39.822Z*  
+*Data from 35 trending reports*

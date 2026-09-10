@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 510
+**Gems Found**: 489
 
 ---
 
@@ -19,7 +19,7 @@
 |---|---|
 | ⭐ **Stars** | 659 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 97/100 |
+| 🏆 **Gem Score** | 96/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 19, 2026 |
 
@@ -71,27 +71,7 @@
 
 ---
 
-### 4. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
-
-**14MB foundation model for tiny devices; phones, wearables, smart home, and robots.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 7,498 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Aug 11, 2026 |
-
-**Why it's a gem**: High growth velocity (+755 stars&#x2F;day) • Trending 7 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/cactus-compute/needle.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle)
-
----
-
-### 5. [chaitanyagiri&#x2F;munder-difflin](../../repos/chaitanyagiri/munder-difflin.md)
+### 4. [chaitanyagiri&#x2F;munder-difflin](../../repos/chaitanyagiri/munder-difflin.md)
 
 **local multi-agent harness**
 
@@ -111,7 +91,7 @@
 
 ---
 
-### 6. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
+### 5. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
 
 **OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
 
@@ -131,27 +111,27 @@
 
 ---
 
-### 7. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+### 6. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
 
-**GitHub Stacked PRs**
+**14MB foundation model for tiny devices; phones, wearables, smart home, and robots.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,047 |
-| 💻 **Language** | Go |
+| ⭐ **Stars** | 7,498 |
+| 💻 **Language** | Python |
 | 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Aug 11, 2026 |
 
-**Why it's a gem**: High growth velocity (+100 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+755 stars&#x2F;day) • Trending 7 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/github/gh-stack.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;github&#x2F;gh-stack)
+[View Passport](../../repos/cactus-compute/needle.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle)
 
 ---
 
-### 8. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
+### 7. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
 
 **Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
 
@@ -171,7 +151,7 @@
 
 ---
 
-### 9. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
+### 8. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
 
 **Model export recipes, Python primitives, and Swift runtime utilities for on-device AI**
 
@@ -191,7 +171,7 @@
 
 ---
 
-### 10. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
+### 9. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
 
 **Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de&#x2F;plugin-directory-submission.**
 
@@ -211,7 +191,7 @@
 
 ---
 
-### 11. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
+### 10. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
 
 **Open-source framework for the research and development of foundation models.**
 
@@ -231,27 +211,27 @@
 
 ---
 
-### 12. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
+### 11. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
 
-**📼 The missing YouTube and YouTube Music macOS app**
+**GitHub Stacked PRs**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,094 |
-| 💻 **Language** | Swift |
+| ⭐ **Stars** | 1,047 |
+| 💻 **Language** | Go |
 | 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Aug 4, 2026 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 1, 2026 |
 
-**Why it's a gem**: High growth velocity (+36 stars&#x2F;day) • Trending 7 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+100 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/sozercan/kaset.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;sozercan&#x2F;kaset)
+[View Passport](../../repos/github/gh-stack.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;github&#x2F;gh-stack)
 
 ---
 
-### 13. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+### 12. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
 
 **OCTO Android Client — Open-source enterprise IM**
 
@@ -271,7 +251,7 @@
 
 ---
 
-### 14. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
+### 13. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
 
 **Help AI coding agents write modern Go**
 
@@ -291,7 +271,7 @@
 
 ---
 
-### 15. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+### 14. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
 
 **A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
+### 15. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
 
 **A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.**
 
@@ -331,27 +311,7 @@
 
 ---
 
-### 17. [mnfst&#x2F;awesome-free-llm-apis](../../repos/mnfst/awesome-free-llm-apis.md)
-
-**List of Permanent Free LLM API  (API Keys)**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 7,159 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 10, 2026 |
-
-**Why it's a gem**: High growth velocity (+52 stars&#x2F;day) • Trending 4 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/mnfst/awesome-free-llm-apis.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mnfst&#x2F;awesome-free-llm-apis)
-
----
-
-### 18. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
+### 16. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
 
 **BookOrbit: Your Reading Space**
 
@@ -363,7 +323,7 @@
 | 📈 **Trending Days** | 3 |
 | 📅 **First Seen** | Aug 20, 2026 |
 
-**Why it's a gem**: High growth velocity (+195 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+195 stars&#x2F;day) • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -371,23 +331,63 @@
 
 ---
 
-### 19. [cursor&#x2F;plugins](../../repos/cursor/plugins.md)
+### 17. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
-**Cursor plugin specification and official plugins**
+**ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,150 |
-| 💻 **Language** | TypeScript |
+| ⭐ **Stars** | 1,230 |
+| 💻 **Language** | Python |
 | 🏆 **Gem Score** | 85/100 |
-| 📈 **Trending Days** | 10 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 4, 2026 |
 
-**Why it's a gem**: High growth velocity (+373 stars&#x2F;day) • Trending 10 times • Very active development
+**Why it's a gem**: High growth velocity (+436 stars&#x2F;day) • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/cursor/plugins.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;cursor&#x2F;plugins)
+[View Passport](../../repos/uber/ADR.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;uber&#x2F;ADR)
+
+---
+
+### 18. [mnfst&#x2F;awesome-free-llm-apis](../../repos/mnfst/awesome-free-llm-apis.md)
+
+**List of Permanent Free LLM API  (API Keys)**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,159 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 85/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+52 stars&#x2F;day) • Trending 4 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/mnfst/awesome-free-llm-apis.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mnfst&#x2F;awesome-free-llm-apis)
+
+---
+
+### 19. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
+
+**Mission control for your AI agents**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 477 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 85/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 26, 2026 |
+
+**Why it's a gem**: High growth velocity (+86 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/RizRiyz/luvus.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;RizRiyz&#x2F;luvus)
 
 ---
 
@@ -399,7 +399,7 @@
 |---|---|
 | ⭐ **Stars** | 13,556 |
 | 💻 **Language** | Python |
-| 🏆 **Gem Score** | 85/100 |
+| 🏆 **Gem Score** | 84/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 3, 2026 |
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-09T21:02:07.414Z*  
+*Generated: 2026-09-10T21:01:44.938Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

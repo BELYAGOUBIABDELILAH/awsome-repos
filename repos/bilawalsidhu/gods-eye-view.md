@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | Other |
-| **Stars** | ⭐ 12,459 |
-| **Forks** | 🍴 2,476 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 23,845 |
+| **Forks** | 🍴 4,970 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 27, 2026 |
-| **Last Seen** | Aug 29, 2026 |
+| **Last Seen** | Sep 10, 2026 |
 
 
 ---
@@ -45,11 +45,12 @@
 
 **Aug 28, 2026** — Rank #4 (+3398 ⭐)  
 **Aug 29, 2026** — Rank #2 (+1870 ⭐)  
+**Sep 10, 2026** — Rank #2 (+1588 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 3 days
 
 ---
@@ -72,9 +73,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Growing | Emerging community |
+| **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -87,11 +88,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 60&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-09-09T21:02:06.596Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-09-10T21:01:44.018Z*  
+*Data from 4 trending reports*

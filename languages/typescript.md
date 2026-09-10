@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 194
+- **Total Repositories**: 198
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/checkout](../repos/actions/checkout.md) | ⭐ 8,859 | 2026-08-02 | 6 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 7,365 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 52,805 | 2026-08-02 | 4 |
+| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 52,915 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 20,405 | 2026-08-07 | 6 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 48,711 | 2026-08-08 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 48,368 | 2026-08-08 | 10 |
+| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 31,080 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 30,815 | 2026-08-10 | 2 |
+| [THU-MAIC/OpenMAIC](../repos/THU-MAIC/OpenMAIC.md) | ⭐ 35,216 | 2026-08-15 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 71,802 | 2026-08-10 | 9 |
+| [letta-ai/letta-code](../repos/letta-ai/letta-code.md) | ⭐ 3,262 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 87,081 | 2026-08-14 | 3 |
+| [traycerai/traycer](../repos/traycerai/traycer.md) | ⭐ 1,455 | 2026-08-24 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/maka](../repos/apache/maka.md) | ⭐ 5,131 | 2026-08-20 | 8 |
+| [MoonTechLab/LunaTV](../repos/MoonTechLab/LunaTV.md) | ⭐ 10,397 | 2026-09-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MoonTechLab/LunaTV](../repos/MoonTechLab/LunaTV.md) | ⭐ 10,383 | 2026-09-07 | 3 |
+| [Tencent/teamai-cli](../repos/Tencent/teamai-cli.md) | ⭐ 3,715 | 2026-09-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pascalorg/editor](../repos/pascalorg/editor.md) | ⭐ 22,844 | 2026-09-07 | 3 |
+| [vastsa/PI-Desktop](../repos/vastsa/PI-Desktop.md) | ⭐ 2,236 | 2026-09-09 | 2 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 61,677 | 2026-08-11 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own s... |
+| [ZuodaoTech/everyone-can-use-english](../repos/ZuodaoTech/everyone-can-use-english.md) | ⭐ 36,431 | 2026-08-12 | 人人都能用英语 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [anthropics/cwc-workshops](../repos/anthropics/cwc-workshops.md) | ⭐ 1,971 | 2026-08-11 |  |
+| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 55,796 | 2026-08-12 | The open alternative to Salesforce, designed for AI. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [lfnovo/open-notebook](../repos/lfnovo/open-notebook.md) | ⭐ 37,543 | 2026-08-11 | An Open Source implementation of Notebook LM with more flexibility and features |
+| [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | 2026-08-12 | VS Code in the browser |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [garrytan/gbrain](../repos/garrytan/gbrain.md) | ⭐ 28,221 | 2026-08-11 | Garry&#39;s Opinionated OpenClaw&#x2F;Hermes Agent Brain |
+| [web-infra-dev/midscene](../repos/web-infra-dev/midscene.md) | ⭐ 14,556 | 2026-08-12 | AI-powered, vision-driven UI automation for every platform. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sourcebot-dev/sourcebot](../repos/sourcebot-dev/sourcebot.md) | ⭐ 3,820 | 2026-08-11 | Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. |
+| [holaboss-ai/holaOS](../repos/holaboss-ai/holaOS.md) | ⭐ 7,221 | 2026-08-12 | Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [JimLiu/baoyu-skills](../repos/JimLiu/baoyu-skills.md) | ⭐ 24,860 | 2026-08-11 |  |
+| [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 87,081 | 2026-08-14 | 🙌 OpenHands: AI-Driven Development |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [modelcontextprotocol/typescript-sdk](../repos/modelcontextprotocol/typescript-sdk.md) | ⭐ 13,133 | 2026-08-11 | The official TypeScript SDK for Model Context Protocol servers and clients |
+| [Jakubantalik/Libraries](../repos/Jakubantalik/Libraries.md) | ⭐ 1,938 | 2026-08-14 | Collection of effects for React: Border beam, Liquid Gooey |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [TanStack/router](../repos/TanStack/router.md) | ⭐ 14,921 | 2026-08-11 | 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (R... |
+| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 16,080 | 2026-08-14 | Open source alternative to Semrush and Ahrefs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [eigent-ai/eigent](../repos/eigent-ai/eigent.md) | ⭐ 14,943 | 2026-08-11 | Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex |
+| [documenso/documenso](../repos/documenso/documenso.md) | ⭐ 14,449 | 2026-08-14 | The Open Source DocuSign Alternative. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 203,761 | 2026-08-11 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with ... |
+| [vercel-labs/deepsec](../repos/vercel-labs/deepsec.md) | ⭐ 7,657 | 2026-08-14 | Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents |
 
 
 ---
@@ -116,10 +116,10 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 12 | ⭐ 29,827 | 2026-08-02 | 2026-09-06 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 11 | ⭐ 7,365 | 2026-08-01 | 2026-09-10 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 11 | ⭐ 22,177 | 2026-08-07 | 2026-08-29 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 10 | ⭐ 6,150 | 2026-08-01 | 2026-08-29 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 11 | ⭐ 48,711 | 2026-08-08 | 2026-09-10 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 10 | ⭐ 131,955 | 2026-08-02 | 2026-09-07 |
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 10 | ⭐ 48,368 | 2026-08-08 | 2026-09-09 |
 | [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 9 | ⭐ 71,802 | 2026-08-10 | 2026-09-09 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 9 | ⭐ 61,677 | 2026-08-11 | 2026-09-04 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-09T21:02:01.862Z*
+*Last updated: 2026-09-10T21:01:37.631Z*

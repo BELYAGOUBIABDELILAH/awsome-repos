@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 178
+- **Total Repositories**: 181
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-02
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,519 | 2026-08-01 | 17 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 70,404 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 70,259 | 2026-08-01 | 16 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,582 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,086 | 2026-08-01 | 8 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,935 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [php/php-src](../repos/php/php-src.md) | ⭐ 40,365 | 2026-08-01 | 5 |
+| [karpathy/llama2.c](../repos/karpathy/llama2.c.md) | ⭐ 20,069 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 843 | 2026-08-02 | 7 |
+| [vedderb/bldc](../repos/vedderb/bldc.md) | ⭐ 3,432 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,952 | 2026-08-04 | 15 |
+| [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 24,777 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git/git](../repos/git/git.md) | ⭐ 63,088 | 2026-08-05 | 5 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,476 | 2026-08-06 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [timescale/timescaledb](../repos/timescale/timescaledb.md) | ⭐ 23,497 | 2026-08-07 | 4 |
+| [timescale/timescaledb](../repos/timescale/timescaledb.md) | ⭐ 23,506 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,805 | 2026-08-07 | 15 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,819 | 2026-08-07 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HarbourMasters/Shipwright](../repos/HarbourMasters/Shipwright.md) | ⭐ 5,347 | 2026-08-24 | 3 |
+| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 4,362 | 2026-08-15 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SchedMD/slurm](../repos/SchedMD/slurm.md) | ⭐ 4,311 | 2026-08-11 | Slurm: A Highly Scalable Workload Manager |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [memovai/mimiclaw](../repos/memovai/mimiclaw.md) | ⭐ 5,701 | 2026-08-11 | MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. H... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 18,938 | 2026-08-12 | Espressif IoT Development Framework. Official development framework for Espressif SoCs. |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [superturtlee/gbl_root_canoe](../repos/superturtlee/gbl_root_canoe.md) | ⭐ 988 | 2026-08-14 | No TrickyStore on Canoe |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) | ⭐ 15,008 | 2026-08-15 | 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital hu... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/msquic](../repos/microsoft/msquic.md) | ⭐ 4,758 | 2026-08-15 | Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust. |
 
 
 ---
@@ -93,21 +93,21 @@
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 78,928 | 2026-08-24 | 1 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 75,926 | 2026-08-02 | 12 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 70,259 | 2026-08-01 | 16 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 70,404 | 2026-08-01 | 17 |
 | [git/git](../repos/git/git.md) | ⭐ 63,088 | 2026-08-05 | 5 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,675 | 2026-08-07 | 16 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,365 | 2026-08-01 | 5 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,887 | 2026-08-02 | 7 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,935 | 2026-08-02 | 8 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | 6 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,501 | 2026-08-03 | 4 |
-| [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,803 | 2026-09-06 | 1 |
+| [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,837 | 2026-09-06 | 2 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,195 | 2026-08-01 | 4 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 32,007 | 2026-08-17 | 1 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,565 | 2026-08-02 | 5 |
 | [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,285 | 2026-08-09 | 6 |
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,805 | 2026-08-07 | 15 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,819 | 2026-08-07 | 16 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 35 | ⭐ 16,582 | 2026-08-01 | 2026-09-10 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 17 | ⭐ 138,519 | 2026-08-01 | 2026-09-09 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 16 | ⭐ 70,259 | 2026-08-01 | 2026-09-09 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 17 | ⭐ 70,404 | 2026-08-01 | 2026-09-10 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 16 | ⭐ 42,675 | 2026-08-07 | 2026-09-08 |
+| [facebook/zstd](../repos/facebook/zstd.md) | 16 | ⭐ 27,819 | 2026-08-07 | 2026-09-10 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 15 | ⭐ 6,952 | 2026-08-04 | 2026-09-09 |
-| [facebook/zstd](../repos/facebook/zstd.md) | 15 | ⭐ 27,805 | 2026-08-07 | 2026-09-09 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 13 | ⭐ 16,379 | 2026-08-06 | 2026-09-02 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 14 | ⭐ 16,476 | 2026-08-06 | 2026-09-10 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 12 | ⭐ 75,926 | 2026-08-02 | 2026-09-07 |
 | [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 11 | ⭐ 4,473 | 2026-08-04 | 2026-09-05 |
 | [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | 10 | ⭐ 12,983 | 2026-08-01 | 2026-09-08 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 10 | ⭐ 148,747 | 2026-08-07 | 2026-09-02 |
 
 ---
 
@@ -146,6 +146,7 @@
 - [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) - A professional cross-platform SSH&#x2F;Sftp&#x2F;Shell&#x2F;Telnet&#x2F;Tmux&#x2F;Serial terminal.
 - [php/php-src](../repos/php/php-src.md) - The PHP Interpreter
 - [VirusTotal/yara](../repos/VirusTotal/yara.md) - The pattern matching swiss knife
+- [semgrep/semgrep](../repos/semgrep/semgrep.md) - Lightweight static analysis for many languages. Find bug variants with patterns that look like so...
 - [HarbourMasters/Lighthouse](../repos/HarbourMasters/Lighthouse.md) - 
 - [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) - Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through i...
 - [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) - ehviewer，用爱发电，快乐前行
@@ -229,8 +230,7 @@
 - [nuta/operating-system-in-1000-lines](../repos/nuta/operating-system-in-1000-lines.md) - Writing an OS in 1,000 lines.
 - [superturtlee/gbl_root_canoe](../repos/superturtlee/gbl_root_canoe.md) - No TrickyStore on Canoe
 - [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital hu...
-- [microsoft/msquic](../repos/microsoft/msquic.md) - Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
 
 ---
 
-*Last updated: 2026-09-09T21:02:01.752Z*
+*Last updated: 2026-09-10T21:01:37.544Z*

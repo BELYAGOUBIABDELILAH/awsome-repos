@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 2073
+- **Total Repositories**: 2098
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 17401
+- **Average Stars**: 17312
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 478,088 | Python |  |
+| [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 13,145 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 29,968 | JavaScript |  |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 30,789 | JavaScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 62,555 | JavaScript |  |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 18,900 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 18,673 | Rust |  |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 47,824 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,519 | C |  |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,175 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [fluent/fluent-bit](../repos/fluent/fluent-bit.md) | ⭐ 8,086 | C |  |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,922 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 30,364 | C# |  |
+| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,332 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,431 | C# |  |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,824 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,328 | PHP |  |
+| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 5,904 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,296 | PHP |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,719 | Ruby |  |
 
 
 ---
@@ -85,6 +85,9 @@
 | [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 19,295 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 13,145 | Python | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 478,088 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
@@ -94,10 +97,7 @@
 | [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 11,687 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 29,968 | JavaScript | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 62,555 | JavaScript | 1 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 30,789 | JavaScript | 2 |
 
 ---
 
@@ -105,38 +105,42 @@
 
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [HKUDS/DeepTutor](../repos/HKUDS/DeepTutor.md) | ⭐ 38,256 | Python | 2026-08-11 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 37,645 | HTML | 2026-08-12 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 61,677 | TypeScript | 2026-08-11 |
+| [hugohe3/ppt-master](../repos/hugohe3/ppt-master.md) | ⭐ 46,830 | Python | 2026-08-12 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [LLMQuant/quant-mind](../repos/LLMQuant/quant-mind.md) | ⭐ 2,470 | Python | 2026-08-11 |
+| [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) | ⭐ 21,985 | Python | 2026-08-12 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [cactus-compute/needle](../repos/cactus-compute/needle.md) | ⭐ 7,498 | Python | 2026-08-11 |
+| [omnigent-ai/omnigent](../repos/omnigent-ai/omnigent.md) | ⭐ 8,713 | Python | 2026-08-12 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [AgriciDaniel/claude-obsidian](../repos/AgriciDaniel/claude-obsidian.md) | ⭐ 13,929 | Python | 2026-08-11 |
+| [index-tts/index-tts](../repos/index-tts/index-tts.md) | ⭐ 22,724 | Python | 2026-08-12 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [chr0nzz/traefik-manager](../repos/chr0nzz/traefik-manager.md) | ⭐ 1,213 | JavaScript | 2026-08-11 |
+| [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | JavaScript | 2026-08-12 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [polius/FileSync](../repos/polius/FileSync.md) | ⭐ 1,473 | JavaScript | 2026-08-11 |
+| [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) | ⭐ 28,619 | JavaScript | 2026-08-12 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [plankanban/planka](../repos/plankanban/planka.md) | ⭐ 12,484 | JavaScript | 2026-08-11 |
+| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 55,796 | TypeScript | 2026-08-12 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | JavaScript | 2026-08-11 |
+| [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | TypeScript | 2026-08-12 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [sourcebot-dev/sourcebot](../repos/sourcebot-dev/sourcebot.md) | ⭐ 3,820 | TypeScript | 2026-08-11 |
+| [web-infra-dev/midscene](../repos/web-infra-dev/midscene.md) | ⭐ 14,556 | TypeScript | 2026-08-12 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-09-10](../archive/2026/09/2026-09-10.md)
+- 258 repositories trending
+- Top: flutter&#x2F;flutter
 
 ### [2026-09-09](../archive/2026/09/2026-09-09.md)
 - 263 repositories trending
@@ -162,10 +166,6 @@
 - 242 repositories trending
 - Top: NousResearch&#x2F;hermes-agent
 
-### [2026-09-03](../archive/2026/09/2026-09-03.md)
-- 205 repositories trending
-- Top: NousResearch&#x2F;hermes-agent
-
 
 ---
 
@@ -175,32 +175,32 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 36 days | 2026-08-01 | 2026-09-09 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 35 days | 2026-08-01 | 2026-09-09 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 35 days | 2026-08-01 | 2026-09-09 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 34 days | 2026-08-01 | 2026-09-09 |
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 34 days | 2026-08-01 | 2026-09-09 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 34 days | 2026-08-01 | 2026-09-09 |
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 33 days | 2026-08-01 | 2026-09-09 |
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 33 days | 2026-08-01 | 2026-09-09 |
-| [vlang/v](../repos/vlang/v.md) | 33 days | 2026-08-01 | 2026-09-09 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 33 days | 2026-08-01 | 2026-09-09 |
+| [apache/spark](../repos/apache/spark.md) | 37 days | 2026-08-01 | 2026-09-10 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 36 days | 2026-08-01 | 2026-09-10 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 36 days | 2026-08-01 | 2026-09-10 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 35 days | 2026-08-01 | 2026-09-10 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 35 days | 2026-08-01 | 2026-09-10 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 35 days | 2026-08-01 | 2026-09-10 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 34 days | 2026-08-01 | 2026-09-10 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 34 days | 2026-08-01 | 2026-09-10 |
+| [vlang/v](../repos/vlang/v.md) | 34 days | 2026-08-01 | 2026-09-10 |
+| [joernio/joern](../repos/joernio/joern.md) | 33 days | 2026-08-01 | 2026-09-10 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 187 repositories (9%)
-- **C++**: 150 repositories (7%)
-- **Python**: 138 repositories (7%)
-- **TypeScript**: 135 repositories (7%)
-- **Rust**: 133 repositories (6%)
+- **Go**: 190 repositories (9%)
+- **C++**: 152 repositories (7%)
+- **Python**: 140 repositories (7%)
+- **TypeScript**: 136 repositories (6%)
+- **Rust**: 136 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 245.5 repositories
+- **Daily Average**: 245.8 repositories
 - **Peak Day**: 2026-08-19 (382 repositories)
-- **Growth Rate**: 43% this month
+- **Growth Rate**: 41% this month
 
 ---
 
@@ -230,7 +230,7 @@
 - [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) - 12 Weeks, 24 Lessons, AI for All!
 - [geo-tp/ESP32-Bit-Pirate](../repos/geo-tp/ESP32-Bit-Pirate.md) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol 
 - [1jehuang/jcode](../repos/1jehuang/jcode.md) - The most RAM efficient harness
-- [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) - Build local voice agents with open-source models
+- [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) - Build voice agents with open-source models
 - [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...
 - [public-apis/public-apis](../repos/public-apis/public-apis.md) - A collective list of free APIs
 - [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) - The agent that grows with you
@@ -240,7 +240,7 @@
 - [WhiskeySockets/Baileys](../repos/WhiskeySockets/Baileys.md) - Socket-based TS&#x2F;JavaScript API for WhatsApp Web
 - [huggingface/transformers.js](../repos/huggingface/transformers.js.md) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with...
 - [node-red/node-red](../repos/node-red/node-red.md) - Low-code programming for event-driven applications
-- [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+- [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) - Prompt as Code | GPT Image 2 &#x2F; 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与...
 - [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) - Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module...
 - [byoungd/up](../repos/byoungd/up.md) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南&#x2F;英语学习教...
 - [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an...
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-09-09T21:02:01.628Z*
+*Last updated: 2026-09-10T21:01:37.420Z*

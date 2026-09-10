@@ -1,6 +1,6 @@
 # huggingface&#x2F;speech-to-speech
 
-> Build local voice agents with open-source models
+> Build voice agents with open-source models
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;huggingface&#x2F;speech-to-speech) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 9,822 |
-| **Forks** | 🍴 1,191 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 13,145 |
+| **Forks** | 🍴 1,651 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 1, 2026 |
+| **Last Seen** | Sep 10, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -69,10 +69,10 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Limited | May require reading source code |
-| **Community** | Small | Niche but dedicated community |
-| **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
+| **Maturity** | Stable | Mature with proven track record |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-09T21:02:03.758Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-10T21:01:39.486Z*  
+*Data from 2 trending reports*

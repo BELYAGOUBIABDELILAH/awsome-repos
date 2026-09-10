@@ -16,13 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 730 | 2026-08-01 | 30 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,413 | 2026-08-02 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | 1 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 731 | 2026-08-01 | 31 |
 
 
 ---
@@ -73,7 +67,7 @@
 | [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,413 | 2026-08-02 | 10 |
 | [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 730 | 2026-08-01 | 30 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 731 | 2026-08-01 | 31 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 719 | 2026-08-07 | 1 |
 | [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | 1 |
@@ -93,7 +87,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 30 | ⭐ 730 | 2026-08-01 | 2026-09-09 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 31 | ⭐ 731 | 2026-08-01 | 2026-09-10 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 15 | ⭐ 46 | 2026-08-02 | 2026-08-25 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 13 | ⭐ 125 | 2026-08-01 | 2026-08-28 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 11 | ⭐ 116 | 2026-08-01 | 2026-09-01 |
@@ -130,4 +124,4 @@
 
 ---
 
-*Last updated: 2026-09-09T21:02:01.801Z*
+*Last updated: 2026-09-10T21:01:37.588Z*

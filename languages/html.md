@@ -16,22 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 36,443 | 2026-08-12 | 10 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,796 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [w3c/wcag](../repos/w3c/wcag.md) | ⭐ 1,482 | 2026-08-24 | 2 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 26,052 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openshift/openshift-docs](../repos/openshift/openshift-docs.md) | ⭐ 882 | 2026-08-28 | 2 |
+| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | ⭐ 5,064 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aoaostar/legado](../repos/aoaostar/legado.md) | ⭐ 6,254 | 2026-09-07 | 2 |
+| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,674 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy-site](../repos/omacom/omarchy-site.md) | ⭐ 77 | 2026-09-08 | 2 |
+| [revfactory/harness](../repos/revfactory/harness.md) | ⭐ 8,955 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Guyungy/damaihelper](../repos/Guyungy/damaihelper.md) | ⭐ 4,121 | 2026-09-09 | 1 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 37,645 | 2026-08-12 | 11 |
 
 
 ---
@@ -40,13 +40,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [revfactory/harness](../repos/revfactory/harness.md) | ⭐ 8,905 | 2026-08-11 | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 3,247 | 2026-08-11 | Collection of the most essential transitions for web apps, skill for agents and Refine tool for a... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 36,443 | 2026-08-12 | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows.... |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 37,645 | 2026-08-12 | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows.... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | A rugged, minimal framework for composing JavaScript behavior in your markup.  |
@@ -68,6 +62,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [judge0/judge0](../repos/judge0/judge0.md) | ⭐ 4,375 | 2026-08-15 | Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nova-video-player/aos-AVP](../repos/nova-video-player/aos-AVP.md) | ⭐ 4,618 | 2026-08-16 | NOVA opeN sOurce Video plAyer: main repository to build them all |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,438 | 2026-08-19 | 计算机自学指南 |
 
 
 ---
@@ -84,18 +84,18 @@
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 40,978 | 2026-09-03 | 1 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,545 | 2026-08-07 | 3 |
 | [fengdu78/Coursera-ML-AndrewNg-Notes](../repos/fengdu78/Coursera-ML-AndrewNg-Notes.md) | ⭐ 37,699 | 2026-09-06 | 1 |
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 36,443 | 2026-08-12 | 10 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 37,645 | 2026-08-12 | 11 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,182 | 2026-08-19 | 5 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,171 | 2026-08-09 | 7 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,402 | 2026-08-03 | 8 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 25,427 | 2026-08-04 | 7 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 26,052 | 2026-08-04 | 8 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 21,209 | 2026-08-01 | 5 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,428 | 2026-08-03 | 3 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
 | [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | 1 |
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,723 | 2026-08-02 | 4 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,796 | 2026-08-02 | 5 |
 
 ---
 
@@ -106,12 +106,12 @@
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 12 | ⭐ 65,728 | 2026-08-01 | 2026-09-07 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 11 | ⭐ 8,735 | 2026-08-03 | 2026-09-05 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 11 | ⭐ 135,251 | 2026-08-08 | 2026-08-25 |
+| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 11 | ⭐ 37,645 | 2026-08-12 | 2026-09-10 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 10 | ⭐ 9,776 | 2026-08-01 | 2026-09-03 |
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 10 | ⭐ 36,443 | 2026-08-12 | 2026-09-09 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 9 | ⭐ 208,807 | 2026-08-03 | 2026-09-07 |
 | [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 8 | ⭐ 9,116 | 2026-08-03 | 2026-09-02 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 8 | ⭐ 27,402 | 2026-08-03 | 2026-09-07 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 7 | ⭐ 25,427 | 2026-08-04 | 2026-09-01 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 8 | ⭐ 26,052 | 2026-08-04 | 2026-09-10 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 7 | ⭐ 16,515 | 2026-08-04 | 2026-09-04 |
 
 ---
@@ -201,4 +201,4 @@
 
 ---
 
-*Last updated: 2026-09-09T21:02:01.793Z*
+*Last updated: 2026-09-10T21:01:37.580Z*

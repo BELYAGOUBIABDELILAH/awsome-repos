@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 212
+- **Total Repositories**: 216
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-09
 
@@ -16,61 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 478,088 | 2026-08-01 | 7 |
+| [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 13,145 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 54,192 | 2026-08-03 | 8 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 104,483 | 2026-08-08 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostHog/posthog](../repos/PostHog/posthog.md) | ⭐ 39,719 | 2026-08-03 | 9 |
+| [NVIDIA/Megatron-LM](../repos/NVIDIA/Megatron-LM.md) | ⭐ 17,840 | 2026-08-25 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 103,855 | 2026-08-08 | 8 |
+| [ayghri/i-have-adhd](../repos/ayghri/i-have-adhd.md) | ⭐ 37,936 | 2026-08-29 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) | ⭐ 21,985 | 2026-08-12 | 5 |
+| [datawhalechina/hello-agents](../repos/datawhalechina/hello-agents.md) | ⭐ 78,270 | 2026-09-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 134,408 | 2026-08-14 | 6 |
+| [openai/skills](../repos/openai/skills.md) | ⭐ 26,850 | 2026-09-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 113,948 | 2026-08-20 | 7 |
+| [jiji262/douyin-downloader](../repos/jiji262/douyin-downloader.md) | ⭐ 9,904 | 2026-09-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ayghri/i-have-adhd](../repos/ayghri/i-have-adhd.md) | ⭐ 34,214 | 2026-08-29 | 3 |
+| [gpustack/gpustack](../repos/gpustack/gpustack.md) | ⭐ 5,658 | 2026-09-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sumanth077/Hands-On-AI-Engineering](../repos/Sumanth077/Hands-On-AI-Engineering.md) | ⭐ 3,360 | 2026-09-04 | 3 |
+| [ultralytics/ultralytics](../repos/ultralytics/ultralytics.md) | ⭐ 61,481 | 2026-09-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earthtojake/text-to-cad](../repos/earthtojake/text-to-cad.md) | ⭐ 14,992 | 2026-09-04 | 3 |
+| [google-deepmind/alphagenome](../repos/google-deepmind/alphagenome.md) | ⭐ 2,080 | 2026-09-10 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 174,517 | 2026-08-11 | Public repository for Agent Skills |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [HKUDS/DeepTutor](../repos/HKUDS/DeepTutor.md) | ⭐ 38,256 | 2026-08-11 | DeepTutor: Lifelong Personalized Tutoring. https:&#x2F;&#x2F;deeptutor.info&#x2F;. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [LLMQuant/quant-mind](../repos/LLMQuant/quant-mind.md) | ⭐ 2,470 | 2026-08-11 | QuantMind is an agent-native knowledge extraction and retrieval framework for quantitative finance. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AWeirdDev/flights](../repos/AWeirdDev/flights.md) | ⭐ 1,860 | 2026-08-11 | Fast, robust Google Flights scraper (API) for Python. (Probably) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cactus-compute/needle](../repos/cactus-compute/needle.md) | ⭐ 7,498 | 2026-08-11 | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NVlabs/GR00T-WholeBodyControl](../repos/NVlabs/GR00T-WholeBodyControl.md) | ⭐ 3,238 | 2026-08-11 | Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deployin... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AgriciDaniel/claude-obsidian](../repos/AgriciDaniel/claude-obsidian.md) | ⭐ 13,929 | 2026-08-11 | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, lin... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [hugohe3/ppt-master](../repos/hugohe3/ppt-master.md) | ⭐ 46,830 | 2026-08-12 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions a... |
@@ -80,6 +59,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Lightricks/LTX-2](../repos/Lightricks/LTX-2.md) | ⭐ 9,005 | 2026-08-12 | Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [omnigent-ai/omnigent](../repos/omnigent-ai/omnigent.md) | ⭐ 8,713 | 2026-08-12 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, C... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [index-tts/index-tts](../repos/index-tts/index-tts.md) | ⭐ 22,724 | 2026-08-12 | An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [paradigmxyz/centaur](../repos/paradigmxyz/centaur.md) | ⭐ 1,105 | 2026-08-12 | Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open so... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [megadose/holehe](../repos/megadose/holehe.md) | ⭐ 13,276 | 2026-08-14 | holehe allows you to check if the mail is used on different sites like twitter, instagram and wil... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 134,408 | 2026-08-14 | 💫 Toolkit to help you get started with Spec-Driven Development |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [newton-physics/newton](../repos/newton-physics/newton.md) | ⭐ 5,437 | 2026-08-14 | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically ta... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NVIDIA-NeMo/Automodel](../repos/NVIDIA-NeMo/Automodel.md) | ⭐ 833 | 2026-08-14 | 🚀 Pytorch Distributed native training library for LLMs&#x2F;VLMs with OOTB Hugging Face support |
 
 
 ---
@@ -106,7 +106,7 @@
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 114,356 | 2026-08-03 | 5 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 113,948 | 2026-08-20 | 7 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 103,855 | 2026-08-08 | 8 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 104,483 | 2026-08-08 | 9 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 102,844 | 2026-07-30 | 3 |
 
 ---
@@ -121,10 +121,10 @@
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 10 | ⭐ 41,423 | 2026-08-03 | 2026-09-01 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 9 | ⭐ 1,384 | 2026-08-01 | 2026-08-28 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 9 | ⭐ 39,719 | 2026-08-03 | 2026-09-09 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 9 | ⭐ 104,483 | 2026-08-08 | 2026-09-10 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 8 | ⭐ 54,192 | 2026-08-03 | 2026-09-09 |
 | [usestrix/strix](../repos/usestrix/strix.md) | 8 | ⭐ 56,671 | 2026-08-04 | 2026-08-21 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 8 | ⭐ 131,932 | 2026-08-05 | 2026-09-07 |
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 8 | ⭐ 103,855 | 2026-08-08 | 2026-09-09 |
 
 ---
 
@@ -137,7 +137,7 @@
 - [langchain-ai/langchain](../repos/langchain-ai/langchain.md) - Building applications with LLMs through composability
 - [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...
 - [paperswithbacktest/awesome-systematic-trading](../repos/paperswithbacktest/awesome-systematic-trading.md) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic...
-- [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) - Build local voice agents with open-source models
+- [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) - Build voice agents with open-source models
 - [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...
 - [trailofbits/skills](../repos/trailofbits/skills.md) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [kangarooking/cangjie-skill](../repos/kangarooking/cangjie-skill.md) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-09T21:02:01.836Z*
+*Last updated: 2026-09-10T21:01:37.614Z*

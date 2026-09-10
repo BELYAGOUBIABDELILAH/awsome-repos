@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 1,241 |
-| **Forks** | 🍴 56 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 1,301 |
+| **Forks** | 🍴 58 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 10, 2026 |
-| **Last Seen** | Aug 10, 2026 |
+| **Last Seen** | Sep 10, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Dart or similar-topics*
+*Similar: Check repositories in Dart or diary*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-
+[`diary`](../../topics/diary.md) [`flutter`](../../topics/flutter.md) [`journal`](../../topics/journal.md) [`markdown`](../../topics/markdown.md) [`memory`](../../topics/memory.md) [`mood-tracker`](../../topics/mood-tracker.md) [`note-taking`](../../topics/note-taking.md) [`notes-app`](../../topics/notes-app.md) [`offline-first`](../../topics/offline-first.md) [`privacy`](../../topics/privacy.md) 
 
 ### Curated Categories
-`General` 
+`Mobile Development` `Systems Programming` `Documentation` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-09T21:02:05.701Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-10T21:01:42.976Z*  
+*Data from 2 trending reports*

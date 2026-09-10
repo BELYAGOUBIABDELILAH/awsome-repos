@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,259 | 2026-08-01 | 13 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,429 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 922 | 2026-08-01 | 25 |
+| [ZoranPandovski/awesome-testing-tools](../repos/ZoranPandovski/awesome-testing-tools.md) | ⭐ 372 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,429 | 2026-08-01 | 32 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,330 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,306 | 2026-08-04 | 17 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,308 | 2026-08-04 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AumGupta/abyss-jellyfin](../repos/AumGupta/abyss-jellyfin.md) | ⭐ 637 | 2026-08-05 | 9 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,503 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,782 | 2026-08-06 | 12 |
+| [AumGupta/abyss-jellyfin](../repos/AumGupta/abyss-jellyfin.md) | ⭐ 643 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,633 | 2026-08-06 | 9 |
+| [lscambo13/ElegantFin](../repos/lscambo13/ElegantFin.md) | ⭐ 2,116 | 2026-08-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 4,875 | 2026-08-10 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [lscambo13/ElegantFin](../repos/lscambo13/ElegantFin.md) | ⭐ 2,110 | 2026-08-12 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [wso2/docs-apim](../repos/wso2/docs-apim.md) | ⭐ 99 | 2026-09-09 | 1 |
+| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,363 | 2026-09-02 | 4 |
 
 
 ---
@@ -52,10 +46,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [FlutterFlow/flutterflow-documentation](../repos/FlutterFlow/flutterflow-documentation.md) | ⭐ 89 | 2026-08-11 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [lscambo13/ElegantFin](../repos/lscambo13/ElegantFin.md) | ⭐ 2,110 | 2026-08-12 | A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience wi... |
+| [lscambo13/ElegantFin](../repos/lscambo13/ElegantFin.md) | ⭐ 2,116 | 2026-08-12 | A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience wi... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | Automatically add a progress bar to your site. |
@@ -80,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [KyleAMathews/typefaces](../repos/KyleAMathews/typefaces.md) | ⭐ 2,589 | 2026-08-22 | NPM packages for Open Source typefaces |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [adobe/spectrum-css](../repos/adobe/spectrum-css.md) | ⭐ 1,288 | 2026-08-22 | The standard CSS implementation of the Spectrum design language. |
 
 
 ---
@@ -90,21 +84,21 @@
 |------------|-------|------------|---------------|
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,782 | 2026-08-06 | 12 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,518 | 2026-08-01 | 8 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,306 | 2026-08-04 | 17 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,308 | 2026-08-04 | 18 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,286 | 2026-08-02 | 19 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,596 | 2026-08-04 | 3 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,330 | 2026-08-02 | 18 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,239 | 2026-08-01 | 17 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,807 | 2026-08-04 | 6 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 11,646 | 2026-08-02 | 17 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,633 | 2026-08-06 | 9 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,481 | 2026-08-09 | 2 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,499 | 2026-08-05 | 12 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,503 | 2026-08-05 | 13 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
-| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,347 | 2026-09-02 | 3 |
+| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,363 | 2026-09-02 | 4 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,259 | 2026-08-01 | 13 |
 | [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,414 | 2026-08-03 | 4 |
 | [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,319 | 2026-08-08 | 7 |
@@ -115,15 +109,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 32 | ⭐ 1,429 | 2026-08-01 | 2026-09-09 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 33 | ⭐ 1,429 | 2026-08-01 | 2026-09-10 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 25 | ⭐ 922 | 2026-08-01 | 2026-09-09 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 21 | ⭐ 1,408 | 2026-08-01 | 2026-08-29 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 19 | ⭐ 28,286 | 2026-08-02 | 2026-09-08 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 18 | ⭐ 12,330 | 2026-08-02 | 2026-09-10 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 18 | ⭐ 45,308 | 2026-08-04 | 2026-09-10 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 17 | ⭐ 12,239 | 2026-08-01 | 2026-09-08 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 17 | ⭐ 11,646 | 2026-08-02 | 2026-08-29 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 17 | ⭐ 45,306 | 2026-08-04 | 2026-09-09 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 13 | ⭐ 9,259 | 2026-08-01 | 2026-09-09 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 12 | ⭐ 9,499 | 2026-08-05 | 2026-09-07 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 13 | ⭐ 9,503 | 2026-08-05 | 2026-09-10 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 12 | ⭐ 82,782 | 2026-08-06 | 2026-09-09 |
 
 ---
@@ -196,4 +190,4 @@
 
 ---
 
-*Last updated: 2026-09-09T21:02:01.766Z*
+*Last updated: 2026-09-10T21:01:37.556Z*

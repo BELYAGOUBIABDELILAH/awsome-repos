@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [yangyangwithgnu/use_vim_as_ide](../repos/yangyangwithgnu/use_vim_as_ide.md) | ⭐ 9,158 | 2026-09-07 | 2 |
 
+*No VimL repositories trending today*
 
 ---
 
@@ -55,4 +53,4 @@
 
 ---
 
-*Last updated: 2026-09-09T21:02:01.873Z*
+*Last updated: 2026-09-10T21:01:37.642Z*

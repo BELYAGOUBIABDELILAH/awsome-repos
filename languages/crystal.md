@@ -8,14 +8,16 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-08
+- **Last Updated**: 2026-09-10
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,358 | 2026-08-01 | 26 |
 
-*No Crystal repositories trending today*
 
 ---
 
@@ -30,7 +32,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,306 | 2026-08-01 | 25 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,358 | 2026-08-01 | 26 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,418 | 2026-08-06 | 6 |
 
 ---
@@ -39,7 +41,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | 25 | ⭐ 24,306 | 2026-08-01 | 2026-09-08 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | 26 | ⭐ 24,358 | 2026-08-01 | 2026-09-10 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | 6 | ⭐ 1,418 | 2026-08-06 | 2026-09-05 |
 
 ---
@@ -51,4 +53,4 @@
 
 ---
 
-*Last updated: 2026-09-09T21:02:01.773Z*
+*Last updated: 2026-09-10T21:01:37.562Z*

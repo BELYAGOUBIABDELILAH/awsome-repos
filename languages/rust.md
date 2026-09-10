@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 166
+- **Total Repositories**: 171
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-09-08
+- **Last Updated**: 2026-09-10
 
 ---
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 18,673 | 2026-08-01 | 8 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 123,093 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 42,307 | 2026-08-02 | 8 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 18,900 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | ⭐ 2,853 | 2026-08-05 | 8 |
+| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 15,252 | 2026-08-10 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,909 | 2026-08-09 | 10 |
+| [waditu/czsc](../repos/waditu/czsc.md) | ⭐ 6,090 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 15,211 | 2026-08-10 | 4 |
+| [base/base](../repos/base/base.md) | ⭐ 882 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 17,389 | 2026-08-14 | 6 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 6,454 | 2026-08-17 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [waditu/czsc](../repos/waditu/czsc.md) | ⭐ 6,077 | 2026-08-14 | 2 |
+| [alphaXiv/OpenResearch](../repos/alphaXiv/OpenResearch.md) | ⭐ 972 | 2026-09-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 6,276 | 2026-08-17 | 4 |
+| [feigeCode/navop](../repos/feigeCode/navop.md) | ⭐ 1,288 | 2026-09-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [memvid/memvid](../repos/memvid/memvid.md) | ⭐ 16,532 | 2026-08-19 | 2 |
+| [akitaonrails/ai-usagebar](../repos/akitaonrails/ai-usagebar.md) | ⭐ 463 | 2026-09-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mixelpixx/Konnect](../repos/mixelpixx/Konnect.md) | ⭐ 591 | 2026-09-06 | 4 |
+| [ast-grep/ast-grep](../repos/ast-grep/ast-grep.md) | ⭐ 15,838 | 2026-09-10 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [macro-inc/macro](../repos/macro-inc/macro.md) | ⭐ 3,251 | 2026-08-11 | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-link... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | A cross-platform, OpenGL terminal emulator. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,895 | 2026-08-11 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cachix/devenv](../repos/cachix/devenv.md) | ⭐ 7,588 | 2026-08-11 | Fast, Declarative, Reproducible, and Composable Developer Environments using Nix |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jtroo/kanata](../repos/jtroo/kanata.md) | ⭐ 7,740 | 2026-08-11 | Improve keyboard comfort and usability with advanced customization |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [NVIDIA-NeMo/Switchyard](../repos/NVIDIA-NeMo/Switchyard.md) | ⭐ 1,565 | 2026-08-12 | Switchyard lets LLM applications route traffic across models and providers while preserving nativ... |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tonhowtf/omniget](../repos/tonhowtf/omniget.md) | ⭐ 9,651 | 2026-08-12 | Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pacifio/atlas](../repos/pacifio/atlas.md) | ⭐ 3,191 | 2026-08-14 | Source control for agents. Use multiple coding agents, track their changes and query them in one ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 17,389 | 2026-08-14 |  🚀 通用 AI IDE 账号管理工具：支持 Antigravity &#x2F; Codex &#x2F; GitHub Copilot &#x2F; Windsurf &#x2F; Kiro &#x2F; Cursor &#x2F; Gemini-... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [waditu/czsc](../repos/waditu/czsc.md) | ⭐ 6,090 | 2026-08-14 | 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kenforthewin/atomic](../repos/kenforthewin/atomic.md) | ⭐ 1,889 | 2026-08-14 | Self-hosted, semantically-connected personal knowledge base |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extrem... |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 122,533 | 2026-08-01 | 10 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 123,093 | 2026-08-01 | 11 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 117,447 | 2026-07-30 | 7 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,895 | 2026-08-11 | 7 |
@@ -115,10 +115,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [openai/codex](../repos/openai/codex.md) | 10 | ⭐ 122,533 | 2026-08-01 | 2026-09-08 |
+| [openai/codex](../repos/openai/codex.md) | 11 | ⭐ 123,093 | 2026-08-01 | 2026-09-10 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 10 | ⭐ 28,668 | 2026-08-03 | 2026-09-08 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 10 | ⭐ 92,909 | 2026-08-09 | 2026-09-09 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | 8 | ⭐ 18,673 | 2026-08-01 | 2026-09-09 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 9 | ⭐ 18,900 | 2026-08-01 | 2026-09-10 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 8 | ⭐ 42,307 | 2026-08-02 | 2026-09-09 |
 | [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 8 | ⭐ 2,853 | 2026-08-05 | 2026-09-09 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 8 | ⭐ 11,156 | 2026-08-09 | 2026-09-08 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-09T21:02:01.846Z*
+*Last updated: 2026-09-10T21:01:37.621Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 122
+- **Total Repositories**: 125
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 29,968 | 2026-08-01 | 13 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 30,789 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 62,555 | 2026-08-01 | 13 |
+| [decolua/9router](../repos/decolua/9router.md) | ⭐ 28,336 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [decolua/9router](../repos/decolua/9router.md) | ⭐ 28,175 | 2026-08-02 | 6 |
+| [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) | ⭐ 10,895 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) | ⭐ 10,834 | 2026-08-09 | 5 |
+| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 15,650 | 2026-08-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WhatDreamsCost/WhatDreamsCost-ComfyUI](../repos/WhatDreamsCost/WhatDreamsCost-ComfyUI.md) | ⭐ 2,037 | 2026-08-19 | 2 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 23,845 | 2026-08-27 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/plugins](../repos/openai/plugins.md) | ⭐ 6,153 | 2026-08-27 | 8 |
+| [openai/plugins](../repos/openai/plugins.md) | ⭐ 6,378 | 2026-08-27 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Yu9191/wloc](../repos/Yu9191/wloc.md) | ⭐ 10,339 | 2026-09-07 | 3 |
+| [viarotel-org/escrcpy](../repos/viarotel-org/escrcpy.md) | ⭐ 11,643 | 2026-09-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [viarotel-org/escrcpy](../repos/viarotel-org/escrcpy.md) | ⭐ 11,621 | 2026-09-08 | 2 |
+| [Anil-matcha/awesome-generative-ai-apps](../repos/Anil-matcha/awesome-generative-ai-apps.md) | ⭐ 3,202 | 2026-09-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-gsd/gsd-core](../repos/open-gsd/gsd-core.md) | ⭐ 9,300 | 2026-09-09 | 1 |
+| [sgoudelis/ground-station](../repos/sgoudelis/ground-station.md) | ⭐ 4,772 | 2026-09-10 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [UseInterstellar/Interstellar](../repos/UseInterstellar/Interstellar.md) | ⭐ 2,120 | 2026-09-09 | 1 |
+| [Anarios/return-youtube-dislike](../repos/Anarios/return-youtube-dislike.md) | ⭐ 13,769 | 2026-09-10 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [chr0nzz/traefik-manager](../repos/chr0nzz/traefik-manager.md) | ⭐ 1,213 | 2026-08-11 | A clean, self-hosted web UI for managing your Traefik reverse proxy. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,420 | 2026-08-11 | Breakthrough Method for Agile Ai Driven Development |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [polius/FileSync](../repos/polius/FileSync.md) | ⭐ 1,473 | 2026-08-11 | Send files from one device to many in real-time. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [plankanban/planka](../repos/plankanban/planka.md) | ⭐ 12,484 | 2026-08-11 | PLANKA is the Kanban-style project mastering tool for everyone |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | A modern JavaScript utility library delivering modularity, performance, &amp; extras. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | JavaScript Style Guide |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) | ⭐ 28,619 | 2026-08-12 | Create beautiful slides on the web using a coding agent&#39;s frontend skills |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 15,038 | 2026-08-14 | The fastest browser for AI agents to run browser automation, built for sharing your logged-in bro... |
+| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 15,650 | 2026-08-14 | The fastest browser for AI agents to run browser automation, built for sharing your logged-in bro... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 38,608 | 2026-08-14 | Community-contributed instructions, agents, skills, and configurations to help you make the most ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 3,084 | 2026-08-14 | 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes vide... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) | ⭐ 7,801 | 2026-08-14 | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dataease/SQLBot](../repos/dataease/SQLBot.md) | ⭐ 6,671 | 2026-08-14 | 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [WebKit/WebKit](../repos/WebKit/WebKit.md) | ⭐ 10,069 | 2026-08-14 | Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other app... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [OpenSignLabs/OpenSign](../repos/OpenSignLabs/OpenSign.md) | ⭐ 6,847 | 2026-08-15 | 🔥 The free &amp; Open Source DocuSign alternative |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [JannisX11/blockbench](../repos/JannisX11/blockbench.md) | ⭐ 5,789 | 2026-08-15 | Blockbench - A low poly 3D model editor |
 
 
 ---
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 17 | ⭐ 92,430 | 2026-08-05 | 2026-09-05 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 16 | ⭐ 43,692 | 2026-08-04 | 2026-09-02 |
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 13 | ⭐ 29,968 | 2026-08-01 | 2026-09-09 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 14 | ⭐ 30,789 | 2026-08-01 | 2026-09-10 |
 | [byoungd/up](../repos/byoungd/up.md) | 13 | ⭐ 62,555 | 2026-08-01 | 2026-09-09 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 11 | ⭐ 66,586 | 2026-08-05 | 2026-09-08 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 10 | ⭐ 2,613 | 2026-08-07 | 2026-09-07 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 9 | ⭐ 28,123 | 2026-08-08 | 2026-09-08 |
+| [openai/plugins](../repos/openai/plugins.md) | 9 | ⭐ 6,378 | 2026-08-27 | 2026-09-10 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 8 | ⭐ 141,962 | 2026-07-30 | 2026-08-27 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 8 | ⭐ 32,921 | 2026-08-02 | 2026-09-08 |
-| [openai/plugins](../repos/openai/plugins.md) | 8 | ⭐ 6,153 | 2026-08-27 | 2026-09-09 |
 
 ---
 
@@ -137,7 +137,7 @@
 - [woosal1337/blog](../repos/woosal1337/blog.md) - My blog website.
 - [huggingface/transformers.js](../repos/huggingface/transformers.js.md) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with...
 - [node-red/node-red](../repos/node-red/node-red.md) - Low-code programming for event-driven applications
-- [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+- [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) - Prompt as Code | GPT Image 2 &#x2F; 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与...
 - [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) - Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module...
 - [byoungd/up](../repos/byoungd/up.md) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南&#x2F;英语学习教...
 - [pdone/lx-music-source](../repos/pdone/lx-music-source.md) - 洛雪音乐源
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-09T21:02:01.799Z*
+*Last updated: 2026-09-10T21:01:37.586Z*
