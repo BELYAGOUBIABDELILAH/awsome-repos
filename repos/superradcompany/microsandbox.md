@@ -1,6 +1,6 @@
 # superradcompany&#x2F;microsandbox
 
-> 🧱 easy fast local-first microVM runtime and library
+> 🧱 Easy fast local-first microVM runtime and library
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;superradcompany&#x2F;microsandbox) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 7,528 |
-| **Forks** | 🍴 400 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 8,229 |
+| **Forks** | 🍴 434 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 15, 2026 |
+| **Last Seen** | Sep 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 70&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-10T21:01:39.552Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-09-12T21:01:48.040Z*  
+*Data from 5 trending reports*

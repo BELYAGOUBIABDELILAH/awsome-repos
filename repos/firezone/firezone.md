@@ -1,6 +1,6 @@
 # firezone&#x2F;firezone
 
-> Enterprise-ready zero-trust access platform built on WireGuard®.
+> Blazing-fast remote access
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;firezone&#x2F;firezone) 
 
@@ -14,11 +14,11 @@
 | **License** | Apache-2.0 |
 | **Stars** | ⭐ 9,085 |
 | **Forks** | 🍴 456 |
-| **Trending Days** | 32 |
+| **Trending Days** | 33 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Sep 10, 2026 |
+| **Last Seen** | Sep 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 32
+- **Trending Days**: 33
 - **Longest Streak**: 11 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`cloud`](../../topics/cloud.md) [`devsecops`](../../topics/devsecops.md) [`elixir`](../../topics/elixir.md) [`elixir-lang`](../../topics/elixir-lang.md) [`liveview`](../../topics/liveview.md) [`network`](../../topics/network.md) [`network-security`](../../topics/network-security.md) [`networking`](../../topics/networking.md) [`phoenix`](../../topics/phoenix.md) [`privacy`](../../topics/privacy.md) [`rust-lang`](../../topics/rust-lang.md) [`security`](../../topics/security.md) [`virtual-network`](../../topics/virtual-network.md) [`vpn`](../../topics/vpn.md) [`vpn-server`](../../topics/vpn-server.md) [`wireguard`](../../topics/wireguard.md) [`wireguard-ui`](../../topics/wireguard-ui.md) [`wireguard-vpn`](../../topics/wireguard-vpn.md) 
+[`cloud`](../../topics/cloud.md) [`devsecops`](../../topics/devsecops.md) [`elixir`](../../topics/elixir.md) [`elixir-lang`](../../topics/elixir-lang.md) [`liveview`](../../topics/liveview.md) [`network`](../../topics/network.md) [`network-security`](../../topics/network-security.md) [`networking`](../../topics/networking.md) [`phoenix`](../../topics/phoenix.md) [`rust-lang`](../../topics/rust-lang.md) [`security`](../../topics/security.md) [`virtual-network`](../../topics/virtual-network.md) [`vpn`](../../topics/vpn.md) [`vpn-server`](../../topics/vpn-server.md) [`wireguard`](../../topics/wireguard.md) [`wireguard-vpn`](../../topics/wireguard-vpn.md) 
 
 ### Curated Categories
-`Frontend Development` `Backend Development` `Cloud &amp; Infrastructure` `Cybersecurity` `Systems Programming` 
+`Backend Development` `Cloud &amp; Infrastructure` `Cybersecurity` `Systems Programming` 
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:40.214Z*  
-*Data from 32 trending reports*
+*Last updated: 2026-09-12T21:01:48.699Z*  
+*Data from 33 trending reports*

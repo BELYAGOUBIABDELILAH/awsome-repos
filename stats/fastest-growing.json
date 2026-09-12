@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T21:01:45.122Z",
+  "generated_at": "2026-09-12T21:01:51.810Z",
   "total_count": 100,
   "repositories": [
     {
@@ -706,19 +706,6 @@
     },
     {
       "rank": 55,
-      "full_name": "opentoonz/opentoonz",
-      "owner": "opentoonz",
-      "name": "opentoonz",
-      "stars": 7645,
-      "estimated_initial_stars": 7545,
-      "growth": 100,
-      "growth_rate": 100,
-      "language": "C++",
-      "first_seen": "2026-08-27",
-      "trending_days": 2
-    },
-    {
-      "rank": 56,
       "full_name": "farzaa/clicky",
       "owner": "farzaa",
       "name": "clicky",
@@ -731,7 +718,7 @@
       "trending_days": 2
     },
     {
-      "rank": 57,
+      "rank": 56,
       "full_name": "permissionlesstech/bitchat-android",
       "owner": "permissionlesstech",
       "name": "bitchat-android",
@@ -744,7 +731,7 @@
       "trending_days": 2
     },
     {
-      "rank": 58,
+      "rank": 57,
       "full_name": "1weiho/open-slide",
       "owner": "1weiho",
       "name": "open-slide",
@@ -757,7 +744,7 @@
       "trending_days": 2
     },
     {
-      "rank": 59,
+      "rank": 58,
       "full_name": "facebook/pyre-check",
       "owner": "facebook",
       "name": "pyre-check",
@@ -770,7 +757,7 @@
       "trending_days": 2
     },
     {
-      "rank": 60,
+      "rank": 59,
       "full_name": "lance-format/lance",
       "owner": "lance-format",
       "name": "lance",
@@ -783,7 +770,7 @@
       "trending_days": 2
     },
     {
-      "rank": 61,
+      "rank": 60,
       "full_name": "VueTorrent/VueTorrent",
       "owner": "VueTorrent",
       "name": "VueTorrent",
@@ -796,7 +783,7 @@
       "trending_days": 2
     },
     {
-      "rank": 62,
+      "rank": 61,
       "full_name": "wesnoth/wesnoth",
       "owner": "wesnoth",
       "name": "wesnoth",
@@ -809,7 +796,7 @@
       "trending_days": 2
     },
     {
-      "rank": 63,
+      "rank": 62,
       "full_name": "olikraus/u8g2",
       "owner": "olikraus",
       "name": "u8g2",
@@ -822,7 +809,7 @@
       "trending_days": 2
     },
     {
-      "rank": 64,
+      "rank": 63,
       "full_name": "ikarus23/MifareClassicTool",
       "owner": "ikarus23",
       "name": "MifareClassicTool",
@@ -835,7 +822,7 @@
       "trending_days": 2
     },
     {
-      "rank": 65,
+      "rank": 64,
       "full_name": "cloud-hypervisor/cloud-hypervisor",
       "owner": "cloud-hypervisor",
       "name": "cloud-hypervisor",
@@ -848,7 +835,7 @@
       "trending_days": 2
     },
     {
-      "rank": 66,
+      "rank": 65,
       "full_name": "rivet-dev/rivet",
       "owner": "rivet-dev",
       "name": "rivet",
@@ -861,7 +848,7 @@
       "trending_days": 2
     },
     {
-      "rank": 67,
+      "rank": 66,
       "full_name": "apache/opendal",
       "owner": "apache",
       "name": "opendal",
@@ -874,7 +861,7 @@
       "trending_days": 2
     },
     {
-      "rank": 68,
+      "rank": 67,
       "full_name": "hslr-s/sun-panel",
       "owner": "hslr-s",
       "name": "sun-panel",
@@ -887,7 +874,7 @@
       "trending_days": 2
     },
     {
-      "rank": 69,
+      "rank": 68,
       "full_name": "beclab/Olares",
       "owner": "beclab",
       "name": "Olares",
@@ -900,7 +887,7 @@
       "trending_days": 2
     },
     {
-      "rank": 70,
+      "rank": 69,
       "full_name": "kenn-io/agentsview",
       "owner": "kenn-io",
       "name": "agentsview",
@@ -913,7 +900,7 @@
       "trending_days": 2
     },
     {
-      "rank": 71,
+      "rank": 70,
       "full_name": "NeoApplications/Neo-Store",
       "owner": "NeoApplications",
       "name": "Neo-Store",
@@ -926,7 +913,7 @@
       "trending_days": 2
     },
     {
-      "rank": 72,
+      "rank": 71,
       "full_name": "lightvector/KataGo",
       "owner": "lightvector",
       "name": "KataGo",
@@ -939,7 +926,7 @@
       "trending_days": 2
     },
     {
-      "rank": 73,
+      "rank": 72,
       "full_name": "blackcandy-org/blackcandy",
       "owner": "blackcandy-org",
       "name": "blackcandy",
@@ -952,7 +939,7 @@
       "trending_days": 2
     },
     {
-      "rank": 74,
+      "rank": 73,
       "full_name": "awslabs/aidlc-workflows",
       "owner": "awslabs",
       "name": "aidlc-workflows",
@@ -965,7 +952,7 @@
       "trending_days": 2
     },
     {
-      "rank": 75,
+      "rank": 74,
       "full_name": "camunda/camunda",
       "owner": "camunda",
       "name": "camunda",
@@ -978,7 +965,7 @@
       "trending_days": 2
     },
     {
-      "rank": 76,
+      "rank": 75,
       "full_name": "folke/flash.nvim",
       "owner": "folke",
       "name": "flash.nvim",
@@ -991,7 +978,7 @@
       "trending_days": 2
     },
     {
-      "rank": 77,
+      "rank": 76,
       "full_name": "rhysd/actionlint",
       "owner": "rhysd",
       "name": "actionlint",
@@ -1004,7 +991,7 @@
       "trending_days": 2
     },
     {
-      "rank": 78,
+      "rank": 77,
       "full_name": "PintaProject/Pinta",
       "owner": "PintaProject",
       "name": "Pinta",
@@ -1017,7 +1004,7 @@
       "trending_days": 2
     },
     {
-      "rank": 79,
+      "rank": 78,
       "full_name": "ZiggyCreatures/FusionCache",
       "owner": "ZiggyCreatures",
       "name": "FusionCache",
@@ -1030,7 +1017,7 @@
       "trending_days": 2
     },
     {
-      "rank": 80,
+      "rank": 79,
       "full_name": "CopilotC-Nvim/CopilotChat.nvim",
       "owner": "CopilotC-Nvim",
       "name": "CopilotChat.nvim",
@@ -1043,7 +1030,7 @@
       "trending_days": 2
     },
     {
-      "rank": 81,
+      "rank": 80,
       "full_name": "tutti-os/tutti",
       "owner": "tutti-os",
       "name": "tutti",
@@ -1056,7 +1043,7 @@
       "trending_days": 2
     },
     {
-      "rank": 82,
+      "rank": 81,
       "full_name": "AIDotNet/OpenDeepWiki",
       "owner": "AIDotNet",
       "name": "OpenDeepWiki",
@@ -1069,7 +1056,7 @@
       "trending_days": 2
     },
     {
-      "rank": 83,
+      "rank": 82,
       "full_name": "akuity/kargo",
       "owner": "akuity",
       "name": "kargo",
@@ -1082,7 +1069,7 @@
       "trending_days": 2
     },
     {
-      "rank": 84,
+      "rank": 83,
       "full_name": "tailscale/tailcat",
       "owner": "tailscale",
       "name": "tailcat",
@@ -1095,7 +1082,7 @@
       "trending_days": 2
     },
     {
-      "rank": 85,
+      "rank": 84,
       "full_name": "EchoMusicApp/Echo-Music",
       "owner": "EchoMusicApp",
       "name": "Echo-Music",
@@ -1108,7 +1095,7 @@
       "trending_days": 2
     },
     {
-      "rank": 86,
+      "rank": 85,
       "full_name": "WecomTeam/wecom-cli",
       "owner": "WecomTeam",
       "name": "wecom-cli",
@@ -1121,7 +1108,7 @@
       "trending_days": 2
     },
     {
-      "rank": 87,
+      "rank": 86,
       "full_name": "rafamadriz/friendly-snippets",
       "owner": "rafamadriz",
       "name": "friendly-snippets",
@@ -1134,7 +1121,7 @@
       "trending_days": 2
     },
     {
-      "rank": 88,
+      "rank": 87,
       "full_name": "authpass/authpass",
       "owner": "authpass",
       "name": "authpass",
@@ -1147,7 +1134,7 @@
       "trending_days": 2
     },
     {
-      "rank": 89,
+      "rank": 88,
       "full_name": "workweave/router",
       "owner": "workweave",
       "name": "router",
@@ -1160,7 +1147,7 @@
       "trending_days": 2
     },
     {
-      "rank": 90,
+      "rank": 89,
       "full_name": "radixark/miles",
       "owner": "radixark",
       "name": "miles",
@@ -1173,7 +1160,7 @@
       "trending_days": 2
     },
     {
-      "rank": 91,
+      "rank": 90,
       "full_name": "stripe/stripe-ios",
       "owner": "stripe",
       "name": "stripe-ios",
@@ -1186,7 +1173,7 @@
       "trending_days": 2
     },
     {
-      "rank": 92,
+      "rank": 91,
       "full_name": "flyinghead/flycast",
       "owner": "flyinghead",
       "name": "flycast",
@@ -1199,7 +1186,7 @@
       "trending_days": 2
     },
     {
-      "rank": 93,
+      "rank": 92,
       "full_name": "NVIDIA/cccl",
       "owner": "NVIDIA",
       "name": "cccl",
@@ -1212,7 +1199,7 @@
       "trending_days": 2
     },
     {
-      "rank": 94,
+      "rank": 93,
       "full_name": "builtbybel/CrapFixer",
       "owner": "builtbybel",
       "name": "CrapFixer",
@@ -1225,7 +1212,7 @@
       "trending_days": 2
     },
     {
-      "rank": 95,
+      "rank": 94,
       "full_name": "SHORiN-KiWATA/Shorin-ArchLinux-Guide",
       "owner": "SHORiN-KiWATA",
       "name": "Shorin-ArchLinux-Guide",
@@ -1238,7 +1225,7 @@
       "trending_days": 2
     },
     {
-      "rank": 96,
+      "rank": 95,
       "full_name": "mubeng/mubeng",
       "owner": "mubeng",
       "name": "mubeng",
@@ -1251,7 +1238,7 @@
       "trending_days": 2
     },
     {
-      "rank": 97,
+      "rank": 96,
       "full_name": "symfony/symfony-docs",
       "owner": "symfony",
       "name": "symfony-docs",
@@ -1264,33 +1251,7 @@
       "trending_days": 2
     },
     {
-      "rank": 98,
-      "full_name": "vastsa/PI-Desktop",
-      "owner": "vastsa",
-      "name": "PI-Desktop",
-      "stars": 2236,
-      "estimated_initial_stars": 2136,
-      "growth": 100,
-      "growth_rate": 100,
-      "language": "TypeScript",
-      "first_seen": "2026-09-09",
-      "trending_days": 2
-    },
-    {
-      "rank": 99,
-      "full_name": "vlang/vinix",
-      "owner": "vlang",
-      "name": "vinix",
-      "stars": 2217,
-      "estimated_initial_stars": 2117,
-      "growth": 100,
-      "growth_rate": 100,
-      "language": "V",
-      "first_seen": "2026-09-09",
-      "trending_days": 2
-    },
-    {
-      "rank": 100,
+      "rank": 97,
       "full_name": "fooyin/fooyin",
       "owner": "fooyin",
       "name": "fooyin",
@@ -1300,6 +1261,45 @@
       "growth_rate": 100,
       "language": "C++",
       "first_seen": "2026-08-16",
+      "trending_days": 2
+    },
+    {
+      "rank": 98,
+      "full_name": "OpenIPC/firmware",
+      "owner": "OpenIPC",
+      "name": "firmware",
+      "stars": 2139,
+      "estimated_initial_stars": 2039,
+      "growth": 100,
+      "growth_rate": 100,
+      "language": "C",
+      "first_seen": "2026-08-16",
+      "trending_days": 2
+    },
+    {
+      "rank": 99,
+      "full_name": "kubernetes-sigs/karpenter",
+      "owner": "kubernetes-sigs",
+      "name": "karpenter",
+      "stars": 2113,
+      "estimated_initial_stars": 2013,
+      "growth": 100,
+      "growth_rate": 100,
+      "language": "Go",
+      "first_seen": "2026-08-20",
+      "trending_days": 2
+    },
+    {
+      "rank": 100,
+      "full_name": "3rd/image.nvim",
+      "owner": "3rd",
+      "name": "image.nvim",
+      "stars": 2062,
+      "estimated_initial_stars": 1962,
+      "growth": 100,
+      "growth_rate": 100,
+      "language": "Lua",
+      "first_seen": "2026-08-20",
       "trending_days": 2
     }
   ]

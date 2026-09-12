@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 63
+- **Total Repositories**: 64
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-09
 
@@ -16,43 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,429 | 2026-08-01 | 33 |
+| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,525 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZoranPandovski/awesome-testing-tools](../repos/ZoranPandovski/awesome-testing-tools.md) | ⭐ 372 | 2026-08-02 | 3 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 920 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,330 | 2026-08-02 | 18 |
+| [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,549 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,308 | 2026-08-04 | 18 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,313 | 2026-08-04 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,503 | 2026-08-05 | 13 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,510 | 2026-08-05 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AumGupta/abyss-jellyfin](../repos/AumGupta/abyss-jellyfin.md) | ⭐ 643 | 2026-08-05 | 10 |
+| [AumGupta/abyss-jellyfin](../repos/AumGupta/abyss-jellyfin.md) | ⭐ 656 | 2026-08-05 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lscambo13/ElegantFin](../repos/lscambo13/ElegantFin.md) | ⭐ 2,116 | 2026-08-12 | 6 |
+| [lscambo13/ElegantFin](../repos/lscambo13/ElegantFin.md) | ⭐ 2,127 | 2026-08-12 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,363 | 2026-09-02 | 4 |
+| [jensimmons/cssremedy](../repos/jensimmons/cssremedy.md) | ⭐ 2,225 | 2026-09-12 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [lscambo13/ElegantFin](../repos/lscambo13/ElegantFin.md) | ⭐ 2,116 | 2026-08-12 | A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience wi... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | Automatically add a progress bar to your site. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apache/dubbo-website](../repos/apache/dubbo-website.md) | ⭐ 491 | 2026-08-12 | Apache Dubbo documents |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AcademySoftwareFoundation/OpenPBR](../repos/AcademySoftwareFoundation/OpenPBR.md) | ⭐ 774 | 2026-08-15 | Specification and reference implementation for the OpenPBR Surface shading model |
@@ -74,6 +65,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [adobe/spectrum-css](../repos/adobe/spectrum-css.md) | ⭐ 1,288 | 2026-08-22 | The standard CSS implementation of the Spectrum design language. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mingw-w64/mingw-w64.github.io](../repos/mingw-w64/mingw-w64.github.io.md) | ⭐ 1,015 | 2026-08-22 | mingw-w64.net web page contents (The new web page) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | List of awesome CSS frameworks in 2026 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) | ⭐ 7,332 | 2026-08-24 | ❤️静态响应式网址导航网站 - webstack.cc |
 
 
 ---
@@ -83,8 +83,8 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,782 | 2026-08-06 | 12 |
-| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,518 | 2026-08-01 | 8 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,308 | 2026-08-04 | 18 |
+| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,525 | 2026-08-01 | 9 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,313 | 2026-08-04 | 19 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,286 | 2026-08-02 | 19 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,596 | 2026-08-04 | 3 |
@@ -96,7 +96,7 @@
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,633 | 2026-08-06 | 9 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,481 | 2026-08-09 | 2 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,503 | 2026-08-05 | 13 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,510 | 2026-08-05 | 14 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,363 | 2026-09-02 | 4 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,259 | 2026-08-01 | 13 |
@@ -110,14 +110,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 33 | ⭐ 1,429 | 2026-08-01 | 2026-09-10 |
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 25 | ⭐ 922 | 2026-08-01 | 2026-09-09 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 26 | ⭐ 920 | 2026-08-01 | 2026-09-12 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 21 | ⭐ 1,408 | 2026-08-01 | 2026-08-29 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 19 | ⭐ 28,286 | 2026-08-02 | 2026-09-08 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 19 | ⭐ 45,313 | 2026-08-04 | 2026-09-12 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 18 | ⭐ 12,330 | 2026-08-02 | 2026-09-10 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 18 | ⭐ 45,308 | 2026-08-04 | 2026-09-10 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 17 | ⭐ 12,239 | 2026-08-01 | 2026-09-08 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 14 | ⭐ 9,510 | 2026-08-05 | 2026-09-12 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 13 | ⭐ 9,259 | 2026-08-01 | 2026-09-09 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 13 | ⭐ 9,503 | 2026-08-05 | 2026-09-10 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 12 | ⭐ 82,782 | 2026-08-06 | 2026-09-09 |
 
 ---
@@ -187,7 +187,8 @@
 - [SillyTavern/SillyTavern-Docs](../repos/SillyTavern/SillyTavern-Docs.md) - Documentation website for SillyTavern.
 - [wso2/docs-apim](../repos/wso2/docs-apim.md) - 
 - [aws-samples/amplify-next-template](../repos/aws-samples/amplify-next-template.md) - This is a Next.js starter for building a fullstack app with AWS Amplify.
+- [jensimmons/cssremedy](../repos/jensimmons/cssremedy.md) - Start your project with a remedy for the technical debt of CSS. 
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.556Z*
+*Last updated: 2026-09-12T21:01:46.288Z*

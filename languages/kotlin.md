@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 133
+- **Total Repositories**: 135
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-06
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 276 | 2026-08-01 | 5 |
+| [nextcloud/android](../repos/nextcloud/android.md) | ⭐ 5,573 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent-TDS/KuiklyUI](../repos/Tencent-TDS/KuiklyUI.md) | ⭐ 3,491 | 2026-08-01 | 2 |
+| [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) | ⭐ 2,442 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,792 | 2026-08-01 | 6 |
+| [tailscale/tailscale-android](../repos/tailscale/tailscale-android.md) | ⭐ 2,544 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 7,528 | 2026-08-02 | 8 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,600 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/android](../repos/nextcloud/android.md) | ⭐ 5,570 | 2026-08-02 | 6 |
+| [Luoyacheng/legado-E](../repos/Luoyacheng/legado-E.md) | ⭐ 2,633 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) | ⭐ 2,170 | 2026-08-02 | 6 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,722 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,571 | 2026-08-02 | 5 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,402 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,391 | 2026-08-04 | 9 |
+| [element-hq/element-x-android](../repos/element-hq/element-x-android.md) | ⭐ 2,387 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rushiranpise/morphe-patches](../repos/rushiranpise/morphe-patches.md) | ⭐ 628 | 2026-08-08 | 5 |
+| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | ⭐ 845 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kyant0/AndroidLiquidGlass](../repos/Kyant0/AndroidLiquidGlass.md) | ⭐ 3,737 | 2026-08-08 | 6 |
+| [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,457 | 2026-08-05 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,641 | 2026-08-12 | A gallery that showcases on-device ML&#x2F;GenAI use cases and allows people to try and use models loc... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [sam1am/anyapk](../repos/sam1am/anyapk.md) | ⭐ 2,557 | 2026-08-12 | Install any apk on the device you own.  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,326 | 2026-08-12 | Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beauti... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Davidona/StreamVault-IPTV](../repos/Davidona/StreamVault-IPTV.md) | ⭐ 653 | 2026-08-12 | StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Roo... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [XayahSuSuSu/Android-DataBackup](../repos/XayahSuSuSu/Android-DataBackup.md) | ⭐ 7,192 | 2026-08-12 | DataBackup for Android 7.0+ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [RetroMusicPlayer/RetroMusicPlayer](../repos/RetroMusicPlayer/RetroMusicPlayer.md) | ⭐ 5,261 | 2026-08-14 | Best Material You Design music player for Android |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tristinbaker/IdleFantasy](../repos/tristinbaker/IdleFantasy.md) | ⭐ 414 | 2026-08-15 | Fantasy Inspired Idle Skilling Game |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [wgtunnel/android](../repos/wgtunnel/android.md) | ⭐ 3,152 | 2026-08-15 | A FOSS WireGuard &amp; AmneziaWG Android client with auto-tunneling, lockdown &amp; local proxying. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [osfans/trime](../repos/osfans/trime.md) | ⭐ 4,618 | 2026-08-15 | 同文安卓輸入法平臺3.x&#x2F;Android-rime&#x2F;Rime Input Method Engine for Android |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SpaceNeuroX/proxy-turn-vk-android](../repos/SpaceNeuroX/proxy-turn-vk-android.md) | ⭐ 234 | 2026-08-16 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [keiyoushi/extensions-source](../repos/keiyoushi/extensions-source.md) | ⭐ 4,592 | 2026-08-16 | Source code of extensions in https:&#x2F;&#x2F;github.com&#x2F;keiyoushi&#x2F;extensions |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) | ⭐ 6,304 | 2026-08-16 | The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely ... |
 
 
 ---
@@ -90,24 +90,24 @@
 |------------|-------|------------|---------------|
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,628 | 2026-08-03 | 9 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 62,317 | 2026-08-02 | 12 |
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,391 | 2026-08-04 | 9 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,402 | 2026-08-04 | 10 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,144 | 2026-08-06 | 12 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,483 | 2026-08-03 | 5 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,722 | 2026-08-03 | 6 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 29,869 | 2026-08-08 | 11 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,262 | 2026-08-05 | 4 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,730 | 2026-08-11 | 3 |
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,641 | 2026-08-12 | 3 |
-| [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,445 | 2026-08-05 | 4 |
+| [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,457 | 2026-08-05 | 5 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,441 | 2026-08-01 | 12 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,573 | 2026-08-02 | 4 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,792 | 2026-08-01 | 6 |
 | [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,002 | 2026-09-07 | 1 |
-| [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,326 | 2026-08-12 | 3 |
+| [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,820 | 2026-08-17 | 4 |
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,571 | 2026-08-02 | 5 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,600 | 2026-08-02 | 6 |
+| [ktorio/ktor](../repos/ktorio/ktor.md) | ⭐ 14,525 | 2026-09-12 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,644 | 2026-08-06 | 7 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,337 | 2026-08-02 | 10 |
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,253 | 2026-08-10 | 5 |
 
 ---
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 12 | ⭐ 23,441 | 2026-08-01 | 2026-09-07 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 12 | ⭐ 62,317 | 2026-08-02 | 2026-09-07 |
+| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 12 | ⭐ 845 | 2026-08-05 | 2026-09-12 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 12 | ⭐ 53,144 | 2026-08-06 | 2026-09-06 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 11 | ⭐ 2,342 | 2026-08-02 | 2026-09-07 |
-| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 11 | ⭐ 796 | 2026-08-05 | 2026-09-08 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 11 | ⭐ 29,869 | 2026-08-08 | 2026-09-07 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 10 | ⭐ 4,386 | 2026-08-02 | 2026-08-26 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 10 | ⭐ 11,337 | 2026-08-02 | 2026-09-07 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | 10 | ⭐ 53,402 | 2026-08-04 | 2026-09-12 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 9 | ⭐ 62,628 | 2026-08-03 | 2026-09-06 |
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | 9 | ⭐ 53,391 | 2026-08-04 | 2026-09-10 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.592Z*
+*Last updated: 2026-09-12T21:01:46.322Z*

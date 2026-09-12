@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 198
+- **Total Repositories**: 200
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 7,365 | 2026-08-01 | 11 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 52,915 | 2026-08-02 | 5 |
+| [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) | ⭐ 1,741 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 48,711 | 2026-08-08 | 11 |
+| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 31,482 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 31,080 | 2026-08-10 | 3 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 67,255 | 2026-08-11 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [THU-MAIC/OpenMAIC](../repos/THU-MAIC/OpenMAIC.md) | ⭐ 35,216 | 2026-08-15 | 5 |
+| [pascalorg/editor](../repos/pascalorg/editor.md) | ⭐ 23,835 | 2026-09-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [letta-ai/letta-code](../repos/letta-ai/letta-code.md) | ⭐ 3,262 | 2026-08-19 | 2 |
+| [vastsa/PI-Desktop](../repos/vastsa/PI-Desktop.md) | ⭐ 3,059 | 2026-09-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [traycerai/traycer](../repos/traycerai/traycer.md) | ⭐ 1,455 | 2026-08-24 | 3 |
+| [alsk1992/CloddsBot](../repos/alsk1992/CloddsBot.md) | ⭐ 2,454 | 2026-09-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MoonTechLab/LunaTV](../repos/MoonTechLab/LunaTV.md) | ⭐ 10,397 | 2026-09-07 | 4 |
+| [nashsu/llm_wiki](../repos/nashsu/llm_wiki.md) | ⭐ 19,086 | 2026-09-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/teamai-cli](../repos/Tencent/teamai-cli.md) | ⭐ 3,715 | 2026-09-08 | 3 |
+| [nab138/iloader](../repos/nab138/iloader.md) | ⭐ 3,058 | 2026-09-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vastsa/PI-Desktop](../repos/vastsa/PI-Desktop.md) | ⭐ 2,236 | 2026-09-09 | 2 |
+| [BuilderIO/agent-native](../repos/BuilderIO/agent-native.md) | ⭐ 4,741 | 2026-09-12 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ZuodaoTech/everyone-can-use-english](../repos/ZuodaoTech/everyone-can-use-english.md) | ⭐ 36,431 | 2026-08-12 | 人人都能用英语 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 55,796 | 2026-08-12 | The open alternative to Salesforce, designed for AI. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | 2026-08-12 | VS Code in the browser |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [web-infra-dev/midscene](../repos/web-infra-dev/midscene.md) | ⭐ 14,556 | 2026-08-12 | AI-powered, vision-driven UI automation for every platform. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [holaboss-ai/holaOS](../repos/holaboss-ai/holaOS.md) | ⭐ 7,221 | 2026-08-12 | Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 87,081 | 2026-08-14 | 🙌 OpenHands: AI-Driven Development |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vercel-labs/deepsec](../repos/vercel-labs/deepsec.md) | ⭐ 7,657 | 2026-08-14 | Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [upscayl/upscayl](../repos/upscayl/upscayl.md) | ⭐ 48,561 | 2026-08-14 | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dubinc/dub](../repos/dubinc/dub.md) | ⭐ 24,401 | 2026-08-14 | The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexit... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cordiverse/cordis](../repos/cordiverse/cordis.md) | ⭐ 6,099 | 2026-08-15 | Meta-Framework of Spatiotemporal Composability |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [THU-MAIC/OpenMAIC](../repos/THU-MAIC/OpenMAIC.md) | ⭐ 35,216 | 2026-08-15 | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in jus... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [strapi/strapi](../repos/strapi/strapi.md) | ⭐ 72,929 | 2026-08-15 | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript&#x2F;TypeScript, fully customi... |
 
 
 ---
@@ -99,7 +99,7 @@
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | 2026-08-17 | 2 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 102,103 | 2026-08-07 | 8 |
-| [angular/angular](../repos/angular/angular.md) | ⭐ 101,008 | 2026-08-04 | 3 |
+| [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
@@ -120,9 +120,9 @@
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 11 | ⭐ 22,177 | 2026-08-07 | 2026-08-29 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 11 | ⭐ 48,711 | 2026-08-08 | 2026-09-10 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 10 | ⭐ 131,955 | 2026-08-02 | 2026-09-07 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 10 | ⭐ 67,255 | 2026-08-11 | 2026-09-12 |
 | [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 9 | ⭐ 71,802 | 2026-08-10 | 2026-09-09 |
-| [stablyai/orca](../repos/stablyai/orca.md) | 9 | ⭐ 61,677 | 2026-08-11 | 2026-09-04 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | 8 | ⭐ 102,103 | 2026-08-07 | 2026-09-05 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.631Z*
+*Last updated: 2026-09-12T21:01:46.361Z*

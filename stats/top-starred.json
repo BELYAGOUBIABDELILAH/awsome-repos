@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T21:01:45.099Z",
+  "generated_at": "2026-09-12T21:01:51.786Z",
   "total_count": 100,
   "repositories": [
     {
@@ -187,10 +187,10 @@
       "full_name": "flutter/flutter",
       "owner": "flutter",
       "name": "flutter",
-      "stars": 178886,
+      "stars": 178916,
       "language": "Dart",
       "first_seen": "2026-08-01",
-      "trending_days": 27
+      "trending_days": 28
     },
     {
       "rank": 20,
@@ -304,6 +304,16 @@
     },
     {
       "rank": 31,
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "stars": 137575,
+      "language": "Python",
+      "first_seen": "2026-08-04",
+      "trending_days": 3
+    },
+    {
+      "rank": 32,
       "full_name": "golang/go",
       "owner": "golang",
       "name": "go",
@@ -313,7 +323,17 @@
       "trending_days": 7
     },
     {
-      "rank": 32,
+      "rank": 33,
+      "full_name": "github/spec-kit",
+      "owner": "github",
+      "name": "spec-kit",
+      "stars": 136025,
+      "language": "Python",
+      "first_seen": "2026-08-14",
+      "trending_days": 7
+    },
+    {
+      "rank": 34,
       "full_name": "ripienaar/free-for-dev",
       "owner": "ripienaar",
       "name": "free-for-dev",
@@ -321,26 +341,6 @@
       "language": "HTML",
       "first_seen": "2026-08-08",
       "trending_days": 11
-    },
-    {
-      "rank": 33,
-      "full_name": "github/spec-kit",
-      "owner": "github",
-      "name": "spec-kit",
-      "stars": 134408,
-      "language": "Python",
-      "first_seen": "2026-08-14",
-      "trending_days": 6
-    },
-    {
-      "rank": 34,
-      "full_name": "Shubhamsaboo/awesome-llm-apps",
-      "owner": "Shubhamsaboo",
-      "name": "awesome-llm-apps",
-      "stars": 134172,
-      "language": "Python",
-      "first_seen": "2026-08-04",
-      "trending_days": 2
     },
     {
       "rank": 35,
@@ -377,10 +377,10 @@
       "full_name": "ggml-org/llama.cpp",
       "owner": "ggml-org",
       "name": "llama.cpp",
-      "stars": 127742,
+      "stars": 127997,
       "language": "C++",
       "first_seen": "2026-08-01",
-      "trending_days": 20
+      "trending_days": 21
     },
     {
       "rank": 39,
@@ -457,10 +457,10 @@
       "full_name": "godotengine/godot",
       "owner": "godotengine",
       "name": "godot",
-      "stars": 116297,
+      "stars": 117022,
       "language": "C++",
       "first_seen": "2026-08-01",
-      "trending_days": 8
+      "trending_days": 9
     },
     {
       "rank": 47,
@@ -477,10 +477,10 @@
       "full_name": "2dust/v2rayN",
       "owner": "2dust",
       "name": "v2rayN",
-      "stars": 115647,
+      "stars": 116012,
       "language": "C#",
       "first_seen": "2026-08-02",
-      "trending_days": 18
+      "trending_days": 19
     },
     {
       "rank": 49,
@@ -617,10 +617,10 @@
       "full_name": "angular/angular",
       "owner": "angular",
       "name": "angular",
-      "stars": 101008,
+      "stars": 100995,
       "language": "TypeScript",
       "first_seen": "2026-08-04",
-      "trending_days": 3
+      "trending_days": 4
     },
     {
       "rank": 63,
@@ -724,6 +724,16 @@
     },
     {
       "rank": 73,
+      "full_name": "localsend/localsend",
+      "owner": "localsend",
+      "name": "localsend",
+      "stars": 90620,
+      "language": "Dart",
+      "first_seen": "2026-08-02",
+      "trending_days": 19
+    },
+    {
+      "rank": 74,
       "full_name": "infiniflow/ragflow",
       "owner": "infiniflow",
       "name": "ragflow",
@@ -731,16 +741,6 @@
       "language": "Go",
       "first_seen": "2026-08-06",
       "trending_days": 9
-    },
-    {
-      "rank": 74,
-      "full_name": "localsend/localsend",
-      "owner": "localsend",
-      "name": "localsend",
-      "stars": 90446,
-      "language": "Dart",
-      "first_seen": "2026-08-02",
-      "trending_days": 18
     },
     {
       "rank": 75,
@@ -767,10 +767,10 @@
       "full_name": "bitcoin/bitcoin",
       "owner": "bitcoin",
       "name": "bitcoin",
-      "stars": 90122,
+      "stars": 90162,
       "language": "C++",
       "first_seen": "2026-08-02",
-      "trending_days": 6
+      "trending_days": 7
     },
     {
       "rank": 78,
@@ -867,10 +867,10 @@
       "full_name": "tonsky/FiraCode",
       "owner": "tonsky",
       "name": "FiraCode",
-      "stars": 81998,
+      "stars": 82007,
       "language": "Clojure",
       "first_seen": "2026-08-01",
-      "trending_days": 28
+      "trending_days": 29
     },
     {
       "rank": 88,
@@ -887,10 +887,10 @@
       "full_name": "spring-projects/spring-boot",
       "owner": "spring-projects",
       "name": "spring-boot",
-      "stars": 81376,
+      "stars": 81424,
       "language": "Java",
       "first_seen": "2026-08-04",
-      "trending_days": 9
+      "trending_days": 10
     },
     {
       "rank": 90,

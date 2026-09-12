@@ -1,6 +1,6 @@
 # tinyhumansai&#x2F;openhuman
 
-> Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
+> OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;tinyhumansai&#x2F;openhuman) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 38,707 |
-| **Forks** | 🍴 3,799 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 39,711 |
+| **Forks** | 🍴 3,918 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #8 |
 
 | **First Seen** | Aug 10, 2026 |
-| **Last Seen** | Aug 28, 2026 |
+| **Last Seen** | Sep 12, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Rust or similar-topics*
+*Similar: Check repositories in Rust or agent-orchestration*
 
 ---
 
@@ -51,7 +51,7 @@
 ### Highlights
 
 - **Peak Rank**: #8
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 7 days
 
 ---
@@ -59,10 +59,10 @@
 ## Categories
 
 ### Topics
-
+[`agent-orchestration`](../../topics/agent-orchestration.md) [`ai-agents`](../../topics/ai-agents.md) [`ai-assistant`](../../topics/ai-assistant.md) [`desktop`](../../topics/desktop.md) [`llm`](../../topics/llm.md) [`local-first`](../../topics/local-first.md) [`mcp`](../../topics/mcp.md) [`personal-ai`](../../topics/personal-ai.md) [`privacy`](../../topics/privacy.md) [`rust`](../../topics/rust.md) [`second-brain`](../../topics/second-brain.md) [`tauri`](../../topics/tauri.md) 
 
 ### Curated Categories
-`General` 
+`Artificial Intelligence` `Large Language Models` `Containers &amp; Orchestration` `Systems Programming` 
 
 ---
 
@@ -76,7 +76,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:42.929Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-09-12T21:01:49.853Z*  
+*Data from 9 trending reports*

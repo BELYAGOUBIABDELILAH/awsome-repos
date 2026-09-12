@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 171
+- **Total Repositories**: 173
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-10
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 123,093 | 2026-08-01 | 11 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 19,259 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 18,900 | 2026-08-01 | 9 |
+| [googleworkspace/cli](../repos/googleworkspace/cli.md) | ⭐ 30,958 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 15,252 | 2026-08-10 | 5 |
+| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 8,229 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [waditu/czsc](../repos/waditu/czsc.md) | ⭐ 6,090 | 2026-08-14 | 3 |
+| [facebook/pyrefly](../repos/facebook/pyrefly.md) | ⭐ 6,958 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [base/base](../repos/base/base.md) | ⭐ 882 | 2026-08-15 | 2 |
+| [bytecodealliance/wasmtime](../repos/bytecodealliance/wasmtime.md) | ⭐ 18,624 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 6,454 | 2026-08-17 | 5 |
+| [reacherhq/check-if-email-exists](../repos/reacherhq/check-if-email-exists.md) | ⭐ 9,729 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alphaXiv/OpenResearch](../repos/alphaXiv/OpenResearch.md) | ⭐ 972 | 2026-09-10 | 1 |
+| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 32,023 | 2026-08-09 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [feigeCode/navop](../repos/feigeCode/navop.md) | ⭐ 1,288 | 2026-09-10 | 1 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 39,711 | 2026-08-10 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akitaonrails/ai-usagebar](../repos/akitaonrails/ai-usagebar.md) | ⭐ 463 | 2026-09-10 | 1 |
+| [RyanCodrai/turbovec](../repos/RyanCodrai/turbovec.md) | ⭐ 16,994 | 2026-08-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ast-grep/ast-grep](../repos/ast-grep/ast-grep.md) | ⭐ 15,838 | 2026-09-10 | 1 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 7,187 | 2026-08-26 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NVIDIA-NeMo/Switchyard](../repos/NVIDIA-NeMo/Switchyard.md) | ⭐ 1,565 | 2026-08-12 | Switchyard lets LLM applications route traffic across models and providers while preserving nativ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AntigmaLabs/ante](../repos/AntigmaLabs/ante.md) | ⭐ 1,329 | 2026-08-12 | Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It work... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [BoundaryML/baml](../repos/BoundaryML/baml.md) | ⭐ 9,004 | 2026-08-12 | The programming language for agents |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,503 | 2026-08-12 | An extremely fast Python linter and code formatter, written in Rust. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tonhowtf/omniget](../repos/tonhowtf/omniget.md) | ⭐ 9,651 | 2026-08-12 | Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pacifio/atlas](../repos/pacifio/atlas.md) | ⭐ 3,191 | 2026-08-14 | Source control for agents. Use multiple coding agents, track their changes and query them in one ... |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extrem... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [base/base](../repos/base/base.md) | ⭐ 882 | 2026-08-15 | All components used to run Base |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 💥 Blazing fast terminal file manager written in Rust, based on async I&#x2F;O. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 6,454 | 2026-08-17 | Solution for long term memory for agent coding CLIs and to facilitate handoff between different a... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SlimeBoyOwO/LingChat](../repos/SlimeBoyOwO/LingChat.md) | ⭐ 1,550 | 2026-08-17 | Immersive AI-driven Galgame chat with emotional expressions, desktop pet, scheduling, and interac... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Sollimann/bonsai](../repos/Sollimann/bonsai.md) | ⭐ 949 | 2026-08-17 | Rust implementation of behavior trees for deterministic AI (now with Python bindings) |
 
 
 ---
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [openai/codex](../repos/openai/codex.md) | 11 | ⭐ 123,093 | 2026-08-01 | 2026-09-10 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 10 | ⭐ 19,259 | 2026-08-01 | 2026-09-12 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 10 | ⭐ 28,668 | 2026-08-03 | 2026-09-08 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 10 | ⭐ 92,909 | 2026-08-09 | 2026-09-09 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | 9 | ⭐ 18,900 | 2026-08-01 | 2026-09-10 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 9 | ⭐ 39,711 | 2026-08-10 | 2026-09-12 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 8 | ⭐ 42,307 | 2026-08-02 | 2026-09-09 |
 | [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 8 | ⭐ 2,853 | 2026-08-05 | 2026-09-09 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 8 | ⭐ 11,156 | 2026-08-09 | 2026-09-08 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 8 | ⭐ 38,707 | 2026-08-10 | 2026-08-28 |
+| [rustfs/rustfs](../repos/rustfs/rustfs.md) | 8 | ⭐ 32,023 | 2026-08-09 | 2026-09-12 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 7 | ⭐ 117,447 | 2026-07-30 | 2026-09-04 |
-| [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) | 7 | ⭐ 18,760 | 2026-08-03 | 2026-09-03 |
 
 ---
 
@@ -151,7 +151,7 @@
 - [googleworkspace/cli](../repos/googleworkspace/cli.md) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admi...
 - [huggingface/candle](../repos/huggingface/candle.md) - Minimalist ML framework for Rust
 - [cube-js/cube](../repos/cube-js/cube.md) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
-- [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) - 🧱 Easy fast local-first microVM runtime and library
 - [ankitects/anki](../repos/ankitects/anki.md) - Anki is a smart spaced repetition flashcard program
 - [zeroclaw-labs/zeroclaw](../repos/zeroclaw-labs/zeroclaw.md) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — de...
 - [moghtech/komodo](../repos/moghtech/komodo.md) - 🦎 a tool to build and deploy software on many servers 🦎
@@ -214,7 +214,7 @@
 - [Automattic/harper](../repos/Automattic/harper.md) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [apache/datafusion](../repos/apache/datafusion.md) - Apache DataFusion SQL Query Engine
 - [screenpipe/screenpipe](../repos/screenpipe/screenpipe.md) - YC (S26) | Record your screen 24&#x2F;7 and plug into your agents. Local, private, secure. Connect to ...
-- [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fan...
+- [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workf...
 - [mufeedvh/code2prompt](../repos/mufeedvh/code2prompt.md) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating,...
 - [macro-inc/macro](../repos/macro-inc/macro.md) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-link...
 - [alacritty/alacritty](../repos/alacritty/alacritty.md) - A cross-platform, OpenGL terminal emulator.
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.621Z*
+*Last updated: 2026-09-12T21:01:46.351Z*

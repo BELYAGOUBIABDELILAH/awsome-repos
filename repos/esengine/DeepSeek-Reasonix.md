@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | MIT |
-| **Stars** | ⭐ 32,878 |
-| **Forks** | 🍴 2,118 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 35,519 |
+| **Forks** | 🍴 2,390 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 7, 2026 |
+| **Last Seen** | Sep 12, 2026 |
 
 
 ---
@@ -51,7 +51,7 @@
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 6 days
 
 ---
@@ -59,7 +59,7 @@
 ## Categories
 
 ### Topics
-[`agent`](../../topics/agent.md) [`agent-framework`](../../topics/agent-framework.md) [`ai-agent`](../../topics/ai-agent.md) [`ai-coding`](../../topics/ai-coding.md) [`cli`](../../topics/cli.md) [`coding-agent`](../../topics/coding-agent.md) [`deepseek`](../../topics/deepseek.md) [`developer-tools`](../../topics/developer-tools.md) [`ink`](../../topics/ink.md) [`llm`](../../topics/llm.md) [`prompt-caching`](../../topics/prompt-caching.md) [`r1`](../../topics/r1.md) [`terminal`](../../topics/terminal.md) [`tool-use`](../../topics/tool-use.md) [`tui`](../../topics/tui.md) [`typescript`](../../topics/typescript.md) 
+[`agent`](../../topics/agent.md) [`agent-framework`](../../topics/agent-framework.md) [`ai-agent`](../../topics/ai-agent.md) [`ai-coding`](../../topics/ai-coding.md) [`cli`](../../topics/cli.md) [`coding-agent`](../../topics/coding-agent.md) [`deepseek`](../../topics/deepseek.md) [`developer-tools`](../../topics/developer-tools.md) [`dsh`](../../topics/dsh.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`ink`](../../topics/ink.md) [`llm`](../../topics/llm.md) [`prompt-caching`](../../topics/prompt-caching.md) [`r1`](../../topics/r1.md) [`terminal`](../../topics/terminal.md) [`tool-use`](../../topics/tool-use.md) [`tui`](../../topics/tui.md) [`typescript`](../../topics/typescript.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Frontend Development` `Systems Programming` `Developer Tools` 
@@ -76,7 +76,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:39.998Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-09-12T21:01:48.469Z*  
+*Data from 7 trending reports*

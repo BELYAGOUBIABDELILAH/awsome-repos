@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 102
+- **Total Repositories**: 103
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-09
 
@@ -16,49 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 49,834 | 2026-08-01 | 13 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 12,093 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,992 | 2026-08-01 | 11 |
+| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,904 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sozercan/kaset](../repos/sozercan/kaset.md) | ⭐ 2,241 | 2026-08-04 | 8 |
+| [home-assistant/iOS](../repos/home-assistant/iOS.md) | ⭐ 2,347 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift-package-manager](../repos/swiftlang/swift-package-manager.md) | ⭐ 10,216 | 2026-08-19 | 3 |
+| [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,927 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PlayCover/PlayCover](../repos/PlayCover/PlayCover.md) | ⭐ 11,719 | 2026-09-07 | 2 |
+| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 2,085 | 2026-08-12 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iFurySt/open-codex-computer-use](../repos/iFurySt/open-codex-computer-use.md) | ⭐ 1,997 | 2026-09-09 | 2 |
+| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 2,971 | 2026-09-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](../repos/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring.md) | ⭐ 9,173 | 2026-09-10 | 1 |
+| [samhenrigold/LidAngleSensor](../repos/samhenrigold/LidAngleSensor.md) | ⭐ 4,218 | 2026-09-12 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 1,972 | 2026-08-12 | Model export recipes, Python primitives, and Swift runtime utilities for on-device AI |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,536 | 2026-08-12 | Lightweight clipboard manager for macOS |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [lihaoyun6/QuickRecorder](../repos/lihaoyun6/QuickRecorder.md) | ⭐ 8,578 | 2026-08-12 | A lightweight screen recorder based on ScreenCapture Kit for macOS &#x2F; 基于 ScreenCapture Kit 的轻量化多功能... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rileytestut/Delta](../repos/rileytestut/Delta.md) | ⭐ 6,068 | 2026-08-12 | Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [gonzalezreal/textual](../repos/gonzalezreal/textual.md) | ⭐ 833 | 2026-08-12 | Render and customize rich attributed text in SwiftUI |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,843 | 2026-08-12 | bluetooth mesh chat, IRC vibes |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ggbond268/MacTools](../repos/ggbond268/MacTools.md) | ⭐ 1,033 | 2026-08-14 | A free and open-source collection of native macOS menu bar tools.  |
@@ -71,6 +53,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openai/tart](../repos/openai/tart.md) | ⭐ 6,661 | 2026-08-14 | macOS and Linux VMs on Apple Silicon to use in CI and other automations |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | A Swift Autolayout DSL for iOS &amp; OS X |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [stripe/stripe-ios](../repos/stripe/stripe-ios.md) | ⭐ 2,562 | 2026-08-15 | Stripe iOS SDK     |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [facebook/facebook-ios-sdk](../repos/facebook/facebook-ios-sdk.md) | ⭐ 8,086 | 2026-08-15 | Used to integrate the Facebook Platform with your iOS &amp; tvOS apps. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | Reactive Programming in Swift |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [quoid/userscripts](../repos/quoid/userscripts.md) | ⭐ 4,730 | 2026-08-16 | An open-source userscript manager for Safari |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [minsang-alt/PasteClip](../repos/minsang-alt/PasteClip.md) | ⭐ 125 | 2026-08-17 | Free, open-source clipboard manager for macOS. Native Paste alternative with card UI, Pinboards, ... |
 
 
 ---
@@ -106,7 +106,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 15 | ⭐ 11,994 | 2026-08-01 | 2026-09-07 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 16 | ⭐ 12,093 | 2026-08-01 | 2026-09-12 |
 | [apple/container](../repos/apple/container.md) | 13 | ⭐ 49,834 | 2026-08-01 | 2026-09-10 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 12 | ⭐ 14,892 | 2026-08-04 | 2026-08-29 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 11 | ⭐ 26,992 | 2026-08-01 | 2026-09-10 |
@@ -224,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.629Z*
+*Last updated: 2026-09-12T21:01:46.359Z*

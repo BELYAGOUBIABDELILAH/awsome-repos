@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 186
+- **Total Repositories**: 188
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-05
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 28,946 | 2026-08-02 | 9 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,704 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,844 | 2026-08-02 | 7 |
+| [osmandapp/OsmAnd](../repos/osmandapp/OsmAnd.md) | ⭐ 5,994 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [woheller69/FreeDroidWarn](../repos/woheller69/FreeDroidWarn.md) | ⭐ 3,382 | 2026-08-02 | 6 |
+| [bazelbuild/bazel](../repos/bazelbuild/bazel.md) | ⭐ 25,842 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 26,718 | 2026-08-02 | 14 |
+| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,225 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 29,075 | 2026-08-03 | 9 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 28,097 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adityatandon15/Low-Level-Design-Course](../repos/adityatandon15/Low-Level-Design-Course.md) | ⭐ 1,257 | 2026-08-03 | 4 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 33,181 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 74,766 | 2026-08-03 | 13 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,424 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,220 | 2026-08-04 | 5 |
+| [openjdk/jdk](../repos/openjdk/jdk.md) | ⭐ 23,347 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 28,073 | 2026-08-04 | 10 |
+| [apache/doris](../repos/apache/doris.md) | ⭐ 15,896 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itwanger/toBeBetterJavaer](../repos/itwanger/toBeBetterJavaer.md) | ⭐ 17,599 | 2026-08-04 | 2 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,366 | 2026-08-05 | 11 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [binarywang/WxJava](../repos/binarywang/WxJava.md) | ⭐ 33,057 | 2026-08-12 | 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zaproxy/zaproxy](../repos/zaproxy/zaproxy.md) | ⭐ 15,718 | 2026-08-12 | The ZAP by Checkmarx Core project |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apache/iceberg](../repos/apache/iceberg.md) | ⭐ 9,219 | 2026-08-12 | Apache Iceberg |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [YunaiV/yudao-cloud](../repos/YunaiV/yudao-cloud.md) | ⭐ 19,446 | 2026-08-12 | ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue &amp; Element 实现的后台管理... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,363 | 2026-08-12 | Dex to Java decompiler |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apache/kafka](../repos/apache/kafka.md) | ⭐ 33,665 | 2026-08-12 | Apache Kafka - A distributed event streaming platform |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | ⭐ 6,067 | 2026-08-14 | Jetbrains Claude Code and Codex GUI Plugin |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [1Panel-dev/CordysCRM](../repos/1Panel-dev/CordysCRM.md) | ⭐ 2,696 | 2026-08-14 | 🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [648540858/wvp-GB28181-pro](../repos/648540858/wvp-GB28181-pro.md) | ⭐ 7,312 | 2026-08-15 | 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apache/dolphinscheduler](../repos/apache/dolphinscheduler.md) | ⭐ 14,455 | 2026-08-15 | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performan... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [liulangjietou/customer_work](../repos/liulangjietou/customer_work.md) | ⭐ 100 | 2026-08-15 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [alibaba/nacos](../repos/alibaba/nacos.md) | ⭐ 33,347 | 2026-08-15 | an easy-to-use dynamic service discovery, configuration and service management platform for build... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [open-telemetry/opentelemetry-java-instrumentation](../repos/open-telemetry/opentelemetry-java-instrumentation.md) | ⭐ 2,606 | 2026-08-15 | OpenTelemetry auto-instrumentation and instrumentation libraries for Java |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apache/fory](../repos/apache/fory.md) | ⭐ 4,490 | 2026-08-15 | A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL,... |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 129,891 | 2026-08-04 | 5 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,376 | 2026-08-04 | 9 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,424 | 2026-08-04 | 10 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,875 | 2026-08-02 | 8 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 74,766 | 2026-08-03 | 13 |
@@ -101,7 +101,7 @@
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,363 | 2026-08-12 | 3 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,716 | 2026-08-07 | 5 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,316 | 2026-08-05 | 10 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,366 | 2026-08-05 | 11 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,570 | 2026-08-02 | 5 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,063 | 2026-08-06 | 5 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 16 | ⭐ 5,546 | 2026-08-05 | 2026-09-10 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 17 | ⭐ 5,578 | 2026-08-05 | 2026-09-12 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 14 | ⭐ 26,718 | 2026-08-02 | 2026-09-10 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 13 | ⭐ 74,766 | 2026-08-03 | 2026-09-10 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 11 | ⭐ 28,097 | 2026-08-04 | 2026-09-12 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 11 | ⭐ 41,366 | 2026-08-05 | 2026-09-12 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 10 | ⭐ 13,704 | 2026-08-01 | 2026-09-12 |
 | [google/guava](../repos/google/guava.md) | 10 | ⭐ 51,896 | 2026-08-02 | 2026-08-28 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 10 | ⭐ 28,073 | 2026-08-04 | 2026-09-10 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 10 | ⭐ 33,181 | 2026-08-04 | 2026-09-12 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 10 | ⭐ 51,671 | 2026-08-04 | 2026-09-05 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 10 | ⭐ 41,316 | 2026-08-05 | 2026-09-10 |
-| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 10 | ⭐ 6,067 | 2026-08-14 | 2026-09-10 |
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | 9 | ⭐ 10,459 | 2026-08-01 | 2026-09-04 |
-| [crimera/piko](../repos/crimera/piko.md) | 9 | ⭐ 5,131 | 2026-08-01 | 2026-09-06 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 10 | ⭐ 81,424 | 2026-08-04 | 2026-09-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.584Z*
+*Last updated: 2026-09-12T21:01:46.315Z*

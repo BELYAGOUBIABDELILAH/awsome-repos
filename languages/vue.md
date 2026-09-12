@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 81
+- **Total Repositories**: 82
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-05
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,885 | 2026-08-01 | 22 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,906 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,371 | 2026-08-01 | 12 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,519 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 4,101 | 2026-08-01 | 8 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,283 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,505 | 2026-08-01 | 19 |
+| [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,045 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | ⭐ 451 | 2026-08-01 | 14 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,903 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [inovector/mixpost](../repos/inovector/mixpost.md) | ⭐ 3,677 | 2026-08-01 | 8 |
+| [inovector/mixpost](../repos/inovector/mixpost.md) | ⭐ 3,690 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,413 | 2026-08-01 | 27 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,433 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 440 | 2026-08-02 | 21 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 441 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,870 | 2026-08-04 | 10 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,695 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/lms](../repos/frappe/lms.md) | ⭐ 3,206 | 2026-08-06 | 13 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,332 | 2026-08-03 | 12 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [chenjigang4167/testhub_platform](../repos/chenjigang4167/testhub_platform.md) | ⭐ 736 | 2026-08-12 | AI-Powered Testing Platform |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [yangzongzhuan/RuoYi-Vue3](../repos/yangzongzhuan/RuoYi-Vue3.md) | ⭐ 6,710 | 2026-08-12 | :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 &amp; Vite、Element Plus 的前后端分离权限管理系统 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [BansheeTech/HomeDockOS](../repos/BansheeTech/HomeDockOS.md) | ⭐ 894 | 2026-08-12 | An intuitive, versatile, and powerful home server operating system for self-hosting. Featuring a ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,734 | 2026-08-12 | 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OpenListTeam/OpenList-Desktop](../repos/OpenListTeam/OpenList-Desktop.md) | ⭐ 1,394 | 2026-08-14 | A desktop application for OpenList |
@@ -76,10 +64,22 @@
 | [Rule-34/App](../repos/Rule-34/App.md) | ⭐ 375 | 2026-08-16 | Browse the most popular Boorus with the Rule 34 App. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,544 | 2026-08-17 |  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile |
+| [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,550 | 2026-08-17 |  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [roimdev/roim-picx](../repos/roimdev/roim-picx.md) | ⭐ 291 | 2026-08-17 | A free image hosting application based on Cloudflare&#39;s Worker, R2, Pages, and D1 architectures.一款... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hefengxian/my-ielts](../repos/hefengxian/my-ielts.md) | ⭐ 3,206 | 2026-08-19 | 雅思词汇真经、雅思语法、听力 179、阅读 538  同义替换等。Everything during preparing for my IELTS exam.  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hanshuaikang/AI-Media2Doc](../repos/hanshuaikang/AI-Media2Doc.md) | ⭐ 3,988 | 2026-08-19 | 一键将音视频转化为小红书&#x2F;公众号&#x2F;知识笔记&#x2F;思维导图&#x2F;视频字幕等各种风格的文档。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [caigg188/LDStatusPro](../repos/caigg188/LDStatusPro.md) | ⭐ 1,081 | 2026-08-20 | 一款功能强大的 Linux.do 社区增强工具以及相关综合服务开源项目。包含油猴脚本、LDStatusPro官网源码、士多商店前端源码等。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BrainWise-DEV/POSNext](../repos/BrainWise-DEV/POSNext.md) | ⭐ 147 | 2026-08-20 | A modern, high-performance Point of Sale system for ERPNext with offline capabilities, real-time ... |
 
 
 ---
@@ -89,22 +89,22 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,200 | 2026-08-01 | 10 |
-| [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,059 | 2026-08-01 | 8 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,413 | 2026-08-01 | 27 |
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,264 | 2026-08-01 | 15 |
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,885 | 2026-08-01 | 22 |
+| [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,045 | 2026-08-01 | 9 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,433 | 2026-08-01 | 28 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,283 | 2026-08-01 | 16 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,906 | 2026-08-01 | 23 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,070 | 2026-08-08 | 13 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,884 | 2026-08-01 | 17 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,903 | 2026-08-01 | 18 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,637 | 2026-08-02 | 12 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,654 | 2026-08-02 | 14 |
-| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,458 | 2026-08-05 | 10 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,695 | 2026-08-02 | 15 |
+| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,462 | 2026-08-05 | 11 |
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,077 | 2026-08-20 | 3 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,734 | 2026-08-12 | 3 |
-| [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,544 | 2026-08-17 | 4 |
+| [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,550 | 2026-08-17 | 5 |
 | [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,870 | 2026-08-04 | 10 |
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,320 | 2026-08-03 | 11 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,332 | 2026-08-03 | 12 |
 | [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,314 | 2026-08-23 | 7 |
 | [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,844 | 2026-08-03 | 2 |
 | [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,705 | 2026-08-08 | 6 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 27 | ⭐ 33,413 | 2026-08-01 | 2026-09-10 |
-| [requarks/wiki](../repos/requarks/wiki.md) | 22 | ⭐ 28,885 | 2026-08-01 | 2026-09-10 |
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 21 | ⭐ 440 | 2026-08-02 | 2026-09-10 |
-| [frappe/crm](../repos/frappe/crm.md) | 19 | ⭐ 3,505 | 2026-08-01 | 2026-09-10 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 17 | ⭐ 21,884 | 2026-08-01 | 2026-09-09 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 28 | ⭐ 33,433 | 2026-08-01 | 2026-09-12 |
+| [requarks/wiki](../repos/requarks/wiki.md) | 23 | ⭐ 28,906 | 2026-08-01 | 2026-09-12 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 22 | ⭐ 441 | 2026-08-02 | 2026-09-12 |
+| [frappe/crm](../repos/frappe/crm.md) | 20 | ⭐ 3,519 | 2026-08-01 | 2026-09-12 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 18 | ⭐ 21,903 | 2026-08-01 | 2026-09-12 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 17 | ⭐ 2,226 | 2026-08-02 | 2026-09-08 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 16 | ⭐ 4,173 | 2026-08-01 | 2026-09-07 |
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 15 | ⭐ 33,264 | 2026-08-01 | 2026-09-09 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 16 | ⭐ 33,283 | 2026-08-01 | 2026-09-12 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 15 | ⭐ 16,695 | 2026-08-02 | 2026-09-12 |
 | [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 15 | ⭐ 1,860 | 2026-08-02 | 2026-09-09 |
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | 15 | ⭐ 6,783 | 2026-08-02 | 2026-09-09 |
 
 ---
 
@@ -211,7 +211,8 @@
 - [unovue/inspira-ui](../repos/unovue/inspira-ui.md) - Build beautiful website using Vue &amp; Nuxt.
 - [Abdulqudus001/vue-skeleton-loader](../repos/Abdulqudus001/vue-skeleton-loader.md) - A simple and easily customizable skeleton loader plugin for you Vue application. 
 - [geekgeekrun/geekgeekrun](../repos/geekgeekrun/geekgeekrun.md) - 牛人快跑 - GeekGeekRun，求职找工作自动化工具，基于 Puppeteer、Electron。界面友好，简单易用！开源，免费！快速海投、自动开聊、已读不回提醒、职位信息抓取、不合适职位...
+- [wu529778790/panhub.shenzjd.com](../repos/wu529778790/panhub.shenzjd.com.md) - PanHub 网盘聚合搜索 · Netdisk Search Aggregator。一个搜索框聚合夸克&#x2F;阿里云盘&#x2F;百度&#x2F;115&#x2F;迅雷等网盘资源，多源聚合去重、智能排序、插件熔断隔离。零数据库轻量...
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.644Z*
+*Last updated: 2026-09-12T21:01:46.370Z*

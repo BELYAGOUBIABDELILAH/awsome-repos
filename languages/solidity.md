@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 51
+- **Total Repositories**: 52
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-10
+- **Last Updated**: 2026-09-12
 
 ---
 
@@ -16,28 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,235 | 2026-08-01 | 36 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,055 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Uniswap/v4-core](../repos/Uniswap/v4-core.md) | ⭐ 2,529 | 2026-08-01 | 16 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,241 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenZeppelin/openzeppelin-foundry-upgrades](../repos/OpenZeppelin/openzeppelin-foundry-upgrades.md) | ⭐ 258 | 2026-08-01 | 26 |
+| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | ⭐ 224 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ethereum/ERCs](../repos/ethereum/ERCs.md) | ⭐ 754 | 2026-08-04 | 12 |
+| [dapphub/ds-test](../repos/dapphub/ds-test.md) | ⭐ 239 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AmazingAng/WTF-Solidity](../repos/AmazingAng/WTF-Solidity.md) | ⭐ 14,043 | 2026-08-19 | 3 |
+| [Uniswap/permit2](../repos/Uniswap/permit2.md) | ⭐ 944 | 2026-08-01 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [transmissions11/solmate](../repos/transmissions11/solmate.md) | ⭐ 4,286 | 2026-08-01 | 25 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [OpenZeppelin/openzeppelin-foundry-upgrades](../repos/OpenZeppelin/openzeppelin-foundry-upgrades.md) | ⭐ 258 | 2026-08-01 | 27 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [morpho-org/vault-v2](../repos/morpho-org/vault-v2.md) | ⭐ 101 | 2026-08-04 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ProjectOpenSea/seaport](../repos/ProjectOpenSea/seaport.md) | ⭐ 2,257 | 2026-09-12 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ensdomains/contracts-v2](../repos/ensdomains/contracts-v2.md) | ⭐ 49 | 2026-08-12 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AmazingAng/WTF-Solidity](../repos/AmazingAng/WTF-Solidity.md) | ⭐ 14,043 | 2026-08-19 | WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https:&#x2F;&#x2F;wtf.academy |
@@ -65,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Cyfrin/security-and-auditing-full-course-s23](../repos/Cyfrin/security-and-auditing-full-course-s23.md) | ⭐ 1,954 | 2026-09-02 | The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created.  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) | ⭐ 6,772 | 2026-09-05 | Reproduce DeFi hacked incidents using Foundry. |
 
 
 ---
@@ -73,18 +85,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,235 | 2026-08-01 | 36 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,241 | 2026-08-01 | 37 |
 | [AmazingAng/WTF-Solidity](../repos/AmazingAng/WTF-Solidity.md) | ⭐ 14,043 | 2026-08-19 | 3 |
 | [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) | ⭐ 6,772 | 2026-09-05 | 3 |
-| [transmissions11/solmate](../repos/transmissions11/solmate.md) | ⭐ 4,284 | 2026-08-01 | 24 |
+| [transmissions11/solmate](../repos/transmissions11/solmate.md) | ⭐ 4,286 | 2026-08-01 | 25 |
 | [Uniswap/v4-core](../repos/Uniswap/v4-core.md) | ⭐ 2,529 | 2026-08-01 | 16 |
+| [ProjectOpenSea/seaport](../repos/ProjectOpenSea/seaport.md) | ⭐ 2,257 | 2026-09-12 | 1 |
 | [Cyfrin/security-and-auditing-full-course-s23](../repos/Cyfrin/security-and-auditing-full-course-s23.md) | ⭐ 1,954 | 2026-09-02 | 1 |
 | [Uniswap/v2-periphery](../repos/Uniswap/v2-periphery.md) | ⭐ 1,268 | 2026-08-02 | 2 |
 | [Arachnid/solidity-stringutils](../repos/Arachnid/solidity-stringutils.md) | ⭐ 1,154 | 2026-08-02 | 24 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,055 | 2026-08-01 | 33 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,055 | 2026-08-01 | 34 |
 | [bnb-chain/BEPs](../repos/bnb-chain/BEPs.md) | ⭐ 976 | 2026-08-26 | 3 |
 | [foundry-rs/book](../repos/foundry-rs/book.md) | ⭐ 960 | 2026-08-10 | 3 |
-| [Uniswap/permit2](../repos/Uniswap/permit2.md) | ⭐ 946 | 2026-08-01 | 11 |
+| [Uniswap/permit2](../repos/Uniswap/permit2.md) | ⭐ 944 | 2026-08-01 | 12 |
 | [Uniswap/v4-periphery](../repos/Uniswap/v4-periphery.md) | ⭐ 904 | 2026-08-01 | 12 |
 | [celo-org/celo-monorepo](../repos/celo-org/celo-monorepo.md) | ⭐ 801 | 2026-08-05 | 6 |
 | [ethereum/ERCs](../repos/ethereum/ERCs.md) | ⭐ 754 | 2026-08-04 | 12 |
@@ -92,7 +105,6 @@
 | [matter-labs/era-contracts](../repos/matter-labs/era-contracts.md) | ⭐ 537 | 2026-08-07 | 10 |
 | [dmfxyz/murky](../repos/dmfxyz/murky.md) | ⭐ 517 | 2026-08-04 | 21 |
 | [FhenixProtocol/fhenix-contracts](../repos/FhenixProtocol/fhenix-contracts.md) | ⭐ 517 | 2026-08-20 | 3 |
-| [smartcontractkit/chainlink-brownie-contracts](../repos/smartcontractkit/chainlink-brownie-contracts.md) | ⭐ 510 | 2026-08-02 | 3 |
 
 ---
 
@@ -100,12 +112,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 36 | ⭐ 27,235 | 2026-08-01 | 2026-09-10 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 33 | ⭐ 1,055 | 2026-08-01 | 2026-09-09 |
-| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | 33 | ⭐ 223 | 2026-08-01 | 2026-09-09 |
-| [dapphub/ds-test](../repos/dapphub/ds-test.md) | 33 | ⭐ 239 | 2026-08-01 | 2026-09-09 |
-| [OpenZeppelin/openzeppelin-foundry-upgrades](../repos/OpenZeppelin/openzeppelin-foundry-upgrades.md) | 26 | ⭐ 258 | 2026-08-01 | 2026-09-10 |
-| [transmissions11/solmate](../repos/transmissions11/solmate.md) | 24 | ⭐ 4,284 | 2026-08-01 | 2026-09-09 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 37 | ⭐ 27,241 | 2026-08-01 | 2026-09-12 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 34 | ⭐ 1,055 | 2026-08-01 | 2026-09-12 |
+| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | 34 | ⭐ 224 | 2026-08-01 | 2026-09-12 |
+| [dapphub/ds-test](../repos/dapphub/ds-test.md) | 34 | ⭐ 239 | 2026-08-01 | 2026-09-12 |
+| [OpenZeppelin/openzeppelin-foundry-upgrades](../repos/OpenZeppelin/openzeppelin-foundry-upgrades.md) | 27 | ⭐ 258 | 2026-08-01 | 2026-09-12 |
+| [transmissions11/solmate](../repos/transmissions11/solmate.md) | 25 | ⭐ 4,286 | 2026-08-01 | 2026-09-12 |
 | [Arachnid/solidity-stringutils](../repos/Arachnid/solidity-stringutils.md) | 24 | ⭐ 1,154 | 2026-08-02 | 2026-09-09 |
 | [dmfxyz/murky](../repos/dmfxyz/murky.md) | 21 | ⭐ 517 | 2026-08-04 | 2026-09-09 |
 | [aave/aave-v4](../repos/aave/aave-v4.md) | 16 | ⭐ 200 | 2026-08-01 | 2026-08-29 |
@@ -142,7 +154,7 @@
 - [GNSPS/solidity-bytes-utils](../repos/GNSPS/solidity-bytes-utils.md) - Utility Solidity library composed of basic operations for tightly packed bytes arrays
 - [ethereum/ERCs](../repos/ethereum/ERCs.md) - The Ethereum Request for Comment repository 
 - [coinbase/smart-wallet](../repos/coinbase/smart-wallet.md) - 
-- [morpho-org/vault-v2](../repos/morpho-org/vault-v2.md) - Morpho Vault V2
+- [morpho-org/vault-v2](../repos/morpho-org/vault-v2.md) - Morpho&#39;s non-custodial vault protocol
 - [dmfxyz/murky](../repos/dmfxyz/murky.md) - Merkle Proof Generator and Validator in Solidity
 - [paxoslabs/pxl-boring-vault](../repos/paxoslabs/pxl-boring-vault.md) - 
 - [celo-org/celo-monorepo](../repos/celo-org/celo-monorepo.md) - Official repository for core projects comprising the Celo platform
@@ -166,7 +178,8 @@
 - [Cyfrin/security-and-auditing-full-course-s23](../repos/Cyfrin/security-and-auditing-full-course-s23.md) - The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created. 
 - [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) - Reproduce DeFi hacked incidents using Foundry.
 - [1inch/swap-vm](../repos/1inch/swap-vm.md) - 
+- [ProjectOpenSea/seaport](../repos/ProjectOpenSea/seaport.md) - Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.627Z*
+*Last updated: 2026-09-12T21:01:46.357Z*

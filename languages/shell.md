@@ -16,46 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,062 | 2026-08-01 | 25 |
+| [openshift/release](../repos/openshift/release.md) | ⭐ 329 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | ⭐ 2,258 | 2026-08-02 | 10 |
+| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 7,792 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,153 | 2026-08-04 | 13 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,167 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,217 | 2026-08-11 | 5 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,520 | 2026-08-07 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 5,448 | 2026-08-12 | 13 |
+| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,299 | 2026-08-08 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/adk-docs](../repos/google/adk-docs.md) | ⭐ 1,488 | 2026-08-14 | 2 |
+| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,243 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 40,042 | 2026-08-29 | 3 |
+| [Sergeydigl3/zapret-discord-youtube-linux](../repos/Sergeydigl3/zapret-discord-youtube-linux.md) | ⭐ 1,996 | 2026-08-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) | ⭐ 872 | 2026-09-07 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [gnzsnz/ib-gateway-docker](../repos/gnzsnz/ib-gateway-docker.md) | ⭐ 1,216 | 2026-09-10 | 1 |
+| [bioconda/bioconda-recipes](../repos/bioconda/bioconda-recipes.md) | ⭐ 1,869 | 2026-08-25 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent&#x2F;Claude Code&#x2F;Cursor&#x2F;Copilot 等 18 种工具，覆盖工程&#x2F;设计&#x2F;营销&#x2F;金融等 20 个部门... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 5,448 | 2026-08-12 | Talk to one agent. Ship with a crew. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [conversun/fnos-apps](../repos/conversun/fnos-apps.md) | ⭐ 578 | 2026-08-12 | 飞牛 fnOS NAS 第三方应用商店 — 115 款自托管应用的 .fpk 安装包 | Plex, Emby, Jellyfin, qBittorrent, Immich, Sonarr, R... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vinvcn/mattpocock-skills-zh-CN](../repos/vinvcn/mattpocock-skills-zh-CN.md) | ⭐ 3,667 | 2026-08-14 | 这是 mattpocock&#x2F;skills 的简体中文本地化版本。 |
@@ -77,6 +65,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [wolfi-dev/os](../repos/wolfi-dev/os.md) | ⭐ 1,276 | 2026-08-14 | Main package repository for production Wolfi images |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Lifecycle-Innovations-Limited/claude-ops](../repos/Lifecycle-Innovations-Limited/claude-ops.md) | ⭐ 164 | 2026-08-15 | Business operating system for Claude Code — 57 skills, 21 agents, smart daemon. Unified inbox (Wh... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ROCm/ROCm](../repos/ROCm/ROCm.md) | ⭐ 6,798 | 2026-08-15 | AMD ROCm™ Software - GitHub Home |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) | ⭐ 2,228 | 2026-08-15 | Bonsai Demo |
 
 
 ---
@@ -114,9 +111,9 @@
 |------------|---------------|-------|------------|-----------|
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 25 | ⭐ 95,062 | 2026-08-01 | 2026-09-10 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [expo/skills](../repos/expo/skills.md) | 19 | ⭐ 2,509 | 2026-08-07 | 2026-09-08 |
+| [expo/skills](../repos/expo/skills.md) | 20 | ⭐ 2,520 | 2026-08-07 | 2026-09-12 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | 14 | ⭐ 11,167 | 2026-08-04 | 2026-09-12 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 13 | ⭐ 4,378 | 2026-08-01 | 2026-09-01 |
-| [github/copilot-cli](../repos/github/copilot-cli.md) | 13 | ⭐ 11,153 | 2026-08-04 | 2026-09-10 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 13 | ⭐ 5,448 | 2026-08-12 | 2026-09-10 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 10 | ⭐ 2,258 | 2026-08-02 | 2026-09-10 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 9 | ⭐ 25,582 | 2026-08-04 | 2026-09-01 |
@@ -230,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.625Z*
+*Last updated: 2026-09-12T21:01:46.355Z*

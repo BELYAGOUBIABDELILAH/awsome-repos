@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 125
+- **Total Repositories**: 129
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,46 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 30,789 | 2026-08-01 | 14 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 31,495 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [decolua/9router](../repos/decolua/9router.md) | ⭐ 28,336 | 2026-08-02 | 7 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 39,490 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jo-inc/camofox-browser](../repos/jo-inc/camofox-browser.md) | ⭐ 10,895 | 2026-08-09 | 6 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 29,562 | 2026-08-27 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 15,650 | 2026-08-14 | 5 |
+| [mekos2772/ios-location-spoofer](../repos/mekos2772/ios-location-spoofer.md) | ⭐ 3,995 | 2026-09-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 23,845 | 2026-08-27 | 4 |
+| [0xranx/OpenContext](../repos/0xranx/OpenContext.md) | ⭐ 1,117 | 2026-09-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/plugins](../repos/openai/plugins.md) | ⭐ 6,378 | 2026-08-27 | 9 |
+| [sandeco/reversa](../repos/sandeco/reversa.md) | ⭐ 1,597 | 2026-09-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [viarotel-org/escrcpy](../repos/viarotel-org/escrcpy.md) | ⭐ 11,643 | 2026-09-08 | 3 |
+| [QuiteAFancyEmerald/InvisiProxy](../repos/QuiteAFancyEmerald/InvisiProxy.md) | ⭐ 1,552 | 2026-09-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/awesome-generative-ai-apps](../repos/Anil-matcha/awesome-generative-ai-apps.md) | ⭐ 3,202 | 2026-09-10 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [sgoudelis/ground-station](../repos/sgoudelis/ground-station.md) | ⭐ 4,772 | 2026-09-10 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Anarios/return-youtube-dislike](../repos/Anarios/return-youtube-dislike.md) | ⭐ 13,769 | 2026-09-10 | 1 |
+| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 4,348 | 2026-09-12 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | JavaScript Style Guide |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) | ⭐ 28,619 | 2026-08-12 | Create beautiful slides on the web using a coding agent&#39;s frontend skills |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 15,650 | 2026-08-14 | The fastest browser for AI agents to run browser automation, built for sharing your logged-in bro... |
@@ -80,6 +68,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [JannisX11/blockbench](../repos/JannisX11/blockbench.md) | ⭐ 5,789 | 2026-08-15 | Blockbench - A low poly 3D model editor |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [carbon-design-system/carbon](../repos/carbon-design-system/carbon.md) | ⭐ 9,409 | 2026-08-15 | A design system built by IBM |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [IRNova/Nova-Proxy](../repos/IRNova/Nova-Proxy.md) | ⭐ 3,047 | 2026-08-16 | یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره... |
 
 
 ---
@@ -117,7 +111,7 @@
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 17 | ⭐ 92,430 | 2026-08-05 | 2026-09-05 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 16 | ⭐ 43,692 | 2026-08-04 | 2026-09-02 |
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 14 | ⭐ 30,789 | 2026-08-01 | 2026-09-10 |
+| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [byoungd/up](../repos/byoungd/up.md) | 13 | ⭐ 62,555 | 2026-08-01 | 2026-09-09 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 11 | ⭐ 66,586 | 2026-08-05 | 2026-09-08 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 10 | ⭐ 2,613 | 2026-08-07 | 2026-09-07 |
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.586Z*
+*Last updated: 2026-09-12T21:01:46.317Z*

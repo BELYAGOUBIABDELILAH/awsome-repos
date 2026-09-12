@@ -1,6 +1,6 @@
 # stablyai&#x2F;orca
 
-> Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+> Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;stablyai&#x2F;orca) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 61,677 |
-| **Forks** | 🍴 4,129 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 67,255 |
+| **Forks** | 🍴 4,406 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Sep 4, 2026 |
+| **Last Seen** | Sep 12, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 4 days
 
 ---
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:43.001Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-09-12T21:01:49.922Z*  
+*Data from 10 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 216
+- **Total Repositories**: 221
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 13,145 | 2026-08-01 | 2 |
+| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 137,575 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 104,483 | 2026-08-08 | 9 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/Megatron-LM](../repos/NVIDIA/Megatron-LM.md) | ⭐ 17,840 | 2026-08-25 | 3 |
+| [jundot/omlx](../repos/jundot/omlx.md) | ⭐ 21,659 | 2026-08-16 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ayghri/i-have-adhd](../repos/ayghri/i-have-adhd.md) | ⭐ 37,936 | 2026-08-29 | 4 |
+| [ayghri/i-have-adhd](../repos/ayghri/i-have-adhd.md) | ⭐ 43,321 | 2026-08-29 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [datawhalechina/hello-agents](../repos/datawhalechina/hello-agents.md) | ⭐ 78,270 | 2026-09-02 | 3 |
+| [jihe520/MathModelAgent](../repos/jihe520/MathModelAgent.md) | ⭐ 5,106 | 2026-09-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/skills](../repos/openai/skills.md) | ⭐ 26,850 | 2026-09-06 | 5 |
+| [k2-fsa/OmniVoice](../repos/k2-fsa/OmniVoice.md) | ⭐ 12,759 | 2026-09-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jiji262/douyin-downloader](../repos/jiji262/douyin-downloader.md) | ⭐ 9,904 | 2026-09-10 | 1 |
+| [SnailSploit/Claude-Red](../repos/SnailSploit/Claude-Red.md) | ⭐ 3,538 | 2026-09-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gpustack/gpustack](../repos/gpustack/gpustack.md) | ⭐ 5,658 | 2026-09-10 | 1 |
+| [multimodal-art-projection/YuE](../repos/multimodal-art-projection/YuE.md) | ⭐ 7,234 | 2026-09-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ultralytics/ultralytics](../repos/ultralytics/ultralytics.md) | ⭐ 61,481 | 2026-09-10 | 1 |
+| [petergyang/no-ai-slop](../repos/petergyang/no-ai-slop.md) | ⭐ 8,624 | 2026-09-12 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-deepmind/alphagenome](../repos/google-deepmind/alphagenome.md) | ⭐ 2,080 | 2026-09-10 | 1 |
+| [google-gemini/gemini-skills](../repos/google-gemini/gemini-skills.md) | ⭐ 4,100 | 2026-09-12 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hugohe3/ppt-master](../repos/hugohe3/ppt-master.md) | ⭐ 46,830 | 2026-08-12 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions a... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) | ⭐ 21,985 | 2026-08-12 | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Lightricks/LTX-2](../repos/Lightricks/LTX-2.md) | ⭐ 9,005 | 2026-08-12 | Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [omnigent-ai/omnigent](../repos/omnigent-ai/omnigent.md) | ⭐ 8,713 | 2026-08-12 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, C... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [index-tts/index-tts](../repos/index-tts/index-tts.md) | ⭐ 22,724 | 2026-08-12 | An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [paradigmxyz/centaur](../repos/paradigmxyz/centaur.md) | ⭐ 1,105 | 2026-08-12 | Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open so... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [megadose/holehe](../repos/megadose/holehe.md) | ⭐ 13,276 | 2026-08-14 | holehe allows you to check if the mail is used on different sites like twitter, instagram and wil... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 134,408 | 2026-08-14 | 💫 Toolkit to help you get started with Spec-Driven Development |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 💫 Toolkit to help you get started with Spec-Driven Development |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [newton-physics/newton](../repos/newton-physics/newton.md) | ⭐ 5,437 | 2026-08-14 | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically ta... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [NVIDIA-NeMo/Automodel](../repos/NVIDIA-NeMo/Automodel.md) | ⭐ 833 | 2026-08-14 | 🚀 Pytorch Distributed native training library for LLMs&#x2F;VLMs with OOTB Hugging Face support |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [volcengine/OpenViking](../repos/volcengine/OpenViking.md) | ⭐ 31,612 | 2026-08-14 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [exo-explore/exo](../repos/exo-explore/exo.md) | ⭐ 46,828 | 2026-08-14 | Run frontier AI locally. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 5,113 | 2026-08-15 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 48,297 | 2026-08-15 | &quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub: https:&#x2F;&#x2F;clianything.cc&#x2F; |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sgl-project/sglang-omni](../repos/sgl-project/sglang-omni.md) | ⭐ 819 | 2026-08-15 | SGLang-Omni empowers high-performance serving for TTS, ASR, speech and omni models. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ashishpatel26/500-AI-Agents-Projects](../repos/ashishpatel26/500-AI-Agents-Projects.md) | ⭐ 36,526 | 2026-08-15 | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industrie... |
 
 
 ---
@@ -99,8 +99,8 @@
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 174,517 | 2026-08-11 | 6 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,572 | 2026-07-31 | 5 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 144,076 | 2026-08-07 | 11 |
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 134,408 | 2026-08-14 | 6 |
-| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 134,172 | 2026-08-04 | 2 |
+| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 137,575 | 2026-08-04 | 3 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 131,932 | 2026-08-05 | 8 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | 2026-08-01 | 10 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 114,356 | 2026-08-03 | 5 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.614Z*
+*Last updated: 2026-09-12T21:01:46.345Z*

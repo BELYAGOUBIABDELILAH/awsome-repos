@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 15
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-10
+- **Last Updated**: 2026-09-12
 
 ---
 
@@ -16,7 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,705 | 2026-08-01 | 30 |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,330 | 2026-08-01 | 32 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,705 | 2026-08-01 | 31 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [blt/port_compiler](../repos/blt/port_compiler.md) | ⭐ 69 | 2026-08-01 | 22 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 6,951 | 2026-08-03 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,722 | 2026-08-08 | 15 |
 
 
 ---
@@ -32,11 +44,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,705 | 2026-08-01 | 30 |
-| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,329 | 2026-08-01 | 31 |
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,705 | 2026-08-01 | 31 |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,330 | 2026-08-01 | 32 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | ⭐ 7,527 | 2026-08-03 | 21 |
-| [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 6,944 | 2026-08-03 | 11 |
-| [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,721 | 2026-08-08 | 14 |
+| [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 6,951 | 2026-08-03 | 12 |
+| [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,722 | 2026-08-08 | 15 |
 | [erlang/rebar3](../repos/erlang/rebar3.md) | ⭐ 1,818 | 2026-08-03 | 5 |
 | [ninenines/ranch](../repos/ninenines/ranch.md) | ⭐ 1,244 | 2026-08-02 | 8 |
 | [ninenines/gun](../repos/ninenines/gun.md) | ⭐ 947 | 2026-08-06 | 2 |
@@ -46,7 +58,7 @@
 | [WhatsApp/erlfmt](../repos/WhatsApp/erlfmt.md) | ⭐ 466 | 2026-08-01 | 24 |
 | [ninenines/cowlib](../repos/ninenines/cowlib.md) | ⭐ 298 | 2026-08-02 | 11 |
 | [hexpm/hex_core](../repos/hexpm/hex_core.md) | ⭐ 105 | 2026-08-06 | 2 |
-| [blt/port_compiler](../repos/blt/port_compiler.md) | ⭐ 69 | 2026-08-01 | 21 |
+| [blt/port_compiler](../repos/blt/port_compiler.md) | ⭐ 69 | 2026-08-01 | 22 |
 
 ---
 
@@ -54,14 +66,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [erlang/otp](../repos/erlang/otp.md) | 31 | ⭐ 12,329 | 2026-08-01 | 2026-09-09 |
-| [emqx/emqx](../repos/emqx/emqx.md) | 30 | ⭐ 16,705 | 2026-08-01 | 2026-09-10 |
+| [erlang/otp](../repos/erlang/otp.md) | 32 | ⭐ 12,330 | 2026-08-01 | 2026-09-12 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 31 | ⭐ 16,705 | 2026-08-01 | 2026-09-12 |
 | [WhatsApp/erlfmt](../repos/WhatsApp/erlfmt.md) | 24 | ⭐ 466 | 2026-08-01 | 2026-09-09 |
-| [blt/port_compiler](../repos/blt/port_compiler.md) | 21 | ⭐ 69 | 2026-08-01 | 2026-09-09 |
+| [blt/port_compiler](../repos/blt/port_compiler.md) | 22 | ⭐ 69 | 2026-08-01 | 2026-09-12 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | 21 | ⭐ 7,527 | 2026-08-03 | 2026-09-09 |
-| [processone/ejabberd](../repos/processone/ejabberd.md) | 14 | ⭐ 6,721 | 2026-08-08 | 2026-09-09 |
+| [processone/ejabberd](../repos/processone/ejabberd.md) | 15 | ⭐ 6,722 | 2026-08-08 | 2026-09-12 |
+| [apache/couchdb](../repos/apache/couchdb.md) | 12 | ⭐ 6,951 | 2026-08-03 | 2026-09-12 |
 | [ninenines/cowlib](../repos/ninenines/cowlib.md) | 11 | ⭐ 298 | 2026-08-02 | 2026-08-28 |
-| [apache/couchdb](../repos/apache/couchdb.md) | 11 | ⭐ 6,944 | 2026-08-03 | 2026-08-29 |
 | [ninenines/ranch](../repos/ninenines/ranch.md) | 8 | ⭐ 1,244 | 2026-08-02 | 2026-08-29 |
 | [proper-testing/proper](../repos/proper-testing/proper.md) | 7 | ⭐ 918 | 2026-08-06 | 2026-09-01 |
 
@@ -87,4 +99,4 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.569Z*
+*Last updated: 2026-09-12T21:01:46.300Z*

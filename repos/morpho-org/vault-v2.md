@@ -1,6 +1,6 @@
 # morpho-org&#x2F;vault-v2
 
-> Morpho Vault V2
+> Morpho&#39;s non-custodial vault protocol
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;morpho-org&#x2F;vault-v2) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Solidity |
 | **License** | GPL-2.0 |
-| **Stars** | ⭐ 98 |
-| **Forks** | 🍴 71 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 101 |
+| **Forks** | 🍴 75 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Sep 1, 2026 |
+| **Last Seen** | Sep 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 3 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 98+ stars, strong contributor base |
+| **Community** | Very Active | 101+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -84,12 +84,12 @@
 - Check similar projects in Solidity
 
 #### Metrics
-- **Hidden Gem**: ✗ No
+- **Hidden Gem**: ✓ Yes
 - **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-10T21:01:40.841Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-09-12T21:01:49.206Z*  
+*Data from 13 trending reports*

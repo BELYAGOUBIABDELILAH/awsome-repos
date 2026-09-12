@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 3
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-10
+- **Last Updated**: 2026-09-12
 
 ---
 
@@ -16,10 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,839 | 2026-08-01 | 34 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,853 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,217 | 2026-09-09 | 2 |
+| [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,235 | 2026-09-09 | 3 |
 
 
 ---
@@ -28,7 +28,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,217 | 2026-09-09 | Vinix is an effort to write a modern, fast, and useful operating system in the V programming lang... |
+| [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,235 | 2026-09-09 | Vinix is an effort to write a modern, fast, and useful operating system in the V programming lang... |
 
 
 ---
@@ -37,8 +37,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,839 | 2026-08-01 | 34 |
-| [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,217 | 2026-09-09 | 2 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,853 | 2026-08-01 | 35 |
+| [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,235 | 2026-09-09 | 3 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | ⭐ 206 | 2026-08-09 | 2 |
 
 ---
@@ -47,9 +47,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vlang/v](../repos/vlang/v.md) | 34 | ⭐ 37,839 | 2026-08-01 | 2026-09-10 |
+| [vlang/v](../repos/vlang/v.md) | 35 | ⭐ 37,853 | 2026-08-01 | 2026-09-12 |
+| [vlang/vinix](../repos/vlang/vinix.md) | 3 | ⭐ 2,235 | 2026-09-09 | 2026-09-12 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | 2 | ⭐ 206 | 2026-08-09 | 2026-08-11 |
-| [vlang/vinix](../repos/vlang/vinix.md) | 2 | ⭐ 2,217 | 2026-09-09 | 2026-09-10 |
 
 ---
 
@@ -61,4 +61,4 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.633Z*
+*Last updated: 2026-09-12T21:01:46.362Z*

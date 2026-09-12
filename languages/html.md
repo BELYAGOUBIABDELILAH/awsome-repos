@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 80
+- **Total Repositories**: 82
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-07
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,796 | 2026-08-02 | 5 |
+| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 9,214 | 2026-08-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 26,052 | 2026-08-04 | 8 |
+| [google/fonts](../repos/google/fonts.md) | ⭐ 20,479 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | ⭐ 5,064 | 2026-08-06 | 6 |
+| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | ⭐ 5,076 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,674 | 2026-08-07 | 3 |
+| [davidarroyo1234/InstagramUnfollowers](../repos/davidarroyo1234/InstagramUnfollowers.md) | ⭐ 4,839 | 2026-08-26 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [revfactory/harness](../repos/revfactory/harness.md) | ⭐ 8,955 | 2026-08-11 | 6 |
+| [aoaostar/legado](../repos/aoaostar/legado.md) | ⭐ 6,291 | 2026-09-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 37,645 | 2026-08-12 | 11 |
+| [horilla/horilla-hr](../repos/horilla/horilla-hr.md) | ⭐ 1,405 | 2026-09-12 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [comfyanonymous/ComfyUI_examples](../repos/comfyanonymous/ComfyUI_examples.md) | ⭐ 4,542 | 2026-09-12 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 37,645 | 2026-08-12 | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows.... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | A rugged, minimal framework for composing JavaScript behavior in your markup.  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | ⭐ 1,757 | 2026-08-14 | AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos,... |
@@ -68,6 +65,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,438 | 2026-08-19 | 计算机自学指南 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zhaochenyang20/Awesome-ML-SYS-Tutorial](../repos/zhaochenyang20/Awesome-ML-SYS-Tutorial.md) | ⭐ 7,245 | 2026-08-19 | My learning notes for ML SYS. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 5,509 | 2026-08-19 | Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents |
 
 
 ---
@@ -92,7 +95,7 @@
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 26,052 | 2026-08-04 | 8 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 21,209 | 2026-08-01 | 5 |
-| [google/fonts](../repos/google/fonts.md) | ⭐ 20,428 | 2026-08-03 | 3 |
+| [google/fonts](../repos/google/fonts.md) | ⭐ 20,479 | 2026-08-03 | 4 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
 | [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | 1 |
 | [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,796 | 2026-08-02 | 5 |
@@ -104,7 +107,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 12 | ⭐ 65,728 | 2026-08-01 | 2026-09-07 |
-| [averygan/reclip](../repos/averygan/reclip.md) | 11 | ⭐ 8,735 | 2026-08-03 | 2026-09-05 |
+| [averygan/reclip](../repos/averygan/reclip.md) | 12 | ⭐ 9,214 | 2026-08-03 | 2026-09-12 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 11 | ⭐ 135,251 | 2026-08-08 | 2026-08-25 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 11 | ⭐ 37,645 | 2026-08-12 | 2026-09-10 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 10 | ⭐ 9,776 | 2026-08-01 | 2026-09-03 |
@@ -198,7 +201,9 @@
 - [omacom/omarchy-site](../repos/omacom/omarchy-site.md) - Beautiful, Modern &amp; Opinionated Linux by DHH
 - [wdndev/llm_interview_note](../repos/wdndev/llm_interview_note.md) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
 - [Guyungy/damaihelper](../repos/Guyungy/damaihelper.md) - 支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本
+- [horilla/horilla-hr](../repos/horilla/horilla-hr.md) - Horilla is a free and open source HR software.
+- [comfyanonymous/ComfyUI_examples](../repos/comfyanonymous/ComfyUI_examples.md) - Examples of ComfyUI workflows
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.580Z*
+*Last updated: 2026-09-12T21:01:46.310Z*

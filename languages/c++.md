@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 222
+- **Total Repositories**: 227
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 127,742 | 2026-08-01 | 20 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 127,997 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/nccl](../repos/NVIDIA/nccl.md) | ⭐ 5,068 | 2026-08-05 | 4 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 117,022 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,148 | 2026-08-08 | 13 |
+| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,306 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 6,956 | 2026-08-10 | 3 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 10,716 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,433 | 2026-08-12 | 5 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,162 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossrs/srs](../repos/ossrs/srs.md) | ⭐ 29,231 | 2026-08-14 | 2 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 29,855 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kvcache-ai/Mooncake](../repos/kvcache-ai/Mooncake.md) | ⭐ 6,550 | 2026-08-15 | 3 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 39,513 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,133 | 2026-08-19 | 6 |
+| [wazuh/wazuh](../repos/wazuh/wazuh.md) | ⭐ 16,852 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Vita3K/Vita3K](../repos/Vita3K/Vita3K.md) | ⭐ 5,703 | 2026-08-23 | 3 |
+| [microsoft/WSL](../repos/microsoft/WSL.md) | ⭐ 33,680 | 2026-08-08 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PaddlePaddle/Paddle](../repos/PaddlePaddle/Paddle.md) | ⭐ 24,082 | 2026-08-27 | 2 |
+| [azahar-emu/azahar](../repos/azahar-emu/azahar.md) | ⭐ 8,102 | 2026-08-11 | 4 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/intelligent-terminal](../repos/microsoft/intelligent-terminal.md) | ⭐ 1,865 | 2026-08-12 | A fork of Windows Terminal with native agent integration, right in your command line. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ROCm/FastFlowLM](../repos/ROCm/FastFlowLM.md) | ⭐ 1,724 | 2026-08-12 | Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimi... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,433 | 2026-08-12 | Tesseract Open Source OCR Engine (main repository) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apache/arrow](../repos/apache/arrow.md) | ⭐ 17,052 | 2026-08-12 | Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchang... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [facebookincubator/velox](../repos/facebookincubator/velox.md) | ⭐ 4,187 | 2026-08-12 | A composable and fully extensible C++ execution engine library for data management systems. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fmtlib/fmt](../repos/fmtlib/fmt.md) | ⭐ 25,560 | 2026-08-12 | A modern formatting library |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [keepassxreboot/keepassxc](../repos/keepassxreboot/keepassxc.md) | ⭐ 28,359 | 2026-08-12 | KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [firebase/firebase-ios-sdk](../repos/firebase/firebase-ios-sdk.md) | ⭐ 6,650 | 2026-08-12 | Firebase SDK for Apple App Development |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/microsoft-ui-xaml](../repos/microsoft/microsoft-ui-xaml.md) | ⭐ 8,265 | 2026-08-12 | WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-per... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [allenk/GeminiWatermarkTool](../repos/allenk/GeminiWatermarkTool.md) | ⭐ 3,067 | 2026-08-14 | VEO &#x2F; Gemini 3.5 Nano Banana Pro watermark maintenance tool |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [autowarefoundation/vision_pilot](../repos/autowarefoundation/vision_pilot.md) | ⭐ 828 | 2026-08-14 | Free and fully open-source L2 ADAS stack powered by End-to-End AI technology |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [abseil/abseil-cpp](../repos/abseil/abseil-cpp.md) | ⭐ 18,123 | 2026-08-14 | Abseil Common Libraries (C++) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ossrs/srs](../repos/ossrs/srs.md) | ⭐ 29,231 | 2026-08-14 | SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS,... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NVIDIA/cccl](../repos/NVIDIA/cccl.md) | ⭐ 2,473 | 2026-08-14 | CUDA Core Compute Libraries |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [safijari/openpuck](../repos/safijari/openpuck.md) | ⭐ 766 | 2026-08-14 | Opensource firmware for NRF52840 Pro Micro that copycats the Steam Controller 2 Puck and adds an ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [afritz1/OpenTESArena](../repos/afritz1/OpenTESArena.md) | ⭐ 1,380 | 2026-08-15 | Open-source re-implementation of The Elder Scrolls: Arena. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [YosysHQ/yosys](../repos/YosysHQ/yosys.md) | ⭐ 4,748 | 2026-08-15 | Yosys Open SYnthesis Suite |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [deepseek-ai/3FS](../repos/deepseek-ai/3FS.md) | ⭐ 10,134 | 2026-08-15 |  A high-performance distributed file system designed to address the challenges of AI training and... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MeisApps/pcbu-desktop](../repos/MeisApps/pcbu-desktop.md) | ⭐ 433 | 2026-08-15 | Desktop app for PC Bio Unlock |
 
 
 ---
@@ -89,12 +89,12 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 198,899 | 2026-07-30 | 16 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 127,742 | 2026-08-01 | 20 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 127,997 | 2026-08-01 | 21 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | 2026-08-04 | 4 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 116,297 | 2026-08-01 | 8 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 117,022 | 2026-08-01 | 9 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,728 | 2026-08-06 | 4 |
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,122 | 2026-08-02 | 6 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,162 | 2026-08-02 | 7 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,433 | 2026-08-12 | 5 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,148 | 2026-08-08 | 13 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,999 | 2026-08-01 | 12 |
@@ -102,9 +102,9 @@
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,778 | 2026-08-03 | 4 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,046 | 2026-09-01 | 2 |
-| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,281 | 2026-08-02 | 6 |
+| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,306 | 2026-08-02 | 7 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 41,933 | 2026-09-06 | 1 |
-| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,133 | 2026-08-19 | 6 |
+| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,182 | 2026-08-19 | 7 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
 | [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,206 | 2026-08-09 | 6 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,679 | 2026-08-02 | 5 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 20 | ⭐ 127,742 | 2026-08-01 | 2026-09-10 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 21 | ⭐ 127,997 | 2026-08-01 | 2026-09-12 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 16 | ⭐ 198,899 | 2026-07-30 | 2026-09-06 |
+| [google/googletest](../repos/google/googletest.md) | 13 | ⭐ 39,513 | 2026-08-04 | 2026-09-12 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 13 | ⭐ 76,148 | 2026-08-08 | 2026-09-10 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 12 | ⭐ 71,999 | 2026-08-01 | 2026-09-04 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 12 | ⭐ 29,564 | 2026-08-01 | 2026-09-02 |
-| [google/googletest](../repos/google/googletest.md) | 12 | ⭐ 39,299 | 2026-08-04 | 2026-08-29 |
 | [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | 10 | ⭐ 683 | 2026-08-02 | 2026-09-07 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 9 | ⭐ 472 | 2026-08-01 | 2026-08-26 |
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | 9 | ⭐ 66,104 | 2026-08-05 | 2026-09-08 |
-| [godotengine/godot](../repos/godotengine/godot.md) | 8 | ⭐ 116,297 | 2026-08-01 | 2026-08-28 |
+| [godotengine/godot](../repos/godotengine/godot.md) | 9 | ⭐ 117,022 | 2026-08-01 | 2026-09-12 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 9 | ⭐ 10,716 | 2026-08-02 | 2026-09-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.554Z*
+*Last updated: 2026-09-12T21:01:46.286Z*

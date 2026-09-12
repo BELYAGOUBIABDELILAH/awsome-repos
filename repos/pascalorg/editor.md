@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 22,844 |
-| **Forks** | 🍴 2,892 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 23,835 |
+| **Forks** | 🍴 2,958 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Sep 7, 2026 |
-| **Last Seen** | Sep 9, 2026 |
+| **Last Seen** | Sep 12, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 3 days
 
 ---
@@ -56,7 +56,7 @@
 ## Categories
 
 ### Topics
-[`3d`](../../topics/3d.md) [`agent-skills`](../../topics/agent-skills.md) [`ai-agents`](../../topics/ai-agents.md) [`architecture`](../../topics/architecture.md) [`bim`](../../topics/bim.md) [`cad`](../../topics/cad.md) [`editor`](../../topics/editor.md) [`floorplan`](../../topics/floorplan.md) [`local-first`](../../topics/local-first.md) [`mcp`](../../topics/mcp.md) [`mcp-server`](../../topics/mcp-server.md) [`model-context-protocol`](../../topics/model-context-protocol.md) [`nextjs`](../../topics/nextjs.md) [`parametric-design`](../../topics/parametric-design.md) [`react-three-fiber`](../../topics/react-three-fiber.md) [`threejs`](../../topics/threejs.md) [`typescript`](../../topics/typescript.md) 
+[`3d`](../../topics/3d.md) [`agent-skills`](../../topics/agent-skills.md) [`ai-agents`](../../topics/ai-agents.md) [`architecture`](../../topics/architecture.md) [`bim`](../../topics/bim.md) [`cad`](../../topics/cad.md) [`editor`](../../topics/editor.md) [`floorplan`](../../topics/floorplan.md) [`gemini-cli-extension`](../../topics/gemini-cli-extension.md) [`local-first`](../../topics/local-first.md) [`mcp`](../../topics/mcp.md) [`mcp-server`](../../topics/mcp-server.md) [`model-context-protocol`](../../topics/model-context-protocol.md) [`nextjs`](../../topics/nextjs.md) [`parametric-design`](../../topics/parametric-design.md) [`react-three-fiber`](../../topics/react-three-fiber.md) [`threejs`](../../topics/threejs.md) [`typescript`](../../topics/typescript.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Web Development` `Backend Development` `Game Development` `Systems Programming` `Developer Tools` 
@@ -86,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 60&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #4)
 
 
 ---
 
-*Last updated: 2026-09-10T21:01:44.521Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-09-12T21:01:51.193Z*  
+*Data from 4 trending reports*

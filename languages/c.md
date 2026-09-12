@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 70,404 | 2026-08-01 | 17 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,996 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,582 | 2026-08-01 | 35 |
+| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,684 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,935 | 2026-08-02 | 8 |
+| [FRRouting/frr](../repos/FRRouting/frr.md) | ⭐ 4,288 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [karpathy/llama2.c](../repos/karpathy/llama2.c.md) | ⭐ 20,069 | 2026-08-03 | 2 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,494 | 2026-08-06 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vedderb/bldc](../repos/vedderb/bldc.md) | ⭐ 3,432 | 2026-08-05 | 4 |
+| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 19,002 | 2026-08-12 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 24,777 | 2026-08-05 | 2 |
+| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 4,391 | 2026-08-15 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,476 | 2026-08-06 | 14 |
+| [CTCaer/hekate](../repos/CTCaer/hekate.md) | ⭐ 8,678 | 2026-08-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [timescale/timescaledb](../repos/timescale/timescaledb.md) | ⭐ 23,506 | 2026-08-07 | 5 |
+| [bol-van/zapret2](../repos/bol-van/zapret2.md) | ⭐ 5,438 | 2026-08-16 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,819 | 2026-08-07 | 16 |
+| [nmap/nmap](../repos/nmap/nmap.md) | ⭐ 13,571 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 4,362 | 2026-08-15 | 6 |
+| [sabrogden/Ditto](../repos/sabrogden/Ditto.md) | ⭐ 7,127 | 2026-08-20 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 18,938 | 2026-08-12 | Espressif IoT Development Framework. Official development framework for Espressif SoCs. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 22,953 | 2026-08-12 | Open-source vector similarity search for Postgres |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [espressif/esp-claw](../repos/espressif/esp-claw.md) | ⭐ 2,091 | 2026-08-12 | ESP-Claw, a &quot;Chat Coding&quot; AI agent framework for IoT devices |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [u-boot/u-boot](../repos/u-boot/u-boot.md) | ⭐ 5,231 | 2026-08-14 | &quot;Das U-Boot&quot; Source Tree |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/msquic](../repos/microsoft/msquic.md) | ⭐ 4,758 | 2026-08-15 | Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 4,391 | 2026-08-15 | An open and affordable mini quadruped robot based on ESP32. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [screetsec/TheFatRat](../repos/screetsec/TheFatRat.md) | ⭐ 11,466 | 2026-08-15 | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploi... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [raspberrypi/pico-sdk](../repos/raspberrypi/pico-sdk.md) | ⭐ 4,930 | 2026-08-15 |  |
 
 
 ---
@@ -101,13 +101,13 @@
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,935 | 2026-08-02 | 8 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | 6 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,501 | 2026-08-03 | 4 |
-| [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,837 | 2026-09-06 | 2 |
+| [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,863 | 2026-09-06 | 3 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,195 | 2026-08-01 | 4 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 32,007 | 2026-08-17 | 1 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,565 | 2026-08-02 | 5 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 28,487 | 2026-09-01 | 7 |
 | [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,285 | 2026-08-09 | 6 |
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,819 | 2026-08-07 | 16 |
 
 ---
 
@@ -121,7 +121,7 @@
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 16 | ⭐ 42,675 | 2026-08-07 | 2026-09-08 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 16 | ⭐ 27,819 | 2026-08-07 | 2026-09-10 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 15 | ⭐ 6,952 | 2026-08-04 | 2026-09-09 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 14 | ⭐ 16,476 | 2026-08-06 | 2026-09-10 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 15 | ⭐ 16,494 | 2026-08-06 | 2026-09-12 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 12 | ⭐ 75,926 | 2026-08-02 | 2026-09-07 |
 | [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 11 | ⭐ 4,473 | 2026-08-04 | 2026-09-05 |
 | [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | 10 | ⭐ 12,983 | 2026-08-01 | 2026-09-08 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.544Z*
+*Last updated: 2026-09-12T21:01:46.274Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Other |
-| **Stars** | ⭐ 6,745 |
-| **Forks** | 🍴 239 |
-| **Trending Days** | 4 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 7,187 |
+| **Forks** | 🍴 255 |
+| **Trending Days** | 5 |
+| **Peak Rank** | #15 |
 
 | **First Seen** | Aug 26, 2026 |
-| **Last Seen** | Aug 29, 2026 |
+| **Last Seen** | Sep 12, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Sep 12, 2026** — Rank #15 (+137 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Peak Rank**: #15
+- **Trending Days**: 5
 - **Longest Streak**: 4 days
 
 ---
@@ -72,7 +73,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -86,10 +87,10 @@
 #### Metrics
 - **Hidden Gem**: ✓ Yes
 - **Trending Score**: 80&#x2F;100
-- **Historical Rank**: No ranking data
+- **Historical Rank**: Peak: #15
 
 
 ---
 
-*Last updated: 2026-09-10T21:01:43.974Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-09-12T21:01:50.764Z*  
+*Data from 5 trending reports*

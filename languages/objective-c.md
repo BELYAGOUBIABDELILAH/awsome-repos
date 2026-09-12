@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 89
+- **Total Repositories**: 91
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 11 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,099 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [newmarcel/KeepingYouAwake](../repos/newmarcel/KeepingYouAwake.md) | ⭐ 6,898 | 2026-08-02 | 5 |
+| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [erikdoe/ocmock](../repos/erikdoe/ocmock.md) | ⭐ 2,170 | 2026-08-03 | 6 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 719 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,082 | 2026-08-04 | 12 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,747 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,611 | 2026-08-04 | 17 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,610 | 2026-08-04 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,320 | 2026-08-04 | 9 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,319 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,923 | 2026-08-04 | 9 |
+| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,533 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,533 | 2026-08-04 | 9 |
+| [youtube/youtube-ios-player-helper](../repos/youtube/youtube-ios-player-helper.md) | ⭐ 1,707 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bugsnag/bugsnag-cocoa](../repos/bugsnag/bugsnag-cocoa.md) | ⭐ 262 | 2026-08-06 | 10 |
+| [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,441 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mininglamp-OSS/octo-ios](../repos/Mininglamp-OSS/octo-ios.md) | ⭐ 805 | 2026-08-07 | 14 |
+| [bugsnag/bugsnag-cocoa](../repos/bugsnag/bugsnag-cocoa.md) | ⭐ 262 | 2026-08-06 | 11 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | A cross-platform framework using Vue.js |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [BranchMetrics/ios-branch-deep-linking-attribution](../repos/BranchMetrics/ios-branch-deep-linking-attribution.md) | ⭐ 754 | 2026-08-12 | The Branch iOS SDK for deep linking and attribution. Branch helps mobile apps grow with deep link... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tonymillion/Reachability](../repos/tonymillion/Reachability.md) | ⭐ 6,958 | 2026-08-12 | ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in replacement for Apple Reacha... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Subito-it/SBTUITestTunnel](../repos/Subito-it/SBTUITestTunnel.md) | ⭐ 371 | 2026-08-14 | Enable network mocks and more in UI Tests |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SDWebImage/SDWebImageSVGCoder](../repos/SDWebImage/SDWebImageSVGCoder.md) | ⭐ 136 | 2026-08-20 | A SVG coder plugin for SDWebImage, using Apple&#39;s built-in framework |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SDWebImage/SDWebImageAVIFCoder](../repos/SDWebImage/SDWebImageAVIFCoder.md) | ⭐ 66 | 2026-08-20 | A SDWebImage coder plugin to support AVIF(AV1 Image File Format) image |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google/app-check](../repos/google/app-check.md) | ⭐ 45 | 2026-08-21 | Google-internal core components of Firebase App Check. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [uber/ios-snapshot-test-case](../repos/uber/ios-snapshot-test-case.md) | ⭐ 1,864 | 2026-08-22 | Snapshot view unit tests for iOS |
 
 
 ---
@@ -93,17 +93,17 @@
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 26 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,129 | 2026-08-02 | 18 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,611 | 2026-08-04 | 17 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,610 | 2026-08-04 | 18 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,082 | 2026-08-04 | 12 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,923 | 2026-08-04 | 9 |
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,095 | 2026-08-01 | 7 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,099 | 2026-08-01 | 8 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
 | [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,836 | 2026-08-28 | 1 |
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,320 | 2026-08-04 | 9 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,319 | 2026-08-04 | 10 |
 | [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,301 | 2026-08-03 | 9 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
-| [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,453 | 2026-08-06 | 1 |
+| [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,441 | 2026-08-06 | 2 |
 | [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,117 | 2026-08-07 | 6 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
 | [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) | ⭐ 10,643 | 2026-08-06 | 2 |
@@ -123,7 +123,7 @@
 | [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 20 | ⭐ 2,029 | 2026-08-08 | 2026-09-08 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 19 | ⭐ 676 | 2026-08-04 | 2026-09-09 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | 18 | ⭐ 22,129 | 2026-08-02 | 2026-09-08 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | 17 | ⭐ 16,611 | 2026-08-04 | 2026-09-10 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | 18 | ⭐ 16,610 | 2026-08-04 | 2026-09-12 |
 | [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 16 | ⭐ 4,494 | 2026-08-05 | 2026-09-04 |
 
 ---
@@ -219,7 +219,9 @@
 - [schuyler/macdown3000](../repos/schuyler/macdown3000.md) - A modern, lightweight Markdown editor for macOS.
 - [MaikuB/flutter_appauth](../repos/MaikuB/flutter_appauth.md) - A Flutter wrapper for AppAuth iOS and Android SDKs
 - [sonoramac/Sonora](../repos/sonoramac/Sonora.md) - A minimal, beautifully designed music player for OS X.
+- [OneSignal/OneSignal-iOS-SDK](../repos/OneSignal/OneSignal-iOS-SDK.md) - OneSignal makes engaging customers simple and is the fastest, most reliable service to send push ...
+- [button/DeepLinkKit](../repos/button/DeepLinkKit.md) - A splendid route-matching, block-based way to handle your deep links.
 
 ---
 
-*Last updated: 2026-09-10T21:01:37.605Z*
+*Last updated: 2026-09-12T21:01:46.335Z*
