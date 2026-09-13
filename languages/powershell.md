@@ -16,28 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,006 | 2026-08-01 | 18 |
+| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,054 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/work-iq](../repos/microsoft/work-iq.md) | ⭐ 1,001 | 2026-08-01 | 12 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 898 | 2026-08-01 | 25 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [actions/python-versions](../repos/actions/python-versions.md) | ⭐ 242 | 2026-08-03 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [SharePoint/sp-dev-docs](../repos/SharePoint/sp-dev-docs.md) | ⭐ 1,363 | 2026-08-15 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [MicrosoftDocs/power-platform](../repos/MicrosoftDocs/power-platform.md) | ⭐ 520 | 2026-09-04 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [0Chencc/clawgod](../repos/0Chencc/clawgod.md) | ⭐ 2,006 | 2026-09-09 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [microsoft/finops-toolkit](../repos/microsoft/finops-toolkit.md) | ⭐ 601 | 2026-09-10 | 2 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,600 | 2026-08-03 | 21 |
 
 
 ---
@@ -101,7 +83,7 @@
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,538 | 2026-08-04 | 6 |
 | [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,174 | 2026-08-19 | 6 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,119 | 2026-08-01 | 14 |
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,044 | 2026-08-02 | 7 |
+| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,054 | 2026-08-02 | 8 |
 
 ---
 
@@ -111,7 +93,7 @@
 |------------|---------------|-------|------------|-----------|
 | [actions/runner-images](../repos/actions/runner-images.md) | 29 | ⭐ 13,129 | 2026-08-01 | 2026-09-10 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 25 | ⭐ 898 | 2026-08-01 | 2026-09-12 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 20 | ⭐ 1,585 | 2026-08-03 | 2026-09-09 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 21 | ⭐ 1,600 | 2026-08-03 | 2026-09-13 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 18 | ⭐ 35,463 | 2026-08-01 | 2026-09-10 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 18 | ⭐ 6,006 | 2026-08-01 | 2026-09-12 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 17 | ⭐ 8,306 | 2026-08-01 | 2026-09-10 |
@@ -177,4 +159,4 @@
 
 ---
 
-*Last updated: 2026-09-12T21:01:46.342Z*
+*Last updated: 2026-09-13T21:01:32.235Z*

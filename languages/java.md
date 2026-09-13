@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 188
+- **Total Repositories**: 191
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-05
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,704 | 2026-08-01 | 10 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 26,767 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [osmandapp/OsmAnd](../repos/osmandapp/OsmAnd.md) | ⭐ 5,994 | 2026-08-02 | 2 |
+| [bazelbuild/bazel](../repos/bazelbuild/bazel.md) | ⭐ 25,843 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bazelbuild/bazel](../repos/bazelbuild/bazel.md) | ⭐ 25,842 | 2026-08-02 | 5 |
+| [google/guava](../repos/google/guava.md) | ⭐ 51,905 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,225 | 2026-08-04 | 6 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 33,412 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 28,097 | 2026-08-04 | 11 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 14,570 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 33,181 | 2026-08-04 | 10 |
+| [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) | ⭐ 5,394 | 2026-08-10 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,424 | 2026-08-04 | 10 |
+| [apache/iceberg](../repos/apache/iceberg.md) | ⭐ 9,227 | 2026-08-12 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openjdk/jdk](../repos/openjdk/jdk.md) | ⭐ 23,347 | 2026-08-04 | 6 |
+| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,456 | 2026-08-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/doris](../repos/apache/doris.md) | ⭐ 15,896 | 2026-08-05 | 4 |
+| [PojavLauncherTeam/PojavLauncher](../repos/PojavLauncherTeam/PojavLauncher.md) | ⭐ 9,370 | 2026-08-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,366 | 2026-08-05 | 11 |
+| [Card-Forge/forge](../repos/Card-Forge/forge.md) | ⭐ 2,694 | 2026-08-16 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | ⭐ 6,067 | 2026-08-14 | Jetbrains Claude Code and Codex GUI Plugin |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [loks666/get_jobs](../repos/loks666/get_jobs.md) | ⭐ 8,051 | 2026-08-14 | 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dataease/dataease](../repos/dataease/dataease.md) | ⭐ 24,390 | 2026-08-14 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [1Panel-dev/CordysCRM](../repos/1Panel-dev/CordysCRM.md) | ⭐ 2,696 | 2026-08-14 | 🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [648540858/wvp-GB28181-pro](../repos/648540858/wvp-GB28181-pro.md) | ⭐ 7,312 | 2026-08-15 | 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像... |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/fory](../repos/apache/fory.md) | ⭐ 4,490 | 2026-08-15 | A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL,... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PojavLauncherTeam/PojavLauncher](../repos/PojavLauncherTeam/PojavLauncher.md) | ⭐ 9,370 | 2026-08-16 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https:&#x2F;&#x2F;g... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [7723mod/NPatch](../repos/7723mod/NPatch.md) | ⭐ 2,050 | 2026-08-16 | NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Card-Forge/forge](../repos/Card-Forge/forge.md) | ⭐ 2,694 | 2026-08-16 | An unofficial rules engine for the world&#39;s greatest card game. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ReSo7200/InstaEclipse](../repos/ReSo7200/InstaEclipse.md) | ⭐ 1,397 | 2026-08-16 | An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, an... |
 
 
 ---
@@ -96,9 +96,9 @@
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,234 | 2026-08-04 | 6 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,219 | 2026-08-08 | 5 |
-| [google/guava](../repos/google/guava.md) | ⭐ 51,896 | 2026-08-02 | 10 |
+| [google/guava](../repos/google/guava.md) | ⭐ 51,905 | 2026-08-02 | 11 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,671 | 2026-08-04 | 10 |
-| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,363 | 2026-08-12 | 3 |
+| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,456 | 2026-08-12 | 4 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,716 | 2026-08-07 | 5 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,366 | 2026-08-05 | 11 |
@@ -116,13 +116,13 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 17 | ⭐ 5,578 | 2026-08-05 | 2026-09-12 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 14 | ⭐ 26,718 | 2026-08-02 | 2026-09-10 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 15 | ⭐ 26,767 | 2026-08-02 | 2026-09-13 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 13 | ⭐ 74,766 | 2026-08-03 | 2026-09-10 |
+| [google/guava](../repos/google/guava.md) | 11 | ⭐ 51,905 | 2026-08-02 | 2026-09-13 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 11 | ⭐ 28,097 | 2026-08-04 | 2026-09-12 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 11 | ⭐ 33,412 | 2026-08-04 | 2026-09-13 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 11 | ⭐ 41,366 | 2026-08-05 | 2026-09-12 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 10 | ⭐ 13,704 | 2026-08-01 | 2026-09-12 |
-| [google/guava](../repos/google/guava.md) | 10 | ⭐ 51,896 | 2026-08-02 | 2026-08-28 |
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 10 | ⭐ 33,181 | 2026-08-04 | 2026-09-12 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 10 | ⭐ 51,671 | 2026-08-04 | 2026-09-05 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 10 | ⭐ 81,424 | 2026-08-04 | 2026-09-12 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-12T21:01:46.315Z*
+*Last updated: 2026-09-13T21:01:32.206Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 39,490 |
-| **Forks** | 🍴 3,238 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 39,516 |
+| **Forks** | 🍴 3,242 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Sep 12, 2026 |
+| **Last Seen** | Sep 13, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in JavaScript or database-schema*
+*Similar: Check repositories in JavaScript or database*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 5 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`database-schema`](../../topics/database-schema.md) [`diagram-editor`](../../topics/diagram-editor.md) [`editor`](../../topics/editor.md) [`erd`](../../topics/erd.md) [`erdiagram`](../../topics/erdiagram.md) [`indexeddb`](../../topics/indexeddb.md) [`javascript`](../../topics/javascript.md) [`mariadb`](../../topics/mariadb.md) [`oracle-database`](../../topics/oracle-database.md) [`oracle-db`](../../topics/oracle-db.md) [`postgresql`](../../topics/postgresql.md) [`react`](../../topics/react.md) [`sql`](../../topics/sql.md) [`sql-server`](../../topics/sql-server.md) [`sqlite`](../../topics/sqlite.md) [`svg`](../../topics/svg.md) [`tailwindcss`](../../topics/tailwindcss.md) 
+[`database`](../../topics/database.md) [`database-design`](../../topics/database-design.md) [`database-diagram`](../../topics/database-diagram.md) [`database-schema`](../../topics/database-schema.md) [`dbml`](../../topics/dbml.md) [`diagram-editor`](../../topics/diagram-editor.md) [`editor`](../../topics/editor.md) [`er-diagram`](../../topics/er-diagram.md) [`erd`](../../topics/erd.md) [`erdiagram`](../../topics/erdiagram.md) [`indexeddb`](../../topics/indexeddb.md) [`mariadb`](../../topics/mariadb.md) [`mcp`](../../topics/mcp.md) [`oracle-database`](../../topics/oracle-database.md) [`oracle-db`](../../topics/oracle-db.md) [`postgresql`](../../topics/postgresql.md) [`schema-design`](../../topics/schema-design.md) [`sql`](../../topics/sql.md) [`sql-server`](../../topics/sql-server.md) [`sqlite`](../../topics/sqlite.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Web Development` `Frontend Development` `Backend Development` `Databases` `Systems Programming` `Developer Tools` 
+`Artificial Intelligence` `Backend Development` `Databases` `Systems Programming` `Developer Tools` 
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-12T21:01:49.361Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-09-13T21:01:35.177Z*  
+*Data from 8 trending reports*

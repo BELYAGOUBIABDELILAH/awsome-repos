@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 173
+- **Total Repositories**: 175
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-10
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 19,259 | 2026-08-01 | 10 |
+| [git-ai-project/git-ai](../repos/git-ai-project/git-ai.md) | ⭐ 2,682 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [googleworkspace/cli](../repos/googleworkspace/cli.md) | ⭐ 30,958 | 2026-08-01 | 3 |
+| [reacherhq/check-if-email-exists](../repos/reacherhq/check-if-email-exists.md) | ⭐ 9,794 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superradcompany/microsandbox](../repos/superradcompany/microsandbox.md) | ⭐ 8,229 | 2026-08-01 | 5 |
+| [gfx-rs/wgpu](../repos/gfx-rs/wgpu.md) | ⭐ 18,006 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebook/pyrefly](../repos/facebook/pyrefly.md) | ⭐ 6,958 | 2026-08-02 | 2 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 39,743 | 2026-08-10 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bytecodealliance/wasmtime](../repos/bytecodealliance/wasmtime.md) | ⭐ 18,624 | 2026-08-03 | 3 |
+| [waditu/czsc](../repos/waditu/czsc.md) | ⭐ 6,189 | 2026-08-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [reacherhq/check-if-email-exists](../repos/reacherhq/check-if-email-exists.md) | ⭐ 9,729 | 2026-08-03 | 3 |
+| [RyanCodrai/turbovec](../repos/RyanCodrai/turbovec.md) | ⭐ 17,078 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 32,023 | 2026-08-09 | 8 |
+| [rust-lang/rust-analyzer](../repos/rust-lang/rust-analyzer.md) | ⭐ 16,845 | 2026-08-23 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 39,711 | 2026-08-10 | 9 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 7,494 | 2026-08-26 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RyanCodrai/turbovec](../repos/RyanCodrai/turbovec.md) | ⭐ 16,994 | 2026-08-19 | 4 |
+| [raine/workmux](../repos/raine/workmux.md) | ⭐ 2,549 | 2026-09-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 7,187 | 2026-08-26 | 5 |
+| [alphaXiv/OpenResearch](../repos/alphaXiv/OpenResearch.md) | ⭐ 1,989 | 2026-09-10 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pacifio/atlas](../repos/pacifio/atlas.md) | ⭐ 3,191 | 2026-08-14 | Source control for agents. Use multiple coding agents, track their changes and query them in one ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 17,389 | 2026-08-14 |  🚀 通用 AI IDE 账号管理工具：支持 Antigravity &#x2F; Codex &#x2F; GitHub Copilot &#x2F; Windsurf &#x2F; Kiro &#x2F; Cursor &#x2F; Gemini-... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [waditu/czsc](../repos/waditu/czsc.md) | ⭐ 6,090 | 2026-08-14 | 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kenforthewin/atomic](../repos/kenforthewin/atomic.md) | ⭐ 1,889 | 2026-08-14 | Self-hosted, semantically-connected personal knowledge base |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extrem... |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Sollimann/bonsai](../repos/Sollimann/bonsai.md) | ⭐ 949 | 2026-08-17 | Rust implementation of behavior trees for deterministic AI (now with Python bindings) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vectordotdev/vector](../repos/vectordotdev/vector.md) | ⭐ 22,474 | 2026-08-19 | A high-performance observability data pipeline. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [memvid/memvid](../repos/memvid/memvid.md) | ⭐ 16,532 | 2026-08-19 | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory l... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cloudflare/quiche](../repos/cloudflare/quiche.md) | ⭐ 11,781 | 2026-08-19 | 🥧 Savoury implementation of the QUIC transport protocol and HTTP&#x2F;3 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [amadeusprotocol/node](../repos/amadeusprotocol/node.md) | ⭐ 5,133 | 2026-08-19 |  |
 
 
 ---
@@ -119,7 +119,7 @@
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 10 | ⭐ 19,259 | 2026-08-01 | 2026-09-12 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 10 | ⭐ 28,668 | 2026-08-03 | 2026-09-08 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 10 | ⭐ 92,909 | 2026-08-09 | 2026-09-09 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 9 | ⭐ 39,711 | 2026-08-10 | 2026-09-12 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 10 | ⭐ 39,743 | 2026-08-10 | 2026-09-13 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 8 | ⭐ 42,307 | 2026-08-02 | 2026-09-09 |
 | [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 8 | ⭐ 2,853 | 2026-08-05 | 2026-09-09 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 8 | ⭐ 11,156 | 2026-08-09 | 2026-09-08 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-12T21:01:46.351Z*
+*Last updated: 2026-09-13T21:01:32.245Z*

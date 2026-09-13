@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 164,572 |
-| **Forks** | 🍴 34,399 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 165,455 |
+| **Forks** | 🍴 34,553 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Jul 31, 2026 |
-| **Last Seen** | Aug 28, 2026 |
+| **Last Seen** | Sep 13, 2026 |
 
 
 ---
@@ -47,11 +47,12 @@
 
 **Aug 4, 2026** — Rank #2 (+130 ⭐)  
 **Aug 11, 2026** — Rank #12 (+69 ⭐)  
+**Sep 13, 2026** — Rank #19 (+102 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 2 days
 
 ---
@@ -74,9 +75,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 164,572+ stars, strong contributor base |
+| **Community** | Very Active | 165,455+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -95,11 +96,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #2)
 
 
 ---
 
-*Last updated: 2026-09-12T21:01:47.959Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-09-13T21:01:33.865Z*  
+*Data from 6 trending reports*

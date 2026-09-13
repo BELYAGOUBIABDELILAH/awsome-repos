@@ -16,25 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 732 | 2026-08-01 | 32 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 732 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 126 | 2026-08-01 | 14 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 117 | 2026-08-01 | 12 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,412 | 2026-08-02 | 11 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,412 | 2026-08-02 | 12 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [davidanthoff/Electron.jl](../repos/davidanthoff/Electron.jl.md) | ⭐ 96 | 2026-08-14 | Julia wrapper for Electron |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kahliburke/Kaimon.jl](../repos/kahliburke/Kaimon.jl.md) | ⭐ 25 | 2026-08-20 | MCP server giving AI agents full access to Julia&#39;s runtime via a live Gate — code execution, intr... |
@@ -59,9 +50,9 @@
 | [TuringLang/Turing.jl](../repos/TuringLang/Turing.jl.md) | ⭐ 2,246 | 2026-08-12 | 1 |
 | [FluxML/Zygote.jl](../repos/FluxML/Zygote.jl.md) | ⭐ 1,568 | 2026-08-12 | 1 |
 | [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,412 | 2026-08-02 | 11 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,412 | 2026-08-02 | 12 |
 | [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 732 | 2026-08-01 | 32 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 732 | 2026-08-01 | 33 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 719 | 2026-08-07 | 1 |
 | [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | 1 |
@@ -81,11 +72,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 32 | ⭐ 732 | 2026-08-01 | 2026-09-12 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 33 | ⭐ 732 | 2026-08-01 | 2026-09-13 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 15 | ⭐ 46 | 2026-08-02 | 2026-08-25 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 14 | ⭐ 126 | 2026-08-01 | 2026-09-12 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 12 | ⭐ 117 | 2026-08-01 | 2026-09-12 |
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 11 | ⭐ 1,412 | 2026-08-02 | 2026-09-12 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 12 | ⭐ 1,412 | 2026-08-02 | 2026-09-13 |
 | [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | 8 | ⭐ 73 | 2026-08-01 | 2026-08-12 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | 3 | ⭐ 355 | 2026-08-07 | 2026-08-11 |
 | [davidanthoff/Electron.jl](../repos/davidanthoff/Electron.jl.md) | 2 | ⭐ 96 | 2026-08-14 | 2026-08-19 |
@@ -118,4 +109,4 @@
 
 ---
 
-*Last updated: 2026-09-12T21:01:46.319Z*
+*Last updated: 2026-09-13T21:01:32.211Z*

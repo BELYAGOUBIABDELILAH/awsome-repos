@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 200
+- **Total Repositories**: 204
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,61 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 26,582 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) | ⭐ 1,741 | 2026-08-05 | 3 |
+| [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) | ⭐ 2,132 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 31,482 | 2026-08-10 | 4 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 25,971 | 2026-08-07 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 67,255 | 2026-08-11 | 10 |
+| [hydralauncher/hydra](../repos/hydralauncher/hydra.md) | ⭐ 16,931 | 2026-09-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pascalorg/editor](../repos/pascalorg/editor.md) | ⭐ 23,835 | 2026-09-07 | 4 |
+| [alsk1992/CloddsBot](../repos/alsk1992/CloddsBot.md) | ⭐ 2,663 | 2026-09-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vastsa/PI-Desktop](../repos/vastsa/PI-Desktop.md) | ⭐ 3,059 | 2026-09-09 | 3 |
+| [nashsu/llm_wiki](../repos/nashsu/llm_wiki.md) | ⭐ 19,321 | 2026-09-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alsk1992/CloddsBot](../repos/alsk1992/CloddsBot.md) | ⭐ 2,454 | 2026-09-10 | 2 |
+| [nab138/iloader](../repos/nab138/iloader.md) | ⭐ 3,242 | 2026-09-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nashsu/llm_wiki](../repos/nashsu/llm_wiki.md) | ⭐ 19,086 | 2026-09-10 | 2 |
+| [tech-leads-club/agent-skills](../repos/tech-leads-club/agent-skills.md) | ⭐ 5,580 | 2026-09-13 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nab138/iloader](../repos/nab138/iloader.md) | ⭐ 3,058 | 2026-09-12 | 1 |
+| [ColeMurray/background-agents](../repos/ColeMurray/background-agents.md) | ⭐ 3,012 | 2026-09-13 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BuilderIO/agent-native](../repos/BuilderIO/agent-native.md) | ⭐ 4,741 | 2026-09-12 | 1 |
+| [microsoft/AI-Engineering-Coach](../repos/microsoft/AI-Engineering-Coach.md) | ⭐ 4,018 | 2026-09-13 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 87,081 | 2026-08-14 | 🙌 OpenHands: AI-Driven Development |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Jakubantalik/Libraries](../repos/Jakubantalik/Libraries.md) | ⭐ 1,938 | 2026-08-14 | Collection of effects for React: Border beam, Liquid Gooey |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 16,080 | 2026-08-14 | Open source alternative to Semrush and Ahrefs |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [documenso/documenso](../repos/documenso/documenso.md) | ⭐ 14,449 | 2026-08-14 | The Open Source DocuSign Alternative. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vercel-labs/deepsec](../repos/vercel-labs/deepsec.md) | ⭐ 7,657 | 2026-08-14 | Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [upscayl/upscayl](../repos/upscayl/upscayl.md) | ⭐ 48,561 | 2026-08-14 | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dubinc/dub](../repos/dubinc/dub.md) | ⭐ 24,401 | 2026-08-14 | The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexit... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cordiverse/cordis](../repos/cordiverse/cordis.md) | ⭐ 6,099 | 2026-08-15 | Meta-Framework of Spatiotemporal Composability |
@@ -80,6 +59,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [strapi/strapi](../repos/strapi/strapi.md) | ⭐ 72,929 | 2026-08-15 | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript&#x2F;TypeScript, fully customi... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nexmoe/VidBee](../repos/nexmoe/VidBee.md) | ⭐ 10,218 | 2026-08-15 | Download videos from almost any website worldwide |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vuejs/core](../repos/vuejs/core.md) | ⭐ 54,185 | 2026-08-15 | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [elastic/kibana](../repos/elastic/kibana.md) | ⭐ 21,245 | 2026-08-15 | Your window into all of your data |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [liustack/modlens](../repos/liustack/modlens.md) | ⭐ 2,781 | 2026-08-15 | The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding ag... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [calcom/cal.diy](../repos/calcom/cal.diy.md) | ⭐ 47,626 | 2026-08-15 | Scheduling infrastructure for absolutely everyone. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [p2r3/convert](../repos/p2r3/convert.md) | ⭐ 3,867 | 2026-08-15 | Truly universal online file converter |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [remotion-dev/remotion](../repos/remotion-dev/remotion.md) | ⭐ 56,495 | 2026-08-16 | 🎥      Make videos programmatically with React |
 
 
 ---
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 12 | ⭐ 29,827 | 2026-08-02 | 2026-09-06 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 12 | ⭐ 25,971 | 2026-08-07 | 2026-09-13 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 11 | ⭐ 7,365 | 2026-08-01 | 2026-09-10 |
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 11 | ⭐ 22,177 | 2026-08-07 | 2026-08-29 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 11 | ⭐ 48,711 | 2026-08-08 | 2026-09-10 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 10 | ⭐ 131,955 | 2026-08-02 | 2026-09-07 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 10 | ⭐ 67,255 | 2026-08-11 | 2026-09-12 |
 | [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 9 | ⭐ 71,802 | 2026-08-10 | 2026-09-09 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 8 | ⭐ 26,582 | 2026-08-01 | 2026-09-13 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | 8 | ⭐ 102,103 | 2026-08-07 | 2026-09-05 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-12T21:01:46.361Z*
+*Last updated: 2026-09-13T21:01:32.256Z*

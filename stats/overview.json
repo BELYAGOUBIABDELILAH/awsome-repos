@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-12T21:01:51.779Z",
-  "total_repositories": 3301,
-  "trending_today": 409,
-  "new_this_month": 1304,
+  "generated_at": "2026-09-13T21:01:37.589Z",
+  "total_repositories": 3337,
+  "trending_today": 366,
+  "new_this_month": 1254,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-09-12",
+  "last_collection": "2026-09-13",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 38,
+    "trending_days": 39,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "nab138/iloader",
-    "stars": 3058,
-    "first_seen": "2026-09-12"
+    "full_name": "tech-leads-club/agent-skills",
+    "stars": 5580,
+    "first_seen": "2026-09-13"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 48193452,
-  "avg_stars": 14600,
-  "avg_trending_days": 4.8,
-  "language_count": 57,
-  "topic_count": 8896,
+  "total_stars": 48457213,
+  "avg_stars": 14521,
+  "avg_trending_days": 4.9,
+  "language_count": 58,
+  "topic_count": 8978,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

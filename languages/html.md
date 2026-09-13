@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 82
+- **Total Repositories**: 84
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-07
+- **Last Updated**: 2026-09-13
 
 ---
 
@@ -16,34 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 9,214 | 2026-08-03 | 12 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,818 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/fonts](../repos/google/fonts.md) | ⭐ 20,479 | 2026-08-03 | 4 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,978 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | ⭐ 5,076 | 2026-08-06 | 7 |
+| [kubernetes/website](../repos/kubernetes/website.md) | ⭐ 5,384 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [davidarroyo1234/InstagramUnfollowers](../repos/davidarroyo1234/InstagramUnfollowers.md) | ⭐ 4,839 | 2026-08-26 | 5 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,539 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aoaostar/legado](../repos/aoaostar/legado.md) | ⭐ 6,291 | 2026-09-07 | 3 |
+| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | ⭐ 5,089 | 2026-08-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [horilla/horilla-hr](../repos/horilla/horilla-hr.md) | ⭐ 1,405 | 2026-09-12 | 1 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 3,828 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [comfyanonymous/ComfyUI_examples](../repos/comfyanonymous/ComfyUI_examples.md) | ⭐ 4,542 | 2026-09-12 | 1 |
+| [ultrasecurity/Storm-Breaker](../repos/ultrasecurity/Storm-Breaker.md) | ⭐ 5,970 | 2026-08-29 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [horilla/horilla-hr](../repos/horilla/horilla-hr.md) | ⭐ 1,417 | 2026-09-12 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [tinkerhub/useless_project_temp](../repos/tinkerhub/useless_project_temp.md) | ⭐ 42 | 2026-09-13 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [apna-college/Delta](../repos/apna-college/Delta.md) | ⭐ 1,123 | 2026-09-13 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) | ⭐ 1,757 | 2026-08-14 | AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos,... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Arrow-air/project-quiver](../repos/Arrow-air/project-quiver.md) | ⭐ 368 | 2026-08-15 | Project Quiver documentation, designs, and project artifacts. |
@@ -71,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 5,509 | 2026-08-19 | Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
 
 
 ---
@@ -79,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,807 | 2026-08-03 | 9 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,978 | 2026-08-03 | 10 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 135,251 | 2026-08-08 | 11 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,438 | 2026-08-19 | 6 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,728 | 2026-08-01 | 12 |
@@ -98,7 +107,7 @@
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,479 | 2026-08-03 | 4 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
 | [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | 1 |
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,796 | 2026-08-02 | 5 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,818 | 2026-08-02 | 6 |
 
 ---
 
@@ -111,11 +120,11 @@
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 11 | ⭐ 135,251 | 2026-08-08 | 2026-08-25 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 11 | ⭐ 37,645 | 2026-08-12 | 2026-09-10 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 10 | ⭐ 9,776 | 2026-08-01 | 2026-09-03 |
-| [ossu/computer-science](../repos/ossu/computer-science.md) | 9 | ⭐ 208,807 | 2026-08-03 | 2026-09-07 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | 10 | ⭐ 208,978 | 2026-08-03 | 2026-09-13 |
 | [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 8 | ⭐ 9,116 | 2026-08-03 | 2026-09-02 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 8 | ⭐ 27,402 | 2026-08-03 | 2026-09-07 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 8 | ⭐ 26,052 | 2026-08-04 | 2026-09-10 |
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 7 | ⭐ 16,515 | 2026-08-04 | 2026-09-04 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 8 | ⭐ 16,539 | 2026-08-04 | 2026-09-13 |
 
 ---
 
@@ -203,7 +212,9 @@
 - [Guyungy/damaihelper](../repos/Guyungy/damaihelper.md) - 支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本
 - [horilla/horilla-hr](../repos/horilla/horilla-hr.md) - Horilla is a free and open source HR software.
 - [comfyanonymous/ComfyUI_examples](../repos/comfyanonymous/ComfyUI_examples.md) - Examples of ComfyUI workflows
+- [tinkerhub/useless_project_temp](../repos/tinkerhub/useless_project_temp.md) - 
+- [apna-college/Delta](../repos/apna-college/Delta.md) - 
 
 ---
 
-*Last updated: 2026-09-12T21:01:46.310Z*
+*Last updated: 2026-09-13T21:01:32.201Z*

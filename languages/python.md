@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 221
+- **Total Repositories**: 222
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-09
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 137,575 | 2026-08-04 | 3 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,455 | 2026-07-31 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
+| [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 91,449 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jundot/omlx](../repos/jundot/omlx.md) | ⭐ 21,659 | 2026-08-16 | 6 |
+| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 137,924 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ayghri/i-have-adhd](../repos/ayghri/i-have-adhd.md) | ⭐ 43,321 | 2026-08-29 | 5 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 26,463 | 2026-08-22 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jihe520/MathModelAgent](../repos/jihe520/MathModelAgent.md) | ⭐ 5,106 | 2026-09-04 | 2 |
+| [jihe520/MathModelAgent](../repos/jihe520/MathModelAgent.md) | ⭐ 5,328 | 2026-09-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k2-fsa/OmniVoice](../repos/k2-fsa/OmniVoice.md) | ⭐ 12,759 | 2026-09-05 | 4 |
+| [jiji262/douyin-downloader](../repos/jiji262/douyin-downloader.md) | ⭐ 11,325 | 2026-09-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SnailSploit/Claude-Red](../repos/SnailSploit/Claude-Red.md) | ⭐ 3,538 | 2026-09-12 | 1 |
+| [SnailSploit/Claude-Red](../repos/SnailSploit/Claude-Red.md) | ⭐ 4,063 | 2026-09-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multimodal-art-projection/YuE](../repos/multimodal-art-projection/YuE.md) | ⭐ 7,234 | 2026-09-12 | 1 |
+| [multimodal-art-projection/YuE](../repos/multimodal-art-projection/YuE.md) | ⭐ 7,684 | 2026-09-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [petergyang/no-ai-slop](../repos/petergyang/no-ai-slop.md) | ⭐ 8,624 | 2026-09-12 | 1 |
+| [jordan-gibbs/hyperresearch](../repos/jordan-gibbs/hyperresearch.md) | ⭐ 3,200 | 2026-09-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-gemini/gemini-skills](../repos/google-gemini/gemini-skills.md) | ⭐ 4,100 | 2026-09-12 | 1 |
+| [simonlin1212/TradingAgents-astock](../repos/simonlin1212/TradingAgents-astock.md) | ⭐ 3,302 | 2026-09-13 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [megadose/holehe](../repos/megadose/holehe.md) | ⭐ 13,276 | 2026-08-14 | holehe allows you to check if the mail is used on different sites like twitter, instagram and wil... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 💫 Toolkit to help you get started with Spec-Driven Development |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [newton-physics/newton](../repos/newton-physics/newton.md) | ⭐ 5,437 | 2026-08-14 | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically ta... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NVIDIA-NeMo/Automodel](../repos/NVIDIA-NeMo/Automodel.md) | ⭐ 833 | 2026-08-14 | 🚀 Pytorch Distributed native training library for LLMs&#x2F;VLMs with OOTB Hugging Face support |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [volcengine/OpenViking](../repos/volcengine/OpenViking.md) | ⭐ 31,612 | 2026-08-14 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [exo-explore/exo](../repos/exo-explore/exo.md) | ⭐ 46,828 | 2026-08-14 | Run frontier AI locally. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 5,113 | 2026-08-15 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ashishpatel26/500-AI-Agents-Projects](../repos/ashishpatel26/500-AI-Agents-Projects.md) | ⭐ 36,526 | 2026-08-15 | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industrie... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [titanwings/colleague-skill](../repos/titanwings/colleague-skill.md) | ⭐ 23,132 | 2026-08-15 | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It&#39;s giving rebirth e... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [whiteguo233/OpenBiliClaw](../repos/whiteguo233/OpenBiliClaw.md) | ⭐ 2,554 | 2026-08-15 | 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepse... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [xai-org/grok-1](../repos/xai-org/grok-1.md) | ⭐ 52,141 | 2026-08-16 | Grok open release |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [THUDM/slime](../repos/THUDM/slime.md) | ⭐ 8,060 | 2026-08-16 | slime is an LLM post-training framework for RL Scaling. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jundot/omlx](../repos/jundot/omlx.md) | ⭐ 21,659 | 2026-08-16 | LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google-research/timesfm](../repos/google-research/timesfm.md) | ⭐ 31,006 | 2026-08-16 | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ... |
 
 
 ---
@@ -97,9 +97,9 @@
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,163 | 2026-08-06 | 7 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 181,591 | 2026-09-07 | 2 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 174,517 | 2026-08-11 | 6 |
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 164,572 | 2026-07-31 | 5 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,455 | 2026-07-31 | 6 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 144,076 | 2026-08-07 | 11 |
-| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 137,575 | 2026-08-04 | 3 |
+| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 137,924 | 2026-08-04 | 4 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 131,932 | 2026-08-05 | 8 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 118,456 | 2026-08-01 | 10 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-12T21:01:46.345Z*
+*Last updated: 2026-09-13T21:01:32.238Z*

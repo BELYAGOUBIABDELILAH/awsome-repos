@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 91
+- **Total Repositories**: 93
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,099 | 2026-08-01 | 8 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,151 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 12 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 721 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 719 | 2026-08-02 | 13 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 506 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,747 | 2026-08-02 | 7 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,242 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,610 | 2026-08-04 | 18 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,348 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,319 | 2026-08-04 | 10 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,096 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,533 | 2026-08-04 | 10 |
+| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,533 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [youtube/youtube-ios-player-helper](../repos/youtube/youtube-ios-player-helper.md) | ⭐ 1,707 | 2026-08-05 | 2 |
+| [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) | ⭐ 10,637 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,441 | 2026-08-06 | 2 |
+| [alexzielenski/Mousecape](../repos/alexzielenski/Mousecape.md) | ⭐ 2,069 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bugsnag/bugsnag-cocoa](../repos/bugsnag/bugsnag-cocoa.md) | ⭐ 262 | 2026-08-06 | 11 |
+| [LiveContainer/LiveExec32](../repos/LiveContainer/LiveExec32.md) | ⭐ 252 | 2026-09-10 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Subito-it/SBTUITestTunnel](../repos/Subito-it/SBTUITestTunnel.md) | ⭐ 371 | 2026-08-14 | Enable network mocks and more in UI Tests |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Giphy/giphy-ios-sdk](../repos/Giphy/giphy-ios-sdk.md) | ⭐ 132 | 2026-08-15 | Home of the GIPHY SDK iOS example app, along with iOS SDK documentation, issue tracking, &amp; releas... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [uber/ios-snapshot-test-case](../repos/uber/ios-snapshot-test-case.md) | ⭐ 1,864 | 2026-08-22 | Snapshot view unit tests for iOS |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tiktok/tiktok-business-ios-sdk](../repos/tiktok/tiktok-business-ios-sdk.md) | ⭐ 33 | 2026-08-23 |  |
 
 
 ---
@@ -91,23 +91,23 @@
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,385 | 2026-08-02 | 6 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 26 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,129 | 2026-08-02 | 18 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,151 | 2026-08-02 | 19 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,610 | 2026-08-04 | 18 |
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,082 | 2026-08-04 | 12 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,096 | 2026-08-04 | 13 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,923 | 2026-08-04 | 9 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,099 | 2026-08-01 | 8 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
+| [marcuswestin/WebViewJavascriptBridge](../repos/marcuswestin/WebViewJavascriptBridge.md) | ⭐ 14,308 | 2026-09-13 | 1 |
 | [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,836 | 2026-08-28 | 1 |
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,348 | 2026-08-03 | 10 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,319 | 2026-08-04 | 10 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,301 | 2026-08-03 | 9 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,441 | 2026-08-06 | 2 |
 | [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,117 | 2026-08-07 | 6 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
-| [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) | ⭐ 10,643 | 2026-08-06 | 2 |
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,678 | 2026-08-01 | 13 |
+| [bang590/JSPatch](../repos/bang590/JSPatch.md) | ⭐ 11,324 | 2026-09-13 | 1 |
 
 ---
 
@@ -121,8 +121,8 @@
 | [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 25 | ⭐ 292 | 2026-08-01 | 2026-09-09 |
 | [google/promises](../repos/google/promises.md) | 24 | ⭐ 3,830 | 2026-08-01 | 2026-09-09 |
 | [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 20 | ⭐ 2,029 | 2026-08-08 | 2026-09-08 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 19 | ⭐ 22,151 | 2026-08-02 | 2026-09-13 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 19 | ⭐ 676 | 2026-08-04 | 2026-09-09 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 18 | ⭐ 22,129 | 2026-08-02 | 2026-09-08 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 18 | ⭐ 16,610 | 2026-08-04 | 2026-09-12 |
 | [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 16 | ⭐ 4,494 | 2026-08-05 | 2026-09-04 |
 
@@ -221,7 +221,9 @@
 - [sonoramac/Sonora](../repos/sonoramac/Sonora.md) - A minimal, beautifully designed music player for OS X.
 - [OneSignal/OneSignal-iOS-SDK](../repos/OneSignal/OneSignal-iOS-SDK.md) - OneSignal makes engaging customers simple and is the fastest, most reliable service to send push ...
 - [button/DeepLinkKit](../repos/button/DeepLinkKit.md) - A splendid route-matching, block-based way to handle your deep links.
+- [marcuswestin/WebViewJavascriptBridge](../repos/marcuswestin/WebViewJavascriptBridge.md) - An iOS&#x2F;OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews&#x2F;WebViews
+- [bang590/JSPatch](../repos/bang590/JSPatch.md) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objecti...
 
 ---
 
-*Last updated: 2026-09-12T21:01:46.335Z*
+*Last updated: 2026-09-13T21:01:32.228Z*

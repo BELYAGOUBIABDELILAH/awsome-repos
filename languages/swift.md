@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 103
+- **Total Repositories**: 105
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-09
 
@@ -16,46 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 12,093 | 2026-08-01 | 16 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 12,118 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,904 | 2026-08-04 | 5 |
+| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,907 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/iOS](../repos/home-assistant/iOS.md) | ⭐ 2,347 | 2026-08-04 | 2 |
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,218 | 2026-08-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,927 | 2026-08-08 | 5 |
+| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 3,060 | 2026-09-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 2,085 | 2026-08-12 | 8 |
+| [Manic-EMU/ManicEMU](../repos/Manic-EMU/ManicEMU.md) | ⭐ 501 | 2026-09-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 2,971 | 2026-09-01 | 5 |
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 663 | 2026-09-13 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [samhenrigold/LidAngleSensor](../repos/samhenrigold/LidAngleSensor.md) | ⭐ 4,218 | 2026-09-12 | 1 |
+| [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ggbond268/MacTools](../repos/ggbond268/MacTools.md) | ⭐ 1,033 | 2026-08-14 | A free and open-source collection of native macOS menu bar tools.  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jellyfin/Swiftfin](../repos/jellyfin/Swiftfin.md) | ⭐ 4,125 | 2026-08-14 | Native Jellyfin Client for iOS and tvOS  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [JerryZLiu/Dayflow](../repos/JerryZLiu/Dayflow.md) | ⭐ 7,085 | 2026-08-14 | The automatic work journal&#x2F;time tracker. Privately turns your screen into a timeline of what you ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openai/tart](../repos/openai/tart.md) | ⭐ 6,661 | 2026-08-14 | macOS and Linux VMs on Apple Silicon to use in CI and other automations |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | A Swift Autolayout DSL for iOS &amp; OS X |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [stripe/stripe-ios](../repos/stripe/stripe-ios.md) | ⭐ 2,562 | 2026-08-15 | Stripe iOS SDK     |
@@ -71,6 +56,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [minsang-alt/PasteClip](../repos/minsang-alt/PasteClip.md) | ⭐ 125 | 2026-08-17 | Free, open-source clipboard manager for macOS. Native Paste alternative with card UI, Pinboards, ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,422 | 2026-08-17 | Build your own &#39;AirTags&#39; 🏷 today! Framework for tracking personal Bluetooth devices via Apple&#39;s ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,327 | 2026-08-17 | AltStore is an alternative app store for non-jailbroken iOS devices. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [signerlabs/ShipSwift](../repos/signerlabs/ShipSwift.md) | ⭐ 2,941 | 2026-08-17 | AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NodePassProject/Anywhere](../repos/NodePassProject/Anywhere.md) | ⭐ 2,320 | 2026-08-17 | The best native proxy client for iOS, iPadOS, macOS, and tvOS. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [leminlimez/Pocket-Poster](../repos/leminlimez/Pocket-Poster.md) | ⭐ 441 | 2026-08-17 | Custom PosterBoard Wallpapers for iOS 17-26.1 |
 
 
 ---
@@ -82,7 +82,7 @@
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,331 | 2026-08-05 | 11 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | 2026-09-04 | 1 |
 | [apple/container](../repos/apple/container.md) | ⭐ 49,834 | 2026-08-01 | 13 |
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 35,843 | 2026-08-12 | 5 |
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,218 | 2026-08-12 | 6 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,109 | 2026-09-01 | 2 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,992 | 2026-08-01 | 11 |
@@ -91,6 +91,7 @@
 | [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,536 | 2026-08-12 | 7 |
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
+| [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,116 | 2026-09-06 | 1 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,892 | 2026-08-04 | 12 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
@@ -98,7 +99,6 @@
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,327 | 2026-08-17 | 7 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,244 | 2026-08-08 | 6 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | 2026-08-01 | 3 |
-| [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,422 | 2026-08-17 | 2 |
 
 ---
 
@@ -106,7 +106,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 16 | ⭐ 12,093 | 2026-08-01 | 2026-09-12 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 17 | ⭐ 12,118 | 2026-08-01 | 2026-09-13 |
 | [apple/container](../repos/apple/container.md) | 13 | ⭐ 49,834 | 2026-08-01 | 2026-09-10 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 12 | ⭐ 14,892 | 2026-08-04 | 2026-08-29 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 11 | ⭐ 26,992 | 2026-08-01 | 2026-09-10 |
@@ -224,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-09-12T21:01:46.359Z*
+*Last updated: 2026-09-13T21:01:32.253Z*

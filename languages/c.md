@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 181
+- **Total Repositories**: 185
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 18,996 | 2026-08-02 | 7 |
+| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,228 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,684 | 2026-08-03 | 5 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,380 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FRRouting/frr](../repos/FRRouting/frr.md) | ⭐ 4,288 | 2026-08-05 | 9 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 19,005 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,494 | 2026-08-06 | 15 |
+| [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) | ⭐ 690 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 19,002 | 2026-08-12 | 9 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,386 | 2026-08-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 4,391 | 2026-08-15 | 7 |
+| [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) | ⭐ 15,388 | 2026-08-15 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CTCaer/hekate](../repos/CTCaer/hekate.md) | ⭐ 8,678 | 2026-08-16 | 2 |
+| [coop-deluxe/sm64coopdx](../repos/coop-deluxe/sm64coopdx.md) | ⭐ 1,349 | 2026-08-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bol-van/zapret2](../repos/bol-van/zapret2.md) | ⭐ 5,438 | 2026-08-16 | 5 |
+| [HarbourMasters/Shipwright](../repos/HarbourMasters/Shipwright.md) | ⭐ 5,385 | 2026-08-24 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nmap/nmap](../repos/nmap/nmap.md) | ⭐ 13,571 | 2026-08-19 | 2 |
+| [capstone-engine/capstone](../repos/capstone-engine/capstone.md) | ⭐ 9,014 | 2026-08-29 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sabrogden/Ditto](../repos/sabrogden/Ditto.md) | ⭐ 7,127 | 2026-08-20 | 4 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 29,582 | 2026-09-01 | 8 |
 
 
 ---
@@ -52,22 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [u-boot/u-boot](../repos/u-boot/u-boot.md) | ⭐ 5,231 | 2026-08-14 | &quot;Das U-Boot&quot; Source Tree |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [eclipse-mosquitto/mosquitto](../repos/eclipse-mosquitto/mosquitto.md) | ⭐ 11,134 | 2026-08-14 | Eclipse Mosquitto - An open source MQTT broker |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [xmrig/xmrig](../repos/xmrig/xmrig.md) | ⭐ 10,112 | 2026-08-14 | RandomX, KawPow, CryptoNight and GhostRider unified CPU&#x2F;GPU miner and RandomX benchmark |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nuta/operating-system-in-1000-lines](../repos/nuta/operating-system-in-1000-lines.md) | ⭐ 3,589 | 2026-08-14 | Writing an OS in 1,000 lines. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [superturtlee/gbl_root_canoe](../repos/superturtlee/gbl_root_canoe.md) | ⭐ 988 | 2026-08-14 | No TrickyStore on Canoe |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) | ⭐ 15,008 | 2026-08-15 | 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital hu... |
+| [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) | ⭐ 15,388 | 2026-08-15 | 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital hu... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/msquic](../repos/microsoft/msquic.md) | ⭐ 4,758 | 2026-08-15 | Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust. |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [raspberrypi/pico-sdk](../repos/raspberrypi/pico-sdk.md) | ⭐ 4,930 | 2026-08-15 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [gentilkiwi/mimikatz](../repos/gentilkiwi/mimikatz.md) | ⭐ 21,777 | 2026-08-16 | A little tool to play with Windows security |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CTCaer/hekate](../repos/CTCaer/hekate.md) | ⭐ 8,678 | 2026-08-16 | hekate - A GUI based Nintendo Switch Bootloader |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [reactos/reactos](../repos/reactos/reactos.md) | ⭐ 17,974 | 2026-08-16 | A free Windows-compatible Operating System |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bol-van/zapret2](../repos/bol-van/zapret2.md) | ⭐ 5,438 | 2026-08-16 | anti-dpi software |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [OpenIPC/firmware](../repos/OpenIPC/firmware.md) | ⭐ 2,139 | 2026-08-16 | Alternative IP Camera firmware from an open community |
 
 
 ---
@@ -96,7 +96,7 @@
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 70,404 | 2026-08-01 | 17 |
 | [git/git](../repos/git/git.md) | ⭐ 63,088 | 2026-08-05 | 5 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,675 | 2026-08-07 | 16 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 40,365 | 2026-08-01 | 5 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,380 | 2026-08-01 | 6 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,935 | 2026-08-02 | 8 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | 6 |
@@ -106,8 +106,8 @@
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 32,007 | 2026-08-17 | 1 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,565 | 2026-08-02 | 5 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 28,487 | 2026-09-01 | 7 |
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,285 | 2026-08-09 | 6 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 29,582 | 2026-09-01 | 8 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,386 | 2026-08-09 | 7 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-12T21:01:46.274Z*
+*Last updated: 2026-09-13T21:01:32.162Z*

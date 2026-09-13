@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 129
+- **Total Repositories**: 130
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,52 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 31,495 | 2026-08-01 | 15 |
+| [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | ⭐ 8,744 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 39,490 | 2026-08-06 | 7 |
+| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 6,161 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 29,562 | 2026-08-27 | 5 |
+| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 11,276 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mekos2772/ios-location-spoofer](../repos/mekos2772/ios-location-spoofer.md) | ⭐ 3,995 | 2026-09-07 | 2 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 39,516 | 2026-08-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [0xranx/OpenContext](../repos/0xranx/OpenContext.md) | ⭐ 1,117 | 2026-09-12 | 1 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 31,660 | 2026-08-27 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sandeco/reversa](../repos/sandeco/reversa.md) | ⭐ 1,597 | 2026-09-12 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [QuiteAFancyEmerald/InvisiProxy](../repos/QuiteAFancyEmerald/InvisiProxy.md) | ⭐ 1,552 | 2026-09-12 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 4,348 | 2026-09-12 | 1 |
+| [shaun8149/sdf-js](../repos/shaun8149/sdf-js.md) | ⭐ 269 | 2026-09-13 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 15,650 | 2026-08-14 | The fastest browser for AI agents to run browser automation, built for sharing your logged-in bro... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 38,608 | 2026-08-14 | Community-contributed instructions, agents, skills, and configurations to help you make the most ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 3,084 | 2026-08-14 | 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes vide... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) | ⭐ 7,801 | 2026-08-14 | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dataease/SQLBot](../repos/dataease/SQLBot.md) | ⭐ 6,671 | 2026-08-14 | 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [WebKit/WebKit](../repos/WebKit/WebKit.md) | ⭐ 10,069 | 2026-08-14 | Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other app... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OpenSignLabs/OpenSign](../repos/OpenSignLabs/OpenSign.md) | ⭐ 6,847 | 2026-08-15 | 🔥 The free &amp; Open Source DocuSign alternative |
@@ -74,6 +50,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [IRNova/Nova-Proxy](../repos/IRNova/Nova-Proxy.md) | ⭐ 3,047 | 2026-08-16 | یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 19,785 | 2026-08-16 | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 &#x2F; 阿里云盘 &#x2F; 中国移动云盘 &#x2F; 天翼云盘 &#x2F; 迅雷云盘 &#x2F; 夸克网盘 &#x2F; UC网盘... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [babalae/bettergi-scripts-list](../repos/babalae/bettergi-scripts-list.md) | ⭐ 515 | 2026-08-16 | BetterGI 的脚本仓库，内含BetterGI 的JS脚本、路径追踪、战斗策略、七圣召唤策略。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [leaningtech/webvm](../repos/leaningtech/webvm.md) | ⭐ 17,307 | 2026-08-17 | Virtual Machine for the Web |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [liyupi/ai-guide](../repos/liyupi/ai-guide.md) | ⭐ 18,826 | 2026-08-19 | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek &#x2F; GPT &#x2F; Gemini &#x2F; Claude &#x2F; GLM... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 30,876 | 2026-08-19 | Vercel&#39;s official collection of agent skills |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Darkatse/TauriTavern](../repos/Darkatse/TauriTavern.md) | ⭐ 1,344 | 2026-08-19 | The classic Sillytavern, now has been rewritten in Tauri&#x2F;Rust. |
 
 
 ---
@@ -227,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-09-12T21:01:46.317Z*
+*Last updated: 2026-09-13T21:01:32.209Z*

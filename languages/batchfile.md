@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Flowseal/zapret-discord-youtube](../repos/Flowseal/zapret-discord-youtube.md) | ⭐ 33,199 | 2026-09-12 | 1 |
 
+*No Batchfile repositories trending today*
 
 ---
 
@@ -52,4 +50,4 @@
 
 ---
 
-*Last updated: 2026-09-12T21:01:46.271Z*
+*Last updated: 2026-09-13T21:01:32.160Z*

@@ -1,0 +1,95 @@
+# Swordfish90&#x2F;cool-retro-term
+
+> A good looking terminal emulator which mimics the old cathode display...
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Swordfish90&#x2F;cool-retro-term) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | QML |
+| **License** | Not specified |
+| **Stars** | ⭐ 26,198 |
+| **Forks** | 🍴 1,015 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #18 |
+
+| **First Seen** | Sep 13, 2026 |
+| **Last Seen** | Sep 13, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in QML or linux*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #18
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`linux`](../../topics/linux.md) [`macos`](../../topics/macos.md) [`qml`](../../topics/qml.md) [`qt`](../../topics/qt.md) [`retro`](../../topics/retro.md) [`terminal`](../../topics/terminal.md) 
+
+### Curated Categories
+`Artificial Intelligence` `Systems Programming` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
+| **Maturity** | Stable | Mature with proven track record |
+| **Maintenance** | Slow | Occasional updates |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in QML
+
+#### Metrics
+- **Hidden Gem**: ✗ No
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: Peak: #18
+
+
+---
+
+*Last updated: 2026-09-13T21:01:37.145Z*  
+*Data from 1 trending reports*

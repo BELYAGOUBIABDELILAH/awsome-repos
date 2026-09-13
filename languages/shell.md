@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 104
+- **Total Repositories**: 106
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,55 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openshift/release](../repos/openshift/release.md) | ⭐ 329 | 2026-08-04 | 4 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,261 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 7,792 | 2026-08-04 | 6 |
+| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,602 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,167 | 2026-08-04 | 14 |
+| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,317 | 2026-08-08 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,520 | 2026-08-07 | 20 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,222 | 2026-08-20 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,299 | 2026-08-08 | 8 |
+| [sabamdarif/termux-desktop](../repos/sabamdarif/termux-desktop.md) | ⭐ 2,252 | 2026-09-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,243 | 2026-08-11 | 6 |
+| [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](../repos/FiorenMas/Revanced-And-Revanced-Extended-Non-Root.md) | ⭐ 2,694 | 2026-09-13 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sergeydigl3/zapret-discord-youtube-linux](../repos/Sergeydigl3/zapret-discord-youtube-linux.md) | ⭐ 1,996 | 2026-08-16 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [bioconda/bioconda-recipes](../repos/bioconda/bioconda-recipes.md) | ⭐ 1,869 | 2026-08-25 | 2 |
+| [MichaIng/DietPi](../repos/MichaIng/DietPi.md) | ⭐ 6,259 | 2026-09-13 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vinvcn/mattpocock-skills-zh-CN](../repos/vinvcn/mattpocock-skills-zh-CN.md) | ⭐ 3,667 | 2026-08-14 | 这是 mattpocock&#x2F;skills 的简体中文本地化版本。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [harbor-framework/terminal-bench-2-1](../repos/harbor-framework/terminal-bench-2-1.md) | ⭐ 73 | 2026-08-14 | Terminal-Bench 2.1 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [qemus/qemu](../repos/qemus/qemu.md) | ⭐ 2,090 | 2026-08-14 | QEMU in a Docker container. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [wondelai/skills](../repos/wondelai/skills.md) | ⭐ 1,970 | 2026-08-14 | Wondel.ai Agent Skills — Business, Marketing, UX &amp; Coding Frameworks from Bestselling Books. 50 s... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [DaoCloud/public-image-mirror](../repos/DaoCloud/public-image-mirror.md) | ⭐ 14,853 | 2026-08-14 | 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/adk-docs](../repos/google/adk-docs.md) | ⭐ 1,488 | 2026-08-14 | An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agent... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [wolfi-dev/os](../repos/wolfi-dev/os.md) | ⭐ 1,276 | 2026-08-14 | Main package repository for production Wolfi images |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Lifecycle-Innovations-Limited/claude-ops](../repos/Lifecycle-Innovations-Limited/claude-ops.md) | ⭐ 164 | 2026-08-15 | Business operating system for Claude Code — 57 skills, 21 agents, smart daemon. Unified inbox (Wh... |
@@ -74,6 +50,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) | ⭐ 2,228 | 2026-08-15 | Bonsai Demo |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Security-Onion-Solutions/securityonion](../repos/Security-Onion-Solutions/securityonion.md) | ⭐ 4,819 | 2026-08-15 | Security Onion is a free and open platform for threat hunting, enterprise security monitoring, an... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pwnerblu/surrealra1n](../repos/pwnerblu/surrealra1n.md) | ⭐ 248 | 2026-08-16 | Tether downgrade tool (iOS 7.0-17.6.1) for some checkm8&#x2F;usbliter8 64bit devices. Some restores ma... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Sergeydigl3/zapret-discord-youtube-linux](../repos/Sergeydigl3/zapret-discord-youtube-linux.md) | ⭐ 1,996 | 2026-08-16 | Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SHORiN-KiWATA/Shorin-ArchLinux-Guide](../repos/SHORiN-KiWATA/Shorin-ArchLinux-Guide.md) | ⭐ 2,422 | 2026-08-16 | 【2026最适合新手的Arch Linux教程】具体内容包括：系统安装教程、win+linux双系统、N卡驱动、桌面环境、中文输入法、Linux玩游戏、常用虚拟机程序、显卡直通、干净删除linux等。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vinceliuice/grub2-themes](../repos/vinceliuice/grub2-themes.md) | ⭐ 4,573 | 2026-08-16 | Modern Design theme for Grub2 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 2,537 | 2026-08-19 | OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,222 | 2026-08-20 | binary releases of VS Code without MS branding&#x2F;telemetry&#x2F;licensing |
 
 
 ---
@@ -86,11 +83,11 @@
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,062 | 2026-08-01 | 25 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,417 | 2026-08-04 | 6 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,180 | 2026-08-06 | 8 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,261 | 2026-08-06 | 9 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,582 | 2026-08-04 | 6 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 40,042 | 2026-08-29 | 3 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,130 | 2026-08-20 | 7 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,222 | 2026-08-20 | 8 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,563 | 2026-09-02 | 2 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
@@ -118,7 +115,7 @@
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 10 | ⭐ 2,258 | 2026-08-02 | 2026-09-10 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 9 | ⭐ 25,582 | 2026-08-04 | 2026-09-01 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 9 | ⭐ 2,796 | 2026-08-05 | 2026-09-07 |
-| [dockur/windows](../repos/dockur/windows.md) | 8 | ⭐ 53,180 | 2026-08-06 | 2026-09-06 |
+| [dockur/windows](../repos/dockur/windows.md) | 9 | ⭐ 53,261 | 2026-08-06 | 2026-09-13 |
 
 ---
 
@@ -227,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-09-12T21:01:46.355Z*
+*Last updated: 2026-09-13T21:01:32.250Z*

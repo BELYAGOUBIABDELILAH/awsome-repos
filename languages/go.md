@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 238
+- **Total Repositories**: 240
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-09-08
 
@@ -16,61 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 22,642 | 2026-08-01 | 15 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 22,841 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kserve/kserve](../repos/kserve/kserve.md) | ⭐ 5,883 | 2026-08-01 | 2 |
+| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | ⭐ 35,527 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | ⭐ 35,519 | 2026-08-02 | 7 |
+| [authelia/authelia](../repos/authelia/authelia.md) | ⭐ 28,948 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 23,367 | 2026-08-06 | 7 |
+| [restic/restic](../repos/restic/restic.md) | ⭐ 36,032 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [navidrome/navidrome](../repos/navidrome/navidrome.md) | ⭐ 23,490 | 2026-08-08 | 4 |
+| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 37,957 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trufflesecurity/trufflehog](../repos/trufflesecurity/trufflehog.md) | ⭐ 27,843 | 2026-08-12 | 3 |
+| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 7,364 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 23,892 | 2026-08-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 12,183 | 2026-08-19 | 6 |
+| [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [milvus-io/milvus](../repos/milvus-io/milvus.md) | ⭐ 46,074 | 2026-08-19 | 5 |
+| [charmbracelet/crush](../repos/charmbracelet/crush.md) | ⭐ 28,052 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 22,693 | 2026-08-20 | 7 |
+| [navidrome/navidrome](../repos/navidrome/navidrome.md) | ⭐ 23,528 | 2026-08-08 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [astaxie/TokenHub](../repos/astaxie/TokenHub.md) | ⭐ 1,159 | 2026-08-14 | TokenHub gives enterprises a private gateway to unify AI model access and governance, making ever... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [palemoky/chinese-poetry-api](../repos/palemoky/chinese-poetry-api.md) | ⭐ 2,521 | 2026-08-14 | 📜 诗泉：高性能中国古诗词 API 服务 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [oseghalep/cloud-cost-optimization-hub](../repos/oseghalep/cloud-cost-optimization-hub.md) | ⭐ 282 | 2026-08-14 | Cloud Cost Optimization Hub is an open-source, self-hosted platform that provides unified cost vi... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [juicedata/juicefs](../repos/juicedata/juicefs.md) | ⭐ 14,319 | 2026-08-14 | JuiceFS is a distributed POSIX file system built on top of Redis and S3. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [futrx-com/remote.futrx](../repos/futrx-com/remote.futrx.md) | ⭐ 227 | 2026-08-14 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kedacore/keda](../repos/kedacore/keda.md) | ⭐ 10,493 | 2026-08-14 |  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale fo... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [knadh/listmonk](../repos/knadh/listmonk.md) | ⭐ 22,908 | 2026-08-14 | High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Singl... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,971 | 2026-08-15 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
@@ -80,6 +59,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [compozy/compozy](../repos/compozy/compozy.md) | ⭐ 2,694 | 2026-08-15 | An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Ge... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [opentofu/opentofu](../repos/opentofu/opentofu.md) | ⭐ 30,060 | 2026-08-15 | OpenTofu lets you declaratively manage your cloud infrastructure. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ViRb3/wgcf](../repos/ViRb3/wgcf.md) | ⭐ 8,613 | 2026-08-16 | 🚤 Cross-platform, unofficial CLI for Cloudflare Warp |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [velero-io/velero](../repos/velero-io/velero.md) | ⭐ 10,233 | 2026-08-16 | Backup and migrate Kubernetes applications and their persistent volumes |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [seakee/CPA-Manager-Plus](../repos/seakee/CPA-Manager-Plus.md) | ⭐ 3,192 | 2026-08-16 | A self-hosted CPA &#x2F; CLIProxyAPI management panel and AI gateway observability dashboard for reque... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Gitlawb/zero](../repos/Gitlawb/zero.md) | ⭐ 1,544 | 2026-08-16 | The coding agent that answers to you, your model, your machine, your rules. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [strelov1/freehire](../repos/strelov1/freehire.md) | ⭐ 394 | 2026-08-17 | freehire — the open-source search engine for job seekers |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mickael-kerjean/filestash](../repos/mickael-kerjean/filestash.md) | ⭐ 14,499 | 2026-08-17 | :file_folder: Universal File Storage Client |
 
 
 ---
@@ -95,10 +95,10 @@
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 90,459 | 2026-08-06 | 9 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
-| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,444 | 2026-08-12 | 6 |
+| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,506 | 2026-08-12 | 7 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | 2026-08-03 | 3 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 72,088 | 2026-08-04 | 4 |
-| [nektos/act](../repos/nektos/act.md) | ⭐ 71,410 | 2026-08-07 | 1 |
+| [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | 2026-08-07 | 2 |
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,012 | 2026-08-11 | 5 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
@@ -115,7 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 15 | ⭐ 22,642 | 2026-08-01 | 2026-09-12 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 16 | ⭐ 22,841 | 2026-08-01 | 2026-09-13 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 13 | ⭐ 47,824 | 2026-08-01 | 2026-09-10 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 13 | ⭐ 180,475 | 2026-08-01 | 2026-09-08 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 13 | ⭐ 41,150 | 2026-08-07 | 2026-09-10 |
@@ -123,8 +123,8 @@
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 10 | ⭐ 48,995 | 2026-08-01 | 2026-09-05 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 10 | ⭐ 1,756 | 2026-08-02 | 2026-09-04 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 9 | ⭐ 90,459 | 2026-08-06 | 2026-09-10 |
+| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 8 | ⭐ 35,527 | 2026-08-02 | 2026-09-13 |
 | [superplanehq/superplane](../repos/superplanehq/superplane.md) | 8 | ⭐ 7,018 | 2026-08-02 | 2026-09-10 |
-| [gastownhall/beads](../repos/gastownhall/beads.md) | 8 | ⭐ 26,920 | 2026-08-04 | 2026-09-05 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-12T21:01:46.306Z*
+*Last updated: 2026-09-13T21:01:32.196Z*

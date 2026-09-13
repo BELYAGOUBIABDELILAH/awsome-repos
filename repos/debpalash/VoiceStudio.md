@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 18,880 |
-| **Forks** | 🍴 2,428 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 26,463 |
+| **Forks** | 🍴 3,267 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Aug 22, 2026 |
-| **Last Seen** | Sep 5, 2026 |
+| **Last Seen** | Sep 13, 2026 |
 
 
 ---
@@ -47,11 +47,12 @@
 **Sep 2, 2026** — Rank #4 (+834 ⭐)  
 **Sep 3, 2026** — Rank #17 (+1738 ⭐)  
 **Sep 4, 2026** — Rank #12 (+1345 ⭐)  
+**Sep 13, 2026** — Rank #12 (+2546 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 5 days
 
 ---
@@ -76,7 +77,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -88,12 +89,12 @@
 - Check similar projects in Python
 
 #### Metrics
-- **Hidden Gem**: ✓ Yes
+- **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #4)
 
 
 ---
 
-*Last updated: 2026-09-12T21:01:50.574Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-09-13T21:01:36.331Z*  
+*Data from 8 trending reports*
