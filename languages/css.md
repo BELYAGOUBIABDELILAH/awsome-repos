@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 65
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-09
+- **Last Updated**: 2026-09-14
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 920 | 2026-08-01 | 27 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,263 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,432 | 2026-08-01 | 34 |
+| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,269 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,513 | 2026-08-05 | 15 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 920 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AumGupta/abyss-jellyfin](../repos/AumGupta/abyss-jellyfin.md) | ⭐ 663 | 2026-08-05 | 12 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,604 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 4,956 | 2026-08-10 | 10 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,419 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mingw-w64/mingw-w64.github.io](../repos/mingw-w64/mingw-w64.github.io.md) | ⭐ 1,025 | 2026-08-22 | 4 |
+| [AumGupta/abyss-jellyfin](../repos/AumGupta/abyss-jellyfin.md) | ⭐ 668 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CDCgov/prime-reportstream](../repos/CDCgov/prime-reportstream.md) | ⭐ 83 | 2026-09-13 | 1 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,787 | 2026-08-06 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [mingw-w64/mingw-w64.github.io](../repos/mingw-w64/mingw-w64.github.io.md) | ⭐ 1,026 | 2026-08-22 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AcademySoftwareFoundation/OpenPBR](../repos/AcademySoftwareFoundation/OpenPBR.md) | ⭐ 774 | 2026-08-15 | Specification and reference implementation for the OpenPBR Surface shading model |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | :octocat: Dark GitHub style |
@@ -64,13 +64,16 @@
 | [adobe/spectrum-css](../repos/adobe/spectrum-css.md) | ⭐ 1,288 | 2026-08-22 | The standard CSS implementation of the Spectrum design language. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mingw-w64/mingw-w64.github.io](../repos/mingw-w64/mingw-w64.github.io.md) | ⭐ 1,025 | 2026-08-22 | mingw-w64.net web page contents (The new web page) |
+| [mingw-w64/mingw-w64.github.io](../repos/mingw-w64/mingw-w64.github.io.md) | ⭐ 1,026 | 2026-08-22 | mingw-w64.net web page contents (The new web page) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | List of awesome CSS frameworks in 2026 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) | ⭐ 7,332 | 2026-08-24 | ❤️静态响应式网址导航网站 - webstack.cc |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ayusharma/birthday](../repos/ayusharma/birthday.md) | ⭐ 1,290 | 2026-08-27 | A Happy Birthday animation design in CSS3, HTML5  |
 
 
 ---
@@ -79,16 +82,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,782 | 2026-08-06 | 12 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,787 | 2026-08-06 | 13 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,525 | 2026-08-01 | 9 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,313 | 2026-08-04 | 19 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,286 | 2026-08-02 | 19 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,604 | 2026-08-02 | 20 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,596 | 2026-08-04 | 3 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,330 | 2026-08-02 | 18 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,239 | 2026-08-01 | 17 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,419 | 2026-08-02 | 19 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,263 | 2026-08-01 | 18 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,807 | 2026-08-04 | 6 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,633 | 2026-08-06 | 9 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,481 | 2026-08-09 | 2 |
@@ -96,7 +99,7 @@
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,513 | 2026-08-05 | 15 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,363 | 2026-09-02 | 4 |
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,259 | 2026-08-01 | 13 |
+| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,269 | 2026-08-01 | 14 |
 | [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,414 | 2026-08-03 | 4 |
 | [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,319 | 2026-08-08 | 7 |
 
@@ -107,15 +110,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 34 | ⭐ 1,432 | 2026-08-01 | 2026-09-13 |
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 27 | ⭐ 920 | 2026-08-01 | 2026-09-13 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 28 | ⭐ 920 | 2026-08-01 | 2026-09-14 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 21 | ⭐ 1,408 | 2026-08-01 | 2026-08-29 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 19 | ⭐ 28,286 | 2026-08-02 | 2026-09-08 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 20 | ⭐ 28,604 | 2026-08-02 | 2026-09-14 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 19 | ⭐ 12,419 | 2026-08-02 | 2026-09-14 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 19 | ⭐ 45,313 | 2026-08-04 | 2026-09-12 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 18 | ⭐ 12,330 | 2026-08-02 | 2026-09-10 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 17 | ⭐ 12,239 | 2026-08-01 | 2026-09-08 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 18 | ⭐ 12,263 | 2026-08-01 | 2026-09-14 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 15 | ⭐ 9,513 | 2026-08-05 | 2026-09-13 |
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 13 | ⭐ 9,259 | 2026-08-01 | 2026-09-09 |
-| [AumGupta/abyss-jellyfin](../repos/AumGupta/abyss-jellyfin.md) | 12 | ⭐ 663 | 2026-08-05 | 2026-09-13 |
+| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 14 | ⭐ 9,269 | 2026-08-01 | 2026-09-14 |
+| [AumGupta/abyss-jellyfin](../repos/AumGupta/abyss-jellyfin.md) | 13 | ⭐ 668 | 2026-08-05 | 2026-09-14 |
 
 ---
 
@@ -189,4 +192,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.178Z*
+*Last updated: 2026-09-14T21:01:48.402Z*

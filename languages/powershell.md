@@ -16,22 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,054 | 2026-08-02 | 8 |
+| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,054 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,600 | 2026-08-03 | 21 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,601 | 2026-08-03 | 22 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [iiroak/Kindle-Filler-Disk](../repos/iiroak/Kindle-Filler-Disk.md) | ⭐ 445 | 2026-08-10 | 9 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [CubeCoders/AMPTemplates](../repos/CubeCoders/AMPTemplates.md) | ⭐ 185 | 2026-08-11 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SharePoint/sp-dev-docs](../repos/SharePoint/sp-dev-docs.md) | ⭐ 1,363 | 2026-08-15 | SharePoint Developer Documentation |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [helldivers2fixes/HellbombScript](../repos/helldivers2fixes/HellbombScript.md) | ⭐ 147 | 2026-08-15 | PowerShell Script for Diagnosing Issues in Helldivers 2 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sp00n/CoreCycler](../repos/sp00n/CoreCycler.md) | ⭐ 1,246 | 2026-08-16 | Script to test single core stability, e.g. for PBO &amp; Curve Optimizer on AMD Ryzen or overclocking... |
@@ -56,6 +56,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,215 | 2026-09-02 | Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Ser... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jimrtyler/Guerrilla](../repos/jimrtyler/Guerrilla.md) | ⭐ 72 | 2026-09-04 | PowerShell security assessment &amp; continuous monitoring module for Google Workspace, Active Direct... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pnp/copilot-prompts](../repos/pnp/copilot-prompts.md) | ⭐ 866 | 2026-09-04 | Examples of prompts for Microsoft Copilot |
 
 
 ---
@@ -83,7 +89,7 @@
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,538 | 2026-08-04 | 6 |
 | [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,174 | 2026-08-19 | 6 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,119 | 2026-08-01 | 14 |
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,054 | 2026-08-02 | 8 |
+| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,054 | 2026-08-02 | 9 |
 
 ---
 
@@ -93,7 +99,7 @@
 |------------|---------------|-------|------------|-----------|
 | [actions/runner-images](../repos/actions/runner-images.md) | 29 | ⭐ 13,129 | 2026-08-01 | 2026-09-10 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 25 | ⭐ 898 | 2026-08-01 | 2026-09-12 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 21 | ⭐ 1,600 | 2026-08-03 | 2026-09-13 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 22 | ⭐ 1,601 | 2026-08-03 | 2026-09-14 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 18 | ⭐ 35,463 | 2026-08-01 | 2026-09-10 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 18 | ⭐ 6,006 | 2026-08-01 | 2026-09-12 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 17 | ⭐ 8,306 | 2026-08-01 | 2026-09-10 |
@@ -159,4 +165,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.235Z*
+*Last updated: 2026-09-14T21:01:48.454Z*

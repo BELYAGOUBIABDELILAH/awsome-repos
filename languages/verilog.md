@@ -16,13 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,383 | 2026-08-01 | 32 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,098 | 2026-08-01 | 37 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [OpenPOWERFoundation/a2o](../repos/OpenPOWERFoundation/a2o.md) | ⭐ 58 | 2026-08-12 | 9 |
+| [OpenPOWERFoundation/a2o](../repos/OpenPOWERFoundation/a2o.md) | ⭐ 58 | 2026-08-12 | 10 |
 
 
 ---
@@ -50,7 +44,7 @@
 | [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 735 | 2026-08-01 | 19 |
 | [The-OpenROAD-Project/OpenSTA](../repos/The-OpenROAD-Project/OpenSTA.md) | ⭐ 610 | 2026-08-03 | 12 |
 | [OSCPU/yosys-sta](../repos/OSCPU/yosys-sta.md) | ⭐ 97 | 2026-08-02 | 2 |
-| [OpenPOWERFoundation/a2o](../repos/OpenPOWERFoundation/a2o.md) | ⭐ 58 | 2026-08-12 | 9 |
+| [OpenPOWERFoundation/a2o](../repos/OpenPOWERFoundation/a2o.md) | ⭐ 58 | 2026-08-12 | 10 |
 | [TinyTapeout/ttsky-verilog-template](../repos/TinyTapeout/ttsky-verilog-template.md) | ⭐ 51 | 2026-08-14 | 6 |
 
 ---
@@ -66,7 +60,7 @@
 | [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 19 | ⭐ 735 | 2026-08-01 | 2026-09-12 |
 | [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | 19 | ⭐ 2,238 | 2026-08-04 | 2026-09-07 |
 | [The-OpenROAD-Project/OpenSTA](../repos/The-OpenROAD-Project/OpenSTA.md) | 12 | ⭐ 610 | 2026-08-03 | 2026-08-29 |
-| [OpenPOWERFoundation/a2o](../repos/OpenPOWERFoundation/a2o.md) | 9 | ⭐ 58 | 2026-08-12 | 2026-09-13 |
+| [OpenPOWERFoundation/a2o](../repos/OpenPOWERFoundation/a2o.md) | 10 | ⭐ 58 | 2026-08-12 | 2026-09-14 |
 | [alexforencich/verilog-ethernet](../repos/alexforencich/verilog-ethernet.md) | 7 | ⭐ 3,078 | 2026-08-02 | 2026-09-02 |
 | [TinyTapeout/ttsky-verilog-template](../repos/TinyTapeout/ttsky-verilog-template.md) | 6 | ⭐ 51 | 2026-08-14 | 2026-09-07 |
 
@@ -91,4 +85,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.260Z*
+*Last updated: 2026-09-14T21:01:48.478Z*

@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 418
+- **Total Repositories**: 420
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-07
-- **Average Stars**: 21600
+- **Average Stars**: 21596
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,455 | Python |  |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 118,860 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 26,582 | TypeScript |  |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,921 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [git-ai-project/git-ai](../repos/git-ai-project/git-ai.md) | ⭐ 2,682 | Rust |  |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 123,631 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 22,841 | Go |  |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 81,126 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,734 | Ruby |  |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 26,666 | TypeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,989 | Scala |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,740 | Ruby |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [apache/spark](../repos/apache/spark.md) | ⭐ 43,997 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,740 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [BeamMP/BeamMP](../repos/BeamMP/BeamMP.md) | ⭐ 512 | Lua |  |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,521 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,519 | Perl |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [zml/zml](../repos/zml/zml.md) | ⭐ 4,036 | Zig |  |
+| [zml/zml](../repos/zml/zml.md) | ⭐ 4,038 | Zig |  |
 
 
 ---
@@ -59,7 +59,7 @@
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 181,591 | Python | 2026-09-07 | 2 |
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,475 | Go | 2026-08-01 | 13 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | TypeScript | 2026-08-07 | 5 |
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,455 | Python | 2026-07-31 | 6 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,921 | Python | 2026-07-31 | 7 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | JavaScript | 2026-08-06 | 2 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | TypeScript | 2026-09-01 | 2 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | C | 2026-08-07 | 10 |
@@ -70,34 +70,34 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,455 | Python | 1 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 118,860 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 19,295 | Rust | 1 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,921 | Python | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 13,145 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | Python | 6 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 123,631 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 11,687 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 81,126 | Python | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 31,495 | JavaScript | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 26,582 | TypeScript | 1 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 26,666 | TypeScript | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [git-ai-project/git-ai](../repos/git-ai-project/git-ai.md) | ⭐ 2,682 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 19,259 | Rust | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 22,841 | Go | 2 |
 
 ---
 
@@ -105,38 +105,42 @@
 
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 5,113 | Python | 2026-08-15 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [titanwings/colleague-skill](../repos/titanwings/colleague-skill.md) | ⭐ 23,132 | Python | 2026-08-15 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [whiteguo233/OpenBiliClaw](../repos/whiteguo233/OpenBiliClaw.md) | ⭐ 2,554 | Python | 2026-08-15 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,971 | Go | 2026-08-15 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [liustack/modlens](../repos/liustack/modlens.md) | ⭐ 2,781 | TypeScript | 2026-08-15 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [kvcache-ai/Mooncake](../repos/kvcache-ai/Mooncake.md) | ⭐ 6,550 | C++ | 2026-08-15 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [microsoft/msquic](../repos/microsoft/msquic.md) | ⭐ 4,758 | C | 2026-08-15 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) | ⭐ 2,228 | Shell | 2026-08-15 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [diesel-modding/PAYDAY-2-BeardLib](../repos/diesel-modding/PAYDAY-2-BeardLib.md) | ⭐ 105 | Lua | 2026-08-15 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
 | [jundot/omlx](../repos/jundot/omlx.md) | ⭐ 21,659 | Python | 2026-08-16 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [Gitlawb/zero](../repos/Gitlawb/zero.md) | ⭐ 1,544 | Go | 2026-08-16 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [Card-Forge/forge](../repos/Card-Forge/forge.md) | ⭐ 2,697 | Java | 2026-08-16 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [reactos/reactos](../repos/reactos/reactos.md) | ⭐ 17,974 | C | 2026-08-16 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [Gitlawb/openclaude](../repos/Gitlawb/openclaude.md) | ⭐ 32,553 | TypeScript | 2026-08-17 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [Sollimann/bonsai](../repos/Sollimann/bonsai.md) | ⭐ 949 | Rust | 2026-08-17 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [strelov1/freehire](../repos/strelov1/freehire.md) | ⭐ 394 | Go | 2026-08-17 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [magefree/mage](../repos/magefree/mage.md) | ⭐ 2,335 | Java | 2026-08-17 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [htop-dev/htop](../repos/htop-dev/htop.md) | ⭐ 8,253 | C | 2026-08-17 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [Bannerlord-Coop-Team/BannerlordCoop](../repos/Bannerlord-Coop-Team/BannerlordCoop.md) | ⭐ 368 | C# | 2026-08-17 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-09-14](../archive/2026/09/2026-09-14.md)
+- 39 repositories trending
+- Top: huggingface&#x2F;transformers
 
 ### [2026-09-13](../archive/2026/09/2026-09-13.md)
 - 39 repositories trending
@@ -158,10 +162,6 @@
 - 50 repositories trending
 - Top: n8n-io&#x2F;n8n
 
-### [2026-09-07](../archive/2026/09/2026-09-07.md)
-- 41 repositories trending
-- Top: NousResearch&#x2F;hermes-agent
-
 
 ---
 
@@ -171,32 +171,32 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 39 days | 2026-08-01 | 2026-09-13 |
-| [vlang/v](../repos/vlang/v.md) | 36 days | 2026-08-01 | 2026-09-13 |
+| [apache/spark](../repos/apache/spark.md) | 40 days | 2026-08-01 | 2026-09-14 |
+| [vlang/v](../repos/vlang/v.md) | 37 days | 2026-08-01 | 2026-09-14 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 35 days | 2026-08-01 | 2026-09-10 |
 | [joernio/joern](../repos/joernio/joern.md) | 34 days | 2026-08-01 | 2026-09-12 |
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 33 days | 2026-08-01 | 2026-09-13 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 34 days | 2026-08-01 | 2026-09-14 |
 | [vim/vim](../repos/vim/vim.md) | 31 days | 2026-08-01 | 2026-09-13 |
-| [facebook/infer](../repos/facebook/infer.md) | 25 days | 2026-08-02 | 2026-09-13 |
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 25 days | 2026-08-04 | 2026-09-12 |
-| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 24 days | 2026-08-04 | 2026-09-09 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 22 days | 2026-08-01 | 2026-09-13 |
+| [facebook/infer](../repos/facebook/infer.md) | 26 days | 2026-08-02 | 2026-09-14 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 26 days | 2026-08-04 | 2026-09-14 |
+| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 25 days | 2026-08-04 | 2026-09-14 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 23 days | 2026-08-01 | 2026-09-14 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 81 repositories (19%)
+- **Python**: 82 repositories (20%)
 - **TypeScript**: 50 repositories (12%)
 - **Go**: 42 repositories (10%)
 - **C**: 34 repositories (8%)
 - **Rust**: 32 repositories (8%)
 
 ### Trending Frequency
-- **Daily Average**: 44.3 repositories
+- **Daily Average**: 44.2 repositories
 - **Peak Day**: 2026-08-19 (63 repositories)
-- **Growth Rate**: 42% this month
+- **Growth Rate**: 40% this month
 
 ---
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:31.890Z*
+*Last updated: 2026-09-14T21:01:48.152Z*

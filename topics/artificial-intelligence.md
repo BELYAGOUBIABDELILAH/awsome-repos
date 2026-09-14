@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 790
+- **Total Repositories**: 798
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-07
-- **Average Stars**: 18642
+- **Average Stars**: 18589
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,455 | Python |  |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,079 | C++ |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 26,582 | TypeScript |  |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,921 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [git-ai-project/git-ai](../repos/git-ai-project/git-ai.md) | ⭐ 2,682 | Rust |  |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 123,631 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 22,841 | Go |  |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 81,126 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 128,106 | C++ |  |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 26,666 | TypeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,228 | C |  |
+| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,243 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,350 | C# |  |
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,116 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,112 | PHP |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,740 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,835 | Ruby |  |
+| [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,540 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,734 | Ruby |  |
+| [apache/texera](../repos/apache/texera.md) | ⭐ 315 | Scala |  |
 
 
 ---
@@ -55,11 +55,11 @@
 |------------|-------|----------|------------|---------------|
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | Python | 2026-08-01 | 17 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 203,761 | TypeScript | 2026-08-11 | 4 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 198,899 | C++ | 2026-07-30 | 16 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,079 | C++ | 2026-07-30 | 17 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,163 | Python | 2026-08-06 | 7 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 181,591 | Python | 2026-09-07 | 2 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | TypeScript | 2026-08-07 | 5 |
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,455 | Python | 2026-07-31 | 6 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,921 | Python | 2026-07-31 | 7 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | JavaScript | 2026-08-06 | 2 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | TypeScript | 2026-09-01 | 2 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | C | 2026-08-07 | 10 |
@@ -70,34 +70,34 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 102,844 | Python | 1 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,079 | C++ | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,455 | Python | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | TypeScript | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [1jehuang/jcode](../repos/1jehuang/jcode.md) | ⭐ 19,295 | Rust | 1 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,921 | Python | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [huggingface/speech-to-speech](../repos/huggingface/speech-to-speech.md) | ⭐ 13,145 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | Python | 6 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 123,631 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 11,687 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 81,126 | Python | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | ⭐ 31,495 | JavaScript | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 26,582 | TypeScript | 1 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 26,666 | TypeScript | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [git-ai-project/git-ai](../repos/git-ai-project/git-ai.md) | ⭐ 2,682 | Rust | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 19,259 | Rust | 1 |
 
 ---
 
@@ -105,38 +105,42 @@
 
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 5,113 | Python | 2026-08-15 |
+| [jundot/omlx](../repos/jundot/omlx.md) | ⭐ 21,659 | Python | 2026-08-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [sgl-project/sglang-omni](../repos/sgl-project/sglang-omni.md) | ⭐ 819 | Python | 2026-08-15 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 19,785 | JavaScript | 2026-08-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [ashishpatel26/500-AI-Agents-Projects](../repos/ashishpatel26/500-AI-Agents-Projects.md) | ⭐ 36,526 | Python | 2026-08-15 |
+| [seakee/CPA-Manager-Plus](../repos/seakee/CPA-Manager-Plus.md) | ⭐ 3,192 | Go | 2026-08-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [titanwings/colleague-skill](../repos/titanwings/colleague-skill.md) | ⭐ 23,132 | Python | 2026-08-15 |
+| [Gitlawb/zero](../repos/Gitlawb/zero.md) | ⭐ 1,544 | Go | 2026-08-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [whiteguo233/OpenBiliClaw](../repos/whiteguo233/OpenBiliClaw.md) | ⭐ 2,554 | Python | 2026-08-15 |
+| [Card-Forge/forge](../repos/Card-Forge/forge.md) | ⭐ 2,697 | Java | 2026-08-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [calcom/cal.diy](../repos/calcom/cal.diy.md) | ⭐ 47,626 | TypeScript | 2026-08-15 |
+| [quickshell-mirror/quickshell](../repos/quickshell-mirror/quickshell.md) | ⭐ 2,777 | C++ | 2026-08-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | Rust | 2026-08-15 |
+| [reactos/reactos](../repos/reactos/reactos.md) | ⭐ 17,974 | C | 2026-08-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [apache/dolphinscheduler](../repos/apache/dolphinscheduler.md) | ⭐ 14,455 | Java | 2026-08-15 |
+| [OpenIPC/firmware](../repos/OpenIPC/firmware.md) | ⭐ 2,139 | C | 2026-08-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [alibaba/nacos](../repos/alibaba/nacos.md) | ⭐ 33,347 | Java | 2026-08-15 |
+| [Rule-34/App](../repos/Rule-34/App.md) | ⭐ 375 | Vue | 2026-08-16 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) | ⭐ 15,388 | C | 2026-08-15 |
+| [sp00n/CoreCycler](../repos/sp00n/CoreCycler.md) | ⭐ 1,246 | PowerShell | 2026-08-16 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-09-14](../archive/2026/09/2026-09-14.md)
+- 76 repositories trending
+- Top: tensorflow&#x2F;tensorflow
 
 ### [2026-09-13](../archive/2026/09/2026-09-13.md)
 - 79 repositories trending
@@ -158,10 +162,6 @@
 - 83 repositories trending
 - Top: n8n-io&#x2F;n8n
 
-### [2026-09-07](../archive/2026/09/2026-09-07.md)
-- 73 repositories trending
-- Top: NousResearch&#x2F;hermes-agent
-
 
 ---
 
@@ -171,12 +171,12 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 39 days | 2026-08-01 | 2026-09-13 |
+| [apache/spark](../repos/apache/spark.md) | 40 days | 2026-08-01 | 2026-09-14 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 35 days | 2026-08-01 | 2026-09-10 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 35 days | 2026-08-02 | 2026-09-14 |
 | [joernio/joern](../repos/joernio/joern.md) | 34 days | 2026-08-01 | 2026-09-12 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 34 days | 2026-08-02 | 2026-09-13 |
-| [emqx/emqx](../repos/emqx/emqx.md) | 32 days | 2026-08-01 | 2026-09-13 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 31 days | 2026-08-01 | 2026-09-13 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 33 days | 2026-08-01 | 2026-09-14 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 32 days | 2026-08-01 | 2026-09-14 |
 | [vim/vim](../repos/vim/vim.md) | 31 days | 2026-08-01 | 2026-09-13 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 28 days | 2026-08-01 | 2026-09-12 |
 | [discourse/discourse](../repos/discourse/discourse.md) | 26 days | 2026-08-01 | 2026-09-13 |
@@ -187,16 +187,16 @@
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 108 repositories (14%)
-- **Go**: 94 repositories (12%)
-- **TypeScript**: 79 repositories (10%)
+- **Python**: 110 repositories (14%)
+- **Go**: 96 repositories (12%)
+- **TypeScript**: 80 repositories (10%)
 - **C++**: 52 repositories (7%)
 - **Rust**: 51 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 84.2 repositories
+- **Daily Average**: 84 repositories
 - **Peak Day**: 2026-08-19 (144 repositories)
-- **Growth Rate**: 39% this month
+- **Growth Rate**: 38% this month
 
 ---
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:31.869Z*
+*Last updated: 2026-09-14T21:01:48.132Z*

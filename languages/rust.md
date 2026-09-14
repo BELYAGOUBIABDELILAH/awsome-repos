@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 175
+- **Total Repositories**: 176
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-10
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-ai-project/git-ai](../repos/git-ai-project/git-ai.md) | ⭐ 2,682 | 2026-08-01 | 3 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 118,860 | 2026-07-30 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [reacherhq/check-if-email-exists](../repos/reacherhq/check-if-email-exists.md) | ⭐ 9,794 | 2026-08-03 | 4 |
+| [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | ⭐ 13,505 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gfx-rs/wgpu](../repos/gfx-rs/wgpu.md) | ⭐ 18,006 | 2026-08-03 | 4 |
+| [reacherhq/check-if-email-exists](../repos/reacherhq/check-if-email-exists.md) | ⭐ 9,847 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 39,743 | 2026-08-10 | 10 |
+| [gfx-rs/wgpu](../repos/gfx-rs/wgpu.md) | ⭐ 18,038 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [waditu/czsc](../repos/waditu/czsc.md) | ⭐ 6,189 | 2026-08-14 | 4 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 93,786 | 2026-08-09 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RyanCodrai/turbovec](../repos/RyanCodrai/turbovec.md) | ⭐ 17,078 | 2026-08-19 | 5 |
+| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 17,871 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust-analyzer](../repos/rust-lang/rust-analyzer.md) | ⭐ 16,845 | 2026-08-23 | 2 |
+| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 32,137 | 2026-08-09 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 7,494 | 2026-08-26 | 6 |
+| [pacifio/atlas](../repos/pacifio/atlas.md) | ⭐ 4,402 | 2026-08-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [raine/workmux](../repos/raine/workmux.md) | ⭐ 2,549 | 2026-09-01 | 3 |
+| [waditu/czsc](../repos/waditu/czsc.md) | ⭐ 6,209 | 2026-08-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alphaXiv/OpenResearch](../repos/alphaXiv/OpenResearch.md) | ⭐ 1,989 | 2026-09-10 | 3 |
+| [RyanCodrai/turbovec](../repos/RyanCodrai/turbovec.md) | ⭐ 17,138 | 2026-08-19 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extrem... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [base/base](../repos/base/base.md) | ⭐ 882 | 2026-08-15 | All components used to run Base |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 💥 Blazing fast terminal file manager written in Rust, based on async I&#x2F;O. |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [amadeusprotocol/node](../repos/amadeusprotocol/node.md) | ⭐ 5,133 | 2026-08-19 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [block/buzz](../repos/block/buzz.md) | ⭐ 30,670 | 2026-08-19 | A hive mind communication platform |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [RyanCodrai/turbovec](../repos/RyanCodrai/turbovec.md) | ⭐ 17,138 | 2026-08-19 | A vector index built on TurboQuant, written in Rust with Python bindings |
 
 
 ---
@@ -89,10 +89,10 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [openai/codex](../repos/openai/codex.md) | ⭐ 123,093 | 2026-08-01 | 11 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 117,447 | 2026-07-30 | 7 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 118,860 | 2026-07-30 | 8 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,895 | 2026-08-11 | 7 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 92,909 | 2026-08-09 | 10 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 93,786 | 2026-08-09 | 11 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 89,217 | 2026-07-31 | 3 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [openai/codex](../repos/openai/codex.md) | 11 | ⭐ 123,093 | 2026-08-01 | 2026-09-10 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 11 | ⭐ 93,786 | 2026-08-09 | 2026-09-14 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 10 | ⭐ 19,259 | 2026-08-01 | 2026-09-12 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 10 | ⭐ 28,668 | 2026-08-03 | 2026-09-08 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 10 | ⭐ 92,909 | 2026-08-09 | 2026-09-09 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 10 | ⭐ 39,743 | 2026-08-10 | 2026-09-13 |
+| [rustfs/rustfs](../repos/rustfs/rustfs.md) | 9 | ⭐ 32,137 | 2026-08-09 | 2026-09-14 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | 8 | ⭐ 118,860 | 2026-07-30 | 2026-09-14 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 8 | ⭐ 42,307 | 2026-08-02 | 2026-09-09 |
 | [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 8 | ⭐ 2,853 | 2026-08-05 | 2026-09-09 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 8 | ⭐ 11,156 | 2026-08-09 | 2026-09-08 |
-| [rustfs/rustfs](../repos/rustfs/rustfs.md) | 8 | ⭐ 32,023 | 2026-08-09 | 2026-09-12 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | 7 | ⭐ 117,447 | 2026-07-30 | 2026-09-04 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.245Z*
+*Last updated: 2026-09-14T21:01:48.464Z*

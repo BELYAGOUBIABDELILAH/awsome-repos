@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,918 | 2026-08-01 | 24 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,214 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aniyomiorg/aniyomi-website](../repos/aniyomiorg/aniyomi-website.md) | ⭐ 229 | 2026-08-01 | 4 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,529 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 441 | 2026-08-02 | 23 |
+| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 255 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,705 | 2026-08-02 | 16 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,290 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vuejs/docs](../repos/vuejs/docs.md) | ⭐ 3,236 | 2026-08-02 | 5 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,917 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 1,869 | 2026-08-02 | 16 |
+| [inovector/mixpost](../repos/inovector/mixpost.md) | ⭐ 3,703 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [VueTorrent/VueTorrent](../repos/VueTorrent/VueTorrent.md) | ⭐ 6,965 | 2026-08-03 | 3 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 441 | 2026-08-02 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,333 | 2026-08-03 | 13 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,715 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [imsyy/yt-dlp-gui](../repos/imsyy/yt-dlp-gui.md) | ⭐ 350 | 2026-08-03 | 10 |
+| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 2,336 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,183 | 2026-08-08 | 14 |
+| [VueTorrent/VueTorrent](../repos/VueTorrent/VueTorrent.md) | ⭐ 6,965 | 2026-08-03 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [creazy231/tools-for-autodarts](../repos/creazy231/tools-for-autodarts.md) | ⭐ 127 | 2026-08-15 | Tools for Autodarts enhances the gaming experience on autodarts.io |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ZTMYO/XiaoShiLiu](../repos/ZTMYO/XiaoShiLiu.md) | ⭐ 277 | 2026-08-15 | 一个高仿小红书的图文社区项目，支持图文发布、社交互动等核心功能，旨在提供从前端到后端的完整实践范本 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Rule-34/App](../repos/Rule-34/App.md) | ⭐ 375 | 2026-08-16 | Browse the most popular Boorus with the Rule 34 App. |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,077 | 2026-08-20 | Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client fo... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Arknights-yituliu/frontend-v2-plus](../repos/Arknights-yituliu/frontend-v2-plus.md) | ⭐ 121 | 2026-08-20 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | A high quality UI Toolkit built on Vue.js 2.0 |
 
 
 ---
@@ -91,19 +91,19 @@
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,200 | 2026-08-01 | 10 |
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,045 | 2026-08-01 | 9 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,433 | 2026-08-01 | 28 |
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,283 | 2026-08-01 | 16 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,290 | 2026-08-01 | 17 |
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,918 | 2026-08-01 | 24 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,183 | 2026-08-08 | 14 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,903 | 2026-08-01 | 18 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,209 | 2026-08-08 | 15 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,917 | 2026-08-01 | 19 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,637 | 2026-08-02 | 12 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,705 | 2026-08-02 | 16 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,715 | 2026-08-02 | 17 |
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,462 | 2026-08-05 | 11 |
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,077 | 2026-08-20 | 3 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,734 | 2026-08-12 | 3 |
 | [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,550 | 2026-08-17 | 5 |
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,870 | 2026-08-04 | 10 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,993 | 2026-08-04 | 11 |
 | [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,333 | 2026-08-03 | 13 |
 | [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,314 | 2026-08-23 | 7 |
 | [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,844 | 2026-08-03 | 2 |
@@ -117,13 +117,13 @@
 |------------|---------------|-------|------------|-----------|
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 28 | ⭐ 33,433 | 2026-08-01 | 2026-09-12 |
 | [requarks/wiki](../repos/requarks/wiki.md) | 24 | ⭐ 28,918 | 2026-08-01 | 2026-09-13 |
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 23 | ⭐ 441 | 2026-08-02 | 2026-09-13 |
-| [frappe/crm](../repos/frappe/crm.md) | 20 | ⭐ 3,519 | 2026-08-01 | 2026-09-12 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 18 | ⭐ 21,903 | 2026-08-01 | 2026-09-12 |
-| [julyx10/lap](../repos/julyx10/lap.md) | 17 | ⭐ 2,226 | 2026-08-02 | 2026-09-08 |
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 16 | ⭐ 4,173 | 2026-08-01 | 2026-09-07 |
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 16 | ⭐ 33,283 | 2026-08-01 | 2026-09-12 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 16 | ⭐ 16,705 | 2026-08-02 | 2026-09-13 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 24 | ⭐ 441 | 2026-08-02 | 2026-09-14 |
+| [frappe/crm](../repos/frappe/crm.md) | 21 | ⭐ 3,529 | 2026-08-01 | 2026-09-14 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 19 | ⭐ 21,917 | 2026-08-01 | 2026-09-14 |
+| [julyx10/lap](../repos/julyx10/lap.md) | 18 | ⭐ 2,336 | 2026-08-02 | 2026-09-14 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 17 | ⭐ 4,214 | 2026-08-01 | 2026-09-14 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 17 | ⭐ 33,290 | 2026-08-01 | 2026-09-14 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 17 | ⭐ 16,715 | 2026-08-02 | 2026-09-14 |
 | [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 16 | ⭐ 1,869 | 2026-08-02 | 2026-09-13 |
 
 ---
@@ -216,4 +216,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.266Z*
+*Last updated: 2026-09-14T21:01:48.484Z*

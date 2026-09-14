@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 106
+- **Total Repositories**: 108
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,261 | 2026-08-06 | 9 |
+| [void-linux/void-packages](../repos/void-linux/void-packages.md) | ⭐ 3,430 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,602 | 2026-08-08 | 6 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,821 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,317 | 2026-08-08 | 9 |
+| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 6,086 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,222 | 2026-08-20 | 8 |
+| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 2,408 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sabamdarif/termux-desktop](../repos/sabamdarif/termux-desktop.md) | ⭐ 2,252 | 2026-09-06 | 2 |
+| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 9,790 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](../repos/FiorenMas/Revanced-And-Revanced-Extended-Non-Root.md) | ⭐ 2,694 | 2026-09-13 | 1 |
+| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,604 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MichaIng/DietPi](../repos/MichaIng/DietPi.md) | ⭐ 6,259 | 2026-09-13 | 1 |
+| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,285 | 2026-08-11 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 5,925 | 2026-08-12 | 14 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [FlyBrainLab/FlyBrainLab](../repos/FlyBrainLab/FlyBrainLab.md) | ⭐ 80 | 2026-09-14 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [CachyOS/linux-cachyos](../repos/CachyOS/linux-cachyos.md) | ⭐ 4,455 | 2026-09-14 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Lifecycle-Innovations-Limited/claude-ops](../repos/Lifecycle-Innovations-Limited/claude-ops.md) | ⭐ 164 | 2026-08-15 | Business operating system for Claude Code — 57 skills, 21 agents, smart daemon. Unified inbox (Wh... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ROCm/ROCm](../repos/ROCm/ROCm.md) | ⭐ 6,798 | 2026-08-15 | AMD ROCm™ Software - GitHub Home |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) | ⭐ 2,228 | 2026-08-15 | Bonsai Demo |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Security-Onion-Solutions/securityonion](../repos/Security-Onion-Solutions/securityonion.md) | ⭐ 4,819 | 2026-08-15 | Security Onion is a free and open platform for threat hunting, enterprise security monitoring, an... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pwnerblu/surrealra1n](../repos/pwnerblu/surrealra1n.md) | ⭐ 248 | 2026-08-16 | Tether downgrade tool (iOS 7.0-17.6.1) for some checkm8&#x2F;usbliter8 64bit devices. Some restores ma... |
@@ -71,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,222 | 2026-08-20 | binary releases of VS Code without MS branding&#x2F;telemetry&#x2F;licensing |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,452 | 2026-08-20 | Official agent plugin providing skills and MCP server configurations for Azure scenarios. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ophub/amlogic-s9xxx-openwrt](../repos/ophub/amlogic-s9xxx-openwrt.md) | ⭐ 2,991 | 2026-08-22 | Supports running OpenWrt on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ophub/fnnas](../repos/ophub/fnnas.md) | ⭐ 3,310 | 2026-08-22 | Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3,... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CISOfy/lynis](../repos/CISOfy/lynis.md) | ⭐ 16,222 | 2026-08-24 | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance ... |
 
 
 ---
@@ -110,8 +119,8 @@
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [expo/skills](../repos/expo/skills.md) | 20 | ⭐ 2,520 | 2026-08-07 | 2026-09-12 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 14 | ⭐ 11,167 | 2026-08-04 | 2026-09-12 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 14 | ⭐ 5,925 | 2026-08-12 | 2026-09-14 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 13 | ⭐ 4,378 | 2026-08-01 | 2026-09-01 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 13 | ⭐ 5,448 | 2026-08-12 | 2026-09-10 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 10 | ⭐ 2,258 | 2026-08-02 | 2026-09-10 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 9 | ⭐ 25,582 | 2026-08-04 | 2026-09-01 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 9 | ⭐ 2,796 | 2026-08-05 | 2026-09-07 |
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.250Z*
+*Last updated: 2026-09-14T21:01:48.469Z*

@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,634 | 2026-08-01 | 35 |
+| [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,210 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,826 | 2026-08-01 | 17 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,636 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,311 | 2026-08-01 | 33 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,313 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,090 | 2026-08-02 | 34 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 8,988 | 2026-08-02 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,156 | 2026-08-03 | 28 |
+| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,092 | 2026-08-02 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [icoretech/codex-pooler](../repos/icoretech/codex-pooler.md) | ⭐ 207 | 2026-08-04 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [OpenFn/lightning](../repos/OpenFn/lightning.md) | ⭐ 296 | 2026-08-23 | 3 |
+| [icoretech/codex-pooler](../repos/icoretech/codex-pooler.md) | ⭐ 208 | 2026-08-04 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [phoenixframework/durable_server](../repos/phoenixframework/durable_server.md) | ⭐ 107 | 2026-08-15 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [open-api-spex/open_api_spex](../repos/open-api-spex/open_api_spex.md) | ⭐ 835 | 2026-08-16 | Open API Specifications for Elixir Plug applications |
@@ -71,6 +65,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [elixir-nx/scholar](../repos/elixir-nx/scholar.md) | ⭐ 497 | 2026-09-02 | Traditional machine learning on top of Nx |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [anoma/anoma](../repos/anoma/anoma.md) | ⭐ 33,620 | 2026-09-04 | Reference implementation of Anoma |
 
 
 ---
@@ -80,16 +77,16 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [anoma/anoma](../repos/anoma/anoma.md) | ⭐ 33,620 | 2026-09-04 | 4 |
-| [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,166 | 2026-08-01 | 35 |
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,634 | 2026-08-01 | 35 |
+| [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,210 | 2026-08-01 | 36 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,636 | 2026-08-01 | 36 |
 | [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,156 | 2026-08-03 | 28 |
 | [h4cc/awesome-elixir](../repos/h4cc/awesome-elixir.md) | ⭐ 13,166 | 2026-09-08 | 1 |
-| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,090 | 2026-08-02 | 34 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 8,979 | 2026-08-02 | 34 |
+| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,092 | 2026-08-02 | 35 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 8,988 | 2026-08-02 | 35 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,826 | 2026-08-01 | 17 |
 | [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,484 | 2026-08-06 | 1 |
 | [livebook-dev/livebook](../repos/livebook-dev/livebook.md) | ⭐ 5,862 | 2026-08-05 | 5 |
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,311 | 2026-08-01 | 33 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,313 | 2026-08-01 | 34 |
 | [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,484 | 2026-09-01 | 1 |
 | [expert-lsp/expert](../repos/expert-lsp/expert.md) | ⭐ 2,048 | 2026-08-01 | 6 |
 | [mtrudel/bandit](../repos/mtrudel/bandit.md) | ⭐ 1,915 | 2026-08-22 | 1 |
@@ -106,16 +103,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [openai/symphony](../repos/openai/symphony.md) | 35 | ⭐ 27,166 | 2026-08-01 | 2026-09-12 |
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 35 | ⭐ 26,634 | 2026-08-01 | 2026-09-13 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 34 | ⭐ 8,979 | 2026-08-02 | 2026-09-12 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 34 | ⭐ 9,090 | 2026-08-02 | 2026-09-13 |
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 33 | ⭐ 5,311 | 2026-08-01 | 2026-09-13 |
+| [openai/symphony](../repos/openai/symphony.md) | 36 | ⭐ 27,210 | 2026-08-01 | 2026-09-14 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 36 | ⭐ 26,636 | 2026-08-01 | 2026-09-14 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 35 | ⭐ 8,988 | 2026-08-02 | 2026-09-14 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 35 | ⭐ 9,092 | 2026-08-02 | 2026-09-14 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 34 | ⭐ 5,313 | 2026-08-01 | 2026-09-14 |
 | [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 28 | ⭐ 23,156 | 2026-08-03 | 2026-09-13 |
 | [open-telemetry/opentelemetry-erlang-contrib](../repos/open-telemetry/opentelemetry-erlang-contrib.md) | 25 | ⭐ 219 | 2026-08-01 | 2026-09-09 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | 17 | ⭐ 6,826 | 2026-08-01 | 2026-09-13 |
+| [icoretech/codex-pooler](../repos/icoretech/codex-pooler.md) | 8 | ⭐ 208 | 2026-08-04 | 2026-09-14 |
 | [algora-io/algora](../repos/algora-io/algora.md) | 8 | ⭐ 1,497 | 2026-08-09 | 2026-09-12 |
-| [duffelhq/paginator](../repos/duffelhq/paginator.md) | 7 | ⭐ 823 | 2026-08-01 | 2026-08-08 |
 
 ---
 
@@ -166,4 +163,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.188Z*
+*Last updated: 2026-09-14T21:01:48.411Z*

@@ -7,11 +7,31 @@
 ## 2026
 
 **Period**: 2026-01-01 to 2026-12-31  
-**Gems Found**: 950
+**Gems Found**: 965
 
 ---
 
-### 1. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
+### 1. [melgarafael&#x2F;DeskcommCRM](../../repos/melgarafael/DeskcommCRM.md)
+
+**Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,481 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 98/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 5, 2026 |
+
+**Why it's a gem**: High growth velocity (+471 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/melgarafael/DeskcommCRM.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;melgarafael&#x2F;DeskcommCRM)
+
+---
+
+### 2. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
 
 **Vivi-Music is an expressive Material 3–based YouTube Music client for Android.**
 
@@ -31,19 +51,19 @@
 
 ---
 
-### 2. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
+### 3. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
 
 **Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,828 |
+| ⭐ **Stars** | 4,102 |
 | 💻 **Language** | HTML |
 | 🏆 **Gem Score** | 96/100 |
-| 📈 **Trending Days** | 6 |
+| 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
-**Why it's a gem**: High growth velocity (+84 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+114 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -51,7 +71,27 @@
 
 ---
 
-### 3. [google&#x2F;sam](../../repos/google/sam.md)
+### 4. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
+
+**Source control for agents. Use multiple coding agents, track their changes and query them in one place**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,402 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 96/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 14, 2026 |
+
+**Why it's a gem**: High growth velocity (+632 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/pacifio/atlas.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas)
+
+---
+
+### 5. [google&#x2F;sam](../../repos/google/sam.md)
 
 **SAM Sovereign Agent Mesh**
 
@@ -71,7 +111,7 @@
 
 ---
 
-### 4. [zzet&#x2F;gortex](../../repos/zzet/gortex.md)
+### 6. [zzet&#x2F;gortex](../../repos/zzet/gortex.md)
 
 **High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https:&#x2F;&#x2F;discord.gg&#x2F;39MFHu3J5d**
 
@@ -91,27 +131,7 @@
 
 ---
 
-### 5. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
-
-**Source control for agents. Use multiple coding agents, track their changes and query them in one place**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,191 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 95/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 14, 2026 |
-
-**Why it's a gem**: High growth velocity (+542 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/pacifio/atlas.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas)
-
----
-
-### 6. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+### 7. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
 
 **A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
 
@@ -128,26 +148,6 @@
 **Best for**: 
 
 [View Passport](../../repos/geo-tp/ESP32-Bit-Pirate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;geo-tp&#x2F;ESP32-Bit-Pirate)
-
----
-
-### 7. [melgarafael&#x2F;DeskcommCRM](../../repos/melgarafael/DeskcommCRM.md)
-
-**Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,132 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 5, 2026 |
-
-**Why it's a gem**: High growth velocity (+489 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/melgarafael/DeskcommCRM.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;melgarafael&#x2F;DeskcommCRM)
 
 ---
 
@@ -191,27 +191,7 @@
 
 ---
 
-### 10. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
-
-**Open source factory for one-shot engineering**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 7,018 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+156 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/superplanehq/superplane.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superplanehq&#x2F;superplane)
-
----
-
-### 11. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+### 10. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
 
 **Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
 
@@ -231,7 +211,7 @@
 
 ---
 
-### 12. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+### 11. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
 
 **Native GUI for Homebrew Casks**
 
@@ -251,7 +231,7 @@
 
 ---
 
-### 13. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
+### 12. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
 
 **Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.**
 
@@ -271,19 +251,39 @@
 
 ---
 
+### 13. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
+
+**Open source factory for one-shot engineering**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,018 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 2, 2026 |
+
+**Why it's a gem**: High growth velocity (+156 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/superplanehq/superplane.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superplanehq&#x2F;superplane)
+
+---
+
 ### 14. [max-sixty&#x2F;worktrunk](../../repos/max-sixty/worktrunk.md)
 
 **Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7,494 |
+| ⭐ **Stars** | 7,642 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 6 |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Aug 26, 2026 |
 
-**Why it's a gem**: High growth velocity (+137 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+141 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -291,27 +291,7 @@
 
 ---
 
-### 15. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
-
-**The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,342 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/Ed1s0nZ/CyberStrikeAI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Ed1s0nZ&#x2F;CyberStrikeAI)
-
----
-
-### 16. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
+### 15. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
 
 **ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+### 16. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
 
 **Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
 
@@ -348,6 +328,26 @@
 **Best for**: 
 
 [View Passport](../../repos/OpenWhispr/openwhispr.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;OpenWhispr&#x2F;openwhispr)
+
+---
+
+### 17. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
+
+**The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6,342 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/Ed1s0nZ/CyberStrikeAI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Ed1s0nZ&#x2F;CyberStrikeAI)
 
 ---
 
@@ -377,13 +377,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,226 |
+| ⭐ **Stars** | 2,336 |
 | 💻 **Language** | Vue |
 | 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 17 |
+| 📈 **Trending Days** | 18 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+35 stars&#x2F;day) • Trending 17 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: Trending 18 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -397,13 +397,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,060 |
+| ⭐ **Stars** | 3,224 |
 | 💻 **Language** | Swift |
 | 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 6 |
+| 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Sep 1, 2026 |
 
-**Why it's a gem**: High growth velocity (+69 stars&#x2F;day) • Trending 6 times • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Trending 7 times • Very active development • Underrated project
 
 **Best for**: 
 
@@ -471,7 +471,27 @@
 
 ---
 
-### 24. [builtbybel&#x2F;FluentCleaner](../../repos/builtbybel/FluentCleaner.md)
+### 24. [optiscaler&#x2F;OptiScaler](../../repos/optiscaler/OptiScaler.md)
+
+**OptiScaler bridges upscaling&#x2F;frame gen across GPUs. Supports DLSS2+&#x2F;XeSS&#x2F;FSR2+ inputs, replaces native upscalers, enables FSR-FG&#x2F;XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 10,993 |
+| 💻 **Language** | C++ |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 11 |
+| 📅 **First Seen** | Aug 2, 2026 |
+
+**Why it's a gem**: High growth velocity (+56 stars&#x2F;day) • Trending 11 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/optiscaler/OptiScaler.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;optiscaler&#x2F;OptiScaler)
+
+---
+
+### 25. [builtbybel&#x2F;FluentCleaner](../../repos/builtbybel/FluentCleaner.md)
 
 **FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.**
 
@@ -491,7 +511,7 @@
 
 ---
 
-### 25. [itsfatduck&#x2F;optimizerDuck](../../repos/itsfatduck/optimizerDuck.md)
+### 26. [itsfatduck&#x2F;optimizerDuck](../../repos/itsfatduck/optimizerDuck.md)
 
 **Free, open-source Windows optimization tool for performance, privacy, and simplicity.**
 
@@ -511,27 +531,27 @@
 
 ---
 
-### 26. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
+### 27. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
 
-**📼 The missing YouTube and YouTube Music macOS app**
+**Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode&#x2F;Homebrew&#x2F;system cache cleanup. MIT licensed.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,241 |
+| ⭐ **Stars** | 6,443 |
 | 💻 **Language** | Swift |
 | 🏆 **Gem Score** | 89/100 |
 | 📈 **Trending Days** | 8 |
 | 📅 **First Seen** | Aug 4, 2026 |
 
-**Why it's a gem**: Trending 8 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+40 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/sozercan/kaset.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;sozercan&#x2F;kaset)
+[View Passport](../../repos/momenbasel/PureMac.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;momenbasel&#x2F;PureMac)
 
 ---
 
-### 27. [jo-inc&#x2F;camofox-browser](../../repos/jo-inc/camofox-browser.md)
+### 28. [jo-inc&#x2F;camofox-browser](../../repos/jo-inc/camofox-browser.md)
 
 **Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer&#x2F;Playwright replacement.**
 
@@ -551,7 +571,7 @@
 
 ---
 
-### 28. [tonhowtf&#x2F;omniget](../../repos/tonhowtf/omniget.md)
+### 29. [tonhowtf&#x2F;omniget](../../repos/tonhowtf/omniget.md)
 
 **Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF&#x2F;EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.**
 
@@ -571,7 +591,7 @@
 
 ---
 
-### 29. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
+### 30. [apple&#x2F;coreai-models](../../repos/apple/coreai-models.md)
 
 **Model export recipes, Python primitives, and Swift runtime utilities for on-device AI**
 
@@ -591,7 +611,7 @@
 
 ---
 
-### 30. [chaitanyagiri&#x2F;munder-difflin](../../repos/chaitanyagiri/munder-difflin.md)
+### 31. [chaitanyagiri&#x2F;munder-difflin](../../repos/chaitanyagiri/munder-difflin.md)
 
 **local multi-agent harness**
 
@@ -611,7 +631,7 @@
 
 ---
 
-### 31. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
+### 32. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
 
 **Durable, searchable memory of your past agent sessions.**
 
@@ -631,7 +651,7 @@
 
 ---
 
-### 32. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
+### 33. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
 
 **Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
 
@@ -651,39 +671,19 @@
 
 ---
 
-### 33. [optiscaler&#x2F;OptiScaler](../../repos/optiscaler/OptiScaler.md)
-
-**OptiScaler bridges upscaling&#x2F;frame gen across GPUs. Supports DLSS2+&#x2F;XeSS&#x2F;FSR2+ inputs, replaces native upscalers, enables FSR-FG&#x2F;XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 10,893 |
-| 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 10 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+48 stars&#x2F;day) • Trending 10 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/optiscaler/OptiScaler.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;optiscaler&#x2F;OptiScaler)
-
----
-
 ### 34. [unclebob&#x2F;swarm-forge](../../repos/unclebob/swarm-forge.md)
 
 **A simple tool for coordinating several AI agents.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,833 |
+| ⭐ **Stars** | 3,844 |
 | 💻 **Language** | Clojure |
 | 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 30 |
+| 📈 **Trending Days** | 31 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+61 stars&#x2F;day) • Trending 30 times • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 31 times • Very active development • Underrated project
 
 **Best for**: 
 
@@ -691,43 +691,43 @@
 
 ---
 
-### 35. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
+### 35. [AAswordman&#x2F;Operit](../../repos/AAswordman/Operit.md)
 
-**https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成**
+**The most powerful AI agent and AI chat software on Android&#x2F;Operit是一款Android上能力最为强大、发展最久的AI Agent**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9,116 |
-| 💻 **Language** | HTML |
+| ⭐ **Stars** | 7,806 |
+| 💻 **Language** | Kotlin |
 | 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 8 |
+| 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 3, 2026 |
 
-**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 8 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/adongwanai/AgentGuide.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;adongwanai&#x2F;AgentGuide)
+[View Passport](../../repos/AAswordman/Operit.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;AAswordman&#x2F;Operit)
 
 ---
 
-### 36. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
+### 36. [sozercan&#x2F;kaset](../../repos/sozercan/kaset.md)
 
-**Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode&#x2F;Homebrew&#x2F;system cache cleanup. MIT licensed.**
+**📼 The missing YouTube and YouTube Music macOS app**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,317 |
+| ⭐ **Stars** | 2,241 |
 | 💻 **Language** | Swift |
 | 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 7 |
+| 📈 **Trending Days** | 8 |
 | 📅 **First Seen** | Aug 4, 2026 |
 
-**Why it's a gem**: High growth velocity (+40 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
+**Why it's a gem**: Trending 8 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/momenbasel/PureMac.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;momenbasel&#x2F;PureMac)
+[View Passport](../../repos/sozercan/kaset.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;sozercan&#x2F;kaset)
 
 ---
 
@@ -751,27 +751,7 @@
 
 ---
 
-### 38. [cobusgreyling&#x2F;loop-engineering](../../repos/cobusgreyling/loop-engineering.md)
-
-**Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 10,982 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 10, 2026 |
-
-**Why it's a gem**: High growth velocity (+64 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/cobusgreyling/loop-engineering.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;cobusgreyling&#x2F;loop-engineering)
-
----
-
-### 39. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
+### 38. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
 
 **14MB foundation model for tiny devices; phones, wearables, smart home, and robots.**
 
@@ -791,7 +771,7 @@
 
 ---
 
-### 40. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
+### 39. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
 
 **Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
 
@@ -811,7 +791,7 @@
 
 ---
 
-### 41. [luolangaga&#x2F;tubatools](../../repos/luolangaga/tubatools.md)
+### 40. [luolangaga&#x2F;tubatools](../../repos/luolangaga/tubatools.md)
 
 **图吧工具箱 winUI3 版**
 
@@ -831,7 +811,7 @@
 
 ---
 
-### 42. [shiaho777&#x2F;web-to-app](../../repos/shiaho777/web-to-app.md)
+### 41. [shiaho777&#x2F;web-to-app](../../repos/shiaho777/web-to-app.md)
 
 **The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone**
 
@@ -851,7 +831,7 @@
 
 ---
 
-### 43. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
+### 42. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
 
 **OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
 
@@ -871,7 +851,7 @@
 
 ---
 
-### 44. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
+### 43. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
 
 **Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.**
 
@@ -891,7 +871,7 @@
 
 ---
 
-### 45. [magnitudedev&#x2F;magnitude](../../repos/magnitudedev/magnitude.md)
+### 44. [magnitudedev&#x2F;magnitude](../../repos/magnitudedev/magnitude.md)
 
 **Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.**
 
@@ -911,7 +891,7 @@
 
 ---
 
-### 46. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
+### 45. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
 
 **Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de&#x2F;plugin-directory-submission.**
 
@@ -931,7 +911,7 @@
 
 ---
 
-### 47. [TeamWheelWizard&#x2F;WheelWizard](../../repos/TeamWheelWizard/WheelWizard.md)
+### 46. [TeamWheelWizard&#x2F;WheelWizard](../../repos/TeamWheelWizard/WheelWizard.md)
 
 **WheelWizard, Retro Rewind Launcher**
 
@@ -951,7 +931,7 @@
 
 ---
 
-### 48. [Sumanth077&#x2F;Hands-On-AI-Engineering](../../repos/Sumanth077/Hands-On-AI-Engineering.md)
+### 47. [Sumanth077&#x2F;Hands-On-AI-Engineering](../../repos/Sumanth077/Hands-On-AI-Engineering.md)
 
 **A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.**
 
@@ -971,7 +951,7 @@
 
 ---
 
-### 49. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+### 48. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
 
 **GitHub Stacked PRs**
 
@@ -991,23 +971,43 @@
 
 ---
 
-### 50. [vava-nessa&#x2F;free-coding-models](../../repos/vava-nessa/free-coding-models.md)
+### 49. [adongwanai&#x2F;AgentGuide](../../repos/adongwanai/AgentGuide.md)
 
-**Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time**
+**https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,572 |
+| ⭐ **Stars** | 9,116 |
 | 💻 **Language** | HTML |
 | 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 2, 2026 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 3, 2026 |
 
-**Why it's a gem**: Trending 6 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 8 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/vava-nessa/free-coding-models.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;vava-nessa&#x2F;free-coding-models)
+[View Passport](../../repos/adongwanai/AgentGuide.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;adongwanai&#x2F;AgentGuide)
+
+---
+
+### 50. [cobusgreyling&#x2F;loop-engineering](../../repos/cobusgreyling/loop-engineering.md)
+
+**Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 10,982 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+64 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/cobusgreyling/loop-engineering.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;cobusgreyling&#x2F;loop-engineering)
 
 ---
 
@@ -1027,5 +1027,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-13T21:01:37.440Z*  
+*Generated: 2026-09-14T21:01:54.308Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

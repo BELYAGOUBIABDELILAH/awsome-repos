@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 23,528 |
-| **Forks** | 🍴 1,695 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 23,555 |
+| **Forks** | 🍴 1,702 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Sep 13, 2026 |
+| **Last Seen** | Sep 14, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
-- **Longest Streak**: 2 days
+- **Trending Days**: 6
+- **Longest Streak**: 3 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 85&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-13T21:01:35.434Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-09-14T21:01:52.028Z*  
+*Data from 6 trending reports*

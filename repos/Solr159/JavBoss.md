@@ -1,6 +1,6 @@
 # Solr159&#x2F;JavBoss
 
-> 开箱即用的本地 JAV&#x2F;视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV&#x2F;视频 媒体库，带给你顶级的浏览体验，懒人必备。| Your local JAV&#x2F;video manager.
+> 开箱即用的本地 JAV&#x2F;视频 刮削、管理、播放软件，支持命令行一键安装和 Docker 部署。只需简单添加目录，即可打造你的私人 JAV&#x2F;视频 媒体库，带给你顶级的浏览体验，懒人必备。| Your local JAV&#x2F;video manager.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Solr159&#x2F;JavBoss) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 409 |
-| **Forks** | 🍴 41 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 634 |
+| **Forks** | 🍴 61 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 10, 2026 |
+| **Last Seen** | Sep 14, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Go or jav*
+*Similar: Check repositories in Go or golang*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`jav`](../../topics/jav.md) [`javbus`](../../topics/javbus.md) [`javdb`](../../topics/javdb.md) [`javlibrary`](../../topics/javlibrary.md) [`porn`](../../topics/porn.md) [`scraper`](../../topics/scraper.md) 
+[`golang`](../../topics/golang.md) [`jav`](../../topics/jav.md) [`javbus`](../../topics/javbus.md) [`javdb`](../../topics/javdb.md) [`javlibrary`](../../topics/javlibrary.md) [`porn`](../../topics/porn.md) [`scraper`](../../topics/scraper.md) 
 
 ### Curated Categories
 `Systems Programming` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-13T21:01:34.388Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-14T21:01:50.836Z*  
+*Data from 3 trending reports*

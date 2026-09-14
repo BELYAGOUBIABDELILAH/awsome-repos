@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 104,483 |
-| **Forks** | 🍴 20,027 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 106,016 |
+| **Forks** | 🍴 20,294 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #5 |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Sep 10, 2026 |
+| **Last Seen** | Sep 14, 2026 |
 
 
 ---
@@ -47,11 +47,12 @@
 **Aug 25, 2026** — Rank #5 (+191 ⭐)  
 **Aug 27, 2026** — Rank #19 (+323 ⭐)  
 **Sep 9, 2026** — Rank #7 (+367 ⭐)  
+**Sep 14, 2026** — Rank #11 (+756 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #5
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 3 days
 
 ---
@@ -74,7 +75,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 104,483+ stars, strong contributor base |
+| **Community** | Very Active | 106,016+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
@@ -95,5 +96,5 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:35.405Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-09-14T21:01:51.995Z*  
+*Data from 10 trending reports*

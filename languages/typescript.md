@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 204
+- **Total Repositories**: 210
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 26,582 | 2026-08-01 | 8 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 26,666 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) | ⭐ 2,132 | 2026-08-05 | 4 |
+| [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) | ⭐ 2,481 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 25,971 | 2026-08-07 | 12 |
+| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hydralauncher/hydra](../repos/hydralauncher/hydra.md) | ⭐ 16,931 | 2026-09-06 | 2 |
+| [ItzCrazyKns/Vane](../repos/ItzCrazyKns/Vane.md) | ⭐ 36,786 | 2026-08-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alsk1992/CloddsBot](../repos/alsk1992/CloddsBot.md) | ⭐ 2,663 | 2026-09-10 | 3 |
+| [nashsu/llm_wiki](../repos/nashsu/llm_wiki.md) | ⭐ 19,461 | 2026-09-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nashsu/llm_wiki](../repos/nashsu/llm_wiki.md) | ⭐ 19,321 | 2026-09-10 | 3 |
+| [nab138/iloader](../repos/nab138/iloader.md) | ⭐ 3,310 | 2026-09-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nab138/iloader](../repos/nab138/iloader.md) | ⭐ 3,242 | 2026-09-12 | 2 |
+| [tech-leads-club/agent-skills](../repos/tech-leads-club/agent-skills.md) | ⭐ 6,008 | 2026-09-13 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tech-leads-club/agent-skills](../repos/tech-leads-club/agent-skills.md) | ⭐ 5,580 | 2026-09-13 | 1 |
+| [microsoft/AI-Engineering-Coach](../repos/microsoft/AI-Engineering-Coach.md) | ⭐ 4,117 | 2026-09-13 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ColeMurray/background-agents](../repos/ColeMurray/background-agents.md) | ⭐ 3,012 | 2026-09-13 | 1 |
+| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 36,864 | 2026-09-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/AI-Engineering-Coach](../repos/microsoft/AI-Engineering-Coach.md) | ⭐ 4,018 | 2026-09-13 | 1 |
+| [reconurge/flowsint](../repos/reconurge/flowsint.md) | ⭐ 8,296 | 2026-09-14 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cordiverse/cordis](../repos/cordiverse/cordis.md) | ⭐ 6,099 | 2026-08-15 | Meta-Framework of Spatiotemporal Composability |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [THU-MAIC/OpenMAIC](../repos/THU-MAIC/OpenMAIC.md) | ⭐ 35,216 | 2026-08-15 | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in jus... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [strapi/strapi](../repos/strapi/strapi.md) | ⭐ 72,929 | 2026-08-15 | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript&#x2F;TypeScript, fully customi... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nexmoe/VidBee](../repos/nexmoe/VidBee.md) | ⭐ 10,218 | 2026-08-15 | Download videos from almost any website worldwide |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vuejs/core](../repos/vuejs/core.md) | ⭐ 54,185 | 2026-08-15 | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [elastic/kibana](../repos/elastic/kibana.md) | ⭐ 21,245 | 2026-08-15 | Your window into all of your data |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [liustack/modlens](../repos/liustack/modlens.md) | ⭐ 2,781 | 2026-08-15 | The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding ag... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [calcom/cal.diy](../repos/calcom/cal.diy.md) | ⭐ 47,626 | 2026-08-15 | Scheduling infrastructure for absolutely everyone. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [p2r3/convert](../repos/p2r3/convert.md) | ⭐ 3,867 | 2026-08-15 | Truly universal online file converter |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [remotion-dev/remotion](../repos/remotion-dev/remotion.md) | ⭐ 56,495 | 2026-08-16 | 🎥      Make videos programmatically with React |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [chaitanyagiri/munder-difflin](../repos/chaitanyagiri/munder-difflin.md) | ⭐ 3,374 | 2026-08-16 | local multi-agent harness |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | High performance self-hosted photo and video management solution. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [agalwood/Motrix](../repos/agalwood/Motrix.md) | ⭐ 54,244 | 2026-08-17 | A full-featured download manager. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Gitlawb/openclaude](../repos/Gitlawb/openclaude.md) | ⭐ 32,553 | 2026-08-17 | runs anywhere. uses anything |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [evershopcommerce/evershop](../repos/evershopcommerce/evershop.md) | ⭐ 10,370 | 2026-08-17 | 🛍️ Typescript E-commerce Platform |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [genlayerlabs/genlayer-project-boilerplate](../repos/genlayerlabs/genlayer-project-boilerplate.md) | ⭐ 15,923 | 2026-08-19 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rmyndharis/OpenWA](../repos/rmyndharis/OpenWA.md) | ⭐ 13,718 | 2026-08-19 | Free, Open Source, Self-Hosted WhatsApp API Gateway |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bia-pain-bache/BPB-Worker-Panel](../repos/bia-pain-bache/BPB-Worker-Panel.md) | ⭐ 13,085 | 2026-08-19 | A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [eneskirca/nodeterm](../repos/eneskirca/nodeterm.md) | ⭐ 1,675 | 2026-08-19 | Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessi... |
 
 
 ---
@@ -96,7 +96,7 @@
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,718 | 2026-08-02 | 5 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 131,955 | 2026-08-02 | 10 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
-| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 111,787 | 2026-08-17 | 2 |
+| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 102,103 | 2026-08-07 | 8 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
@@ -121,9 +121,9 @@
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 11 | ⭐ 48,711 | 2026-08-08 | 2026-09-10 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 10 | ⭐ 131,955 | 2026-08-02 | 2026-09-07 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 10 | ⭐ 67,255 | 2026-08-11 | 2026-09-12 |
+| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 9 | ⭐ 26,666 | 2026-08-01 | 2026-09-14 |
 | [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 9 | ⭐ 71,802 | 2026-08-10 | 2026-09-09 |
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 8 | ⭐ 26,582 | 2026-08-01 | 2026-09-13 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.256Z*
+*Last updated: 2026-09-14T21:01:48.475Z*

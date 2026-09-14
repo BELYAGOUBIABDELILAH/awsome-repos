@@ -1,6 +1,6 @@
 # alphaXiv&#x2F;OpenResearch
 
-> Run parallel research agents with any model
+> Turn your coding agents into research agents
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;alphaXiv&#x2F;OpenResearch) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | MIT |
-| **Stars** | ⭐ 1,989 |
-| **Forks** | 🍴 143 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 2,474 |
+| **Forks** | 🍴 160 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #11 |
 
 | **First Seen** | Sep 10, 2026 |
-| **Last Seen** | Sep 13, 2026 |
+| **Last Seen** | Sep 14, 2026 |
 
 
 ---
@@ -48,8 +48,8 @@
 ### Highlights
 
 - **Peak Rank**: #11
-- **Trending Days**: 3
-- **Longest Streak**: 2 days
+- **Trending Days**: 4
+- **Longest Streak**: 3 days
 
 ---
 
@@ -86,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 55&#x2F;100
+- **Trending Score**: 75&#x2F;100
 - **Historical Rank**: Peak: #11
 
 
 ---
 
-*Last updated: 2026-09-13T21:01:37.077Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-09-14T21:01:53.880Z*  
+*Data from 4 trending reports*

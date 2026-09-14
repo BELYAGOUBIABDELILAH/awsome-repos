@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,151 | 2026-08-02 | 19 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,707 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 721 | 2026-08-02 | 14 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,154 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 506 | 2026-08-02 | 10 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 722 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,242 | 2026-08-02 | 12 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 506 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,348 | 2026-08-03 | 10 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,242 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,096 | 2026-08-04 | 13 |
+| [newmarcel/KeepingYouAwake](../repos/newmarcel/KeepingYouAwake.md) | ⭐ 6,901 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,533 | 2026-08-04 | 11 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,105 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WenchaoD/FSCalendar](../repos/WenchaoD/FSCalendar.md) | ⭐ 10,637 | 2026-08-06 | 3 |
+| [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,442 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alexzielenski/Mousecape](../repos/alexzielenski/Mousecape.md) | ⭐ 2,069 | 2026-08-09 | 4 |
+| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,119 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveExec32](../repos/LiveContainer/LiveExec32.md) | ⭐ 252 | 2026-09-10 | 2 |
+| [alexzielenski/Mousecape](../repos/alexzielenski/Mousecape.md) | ⭐ 2,073 | 2026-08-09 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Giphy/giphy-ios-sdk](../repos/Giphy/giphy-ios-sdk.md) | ⭐ 132 | 2026-08-15 | Home of the GIPHY SDK iOS example app, along with iOS SDK documentation, issue tracking, &amp; releas... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [stripe/stripe-terminal-ios](../repos/stripe/stripe-terminal-ios.md) | ⭐ 133 | 2026-08-15 | Stripe Terminal iOS SDK |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [datatheorem/TrustKit](../repos/datatheorem/TrustKit.md) | ⭐ 2,140 | 2026-08-19 | Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS. |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tiktok/tiktok-business-ios-sdk](../repos/tiktok/tiktok-business-ios-sdk.md) | ⭐ 33 | 2026-08-23 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoftconnect/ms-intune-app-sdk-ios](../repos/microsoftconnect/ms-intune-app-sdk-ios.md) | ⭐ 115 | 2026-08-24 | Intune App SDK for iOS enables data protection and mobile app management features in iOS mobile a... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jverdi/JVFloatLabeledTextField](../repos/jverdi/JVFloatLabeledTextField.md) | ⭐ 7,141 | 2026-08-27 | UITextField subclass with floating labels - inspired by Matt D. Smith&#39;s design: http:&#x2F;&#x2F;dribbble.c... |
 
 
 ---
@@ -91,10 +91,10 @@
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,385 | 2026-08-02 | 6 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 26 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,151 | 2026-08-02 | 19 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,154 | 2026-08-02 | 20 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,610 | 2026-08-04 | 18 |
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,096 | 2026-08-04 | 13 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,105 | 2026-08-04 | 14 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,923 | 2026-08-04 | 9 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,099 | 2026-08-01 | 8 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
@@ -104,8 +104,8 @@
 | [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,348 | 2026-08-03 | 10 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,319 | 2026-08-04 | 10 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
-| [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,441 | 2026-08-06 | 2 |
-| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,117 | 2026-08-07 | 6 |
+| [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,442 | 2026-08-06 | 3 |
+| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,119 | 2026-08-07 | 7 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
 | [bang590/JSPatch](../repos/bang590/JSPatch.md) | ⭐ 11,324 | 2026-09-13 | 1 |
 
@@ -120,8 +120,8 @@
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 26 | ⭐ 25,633 | 2026-08-01 | 2026-09-08 |
 | [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 25 | ⭐ 292 | 2026-08-01 | 2026-09-09 |
 | [google/promises](../repos/google/promises.md) | 24 | ⭐ 3,830 | 2026-08-01 | 2026-09-09 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 20 | ⭐ 22,154 | 2026-08-02 | 2026-09-14 |
 | [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 20 | ⭐ 2,029 | 2026-08-08 | 2026-09-08 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 19 | ⭐ 22,151 | 2026-08-02 | 2026-09-13 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 19 | ⭐ 676 | 2026-08-04 | 2026-09-09 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 18 | ⭐ 16,610 | 2026-08-04 | 2026-09-12 |
 | [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 16 | ⭐ 4,494 | 2026-08-05 | 2026-09-04 |
@@ -226,4 +226,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.228Z*
+*Last updated: 2026-09-14T21:01:48.447Z*

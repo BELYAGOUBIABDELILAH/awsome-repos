@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 240
+- **Total Repositories**: 244
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-09-08
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 22,841 | 2026-08-01 | 16 |
+| [Solr159/JavBoss](../repos/Solr159/JavBoss.md) | ⭐ 634 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | ⭐ 35,527 | 2026-08-02 | 8 |
+| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 37,994 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [authelia/authelia](../repos/authelia/authelia.md) | ⭐ 28,948 | 2026-08-03 | 6 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 127,708 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [restic/restic](../repos/restic/restic.md) | ⭐ 36,032 | 2026-08-03 | 3 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 24,406 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 37,957 | 2026-08-03 | 8 |
+| [navidrome/navidrome](../repos/navidrome/navidrome.md) | ⭐ 23,555 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 7,364 | 2026-08-06 | 4 |
+| [fluxcd/flux2](../repos/fluxcd/flux2.md) | ⭐ 8,405 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 23,892 | 2026-08-06 | 8 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 25,451 | 2026-08-20 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | 2026-08-07 | 2 |
+| [tbphp/gpt-load](../repos/tbphp/gpt-load.md) | ⭐ 6,740 | 2026-09-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [charmbracelet/crush](../repos/charmbracelet/crush.md) | ⭐ 28,052 | 2026-08-08 | 5 |
+| [operacle/checkcle](../repos/operacle/checkcle.md) | ⭐ 3,196 | 2026-09-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [navidrome/navidrome](../repos/navidrome/navidrome.md) | ⭐ 23,528 | 2026-08-08 | 5 |
+| [yorukot/superfile](../repos/yorukot/superfile.md) | ⭐ 23,241 | 2026-09-14 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,971 | 2026-08-15 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kenn-io/agentsview](../repos/kenn-io/agentsview.md) | ⭐ 5,048 | 2026-08-15 | Local-first session search, analytics, insights, and token use statistics for coding agents, supp... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [compozy/compozy](../repos/compozy/compozy.md) | ⭐ 2,694 | 2026-08-15 | An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Ge... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [opentofu/opentofu](../repos/opentofu/opentofu.md) | ⭐ 30,060 | 2026-08-15 | OpenTofu lets you declaratively manage your cloud infrastructure. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ViRb3/wgcf](../repos/ViRb3/wgcf.md) | ⭐ 8,613 | 2026-08-16 | 🚤 Cross-platform, unofficial CLI for Cloudflare Warp |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mickael-kerjean/filestash](../repos/mickael-kerjean/filestash.md) | ⭐ 14,499 | 2026-08-17 | :file_folder: Universal File Storage Client |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mvanhorn/cli-printing-press](../repos/mvanhorn/cli-printing-press.md) | ⭐ 4,467 | 2026-08-17 | Every API has a secret identity. This finds it, absorbs every feature from every competing tool, ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [asheshgoplani/agent-deck](../repos/asheshgoplani/agent-deck.md) | ⭐ 754 | 2026-08-17 | Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and m... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [argoproj/argo-workflows](../repos/argoproj/argo-workflows.md) | ⭐ 16,929 | 2026-08-19 | Workflow Engine for Kubernetes |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Gaurav-Gosain/tuios](../repos/Gaurav-Gosain/tuios.md) | ⭐ 3,446 | 2026-08-19 | Terminal UI OS (Terminal Multiplexer) |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,475 | 2026-08-01 | 13 |
 | [golang/go](../repos/golang/go.md) | ⭐ 137,097 | 2026-07-31 | 7 |
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 125,949 | 2026-08-04 | 4 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 127,708 | 2026-08-04 | 5 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,971 | 2026-08-15 | 5 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 90,459 | 2026-08-06 | 9 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
@@ -122,9 +122,9 @@
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 12 | ⭐ 37,782 | 2026-08-01 | 2026-09-04 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 10 | ⭐ 48,995 | 2026-08-01 | 2026-09-05 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 10 | ⭐ 1,756 | 2026-08-02 | 2026-09-04 |
+| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 9 | ⭐ 37,994 | 2026-08-03 | 2026-09-14 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 9 | ⭐ 90,459 | 2026-08-06 | 2026-09-10 |
-| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 8 | ⭐ 35,527 | 2026-08-02 | 2026-09-13 |
-| [superplanehq/superplane](../repos/superplanehq/superplane.md) | 8 | ⭐ 7,018 | 2026-08-02 | 2026-09-10 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 9 | ⭐ 24,406 | 2026-08-06 | 2026-09-14 |
 
 ---
 
@@ -151,7 +151,7 @@
 - [superplanehq/superplane](../repos/superplanehq/superplane.md) - Open source factory for one-shot engineering
 - [stretchr/testify](../repos/stretchr/testify.md) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [agent-substrate/substrate](../repos/agent-substrate/substrate.md) - Agent Substrate: the core system
-- [Solr159/JavBoss](../repos/Solr159/JavBoss.md) - 开箱即用的本地 JAV&#x2F;视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV&#x2F;视频 媒体库，带给你顶级的浏览体验，懒人必备。| You...
+- [Solr159/JavBoss](../repos/Solr159/JavBoss.md) - 开箱即用的本地 JAV&#x2F;视频 刮削、管理、播放软件，支持命令行一键安装和 Docker 部署。只需简单添加目录，即可打造你的私人 JAV&#x2F;视频 媒体库，带给你顶级的浏览体验，懒人必备。| You...
 - [XTLS/Xray-core](../repos/XTLS/Xray-core.md) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform ...
 - [kgretzky/evilginx2](../repos/kgretzky/evilginx2.md) - Standalone man-in-the-middle attack framework used for phishing login credentials along with sess...
 - [AlexxIT/go2rtc](../repos/AlexxIT/go2rtc.md) - Ultimate camera streaming application
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.196Z*
+*Last updated: 2026-09-14T21:01:48.418Z*

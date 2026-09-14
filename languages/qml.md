@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Swordfish90/cool-retro-term](../repos/Swordfish90/cool-retro-term.md) | ⭐ 26,198 | 2026-09-13 | 1 |
 
+*No QML repositories trending today*
 
 ---
 
@@ -52,4 +50,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.239Z*
+*Last updated: 2026-09-14T21:01:48.458Z*

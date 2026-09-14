@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 135
+- **Total Repositories**: 136
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-13
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 62,590 | 2026-08-02 | 13 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 62,632 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,752 | 2026-08-03 | 10 |
+| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 7,621 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,790 | 2026-08-03 | 7 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,670 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,080 | 2026-08-08 | 12 |
+| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | ⭐ 1,710 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | ⭐ 6,271 | 2026-08-09 | 4 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,859 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Davidona/StreamVault-IPTV](../repos/Davidona/StreamVault-IPTV.md) | ⭐ 728 | 2026-08-12 | 4 |
+| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 7,806 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keiyoushi/extensions-source](../repos/keiyoushi/extensions-source.md) | ⭐ 4,669 | 2026-08-16 | 5 |
+| [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,338 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [A-EDev/Flow](../repos/A-EDev/Flow.md) | ⭐ 2,195 | 2026-08-19 | 4 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,136 | 2026-08-08 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuzono/anime-extensions](../repos/yuzono/anime-extensions.md) | ⭐ 426 | 2026-08-24 | 2 |
+| [rushiranpise/morphe-patches](../repos/rushiranpise/morphe-patches.md) | ⭐ 668 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,095 | 2026-09-07 | 2 |
+| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,241 | 2026-08-09 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tristinbaker/IdleFantasy](../repos/tristinbaker/IdleFantasy.md) | ⭐ 414 | 2026-08-15 | Fantasy Inspired Idle Skilling Game |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [wgtunnel/android](../repos/wgtunnel/android.md) | ⭐ 3,152 | 2026-08-15 | A FOSS WireGuard &amp; AmneziaWG Android client with auto-tunneling, lockdown &amp; local proxying. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [osfans/trime](../repos/osfans/trime.md) | ⭐ 4,618 | 2026-08-15 | 同文安卓輸入法平臺3.x&#x2F;Android-rime&#x2F;Rime Input Method Engine for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SpaceNeuroX/proxy-turn-vk-android](../repos/SpaceNeuroX/proxy-turn-vk-android.md) | ⭐ 234 | 2026-08-16 |  |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 1,012 | 2026-08-19 | 虚拟定位软件，主要是定位，集成了 WiFi、蓝牙、基站等方案，主要有定点模拟和路线模拟。非全局方案，需要单独 hook 对应的软件(因为不想单独去适配各大手机厂商的系统)， |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [YenalyLiew/Han1meViewer](../repos/YenalyLiew/Han1meViewer.md) | ⭐ 3,309 | 2026-08-19 | [Deprecated] Thanks for your support! |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [amurcanov/proxy-turn-vk-android](../repos/amurcanov/proxy-turn-vk-android.md) | ⭐ 1,165 | 2026-08-19 | WireGuard‑туннель через DTLS‑медиарелей ВК TURN‑серверов: трафик проходит от клиента к вашему лич... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zhanghai/MaterialFiles](../repos/zhanghai/MaterialFiles.md) | ⭐ 8,878 | 2026-08-19 | Material Design file manager for Android |
 
 
 ---
@@ -89,12 +89,12 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,752 | 2026-08-03 | 10 |
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 62,590 | 2026-08-02 | 13 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 62,632 | 2026-08-02 | 14 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,402 | 2026-08-04 | 10 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,144 | 2026-08-06 | 12 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,790 | 2026-08-03 | 7 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,080 | 2026-08-08 | 12 |
-| [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,262 | 2026-08-05 | 4 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,859 | 2026-08-03 | 8 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,136 | 2026-08-08 | 13 |
+| [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,338 | 2026-08-05 | 5 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,730 | 2026-08-11 | 3 |
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,641 | 2026-08-12 | 3 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,457 | 2026-08-05 | 5 |
@@ -115,11 +115,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 13 | ⭐ 62,590 | 2026-08-02 | 2026-09-13 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 14 | ⭐ 62,632 | 2026-08-02 | 2026-09-14 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 13 | ⭐ 30,136 | 2026-08-08 | 2026-09-14 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 12 | ⭐ 23,441 | 2026-08-01 | 2026-09-07 |
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 12 | ⭐ 845 | 2026-08-05 | 2026-09-12 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 12 | ⭐ 53,144 | 2026-08-06 | 2026-09-06 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 12 | ⭐ 30,080 | 2026-08-08 | 2026-09-13 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 11 | ⭐ 2,342 | 2026-08-02 | 2026-09-07 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 10 | ⭐ 4,386 | 2026-08-02 | 2026-08-26 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 10 | ⭐ 11,337 | 2026-08-02 | 2026-09-07 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.215Z*
+*Last updated: 2026-09-14T21:01:48.435Z*

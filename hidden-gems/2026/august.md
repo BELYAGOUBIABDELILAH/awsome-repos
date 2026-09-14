@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 455
+**Gems Found**: 448
 
 ---
 
@@ -171,27 +171,7 @@
 
 ---
 
-### 9. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
-
-**OCTO Android Client — Open-source enterprise IM**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 613 |
-| 💻 **Language** | Java |
-| 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 7, 2026 |
-
-**Why it's a gem**: High growth velocity (+45 stars&#x2F;day) • Trending 6 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
-
----
-
-### 10. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
+### 9. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
 
 **Open-source framework for the research and development of foundation models.**
 
@@ -211,6 +191,26 @@
 
 ---
 
+### 10. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+
+**OCTO Android Client — Open-source enterprise IM**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 613 |
+| 💻 **Language** | Java |
+| 🏆 **Gem Score** | 86/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 7, 2026 |
+
+**Why it's a gem**: High growth velocity (+45 stars&#x2F;day) • Trending 6 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
+
+---
+
 ### 11. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
 
 **Help AI coding agents write modern Go**
@@ -219,7 +219,7 @@
 |---|---|
 | ⭐ **Stars** | 2,846 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 87/100 |
+| 🏆 **Gem Score** | 86/100 |
 | 📈 **Trending Days** | 3 |
 | 📅 **First Seen** | Aug 27, 2026 |
 
@@ -231,27 +231,7 @@
 
 ---
 
-### 12. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
-
-**BookOrbit: Your Reading Space**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,033 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+195 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/bookorbit/bookorbit.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;bookorbit&#x2F;bookorbit)
-
----
-
-### 13. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
+### 12. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
 
 **A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.**
 
@@ -271,7 +251,7 @@
 
 ---
 
-### 14. [mnfst&#x2F;awesome-free-llm-apis](../../repos/mnfst/awesome-free-llm-apis.md)
+### 13. [mnfst&#x2F;awesome-free-llm-apis](../../repos/mnfst/awesome-free-llm-apis.md)
 
 **List of Permanent Free LLM API  (API Keys)**
 
@@ -291,6 +271,26 @@
 
 ---
 
+### 14. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
+
+**BookOrbit: Your Reading Space**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,033 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 85/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+195 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/bookorbit/bookorbit.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;bookorbit&#x2F;bookorbit)
+
+---
+
 ### 15. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
 
 **Mission control for your AI agents**
@@ -303,7 +303,7 @@
 | 📈 **Trending Days** | 2 |
 | 📅 **First Seen** | Aug 26, 2026 |
 
-**Why it's a gem**: High growth velocity (+86 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+86 stars&#x2F;day) • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-13T21:01:37.423Z*  
+*Generated: 2026-09-14T21:01:54.288Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 84
+- **Total Repositories**: 85
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-13
+- **Last Updated**: 2026-09-14
 
 ---
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,818 | 2026-08-02 | 6 |
+| [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 12,853 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,978 | 2026-08-03 | 10 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 21,868 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/website](../repos/kubernetes/website.md) | ⭐ 5,384 | 2026-08-03 | 3 |
+| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,297 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,539 | 2026-08-04 | 8 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,014 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | ⭐ 5,089 | 2026-08-06 | 8 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,540 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 3,828 | 2026-08-11 | 6 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,152 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ultrasecurity/Storm-Breaker](../repos/ultrasecurity/Storm-Breaker.md) | ⭐ 5,970 | 2026-08-29 | 2 |
+| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | ⭐ 5,100 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [horilla/horilla-hr](../repos/horilla/horilla-hr.md) | ⭐ 1,417 | 2026-09-12 | 2 |
+| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,744 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinkerhub/useless_project_temp](../repos/tinkerhub/useless_project_temp.md) | ⭐ 42 | 2026-09-13 | 1 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,595 | 2026-08-09 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apna-college/Delta](../repos/apna-college/Delta.md) | ⭐ 1,123 | 2026-09-13 | 1 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 4,102 | 2026-08-11 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Arrow-air/project-quiver](../repos/Arrow-air/project-quiver.md) | ⭐ 368 | 2026-08-15 | Project Quiver documentation, designs, and project artifacts. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [L1AD/claude-task-viewer](../repos/L1AD/claude-task-viewer.md) | ⭐ 752 | 2026-08-15 | A web-based Kanban board for viewing Claude Code tasks |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [github/training-kit](../repos/github/training-kit.md) | ⭐ 5,060 | 2026-08-15 | Open source courseware for Git and GitHub |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [colonelpanichacks/flock-you](../repos/colonelpanichacks/flock-you.md) | ⭐ 1,281 | 2026-08-15 | flock cam detection |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [judge0/judge0](../repos/judge0/judge0.md) | ⭐ 4,375 | 2026-08-15 | Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nova-video-player/aos-AVP](../repos/nova-video-player/aos-AVP.md) | ⭐ 4,618 | 2026-08-16 | NOVA opeN sOurce Video plAyer: main repository to build them all |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,182 | 2026-08-19 | A one stop repository for generative AI research updates, interview resources, notebooks and much... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [webmin/webmin](../repos/webmin/webmin.md) | ⭐ 6,018 | 2026-08-23 | Powerful and flexible web-based server management control panel |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [w3c/wcag](../repos/w3c/wcag.md) | ⭐ 1,482 | 2026-08-24 | Web Content Accessibility Guidelines |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [davidarroyo1234/InstagramUnfollowers](../repos/davidarroyo1234/InstagramUnfollowers.md) | ⭐ 4,839 | 2026-08-26 | Check if people follows you back on Instagram. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Manavarya09/design-extract](../repos/Manavarya09/design-extract.md) | ⭐ 4,049 | 2026-08-27 | Extract any website&#39;s complete design system with one command. DTCG tokens, semantic+primitive+co... |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 208,978 | 2026-08-03 | 10 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,014 | 2026-08-03 | 11 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 135,251 | 2026-08-08 | 11 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,438 | 2026-08-19 | 6 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,728 | 2026-08-01 | 12 |
@@ -98,12 +98,12 @@
 | [fengdu78/Coursera-ML-AndrewNg-Notes](../repos/fengdu78/Coursera-ML-AndrewNg-Notes.md) | ⭐ 37,699 | 2026-09-06 | 1 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 37,645 | 2026-08-12 | 11 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,595 | 2026-08-09 | 8 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,182 | 2026-08-19 | 5 |
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,171 | 2026-08-09 | 7 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,402 | 2026-08-03 | 8 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 26,052 | 2026-08-04 | 8 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 21,209 | 2026-08-01 | 5 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 21,868 | 2026-08-01 | 6 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,479 | 2026-08-03 | 4 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
 | [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | 1 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 12 | ⭐ 65,728 | 2026-08-01 | 2026-09-07 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 12 | ⭐ 9,214 | 2026-08-03 | 2026-09-12 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | 11 | ⭐ 209,014 | 2026-08-03 | 2026-09-14 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 11 | ⭐ 135,251 | 2026-08-08 | 2026-08-25 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 11 | ⭐ 37,645 | 2026-08-12 | 2026-09-10 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 10 | ⭐ 9,776 | 2026-08-01 | 2026-09-03 |
-| [ossu/computer-science](../repos/ossu/computer-science.md) | 10 | ⭐ 208,978 | 2026-08-03 | 2026-09-13 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 9 | ⭐ 16,540 | 2026-08-04 | 2026-09-14 |
+| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | 9 | ⭐ 5,100 | 2026-08-06 | 2026-09-14 |
 | [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 8 | ⭐ 9,116 | 2026-08-03 | 2026-09-02 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 8 | ⭐ 27,402 | 2026-08-03 | 2026-09-07 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 8 | ⭐ 26,052 | 2026-08-04 | 2026-09-10 |
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 8 | ⭐ 16,539 | 2026-08-04 | 2026-09-13 |
 
 ---
 
@@ -214,7 +214,8 @@
 - [comfyanonymous/ComfyUI_examples](../repos/comfyanonymous/ComfyUI_examples.md) - Examples of ComfyUI workflows
 - [tinkerhub/useless_project_temp](../repos/tinkerhub/useless_project_temp.md) - 
 - [apna-college/Delta](../repos/apna-college/Delta.md) - 
+- [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) - AI 时代的伯克希尔：基于 Claude Code &#x2F; Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: ...
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.201Z*
+*Last updated: 2026-09-14T21:01:48.423Z*

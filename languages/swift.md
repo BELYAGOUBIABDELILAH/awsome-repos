@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 105
+- **Total Repositories**: 106
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-09
 
@@ -16,40 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 12,118 | 2026-08-01 | 17 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 12,147 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [osaurus-ai/osaurus](../repos/osaurus-ai/osaurus.md) | ⭐ 7,907 | 2026-08-04 | 6 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,968 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,218 | 2026-08-12 | 6 |
+| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 6,443 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 3,060 | 2026-09-01 | 6 |
+| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,397 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Manic-EMU/ManicEMU](../repos/Manic-EMU/ManicEMU.md) | ⭐ 501 | 2026-09-07 | 2 |
+| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,395 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 663 | 2026-09-13 | 1 |
+| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 3,224 | 2026-09-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 677 | 2026-09-13 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [nightscout/Trio](../repos/nightscout/Trio.md) | ⭐ 381 | 2026-09-14 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [stripe/stripe-ios](../repos/stripe/stripe-ios.md) | ⭐ 2,562 | 2026-08-15 | Stripe iOS SDK     |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [facebook/facebook-ios-sdk](../repos/facebook/facebook-ios-sdk.md) | ⭐ 8,086 | 2026-08-15 | Used to integrate the Facebook Platform with your iOS &amp; tvOS apps. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | Reactive Programming in Swift |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [quoid/userscripts](../repos/quoid/userscripts.md) | ⭐ 4,730 | 2026-08-16 | An open-source userscript manager for Safari |
@@ -71,6 +65,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [leminlimez/Pocket-Poster](../repos/leminlimez/Pocket-Poster.md) | ⭐ 441 | 2026-08-17 | Custom PosterBoard Wallpapers for iOS 17-26.1 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [yonaskolb/XcodeGen](../repos/yonaskolb/XcodeGen.md) | ⭐ 8,736 | 2026-08-19 | A Swift command line tool for generating your Xcode project |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [swiftlang/swift-package-manager](../repos/swiftlang/swift-package-manager.md) | ⭐ 10,216 | 2026-08-19 | The Package Manager for the Swift Programming Language |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jipika/WaifuX](../repos/jipika/WaifuX.md) | ⭐ 1,274 | 2026-08-20 | macos (mac) Wallhaven · MotionBG · Anime | 壁纸 · 动态壁纸 · 番剧 |
 
 
 ---
@@ -96,8 +99,8 @@
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,892 | 2026-08-04 | 12 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,516 | 2026-08-03 | 1 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,482 | 2026-08-24 | 5 |
+| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,395 | 2026-08-08 | 7 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,327 | 2026-08-17 | 7 |
-| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,244 | 2026-08-08 | 6 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | 2026-08-01 | 3 |
 
 ---
@@ -106,7 +109,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 17 | ⭐ 12,118 | 2026-08-01 | 2026-09-13 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 18 | ⭐ 12,147 | 2026-08-01 | 2026-09-14 |
 | [apple/container](../repos/apple/container.md) | 13 | ⭐ 49,834 | 2026-08-01 | 2026-09-10 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 12 | ⭐ 14,892 | 2026-08-04 | 2026-08-29 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 11 | ⭐ 26,992 | 2026-08-01 | 2026-09-10 |
@@ -114,8 +117,8 @@
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 10 | ⭐ 26,866 | 2026-08-04 | 2026-09-04 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 9 | ⭐ 6,257 | 2026-08-01 | 2026-09-02 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 9 | ⭐ 3,308 | 2026-08-01 | 2026-09-04 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 8 | ⭐ 8,968 | 2026-08-02 | 2026-09-14 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 8 | ⭐ 8,512 | 2026-08-04 | 2026-09-05 |
-| [sozercan/kaset](../repos/sozercan/kaset.md) | 8 | ⭐ 2,241 | 2026-08-04 | 2026-09-10 |
 
 ---
 
@@ -224,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.253Z*
+*Last updated: 2026-09-14T21:01:48.472Z*

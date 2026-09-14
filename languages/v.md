@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 3
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-13
+- **Last Updated**: 2026-09-14
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,857 | 2026-08-01 | 36 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,866 | 2026-08-01 | 37 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,259 | 2026-09-09 | 4 |
 
 
 ---
@@ -25,7 +28,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,235 | 2026-09-09 | Vinix is an effort to write a modern, fast, and useful operating system in the V programming lang... |
+| [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,259 | 2026-09-09 | Vinix is an effort to write a modern, fast, and useful operating system in the V programming lang... |
 
 
 ---
@@ -34,8 +37,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,857 | 2026-08-01 | 36 |
-| [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,235 | 2026-09-09 | 3 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 37,866 | 2026-08-01 | 37 |
+| [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,259 | 2026-09-09 | 4 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | ⭐ 206 | 2026-08-09 | 2 |
 
 ---
@@ -44,8 +47,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vlang/v](../repos/vlang/v.md) | 36 | ⭐ 37,857 | 2026-08-01 | 2026-09-13 |
-| [vlang/vinix](../repos/vlang/vinix.md) | 3 | ⭐ 2,235 | 2026-09-09 | 2026-09-12 |
+| [vlang/v](../repos/vlang/v.md) | 37 | ⭐ 37,866 | 2026-08-01 | 2026-09-14 |
+| [vlang/vinix](../repos/vlang/vinix.md) | 4 | ⭐ 2,259 | 2026-09-09 | 2026-09-14 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | 2 | ⭐ 206 | 2026-08-09 | 2026-08-11 |
 
 ---
@@ -58,4 +61,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.257Z*
+*Last updated: 2026-09-14T21:01:48.476Z*

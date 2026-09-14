@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 130
+- **Total Repositories**: 134
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,37 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | ⭐ 8,744 | 2026-08-02 | 4 |
+| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 6,195 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 6,161 | 2026-08-02 | 6 |
+| [huangxd-/danmu_api](../repos/huangxd-/danmu_api.md) | ⭐ 3,139 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 11,276 | 2026-08-03 | 5 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 94,299 | 2026-08-05 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 39,516 | 2026-08-06 | 8 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 33,415 | 2026-08-27 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 31,660 | 2026-08-27 | 6 |
+| [qist/tvbox](../repos/qist/tvbox.md) | ⭐ 11,283 | 2026-09-14 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shaun8149/sdf-js](../repos/shaun8149/sdf-js.md) | ⭐ 269 | 2026-09-13 | 1 |
+| [playcanvas/engine](../repos/playcanvas/engine.md) | ⭐ 16,784 | 2026-09-14 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [yuliskov/SmartTubeLegacy](../repos/yuliskov/SmartTubeLegacy.md) | ⭐ 4,559 | 2026-09-14 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [plugin87/ux-ui-agent-skills](../repos/plugin87/ux-ui-agent-skills.md) | ⭐ 1,300 | 2026-09-14 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OpenSignLabs/OpenSign](../repos/OpenSignLabs/OpenSign.md) | ⭐ 6,847 | 2026-08-15 | 🔥 The free &amp; Open Source DocuSign alternative |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [JannisX11/blockbench](../repos/JannisX11/blockbench.md) | ⭐ 5,789 | 2026-08-15 | Blockbench - A low poly 3D model editor |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [carbon-design-system/carbon](../repos/carbon-design-system/carbon.md) | ⭐ 9,409 | 2026-08-15 | A design system built by IBM |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [IRNova/Nova-Proxy](../repos/IRNova/Nova-Proxy.md) | ⭐ 3,047 | 2026-08-16 | یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره... |
@@ -68,6 +65,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Darkatse/TauriTavern](../repos/Darkatse/TauriTavern.md) | ⭐ 1,344 | 2026-08-19 | The classic Sillytavern, now has been rewritten in Tauri&#x2F;Rust. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [remoteintech/remote-jobs](../repos/remoteintech/remote-jobs.md) | ⭐ 40,725 | 2026-08-19 | Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Piebald-AI/claude-code-system-prompts](../repos/Piebald-AI/claude-code-system-prompts.md) | ⭐ 12,382 | 2026-08-19 | All parts of Claude Code&#39;s system prompt, 27 builtin tool descriptions, sub agent prompts (Plan&#x2F;E... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [layer5io/layer5](../repos/layer5io/layer5.md) | ⭐ 1,098 | 2026-08-19 | Layer5, expect more from your infrastructure |
 
 
 ---
@@ -84,7 +90,7 @@
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 92,430 | 2026-08-05 | 17 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 94,299 | 2026-08-05 | 18 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 66,586 | 2026-08-05 | 11 |
@@ -103,7 +109,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 17 | ⭐ 92,430 | 2026-08-05 | 2026-09-05 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 18 | ⭐ 94,299 | 2026-08-05 | 2026-09-14 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 16 | ⭐ 43,692 | 2026-08-04 | 2026-09-02 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [byoungd/up](../repos/byoungd/up.md) | 13 | ⭐ 62,555 | 2026-08-01 | 2026-09-09 |
@@ -221,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-09-13T21:01:32.209Z*
+*Last updated: 2026-09-14T21:01:48.430Z*
