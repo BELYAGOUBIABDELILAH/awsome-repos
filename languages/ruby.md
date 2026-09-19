@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 87
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-14
+- **Last Updated**: 2026-09-19
 
 ---
 
@@ -16,61 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,740 | 2026-08-01 | 20 |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,871 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,540 | 2026-08-01 | 11 |
+| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 5,926 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [antiwork/gumroad](../repos/antiwork/gumroad.md) | ⭐ 9,687 | 2026-08-01 | 18 |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,148 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [we-promise/sure](../repos/we-promise/sure.md) | ⭐ 9,916 | 2026-08-02 | 20 |
+| [spree/spree](../repos/spree/spree.md) | ⭐ 15,710 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rails/rails](../repos/rails/rails.md) | ⭐ 58,757 | 2026-08-02 | 23 |
+| [instructure/canvas-lms](../repos/instructure/canvas-lms.md) | ⭐ 6,824 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,528 | 2026-08-02 | 18 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,694 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,667 | 2026-08-03 | 13 |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,776 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [googleapis/google-api-ruby-client](../repos/googleapis/google-api-ruby-client.md) | ⭐ 2,898 | 2026-08-03 | 4 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 58,777 | 2026-08-02 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/explore](../repos/github/explore.md) | ⭐ 4,890 | 2026-08-09 | 16 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,131 | 2026-08-04 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [otwcode/otwarchive](../repos/otwcode/otwarchive.md) | ⭐ 2,227 | 2026-08-19 | 5 |
+| [forem/forem](../repos/forem/forem.md) | ⭐ 22,776 | 2026-08-04 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [basecamp/once-campfire](../repos/basecamp/once-campfire.md) | ⭐ 4,620 | 2026-08-16 | Super simple group chat, without a subscription |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [stripe/stripe-ruby](../repos/stripe/stripe-ruby.md) | ⭐ 2,159 | 2026-08-16 | Ruby library for the Stripe API.     |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [TheOdinProject/ruby-exercises](../repos/TheOdinProject/ruby-exercises.md) | ⭐ 309 | 2026-08-16 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [TheAlgorithms/Ruby](../repos/TheAlgorithms/Ruby.md) | ⭐ 1,316 | 2026-08-16 | All algorithms implemented in Ruby |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cncf/gitdm](../repos/cncf/gitdm.md) | ⭐ 82 | 2026-08-17 | 📜Fork for tracking CNCF projects |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [otwcode/otwarchive](../repos/otwcode/otwarchive.md) | ⭐ 2,227 | 2026-08-19 | The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rubygems/rubygems.org](../repos/rubygems/rubygems.org.md) | ⭐ 2,441 | 2026-08-19 | The Ruby community&#39;s gem hosting service. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Shopify/liquid](../repos/Shopify/liquid.md) | ⭐ 11,866 | 2026-08-22 | Liquid markup language. Safe, customer facing template language for flexible web apps.  |
@@ -80,6 +59,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ManageIQ/manageiq](../repos/ManageIQ/manageiq.md) | ⭐ 1,400 | 2026-08-24 | ManageIQ Open-Source Management Platform |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [TheOdinProject/theodinproject](../repos/TheOdinProject/theodinproject.md) | ⭐ 4,589 | 2026-08-26 | Main website for The Odin Project |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Kong/developer.konghq.com](../repos/Kong/developer.konghq.com.md) | ⭐ 28 | 2026-08-27 | 🦍 Source code for developer.konghq.com website. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [activeadmin/activeadmin](../repos/activeadmin/activeadmin.md) | ⭐ 9,707 | 2026-09-01 | The administration framework for Ruby on Rails applications. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [openai/openai-ruby](../repos/openai/openai-ruby.md) | ⭐ 455 | 2026-09-01 | Official Ruby SDK for the OpenAI API |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CocoaPods/CocoaPods](../repos/CocoaPods/CocoaPods.md) | ⭐ 14,831 | 2026-09-02 | The Cocoa Dependency Manager. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [urbanadventurer/WhatWeb](../repos/urbanadventurer/WhatWeb.md) | ⭐ 6,835 | 2026-09-03 | Next generation web scanner |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lobsters/lobsters](../repos/lobsters/lobsters.md) | ⭐ 4,821 | 2026-09-03 | Computing-focused community centered around link aggregation and discussion |
 
 
 ---
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rails/rails](../repos/rails/rails.md) | ⭐ 58,757 | 2026-08-02 | 23 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 58,777 | 2026-08-02 | 24 |
 | [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,667 | 2026-08-03 | 13 |
 | [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,922 | 2026-08-01 | 16 |
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,835 | 2026-08-01 | 26 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,108 | 2026-08-04 | 23 |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,871 | 2026-08-01 | 27 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,131 | 2026-08-04 | 24 |
 | [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 39,003 | 2026-08-01 | 24 |
-| [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,200 | 2026-08-05 | 3 |
+| [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,211 | 2026-08-05 | 4 |
 | [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,540 | 2026-08-01 | 11 |
 | [heartcombo/devise](../repos/heartcombo/devise.md) | ⭐ 24,356 | 2026-09-08 | 2 |
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,740 | 2026-08-01 | 20 |
-| [forem/forem](../repos/forem/forem.md) | ⭐ 22,773 | 2026-08-04 | 6 |
+| [forem/forem](../repos/forem/forem.md) | ⭐ 22,776 | 2026-08-04 | 7 |
 | [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,528 | 2026-08-02 | 18 |
 | [postalserver/postal](../repos/postalserver/postal.md) | ⭐ 16,797 | 2026-08-04 | 8 |
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,087 | 2026-08-01 | 24 |
-| [spree/spree](../repos/spree/spree.md) | ⭐ 15,684 | 2026-08-01 | 22 |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,148 | 2026-08-01 | 25 |
+| [spree/spree](../repos/spree/spree.md) | ⭐ 15,710 | 2026-08-01 | 23 |
 | [CocoaPods/CocoaPods](../repos/CocoaPods/CocoaPods.md) | ⭐ 14,831 | 2026-09-02 | 1 |
 | [basecamp/kamal](../repos/basecamp/kamal.md) | ⭐ 14,575 | 2026-08-12 | 7 |
 | [neutraltone/awesome-stock-resources](../repos/neutraltone/awesome-stock-resources.md) | ⭐ 14,514 | 2026-09-04 | 1 |
 | [gollum/gollum](../repos/gollum/gollum.md) | ⭐ 14,323 | 2026-09-08 | 1 |
-| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,689 | 2026-08-01 | 19 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,694 | 2026-08-01 | 20 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [discourse/discourse](../repos/discourse/discourse.md) | 26 | ⭐ 47,835 | 2026-08-01 | 2026-09-13 |
+| [discourse/discourse](../repos/discourse/discourse.md) | 27 | ⭐ 47,871 | 2026-08-01 | 2026-09-19 |
+| [opf/openproject](../repos/opf/openproject.md) | 25 | ⭐ 16,148 | 2026-08-01 | 2026-09-19 |
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 25 | ⭐ 1,071 | 2026-08-01 | 2026-09-03 |
-| [opf/openproject](../repos/opf/openproject.md) | 24 | ⭐ 16,087 | 2026-08-01 | 2026-09-12 |
 | [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | 24 | ⭐ 39,003 | 2026-08-01 | 2026-09-13 |
-| [rails/rails](../repos/rails/rails.md) | 23 | ⭐ 58,757 | 2026-08-02 | 2026-09-14 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 23 | ⭐ 42,108 | 2026-08-04 | 2026-09-13 |
-| [spree/spree](../repos/spree/spree.md) | 22 | ⭐ 15,684 | 2026-08-01 | 2026-09-10 |
+| [rails/rails](../repos/rails/rails.md) | 24 | ⭐ 58,777 | 2026-08-02 | 2026-09-19 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 24 | ⭐ 42,131 | 2026-08-04 | 2026-09-19 |
+| [spree/spree](../repos/spree/spree.md) | 23 | ⭐ 15,710 | 2026-08-01 | 2026-09-19 |
 | [ruby/ruby](../repos/ruby/ruby.md) | 20 | ⭐ 23,740 | 2026-08-01 | 2026-09-14 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | 20 | ⭐ 13,694 | 2026-08-01 | 2026-09-19 |
 | [we-promise/sure](../repos/we-promise/sure.md) | 20 | ⭐ 9,916 | 2026-08-02 | 2026-09-14 |
-| [github-linguist/linguist](../repos/github-linguist/linguist.md) | 19 | ⭐ 13,689 | 2026-08-01 | 2026-09-13 |
 
 ---
 
@@ -138,7 +138,7 @@
 - [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and loa...
 - [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 - [opf/openproject](../repos/opf/openproject.md) - OpenProject is the leading open source project management software for product, project and portf...
-- [spree/spree](../repos/spree/spree.md) - Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, an...
+- [spree/spree](../repos/spree/spree.md) - Open Source Platform for DTC, B2B Commerce, Marketplaces &amp; Omnichannel. REST APIs, TypeScript SDK...
 - [decidim/decidim](../repos/decidim/decidim.md) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
 - [instructure/canvas-lms](../repos/instructure/canvas-lms.md) - The open LMS by Instructure, Inc.
 - [DataDog/dd-trace-rb](../repos/DataDog/dd-trace-rb.md) - Datadog&#39;s client library for Ruby
@@ -220,4 +220,4 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.462Z*
+*Last updated: 2026-09-19T12:06:01.646Z*

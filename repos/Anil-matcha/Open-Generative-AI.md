@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 28,123 |
-| **Forks** | 🍴 4,994 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 28,819 |
+| **Forks** | 🍴 5,220 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Sep 8, 2026 |
+| **Last Seen** | Sep 19, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 3 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`ai-art-generator`](../../topics/ai-art-generator.md) [`ai-image-generation`](../../topics/ai-image-generation.md) [`ai-video-generation`](../../topics/ai-video-generation.md) [`creative-tools`](../../topics/creative-tools.md) [`fal-ai-alternative`](../../topics/fal-ai-alternative.md) [`flux-1`](../../topics/flux-1.md) [`generative-ai`](../../topics/generative-ai.md) [`image-to-video`](../../topics/image-to-video.md) [`javascript`](../../topics/javascript.md) [`kling-ai`](../../topics/kling-ai.md) [`lipsync`](../../topics/lipsync.md) [`midjourney-alternative`](../../topics/midjourney-alternative.md) [`muapi`](../../topics/muapi.md) [`open-source`](../../topics/open-source.md) [`seedance2`](../../topics/seedance2.md) [`sora-alternative`](../../topics/sora-alternative.md) [`text-to-image`](../../topics/text-to-image.md) [`text-to-video`](../../topics/text-to-video.md) [`uncensored`](../../topics/uncensored.md) [`wan-video`](../../topics/wan-video.md) 
+[`ai-art-generator`](../../topics/ai-art-generator.md) [`ai-image-generation`](../../topics/ai-image-generation.md) [`ai-video-generation`](../../topics/ai-video-generation.md) [`creative-tools`](../../topics/creative-tools.md) [`fal-ai-alternative`](../../topics/fal-ai-alternative.md) [`generative-ai`](../../topics/generative-ai.md) [`image-to-video`](../../topics/image-to-video.md) [`invideo-alternative`](../../topics/invideo-alternative.md) [`javascript`](../../topics/javascript.md) [`kling-ai`](../../topics/kling-ai.md) [`lipsync`](../../topics/lipsync.md) [`midjourney-alternative`](../../topics/midjourney-alternative.md) [`muapi`](../../topics/muapi.md) [`open-source`](../../topics/open-source.md) [`seedance2`](../../topics/seedance2.md) [`sora-alternative`](../../topics/sora-alternative.md) [`text-to-image`](../../topics/text-to-image.md) [`text-to-video`](../../topics/text-to-video.md) [`uncensored`](../../topics/uncensored.md) [`wan-video`](../../topics/wan-video.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Generative AI` `Backend Development` `Systems Programming` `Developer Tools` 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:52.010Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-09-19T12:06:05.205Z*  
+*Data from 10 trending reports*

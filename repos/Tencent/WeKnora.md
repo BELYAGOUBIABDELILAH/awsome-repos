@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Other |
-| **Stars** | ⭐ 22,841 |
-| **Forks** | 🍴 3,262 |
-| **Trending Days** | 16 |
+| **Stars** | ⭐ 27,208 |
+| **Forks** | 🍴 3,666 |
+| **Trending Days** | 17 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 13, 2026 |
+| **Last Seen** | Sep 19, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 16
+- **Trending Days**: 17
 - **Longest Streak**: 3 days
 
 ---
@@ -84,12 +84,12 @@
 - Check similar projects in Go
 
 #### Metrics
-- **Hidden Gem**: ✓ Yes
+- **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-14T21:01:50.368Z*  
-*Data from 16 trending reports*
+*Last updated: 2026-09-19T12:06:03.621Z*  
+*Data from 17 trending reports*

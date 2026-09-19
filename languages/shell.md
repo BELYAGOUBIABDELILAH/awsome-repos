@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 108
+- **Total Repositories**: 113
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,61 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [void-linux/void-packages](../repos/void-linux/void-packages.md) | ⭐ 3,430 | 2026-08-01 | 2 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,128 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,821 | 2026-08-01 | 5 |
+| [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 7,005 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 6,086 | 2026-08-02 | 4 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,183 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 2,408 | 2026-08-02 | 7 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,865 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 9,790 | 2026-08-03 | 5 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,571 | 2026-08-07 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,604 | 2026-08-08 | 7 |
+| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,831 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,285 | 2026-08-11 | 7 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 6,617 | 2026-08-12 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 5,925 | 2026-08-12 | 14 |
+| [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) | ⭐ 2,726 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FlyBrainLab/FlyBrainLab](../repos/FlyBrainLab/FlyBrainLab.md) | ⭐ 80 | 2026-09-14 | 1 |
+| [higgsfield-ai/cli](../repos/higgsfield-ai/cli.md) | ⭐ 546 | 2026-09-19 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CachyOS/linux-cachyos](../repos/CachyOS/linux-cachyos.md) | ⭐ 4,455 | 2026-09-14 | 1 |
+| [akitaonrails/distrobox-gaming](../repos/akitaonrails/distrobox-gaming.md) | ⭐ 295 | 2026-09-19 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pwnerblu/surrealra1n](../repos/pwnerblu/surrealra1n.md) | ⭐ 248 | 2026-08-16 | Tether downgrade tool (iOS 7.0-17.6.1) for some checkm8&#x2F;usbliter8 64bit devices. Some restores ma... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Sergeydigl3/zapret-discord-youtube-linux](../repos/Sergeydigl3/zapret-discord-youtube-linux.md) | ⭐ 1,996 | 2026-08-16 | Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SHORiN-KiWATA/Shorin-ArchLinux-Guide](../repos/SHORiN-KiWATA/Shorin-ArchLinux-Guide.md) | ⭐ 2,422 | 2026-08-16 | 【2026最适合新手的Arch Linux教程】具体内容包括：系统安装教程、win+linux双系统、N卡驱动、桌面环境、中文输入法、Linux玩游戏、常用虚拟机程序、显卡直通、干净删除linux等。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vinceliuice/grub2-themes](../repos/vinceliuice/grub2-themes.md) | ⭐ 4,573 | 2026-08-16 | Modern Design theme for Grub2 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 2,537 | 2026-08-19 | OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,222 | 2026-08-20 | binary releases of VS Code without MS branding&#x2F;telemetry&#x2F;licensing |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,452 | 2026-08-20 | Official agent plugin providing skills and MCP server configurations for Azure scenarios. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ophub/amlogic-s9xxx-openwrt](../repos/ophub/amlogic-s9xxx-openwrt.md) | ⭐ 2,991 | 2026-08-22 | Supports running OpenWrt on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x... |
@@ -80,6 +59,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CISOfy/lynis](../repos/CISOfy/lynis.md) | ⭐ 16,222 | 2026-08-24 | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bioconda/bioconda-recipes](../repos/bioconda/bioconda-recipes.md) | ⭐ 1,869 | 2026-08-25 | Conda recipes for the bioconda channel. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bivlked/amneziawg-installer](../repos/bivlked/amneziawg-installer.md) | ⭐ 1,169 | 2026-08-25 | One-command AmneziaWG 2.0 &#x2F; 3.0 installer for a self-hosted VPN server on Ubuntu and Debian: DPI ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | Default configuration for Le Wagon&#39;s students |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [laude-institute/headlong](../repos/laude-institute/headlong.md) | ⭐ 921 | 2026-08-26 | An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bas... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [juewuy/ShellCrash](../repos/juewuy/ShellCrash.md) | ⭐ 13,224 | 2026-08-27 | Run sing-box&#x2F;mihomo as client in shell |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 40,042 | 2026-08-29 | Beautiful, Modern &amp; Opinionated Linux |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,578 | 2026-09-01 | 最好用的 sing-box 一键安装脚本 &amp; 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议 |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,062 | 2026-08-01 | 25 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,128 | 2026-08-01 | 26 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,417 | 2026-08-04 | 6 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,261 | 2026-08-06 | 9 |
@@ -115,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 25 | ⭐ 95,062 | 2026-08-01 | 2026-09-10 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 26 | ⭐ 95,128 | 2026-08-01 | 2026-09-19 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [expo/skills](../repos/expo/skills.md) | 20 | ⭐ 2,520 | 2026-08-07 | 2026-09-12 |
-| [github/copilot-cli](../repos/github/copilot-cli.md) | 14 | ⭐ 11,167 | 2026-08-04 | 2026-09-12 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 14 | ⭐ 5,925 | 2026-08-12 | 2026-09-14 |
+| [expo/skills](../repos/expo/skills.md) | 21 | ⭐ 2,571 | 2026-08-07 | 2026-09-19 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | 15 | ⭐ 11,183 | 2026-08-04 | 2026-09-19 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 15 | ⭐ 6,617 | 2026-08-12 | 2026-09-19 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 13 | ⭐ 4,378 | 2026-08-01 | 2026-09-01 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 10 | ⭐ 2,258 | 2026-08-02 | 2026-09-10 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | 10 | ⭐ 2,865 | 2026-08-05 | 2026-09-19 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 9 | ⭐ 25,582 | 2026-08-04 | 2026-09-01 |
-| [cloudflare/skills](../repos/cloudflare/skills.md) | 9 | ⭐ 2,796 | 2026-08-05 | 2026-09-07 |
 | [dockur/windows](../repos/dockur/windows.md) | 9 | ⭐ 53,261 | 2026-08-06 | 2026-09-13 |
 
 ---
@@ -131,7 +131,7 @@
 ## 📋 All Shell Repositories
 
 - [HQarroum/docker-android](../repos/HQarroum/docker-android.md) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
-- [nvm-sh/nvm](../repos/nvm-sh/nvm.md) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $n...
+- [nvm-sh/nvm](../repos/nvm-sh/nvm.md) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [The01Geek/prflow](../repos/The01Geek/prflow.md) - Turn feature requests into review-ready pull requests: issue, implementation, tests, a review-and...
 - [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) - Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex...
 - [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) - Burpsuite Professional Latest Version 2026
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.469Z*
+*Last updated: 2026-09-19T12:06:01.652Z*

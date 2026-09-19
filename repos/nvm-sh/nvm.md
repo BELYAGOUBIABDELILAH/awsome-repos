@@ -1,6 +1,6 @@
 # nvm-sh&#x2F;nvm
 
-> Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+> Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;nvm-sh&#x2F;nvm) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | MIT |
-| **Stars** | ⭐ 95,062 |
-| **Forks** | 🍴 10,440 |
-| **Trending Days** | 25 |
+| **Stars** | ⭐ 95,128 |
+| **Forks** | 🍴 10,461 |
+| **Trending Days** | 26 |
 | **Peak Rank** | #3 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 10, 2026 |
+| **Last Seen** | Sep 19, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #3
-- **Trending Days**: 25
+- **Trending Days**: 26
 - **Longest Streak**: 7 days
 
 ---
@@ -74,7 +74,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Very Active | Updated within last week |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:50.536Z*  
-*Data from 25 trending reports*
+*Last updated: 2026-09-19T12:06:03.798Z*  
+*Data from 26 trending reports*

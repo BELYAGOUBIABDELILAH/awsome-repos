@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 210
+- **Total Repositories**: 215
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | ⭐ 26,666 | 2026-08-01 | 9 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 52,297 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) | ⭐ 2,481 | 2026-08-05 | 5 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 146,517 | 2026-08-07 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
+| [yikart/AiToEarn](../repos/yikart/AiToEarn.md) | ⭐ 26,074 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ItzCrazyKns/Vane](../repos/ItzCrazyKns/Vane.md) | ⭐ 36,786 | 2026-08-22 | 2 |
+| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 205,345 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nashsu/llm_wiki](../repos/nashsu/llm_wiki.md) | ⭐ 19,461 | 2026-09-10 | 4 |
+| [ZuodaoTech/everyone-can-use-english](../repos/ZuodaoTech/everyone-can-use-english.md) | ⭐ 37,658 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nab138/iloader](../repos/nab138/iloader.md) | ⭐ 3,310 | 2026-09-12 | 3 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 8,341 | 2026-08-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tech-leads-club/agent-skills](../repos/tech-leads-club/agent-skills.md) | ⭐ 6,008 | 2026-09-13 | 2 |
+| [Tencent/BrowserSkill](../repos/Tencent/BrowserSkill.md) | ⭐ 5,600 | 2026-08-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/AI-Engineering-Coach](../repos/microsoft/AI-Engineering-Coach.md) | ⭐ 4,117 | 2026-09-13 | 2 |
+| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 86,970 | 2026-08-28 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 36,864 | 2026-09-14 | 1 |
+| [supermemoryai/supermemory](../repos/supermemoryai/supermemory.md) | ⭐ 30,481 | 2026-09-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [reconurge/flowsint](../repos/reconurge/flowsint.md) | ⭐ 8,296 | 2026-09-14 | 1 |
+| [Open-Dev-Society/OpenStock](../repos/Open-Dev-Society/OpenStock.md) | ⭐ 15,701 | 2026-09-19 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [remotion-dev/remotion](../repos/remotion-dev/remotion.md) | ⭐ 56,495 | 2026-08-16 | 🎥      Make videos programmatically with React |
+| [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | JavaScript API for Chrome and Firefox |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [chaitanyagiri/munder-difflin](../repos/chaitanyagiri/munder-difflin.md) | ⭐ 3,374 | 2026-08-16 | local multi-agent harness |
+| [ItzCrazyKns/Vane](../repos/ItzCrazyKns/Vane.md) | ⭐ 36,786 | 2026-08-22 | Vane is an AI-powered answering engine. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | High performance self-hosted photo and video management solution. |
+| [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 89,779 | 2026-08-22 | Model Context Protocol Servers |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [agalwood/Motrix](../repos/agalwood/Motrix.md) | ⭐ 54,244 | 2026-08-17 | A full-featured download manager. |
+| [anthropics/claude-quickstarts](../repos/anthropics/claude-quickstarts.md) | ⭐ 17,512 | 2026-08-22 | A collection of projects designed to help developers quickly get started with building deployable... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Gitlawb/openclaude](../repos/Gitlawb/openclaude.md) | ⭐ 32,553 | 2026-08-17 | runs anywhere. uses anything |
+| [nocobase/nocobase](../repos/nocobase/nocobase.md) | ⭐ 23,765 | 2026-08-22 | NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of g... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [evershopcommerce/evershop](../repos/evershopcommerce/evershop.md) | ⭐ 10,370 | 2026-08-17 | 🛍️ Typescript E-commerce Platform |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 8,341 | 2026-08-22 | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Age... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [genlayerlabs/genlayer-project-boilerplate](../repos/genlayerlabs/genlayer-project-boilerplate.md) | ⭐ 15,923 | 2026-08-19 |  |
+| [TanStack/query](../repos/TanStack/query.md) | ⭐ 50,183 | 2026-08-22 | 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [rmyndharis/OpenWA](../repos/rmyndharis/OpenWA.md) | ⭐ 13,718 | 2026-08-19 | Free, Open Source, Self-Hosted WhatsApp API Gateway |
+| [proliferate-ai/proliferate](../repos/proliferate-ai/proliferate.md) | ⭐ 318 | 2026-08-23 | The open-source AI IDE for Claude Code, Codex, OpenCode, and more. Run agents in parallel, locall... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [bia-pain-bache/BPB-Worker-Panel](../repos/bia-pain-bache/BPB-Worker-Panel.md) | ⭐ 13,085 | 2026-08-19 | A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private... |
+| [DefinitelyTyped/DefinitelyTyped](../repos/DefinitelyTyped/DefinitelyTyped.md) | ⭐ 51,398 | 2026-08-23 | The repository for high quality TypeScript type definitions. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [eneskirca/nodeterm](../repos/eneskirca/nodeterm.md) | ⭐ 1,675 | 2026-08-19 | Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessi... |
+| [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | An open-source AI agent that brings the power of Gemini directly into your terminal. |
 
 
 ---
@@ -89,10 +89,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 203,761 | 2026-08-11 | 4 |
+| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 205,345 | 2026-08-11 | 5 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | 2026-09-01 | 2 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 146,517 | 2026-08-07 | 12 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,718 | 2026-08-02 | 5 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 131,955 | 2026-08-02 | 10 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
@@ -105,9 +106,8 @@
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
 | [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 89,779 | 2026-08-22 | 1 |
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 87,081 | 2026-08-14 | 3 |
-| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 84,671 | 2026-08-28 | 1 |
+| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 86,970 | 2026-08-28 | 2 |
 | [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | 2026-08-12 | 1 |
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 77,659 | 2026-08-02 | 4 |
 
 ---
 
@@ -116,6 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 12 | ⭐ 29,827 | 2026-08-02 | 2026-09-06 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | 12 | ⭐ 146,517 | 2026-08-07 | 2026-09-19 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 12 | ⭐ 25,971 | 2026-08-07 | 2026-09-13 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 11 | ⭐ 7,365 | 2026-08-01 | 2026-09-10 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 11 | ⭐ 48,711 | 2026-08-08 | 2026-09-10 |
@@ -124,7 +125,6 @@
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 9 | ⭐ 26,666 | 2026-08-01 | 2026-09-14 |
 | [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 9 | ⭐ 71,802 | 2026-08-10 | 2026-09-09 |
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 8 | ⭐ 19,940 | 2026-08-01 | 2026-08-21 |
 
 ---
 
@@ -188,6 +188,7 @@
 - [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) - The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No...
 - [promptfoo/promptfoo](../repos/promptfoo/promptfoo.md) - Test your prompts, agents, and RAGs. Red teaming&#x2F;pentesting&#x2F;vulnerability scanning for AI. Compar...
 - [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- [anthropics/claude-code](../repos/anthropics/claude-code.md) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...
 - [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one &#x2F;v1...
 - [open-mercato/open-mercato](../repos/open-mercato/open-mercato.md) - AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural ...
 - [payloadcms/payload](../repos/payloadcms/payload.md) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. ...
@@ -229,8 +230,7 @@
 - [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) - 🙌 OpenHands: AI-Driven Development
 - [Jakubantalik/Libraries](../repos/Jakubantalik/Libraries.md) - Collection of effects for React: Border beam, Liquid Gooey
 - [every-app/open-seo](../repos/every-app/open-seo.md) - Open source alternative to Semrush and Ahrefs
-- [documenso/documenso](../repos/documenso/documenso.md) - The Open Source DocuSign Alternative.
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.475Z*
+*Last updated: 2026-09-19T12:06:01.659Z*

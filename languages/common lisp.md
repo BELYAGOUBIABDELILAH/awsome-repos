@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,508 | 2026-08-03 | 21 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,518 | 2026-08-03 | 22 |
 
 
 ---
@@ -35,7 +35,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | 1 |
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,508 | 2026-08-03 | 21 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,518 | 2026-08-03 | 22 |
 | [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 3 |
 | [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,143 | 2026-08-24 | 4 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | ⭐ 1,734 | 2026-08-04 | 1 |
@@ -46,7 +46,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 21 | ⭐ 3,508 | 2026-08-03 | 2026-09-14 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 22 | ⭐ 3,518 | 2026-08-03 | 2026-09-19 |
 | [sbcl/sbcl](../repos/sbcl/sbcl.md) | 4 | ⭐ 2,143 | 2026-08-24 | 2026-09-09 |
 | [lem-project/lem](../repos/lem-project/lem.md) | 3 | ⭐ 3,023 | 2026-08-01 | 2026-08-03 |
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | 1 | ⭐ 10,986 | 2026-08-04 | 2026-08-04 |
@@ -64,4 +64,4 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.406Z*
+*Last updated: 2026-09-19T12:06:01.585Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 149
+- **Total Repositories**: 151
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openutau/OpenUtau](../repos/openutau/OpenUtau.md) | ⭐ 4,297 | 2026-08-01 | 3 |
+| [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,535 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 27,264 | 2026-08-02 | 22 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,677 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 16,031 | 2026-08-02 | 6 |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,096 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,647 | 2026-08-02 | 8 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,451 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LavaGang/MelonLoader](../repos/LavaGang/MelonLoader.md) | ⭐ 4,183 | 2026-08-02 | 3 |
+| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 6,075 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AssetRipper/AssetRipper](../repos/AssetRipper/AssetRipper.md) | ⭐ 8,334 | 2026-08-02 | 2 |
+| [AssetRipper/AssetRipper](../repos/AssetRipper/AssetRipper.md) | ⭐ 8,374 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) | ⭐ 13,974 | 2026-08-02 | 5 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 15,575 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 15,490 | 2026-08-02 | 13 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,445 | 2026-08-03 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 16,142 | 2026-08-03 | 11 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,317 | 2026-08-05 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rmcrackan/Libation](../repos/rmcrackan/Libation.md) | ⭐ 6,177 | 2026-08-11 | 3 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,578 | 2026-08-05 | 9 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [database64128/youtube-dl-wpf](../repos/database64128/youtube-dl-wpf.md) | ⭐ 1,373 | 2026-08-17 | WPF GUI for youtube-dl and yt-dlp. |
+| [cyanfish/naps2](../repos/cyanfish/naps2.md) | ⭐ 4,448 | 2026-08-22 | Scan documents to PDF and more, as simply as possible. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Bannerlord-Coop-Team/BannerlordCoop](../repos/Bannerlord-Coop-Team/BannerlordCoop.md) | ⭐ 368 | 2026-08-17 |  |
+| [4sval/FModel](../repos/4sval/FModel.md) | ⭐ 3,082 | 2026-08-22 | Unreal Engine Archives Explorer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/garnet](../repos/microsoft/garnet.md) | ⭐ 11,958 | 2026-08-19 | Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput... |
+| [builtbybel/FluentTweaker](../repos/builtbybel/FluentTweaker.md) | ⭐ 3,477 | 2026-08-22 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sourcegit-scm/sourcegit](../repos/sourcegit-scm/sourcegit.md) | ⭐ 5,855 | 2026-08-19 | Windows&#x2F;macOS&#x2F;Linux GUI client for GIT users |
+| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | A Swiss Army knife for developers. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Revolutionary-Games/Thrive](../repos/Revolutionary-Games/Thrive.md) | ⭐ 3,656 | 2026-08-19 | The main repository for the development of the evolution game Thrive.  |
+| [Facepunch/sbox-public](../repos/Facepunch/sbox-public.md) | ⭐ 6,454 | 2026-08-23 | s&amp;box is a modern game engine, built on Valve&#39;s Source 2 and the latest .NET technology, it provi... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [scp222thj/MalumMenu](../repos/scp222thj/MalumMenu.md) | ⭐ 369 | 2026-08-19 | An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules |
+| [rocksdanister/lively](../repos/rocksdanister/lively.md) | ⭐ 19,556 | 2026-08-23 | Free and open-source software that allows users to set animated desktop wallpapers and screensave... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [snownico0722/PaperTodo](../repos/snownico0722/PaperTodo.md) | ⭐ 2,293 | 2026-08-19 | 极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop stick... |
+| [Orbmu2k/nvidiaProfileInspector](../repos/Orbmu2k/nvidiaProfileInspector.md) | ⭐ 7,112 | 2026-08-23 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [MrDiamond64/Hydra](../repos/MrDiamond64/Hydra.md) | ⭐ 91 | 2026-08-19 | An Among Us utility and anticheat mod to enhance the Among Us playing experience |
+| [Greedeks/GTweak](../repos/Greedeks/GTweak.md) | ⭐ 1,621 | 2026-08-24 | Portable Tool for an Ideal Windows Setup |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Unity-Technologies/ml-agents](../repos/Unity-Technologies/ml-agents.md) | ⭐ 19,636 | 2026-08-19 | The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables game... |
+| [PintaProject/Pinta](../repos/PintaProject/Pinta.md) | ⭐ 3,975 | 2026-08-25 | Simple GTK Paint Program |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [1Remote/1Remote](../repos/1Remote/1Remote.md) | ⭐ 6,043 | 2026-08-19 | One Remote Access Manager to Rule Them All |
+| [builtbybel/CrapFixer](../repos/builtbybel/CrapFixer.md) | ⭐ 2,461 | 2026-08-25 | Cr*ap Fixer |
 
 
 ---
@@ -92,21 +92,21 @@
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,905 | 2026-08-02 | 17 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,363 | 2026-08-06 | 10 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,350 | 2026-08-01 | 9 |
-| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,194 | 2026-08-14 | 2 |
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,644 | 2026-08-14 | 3 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,734 | 2026-08-03 | 7 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,431 | 2026-08-01 | 12 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,451 | 2026-08-01 | 13 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,038 | 2026-08-28 | 2 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 30,364 | 2026-08-01 | 14 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,509 | 2026-08-05 | 8 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,578 | 2026-08-05 | 9 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 27,264 | 2026-08-02 | 22 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,603 | 2026-08-10 | 3 |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,096 | 2026-08-01 | 6 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,058 | 2026-08-02 | 6 |
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 25,992 | 2026-08-01 | 5 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,628 | 2026-08-27 | 3 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,320 | 2026-08-04 | 4 |
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,660 | 2026-08-01 | 8 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,677 | 2026-08-01 | 9 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,097 | 2026-08-01 | 8 |
 
 ---
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 22 | ⭐ 27,264 | 2026-08-02 | 2026-09-14 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 19 | ⭐ 116,012 | 2026-08-02 | 2026-09-12 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 18 | ⭐ 5,445 | 2026-08-03 | 2026-09-19 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 17 | ⭐ 56,905 | 2026-08-02 | 2026-09-10 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 17 | ⭐ 5,385 | 2026-08-03 | 2026-09-08 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 14 | ⭐ 30,364 | 2026-08-01 | 2026-09-09 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 14 | ⭐ 15,575 | 2026-08-02 | 2026-09-19 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | 14 | ⭐ 6,317 | 2026-08-05 | 2026-09-19 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 13 | ⭐ 3,668 | 2026-08-01 | 2026-09-12 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 13 | ⭐ 15,490 | 2026-08-02 | 2026-09-14 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 13 | ⭐ 38,451 | 2026-08-01 | 2026-09-19 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | 13 | ⭐ 18,269 | 2026-08-04 | 2026-09-13 |
-| [microsoft/aspire](../repos/microsoft/aspire.md) | 13 | ⭐ 6,302 | 2026-08-05 | 2026-09-12 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 12 | ⭐ 38,431 | 2026-08-01 | 2026-09-09 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.393Z*
+*Last updated: 2026-09-19T12:06:01.575Z*

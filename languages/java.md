@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 193
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-05
+- **Last Updated**: 2026-09-19
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,684 | 2026-08-02 | 6 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,220 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MojoLauncher/MojoLauncher](../repos/MojoLauncher/MojoLauncher.md) | ⭐ 978 | 2026-08-02 | 4 |
+| [apache/maven](../repos/apache/maven.md) | ⭐ 5,349 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiteLDev/LeviLaunchroid](../repos/LiteLDev/LeviLaunchroid.md) | ⭐ 570 | 2026-08-02 | 2 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,933 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 29,177 | 2026-08-03 | 10 |
+| [TGX-Android/Telegram-X](../repos/TGX-Android/Telegram-X.md) | ⭐ 5,993 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 75,795 | 2026-08-03 | 14 |
+| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,255 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 33,626 | 2026-08-04 | 12 |
+| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,276 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CaffeineMC/sodium](../repos/CaffeineMC/sodium.md) | ⭐ 5,763 | 2026-08-09 | 6 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,473 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Card-Forge/forge](../repos/Card-Forge/forge.md) | ⭐ 2,697 | 2026-08-16 | 5 |
+| [apache/doris](../repos/apache/doris.md) | ⭐ 15,964 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MeteorDevelopment/meteor-client](../repos/MeteorDevelopment/meteor-client.md) | ⭐ 3,850 | 2026-08-24 | 2 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,691 | 2026-08-05 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sepinf-inc/IPED](../repos/sepinf-inc/IPED.md) | ⭐ 2,927 | 2026-09-02 | 6 |
+| [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) | ⭐ 28,155 | 2026-08-07 | 6 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [PojavLauncherTeam/PojavLauncher](../repos/PojavLauncherTeam/PojavLauncher.md) | ⭐ 9,370 | 2026-08-16 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https:&#x2F;&#x2F;g... |
+| [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [7723mod/NPatch](../repos/7723mod/NPatch.md) | ⭐ 2,050 | 2026-08-16 | NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架 |
+| [SuperMonster003/AutoJs6](../repos/SuperMonster003/AutoJs6.md) | ⭐ 6,262 | 2026-08-22 | 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Card-Forge/forge](../repos/Card-Forge/forge.md) | ⭐ 2,697 | 2026-08-16 | An unofficial rules engine for the world&#39;s greatest card game. |
+| [logisim-evolution/logisim-evolution](../repos/logisim-evolution/logisim-evolution.md) | ⭐ 7,526 | 2026-08-22 | Digital logic design tool and simulator |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ReSo7200/InstaEclipse](../repos/ReSo7200/InstaEclipse.md) | ⭐ 1,397 | 2026-08-16 | An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, an... |
+| [ZCShou/GoGoGo](../repos/ZCShou/GoGoGo.md) | ⭐ 11,111 | 2026-08-22 | 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apache/beam](../repos/apache/beam.md) | ⭐ 8,643 | 2026-08-16 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
+| [apache/lucene](../repos/apache/lucene.md) | ⭐ 3,548 | 2026-08-22 | Apache Lucene open-source search software |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [eddyizm/tempus](../repos/eddyizm/tempus.md) | ⭐ 1,203 | 2026-08-17 | An open source and lightweight music client for Subsonic, designed and built natively for Android. |
+| [NextAlone/Nagram](../repos/NextAlone/Nagram.md) | ⭐ 3,172 | 2026-08-23 | The third-party Telegram android app. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [magefree/mage](../repos/magefree/mage.md) | ⭐ 2,335 | 2026-08-17 | XMage - Magic Another Game Engine |
+| [AndreyPavlenko/Fermata](../repos/AndreyPavlenko/Fermata.md) | ⭐ 1,269 | 2026-08-23 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [FCL-Team/FoldCraftLauncher](../repos/FCL-Team/FoldCraftLauncher.md) | ⭐ 4,723 | 2026-08-17 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
+| [ikarus23/MifareClassicTool](../repos/ikarus23/MifareClassicTool.md) | ⭐ 6,304 | 2026-08-23 | An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aklivity/zilla](../repos/aklivity/zilla.md) | ⭐ 1,702 | 2026-08-17 | 🦎 A high-performance, multi-protocol gateway for Apache Kafka and AI. Securely connect applicati... |
+| [HMCL-dev/HMCL](../repos/HMCL-dev/HMCL.md) | ⭐ 10,063 | 2026-08-23 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [00-Evan/shattered-pixel-dungeon](../repos/00-Evan/shattered-pixel-dungeon.md) | ⭐ 6,482 | 2026-08-17 | Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized l... |
+| [xandergos/terrain-diffusion-mc](../repos/xandergos/terrain-diffusion-mc.md) | ⭐ 830 | 2026-08-24 | Procedural terrain generation with diffusion models (in Minecraft) |
 
 
 ---
@@ -88,14 +88,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 129,891 | 2026-08-04 | 5 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,424 | 2026-08-04 | 10 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,875 | 2026-08-02 | 8 |
+| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,276 | 2026-08-04 | 6 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,473 | 2026-08-04 | 11 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,933 | 2026-08-02 | 9 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 75,795 | 2026-08-03 | 14 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,234 | 2026-08-04 | 6 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,219 | 2026-08-08 | 5 |
+| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,249 | 2026-08-08 | 6 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,905 | 2026-08-02 | 11 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,671 | 2026-08-04 | 10 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,456 | 2026-08-12 | 4 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 17 | ⭐ 5,578 | 2026-08-05 | 2026-09-12 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 18 | ⭐ 5,691 | 2026-08-05 | 2026-09-19 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 15 | ⭐ 26,767 | 2026-08-02 | 2026-09-13 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 14 | ⭐ 75,795 | 2026-08-03 | 2026-09-14 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 12 | ⭐ 33,626 | 2026-08-04 | 2026-09-14 |
 | [google/guava](../repos/google/guava.md) | 11 | ⭐ 51,905 | 2026-08-02 | 2026-09-13 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 11 | ⭐ 28,097 | 2026-08-04 | 2026-09-12 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 11 | ⭐ 81,473 | 2026-08-04 | 2026-09-19 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 11 | ⭐ 41,366 | 2026-08-05 | 2026-09-12 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 10 | ⭐ 13,704 | 2026-08-01 | 2026-09-12 |
 | [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | 10 | ⭐ 29,177 | 2026-08-03 | 2026-09-14 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | 10 | ⭐ 51,671 | 2026-08-04 | 2026-09-05 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.427Z*
+*Last updated: 2026-09-19T12:06:01.609Z*

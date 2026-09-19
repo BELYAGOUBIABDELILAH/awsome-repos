@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 59
+- **Total Repositories**: 61
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-14
+- **Last Updated**: 2026-09-19
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,599 | 2026-08-01 | 34 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,507 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,279 | 2026-08-01 | 18 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,001 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,907 | 2026-08-01 | 26 |
+| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | ⭐ 1,005 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,301 | 2026-08-01 | 22 |
+| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,600 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,956 | 2026-08-01 | 27 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,920 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/texera](../repos/apache/texera.md) | ⭐ 315 | 2026-08-01 | 22 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,266 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chipsalliance/rocket-chip](../repos/chipsalliance/rocket-chip.md) | ⭐ 3,865 | 2026-08-01 | 11 |
+| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,956 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,997 | 2026-08-01 | 40 |
+| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,405 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [scala/scala](../repos/scala/scala.md) | ⭐ 14,561 | 2026-08-01 | 23 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,013 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,740 | 2026-08-01 | 13 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,745 | 2026-08-02 | 32 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ucb-bar/gemmini](../repos/ucb-bar/gemmini.md) | ⭐ 1,463 | 2026-08-19 | Berkeley&#39;s Spatial Array Generator |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [twitter/finagle](../repos/twitter/finagle.md) | ⭐ 8,865 | 2026-08-20 | A fault tolerant, protocol-agnostic RPC system |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bitcoin-s/bitcoin-s](../repos/bitcoin-s/bitcoin-s.md) | ⭐ 382 | 2026-08-22 | Bitcoin Implementation in Scala |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [xxf098/shadowsocksr-v2ray-trojan-android](../repos/xxf098/shadowsocksr-v2ray-trojan-android.md) | ⭐ 3,164 | 2026-09-08 | A simple client for Android |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [OpenXiangShan/XiangShanLab](../repos/OpenXiangShan/XiangShanLab.md) | ⭐ 35 | 2026-09-08 | A learning and practice repository for the open-source XiangShan RISC-V processor, featuring a fu... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ergoplatform/ergo](../repos/ergoplatform/ergo.md) | ⭐ 520 | 2026-09-13 | Ergo protocol description &amp; reference client implementation |
 
 
 ---
@@ -88,22 +88,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,907 | 2026-08-01 | 26 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 43,997 | 2026-08-01 | 40 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,726 | 2026-08-02 | 31 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,920 | 2026-08-01 | 27 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,013 | 2026-08-01 | 41 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,745 | 2026-08-02 | 32 |
 | [scala/scala](../repos/scala/scala.md) | ⭐ 14,561 | 2026-08-01 | 23 |
 | [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,279 | 2026-08-01 | 18 |
 | [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,518 | 2026-09-02 | 5 |
 | [yahoo/CMAK](../repos/yahoo/CMAK.md) | ⭐ 11,924 | 2026-09-07 | 1 |
-| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,402 | 2026-08-01 | 21 |
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 8,993 | 2026-08-01 | 34 |
+| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,405 | 2026-08-01 | 22 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,001 | 2026-08-01 | 35 |
 | [twitter/finagle](../repos/twitter/finagle.md) | ⭐ 8,865 | 2026-08-20 | 4 |
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,253 | 2026-08-01 | 33 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,266 | 2026-08-01 | 34 |
 | [snowplow/snowplow](../repos/snowplow/snowplow.md) | ⭐ 7,029 | 2026-08-11 | 1 |
-| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,956 | 2026-08-01 | 27 |
+| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,956 | 2026-08-01 | 28 |
 | [apache/openwhisk](../repos/apache/openwhisk.md) | ⭐ 6,792 | 2026-08-05 | 3 |
 | [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,301 | 2026-08-01 | 22 |
-| [guardian/frontend](../repos/guardian/frontend.md) | ⭐ 5,899 | 2026-08-03 | 19 |
+| [guardian/frontend](../repos/guardian/frontend.md) | ⭐ 5,899 | 2026-08-03 | 20 |
 | [fpinscala/fpinscala](../repos/fpinscala/fpinscala.md) | ⭐ 5,860 | 2026-09-03 | 3 |
 | [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,245 | 2026-08-01 | 12 |
 | [sbt/sbt](../repos/sbt/sbt.md) | ⭐ 4,952 | 2026-08-04 | 23 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [apache/spark](../repos/apache/spark.md) | 40 | ⭐ 43,997 | 2026-08-01 | 2026-09-14 |
-| [joernio/joern](../repos/joernio/joern.md) | 34 | ⭐ 3,489 | 2026-08-01 | 2026-09-12 |
-| [delta-io/delta](../repos/delta-io/delta.md) | 34 | ⭐ 8,993 | 2026-08-01 | 2026-09-13 |
-| [apache/gluten](../repos/apache/gluten.md) | 34 | ⭐ 1,599 | 2026-08-01 | 2026-09-14 |
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 33 | ⭐ 7,253 | 2026-08-01 | 2026-09-13 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | 31 | ⭐ 18,726 | 2026-08-02 | 2026-09-14 |
-| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 29 | ⭐ 1,003 | 2026-08-01 | 2026-09-13 |
-| [gatling/gatling](../repos/gatling/gatling.md) | 27 | ⭐ 6,956 | 2026-08-01 | 2026-09-14 |
-| [apache/kyuubi](../repos/apache/kyuubi.md) | 27 | ⭐ 2,365 | 2026-08-03 | 2026-09-14 |
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 26 | ⭐ 73,907 | 2026-08-01 | 2026-09-14 |
+| [apache/spark](../repos/apache/spark.md) | 41 | ⭐ 44,013 | 2026-08-01 | 2026-09-19 |
+| [joernio/joern](../repos/joernio/joern.md) | 35 | ⭐ 3,507 | 2026-08-01 | 2026-09-19 |
+| [delta-io/delta](../repos/delta-io/delta.md) | 35 | ⭐ 9,001 | 2026-08-01 | 2026-09-19 |
+| [apache/gluten](../repos/apache/gluten.md) | 35 | ⭐ 1,600 | 2026-08-01 | 2026-09-19 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 34 | ⭐ 7,266 | 2026-08-01 | 2026-09-19 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | 32 | ⭐ 18,745 | 2026-08-02 | 2026-09-19 |
+| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 30 | ⭐ 1,005 | 2026-08-01 | 2026-09-19 |
+| [gatling/gatling](../repos/gatling/gatling.md) | 28 | ⭐ 6,956 | 2026-08-01 | 2026-09-19 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 27 | ⭐ 73,920 | 2026-08-01 | 2026-09-19 |
+| [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | 27 | ⭐ 1,279 | 2026-08-02 | 2026-09-19 |
 
 ---
 
@@ -189,7 +189,9 @@
 - [xxf098/shadowsocksr-v2ray-trojan-android](../repos/xxf098/shadowsocksr-v2ray-trojan-android.md) - A simple client for Android
 - [OpenXiangShan/XiangShanLab](../repos/OpenXiangShan/XiangShanLab.md) - A learning and practice repository for the open-source XiangShan RISC-V processor, featuring a fu...
 - [ergoplatform/ergo](../repos/ergoplatform/ergo.md) - Ergo protocol description &amp; reference client implementation
+- [starlake-ai/quack-on-demand](../repos/starlake-ai/quack-on-demand.md) - Production-grade Arrow FlightSQL gateway in front of DuckDB Quack + DuckLake. Multi-tenant pools,...
+- [orbeon/orbeon-forms](../repos/orbeon/orbeon-forms.md) - Orbeon Forms - Build, run, and manage web forms on-premises or in the cloud.
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.466Z*
+*Last updated: 2026-09-19T12:06:01.650Z*

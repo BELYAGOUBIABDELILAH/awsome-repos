@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 50
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-10
+- **Last Updated**: 2026-09-19
 
 ---
 
@@ -16,16 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,054 | 2026-08-02 | 9 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,508 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,601 | 2026-08-03 | 22 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,158 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iiroak/Kindle-Filler-Disk](../repos/iiroak/Kindle-Filler-Disk.md) | ⭐ 445 | 2026-08-10 | 9 |
+| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 481 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CubeCoders/AMPTemplates](../repos/CubeCoders/AMPTemplates.md) | ⭐ 185 | 2026-08-11 | 4 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 905 | 2026-08-01 | 26 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,475 | 2026-08-01 | 16 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 458 | 2026-08-04 | 17 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,838 | 2026-08-04 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,085 | 2026-08-04 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,060 | 2026-08-07 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [appveyor/ci](../repos/appveyor/ci.md) | ⭐ 340 | 2026-08-07 | 8 |
 
 
 ---
@@ -34,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sp00n/CoreCycler](../repos/sp00n/CoreCycler.md) | ⭐ 1,246 | 2026-08-16 | Script to test single core stability, e.g. for PBO &amp; Curve Optimizer on AMD Ryzen or overclocking... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zamesin/Next-Move-Theory-Canon-and-Skills](../repos/zamesin/Next-Move-Theory-Canon-and-Skills.md) | ⭐ 338 | 2026-08-16 | Claude Code skills for product market research, value props, PRDs, and go-to-market — plus the op... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,174 | 2026-08-19 | List Formatting Samples for use in SharePoint and Microsoft Lists |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [he3als/EdgeRemover](../repos/he3als/EdgeRemover.md) | ⭐ 461 | 2026-08-19 | A PowerShell script that correctly uninstalls or reinstalls Microsoft Edge on Windows 10 &amp; 11. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [MicrosoftDocs/architecture-center](../repos/MicrosoftDocs/architecture-center.md) | ⭐ 2,018 | 2026-08-25 | Open source documentation for the Azure Architecture Center on Microsoft Learn. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [github/copilot-plugins](../repos/github/copilot-plugins.md) | ⭐ 357 | 2026-08-26 | The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibil... |
+| [github/copilot-plugins](../repos/github/copilot-plugins.md) | ⭐ 364 | 2026-08-26 | The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibil... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MicrosoftEdge/WebView2Feedback](../repos/MicrosoftEdge/WebView2Feedback.md) | ⭐ 524 | 2026-09-01 | Feedback and discussions about Microsoft Edge WebView2 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,215 | 2026-09-02 | Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Ser... |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,225 | 2026-09-02 | Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Ser... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jimrtyler/Guerrilla](../repos/jimrtyler/Guerrilla.md) | ⭐ 72 | 2026-09-04 | PowerShell security assessment &amp; continuous monitoring module for Google Workspace, Active Direct... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pnp/copilot-prompts](../repos/pnp/copilot-prompts.md) | ⭐ 866 | 2026-09-04 | Examples of prompts for Microsoft Copilot |
+| [pnp/copilot-prompts](../repos/pnp/copilot-prompts.md) | ⭐ 881 | 2026-09-04 | Examples of prompts for Microsoft Copilot |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MicrosoftDocs/power-platform](../repos/MicrosoftDocs/power-platform.md) | ⭐ 520 | 2026-09-04 | Documentation for Microsoft Power Platform |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,589 | 2026-09-06 | A Project dedicated to making GPU Partitioning on Windows easier! |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [yegors/deGDID](../repos/yegors/deGDID.md) | ⭐ 913 | 2026-09-09 | Deletes all instances of Microsoft&#39;s GDID and prevents minting of new ones  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [0Chencc/clawgod](../repos/0Chencc/clawgod.md) | ⭐ 2,006 | 2026-09-09 | ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with... |
 
 
 ---
@@ -70,12 +88,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 35,463 | 2026-08-01 | 18 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,508 | 2026-08-01 | 19 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,033 | 2026-08-02 | 7 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,129 | 2026-08-01 | 29 |
-| [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,089 | 2026-08-04 | 1 |
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,215 | 2026-09-02 | 5 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,158 | 2026-08-01 | 30 |
+| [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,085 | 2026-08-04 | 2 |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,225 | 2026-09-02 | 6 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,084 | 2026-08-03 | 8 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,014 | 2026-08-06 | 10 |
@@ -84,12 +102,12 @@
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,006 | 2026-08-01 | 18 |
 | [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,589 | 2026-09-06 | 1 |
-| [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,822 | 2026-08-04 | 2 |
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,657 | 2026-08-11 | 6 |
+| [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,838 | 2026-08-04 | 3 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,672 | 2026-08-11 | 7 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,538 | 2026-08-04 | 6 |
-| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,174 | 2026-08-19 | 6 |
+| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,178 | 2026-08-19 | 7 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,119 | 2026-08-01 | 14 |
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,054 | 2026-08-02 | 9 |
+| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,060 | 2026-08-07 | 4 |
 
 ---
 
@@ -97,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 29 | ⭐ 13,129 | 2026-08-01 | 2026-09-10 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 25 | ⭐ 898 | 2026-08-01 | 2026-09-12 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 30 | ⭐ 13,158 | 2026-08-01 | 2026-09-19 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 26 | ⭐ 905 | 2026-08-01 | 2026-09-19 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 22 | ⭐ 1,601 | 2026-08-03 | 2026-09-14 |
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 18 | ⭐ 35,463 | 2026-08-01 | 2026-09-10 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 19 | ⭐ 36,508 | 2026-08-01 | 2026-09-19 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 18 | ⭐ 6,006 | 2026-08-01 | 2026-09-12 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 17 | ⭐ 8,306 | 2026-08-01 | 2026-09-10 |
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 16 | ⭐ 451 | 2026-08-04 | 2026-09-04 |
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 15 | ⭐ 1,466 | 2026-08-01 | 2026-09-10 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 17 | ⭐ 458 | 2026-08-04 | 2026-09-19 |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 16 | ⭐ 1,475 | 2026-08-01 | 2026-09-19 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 14 | ⭐ 2,119 | 2026-08-01 | 2026-09-10 |
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | 12 | ⭐ 1,001 | 2026-08-01 | 2026-09-12 |
 
@@ -165,4 +183,4 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.454Z*
+*Last updated: 2026-09-19T12:06:01.638Z*

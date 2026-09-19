@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 97
+- **Total Repositories**: 99
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-10
+- **Last Updated**: 2026-09-19
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 29,709 | 2026-08-01 | 26 |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,153 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | ⭐ 848 | 2026-08-01 | 17 |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 291 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 289 | 2026-08-01 | 22 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,614 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [id577/FS25_AdvancedDamageSystem](../repos/id577/FS25_AdvancedDamageSystem.md) | ⭐ 269 | 2026-08-02 | 7 |
+| [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,182 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Stephan-S/FS25_AutoDrive](../repos/Stephan-S/FS25_AutoDrive.md) | ⭐ 665 | 2026-08-02 | 3 |
+| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,487 | 2026-08-04 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Courseplay/Courseplay_FS25](../repos/Courseplay/Courseplay_FS25.md) | ⭐ 921 | 2026-08-02 | 4 |
+| [stevearc/oil.nvim](../repos/stevearc/oil.nvim.md) | ⭐ 6,911 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Footagesus/WindUI](../repos/Footagesus/WindUI.md) | ⭐ 355 | 2026-08-02 | 12 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,082 | 2026-08-08 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,461 | 2026-08-04 | 24 |
+| [tukui-org/ElvUI](../repos/tukui-org/ElvUI.md) | ⭐ 697 | 2026-08-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,468 | 2026-08-04 | 21 |
+| [FrSkyRC/ETHOS-Feedback-Community](../repos/FrSkyRC/ETHOS-Feedback-Community.md) | ⭐ 249 | 2026-08-20 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LandSandBoat/server](../repos/LandSandBoat/server.md) | ⭐ 505 | 2026-08-04 | 10 |
+| [PortsMaster/PortMaster-New](../repos/PortsMaster/PortMaster-New.md) | ⭐ 368 | 2026-08-29 | 3 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [AndyHazz/bookends.koplugin](../repos/AndyHazz/bookends.koplugin.md) | ⭐ 446 | 2026-08-16 | KOReader plugin for configurable text overlays — tokens, icons, per-line styling, presets |
+| [BigWigsMods/BigWigs](../repos/BigWigsMods/BigWigs.md) | ⭐ 272 | 2026-08-22 | Modular and lightweight approach to providing you with the tools you need to beat any boss encoun... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [esx-framework/esx_core](../repos/esx-framework/esx_core.md) | ⭐ 450 | 2026-08-16 | Official Repo For core resources for esx-legacy |
+| [dariulone/cyberpunk-vr-port](../repos/dariulone/cyberpunk-vr-port.md) | ⭐ 256 | 2026-08-23 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [patelneeraj/filebrowserplus.koplugin](../repos/patelneeraj/filebrowserplus.koplugin.md) | ⭐ 279 | 2026-08-16 | This KOReader plugins enables the user to run Filebrowser from koreader. Inspired by filebrowser.... |
+| [Quenty/NevermoreEngine](../repos/Quenty/NevermoreEngine.md) | ⭐ 606 | 2026-08-23 | ModuleScript loader with reusable and easy unified server-client modules for faster game developm... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [koreader/contrib](../repos/koreader/contrib.md) | ⭐ 391 | 2026-08-17 | Collection of non-official plugins designed for KOReader |
+| [folke/flash.nvim](../repos/folke/flash.nvim.md) | ⭐ 4,213 | 2026-08-24 | Navigate your code with search labels, enhanced character motions and Treesitter integration |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mason-org/mason-lspconfig.nvim](../repos/mason-org/mason-lspconfig.nvim.md) | ⭐ 3,936 | 2026-08-17 | Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. |
+| [pwntester/octo.nvim](../repos/pwntester/octo.nvim.md) | ⭐ 3,367 | 2026-08-25 | Edit and review GitHub issues and pull requests from the comfort of your favorite editor |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nvim-neotest/neotest](../repos/nvim-neotest/neotest.md) | ⭐ 3,111 | 2026-08-19 | An extensible framework for interacting with tests within NeoVim. |
+| [citizenfx/cfx-server-data](../repos/citizenfx/cfx-server-data.md) | ⭐ 414 | 2026-08-25 | Data repository for CitizenFX servers. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [bol-van/zapret-win-bundle](../repos/bol-van/zapret-win-bundle.md) | ⭐ 1,847 | 2026-08-19 | zapret and blockcheck binary bundle for windows |
+| [RRethy/vim-illuminate](../repos/RRethy/vim-illuminate.md) | ⭐ 2,465 | 2026-08-26 | illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [b0o/SchemaStore.nvim](../repos/b0o/SchemaStore.nvim.md) | ⭐ 1,024 | 2026-08-19 | 🛍 JSON schemas for Neovim |
+| [goolord/alpha-nvim](../repos/goolord/alpha-nvim.md) | ⭐ 2,403 | 2026-08-26 | a lua powered greeter like vim-startify &#x2F; dashboard-nvim |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zimbadev/crystalserver](../repos/zimbadev/crystalserver.md) | ⭐ 114 | 2026-08-19 | Crystal Server for 15.25 protocol with Vocation Balancing. |
+| [nvim-mini/mini.nvim](../repos/nvim-mini/mini.nvim.md) | ⭐ 9,497 | 2026-08-26 | Library of 45+ independent Lua modules improving Neovim experience with minimal effort |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [gaboolic/rime-frost](../repos/gaboolic/rime-frost.md) | ⭐ 3,564 | 2026-08-19 | 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，经评测准确性已经不输于商业... |
+| [xhcherry/GTA5-Stand-LuaAIO](../repos/xhcherry/GTA5-Stand-LuaAIO.md) | ⭐ 732 | 2026-08-28 | GTA5 Mod Stand Lua All in One:快捷任务、crash、模组(人物|车辆|地图|模型)、娱乐等多种拓展功能玩法的lua脚本 |
 
 
 ---
@@ -88,8 +88,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,120 | 2026-08-01 | 19 |
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,461 | 2026-08-04 | 24 |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,153 | 2026-08-01 | 20 |
+| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,487 | 2026-08-04 | 25 |
 | [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 29,709 | 2026-08-01 | 26 |
 | [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) | ⭐ 28,218 | 2026-08-01 | 2 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,468 | 2026-08-04 | 21 |
@@ -102,10 +102,10 @@
 | [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,476 | 2026-08-04 | 7 |
 | [nvim-mini/mini.nvim](../repos/nvim-mini/mini.nvim.md) | ⭐ 9,497 | 2026-08-26 | 8 |
 | [nvim-tree/nvim-tree.lua](../repos/nvim-tree/nvim-tree.lua.md) | ⭐ 8,632 | 2026-08-05 | 3 |
+| [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,182 | 2026-08-02 | 8 |
 | [folke/tokyonight.nvim](../repos/folke/tokyonight.nvim.md) | ⭐ 8,179 | 2026-08-05 | 2 |
-| [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,146 | 2026-08-02 | 7 |
 | [nvim-lualine/lualine.nvim](../repos/nvim-lualine/lualine.nvim.md) | ⭐ 8,125 | 2026-09-05 | 3 |
-| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,078 | 2026-08-08 | 16 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,082 | 2026-08-08 | 17 |
 | [folke/which-key.nvim](../repos/folke/which-key.nvim.md) | ⭐ 7,282 | 2026-09-03 | 2 |
 | [awesomeWM/awesome](../repos/awesomeWM/awesome.md) | ⭐ 6,934 | 2026-08-04 | 1 |
 
@@ -116,13 +116,13 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [koreader/koreader](../repos/koreader/koreader.md) | 26 | ⭐ 29,709 | 2026-08-01 | 2026-09-14 |
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 24 | ⭐ 31,461 | 2026-08-04 | 2026-09-14 |
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 22 | ⭐ 289 | 2026-08-01 | 2026-09-14 |
+| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 25 | ⭐ 31,487 | 2026-08-04 | 2026-09-19 |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 23 | ⭐ 291 | 2026-08-01 | 2026-09-19 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | 21 | ⭐ 27,468 | 2026-08-04 | 2026-09-14 |
-| [Kong/kong](../repos/Kong/kong.md) | 19 | ⭐ 44,120 | 2026-08-01 | 2026-09-10 |
+| [Kong/kong](../repos/Kong/kong.md) | 20 | ⭐ 44,153 | 2026-08-01 | 2026-09-19 |
 | [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 17 | ⭐ 848 | 2026-08-01 | 2026-09-14 |
+| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | 17 | ⭐ 8,082 | 2026-08-08 | 2026-09-19 |
 | [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 16 | ⭐ 19,312 | 2026-08-03 | 2026-09-12 |
-| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | 16 | ⭐ 8,078 | 2026-08-08 | 2026-09-09 |
 | [apache/apisix](../repos/apache/apisix.md) | 13 | ⭐ 17,111 | 2026-08-01 | 2026-09-12 |
 | [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) | 13 | ⭐ 4,200 | 2026-08-03 | 2026-09-09 |
 
@@ -139,7 +139,7 @@
 - [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) - Image Super-Resolution for Anime-Style Art
 - [stevearc/conform.nvim](../repos/stevearc/conform.nvim.md) - Lightweight yet powerful formatter plugin for Neovim
 - [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) - A beta Dota2 Bot Script aims to provide better bot game experience
-- [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 &#x2F; 11631066
+- [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。
 - [overextended/ox_inventory](../repos/overextended/ox_inventory.md) - Slot-based inventory with metadata.
 - [ntop/ntopng](../repos/ntop/ntopng.md) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
 - [folke/sidekick.nvim](../repos/folke/sidekick.nvim.md) - Your Neovim AI sidekick
@@ -227,7 +227,9 @@
 - [rafamadriz/friendly-snippets](../repos/rafamadriz/friendly-snippets.md) - Set of preconfigured snippets for different languages. 
 - [public-transport/transitous](../repos/public-transport/transitous.md) - Free and open public transport routing.
 - [loki79uk/FS25_UniversalAutoload](../repos/loki79uk/FS25_UniversalAutoload.md) - Mod for FS25. Please download latest release below.
+- [nvim-tree/nvim-web-devicons](../repos/nvim-tree/nvim-web-devicons.md) - Provides Nerd Font icons (glyphs) for use by neovim plugins
+- [Questie/Questie](../repos/Questie/Questie.md) - Questie: The WoW Classic quest helper
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.437Z*
+*Last updated: 2026-09-19T12:06:01.620Z*

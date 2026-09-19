@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 186
+- **Total Repositories**: 190
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,243 | 2026-08-01 | 4 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 71,457 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,206 | 2026-08-02 | 13 |
+| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,263 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [veracrypt/VeraCrypt](../repos/veracrypt/VeraCrypt.md) | ⭐ 11,624 | 2026-08-09 | 5 |
+| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,622 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,399 | 2026-08-09 | 8 |
+| [FRRouting/frr](../repos/FRRouting/frr.md) | ⭐ 4,295 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [arendst/Tasmota](../repos/arendst/Tasmota.md) | ⭐ 24,756 | 2026-08-09 | 5 |
+| [timescale/timescaledb](../repos/timescale/timescaledb.md) | ⭐ 23,546 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) | ⭐ 15,422 | 2026-08-15 | 5 |
+| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,075 | 2026-08-12 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 4,418 | 2026-08-15 | 8 |
+| [eclipse-mosquitto/mosquitto](../repos/eclipse-mosquitto/mosquitto.md) | ⭐ 11,209 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CTCaer/hekate](../repos/CTCaer/hekate.md) | ⭐ 8,698 | 2026-08-16 | 3 |
+| [UberGuidoZ/Flipper](../repos/UberGuidoZ/Flipper.md) | ⭐ 17,550 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [coop-deluxe/sm64coopdx](../repos/coop-deluxe/sm64coopdx.md) | ⭐ 1,352 | 2026-08-16 | 3 |
+| [stackia/rtp2httpd](../repos/stackia/rtp2httpd.md) | ⭐ 2,096 | 2026-08-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moonlight-stream/moonlight-android](../repos/moonlight-stream/moonlight-android.md) | ⭐ 7,110 | 2026-08-23 | 4 |
+| [PerformanC/ReZygisk](../repos/PerformanC/ReZygisk.md) | ⭐ 3,942 | 2026-09-04 | 2 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [gentilkiwi/mimikatz](../repos/gentilkiwi/mimikatz.md) | ⭐ 21,777 | 2026-08-16 | A little tool to play with Windows security |
+| [stackia/rtp2httpd](../repos/stackia/rtp2httpd.md) | ⭐ 2,096 | 2026-08-22 | Multicast RTP&#x2F;RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [CTCaer/hekate](../repos/CTCaer/hekate.md) | ⭐ 8,698 | 2026-08-16 | hekate - A GUI based Nintendo Switch Bootloader |
+| [aws/s2n-tls](../repos/aws/s2n-tls.md) | ⭐ 4,753 | 2026-08-22 | An implementation of the TLS&#x2F;SSL protocols |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [reactos/reactos](../repos/reactos/reactos.md) | ⭐ 17,974 | 2026-08-16 | A free Windows-compatible Operating System |
+| [pret/pokefirered](../repos/pret/pokefirered.md) | ⭐ 1,570 | 2026-08-22 | Decompilation of Pokémon FireRed&#x2F;LeafGreen |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [bol-van/zapret2](../repos/bol-van/zapret2.md) | ⭐ 5,438 | 2026-08-16 | anti-dpi software |
+| [sandboxie-plus/Sandboxie](../repos/sandboxie-plus/Sandboxie.md) | ⭐ 19,358 | 2026-08-23 | Sandboxie Plus &amp; Classic |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [OpenIPC/firmware](../repos/OpenIPC/firmware.md) | ⭐ 2,139 | 2026-08-16 | Alternative IP Camera firmware from an open community |
+| [moonlight-stream/moonlight-android](../repos/moonlight-stream/moonlight-android.md) | ⭐ 7,110 | 2026-08-23 | GameStream client for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | Lean&#39;s LEDE source |
+| [wine-mirror/wine](../repos/wine-mirror/wine.md) | ⭐ 4,148 | 2026-08-23 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [bitaxeorg/ESP-Miner](../repos/bitaxeorg/ESP-Miner.md) | ⭐ 937 | 2026-08-16 | A bitcoin ASIC miner for the ESP32 |
+| [RxNaison/Epson-Waste-Reset](../repos/RxNaison/Epson-Waste-Reset.md) | ⭐ 146 | 2026-08-23 | A free, native, and completely open-source utility to reset the &quot;Waste Ink Pad&quot; counter on Epson ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [coop-deluxe/sm64coopdx](../repos/coop-deluxe/sm64coopdx.md) | ⭐ 1,352 | 2026-08-16 | An official continuation of https:&#x2F;&#x2F;github.com&#x2F;djoslin0&#x2F;sm64ex-coop on sm64coopdx for the enhance... |
+| [HarbourMasters/Shipwright](../repos/HarbourMasters/Shipwright.md) | ⭐ 5,390 | 2026-08-24 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Sor3nt/Flipper-Zero-ESP32-Port](../repos/Sor3nt/Flipper-Zero-ESP32-Port.md) | ⭐ 443 | 2026-08-16 |  |
+| [tqbf/mdv](../repos/tqbf/mdv.md) | ⭐ 262 | 2026-08-24 | Markdown Viewer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [NaGaa95/sphaira](../repos/NaGaa95/sphaira.md) | ⭐ 746 | 2026-08-17 | A homebrew menu for the Nintendo Switch |
+| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 78,928 | 2026-08-24 | A new bootable USB solution. |
 
 
 ---
@@ -93,13 +93,13 @@
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 78,928 | 2026-08-24 | 1 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,206 | 2026-08-02 | 13 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 70,404 | 2026-08-01 | 17 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 71,457 | 2026-08-01 | 18 |
 | [git/git](../repos/git/git.md) | ⭐ 63,088 | 2026-08-05 | 5 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,675 | 2026-08-07 | 16 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,380 | 2026-08-01 | 6 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,935 | 2026-08-02 | 8 |
-| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,469 | 2026-08-04 | 6 |
+| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,622 | 2026-08-04 | 7 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,501 | 2026-08-03 | 4 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,863 | 2026-09-06 | 3 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,195 | 2026-08-01 | 4 |
@@ -116,8 +116,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 35 | ⭐ 16,582 | 2026-08-01 | 2026-09-10 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 18 | ⭐ 71,457 | 2026-08-01 | 2026-09-19 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 17 | ⭐ 138,519 | 2026-08-01 | 2026-09-09 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 17 | ⭐ 70,404 | 2026-08-01 | 2026-09-10 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 16 | ⭐ 42,675 | 2026-08-07 | 2026-09-08 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 16 | ⭐ 27,819 | 2026-08-07 | 2026-09-10 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 15 | ⭐ 6,952 | 2026-08-04 | 2026-09-09 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.389Z*
+*Last updated: 2026-09-19T12:06:01.567Z*

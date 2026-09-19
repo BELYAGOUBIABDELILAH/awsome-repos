@@ -1,6 +1,6 @@
 # alibaba&#x2F;open-code-review
 
-> Fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.
+> Secure, fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;alibaba&#x2F;open-code-review) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 25,451 |
-| **Forks** | 🍴 1,850 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 37,169 |
+| **Forks** | 🍴 2,653 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Sep 14, 2026 |
+| **Last Seen** | Sep 19, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 5 days
 
 ---
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:52.973Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-09-19T12:06:06.122Z*  
+*Data from 10 trending reports*

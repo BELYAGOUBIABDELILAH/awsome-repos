@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 62,632 | 2026-08-02 | 14 |
+| [zly2006/zhihu-plus-plus](../repos/zly2006/zhihu-plus-plus.md) | ⭐ 4,059 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 7,621 | 2026-08-02 | 9 |
+| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | ⭐ 1,043 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,670 | 2026-08-03 | 9 |
+| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 7,972 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | ⭐ 1,710 | 2026-08-03 | 7 |
+| [mpv-android/mpv-android](../repos/mpv-android/mpv-android.md) | ⭐ 3,568 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,859 | 2026-08-03 | 8 |
+| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,376 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 7,806 | 2026-08-03 | 5 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,585 | 2026-08-06 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,338 | 2026-08-05 | 5 |
+| [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) | ⭐ 7,639 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,136 | 2026-08-08 | 13 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,733 | 2026-08-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rushiranpise/morphe-patches](../repos/rushiranpise/morphe-patches.md) | ⭐ 668 | 2026-08-08 | 6 |
+| [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 1,085 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,241 | 2026-08-09 | 6 |
+| [Replica0110/Lyrico](../repos/Replica0110/Lyrico.md) | ⭐ 1,058 | 2026-08-20 | 3 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [SpaceNeuroX/proxy-turn-vk-android](../repos/SpaceNeuroX/proxy-turn-vk-android.md) | ⭐ 234 | 2026-08-16 |  |
+| [jellyfin/jellyfin-androidtv](../repos/jellyfin/jellyfin-androidtv.md) | ⭐ 4,527 | 2026-08-24 | Android TV Client for Jellyfin |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [keiyoushi/extensions-source](../repos/keiyoushi/extensions-source.md) | ⭐ 4,669 | 2026-08-16 | Source code of extensions in https:&#x2F;&#x2F;github.com&#x2F;keiyoushi&#x2F;extensions |
+| [yuzono/anime-extensions](../repos/yuzono/anime-extensions.md) | ⭐ 426 | 2026-08-24 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) | ⭐ 6,304 | 2026-08-16 | The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely ... |
+| [CCBlueX/LiquidBounce](../repos/CCBlueX/LiquidBounce.md) | ⭐ 2,352 | 2026-08-24 | A free Minecraft hacked client (utility mod) for Fabric |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,820 | 2026-08-17 | A Download Manager that speeds up your downloads |
+| [duckduckgo/Android](../repos/duckduckgo/Android.md) | ⭐ 4,802 | 2026-08-24 | DuckDuckGo Android App |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [prajwalch/TorrentSearch](../repos/prajwalch/TorrentSearch.md) | ⭐ 2,067 | 2026-08-17 | An Android app for searching torrents across multiple providers - fast, detailed, and packed with... |
+| [wxxsfxyzm/InstallerX-Revived](../repos/wxxsfxyzm/InstallerX-Revived.md) | ⭐ 6,362 | 2026-08-26 | More Expressive InstallerX ! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Nain57/Smart-AutoClicker](../repos/Nain57/Smart-AutoClicker.md) | ⭐ 3,554 | 2026-08-17 | An open-source auto clicker on images for Android |
+| [The412Banner/Bannerlator](../repos/The412Banner/Bannerlator.md) | ⭐ 271 | 2026-08-26 | Bannerlator — run Windows PC games and apps on Android (Wine + Box64&#x2F;86). A personal, community-d... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 1,012 | 2026-08-19 | 虚拟定位软件，主要是定位，集成了 WiFi、蓝牙、基站等方案，主要有定点模拟和路线模拟。非全局方案，需要单独 hook 对应的软件(因为不想单独去适配各大手机厂商的系统)， |
+| [bjzhou/PhotonCamera](../repos/bjzhou/PhotonCamera.md) | ⭐ 333 | 2026-08-26 | Open-source Android camera application focused on static photography |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [YenalyLiew/Han1meViewer](../repos/YenalyLiew/Han1meViewer.md) | ⭐ 3,309 | 2026-08-19 | [Deprecated] Thanks for your support! |
+| [hoo-dles/morphe-patches](../repos/hoo-dles/morphe-patches.md) | ⭐ 1,004 | 2026-08-26 | 🍃 Patches for Morphe |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [amurcanov/proxy-turn-vk-android](../repos/amurcanov/proxy-turn-vk-android.md) | ⭐ 1,165 | 2026-08-19 | WireGuard‑туннель через DTLS‑медиарелей ВК TURN‑серверов: трафик проходит от клиента к вашему лич... |
+| [nightscout/AndroidAPS](../repos/nightscout/AndroidAPS.md) | ⭐ 1,156 | 2026-08-27 | Opensource automated insulin delivery system (closed loop) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zhanghai/MaterialFiles](../repos/zhanghai/MaterialFiles.md) | ⭐ 8,878 | 2026-08-19 | Material Design file manager for Android |
+| [marlboro-advance/mpvEx](../repos/marlboro-advance/mpvEx.md) | ⭐ 2,463 | 2026-08-28 | A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked... |
 
 
 ---
@@ -90,13 +90,13 @@
 |------------|-------|------------|---------------|
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,752 | 2026-08-03 | 10 |
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 62,632 | 2026-08-02 | 14 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,585 | 2026-08-06 | 13 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,402 | 2026-08-04 | 10 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,144 | 2026-08-06 | 12 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,859 | 2026-08-03 | 8 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,136 | 2026-08-08 | 13 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,338 | 2026-08-05 | 5 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,730 | 2026-08-11 | 3 |
-| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,641 | 2026-08-12 | 3 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,733 | 2026-08-12 | 4 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,457 | 2026-08-05 | 5 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,441 | 2026-08-01 | 12 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,573 | 2026-08-02 | 4 |
@@ -116,10 +116,10 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 14 | ⭐ 62,632 | 2026-08-02 | 2026-09-14 |
+| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 13 | ⭐ 53,585 | 2026-08-06 | 2026-09-19 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 13 | ⭐ 30,136 | 2026-08-08 | 2026-09-14 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 12 | ⭐ 23,441 | 2026-08-01 | 2026-09-07 |
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 12 | ⭐ 845 | 2026-08-05 | 2026-09-12 |
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 12 | ⭐ 53,144 | 2026-08-06 | 2026-09-06 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 11 | ⭐ 2,342 | 2026-08-02 | 2026-09-07 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 10 | ⭐ 4,386 | 2026-08-02 | 2026-08-26 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 10 | ⭐ 11,337 | 2026-08-02 | 2026-09-07 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.435Z*
+*Last updated: 2026-09-19T12:06:01.618Z*

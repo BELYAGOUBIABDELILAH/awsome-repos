@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 85
+- **Total Repositories**: 88
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-14
 
@@ -16,34 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 12,853 | 2026-08-01 | 5 |
+| [thedev-id/thedev.id](../repos/thedev-id/thedev.id.md) | ⭐ 1,734 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 21,868 | 2026-08-01 | 6 |
+| [webmin/webmin](../repos/webmin/webmin.md) | ⭐ 6,065 | 2026-08-23 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,297 | 2026-08-02 | 4 |
+| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,060 | 2026-09-19 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,014 | 2026-08-03 | 11 |
+| [github/opensource.guide](../repos/github/opensource.guide.md) | ⭐ 15,689 | 2026-09-19 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,540 | 2026-08-04 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,152 | 2026-08-05 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | ⭐ 5,100 | 2026-08-06 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,744 | 2026-08-07 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,595 | 2026-08-09 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 4,102 | 2026-08-11 | 7 |
+| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,021 | 2026-09-19 | 1 |
 
 
 ---
@@ -52,25 +37,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nova-video-player/aos-AVP](../repos/nova-video-player/aos-AVP.md) | ⭐ 4,618 | 2026-08-16 | NOVA opeN sOurce Video plAyer: main repository to build them all |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,438 | 2026-08-19 | 计算机自学指南 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zhaochenyang20/Awesome-ML-SYS-Tutorial](../repos/zhaochenyang20/Awesome-ML-SYS-Tutorial.md) | ⭐ 7,245 | 2026-08-19 | My learning notes for ML SYS. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 5,509 | 2026-08-19 | Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,182 | 2026-08-19 | A one stop repository for generative AI research updates, interview resources, notebooks and much... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [webmin/webmin](../repos/webmin/webmin.md) | ⭐ 6,018 | 2026-08-23 | Powerful and flexible web-based server management control panel |
+| [webmin/webmin](../repos/webmin/webmin.md) | ⭐ 6,065 | 2026-08-23 | Powerful and flexible web-based server management control panel |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [w3c/wcag](../repos/w3c/wcag.md) | ⭐ 1,482 | 2026-08-24 | Web Content Accessibility Guidelines |
@@ -80,6 +47,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Manavarya09/design-extract](../repos/Manavarya09/design-extract.md) | ⭐ 4,049 | 2026-08-27 | Extract any website&#39;s complete design system with one command. DTCG tokens, semantic+primitive+co... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [fcaronte/KingInstaller](../repos/fcaronte/KingInstaller.md) | ⭐ 461 | 2026-08-27 | Porting of KingInstaller get from GitLab by annexhack |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tianma-if/edgeever](../repos/tianma-if/edgeever.md) | ⭐ 1,289 | 2026-08-27 | Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rdkit/rdkit](../repos/rdkit/rdkit.md) | ⭐ 3,566 | 2026-08-27 | The official sources for the RDKit library |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [openshift/openshift-docs](../repos/openshift/openshift-docs.md) | ⭐ 882 | 2026-08-28 | OpenShift 3 and 4 product and community documentation |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ultrasecurity/Storm-Breaker](../repos/ultrasecurity/Storm-Breaker.md) | ⭐ 5,974 | 2026-08-29 | Social engineering tool [Access Webcam &amp; Microphone  &amp; Location Finder] With {Py,JS,PHP} |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [atelier-anchor/smiley-sans](../repos/atelier-anchor/smiley-sans.md) | ⭐ 14,742 | 2026-08-29 | 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 |
 
 
 ---
@@ -215,7 +200,10 @@
 - [tinkerhub/useless_project_temp](../repos/tinkerhub/useless_project_temp.md) - 
 - [apna-college/Delta](../repos/apna-college/Delta.md) - 
 - [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) - AI 时代的伯克希尔：基于 Claude Code &#x2F; Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: ...
+- [baojie/shiji-kb](../repos/baojie/shiji-kb.md) - 
+- [github/opensource.guide](../repos/github/opensource.guide.md) - 📚 Community guides for open source creators
+- [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) - Crack Interface lockscreen, Metasploit and More Android&#x2F;IOS Hacking
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.423Z*
+*Last updated: 2026-09-19T12:06:01.605Z*

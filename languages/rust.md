@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 176
+- **Total Repositories**: 180
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-10
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 118,860 | 2026-07-30 | 8 |
+| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,782 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust-clippy](../repos/rust-lang/rust-clippy.md) | ⭐ 13,505 | 2026-08-02 | 4 |
+| [warp-tech/warpgate](../repos/warp-tech/warpgate.md) | ⭐ 7,929 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [reacherhq/check-if-email-exists](../repos/reacherhq/check-if-email-exists.md) | ⭐ 9,847 | 2026-08-03 | 5 |
+| [iii-hq/iii](../repos/iii-hq/iii.md) | ⭐ 18,791 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gfx-rs/wgpu](../repos/gfx-rs/wgpu.md) | ⭐ 18,038 | 2026-08-03 | 5 |
+| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 33,302 | 2026-08-09 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 93,786 | 2026-08-09 | 11 |
+| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 15,637 | 2026-08-10 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [louis-e/arnis](../repos/louis-e/arnis.md) | ⭐ 17,871 | 2026-08-09 | 5 |
+| [cloudflare/quiche](../repos/cloudflare/quiche.md) | ⭐ 11,864 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 32,137 | 2026-08-09 | 9 |
+| [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,433 | 2026-09-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pacifio/atlas](../repos/pacifio/atlas.md) | ⭐ 4,402 | 2026-08-14 | 6 |
+| [yynxxxxx/Codex-X](../repos/yynxxxxx/Codex-X.md) | ⭐ 3,314 | 2026-09-19 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [waditu/czsc](../repos/waditu/czsc.md) | ⭐ 6,209 | 2026-08-14 | 5 |
+| [yyjeqhc/webcodex](../repos/yyjeqhc/webcodex.md) | ⭐ 1,382 | 2026-09-19 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RyanCodrai/turbovec](../repos/RyanCodrai/turbovec.md) | ⭐ 17,138 | 2026-08-19 | 6 |
+| [EpicGames/lore](../repos/EpicGames/lore.md) | ⭐ 8,669 | 2026-09-19 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 💥 Blazing fast terminal file manager written in Rust, based on async I&#x2F;O. |
+| [windmill-labs/windmill](../repos/windmill-labs/windmill.md) | ⭐ 17,662 | 2026-08-22 | Open-source developer platform to power your entire infra and turn scripts into webhooks, workflo... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 6,454 | 2026-08-17 | Solution for long term memory for agent coding CLIs and to facilitate handoff between different a... |
+| [spacedriveapp/spacedrive](../repos/spacedriveapp/spacedrive.md) | ⭐ 38,820 | 2026-08-22 | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed files... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [SlimeBoyOwO/LingChat](../repos/SlimeBoyOwO/LingChat.md) | ⭐ 1,550 | 2026-08-17 | Immersive AI-driven Galgame chat with emotional expressions, desktop pet, scheduling, and interac... |
+| [slint-ui/slint](../repos/slint-ui/slint.md) | ⭐ 23,730 | 2026-08-23 | Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, Ja... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Sollimann/bonsai](../repos/Sollimann/bonsai.md) | ⭐ 949 | 2026-08-17 | Rust implementation of behavior trees for deterministic AI (now with Python bindings) |
+| [gitbutlerapp/gitbutler](../repos/gitbutlerapp/gitbutler.md) | ⭐ 21,553 | 2026-08-23 | The GitButler version control client, backed by Git, powered by Tauri&#x2F;Rust&#x2F;Svelte |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vectordotdev/vector](../repos/vectordotdev/vector.md) | ⭐ 22,474 | 2026-08-19 | A high-performance observability data pipeline. |
+| [rust-lang/rust-analyzer](../repos/rust-lang/rust-analyzer.md) | ⭐ 16,845 | 2026-08-23 | A Rust compiler front-end for IDEs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [memvid/memvid](../repos/memvid/memvid.md) | ⭐ 16,532 | 2026-08-19 | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory l... |
+| [GitoxideLabs/gitoxide](../repos/GitoxideLabs/gitoxide.md) | ⭐ 11,849 | 2026-08-24 | An idiomatic, lean, fast &amp; safe pure Rust implementation of Git |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cloudflare/quiche](../repos/cloudflare/quiche.md) | ⭐ 11,781 | 2026-08-19 | 🥧 Savoury implementation of the QUIC transport protocol and HTTP&#x2F;3 |
+| [ruvnet/RuVector](../repos/ruvnet/RuVector.md) | ⭐ 4,447 | 2026-08-24 | RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [amadeusprotocol/node](../repos/amadeusprotocol/node.md) | ⭐ 5,133 | 2026-08-19 |  |
+| [rust-lang/book](../repos/rust-lang/book.md) | ⭐ 18,227 | 2026-08-24 | The Rust Programming Language |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [block/buzz](../repos/block/buzz.md) | ⭐ 30,670 | 2026-08-19 | A hive mind communication platform |
+| [otter-sec/anchor](../repos/otter-sec/anchor.md) | ⭐ 5,118 | 2026-08-24 | ⚓ Solana Program Framework |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [RyanCodrai/turbovec](../repos/RyanCodrai/turbovec.md) | ⭐ 17,138 | 2026-08-19 | A vector index built on TurboQuant, written in Rust with Python bindings |
+| [confeden/Antigravity](../repos/confeden/Antigravity.md) | ⭐ 443 | 2026-08-25 | Antigravity в России без VPN и смены региона аккаунта Google |
 
 
 ---
@@ -99,7 +99,7 @@
 | [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
 | [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 64,633 | 2026-08-20 | 3 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 64,099 | 2026-08-03 | 2 |
-| [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,161 | 2026-09-03 | 1 |
+| [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,433 | 2026-09-03 | 2 |
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,385 | 2026-08-19 | 5 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,503 | 2026-08-12 | 3 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 47,938 | 2026-08-28 | 1 |
@@ -119,8 +119,8 @@
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 11 | ⭐ 93,786 | 2026-08-09 | 2026-09-14 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 10 | ⭐ 19,259 | 2026-08-01 | 2026-09-12 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 10 | ⭐ 28,668 | 2026-08-03 | 2026-09-08 |
+| [rustfs/rustfs](../repos/rustfs/rustfs.md) | 10 | ⭐ 33,302 | 2026-08-09 | 2026-09-19 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 10 | ⭐ 39,743 | 2026-08-10 | 2026-09-13 |
-| [rustfs/rustfs](../repos/rustfs/rustfs.md) | 9 | ⭐ 32,137 | 2026-08-09 | 2026-09-14 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 8 | ⭐ 118,860 | 2026-07-30 | 2026-09-14 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 8 | ⭐ 42,307 | 2026-08-02 | 2026-09-09 |
 | [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 8 | ⭐ 2,853 | 2026-08-05 | 2026-09-09 |
@@ -208,7 +208,7 @@
 - [lanyeeee/bilibili-video-downloader](../repos/lanyeeee/bilibili-video-downloader.md) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
 - [louis-e/arnis](../repos/louis-e/arnis.md) - Generate any location from the real world in Minecraft with a high level of detail.
 - [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) - Empowering everyone to host fast and efficient Minecraft servers.
-- [rustfs/rustfs](../repos/rustfs/rustfs.md) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-pe...
+- [rustfs/rustfs](../repos/rustfs/rustfs.md) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migrati...
 - [Kuberwastaken/claurst](../repos/Kuberwastaken/claurst.md) - Agentic Coding for Builders who Ship
 - [run-llama/liteparse](../repos/run-llama/liteparse.md) - A fast, helpful, and open-source document parser
 - [Automattic/harper](../repos/Automattic/harper.md) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.464Z*
+*Last updated: 2026-09-19T12:06:01.648Z*

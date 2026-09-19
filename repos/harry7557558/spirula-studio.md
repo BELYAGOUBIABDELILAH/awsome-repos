@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 332 |
-| **Forks** | 🍴 26 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 462 |
+| **Forks** | 🍴 41 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 3, 2026 |
-| **Last Seen** | Sep 3, 2026 |
+| **Last Seen** | Sep 19, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`360-camera`](../../topics/360-camera.md) [`3d-gaussian-splatting`](../../topics/3d-gaussian-splatting.md) [`3d-reconstruction`](../../topics/3d-reconstruction.md) [`3dgs`](../../topics/3dgs.md) [`3dgs-acceleration`](../../topics/3dgs-acceleration.md) [`computer-vision`](../../topics/computer-vision.md) [`cross-vendor`](../../topics/cross-vendor.md) [`cuda`](../../topics/cuda.md) [`gaussian-splatting`](../../topics/gaussian-splatting.md) [`mesh-generation`](../../topics/mesh-generation.md) [`quantized-training`](../../topics/quantized-training.md) [`vram-optimization`](../../topics/vram-optimization.md) [`vulkan`](../../topics/vulkan.md) 
+[`360-camera`](../../topics/360-camera.md) [`3d-gaussian-splatting`](../../topics/3d-gaussian-splatting.md) [`3d-reconstruction`](../../topics/3d-reconstruction.md) [`3dgs`](../../topics/3dgs.md) [`3dgs-acceleration`](../../topics/3dgs-acceleration.md) [`computer-vision`](../../topics/computer-vision.md) [`cross-vendor`](../../topics/cross-vendor.md) [`cuda`](../../topics/cuda.md) [`gaussian-splatting`](../../topics/gaussian-splatting.md) [`mesh-generation`](../../topics/mesh-generation.md) [`quantized-training`](../../topics/quantized-training.md) [`structure-from-motion`](../../topics/structure-from-motion.md) [`vram-optimization`](../../topics/vram-optimization.md) [`vulkan`](../../topics/vulkan.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Computer Vision` `Game Development` `Systems Programming` `Robotics` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-14T21:01:53.568Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-19T12:06:06.702Z*  
+*Data from 2 trending reports*

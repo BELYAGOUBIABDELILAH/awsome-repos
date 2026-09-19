@@ -1,6 +1,6 @@
 # rustfs&#x2F;rustfs
 
-> 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+> RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;rustfs&#x2F;rustfs) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 32,137 |
-| **Forks** | 🍴 1,441 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 33,302 |
+| **Forks** | 🍴 1,490 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Sep 14, 2026 |
+| **Last Seen** | Sep 19, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:52.136Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-09-19T12:06:05.326Z*  
+*Data from 10 trending reports*

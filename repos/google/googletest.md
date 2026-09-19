@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 39,513 |
-| **Forks** | 🍴 10,894 |
-| **Trending Days** | 13 |
+| **Stars** | ⭐ 39,551 |
+| **Forks** | 🍴 10,898 |
+| **Trending Days** | 14 |
 | **Peak Rank** | #13 |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Sep 12, 2026 |
+| **Last Seen** | Sep 19, 2026 |
 
 
 ---
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #13
-- **Trending Days**: 13
+- **Trending Days**: 14
 - **Longest Streak**: 4 days
 
 ---
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:51.395Z*  
-*Data from 13 trending reports*
+*Last updated: 2026-09-19T12:06:04.620Z*  
+*Data from 14 trending reports*

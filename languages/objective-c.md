@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 93
+- **Total Repositories**: 95
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,707 | 2026-08-01 | 14 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,113 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,154 | 2026-08-02 | 20 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 731 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 722 | 2026-08-02 | 15 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,782 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 506 | 2026-08-02 | 11 |
+| [newmarcel/KeepingYouAwake](../repos/newmarcel/KeepingYouAwake.md) | ⭐ 6,915 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,242 | 2026-08-02 | 13 |
+| [danveloper/flash-moe](../repos/danveloper/flash-moe.md) | ⭐ 4,142 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [newmarcel/KeepingYouAwake](../repos/newmarcel/KeepingYouAwake.md) | ⭐ 6,901 | 2026-08-02 | 6 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,140 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,105 | 2026-08-04 | 14 |
+| [bugsnag/bugsnag-cocoa](../repos/bugsnag/bugsnag-cocoa.md) | ⭐ 262 | 2026-08-06 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,442 | 2026-08-06 | 3 |
+| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,120 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,119 | 2026-08-07 | 7 |
+| [LiveContainer/LiveExec32](../repos/LiveContainer/LiveExec32.md) | ⭐ 269 | 2026-09-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alexzielenski/Mousecape](../repos/alexzielenski/Mousecape.md) | ⭐ 2,073 | 2026-08-09 | 5 |
+| [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [datatheorem/TrustKit](../repos/datatheorem/TrustKit.md) | ⭐ 2,140 | 2026-08-19 | Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/GoogleSignIn-iOS](../repos/google/GoogleSignIn-iOS.md) | ⭐ 751 | 2026-08-19 | Enables iOS and macOS apps to sign in with Google. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SDWebImage/SDWebImageWebPCoder](../repos/SDWebImage/SDWebImageWebPCoder.md) | ⭐ 276 | 2026-08-20 | A WebP coder plugin for SDWebImage, use libwebp |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SDWebImage/SDWebImageSVGCoder](../repos/SDWebImage/SDWebImageSVGCoder.md) | ⭐ 136 | 2026-08-20 | A SVG coder plugin for SDWebImage, using Apple&#39;s built-in framework |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SDWebImage/SDWebImageAVIFCoder](../repos/SDWebImage/SDWebImageAVIFCoder.md) | ⭐ 66 | 2026-08-20 | A SDWebImage coder plugin to support AVIF(AV1 Image File Format) image |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google/app-check](../repos/google/app-check.md) | ⭐ 45 | 2026-08-21 | Google-internal core components of Firebase App Check. |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jverdi/JVFloatLabeledTextField](../repos/jverdi/JVFloatLabeledTextField.md) | ⭐ 7,141 | 2026-08-27 | UITextField subclass with floating labels - inspired by Matt D. Smith&#39;s design: http:&#x2F;&#x2F;dribbble.c... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,836 | 2026-08-28 | A Cocoa &#x2F; Objective-C wrapper around SQLite |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pinterest/PINOperation](../repos/pinterest/PINOperation.md) | ⭐ 109 | 2026-08-29 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [QMUI/LookinServer](../repos/QMUI/LookinServer.md) | ⭐ 2,859 | 2026-08-29 | Free macOS app for iOS view debugging. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [michaeltyson/TPKeyboardAvoiding](../repos/michaeltyson/TPKeyboardAvoiding.md) | ⭐ 5,787 | 2026-08-29 | A drop-in universal solution for moving text fields out of the way of the keyboard in iOS |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | An easy way to use pull-to-refresh. |
 
 
 ---
@@ -94,20 +94,20 @@
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,154 | 2026-08-02 | 20 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,610 | 2026-08-04 | 18 |
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,105 | 2026-08-04 | 14 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,140 | 2026-08-04 | 15 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,923 | 2026-08-04 | 9 |
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,099 | 2026-08-01 | 8 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,113 | 2026-08-01 | 9 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
 | [marcuswestin/WebViewJavascriptBridge](../repos/marcuswestin/WebViewJavascriptBridge.md) | ⭐ 14,308 | 2026-09-13 | 1 |
 | [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,836 | 2026-08-28 | 1 |
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
+| [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
 | [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,348 | 2026-08-03 | 10 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,319 | 2026-08-04 | 10 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,442 | 2026-08-06 | 3 |
-| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,119 | 2026-08-07 | 7 |
+| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,120 | 2026-08-07 | 8 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
-| [bang590/JSPatch](../repos/bang590/JSPatch.md) | ⭐ 11,324 | 2026-09-13 | 1 |
 
 ---
 
@@ -124,7 +124,7 @@
 | [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 20 | ⭐ 2,029 | 2026-08-08 | 2026-09-08 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 19 | ⭐ 676 | 2026-08-04 | 2026-09-09 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 18 | ⭐ 16,610 | 2026-08-04 | 2026-09-12 |
-| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 16 | ⭐ 4,494 | 2026-08-05 | 2026-09-04 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 16 | ⭐ 731 | 2026-08-02 | 2026-09-19 |
 
 ---
 
@@ -223,7 +223,9 @@
 - [button/DeepLinkKit](../repos/button/DeepLinkKit.md) - A splendid route-matching, block-based way to handle your deep links.
 - [marcuswestin/WebViewJavascriptBridge](../repos/marcuswestin/WebViewJavascriptBridge.md) - An iOS&#x2F;OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews&#x2F;WebViews
 - [bang590/JSPatch](../repos/bang590/JSPatch.md) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objecti...
+- [eczarny/spectacle](../repos/eczarny/spectacle.md) - Spectacle allows you to organize your windows without using a mouse.
+- [pinterest/PINRemoteImage](../repos/pinterest/PINRemoteImage.md) - A thread safe, performant, feature rich image fetcher
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.447Z*
+*Last updated: 2026-09-19T12:06:01.631Z*

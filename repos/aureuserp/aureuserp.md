@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | MIT |
-| **Stars** | ⭐ 11,897 |
-| **Forks** | 🍴 557 |
-| **Trending Days** | 11 |
+| **Stars** | ⭐ 11,938 |
+| **Forks** | 🍴 564 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Sep 9, 2026 |
+| **Last Seen** | Sep 19, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 11
+- **Trending Days**: 12
 - **Longest Streak**: 2 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`accounting`](../../topics/accounting.md) [`erp`](../../topics/erp.md) [`filamentphp`](../../topics/filamentphp.md) [`hrm`](../../topics/hrm.md) [`inventory-management`](../../topics/inventory-management.md) [`invoice`](../../topics/invoice.md) [`laravel`](../../topics/laravel.md) [`maintenance`](../../topics/maintenance.md) [`manufacturing`](../../topics/manufacturing.md) [`pms`](../../topics/pms.md) [`purchase-order`](../../topics/purchase-order.md) [`recruitment`](../../topics/recruitment.md) [`sale-or`](../../topics/sale-or.md) [`sales`](../../topics/sales.md) [`warehouse-management`](../../topics/warehouse-management.md) 
+[`accounting`](../../topics/accounting.md) [`erp`](../../topics/erp.md) [`erp-software`](../../topics/erp-software.md) [`filamentphp`](../../topics/filamentphp.md) [`hrm`](../../topics/hrm.md) [`inventory-management`](../../topics/inventory-management.md) [`invoice`](../../topics/invoice.md) [`laravel`](../../topics/laravel.md) [`maintenance`](../../topics/maintenance.md) [`manufacturing`](../../topics/manufacturing.md) [`pms`](../../topics/pms.md) [`purchase-order`](../../topics/purchase-order.md) [`recruitment`](../../topics/recruitment.md) [`sale-or`](../../topics/sale-or.md) [`sales`](../../topics/sales.md) [`warehouse-management`](../../topics/warehouse-management.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Frontend Development` `Systems Programming` 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:52.396Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-09-19T12:06:05.570Z*  
+*Data from 12 trending reports*

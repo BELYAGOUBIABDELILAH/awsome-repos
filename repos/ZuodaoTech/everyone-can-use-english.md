@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 36,431 |
-| **Forks** | 🍴 5,050 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 37,658 |
+| **Forks** | 🍴 5,198 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #12 |
 
 | **First Seen** | Aug 12, 2026 |
-| **Last Seen** | Aug 14, 2026 |
+| **Last Seen** | Sep 19, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Sep 19, 2026** — Rank #12 (+31 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #12
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: Peak: #12
 
 
 ---
 
-*Last updated: 2026-09-14T21:01:52.426Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-19T12:06:05.598Z*  
+*Data from 3 trending reports*

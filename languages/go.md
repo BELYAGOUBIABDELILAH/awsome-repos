@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 244
+- **Total Repositories**: 250
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-09-08
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Solr159/JavBoss](../repos/Solr159/JavBoss.md) | ⭐ 634 | 2026-08-02 | 3 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 50,456 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 37,994 | 2026-08-03 | 9 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 27,208 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 127,708 | 2026-08-04 | 5 |
+| [looplj/axonhub](../repos/looplj/axonhub.md) | ⭐ 5,256 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 24,406 | 2026-08-06 | 9 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 1,971 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [navidrome/navidrome](../repos/navidrome/navidrome.md) | ⭐ 23,555 | 2026-08-08 | 6 |
+| [docker/compose](../repos/docker/compose.md) | ⭐ 38,192 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fluxcd/flux2](../repos/fluxcd/flux2.md) | ⭐ 8,405 | 2026-08-19 | 2 |
+| [coder/coder](../repos/coder/coder.md) | ⭐ 15,440 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 25,451 | 2026-08-20 | 9 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 42,026 | 2026-08-07 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tbphp/gpt-load](../repos/tbphp/gpt-load.md) | ⭐ 6,740 | 2026-09-03 | 3 |
+| [anchore/syft](../repos/anchore/syft.md) | ⭐ 9,581 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [operacle/checkcle](../repos/operacle/checkcle.md) | ⭐ 3,196 | 2026-09-14 | 1 |
+| [cilium/cilium](../repos/cilium/cilium.md) | ⭐ 25,353 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yorukot/superfile](../repos/yorukot/superfile.md) | ⭐ 23,241 | 2026-09-14 | 1 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 37,169 | 2026-08-20 | 10 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ViRb3/wgcf](../repos/ViRb3/wgcf.md) | ⭐ 8,613 | 2026-08-16 | 🚤 Cross-platform, unofficial CLI for Cloudflare Warp |
+| [cloudnative-pg/cloudnative-pg](../repos/cloudnative-pg/cloudnative-pg.md) | ⭐ 9,177 | 2026-08-22 | The most popular Kubernetes Operator for PostgreSQL. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [velero-io/velero](../repos/velero-io/velero.md) | ⭐ 10,233 | 2026-08-16 | Backup and migrate Kubernetes applications and their persistent volumes |
+| [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,190 | 2026-08-22 | Distributed reliable key-value store for the most critical data of a distributed system |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [seakee/CPA-Manager-Plus](../repos/seakee/CPA-Manager-Plus.md) | ⭐ 3,192 | 2026-08-16 | A self-hosted CPA &#x2F; CLIProxyAPI management panel and AI gateway observability dashboard for reque... |
+| [alibaba/skill-up](../repos/alibaba/skill-up.md) | ⭐ 664 | 2026-08-22 | An evaluation and evolution tool for Agent Skills. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Gitlawb/zero](../repos/Gitlawb/zero.md) | ⭐ 1,544 | 2026-08-16 | The coding agent that answers to you, your model, your machine, your rules. |
+| [envoyproxy/ai-gateway](../repos/envoyproxy/ai-gateway.md) | ⭐ 1,948 | 2026-08-22 | Manages Unified Access to Generative AI Services built on Envoy Gateway |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [strelov1/freehire](../repos/strelov1/freehire.md) | ⭐ 394 | 2026-08-17 | freehire — the open-source search engine for job seekers |
+| [open-telemetry/opentelemetry-collector](../repos/open-telemetry/opentelemetry-collector.md) | ⭐ 7,442 | 2026-08-22 | OpenTelemetry Collector |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mickael-kerjean/filestash](../repos/mickael-kerjean/filestash.md) | ⭐ 14,499 | 2026-08-17 | :file_folder: Universal File Storage Client |
+| [ethereum-optimism/optimism](../repos/ethereum-optimism/optimism.md) | ⭐ 6,464 | 2026-08-22 | Optimism is Ethereum, scaled. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mvanhorn/cli-printing-press](../repos/mvanhorn/cli-printing-press.md) | ⭐ 4,467 | 2026-08-17 | Every API has a secret identity. This finds it, absorbs every feature from every competing tool, ... |
+| [go-task/task](../repos/go-task/task.md) | ⭐ 16,023 | 2026-08-22 | A fast, cross-platform build tool inspired by Make, designed for modern workflows. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [asheshgoplani/agent-deck](../repos/asheshgoplani/agent-deck.md) | ⭐ 754 | 2026-08-17 | Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and m... |
+| [kubernetes/minikube](../repos/kubernetes/minikube.md) | ⭐ 32,052 | 2026-08-23 | Run Kubernetes locally |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [argoproj/argo-workflows](../repos/argoproj/argo-workflows.md) | ⭐ 16,929 | 2026-08-19 | Workflow Engine for Kubernetes |
+| [mvanhorn/printing-press-library](../repos/mvanhorn/printing-press-library.md) | ⭐ 1,949 | 2026-08-23 | Official library of CLIs generated by the CLI Printing Press. Endorsed, tested, and community-con... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Gaurav-Gosain/tuios](../repos/Gaurav-Gosain/tuios.md) | ⭐ 3,446 | 2026-08-19 | Terminal UI OS (Terminal Multiplexer) |
+| [evanw/esbuild](../repos/evanw/esbuild.md) | ⭐ 40,014 | 2026-08-23 | An extremely fast bundler for the web |
 
 
 ---
@@ -104,9 +104,9 @@
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,190 | 2026-08-22 | 2 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 50,456 | 2026-08-01 | 11 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,527 | 2026-08-06 | 6 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 48,995 | 2026-08-01 | 10 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 47,824 | 2026-08-01 | 13 |
 
 ---
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 16 | ⭐ 22,841 | 2026-08-01 | 2026-09-13 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 17 | ⭐ 27,208 | 2026-08-01 | 2026-09-19 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 14 | ⭐ 42,026 | 2026-08-07 | 2026-09-19 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 13 | ⭐ 47,824 | 2026-08-01 | 2026-09-10 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 13 | ⭐ 180,475 | 2026-08-01 | 2026-09-08 |
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 13 | ⭐ 41,150 | 2026-08-07 | 2026-09-10 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 12 | ⭐ 37,782 | 2026-08-01 | 2026-09-04 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 10 | ⭐ 48,995 | 2026-08-01 | 2026-09-05 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 10 | ⭐ 1,756 | 2026-08-02 | 2026-09-04 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 11 | ⭐ 50,456 | 2026-08-01 | 2026-09-19 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 11 | ⭐ 1,971 | 2026-08-02 | 2026-09-19 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 10 | ⭐ 37,169 | 2026-08-20 | 2026-09-19 |
 | [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 9 | ⭐ 37,994 | 2026-08-03 | 2026-09-14 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 9 | ⭐ 90,459 | 2026-08-06 | 2026-09-10 |
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 9 | ⭐ 24,406 | 2026-08-06 | 2026-09-14 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.418Z*
+*Last updated: 2026-09-19T12:06:01.599Z*

@@ -1,6 +1,6 @@
 # FoxSensei001&#x2F;LoveIwara
 
-> Love Iwara (i-iwara or 2i). An unofficial iwara flutter app - Supporting multiple platforms and devices including mobile phones, tablets and computers. Compatible with Android, Windows and other systems. 第三方的Iwara应用 - 支持多个平台和设备，包括手机、平板和计算机。兼容 安卓、IOS、Windows、MacOS等系统。
+> Love Iwara (i-iwara or 2i). An unofficial iwara flutter app - Supporting multiple platforms and devices including mobile phones, tablets and computers. Compatible with Android, Meta Horizon OS, Windows and other systems. 第三方的Iwara应用 - 支持多个平台和设备，包括手机、平板和计算机。兼容 安卓、Meta Horizon OS、IOS、Windows、MacOS等系统。
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;FoxSensei001&#x2F;LoveIwara) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | MIT |
-| **Stars** | ⭐ 1,402 |
+| **Stars** | ⭐ 1,440 |
 | **Forks** | 🍴 55 |
-| **Trending Days** | 3 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 29, 2026 |
-| **Last Seen** | Sep 4, 2026 |
+| **Last Seen** | Sep 19, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`android`](../../topics/android.md) [`flutter`](../../topics/flutter.md) [`ios`](../../topics/ios.md) [`iwara`](../../topics/iwara.md) [`macos`](../../topics/macos.md) [`multiscreen-apps`](../../topics/multiscreen-apps.md) [`windows`](../../topics/windows.md) 
+[`android`](../../topics/android.md) [`flutter`](../../topics/flutter.md) [`ios`](../../topics/ios.md) [`iwara`](../../topics/iwara.md) [`macos`](../../topics/macos.md) [`metahorizon`](../../topics/metahorizon.md) [`multiscreen-apps`](../../topics/multiscreen-apps.md) [`windows`](../../topics/windows.md) 
 
 ### Curated Categories
 `Mobile Development` `Systems Programming` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-14T21:01:53.403Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-09-19T12:06:06.536Z*  
+*Data from 4 trending reports*

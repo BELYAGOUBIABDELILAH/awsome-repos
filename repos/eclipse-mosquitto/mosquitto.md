@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | Other |
-| **Stars** | ⭐ 11,134 |
-| **Forks** | 🍴 2,627 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 11,209 |
+| **Forks** | 🍴 2,640 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 14, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Sep 19, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`broker`](../../topics/broker.md) [`eclipse-iot`](../../topics/eclipse-iot.md) [`mosquitto`](../../topics/mosquitto.md) [`mqtt`](../../topics/mqtt.md) 
+[`broker`](../../topics/broker.md) [`eclipse-iot`](../../topics/eclipse-iot.md) [`iot`](../../topics/iot.md) [`messaging`](../../topics/messaging.md) [`mosquitto`](../../topics/mosquitto.md) [`mqtt`](../../topics/mqtt.md) [`mqtt-broker`](../../topics/mqtt-broker.md) [`mqtt-client`](../../topics/mqtt-client.md) [`mqtt-server`](../../topics/mqtt-server.md) 
 
 ### Curated Categories
-`Frontend Development` `Systems Programming` `Developer Tools` `Internet of Things` 
+`Frontend Development` `Backend Development` `Systems Programming` `Developer Tools` `Internet of Things` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-14T21:01:52.570Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-19T12:06:05.734Z*  
+*Data from 3 trending reports*

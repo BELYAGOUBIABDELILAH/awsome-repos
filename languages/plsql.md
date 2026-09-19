@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NawfalMotii79/PLFM_RADAR](../repos/NawfalMotii79/PLFM_RADAR.md) | ⭐ 24,288 | 2026-08-19 | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system |
 
+*No new PLSQL repositories in the last 30 days*
 
 ---
 
@@ -50,4 +48,4 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.451Z*
+*Last updated: 2026-09-19T12:06:01.635Z*

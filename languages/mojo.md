@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [modular/modular](../repos/modular/modular.md) | ⭐ 28,822 | 2026-08-20 | The Modular Platform (includes MAX &amp; Mojo) |
 
+*No new Mojo repositories in the last 30 days*
 
 ---
 
@@ -50,4 +48,4 @@
 
 ---
 
-*Last updated: 2026-09-14T21:01:48.443Z*
+*Last updated: 2026-09-19T12:06:01.626Z*
