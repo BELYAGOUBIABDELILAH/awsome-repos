@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-19T12:06:00.819Z",
-  "total_repositories": 3424,
+  "last_updated": "2026-09-19T21:01:53.882Z",
+  "total_repositories": 3425,
   "repositories": {
     "tensorflow/tensorflow": {
       "full_name": "tensorflow/tensorflow",
@@ -238491,19 +238491,20 @@
       "name": "DeFiHackLabs",
       "github_id": 501990676,
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-14",
-      "trending_days": 5,
-      "current_consecutive_days": 2,
+      "last_seen": "2026-09-19",
+      "trending_days": 6,
+      "current_consecutive_days": 1,
       "appearance_dates": [
         "2026-09-05",
         "2026-09-07",
         "2026-09-09",
         "2026-09-13",
-        "2026-09-14"
+        "2026-09-14",
+        "2026-09-19"
       ],
-      "latest_stars": 6786,
-      "previous_stars": 6785,
-      "star_change_since_last_seen": 1,
+      "latest_stars": 6794,
+      "previous_stars": 6786,
+      "star_change_since_last_seen": 8,
       "latest_language": "Solidity",
       "latest_topics": [
         "defi",
@@ -238516,10 +238517,10 @@
         "description": "Reproduce DeFi hacked incidents using Foundry.",
         "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
         "license": "Apache-2.0",
-        "forks": 1479,
+        "forks": 1480,
         "created_at": "2022-06-10T09:57:11Z",
-        "updated_at": "2026-09-14T14:04:58Z",
-        "pushed_at": "2026-09-14T03:02:52Z"
+        "updated_at": "2026-09-18T22:46:15Z",
+        "pushed_at": "2026-09-17T23:36:33Z"
       },
       "appearances_history": [
         {
@@ -238555,6 +238556,13 @@
           "rank": 2,
           "stars_gained": 4,
           "date": "2026-09-14"
+        },
+        {
+          "source_type": "language",
+          "source_slug": "solidity",
+          "rank": 4,
+          "stars_gained": 1,
+          "date": "2026-09-19"
         }
       ]
     },
@@ -256461,6 +256469,50 @@
           "source_slug": "verilog",
           "rank": 6,
           "stars_gained": 1
+        }
+      ]
+    },
+    "moekoemusic/moekoemusic": {
+      "full_name": "MoeKoeMusic/MoeKoeMusic",
+      "owner": "MoeKoeMusic",
+      "name": "MoeKoeMusic",
+      "github_id": 882197782,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "trending_days": 1,
+      "current_consecutive_days": 1,
+      "appearance_dates": [
+        "2026-09-19"
+      ],
+      "latest_stars": 6334,
+      "previous_stars": 0,
+      "star_change_since_last_seen": 6334,
+      "latest_language": "Vue",
+      "latest_topics": [
+        "electron",
+        "kugou",
+        "linux",
+        "macos",
+        "moekoe",
+        "music",
+        "vue3",
+        "windows"
+      ],
+      "latest_metadata": {
+        "description": "一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports  Windows / macOS / Linux / Web :electron:",
+        "url": "https://github.com/MoeKoeMusic/MoeKoeMusic",
+        "license": "GPL-2.0",
+        "forks": 397,
+        "created_at": "2024-11-02T06:22:01Z",
+        "updated_at": "2026-09-19T19:57:50Z",
+        "pushed_at": "2026-09-03T01:48:52Z"
+      },
+      "appearances_history": [
+        {
+          "source_type": "language",
+          "source_slug": "vue",
+          "rank": 12,
+          "stars_gained": 9
         }
       ]
     }

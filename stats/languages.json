@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T12:06:07.679Z",
+  "generated_at": "2026-09-19T21:02:01.241Z",
   "total_languages": 59,
   "languages": [
     {
@@ -130,10 +130,10 @@
     },
     {
       "language": "Vue",
-      "repository_count": 83,
-      "total_stars": 597156,
-      "avg_stars": 7195,
-      "percentage": 2.4
+      "repository_count": 84,
+      "total_stars": 603490,
+      "avg_stars": 7184,
+      "percentage": 2.5
     },
     {
       "language": "CSS",
@@ -152,8 +152,8 @@
     {
       "language": "Solidity",
       "repository_count": 52,
-      "total_stars": 75940,
-      "avg_stars": 1460,
+      "total_stars": 75948,
+      "avg_stars": 1461,
       "percentage": 1.5
     },
     {

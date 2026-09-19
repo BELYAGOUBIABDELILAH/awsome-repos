@@ -35,6 +35,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [morpho-org/vault-v2](../repos/morpho-org/vault-v2.md) | ⭐ 103 | 2026-08-04 | 16 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) | ⭐ 6,794 | 2026-09-05 | 6 |
 
 
 ---
@@ -64,7 +67,7 @@
 | [Cyfrin/security-and-auditing-full-course-s23](../repos/Cyfrin/security-and-auditing-full-course-s23.md) | ⭐ 1,954 | 2026-09-02 | The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created.  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) | ⭐ 6,786 | 2026-09-05 | Reproduce DeFi hacked incidents using Foundry. |
+| [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) | ⭐ 6,794 | 2026-09-05 | Reproduce DeFi hacked incidents using Foundry. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [1inch/swap-vm](../repos/1inch/swap-vm.md) | ⭐ 38 | 2026-09-06 |  |
@@ -81,7 +84,7 @@
 |------------|-------|------------|---------------|
 | [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,243 | 2026-08-01 | 40 |
 | [AmazingAng/WTF-Solidity](../repos/AmazingAng/WTF-Solidity.md) | ⭐ 14,043 | 2026-08-19 | 3 |
-| [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) | ⭐ 6,786 | 2026-09-05 | 5 |
+| [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) | ⭐ 6,794 | 2026-09-05 | 6 |
 | [transmissions11/solmate](../repos/transmissions11/solmate.md) | ⭐ 4,286 | 2026-08-01 | 28 |
 | [Uniswap/v4-core](../repos/Uniswap/v4-core.md) | ⭐ 2,529 | 2026-08-01 | 18 |
 | [ProjectOpenSea/seaport](../repos/ProjectOpenSea/seaport.md) | ⭐ 2,257 | 2026-09-12 | 1 |
@@ -176,4 +179,4 @@
 
 ---
 
-*Last updated: 2026-09-19T12:06:01.654Z*
+*Last updated: 2026-09-19T21:01:54.849Z*

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-19T12:06:00.900Z",
-  "total_topics": 9150,
+  "last_updated": "2026-09-19T21:01:53.990Z",
+  "total_topics": 9152,
   "topics": {
     "91": {
       "name": "91",
@@ -928,8 +928,8 @@
       "slug": "electron",
       "first_seen": "2026-07-31",
       "last_seen": "2026-09-19",
-      "total_repositories": 26,
-      "trending_repositories": 26,
+      "total_repositories": 27,
+      "trending_repositories": 27,
       "repositories": [
         "microsoft/vscode",
         "electron/electron",
@@ -956,7 +956,8 @@
         "vastsa/PI-Desktop",
         "microsoft/winappCli",
         "geekgeekrun/geekgeekrun",
-        "Foundry376/Mailspring"
+        "Foundry376/Mailspring",
+        "MoeKoeMusic/MoeKoeMusic"
       ]
     },
     "ide": {
@@ -9510,8 +9511,8 @@
       "slug": "linux",
       "first_seen": "2026-08-01",
       "last_seen": "2026-09-19",
-      "total_repositories": 98,
-      "trending_repositories": 98,
+      "total_repositories": 99,
+      "trending_repositories": 99,
       "repositories": [
         "superradcompany/microsandbox",
         "glfw/glfw",
@@ -9610,7 +9611,8 @@
         "johnfanv2/LenovoLegionLinux",
         "Foundry376/Mailspring",
         "BenderBlog/traintime_pda",
-        "checkpoint-restore/criu"
+        "checkpoint-restore/criu",
+        "MoeKoeMusic/MoeKoeMusic"
       ]
     },
     "local": {
@@ -9630,8 +9632,8 @@
       "slug": "macos",
       "first_seen": "2026-08-01",
       "last_seen": "2026-09-19",
-      "total_repositories": 114,
-      "trending_repositories": 114,
+      "total_repositories": 115,
+      "trending_repositories": 115,
       "repositories": [
         "superradcompany/microsandbox",
         "glfw/glfw",
@@ -9746,7 +9748,8 @@
         "0Chencc/clawgod",
         "schuyler/macdown3000",
         "Swordfish90/cool-retro-term",
-        "OpenEmu/OpenEmu"
+        "OpenEmu/OpenEmu",
+        "MoeKoeMusic/MoeKoeMusic"
       ]
     },
     "microvm": {
@@ -9827,8 +9830,8 @@
       "slug": "windows",
       "first_seen": "2026-08-01",
       "last_seen": "2026-09-19",
-      "total_repositories": 115,
-      "trending_repositories": 115,
+      "total_repositories": 116,
+      "trending_repositories": 116,
       "repositories": [
         "superradcompany/microsandbox",
         "microsoft/PowerToys",
@@ -9944,7 +9947,8 @@
         "microsoft/winappCli",
         "AutoHotkey/AutoHotkey",
         "Foundry376/Mailspring",
-        "BenderBlog/traintime_pda"
+        "BenderBlog/traintime_pda",
+        "MoeKoeMusic/MoeKoeMusic"
       ]
     },
     "deepseek": {
@@ -15824,8 +15828,8 @@
       "slug": "music",
       "first_seen": "2026-08-01",
       "last_seen": "2026-09-19",
-      "total_repositories": 26,
-      "trending_repositories": 26,
+      "total_repositories": 27,
+      "trending_repositories": 27,
       "repositories": [
         "openutau/OpenUtau",
         "qier222/YesPlayMusic",
@@ -15852,7 +15856,8 @@
         "sheikhhaziq/gyawun_music",
         "neutraltone/awesome-stock-resources",
         "LMMS/lmms",
-        "mardous/BoomingMusic"
+        "mardous/BoomingMusic",
+        "MoeKoeMusic/MoeKoeMusic"
       ]
     },
     "openutau": {
@@ -25985,8 +25990,8 @@
       "slug": "vue3",
       "first_seen": "2026-08-01",
       "last_seen": "2026-09-19",
-      "total_repositories": 22,
-      "trending_repositories": 22,
+      "total_repositories": 23,
+      "trending_repositories": 23,
       "repositories": [
         "frappe/helpdesk",
         "yuqing2026/ruoyi-office-vben",
@@ -26009,7 +26014,8 @@
         "youlaitech/vue3-element-admin",
         "fastapiadmin/FastapiAdmin",
         "build-admin/buildadmin",
-        "unovue/inspira-ui"
+        "unovue/inspira-ui",
+        "MoeKoeMusic/MoeKoeMusic"
       ]
     },
     "zendesk": {
@@ -47839,7 +47845,7 @@
       "name": "defi",
       "slug": "defi",
       "first_seen": "2026-08-03",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-19",
       "total_repositories": 5,
       "trending_repositories": 5,
       "repositories": [
@@ -91525,7 +91531,7 @@
       "name": "web3",
       "slug": "web3",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-19",
       "total_repositories": 3,
       "trending_repositories": 3,
       "repositories": [
@@ -114241,6 +114247,28 @@
       "trending_repositories": 1,
       "repositories": [
         "SpinalHDL/VexRiscv"
+      ]
+    },
+    "kugou": {
+      "name": "kugou",
+      "slug": "kugou",
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "total_repositories": 1,
+      "trending_repositories": 1,
+      "repositories": [
+        "MoeKoeMusic/MoeKoeMusic"
+      ]
+    },
+    "moekoe": {
+      "name": "moekoe",
+      "slug": "moekoe",
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "total_repositories": 1,
+      "trending_repositories": 1,
+      "repositories": [
+        "MoeKoeMusic/MoeKoeMusic"
       ]
     }
   }

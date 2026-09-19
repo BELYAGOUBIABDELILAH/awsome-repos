@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Solidity |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 6,786 |
-| **Forks** | 🍴 1,479 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 6,794 |
+| **Forks** | 🍴 1,480 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 5, 2026 |
-| **Last Seen** | Sep 14, 2026 |
+| **Last Seen** | Sep 19, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 2 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 85&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-19T12:06:06.798Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-09-19T21:02:00.379Z*  
+*Data from 6 trending reports*

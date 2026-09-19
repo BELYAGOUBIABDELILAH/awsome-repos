@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 83
+- **Total Repositories**: 84
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-19
 
@@ -213,7 +213,8 @@
 - [geekgeekrun/geekgeekrun](../repos/geekgeekrun/geekgeekrun.md) - 牛人快跑 - GeekGeekRun，求职找工作自动化工具，基于 Puppeteer、Electron。界面友好，简单易用！开源，免费！快速海投、自动开聊、已读不回提醒、职位信息抓取、不合适职位...
 - [wu529778790/panhub.shenzjd.com](../repos/wu529778790/panhub.shenzjd.com.md) - PanHub 网盘聚合搜索 · Netdisk Search Aggregator。一个搜索框聚合夸克&#x2F;阿里云盘&#x2F;百度&#x2F;115&#x2F;迅雷等网盘资源，多源聚合去重、智能排序、插件熔断隔离。零数据库轻量...
 - [kodadot/nft-gallery](../repos/kodadot/nft-gallery.md) - Generative Art Marketplace 
+- [MoeKoeMusic/MoeKoeMusic](../repos/MoeKoeMusic/MoeKoeMusic.md) - 一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuG...
 
 ---
 
-*Last updated: 2026-09-19T12:06:01.669Z*
+*Last updated: 2026-09-19T21:01:54.865Z*
