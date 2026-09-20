@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 14,991 |
-| **Forks** | 🍴 818 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 17,886 |
+| **Forks** | 🍴 993 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 28, 2026 |
-| **Last Seen** | Sep 19, 2026 |
+| **Last Seen** | Sep 20, 2026 |
 
 
 ---
@@ -44,12 +44,13 @@
 ## Trending Timeline
 
 **Sep 19, 2026** — Rank #1 (+3006 ⭐)  
+**Sep 20, 2026** — Rank #3 (+2375 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 2
-- **Longest Streak**: 1 days
+- **Trending Days**: 3
+- **Longest Streak**: 2 days
 
 ---
 
@@ -86,11 +87,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 55&#x2F;100
 - **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-09-19T21:02:00.044Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-20T21:01:49.307Z*  
+*Data from 3 trending reports*

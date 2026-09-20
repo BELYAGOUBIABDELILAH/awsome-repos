@@ -14,16 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 671 | 2026-08-01 | 29 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,800 | 2026-08-01 | 26 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,997 | 2026-08-04 | 19 |
 
+*No R repositories trending today*
 
 ---
 
@@ -111,4 +103,4 @@
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.836Z*
+*Last updated: 2026-09-20T21:01:44.565Z*

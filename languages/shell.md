@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 113
+- **Total Repositories**: 114
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,128 | 2026-08-01 | 26 |
+| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 9,822 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 7,005 | 2026-08-01 | 7 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,589 | 2026-08-07 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,183 | 2026-08-04 | 15 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 6,854 | 2026-08-12 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,865 | 2026-08-05 | 10 |
+| [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) | ⭐ 2,849 | 2026-08-15 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,571 | 2026-08-07 | 21 |
+| [higgsfield-ai/cli](../repos/higgsfield-ai/cli.md) | ⭐ 562 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,831 | 2026-08-07 | 7 |
+| [akitaonrails/distrobox-gaming](../repos/akitaonrails/distrobox-gaming.md) | ⭐ 303 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 6,617 | 2026-08-12 | 15 |
+| [Euro-Office/DocumentServer](../repos/Euro-Office/DocumentServer.md) | ⭐ 1,804 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) | ⭐ 2,726 | 2026-08-15 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [higgsfield-ai/cli](../repos/higgsfield-ai/cli.md) | ⭐ 546 | 2026-09-19 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [akitaonrails/distrobox-gaming](../repos/akitaonrails/distrobox-gaming.md) | ⭐ 295 | 2026-09-19 | 1 |
+| [Mr-MIBonk/M.I.B._More-Incredible-Bash](../repos/Mr-MIBonk/M.I.B._More-Incredible-Bash.md) | ⭐ 1,063 | 2026-09-20 | 1 |
 
 
 ---
@@ -117,9 +111,9 @@
 |------------|---------------|-------|------------|-----------|
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 26 | ⭐ 95,128 | 2026-08-01 | 2026-09-19 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [expo/skills](../repos/expo/skills.md) | 21 | ⭐ 2,571 | 2026-08-07 | 2026-09-19 |
+| [expo/skills](../repos/expo/skills.md) | 22 | ⭐ 2,589 | 2026-08-07 | 2026-09-20 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 16 | ⭐ 6,854 | 2026-08-12 | 2026-09-20 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 15 | ⭐ 11,183 | 2026-08-04 | 2026-09-19 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 15 | ⭐ 6,617 | 2026-08-12 | 2026-09-19 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 13 | ⭐ 4,378 | 2026-08-01 | 2026-09-01 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 10 | ⭐ 2,258 | 2026-08-02 | 2026-09-10 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 10 | ⭐ 2,865 | 2026-08-05 | 2026-09-19 |
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.847Z*
+*Last updated: 2026-09-20T21:01:44.575Z*

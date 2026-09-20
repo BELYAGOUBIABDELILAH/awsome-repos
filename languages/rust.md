@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 180
+- **Total Repositories**: 183
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-10
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,782 | 2026-08-05 | 5 |
+| [cloudflare/pingora](../repos/cloudflare/pingora.md) | ⭐ 27,490 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [warp-tech/warpgate](../repos/warp-tech/warpgate.md) | ⭐ 7,929 | 2026-08-06 | 4 |
+| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 11,298 | 2026-08-09 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iii-hq/iii](../repos/iii-hq/iii.md) | ⭐ 18,791 | 2026-08-08 | 2 |
+| [apache/datafusion](../repos/apache/datafusion.md) | ⭐ 9,334 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rustfs/rustfs](../repos/rustfs/rustfs.md) | ⭐ 33,302 | 2026-08-09 | 10 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 7,317 | 2026-08-17 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 15,637 | 2026-08-10 | 6 |
+| [cloudflare/quiche](../repos/cloudflare/quiche.md) | ⭐ 12,136 | 2026-08-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/quiche](../repos/cloudflare/quiche.md) | ⭐ 11,864 | 2026-08-19 | 2 |
+| [xai-org/x-algorithm](../repos/xai-org/x-algorithm.md) | ⭐ 33,300 | 2026-09-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,433 | 2026-09-03 | 2 |
+| [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yynxxxxx/Codex-X](../repos/yynxxxxx/Codex-X.md) | ⭐ 3,314 | 2026-09-19 | 1 |
+| [yynxxxxx/Codex-X](../repos/yynxxxxx/Codex-X.md) | ⭐ 3,551 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yyjeqhc/webcodex](../repos/yyjeqhc/webcodex.md) | ⭐ 1,382 | 2026-09-19 | 1 |
+| [yyjeqhc/webcodex](../repos/yyjeqhc/webcodex.md) | ⭐ 1,502 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EpicGames/lore](../repos/EpicGames/lore.md) | ⭐ 8,669 | 2026-09-19 | 1 |
+| [EpicGames/lore](../repos/EpicGames/lore.md) | ⭐ 8,701 | 2026-09-19 | 2 |
 
 
 ---
@@ -99,7 +99,7 @@
 | [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
 | [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 64,633 | 2026-08-20 | 3 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 64,099 | 2026-08-03 | 2 |
-| [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,433 | 2026-09-03 | 2 |
+| [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | 3 |
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,385 | 2026-08-19 | 5 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,503 | 2026-08-12 | 3 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 47,938 | 2026-08-28 | 1 |
@@ -121,10 +121,10 @@
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 10 | ⭐ 28,668 | 2026-08-03 | 2026-09-08 |
 | [rustfs/rustfs](../repos/rustfs/rustfs.md) | 10 | ⭐ 33,302 | 2026-08-09 | 2026-09-19 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 10 | ⭐ 39,743 | 2026-08-10 | 2026-09-13 |
+| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 9 | ⭐ 11,298 | 2026-08-09 | 2026-09-20 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 8 | ⭐ 118,860 | 2026-07-30 | 2026-09-14 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 8 | ⭐ 42,307 | 2026-08-02 | 2026-09-09 |
 | [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 8 | ⭐ 2,853 | 2026-08-05 | 2026-09-09 |
-| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 8 | ⭐ 11,156 | 2026-08-09 | 2026-09-08 |
 
 ---
 
@@ -207,7 +207,7 @@
 - [RustPython/RustPython](../repos/RustPython/RustPython.md) - A Python Interpreter written in Rust
 - [lanyeeee/bilibili-video-downloader](../repos/lanyeeee/bilibili-video-downloader.md) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
 - [louis-e/arnis](../repos/louis-e/arnis.md) - Generate any location from the real world in Minecraft with a high level of detail.
-- [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) - Empowering everyone to host fast and efficient Minecraft servers
 - [rustfs/rustfs](../repos/rustfs/rustfs.md) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migrati...
 - [Kuberwastaken/claurst](../repos/Kuberwastaken/claurst.md) - Agentic Coding for Builders who Ship
 - [run-llama/liteparse](../repos/run-llama/liteparse.md) - A fast, helpful, and open-source document parser
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.842Z*
+*Last updated: 2026-09-20T21:01:44.570Z*

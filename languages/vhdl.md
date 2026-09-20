@@ -14,13 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ghdl/ghdl](../repos/ghdl/ghdl.md) | ⭐ 2,895 | 2026-08-01 | 26 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [stnolting/neorv32](../repos/stnolting/neorv32.md) | ⭐ 2,273 | 2026-08-07 | 14 |
 
+*No VHDL repositories trending today*
 
 ---
 
@@ -56,4 +51,4 @@
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.857Z*
+*Last updated: 2026-09-20T21:01:44.584Z*

@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [higgsfield-ai/higgsfield](../repos/higgsfield-ai/higgsfield.md) | ⭐ 4,679 | 2026-09-19 | 1 |
+| [higgsfield-ai/higgsfield](../repos/higgsfield-ai/higgsfield.md) | ⭐ 5,320 | 2026-09-19 | 2 |
 
 
 ---
@@ -25,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [higgsfield-ai/higgsfield](../repos/higgsfield-ai/higgsfield.md) | ⭐ 4,679 | 2026-09-19 | Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for ... |
+| [higgsfield-ai/higgsfield](../repos/higgsfield-ai/higgsfield.md) | ⭐ 5,320 | 2026-09-19 | Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for ... |
 
 
 ---
@@ -36,7 +36,7 @@
 |------------|-------|------------|---------------|
 | [microsoft/generative-ai-for-beginners](../repos/microsoft/generative-ai-for-beginners.md) | ⭐ 116,215 | 2026-08-02 | 3 |
 | [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) | ⭐ 60,643 | 2026-08-01 | 3 |
-| [higgsfield-ai/higgsfield](../repos/higgsfield-ai/higgsfield.md) | ⭐ 4,679 | 2026-09-19 | 1 |
+| [higgsfield-ai/higgsfield](../repos/higgsfield-ai/higgsfield.md) | ⭐ 5,320 | 2026-09-19 | 2 |
 
 ---
 
@@ -46,7 +46,7 @@
 |------------|---------------|-------|------------|-----------|
 | [microsoft/AI-For-Beginners](../repos/microsoft/AI-For-Beginners.md) | 3 | ⭐ 60,643 | 2026-08-01 | 2026-08-03 |
 | [microsoft/generative-ai-for-beginners](../repos/microsoft/generative-ai-for-beginners.md) | 3 | ⭐ 116,215 | 2026-08-02 | 2026-08-04 |
-| [higgsfield-ai/higgsfield](../repos/higgsfield-ai/higgsfield.md) | 1 | ⭐ 4,679 | 2026-09-19 | 2026-09-19 |
+| [higgsfield-ai/higgsfield](../repos/higgsfield-ai/higgsfield.md) | 2 | ⭐ 5,320 | 2026-09-19 | 2026-09-20 |
 
 ---
 
@@ -58,4 +58,4 @@
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.808Z*
+*Last updated: 2026-09-20T21:01:44.538Z*

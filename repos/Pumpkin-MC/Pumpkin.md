@@ -1,6 +1,6 @@
 # Pumpkin-MC&#x2F;Pumpkin
 
-> Empowering everyone to host fast and efficient Minecraft servers.
+> Empowering everyone to host fast and efficient Minecraft servers
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Pumpkin-MC&#x2F;Pumpkin) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 11,156 |
-| **Forks** | 🍴 792 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 11,298 |
+| **Forks** | 🍴 814 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Sep 8, 2026 |
+| **Last Seen** | Sep 20, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 3 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-19T21:01:58.887Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-09-20T21:01:48.175Z*  
+*Data from 9 trending reports*

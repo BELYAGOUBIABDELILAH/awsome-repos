@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 190
+- **Total Repositories**: 195
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-02
+- **Last Updated**: 2026-09-20
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 71,457 | 2026-08-01 | 18 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,695 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,263 | 2026-08-01 | 2 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 19,091 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,622 | 2026-08-04 | 7 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FRRouting/frr](../repos/FRRouting/frr.md) | ⭐ 4,295 | 2026-08-05 | 10 |
+| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,682 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [timescale/timescaledb](../repos/timescale/timescaledb.md) | ⭐ 23,546 | 2026-08-07 | 6 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,076 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,075 | 2026-08-12 | 7 |
+| [FWGS/xash3d-fwgs](../repos/FWGS/xash3d-fwgs.md) | ⭐ 2,792 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [eclipse-mosquitto/mosquitto](../repos/eclipse-mosquitto/mosquitto.md) | ⭐ 11,209 | 2026-08-14 | 3 |
+| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,105 | 2026-08-12 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [UberGuidoZ/Flipper](../repos/UberGuidoZ/Flipper.md) | ⭐ 17,550 | 2026-08-19 | 2 |
+| [CTCaer/hekate](../repos/CTCaer/hekate.md) | ⭐ 8,751 | 2026-08-16 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stackia/rtp2httpd](../repos/stackia/rtp2httpd.md) | ⭐ 2,096 | 2026-08-22 | 2 |
+| [UberGuidoZ/Flipper](../repos/UberGuidoZ/Flipper.md) | ⭐ 17,562 | 2026-08-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PerformanC/ReZygisk](../repos/PerformanC/ReZygisk.md) | ⭐ 3,942 | 2026-09-04 | 2 |
+| [nmap/nmap](../repos/nmap/nmap.md) | ⭐ 13,642 | 2026-08-19 | 3 |
 
 
 ---
@@ -61,7 +61,7 @@
 | [pret/pokefirered](../repos/pret/pokefirered.md) | ⭐ 1,570 | 2026-08-22 | Decompilation of Pokémon FireRed&#x2F;LeafGreen |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sandboxie-plus/Sandboxie](../repos/sandboxie-plus/Sandboxie.md) | ⭐ 19,358 | 2026-08-23 | Sandboxie Plus &amp; Classic |
+| [sandboxie-plus/Sandboxie](../repos/sandboxie-plus/Sandboxie.md) | ⭐ 19,494 | 2026-08-23 | Sandboxie Plus &amp; Classic |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [moonlight-stream/moonlight-android](../repos/moonlight-stream/moonlight-android.md) | ⭐ 7,110 | 2026-08-23 | GameStream client for Android |
@@ -79,7 +79,7 @@
 | [tqbf/mdv](../repos/tqbf/mdv.md) | ⭐ 262 | 2026-08-24 | Markdown Viewer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 78,928 | 2026-08-24 | A new bootable USB solution. |
+| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,410 | 2026-08-24 | A new bootable USB solution. |
 
 
 ---
@@ -88,9 +88,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 148,747 | 2026-08-07 | 10 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,076 | 2026-08-07 | 11 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,519 | 2026-08-01 | 17 |
-| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 78,928 | 2026-08-24 | 1 |
+| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,410 | 2026-08-24 | 2 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,206 | 2026-08-02 | 13 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 71,457 | 2026-08-01 | 18 |
@@ -98,15 +98,15 @@
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,675 | 2026-08-07 | 16 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,380 | 2026-08-01 | 6 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 36,935 | 2026-08-02 | 8 |
+| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,622 | 2026-08-04 | 7 |
-| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,501 | 2026-08-03 | 4 |
+| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,682 | 2026-08-03 | 5 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,863 | 2026-09-06 | 3 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,195 | 2026-08-01 | 4 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 32,007 | 2026-08-17 | 1 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 31,850 | 2026-09-01 | 9 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,695 | 2026-08-02 | 6 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,565 | 2026-08-02 | 5 |
 | [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,399 | 2026-08-09 | 8 |
 
 ---
@@ -124,7 +124,7 @@
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 15 | ⭐ 16,494 | 2026-08-06 | 2026-09-12 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 13 | ⭐ 76,206 | 2026-08-02 | 2026-09-14 |
 | [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 11 | ⭐ 4,473 | 2026-08-04 | 2026-09-05 |
-| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | 10 | ⭐ 12,983 | 2026-08-01 | 2026-09-08 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 11 | ⭐ 150,076 | 2026-08-07 | 2026-09-20 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.749Z*
+*Last updated: 2026-09-20T21:01:44.492Z*

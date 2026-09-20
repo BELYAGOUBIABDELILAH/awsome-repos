@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,332 | 2026-08-01 | 28 |
 
+*No F# repositories trending today*
 
 ---
 
@@ -56,4 +54,4 @@
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.781Z*
+*Last updated: 2026-09-20T21:01:44.519Z*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 5
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-19
+- **Last Updated**: 2026-09-20
 
 ---
 
@@ -16,10 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,612 | 2026-08-01 | 13 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,053 | 2026-08-01 | 27 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,611 | 2026-08-01 | 14 |
 
 
 ---
@@ -35,7 +32,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,612 | 2026-08-01 | 13 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,611 | 2026-08-01 | 14 |
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,764 | 2026-08-01 | 2 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,598 | 2026-08-09 | 2 |
 | [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,053 | 2026-08-01 | 27 |
@@ -48,7 +45,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 27 | ⭐ 16,053 | 2026-08-01 | 2026-09-19 |
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 13 | ⭐ 22,612 | 2026-08-01 | 2026-09-19 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 14 | ⭐ 22,611 | 2026-08-01 | 2026-09-20 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 8 | ⭐ 1,151 | 2026-08-06 | 2026-08-24 |
 | [mojs/mojs](../repos/mojs/mojs.md) | 2 | ⭐ 18,764 | 2026-08-01 | 2026-09-07 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | 2 | ⭐ 16,598 | 2026-08-09 | 2026-09-07 |
@@ -65,4 +62,4 @@
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.769Z*
+*Last updated: 2026-09-20T21:01:44.508Z*

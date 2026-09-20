@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 88
+- **Total Repositories**: 89
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-14
+- **Last Updated**: 2026-09-20
 
 ---
 
@@ -16,19 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thedev-id/thedev.id](../repos/thedev-id/thedev.id.md) | ⭐ 1,734 | 2026-08-03 | 2 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,227 | 2026-08-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [webmin/webmin](../repos/webmin/webmin.md) | ⭐ 6,065 | 2026-08-23 | 2 |
+| [kubernetes/website](../repos/kubernetes/website.md) | ⭐ 5,390 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,060 | 2026-09-19 | 1 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,532 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/opensource.guide](../repos/github/opensource.guide.md) | ⭐ 15,689 | 2026-09-19 | 1 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,557 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,021 | 2026-09-19 | 1 |
+| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,201 | 2026-09-19 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [github/opensource.guide](../repos/github/opensource.guide.md) | ⭐ 15,691 | 2026-09-19 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,028 | 2026-09-19 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [TandoorRecipes/recipes](../repos/TandoorRecipes/recipes.md) | ⭐ 8,616 | 2026-09-20 | 1 |
 
 
 ---
@@ -73,7 +82,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,014 | 2026-08-03 | 11 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,227 | 2026-08-03 | 12 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 135,251 | 2026-08-08 | 11 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,438 | 2026-08-19 | 6 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,728 | 2026-08-01 | 12 |
@@ -85,7 +94,7 @@
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,595 | 2026-08-09 | 8 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,182 | 2026-08-19 | 5 |
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,402 | 2026-08-03 | 8 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,532 | 2026-08-03 | 9 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 26,052 | 2026-08-04 | 8 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 21,868 | 2026-08-01 | 6 |
@@ -102,14 +111,14 @@
 |------------|---------------|-------|------------|-----------|
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 12 | ⭐ 65,728 | 2026-08-01 | 2026-09-07 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 12 | ⭐ 9,214 | 2026-08-03 | 2026-09-12 |
-| [ossu/computer-science](../repos/ossu/computer-science.md) | 11 | ⭐ 209,014 | 2026-08-03 | 2026-09-14 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | 12 | ⭐ 209,227 | 2026-08-03 | 2026-09-20 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 11 | ⭐ 135,251 | 2026-08-08 | 2026-08-25 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 11 | ⭐ 37,645 | 2026-08-12 | 2026-09-10 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 10 | ⭐ 9,776 | 2026-08-01 | 2026-09-03 |
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 9 | ⭐ 16,540 | 2026-08-04 | 2026-09-14 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 10 | ⭐ 16,557 | 2026-08-04 | 2026-09-20 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 9 | ⭐ 27,532 | 2026-08-03 | 2026-09-20 |
 | [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | 9 | ⭐ 5,100 | 2026-08-06 | 2026-09-14 |
 | [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 8 | ⭐ 9,116 | 2026-08-03 | 2026-09-02 |
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 8 | ⭐ 27,402 | 2026-08-03 | 2026-09-07 |
 
 ---
 
@@ -203,7 +212,8 @@
 - [baojie/shiji-kb](../repos/baojie/shiji-kb.md) - 
 - [github/opensource.guide](../repos/github/opensource.guide.md) - 📚 Community guides for open source creators
 - [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) - Crack Interface lockscreen, Metasploit and More Android&#x2F;IOS Hacking
+- [TandoorRecipes/recipes](../repos/TandoorRecipes/recipes.md) - Application for managing recipes, planning meals, building shopping lists and much much more!
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.796Z*
+*Last updated: 2026-09-20T21:01:44.528Z*

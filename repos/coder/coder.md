@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 15,440 |
-| **Forks** | 🍴 1,509 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 15,986 |
+| **Forks** | 🍴 1,540 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Sep 19, 2026 |
+| **Last Seen** | Sep 20, 2026 |
 
 
 ---
@@ -44,11 +44,12 @@
 ## Trending Timeline
 
 **Sep 19, 2026** — Rank #4 (+478 ⭐)  
+**Sep 20, 2026** — Rank #11 (+382 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -86,11 +87,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 70&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #4)
 
 
 ---
 
-*Last updated: 2026-09-19T21:01:58.229Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-09-20T21:01:47.820Z*  
+*Data from 4 trending reports*

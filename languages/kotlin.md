@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 136
+- **Total Repositories**: 137
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-13
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zly2006/zhihu-plus-plus](../repos/zly2006/zhihu-plus-plus.md) | ⭐ 4,059 | 2026-08-01 | 4 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,718 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | ⭐ 1,043 | 2026-08-02 | 7 |
+| [zly2006/zhihu-plus-plus](../repos/zly2006/zhihu-plus-plus.md) | ⭐ 4,077 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 7,972 | 2026-08-03 | 6 |
+| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | ⭐ 1,069 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mpv-android/mpv-android](../repos/mpv-android/mpv-android.md) | ⭐ 3,568 | 2026-08-05 | 3 |
+| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 6,178 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/android](../repos/bitwarden/android.md) | ⭐ 9,376 | 2026-08-05 | 8 |
+| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 8,033 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,585 | 2026-08-06 | 13 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,368 | 2026-08-08 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) | ⭐ 7,639 | 2026-08-11 | 3 |
+| [rushiranpise/morphe-patches](../repos/rushiranpise/morphe-patches.md) | ⭐ 710 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,733 | 2026-08-12 | 4 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,740 | 2026-08-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 1,085 | 2026-08-19 | 5 |
+| [zhanghai/MaterialFiles](../repos/zhanghai/MaterialFiles.md) | ⭐ 8,993 | 2026-08-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Replica0110/Lyrico](../repos/Replica0110/Lyrico.md) | ⭐ 1,058 | 2026-08-20 | 3 |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,186 | 2026-09-07 | 3 |
 
 
 ---
@@ -93,15 +93,15 @@
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,585 | 2026-08-06 | 13 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,402 | 2026-08-04 | 10 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 41,859 | 2026-08-03 | 8 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,136 | 2026-08-08 | 13 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,368 | 2026-08-08 | 14 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,338 | 2026-08-05 | 5 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,730 | 2026-08-11 | 3 |
-| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,733 | 2026-08-12 | 4 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,740 | 2026-08-12 | 5 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,718 | 2026-08-01 | 13 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,457 | 2026-08-05 | 5 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,441 | 2026-08-01 | 12 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,573 | 2026-08-02 | 4 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,792 | 2026-08-01 | 6 |
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,095 | 2026-09-07 | 2 |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,186 | 2026-09-07 | 3 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,820 | 2026-08-17 | 4 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,600 | 2026-08-02 | 6 |
@@ -116,9 +116,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 14 | ⭐ 62,632 | 2026-08-02 | 2026-09-14 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 14 | ⭐ 30,368 | 2026-08-08 | 2026-09-20 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 13 | ⭐ 23,718 | 2026-08-01 | 2026-09-20 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 13 | ⭐ 53,585 | 2026-08-06 | 2026-09-19 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 13 | ⭐ 30,136 | 2026-08-08 | 2026-09-14 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 12 | ⭐ 23,441 | 2026-08-01 | 2026-09-07 |
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 12 | ⭐ 845 | 2026-08-05 | 2026-09-12 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 11 | ⭐ 2,342 | 2026-08-02 | 2026-09-07 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 10 | ⭐ 4,386 | 2026-08-02 | 2026-08-26 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.810Z*
+*Last updated: 2026-09-20T21:01:44.540Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 215
+- **Total Repositories**: 219
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 52,297 | 2026-08-01 | 8 |
+| [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) | ⭐ 5,346 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 146,517 | 2026-08-07 | 12 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 147,057 | 2026-08-07 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yikart/AiToEarn](../repos/yikart/AiToEarn.md) | ⭐ 26,074 | 2026-08-09 | 2 |
+| [ZuodaoTech/everyone-can-use-english](../repos/ZuodaoTech/everyone-can-use-english.md) | ⭐ 38,111 | 2026-08-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 205,345 | 2026-08-11 | 5 |
+| [Tencent/BrowserSkill](../repos/Tencent/BrowserSkill.md) | ⭐ 6,026 | 2026-08-27 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZuodaoTech/everyone-can-use-english](../repos/ZuodaoTech/everyone-can-use-english.md) | ⭐ 37,658 | 2026-08-12 | 3 |
+| [supermemoryai/supermemory](../repos/supermemoryai/supermemory.md) | ⭐ 30,681 | 2026-09-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 8,341 | 2026-08-22 | 2 |
+| [BuilderIO/agent-native](../repos/BuilderIO/agent-native.md) | ⭐ 5,144 | 2026-09-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/BrowserSkill](../repos/Tencent/BrowserSkill.md) | ⭐ 5,600 | 2026-08-27 | 2 |
+| [Open-Dev-Society/OpenStock](../repos/Open-Dev-Society/OpenStock.md) | ⭐ 16,703 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 86,970 | 2026-08-28 | 2 |
+| [vercel-labs/json-render](../repos/vercel-labs/json-render.md) | ⭐ 17,215 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [supermemoryai/supermemory](../repos/supermemoryai/supermemory.md) | ⭐ 30,481 | 2026-09-09 | 3 |
+| [ahmedkhaleel2004/gitdiagram](../repos/ahmedkhaleel2004/gitdiagram.md) | ⭐ 16,761 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Open-Dev-Society/OpenStock](../repos/Open-Dev-Society/OpenStock.md) | ⭐ 15,701 | 2026-09-19 | 1 |
+| [cloudflare/mcp-server-cloudflare](../repos/cloudflare/mcp-server-cloudflare.md) | ⭐ 4,258 | 2026-09-20 | 1 |
 
 
 ---
@@ -93,7 +93,7 @@
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | 2026-09-01 | 2 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 146,517 | 2026-08-07 | 12 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 147,057 | 2026-08-07 | 13 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,718 | 2026-08-02 | 5 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 131,955 | 2026-08-02 | 10 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
@@ -115,8 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | 13 | ⭐ 147,057 | 2026-08-07 | 2026-09-20 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 12 | ⭐ 29,827 | 2026-08-02 | 2026-09-06 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | 12 | ⭐ 146,517 | 2026-08-07 | 2026-09-19 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 12 | ⭐ 25,971 | 2026-08-07 | 2026-09-13 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 11 | ⭐ 7,365 | 2026-08-01 | 2026-09-10 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 11 | ⭐ 48,711 | 2026-08-08 | 2026-09-10 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.854Z*
+*Last updated: 2026-09-20T21:01:44.581Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 234
+- **Total Repositories**: 240
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 39,220 | 2026-08-03 | 4 |
+| [harvard-edge/cs249r_book](../repos/harvard-edge/cs249r_book.md) | ⭐ 28,380 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cactus-compute/needle](../repos/cactus-compute/needle.md) | ⭐ 11,410 | 2026-08-11 | 8 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,465 | 2026-08-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docling-project/docling](../repos/docling-project/docling.md) | ⭐ 66,734 | 2026-08-19 | 4 |
+| [cactus-compute/needle](../repos/cactus-compute/needle.md) | ⭐ 11,884 | 2026-08-11 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,253 | 2026-08-20 | 8 |
+| [docling-project/docling](../repos/docling-project/docling.md) | ⭐ 67,413 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 24,978 | 2026-09-19 | 1 |
+| [browser-use/browser-harness](../repos/browser-use/browser-harness.md) | ⭐ 17,862 | 2026-08-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [virattt/ai-hedge-fund](../repos/virattt/ai-hedge-fund.md) | ⭐ 63,523 | 2026-09-19 | 1 |
+| [openai/openai-python](../repos/openai/openai-python.md) | ⭐ 31,661 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/TensorRT-LLM](../repos/NVIDIA/TensorRT-LLM.md) | ⭐ 14,663 | 2026-09-19 | 1 |
+| [anthropics/financial-services](../repos/anthropics/financial-services.md) | ⭐ 35,313 | 2026-09-20 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/openai-python](../repos/openai/openai-python.md) | ⭐ 31,649 | 2026-09-19 | 1 |
+| [paperless-ngx/paperless-ngx](../repos/paperless-ngx/paperless-ngx.md) | ⭐ 45,498 | 2026-09-20 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PenglongHuang/chinese-novelist-skill](../repos/PenglongHuang/chinese-novelist-skill.md) | ⭐ 3,100 | 2026-09-19 | 1 |
+| [mihail911/modern-software-dev-assignments](../repos/mihail911/modern-software-dev-assignments.md) | ⭐ 4,521 | 2026-09-20 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/Octop](../repos/TencentCloud/Octop.md) | ⭐ 4,099 | 2026-09-19 | 1 |
+| [FareedKhan-dev/train-llm-from-scratch](../repos/FareedKhan-dev/train-llm-from-scratch.md) | ⭐ 10,285 | 2026-09-20 | 1 |
 
 
 ---
@@ -67,7 +67,7 @@
 | [karpathy/nanoGPT](../repos/karpathy/nanoGPT.md) | ⭐ 62,391 | 2026-08-22 | The simplest, fastest repository for training&#x2F;finetuning medium-sized GPTs. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [browser-use/browser-harness](../repos/browser-use/browser-harness.md) | ⭐ 17,014 | 2026-08-22 | Browser Harness | Self-healing harness that enables LLMs to complete any task. |
+| [browser-use/browser-harness](../repos/browser-use/browser-harness.md) | ⭐ 17,862 | 2026-08-22 | Browser Harness | Self-healing harness that enables LLMs to complete any task. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google/adk-samples](../repos/google/adk-samples.md) | ⭐ 10,214 | 2026-08-22 | A collection of sample agents built with Agent Development Kit (ADK)  |
@@ -94,7 +94,7 @@
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | 2026-08-08 | 3 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 191,157 | 2026-08-02 | 7 |
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,163 | 2026-08-06 | 7 |
+| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,465 | 2026-08-06 | 8 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 181,591 | 2026-09-07 | 2 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 174,517 | 2026-08-11 | 6 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,921 | 2026-07-31 | 7 |
@@ -121,10 +121,10 @@
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 10 | ⭐ 106,016 | 2026-08-08 | 2026-09-14 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 9 | ⭐ 1,384 | 2026-08-01 | 2026-08-28 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 9 | ⭐ 39,719 | 2026-08-03 | 2026-09-09 |
+| [cactus-compute/needle](../repos/cactus-compute/needle.md) | 9 | ⭐ 11,884 | 2026-08-11 | 2026-09-20 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 9 | ⭐ 28,964 | 2026-08-22 | 2026-09-14 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 8 | ⭐ 81,126 | 2026-08-01 | 2026-09-14 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 8 | ⭐ 54,192 | 2026-08-03 | 2026-09-09 |
-| [usestrix/strix](../repos/usestrix/strix.md) | 8 | ⭐ 56,671 | 2026-08-04 | 2026-08-21 |
 
 ---
 
@@ -181,7 +181,7 @@
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](../repos/RVC-Project/Retrieval-based-Voice-Conversion-WebUI.md) - Easily train a good VC model with voice data &lt;&#x3D; 10 mins!
 - [pandas-dev/pandas](../repos/pandas-dev/pandas.md) - Flexible and powerful data analysis &#x2F; manipulation library for Python, providing labeled data str...
 - [alirezarezvani/claude-skills](../repos/alirezarezvani/claude-skills.md) - 345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, cu...
-- [harvard-edge/cs249r_book](../repos/harvard-edge/cs249r_book.md) - Machine Learning Systems
+- [harvard-edge/cs249r_book](../repos/harvard-edge/cs249r_book.md) - Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard...
 - [spesmilo/electrum](../repos/spesmilo/electrum.md) - Electrum Bitcoin Wallet
 - [roboflow/supervision](../repos/roboflow/supervision.md) - We write your reusable computer vision tools. 💜
 - [Comfy-Org/workflow_templates](../repos/Comfy-Org/workflow_templates.md) - ComfyUI template workflows
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.833Z*
+*Last updated: 2026-09-20T21:01:44.563Z*

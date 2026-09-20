@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 95
+- **Total Repositories**: 97
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,113 | 2026-08-01 | 9 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,733 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 731 | 2026-08-02 | 16 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,117 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,782 | 2026-08-02 | 8 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,195 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [newmarcel/KeepingYouAwake](../repos/newmarcel/KeepingYouAwake.md) | ⭐ 6,915 | 2026-08-02 | 7 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 732 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [danveloper/flash-moe](../repos/danveloper/flash-moe.md) | ⭐ 4,142 | 2026-08-03 | 4 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,794 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,140 | 2026-08-04 | 15 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 507 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bugsnag/bugsnag-cocoa](../repos/bugsnag/bugsnag-cocoa.md) | ⭐ 262 | 2026-08-06 | 12 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,243 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,120 | 2026-08-07 | 8 |
+| [alexzielenski/Mousecape](../repos/alexzielenski/Mousecape.md) | ⭐ 2,073 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveExec32](../repos/LiveContainer/LiveExec32.md) | ⭐ 269 | 2026-09-10 | 4 |
+| [LiveContainer/LiveExec32](../repos/LiveContainer/LiveExec32.md) | ⭐ 273 | 2026-09-10 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
+| [skyhua0224/moonlight-macos-enhanced](../repos/skyhua0224/moonlight-macos-enhanced.md) | ⭐ 204 | 2026-09-20 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/app-check](../repos/google/app-check.md) | ⭐ 45 | 2026-08-21 | Google-internal core components of Firebase App Check. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [uber/ios-snapshot-test-case](../repos/uber/ios-snapshot-test-case.md) | ⭐ 1,864 | 2026-08-22 | Snapshot view unit tests for iOS |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | An easy way to use pull-to-refresh. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [julienXX/terminal-notifier](../repos/julienXX/terminal-notifier.md) | ⭐ 7,321 | 2026-09-01 | Send User Notifications on macOS from the command-line. |
 
 
 ---
@@ -91,12 +91,12 @@
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,385 | 2026-08-02 | 6 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 26 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,154 | 2026-08-02 | 20 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,195 | 2026-08-02 | 21 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,610 | 2026-08-04 | 18 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,140 | 2026-08-04 | 15 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,923 | 2026-08-04 | 9 |
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,113 | 2026-08-01 | 9 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,117 | 2026-08-01 | 10 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
 | [marcuswestin/WebViewJavascriptBridge](../repos/marcuswestin/WebViewJavascriptBridge.md) | ⭐ 14,308 | 2026-09-13 | 1 |
 | [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,836 | 2026-08-28 | 1 |
@@ -120,11 +120,11 @@
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 26 | ⭐ 25,633 | 2026-08-01 | 2026-09-08 |
 | [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 25 | ⭐ 292 | 2026-08-01 | 2026-09-09 |
 | [google/promises](../repos/google/promises.md) | 24 | ⭐ 3,830 | 2026-08-01 | 2026-09-09 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 20 | ⭐ 22,154 | 2026-08-02 | 2026-09-14 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 21 | ⭐ 22,195 | 2026-08-02 | 2026-09-20 |
 | [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 20 | ⭐ 2,029 | 2026-08-08 | 2026-09-08 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 19 | ⭐ 676 | 2026-08-04 | 2026-09-09 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 18 | ⭐ 16,610 | 2026-08-04 | 2026-09-12 |
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 16 | ⭐ 731 | 2026-08-02 | 2026-09-19 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 17 | ⭐ 732 | 2026-08-02 | 2026-09-20 |
 
 ---
 
@@ -225,7 +225,9 @@
 - [bang590/JSPatch](../repos/bang590/JSPatch.md) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objecti...
 - [eczarny/spectacle](../repos/eczarny/spectacle.md) - Spectacle allows you to organize your windows without using a mouse.
 - [pinterest/PINRemoteImage](../repos/pinterest/PINRemoteImage.md) - A thread safe, performant, feature rich image fetcher
+- [skyhua0224/moonlight-macos-enhanced](../repos/skyhua0224/moonlight-macos-enhanced.md) - Moonlight macOS Enhanced - native Moonlight for macOS client for Sunshine and Foundation Sunshine...
+- [pilotmoon/Scroll-Reverser](../repos/pilotmoon/Scroll-Reverser.md) - Per-device scrolling prefs on macOS.
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.823Z*
+*Last updated: 2026-09-20T21:01:44.553Z*

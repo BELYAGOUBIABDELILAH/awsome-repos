@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 10
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-19
+- **Last Updated**: 2026-09-20
 
 ---
 
@@ -16,22 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,334 | 2026-08-01 | 39 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,344 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,022 | 2026-08-01 | 32 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,029 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 60,154 | 2026-08-01 | 35 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 60,191 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,979 | 2026-08-01 | 39 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,984 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 3,904 | 2026-08-02 | 32 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [logseq/og](../repos/logseq/og.md) | ⭐ 297 | 2026-08-02 | 21 |
+| [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,022 | 2026-08-02 | 12 |
 
 
 ---
@@ -52,12 +49,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,022 | 2026-08-01 | 32 |
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 60,154 | 2026-08-01 | 35 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,334 | 2026-08-01 | 39 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,979 | 2026-08-01 | 39 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,029 | 2026-08-01 | 33 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 60,191 | 2026-08-01 | 36 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,344 | 2026-08-01 | 40 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 44,984 | 2026-08-01 | 40 |
 | [clojure/clojurescript](../repos/clojure/clojurescript.md) | ⭐ 9,393 | 2026-09-07 | 1 |
-| [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,022 | 2026-08-02 | 11 |
+| [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,022 | 2026-08-02 | 12 |
 | [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 3,904 | 2026-08-02 | 32 |
 | [functional-koans/clojure-koans](../repos/functional-koans/clojure-koans.md) | ⭐ 3,802 | 2026-09-12 | 1 |
 | [cognitect-labs/test-runner](../repos/cognitect-labs/test-runner.md) | ⭐ 308 | 2026-08-01 | 12 |
@@ -69,14 +66,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [metabase/metabase](../repos/metabase/metabase.md) | 39 | ⭐ 49,334 | 2026-08-01 | 2026-09-19 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 39 | ⭐ 44,979 | 2026-08-01 | 2026-09-19 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 35 | ⭐ 60,154 | 2026-08-01 | 2026-09-19 |
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 32 | ⭐ 82,022 | 2026-08-01 | 2026-09-19 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 40 | ⭐ 49,344 | 2026-08-01 | 2026-09-20 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 40 | ⭐ 44,984 | 2026-08-01 | 2026-09-20 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 36 | ⭐ 60,191 | 2026-08-01 | 2026-09-20 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 33 | ⭐ 82,029 | 2026-08-01 | 2026-09-20 |
 | [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | 32 | ⭐ 3,904 | 2026-08-02 | 2026-09-19 |
 | [logseq/og](../repos/logseq/og.md) | 21 | ⭐ 297 | 2026-08-02 | 2026-09-19 |
 | [cognitect-labs/test-runner](../repos/cognitect-labs/test-runner.md) | 12 | ⭐ 308 | 2026-08-01 | 2026-08-29 |
-| [status-im/status-legacy](../repos/status-im/status-legacy.md) | 11 | ⭐ 4,022 | 2026-08-02 | 2026-09-14 |
+| [status-im/status-legacy](../repos/status-im/status-legacy.md) | 12 | ⭐ 4,022 | 2026-08-02 | 2026-09-20 |
 | [clojure/clojurescript](../repos/clojure/clojurescript.md) | 1 | ⭐ 9,393 | 2026-09-07 | 2026-09-07 |
 | [functional-koans/clojure-koans](../repos/functional-koans/clojure-koans.md) | 1 | ⭐ 3,802 | 2026-09-12 | 2026-09-12 |
 
@@ -97,4 +94,4 @@
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.766Z*
+*Last updated: 2026-09-20T21:01:44.507Z*

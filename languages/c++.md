@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 235
+- **Total Repositories**: 236
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-09-19
+- **Last Updated**: 2026-09-20
 
 ---
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,181 | 2026-07-30 | 18 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,215 | 2026-07-30 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 128,791 | 2026-08-01 | 23 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 128,962 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 505 | 2026-08-01 | 10 |
+| [doitsujin/dxvk](../repos/doitsujin/dxvk.md) | ⭐ 18,117 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [carbon-language/carbon-lang](../repos/carbon-language/carbon-lang.md) | ⭐ 33,898 | 2026-08-04 | 2 |
+| [TrinityCore/TrinityCore](../repos/TrinityCore/TrinityCore.md) | ⭐ 10,780 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,551 | 2026-08-04 | 14 |
+| [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) | ⭐ 8,943 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/or-tools](../repos/google/or-tools.md) | ⭐ 14,071 | 2026-08-05 | 4 |
+| [ml-explore/mlx](../repos/ml-explore/mlx.md) | ⭐ 28,496 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ml-explore/mlx](../repos/ml-explore/mlx.md) | ⭐ 28,476 | 2026-08-06 | 6 |
+| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,948 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openvinotoolkit/openvino](../repos/openvinotoolkit/openvino.md) | ⭐ 10,872 | 2026-08-07 | 6 |
+| [BruceDevices/firmware](../repos/BruceDevices/firmware.md) | ⭐ 6,789 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BruceDevices/firmware](../repos/BruceDevices/firmware.md) | ⭐ 6,773 | 2026-08-08 | 5 |
+| [xbmc/xbmc](../repos/xbmc/xbmc.md) | ⭐ 21,236 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,568 | 2026-08-12 | 6 |
+| [keepassxreboot/keepassxc](../repos/keepassxreboot/keepassxc.md) | ⭐ 28,887 | 2026-08-12 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [omacom-io/omawrite](../repos/omacom-io/omawrite.md) | ⭐ 139 | 2026-08-21 | The essence of writing |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OpenHD/OpenHD](../repos/OpenHD/OpenHD.md) | ⭐ 2,641 | 2026-08-22 | OpenHD |
@@ -70,7 +67,7 @@
 | [ValveSoftware/source-sdk-2013](../repos/ValveSoftware/source-sdk-2013.md) | ⭐ 9,939 | 2026-08-23 | The 2013 edition of the Source SDK |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Vita3K/Vita3K](../repos/Vita3K/Vita3K.md) | ⭐ 5,703 | 2026-08-23 | Experimental PlayStation Vita emulator |
+| [Vita3K/Vita3K](../repos/Vita3K/Vita3K.md) | ⭐ 5,735 | 2026-08-23 | Experimental PlayStation Vita emulator |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [edin45/simple_photogrammetry_gui](../repos/edin45/simple_photogrammetry_gui.md) | ⭐ 559 | 2026-08-24 |  |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [endless-sky/endless-sky](../repos/endless-sky/endless-sky.md) | ⭐ 7,516 | 2026-08-24 | Space exploration, trading, and combat game. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [xenia-project/xenia](../repos/xenia-project/xenia.md) | ⭐ 9,640 | 2026-08-24 | Xbox 360 Emulator Research Project |
 
 
 ---
@@ -88,12 +88,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,181 | 2026-07-30 | 18 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 128,791 | 2026-08-01 | 23 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,215 | 2026-07-30 | 19 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 128,962 | 2026-08-01 | 24 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | 2026-08-04 | 4 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 117,022 | 2026-08-01 | 9 |
-| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,728 | 2026-08-06 | 4 |
+| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,948 | 2026-08-06 | 5 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,164 | 2026-08-02 | 8 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,568 | 2026-08-12 | 6 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,148 | 2026-08-08 | 13 |
@@ -115,8 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 23 | ⭐ 128,791 | 2026-08-01 | 2026-09-19 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 18 | ⭐ 200,181 | 2026-07-30 | 2026-09-19 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 24 | ⭐ 128,962 | 2026-08-01 | 2026-09-20 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 19 | ⭐ 200,215 | 2026-07-30 | 2026-09-20 |
 | [google/googletest](../repos/google/googletest.md) | 14 | ⭐ 39,551 | 2026-08-04 | 2026-09-19 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 13 | ⭐ 76,148 | 2026-08-08 | 2026-09-10 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 12 | ⭐ 71,999 | 2026-08-01 | 2026-09-04 |
@@ -163,7 +163,7 @@
 - [doitsujin/dxvk](../repos/doitsujin/dxvk.md) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux &#x2F; Wine
 - [CleverRaven/Cataclysm-DDA](../repos/CleverRaven/Cataclysm-DDA.md) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) - An MCP-based chatbot | 一个基于MCP的聊天机器人
-- [TrinityCore/TrinityCore](../repos/TrinityCore/TrinityCore.md) - TrinityCore Open Source MMO Framework (master &#x3D; 12.0.7.68974, 3.3.5 &#x3D; 3.3.5a.12340, cata classic ...
+- [TrinityCore/TrinityCore](../repos/TrinityCore/TrinityCore.md) - TrinityCore Open Source MMO Framework (master &#x3D; 12.1.0.69875, 3.3.5 &#x3D; 3.3.5a.12340, cata classic ...
 - [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) - ClickHouse® is a real-time analytics database management system
 - [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) - Complete Open Source and Modular solution for MMO
 - [ValveSoftware/Proton](../repos/ValveSoftware/Proton.md) - Compatibility tool for Steam Play based on Wine and additional components
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.761Z*
+*Last updated: 2026-09-20T21:01:44.503Z*

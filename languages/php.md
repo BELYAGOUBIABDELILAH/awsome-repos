@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 90
+- **Total Repositories**: 92
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-19
+- **Last Updated**: 2026-09-20
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,366 | 2026-08-01 | 23 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,890 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | ⭐ 3,446 | 2026-08-01 | 16 |
+| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,155 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,888 | 2026-08-01 | 21 |
+| [opensourcepos/opensourcepos](../repos/opensourcepos/opensourcepos.md) | ⭐ 4,393 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,135 | 2026-08-01 | 19 |
+| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,083 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,154 | 2026-08-02 | 21 |
+| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,871 | 2026-08-02 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,854 | 2026-08-02 | 25 |
+| [RSS-Bridge/rss-bridge](../repos/RSS-Bridge/rss-bridge.md) | ⭐ 9,245 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [roundcube/roundcubemail](../repos/roundcube/roundcubemail.md) | ⭐ 7,179 | 2026-08-04 | 10 |
+| [laravel/ai](../repos/laravel/ai.md) | ⭐ 1,179 | 2026-08-05 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 12,972 | 2026-08-05 | 3 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,464 | 2026-08-09 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laravel/ai](../repos/laravel/ai.md) | ⭐ 1,175 | 2026-08-05 | 10 |
+| [php/pie](../repos/php/pie.md) | ⭐ 2,017 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [invoiceninja/invoiceninja](../repos/invoiceninja/invoiceninja.md) | ⭐ 10,088 | 2026-08-06 | 9 |
+| [phpmyadmin/phpmyadmin](../repos/phpmyadmin/phpmyadmin.md) | ⭐ 7,939 | 2026-08-17 | 3 |
 
 
 ---
@@ -70,13 +70,16 @@
 | [symfony/ai](../repos/symfony/ai.md) | ⭐ 1,196 | 2026-09-08 | Symfony AI is a set of components that integrate AI capabilities into PHP applications |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [danog/MadelineProto](../repos/danog/MadelineProto.md) | ⭐ 3,512 | 2026-09-08 | Async PHP client API for the telegram MTProto protocol |
+| [danog/MadelineProto](../repos/danog/MadelineProto.md) | ⭐ 3,518 | 2026-09-08 | Async PHP client API for the telegram MTProto protocol |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [metadist/synaplan](../repos/metadist/synaplan.md) | ⭐ 144 | 2026-09-09 | Our AI control plane for fast deployment. Talk to various models, MCP with agents, get a chat wid... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Submitty/Submitty](../repos/Submitty/Submitty.md) | ⭐ 793 | 2026-09-19 | Homework Submission, Automated Grading, and TA grading system. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [crivion/laranode](../repos/crivion/laranode.md) | ⭐ 1,489 | 2026-09-20 | Free Hosting Panel - Easily manage your VPS&#x2F;dedicated machine with Laranode (a cPanel&#x2F;Plesk alter... |
 
 
 ---
@@ -85,17 +88,17 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,854 | 2026-08-02 | 25 |
+| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,871 | 2026-08-02 | 26 |
 | [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,911 | 2026-08-01 | 22 |
 | [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,042 | 2026-08-02 | 14 |
-| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,154 | 2026-08-02 | 21 |
+| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,155 | 2026-08-02 | 22 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,135 | 2026-08-01 | 19 |
 | [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,307 | 2026-08-04 | 15 |
 | [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 23,902 | 2026-08-07 | 12 |
 | [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,296 | 2026-08-01 | 9 |
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,888 | 2026-08-01 | 21 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,890 | 2026-08-01 | 22 |
 | [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,734 | 2026-08-04 | 6 |
-| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,005 | 2026-08-02 | 13 |
+| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,083 | 2026-08-02 | 14 |
 | [getgrav/grav](../repos/getgrav/grav.md) | ⭐ 15,656 | 2026-08-12 | 6 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,929 | 2026-08-01 | 16 |
 | [PHPOffice/PhpSpreadsheet](../repos/PHPOffice/PhpSpreadsheet.md) | ⭐ 13,983 | 2026-08-19 | 3 |
@@ -112,12 +115,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nextcloud/server](../repos/nextcloud/server.md) | 25 | ⭐ 36,854 | 2026-08-02 | 2026-09-19 |
+| [nextcloud/server](../repos/nextcloud/server.md) | 26 | ⭐ 36,871 | 2026-08-02 | 2026-09-20 |
 | [glpi-project/glpi](../repos/glpi-project/glpi.md) | 23 | ⭐ 6,366 | 2026-08-01 | 2026-09-19 |
 | [laravel/framework](../repos/laravel/framework.md) | 22 | ⭐ 34,911 | 2026-08-01 | 2026-09-13 |
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | 21 | ⭐ 21,888 | 2026-08-01 | 2026-09-19 |
-| [symfony/symfony](../repos/symfony/symfony.md) | 21 | ⭐ 31,154 | 2026-08-02 | 2026-09-19 |
-| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 20 | ⭐ 10,453 | 2026-08-09 | 2026-09-19 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | 22 | ⭐ 21,890 | 2026-08-01 | 2026-09-20 |
+| [symfony/symfony](../repos/symfony/symfony.md) | 22 | ⭐ 31,155 | 2026-08-02 | 2026-09-20 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 21 | ⭐ 10,464 | 2026-08-09 | 2026-09-20 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | 19 | ⭐ 28,135 | 2026-08-01 | 2026-09-19 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | 16 | ⭐ 14,929 | 2026-08-01 | 2026-09-12 |
 | [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 16 | ⭐ 3,446 | 2026-08-01 | 2026-09-19 |
@@ -217,7 +220,9 @@
 - [danog/MadelineProto](../repos/danog/MadelineProto.md) - Async PHP client API for the telegram MTProto protocol
 - [metadist/synaplan](../repos/metadist/synaplan.md) - Our AI control plane for fast deployment. Talk to various models, MCP with agents, get a chat wid...
 - [Submitty/Submitty](../repos/Submitty/Submitty.md) - Homework Submission, Automated Grading, and TA grading system.
+- [crivion/laranode](../repos/crivion/laranode.md) - Free Hosting Panel - Easily manage your VPS&#x2F;dedicated machine with Laranode (a cPanel&#x2F;Plesk alter...
+- [Euro-Office/eurooffice-nextcloud](../repos/Euro-Office/eurooffice-nextcloud.md) - 
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.825Z*
+*Last updated: 2026-09-20T21:01:44.555Z*

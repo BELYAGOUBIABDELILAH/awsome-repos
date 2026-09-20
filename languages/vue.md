@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 84
+- **Total Repositories**: 85
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-19
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,256 | 2026-08-01 | 18 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,269 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,942 | 2026-08-01 | 25 |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,387 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,186 | 2026-08-01 | 11 |
+| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 256 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,482 | 2026-08-01 | 29 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,305 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 1,900 | 2026-08-02 | 17 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,958 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,349 | 2026-08-03 | 14 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 443 | 2026-08-02 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,458 | 2026-08-05 | 12 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,430 | 2026-08-08 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,324 | 2026-08-08 | 16 |
+| [Rule-34/App](../repos/Rule-34/App.md) | ⭐ 376 | 2026-08-16 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,749 | 2026-08-12 | 4 |
+| [hanshuaikang/AI-Media2Doc](../repos/hanshuaikang/AI-Media2Doc.md) | ⭐ 4,025 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [roimdev/roim-picx](../repos/roimdev/roim-picx.md) | ⭐ 300 | 2026-08-17 | 2 |
+| [1sdv/TripStar](../repos/1sdv/TripStar.md) | ⭐ 2,281 | 2026-09-04 | 3 |
 
 
 ---
@@ -91,11 +91,11 @@
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,186 | 2026-08-01 | 11 |
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,045 | 2026-08-01 | 9 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,482 | 2026-08-01 | 29 |
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,290 | 2026-08-01 | 17 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,305 | 2026-08-01 | 18 |
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,942 | 2026-08-01 | 25 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,324 | 2026-08-08 | 16 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,917 | 2026-08-01 | 19 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,430 | 2026-08-08 | 17 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,958 | 2026-08-01 | 20 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,637 | 2026-08-02 | 12 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,715 | 2026-08-02 | 17 |
@@ -117,12 +117,12 @@
 |------------|---------------|-------|------------|-----------|
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 29 | ⭐ 33,482 | 2026-08-01 | 2026-09-19 |
 | [requarks/wiki](../repos/requarks/wiki.md) | 25 | ⭐ 28,942 | 2026-08-01 | 2026-09-19 |
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 24 | ⭐ 441 | 2026-08-02 | 2026-09-14 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 25 | ⭐ 443 | 2026-08-02 | 2026-09-20 |
 | [frappe/crm](../repos/frappe/crm.md) | 21 | ⭐ 3,529 | 2026-08-01 | 2026-09-14 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 19 | ⭐ 21,917 | 2026-08-01 | 2026-09-14 |
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 18 | ⭐ 4,256 | 2026-08-01 | 2026-09-19 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 20 | ⭐ 21,958 | 2026-08-01 | 2026-09-20 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 19 | ⭐ 4,269 | 2026-08-01 | 2026-09-20 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 18 | ⭐ 33,305 | 2026-08-01 | 2026-09-20 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 18 | ⭐ 2,336 | 2026-08-02 | 2026-09-14 |
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 17 | ⭐ 33,290 | 2026-08-01 | 2026-09-14 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 17 | ⭐ 16,715 | 2026-08-02 | 2026-09-14 |
 | [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 17 | ⭐ 1,900 | 2026-08-02 | 2026-09-19 |
 
@@ -214,7 +214,8 @@
 - [wu529778790/panhub.shenzjd.com](../repos/wu529778790/panhub.shenzjd.com.md) - PanHub 网盘聚合搜索 · Netdisk Search Aggregator。一个搜索框聚合夸克&#x2F;阿里云盘&#x2F;百度&#x2F;115&#x2F;迅雷等网盘资源，多源聚合去重、智能排序、插件熔断隔离。零数据库轻量...
 - [kodadot/nft-gallery](../repos/kodadot/nft-gallery.md) - Generative Art Marketplace 
 - [MoeKoeMusic/MoeKoeMusic](../repos/MoeKoeMusic/MoeKoeMusic.md) - 一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuG...
+- [henryzt/Rhythm-Plus-Music-Game](../repos/henryzt/Rhythm-Plus-Music-Game.md) - Community-based vertical scrolling rhythm game (VSRG) made with Vue.js and canvas (WIP)
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.865Z*
+*Last updated: 2026-09-20T21:01:44.591Z*

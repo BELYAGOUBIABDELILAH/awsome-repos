@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 193
+- **Total Repositories**: 195
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-19
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,220 | 2026-08-01 | 7 |
+| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 29,056 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/maven](../repos/apache/maven.md) | ⭐ 5,349 | 2026-08-01 | 4 |
+| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,731 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,933 | 2026-08-02 | 9 |
+| [MojoLauncher/MojoLauncher](../repos/MojoLauncher/MojoLauncher.md) | ⭐ 990 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TGX-Android/Telegram-X](../repos/TGX-Android/Telegram-X.md) | ⭐ 5,993 | 2026-08-03 | 4 |
+| [Creators-of-Create/Create](../repos/Creators-of-Create/Create.md) | ⭐ 4,520 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,255 | 2026-08-04 | 7 |
+| [ashishps1/awesome-leetcode-resources](../repos/ashishps1/awesome-leetcode-resources.md) | ⭐ 17,864 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,276 | 2026-08-04 | 6 |
+| [AntennaPod/AntennaPod](../repos/AntennaPod/AntennaPod.md) | ⭐ 8,171 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,473 | 2026-08-04 | 11 |
+| [MCRcortex/voxy](../repos/MCRcortex/voxy.md) | ⭐ 1,236 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/doris](../repos/apache/doris.md) | ⭐ 15,964 | 2026-08-05 | 5 |
+| [shmykelsa/AAAD](../repos/shmykelsa/AAAD.md) | ⭐ 2,972 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,691 | 2026-08-05 | 18 |
+| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,232 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) | ⭐ 28,155 | 2026-08-07 | 6 |
+| [zalexdev/strykerapp](../repos/zalexdev/strykerapp.md) | ⭐ 1,618 | 2026-08-08 | 5 |
 
 
 ---
@@ -76,7 +76,7 @@
 | [ikarus23/MifareClassicTool](../repos/ikarus23/MifareClassicTool.md) | ⭐ 6,304 | 2026-08-23 | An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [HMCL-dev/HMCL](../repos/HMCL-dev/HMCL.md) | ⭐ 10,063 | 2026-08-23 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
+| [HMCL-dev/HMCL](../repos/HMCL-dev/HMCL.md) | ⭐ 10,093 | 2026-08-23 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [xandergos/terrain-diffusion-mc](../repos/xandergos/terrain-diffusion-mc.md) | ⭐ 830 | 2026-08-24 | Procedural terrain generation with diffusion models (in Minecraft) |
@@ -102,7 +102,7 @@
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,716 | 2026-08-07 | 5 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,366 | 2026-08-05 | 11 |
-| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,684 | 2026-08-02 | 6 |
+| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,731 | 2026-08-02 | 7 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,063 | 2026-08-06 | 5 |
 | [alibaba/arthas](../repos/alibaba/arthas.md) | ⭐ 37,526 | 2026-08-28 | 2 |
@@ -124,7 +124,7 @@
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 11 | ⭐ 81,473 | 2026-08-04 | 2026-09-19 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 11 | ⭐ 41,366 | 2026-08-05 | 2026-09-12 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 10 | ⭐ 13,704 | 2026-08-01 | 2026-09-12 |
-| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | 10 | ⭐ 29,177 | 2026-08-03 | 2026-09-14 |
+| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | 10 | ⭐ 29,056 | 2026-08-02 | 2026-09-20 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-19T21:01:54.802Z*
+*Last updated: 2026-09-20T21:01:44.532Z*

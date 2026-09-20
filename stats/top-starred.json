@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T21:02:01.215Z",
+  "generated_at": "2026-09-20T21:01:50.546Z",
   "total_count": 100,
   "repositories": [
     {
@@ -107,10 +107,10 @@
       "full_name": "ossu/computer-science",
       "owner": "ossu",
       "name": "computer-science",
-      "stars": 209014,
+      "stars": 209227,
       "language": "HTML",
       "first_seen": "2026-08-03",
-      "trending_days": 11
+      "trending_days": 12
     },
     {
       "rank": 12,
@@ -127,10 +127,10 @@
       "full_name": "tensorflow/tensorflow",
       "owner": "tensorflow",
       "name": "tensorflow",
-      "stars": 200181,
+      "stars": 200215,
       "language": "C++",
       "first_seen": "2026-07-30",
-      "trending_days": 18
+      "trending_days": 19
     },
     {
       "rank": 14,
@@ -157,10 +157,10 @@
       "full_name": "Significant-Gravitas/AutoGPT",
       "owner": "Significant-Gravitas",
       "name": "AutoGPT",
-      "stars": 187163,
+      "stars": 187465,
       "language": "Python",
       "first_seen": "2026-08-06",
-      "trending_days": 7
+      "trending_days": 8
     },
     {
       "rank": 17,
@@ -247,10 +247,10 @@
       "full_name": "Genymobile/scrcpy",
       "owner": "Genymobile",
       "name": "scrcpy",
-      "stars": 148747,
+      "stars": 150076,
       "language": "C",
       "first_seen": "2026-08-07",
-      "trending_days": 10
+      "trending_days": 11
     },
     {
       "rank": 26,
@@ -267,10 +267,10 @@
       "full_name": "anthropics/claude-code",
       "owner": "anthropics",
       "name": "claude-code",
-      "stars": 146517,
+      "stars": 147057,
       "language": "TypeScript",
       "first_seen": "2026-08-07",
-      "trending_days": 12
+      "trending_days": 13
     },
     {
       "rank": 28,
@@ -377,10 +377,10 @@
       "full_name": "ggml-org/llama.cpp",
       "owner": "ggml-org",
       "name": "llama.cpp",
-      "stars": 128791,
+      "stars": 128962,
       "language": "C++",
       "first_seen": "2026-08-01",
-      "trending_days": 23
+      "trending_days": 24
     },
     {
       "rank": 39,
@@ -464,6 +464,16 @@
     },
     {
       "rank": 47,
+      "full_name": "2dust/v2rayN",
+      "owner": "2dust",
+      "name": "v2rayN",
+      "stars": 116584,
+      "language": "C#",
+      "first_seen": "2026-08-02",
+      "trending_days": 20
+    },
+    {
+      "rank": 48,
       "full_name": "microsoft/generative-ai-for-beginners",
       "owner": "microsoft",
       "name": "generative-ai-for-beginners",
@@ -471,16 +481,6 @@
       "language": "Jupyter Notebook",
       "first_seen": "2026-08-02",
       "trending_days": 3
-    },
-    {
-      "rank": 48,
-      "full_name": "2dust/v2rayN",
-      "owner": "2dust",
-      "name": "v2rayN",
-      "stars": 116012,
-      "language": "C#",
-      "first_seen": "2026-08-02",
-      "trending_days": 19
     },
     {
       "rank": 49,
@@ -577,10 +577,10 @@
       "full_name": "microsoft/terminal",
       "owner": "microsoft",
       "name": "terminal",
-      "stars": 104728,
+      "stars": 104948,
       "language": "C++",
       "first_seen": "2026-08-06",
-      "trending_days": 4
+      "trending_days": 5
     },
     {
       "rank": 59,
@@ -634,6 +634,16 @@
     },
     {
       "rank": 64,
+      "full_name": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "stars": 97613,
+      "language": "JavaScript",
+      "first_seen": "2026-08-05",
+      "trending_days": 20
+    },
+    {
+      "rank": 65,
       "full_name": "tailwindlabs/tailwindcss",
       "owner": "tailwindlabs",
       "name": "tailwindcss",
@@ -641,16 +651,6 @@
       "language": "TypeScript",
       "first_seen": "2026-08-04",
       "trending_days": 3
-    },
-    {
-      "rank": 65,
-      "full_name": "addyosmani/agent-skills",
-      "owner": "addyosmani",
-      "name": "agent-skills",
-      "stars": 96671,
-      "language": "JavaScript",
-      "first_seen": "2026-08-05",
-      "trending_days": 19
     },
     {
       "rank": 66,
@@ -877,10 +877,10 @@
       "full_name": "tonsky/FiraCode",
       "owner": "tonsky",
       "name": "FiraCode",
-      "stars": 82022,
+      "stars": 82029,
       "language": "Clojure",
       "first_seen": "2026-08-01",
-      "trending_days": 32
+      "trending_days": 33
     },
     {
       "rank": 89,
@@ -937,10 +937,10 @@
       "full_name": "ventoy/Ventoy",
       "owner": "ventoy",
       "name": "Ventoy",
-      "stars": 78928,
+      "stars": 79410,
       "language": "C",
       "first_seen": "2026-08-24",
-      "trending_days": 1
+      "trending_days": 2
     },
     {
       "rank": 95,
