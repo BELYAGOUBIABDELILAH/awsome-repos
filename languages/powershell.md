@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 50
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-19
+- **Last Updated**: 2026-09-21
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,167 | 2026-08-01 | 31 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,357 | 2026-08-01 | 18 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,365 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 491 | 2026-08-01 | 3 |
+| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 494 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,026 | 2026-08-01 | 19 |
+| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,062 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,062 | 2026-08-02 | 10 |
+| [CubeCoders/AMPTemplates](../repos/CubeCoders/AMPTemplates.md) | ⭐ 185 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,610 | 2026-08-03 | 23 |
+| [yegors/deGDID](../repos/yegors/deGDID.md) | ⭐ 1,053 | 2026-09-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,591 | 2026-09-06 | 2 |
+| [0Chencc/clawgod](../repos/0Chencc/clawgod.md) | ⭐ 2,041 | 2026-09-09 | 3 |
 
 
 ---
@@ -67,10 +67,10 @@
 | [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,591 | 2026-09-06 | A Project dedicated to making GPU Partitioning on Windows easier! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [yegors/deGDID](../repos/yegors/deGDID.md) | ⭐ 913 | 2026-09-09 | Deletes all instances of Microsoft&#39;s GDID and prevents minting of new ones  |
+| [yegors/deGDID](../repos/yegors/deGDID.md) | ⭐ 1,053 | 2026-09-09 | Deletes all instances of Microsoft&#39;s GDID and prevents minting of new ones  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [0Chencc/clawgod](../repos/0Chencc/clawgod.md) | ⭐ 2,006 | 2026-09-09 | ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with... |
+| [0Chencc/clawgod](../repos/0Chencc/clawgod.md) | ⭐ 2,041 | 2026-09-09 | ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with... |
 
 
 ---
@@ -79,7 +79,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,508 | 2026-08-01 | 19 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,033 | 2026-08-02 | 7 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
 | [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,167 | 2026-08-01 | 31 |
@@ -88,7 +88,7 @@
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,084 | 2026-08-03 | 8 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,014 | 2026-08-06 | 10 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,357 | 2026-08-01 | 18 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,365 | 2026-08-01 | 19 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,026 | 2026-08-01 | 19 |
@@ -98,7 +98,7 @@
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,538 | 2026-08-04 | 6 |
 | [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,178 | 2026-08-19 | 7 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,119 | 2026-08-01 | 14 |
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,062 | 2026-08-02 | 10 |
+| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,062 | 2026-08-02 | 11 |
 
 ---
 
@@ -109,9 +109,9 @@
 | [actions/runner-images](../repos/actions/runner-images.md) | 31 | ⭐ 13,167 | 2026-08-01 | 2026-09-20 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 26 | ⭐ 905 | 2026-08-01 | 2026-09-19 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 23 | ⭐ 1,610 | 2026-08-03 | 2026-09-20 |
-| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 19 | ⭐ 36,508 | 2026-08-01 | 2026-09-19 |
+| [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 20 | ⭐ 36,799 | 2026-08-01 | 2026-09-21 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 19 | ⭐ 8,365 | 2026-08-01 | 2026-09-21 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 19 | ⭐ 6,026 | 2026-08-01 | 2026-09-20 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 18 | ⭐ 8,357 | 2026-08-01 | 2026-09-20 |
 | [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 17 | ⭐ 458 | 2026-08-04 | 2026-09-19 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 16 | ⭐ 1,475 | 2026-08-01 | 2026-09-19 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 14 | ⭐ 2,119 | 2026-08-01 | 2026-09-10 |
@@ -174,4 +174,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.560Z*
+*Last updated: 2026-09-21T21:01:49.885Z*

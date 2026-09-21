@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Julia |
 | **License** | MIT |
-| **Stars** | ⭐ 734 |
+| **Stars** | ⭐ 735 |
 | **Forks** | 🍴 606 |
-| **Trending Days** | 36 |
+| **Trending Days** | 37 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 20, 2026 |
+| **Last Seen** | Sep 21, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 36
+- **Trending Days**: 37
 - **Longest Streak**: 12 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 734+ stars, strong contributor base |
+| **Community** | Very Active | 735+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:46.710Z*  
-*Data from 36 trending reports*
+*Last updated: 2026-09-21T21:01:51.487Z*  
+*Data from 37 trending reports*

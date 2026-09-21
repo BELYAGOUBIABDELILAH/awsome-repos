@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 97
+- **Total Repositories**: 100
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,733 | 2026-08-01 | 15 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,735 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,117 | 2026-08-01 | 10 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,198 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,195 | 2026-08-02 | 21 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 733 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 732 | 2026-08-02 | 17 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,800 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,794 | 2026-08-02 | 9 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 510 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 507 | 2026-08-02 | 12 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,244 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,243 | 2026-08-02 | 14 |
+| [newmarcel/KeepingYouAwake](../repos/newmarcel/KeepingYouAwake.md) | ⭐ 6,925 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alexzielenski/Mousecape](../repos/alexzielenski/Mousecape.md) | ⭐ 2,073 | 2026-08-09 | 6 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,374 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveExec32](../repos/LiveContainer/LiveExec32.md) | ⭐ 273 | 2026-09-10 | 5 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,155 | 2026-08-04 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [skyhua0224/moonlight-macos-enhanced](../repos/skyhua0224/moonlight-macos-enhanced.md) | ⭐ 204 | 2026-09-20 | 1 |
+| [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,637 | 2026-08-04 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [uber/ios-snapshot-test-case](../repos/uber/ios-snapshot-test-case.md) | ⭐ 1,864 | 2026-08-22 | Snapshot view unit tests for iOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tiktok/tiktok-business-ios-sdk](../repos/tiktok/tiktok-business-ios-sdk.md) | ⭐ 33 | 2026-08-23 |  |
@@ -64,7 +61,7 @@
 | [jverdi/JVFloatLabeledTextField](../repos/jverdi/JVFloatLabeledTextField.md) | ⭐ 7,141 | 2026-08-27 | UITextField subclass with floating labels - inspired by Matt D. Smith&#39;s design: http:&#x2F;&#x2F;dribbble.c... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,836 | 2026-08-28 | A Cocoa &#x2F; Objective-C wrapper around SQLite |
+| [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,828 | 2026-08-28 | A Cocoa &#x2F; Objective-C wrapper around SQLite |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pinterest/PINOperation](../repos/pinterest/PINOperation.md) | ⭐ 109 | 2026-08-29 |  |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [julienXX/terminal-notifier](../repos/julienXX/terminal-notifier.md) | ⭐ 7,321 | 2026-09-01 | Send User Notifications on macOS from the command-line. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive s... |
 
 
 ---
@@ -91,22 +91,22 @@
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,385 | 2026-08-02 | 6 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,633 | 2026-08-01 | 26 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,195 | 2026-08-02 | 21 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,198 | 2026-08-02 | 22 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,610 | 2026-08-04 | 18 |
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,140 | 2026-08-04 | 15 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,155 | 2026-08-04 | 16 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,923 | 2026-08-04 | 9 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,117 | 2026-08-01 | 10 |
-| [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,629 | 2026-08-04 | 3 |
+| [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,637 | 2026-08-04 | 4 |
 | [marcuswestin/WebViewJavascriptBridge](../repos/marcuswestin/WebViewJavascriptBridge.md) | ⭐ 14,308 | 2026-09-13 | 1 |
-| [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,836 | 2026-08-28 | 1 |
+| [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,828 | 2026-08-28 | 2 |
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
 | [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,348 | 2026-08-03 | 10 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,374 | 2026-08-03 | 11 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,319 | 2026-08-04 | 10 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,442 | 2026-08-06 | 3 |
-| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,120 | 2026-08-07 | 8 |
+| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,123 | 2026-08-07 | 9 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
 
 ---
@@ -120,11 +120,11 @@
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 26 | ⭐ 25,633 | 2026-08-01 | 2026-09-08 |
 | [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 25 | ⭐ 292 | 2026-08-01 | 2026-09-09 |
 | [google/promises](../repos/google/promises.md) | 24 | ⭐ 3,830 | 2026-08-01 | 2026-09-09 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 21 | ⭐ 22,195 | 2026-08-02 | 2026-09-20 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 22 | ⭐ 22,198 | 2026-08-02 | 2026-09-21 |
 | [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 20 | ⭐ 2,029 | 2026-08-08 | 2026-09-08 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 19 | ⭐ 676 | 2026-08-04 | 2026-09-09 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 18 | ⭐ 733 | 2026-08-02 | 2026-09-21 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 18 | ⭐ 16,610 | 2026-08-04 | 2026-09-12 |
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 17 | ⭐ 732 | 2026-08-02 | 2026-09-20 |
 
 ---
 
@@ -227,7 +227,10 @@
 - [pinterest/PINRemoteImage](../repos/pinterest/PINRemoteImage.md) - A thread safe, performant, feature rich image fetcher
 - [skyhua0224/moonlight-macos-enhanced](../repos/skyhua0224/moonlight-macos-enhanced.md) - Moonlight macOS Enhanced - native Moonlight for macOS client for Sunshine and Foundation Sunshine...
 - [pilotmoon/Scroll-Reverser](../repos/pilotmoon/Scroll-Reverser.md) - Per-device scrolling prefs on macOS.
+- [googlemaps/google-maps-ios-utils](../repos/googlemaps/google-maps-ios-utils.md) - Google Maps SDK for iOS Utility Library
+- [donato-fiore/TrollDecrypt](../repos/donato-fiore/TrollDecrypt.md) - iOS IPA Decrypter for TrollStore
+- [pinterest/PINCache](../repos/pinterest/PINCache.md) - Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.553Z*
+*Last updated: 2026-09-21T21:01:49.879Z*

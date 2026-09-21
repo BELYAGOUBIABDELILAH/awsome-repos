@@ -1,6 +1,6 @@
 # krillinai&#x2F;OpenCreator
 
-> Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place.
+> Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;krillinai&#x2F;OpenCreator) 
 
@@ -11,14 +11,14 @@
 | | |
 |---|---|
 | **Language** | TypeScript |
-| **License** | Not specified |
-| **Stars** | ⭐ 11,939 |
-| **Forks** | 🍴 1,191 |
-| **Trending Days** | 1 |
+| **License** | Apache-2.0 |
+| **Stars** | ⭐ 12,061 |
+| **Forks** | 🍴 1,220 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 20, 2026 |
-| **Last Seen** | Sep 20, 2026 |
+| **Last Seen** | Sep 21, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Trending Days**: 2
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 40&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-20T21:01:50.120Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-21T21:01:57.289Z*  
+*Data from 2 trending reports*

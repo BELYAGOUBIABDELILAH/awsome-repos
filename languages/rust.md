@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 183
+- **Total Repositories**: 184
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-10
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/pingora](../repos/cloudflare/pingora.md) | ⭐ 27,490 | 2026-08-07 | 2 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 29,237 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 11,298 | 2026-08-09 | 9 |
+| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,827 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/datafusion](../repos/apache/datafusion.md) | ⭐ 9,334 | 2026-08-10 | 3 |
+| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 15,793 | 2026-08-10 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 7,317 | 2026-08-17 | 6 |
+| [apache/datafusion](../repos/apache/datafusion.md) | ⭐ 9,343 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/quiche](../repos/cloudflare/quiche.md) | ⭐ 12,136 | 2026-08-19 | 3 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 40,011 | 2026-08-10 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xai-org/x-algorithm](../repos/xai-org/x-algorithm.md) | ⭐ 33,300 | 2026-09-03 | 2 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 7,613 | 2026-08-17 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | 3 |
+| [cloudflare/quiche](../repos/cloudflare/quiche.md) | ⭐ 12,312 | 2026-08-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yynxxxxx/Codex-X](../repos/yynxxxxx/Codex-X.md) | ⭐ 3,551 | 2026-09-19 | 2 |
+| [xai-org/x-algorithm](../repos/xai-org/x-algorithm.md) | ⭐ 33,338 | 2026-09-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yyjeqhc/webcodex](../repos/yyjeqhc/webcodex.md) | ⭐ 1,502 | 2026-09-19 | 2 |
+| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 14,597 | 2026-09-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EpicGames/lore](../repos/EpicGames/lore.md) | ⭐ 8,701 | 2026-09-19 | 2 |
+| [feigeCode/navop](../repos/feigeCode/navop.md) | ⭐ 1,454 | 2026-09-10 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [windmill-labs/windmill](../repos/windmill-labs/windmill.md) | ⭐ 17,662 | 2026-08-22 | Open-source developer platform to power your entire infra and turn scripts into webhooks, workflo... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [spacedriveapp/spacedrive](../repos/spacedriveapp/spacedrive.md) | ⭐ 38,820 | 2026-08-22 | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed files... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [slint-ui/slint](../repos/slint-ui/slint.md) | ⭐ 23,730 | 2026-08-23 | Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, Ja... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [confeden/Antigravity](../repos/confeden/Antigravity.md) | ⭐ 443 | 2026-08-25 | Antigravity в России без VPN и смены региона аккаунта Google |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [transact-rs/sqlx](../repos/transact-rs/sqlx.md) | ⭐ 17,472 | 2026-08-25 | 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries wit... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 7,642 | 2026-08-26 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
 
 
 ---
@@ -116,11 +116,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [openai/codex](../repos/openai/codex.md) | 11 | ⭐ 123,093 | 2026-08-01 | 2026-09-10 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 11 | ⭐ 29,237 | 2026-08-03 | 2026-09-21 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 11 | ⭐ 93,786 | 2026-08-09 | 2026-09-14 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 11 | ⭐ 40,011 | 2026-08-10 | 2026-09-21 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 10 | ⭐ 19,259 | 2026-08-01 | 2026-09-12 |
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 10 | ⭐ 28,668 | 2026-08-03 | 2026-09-08 |
 | [rustfs/rustfs](../repos/rustfs/rustfs.md) | 10 | ⭐ 33,302 | 2026-08-09 | 2026-09-19 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 10 | ⭐ 39,743 | 2026-08-10 | 2026-09-13 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 9 | ⭐ 11,298 | 2026-08-09 | 2026-09-20 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 8 | ⭐ 118,860 | 2026-07-30 | 2026-09-14 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 8 | ⭐ 42,307 | 2026-08-02 | 2026-09-09 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.570Z*
+*Last updated: 2026-09-21T21:01:49.893Z*

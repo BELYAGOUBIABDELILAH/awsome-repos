@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 236
+- **Total Repositories**: 240
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-20
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,215 | 2026-07-30 | 19 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 129,089 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 128,962 | 2026-08-01 | 24 |
+| [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) | ⭐ 8,952 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [doitsujin/dxvk](../repos/doitsujin/dxvk.md) | ⭐ 18,117 | 2026-08-03 | 5 |
+| [ValveSoftware/Proton](../repos/ValveSoftware/Proton.md) | ⭐ 32,852 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TrinityCore/TrinityCore](../repos/TrinityCore/TrinityCore.md) | ⭐ 10,780 | 2026-08-03 | 3 |
+| [luau-lang/luau](../repos/luau-lang/luau.md) | ⭐ 5,887 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) | ⭐ 8,943 | 2026-08-03 | 7 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,331 | 2026-08-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ml-explore/mlx](../repos/ml-explore/mlx.md) | ⭐ 28,496 | 2026-08-06 | 7 |
+| [tdlib/td](../repos/tdlib/td.md) | ⭐ 9,112 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,948 | 2026-08-06 | 5 |
+| [awalol/DS5Dongle](../repos/awalol/DS5Dongle.md) | ⭐ 2,801 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BruceDevices/firmware](../repos/BruceDevices/firmware.md) | ⭐ 6,789 | 2026-08-08 | 6 |
+| [Vita3K/Vita3K](../repos/Vita3K/Vita3K.md) | ⭐ 5,739 | 2026-08-23 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xbmc/xbmc](../repos/xbmc/xbmc.md) | ⭐ 21,236 | 2026-08-10 | 3 |
+| [monero-project/monero](../repos/monero-project/monero.md) | ⭐ 10,864 | 2026-09-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keepassxreboot/keepassxc](../repos/keepassxreboot/keepassxc.md) | ⭐ 28,887 | 2026-08-12 | 2 |
+| [f4exb/sdrangel](../repos/f4exb/sdrangel.md) | ⭐ 4,048 | 2026-09-21 | 1 |
 
 
 ---
@@ -52,22 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [OpenHD/OpenHD](../repos/OpenHD/OpenHD.md) | ⭐ 2,641 | 2026-08-22 | OpenHD |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [facebook/folly](../repos/facebook/folly.md) | ⭐ 30,506 | 2026-08-22 | An open-source C++ library developed and used at Facebook. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ZLMediaKit/ZLMediaKit](../repos/ZLMediaKit/ZLMediaKit.md) | ⭐ 17,495 | 2026-08-22 | WebRTC&#x2F;RTSP&#x2F;RTMP&#x2F;HTTP&#x2F;HLS&#x2F;HTTP-FLV&#x2F;WebSocket-FLV&#x2F;HTTP-TS&#x2F;HTTP-fMP4&#x2F;WebSocket-TS&#x2F;WebSocket-fMP4&#x2F;GB... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [ran-j/PS2Recomp](../repos/ran-j/PS2Recomp.md) | ⭐ 3,191 | 2026-08-23 | Playstation 2 Static Recompiler &amp; Runtime Tool to make native PC ports |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ValveSoftware/source-sdk-2013](../repos/ValveSoftware/source-sdk-2013.md) | ⭐ 9,939 | 2026-08-23 | The 2013 edition of the Source SDK |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Vita3K/Vita3K](../repos/Vita3K/Vita3K.md) | ⭐ 5,735 | 2026-08-23 | Experimental PlayStation Vita emulator |
+| [Vita3K/Vita3K](../repos/Vita3K/Vita3K.md) | ⭐ 5,739 | 2026-08-23 | Experimental PlayStation Vita emulator |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [edin45/simple_photogrammetry_gui](../repos/edin45/simple_photogrammetry_gui.md) | ⭐ 559 | 2026-08-24 |  |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [xenia-project/xenia](../repos/xenia-project/xenia.md) | ⭐ 9,640 | 2026-08-24 | Xbox 360 Emulator Research Project |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,402 | 2026-08-25 | CUDA Templates and Python DSLs for High-Performance Linear Algebra |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [project-chip/connectedhomeip](../repos/project-chip/connectedhomeip.md) | ⭐ 8,922 | 2026-08-25 | Matter (formerly Project CHIP) creates more connections between more objects, simplifying develop... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [M2Team/NanaZip](../repos/M2Team/NanaZip.md) | ⭐ 15,416 | 2026-08-25 | The 7-Zip derivative intended for the modern Windows experience |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,215 | 2026-07-30 | 19 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 128,962 | 2026-08-01 | 24 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 129,089 | 2026-08-01 | 25 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | 2026-08-04 | 4 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 117,022 | 2026-08-01 | 9 |
@@ -106,7 +106,7 @@
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,533 | 2026-08-19 | 8 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,206 | 2026-08-09 | 6 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,331 | 2026-08-09 | 7 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,679 | 2026-08-02 | 5 |
 
 ---
@@ -115,7 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 24 | ⭐ 128,962 | 2026-08-01 | 2026-09-20 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 25 | ⭐ 129,089 | 2026-08-01 | 2026-09-21 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 19 | ⭐ 200,215 | 2026-07-30 | 2026-09-20 |
 | [google/googletest](../repos/google/googletest.md) | 14 | ⭐ 39,551 | 2026-08-04 | 2026-09-19 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 13 | ⭐ 76,148 | 2026-08-08 | 2026-09-10 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.503Z*
+*Last updated: 2026-09-21T21:01:49.839Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PowerShell |
 | **License** | MIT |
-| **Stars** | ⭐ 36,508 |
-| **Forks** | 🍴 5,052 |
-| **Trending Days** | 19 |
+| **Stars** | ⭐ 36,799 |
+| **Forks** | 🍴 5,111 |
+| **Trending Days** | 20 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 19, 2026 |
+| **Last Seen** | Sep 21, 2026 |
 
 
 ---
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 19
+- **Trending Days**: 20
 - **Longest Streak**: 6 days
 
 ---
@@ -75,7 +75,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:46.429Z*  
-*Data from 19 trending reports*
+*Last updated: 2026-09-21T21:01:51.275Z*  
+*Data from 20 trending reports*

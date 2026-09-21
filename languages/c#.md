@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 153
+- **Total Repositories**: 154
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-20
+- **Last Updated**: 2026-09-21
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,456 | 2026-08-01 | 14 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,280 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 116,584 | 2026-08-02 | 20 |
+| [openutau/OpenUtau](../repos/openutau/OpenUtau.md) | ⭐ 4,318 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 28,387 | 2026-08-02 | 23 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 116,644 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 6,103 | 2026-08-02 | 11 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 28,548 | 2026-08-02 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LavaGang/MelonLoader](../repos/LavaGang/MelonLoader.md) | ⭐ 4,201 | 2026-08-02 | 4 |
+| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,660 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 15,604 | 2026-08-02 | 15 |
+| [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | ⭐ 3,151 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,292 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TechnitiumSoftware/DnsServer](../repos/TechnitiumSoftware/DnsServer.md) | ⭐ 9,942 | 2026-08-12 | 7 |
+| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,863 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NickvisionApps/Parabolic](../repos/NickvisionApps/Parabolic.md) | ⭐ 7,112 | 2026-08-14 | 4 |
+| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 8,689 | 2026-08-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rocksdanister/lively](../repos/rocksdanister/lively.md) | ⭐ 19,643 | 2026-08-23 | 5 |
+| [builtbybel/FlyOOBE](../repos/builtbybel/FlyOOBE.md) | ⭐ 7,345 | 2026-08-11 | 3 |
 
 
 ---
@@ -52,25 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cyanfish/naps2](../repos/cyanfish/naps2.md) | ⭐ 4,448 | 2026-08-22 | Scan documents to PDF and more, as simply as possible. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [4sval/FModel](../repos/4sval/FModel.md) | ⭐ 3,082 | 2026-08-22 | Unreal Engine Archives Explorer |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [builtbybel/FluentTweaker](../repos/builtbybel/FluentTweaker.md) | ⭐ 3,477 | 2026-08-22 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | A Swiss Army knife for developers. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [Facepunch/sbox-public](../repos/Facepunch/sbox-public.md) | ⭐ 6,454 | 2026-08-23 | s&amp;box is a modern game engine, built on Valve&#39;s Source 2 and the latest .NET technology, it provi... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rocksdanister/lively](../repos/rocksdanister/lively.md) | ⭐ 19,643 | 2026-08-23 | Free and open-source software that allows users to set animated desktop wallpapers and screensave... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Orbmu2k/nvidiaProfileInspector](../repos/Orbmu2k/nvidiaProfileInspector.md) | ⭐ 7,112 | 2026-08-23 |  |
+| [Orbmu2k/nvidiaProfileInspector](../repos/Orbmu2k/nvidiaProfileInspector.md) | ⭐ 7,275 | 2026-08-23 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Greedeks/GTweak](../repos/Greedeks/GTweak.md) | ⭐ 1,621 | 2026-08-24 | Portable Tool for an Ideal Windows Setup |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [builtbybel/CrapFixer](../repos/builtbybel/CrapFixer.md) | ⭐ 2,461 | 2026-08-25 | Cr*ap Fixer |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [quasar/Quasar](../repos/quasar/Quasar.md) | ⭐ 9,907 | 2026-08-26 | Remote Administration Tool for Windows |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [TeamWheelWizard/WheelWizard](../repos/TeamWheelWizard/WheelWizard.md) | ⭐ 688 | 2026-08-27 | WheelWizard, Retro Rewind Launcher |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SirDiabo/GithubLauncher](../repos/SirDiabo/GithubLauncher.md) | ⭐ 1,560 | 2026-08-27 | A Launcher that Downloads and Updates Applications from Github Releases |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,880 | 2026-08-27 | Bring macOS “Quick Look” feature to Windows |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 116,584 | 2026-08-02 | 20 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 116,644 | 2026-08-02 | 21 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,905 | 2026-08-02 | 17 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,363 | 2026-08-06 | 10 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,350 | 2026-08-01 | 9 |
@@ -100,11 +100,11 @@
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 30,364 | 2026-08-01 | 14 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,578 | 2026-08-05 | 9 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 28,387 | 2026-08-02 | 23 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 28,548 | 2026-08-02 | 24 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,603 | 2026-08-10 | 3 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,096 | 2026-08-01 | 6 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,058 | 2026-08-02 | 6 |
-| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,848 | 2026-08-27 | 4 |
+| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,880 | 2026-08-27 | 5 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,677 | 2026-08-01 | 9 |
 | [BluePointLilac/ContextMenuManager](../repos/BluePointLilac/ContextMenuManager.md) | ⭐ 20,102 | 2026-09-08 | 2 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 23 | ⭐ 28,387 | 2026-08-02 | 2026-09-20 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 20 | ⭐ 116,584 | 2026-08-02 | 2026-09-20 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 24 | ⭐ 28,548 | 2026-08-02 | 2026-09-21 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 21 | ⭐ 116,644 | 2026-08-02 | 2026-09-21 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 18 | ⭐ 5,445 | 2026-08-03 | 2026-09-19 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 17 | ⭐ 56,905 | 2026-08-02 | 2026-09-10 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 15 | ⭐ 15,604 | 2026-08-02 | 2026-09-20 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 14 | ⭐ 30,364 | 2026-08-01 | 2026-09-09 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 14 | ⭐ 38,456 | 2026-08-01 | 2026-09-20 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | 14 | ⭐ 18,292 | 2026-08-04 | 2026-09-21 |
 | [microsoft/aspire](../repos/microsoft/aspire.md) | 14 | ⭐ 6,317 | 2026-08-05 | 2026-09-19 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 13 | ⭐ 3,668 | 2026-08-01 | 2026-09-12 |
-| [dotnet/runtime](../repos/dotnet/runtime.md) | 13 | ⭐ 18,269 | 2026-08-04 | 2026-09-13 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.495Z*
+*Last updated: 2026-09-21T21:01:49.836Z*

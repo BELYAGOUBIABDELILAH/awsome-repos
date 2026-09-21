@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 29
+- **Total Repositories**: 30
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-20
 
@@ -16,28 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,674 | 2026-08-01 | 37 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,178 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,744 | 2026-08-01 | 18 |
+| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 298 | 2026-08-08 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,059 | 2026-08-01 | 37 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,178 | 2026-08-01 | 16 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,819 | 2026-08-01 | 33 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [agda/agda](../repos/agda/agda.md) | ⭐ 2,928 | 2026-08-03 | 20 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,078 | 2026-08-05 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 297 | 2026-08-08 | 18 |
+| [qualcomm/QAIC](../repos/qualcomm/QAIC.md) | ⭐ 22 | 2026-09-21 | 1 |
 
 
 ---
@@ -53,6 +38,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [carp-lang/Carp](../repos/carp-lang/Carp.md) | ⭐ 6,030 | 2026-09-04 | A statically typed lisp, without a GC, for real-time applications. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [qualcomm/QAIC](../repos/qualcomm/QAIC.md) | ⭐ 22 | 2026-09-21 |  |
 
 
 ---
@@ -69,7 +57,7 @@
 | [carp-lang/Carp](../repos/carp-lang/Carp.md) | ⭐ 6,030 | 2026-09-04 | 1 |
 | [digitallyinduced/ihp](../repos/digitallyinduced/ihp.md) | ⭐ 5,330 | 2026-08-02 | 1 |
 | [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,078 | 2026-08-05 | 6 |
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,178 | 2026-08-01 | 16 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,178 | 2026-08-01 | 17 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,955 | 2026-08-01 | 12 |
 | [agda/agda](../repos/agda/agda.md) | ⭐ 2,928 | 2026-08-03 | 20 |
 | [wireapp/wire-server](../repos/wireapp/wire-server.md) | ⭐ 2,783 | 2026-08-04 | 2 |
@@ -92,9 +80,9 @@
 | [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 37 | ⭐ 40,059 | 2026-08-01 | 2026-09-20 |
 | [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 33 | ⭐ 1,819 | 2026-08-01 | 2026-09-20 |
 | [agda/agda](../repos/agda/agda.md) | 20 | ⭐ 2,928 | 2026-08-03 | 2026-09-20 |
+| [mtolly/onyx](../repos/mtolly/onyx.md) | 19 | ⭐ 298 | 2026-08-08 | 2026-09-21 |
 | [haskell/cabal](../repos/haskell/cabal.md) | 18 | ⭐ 1,744 | 2026-08-01 | 2026-09-20 |
-| [mtolly/onyx](../repos/mtolly/onyx.md) | 18 | ⭐ 297 | 2026-08-08 | 2026-09-20 |
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 16 | ⭐ 3,178 | 2026-08-01 | 2026-09-20 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 17 | ⭐ 3,178 | 2026-08-01 | 2026-09-21 |
 | [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | 14 | ⭐ 2,565 | 2026-08-03 | 2026-09-13 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 12 | ⭐ 2,955 | 2026-08-01 | 2026-09-14 |
 | [digital-asset/daml](../repos/digital-asset/daml.md) | 10 | ⭐ 917 | 2026-08-01 | 2026-09-19 |
@@ -132,7 +120,8 @@
 - [haskell-servant/servant](../repos/haskell-servant/servant.md) - Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications...
 - [augustss/MicroHs](../repos/augustss/MicroHs.md) - Haskell implemented with combinators
 - [carp-lang/Carp](../repos/carp-lang/Carp.md) - A statically typed lisp, without a GC, for real-time applications.
+- [qualcomm/QAIC](../repos/qualcomm/QAIC.md) - 
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.530Z*
+*Last updated: 2026-09-21T21:01:49.861Z*

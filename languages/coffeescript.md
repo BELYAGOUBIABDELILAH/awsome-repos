@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 5
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-20
+- **Last Updated**: 2026-09-21
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,611 | 2026-08-01 | 14 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,611 | 2026-08-01 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,058 | 2026-08-01 | 28 |
 
 
 ---
@@ -32,10 +35,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,611 | 2026-08-01 | 14 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,611 | 2026-08-01 | 15 |
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,764 | 2026-08-01 | 2 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,598 | 2026-08-09 | 2 |
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,053 | 2026-08-01 | 27 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,058 | 2026-08-01 | 28 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | 8 |
 
 ---
@@ -44,8 +47,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 27 | ⭐ 16,053 | 2026-08-01 | 2026-09-19 |
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 14 | ⭐ 22,611 | 2026-08-01 | 2026-09-20 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 28 | ⭐ 16,058 | 2026-08-01 | 2026-09-21 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 15 | ⭐ 22,611 | 2026-08-01 | 2026-09-21 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 8 | ⭐ 1,151 | 2026-08-06 | 2026-08-24 |
 | [mojs/mojs](../repos/mojs/mojs.md) | 2 | ⭐ 18,764 | 2026-08-01 | 2026-09-07 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | 2 | ⭐ 16,598 | 2026-08-09 | 2026-09-07 |
@@ -62,4 +65,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.508Z*
+*Last updated: 2026-09-21T21:01:49.843Z*

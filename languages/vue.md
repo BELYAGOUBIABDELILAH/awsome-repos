@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,269 | 2026-08-01 | 19 |
+| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 255 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,387 | 2026-08-01 | 13 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,962 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 256 | 2026-08-01 | 9 |
+| [inovector/mixpost](../repos/inovector/mixpost.md) | ⭐ 3,731 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,305 | 2026-08-01 | 18 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,497 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,958 | 2026-08-01 | 20 |
+| [VueTorrent/VueTorrent](../repos/VueTorrent/VueTorrent.md) | ⭐ 6,968 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 443 | 2026-08-02 | 25 |
+| [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,816 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,430 | 2026-08-08 | 17 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,359 | 2026-08-03 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Rule-34/App](../repos/Rule-34/App.md) | ⭐ 376 | 2026-08-16 | 4 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,484 | 2026-08-08 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hanshuaikang/AI-Media2Doc](../repos/hanshuaikang/AI-Media2Doc.md) | ⭐ 4,025 | 2026-08-19 | 2 |
+| [OpenListTeam/OpenList-Desktop](../repos/OpenListTeam/OpenList-Desktop.md) | ⭐ 1,456 | 2026-08-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [1sdv/TripStar](../repos/1sdv/TripStar.md) | ⭐ 2,281 | 2026-09-04 | 3 |
+| [hefengxian/my-ielts](../repos/hefengxian/my-ielts.md) | ⭐ 3,362 | 2026-08-19 | 12 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | A high quality UI Toolkit built on Vue.js 2.0 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [youlaitech/vue3-element-admin](../repos/youlaitech/vue3-element-admin.md) | ⭐ 2,570 | 2026-08-22 | 🔥基于 Vue 3 + Vite 7+ TypeScript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,314 | 2026-08-23 | PowerPoint-ist（&#x2F;&#39;pauəpɔintist&#x2F;）, An online presentation application that replicates most of the c... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [build-admin/buildadmin](../repos/build-admin/buildadmin.md) | ⭐ 2,375 | 2026-09-02 | 可视化生成CRUD代码、内置WEB终端、workerman常驻内存运行支持，技术栈为Vue3.x(setup)+ThinkPHP8+TypeScript+Vite+Pinia+Element P... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [1sdv/TripStar](../repos/1sdv/TripStar.md) | ⭐ 2,286 | 2026-09-04 | 旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的各种问题，为提供一站式旅游攻略而生。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [miragecoa/AI-Cubby](../repos/miragecoa/AI-Cubby.md) | ⭐ 319 | 2026-09-06 | Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for image... |
 
 
 ---
@@ -90,12 +90,12 @@
 |------------|-------|------------|---------------|
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,186 | 2026-08-01 | 11 |
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,045 | 2026-08-01 | 9 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,482 | 2026-08-01 | 29 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,497 | 2026-08-01 | 30 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,305 | 2026-08-01 | 18 |
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,942 | 2026-08-01 | 25 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,430 | 2026-08-08 | 17 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,958 | 2026-08-01 | 20 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,484 | 2026-08-08 | 18 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,962 | 2026-08-01 | 21 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,637 | 2026-08-02 | 12 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,715 | 2026-08-02 | 17 |
@@ -104,9 +104,9 @@
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,749 | 2026-08-12 | 4 |
 | [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,550 | 2026-08-17 | 5 |
 | [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 9,993 | 2026-08-04 | 11 |
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,349 | 2026-08-03 | 14 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,359 | 2026-08-03 | 15 |
 | [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,314 | 2026-08-23 | 7 |
-| [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,844 | 2026-08-03 | 2 |
+| [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,816 | 2026-08-03 | 3 |
 | [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,705 | 2026-08-08 | 6 |
 
 ---
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 29 | ⭐ 33,482 | 2026-08-01 | 2026-09-19 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 30 | ⭐ 33,497 | 2026-08-01 | 2026-09-21 |
 | [requarks/wiki](../repos/requarks/wiki.md) | 25 | ⭐ 28,942 | 2026-08-01 | 2026-09-19 |
 | [RikkaApps/websites](../repos/RikkaApps/websites.md) | 25 | ⭐ 443 | 2026-08-02 | 2026-09-20 |
 | [frappe/crm](../repos/frappe/crm.md) | 21 | ⭐ 3,529 | 2026-08-01 | 2026-09-14 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 20 | ⭐ 21,958 | 2026-08-01 | 2026-09-20 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 21 | ⭐ 21,962 | 2026-08-01 | 2026-09-21 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 19 | ⭐ 4,269 | 2026-08-01 | 2026-09-20 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 18 | ⭐ 33,305 | 2026-08-01 | 2026-09-20 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 18 | ⭐ 2,336 | 2026-08-02 | 2026-09-14 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 18 | ⭐ 23,484 | 2026-08-08 | 2026-09-21 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 17 | ⭐ 16,715 | 2026-08-02 | 2026-09-14 |
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 17 | ⭐ 1,900 | 2026-08-02 | 2026-09-19 |
 
 ---
 
@@ -218,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.591Z*
+*Last updated: 2026-09-21T21:01:49.909Z*

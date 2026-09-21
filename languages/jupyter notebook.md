@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [higgsfield-ai/higgsfield](../repos/higgsfield-ai/higgsfield.md) | ⭐ 5,320 | 2026-09-19 | 2 |
 
+*No Jupyter Notebook repositories trending today*
 
 ---
 
@@ -58,4 +56,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.538Z*
+*Last updated: 2026-09-21T21:01:49.868Z*

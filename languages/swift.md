@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 109
+- **Total Repositories**: 112
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-20
+- **Last Updated**: 2026-09-21
 
 ---
 
@@ -16,43 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 12,292 | 2026-08-01 | 19 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 12,313 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 6,487 | 2026-08-01 | 10 |
+| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,834 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 8,986 | 2026-08-02 | 9 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,536 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rooootdev/lara](../repos/rooootdev/lara.md) | ⭐ 1,529 | 2026-08-03 | 5 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,373 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,364 | 2026-08-05 | 12 |
+| [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jipika/WaifuX](../repos/jipika/WaifuX.md) | ⭐ 1,396 | 2026-08-20 | 3 |
+| [nightscout/Trio](../repos/nightscout/Trio.md) | ⭐ 389 | 2026-09-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,262 | 2026-09-01 | 3 |
+| [microsoft/ZoomitForMac](../repos/microsoft/ZoomitForMac.md) | ⭐ 1,045 | 2026-09-21 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
+| [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 378 | 2026-09-21 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Manic-EMU/ManicEMU](../repos/Manic-EMU/ManicEMU.md) | ⭐ 524 | 2026-09-07 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [rooootdev/mond](../repos/rooootdev/mond.md) | ⭐ 641 | 2026-09-20 | 1 |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 5,483 | 2026-09-21 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ronitsingh10/FineTune](../repos/ronitsingh10/FineTune.md) | ⭐ 9,104 | 2026-08-22 | FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, an... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ob-f/OpenBot](../repos/ob-f/OpenBot.md) | ⭐ 3,424 | 2026-08-23 | OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric ve... |
@@ -76,10 +70,13 @@
 | [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 3,224 | 2026-09-01 | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,262 | 2026-09-01 | 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Us... |
+| [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Us... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cshariq/Sapphire](../repos/cshariq/Sapphire.md) | ⭐ 175 | 2026-09-02 | The all in one mac app that redefines the notch |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ninxsoft/Mist](../repos/ninxsoft/Mist.md) | ⭐ 5,197 | 2026-09-02 | A Mac utility that automatically downloads macOS Firmwares &#x2F; Installers. |
 
 
 ---
@@ -88,11 +85,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,364 | 2026-08-05 | 12 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,373 | 2026-08-05 | 13 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | 2026-09-04 | 1 |
 | [apple/container](../repos/apple/container.md) | ⭐ 49,834 | 2026-08-01 | 13 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,218 | 2026-08-12 | 6 |
-| [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,262 | 2026-09-01 | 3 |
+| [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,992 | 2026-08-01 | 11 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,866 | 2026-08-04 | 10 |
@@ -115,13 +112,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 19 | ⭐ 12,292 | 2026-08-01 | 2026-09-20 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 20 | ⭐ 12,313 | 2026-08-01 | 2026-09-21 |
 | [apple/container](../repos/apple/container.md) | 13 | ⭐ 49,834 | 2026-08-01 | 2026-09-10 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 13 | ⭐ 14,921 | 2026-08-04 | 2026-09-19 |
-| [swiftlang/swift](../repos/swiftlang/swift.md) | 12 | ⭐ 70,364 | 2026-08-05 | 2026-09-20 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | 13 | ⭐ 70,373 | 2026-08-05 | 2026-09-21 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 11 | ⭐ 26,992 | 2026-08-01 | 2026-09-10 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 11 | ⭐ 3,536 | 2026-08-01 | 2026-09-21 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 10 | ⭐ 6,487 | 2026-08-01 | 2026-09-20 |
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 10 | ⭐ 3,499 | 2026-08-01 | 2026-09-19 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 10 | ⭐ 26,866 | 2026-08-04 | 2026-09-04 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 9 | ⭐ 8,986 | 2026-08-02 | 2026-09-20 |
 | [apple/coreai-models](../repos/apple/coreai-models.md) | 9 | ⭐ 2,126 | 2026-08-12 | 2026-09-19 |
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.579Z*
+*Last updated: 2026-09-21T21:01:49.899Z*

@@ -14,13 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,745 | 2026-08-01 | 35 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,728 | 2026-08-08 | 18 |
 
+*No Erlang repositories trending today*
 
 ---
 
@@ -90,4 +85,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.517Z*
+*Last updated: 2026-09-21T21:01:49.850Z*

@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | C |
+| **Language** | Lua |
 | **License** | Other |
-| **Stars** | ⭐ 3,707 |
-| **Forks** | 🍴 323 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 3,717 |
+| **Forks** | 🍴 325 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 20, 2026 |
-| **Last Seen** | Sep 20, 2026 |
+| **Last Seen** | Sep 21, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in C or similar-topics*
+*Similar: Check repositories in Lua or similar-topics*
 
 ---
 
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Trending Days**: 2
+- **Longest Streak**: 2 days
 
 ---
 
@@ -68,7 +68,7 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Advanced | Requires systems programming knowledge |
+| **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in C
+- Check similar projects in Lua
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 40&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-20T21:01:50.134Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-21T21:01:57.301Z*  
+*Data from 2 trending reports*

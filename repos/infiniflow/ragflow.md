@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 90,459 |
-| **Forks** | 🍴 10,684 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 91,105 |
+| **Forks** | 🍴 10,805 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Sep 10, 2026 |
+| **Last Seen** | Sep 21, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 2 days
 
 ---
@@ -57,10 +57,10 @@
 ## Categories
 
 ### Topics
-[`agent-harness`](../../topics/agent-harness.md) [`agentic-ai`](../../topics/agentic-ai.md) [`agentic-retrieval`](../../topics/agentic-retrieval.md) [`agentic-search`](../../topics/agentic-search.md) [`ai`](../../topics/ai.md) [`ai-agents`](../../topics/ai-agents.md) [`context-engine`](../../topics/context-engine.md) [`context-engineering`](../../topics/context-engineering.md) [`context-management`](../../topics/context-management.md) [`harness-engineering`](../../topics/harness-engineering.md) [`knowledge-compilation`](../../topics/knowledge-compilation.md) [`llm-apps`](../../topics/llm-apps.md) [`rag`](../../topics/rag.md) [`retrieval-augmented-generation`](../../topics/retrieval-augmented-generation.md) 
+[`agent-harness`](../../topics/agent-harness.md) [`agentic-ai`](../../topics/agentic-ai.md) [`agentic-nagive`](../../topics/agentic-nagive.md) [`agentic-retrieval`](../../topics/agentic-retrieval.md) [`agentic-search`](../../topics/agentic-search.md) [`ai`](../../topics/ai.md) [`ai-agents`](../../topics/ai-agents.md) [`context-engine`](../../topics/context-engine.md) [`context-engineering`](../../topics/context-engineering.md) [`context-management`](../../topics/context-management.md) [`harness-engineering`](../../topics/harness-engineering.md) [`knowledge-compilation`](../../topics/knowledge-compilation.md) [`rag`](../../topics/rag.md) [`retrieval-augmented-generation`](../../topics/retrieval-augmented-generation.md) [`search-harness`](../../topics/search-harness.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `Systems Programming` 
+`Artificial Intelligence` `Systems Programming` 
 
 ---
 
@@ -74,7 +74,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:47.825Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-09-21T21:01:52.301Z*  
+*Data from 10 trending reports*

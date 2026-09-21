@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 585
+**Gems Found**: 609
 
 ---
 
@@ -79,7 +79,7 @@
 |---|---|
 | ⭐ **Stars** | 4,402 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 95/100 |
+| 🏆 **Gem Score** | 94/100 |
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 14, 2026 |
 
@@ -111,23 +111,23 @@
 
 ---
 
-### 6. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
+### 6. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
 
-**🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24&#x2F;7. Works with FREE Gemini API or OpenAI. No coding required!**
+**Bonsai Demo**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,084 |
-| 💻 **Language** | JavaScript |
+| ⭐ **Stars** | 2,942 |
+| 💻 **Language** | Shell |
 | 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 14, 2026 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 15, 2026 |
 
-**Why it's a gem**: High growth velocity (+72 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+131 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/darkzOGx/youtube-automation-agent.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;darkzOGx&#x2F;youtube-automation-agent)
+[View Passport](../../repos/PrismML-Eng/Bonsai-demo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PrismML-Eng&#x2F;Bonsai-demo)
 
 ---
 
@@ -191,7 +191,27 @@
 
 ---
 
-### 10. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
+### 10. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
+
+**🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24&#x2F;7. Works with FREE Gemini API or OpenAI. No coding required!**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,084 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 14, 2026 |
+
+**Why it's a gem**: High growth velocity (+72 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/darkzOGx/youtube-automation-agent.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;darkzOGx&#x2F;youtube-automation-agent)
+
+---
+
+### 11. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
 
 **Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.**
 
@@ -203,7 +223,7 @@
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 15, 2026 |
 
-**Why it's a gem**: High growth velocity (+322 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+322 stars&#x2F;day) • Trending 6 times • Strong community engagement
 
 **Best for**: 
 
@@ -211,7 +231,7 @@
 
 ---
 
-### 11. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
+### 12. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
 
 **Open source factory for one-shot engineering**
 
@@ -231,43 +251,23 @@
 
 ---
 
-### 12. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
+### 13. [laoma2053&#x2F;awesome-zhuiju-free](../../repos/laoma2053/awesome-zhuiju-free.md)
 
-**Agent Substrate: the core system**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,971 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 11 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+87 stars&#x2F;day) • Trending 11 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/agent-substrate/substrate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;agent-substrate&#x2F;substrate)
-
----
-
-### 13. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
-
-**The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
+**免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,346 |
-| 💻 **Language** | TypeScript |
+| ⭐ **Stars** | 9,281 |
+| 💻 **Language** | JavaScript |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 6, 2026 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 14, 2026 |
 
-**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+166 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/KnockOutEZ/wigolo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;KnockOutEZ&#x2F;wigolo)
+[View Passport](../../repos/laoma2053/awesome-zhuiju-free.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;laoma2053&#x2F;awesome-zhuiju-free)
 
 ---
 
@@ -291,7 +291,47 @@
 
 ---
 
-### 15. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
+### 15. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
+
+**Agent Substrate: the core system**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,581 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 12 |
+| 📅 **First Seen** | Aug 2, 2026 |
+
+**Why it's a gem**: High growth velocity (+116 stars&#x2F;day) • Trending 12 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/agent-substrate/substrate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;agent-substrate&#x2F;substrate)
+
+---
+
+### 16. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
+
+**The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,346 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/KnockOutEZ/wigolo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;KnockOutEZ&#x2F;wigolo)
+
+---
+
+### 17. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
 
 **ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.**
 
@@ -311,7 +351,7 @@
 
 ---
 
-### 16. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+### 18. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
 
 **Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
 
@@ -331,7 +371,27 @@
 
 ---
 
-### 17. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
+### 19. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
+
+**Give cloud AI agents a real development environment on your own machines.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,627 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 19, 2026 |
+
+**Why it's a gem**: High growth velocity (+137 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/yyjeqhc/webcodex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;yyjeqhc&#x2F;webcodex)
+
+---
+
+### 20. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
 
 **The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.**
 
@@ -351,66 +411,6 @@
 
 ---
 
-### 18. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
-
-**An offline-first photo manager for large local libraries**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,336 |
-| 💻 **Language** | Vue |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 18 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: Trending 18 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/julyx10/lap.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;julyx10&#x2F;lap)
-
----
-
-### 19. [AAswordman&#x2F;Operit](../../repos/AAswordman/Operit.md)
-
-**The most powerful AI agent and AI chat software on Android&#x2F;Operit是一款Android上能力最为强大、发展最久的AI Agent**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 8,033 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Aug 3, 2026 |
-
-**Why it's a gem**: High growth velocity (+44 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/AAswordman/Operit.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;AAswordman&#x2F;Operit)
-
----
-
-### 20. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
-
-**Bonsai Demo**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,849 |
-| 💻 **Language** | Shell |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 15, 2026 |
-
-**Why it's a gem**: High growth velocity (+142 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/PrismML-Eng/Bonsai-demo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PrismML-Eng&#x2F;Bonsai-demo)
-
----
-
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-20T21:01:50.382Z*  
+*Generated: 2026-09-21T21:01:57.527Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

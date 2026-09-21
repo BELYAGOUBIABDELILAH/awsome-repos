@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 195
+- **Total Repositories**: 197
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-20
+- **Last Updated**: 2026-09-21
 
 ---
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,695 | 2026-08-02 | 6 |
+| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 973 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 19,091 | 2026-08-02 | 9 |
+| [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,715 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
+| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,655 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,682 | 2026-08-03 | 5 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,145 | 2026-08-07 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,076 | 2026-08-07 | 11 |
+| [86Box/86Box](../repos/86Box/86Box.md) | ⭐ 4,813 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FWGS/xash3d-fwgs](../repos/FWGS/xash3d-fwgs.md) | ⭐ 2,792 | 2026-08-09 | 3 |
+| [FWGS/xash3d-fwgs](../repos/FWGS/xash3d-fwgs.md) | ⭐ 2,794 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,105 | 2026-08-12 | 8 |
+| [Next-Flip/Momentum-Firmware](../repos/Next-Flip/Momentum-Firmware.md) | ⭐ 9,155 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CTCaer/hekate](../repos/CTCaer/hekate.md) | ⭐ 8,751 | 2026-08-16 | 4 |
+| [PerformanC/ReZygisk](../repos/PerformanC/ReZygisk.md) | ⭐ 3,961 | 2026-09-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [UberGuidoZ/Flipper](../repos/UberGuidoZ/Flipper.md) | ⭐ 17,562 | 2026-08-19 | 3 |
+| [luka-dev/mib2q-carplay-rgi](../repos/luka-dev/mib2q-carplay-rgi.md) | ⭐ 194 | 2026-09-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nmap/nmap](../repos/nmap/nmap.md) | ⭐ 13,642 | 2026-08-19 | 3 |
+| [vladelaina/Catime](../repos/vladelaina/Catime.md) | ⭐ 4,837 | 2026-09-21 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [stackia/rtp2httpd](../repos/stackia/rtp2httpd.md) | ⭐ 2,096 | 2026-08-22 | Multicast RTP&#x2F;RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [aws/s2n-tls](../repos/aws/s2n-tls.md) | ⭐ 4,753 | 2026-08-22 | An implementation of the TLS&#x2F;SSL protocols |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pret/pokefirered](../repos/pret/pokefirered.md) | ⭐ 1,570 | 2026-08-22 | Decompilation of Pokémon FireRed&#x2F;LeafGreen |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sandboxie-plus/Sandboxie](../repos/sandboxie-plus/Sandboxie.md) | ⭐ 19,494 | 2026-08-23 | Sandboxie Plus &amp; Classic |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,410 | 2026-08-24 | A new bootable USB solution. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [OleksandrChekhovskyi/hax](../repos/OleksandrChekhovskyi/hax.md) | ⭐ 650 | 2026-08-25 | A minimalist, terminal-native coding agent written in C. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [streetpea/chiaki-ng](../repos/streetpea/chiaki-ng.md) | ⭐ 2,645 | 2026-08-25 | Next-Generation of Chiaki (the open-source remote play client for PlayStation) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [containers/crun](../repos/containers/crun.md) | ⭐ 4,076 | 2026-08-25 | A fast and lightweight fully featured OCI runtime and C library for running containers |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,076 | 2026-08-07 | 11 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,145 | 2026-08-07 | 12 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,519 | 2026-08-01 | 17 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,410 | 2026-08-24 | 2 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,206 | 2026-08-02 | 13 |
@@ -99,7 +99,7 @@
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,380 | 2026-08-01 | 6 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
-| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,622 | 2026-08-04 | 7 |
+| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,655 | 2026-08-04 | 8 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,682 | 2026-08-03 | 5 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,863 | 2026-09-06 | 3 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,195 | 2026-08-01 | 4 |
@@ -123,8 +123,8 @@
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 15 | ⭐ 6,952 | 2026-08-04 | 2026-09-09 |
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 15 | ⭐ 16,494 | 2026-08-06 | 2026-09-12 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 13 | ⭐ 76,206 | 2026-08-02 | 2026-09-14 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 12 | ⭐ 150,145 | 2026-08-07 | 2026-09-21 |
 | [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 11 | ⭐ 4,473 | 2026-08-04 | 2026-09-05 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 11 | ⭐ 150,076 | 2026-08-07 | 2026-09-20 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.492Z*
+*Last updated: 2026-09-21T21:01:49.829Z*

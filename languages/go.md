@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 255
+- **Total Repositories**: 257
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-09-08
 
@@ -16,61 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wailsapp/wails](../repos/wailsapp/wails.md) | ⭐ 36,287 | 2026-08-05 | 5 |
+| [golang/go](../repos/golang/go.md) | ⭐ 138,927 | 2026-07-31 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [coder/coder](../repos/coder/coder.md) | ⭐ 15,986 | 2026-08-06 | 4 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 48,608 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [henrygd/beszel](../repos/henrygd/beszel.md) | ⭐ 25,565 | 2026-08-10 | 4 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 51,008 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/minikube](../repos/kubernetes/minikube.md) | ⭐ 32,142 | 2026-08-23 | 2 |
+| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | ⭐ 35,663 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [weave-os/router](../repos/weave-os/router.md) | ⭐ 4,546 | 2026-09-19 | 2 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 2,581 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/tunnel-client](../repos/openai/tunnel-client.md) | ⭐ 449 | 2026-09-19 | 2 |
+| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 75,937 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [guohuiyuan/go-music-dl](../repos/guohuiyuan/go-music-dl.md) | ⭐ 4,602 | 2026-09-20 | 1 |
+| [wailsapp/wails](../repos/wailsapp/wails.md) | ⭐ 36,298 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dagger/dagger](../repos/dagger/dagger.md) | ⭐ 16,278 | 2026-09-20 | 1 |
+| [coder/coder](../repos/coder/coder.md) | ⭐ 16,383 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [screego/server](../repos/screego/server.md) | ⭐ 10,670 | 2026-09-20 | 1 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,105 | 2026-08-06 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vshulcz/deja-vu](../repos/vshulcz/deja-vu.md) | ⭐ 897 | 2026-09-20 | 1 |
+| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 17,374 | 2026-08-06 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cloudnative-pg/cloudnative-pg](../repos/cloudnative-pg/cloudnative-pg.md) | ⭐ 9,177 | 2026-08-22 | The most popular Kubernetes Operator for PostgreSQL. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,190 | 2026-08-22 | Distributed reliable key-value store for the most critical data of a distributed system |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [alibaba/skill-up](../repos/alibaba/skill-up.md) | ⭐ 664 | 2026-08-22 | An evaluation and evolution tool for Agent Skills. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [envoyproxy/ai-gateway](../repos/envoyproxy/ai-gateway.md) | ⭐ 1,948 | 2026-08-22 | Manages Unified Access to Generative AI Services built on Envoy Gateway |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [open-telemetry/opentelemetry-collector](../repos/open-telemetry/opentelemetry-collector.md) | ⭐ 7,442 | 2026-08-22 | OpenTelemetry Collector |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ethereum-optimism/optimism](../repos/ethereum-optimism/optimism.md) | ⭐ 6,464 | 2026-08-22 | Optimism is Ethereum, scaled. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [go-task/task](../repos/go-task/task.md) | ⭐ 16,023 | 2026-08-22 | A fast, cross-platform build tool inspired by Make, designed for modern workflows. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kubernetes/minikube](../repos/kubernetes/minikube.md) | ⭐ 32,142 | 2026-08-23 | Run Kubernetes locally |
@@ -80,6 +59,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [evanw/esbuild](../repos/evanw/esbuild.md) | ⭐ 40,014 | 2026-08-23 | An extremely fast bundler for the web |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [open-policy-agent/opa](../repos/open-policy-agent/opa.md) | ⭐ 12,162 | 2026-08-23 | Open Policy Agent (OPA) is an open source, general-purpose policy engine. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [gastownhall/gastown](../repos/gastownhall/gastown.md) | ⭐ 17,902 | 2026-08-23 | Gas Town - multi-agent workspace manager |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | Open Source realtime backend in 1 file |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google/adk-go](../repos/google/adk-go.md) | ⭐ 8,701 | 2026-08-25 | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI ag... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [grafana/alloy](../repos/grafana/alloy.md) | ⭐ 3,480 | 2026-08-25 | OpenTelemetry Collector distribution with programmable pipelines |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Armur-Ai/Pentest-Swarm-AI](../repos/Armur-Ai/Pentest-Swarm-AI.md) | ⭐ 2,363 | 2026-08-25 | Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, ex... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [majd/ipatool](../repos/majd/ipatool.md) | ⭐ 9,912 | 2026-08-25 | Command-line tool that allows searching and downloading app packages (known as ipa files) from th... |
 
 
 ---
@@ -89,14 +89,14 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,475 | 2026-08-01 | 13 |
-| [golang/go](../repos/golang/go.md) | ⭐ 137,097 | 2026-07-31 | 7 |
+| [golang/go](../repos/golang/go.md) | ⭐ 138,927 | 2026-07-31 | 8 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 127,708 | 2026-08-04 | 5 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,971 | 2026-08-15 | 5 |
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 90,459 | 2026-08-06 | 9 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,105 | 2026-08-06 | 10 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,506 | 2026-08-12 | 7 |
-| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 74,891 | 2026-08-03 | 3 |
+| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 75,937 | 2026-08-03 | 4 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 72,088 | 2026-08-04 | 4 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | 2026-08-07 | 2 |
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,012 | 2026-08-11 | 5 |
@@ -104,10 +104,10 @@
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,190 | 2026-08-22 | 2 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 50,456 | 2026-08-01 | 11 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 51,008 | 2026-08-01 | 12 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,527 | 2026-08-06 | 6 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 47,824 | 2026-08-01 | 13 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 48,608 | 2026-08-01 | 14 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 17 | ⭐ 27,208 | 2026-08-01 | 2026-09-19 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 14 | ⭐ 48,608 | 2026-08-01 | 2026-09-21 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 14 | ⭐ 42,026 | 2026-08-07 | 2026-09-19 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 13 | ⭐ 47,824 | 2026-08-01 | 2026-09-10 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 13 | ⭐ 180,475 | 2026-08-01 | 2026-09-08 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 12 | ⭐ 51,008 | 2026-08-01 | 2026-09-21 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 12 | ⭐ 37,782 | 2026-08-01 | 2026-09-04 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 11 | ⭐ 50,456 | 2026-08-01 | 2026-09-19 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 11 | ⭐ 1,971 | 2026-08-02 | 2026-09-19 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 12 | ⭐ 2,581 | 2026-08-02 | 2026-09-21 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 10 | ⭐ 91,105 | 2026-08-06 | 2026-09-21 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 10 | ⭐ 37,169 | 2026-08-20 | 2026-09-19 |
-| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 9 | ⭐ 37,994 | 2026-08-03 | 2026-09-14 |
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 9 | ⭐ 90,459 | 2026-08-06 | 2026-09-10 |
+| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 9 | ⭐ 35,663 | 2026-08-02 | 2026-09-21 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.523Z*
+*Last updated: 2026-09-21T21:01:49.855Z*

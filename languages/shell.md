@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 114
+- **Total Repositories**: 116
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,40 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 9,822 | 2026-08-03 | 6 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,684 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,589 | 2026-08-07 | 22 |
+| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,356 | 2026-08-11 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 6,854 | 2026-08-12 | 16 |
+| [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) | ⭐ 2,942 | 2026-08-15 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) | ⭐ 2,849 | 2026-08-15 | 3 |
+| [sabamdarif/termux-desktop](../repos/sabamdarif/termux-desktop.md) | ⭐ 2,268 | 2026-09-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [higgsfield-ai/cli](../repos/higgsfield-ai/cli.md) | ⭐ 562 | 2026-09-19 | 2 |
+| [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) | ⭐ 979 | 2026-09-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akitaonrails/distrobox-gaming](../repos/akitaonrails/distrobox-gaming.md) | ⭐ 303 | 2026-09-19 | 2 |
+| [fscarmen/sing-box](../repos/fscarmen/sing-box.md) | ⭐ 5,689 | 2026-09-21 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Euro-Office/DocumentServer](../repos/Euro-Office/DocumentServer.md) | ⭐ 1,804 | 2026-09-19 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Mr-MIBonk/M.I.B._More-Incredible-Bash](../repos/Mr-MIBonk/M.I.B._More-Incredible-Bash.md) | ⭐ 1,063 | 2026-09-20 | 1 |
+| [wlzh/dji-4g-vohive-mac](../repos/wlzh/dji-4g-vohive-mac.md) | ⭐ 1,062 | 2026-09-21 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ophub/amlogic-s9xxx-openwrt](../repos/ophub/amlogic-s9xxx-openwrt.md) | ⭐ 2,991 | 2026-08-22 | Supports running OpenWrt on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ophub/fnnas](../repos/ophub/fnnas.md) | ⭐ 3,310 | 2026-08-22 | Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3,... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CISOfy/lynis](../repos/CISOfy/lynis.md) | ⭐ 16,222 | 2026-08-24 | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance ... |
@@ -74,6 +65,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,578 | 2026-09-01 | 最好用的 sing-box 一键安装脚本 &amp; 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [raphabot/awesome-cybersecurity-agentic-ai](../repos/raphabot/awesome-cybersecurity-agentic-ai.md) | ⭐ 577 | 2026-09-01 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | Fish-like autosuggestions for zsh |
 
 
 ---
@@ -87,7 +84,7 @@
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,417 | 2026-08-04 | 6 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,261 | 2026-08-06 | 9 |
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,582 | 2026-08-04 | 6 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,684 | 2026-08-04 | 7 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 40,042 | 2026-08-29 | 3 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,222 | 2026-08-20 | 8 |
@@ -227,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.575Z*
+*Last updated: 2026-09-21T21:01:49.896Z*

@@ -7,7 +7,7 @@
 ## All Time
 
 **Period**: Beginning to Present  
-**Gems Found**: 1000
+**Gems Found**: 1016
 
 ---
 
@@ -71,27 +71,7 @@
 
 ---
 
-### 4. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
-
-**Source control for agents. Use multiple coding agents, track their changes and query them in one place**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,402 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 95/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 14, 2026 |
-
-**Why it's a gem**: High growth velocity (+632 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/pacifio/atlas.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas)
-
----
-
-### 5. [google&#x2F;sam](../../repos/google/sam.md)
+### 4. [google&#x2F;sam](../../repos/google/sam.md)
 
 **SAM Sovereign Agent Mesh**
 
@@ -111,27 +91,27 @@
 
 ---
 
-### 6. [zzet&#x2F;gortex](../../repos/zzet/gortex.md)
+### 5. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
-**High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https:&#x2F;&#x2F;discord.gg&#x2F;39MFHu3J5d**
+**Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,427 |
-| 💻 **Language** | Go |
+| ⭐ **Stars** | 4,402 |
+| 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 94/100 |
 | 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 4, 2026 |
+| 📅 **First Seen** | Aug 14, 2026 |
 
-**Why it's a gem**: High growth velocity (+53 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+632 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/zzet/gortex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;zzet&#x2F;gortex)
+[View Passport](../../repos/pacifio/atlas.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas)
 
 ---
 
-### 7. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+### 6. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
 
 **A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
 
@@ -151,23 +131,43 @@
 
 ---
 
-### 8. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
+### 7. [zzet&#x2F;gortex](../../repos/zzet/gortex.md)
 
-**🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24&#x2F;7. Works with FREE Gemini API or OpenAI. No coding required!**
+**High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https:&#x2F;&#x2F;discord.gg&#x2F;39MFHu3J5d**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,084 |
-| 💻 **Language** | JavaScript |
+| ⭐ **Stars** | 1,427 |
+| 💻 **Language** | Go |
 | 🏆 **Gem Score** | 93/100 |
 | 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 14, 2026 |
+| 📅 **First Seen** | Aug 4, 2026 |
 
-**Why it's a gem**: High growth velocity (+72 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+53 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/darkzOGx/youtube-automation-agent.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;darkzOGx&#x2F;youtube-automation-agent)
+[View Passport](../../repos/zzet/gortex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;zzet&#x2F;gortex)
+
+---
+
+### 8. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
+
+**Bonsai Demo**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,942 |
+| 💻 **Language** | Shell |
+| 🏆 **Gem Score** | 93/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 15, 2026 |
+
+**Why it's a gem**: High growth velocity (+131 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/PrismML-Eng/Bonsai-demo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PrismML-Eng&#x2F;Bonsai-demo)
 
 ---
 
@@ -231,7 +231,27 @@
 
 ---
 
-### 12. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
+### 12. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
+
+**🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24&#x2F;7. Works with FREE Gemini API or OpenAI. No coding required!**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,084 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 14, 2026 |
+
+**Why it's a gem**: High growth velocity (+72 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/darkzOGx/youtube-automation-agent.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;darkzOGx&#x2F;youtube-automation-agent)
+
+---
+
+### 13. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
 
 **Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.**
 
@@ -243,7 +263,7 @@
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 15, 2026 |
 
-**Why it's a gem**: High growth velocity (+322 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+322 stars&#x2F;day) • Trending 6 times • Strong community engagement
 
 **Best for**: 
 
@@ -251,7 +271,7 @@
 
 ---
 
-### 13. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
+### 14. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
 
 **Open source factory for one-shot engineering**
 
@@ -271,43 +291,23 @@
 
 ---
 
-### 14. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
+### 15. [laoma2053&#x2F;awesome-zhuiju-free](../../repos/laoma2053/awesome-zhuiju-free.md)
 
-**Agent Substrate: the core system**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,971 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 11 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+87 stars&#x2F;day) • Trending 11 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/agent-substrate/substrate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;agent-substrate&#x2F;substrate)
-
----
-
-### 15. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
-
-**The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
+**免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,346 |
-| 💻 **Language** | TypeScript |
+| ⭐ **Stars** | 9,281 |
+| 💻 **Language** | JavaScript |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 6, 2026 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 14, 2026 |
 
-**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+166 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/KnockOutEZ/wigolo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;KnockOutEZ&#x2F;wigolo)
+[View Passport](../../repos/laoma2053/awesome-zhuiju-free.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;laoma2053&#x2F;awesome-zhuiju-free)
 
 ---
 
@@ -331,7 +331,47 @@
 
 ---
 
-### 17. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
+### 17. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
+
+**Agent Substrate: the core system**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,581 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 12 |
+| 📅 **First Seen** | Aug 2, 2026 |
+
+**Why it's a gem**: High growth velocity (+116 stars&#x2F;day) • Trending 12 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/agent-substrate/substrate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;agent-substrate&#x2F;substrate)
+
+---
+
+### 18. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
+
+**The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,346 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/KnockOutEZ/wigolo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;KnockOutEZ&#x2F;wigolo)
+
+---
+
+### 19. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
 
 **ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.**
 
@@ -351,7 +391,7 @@
 
 ---
 
-### 18. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+### 20. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
 
 **Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
 
@@ -371,7 +411,27 @@
 
 ---
 
-### 19. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
+### 21. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
+
+**Give cloud AI agents a real development environment on your own machines.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,627 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 19, 2026 |
+
+**Why it's a gem**: High growth velocity (+137 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/yyjeqhc/webcodex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;yyjeqhc&#x2F;webcodex)
+
+---
+
+### 22. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
 
 **The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.**
 
@@ -391,27 +451,7 @@
 
 ---
 
-### 20. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
-
-**An offline-first photo manager for large local libraries**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,336 |
-| 💻 **Language** | Vue |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 18 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: Trending 18 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/julyx10/lap.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;julyx10&#x2F;lap)
-
----
-
-### 21. [AAswordman&#x2F;Operit](../../repos/AAswordman/Operit.md)
+### 23. [AAswordman&#x2F;Operit](../../repos/AAswordman/Operit.md)
 
 **The most powerful AI agent and AI chat software on Android&#x2F;Operit是一款Android上能力最为强大、发展最久的AI Agent**
 
@@ -431,27 +471,7 @@
 
 ---
 
-### 22. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
-
-**Bonsai Demo**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,849 |
-| 💻 **Language** | Shell |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 15, 2026 |
-
-**Why it's a gem**: High growth velocity (+142 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/PrismML-Eng/Bonsai-demo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PrismML-Eng&#x2F;Bonsai-demo)
-
----
-
-### 23. [abue-ammar&#x2F;tinycast](../../repos/abue-ammar/tinycast.md)
+### 24. [abue-ammar&#x2F;tinycast](../../repos/abue-ammar/tinycast.md)
 
 **Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.**
 
@@ -471,7 +491,7 @@
 
 ---
 
-### 24. [arcboxlabs&#x2F;arcbox](../../repos/arcboxlabs/arcbox.md)
+### 25. [arcboxlabs&#x2F;arcbox](../../repos/arcboxlabs/arcbox.md)
 
 **Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.**
 
@@ -491,7 +511,7 @@
 
 ---
 
-### 25. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
+### 26. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
 
 **AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing**
 
@@ -511,7 +531,7 @@
 
 ---
 
-### 26. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
+### 27. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
 
 **🧱 Easy fast local-first microVM runtime and library**
 
@@ -531,7 +551,7 @@
 
 ---
 
-### 27. [optiscaler&#x2F;OptiScaler](../../repos/optiscaler/OptiScaler.md)
+### 28. [optiscaler&#x2F;OptiScaler](../../repos/optiscaler/OptiScaler.md)
 
 **OptiScaler bridges upscaling&#x2F;frame gen across GPUs. Supports DLSS2+&#x2F;XeSS&#x2F;FSR2+ inputs, replaces native upscalers, enables FSR-FG&#x2F;XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.**
 
@@ -551,27 +571,27 @@
 
 ---
 
-### 28. [builtbybel&#x2F;FluentCleaner](../../repos/builtbybel/FluentCleaner.md)
+### 29. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
 
-**FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.**
+**An offline-first photo manager for large local libraries**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,103 |
-| 💻 **Language** | C# |
+| ⭐ **Stars** | 2,336 |
+| 💻 **Language** | Vue |
 | 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 11 |
+| 📈 **Trending Days** | 18 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+41 stars&#x2F;day) • Trending 11 times • Very active development • Strong community engagement
+**Why it's a gem**: Trending 18 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/builtbybel/FluentCleaner.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;builtbybel&#x2F;FluentCleaner)
+[View Passport](../../repos/julyx10/lap.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;julyx10&#x2F;lap)
 
 ---
 
-### 29. [itsfatduck&#x2F;optimizerDuck](../../repos/itsfatduck/optimizerDuck.md)
+### 30. [itsfatduck&#x2F;optimizerDuck](../../repos/itsfatduck/optimizerDuck.md)
 
 **Free, open-source Windows optimization tool for performance, privacy, and simplicity.**
 
@@ -591,26 +611,6 @@
 
 ---
 
-### 30. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
-
-**Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode&#x2F;Homebrew&#x2F;system cache cleanup. MIT licensed.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,443 |
-| 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+40 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/momenbasel/PureMac.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;momenbasel&#x2F;PureMac)
-
----
-
 
 ## Scoring Methodology
 
@@ -627,5 +627,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-20T21:01:50.413Z*  
+*Generated: 2026-09-21T21:01:57.547Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -16,25 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 63,363 | 2026-08-01 | 15 |
+| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 11,346 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 97,613 | 2026-08-05 | 20 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 98,101 | 2026-08-05 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 3,368 | 2026-08-07 | 12 |
+| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 8,020 | 2026-08-10 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 7,938 | 2026-08-10 | 5 |
+| [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) | ⭐ 9,281 | 2026-08-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 17,886 | 2026-08-28 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [BuilderIO/skills](../repos/BuilderIO/skills.md) | ⭐ 4,335 | 2026-09-20 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [fspecii/ace-step-ui](../repos/fspecii/ace-step-ui.md) | ⭐ 4,927 | 2026-09-20 | 1 |
+| [fmhy/edit](../repos/fmhy/edit.md) | ⭐ 11,986 | 2026-08-25 | 3 |
 
 
 ---
@@ -58,7 +52,7 @@
 | [FB208/OpenBidKit_Yibiao](../repos/FB208/OpenBidKit_Yibiao.md) | ⭐ 2,854 | 2026-08-25 | 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [fmhy/edit](../repos/fmhy/edit.md) | ⭐ 11,658 | 2026-08-25 | Make changes to FMHY |
+| [fmhy/edit](../repos/fmhy/edit.md) | ⭐ 11,986 | 2026-08-25 | Make changes to FMHY |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nasa-gibs/worldview](../repos/nasa-gibs/worldview.md) | ⭐ 1,841 | 2026-08-26 | Interactive interface for browsing global, full-resolution satellite imagery |
@@ -85,7 +79,7 @@
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,962 | 2026-07-30 | 8 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 97,613 | 2026-08-05 | 20 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 98,101 | 2026-08-05 | 21 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
@@ -106,7 +100,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 20 | ⭐ 97,613 | 2026-08-05 | 2026-09-20 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 21 | ⭐ 98,101 | 2026-08-05 | 2026-09-21 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 16 | ⭐ 43,692 | 2026-08-04 | 2026-09-02 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [byoungd/up](../repos/byoungd/up.md) | 15 | ⭐ 63,363 | 2026-08-01 | 2026-09-20 |
@@ -224,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.535Z*
+*Last updated: 2026-09-21T21:01:49.865Z*

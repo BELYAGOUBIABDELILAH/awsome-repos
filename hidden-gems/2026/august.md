@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 415
+**Gems Found**: 407
 
 ---
 
@@ -39,7 +39,7 @@
 |---|---|
 | ⭐ **Stars** | 1,427 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 94/100 |
+| 🏆 **Gem Score** | 93/100 |
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 4, 2026 |
 
@@ -71,27 +71,7 @@
 
 ---
 
-### 4. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
-
-**Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,251 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 11, 2026 |
-
-**Why it's a gem**: High growth velocity (+524 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/macro-inc/macro.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;macro-inc&#x2F;macro)
-
----
-
-### 5. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
+### 4. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
 
 **OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
 
@@ -111,6 +91,26 @@
 
 ---
 
+### 5. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
+
+**Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,251 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 86/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 11, 2026 |
+
+**Why it's a gem**: High growth velocity (+524 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/macro-inc/macro.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;macro-inc&#x2F;macro)
+
+---
+
 ### 6. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
 
 **Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de&#x2F;plugin-directory-submission.**
@@ -119,7 +119,7 @@
 |---|---|
 | ⭐ **Stars** | 2,146 |
 | 💻 **Language** | Python |
-| 🏆 **Gem Score** | 87/100 |
+| 🏆 **Gem Score** | 86/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 22, 2026 |
 
@@ -131,47 +131,7 @@
 
 ---
 
-### 7. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
-
-**GitHub Stacked PRs**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,047 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+100 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/github/gh-stack.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;github&#x2F;gh-stack)
-
----
-
-### 8. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
-
-**OCTO Android Client — Open-source enterprise IM**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 613 |
-| 💻 **Language** | Java |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 7, 2026 |
-
-**Why it's a gem**: High growth velocity (+45 stars&#x2F;day) • Trending 6 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
-
----
-
-### 9. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
+### 7. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
 
 **Open-source framework for the research and development of foundation models.**
 
@@ -188,6 +148,46 @@
 **Best for**: 
 
 [View Passport](../../repos/marin-community/marin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;marin-community&#x2F;marin)
+
+---
+
+### 8. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+
+**GitHub Stacked PRs**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,047 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 85/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+100 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/github/gh-stack.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;github&#x2F;gh-stack)
+
+---
+
+### 9. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+
+**OCTO Android Client — Open-source enterprise IM**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 613 |
+| 💻 **Language** | Java |
+| 🏆 **Gem Score** | 85/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 7, 2026 |
+
+**Why it's a gem**: High growth velocity (+45 stars&#x2F;day) • Trending 6 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
 
 ---
 
@@ -291,27 +291,7 @@
 
 ---
 
-### 15. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
-
-**BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 971 |
-| 💻 **Language** | Java |
-| 🏆 **Gem Score** | 83/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 8, 2026 |
-
-**Why it's a gem**: Trending 4 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/booklore-app/booklore.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;booklore-app&#x2F;booklore)
-
----
-
-### 16. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
+### 15. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
 
 **Mission control for your AI agents**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
+### 16. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
 
 **BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
 
@@ -348,6 +328,26 @@
 **Best for**: 
 
 [View Passport](../../repos/GCWing/BitFun.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;GCWing&#x2F;BitFun)
+
+---
+
+### 17. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
+
+**BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 971 |
+| 💻 **Language** | Java |
+| 🏆 **Gem Score** | 82/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 8, 2026 |
+
+**Why it's a gem**: Trending 4 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/booklore-app/booklore.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;booklore-app&#x2F;booklore)
 
 ---
 
@@ -371,27 +371,7 @@
 
 ---
 
-### 19. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
-
-**Visualize your year in travel using your Google Location History (Timeline) data**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,684 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 82/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+1084 stars&#x2F;day) • Trending 4 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/mahlernim/google-timeline-visualizer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mahlernim&#x2F;google-timeline-visualizer)
-
----
-
-### 20. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+### 19. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
 
 **Portable Tool for an Ideal Windows Setup**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+
+**Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,237 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 81/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+79 stars&#x2F;day) • Trending 4 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/chenyme/grok2api.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chenyme&#x2F;grok2api)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-20T21:01:50.391Z*  
+*Generated: 2026-09-21T21:01:57.533Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

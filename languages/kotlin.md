@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 137
+- **Total Repositories**: 138
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-13
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,718 | 2026-08-01 | 13 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,468 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zly2006/zhihu-plus-plus](../repos/zly2006/zhihu-plus-plus.md) | ⭐ 4,077 | 2026-08-01 | 5 |
+| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 6,195 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | ⭐ 1,069 | 2026-08-02 | 8 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,716 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 6,178 | 2026-08-02 | 6 |
+| [xororz/local-dream](../repos/xororz/local-dream.md) | ⭐ 3,506 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 8,033 | 2026-08-03 | 7 |
+| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | ⭐ 6,330 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,368 | 2026-08-08 | 14 |
+| [Davidona/StreamVault-IPTV](../repos/Davidona/StreamVault-IPTV.md) | ⭐ 750 | 2026-08-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rushiranpise/morphe-patches](../repos/rushiranpise/morphe-patches.md) | ⭐ 710 | 2026-08-08 | 7 |
+| [XayahSuSuSu/Android-DataBackup](../repos/XayahSuSuSu/Android-DataBackup.md) | ⭐ 7,368 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,740 | 2026-08-12 | 5 |
+| [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 1,122 | 2026-08-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhanghai/MaterialFiles](../repos/zhanghai/MaterialFiles.md) | ⭐ 8,993 | 2026-08-19 | 4 |
+| [zhanghai/MaterialFiles](../repos/zhanghai/MaterialFiles.md) | ⭐ 9,022 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,186 | 2026-09-07 | 3 |
+| [NeoApplications/Neo-Store](../repos/NeoApplications/Neo-Store.md) | ⭐ 5,171 | 2026-09-09 | 3 |
 
 
 ---
@@ -119,12 +119,12 @@
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 14 | ⭐ 30,368 | 2026-08-08 | 2026-09-20 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 13 | ⭐ 23,718 | 2026-08-01 | 2026-09-20 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 13 | ⭐ 53,585 | 2026-08-06 | 2026-09-19 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 12 | ⭐ 2,468 | 2026-08-02 | 2026-09-21 |
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 12 | ⭐ 845 | 2026-08-05 | 2026-09-12 |
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 11 | ⭐ 2,342 | 2026-08-02 | 2026-09-07 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 10 | ⭐ 4,386 | 2026-08-02 | 2026-08-26 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 10 | ⭐ 11,337 | 2026-08-02 | 2026-09-07 |
+| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 10 | ⭐ 10,716 | 2026-08-03 | 2026-09-21 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 10 | ⭐ 62,752 | 2026-08-03 | 2026-09-13 |
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | 10 | ⭐ 53,402 | 2026-08-04 | 2026-09-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.540Z*
+*Last updated: 2026-09-21T21:01:49.869Z*

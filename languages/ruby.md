@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 89
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-20
+- **Last Updated**: 2026-09-21
 
 ---
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,872 | 2026-08-01 | 28 |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,983 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,983 | 2026-08-01 | 17 |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,175 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,747 | 2026-08-01 | 21 |
+| [instructure/canvas-lms](../repos/instructure/canvas-lms.md) | ⭐ 6,827 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [instructure/canvas-lms](../repos/instructure/canvas-lms.md) | ⭐ 6,825 | 2026-08-01 | 9 |
+| [antiwork/gumroad](../repos/antiwork/gumroad.md) | ⭐ 9,721 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [antiwork/gumroad](../repos/antiwork/gumroad.md) | ⭐ 9,713 | 2026-08-01 | 19 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,695 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rails/rails](../repos/rails/rails.md) | ⭐ 58,779 | 2026-08-02 | 25 |
+| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 39,035 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [postalserver/postal](../repos/postalserver/postal.md) | ⭐ 16,817 | 2026-08-04 | 9 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 58,782 | 2026-08-02 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/explore](../repos/github/explore.md) | ⭐ 4,892 | 2026-08-09 | 17 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,142 | 2026-08-04 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [everypolitician/everypolitician-data](../repos/everypolitician/everypolitician-data.md) | ⭐ 256 | 2026-08-09 | 7 |
+| [ytti/oxidized](../repos/ytti/oxidized.md) | ⭐ 3,588 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [greasyfork-org/greasyfork](../repos/greasyfork-org/greasyfork.md) | ⭐ 2,104 | 2026-08-10 | 3 |
+| [basecamp/fizzy](../repos/basecamp/fizzy.md) | ⭐ 8,215 | 2026-08-08 | 18 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Shopify/liquid](../repos/Shopify/liquid.md) | ⭐ 11,866 | 2026-08-22 | Liquid markup language. Safe, customer facing template language for flexible web apps.  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sinatra/sinatra](../repos/sinatra/sinatra.md) | ⭐ 12,452 | 2026-08-23 | Classy web-development dressed in a DSL (official &#x2F; canonical repo) |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lobsters/lobsters](../repos/lobsters/lobsters.md) | ⭐ 4,821 | 2026-09-03 | Computing-focused community centered around link aggregation and discussion |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [neutraltone/awesome-stock-resources](../repos/neutraltone/awesome-stock-resources.md) | ⭐ 14,554 | 2026-09-04 | :city_sunrise: A collection of links for free stock photography, video and Illustration websites |
 
 
 ---
@@ -88,12 +88,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rails/rails](../repos/rails/rails.md) | ⭐ 58,779 | 2026-08-02 | 25 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 58,782 | 2026-08-02 | 26 |
 | [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,667 | 2026-08-03 | 13 |
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,983 | 2026-08-01 | 17 |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 49,983 | 2026-08-01 | 18 |
 | [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,872 | 2026-08-01 | 28 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,131 | 2026-08-04 | 24 |
-| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 39,003 | 2026-08-01 | 24 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,142 | 2026-08-04 | 25 |
+| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 39,035 | 2026-08-01 | 25 |
 | [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,211 | 2026-08-05 | 4 |
 | [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,540 | 2026-08-01 | 11 |
 | [heartcombo/devise](../repos/heartcombo/devise.md) | ⭐ 24,356 | 2026-09-08 | 2 |
@@ -101,13 +101,13 @@
 | [forem/forem](../repos/forem/forem.md) | ⭐ 22,776 | 2026-08-04 | 7 |
 | [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,528 | 2026-08-02 | 18 |
 | [postalserver/postal](../repos/postalserver/postal.md) | ⭐ 16,817 | 2026-08-04 | 9 |
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,148 | 2026-08-01 | 25 |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,175 | 2026-08-01 | 26 |
 | [spree/spree](../repos/spree/spree.md) | ⭐ 15,710 | 2026-08-01 | 23 |
 | [CocoaPods/CocoaPods](../repos/CocoaPods/CocoaPods.md) | ⭐ 14,831 | 2026-09-02 | 1 |
-| [basecamp/kamal](../repos/basecamp/kamal.md) | ⭐ 14,575 | 2026-08-12 | 7 |
-| [neutraltone/awesome-stock-resources](../repos/neutraltone/awesome-stock-resources.md) | ⭐ 14,514 | 2026-09-04 | 1 |
+| [basecamp/kamal](../repos/basecamp/kamal.md) | ⭐ 14,594 | 2026-08-12 | 8 |
+| [neutraltone/awesome-stock-resources](../repos/neutraltone/awesome-stock-resources.md) | ⭐ 14,554 | 2026-09-04 | 2 |
 | [gollum/gollum](../repos/gollum/gollum.md) | ⭐ 14,323 | 2026-09-08 | 1 |
-| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,694 | 2026-08-01 | 20 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,695 | 2026-08-01 | 21 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [discourse/discourse](../repos/discourse/discourse.md) | 28 | ⭐ 47,872 | 2026-08-01 | 2026-09-20 |
-| [opf/openproject](../repos/opf/openproject.md) | 25 | ⭐ 16,148 | 2026-08-01 | 2026-09-19 |
+| [opf/openproject](../repos/opf/openproject.md) | 26 | ⭐ 16,175 | 2026-08-01 | 2026-09-21 |
+| [rails/rails](../repos/rails/rails.md) | 26 | ⭐ 58,782 | 2026-08-02 | 2026-09-21 |
+| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | 25 | ⭐ 39,035 | 2026-08-01 | 2026-09-21 |
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 25 | ⭐ 1,071 | 2026-08-01 | 2026-09-03 |
-| [rails/rails](../repos/rails/rails.md) | 25 | ⭐ 58,779 | 2026-08-02 | 2026-09-20 |
-| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | 24 | ⭐ 39,003 | 2026-08-01 | 2026-09-13 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 24 | ⭐ 42,131 | 2026-08-04 | 2026-09-19 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 25 | ⭐ 42,142 | 2026-08-04 | 2026-09-21 |
 | [spree/spree](../repos/spree/spree.md) | 23 | ⭐ 15,710 | 2026-08-01 | 2026-09-19 |
 | [ruby/ruby](../repos/ruby/ruby.md) | 21 | ⭐ 23,747 | 2026-08-01 | 2026-09-20 |
-| [github-linguist/linguist](../repos/github-linguist/linguist.md) | 20 | ⭐ 13,694 | 2026-08-01 | 2026-09-19 |
-| [we-promise/sure](../repos/we-promise/sure.md) | 20 | ⭐ 9,916 | 2026-08-02 | 2026-09-14 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | 21 | ⭐ 13,695 | 2026-08-01 | 2026-09-21 |
+| [antiwork/gumroad](../repos/antiwork/gumroad.md) | 20 | ⭐ 9,721 | 2026-08-01 | 2026-09-21 |
 
 ---
 
@@ -222,4 +222,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.568Z*
+*Last updated: 2026-09-21T21:01:49.891Z*

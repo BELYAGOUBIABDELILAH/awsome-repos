@@ -16,40 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,283 | 2026-08-01 | 16 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 920 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 920 | 2026-08-01 | 30 |
+| [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) | ⭐ 6,069 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,438 | 2026-08-01 | 36 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,947 | 2026-08-02 | 22 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,650 | 2026-08-06 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [GregTech-Odyssey/GregTech-Odyssey](../repos/GregTech-Odyssey/GregTech-Odyssey.md) | ⭐ 440 | 2026-08-07 | 4 |
+| [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,313 | 2026-08-08 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fontsource/font-files](../repos/fontsource/font-files.md) | ⭐ 489 | 2026-08-22 | 2000+ open-source fonts bundled into neat packages. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [KyleAMathews/typefaces](../repos/KyleAMathews/typefaces.md) | ⭐ 2,589 | 2026-08-22 | NPM packages for Open Source typefaces |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [adobe/spectrum-css](../repos/adobe/spectrum-css.md) | ⭐ 1,288 | 2026-08-22 | The standard CSS implementation of the Spectrum design language. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mingw-w64/mingw-w64.github.io](../repos/mingw-w64/mingw-w64.github.io.md) | ⭐ 1,026 | 2026-08-22 | mingw-w64.net web page contents (The new web page) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | List of awesome CSS frameworks in 2026 |
@@ -68,6 +47,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CopticScriptorium/corpora](../repos/CopticScriptorium/corpora.md) | ⭐ 51 | 2026-09-02 | Public repository for Coptic SCRIPTORIUM Corpora Releases |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [DeGrandis/canvas-dark-mode](../repos/DeGrandis/canvas-dark-mode.md) | ⭐ 33 | 2026-09-03 | Canvas Dark Mode |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [octaviovillegas/CursoIngresoJS](../repos/octaviovillegas/CursoIngresoJS.md) | ⭐ 121 | 2026-09-05 | Curso de ingreso con JavaScript |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [AlirezaKJ/BetterSoundCloud](../repos/AlirezaKJ/BetterSoundCloud.md) | ⭐ 439 | 2026-09-05 | A PC client of SoundCloud with improvement made using electronjs |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | Monospaced font family for user interface and coding environments |
 
 
 ---
@@ -95,7 +86,7 @@
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,363 | 2026-09-02 | 4 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,283 | 2026-08-01 | 16 |
 | [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,414 | 2026-08-03 | 4 |
-| [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,319 | 2026-08-08 | 7 |
+| [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,313 | 2026-08-08 | 8 |
 
 ---
 
@@ -104,7 +95,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 36 | ⭐ 1,438 | 2026-08-01 | 2026-09-20 |
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 30 | ⭐ 920 | 2026-08-01 | 2026-09-20 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 31 | ⭐ 920 | 2026-08-01 | 2026-09-21 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 22 | ⭐ 28,947 | 2026-08-02 | 2026-09-20 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 21 | ⭐ 1,408 | 2026-08-01 | 2026-08-29 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 19 | ⭐ 12,419 | 2026-08-02 | 2026-09-14 |
@@ -186,4 +177,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.505Z*
+*Last updated: 2026-09-21T21:01:49.841Z*

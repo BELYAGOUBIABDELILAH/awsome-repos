@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 240
+- **Total Repositories**: 244
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-09
 
@@ -16,61 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harvard-edge/cs249r_book](../repos/harvard-edge/cs249r_book.md) | ⭐ 28,380 | 2026-08-04 | 3 |
+| [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) | ⭐ 18,088 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,465 | 2026-08-06 | 8 |
+| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 65,438 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cactus-compute/needle](../repos/cactus-compute/needle.md) | ⭐ 11,884 | 2026-08-11 | 9 |
+| [docling-project/docling](../repos/docling-project/docling.md) | ⭐ 67,526 | 2026-08-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docling-project/docling](../repos/docling-project/docling.md) | ⭐ 67,413 | 2026-08-19 | 5 |
+| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [browser-use/browser-harness](../repos/browser-use/browser-harness.md) | ⭐ 17,862 | 2026-08-22 | 2 |
+| [anthropics/financial-services](../repos/anthropics/financial-services.md) | ⭐ 35,767 | 2026-09-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/openai-python](../repos/openai/openai-python.md) | ⭐ 31,661 | 2026-09-19 | 2 |
+| [paperless-ngx/paperless-ngx](../repos/paperless-ngx/paperless-ngx.md) | ⭐ 45,828 | 2026-09-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/financial-services](../repos/anthropics/financial-services.md) | ⭐ 35,313 | 2026-09-20 | 1 |
+| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 8,173 | 2026-09-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [paperless-ngx/paperless-ngx](../repos/paperless-ngx/paperless-ngx.md) | ⭐ 45,498 | 2026-09-20 | 1 |
+| [mvt-project/mvt](../repos/mvt-project/mvt.md) | ⭐ 13,529 | 2026-09-21 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mihail911/modern-software-dev-assignments](../repos/mihail911/modern-software-dev-assignments.md) | ⭐ 4,521 | 2026-09-20 | 1 |
+| [cv-cat/DouYin_Spider](../repos/cv-cat/DouYin_Spider.md) | ⭐ 3,111 | 2026-09-21 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FareedKhan-dev/train-llm-from-scratch](../repos/FareedKhan-dev/train-llm-from-scratch.md) | ⭐ 10,285 | 2026-09-20 | 1 |
+| [TNT-Likely/PanWatch](../repos/TNT-Likely/PanWatch.md) | ⭐ 1,149 | 2026-09-21 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [shy3130/tickflow-stock-panel](../repos/shy3130/tickflow-stock-panel.md) | ⭐ 3,455 | 2026-08-22 | TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [forcedotcom/sf-skills](../repos/forcedotcom/sf-skills.md) | ⭐ 900 | 2026-08-22 | Salesforce&#39;s curated collection of agent skills for building applications. Optimized for Agentfor... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [anthropics/claude-plugins-community](../repos/anthropics/claude-plugins-community.md) | ⭐ 2,146 | 2026-08-22 | Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 28,964 | 2026-08-22 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [karpathy/nanoGPT](../repos/karpathy/nanoGPT.md) | ⭐ 62,391 | 2026-08-22 | The simplest, fastest repository for training&#x2F;finetuning medium-sized GPTs. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [browser-use/browser-harness](../repos/browser-use/browser-harness.md) | ⭐ 17,862 | 2026-08-22 | Browser Harness | Self-healing harness that enables LLMs to complete any task. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/adk-samples](../repos/google/adk-samples.md) | ⭐ 10,214 | 2026-08-22 | A collection of sample agents built with Agent Development Kit (ADK)  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [elder-plinius/OBLITERATUS](../repos/elder-plinius/OBLITERATUS.md) | ⭐ 7,984 | 2026-08-23 | OBLITERATE THE CHAINS THAT BIND YOU |
@@ -80,6 +59,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [shy3130/tick-stock-panel](../repos/shy3130/tick-stock-panel.md) | ⭐ 3,760 | 2026-08-23 | TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HKUDS/Vibe-Trading](../repos/HKUDS/Vibe-Trading.md) | ⭐ 33,059 | 2026-08-24 | &quot;Vibe-Trading: Your Personal Trading Agent&quot; |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [marin-community/marin](../repos/marin-community/marin.md) | ⭐ 2,876 | 2026-08-24 | Open-source framework for the research and development of foundation models. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 10,878 | 2026-08-24 | Build your own AI SRE agents. The open source toolkit for the AI era. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NVIDIA/Megatron-LM](../repos/NVIDIA/Megatron-LM.md) | ⭐ 17,840 | 2026-08-25 | Ongoing research training transformer models at scale |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MemPalace/mempalace](../repos/MemPalace/mempalace.md) | ⭐ 58,630 | 2026-08-25 | The best-benchmarked open-source AI memory system. And it&#39;s free. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [netbox-community/netbox](../repos/netbox-community/netbox.md) | ⭐ 21,393 | 2026-08-26 | The premier source of truth powering network automation. Open source under Apache 2. Try NetBox C... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [aiming-lab/AutoResearchClaw](../repos/aiming-lab/AutoResearchClaw.md) | ⭐ 14,247 | 2026-08-26 | Fully autonomous &amp; self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞 |
 
 
 ---
@@ -102,7 +102,7 @@
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 131,932 | 2026-08-05 | 8 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 123,631 | 2026-08-01 | 11 |
-| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,253 | 2026-08-20 | 8 |
+| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 114,356 | 2026-08-03 | 5 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 106,016 | 2026-08-08 | 10 |
@@ -122,9 +122,9 @@
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 9 | ⭐ 1,384 | 2026-08-01 | 2026-08-28 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 9 | ⭐ 39,719 | 2026-08-03 | 2026-09-09 |
 | [cactus-compute/needle](../repos/cactus-compute/needle.md) | 9 | ⭐ 11,884 | 2026-08-11 | 2026-09-20 |
+| [browser-use/browser-use](../repos/browser-use/browser-use.md) | 9 | ⭐ 115,765 | 2026-08-20 | 2026-09-21 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 9 | ⭐ 28,964 | 2026-08-22 | 2026-09-14 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 8 | ⭐ 81,126 | 2026-08-01 | 2026-09-14 |
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 8 | ⭐ 54,192 | 2026-08-03 | 2026-09-09 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.563Z*
+*Last updated: 2026-09-21T21:01:49.887Z*

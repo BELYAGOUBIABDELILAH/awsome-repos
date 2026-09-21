@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 89
+- **Total Repositories**: 90
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-20
+- **Last Updated**: 2026-09-21
 
 ---
 
@@ -16,28 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,227 | 2026-08-03 | 12 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,333 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/website](../repos/kubernetes/website.md) | ⭐ 5,390 | 2026-08-03 | 4 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 26,740 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,532 | 2026-08-03 | 9 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,561 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,557 | 2026-08-04 | 10 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 137,947 | 2026-08-08 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,201 | 2026-09-19 | 2 |
+| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 6,181 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/opensource.guide](../repos/github/opensource.guide.md) | ⭐ 15,691 | 2026-09-19 | 2 |
+| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,511 | 2026-08-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,028 | 2026-09-19 | 2 |
+| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,225 | 2026-09-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TandoorRecipes/recipes](../repos/TandoorRecipes/recipes.md) | ⭐ 8,616 | 2026-09-20 | 1 |
+| [chiphuyen/machine-learning-systems-design](../repos/chiphuyen/machine-learning-systems-design.md) | ⭐ 10,645 | 2026-09-21 | 1 |
 
 
 ---
@@ -82,8 +82,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,227 | 2026-08-03 | 12 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 135,251 | 2026-08-08 | 11 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,333 | 2026-08-03 | 13 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 137,947 | 2026-08-08 | 12 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,438 | 2026-08-19 | 6 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,728 | 2026-08-01 | 12 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,262 | 2026-08-01 | 6 |
@@ -93,9 +93,9 @@
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 37,645 | 2026-08-12 | 11 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,595 | 2026-08-09 | 8 |
-| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,182 | 2026-08-19 | 5 |
+| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,511 | 2026-08-19 | 6 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,532 | 2026-08-03 | 9 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 26,052 | 2026-08-04 | 8 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 26,740 | 2026-08-04 | 9 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 21,868 | 2026-08-01 | 6 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,479 | 2026-08-03 | 4 |
@@ -109,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [ossu/computer-science](../repos/ossu/computer-science.md) | 13 | ⭐ 209,333 | 2026-08-03 | 2026-09-21 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 12 | ⭐ 65,728 | 2026-08-01 | 2026-09-07 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 12 | ⭐ 9,214 | 2026-08-03 | 2026-09-12 |
-| [ossu/computer-science](../repos/ossu/computer-science.md) | 12 | ⭐ 209,227 | 2026-08-03 | 2026-09-20 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 11 | ⭐ 135,251 | 2026-08-08 | 2026-08-25 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 12 | ⭐ 137,947 | 2026-08-08 | 2026-09-21 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 11 | ⭐ 16,561 | 2026-08-04 | 2026-09-21 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 11 | ⭐ 37,645 | 2026-08-12 | 2026-09-10 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 10 | ⭐ 9,776 | 2026-08-01 | 2026-09-03 |
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 10 | ⭐ 16,557 | 2026-08-04 | 2026-09-20 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 9 | ⭐ 27,532 | 2026-08-03 | 2026-09-20 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 9 | ⭐ 26,740 | 2026-08-04 | 2026-09-21 |
 | [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | 9 | ⭐ 5,100 | 2026-08-06 | 2026-09-14 |
-| [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) | 8 | ⭐ 9,116 | 2026-08-03 | 2026-09-02 |
 
 ---
 
@@ -213,7 +213,8 @@
 - [github/opensource.guide](../repos/github/opensource.guide.md) - 📚 Community guides for open source creators
 - [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) - Crack Interface lockscreen, Metasploit and More Android&#x2F;IOS Hacking
 - [TandoorRecipes/recipes](../repos/TandoorRecipes/recipes.md) - Application for managing recipes, planning meals, building shopping lists and much much more!
+- [chiphuyen/machine-learning-systems-design](../repos/chiphuyen/machine-learning-systems-design.md) - A booklet on machine learning systems design with exercises. NOT the repo for the book &quot;Designing...
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.528Z*
+*Last updated: 2026-09-21T21:01:49.859Z*

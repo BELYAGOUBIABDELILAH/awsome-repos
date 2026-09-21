@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Zig |
 | **License** | Other |
-| **Stars** | ⭐ 236 |
-| **Forks** | 🍴 19 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 266 |
+| **Forks** | 🍴 24 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 26, 2026 |
-| **Last Seen** | Sep 10, 2026 |
+| **Last Seen** | Sep 21, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 4 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:49.244Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-09-21T21:01:53.358Z*  
+*Data from 10 trending reports*

@@ -14,8 +14,10 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,159 | 2026-08-04 | 18 |
 
-*No R repositories trending today*
 
 ---
 
@@ -40,7 +42,7 @@
 |------------|-------|------------|---------------|
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,997 | 2026-08-04 | 19 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,685 | 2026-08-02 | 17 |
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,149 | 2026-08-04 | 17 |
+| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,159 | 2026-08-04 | 18 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,067 | 2026-08-04 | 17 |
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,599 | 2026-08-01 | 29 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,918 | 2026-08-04 | 18 |
@@ -72,9 +74,9 @@
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 26 | ⭐ 891 | 2026-08-01 | 2026-09-13 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 19 | ⭐ 6,997 | 2026-08-04 | 2026-09-19 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 18 | ⭐ 3,918 | 2026-08-04 | 2026-09-14 |
+| [hadley/r4ds](../repos/hadley/r4ds.md) | 18 | ⭐ 5,159 | 2026-08-04 | 2026-09-21 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | 17 | ⭐ 5,685 | 2026-08-02 | 2026-09-14 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 17 | ⭐ 5,067 | 2026-08-04 | 2026-09-13 |
-| [hadley/r4ds](../repos/hadley/r4ds.md) | 17 | ⭐ 5,149 | 2026-08-04 | 2026-09-09 |
 
 ---
 
@@ -103,4 +105,4 @@
 
 ---
 
-*Last updated: 2026-09-20T21:01:44.565Z*
+*Last updated: 2026-09-21T21:01:49.889Z*
