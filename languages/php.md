@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 92
+- **Total Repositories**: 93
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,965 | 2026-08-01 | 17 |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,967 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,128 | 2026-08-01 | 8 |
+| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | ⭐ 3,447 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,892 | 2026-08-01 | 23 |
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,155 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 36,879 | 2026-08-02 | 27 |
+| [PrestaShop/PrestaShop](../repos/PrestaShop/PrestaShop.md) | ⭐ 9,217 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [invoiceninja/invoiceninja](../repos/invoiceninja/invoiceninja.md) | ⭐ 10,100 | 2026-08-06 | 10 |
+| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,112 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,469 | 2026-08-09 | 22 |
+| [laravel/ai](../repos/laravel/ai.md) | ⭐ 1,184 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [David-Crty/databasement](../repos/David-Crty/databasement.md) | ⭐ 2,418 | 2026-08-10 | 9 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | ⭐ 10,472 | 2026-08-09 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alextselegidis/easyappointments](../repos/alextselegidis/easyappointments.md) | ⭐ 4,391 | 2026-08-11 | 8 |
+| [aureuserp/aureuserp](../repos/aureuserp/aureuserp.md) | ⭐ 11,966 | 2026-08-11 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freescout-help-desk/freescout](../repos/freescout-help-desk/freescout.md) | ⭐ 4,544 | 2026-08-14 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [pixelfed/pixelfed](../repos/pixelfed/pixelfed.md) | ⭐ 7,106 | 2026-08-26 | 6 |
+| [silverstripe/silverstripe-framework](../repos/silverstripe/silverstripe-framework.md) | ⭐ 724 | 2026-09-22 | 1 |
 
 
 ---
@@ -92,15 +89,15 @@
 | [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,911 | 2026-08-01 | 22 |
 | [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,042 | 2026-08-02 | 14 |
 | [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,155 | 2026-08-02 | 22 |
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,135 | 2026-08-01 | 19 |
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,155 | 2026-08-01 | 20 |
 | [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,307 | 2026-08-04 | 15 |
 | [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 23,902 | 2026-08-07 | 12 |
 | [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,296 | 2026-08-01 | 9 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,892 | 2026-08-01 | 23 |
 | [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,734 | 2026-08-04 | 6 |
-| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,083 | 2026-08-02 | 14 |
+| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,112 | 2026-08-02 | 15 |
 | [getgrav/grav](../repos/getgrav/grav.md) | ⭐ 15,656 | 2026-08-12 | 6 |
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,965 | 2026-08-01 | 17 |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 14,967 | 2026-08-01 | 18 |
 | [PHPOffice/PhpSpreadsheet](../repos/PHPOffice/PhpSpreadsheet.md) | ⭐ 13,983 | 2026-08-19 | 3 |
 | [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,544 | 2026-08-04 | 3 |
 | [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 12,972 | 2026-08-05 | 3 |
@@ -118,12 +115,12 @@
 | [nextcloud/server](../repos/nextcloud/server.md) | 27 | ⭐ 36,879 | 2026-08-02 | 2026-09-21 |
 | [glpi-project/glpi](../repos/glpi-project/glpi.md) | 23 | ⭐ 6,366 | 2026-08-01 | 2026-09-19 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | 23 | ⭐ 21,892 | 2026-08-01 | 2026-09-21 |
+| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 23 | ⭐ 10,472 | 2026-08-09 | 2026-09-22 |
 | [laravel/framework](../repos/laravel/framework.md) | 22 | ⭐ 34,911 | 2026-08-01 | 2026-09-13 |
 | [symfony/symfony](../repos/symfony/symfony.md) | 22 | ⭐ 31,155 | 2026-08-02 | 2026-09-20 |
-| [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 22 | ⭐ 10,469 | 2026-08-09 | 2026-09-21 |
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | 19 | ⭐ 28,135 | 2026-08-01 | 2026-09-19 |
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | 17 | ⭐ 14,965 | 2026-08-01 | 2026-09-21 |
-| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 16 | ⭐ 3,446 | 2026-08-01 | 2026-09-19 |
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | 20 | ⭐ 28,155 | 2026-08-01 | 2026-09-22 |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | 18 | ⭐ 14,967 | 2026-08-01 | 2026-09-22 |
+| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 17 | ⭐ 3,447 | 2026-08-01 | 2026-09-22 |
 | [woocommerce/woocommerce](../repos/woocommerce/woocommerce.md) | 16 | ⭐ 10,508 | 2026-08-06 | 2026-09-14 |
 
 ---
@@ -222,7 +219,8 @@
 - [Submitty/Submitty](../repos/Submitty/Submitty.md) - Homework Submission, Automated Grading, and TA grading system.
 - [crivion/laranode](../repos/crivion/laranode.md) - Free Hosting Panel - Easily manage your VPS&#x2F;dedicated machine with Laranode (a cPanel&#x2F;Plesk alter...
 - [Euro-Office/eurooffice-nextcloud](../repos/Euro-Office/eurooffice-nextcloud.md) - 
+- [silverstripe/silverstripe-framework](../repos/silverstripe/silverstripe-framework.md) - Silverstripe Framework, the MVC framework that powers Silverstripe CMS
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.881Z*
+*Last updated: 2026-09-22T21:02:08.109Z*

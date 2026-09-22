@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 20
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-19
+- **Last Updated**: 2026-09-22
 
 ---
 
@@ -16,7 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,159 | 2026-08-04 | 18 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,611 | 2026-08-01 | 30 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 673 | 2026-08-01 | 30 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,801 | 2026-08-01 | 27 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,069 | 2026-08-04 | 18 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,998 | 2026-08-04 | 20 |
 
 
 ---
@@ -40,19 +52,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,997 | 2026-08-04 | 19 |
+| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 6,998 | 2026-08-04 | 20 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,685 | 2026-08-02 | 17 |
 | [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,159 | 2026-08-04 | 18 |
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,067 | 2026-08-04 | 17 |
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,599 | 2026-08-01 | 29 |
+| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,069 | 2026-08-04 | 18 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,611 | 2026-08-01 | 30 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,918 | 2026-08-04 | 18 |
 | [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,054 | 2026-08-08 | 1 |
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,800 | 2026-08-01 | 26 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,801 | 2026-08-01 | 27 |
 | [jokergoo/ComplexHeatmap](../repos/jokergoo/ComplexHeatmap.md) | ⭐ 1,554 | 2026-09-01 | 1 |
 | [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,442 | 2026-08-04 | 5 |
 | [rstudio/renv](../repos/rstudio/renv.md) | ⭐ 1,160 | 2026-08-06 | 1 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 891 | 2026-08-01 | 26 |
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 671 | 2026-08-01 | 29 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 673 | 2026-08-01 | 30 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 486 | 2026-08-03 | 8 |
 | [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 394 | 2026-08-08 | 27 |
 | [PecanProject/pecan](../repos/PecanProject/pecan.md) | ⭐ 244 | 2026-09-08 | 2 |
@@ -67,16 +79,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 29 | ⭐ 4,599 | 2026-08-01 | 2026-09-12 |
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 29 | ⭐ 671 | 2026-08-01 | 2026-09-19 |
+| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 30 | ⭐ 4,611 | 2026-08-01 | 2026-09-22 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 30 | ⭐ 673 | 2026-08-01 | 2026-09-22 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | 27 | ⭐ 2,801 | 2026-08-01 | 2026-09-22 |
 | [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 27 | ⭐ 394 | 2026-08-08 | 2026-09-14 |
-| [satijalab/seurat](../repos/satijalab/seurat.md) | 26 | ⭐ 2,800 | 2026-08-01 | 2026-09-19 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 26 | ⭐ 891 | 2026-08-01 | 2026-09-13 |
-| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 19 | ⭐ 6,997 | 2026-08-04 | 2026-09-19 |
+| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 20 | ⭐ 6,998 | 2026-08-04 | 2026-09-22 |
+| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 18 | ⭐ 5,069 | 2026-08-04 | 2026-09-22 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 18 | ⭐ 3,918 | 2026-08-04 | 2026-09-14 |
 | [hadley/r4ds](../repos/hadley/r4ds.md) | 18 | ⭐ 5,159 | 2026-08-04 | 2026-09-21 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | 17 | ⭐ 5,685 | 2026-08-02 | 2026-09-14 |
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 17 | ⭐ 5,067 | 2026-08-04 | 2026-09-13 |
 
 ---
 
@@ -105,4 +117,4 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.889Z*
+*Last updated: 2026-09-22T21:02:08.119Z*

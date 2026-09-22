@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | MATLAB |
 | **License** | Other |
-| **Stars** | ⭐ 1,085 |
-| **Forks** | 🍴 133 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 1,090 |
+| **Forks** | 🍴 134 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 10, 2026 |
-| **Last Seen** | Sep 21, 2026 |
+| **Last Seen** | Sep 22, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
-- **Longest Streak**: 3 days
+- **Trending Days**: 7
+- **Longest Streak**: 4 days
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Very Active | Updated within last week |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:57.154Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-09-22T21:02:13.531Z*  
+*Data from 7 trending reports*

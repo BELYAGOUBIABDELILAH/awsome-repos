@@ -7,11 +7,31 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 609
+**Gems Found**: 626
 
 ---
 
-### 1. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
+### 1. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
+
+**Bonsai Demo**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,007 |
+| 💻 **Language** | Shell |
+| 🏆 **Gem Score** | 97/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 15, 2026 |
+
+**Why it's a gem**: High growth velocity (+120 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/PrismML-Eng/Bonsai-demo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PrismML-Eng&#x2F;Bonsai-demo)
+
+---
+
+### 2. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
 
 **Vivi-Music is an expressive Material 3–based YouTube Music client for Android.**
 
@@ -31,7 +51,7 @@
 
 ---
 
-### 2. [melgarafael&#x2F;DeskcommCRM](../../repos/melgarafael/DeskcommCRM.md)
+### 3. [melgarafael&#x2F;DeskcommCRM](../../repos/melgarafael/DeskcommCRM.md)
 
 **Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.**
 
@@ -51,7 +71,7 @@
 
 ---
 
-### 3. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
+### 4. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
 
 **Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents**
 
@@ -59,7 +79,7 @@
 |---|---|
 | ⭐ **Stars** | 4,102 |
 | 💻 **Language** | HTML |
-| 🏆 **Gem Score** | 95/100 |
+| 🏆 **Gem Score** | 94/100 |
 | 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
@@ -71,7 +91,7 @@
 
 ---
 
-### 4. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
+### 5. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
 **Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
@@ -91,7 +111,7 @@
 
 ---
 
-### 5. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+### 6. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
 
 **A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
 
@@ -108,26 +128,6 @@
 **Best for**: 
 
 [View Passport](../../repos/geo-tp/ESP32-Bit-Pirate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;geo-tp&#x2F;ESP32-Bit-Pirate)
-
----
-
-### 6. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
-
-**Bonsai Demo**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,942 |
-| 💻 **Language** | Shell |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 15, 2026 |
-
-**Why it's a gem**: High growth velocity (+131 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/PrismML-Eng/Bonsai-demo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PrismML-Eng&#x2F;Bonsai-demo)
 
 ---
 
@@ -151,23 +151,23 @@
 
 ---
 
-### 8. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+### 8. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
-**Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
+**Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,605 |
-| 💻 **Language** | Python |
+| ⭐ **Stars** | 7,722 |
+| 💻 **Language** | Go |
 | 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 4, 2026 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 6, 2026 |
 
-**Why it's a gem**: High growth velocity (+658 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+69 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
+[View Passport](../../repos/chenyme/grok2api.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chenyme&#x2F;grok2api)
 
 ---
 
@@ -231,7 +231,27 @@
 
 ---
 
-### 12. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
+### 12. [max-sixty&#x2F;worktrunk](../../repos/max-sixty/worktrunk.md)
+
+**Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 8,340 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 26, 2026 |
+
+**Why it's a gem**: High growth velocity (+133 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/max-sixty/worktrunk.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;max-sixty&#x2F;worktrunk)
+
+---
+
+### 13. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
 
 **Open source factory for one-shot engineering**
 
@@ -251,43 +271,23 @@
 
 ---
 
-### 13. [laoma2053&#x2F;awesome-zhuiju-free](../../repos/laoma2053/awesome-zhuiju-free.md)
+### 14. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
 
-**免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 9,281 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 14, 2026 |
-
-**Why it's a gem**: High growth velocity (+166 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/laoma2053/awesome-zhuiju-free.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;laoma2053&#x2F;awesome-zhuiju-free)
-
----
-
-### 14. [max-sixty&#x2F;worktrunk](../../repos/max-sixty/worktrunk.md)
-
-**Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows**
+**Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7,642 |
-| 💻 **Language** | Rust |
+| ⭐ **Stars** | 5,605 |
+| 💻 **Language** | Python |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Aug 26, 2026 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 4, 2026 |
 
-**Why it's a gem**: High growth velocity (+141 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+658 stars&#x2F;day) • Trending 6 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/max-sixty/worktrunk.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;max-sixty&#x2F;worktrunk)
+[View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
 
 ---
 
@@ -297,13 +297,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,581 |
+| ⭐ **Stars** | 2,902 |
 | 💻 **Language** | Go |
 | 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 12 |
+| 📈 **Trending Days** | 13 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+116 stars&#x2F;day) • Trending 12 times • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+153 stars&#x2F;day) • Trending 13 times • Very active development • Underrated project
 
 **Best for**: 
 
@@ -351,7 +351,27 @@
 
 ---
 
-### 18. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+### 18. [laoma2053&#x2F;awesome-zhuiju-free](../../repos/laoma2053/awesome-zhuiju-free.md)
+
+**免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 9,740 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 14, 2026 |
+
+**Why it's a gem**: High growth velocity (+207 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/laoma2053/awesome-zhuiju-free.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;laoma2053&#x2F;awesome-zhuiju-free)
+
+---
+
+### 19. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
 
 **Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
 
@@ -371,43 +391,23 @@
 
 ---
 
-### 19. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
+### 20. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
 
-**Give cloud AI agents a real development environment on your own machines.**
+**A framework for building agentic apps**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,627 |
-| 💻 **Language** | Rust |
+| ⭐ **Stars** | 6,313 |
+| 💻 **Language** | TypeScript |
 | 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Sep 19, 2026 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Sep 12, 2026 |
 
-**Why it's a gem**: High growth velocity (+137 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/yyjeqhc/webcodex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;yyjeqhc&#x2F;webcodex)
-
----
-
-### 20. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
-
-**The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,342 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 5 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+531 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/Ed1s0nZ/CyberStrikeAI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Ed1s0nZ&#x2F;CyberStrikeAI)
+[View Passport](../../repos/BuilderIO/agent-native.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;BuilderIO&#x2F;agent-native)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-21T21:01:57.527Z*  
+*Generated: 2026-09-22T21:02:14.076Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

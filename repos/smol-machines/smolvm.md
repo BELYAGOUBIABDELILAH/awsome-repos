@@ -1,6 +1,6 @@
 # smol-machines&#x2F;smolvm
 
-> Branchable computing by using a portable, lightweight, self-contained virtual machine
+> An embeddable, portable, branchable virtual machine to safely run Agents locally.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;smol-machines&#x2F;smolvm) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 6,182 |
-| **Forks** | 🍴 297 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 6,273 |
+| **Forks** | 🍴 301 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 20, 2026 |
-| **Last Seen** | Sep 20, 2026 |
+| **Last Seen** | Sep 22, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-21T21:01:57.294Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-22T21:02:13.731Z*  
+*Data from 2 trending reports*

@@ -16,28 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 11,346 | 2026-08-03 | 6 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 33,479 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 98,101 | 2026-08-05 | 21 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 39,675 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 8,020 | 2026-08-10 | 6 |
+| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 8,107 | 2026-08-10 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) | ⭐ 9,281 | 2026-08-14 | 5 |
+| [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) | ⭐ 9,740 | 2026-08-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fmhy/edit](../repos/fmhy/edit.md) | ⭐ 11,986 | 2026-08-25 | 3 |
+| [fspecii/ace-step-ui](../repos/fspecii/ace-step-ui.md) | ⭐ 4,961 | 2026-09-20 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [team-codebug/babua-dsa-patterns-course](../repos/team-codebug/babua-dsa-patterns-course.md) | ⭐ 866 | 2026-08-23 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kunchenguid/lavish-axi](../repos/kunchenguid/lavish-axi.md) | ⭐ 3,057 | 2026-08-24 | HTML is the new markdown. Lavish is the new editor for your HTML artifacts. |
@@ -65,6 +62,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openai/plugins](../repos/openai/plugins.md) | ⭐ 6,378 | 2026-08-27 | OpenAI Plugins |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 17,886 | 2026-08-28 | A coding-agent skill for multi-phase security audits with independently verified, machine-readabl... |
 
 
 ---
@@ -106,10 +106,10 @@
 | [byoungd/up](../repos/byoungd/up.md) | 15 | ⭐ 63,363 | 2026-08-01 | 2026-09-20 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 12 | ⭐ 3,368 | 2026-08-07 | 2026-09-20 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 11 | ⭐ 66,586 | 2026-08-05 | 2026-09-08 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 10 | ⭐ 33,479 | 2026-08-02 | 2026-09-22 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 10 | ⭐ 28,819 | 2026-08-08 | 2026-09-19 |
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 9 | ⭐ 33,322 | 2026-08-02 | 2026-09-19 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 9 | ⭐ 39,675 | 2026-08-06 | 2026-09-22 |
 | [openai/plugins](../repos/openai/plugins.md) | 9 | ⭐ 6,378 | 2026-08-27 | 2026-09-10 |
-| [vercel/next.js](../repos/vercel/next.js.md) | 8 | ⭐ 141,962 | 2026-07-30 | 2026-08-27 |
 
 ---
 
@@ -218,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.865Z*
+*Last updated: 2026-09-22T21:02:08.089Z*

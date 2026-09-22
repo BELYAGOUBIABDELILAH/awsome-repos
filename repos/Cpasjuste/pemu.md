@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Assembly |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 508 |
-| **Forks** | 🍴 70 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 516 |
+| **Forks** | 🍴 71 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 22, 2026 |
-| **Last Seen** | Aug 23, 2026 |
+| **Last Seen** | Sep 22, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-21T21:01:53.212Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-22T21:02:12.735Z*  
+*Data from 3 trending reports*

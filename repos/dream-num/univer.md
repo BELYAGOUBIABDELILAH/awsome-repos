@@ -1,6 +1,6 @@
 # dream-num&#x2F;univer
 
-> Univer is a full-stack framework for creating and editing spreadsheets &#x2F; word processor &#x2F; presentation on both web and server.
+> The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;dream-num&#x2F;univer) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 14,038 |
-| **Forks** | 🍴 1,255 |
-| **Trending Days** | 1 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 15,298 |
+| **Forks** | 🍴 1,365 |
+| **Trending Days** | 2 |
+| **Peak Rank** | #3 |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Aug 5, 2026 |
+| **Last Seen** | Sep 22, 2026 |
 
 
 ---
@@ -37,17 +37,18 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or collaboration*
+*Similar: Check repositories in TypeScript or board*
 
 ---
 
 ## Trending Timeline
 
+**Sep 22, 2026** — Rank #3 (+202 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Peak Rank**: #3
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +56,7 @@
 ## Categories
 
 ### Topics
-[`collaboration`](../../topics/collaboration.md) [`data-table`](../../topics/data-table.md) [`doc`](../../topics/doc.md) [`docx`](../../topics/docx.md) [`excel`](../../topics/excel.md) [`grid`](../../topics/grid.md) [`live-share`](../../topics/live-share.md) [`ppt`](../../topics/ppt.md) [`pptx`](../../topics/pptx.md) [`presentation`](../../topics/presentation.md) [`sdk`](../../topics/sdk.md) [`sheet`](../../topics/sheet.md) [`slides`](../../topics/slides.md) [`spreadsheet`](../../topics/spreadsheet.md) [`table`](../../topics/table.md) [`word`](../../topics/word.md) [`wordprocessor`](../../topics/wordprocessor.md) [`xlsx`](../../topics/xlsx.md) 
+[`board`](../../topics/board.md) [`collaboration`](../../topics/collaboration.md) [`data-table`](../../topics/data-table.md) [`doc`](../../topics/doc.md) [`docx`](../../topics/docx.md) [`excel`](../../topics/excel.md) [`grid`](../../topics/grid.md) [`pdf`](../../topics/pdf.md) [`ppt`](../../topics/ppt.md) [`pptx`](../../topics/pptx.md) [`presentation`](../../topics/presentation.md) [`sdk`](../../topics/sdk.md) [`sheet`](../../topics/sheet.md) [`slides`](../../topics/slides.md) [`spreadsheet`](../../topics/spreadsheet.md) [`table`](../../topics/table.md) [`word`](../../topics/word.md) [`wordprocessor`](../../topics/wordprocessor.md) [`xlsx`](../../topics/xlsx.md) 
 
 ### Curated Categories
 `Systems Programming` `Developer Tools` 
@@ -72,7 +73,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 35&#x2F;100
+- **Historical Rank**: Top 5 (Peak: #3)
 
 
 ---
 
-*Last updated: 2026-09-21T21:01:52.181Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-22T21:02:11.290Z*  
+*Data from 2 trending reports*

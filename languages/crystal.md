@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 2
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-21
+- **Last Updated**: 2026-09-22
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,707 | 2026-08-01 | 31 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,732 | 2026-08-01 | 32 |
 
 
 ---
@@ -32,7 +32,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,707 | 2026-08-01 | 31 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,732 | 2026-08-01 | 32 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,418 | 2026-08-06 | 6 |
 
 ---
@@ -41,7 +41,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | 31 | ⭐ 24,707 | 2026-08-01 | 2026-09-21 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | 32 | ⭐ 24,732 | 2026-08-01 | 2026-09-22 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | 6 | ⭐ 1,418 | 2026-08-06 | 2026-09-05 |
 
 ---
@@ -53,4 +53,4 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.846Z*
+*Last updated: 2026-09-22T21:02:08.065Z*

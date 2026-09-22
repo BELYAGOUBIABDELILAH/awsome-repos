@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 198
+- **Total Repositories**: 199
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-19
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 29,066 | 2026-08-02 | 11 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,964 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [osmandapp/OsmAnd](../repos/osmandapp/OsmAnd.md) | ⭐ 6,030 | 2026-08-02 | 3 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 28,262 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,233 | 2026-08-03 | 6 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,660 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TGX-Android/Telegram-X](../repos/TGX-Android/Telegram-X.md) | ⭐ 6,006 | 2026-08-03 | 5 |
+| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,575 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 5,137 | 2026-08-04 | 10 |
+| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,137 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,605 | 2026-08-05 | 12 |
+| [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) | ⭐ 28,179 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,573 | 2026-08-05 | 8 |
+| [thingsboard/thingsboard](../repos/thingsboard/thingsboard.md) | ⭐ 22,465 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,730 | 2026-08-05 | 19 |
+| [dataease/dataease](../repos/dataease/dataease.md) | ⭐ 24,533 | 2026-08-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) | ⭐ 28,172 | 2026-08-07 | 7 |
+| [Card-Forge/forge](../repos/Card-Forge/forge.md) | ⭐ 2,726 | 2026-08-16 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher](../repos/PojavLauncherTeam/PojavLauncher.md) | ⭐ 9,380 | 2026-08-16 | 3 |
+| [kekingcn/kkFileView](../repos/kekingcn/kkFileView.md) | ⭐ 14,721 | 2026-08-19 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NextAlone/Nagram](../repos/NextAlone/Nagram.md) | ⭐ 3,172 | 2026-08-23 | The third-party Telegram android app. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AndreyPavlenko/Fermata](../repos/AndreyPavlenko/Fermata.md) | ⭐ 1,269 | 2026-08-23 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ikarus23/MifareClassicTool](../repos/ikarus23/MifareClassicTool.md) | ⭐ 6,304 | 2026-08-23 | An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [HMCL-dev/HMCL](../repos/HMCL-dev/HMCL.md) | ⭐ 10,093 | 2026-08-23 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [xandergos/terrain-diffusion-mc](../repos/xandergos/terrain-diffusion-mc.md) | ⭐ 830 | 2026-08-24 | Procedural terrain generation with diffusion models (in Minecraft) |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [airbnb/lottie-android](../repos/airbnb/lottie-android.md) | ⭐ 35,712 | 2026-08-26 | Render After Effects animations natively on Android and iOS, Web, and React Native |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apache/fineract](../repos/apache/fineract.md) | ⭐ 2,468 | 2026-08-27 | Apache Fineract |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [aeron-io/aeron](../repos/aeron-io/aeron.md) | ⭐ 8,887 | 2026-08-27 | Efficient reliable UDP unicast, UDP multicast, and IPC message transport |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [freerouting/freerouting](../repos/freerouting/freerouting.md) | ⭐ 1,931 | 2026-08-27 | Advanced PCB auto-router |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jeecgboot/jimureport](../repos/jeecgboot/jimureport.md) | ⭐ 8,351 | 2026-08-28 | 一款真正的 AI 报表诞生了！JimuChatBI —— 首款免费开源对话式智能数据分析产品（Chat2BI）。  一句话生成报表和数据大屏，支持对话式 AI 修改优化；类 Excel 在线报表... |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,276 | 2026-08-04 | 6 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,473 | 2026-08-04 | 11 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,933 | 2026-08-02 | 9 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,964 | 2026-08-02 | 10 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 75,795 | 2026-08-03 | 14 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,234 | 2026-08-04 | 6 |
@@ -101,7 +101,7 @@
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,456 | 2026-08-12 | 4 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,716 | 2026-08-07 | 5 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,605 | 2026-08-05 | 12 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,660 | 2026-08-05 | 13 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,731 | 2026-08-02 | 7 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,063 | 2026-08-06 | 5 |
@@ -118,11 +118,11 @@
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 19 | ⭐ 5,730 | 2026-08-05 | 2026-09-21 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 15 | ⭐ 26,767 | 2026-08-02 | 2026-09-13 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 14 | ⭐ 75,795 | 2026-08-03 | 2026-09-14 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 13 | ⭐ 41,660 | 2026-08-05 | 2026-09-22 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 12 | ⭐ 28,262 | 2026-08-04 | 2026-09-22 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 12 | ⭐ 33,626 | 2026-08-04 | 2026-09-14 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 12 | ⭐ 41,605 | 2026-08-05 | 2026-09-21 |
 | [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | 11 | ⭐ 29,066 | 2026-08-02 | 2026-09-21 |
 | [google/guava](../repos/google/guava.md) | 11 | ⭐ 51,905 | 2026-08-02 | 2026-09-13 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 11 | ⭐ 28,097 | 2026-08-04 | 2026-09-12 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 11 | ⭐ 81,473 | 2026-08-04 | 2026-09-19 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 10 | ⭐ 13,704 | 2026-08-01 | 2026-09-12 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.863Z*
+*Last updated: 2026-09-22T21:02:08.087Z*

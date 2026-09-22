@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 112
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-21
+- **Last Updated**: 2026-09-22
 
 ---
 
@@ -16,43 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 12,313 | 2026-08-01 | 20 |
+| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,846 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,834 | 2026-08-01 | 3 |
+| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,339 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,536 | 2026-08-01 | 11 |
+| [swiftlang/swift-syntax](../repos/swiftlang/swift-syntax.md) | ⭐ 3,701 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,373 | 2026-08-05 | 13 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,382 | 2026-08-05 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
+| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,607 | 2026-09-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nightscout/Trio](../repos/nightscout/Trio.md) | ⭐ 389 | 2026-09-14 | 2 |
+| [iFurySt/open-codex-computer-use](../repos/iFurySt/open-codex-computer-use.md) | ⭐ 2,205 | 2026-09-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/ZoomitForMac](../repos/microsoft/ZoomitForMac.md) | ⭐ 1,045 | 2026-09-21 | 1 |
+| [mattt/iMCP](../repos/mattt/iMCP.md) | ⭐ 1,645 | 2026-09-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 378 | 2026-09-21 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 5,483 | 2026-09-21 | 1 |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 5,494 | 2026-09-21 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ob-f/OpenBot](../repos/ob-f/OpenBot.md) | ⭐ 3,424 | 2026-08-23 | OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric ve... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Meeep1/EeveeSpotifyRevivedPublic](../repos/Meeep1/EeveeSpotifyRevivedPublic.md) | ⭐ 707 | 2026-08-23 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,656 | 2026-08-24 | 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing... |
@@ -77,6 +68,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ninxsoft/Mist](../repos/ninxsoft/Mist.md) | ⭐ 5,197 | 2026-09-02 | A Mac utility that automatically downloads macOS Firmwares &#x2F; Installers. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ProxymanApp/TCPViewer](../repos/ProxymanApp/TCPViewer.md) | ⭐ 406 | 2026-09-03 | The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,607 | 2026-09-04 |  |
 
 
 ---
@@ -85,7 +82,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,373 | 2026-08-05 | 13 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,382 | 2026-08-05 | 14 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | 2026-09-04 | 1 |
 | [apple/container](../repos/apple/container.md) | ⭐ 49,834 | 2026-08-01 | 13 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,218 | 2026-08-12 | 6 |
@@ -113,9 +110,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 20 | ⭐ 12,313 | 2026-08-01 | 2026-09-21 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | 14 | ⭐ 70,382 | 2026-08-05 | 2026-09-22 |
 | [apple/container](../repos/apple/container.md) | 13 | ⭐ 49,834 | 2026-08-01 | 2026-09-10 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 13 | ⭐ 14,921 | 2026-08-04 | 2026-09-19 |
-| [swiftlang/swift](../repos/swiftlang/swift.md) | 13 | ⭐ 70,373 | 2026-08-05 | 2026-09-21 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 11 | ⭐ 26,992 | 2026-08-01 | 2026-09-10 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 11 | ⭐ 3,536 | 2026-08-01 | 2026-09-21 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 10 | ⭐ 6,487 | 2026-08-01 | 2026-09-20 |
@@ -230,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.899Z*
+*Last updated: 2026-09-22T21:02:08.133Z*

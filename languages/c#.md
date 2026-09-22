@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 154
+- **Total Repositories**: 158
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,280 | 2026-08-01 | 13 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,056 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openutau/OpenUtau](../repos/openutau/OpenUtau.md) | ⭐ 4,318 | 2026-08-01 | 4 |
+| [actions/runner](../repos/actions/runner.md) | ⭐ 6,280 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 116,644 | 2026-08-02 | 21 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,312 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 28,548 | 2026-08-02 | 24 |
+| [DataDog/dd-trace-dotnet](../repos/DataDog/dd-trace-dotnet.md) | ⭐ 575 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,660 | 2026-08-02 | 9 |
+| [mcmonkeyprojects/SwarmUI](../repos/mcmonkeyprojects/SwarmUI.md) | ⭐ 4,588 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bloxstraplabs/bloxstrap](../repos/bloxstraplabs/bloxstrap.md) | ⭐ 3,151 | 2026-08-04 | 9 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,591 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,292 | 2026-08-04 | 14 |
+| [builtbybel/FlyOOBE](../repos/builtbybel/FlyOOBE.md) | ⭐ 7,352 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,863 | 2026-08-07 | 9 |
+| [Tichau/FileConverter](../repos/Tichau/FileConverter.md) | ⭐ 15,239 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 8,689 | 2026-08-09 | 7 |
+| [TechnitiumSoftware/DnsServer](../repos/TechnitiumSoftware/DnsServer.md) | ⭐ 9,973 | 2026-08-12 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/FlyOOBE](../repos/builtbybel/FlyOOBE.md) | ⭐ 7,345 | 2026-08-11 | 3 |
+| [indiff/qttabbar](../repos/indiff/qttabbar.md) | ⭐ 4,901 | 2026-08-14 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Facepunch/sbox-public](../repos/Facepunch/sbox-public.md) | ⭐ 6,454 | 2026-08-23 | s&amp;box is a modern game engine, built on Valve&#39;s Source 2 and the latest .NET technology, it provi... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rocksdanister/lively](../repos/rocksdanister/lively.md) | ⭐ 19,643 | 2026-08-23 | Free and open-source software that allows users to set animated desktop wallpapers and screensave... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Orbmu2k/nvidiaProfileInspector](../repos/Orbmu2k/nvidiaProfileInspector.md) | ⭐ 7,275 | 2026-08-23 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Greedeks/GTweak](../repos/Greedeks/GTweak.md) | ⭐ 1,621 | 2026-08-24 | Portable Tool for an Ideal Windows Setup |
@@ -79,7 +70,16 @@
 | [SirDiabo/GithubLauncher](../repos/SirDiabo/GithubLauncher.md) | ⭐ 1,560 | 2026-08-27 | A Launcher that Downloads and Updates Applications from Github Releases |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,880 | 2026-08-27 | Bring macOS “Quick Look” feature to Windows |
+| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,907 | 2026-08-27 | Bring macOS “Quick Look” feature to Windows |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dotnet/android](../repos/dotnet/android.md) | ⭐ 2,137 | 2026-08-28 | .NET for Android provides open-source bindings of the Android SDK for use with .NET managed langu... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,038 | 2026-08-28 | Windows Calculator: A simple yet powerful calculator that ships with Windows |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nilaoda/N_m3u8DL-RE](../repos/nilaoda/N_m3u8DL-RE.md) | ⭐ 8,771 | 2026-09-01 | Cross-Platform, modern and powerful stream downloader for MPD&#x2F;M3U8&#x2F;ISM. English&#x2F;简体中文&#x2F;繁體中文.  |
 
 
 ---
@@ -96,15 +96,15 @@
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,734 | 2026-08-03 | 7 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,456 | 2026-08-01 | 14 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,056 | 2026-08-01 | 15 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,038 | 2026-08-28 | 2 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 30,364 | 2026-08-01 | 14 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,578 | 2026-08-05 | 9 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,591 | 2026-08-05 | 10 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 28,548 | 2026-08-02 | 24 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,603 | 2026-08-10 | 3 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,096 | 2026-08-01 | 6 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,058 | 2026-08-02 | 6 |
-| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,880 | 2026-08-27 | 5 |
+| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,907 | 2026-08-27 | 6 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,677 | 2026-08-01 | 9 |
 | [BluePointLilac/ContextMenuManager](../repos/BluePointLilac/ContextMenuManager.md) | ⭐ 20,102 | 2026-09-08 | 2 |
@@ -119,8 +119,8 @@
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 21 | ⭐ 116,644 | 2026-08-02 | 2026-09-21 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 18 | ⭐ 5,445 | 2026-08-03 | 2026-09-19 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 17 | ⭐ 56,905 | 2026-08-02 | 2026-09-10 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 15 | ⭐ 31,056 | 2026-08-01 | 2026-09-22 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 15 | ⭐ 15,604 | 2026-08-02 | 2026-09-20 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 14 | ⭐ 30,364 | 2026-08-01 | 2026-09-09 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 14 | ⭐ 38,456 | 2026-08-01 | 2026-09-20 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | 14 | ⭐ 18,292 | 2026-08-04 | 2026-09-21 |
 | [microsoft/aspire](../repos/microsoft/aspire.md) | 14 | ⭐ 6,317 | 2026-08-05 | 2026-09-19 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.836Z*
+*Last updated: 2026-09-22T21:02:08.053Z*

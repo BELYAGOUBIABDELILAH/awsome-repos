@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 197
+- **Total Repositories**: 202
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 973 | 2026-08-02 | 8 |
+| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,647 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,715 | 2026-08-04 | 6 |
+| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 985 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,655 | 2026-08-04 | 8 |
+| [microsoft/mimalloc](../repos/microsoft/mimalloc.md) | ⭐ 13,391 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,145 | 2026-08-07 | 12 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,585 | 2026-08-06 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [86Box/86Box](../repos/86Box/86Box.md) | ⭐ 4,813 | 2026-08-09 | 4 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 44,179 | 2026-08-07 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FWGS/xash3d-fwgs](../repos/FWGS/xash3d-fwgs.md) | ⭐ 2,794 | 2026-08-09 | 4 |
+| [HermannBjorgvin/Clawdmeter](../repos/HermannBjorgvin/Clawdmeter.md) | ⭐ 2,215 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Next-Flip/Momentum-Firmware](../repos/Next-Flip/Momentum-Firmware.md) | ⭐ 9,155 | 2026-08-19 | 2 |
+| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 4,483 | 2026-08-15 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PerformanC/ReZygisk](../repos/PerformanC/ReZygisk.md) | ⭐ 3,961 | 2026-09-04 | 3 |
+| [stackia/rtp2httpd](../repos/stackia/rtp2httpd.md) | ⭐ 2,126 | 2026-08-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [luka-dev/mib2q-carplay-rgi](../repos/luka-dev/mib2q-carplay-rgi.md) | ⭐ 194 | 2026-09-20 | 2 |
+| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,470 | 2026-08-24 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vladelaina/Catime](../repos/vladelaina/Catime.md) | ⭐ 4,837 | 2026-09-21 | 1 |
+| [snesrev/zelda3](../repos/snesrev/zelda3.md) | ⭐ 4,800 | 2026-09-22 | 1 |
 
 
 ---
@@ -52,25 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sandboxie-plus/Sandboxie](../repos/sandboxie-plus/Sandboxie.md) | ⭐ 19,494 | 2026-08-23 | Sandboxie Plus &amp; Classic |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [moonlight-stream/moonlight-android](../repos/moonlight-stream/moonlight-android.md) | ⭐ 7,110 | 2026-08-23 | GameStream client for Android |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [wine-mirror/wine](../repos/wine-mirror/wine.md) | ⭐ 4,148 | 2026-08-23 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [RxNaison/Epson-Waste-Reset](../repos/RxNaison/Epson-Waste-Reset.md) | ⭐ 146 | 2026-08-23 | A free, native, and completely open-source utility to reset the &quot;Waste Ink Pad&quot; counter on Epson ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [HarbourMasters/Shipwright](../repos/HarbourMasters/Shipwright.md) | ⭐ 5,390 | 2026-08-24 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tqbf/mdv](../repos/tqbf/mdv.md) | ⭐ 262 | 2026-08-24 | Markdown Viewer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,410 | 2026-08-24 | A new bootable USB solution. |
+| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,470 | 2026-08-24 | A new bootable USB solution. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OleksandrChekhovskyi/hax](../repos/OleksandrChekhovskyi/hax.md) | ⭐ 650 | 2026-08-25 | A minimalist, terminal-native coding agent written in C. |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [containers/crun](../repos/containers/crun.md) | ⭐ 4,076 | 2026-08-25 | A fast and lightweight fully featured OCI runtime and C library for running containers |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [firedancer-io/firedancer](../repos/firedancer-io/firedancer.md) | ⭐ 1,510 | 2026-08-26 | Firedancer is Jump Crypto&#39;s Solana validator software. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [espeak-ng/espeak-ng](../repos/espeak-ng/espeak-ng.md) | ⭐ 6,772 | 2026-08-27 | eSpeak NG is an open source speech synthesizer that supports more than hundred languages and acce... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [containers/bubblewrap](../repos/containers/bubblewrap.md) | ⭐ 8,520 | 2026-08-28 | Low-level unprivileged sandboxing tool used by Flatpak and similar projects |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sunblaze-ucb/exploitgym](../repos/sunblaze-ucb/exploitgym.md) | ⭐ 942 | 2026-08-28 | ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed t... |
 
 
 ---
@@ -90,12 +90,12 @@
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,145 | 2026-08-07 | 12 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,519 | 2026-08-01 | 17 |
-| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,410 | 2026-08-24 | 2 |
+| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,470 | 2026-08-24 | 3 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,206 | 2026-08-02 | 13 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 71,457 | 2026-08-01 | 18 |
 | [git/git](../repos/git/git.md) | ⭐ 63,088 | 2026-08-05 | 5 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 42,675 | 2026-08-07 | 16 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 44,179 | 2026-08-07 | 17 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,380 | 2026-08-01 | 6 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
@@ -118,10 +118,10 @@
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 35 | ⭐ 16,582 | 2026-08-01 | 2026-09-10 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 18 | ⭐ 71,457 | 2026-08-01 | 2026-09-19 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 17 | ⭐ 138,519 | 2026-08-01 | 2026-09-09 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 16 | ⭐ 42,675 | 2026-08-07 | 2026-09-08 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 17 | ⭐ 44,179 | 2026-08-07 | 2026-09-22 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 16 | ⭐ 16,585 | 2026-08-06 | 2026-09-22 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 16 | ⭐ 27,819 | 2026-08-07 | 2026-09-10 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 15 | ⭐ 6,952 | 2026-08-04 | 2026-09-09 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 15 | ⭐ 16,494 | 2026-08-06 | 2026-09-12 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 13 | ⭐ 76,206 | 2026-08-02 | 2026-09-14 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 12 | ⭐ 150,145 | 2026-08-07 | 2026-09-21 |
 | [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 11 | ⭐ 4,473 | 2026-08-04 | 2026-09-05 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.829Z*
+*Last updated: 2026-09-22T21:02:08.043Z*

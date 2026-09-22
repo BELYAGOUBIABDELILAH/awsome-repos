@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 240
+- **Total Repositories**: 241
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-20
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 129,089 | 2026-08-01 | 25 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 508 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) | ⭐ 8,952 | 2026-08-03 | 8 |
+| [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | ⭐ 11,583 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ValveSoftware/Proton](../repos/ValveSoftware/Proton.md) | ⭐ 32,852 | 2026-08-03 | 4 |
+| [CleverRaven/Cataclysm-DDA](../repos/CleverRaven/Cataclysm-DDA.md) | ⭐ 13,217 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [luau-lang/luau](../repos/luau-lang/luau.md) | ⭐ 5,887 | 2026-08-03 | 3 |
+| [cloudflare/workerd](../repos/cloudflare/workerd.md) | ⭐ 8,766 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,331 | 2026-08-09 | 7 |
+| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,963 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tdlib/td](../repos/tdlib/td.md) | ⭐ 9,112 | 2026-08-10 | 2 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,335 | 2026-08-09 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [awalol/DS5Dongle](../repos/awalol/DS5Dongle.md) | ⭐ 2,801 | 2026-08-19 | 2 |
+| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 26,029 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Vita3K/Vita3K](../repos/Vita3K/Vita3K.md) | ⭐ 5,739 | 2026-08-23 | 5 |
+| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 7,100 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [monero-project/monero](../repos/monero-project/monero.md) | ⭐ 10,864 | 2026-09-02 | 2 |
+| [amnezia-vpn/amnezia-client](../repos/amnezia-vpn/amnezia-client.md) | ⭐ 15,132 | 2026-08-16 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [f4exb/sdrangel](../repos/f4exb/sdrangel.md) | ⭐ 4,048 | 2026-09-21 | 1 |
+| [harry7557558/spirula-studio](../repos/harry7557558/spirula-studio.md) | ⭐ 588 | 2026-09-03 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ran-j/PS2Recomp](../repos/ran-j/PS2Recomp.md) | ⭐ 3,191 | 2026-08-23 | Playstation 2 Static Recompiler &amp; Runtime Tool to make native PC ports |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ValveSoftware/source-sdk-2013](../repos/ValveSoftware/source-sdk-2013.md) | ⭐ 9,939 | 2026-08-23 | The 2013 edition of the Source SDK |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Vita3K/Vita3K](../repos/Vita3K/Vita3K.md) | ⭐ 5,739 | 2026-08-23 | Experimental PlayStation Vita emulator |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [edin45/simple_photogrammetry_gui](../repos/edin45/simple_photogrammetry_gui.md) | ⭐ 559 | 2026-08-24 |  |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [M2Team/NanaZip](../repos/M2Team/NanaZip.md) | ⭐ 15,416 | 2026-08-25 | The 7-Zip derivative intended for the modern Windows experience |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [k4zmu2a/SpaceCadetPinball](../repos/k4zmu2a/SpaceCadetPinball.md) | ⭐ 4,620 | 2026-08-26 | Decompilation of 3D Pinball for Windows – Space Cadet |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CMU-Perceptual-Computing-Lab/openpose](../repos/CMU-Perceptual-Computing-Lab/openpose.md) | ⭐ 34,412 | 2026-08-26 | OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estim... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [yhirose/cpp-httplib](../repos/yhirose/cpp-httplib.md) | ⭐ 16,786 | 2026-08-26 | A C++ header-only HTTP&#x2F;HTTPS server and client library |
 
 
 ---
@@ -93,7 +93,7 @@
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | 2026-08-04 | 4 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 117,022 | 2026-08-01 | 9 |
-| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,948 | 2026-08-06 | 5 |
+| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,963 | 2026-08-06 | 6 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,164 | 2026-08-02 | 8 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,568 | 2026-08-12 | 6 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,148 | 2026-08-08 | 13 |
@@ -106,7 +106,7 @@
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,533 | 2026-08-19 | 8 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,331 | 2026-08-09 | 7 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,335 | 2026-08-09 | 8 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,679 | 2026-08-02 | 5 |
 
 ---
@@ -121,8 +121,8 @@
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 13 | ⭐ 76,148 | 2026-08-08 | 2026-09-10 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 12 | ⭐ 71,999 | 2026-08-01 | 2026-09-04 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 12 | ⭐ 29,564 | 2026-08-01 | 2026-09-02 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 11 | ⭐ 508 | 2026-08-01 | 2026-09-22 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 11 | ⭐ 10,993 | 2026-08-02 | 2026-09-14 |
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 10 | ⭐ 505 | 2026-08-01 | 2026-09-19 |
 | [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | 10 | ⭐ 683 | 2026-08-02 | 2026-09-07 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 9 | ⭐ 117,022 | 2026-08-01 | 2026-09-12 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.839Z*
+*Last updated: 2026-09-22T21:02:08.057Z*

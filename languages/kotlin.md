@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,468 | 2026-08-02 | 12 |
+| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | ⭐ 1,097 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 6,195 | 2026-08-02 | 7 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,476 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,716 | 2026-08-03 | 10 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,755 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xororz/local-dream](../repos/xororz/local-dream.md) | ⭐ 3,506 | 2026-08-07 | 3 |
+| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,286 | 2026-08-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | ⭐ 6,330 | 2026-08-09 | 5 |
+| [zhanghai/MaterialFiles](../repos/zhanghai/MaterialFiles.md) | ⭐ 9,034 | 2026-08-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Davidona/StreamVault-IPTV](../repos/Davidona/StreamVault-IPTV.md) | ⭐ 750 | 2026-08-12 | 5 |
+| [nightscout/AndroidAPS](../repos/nightscout/AndroidAPS.md) | ⭐ 1,178 | 2026-08-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XayahSuSuSu/Android-DataBackup](../repos/XayahSuSuSu/Android-DataBackup.md) | ⭐ 7,368 | 2026-08-12 | 2 |
+| [marlboro-advance/mpvEx](../repos/marlboro-advance/mpvEx.md) | ⭐ 2,553 | 2026-08-28 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 1,122 | 2026-08-19 | 6 |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,225 | 2026-09-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhanghai/MaterialFiles](../repos/zhanghai/MaterialFiles.md) | ⭐ 9,022 | 2026-08-19 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [NeoApplications/Neo-Store](../repos/NeoApplications/Neo-Store.md) | ⭐ 5,171 | 2026-09-09 | 3 |
+| [ximeiorg/Xime](../repos/ximeiorg/Xime.md) | ⭐ 1,007 | 2026-09-09 | 5 |
 
 
 ---
@@ -76,10 +73,10 @@
 | [hoo-dles/morphe-patches](../repos/hoo-dles/morphe-patches.md) | ⭐ 1,004 | 2026-08-26 | 🍃 Patches for Morphe |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nightscout/AndroidAPS](../repos/nightscout/AndroidAPS.md) | ⭐ 1,156 | 2026-08-27 | Opensource automated insulin delivery system (closed loop) |
+| [nightscout/AndroidAPS](../repos/nightscout/AndroidAPS.md) | ⭐ 1,178 | 2026-08-27 | Opensource automated insulin delivery system (closed loop) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [marlboro-advance/mpvEx](../repos/marlboro-advance/mpvEx.md) | ⭐ 2,463 | 2026-08-28 | A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked... |
+| [marlboro-advance/mpvEx](../repos/marlboro-advance/mpvEx.md) | ⭐ 2,553 | 2026-08-28 | A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked... |
 
 
 ---
@@ -101,10 +98,10 @@
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,457 | 2026-08-05 | 5 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,573 | 2026-08-02 | 4 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,792 | 2026-08-01 | 6 |
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,186 | 2026-09-07 | 3 |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,225 | 2026-09-07 | 4 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,820 | 2026-08-17 | 4 |
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,600 | 2026-08-02 | 6 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,755 | 2026-08-02 | 7 |
 | [ktorio/ktor](../repos/ktorio/ktor.md) | ⭐ 14,525 | 2026-09-12 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,644 | 2026-08-06 | 7 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,337 | 2026-08-02 | 10 |
@@ -118,8 +115,8 @@
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 14 | ⭐ 62,632 | 2026-08-02 | 2026-09-14 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 14 | ⭐ 30,368 | 2026-08-08 | 2026-09-20 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 13 | ⭐ 23,718 | 2026-08-01 | 2026-09-20 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 13 | ⭐ 2,476 | 2026-08-02 | 2026-09-22 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 13 | ⭐ 53,585 | 2026-08-06 | 2026-09-19 |
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 12 | ⭐ 2,468 | 2026-08-02 | 2026-09-21 |
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 12 | ⭐ 845 | 2026-08-05 | 2026-09-12 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 10 | ⭐ 4,386 | 2026-08-02 | 2026-08-26 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 10 | ⭐ 11,337 | 2026-08-02 | 2026-09-07 |
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.869Z*
+*Last updated: 2026-09-22T21:02:08.095Z*

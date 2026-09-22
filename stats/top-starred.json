@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:01:57.668Z",
+  "generated_at": "2026-09-22T21:02:14.244Z",
   "total_count": 100,
   "repositories": [
     {
@@ -107,10 +107,10 @@
       "full_name": "ossu/computer-science",
       "owner": "ossu",
       "name": "computer-science",
-      "stars": 209333,
+      "stars": 209375,
       "language": "HTML",
       "first_seen": "2026-08-03",
-      "trending_days": 13
+      "trending_days": 14
     },
     {
       "rank": 12,
@@ -267,10 +267,10 @@
       "full_name": "anthropics/claude-code",
       "owner": "anthropics",
       "name": "claude-code",
-      "stars": 147456,
+      "stars": 147645,
       "language": "TypeScript",
       "first_seen": "2026-08-07",
-      "trending_days": 14
+      "trending_days": 15
     },
     {
       "rank": 28,
@@ -587,10 +587,10 @@
       "full_name": "microsoft/terminal",
       "owner": "microsoft",
       "name": "terminal",
-      "stars": 104948,
+      "stars": 104963,
       "language": "C++",
       "first_seen": "2026-08-06",
-      "trending_days": 5
+      "trending_days": 6
     },
     {
       "rank": 60,
@@ -687,10 +687,10 @@
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
-      "stars": 95128,
+      "stars": 95167,
       "language": "Shell",
       "first_seen": "2026-08-01",
-      "trending_days": 26
+      "trending_days": 27
     },
     {
       "rank": 70,
@@ -877,10 +877,10 @@
       "full_name": "tonsky/FiraCode",
       "owner": "tonsky",
       "name": "FiraCode",
-      "stars": 82036,
+      "stars": 82045,
       "language": "Clojure",
       "first_seen": "2026-08-01",
-      "trending_days": 34
+      "trending_days": 35
     },
     {
       "rank": 89,
@@ -937,10 +937,10 @@
       "full_name": "ventoy/Ventoy",
       "owner": "ventoy",
       "name": "Ventoy",
-      "stars": 79410,
+      "stars": 79470,
       "language": "C",
       "first_seen": "2026-08-24",
-      "trending_days": 2
+      "trending_days": 3
     },
     {
       "rank": 95,
@@ -977,10 +977,10 @@
       "full_name": "elastic/elasticsearch",
       "owner": "elastic",
       "name": "elasticsearch",
-      "stars": 77933,
+      "stars": 77964,
       "language": "Java",
       "first_seen": "2026-08-02",
-      "trending_days": 9
+      "trending_days": 10
     },
     {
       "rank": 99,

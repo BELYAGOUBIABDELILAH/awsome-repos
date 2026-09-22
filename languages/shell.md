@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 116
+- **Total Repositories**: 119
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,25 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,684 | 2026-08-04 | 7 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,167 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,356 | 2026-08-11 | 8 |
+| [Chachamaru127/claude-code-harness](../repos/Chachamaru127/claude-code-harness.md) | ⭐ 3,133 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) | ⭐ 2,942 | 2026-08-15 | 4 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,691 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sabamdarif/termux-desktop](../repos/sabamdarif/termux-desktop.md) | ⭐ 2,268 | 2026-09-06 | 3 |
+| [orbstack/orbstack](../repos/orbstack/orbstack.md) | ⭐ 9,352 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) | ⭐ 979 | 2026-09-07 | 4 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,837 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fscarmen/sing-box](../repos/fscarmen/sing-box.md) | ⭐ 5,689 | 2026-09-21 | 1 |
+| [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) | ⭐ 3,007 | 2026-08-15 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wlzh/dji-4g-vohive-mac](../repos/wlzh/dji-4g-vohive-mac.md) | ⭐ 1,062 | 2026-09-21 | 1 |
+| [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) | ⭐ 1,023 | 2026-09-07 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Bash-it/bash-it](../repos/Bash-it/bash-it.md) | ⭐ 15,235 | 2026-09-22 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [iamj0ker/bypass-403](../repos/iamj0ker/bypass-403.md) | ⭐ 2,257 | 2026-09-22 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [kejilion/sh](../repos/kejilion/sh.md) | ⭐ 3,172 | 2026-09-22 | 1 |
 
 
 ---
@@ -80,11 +89,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,128 | 2026-08-01 | 26 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,167 | 2026-08-01 | 27 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,417 | 2026-08-04 | 6 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,261 | 2026-08-06 | 9 |
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,684 | 2026-08-04 | 7 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,691 | 2026-08-04 | 8 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 40,042 | 2026-08-29 | 3 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,222 | 2026-08-20 | 8 |
@@ -106,7 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 26 | ⭐ 95,128 | 2026-08-01 | 2026-09-19 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 27 | ⭐ 95,167 | 2026-08-01 | 2026-09-22 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [expo/skills](../repos/expo/skills.md) | 22 | ⭐ 2,589 | 2026-08-07 | 2026-09-20 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 16 | ⭐ 6,854 | 2026-08-12 | 2026-09-20 |
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.896Z*
+*Last updated: 2026-09-22T21:02:08.129Z*

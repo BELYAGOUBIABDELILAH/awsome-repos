@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 90
+- **Total Repositories**: 91
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-21
+- **Last Updated**: 2026-09-22
 
 ---
 
@@ -16,37 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,333 | 2026-08-03 | 13 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 66,242 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 26,740 | 2026-08-04 | 9 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,375 | 2026-08-03 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,561 | 2026-08-04 | 11 |
+| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 6,209 | 2026-08-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 137,947 | 2026-08-08 | 12 |
+| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,529 | 2026-08-19 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 6,181 | 2026-08-19 | 5 |
+| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,078 | 2026-09-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,511 | 2026-08-19 | 6 |
+| [chiphuyen/machine-learning-systems-design](../repos/chiphuyen/machine-learning-systems-design.md) | ⭐ 10,658 | 2026-09-21 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,225 | 2026-09-19 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [chiphuyen/machine-learning-systems-design](../repos/chiphuyen/machine-learning-systems-design.md) | ⭐ 10,645 | 2026-09-21 | 1 |
+| [zouzhekang/YJYpaper](../repos/zouzhekang/YJYpaper.md) | ⭐ 3,638 | 2026-09-22 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [webmin/webmin](../repos/webmin/webmin.md) | ⭐ 6,065 | 2026-08-23 | Powerful and flexible web-based server management control panel |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [w3c/wcag](../repos/w3c/wcag.md) | ⭐ 1,482 | 2026-08-24 | Web Content Accessibility Guidelines |
@@ -74,6 +68,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [atelier-anchor/smiley-sans](../repos/atelier-anchor/smiley-sans.md) | ⭐ 14,742 | 2026-08-29 | 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Sushegaad/Claude-Skills-Governance-Risk-and-Compliance](../repos/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance.md) | ⭐ 867 | 2026-09-01 | Claude Skills for Governance, Risk, &amp; Compliance (GRC): Expert-level compliance guidance for ISO ... |
 
 
 ---
@@ -82,10 +79,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,333 | 2026-08-03 | 13 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,375 | 2026-08-03 | 14 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 137,947 | 2026-08-08 | 12 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,438 | 2026-08-19 | 6 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 65,728 | 2026-08-01 | 12 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 66,242 | 2026-08-01 | 13 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,262 | 2026-08-01 | 6 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 40,978 | 2026-09-03 | 1 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,545 | 2026-08-07 | 3 |
@@ -93,7 +90,7 @@
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 37,645 | 2026-08-12 | 11 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,595 | 2026-08-09 | 8 |
-| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,511 | 2026-08-19 | 6 |
+| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,529 | 2026-08-19 | 7 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,532 | 2026-08-03 | 9 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 26,740 | 2026-08-04 | 9 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
@@ -109,8 +106,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | 13 | ⭐ 209,333 | 2026-08-03 | 2026-09-21 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 12 | ⭐ 65,728 | 2026-08-01 | 2026-09-07 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | 14 | ⭐ 209,375 | 2026-08-03 | 2026-09-22 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 13 | ⭐ 66,242 | 2026-08-01 | 2026-09-22 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 12 | ⭐ 9,214 | 2026-08-03 | 2026-09-12 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 12 | ⭐ 137,947 | 2026-08-08 | 2026-09-21 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 11 | ⭐ 16,561 | 2026-08-04 | 2026-09-21 |
@@ -214,7 +211,8 @@
 - [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) - Crack Interface lockscreen, Metasploit and More Android&#x2F;IOS Hacking
 - [TandoorRecipes/recipes](../repos/TandoorRecipes/recipes.md) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [chiphuyen/machine-learning-systems-design](../repos/chiphuyen/machine-learning-systems-design.md) - A booklet on machine learning systems design with exercises. NOT the repo for the book &quot;Designing...
+- [zouzhekang/YJYpaper](../repos/zouzhekang/YJYpaper.md) - 一个用来记录武汉大学杨景媛论文问题的仓库
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.859Z*
+*Last updated: 2026-09-22T21:02:08.082Z*

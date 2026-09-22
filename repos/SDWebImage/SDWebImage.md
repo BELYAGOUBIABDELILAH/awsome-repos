@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Objective-C |
 | **License** | MIT |
-| **Stars** | ⭐ 25,633 |
-| **Forks** | 🍴 5,957 |
-| **Trending Days** | 26 |
+| **Stars** | ⭐ 25,629 |
+| **Forks** | 🍴 5,958 |
+| **Trending Days** | 27 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 8, 2026 |
+| **Last Seen** | Sep 22, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 26
+- **Trending Days**: 27
 - **Longest Streak**: 8 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:51.572Z*  
-*Data from 26 trending reports*
+*Last updated: 2026-09-22T21:02:10.438Z*  
+*Data from 27 trending reports*

@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 407
+**Gems Found**: 401
 
 ---
 
@@ -59,7 +59,7 @@
 |---|---|
 | ⭐ **Stars** | 3,374 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 88/100 |
+| 🏆 **Gem Score** | 87/100 |
 | 📈 **Trending Days** | 4 |
 | 📅 **First Seen** | Aug 16, 2026 |
 
@@ -251,27 +251,7 @@
 
 ---
 
-### 13. [livekit&#x2F;agents](../../repos/livekit/agents.md)
-
-**A framework for building realtime voice AI agents 🤖🎙️📹 **
-
-| | |
-|---|---|
-| ⭐ **Stars** | 13,556 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 83/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 3, 2026 |
-
-**Why it's a gem**: High growth velocity (+296 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/livekit/agents.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;livekit&#x2F;agents)
-
----
-
-### 14. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 13. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
 **ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
@@ -291,7 +271,7 @@
 
 ---
 
-### 15. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
+### 14. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
 
 **Mission control for your AI agents**
 
@@ -308,6 +288,26 @@
 **Best for**: 
 
 [View Passport](../../repos/RizRiyz/luvus.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;RizRiyz&#x2F;luvus)
+
+---
+
+### 15. [livekit&#x2F;agents](../../repos/livekit/agents.md)
+
+**A framework for building realtime voice AI agents 🤖🎙️📹 **
+
+| | |
+|---|---|
+| ⭐ **Stars** | 13,556 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 82/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 3, 2026 |
+
+**Why it's a gem**: High growth velocity (+296 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/livekit/agents.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;livekit&#x2F;agents)
 
 ---
 
@@ -391,23 +391,23 @@
 
 ---
 
-### 20. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 20. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
 
-**Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
+**Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7,237 |
-| 💻 **Language** | Go |
+| ⭐ **Stars** | 4,568 |
+| 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 81/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 6, 2026 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 8, 2026 |
 
-**Why it's a gem**: High growth velocity (+79 stars&#x2F;day) • Trending 4 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/chenyme/grok2api.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chenyme&#x2F;grok2api)
+[View Passport](../../repos/malisper/pgrust.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;malisper&#x2F;pgrust)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-21T21:01:57.533Z*  
+*Generated: 2026-09-22T21:02:14.084Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

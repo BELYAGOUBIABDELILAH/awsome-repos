@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 184
+- **Total Repositories**: 187
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-10
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 29,237 | 2026-08-03 | 11 |
+| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 4,985 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pola-rs/polars](../repos/pola-rs/polars.md) | ⭐ 39,827 | 2026-08-05 | 6 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,703 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 15,793 | 2026-08-10 | 7 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 40,038 | 2026-08-10 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/datafusion](../repos/apache/datafusion.md) | ⭐ 9,343 | 2026-08-10 | 4 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 8,068 | 2026-08-17 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 40,011 | 2026-08-10 | 11 |
+| [cloudflare/quiche](../repos/cloudflare/quiche.md) | ⭐ 12,486 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 7,613 | 2026-08-17 | 7 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 8,340 | 2026-08-26 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/quiche](../repos/cloudflare/quiche.md) | ⭐ 12,312 | 2026-08-19 | 4 |
+| [yynxxxxx/Codex-X](../repos/yynxxxxx/Codex-X.md) | ⭐ 3,851 | 2026-09-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xai-org/x-algorithm](../repos/xai-org/x-algorithm.md) | ⭐ 33,338 | 2026-09-03 | 3 |
+| [HelixDB/helix-db](../repos/HelixDB/helix-db.md) | ⭐ 6,077 | 2026-09-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 14,597 | 2026-09-04 | 4 |
+| [smol-machines/smolvm](../repos/smol-machines/smolvm.md) | ⭐ 6,273 | 2026-09-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [feigeCode/navop](../repos/feigeCode/navop.md) | ⭐ 1,454 | 2026-09-10 | 2 |
+| [hydra-db/hydradb](../repos/hydra-db/hydradb.md) | ⭐ 4,190 | 2026-09-22 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [slint-ui/slint](../repos/slint-ui/slint.md) | ⭐ 23,730 | 2026-08-23 | Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, Ja... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [gitbutlerapp/gitbutler](../repos/gitbutlerapp/gitbutler.md) | ⭐ 21,553 | 2026-08-23 | The GitButler version control client, backed by Git, powered by Tauri&#x2F;Rust&#x2F;Svelte |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rust-lang/rust-analyzer](../repos/rust-lang/rust-analyzer.md) | ⭐ 16,845 | 2026-08-23 | A Rust compiler front-end for IDEs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [GitoxideLabs/gitoxide](../repos/GitoxideLabs/gitoxide.md) | ⭐ 11,849 | 2026-08-24 | An idiomatic, lean, fast &amp; safe pure Rust implementation of Git |
@@ -79,7 +70,16 @@
 | [transact-rs/sqlx](../repos/transact-rs/sqlx.md) | ⭐ 17,472 | 2026-08-25 | 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries wit... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 7,642 | 2026-08-26 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 8,340 | 2026-08-26 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [RizRiyz/luvus](../repos/RizRiyz/luvus.md) | ⭐ 477 | 2026-08-26 | Mission control for your AI agents |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zhom/donutbrowser](../repos/zhom/donutbrowser.md) | ⭐ 3,720 | 2026-08-26 | Simple Yet Powerful Anti-Detect Browser 🍩 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Xoshbin/asyar](../repos/Xoshbin/asyar.md) | ⭐ 519 | 2026-08-26 | The power of Raycast. The speed of Alfred. Privacy by design. |
 
 
 ---
@@ -104,7 +104,7 @@
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,503 | 2026-08-12 | 3 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 47,938 | 2026-08-28 | 1 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 45,967 | 2026-08-28 | 1 |
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,464 | 2026-08-05 | 4 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,703 | 2026-08-05 | 5 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 42,307 | 2026-08-02 | 8 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,341 | 2026-08-02 | 2 |
@@ -115,10 +115,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 12 | ⭐ 40,038 | 2026-08-10 | 2026-09-22 |
 | [openai/codex](../repos/openai/codex.md) | 11 | ⭐ 123,093 | 2026-08-01 | 2026-09-10 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 11 | ⭐ 29,237 | 2026-08-03 | 2026-09-21 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 11 | ⭐ 93,786 | 2026-08-09 | 2026-09-14 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 11 | ⭐ 40,011 | 2026-08-10 | 2026-09-21 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 10 | ⭐ 19,259 | 2026-08-01 | 2026-09-12 |
 | [rustfs/rustfs](../repos/rustfs/rustfs.md) | 10 | ⭐ 33,302 | 2026-08-09 | 2026-09-19 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 9 | ⭐ 11,298 | 2026-08-09 | 2026-09-20 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.893Z*
+*Last updated: 2026-09-22T21:02:08.124Z*

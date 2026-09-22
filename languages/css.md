@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 65
+- **Total Repositories**: 66
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-19
 
@@ -16,22 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 920 | 2026-08-01 | 31 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,314 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) | ⭐ 6,069 | 2026-08-02 | 5 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,442 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,313 | 2026-08-08 | 8 |
+| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,410 | 2026-08-03 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,329 | 2026-08-04 | 20 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,606 | 2026-08-04 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [NilverTI/Web-Flores](../repos/NilverTI/Web-Flores.md) | ⭐ 27 | 2026-09-22 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | List of awesome CSS frameworks in 2026 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) | ⭐ 7,332 | 2026-08-24 | ❤️静态响应式网址导航网站 - webstack.cc |
@@ -59,6 +65,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | Monospaced font family for user interface and coding environments |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SillyTavern/SillyTavern-Docs](../repos/SillyTavern/SillyTavern-Docs.md) | ⭐ 160 | 2026-09-08 | Documentation website for SillyTavern. |
 
 
 ---
@@ -69,14 +78,14 @@
 |------------|-------|------------|---------------|
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,802 | 2026-08-06 | 14 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,525 | 2026-08-01 | 9 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,313 | 2026-08-04 | 19 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,329 | 2026-08-04 | 20 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,947 | 2026-08-02 | 22 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
-| [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,596 | 2026-08-04 | 3 |
+| [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,606 | 2026-08-04 | 4 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,419 | 2026-08-02 | 19 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,263 | 2026-08-01 | 18 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,314 | 2026-08-01 | 19 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,807 | 2026-08-04 | 6 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,650 | 2026-08-06 | 10 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,481 | 2026-08-09 | 2 |
@@ -85,7 +94,7 @@
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,363 | 2026-09-02 | 4 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,283 | 2026-08-01 | 16 |
-| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,414 | 2026-08-03 | 4 |
+| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,410 | 2026-08-03 | 5 |
 | [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,313 | 2026-08-08 | 8 |
 
 ---
@@ -94,13 +103,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 36 | ⭐ 1,438 | 2026-08-01 | 2026-09-20 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 37 | ⭐ 1,442 | 2026-08-01 | 2026-09-22 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 31 | ⭐ 920 | 2026-08-01 | 2026-09-21 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 22 | ⭐ 28,947 | 2026-08-02 | 2026-09-20 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 21 | ⭐ 1,408 | 2026-08-01 | 2026-08-29 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 20 | ⭐ 45,329 | 2026-08-04 | 2026-09-22 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 19 | ⭐ 12,314 | 2026-08-01 | 2026-09-22 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 19 | ⭐ 12,419 | 2026-08-02 | 2026-09-14 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 19 | ⭐ 45,313 | 2026-08-04 | 2026-09-12 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 18 | ⭐ 12,263 | 2026-08-01 | 2026-09-14 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 16 | ⭐ 9,283 | 2026-08-01 | 2026-09-20 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 15 | ⭐ 9,513 | 2026-08-05 | 2026-09-13 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 14 | ⭐ 82,802 | 2026-08-06 | 2026-09-19 |
@@ -174,7 +183,8 @@
 - [aws-samples/amplify-next-template](../repos/aws-samples/amplify-next-template.md) - This is a Next.js starter for building a fullstack app with AWS Amplify.
 - [jensimmons/cssremedy](../repos/jensimmons/cssremedy.md) - Start your project with a remedy for the technical debt of CSS. 
 - [CDCgov/prime-reportstream](../repos/CDCgov/prime-reportstream.md) - ReportStream is a public intermediary tool for delivery of data between different parts of the he...
+- [NilverTI/Web-Flores](../repos/NilverTI/Web-Flores.md) - Codigo de flores amarillas para regalar &#x2F; enviar a tu novia
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.841Z*
+*Last updated: 2026-09-22T21:02:08.059Z*

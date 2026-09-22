@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 34
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-21
+- **Last Updated**: 2026-09-22
 
 ---
 
@@ -16,28 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,764 | 2026-08-01 | 40 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,767 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,692 | 2026-08-01 | 22 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 494 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,076 | 2026-08-01 | 36 |
+| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,933 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [os-autoinst/os-autoinst-distri-opensuse](../repos/os-autoinst/os-autoinst-distri-opensuse.md) | ⭐ 91 | 2026-08-05 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [rsnapshot/rsnapshot](../repos/rsnapshot/rsnapshot.md) | ⭐ 3,683 | 2026-09-21 | 1 |
+| [os-autoinst/os-autoinst-distri-opensuse](../repos/os-autoinst/os-autoinst-distri-opensuse.md) | ⭐ 91 | 2026-08-05 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [benbernard/RecordStream](../repos/benbernard/RecordStream.md) | ⭐ 307 | 2026-08-23 | commandline tools for slicing and dicing JSON records. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ko-ichi-h/khcoder](../repos/ko-ichi-h/khcoder.md) | ⭐ 335 | 2026-08-26 | KH Coder: for Quantitative Content Analysis or Text Mining |
@@ -65,6 +59,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [docker-library/repo-info](../repos/docker-library/repo-info.md) | ⭐ 609 | 2026-09-12 | Extended information (especially license and layer details) about the published Official Images |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rsnapshot/rsnapshot](../repos/rsnapshot/rsnapshot.md) | ⭐ 3,683 | 2026-09-21 | a tool for backing up your data using rsync (if you want to get help, use https:&#x2F;&#x2F;lists.sourcefor... |
 
 
 ---
@@ -73,11 +70,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,764 | 2026-08-01 | 40 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,767 | 2026-08-01 | 41 |
 | [so-fancy/diff-so-fancy](../repos/so-fancy/diff-so-fancy.md) | ⭐ 18,090 | 2026-09-07 | 1 |
 | [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 5 |
 | [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,076 | 2026-08-01 | 36 |
-| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,929 | 2026-08-02 | 14 |
+| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,933 | 2026-08-02 | 15 |
 | [rsnapshot/rsnapshot](../repos/rsnapshot/rsnapshot.md) | ⭐ 3,683 | 2026-09-21 | 1 |
 | [ddclient/ddclient](../repos/ddclient/ddclient.md) | ⭐ 3,517 | 2026-08-10 | 5 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,680 | 2026-08-01 | 32 |
@@ -100,16 +97,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 40 | ⭐ 19,764 | 2026-08-01 | 2026-09-21 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 41 | ⭐ 19,767 | 2026-08-01 | 2026-09-22 |
 | [exiftool/exiftool](../repos/exiftool/exiftool.md) | 36 | ⭐ 5,076 | 2026-08-01 | 2026-09-21 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 32 | ⭐ 2,680 | 2026-08-01 | 2026-09-14 |
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 29 | ⭐ 492 | 2026-08-01 | 2026-09-19 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 30 | ⭐ 494 | 2026-08-01 | 2026-09-22 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | 25 | ⭐ 1,525 | 2026-08-01 | 2026-09-20 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 22 | ⭐ 1,692 | 2026-08-01 | 2026-09-21 |
 | [Perl/perl5](../repos/Perl/perl5.md) | 21 | ⭐ 2,325 | 2026-08-03 | 2026-09-19 |
 | [znuny/Znuny](../repos/znuny/Znuny.md) | 20 | ⭐ 595 | 2026-08-01 | 2026-09-20 |
 | [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | 20 | ⭐ 271 | 2026-08-02 | 2026-09-19 |
-| [awsdocs/aws-cdk-guide](../repos/awsdocs/aws-cdk-guide.md) | 15 | ⭐ 364 | 2026-08-02 | 2026-09-07 |
+| [holzschu/a-shell](../repos/holzschu/a-shell.md) | 15 | ⭐ 3,933 | 2026-08-02 | 2026-09-22 |
 
 ---
 
@@ -152,4 +149,4 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.883Z*
+*Last updated: 2026-09-22T21:02:08.113Z*

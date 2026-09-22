@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 244
+- **Total Repositories**: 245
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-09
 
@@ -16,49 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) | ⭐ 18,088 | 2026-08-02 | 5 |
+| [browser-use/video-use](../repos/browser-use/video-use.md) | ⭐ 25,762 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) | ⭐ 65,438 | 2026-08-09 | 6 |
+| [anthropics/financial-services](../repos/anthropics/financial-services.md) | ⭐ 36,269 | 2026-09-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docling-project/docling](../repos/docling-project/docling.md) | ⭐ 67,526 | 2026-08-19 | 6 |
+| [FareedKhan-dev/train-llm-from-scratch](../repos/FareedKhan-dev/train-llm-from-scratch.md) | ⭐ 10,814 | 2026-09-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
+| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 8,703 | 2026-09-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/financial-services](../repos/anthropics/financial-services.md) | ⭐ 35,767 | 2026-09-20 | 2 |
+| [mvt-project/mvt](../repos/mvt-project/mvt.md) | ⭐ 14,004 | 2026-09-21 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [paperless-ngx/paperless-ngx](../repos/paperless-ngx/paperless-ngx.md) | ⭐ 45,828 | 2026-09-20 | 2 |
+| [TNT-Likely/PanWatch](../repos/TNT-Likely/PanWatch.md) | ⭐ 1,297 | 2026-09-21 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 8,173 | 2026-09-20 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mvt-project/mvt](../repos/mvt-project/mvt.md) | ⭐ 13,529 | 2026-09-21 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cv-cat/DouYin_Spider](../repos/cv-cat/DouYin_Spider.md) | ⭐ 3,111 | 2026-09-21 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [TNT-Likely/PanWatch](../repos/TNT-Likely/PanWatch.md) | ⭐ 1,149 | 2026-09-21 | 1 |
+| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 2,148 | 2026-09-22 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [elder-plinius/OBLITERATUS](../repos/elder-plinius/OBLITERATUS.md) | ⭐ 7,984 | 2026-08-23 | OBLITERATE THE CHAINS THAT BIND YOU |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [davepoon/buildwithclaude](../repos/davepoon/buildwithclaude.md) | ⭐ 3,318 | 2026-08-23 | A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [shy3130/tick-stock-panel](../repos/shy3130/tick-stock-panel.md) | ⭐ 3,760 | 2026-08-23 | TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [HKUDS/Vibe-Trading](../repos/HKUDS/Vibe-Trading.md) | ⭐ 33,059 | 2026-08-24 | &quot;Vibe-Trading: Your Personal Trading Agent&quot; |
@@ -80,6 +62,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [aiming-lab/AutoResearchClaw](../repos/aiming-lab/AutoResearchClaw.md) | ⭐ 14,247 | 2026-08-26 | Fully autonomous &amp; self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ai-dynamo/aiperf](../repos/ai-dynamo/aiperf.md) | ⭐ 587 | 2026-08-26 | AIPerf is a comprehensive benchmarking tool that measures the performance of generative AI models... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [andrewyng/aisuite](../repos/andrewyng/aisuite.md) | ⭐ 16,187 | 2026-08-27 | Simple, unified interface to multiple Generative AI providers  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [htdt/godogen](../repos/htdt/godogen.md) | ⭐ 6,426 | 2026-08-27 | Autonomous game development for Godot, Bevy, and Babylon.js with Claude Code and Codex |
 
 
 ---
@@ -233,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:49.887Z*
+*Last updated: 2026-09-22T21:02:08.117Z*

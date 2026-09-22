@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | Not specified |
-| **Stars** | ⭐ 10,813 |
-| **Forks** | 🍴 9,624 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 10,837 |
+| **Forks** | 🍴 9,637 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Sep 8, 2026 |
+| **Last Seen** | Sep 22, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 2 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 10,813+ stars, strong contributor base |
+| **Community** | Very Active | 10,837+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-21T21:01:52.443Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-09-22T21:02:11.640Z*  
+*Data from 9 trending reports*
