@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Inactive | No recent updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:10.966Z*  
+*Last updated: 2026-09-24T21:01:49.604Z*  
 *Data from 1 trending reports*

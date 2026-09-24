@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 4,190 |
-| **Forks** | 🍴 1,218 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 5,900 |
+| **Forks** | 🍴 2,076 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 22, 2026 |
-| **Last Seen** | Sep 22, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Active | Regular contributions and discussions |
+| **Community** | Very Active | 5,900+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
 | **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-22T21:02:13.806Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-24T21:01:52.475Z*  
+*Data from 2 trending reports*

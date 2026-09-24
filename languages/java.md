@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 199
+- **Total Repositories**: 200
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-19
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,964 | 2026-08-02 | 10 |
+| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,759 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 28,262 | 2026-08-04 | 12 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,980 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,660 | 2026-08-05 | 13 |
+| [ashishps1/awesome-leetcode-resources](../repos/ashishps1/awesome-leetcode-resources.md) | ⭐ 17,896 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,575 | 2026-08-05 | 9 |
+| [adityatandon15/Low-Level-Design-Course](../repos/adityatandon15/Low-Level-Design-Course.md) | ⭐ 1,300 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,137 | 2026-08-05 | 9 |
+| [shmykelsa/AAAD](../repos/shmykelsa/AAAD.md) | ⭐ 2,989 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) | ⭐ 28,179 | 2026-08-07 | 8 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 28,335 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thingsboard/thingsboard](../repos/thingsboard/thingsboard.md) | ⭐ 22,465 | 2026-08-08 | 3 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,740 | 2026-08-05 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dataease/dataease](../repos/dataease/dataease.md) | ⭐ 24,533 | 2026-08-14 | 5 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,784 | 2026-08-05 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Card-Forge/forge](../repos/Card-Forge/forge.md) | ⭐ 2,726 | 2026-08-16 | 6 |
+| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,141 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kekingcn/kkFileView](../repos/kekingcn/kkFileView.md) | ⭐ 14,721 | 2026-08-19 | 2 |
+| [quarkusio/quarkus](../repos/quarkusio/quarkus.md) | ⭐ 15,904 | 2026-08-07 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [xandergos/terrain-diffusion-mc](../repos/xandergos/terrain-diffusion-mc.md) | ⭐ 830 | 2026-08-24 | Procedural terrain generation with diffusion models (in Minecraft) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Keeperorowner/NagramXF](../repos/Keeperorowner/NagramXF.md) | ⭐ 644 | 2026-08-24 | A fork of NagramX with additional features. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MeteorDevelopment/meteor-client](../repos/MeteorDevelopment/meteor-client.md) | ⭐ 3,850 | 2026-08-24 | Based Minecraft utility mod. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [JetBrains/intellij-community](../repos/JetBrains/intellij-community.md) | ⭐ 20,579 | 2026-08-25 | IntelliJ IDEA &amp; IntelliJ Platform |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apache/ozone](../repos/apache/ozone.md) | ⭐ 1,301 | 2026-08-25 | Scalable, reliable, distributed storage system optimized for data analytics and object store work... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [airbnb/lottie-android](../repos/airbnb/lottie-android.md) | ⭐ 35,712 | 2026-08-26 | Render After Effects animations natively on Android and iOS, Web, and React Native |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jeecgboot/jimureport](../repos/jeecgboot/jimureport.md) | ⭐ 8,351 | 2026-08-28 | 一款真正的 AI 报表诞生了！JimuChatBI —— 首款免费开源对话式智能数据分析产品（Chat2BI）。  一句话生成报表和数据大屏，支持对话式 AI 修改优化；类 Excel 在线报表... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [alibaba/arthas](../repos/alibaba/arthas.md) | ⭐ 37,526 | 2026-08-28 | Alibaba Java Diagnostic Tool Arthas&#x2F;Alibaba Java诊断利器Arthas |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based p... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [flowable/flowable-engine](../repos/flowable/flowable-engine.md) | ⭐ 9,501 | 2026-08-29 | A compact and highly efficient workflow and Business Process Management (BPM) platform for develo... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google/gson](../repos/google/gson.md) | ⭐ 24,229 | 2026-09-01 | A Java serialization&#x2F;deserialization library to convert Java Objects into JSON and back |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jenkinsci/jenkins](../repos/jenkinsci/jenkins.md) | ⭐ 26,541 | 2026-09-01 | Jenkins automation server |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,276 | 2026-08-04 | 6 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,473 | 2026-08-04 | 11 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,964 | 2026-08-02 | 10 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,980 | 2026-08-02 | 11 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 75,795 | 2026-08-03 | 14 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,234 | 2026-08-04 | 6 |
@@ -101,7 +101,7 @@
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,456 | 2026-08-12 | 4 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,716 | 2026-08-07 | 5 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,660 | 2026-08-05 | 13 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,740 | 2026-08-05 | 14 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,731 | 2026-08-02 | 7 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,063 | 2026-08-06 | 5 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 19 | ⭐ 5,730 | 2026-08-05 | 2026-09-21 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 20 | ⭐ 5,784 | 2026-08-05 | 2026-09-24 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 15 | ⭐ 26,767 | 2026-08-02 | 2026-09-13 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 14 | ⭐ 75,795 | 2026-08-03 | 2026-09-14 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 13 | ⭐ 41,660 | 2026-08-05 | 2026-09-22 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 12 | ⭐ 28,262 | 2026-08-04 | 2026-09-22 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 14 | ⭐ 41,740 | 2026-08-05 | 2026-09-24 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 13 | ⭐ 28,335 | 2026-08-04 | 2026-09-24 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 12 | ⭐ 33,626 | 2026-08-04 | 2026-09-14 |
 | [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | 11 | ⭐ 29,066 | 2026-08-02 | 2026-09-21 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 11 | ⭐ 77,980 | 2026-08-02 | 2026-09-24 |
 | [google/guava](../repos/google/guava.md) | 11 | ⭐ 51,905 | 2026-08-02 | 2026-09-13 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 11 | ⭐ 81,473 | 2026-08-04 | 2026-09-19 |
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 10 | ⭐ 13,704 | 2026-08-01 | 2026-09-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.087Z*
+*Last updated: 2026-09-24T21:01:47.252Z*

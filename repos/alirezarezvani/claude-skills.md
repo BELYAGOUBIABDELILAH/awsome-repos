@@ -1,6 +1,6 @@
 # alirezarezvani&#x2F;claude-skills
 
-> 345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.
+> 380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;alirezarezvani&#x2F;claude-skills) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 23,810 |
-| **Forks** | 🍴 3,342 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 26,406 |
+| **Forks** | 🍴 3,718 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Aug 4, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -84,12 +84,12 @@
 - Check similar projects in Python
 
 #### Metrics
-- **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Hidden Gem**: ✗ No
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-22T21:02:11.051Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-24T21:01:49.691Z*  
+*Data from 2 trending reports*

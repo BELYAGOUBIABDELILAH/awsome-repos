@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Zig |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 35,517 |
-| **Forks** | 🍴 1,687 |
-| **Trending Days** | 32 |
+| **Stars** | ⭐ 35,553 |
+| **Forks** | 🍴 1,690 |
+| **Trending Days** | 33 |
 | **Peak Rank** | #12 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Sep 22, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #12
-- **Trending Days**: 32
+- **Trending Days**: 33
 - **Longest Streak**: 6 days
 
 ---
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:10.811Z*  
-*Data from 32 trending reports*
+*Last updated: 2026-09-24T21:01:49.440Z*  
+*Data from 33 trending reports*

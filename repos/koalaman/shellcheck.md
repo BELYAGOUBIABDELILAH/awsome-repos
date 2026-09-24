@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Haskell |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 40,069 |
-| **Forks** | 🍴 1,946 |
-| **Trending Days** | 38 |
+| **Stars** | ⭐ 40,083 |
+| **Forks** | 🍴 1,947 |
+| **Trending Days** | 39 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 22, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 38
+- **Trending Days**: 39
 - **Longest Streak**: 10 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:10.345Z*  
-*Data from 38 trending reports*
+*Last updated: 2026-09-24T21:01:48.959Z*  
+*Data from 39 trending reports*

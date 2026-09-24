@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | CC-BY-4.0 |
-| **Stars** | ⭐ 9,740 |
-| **Forks** | 🍴 634 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 10,201 |
+| **Forks** | 🍴 671 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 14, 2026 |
-| **Last Seen** | Sep 22, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 2 days
 
 ---
@@ -69,8 +69,8 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Limited | May require reading source code |
-| **Community** | Small | Niche but dedicated community |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:12.199Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-09-24T21:01:50.844Z*  
+*Data from 7 trending reports*

@@ -1,6 +1,6 @@
 # bivlked&#x2F;amneziawg-installer
 
-> One-command AmneziaWG 2.0 &#x2F; 3.0 installer for a self-hosted VPN server on Ubuntu and Debian: DPI bypass, traffic obfuscation, split tunneling, auto-hardening, client management. Includes a VPN cascade guide.
+> One-command AmneziaWG 2.0 &#x2F; 3.x installer for a self-hosted VPN server on Ubuntu and Debian: DPI bypass, traffic obfuscation, split tunneling, auto-hardening, client management. Includes a VPN cascade guide.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;bivlked&#x2F;amneziawg-installer) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | MIT |
-| **Stars** | ⭐ 1,169 |
-| **Forks** | 🍴 93 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 1,302 |
+| **Forks** | 🍴 104 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 25, 2026 |
-| **Last Seen** | Aug 25, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-22T21:02:12.857Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-24T21:01:51.517Z*  
+*Data from 2 trending reports*

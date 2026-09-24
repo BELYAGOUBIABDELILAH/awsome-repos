@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C# |
 | **License** | MIT |
-| **Stars** | ⭐ 55,363 |
-| **Forks** | 🍴 8,456 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 55,513 |
+| **Forks** | 🍴 8,464 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Sep 12, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:11.478Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-09-24T21:01:50.120Z*  
+*Data from 11 trending reports*

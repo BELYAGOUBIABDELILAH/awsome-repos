@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Shell |
+| **Language** | Python |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 4,378 |
-| **Forks** | 🍴 741 |
-| **Trending Days** | 13 |
+| **Stars** | ⭐ 4,651 |
+| **Forks** | 🍴 790 |
+| **Trending Days** | 14 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 1, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Shell or ai*
+*Similar: Check repositories in Python or ai*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 13
+- **Trending Days**: 14
 - **Longest Streak**: 3 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,7 +81,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Shell
+- Check similar projects in Python
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:10.307Z*  
-*Data from 13 trending reports*
+*Last updated: 2026-09-24T21:01:48.923Z*  
+*Data from 14 trending reports*

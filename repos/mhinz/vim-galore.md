@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vim script |
 | **License** | CC-BY-SA-4.0 |
-| **Stars** | ⭐ 17,985 |
+| **Stars** | ⭐ 17,994 |
 | **Forks** | 🍴 627 |
-| **Trending Days** | 13 |
+| **Trending Days** | 14 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 21, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 13
+- **Trending Days**: 14
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:10.457Z*  
-*Data from 13 trending reports*
+*Last updated: 2026-09-24T21:01:49.072Z*  
+*Data from 14 trending reports*

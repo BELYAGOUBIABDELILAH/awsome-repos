@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 112
+- **Total Repositories**: 113
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-22
 
@@ -16,37 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,846 | 2026-08-01 | 4 |
+| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,881 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,339 | 2026-08-01 | 4 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 27,391 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift-syntax](../repos/swiftlang/swift-syntax.md) | ⭐ 3,701 | 2026-08-04 | 3 |
+| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 6,733 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,382 | 2026-08-05 | 14 |
+| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,411 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,607 | 2026-09-04 | 3 |
+| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,744 | 2026-08-24 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iFurySt/open-codex-computer-use](../repos/iFurySt/open-codex-computer-use.md) | ⭐ 2,205 | 2026-09-09 | 3 |
+| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,630 | 2026-09-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mattt/iMCP](../repos/mattt/iMCP.md) | ⭐ 1,645 | 2026-09-20 | 2 |
+| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,600 | 2026-09-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 5,494 | 2026-09-21 | 2 |
+| [chenqi92/primuse](../repos/chenqi92/primuse.md) | ⭐ 144 | 2026-09-24 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,656 | 2026-08-24 | 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [awaseem/foqos](../repos/awaseem/foqos.md) | ⭐ 755 | 2026-08-26 | Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open sou... |
@@ -73,7 +70,10 @@
 | [ProxymanApp/TCPViewer](../repos/ProxymanApp/TCPViewer.md) | ⭐ 406 | 2026-09-03 | The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,607 | 2026-09-04 |  |
+| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,630 | 2026-09-04 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | 2026-09-04 | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects  |
 
 
 ---
@@ -88,7 +88,7 @@
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,218 | 2026-08-12 | 6 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 26,992 | 2026-08-01 | 11 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 27,391 | 2026-08-01 | 12 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,866 | 2026-08-04 | 10 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
 | [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,536 | 2026-08-12 | 7 |
@@ -98,7 +98,7 @@
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,921 | 2026-08-04 | 13 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,841 | 2026-08-03 | 2 |
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,656 | 2026-08-24 | 6 |
+| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,744 | 2026-08-24 | 7 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,395 | 2026-08-08 | 7 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,327 | 2026-08-17 | 7 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | 2026-08-01 | 3 |
@@ -113,12 +113,12 @@
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 14 | ⭐ 70,382 | 2026-08-05 | 2026-09-22 |
 | [apple/container](../repos/apple/container.md) | 13 | ⭐ 49,834 | 2026-08-01 | 2026-09-10 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 13 | ⭐ 14,921 | 2026-08-04 | 2026-09-19 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 11 | ⭐ 26,992 | 2026-08-01 | 2026-09-10 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 12 | ⭐ 27,391 | 2026-08-01 | 2026-09-24 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 11 | ⭐ 3,536 | 2026-08-01 | 2026-09-21 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 10 | ⭐ 6,487 | 2026-08-01 | 2026-09-20 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 10 | ⭐ 26,866 | 2026-08-04 | 2026-09-04 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 9 | ⭐ 8,986 | 2026-08-02 | 2026-09-20 |
-| [apple/coreai-models](../repos/apple/coreai-models.md) | 9 | ⭐ 2,126 | 2026-08-12 | 2026-09-19 |
+| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | 9 | ⭐ 6,733 | 2026-08-04 | 2026-09-24 |
 
 ---
 
@@ -227,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.133Z*
+*Last updated: 2026-09-24T21:01:47.301Z*

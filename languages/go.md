@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 262
+- **Total Repositories**: 267
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-09-08
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 48,695 | 2026-08-01 | 15 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 3,717 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,014 | 2026-08-01 | 13 |
+| [v2fly/v2ray-core](../repos/v2fly/v2ray-core.md) | ⭐ 34,622 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 2,902 | 2026-08-02 | 13 |
+| [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) | ⭐ 31,489 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 75,999 | 2026-08-03 | 5 |
+| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 7,589 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [coder/coder](../repos/coder/coder.md) | ⭐ 16,604 | 2026-08-06 | 6 |
+| [maximhq/bifrost](../repos/maximhq/bifrost.md) | ⭐ 8,327 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chenyme/grok2api](../repos/chenyme/grok2api.md) | ⭐ 7,722 | 2026-08-06 | 5 |
+| [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,310 | 2026-08-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/gh-aw](../repos/github/gh-aw.md) | ⭐ 5,169 | 2026-08-10 | 5 |
+| [grafana/mcp-grafana](../repos/grafana/mcp-grafana.md) | ⭐ 3,493 | 2026-08-26 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tbphp/gpt-load](../repos/tbphp/gpt-load.md) | ⭐ 6,959 | 2026-09-03 | 4 |
+| [openfga/openfga](../repos/openfga/openfga.md) | ⭐ 5,853 | 2026-09-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [weave-os/router](../repos/weave-os/router.md) | ⭐ 4,798 | 2026-09-19 | 3 |
+| [weave-os/router](../repos/weave-os/router.md) | ⭐ 5,107 | 2026-09-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/tunnel-client](../repos/openai/tunnel-client.md) | ⭐ 473 | 2026-09-19 | 4 |
+| [google/ax](../repos/google/ax.md) | ⭐ 10,223 | 2026-09-22 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | Open Source realtime backend in 1 file |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/adk-go](../repos/google/adk-go.md) | ⭐ 8,701 | 2026-08-25 | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI ag... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [grafana/alloy](../repos/grafana/alloy.md) | ⭐ 3,480 | 2026-08-25 | OpenTelemetry Collector distribution with programmable pipelines |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Armur-Ai/Pentest-Swarm-AI](../repos/Armur-Ai/Pentest-Swarm-AI.md) | ⭐ 2,363 | 2026-08-25 | Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, ex... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [majd/ipatool](../repos/majd/ipatool.md) | ⭐ 9,912 | 2026-08-25 | Command-line tool that allows searching and downloading app packages (known as ipa files) from th... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [open-telemetry/opentelemetry-collector-contrib](../repos/open-telemetry/opentelemetry-collector-contrib.md) | ⭐ 4,903 | 2026-08-26 | Contrib repository for the OpenTelemetry Collector |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sigstore/cosign](../repos/sigstore/cosign.md) | ⭐ 6,246 | 2026-08-26 | Code signing and transparency for containers and binaries |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tektoncd/pipeline](../repos/tektoncd/pipeline.md) | ⭐ 9,045 | 2026-08-26 | A cloud-native Pipeline resource. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [grafana/mcp-grafana](../repos/grafana/mcp-grafana.md) | ⭐ 3,493 | 2026-08-26 | MCP server for Grafana |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [JetBrains/go-modern-guidelines](../repos/JetBrains/go-modern-guidelines.md) | ⭐ 2,846 | 2026-08-27 | Help AI coding agents write modern Go |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [docker/docker-agent](../repos/docker/docker-agent.md) | ⭐ 3,292 | 2026-08-27 | AI Agent Builder and Runtime by Docker Engineering |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vitessio/vitess](../repos/vitessio/vitess.md) | ⭐ 21,265 | 2026-08-27 | Vitess is a database clustering system for horizontal scaling of MySQL. |
 
 
 ---
@@ -102,7 +102,7 @@
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,012 | 2026-08-11 | 5 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,190 | 2026-08-22 | 2 |
+| [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,310 | 2026-08-22 | 3 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 51,008 | 2026-08-01 | 12 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
@@ -117,10 +117,10 @@
 |------------|---------------|-------|------------|-----------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 17 | ⭐ 27,208 | 2026-08-01 | 2026-09-19 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 15 | ⭐ 48,695 | 2026-08-01 | 2026-09-22 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 14 | ⭐ 3,717 | 2026-08-02 | 2026-09-24 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 14 | ⭐ 42,026 | 2026-08-07 | 2026-09-19 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 13 | ⭐ 38,014 | 2026-08-01 | 2026-09-22 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 13 | ⭐ 180,475 | 2026-08-01 | 2026-09-08 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 13 | ⭐ 2,902 | 2026-08-02 | 2026-09-22 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 12 | ⭐ 51,008 | 2026-08-01 | 2026-09-21 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 10 | ⭐ 91,105 | 2026-08-06 | 2026-09-21 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 10 | ⭐ 37,169 | 2026-08-20 | 2026-09-19 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.077Z*
+*Last updated: 2026-09-24T21:01:47.244Z*

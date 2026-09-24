@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 241
+- **Total Repositories**: 244
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-20
 
@@ -16,61 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 508 | 2026-08-01 | 11 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 510 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jrouwe/JoltPhysics](../repos/jrouwe/JoltPhysics.md) | ⭐ 11,583 | 2026-08-01 | 5 |
+| [espressif/arduino-esp32](../repos/espressif/arduino-esp32.md) | ⭐ 17,427 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CleverRaven/Cataclysm-DDA](../repos/CleverRaven/Cataclysm-DDA.md) | ⭐ 13,217 | 2026-08-03 | 5 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 39,578 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/workerd](../repos/cloudflare/workerd.md) | ⭐ 8,766 | 2026-08-06 | 4 |
+| [throneproj/Throne](../repos/throneproj/Throne.md) | ⭐ 7,249 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,963 | 2026-08-06 | 6 |
+| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 7,220 | 2026-08-10 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,335 | 2026-08-09 | 8 |
+| [keepassxreboot/keepassxc](../repos/keepassxreboot/keepassxc.md) | ⭐ 28,939 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 26,029 | 2026-08-09 | 6 |
+| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,487 | 2026-08-25 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 7,100 | 2026-08-10 | 4 |
+| [harry7557558/spirula-studio](../repos/harry7557558/spirula-studio.md) | ⭐ 960 | 2026-09-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amnezia-vpn/amnezia-client](../repos/amnezia-vpn/amnezia-client.md) | ⭐ 15,132 | 2026-08-16 | 6 |
+| [musescore/MuseScore](../repos/musescore/MuseScore.md) | ⭐ 15,133 | 2026-09-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry7557558/spirula-studio](../repos/harry7557558/spirula-studio.md) | ⭐ 588 | 2026-09-03 | 3 |
+| [Atmosphere-NX/Atmosphere](../repos/Atmosphere-NX/Atmosphere.md) | ⭐ 19,861 | 2026-09-12 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [edin45/simple_photogrammetry_gui](../repos/edin45/simple_photogrammetry_gui.md) | ⭐ 559 | 2026-08-24 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [moonlight-stream/moonlight-qt](../repos/moonlight-stream/moonlight-qt.md) | ⭐ 18,697 | 2026-08-24 | GameStream client for PCs (Windows, Mac, Linux, and Steam Link) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [endless-sky/endless-sky](../repos/endless-sky/endless-sky.md) | ⭐ 7,516 | 2026-08-24 | Space exploration, trading, and combat game. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [xenia-project/xenia](../repos/xenia-project/xenia.md) | ⭐ 9,640 | 2026-08-24 | Xbox 360 Emulator Research Project |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,402 | 2026-08-25 | CUDA Templates and Python DSLs for High-Performance Linear Algebra |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [project-chip/connectedhomeip](../repos/project-chip/connectedhomeip.md) | ⭐ 8,922 | 2026-08-25 | Matter (formerly Project CHIP) creates more connections between more objects, simplifying develop... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [M2Team/NanaZip](../repos/M2Team/NanaZip.md) | ⭐ 15,416 | 2026-08-25 | The 7-Zip derivative intended for the modern Windows experience |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [k4zmu2a/SpaceCadetPinball](../repos/k4zmu2a/SpaceCadetPinball.md) | ⭐ 4,620 | 2026-08-26 | Decompilation of 3D Pinball for Windows – Space Cadet |
@@ -80,6 +59,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [yhirose/cpp-httplib](../repos/yhirose/cpp-httplib.md) | ⭐ 16,786 | 2026-08-26 | A C++ header-only HTTP&#x2F;HTTPS server and client library |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google/filament](../repos/google/filament.md) | ⭐ 20,459 | 2026-08-27 | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/wslg](../repos/microsoft/wslg.md) | ⭐ 11,886 | 2026-08-27 | Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scen... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [opentoonz/opentoonz](../repos/opentoonz/opentoonz.md) | ⭐ 7,709 | 2026-08-27 | OpenToonz - An open-source full-featured 2D animation creation software |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dragonflydb/dragonfly](../repos/dragonflydb/dragonfly.md) | ⭐ 31,401 | 2026-08-27 | A modern replacement for Redis and Memcached |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PaddlePaddle/Paddle](../repos/PaddlePaddle/Paddle.md) | ⭐ 24,082 | 2026-08-27 | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lightgbm-org/LightGBM](../repos/lightgbm-org/LightGBM.md) | ⭐ 18,721 | 2026-08-28 | A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MatixYo/ESP32-Plane-Radar](../repos/MatixYo/ESP32-Plane-Radar.md) | ⭐ 938 | 2026-08-28 | Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your l... |
 
 
 ---
@@ -117,11 +117,11 @@
 |------------|---------------|-------|------------|-----------|
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 25 | ⭐ 129,089 | 2026-08-01 | 2026-09-21 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 19 | ⭐ 200,215 | 2026-07-30 | 2026-09-20 |
-| [google/googletest](../repos/google/googletest.md) | 14 | ⭐ 39,551 | 2026-08-04 | 2026-09-19 |
+| [google/googletest](../repos/google/googletest.md) | 15 | ⭐ 39,578 | 2026-08-04 | 2026-09-24 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 13 | ⭐ 76,148 | 2026-08-08 | 2026-09-10 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 12 | ⭐ 510 | 2026-08-01 | 2026-09-24 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 12 | ⭐ 71,999 | 2026-08-01 | 2026-09-04 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 12 | ⭐ 29,564 | 2026-08-01 | 2026-09-02 |
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 11 | ⭐ 508 | 2026-08-01 | 2026-09-22 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 11 | ⭐ 10,993 | 2026-08-02 | 2026-09-14 |
 | [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | 10 | ⭐ 683 | 2026-08-02 | 2026-09-07 |
 | [godotengine/godot](../repos/godotengine/godot.md) | 9 | ⭐ 117,022 | 2026-08-01 | 2026-09-12 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.057Z*
+*Last updated: 2026-09-24T21:01:47.226Z*

@@ -1,6 +1,6 @@
 # vectorize-io&#x2F;hindsight
 
-> Hindsight: Agent Memory That  Learns
+> Hindsight: Agent Memory That Learns
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;vectorize-io&#x2F;hindsight) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 19,396 |
-| **Forks** | 🍴 1,245 |
-| **Trending Days** | 1 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 27,674 |
+| **Forks** | 🍴 2,676 |
+| **Trending Days** | 2 |
+| **Peak Rank** | #2 |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Aug 9, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Sep 24, 2026** — Rank #2 (+1607 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Peak Rank**: #2
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +73,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -84,12 +85,12 @@
 - Check similar projects in Python
 
 #### Metrics
-- **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
-- **Historical Rank**: No ranking data
+- **Hidden Gem**: ✗ No
+- **Trending Score**: 35&#x2F;100
+- **Historical Rank**: Top 5 (Peak: #2)
 
 
 ---
 
-*Last updated: 2026-09-22T21:02:11.798Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-24T21:01:50.444Z*  
+*Data from 2 trending reports*

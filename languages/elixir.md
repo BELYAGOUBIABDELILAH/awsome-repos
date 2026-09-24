@@ -16,16 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,356 | 2026-08-01 | 39 |
+| [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,398 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,504 | 2026-09-01 | 5 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,677 | 2026-08-01 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [papercups-io/papercups](../repos/papercups-io/papercups.md) | ⭐ 6,113 | 2026-09-21 | 2 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,036 | 2026-08-02 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentjido/req_llm](../repos/agentjido/req_llm.md) | ⭐ 581 | 2026-09-22 | 1 |
+| [Tymeslot/tymeslot](../repos/Tymeslot/tymeslot.md) | ⭐ 213 | 2026-09-01 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Spectral-Finance/lux](../repos/Spectral-Finance/lux.md) | ⭐ 129 | 2026-09-12 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [agentjido/req_llm](../repos/agentjido/req_llm.md) | ⭐ 585 | 2026-09-22 | 2 |
 
 
 ---
@@ -40,7 +46,7 @@
 | [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,504 | 2026-09-01 | A declarative, extensible framework for building Elixir applications. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Tymeslot/tymeslot](../repos/Tymeslot/tymeslot.md) | ⭐ 206 | 2026-09-01 | Open-source meeting scheduling platform built with Elixir&#x2F;Phoenix LiveView. Self-host or use the ... |
+| [Tymeslot/tymeslot](../repos/Tymeslot/tymeslot.md) | ⭐ 213 | 2026-09-01 | Open-source meeting scheduling platform built with Elixir&#x2F;Phoenix LiveView. Self-host or use the ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PSPDFKit-labs/bypass](../repos/PSPDFKit-labs/bypass.md) | ⭐ 1,000 | 2026-09-02 | Bypass provides a quick way to create a custom plug that can be put in place instead of an actual... |
@@ -71,12 +77,12 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [anoma/anoma](../repos/anoma/anoma.md) | ⭐ 33,620 | 2026-09-04 | 4 |
-| [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,356 | 2026-08-01 | 39 |
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,665 | 2026-08-01 | 38 |
+| [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,398 | 2026-08-01 | 40 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,677 | 2026-08-01 | 39 |
 | [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,166 | 2026-08-03 | 30 |
 | [h4cc/awesome-elixir](../repos/h4cc/awesome-elixir.md) | ⭐ 13,166 | 2026-09-08 | 1 |
 | [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,102 | 2026-08-02 | 36 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,016 | 2026-08-02 | 38 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,036 | 2026-08-02 | 39 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,826 | 2026-08-01 | 17 |
 | [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,484 | 2026-08-06 | 1 |
 | [papercups-io/papercups](../repos/papercups-io/papercups.md) | ⭐ 6,113 | 2026-09-21 | 2 |
@@ -97,9 +103,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [openai/symphony](../repos/openai/symphony.md) | 39 | ⭐ 27,356 | 2026-08-01 | 2026-09-22 |
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 38 | ⭐ 26,665 | 2026-08-01 | 2026-09-20 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 38 | ⭐ 9,016 | 2026-08-02 | 2026-09-21 |
+| [openai/symphony](../repos/openai/symphony.md) | 40 | ⭐ 27,398 | 2026-08-01 | 2026-09-24 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 39 | ⭐ 26,677 | 2026-08-01 | 2026-09-24 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 39 | ⭐ 9,036 | 2026-08-02 | 2026-09-24 |
 | [firezone/firezone](../repos/firezone/firezone.md) | 36 | ⭐ 9,102 | 2026-08-02 | 2026-09-21 |
 | [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 35 | ⭐ 5,355 | 2026-08-01 | 2026-09-20 |
 | [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 30 | ⭐ 23,166 | 2026-08-03 | 2026-09-20 |
@@ -159,4 +165,4 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.070Z*
+*Last updated: 2026-09-24T21:01:47.237Z*

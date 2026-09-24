@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | MIT |
-| **Stars** | ⭐ 27,144 |
-| **Forks** | 🍴 3,925 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 27,196 |
+| **Forks** | 🍴 3,935 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 29, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:10.178Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-09-24T21:01:48.800Z*  
+*Data from 10 trending reports*

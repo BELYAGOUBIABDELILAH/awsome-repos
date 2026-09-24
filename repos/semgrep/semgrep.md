@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | LGPL-2.1 |
-| **Stars** | ⭐ 16,582 |
-| **Forks** | 🍴 1,050 |
-| **Trending Days** | 35 |
+| **Stars** | ⭐ 16,755 |
+| **Forks** | 🍴 1,070 |
+| **Trending Days** | 36 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 10, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 35
+- **Trending Days**: 36
 - **Longest Streak**: 11 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:10.366Z*  
-*Data from 35 trending reports*
+*Last updated: 2026-09-24T21:01:48.979Z*  
+*Data from 36 trending reports*

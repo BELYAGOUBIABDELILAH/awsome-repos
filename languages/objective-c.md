@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 13 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,758 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 25 |
+| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 27 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 27 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 26 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,629 | 2026-08-01 | 27 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,319 | 2026-08-04 | 11 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,813 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,535 | 2026-08-04 | 12 |
+| [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,371 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | ⭐ 2,032 | 2026-08-08 | 21 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,390 | 2026-08-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BranchMetrics/ios-branch-deep-linking-attribution](../repos/BranchMetrics/ios-branch-deep-linking-attribution.md) | ⭐ 756 | 2026-08-12 | 5 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,176 | 2026-08-04 | 17 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoftconnect/ms-intune-app-sdk-ios](../repos/microsoftconnect/ms-intune-app-sdk-ios.md) | ⭐ 115 | 2026-08-24 | Intune App SDK for iOS enables data protection and mobile app management features in iOS mobile a... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jverdi/JVFloatLabeledTextField](../repos/jverdi/JVFloatLabeledTextField.md) | ⭐ 7,141 | 2026-08-27 | UITextField subclass with floating labels - inspired by Matt D. Smith&#39;s design: http:&#x2F;&#x2F;dribbble.c... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MacPass/MacPass](../repos/MacPass/MacPass.md) | ⭐ 6,863 | 2026-09-07 | A native macOS KeePass client  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LiveContainer/LiveExec32](../repos/LiveContainer/LiveExec32.md) | ⭐ 273 | 2026-09-10 | Run 32-bit binaries on 64-bit iOS by passing through syscalls |
 
 
 ---
@@ -89,12 +89,12 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
-| [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,385 | 2026-08-02 | 6 |
+| [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,371 | 2026-08-02 | 7 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,629 | 2026-08-01 | 27 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,198 | 2026-08-02 | 22 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,610 | 2026-08-04 | 18 |
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,155 | 2026-08-04 | 16 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,612 | 2026-08-04 | 19 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,176 | 2026-08-04 | 17 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,923 | 2026-08-04 | 9 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,117 | 2026-08-01 | 10 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,637 | 2026-08-04 | 4 |
@@ -102,11 +102,11 @@
 | [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,828 | 2026-08-28 | 2 |
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
 | [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,374 | 2026-08-03 | 11 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,390 | 2026-08-03 | 12 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,319 | 2026-08-04 | 11 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,442 | 2026-08-06 | 3 |
-| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,123 | 2026-08-07 | 9 |
+| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,129 | 2026-08-07 | 10 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
 
 ---
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 27 | ⭐ 136 | 2026-08-01 | 2026-09-22 |
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 27 | ⭐ 60 | 2026-08-01 | 2026-09-22 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 28 | ⭐ 136 | 2026-08-01 | 2026-09-24 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 28 | ⭐ 60 | 2026-08-01 | 2026-09-24 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 27 | ⭐ 292 | 2026-08-01 | 2026-09-24 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 27 | ⭐ 25,629 | 2026-08-01 | 2026-09-22 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 26 | ⭐ 292 | 2026-08-01 | 2026-09-22 |
-| [google/promises](../repos/google/promises.md) | 25 | ⭐ 3,828 | 2026-08-01 | 2026-09-22 |
+| [google/promises](../repos/google/promises.md) | 26 | ⭐ 3,828 | 2026-08-01 | 2026-09-24 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | 22 | ⭐ 22,198 | 2026-08-02 | 2026-09-21 |
 | [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 21 | ⭐ 2,032 | 2026-08-08 | 2026-09-22 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | 19 | ⭐ 16,612 | 2026-08-04 | 2026-09-24 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 19 | ⭐ 676 | 2026-08-04 | 2026-09-09 |
 | [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 18 | ⭐ 733 | 2026-08-02 | 2026-09-21 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | 18 | ⭐ 16,610 | 2026-08-04 | 2026-09-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.107Z*
+*Last updated: 2026-09-24T21:01:47.278Z*

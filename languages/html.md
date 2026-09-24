@@ -16,34 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 66,242 | 2026-08-01 | 13 |
+| [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) | ⭐ 832 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,375 | 2026-08-03 | 14 |
+| [trickest/cve](../repos/trickest/cve.md) | ⭐ 8,091 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 6,209 | 2026-08-19 | 6 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 138,262 | 2026-08-08 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,529 | 2026-08-19 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,078 | 2026-09-19 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [chiphuyen/machine-learning-systems-design](../repos/chiphuyen/machine-learning-systems-design.md) | ⭐ 10,658 | 2026-09-21 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [zouzhekang/YJYpaper](../repos/zouzhekang/YJYpaper.md) | ⭐ 3,638 | 2026-09-22 | 1 |
+| [Arrow-air/project-quiver](../repos/Arrow-air/project-quiver.md) | ⭐ 444 | 2026-08-15 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [w3c/wcag](../repos/w3c/wcag.md) | ⭐ 1,482 | 2026-08-24 | Web Content Accessibility Guidelines |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [davidarroyo1234/InstagramUnfollowers](../repos/davidarroyo1234/InstagramUnfollowers.md) | ⭐ 4,839 | 2026-08-26 | Check if people follows you back on Instagram. |
@@ -71,6 +59,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Sushegaad/Claude-Skills-Governance-Risk-and-Compliance](../repos/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance.md) | ⭐ 867 | 2026-09-01 | Claude Skills for Governance, Risk, &amp; Compliance (GRC): Expert-level compliance guidance for ISO ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Abdess/retrobios](../repos/Abdess/retrobios.md) | ⭐ 6,954 | 2026-09-01 | Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDe... |
 
 
 ---
@@ -80,7 +71,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,375 | 2026-08-03 | 14 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 137,947 | 2026-08-08 | 12 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 138,262 | 2026-08-08 | 13 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,438 | 2026-08-19 | 6 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 66,242 | 2026-08-01 | 13 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,262 | 2026-08-01 | 6 |
@@ -108,8 +99,8 @@
 |------------|---------------|-------|------------|-----------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 14 | ⭐ 209,375 | 2026-08-03 | 2026-09-22 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 13 | ⭐ 66,242 | 2026-08-01 | 2026-09-22 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 13 | ⭐ 138,262 | 2026-08-08 | 2026-09-24 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 12 | ⭐ 9,214 | 2026-08-03 | 2026-09-12 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 12 | ⭐ 137,947 | 2026-08-08 | 2026-09-21 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 11 | ⭐ 16,561 | 2026-08-04 | 2026-09-21 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 11 | ⭐ 37,645 | 2026-08-12 | 2026-09-10 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 10 | ⭐ 9,776 | 2026-08-01 | 2026-09-03 |
@@ -137,7 +128,7 @@
 - [averygan/reclip](../repos/averygan/reclip.md) - Download videos from almost any website. Lightweight, self-hosted media downloader with a clean w...
 - [ossu/computer-science](../repos/ossu/computer-science.md) - 🎓 Path to a free self-taught education in Computer Science!
 - [google/fonts](../repos/google/fonts.md) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
-- [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) - 
+- [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) - An open source PDF viewer&#x2F;editor with it&#39;s own blazing fast rust engine
 - [kubernetes/website](../repos/kubernetes/website.md) - Kubernetes website and documentation repo: 
 - [thedev-id/thedev.id](../repos/thedev-id/thedev.id.md) - Identity for developers on the web.
 - [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) - https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法...
@@ -215,4 +206,4 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.082Z*
+*Last updated: 2026-09-24T21:01:47.248Z*

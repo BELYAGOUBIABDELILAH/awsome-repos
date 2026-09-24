@@ -16,31 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,314 | 2026-08-01 | 19 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,362 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,442 | 2026-08-01 | 37 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,443 | 2026-08-01 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,410 | 2026-08-03 | 5 |
+| [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,329 | 2026-08-04 | 20 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,606 | 2026-08-04 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [NilverTI/Web-Flores](../repos/NilverTI/Web-Flores.md) | ⭐ 27 | 2026-09-22 | 1 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,539 | 2026-08-05 | 16 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) | ⭐ 7,332 | 2026-08-24 | ❤️静态响应式网址导航网站 - webstack.cc |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ayusharma/birthday](../repos/ayusharma/birthday.md) | ⭐ 1,290 | 2026-08-27 | A Happy Birthday animation design in CSS3, HTML5  |
@@ -68,6 +59,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SillyTavern/SillyTavern-Docs](../repos/SillyTavern/SillyTavern-Docs.md) | ⭐ 160 | 2026-09-08 | Documentation website for SillyTavern. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [wso2/docs-apim](../repos/wso2/docs-apim.md) | ⭐ 99 | 2026-09-09 |  |
 
 
 ---
@@ -81,16 +75,16 @@
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,329 | 2026-08-04 | 20 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,947 | 2026-08-02 | 22 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
-| [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,606 | 2026-08-04 | 4 |
+| [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,419 | 2026-08-02 | 19 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,314 | 2026-08-01 | 19 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,362 | 2026-08-01 | 20 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,807 | 2026-08-04 | 6 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,650 | 2026-08-06 | 10 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,481 | 2026-08-09 | 2 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,513 | 2026-08-05 | 15 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,539 | 2026-08-05 | 16 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,363 | 2026-09-02 | 4 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,283 | 2026-08-01 | 16 |
@@ -103,15 +97,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 37 | ⭐ 1,442 | 2026-08-01 | 2026-09-22 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 38 | ⭐ 1,443 | 2026-08-01 | 2026-09-24 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 31 | ⭐ 920 | 2026-08-01 | 2026-09-21 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 22 | ⭐ 28,947 | 2026-08-02 | 2026-09-20 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 21 | ⭐ 1,408 | 2026-08-01 | 2026-08-29 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 20 | ⭐ 12,362 | 2026-08-01 | 2026-09-24 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 20 | ⭐ 45,329 | 2026-08-04 | 2026-09-22 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 19 | ⭐ 12,314 | 2026-08-01 | 2026-09-22 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 19 | ⭐ 12,419 | 2026-08-02 | 2026-09-14 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 16 | ⭐ 9,283 | 2026-08-01 | 2026-09-20 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 15 | ⭐ 9,513 | 2026-08-05 | 2026-09-13 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 16 | ⭐ 9,539 | 2026-08-05 | 2026-09-24 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 14 | ⭐ 82,802 | 2026-08-06 | 2026-09-19 |
 
 ---
@@ -187,4 +181,4 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.059Z*
+*Last updated: 2026-09-24T21:01:47.228Z*

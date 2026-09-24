@@ -8,14 +8,16 @@
 
 - **Total Repositories**: 1
 - **First Seen**: 2026-08-09
-- **Last Updated**: 2026-08-09
+- **Last Updated**: 2026-09-24
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ldc-developers/ldc](../repos/ldc-developers/ldc.md) | ⭐ 1,371 | 2026-08-09 | 2 |
 
-*No D repositories trending today*
 
 ---
 
@@ -30,7 +32,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ldc-developers/ldc](../repos/ldc-developers/ldc.md) | ⭐ 1,362 | 2026-08-09 | 1 |
+| [ldc-developers/ldc](../repos/ldc-developers/ldc.md) | ⭐ 1,371 | 2026-08-09 | 2 |
 
 ---
 
@@ -38,7 +40,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ldc-developers/ldc](../repos/ldc-developers/ldc.md) | 1 | ⭐ 1,362 | 2026-08-09 | 2026-08-09 |
+| [ldc-developers/ldc](../repos/ldc-developers/ldc.md) | 2 | ⭐ 1,371 | 2026-08-09 | 2026-09-24 |
 
 ---
 
@@ -48,4 +50,4 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.066Z*
+*Last updated: 2026-09-24T21:01:47.234Z*

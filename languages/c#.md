@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 158
+- **Total Repositories**: 162
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,056 | 2026-08-01 | 15 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,201 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner](../repos/actions/runner.md) | ⭐ 6,280 | 2026-08-04 | 9 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,708 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,312 | 2026-08-04 | 11 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,198 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DataDog/dd-trace-dotnet](../repos/DataDog/dd-trace-dotnet.md) | ⭐ 575 | 2026-08-04 | 4 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 15,671 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mcmonkeyprojects/SwarmUI](../repos/mcmonkeyprojects/SwarmUI.md) | ⭐ 4,588 | 2026-08-05 | 3 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,477 | 2026-08-03 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,591 | 2026-08-05 | 10 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,844 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/FlyOOBE](../repos/builtbybel/FlyOOBE.md) | ⭐ 7,352 | 2026-08-11 | 4 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,513 | 2026-08-06 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tichau/FileConverter](../repos/Tichau/FileConverter.md) | ⭐ 15,239 | 2026-08-11 | 4 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,957 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TechnitiumSoftware/DnsServer](../repos/TechnitiumSoftware/DnsServer.md) | ⭐ 9,973 | 2026-08-12 | 9 |
+| [ed0ard/CS2-Bot-Improver](../repos/ed0ard/CS2-Bot-Improver.md) | ⭐ 1,159 | 2026-09-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [indiff/qttabbar](../repos/indiff/qttabbar.md) | ⭐ 4,901 | 2026-08-14 | 3 |
+| [STranslate/STranslate](../repos/STranslate/STranslate.md) | ⭐ 8,106 | 2026-09-08 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Greedeks/GTweak](../repos/Greedeks/GTweak.md) | ⭐ 1,621 | 2026-08-24 | Portable Tool for an Ideal Windows Setup |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PintaProject/Pinta](../repos/PintaProject/Pinta.md) | ⭐ 3,975 | 2026-08-25 | Simple GTK Paint Program |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [builtbybel/CrapFixer](../repos/builtbybel/CrapFixer.md) | ⭐ 2,461 | 2026-08-25 | Cr*ap Fixer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [quasar/Quasar](../repos/quasar/Quasar.md) | ⭐ 9,907 | 2026-08-26 | Remote Administration Tool for Windows |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nilaoda/N_m3u8DL-RE](../repos/nilaoda/N_m3u8DL-RE.md) | ⭐ 8,771 | 2026-09-01 | Cross-Platform, modern and powerful stream downloader for MPD&#x2F;M3U8&#x2F;ISM. English&#x2F;简体中文&#x2F;繁體中文.  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/WinUI-Gallery](../repos/microsoft/WinUI-Gallery.md) | ⭐ 3,620 | 2026-09-01 | This app demonstrates the controls available in WinUI and the Fluent Design System. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [stride3d/stride](../repos/stride3d/stride.md) | ⭐ 7,813 | 2026-09-03 | Stride (formerly Xenko), a free and open-source cross-platform C# game engine. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PixiEditor/PixiEditor](../repos/PixiEditor/PixiEditor.md) | ⭐ 8,031 | 2026-09-04 | PixiEditor is a Universal Editor for all your 2D needs |
 
 
 ---
@@ -90,24 +90,24 @@
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 116,644 | 2026-08-02 | 21 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,905 | 2026-08-02 | 17 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,363 | 2026-08-06 | 10 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,513 | 2026-08-06 | 11 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,350 | 2026-08-01 | 9 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,644 | 2026-08-14 | 3 |
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,734 | 2026-08-03 | 7 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,844 | 2026-08-03 | 8 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,456 | 2026-08-01 | 14 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,056 | 2026-08-01 | 15 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,201 | 2026-08-01 | 16 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,038 | 2026-08-28 | 2 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,591 | 2026-08-05 | 10 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 28,548 | 2026-08-02 | 24 |
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,603 | 2026-08-10 | 3 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,957 | 2026-08-10 | 4 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,096 | 2026-08-01 | 6 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,058 | 2026-08-02 | 6 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,907 | 2026-08-27 | 6 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,677 | 2026-08-01 | 9 |
-| [BluePointLilac/ContextMenuManager](../repos/BluePointLilac/ContextMenuManager.md) | ⭐ 20,102 | 2026-09-08 | 2 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,198 | 2026-08-01 | 9 |
 
 ---
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 24 | ⭐ 28,548 | 2026-08-02 | 2026-09-21 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 21 | ⭐ 116,644 | 2026-08-02 | 2026-09-21 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 18 | ⭐ 5,445 | 2026-08-03 | 2026-09-19 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 19 | ⭐ 5,477 | 2026-08-03 | 2026-09-24 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 17 | ⭐ 56,905 | 2026-08-02 | 2026-09-10 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 15 | ⭐ 31,056 | 2026-08-01 | 2026-09-22 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 15 | ⭐ 15,604 | 2026-08-02 | 2026-09-20 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 16 | ⭐ 31,201 | 2026-08-01 | 2026-09-24 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 16 | ⭐ 15,671 | 2026-08-02 | 2026-09-24 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | 14 | ⭐ 3,708 | 2026-08-01 | 2026-09-24 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 14 | ⭐ 38,456 | 2026-08-01 | 2026-09-20 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | 14 | ⭐ 18,292 | 2026-08-04 | 2026-09-21 |
 | [microsoft/aspire](../repos/microsoft/aspire.md) | 14 | ⭐ 6,317 | 2026-08-05 | 2026-09-19 |
-| [microsoft/mcp](../repos/microsoft/mcp.md) | 13 | ⭐ 3,668 | 2026-08-01 | 2026-09-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.053Z*
+*Last updated: 2026-09-24T21:01:47.222Z*

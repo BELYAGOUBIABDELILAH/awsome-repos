@@ -72,7 +72,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:12.868Z*  
+*Last updated: 2026-09-24T21:01:51.526Z*  
 *Data from 4 trending reports*

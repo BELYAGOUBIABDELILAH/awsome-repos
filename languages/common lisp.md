@@ -14,17 +14,17 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,529 | 2026-08-03 | 25 |
 
-*No Common Lisp repositories trending today*
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,143 | 2026-08-24 | Mirror of Steel Bank Common Lisp (SBCL)&#39;s official repository |
 
+*No new Common Lisp repositories in the last 30 days*
 
 ---
 
@@ -33,7 +33,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | ⭐ 10,986 | 2026-08-04 | 1 |
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,526 | 2026-08-03 | 24 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,529 | 2026-08-03 | 25 |
 | [lem-project/lem](../repos/lem-project/lem.md) | ⭐ 3,023 | 2026-08-01 | 3 |
 | [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,143 | 2026-08-24 | 4 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | ⭐ 1,734 | 2026-08-04 | 1 |
@@ -44,7 +44,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 24 | ⭐ 3,526 | 2026-08-03 | 2026-09-21 |
+| [open-goal/jak-project](../repos/open-goal/jak-project.md) | 25 | ⭐ 3,529 | 2026-08-03 | 2026-09-24 |
 | [sbcl/sbcl](../repos/sbcl/sbcl.md) | 4 | ⭐ 2,143 | 2026-08-24 | 2026-09-09 |
 | [lem-project/lem](../repos/lem-project/lem.md) | 3 | ⭐ 3,023 | 2026-08-01 | 2026-08-03 |
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | 1 | ⭐ 10,986 | 2026-08-04 | 2026-08-04 |
@@ -62,4 +62,4 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.063Z*
+*Last updated: 2026-09-24T21:01:47.232Z*

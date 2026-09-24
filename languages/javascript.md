@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 137
+- **Total Repositories**: 139
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,40 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 33,479 | 2026-08-02 | 10 |
+| [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | ⭐ 9,160 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 39,675 | 2026-08-06 | 9 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 70,767 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 8,107 | 2026-08-10 | 7 |
+| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,174 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) | ⭐ 9,740 | 2026-08-14 | 6 |
+| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 8,280 | 2026-08-10 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fspecii/ace-step-ui](../repos/fspecii/ace-step-ui.md) | ⭐ 4,961 | 2026-09-20 | 2 |
+| [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) | ⭐ 10,201 | 2026-08-14 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [open-gsd/gsd-core](../repos/open-gsd/gsd-core.md) | ⭐ 9,821 | 2026-09-09 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [sandeco/reversa](../repos/sandeco/reversa.md) | ⭐ 1,632 | 2026-09-12 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [BuilderIO/skills](../repos/BuilderIO/skills.md) | ⭐ 4,411 | 2026-09-20 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [androoAGI/starnet](../repos/androoAGI/starnet.md) | ⭐ 248 | 2026-09-24 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [elidickinson/pi-claude-bridge](../repos/elidickinson/pi-claude-bridge.md) | ⭐ 448 | 2026-09-24 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kunchenguid/lavish-axi](../repos/kunchenguid/lavish-axi.md) | ⭐ 3,057 | 2026-08-24 | HTML is the new markdown. Lavish is the new editor for your HTML artifacts. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [webbrain-one/webbrain](../repos/webbrain-one/webbrain.md) | ⭐ 912 | 2026-08-24 | Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openwrt/luci](../repos/openwrt/luci.md) | ⭐ 7,804 | 2026-08-24 | LuCI - OpenWrt Configuration Interface |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [FB208/OpenBidKit_Yibiao](../repos/FB208/OpenBidKit_Yibiao.md) | ⭐ 2,854 | 2026-08-25 | 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fmhy/edit](../repos/fmhy/edit.md) | ⭐ 11,986 | 2026-08-25 | Make changes to FMHY |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nasa-gibs/worldview](../repos/nasa-gibs/worldview.md) | ⭐ 1,841 | 2026-08-26 | Interactive interface for browsing global, full-resolution satellite imagery |
@@ -65,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 17,886 | 2026-08-28 | A coding-agent skill for multi-phase security audits with independently verified, machine-readabl... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Stremio/stremio-web](../repos/Stremio/stremio-web.md) | ⭐ 13,671 | 2026-08-29 | Stremio - Freedom to Stream |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rabbitmq/rabbitmq-server](../repos/rabbitmq/rabbitmq-server.md) | ⭐ 13,822 | 2026-08-29 | Open source RabbitMQ: core server and tier 1 (built-in) plugins |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 7,851 | 2026-08-29 | Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [amElnagdy/delegate-skills](../repos/amElnagdy/delegate-skills.md) | ⭐ 1,783 | 2026-09-01 | Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Neet-Nestor/Telegram-Media-Downloader](../repos/Neet-Nestor/Telegram-Media-Downloader.md) | ⭐ 5,407 | 2026-09-01 | A script allowing you to download images and videos from Telegram web even if the group restricts... |
 
 
 ---
@@ -83,14 +98,14 @@
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 70,767 | 2026-08-05 | 12 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 66,586 | 2026-08-05 | 11 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 63,363 | 2026-08-01 | 15 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,420 | 2026-08-11 | 4 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
-| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 46,711 | 2026-08-08 | 2 |
+| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,174 | 2026-08-08 | 3 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
 | [google/zx](../repos/google/zx.md) | ⭐ 45,685 | 2026-08-20 | 2 |
 
@@ -104,8 +119,8 @@
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 16 | ⭐ 43,692 | 2026-08-04 | 2026-09-02 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [byoungd/up](../repos/byoungd/up.md) | 15 | ⭐ 63,363 | 2026-08-01 | 2026-09-20 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 12 | ⭐ 70,767 | 2026-08-05 | 2026-09-24 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 12 | ⭐ 3,368 | 2026-08-07 | 2026-09-20 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 11 | ⭐ 66,586 | 2026-08-05 | 2026-09-08 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 10 | ⭐ 33,479 | 2026-08-02 | 2026-09-22 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 10 | ⭐ 28,819 | 2026-08-08 | 2026-09-19 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 9 | ⭐ 39,675 | 2026-08-06 | 2026-09-22 |
@@ -218,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.089Z*
+*Last updated: 2026-09-24T21:01:47.255Z*

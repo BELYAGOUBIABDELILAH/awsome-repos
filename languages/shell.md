@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 119
+- **Total Repositories**: 122
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,167 | 2026-08-01 | 27 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,176 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Chachamaru127/claude-code-harness](../repos/Chachamaru127/claude-code-harness.md) | ⭐ 3,133 | 2026-08-01 | 2 |
+| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | ⭐ 2,313 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,691 | 2026-08-04 | 8 |
+| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 9,996 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [orbstack/orbstack](../repos/orbstack/orbstack.md) | ⭐ 9,352 | 2026-08-04 | 2 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,392 | 2026-08-06 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,837 | 2026-08-07 | 9 |
+| [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) | ⭐ 4,097 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) | ⭐ 3,007 | 2026-08-15 | 5 |
+| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,620 | 2026-08-08 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) | ⭐ 1,023 | 2026-09-07 | 5 |
+| [bivlked/amneziawg-installer](../repos/bivlked/amneziawg-installer.md) | ⭐ 1,302 | 2026-08-25 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Bash-it/bash-it](../repos/Bash-it/bash-it.md) | ⭐ 15,235 | 2026-09-22 | 1 |
+| [Mr-MIBonk/M.I.B._More-Incredible-Bash](../repos/Mr-MIBonk/M.I.B._More-Incredible-Bash.md) | ⭐ 1,084 | 2026-09-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iamj0ker/bypass-403](../repos/iamj0ker/bypass-403.md) | ⭐ 2,257 | 2026-09-22 | 1 |
+| [angristan/openvpn-install](../repos/angristan/openvpn-install.md) | ⭐ 16,144 | 2026-09-24 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kejilion/sh](../repos/kejilion/sh.md) | ⭐ 3,172 | 2026-09-22 | 1 |
+| [addyosmani/web-quality-skills](../repos/addyosmani/web-quality-skills.md) | ⭐ 2,833 | 2026-09-24 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [CISOfy/lynis](../repos/CISOfy/lynis.md) | ⭐ 16,222 | 2026-08-24 | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bioconda/bioconda-recipes](../repos/bioconda/bioconda-recipes.md) | ⭐ 1,869 | 2026-08-25 | Conda recipes for the bioconda channel. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bivlked/amneziawg-installer](../repos/bivlked/amneziawg-installer.md) | ⭐ 1,169 | 2026-08-25 | One-command AmneziaWG 2.0 &#x2F; 3.0 installer for a self-hosted VPN server on Ubuntu and Debian: DPI ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | Default configuration for Le Wagon&#39;s students |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [laude-institute/headlong](../repos/laude-institute/headlong.md) | ⭐ 921 | 2026-08-26 | An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bas... |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | Fish-like autosuggestions for zsh |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,563 | 2026-09-02 | 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [omacom/omarchy-pkgs](../repos/omacom/omarchy-pkgs.md) | ⭐ 97 | 2026-09-02 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [skills/introduction-to-git](../repos/skills/introduction-to-git.md) | ⭐ 195 | 2026-09-05 | Use Git version control to work on a game using command line (CLI) and VS Code |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pystardust/ani-cli](../repos/pystardust/ani-cli.md) | ⭐ 13,729 | 2026-09-06 | A cli tool to browse and play anime |
 
 
 ---
@@ -89,10 +89,10 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,167 | 2026-08-01 | 27 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,176 | 2026-08-01 | 28 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,417 | 2026-08-04 | 6 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,261 | 2026-08-06 | 9 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,392 | 2026-08-06 | 10 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,691 | 2026-08-04 | 8 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 40,042 | 2026-08-29 | 3 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 27 | ⭐ 95,167 | 2026-08-01 | 2026-09-22 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 28 | ⭐ 95,176 | 2026-08-01 | 2026-09-24 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [expo/skills](../repos/expo/skills.md) | 22 | ⭐ 2,589 | 2026-08-07 | 2026-09-20 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 16 | ⭐ 6,854 | 2026-08-12 | 2026-09-20 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 15 | ⭐ 11,183 | 2026-08-04 | 2026-09-19 |
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | 13 | ⭐ 4,378 | 2026-08-01 | 2026-09-01 |
-| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 10 | ⭐ 2,258 | 2026-08-02 | 2026-09-10 |
+| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 11 | ⭐ 2,313 | 2026-08-02 | 2026-09-24 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 10 | ⭐ 2,865 | 2026-08-05 | 2026-09-19 |
+| [dockur/windows](../repos/dockur/windows.md) | 10 | ⭐ 53,392 | 2026-08-06 | 2026-09-24 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 9 | ⭐ 25,582 | 2026-08-04 | 2026-09-01 |
-| [dockur/windows](../repos/dockur/windows.md) | 9 | ⭐ 53,261 | 2026-08-06 | 2026-09-13 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 9 | ⭐ 10,837 | 2026-08-07 | 2026-09-22 |
 
 ---
 
@@ -136,7 +136,6 @@
 - [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) - Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex...
 - [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) - Burpsuite Professional Latest Version 2026
 - [Chachamaru127/claude-code-harness](../repos/Chachamaru127/claude-code-harness.md) - Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonom...
-- [llm-d/llm-d](../repos/llm-d/llm-d.md) - Achieve state of the art inference performance with modern accelerators on Kubernetes
 - [void-linux/void-packages](../repos/void-linux/void-packages.md) - The Void source packages collection
 - [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) - Универсальный менеджер для обхода блокировок на OpenWrt https:&#x2F;&#x2F;t.me&#x2F;stressozz_manager
 - [basecamp/omarchy](../repos/basecamp/omarchy.md) - Beautiful, Modern &amp; Opinionated Linux
@@ -213,7 +212,7 @@
 - [ophub/fnnas](../repos/ophub/fnnas.md) - Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3,...
 - [CISOfy/lynis](../repos/CISOfy/lynis.md) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance ...
 - [bioconda/bioconda-recipes](../repos/bioconda/bioconda-recipes.md) - Conda recipes for the bioconda channel.
-- [bivlked/amneziawg-installer](../repos/bivlked/amneziawg-installer.md) - One-command AmneziaWG 2.0 &#x2F; 3.0 installer for a self-hosted VPN server on Ubuntu and Debian: DPI ...
+- [bivlked/amneziawg-installer](../repos/bivlked/amneziawg-installer.md) - One-command AmneziaWG 2.0 &#x2F; 3.x installer for a self-hosted VPN server on Ubuntu and Debian: DPI ...
 - [lewagon/dotfiles](../repos/lewagon/dotfiles.md) - Default configuration for Le Wagon&#39;s students
 - [laude-institute/headlong](../repos/laude-institute/headlong.md) - An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bas...
 - [juewuy/ShellCrash](../repos/juewuy/ShellCrash.md) - Run sing-box&#x2F;mihomo as client in shell
@@ -230,7 +229,8 @@
 - [aditya-shri/VPN](../repos/aditya-shri/VPN.md) - Personal VPN using Shadowsocks and v2ray
 - [sabamdarif/termux-desktop](../repos/sabamdarif/termux-desktop.md) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) a...
 - [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) - 面向数学建模竞赛的 Claude Code &#x2F; Codex Skills ，支持分阶段建模流程与 Python、MATLAB&#x2F;北太天元代码分支。
+- [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.129Z*
+*Last updated: 2026-09-24T21:01:47.298Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 16,080 |
-| **Forks** | 🍴 1,950 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 20,888 |
+| **Forks** | 🍴 2,676 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #11 |
 
 | **First Seen** | Aug 14, 2026 |
-| **Last Seen** | Sep 1, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #11
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 1 days
 
 ---
@@ -56,10 +56,10 @@
 ## Categories
 
 ### Topics
-[`backlink-analysis`](../../topics/backlink-analysis.md) [`google-search-console-mcp`](../../topics/google-search-console-mcp.md) [`keyword-research`](../../topics/keyword-research.md) [`mcp`](../../topics/mcp.md) [`seo`](../../topics/seo.md) [`seo-tools`](../../topics/seo-tools.md) [`site-audit`](../../topics/site-audit.md) 
+[`backlink-analysis`](../../topics/backlink-analysis.md) [`google-search-console-mcp`](../../topics/google-search-console-mcp.md) [`keyword-research`](../../topics/keyword-research.md) [`mcp`](../../topics/mcp.md) [`seo`](../../topics/seo.md) [`seo-agent`](../../topics/seo-agent.md) [`seo-audit`](../../topics/seo-audit.md) [`seo-automation`](../../topics/seo-automation.md) [`seo-skills`](../../topics/seo-skills.md) [`seo-tools`](../../topics/seo-tools.md) [`site-audit`](../../topics/site-audit.md) 
 
 ### Curated Categories
-`Systems Programming` `Developer Tools` 
+`DevOps &amp; CI&#x2F;CD` `Systems Programming` `Developer Tools` `Automation` 
 
 ---
 
@@ -73,7 +73,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -86,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 65&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: Peak: #11
 
 
 ---
 
-*Last updated: 2026-09-22T21:02:12.204Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-09-24T21:01:50.853Z*  
+*Data from 5 trending reports*

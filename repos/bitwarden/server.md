@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C# |
 | **License** | Other |
-| **Stars** | ⭐ 20,097 |
-| **Forks** | 🍴 1,764 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 20,198 |
+| **Forks** | 🍴 1,778 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 8, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 3 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:10.201Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-09-24T21:01:48.825Z*  
+*Data from 9 trending reports*

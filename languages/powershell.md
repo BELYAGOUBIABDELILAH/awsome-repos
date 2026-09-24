@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 52
+- **Total Repositories**: 53
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,174 | 2026-08-01 | 32 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,190 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,367 | 2026-08-01 | 20 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,235 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,038 | 2026-08-01 | 20 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 909 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 907 | 2026-08-01 | 27 |
+| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,077 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/AL](../repos/microsoft/AL.md) | ⭐ 880 | 2026-08-01 | 6 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,682 | 2026-08-11 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,083 | 2026-08-04 | 3 |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,232 | 2026-09-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoftgraph/microsoft-graph-docs-contrib](../repos/microsoftgraph/microsoft-graph-docs-contrib.md) | ⭐ 153 | 2026-08-05 | 9 |
+| [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,590 | 2026-09-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [0Chencc/clawgod](../repos/0Chencc/clawgod.md) | ⭐ 2,045 | 2026-09-09 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [microsoft/sre-agent](../repos/microsoft/sre-agent.md) | ⭐ 166 | 2026-09-22 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [CyberDrain/CIPP](../repos/CyberDrain/CIPP.md) | ⭐ 69 | 2026-09-22 | 1 |
+| [secretGeek/AwesomeCSV](../repos/secretGeek/AwesomeCSV.md) | ⭐ 951 | 2026-09-24 | 1 |
 
 
 ---
@@ -52,16 +46,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [MicrosoftDocs/architecture-center](../repos/MicrosoftDocs/architecture-center.md) | ⭐ 2,018 | 2026-08-25 | Open source documentation for the Azure Architecture Center on Microsoft Learn. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [github/copilot-plugins](../repos/github/copilot-plugins.md) | ⭐ 364 | 2026-08-26 | The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibil... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MicrosoftEdge/WebView2Feedback](../repos/MicrosoftEdge/WebView2Feedback.md) | ⭐ 524 | 2026-09-01 | Feedback and discussions about Microsoft Edge WebView2 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,225 | 2026-09-02 | Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Ser... |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,232 | 2026-09-02 | Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Ser... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jimrtyler/Guerrilla](../repos/jimrtyler/Guerrilla.md) | ⭐ 72 | 2026-09-04 | PowerShell security assessment &amp; continuous monitoring module for Google Workspace, Active Direct... |
@@ -73,13 +64,16 @@
 | [MicrosoftDocs/power-platform](../repos/MicrosoftDocs/power-platform.md) | ⭐ 520 | 2026-09-04 | Documentation for Microsoft Power Platform |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,591 | 2026-09-06 | A Project dedicated to making GPU Partitioning on Windows easier! |
+| [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,590 | 2026-09-06 | A Project dedicated to making GPU Partitioning on Windows easier! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [yegors/deGDID](../repos/yegors/deGDID.md) | ⭐ 1,053 | 2026-09-09 | Deletes all instances of Microsoft&#39;s GDID and prevents minting of new ones  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [0Chencc/clawgod](../repos/0Chencc/clawgod.md) | ⭐ 2,045 | 2026-09-09 | ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/AI-in-One-Dashboard](../repos/microsoft/AI-in-One-Dashboard.md) | ⭐ 78 | 2026-09-09 | AI-in-One Dashboard Power BI template for comprehensive AI usage analytics |
 
 
 ---
@@ -91,9 +85,9 @@
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,033 | 2026-08-02 | 7 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,174 | 2026-08-01 | 32 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,190 | 2026-08-01 | 33 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,083 | 2026-08-04 | 3 |
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,225 | 2026-09-02 | 6 |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,232 | 2026-09-02 | 7 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,084 | 2026-08-03 | 8 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,014 | 2026-08-06 | 10 |
@@ -101,13 +95,13 @@
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,038 | 2026-08-01 | 20 |
-| [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,591 | 2026-09-06 | 2 |
+| [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,590 | 2026-09-06 | 3 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,838 | 2026-08-04 | 3 |
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,672 | 2026-08-11 | 7 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,682 | 2026-08-11 | 8 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,538 | 2026-08-04 | 6 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,235 | 2026-08-01 | 15 |
 | [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,178 | 2026-08-19 | 7 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,119 | 2026-08-01 | 14 |
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,062 | 2026-08-02 | 11 |
+| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,077 | 2026-08-07 | 5 |
 
 ---
 
@@ -115,15 +109,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 32 | ⭐ 13,174 | 2026-08-01 | 2026-09-22 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 27 | ⭐ 907 | 2026-08-01 | 2026-09-22 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 33 | ⭐ 13,190 | 2026-08-01 | 2026-09-24 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 28 | ⭐ 909 | 2026-08-01 | 2026-09-24 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 23 | ⭐ 1,610 | 2026-08-03 | 2026-09-20 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 20 | ⭐ 36,799 | 2026-08-01 | 2026-09-21 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 20 | ⭐ 8,367 | 2026-08-01 | 2026-09-22 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 20 | ⭐ 6,038 | 2026-08-01 | 2026-09-22 |
 | [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 17 | ⭐ 458 | 2026-08-04 | 2026-09-19 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 16 | ⭐ 1,475 | 2026-08-01 | 2026-09-19 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 14 | ⭐ 2,119 | 2026-08-01 | 2026-09-10 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 15 | ⭐ 2,235 | 2026-08-01 | 2026-09-24 |
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | 12 | ⭐ 1,001 | 2026-08-01 | 2026-09-12 |
 
 ---
@@ -182,7 +176,8 @@
 - [microsoft/finops-toolkit](../repos/microsoft/finops-toolkit.md) - Tools and resources to help you adopt and implement FinOps capabilities that automate and extend ...
 - [microsoft/sre-agent](../repos/microsoft/sre-agent.md) - Azure SRE Agent is an AI-powered reliability assistant that helps teams diagnose and resolve prod...
 - [CyberDrain/CIPP](../repos/CyberDrain/CIPP.md) - 
+- [secretGeek/AwesomeCSV](../repos/secretGeek/AwesomeCSV.md) - 🕶️A curated list of awesome tools for dealing with CSV.
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.114Z*
+*Last updated: 2026-09-24T21:01:47.285Z*

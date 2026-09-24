@@ -1,6 +1,6 @@
 # can1357&#x2F;oh-my-pi
 
-> ⌥ Coding agent with the IDE wired in
+> ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;can1357&#x2F;oh-my-pi) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 29,827 |
-| **Forks** | 🍴 3,038 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 33,176 |
+| **Forks** | 🍴 3,525 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Sep 6, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 5 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:10.571Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-09-24T21:01:49.194Z*  
+*Data from 13 trending reports*

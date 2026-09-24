@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 66,586 |
-| **Forks** | 🍴 4,088 |
-| **Trending Days** | 11 |
+| **Stars** | ⭐ 70,767 |
+| **Forks** | 🍴 4,294 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Sep 8, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 11
+- **Trending Days**: 12
 - **Longest Streak**: 4 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:11.279Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-09-24T21:01:49.915Z*  
+*Data from 12 trending reports*

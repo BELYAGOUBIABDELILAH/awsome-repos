@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 220
+- **Total Repositories**: 224
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 15,298 | 2026-08-05 | 2 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 8,563 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 147,645 | 2026-08-07 | 15 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 33,176 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yikart/AiToEarn](../repos/yikart/AiToEarn.md) | ⭐ 26,328 | 2026-08-09 | 4 |
+| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 17,478 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 75,505 | 2026-08-11 | 11 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 77,462 | 2026-08-11 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [upscayl/upscayl](../repos/upscayl/upscayl.md) | ⭐ 49,777 | 2026-08-14 | 3 |
+| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 20,888 | 2026-08-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BuilderIO/agent-native](../repos/BuilderIO/agent-native.md) | ⭐ 6,313 | 2026-09-12 | 4 |
+| [remotion-dev/remotion](../repos/remotion-dev/remotion.md) | ⭐ 60,301 | 2026-08-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 38,128 | 2026-09-14 | 3 |
+| [cloudflare/cloudflare-os](../repos/cloudflare/cloudflare-os.md) | ⭐ 10,109 | 2026-08-25 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Open-Dev-Society/OpenStock](../repos/Open-Dev-Society/OpenStock.md) | ⭐ 18,327 | 2026-09-19 | 4 |
+| [fastapi/full-stack-fastapi-template](../repos/fastapi/full-stack-fastapi-template.md) | ⭐ 45,739 | 2026-09-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/json-render](../repos/vercel-labs/json-render.md) | ⭐ 18,085 | 2026-09-19 | 4 |
+| [FxEmbed/FxEmbed](../repos/FxEmbed/FxEmbed.md) | ⭐ 5,344 | 2026-09-24 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krillinai/OpenCreator](../repos/krillinai/OpenCreator.md) | ⭐ 12,201 | 2026-09-20 | 3 |
+| [atomicstrata/llm-wiki-compiler](../repos/atomicstrata/llm-wiki-compiler.md) | ⭐ 2,111 | 2026-09-24 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [traycerai/traycer](../repos/traycerai/traycer.md) | ⭐ 1,455 | 2026-08-24 | Traycer: Nerve Center for Agentic Coding |
+| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 8,221 | 2026-08-26 | Annotate and review coding agent plans and code diffs visually, share with your team, send feedba... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [davebcn87/pi-autoresearch](../repos/davebcn87/pi-autoresearch.md) | ⭐ 7,827 | 2026-08-24 | Autonomous experiment loop extension for pi |
+| [janhq/jan](../repos/janhq/jan.md) | ⭐ 44,197 | 2026-08-26 | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [seerr-team/seerr](../repos/seerr-team/seerr.md) | ⭐ 12,371 | 2026-08-24 | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
+| [piratuks/invoice-builder](../repos/piratuks/invoice-builder.md) | ⭐ 923 | 2026-08-26 | Invoice and quotation builder desktop app with PDF export, designed for small businesses and free... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [HeyPuter/puter](../repos/HeyPuter/puter.md) | ⭐ 43,224 | 2026-08-24 | 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable. |
+| [genkit-ai/genkit](../repos/genkit-ai/genkit.md) | ⭐ 6,378 | 2026-08-26 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and us... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aws/agentcore-cli](../repos/aws/agentcore-cli.md) | ⭐ 265 | 2026-08-24 | The terminal experience for AgentCore! |
+| [tickernelz/opencode-mem](../repos/tickernelz/opencode-mem.md) | ⭐ 1,530 | 2026-08-26 | OpenCode plugin that gives coding agents persistent memory using local vector database |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ComposioHQ/composio](../repos/ComposioHQ/composio.md) | ⭐ 29,859 | 2026-08-24 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed ... |
+| [Tencent/BrowserSkill](../repos/Tencent/BrowserSkill.md) | ⭐ 6,026 | 2026-08-27 | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension fo... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cloudflare/cloudflare-os](../repos/cloudflare/cloudflare-os.md) | ⭐ 9,189 | 2026-08-25 | Agent workspace built on Cloudflare Workers for creating documents, building apps, and running ag... |
+| [NeoLabHQ/context-engineering-kit](../repos/NeoLabHQ/context-engineering-kit.md) | ⭐ 1,466 | 2026-08-27 | Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenC... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mastra-ai/mastra](../repos/mastra-ai/mastra.md) | ⭐ 27,464 | 2026-08-25 | Mastra is the modern TypeScript framework for AI-powered applications and agents. |
+| [tutti-os/tutti](../repos/tutti-os/tutti.md) | ⭐ 3,575 | 2026-08-27 | Where people and agents build in tune. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [stripe/link-cli](../repos/stripe/link-cli.md) | ⭐ 712 | 2026-08-25 | Let your agents spend on your behalf. Your payment credentials are never exposed. You approve eve... |
+| [tradingview/lightweight-charts](../repos/tradingview/lightweight-charts.md) | ⭐ 17,184 | 2026-08-27 | Performant financial charts built with HTML5 canvas |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [midday-ai/midday](../repos/midday-ai/midday.md) | ⭐ 14,906 | 2026-08-25 | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview &amp; your own Assistant m... |
+| [1weiho/open-slide](../repos/1weiho/open-slide.md) | ⭐ 7,243 | 2026-08-27 | A slide framework built for agents. |
 
 
 ---
@@ -116,11 +116,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 15 | ⭐ 147,645 | 2026-08-07 | 2026-09-22 |
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 12 | ⭐ 29,827 | 2026-08-02 | 2026-09-06 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 13 | ⭐ 33,176 | 2026-08-02 | 2026-09-24 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 12 | ⭐ 8,563 | 2026-08-01 | 2026-09-24 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 12 | ⭐ 25,971 | 2026-08-07 | 2026-09-13 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 11 | ⭐ 7,365 | 2026-08-01 | 2026-09-10 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 12 | ⭐ 77,462 | 2026-08-11 | 2026-09-24 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 11 | ⭐ 48,711 | 2026-08-08 | 2026-09-10 |
-| [stablyai/orca](../repos/stablyai/orca.md) | 11 | ⭐ 75,505 | 2026-08-11 | 2026-09-22 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 10 | ⭐ 131,955 | 2026-08-02 | 2026-09-07 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 9 | ⭐ 26,666 | 2026-08-01 | 2026-09-14 |
 | [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
@@ -159,7 +159,7 @@
 - [storybookjs/storybook](../repos/storybookjs/storybook.md) - Storybook is the industry standard workshop for building, documenting, and testing UI components ...
 - [microsoft/flint-chart](../repos/microsoft/flint-chart.md) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking...
 - [simstudioai/sim](../repos/simstudioai/sim.md) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by...
-- [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [iptv-org/iptv](../repos/iptv-org/iptv.md) - Collection of publicly available IPTV channels from all over the world
 - [karakeep-app/karakeep](../repos/karakeep-app/karakeep.md) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging...
 - [darkreader/darkreader](../repos/darkreader/darkreader.md) - Dark Reader Chrome and Firefox extension
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.135Z*
+*Last updated: 2026-09-24T21:01:47.303Z*

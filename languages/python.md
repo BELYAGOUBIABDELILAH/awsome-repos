@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 245
+- **Total Repositories**: 250
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-09
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [browser-use/video-use](../repos/browser-use/video-use.md) | ⭐ 25,762 | 2026-08-04 | 7 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 125,514 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/financial-services](../repos/anthropics/financial-services.md) | ⭐ 36,269 | 2026-09-20 | 3 |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,651 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FareedKhan-dev/train-llm-from-scratch](../repos/FareedKhan-dev/train-llm-from-scratch.md) | ⭐ 10,814 | 2026-09-20 | 2 |
+| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 47,656 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 8,703 | 2026-09-20 | 3 |
+| [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 79,696 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvt-project/mvt](../repos/mvt-project/mvt.md) | ⭐ 14,004 | 2026-09-21 | 2 |
+| [alirezarezvani/claude-skills](../repos/alirezarezvani/claude-skills.md) | ⭐ 26,406 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TNT-Likely/PanWatch](../repos/TNT-Likely/PanWatch.md) | ⭐ 1,297 | 2026-09-21 | 2 |
+| [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) | ⭐ 27,674 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 2,148 | 2026-09-22 | 1 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 177,966 | 2026-08-11 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [cactus-compute/needle](../repos/cactus-compute/needle.md) | ⭐ 12,523 | 2026-08-11 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 50,283 | 2026-08-15 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [experientiallabs/experiential](../repos/experientiallabs/experiential.md) | ⭐ 6,765 | 2026-09-06 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [HKUDS/Vibe-Trading](../repos/HKUDS/Vibe-Trading.md) | ⭐ 33,059 | 2026-08-24 | &quot;Vibe-Trading: Your Personal Trading Agent&quot; |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [marin-community/marin](../repos/marin-community/marin.md) | ⭐ 2,876 | 2026-08-24 | Open-source framework for the research and development of foundation models. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 10,878 | 2026-08-24 | Build your own AI SRE agents. The open source toolkit for the AI era. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NVIDIA/Megatron-LM](../repos/NVIDIA/Megatron-LM.md) | ⭐ 17,840 | 2026-08-25 | Ongoing research training transformer models at scale |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MemPalace/mempalace](../repos/MemPalace/mempalace.md) | ⭐ 58,630 | 2026-08-25 | The best-benchmarked open-source AI memory system. And it&#39;s free. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [netbox-community/netbox](../repos/netbox-community/netbox.md) | ⭐ 21,393 | 2026-08-26 | The premier source of truth powering network automation. Open source under Apache 2. Try NetBox C... |
@@ -71,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [htdt/godogen](../repos/htdt/godogen.md) | ⭐ 6,426 | 2026-08-27 | Autonomous game development for Godot, Bevy, and Babylon.js with Claude Code and Codex |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [yashmulgaonkar/FlightScnr_Pi](../repos/yashmulgaonkar/FlightScnr_Pi.md) | ⭐ 462 | 2026-08-27 | Desktop flight and marine radar: a real-time aircraft and marine vessel tracker powered by a Rasp... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [home-assistant/core](../repos/home-assistant/core.md) | ⭐ 90,290 | 2026-08-27 | :house_with_garden: Open source home automation that puts local control and privacy first. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [RVC-Boss/GPT-SoVITS](../repos/RVC-Boss/GPT-SoVITS.md) | ⭐ 61,276 | 2026-08-27 | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HKUDS/AI-Trader](../repos/HKUDS/AI-Trader.md) | ⭐ 21,767 | 2026-08-28 | &quot;AI-Trader: 100% Fully-Automated Agent-Native Trading&quot;   |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [goldmansachs/gs-quant](../repos/goldmansachs/gs-quant.md) | ⭐ 12,781 | 2026-08-28 | Python toolkit for quantitative finance |
 
 
 ---
@@ -87,12 +96,12 @@
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 191,157 | 2026-08-02 | 7 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,465 | 2026-08-06 | 8 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 181,591 | 2026-09-07 | 2 |
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 174,517 | 2026-08-11 | 6 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 177,966 | 2026-08-11 | 7 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,921 | 2026-07-31 | 7 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 137,924 | 2026-08-04 | 4 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 131,932 | 2026-08-05 | 8 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 123,631 | 2026-08-01 | 11 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 125,514 | 2026-08-01 | 12 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 114,356 | 2026-08-03 | 5 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
@@ -107,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 11 | ⭐ 123,631 | 2026-08-01 | 2026-09-14 |
+| [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 12 | ⭐ 125,514 | 2026-08-01 | 2026-09-24 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 10 | ⭐ 41,423 | 2026-08-03 | 2026-09-01 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 10 | ⭐ 106,016 | 2026-08-08 | 2026-09-14 |
+| [cactus-compute/needle](../repos/cactus-compute/needle.md) | 10 | ⭐ 12,523 | 2026-08-11 | 2026-09-24 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 9 | ⭐ 1,384 | 2026-08-01 | 2026-08-28 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 9 | ⭐ 39,719 | 2026-08-03 | 2026-09-09 |
-| [cactus-compute/needle](../repos/cactus-compute/needle.md) | 9 | ⭐ 11,884 | 2026-08-11 | 2026-09-20 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | 9 | ⭐ 115,765 | 2026-08-20 | 2026-09-21 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 9 | ⭐ 28,964 | 2026-08-22 | 2026-09-14 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 8 | ⭐ 81,126 | 2026-08-01 | 2026-09-14 |
 
 ---
 
@@ -141,10 +150,11 @@
 - [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc....
 - [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHu...
 - [langchain-ai/deepagents](../repos/langchain-ai/deepagents.md) - The batteries-included agent harness.
+- [llm-d/llm-d](../repos/llm-d/llm-d.md) - Achieve state of the art inference performance with modern accelerators on Kubernetes
 - [microsoft/hve-core](../repos/microsoft/hve-core.md) - A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and ...
 - [abus-aikorea/voice-pro](../repos/abus-aikorea/voice-pro.md) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voic...
 - [Huanshere/VideoLingo](../repos/Huanshere/VideoLingo.md) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automa...
-- [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) - Summer 2026 software engineering, data science, AI, quant, product management, and hardware inter...
+- [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) - Summer 2027 software engineering, data science, AI, quant, product management, and hardware inter...
 - [bytedance/deer-flow](../repos/bytedance/deer-flow.md) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...
 - [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) - Hunt down social media accounts by username across social networks
 - [ccxt/ccxt](../repos/ccxt/ccxt.md) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript &#x2F; ...
@@ -171,7 +181,7 @@
 - [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](../repos/RVC-Project/Retrieval-based-Voice-Conversion-WebUI.md) - Easily train a good VC model with voice data &lt;&#x3D; 10 mins!
 - [pandas-dev/pandas](../repos/pandas-dev/pandas.md) - Flexible and powerful data analysis &#x2F; manipulation library for Python, providing labeled data str...
-- [alirezarezvani/claude-skills](../repos/alirezarezvani/claude-skills.md) - 345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, cu...
+- [alirezarezvani/claude-skills](../repos/alirezarezvani/claude-skills.md) - 380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, cu...
 - [harvard-edge/cs249r_book](../repos/harvard-edge/cs249r_book.md) - Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard...
 - [spesmilo/electrum](../repos/spesmilo/electrum.md) - Electrum Bitcoin Wallet
 - [roboflow/supervision](../repos/roboflow/supervision.md) - We write your reusable computer vision tools. 💜
@@ -207,7 +217,7 @@
 - [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...
 - [funstory-ai/BabelDOC](../repos/funstory-ai/BabelDOC.md) - Yet Another Document Translator
 - [MervinPraison/PraisonAI](../repos/MervinPraison/PraisonAI.md) - PraisonAI 🦞 — Hire a 24&#x2F;7 AI Workforce. Stop writing boilerplate and start shipping autonomous s...
-- [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) - Hindsight: Agent Memory That  Learns
+- [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) - Hindsight: Agent Memory That Learns
 - [stanfordnlp/dspy](../repos/stanfordnlp/dspy.md) - DSPy: The framework for programming—not prompting—language models
 - [3b1b/manim](../repos/3b1b/manim.md) - Animation engine for explanatory math videos
 - [langchain-ai/open_deep_research](../repos/langchain-ai/open_deep_research.md) - 
@@ -220,8 +230,7 @@
 - [AWeirdDev/flights](../repos/AWeirdDev/flights.md) - Fast, robust Google Flights scraper (API) for Python. (Probably)
 - [cactus-compute/needle](../repos/cactus-compute/needle.md) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction a...
 - [NVlabs/GR00T-WholeBodyControl](../repos/NVlabs/GR00T-WholeBodyControl.md) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deployin...
-- [AgriciDaniel/claude-obsidian](../repos/AgriciDaniel/claude-obsidian.md) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, lin...
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.117Z*
+*Last updated: 2026-09-24T21:01:47.287Z*

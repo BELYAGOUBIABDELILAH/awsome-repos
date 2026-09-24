@@ -1,0 +1,95 @@
+# Facepunch&#x2F;garrysmod
+
+> Sandbox mod for the Source Engine
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Facepunch&#x2F;garrysmod) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | Lua |
+| **License** | Not specified |
+| **Stars** | ⭐ 1,313 |
+| **Forks** | 🍴 844 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Sep 24, 2026 |
+| **Last Seen** | Sep 24, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in Lua or garrysmod*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`garrysmod`](../../topics/garrysmod.md) [`gmod`](../../topics/gmod.md) [`gmod-lua`](../../topics/gmod-lua.md) 
+
+### Curated Categories
+`General` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Limited | May require reading source code |
+| **Community** | Very Active | 1,313+ stars, strong contributor base |
+| **Maturity** | Stable | Established project |
+| **Maintenance** | Active | Regular updates |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in Lua
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-09-24T21:01:52.537Z*  
+*Data from 1 trending reports*

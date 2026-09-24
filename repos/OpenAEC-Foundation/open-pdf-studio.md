@@ -1,6 +1,6 @@
 # OpenAEC-Foundation&#x2F;open-pdf-studio
 
-> No description available
+> An open source PDF viewer&#x2F;editor with it&#39;s own blazing fast rust engine
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;OpenAEC-Foundation&#x2F;open-pdf-studio) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | HTML |
 | **License** | Other |
-| **Stars** | ⭐ 549 |
-| **Forks** | 🍴 46 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 832 |
+| **Forks** | 🍴 74 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Aug 5, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in HTML or similar-topics*
+*Similar: Check repositories in HTML or aec*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-
+[`aec`](../../topics/aec.md) [`bim`](../../topics/bim.md) [`construction`](../../topics/construction.md) [`desktop-app`](../../topics/desktop-app.md) [`ifc`](../../topics/ifc.md) [`linux`](../../topics/linux.md) [`macos`](../../topics/macos.md) [`open-source`](../../topics/open-source.md) [`pdf`](../../topics/pdf.md) [`pdf-annotation`](../../topics/pdf-annotation.md) [`pdf-editor`](../../topics/pdf-editor.md) [`pdf-viewer`](../../topics/pdf-viewer.md) [`rust`](../../topics/rust.md) [`solidjs`](../../topics/solidjs.md) [`tauri`](../../topics/tauri.md) [`windows`](../../topics/windows.md) 
 
 ### Curated Categories
-`General` 
+`Systems Programming` `Developer Tools` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-22T21:02:10.997Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-24T21:01:49.632Z*  
+*Data from 3 trending reports*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 48,297 |
-| **Forks** | 🍴 4,489 |
-| **Trending Days** | 4 |
-| **Peak Rank** | #12 |
+| **Stars** | ⭐ 50,283 |
+| **Forks** | 🍴 4,614 |
+| **Trending Days** | 5 |
+| **Peak Rank** | #8 |
 
 | **First Seen** | Aug 15, 2026 |
-| **Last Seen** | Aug 26, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Sep 24, 2026** — Rank #8 (+415 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #12
-- **Trending Days**: 4
+- **Peak Rank**: #8
+- **Trending Days**: 5
 - **Longest Streak**: 3 days
 
 ---
@@ -68,12 +69,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Average | Basic documentation available |
-| **Community** | Growing | Emerging community |
+| **Difficulty** | Intermediate | Well-documented but extensive API |
+| **Documentation** | Good | Well-maintained documentation |
+| **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
 - General purpose
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 65&#x2F;100
-- **Historical Rank**: Peak: #12
+- **Trending Score**: 80&#x2F;100
+- **Historical Rank**: Top 10 (Peak: #8)
 
 
 ---
 
-*Last updated: 2026-09-22T21:02:12.286Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-09-24T21:01:50.944Z*  
+*Data from 5 trending reports*

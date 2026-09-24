@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | R |
 | **License** | CC-BY-4.0 |
-| **Stars** | ⭐ 394 |
-| **Forks** | 🍴 44 |
-| **Trending Days** | 27 |
+| **Stars** | ⭐ 404 |
+| **Forks** | 🍴 47 |
+| **Trending Days** | 28 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Sep 14, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 27
+- **Trending Days**: 28
 - **Longest Streak**: 10 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:11.769Z*  
-*Data from 27 trending reports*
+*Last updated: 2026-09-24T21:01:50.416Z*  
+*Data from 28 trending reports*

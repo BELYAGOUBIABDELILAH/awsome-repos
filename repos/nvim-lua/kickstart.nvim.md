@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Lua |
 | **License** | MIT |
-| **Stars** | ⭐ 31,494 |
-| **Forks** | 🍴 46,563 |
-| **Trending Days** | 26 |
+| **Stars** | ⭐ 31,508 |
+| **Forks** | 🍴 46,546 |
+| **Trending Days** | 27 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Sep 20, 2026 |
+| **Last Seen** | Sep 24, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 26
+- **Trending Days**: 27
 - **Longest Streak**: 7 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 31,494+ stars, strong contributor base |
+| **Community** | Very Active | 31,508+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:11.196Z*  
-*Data from 26 trending reports*
+*Last updated: 2026-09-24T21:01:49.839Z*  
+*Data from 27 trending reports*

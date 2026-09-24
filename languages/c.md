@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 202
+- **Total Repositories**: 204
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,647 | 2026-08-01 | 6 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,196 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 985 | 2026-08-02 | 9 |
+| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,356 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mimalloc](../repos/microsoft/mimalloc.md) | ⭐ 13,391 | 2026-08-04 | 7 |
+| [Klipper3d/klipper](../repos/Klipper3d/klipper.md) | ⭐ 11,896 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,585 | 2026-08-06 | 16 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,755 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 44,179 | 2026-08-07 | 17 |
+| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 1,012 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HermannBjorgvin/Clawdmeter](../repos/HermannBjorgvin/Clawdmeter.md) | ⭐ 2,215 | 2026-08-10 | 3 |
+| [mit-pdos/xv6-riscv](../repos/mit-pdos/xv6-riscv.md) | ⭐ 10,513 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 4,483 | 2026-08-15 | 9 |
+| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,742 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stackia/rtp2httpd](../repos/stackia/rtp2httpd.md) | ⭐ 2,126 | 2026-08-22 | 3 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,608 | 2026-08-06 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,470 | 2026-08-24 | 3 |
+| [timescale/timescaledb](../repos/timescale/timescaledb.md) | ⭐ 23,584 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [snesrev/zelda3](../repos/snesrev/zelda3.md) | ⭐ 4,800 | 2026-09-22 | 1 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 44,826 | 2026-08-07 | 18 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [HarbourMasters/Shipwright](../repos/HarbourMasters/Shipwright.md) | ⭐ 5,390 | 2026-08-24 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tqbf/mdv](../repos/tqbf/mdv.md) | ⭐ 262 | 2026-08-24 | Markdown Viewer |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,470 | 2026-08-24 | A new bootable USB solution. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OleksandrChekhovskyi/hax](../repos/OleksandrChekhovskyi/hax.md) | ⭐ 650 | 2026-08-25 | A minimalist, terminal-native coding agent written in C. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [streetpea/chiaki-ng](../repos/streetpea/chiaki-ng.md) | ⭐ 2,645 | 2026-08-25 | Next-Generation of Chiaki (the open-source remote play client for PlayStation) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [containers/crun](../repos/containers/crun.md) | ⭐ 4,076 | 2026-08-25 | A fast and lightweight fully featured OCI runtime and C library for running containers |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [firedancer-io/firedancer](../repos/firedancer-io/firedancer.md) | ⭐ 1,510 | 2026-08-26 | Firedancer is Jump Crypto&#39;s Solana validator software. |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sunblaze-ucb/exploitgym](../repos/sunblaze-ucb/exploitgym.md) | ⭐ 942 | 2026-08-28 | ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed t... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/WSL2-Linux-Kernel](../repos/microsoft/WSL2-Linux-Kernel.md) | ⭐ 10,548 | 2026-08-29 | The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [capstone-engine/capstone](../repos/capstone-engine/capstone.md) | ⭐ 9,014 | 2026-08-29 | Capstone disassembly&#x2F;disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [merbanan/rtl_433](../repos/merbanan/rtl_433.md) | ⭐ 7,822 | 2026-09-01 | Program to decode radio transmissions from devices on the ISM bands (and other frequencies) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [RT-Thread/rt-thread](../repos/RT-Thread/rt-thread.md) | ⭐ 12,202 | 2026-09-01 | RT-Thread is an open source IoT Real-Time Operating System (RTOS).                               ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [OpenVPN/openvpn](../repos/OpenVPN/openvpn.md) | ⭐ 14,485 | 2026-09-01 | OpenVPN  is  an open source VPN daemon |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 31,850 | 2026-09-01 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from di... |
 
 
 ---
@@ -95,7 +95,7 @@
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 71,457 | 2026-08-01 | 18 |
 | [git/git](../repos/git/git.md) | ⭐ 63,088 | 2026-08-05 | 5 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 44,179 | 2026-08-07 | 17 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 44,826 | 2026-08-07 | 18 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,380 | 2026-08-01 | 6 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
@@ -115,11 +115,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 35 | ⭐ 16,582 | 2026-08-01 | 2026-09-10 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 36 | ⭐ 16,755 | 2026-08-01 | 2026-09-24 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 18 | ⭐ 71,457 | 2026-08-01 | 2026-09-19 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 18 | ⭐ 44,826 | 2026-08-07 | 2026-09-24 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 17 | ⭐ 138,519 | 2026-08-01 | 2026-09-09 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 17 | ⭐ 44,179 | 2026-08-07 | 2026-09-22 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 16 | ⭐ 16,585 | 2026-08-06 | 2026-09-22 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 17 | ⭐ 16,608 | 2026-08-06 | 2026-09-24 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 16 | ⭐ 27,819 | 2026-08-07 | 2026-09-10 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 15 | ⭐ 6,952 | 2026-08-04 | 2026-09-09 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 13 | ⭐ 76,206 | 2026-08-02 | 2026-09-14 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.043Z*
+*Last updated: 2026-09-24T21:01:47.213Z*

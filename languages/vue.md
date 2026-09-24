@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 86
+- **Total Repositories**: 87
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-19
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,950 | 2026-08-01 | 26 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,961 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,389 | 2026-08-01 | 14 |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,391 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,783 | 2026-08-02 | 18 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,590 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 1,904 | 2026-08-02 | 18 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,805 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 2,541 | 2026-08-02 | 19 |
+| [ljxi/Cloudflare-R2-oss](../repos/ljxi/Cloudflare-R2-oss.md) | ⭐ 518 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,827 | 2026-08-02 | 16 |
+| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 2,823 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,365 | 2026-08-03 | 16 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,832 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 10,240 | 2026-08-04 | 12 |
+| [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 5,891 | 2026-08-07 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,524 | 2026-08-08 | 19 |
+| [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,734 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,119 | 2026-08-20 | 4 |
+| [yangzongzhuan/RuoYi-Vue3](../repos/yangzongzhuan/RuoYi-Vue3.md) | ⭐ 6,761 | 2026-08-12 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Kong/kongponents](../repos/Kong/kongponents.md) | ⭐ 164 | 2026-08-24 | 🦍 Kong Vue Component Library |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Tencent/tdesign](../repos/Tencent/tdesign.md) | ⭐ 4,031 | 2026-08-26 | Enterprise Design System |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [wrapper-offline/wrapper-offline](../repos/wrapper-offline/wrapper-offline.md) | ⭐ 300 | 2026-09-06 | A project with the purpose of providing a way to use the Legacy Video Maker from GoAnimate &#x2F; Vyond. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ruxailab/RUXAILAB](../repos/ruxailab/RUXAILAB.md) | ⭐ 178 | 2026-09-07 | RUXAILAB - The Remote User eXperience Artificial Intelligence LAB |
 
 
 ---
@@ -92,13 +92,13 @@
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,045 | 2026-08-01 | 9 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,497 | 2026-08-01 | 30 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,305 | 2026-08-01 | 18 |
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,950 | 2026-08-01 | 26 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,961 | 2026-08-01 | 27 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,524 | 2026-08-08 | 19 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,962 | 2026-08-01 | 21 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,637 | 2026-08-02 | 12 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,783 | 2026-08-02 | 18 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,805 | 2026-08-02 | 19 |
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,458 | 2026-08-05 | 12 |
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,119 | 2026-08-20 | 4 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,749 | 2026-08-12 | 4 |
@@ -107,7 +107,7 @@
 | [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,365 | 2026-08-03 | 16 |
 | [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,314 | 2026-08-23 | 7 |
 | [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,816 | 2026-08-03 | 3 |
-| [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,705 | 2026-08-08 | 6 |
+| [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,734 | 2026-08-08 | 7 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 30 | ⭐ 33,497 | 2026-08-01 | 2026-09-21 |
-| [requarks/wiki](../repos/requarks/wiki.md) | 26 | ⭐ 28,950 | 2026-08-01 | 2026-09-22 |
+| [requarks/wiki](../repos/requarks/wiki.md) | 27 | ⭐ 28,961 | 2026-08-01 | 2026-09-24 |
 | [RikkaApps/websites](../repos/RikkaApps/websites.md) | 25 | ⭐ 443 | 2026-08-02 | 2026-09-20 |
-| [frappe/crm](../repos/frappe/crm.md) | 21 | ⭐ 3,529 | 2026-08-01 | 2026-09-14 |
+| [frappe/crm](../repos/frappe/crm.md) | 22 | ⭐ 3,590 | 2026-08-01 | 2026-09-24 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 21 | ⭐ 21,962 | 2026-08-01 | 2026-09-21 |
+| [julyx10/lap](../repos/julyx10/lap.md) | 20 | ⭐ 2,823 | 2026-08-02 | 2026-09-24 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 19 | ⭐ 4,269 | 2026-08-01 | 2026-09-20 |
-| [julyx10/lap](../repos/julyx10/lap.md) | 19 | ⭐ 2,541 | 2026-08-02 | 2026-09-22 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 19 | ⭐ 16,805 | 2026-08-02 | 2026-09-24 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 19 | ⭐ 23,524 | 2026-08-08 | 2026-09-22 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 18 | ⭐ 33,305 | 2026-08-01 | 2026-09-20 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 18 | ⭐ 16,783 | 2026-08-02 | 2026-09-22 |
 
 ---
 
@@ -216,7 +216,8 @@
 - [MoeKoeMusic/MoeKoeMusic](../repos/MoeKoeMusic/MoeKoeMusic.md) - 一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuG...
 - [henryzt/Rhythm-Plus-Music-Game](../repos/henryzt/Rhythm-Plus-Music-Game.md) - Community-based vertical scrolling rhythm game (VSRG) made with Vue.js and canvas (WIP)
 - [fjykTec/ModernWMS](../repos/fjykTec/ModernWMS.md) - The open source simple and complete warehouse management system is derived from our many years of...
+- [timeshiftsauce/CeruMusic](../repos/timeshiftsauce/CeruMusic.md) - Ceru Music 是基于 Electron 和 Vue 开发的跨平台桌面音乐播放器工具，借鉴洛雪音乐插件思想，提供插件运行框架与播放功能，不直接存储、提供任何音乐源文件。用户需通过自行选择、...
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.146Z*
+*Last updated: 2026-09-24T21:01:47.313Z*

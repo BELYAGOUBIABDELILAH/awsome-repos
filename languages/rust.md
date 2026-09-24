@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 187
+- **Total Repositories**: 190
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-10
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 4,985 | 2026-08-01 | 4 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 90,142 | 2026-07-31 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,703 | 2026-08-05 | 5 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,911 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 40,038 | 2026-08-10 | 12 |
+| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 18,338 | 2026-08-14 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 8,068 | 2026-08-17 | 8 |
+| [block/buzz](../repos/block/buzz.md) | ⭐ 34,266 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/quiche](../repos/cloudflare/quiche.md) | ⭐ 12,486 | 2026-08-19 | 5 |
+| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 14,735 | 2026-09-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 8,340 | 2026-08-26 | 8 |
+| [hydra-db/hydradb](../repos/hydra-db/hydradb.md) | ⭐ 5,900 | 2026-09-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yynxxxxx/Codex-X](../repos/yynxxxxx/Codex-X.md) | ⭐ 3,851 | 2026-09-19 | 4 |
+| [Nasiko-Labs/nasiko](../repos/Nasiko-Labs/nasiko.md) | ⭐ 8,872 | 2026-09-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HelixDB/helix-db](../repos/HelixDB/helix-db.md) | ⭐ 6,077 | 2026-09-20 | 2 |
+| [a2x/cs2-dumper](../repos/a2x/cs2-dumper.md) | ⭐ 2,367 | 2026-09-24 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [smol-machines/smolvm](../repos/smol-machines/smolvm.md) | ⭐ 6,273 | 2026-09-20 | 2 |
+| [Mesh-LLM/mesh-llm](../repos/Mesh-LLM/mesh-llm.md) | ⭐ 3,451 | 2026-09-24 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hydra-db/hydradb](../repos/hydra-db/hydradb.md) | ⭐ 4,190 | 2026-09-22 | 1 |
+| [kvcache-ai/AgentENV](../repos/kvcache-ai/AgentENV.md) | ⭐ 3,535 | 2026-09-24 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [GitoxideLabs/gitoxide](../repos/GitoxideLabs/gitoxide.md) | ⭐ 11,849 | 2026-08-24 | An idiomatic, lean, fast &amp; safe pure Rust implementation of Git |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ruvnet/RuVector](../repos/ruvnet/RuVector.md) | ⭐ 4,447 | 2026-08-24 | RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rust-lang/book](../repos/rust-lang/book.md) | ⭐ 18,227 | 2026-08-24 | The Rust Programming Language |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [otter-sec/anchor](../repos/otter-sec/anchor.md) | ⭐ 5,118 | 2026-08-24 | ⚓ Solana Program Framework |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [confeden/Antigravity](../repos/confeden/Antigravity.md) | ⭐ 443 | 2026-08-25 | Antigravity в России без VPN и смены региона аккаунта Google |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [transact-rs/sqlx](../repos/transact-rs/sqlx.md) | ⭐ 17,472 | 2026-08-25 | 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries wit... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 8,340 | 2026-08-26 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Xoshbin/asyar](../repos/Xoshbin/asyar.md) | ⭐ 519 | 2026-08-26 | The power of Raycast. The speed of Alfred. Privacy by design. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [influxdata/influxdb](../repos/influxdata/influxdb.md) | ⭐ 31,720 | 2026-08-26 | Scalable datastore for metrics, events, and real-time analytics |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apache/opendal](../repos/apache/opendal.md) | ⭐ 5,355 | 2026-08-27 | Apache OpenDAL: One Layer, All Storage. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 7,975 | 2026-08-27 | A Datacenter Scale Distributed Inference Serving Framework |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ArthurBrussee/brush](../repos/ArthurBrussee/brush.md) | ⭐ 5,062 | 2026-08-27 | 3D Reconstruction for all |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 45,967 | 2026-08-28 | A post-modern modal text editor. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lance-format/lance](../repos/lance-format/lance.md) | ⭐ 6,998 | 2026-08-28 | Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster ... |
 
 
 ---
@@ -93,7 +93,7 @@
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,895 | 2026-08-11 | 7 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 93,786 | 2026-08-09 | 11 |
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 89,217 | 2026-07-31 | 3 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 90,142 | 2026-07-31 | 4 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
@@ -104,7 +104,7 @@
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,503 | 2026-08-12 | 3 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 47,938 | 2026-08-28 | 1 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 45,967 | 2026-08-28 | 1 |
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,703 | 2026-08-05 | 5 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,911 | 2026-08-05 | 6 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 42,307 | 2026-08-02 | 8 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,341 | 2026-08-02 | 2 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-22T21:02:08.124Z*
+*Last updated: 2026-09-24T21:01:47.294Z*
