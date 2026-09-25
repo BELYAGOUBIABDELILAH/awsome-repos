@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | Other |
-| **Stars** | ⭐ 2,672 |
-| **Forks** | 🍴 304 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 3,031 |
+| **Forks** | 🍴 344 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 12, 2026 |
-| **Last Seen** | Sep 13, 2026 |
+| **Last Seen** | Sep 25, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`ai`](../../topics/ai.md) [`amd-gpu`](../../topics/amd-gpu.md) [`apple-silicon`](../../topics/apple-silicon.md) [`asr`](../../topics/asr.md) [`audio`](../../topics/audio.md) [`audio-analysis`](../../topics/audio-analysis.md) [`cpp`](../../topics/cpp.md) [`edge-ai`](../../topics/edge-ai.md) [`ggml`](../../topics/ggml.md) [`minimax-music3`](../../topics/minimax-music3.md) [`music-generation`](../../topics/music-generation.md) [`speech-analysis`](../../topics/speech-analysis.md) [`speech-to-speech`](../../topics/speech-to-speech.md) [`speech-to-text`](../../topics/speech-to-text.md) [`text-to-speech`](../../topics/text-to-speech.md) [`tts`](../../topics/tts.md) [`voice-cloning`](../../topics/voice-cloning.md) [`voice-conversion`](../../topics/voice-conversion.md) [`vulkan`](../../topics/vulkan.md) 
+[`ai`](../../topics/ai.md) [`amd-gpu`](../../topics/amd-gpu.md) [`apple-silicon`](../../topics/apple-silicon.md) [`asr`](../../topics/asr.md) [`audio`](../../topics/audio.md) [`cpp`](../../topics/cpp.md) [`edge-ai`](../../topics/edge-ai.md) [`ggml`](../../topics/ggml.md) [`minimax-music3`](../../topics/minimax-music3.md) [`music-generation`](../../topics/music-generation.md) [`speech-analysis`](../../topics/speech-analysis.md) [`speech-to-speech`](../../topics/speech-to-speech.md) [`speech-to-text`](../../topics/speech-to-text.md) [`text-to-speech`](../../topics/text-to-speech.md) [`tts`](../../topics/tts.md) [`voice-ai`](../../topics/voice-ai.md) [`voice-cloning`](../../topics/voice-cloning.md) [`voice-conversion`](../../topics/voice-conversion.md) [`vulkan`](../../topics/vulkan.md) [`yue2`](../../topics/yue2.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Game Development` `Systems Programming` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-24T21:01:52.226Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-25T21:02:22.347Z*  
+*Data from 3 trending reports*

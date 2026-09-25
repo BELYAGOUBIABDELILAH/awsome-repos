@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 22,465 |
-| **Forks** | 🍴 6,467 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 22,481 |
+| **Forks** | 🍴 6,472 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Sep 22, 2026 |
+| **Last Seen** | Sep 25, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-24T21:01:50.363Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-09-25T21:02:20.352Z*  
+*Data from 4 trending reports*

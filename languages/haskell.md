@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 30
+- **Total Repositories**: 31
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-24
+- **Last Updated**: 2026-09-25
 
 ---
 
@@ -16,19 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,959 | 2026-08-01 | 13 |
+| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,960 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,677 | 2026-08-01 | 39 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,677 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,083 | 2026-08-01 | 39 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,088 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,179 | 2026-08-01 | 18 |
+| [agda/agda](../repos/agda/agda.md) | ⭐ 2,933 | 2026-08-03 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qualcomm/QAIC](../repos/qualcomm/QAIC.md) | ⭐ 25 | 2026-09-21 | 2 |
+| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 298 | 2026-08-08 | 20 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [channable/icepeak](../repos/channable/icepeak.md) | ⭐ 135 | 2026-09-25 | 1 |
 
 
 ---
@@ -47,6 +50,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [qualcomm/QAIC](../repos/qualcomm/QAIC.md) | ⭐ 25 | 2026-09-21 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [channable/icepeak](../repos/channable/icepeak.md) | ⭐ 135 | 2026-09-25 | Icepeak is a fast JSON document store with push notification support. |
 
 
 ---
@@ -55,8 +61,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,083 | 2026-08-01 | 39 |
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,677 | 2026-08-01 | 39 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,088 | 2026-08-01 | 40 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,677 | 2026-08-01 | 40 |
 | [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,908 | 2026-08-08 | 3 |
 | [elm/compiler](../repos/elm/compiler.md) | ⭐ 7,901 | 2026-08-09 | 4 |
 | [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,721 | 2026-08-06 | 7 |
@@ -64,8 +70,8 @@
 | [digitallyinduced/ihp](../repos/digitallyinduced/ihp.md) | ⭐ 5,330 | 2026-08-02 | 1 |
 | [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,078 | 2026-08-05 | 7 |
 | [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,179 | 2026-08-01 | 18 |
-| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,959 | 2026-08-01 | 13 |
-| [agda/agda](../repos/agda/agda.md) | ⭐ 2,928 | 2026-08-03 | 20 |
+| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,960 | 2026-08-01 | 14 |
+| [agda/agda](../repos/agda/agda.md) | ⭐ 2,933 | 2026-08-03 | 21 |
 | [wireapp/wire-server](../repos/wireapp/wire-server.md) | ⭐ 2,783 | 2026-08-04 | 2 |
 | [diku-dk/futhark](../repos/diku-dk/futhark.md) | ⭐ 2,778 | 2026-08-02 | 1 |
 | [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | ⭐ 2,565 | 2026-08-03 | 14 |
@@ -82,15 +88,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 39 | ⭐ 27,677 | 2026-08-01 | 2026-09-24 |
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 39 | ⭐ 40,083 | 2026-08-01 | 2026-09-24 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 40 | ⭐ 27,677 | 2026-08-01 | 2026-09-25 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 40 | ⭐ 40,088 | 2026-08-01 | 2026-09-25 |
 | [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 33 | ⭐ 1,819 | 2026-08-01 | 2026-09-20 |
-| [agda/agda](../repos/agda/agda.md) | 20 | ⭐ 2,928 | 2026-08-03 | 2026-09-20 |
-| [mtolly/onyx](../repos/mtolly/onyx.md) | 19 | ⭐ 298 | 2026-08-08 | 2026-09-21 |
+| [agda/agda](../repos/agda/agda.md) | 21 | ⭐ 2,933 | 2026-08-03 | 2026-09-25 |
+| [mtolly/onyx](../repos/mtolly/onyx.md) | 20 | ⭐ 298 | 2026-08-08 | 2026-09-25 |
 | [haskell/cabal](../repos/haskell/cabal.md) | 18 | ⭐ 1,744 | 2026-08-01 | 2026-09-20 |
 | [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 18 | ⭐ 3,179 | 2026-08-01 | 2026-09-24 |
+| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 14 | ⭐ 2,960 | 2026-08-01 | 2026-09-25 |
 | [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | 14 | ⭐ 2,565 | 2026-08-03 | 2026-09-13 |
-| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 13 | ⭐ 2,959 | 2026-08-01 | 2026-09-24 |
 | [digital-asset/daml](../repos/digital-asset/daml.md) | 10 | ⭐ 917 | 2026-08-01 | 2026-09-19 |
 
 ---
@@ -127,7 +133,8 @@
 - [augustss/MicroHs](../repos/augustss/MicroHs.md) - Haskell implemented with combinators
 - [carp-lang/Carp](../repos/carp-lang/Carp.md) - A statically typed lisp, without a GC, for real-time applications.
 - [qualcomm/QAIC](../repos/qualcomm/QAIC.md) - 
+- [channable/icepeak](../repos/channable/icepeak.md) - Icepeak is a fast JSON document store with push notification support.
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.250Z*
+*Last updated: 2026-09-25T21:02:16.424Z*

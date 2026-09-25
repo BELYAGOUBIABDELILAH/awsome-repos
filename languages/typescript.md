@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 224
+- **Total Repositories**: 227
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 8,563 | 2026-08-01 | 12 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 8,632 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 33,176 | 2026-08-02 | 13 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 52,604 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 17,478 | 2026-08-05 | 3 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 84,635 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 77,462 | 2026-08-11 | 12 |
+| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 18,359 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 20,888 | 2026-08-14 | 5 |
+| [payloadcms/payload](../repos/payloadcms/payload.md) | ⭐ 44,955 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [remotion-dev/remotion](../repos/remotion-dev/remotion.md) | ⭐ 60,301 | 2026-08-16 | 2 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 78,223 | 2026-08-11 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/cloudflare-os](../repos/cloudflare/cloudflare-os.md) | ⭐ 10,109 | 2026-08-25 | 2 |
+| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 21,052 | 2026-08-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fastapi/full-stack-fastapi-template](../repos/fastapi/full-stack-fastapi-template.md) | ⭐ 45,739 | 2026-09-02 | 2 |
+| [FxEmbed/FxEmbed](../repos/FxEmbed/FxEmbed.md) | ⭐ 5,449 | 2026-09-24 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FxEmbed/FxEmbed](../repos/FxEmbed/FxEmbed.md) | ⭐ 5,344 | 2026-09-24 | 1 |
+| [NginxProxyManager/nginx-proxy-manager](../repos/NginxProxyManager/nginx-proxy-manager.md) | ⭐ 34,234 | 2026-09-25 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [atomicstrata/llm-wiki-compiler](../repos/atomicstrata/llm-wiki-compiler.md) | ⭐ 2,111 | 2026-09-24 | 1 |
+| [mvschwarz/openrig](../repos/mvschwarz/openrig.md) | ⭐ 433 | 2026-09-25 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 8,221 | 2026-08-26 | Annotate and review coding agent plans and code diffs visually, share with your team, send feedba... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [janhq/jan](../repos/janhq/jan.md) | ⭐ 44,197 | 2026-08-26 | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [piratuks/invoice-builder](../repos/piratuks/invoice-builder.md) | ⭐ 923 | 2026-08-26 | Invoice and quotation builder desktop app with PDF export, designed for small businesses and free... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [genkit-ai/genkit](../repos/genkit-ai/genkit.md) | ⭐ 6,378 | 2026-08-26 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and us... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tickernelz/opencode-mem](../repos/tickernelz/opencode-mem.md) | ⭐ 1,530 | 2026-08-26 | OpenCode plugin that gives coding agents persistent memory using local vector database |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Tencent/BrowserSkill](../repos/Tencent/BrowserSkill.md) | ⭐ 6,026 | 2026-08-27 | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension fo... |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [1weiho/open-slide](../repos/1weiho/open-slide.md) | ⭐ 7,243 | 2026-08-27 | A slide framework built for agents. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 86,970 | 2026-08-28 | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ArnasDon/wacrm](../repos/ArnasDon/wacrm.md) | ⭐ 2,135 | 2026-08-28 | Self-hostable CRM template for WhatsApp — shared inbox, contacts, sales pipelines, broadcasts, an... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Agenta-AI/agenta](../repos/Agenta-AI/agenta.md) | ⭐ 4,621 | 2026-08-28 | Agenta is a workspace where you and your team build agents and automations. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [anthropics/claude-code-action](../repos/anthropics/claude-code-action.md) | ⭐ 8,752 | 2026-08-29 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cloudflare/kumo](../repos/cloudflare/kumo.md) | ⭐ 3,759 | 2026-08-29 | Cloudflare&#39;s component library for building modern web applications. |
 
 
 ---
@@ -107,7 +107,7 @@
 | [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 89,779 | 2026-08-22 | 1 |
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 87,081 | 2026-08-14 | 3 |
 | [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 86,970 | 2026-08-28 | 2 |
-| [coder/code-server](../repos/coder/code-server.md) | ⭐ 78,782 | 2026-08-12 | 1 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 84,635 | 2026-08-02 | 5 |
 
 ---
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 15 | ⭐ 147,645 | 2026-08-07 | 2026-09-22 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 13 | ⭐ 8,632 | 2026-08-01 | 2026-09-25 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 13 | ⭐ 33,176 | 2026-08-02 | 2026-09-24 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 12 | ⭐ 8,563 | 2026-08-01 | 2026-09-24 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 13 | ⭐ 78,223 | 2026-08-11 | 2026-09-25 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 12 | ⭐ 25,971 | 2026-08-07 | 2026-09-13 |
-| [stablyai/orca](../repos/stablyai/orca.md) | 12 | ⭐ 77,462 | 2026-08-11 | 2026-09-24 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 11 | ⭐ 48,711 | 2026-08-08 | 2026-09-10 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 10 | ⭐ 131,955 | 2026-08-02 | 2026-09-07 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 9 | ⭐ 26,666 | 2026-08-01 | 2026-09-14 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 9 | ⭐ 52,604 | 2026-08-01 | 2026-09-25 |
 | [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | 9 | ⭐ 108,096 | 2026-08-07 | 2026-09-21 |
 
 ---
 
@@ -144,7 +144,6 @@
 - [pingdotgg/t3code](../repos/pingdotgg/t3code.md) - 
 - [continuedev/continue](../repos/continuedev/continue.md) - open-source coding agent
 - [portainer/portainer](../repos/portainer/portainer.md) - Making Docker and Kubernetes management easy.
-- [appwrite/appwrite](../repos/appwrite/appwrite.md) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Datab...
 - [podman-desktop/podman-desktop](../repos/podman-desktop/podman-desktop.md) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for d...
 - [actions/checkout](../repos/actions/checkout.md) - Action for checking out a repo
 - [Narcooo/inkos](../repos/Narcooo/inkos.md) - Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
@@ -230,7 +229,8 @@
 - [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) - 🙌 OpenHands: AI-Driven Development
 - [Jakubantalik/Libraries](../repos/Jakubantalik/Libraries.md) - Collection of effects for React: Border beam, Liquid Gooey
 - [every-app/open-seo](../repos/every-app/open-seo.md) - Open source alternative to Semrush and Ahrefs
+- [documenso/documenso](../repos/documenso/documenso.md) - The Open Source DocuSign Alternative.
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.303Z*
+*Last updated: 2026-09-25T21:02:16.498Z*

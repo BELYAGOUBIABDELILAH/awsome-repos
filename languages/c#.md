@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 162
+- **Total Repositories**: 165
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-21
+- **Last Updated**: 2026-09-25
 
 ---
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,201 | 2026-08-01 | 16 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,235 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,708 | 2026-08-01 | 14 |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,140 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,198 | 2026-08-01 | 9 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,460 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 15,671 | 2026-08-02 | 16 |
+| [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,434 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,477 | 2026-08-03 | 19 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 116,992 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,844 | 2026-08-03 | 8 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,482 | 2026-08-03 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,513 | 2026-08-06 | 11 |
+| [actions/runner](../repos/actions/runner.md) | ⭐ 6,292 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,957 | 2026-08-10 | 4 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,318 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ed0ard/CS2-Bot-Improver](../repos/ed0ard/CS2-Bot-Improver.md) | ⭐ 1,159 | 2026-09-05 | 4 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,603 | 2026-08-05 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [STranslate/STranslate](../repos/STranslate/STranslate.md) | ⭐ 8,106 | 2026-09-08 | 2 |
+| [luolangaga/tubatools](../repos/luolangaga/tubatools.md) | ⭐ 4,313 | 2026-08-12 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [quasar/Quasar](../repos/quasar/Quasar.md) | ⭐ 9,907 | 2026-08-26 | Remote Administration Tool for Windows |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [TeamWheelWizard/WheelWizard](../repos/TeamWheelWizard/WheelWizard.md) | ⭐ 688 | 2026-08-27 | WheelWizard, Retro Rewind Launcher |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PixiEditor/PixiEditor](../repos/PixiEditor/PixiEditor.md) | ⭐ 8,031 | 2026-09-04 | PixiEditor is a Universal Editor for all your 2D needs |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [umlx5h/LLPlayer](../repos/umlx5h/LLPlayer.md) | ⭐ 4,232 | 2026-09-04 | The media player for language learning, with dual subtitles, AI-generated subtitles, real-time tr... |
 
 
 ---
@@ -88,21 +88,21 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 116,644 | 2026-08-02 | 21 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 116,992 | 2026-08-02 | 22 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,905 | 2026-08-02 | 17 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,513 | 2026-08-06 | 11 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,350 | 2026-08-01 | 9 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,644 | 2026-08-14 | 3 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,844 | 2026-08-03 | 8 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,456 | 2026-08-01 | 14 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,460 | 2026-08-01 | 15 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,201 | 2026-08-01 | 16 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,235 | 2026-08-01 | 17 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,038 | 2026-08-28 | 2 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,591 | 2026-08-05 | 10 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,603 | 2026-08-05 | 11 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 28,548 | 2026-08-02 | 24 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,957 | 2026-08-10 | 4 |
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,096 | 2026-08-01 | 6 |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,140 | 2026-08-01 | 7 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,058 | 2026-08-02 | 6 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,907 | 2026-08-27 | 6 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
@@ -116,13 +116,13 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 24 | ⭐ 28,548 | 2026-08-02 | 2026-09-21 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 21 | ⭐ 116,644 | 2026-08-02 | 2026-09-21 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 19 | ⭐ 5,477 | 2026-08-03 | 2026-09-24 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 22 | ⭐ 116,992 | 2026-08-02 | 2026-09-25 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 20 | ⭐ 5,482 | 2026-08-03 | 2026-09-25 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 17 | ⭐ 31,235 | 2026-08-01 | 2026-09-25 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 17 | ⭐ 56,905 | 2026-08-02 | 2026-09-10 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 16 | ⭐ 31,201 | 2026-08-01 | 2026-09-24 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 16 | ⭐ 15,671 | 2026-08-02 | 2026-09-24 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 15 | ⭐ 38,460 | 2026-08-01 | 2026-09-25 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 14 | ⭐ 3,708 | 2026-08-01 | 2026-09-24 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 14 | ⭐ 38,456 | 2026-08-01 | 2026-09-20 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | 14 | ⭐ 18,292 | 2026-08-04 | 2026-09-21 |
 | [microsoft/aspire](../repos/microsoft/aspire.md) | 14 | ⭐ 6,317 | 2026-08-05 | 2026-09-19 |
 
@@ -216,7 +216,7 @@
 - [rmcrackan/Libation](../repos/rmcrackan/Libation.md) - Libation: Liberate your Library
 - [TechnitiumSoftware/DnsServer](../repos/TechnitiumSoftware/DnsServer.md) - Technitium DNS Server
 - [Azure/azure-sdk-for-net](../repos/Azure/azure-sdk-for-net.md) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we ...
-- [luolangaga/tubatools](../repos/luolangaga/tubatools.md) - 图吧工具箱 winUI3 版
+- [luolangaga/tubatools](../repos/luolangaga/tubatools.md) - 图吧工具箱 CE
 - [TheJoeFin/Text-Grab](../repos/TheJoeFin/Text-Grab.md) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifi...
 - [indiff/qttabbar](../repos/indiff/qttabbar.md) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   h...
 - [Unity-Technologies/skills](../repos/Unity-Technologies/skills.md) - A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built f...
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.222Z*
+*Last updated: 2026-09-25T21:02:16.388Z*

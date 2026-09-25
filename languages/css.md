@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 66
+- **Total Repositories**: 67
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-19
+- **Last Updated**: 2026-09-25
 
 ---
 
@@ -16,16 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,362 | 2026-08-01 | 20 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,373 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,443 | 2026-08-01 | 38 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,443 | 2026-08-01 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,825 | 2026-08-06 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,539 | 2026-08-05 | 16 |
+| [MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps](../repos/MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps.md) | ⭐ 54 | 2026-09-25 | 1 |
 
 
 ---
@@ -70,7 +70,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,802 | 2026-08-06 | 14 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,825 | 2026-08-06 | 15 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,525 | 2026-08-01 | 9 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,329 | 2026-08-04 | 20 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,947 | 2026-08-02 | 22 |
@@ -79,7 +79,7 @@
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,419 | 2026-08-02 | 19 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,362 | 2026-08-01 | 20 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,373 | 2026-08-01 | 21 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,807 | 2026-08-04 | 6 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,650 | 2026-08-06 | 10 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,481 | 2026-08-09 | 2 |
@@ -97,16 +97,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 38 | ⭐ 1,443 | 2026-08-01 | 2026-09-24 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 39 | ⭐ 1,443 | 2026-08-01 | 2026-09-25 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 31 | ⭐ 920 | 2026-08-01 | 2026-09-21 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 22 | ⭐ 28,947 | 2026-08-02 | 2026-09-20 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 21 | ⭐ 12,373 | 2026-08-01 | 2026-09-25 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 21 | ⭐ 1,408 | 2026-08-01 | 2026-08-29 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 20 | ⭐ 12,362 | 2026-08-01 | 2026-09-24 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 20 | ⭐ 45,329 | 2026-08-04 | 2026-09-22 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 19 | ⭐ 12,419 | 2026-08-02 | 2026-09-14 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 16 | ⭐ 9,283 | 2026-08-01 | 2026-09-20 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 16 | ⭐ 9,539 | 2026-08-05 | 2026-09-24 |
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 14 | ⭐ 82,802 | 2026-08-06 | 2026-09-19 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 15 | ⭐ 82,825 | 2026-08-06 | 2026-09-25 |
 
 ---
 
@@ -178,7 +178,8 @@
 - [jensimmons/cssremedy](../repos/jensimmons/cssremedy.md) - Start your project with a remedy for the technical debt of CSS. 
 - [CDCgov/prime-reportstream](../repos/CDCgov/prime-reportstream.md) - ReportStream is a public intermediary tool for delivery of data between different parts of the he...
 - [NilverTI/Web-Flores](../repos/NilverTI/Web-Flores.md) - Codigo de flores amarillas para regalar &#x2F; enviar a tu novia
+- [MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps](../repos/MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps.md) - Sample repo for Interact with Data for Blazor Web Apps Learn Module
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.228Z*
+*Last updated: 2026-09-25T21:02:16.393Z*

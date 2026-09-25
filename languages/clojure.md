@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 11
+- **Total Repositories**: 12
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-22
+- **Last Updated**: 2026-09-25
 
 ---
 
@@ -16,22 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,409 | 2026-08-01 | 43 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,421 | 2026-08-01 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 60,338 | 2026-08-01 | 38 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,055 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,047 | 2026-08-01 | 43 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 60,380 | 2026-08-01 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 3,925 | 2026-08-02 | 34 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,056 | 2026-08-01 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [logseq/og](../repos/logseq/og.md) | ⭐ 305 | 2026-08-02 | 22 |
+| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 3,928 | 2026-08-02 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [clj-kondo/clj-kondo](../repos/clj-kondo/clj-kondo.md) | ⭐ 1,855 | 2026-09-24 | 1 |
+| [clj-kondo/clj-kondo](../repos/clj-kondo/clj-kondo.md) | ⭐ 1,856 | 2026-09-24 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [logseq/docs](../repos/logseq/docs.md) | ⭐ 194 | 2026-09-25 | 1 |
 
 
 ---
@@ -46,7 +49,10 @@
 | [functional-koans/clojure-koans](../repos/functional-koans/clojure-koans.md) | ⭐ 3,802 | 2026-09-12 | A set of exercises for learning Clojure |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [clj-kondo/clj-kondo](../repos/clj-kondo/clj-kondo.md) | ⭐ 1,855 | 2026-09-24 | Static analyzer and linter for Clojure code that sparks joy |
+| [clj-kondo/clj-kondo](../repos/clj-kondo/clj-kondo.md) | ⭐ 1,856 | 2026-09-24 | Static analyzer and linter for Clojure code that sparks joy |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [logseq/docs](../repos/logseq/docs.md) | ⭐ 194 | 2026-09-25 | Logseq documentation |
 
 
 ---
@@ -55,17 +61,18 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,045 | 2026-08-01 | 35 |
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 60,338 | 2026-08-01 | 38 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,409 | 2026-08-01 | 43 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,047 | 2026-08-01 | 43 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,055 | 2026-08-01 | 36 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 60,380 | 2026-08-01 | 39 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,421 | 2026-08-01 | 44 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,056 | 2026-08-01 | 44 |
 | [clojure/clojurescript](../repos/clojure/clojurescript.md) | ⭐ 9,393 | 2026-09-07 | 1 |
 | [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,022 | 2026-08-02 | 14 |
-| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 3,925 | 2026-08-02 | 34 |
+| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 3,928 | 2026-08-02 | 35 |
 | [functional-koans/clojure-koans](../repos/functional-koans/clojure-koans.md) | ⭐ 3,802 | 2026-09-12 | 1 |
-| [clj-kondo/clj-kondo](../repos/clj-kondo/clj-kondo.md) | ⭐ 1,855 | 2026-09-24 | 1 |
+| [clj-kondo/clj-kondo](../repos/clj-kondo/clj-kondo.md) | ⭐ 1,856 | 2026-09-24 | 2 |
 | [cognitect-labs/test-runner](../repos/cognitect-labs/test-runner.md) | ⭐ 308 | 2026-08-01 | 12 |
 | [logseq/og](../repos/logseq/og.md) | ⭐ 305 | 2026-08-02 | 22 |
+| [logseq/docs](../repos/logseq/docs.md) | ⭐ 194 | 2026-09-25 | 1 |
 
 ---
 
@@ -73,16 +80,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [metabase/metabase](../repos/metabase/metabase.md) | 43 | ⭐ 49,409 | 2026-08-01 | 2026-09-24 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 43 | ⭐ 45,047 | 2026-08-01 | 2026-09-24 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 38 | ⭐ 60,338 | 2026-08-01 | 2026-09-24 |
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 35 | ⭐ 82,045 | 2026-08-01 | 2026-09-22 |
-| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | 34 | ⭐ 3,925 | 2026-08-02 | 2026-09-24 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 44 | ⭐ 49,421 | 2026-08-01 | 2026-09-25 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 44 | ⭐ 45,056 | 2026-08-01 | 2026-09-25 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 39 | ⭐ 60,380 | 2026-08-01 | 2026-09-25 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 36 | ⭐ 82,055 | 2026-08-01 | 2026-09-25 |
+| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | 35 | ⭐ 3,928 | 2026-08-02 | 2026-09-25 |
 | [logseq/og](../repos/logseq/og.md) | 22 | ⭐ 305 | 2026-08-02 | 2026-09-24 |
 | [status-im/status-legacy](../repos/status-im/status-legacy.md) | 14 | ⭐ 4,022 | 2026-08-02 | 2026-09-22 |
 | [cognitect-labs/test-runner](../repos/cognitect-labs/test-runner.md) | 12 | ⭐ 308 | 2026-08-01 | 2026-08-29 |
+| [clj-kondo/clj-kondo](../repos/clj-kondo/clj-kondo.md) | 2 | ⭐ 1,856 | 2026-09-24 | 2026-09-25 |
 | [clojure/clojurescript](../repos/clojure/clojurescript.md) | 1 | ⭐ 9,393 | 2026-09-07 | 2026-09-07 |
-| [functional-koans/clojure-koans](../repos/functional-koans/clojure-koans.md) | 1 | ⭐ 3,802 | 2026-09-12 | 2026-09-12 |
 
 ---
 
@@ -99,7 +106,8 @@
 - [clojure/clojurescript](../repos/clojure/clojurescript.md) - Clojure to JS compiler
 - [functional-koans/clojure-koans](../repos/functional-koans/clojure-koans.md) - A set of exercises for learning Clojure
 - [clj-kondo/clj-kondo](../repos/clj-kondo/clj-kondo.md) - Static analyzer and linter for Clojure code that sparks joy
+- [logseq/docs](../repos/logseq/docs.md) - Logseq documentation
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.229Z*
+*Last updated: 2026-09-25T21:02:16.394Z*

@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | TypeScript |
+| **Language** | PHP |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 56,738 |
-| **Forks** | 🍴 5,589 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 57,475 |
+| **Forks** | 🍴 5,744 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 1, 2026 |
+| **Last Seen** | Sep 25, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or android*
+*Similar: Check repositories in PHP or android*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,8 +72,8 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Slow | Occasional updates |
-| **Learning Curve** | Easy | Beginner-friendly with tutorials |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
 - General purpose
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in TypeScript
+- Check similar projects in PHP
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-24T21:01:48.704Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-25T21:02:18.551Z*  
+*Data from 2 trending reports*

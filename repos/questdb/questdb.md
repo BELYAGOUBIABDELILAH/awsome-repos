@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 17,249 |
-| **Forks** | 🍴 1,642 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 17,352 |
+| **Forks** | 🍴 1,654 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Aug 11, 2026 |
+| **Last Seen** | Sep 25, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Java or capital-markets*
+*Similar: Check repositories in Java or apache-arrow*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`capital-markets`](../../topics/capital-markets.md) [`cpp`](../../topics/cpp.md) [`database`](../../topics/database.md) [`financial-analysis`](../../topics/financial-analysis.md) [`grafana`](../../topics/grafana.md) [`java`](../../topics/java.md) [`kdb`](../../topics/kdb.md) [`low-latency`](../../topics/low-latency.md) [`market-data`](../../topics/market-data.md) [`olap`](../../topics/olap.md) [`parquet`](../../topics/parquet.md) [`postgresql`](../../topics/postgresql.md) [`questdb`](../../topics/questdb.md) [`real-time-analytics`](../../topics/real-time-analytics.md) [`simd`](../../topics/simd.md) [`sql`](../../topics/sql.md) [`tick-data`](../../topics/tick-data.md) [`time-series`](../../topics/time-series.md) [`time-series-database`](../../topics/time-series-database.md) [`tsdb`](../../topics/tsdb.md) 
+[`apache-arrow`](../../topics/apache-arrow.md) [`capital-markets`](../../topics/capital-markets.md) [`database`](../../topics/database.md) [`historian`](../../topics/historian.md) [`kdb`](../../topics/kdb.md) [`low-latency`](../../topics/low-latency.md) [`market-data`](../../topics/market-data.md) [`parquet`](../../topics/parquet.md) [`quantitative-finance`](../../topics/quantitative-finance.md) [`questdb`](../../topics/questdb.md) [`real-time-analytics`](../../topics/real-time-analytics.md) [`robotics`](../../topics/robotics.md) [`scada`](../../topics/scada.md) [`sql`](../../topics/sql.md) [`stream-processing`](../../topics/stream-processing.md) [`telemetry`](../../topics/telemetry.md) [`tick-data`](../../topics/tick-data.md) [`time-series`](../../topics/time-series.md) [`time-series-database`](../../topics/time-series-database.md) [`tsdb`](../../topics/tsdb.md) 
 
 ### Curated Categories
-`Backend Development` `Databases` `Systems Programming` 
+`Backend Development` `Databases` `Systems Programming` `Automation` `Robotics` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-24T21:01:49.939Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-09-25T21:02:19.905Z*  
+*Data from 4 trending reports*

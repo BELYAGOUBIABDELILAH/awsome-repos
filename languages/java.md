@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,759 | 2026-08-01 | 8 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,775 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,980 | 2026-08-02 | 11 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 27,051 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-leetcode-resources](../repos/ashishps1/awesome-leetcode-resources.md) | ⭐ 17,896 | 2026-08-03 | 4 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 28,349 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adityatandon15/Low-Level-Design-Course](../repos/adityatandon15/Low-Level-Design-Course.md) | ⭐ 1,300 | 2026-08-03 | 5 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,878 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shmykelsa/AAAD](../repos/shmykelsa/AAAD.md) | ⭐ 2,989 | 2026-08-03 | 7 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,499 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 28,335 | 2026-08-04 | 13 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,787 | 2026-08-05 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,740 | 2026-08-05 | 14 |
+| [questdb/questdb](../repos/questdb/questdb.md) | ⭐ 17,352 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,784 | 2026-08-05 | 20 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,790 | 2026-08-05 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,141 | 2026-08-05 | 10 |
+| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,142 | 2026-08-05 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quarkusio/quarkus](../repos/quarkusio/quarkus.md) | ⭐ 15,904 | 2026-08-07 | 8 |
+| [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) | ⭐ 28,245 | 2026-08-07 | 9 |
 
 
 ---
@@ -52,13 +52,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [airbnb/lottie-android](../repos/airbnb/lottie-android.md) | ⭐ 35,712 | 2026-08-26 | Render After Effects animations natively on Android and iOS, Web, and React Native |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [apache/fineract](../repos/apache/fineract.md) | ⭐ 2,468 | 2026-08-27 | Apache Fineract |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aeron-io/aeron](../repos/aeron-io/aeron.md) | ⭐ 8,887 | 2026-08-27 | Efficient reliable UDP unicast, UDP multicast, and IPC message transport |
+| [aeron-io/aeron](../repos/aeron-io/aeron.md) | ⭐ 8,895 | 2026-08-27 | Efficient reliable UDP unicast, UDP multicast, and IPC message transport |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [freerouting/freerouting](../repos/freerouting/freerouting.md) | ⭐ 1,931 | 2026-08-27 | Advanced PCB auto-router |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jenkinsci/jenkins](../repos/jenkinsci/jenkins.md) | ⭐ 26,541 | 2026-09-01 | Jenkins automation server |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sepinf-inc/IPED](../repos/sepinf-inc/IPED.md) | ⭐ 2,927 | 2026-09-02 | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze... |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,276 | 2026-08-04 | 6 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,473 | 2026-08-04 | 11 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,499 | 2026-08-04 | 12 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 77,980 | 2026-08-02 | 11 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 75,795 | 2026-08-03 | 14 |
@@ -97,11 +97,11 @@
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,249 | 2026-08-08 | 6 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,905 | 2026-08-02 | 11 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,671 | 2026-08-04 | 10 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,878 | 2026-08-04 | 11 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,456 | 2026-08-12 | 4 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,716 | 2026-08-07 | 5 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,740 | 2026-08-05 | 14 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,787 | 2026-08-05 | 15 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,731 | 2026-08-02 | 7 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,063 | 2026-08-06 | 5 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 20 | ⭐ 5,784 | 2026-08-05 | 2026-09-24 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 15 | ⭐ 26,767 | 2026-08-02 | 2026-09-13 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 21 | ⭐ 5,790 | 2026-08-05 | 2026-09-25 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 16 | ⭐ 27,051 | 2026-08-02 | 2026-09-25 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 15 | ⭐ 41,787 | 2026-08-05 | 2026-09-25 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 14 | ⭐ 75,795 | 2026-08-03 | 2026-09-14 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 14 | ⭐ 41,740 | 2026-08-05 | 2026-09-24 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 13 | ⭐ 28,335 | 2026-08-04 | 2026-09-24 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 14 | ⭐ 28,349 | 2026-08-04 | 2026-09-25 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 12 | ⭐ 33,626 | 2026-08-04 | 2026-09-14 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 12 | ⭐ 81,499 | 2026-08-04 | 2026-09-25 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 11 | ⭐ 13,775 | 2026-08-01 | 2026-09-25 |
 | [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | 11 | ⭐ 29,066 | 2026-08-02 | 2026-09-21 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 11 | ⭐ 77,980 | 2026-08-02 | 2026-09-24 |
-| [google/guava](../repos/google/guava.md) | 11 | ⭐ 51,905 | 2026-08-02 | 2026-09-13 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 11 | ⭐ 81,473 | 2026-08-04 | 2026-09-19 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.252Z*
+*Last updated: 2026-09-25T21:02:16.427Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 244
+- **Total Repositories**: 246
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-20
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 510 | 2026-08-01 | 12 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 511 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/arduino-esp32](../repos/espressif/arduino-esp32.md) | ⭐ 17,427 | 2026-08-01 | 2 |
+| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 23,447 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,578 | 2026-08-04 | 15 |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 32,969 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [throneproj/Throne](../repos/throneproj/Throne.md) | ⭐ 7,249 | 2026-08-08 | 4 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 39,583 | 2026-08-04 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 7,220 | 2026-08-10 | 5 |
+| [notepad-plus-plus/notepad-plus-plus](../repos/notepad-plus-plus/notepad-plus-plus.md) | ⭐ 29,410 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keepassxreboot/keepassxc](../repos/keepassxreboot/keepassxc.md) | ⭐ 28,939 | 2026-08-12 | 3 |
+| [google-ai-edge/LiteRT](../repos/google-ai-edge/LiteRT.md) | ⭐ 3,439 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,487 | 2026-08-25 | 8 |
+| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 7,373 | 2026-08-10 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry7557558/spirula-studio](../repos/harry7557558/spirula-studio.md) | ⭐ 960 | 2026-09-03 | 4 |
+| [amnezia-vpn/amnezia-client](../repos/amnezia-vpn/amnezia-client.md) | ⭐ 15,197 | 2026-08-16 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [musescore/MuseScore](../repos/musescore/MuseScore.md) | ⭐ 15,133 | 2026-09-06 | 2 |
+| [microsoft/winget-cli](../repos/microsoft/winget-cli.md) | ⭐ 26,453 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Atmosphere-NX/Atmosphere](../repos/Atmosphere-NX/Atmosphere.md) | ⭐ 19,861 | 2026-09-12 | 6 |
+| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,494 | 2026-08-25 | 9 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [k4zmu2a/SpaceCadetPinball](../repos/k4zmu2a/SpaceCadetPinball.md) | ⭐ 4,620 | 2026-08-26 | Decompilation of 3D Pinball for Windows – Space Cadet |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [CMU-Perceptual-Computing-Lab/openpose](../repos/CMU-Perceptual-Computing-Lab/openpose.md) | ⭐ 34,412 | 2026-08-26 | OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estim... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [yhirose/cpp-httplib](../repos/yhirose/cpp-httplib.md) | ⭐ 16,786 | 2026-08-26 | A C++ header-only HTTP&#x2F;HTTPS server and client library |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google/filament](../repos/google/filament.md) | ⭐ 20,459 | 2026-08-27 | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS... |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MatixYo/ESP32-Plane-Radar](../repos/MatixYo/ESP32-Plane-Radar.md) | ⭐ 938 | 2026-08-28 | Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your l... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [react/yoga](../repos/react/yoga.md) | ⭐ 18,897 | 2026-08-28 | Yoga is an embeddable layout engine targeting web standards. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [IfcOpenShell/IfcOpenShell](../repos/IfcOpenShell/IfcOpenShell.md) | ⭐ 2,800 | 2026-08-28 | Open source IFC library and geometry engine |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [omacom/omawrite](../repos/omacom/omawrite.md) | ⭐ 176 | 2026-08-29 | The essence of writing |
 
 
 ---
@@ -117,9 +117,9 @@
 |------------|---------------|-------|------------|-----------|
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 25 | ⭐ 129,089 | 2026-08-01 | 2026-09-21 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 19 | ⭐ 200,215 | 2026-07-30 | 2026-09-20 |
-| [google/googletest](../repos/google/googletest.md) | 15 | ⭐ 39,578 | 2026-08-04 | 2026-09-24 |
+| [google/googletest](../repos/google/googletest.md) | 16 | ⭐ 39,583 | 2026-08-04 | 2026-09-25 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 13 | ⭐ 511 | 2026-08-01 | 2026-09-25 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 13 | ⭐ 76,148 | 2026-08-08 | 2026-09-10 |
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 12 | ⭐ 510 | 2026-08-01 | 2026-09-24 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 12 | ⭐ 71,999 | 2026-08-01 | 2026-09-04 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 12 | ⭐ 29,564 | 2026-08-01 | 2026-09-02 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 11 | ⭐ 10,993 | 2026-08-02 | 2026-09-14 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.226Z*
+*Last updated: 2026-09-25T21:02:16.391Z*

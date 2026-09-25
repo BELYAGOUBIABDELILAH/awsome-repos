@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 10
+- **Total Repositories**: 11
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-24
+- **Last Updated**: 2026-09-25
 
 ---
 
@@ -16,16 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,858 | 2026-08-01 | 43 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,859 | 2026-08-01 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,311 | 2026-08-02 | 30 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,311 | 2026-08-02 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,492 | 2026-08-02 | 23 |
+| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,492 | 2026-08-02 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,931 | 2026-08-03 | 24 |
+| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,931 | 2026-08-03 | 25 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Percona-Lab/jenkins-pipelines](../repos/Percona-Lab/jenkins-pipelines.md) | ⭐ 27 | 2026-09-25 | 1 |
 
 
 ---
@@ -38,6 +41,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,467 | 2026-09-13 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Percona-Lab/jenkins-pipelines](../repos/Percona-Lab/jenkins-pipelines.md) | ⭐ 27 | 2026-09-25 |  |
 
 
 ---
@@ -46,16 +52,17 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,858 | 2026-08-01 | 43 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,311 | 2026-08-02 | 30 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,859 | 2026-08-01 | 44 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,311 | 2026-08-02 | 31 |
 | [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,467 | 2026-09-13 | 2 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
-| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,492 | 2026-08-02 | 23 |
-| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,931 | 2026-08-03 | 24 |
+| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,492 | 2026-08-02 | 24 |
+| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,931 | 2026-08-03 | 25 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 899 | 2026-08-01 | 6 |
 | [NationalSecurityAgency/skills-service](../repos/NationalSecurityAgency/skills-service.md) | ⭐ 633 | 2026-08-27 | 1 |
 | [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | ⭐ 96 | 2026-08-06 | 1 |
 | [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | 11 |
+| [Percona-Lab/jenkins-pipelines](../repos/Percona-Lab/jenkins-pipelines.md) | ⭐ 27 | 2026-09-25 | 1 |
 
 ---
 
@@ -63,10 +70,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [gradle/gradle](../repos/gradle/gradle.md) | 43 | ⭐ 18,858 | 2026-08-01 | 2026-09-24 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 30 | ⭐ 6,311 | 2026-08-02 | 2026-09-24 |
-| [apache/grails-core](../repos/apache/grails-core.md) | 24 | ⭐ 2,931 | 2026-08-03 | 2026-09-24 |
-| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 23 | ⭐ 3,492 | 2026-08-02 | 2026-09-24 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 44 | ⭐ 18,859 | 2026-08-01 | 2026-09-25 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 31 | ⭐ 6,311 | 2026-08-02 | 2026-09-25 |
+| [apache/grails-core](../repos/apache/grails-core.md) | 25 | ⭐ 2,931 | 2026-08-03 | 2026-09-25 |
+| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 24 | ⭐ 3,492 | 2026-08-02 | 2026-09-25 |
 | [gravitee-io/issues](../repos/gravitee-io/issues.md) | 11 | ⭐ 68 | 2026-08-01 | 2026-09-09 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | 6 | ⭐ 899 | 2026-08-01 | 2026-09-22 |
 | [apache/groovy](../repos/apache/groovy.md) | 2 | ⭐ 5,467 | 2026-09-13 | 2026-09-14 |
@@ -88,7 +95,8 @@
 - [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) - Gradle plugin to discover dependency updates
 - [NationalSecurityAgency/skills-service](../repos/NationalSecurityAgency/skills-service.md) - SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamifie...
 - [apache/groovy](../repos/apache/groovy.md) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
+- [Percona-Lab/jenkins-pipelines](../repos/Percona-Lab/jenkins-pipelines.md) - 
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.245Z*
+*Last updated: 2026-09-25T21:02:16.417Z*

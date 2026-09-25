@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 190
+- **Total Repositories**: 191
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-10
 
@@ -16,55 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 90,142 | 2026-07-31 | 4 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,175 | 2026-07-30 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,911 | 2026-08-05 | 6 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 44,076 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) | ⭐ 18,338 | 2026-08-14 | 7 |
+| [rivet-dev/rivet](../repos/rivet-dev/rivet.md) | ⭐ 6,177 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [block/buzz](../repos/block/buzz.md) | ⭐ 34,266 | 2026-08-19 | 5 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 95,022 | 2026-08-09 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 14,735 | 2026-09-04 | 5 |
+| [lanyeeee/bilibili-video-downloader](../repos/lanyeeee/bilibili-video-downloader.md) | ⭐ 2,124 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hydra-db/hydradb](../repos/hydra-db/hydradb.md) | ⭐ 5,900 | 2026-09-22 | 2 |
+| [run-llama/liteparse](../repos/run-llama/liteparse.md) | ⭐ 12,637 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nasiko-Labs/nasiko](../repos/Nasiko-Labs/nasiko.md) | ⭐ 8,872 | 2026-09-22 | 2 |
+| [block/buzz](../repos/block/buzz.md) | ⭐ 34,469 | 2026-08-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a2x/cs2-dumper](../repos/a2x/cs2-dumper.md) | ⭐ 2,367 | 2026-09-24 | 1 |
+| [hydra-db/hydradb](../repos/hydra-db/hydradb.md) | ⭐ 7,050 | 2026-09-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mesh-LLM/mesh-llm](../repos/Mesh-LLM/mesh-llm.md) | ⭐ 3,451 | 2026-09-24 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [kvcache-ai/AgentENV](../repos/kvcache-ai/AgentENV.md) | ⭐ 3,535 | 2026-09-24 | 1 |
+| [bootandy/dust](../repos/bootandy/dust.md) | ⭐ 12,355 | 2026-09-25 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 8,340 | 2026-08-26 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [RizRiyz/luvus](../repos/RizRiyz/luvus.md) | ⭐ 477 | 2026-08-26 | Mission control for your AI agents |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zhom/donutbrowser](../repos/zhom/donutbrowser.md) | ⭐ 3,720 | 2026-08-26 | Simple Yet Powerful Anti-Detect Browser 🍩 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Xoshbin/asyar](../repos/Xoshbin/asyar.md) | ⭐ 519 | 2026-08-26 | The power of Raycast. The speed of Alfred. Privacy by design. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [influxdata/influxdb](../repos/influxdata/influxdb.md) | ⭐ 31,720 | 2026-08-26 | Scalable datastore for metrics, events, and real-time analytics |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/opendal](../repos/apache/opendal.md) | ⭐ 5,355 | 2026-08-27 | Apache OpenDAL: One Layer, All Storage. |
@@ -80,6 +62,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lance-format/lance](../repos/lance-format/lance.md) | ⭐ 6,998 | 2026-08-28 | Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ScalableCapital/scalable-cli](../repos/ScalableCapital/scalable-cli.md) | ⭐ 432 | 2026-08-28 | Scalable CLI |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dbt-labs/dbt-core](../repos/dbt-labs/dbt-core.md) | ⭐ 13,761 | 2026-08-28 | dbt enables data analysts and engineers to transform their data using the same practices that sof... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 47,938 | 2026-08-28 | A refreshingly simple data-driven game engine built in Rust |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [alibaba/anolisa](../repos/alibaba/anolisa.md) | ⭐ 608 | 2026-08-29 | ANOLISA (Agentic Nexus Operating Layer &amp; Interface System Architecture) | Agentic OS with runtime... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [voidzero-dev/vite-plus](../repos/voidzero-dev/vite-plus.md) | ⭐ 5,691 | 2026-08-29 | Vite+ is the unified toolchain and entry point for web development. It manages your runtime, pack... |
 
 
 ---
@@ -89,10 +86,10 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [openai/codex](../repos/openai/codex.md) | ⭐ 123,093 | 2026-08-01 | 11 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 118,860 | 2026-07-30 | 8 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,175 | 2026-07-30 | 9 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 95,895 | 2026-08-11 | 7 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 93,786 | 2026-08-09 | 11 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 95,022 | 2026-08-09 | 12 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 90,142 | 2026-07-31 | 4 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
@@ -104,7 +101,7 @@
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,503 | 2026-08-12 | 3 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 47,938 | 2026-08-28 | 1 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 45,967 | 2026-08-28 | 1 |
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 43,911 | 2026-08-05 | 6 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 44,076 | 2026-08-05 | 7 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 42,307 | 2026-08-02 | 8 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,341 | 2026-08-02 | 2 |
@@ -115,14 +112,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 12 | ⭐ 95,022 | 2026-08-09 | 2026-09-25 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 12 | ⭐ 40,038 | 2026-08-10 | 2026-09-22 |
 | [openai/codex](../repos/openai/codex.md) | 11 | ⭐ 123,093 | 2026-08-01 | 2026-09-10 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 11 | ⭐ 29,237 | 2026-08-03 | 2026-09-21 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 11 | ⭐ 93,786 | 2026-08-09 | 2026-09-14 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 10 | ⭐ 19,259 | 2026-08-01 | 2026-09-12 |
 | [rustfs/rustfs](../repos/rustfs/rustfs.md) | 10 | ⭐ 33,302 | 2026-08-09 | 2026-09-19 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | 9 | ⭐ 119,175 | 2026-07-30 | 2026-09-25 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 9 | ⭐ 11,298 | 2026-08-09 | 2026-09-20 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | 8 | ⭐ 118,860 | 2026-07-30 | 2026-09-14 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 8 | ⭐ 42,307 | 2026-08-02 | 2026-09-09 |
 | [leookun/cursor-byok](../repos/leookun/cursor-byok.md) | 8 | ⭐ 2,853 | 2026-08-05 | 2026-09-09 |
 
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.294Z*
+*Last updated: 2026-09-25T21:02:16.482Z*

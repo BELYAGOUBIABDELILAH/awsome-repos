@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 91
+- **Total Repositories**: 93
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-22
 
@@ -16,25 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenAEC-Foundation/open-pdf-studio](../repos/OpenAEC-Foundation/open-pdf-studio.md) | ⭐ 832 | 2026-08-03 | 3 |
+| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,492 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trickest/cve](../repos/trickest/cve.md) | ⭐ 8,091 | 2026-08-04 | 3 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 138,503 | 2026-08-08 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 138,262 | 2026-08-08 | 13 |
+| [Arrow-air/project-quiver](../repos/Arrow-air/project-quiver.md) | ⭐ 451 | 2026-08-15 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Arrow-air/project-quiver](../repos/Arrow-air/project-quiver.md) | ⭐ 444 | 2026-08-15 | 4 |
+| [rajhodedara/live-sport-plugin](../repos/rajhodedara/live-sport-plugin.md) | ⭐ 190 | 2026-09-25 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [davidarroyo1234/InstagramUnfollowers](../repos/davidarroyo1234/InstagramUnfollowers.md) | ⭐ 4,839 | 2026-08-26 | Check if people follows you back on Instagram. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Manavarya09/design-extract](../repos/Manavarya09/design-extract.md) | ⭐ 4,049 | 2026-08-27 | Extract any website&#39;s complete design system with one command. DTCG tokens, semantic+primitive+co... |
@@ -62,6 +62,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Abdess/retrobios](../repos/Abdess/retrobios.md) | ⭐ 6,954 | 2026-09-01 | Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDe... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [skindhu/Build-A-Large-Language-Model-CN](../repos/skindhu/Build-A-Large-Language-Model-CN.md) | ⭐ 4,007 | 2026-09-01 | 《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的... |
 
 
 ---
@@ -71,7 +74,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,375 | 2026-08-03 | 14 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 138,262 | 2026-08-08 | 13 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 138,503 | 2026-08-08 | 14 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,438 | 2026-08-19 | 6 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 66,242 | 2026-08-01 | 13 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,262 | 2026-08-01 | 6 |
@@ -83,13 +86,13 @@
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,595 | 2026-08-09 | 8 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,529 | 2026-08-19 | 7 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,532 | 2026-08-03 | 9 |
+| [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 26,740 | 2026-08-04 | 9 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 21,868 | 2026-08-01 | 6 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,479 | 2026-08-03 | 4 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
 | [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | 1 |
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,818 | 2026-08-02 | 6 |
 
 ---
 
@@ -98,8 +101,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 14 | ⭐ 209,375 | 2026-08-03 | 2026-09-22 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 14 | ⭐ 138,503 | 2026-08-08 | 2026-09-25 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 13 | ⭐ 66,242 | 2026-08-01 | 2026-09-22 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 13 | ⭐ 138,262 | 2026-08-08 | 2026-09-24 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 12 | ⭐ 9,214 | 2026-08-03 | 2026-09-12 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 11 | ⭐ 16,561 | 2026-08-04 | 2026-09-21 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 11 | ⭐ 37,645 | 2026-08-12 | 2026-09-10 |
@@ -203,7 +206,9 @@
 - [TandoorRecipes/recipes](../repos/TandoorRecipes/recipes.md) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [chiphuyen/machine-learning-systems-design](../repos/chiphuyen/machine-learning-systems-design.md) - A booklet on machine learning systems design with exercises. NOT the repo for the book &quot;Designing...
 - [zouzhekang/YJYpaper](../repos/zouzhekang/YJYpaper.md) - 一个用来记录武汉大学杨景媛论文问题的仓库
+- [rajhodedara/live-sport-plugin](../repos/rajhodedara/live-sport-plugin.md) - A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-ti...
+- [Tencent/weui](../repos/Tencent/weui.md) - A UI library by WeChat official design team, includes the most useful widgets&#x2F;modules in mobile w...
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.248Z*
+*Last updated: 2026-09-25T21:02:16.421Z*

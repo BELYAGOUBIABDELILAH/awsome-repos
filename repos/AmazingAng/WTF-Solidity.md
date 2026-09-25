@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Solidity |
 | **License** | Other |
-| **Stars** | ⭐ 14,059 |
+| **Stars** | ⭐ 14,060 |
 | **Forks** | 🍴 2,436 |
-| **Trending Days** | 4 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 19, 2026 |
-| **Last Seen** | Sep 24, 2026 |
+| **Last Seen** | Sep 25, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
-- **Longest Streak**: 1 days
+- **Trending Days**: 5
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 65&#x2F;100
+- **Trending Score**: 85&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-24T21:01:51.246Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-09-25T21:02:21.318Z*  
+*Data from 5 trending reports*

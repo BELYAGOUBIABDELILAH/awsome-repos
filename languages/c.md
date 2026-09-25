@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,196 | 2026-08-01 | 10 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,013 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,356 | 2026-08-01 | 5 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,199 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Klipper3d/klipper](../repos/Klipper3d/klipper.md) | ⭐ 11,896 | 2026-08-01 | 4 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,402 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,755 | 2026-08-01 | 36 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,761 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 1,012 | 2026-08-02 | 10 |
+| [mit-pdos/xv6-riscv](../repos/mit-pdos/xv6-riscv.md) | ⭐ 10,518 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mit-pdos/xv6-riscv](../repos/mit-pdos/xv6-riscv.md) | ⭐ 10,513 | 2026-08-03 | 5 |
+| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,748 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,742 | 2026-08-03 | 6 |
+| [portapack-mayhem/mayhem-firmware](../repos/portapack-mayhem/mayhem-firmware.md) | ⭐ 5,427 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,608 | 2026-08-06 | 17 |
+| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,692 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [timescale/timescaledb](../repos/timescale/timescaledb.md) | ⭐ 23,584 | 2026-08-07 | 7 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 44,920 | 2026-08-07 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 44,826 | 2026-08-07 | 18 |
+| [EpicGames/raddebugger](../repos/EpicGames/raddebugger.md) | ⭐ 7,516 | 2026-08-08 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [firedancer-io/firedancer](../repos/firedancer-io/firedancer.md) | ⭐ 1,510 | 2026-08-26 | Firedancer is Jump Crypto&#39;s Solana validator software. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [espeak-ng/espeak-ng](../repos/espeak-ng/espeak-ng.md) | ⭐ 6,772 | 2026-08-27 | eSpeak NG is an open source speech synthesizer that supports more than hundred languages and acce... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 31,850 | 2026-09-01 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from di... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Filoppi/Luma-Framework](../repos/Filoppi/Luma-Framework.md) | ⭐ 811 | 2026-09-02 | Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are current... |
 
 
 ---
@@ -89,17 +89,17 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,145 | 2026-08-07 | 12 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 138,519 | 2026-08-01 | 17 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,013 | 2026-08-01 | 18 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,470 | 2026-08-24 | 3 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,206 | 2026-08-02 | 13 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 71,457 | 2026-08-01 | 18 |
 | [git/git](../repos/git/git.md) | ⭐ 63,088 | 2026-08-05 | 5 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 44,826 | 2026-08-07 | 18 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 40,380 | 2026-08-01 | 6 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 44,920 | 2026-08-07 | 19 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,402 | 2026-08-01 | 7 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
-| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,655 | 2026-08-04 | 8 |
+| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,692 | 2026-08-04 | 9 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,682 | 2026-08-03 | 5 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,863 | 2026-09-06 | 3 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,195 | 2026-08-01 | 4 |
@@ -107,7 +107,7 @@
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 31,850 | 2026-09-01 | 9 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,695 | 2026-08-02 | 6 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,399 | 2026-08-09 | 8 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,526 | 2026-08-09 | 9 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 36 | ⭐ 16,755 | 2026-08-01 | 2026-09-24 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 37 | ⭐ 16,761 | 2026-08-01 | 2026-09-25 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 19 | ⭐ 44,920 | 2026-08-07 | 2026-09-25 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 18 | ⭐ 139,013 | 2026-08-01 | 2026-09-25 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 18 | ⭐ 71,457 | 2026-08-01 | 2026-09-19 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 18 | ⭐ 44,826 | 2026-08-07 | 2026-09-24 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 17 | ⭐ 138,519 | 2026-08-01 | 2026-09-09 |
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 17 | ⭐ 16,608 | 2026-08-06 | 2026-09-24 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 16 | ⭐ 27,819 | 2026-08-07 | 2026-09-10 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 15 | ⭐ 6,952 | 2026-08-04 | 2026-09-09 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 13 | ⭐ 76,206 | 2026-08-02 | 2026-09-14 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 12 | ⭐ 150,145 | 2026-08-07 | 2026-09-21 |
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | 11 | ⭐ 4,473 | 2026-08-04 | 2026-09-05 |
+| [libuv/libuv](../repos/libuv/libuv.md) | 11 | ⭐ 27,199 | 2026-08-01 | 2026-09-25 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.213Z*
+*Last updated: 2026-09-25T21:02:16.377Z*

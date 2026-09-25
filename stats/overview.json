@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-24T21:01:52.869Z",
-  "total_repositories": 3578,
-  "trending_today": 378,
-  "new_this_month": 950,
+  "generated_at": "2026-09-25T21:02:23.138Z",
+  "total_repositories": 3608,
+  "trending_today": 385,
+  "new_this_month": 930,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-09-24",
+  "last_collection": "2026-09-25",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 45,
+    "trending_days": 46,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "NVIDIA/Model-Optimizer",
-    "stars": 4030,
-    "first_seen": "2026-09-24"
+    "full_name": "derv82/wifit3",
+    "stars": 870,
+    "first_seen": "2026-09-25"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 50592977,
-  "avg_stars": 14140,
-  "avg_trending_days": 5.1,
+  "total_stars": 50888123,
+  "avg_stars": 14104,
+  "avg_trending_days": 5.2,
   "language_count": 58,
-  "topic_count": 9460,
+  "topic_count": 9491,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

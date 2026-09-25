@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | MPL-2.0 |
-| **Stars** | ⭐ 6,958 |
-| **Forks** | 🍴 527 |
-| **Trending Days** | 1 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 7,678 |
+| **Forks** | 🍴 582 |
+| **Trending Days** | 2 |
+| **Peak Rank** | #16 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Aug 7, 2026 |
+| **Last Seen** | Sep 25, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Sep 25, 2026** — Rank #16 (+16 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Peak Rank**: #16
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +73,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 35&#x2F;100
+- **Historical Rank**: Peak: #16
 
 
 ---
 
-*Last updated: 2026-09-24T21:01:50.229Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-25T21:02:20.205Z*  
+*Data from 2 trending reports*

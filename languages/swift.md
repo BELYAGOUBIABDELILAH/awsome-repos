@@ -16,37 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,881 | 2026-08-01 | 5 |
+| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,895 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 27,391 | 2026-08-01 | 12 |
+| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 6,761 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 6,733 | 2026-08-04 | 9 |
+| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,862 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,411 | 2026-08-07 | 7 |
+| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,410 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,744 | 2026-08-24 | 7 |
+| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,305 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,630 | 2026-09-04 | 4 |
+| [openai/tart](../repos/openai/tart.md) | ⭐ 6,872 | 2026-08-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,600 | 2026-09-06 | 3 |
+| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,638 | 2026-09-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chenqi92/primuse](../repos/chenqi92/primuse.md) | ⭐ 144 | 2026-09-24 | 1 |
+| [PlayCover/PlayCover](../repos/PlayCover/PlayCover.md) | ⭐ 11,797 | 2026-09-07 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 408 | 2026-09-21 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [awaseem/foqos](../repos/awaseem/foqos.md) | ⭐ 755 | 2026-08-26 | Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open sou... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kitknox/rootshell](../repos/kitknox/rootshell.md) | ⭐ 555 | 2026-08-27 | rootshell - The terminal, reimagined for Apple platforms |
@@ -70,10 +70,13 @@
 | [ProxymanApp/TCPViewer](../repos/ProxymanApp/TCPViewer.md) | ⭐ 406 | 2026-09-03 | The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,630 | 2026-09-04 |  |
+| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,638 | 2026-09-04 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | 2026-09-04 | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,600 | 2026-09-06 | Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alt... |
 
 
 ---
@@ -116,9 +119,9 @@
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 12 | ⭐ 27,391 | 2026-08-01 | 2026-09-24 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 11 | ⭐ 3,536 | 2026-08-01 | 2026-09-21 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 10 | ⭐ 6,487 | 2026-08-01 | 2026-09-20 |
+| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | 10 | ⭐ 6,761 | 2026-08-04 | 2026-09-25 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 10 | ⭐ 26,866 | 2026-08-04 | 2026-09-04 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 9 | ⭐ 8,986 | 2026-08-02 | 2026-09-20 |
-| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | 9 | ⭐ 6,733 | 2026-08-04 | 2026-09-24 |
 
 ---
 
@@ -227,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.301Z*
+*Last updated: 2026-09-25T21:02:16.494Z*

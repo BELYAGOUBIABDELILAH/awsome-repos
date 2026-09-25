@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 267
+- **Total Repositories**: 268
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-09-08
+- **Last Updated**: 2026-09-25
 
 ---
 
@@ -16,61 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 3,717 | 2026-08-02 | 14 |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,011 | 2026-07-31 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [v2fly/v2ray-core](../repos/v2fly/v2ray-core.md) | ⭐ 34,622 | 2026-08-03 | 2 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 181,716 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [projectdiscovery/nuclei](../repos/projectdiscovery/nuclei.md) | ⭐ 31,489 | 2026-08-04 | 6 |
+| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 38,300 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getarcaneapp/arcane](../repos/getarcaneapp/arcane.md) | ⭐ 7,589 | 2026-08-06 | 5 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 127,991 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [maximhq/bifrost](../repos/maximhq/bifrost.md) | ⭐ 8,327 | 2026-08-19 | 2 |
+| [DataDog/datadog-agent](../repos/DataDog/datadog-agent.md) | ⭐ 3,751 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,310 | 2026-08-22 | 3 |
+| [akuity/kargo](../repos/akuity/kargo.md) | ⭐ 3,681 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grafana/mcp-grafana](../repos/grafana/mcp-grafana.md) | ⭐ 3,493 | 2026-08-26 | 2 |
+| [openbao/openbao](../repos/openbao/openbao.md) | ⭐ 7,678 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openfga/openfga](../repos/openfga/openfga.md) | ⭐ 5,853 | 2026-09-05 | 3 |
+| [safing/portmaster](../repos/safing/portmaster.md) | ⭐ 13,812 | 2026-08-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [weave-os/router](../repos/weave-os/router.md) | ⭐ 5,107 | 2026-09-19 | 4 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,204 | 2026-08-15 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/ax](../repos/google/ax.md) | ⭐ 10,223 | 2026-09-22 | 2 |
+| [seaweedfs/seaweedfs](../repos/seaweedfs/seaweedfs.md) | ⭐ 34,976 | 2026-08-19 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [open-telemetry/opentelemetry-collector-contrib](../repos/open-telemetry/opentelemetry-collector-contrib.md) | ⭐ 4,903 | 2026-08-26 | Contrib repository for the OpenTelemetry Collector |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Layr-Labs/d-inference](../repos/Layr-Labs/d-inference.md) | ⭐ 504 | 2026-08-26 | Private Inference Network on Idle Macs |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [temporalio/temporal](../repos/temporalio/temporal.md) | ⭐ 22,545 | 2026-08-26 | Temporal service |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hashicorp/vault](../repos/hashicorp/vault.md) | ⭐ 36,179 | 2026-08-26 | A tool for secrets management, encryption as a service, and privileged access management |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [sigstore/cosign](../repos/sigstore/cosign.md) | ⭐ 6,246 | 2026-08-26 | Code signing and transparency for containers and binaries |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tektoncd/pipeline](../repos/tektoncd/pipeline.md) | ⭐ 9,045 | 2026-08-26 | A cloud-native Pipeline resource. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [grafana/mcp-grafana](../repos/grafana/mcp-grafana.md) | ⭐ 3,493 | 2026-08-26 | MCP server for Grafana |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [JetBrains/go-modern-guidelines](../repos/JetBrains/go-modern-guidelines.md) | ⭐ 2,846 | 2026-08-27 | Help AI coding agents write modern Go |
@@ -80,6 +59,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vitessio/vitess](../repos/vitessio/vitess.md) | ⭐ 21,265 | 2026-08-27 | Vitess is a database clustering system for horizontal scaling of MySQL. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [opencost/opencost](../repos/opencost/opencost.md) | ⭐ 6,706 | 2026-08-27 | Cost monitoring for Kubernetes workloads and cloud costs |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [docker/cli](../repos/docker/cli.md) | ⭐ 6,029 | 2026-08-27 | The Docker CLI |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cloudwego/eino](../repos/cloudwego/eino.md) | ⭐ 12,936 | 2026-08-27 | The ultimate LLM&#x2F;AI application development framework in Go. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [podman-container-tools/podman](../repos/podman-container-tools/podman.md) | ⭐ 32,838 | 2026-08-27 | Podman: A tool for managing OCI containers and pods. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tailscale/tailcat](../repos/tailscale/tailcat.md) | ⭐ 3,418 | 2026-08-28 | like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [workweave/router](../repos/workweave/router.md) | ⭐ 2,635 | 2026-08-28 | Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-7... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google/gvisor](../repos/google/gvisor.md) | ⭐ 19,183 | 2026-08-28 | Application Kernel for Containers |
 
 
 ---
@@ -88,10 +88,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 180,475 | 2026-08-01 | 13 |
-| [golang/go](../repos/golang/go.md) | ⭐ 138,927 | 2026-07-31 | 8 |
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 127,708 | 2026-08-04 | 5 |
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 110,971 | 2026-08-15 | 5 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 181,716 | 2026-08-01 | 14 |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,011 | 2026-07-31 | 9 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 127,991 | 2026-08-04 | 6 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,204 | 2026-08-15 | 6 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,105 | 2026-08-06 | 10 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 17 | ⭐ 27,208 | 2026-08-01 | 2026-09-19 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 15 | ⭐ 48,695 | 2026-08-01 | 2026-09-22 |
+| [ollama/ollama](../repos/ollama/ollama.md) | 14 | ⭐ 181,716 | 2026-08-01 | 2026-09-25 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 14 | ⭐ 3,717 | 2026-08-02 | 2026-09-24 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 14 | ⭐ 42,026 | 2026-08-07 | 2026-09-19 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 13 | ⭐ 38,014 | 2026-08-01 | 2026-09-22 |
-| [ollama/ollama](../repos/ollama/ollama.md) | 13 | ⭐ 180,475 | 2026-08-01 | 2026-09-08 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 12 | ⭐ 51,008 | 2026-08-01 | 2026-09-21 |
+| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 10 | ⭐ 38,300 | 2026-08-03 | 2026-09-25 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 10 | ⭐ 91,105 | 2026-08-06 | 2026-09-21 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 10 | ⭐ 37,169 | 2026-08-20 | 2026-09-19 |
-| [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) | 9 | ⭐ 35,663 | 2026-08-02 | 2026-09-21 |
 
 ---
 
@@ -140,7 +140,7 @@
 - [aquasecurity/trivy](../repos/aquasecurity/trivy.md) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori...
 - [Tencent/WeKnora](../repos/Tencent/WeKnora.md) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason...
 - [nianzhibai/91](../repos/nianzhibai/91.md) - nine one
-- [ollama/ollama](../repos/ollama/ollama.md) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other mod...
+- [ollama/ollama](../repos/ollama/ollama.md) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [ccfos/nightingale](../repos/ccfos/nightingale.md) - Nightingale is to monitoring and alerting what Grafana is to visualization.
 - [cert-manager/cert-manager](../repos/cert-manager/cert-manager.md) - Automatically provision and manage TLS certificates in Kubernetes
 - [IceWhaleTech/CasaOS](../repos/IceWhaleTech/CasaOS.md) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.244Z*
+*Last updated: 2026-09-25T21:02:16.414Z*

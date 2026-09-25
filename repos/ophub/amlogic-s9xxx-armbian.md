@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | GPL-2.0 |
-| **Stars** | ⭐ 9,996 |
-| **Forks** | 🍴 3,161 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 10,028 |
+| **Forks** | 🍴 3,166 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Sep 24, 2026 |
+| **Last Seen** | Sep 25, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
-- **Longest Streak**: 1 days
+- **Trending Days**: 8
+- **Longest Streak**: 2 days
 
 ---
 
@@ -69,9 +69,9 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 9,996+ stars, strong contributor base |
-| **Maturity** | Stable | Established project |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Very Active | 10,028+ stars, strong contributor base |
+| **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-24T21:01:49.604Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-09-25T21:02:19.516Z*  
+*Data from 8 trending reports*

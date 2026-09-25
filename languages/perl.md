@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 35
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-24
+- **Last Updated**: 2026-09-25
 
 ---
 
@@ -16,31 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,772 | 2026-08-01 | 42 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,773 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 495 | 2026-08-01 | 31 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 495 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,086 | 2026-08-01 | 37 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,525 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,937 | 2026-08-02 | 16 |
+| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,938 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RotherOSS/otobo](../repos/RotherOSS/otobo.md) | ⭐ 337 | 2026-09-24 | 1 |
+| [LMS-Community/slimserver](../repos/LMS-Community/slimserver.md) | ⭐ 1,780 | 2026-08-09 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [fusioninventory/fusioninventory-agent](../repos/fusioninventory/fusioninventory-agent.md) | ⭐ 268 | 2026-08-19 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [RotherOSS/otobo](../repos/RotherOSS/otobo.md) | ⭐ 337 | 2026-09-24 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ko-ichi-h/khcoder](../repos/ko-ichi-h/khcoder.md) | ⭐ 335 | 2026-08-26 | KH Coder: for Quantitative Content Analysis or Text Mining |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [aspiers/stow](../repos/aspiers/stow.md) | ⭐ 1,124 | 2026-08-26 | GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [acl-org/ACLPUB](../repos/acl-org/ACLPUB.md) | ⭐ 252 | 2026-08-28 | The official tool for creating proceedings for conferences of the Association for Computational L... |
@@ -65,6 +65,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rsnapshot/rsnapshot](../repos/rsnapshot/rsnapshot.md) | ⭐ 3,683 | 2026-09-21 | a tool for backing up your data using rsync (if you want to get help, use https:&#x2F;&#x2F;lists.sourcefor... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [RotherOSS/otobo](../repos/RotherOSS/otobo.md) | ⭐ 337 | 2026-09-24 | OTOBO is one of the most flexible web-based ticketing systems used for Customer Service, Help Des... |
 
 
 ---
@@ -73,18 +76,18 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,772 | 2026-08-01 | 42 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,773 | 2026-08-01 | 43 |
 | [so-fancy/diff-so-fancy](../repos/so-fancy/diff-so-fancy.md) | ⭐ 18,090 | 2026-09-07 | 1 |
 | [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 5 |
 | [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,086 | 2026-08-01 | 37 |
-| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,937 | 2026-08-02 | 16 |
+| [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,938 | 2026-08-02 | 17 |
 | [rsnapshot/rsnapshot](../repos/rsnapshot/rsnapshot.md) | ⭐ 3,683 | 2026-09-21 | 1 |
 | [ddclient/ddclient](../repos/ddclient/ddclient.md) | ⭐ 3,517 | 2026-08-10 | 5 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,680 | 2026-08-01 | 32 |
 | [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,325 | 2026-08-03 | 21 |
-| [LMS-Community/slimserver](../repos/LMS-Community/slimserver.md) | ⭐ 1,750 | 2026-08-09 | 1 |
+| [LMS-Community/slimserver](../repos/LMS-Community/slimserver.md) | ⭐ 1,780 | 2026-08-09 | 2 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,692 | 2026-08-01 | 22 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,525 | 2026-08-01 | 25 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,525 | 2026-08-01 | 26 |
 | [mrash/fwknop](../repos/mrash/fwknop.md) | ⭐ 1,441 | 2026-08-22 | 3 |
 | [asbru-cm/asbru-cm](../repos/asbru-cm/asbru-cm.md) | ⭐ 1,294 | 2026-08-03 | 3 |
 | [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,152 | 2026-08-01 | 14 |
@@ -100,16 +103,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 42 | ⭐ 19,772 | 2026-08-01 | 2026-09-24 |
+| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 43 | ⭐ 19,773 | 2026-08-01 | 2026-09-25 |
 | [exiftool/exiftool](../repos/exiftool/exiftool.md) | 37 | ⭐ 5,086 | 2026-08-01 | 2026-09-24 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 32 | ⭐ 495 | 2026-08-01 | 2026-09-25 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 32 | ⭐ 2,680 | 2026-08-01 | 2026-09-14 |
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 31 | ⭐ 495 | 2026-08-01 | 2026-09-24 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 25 | ⭐ 1,525 | 2026-08-01 | 2026-09-20 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 26 | ⭐ 1,525 | 2026-08-01 | 2026-09-25 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 22 | ⭐ 1,692 | 2026-08-01 | 2026-09-21 |
 | [Perl/perl5](../repos/Perl/perl5.md) | 21 | ⭐ 2,325 | 2026-08-03 | 2026-09-19 |
 | [znuny/Znuny](../repos/znuny/Znuny.md) | 20 | ⭐ 595 | 2026-08-01 | 2026-09-20 |
 | [yaml/yaml-test-suite](../repos/yaml/yaml-test-suite.md) | 20 | ⭐ 271 | 2026-08-02 | 2026-09-19 |
-| [holzschu/a-shell](../repos/holzschu/a-shell.md) | 16 | ⭐ 3,937 | 2026-08-02 | 2026-09-24 |
+| [holzschu/a-shell](../repos/holzschu/a-shell.md) | 17 | ⭐ 3,938 | 2026-08-02 | 2026-09-25 |
 
 ---
 
@@ -153,4 +156,4 @@
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.283Z*
+*Last updated: 2026-09-25T21:02:16.465Z*

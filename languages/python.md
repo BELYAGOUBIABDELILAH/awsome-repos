@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 250
+- **Total Repositories**: 253
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-09-09
+- **Last Updated**: 2026-09-25
 
 ---
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 125,514 | 2026-08-01 | 12 |
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 483,206 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [llm-d/llm-d](../repos/llm-d/llm-d.md) | ⭐ 4,651 | 2026-08-01 | 14 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 55,947 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 47,656 | 2026-08-02 | 6 |
+| [browser-use/video-use](../repos/browser-use/video-use.md) | ⭐ 27,110 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 79,696 | 2026-08-02 | 3 |
+| [alirezarezvani/claude-skills](../repos/alirezarezvani/claude-skills.md) | ⭐ 26,462 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alirezarezvani/claude-skills](../repos/alirezarezvani/claude-skills.md) | ⭐ 26,406 | 2026-08-04 | 2 |
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 36,875 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) | ⭐ 27,674 | 2026-08-09 | 2 |
+| [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) | ⭐ 29,700 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 177,966 | 2026-08-11 | 7 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cactus-compute/needle](../repos/cactus-compute/needle.md) | ⭐ 12,523 | 2026-08-11 | 10 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 50,531 | 2026-08-15 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 50,283 | 2026-08-15 | 5 |
+| [shy3130/tick-stock-panel](../repos/shy3130/tick-stock-panel.md) | ⭐ 5,117 | 2026-08-23 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [experientiallabs/experiential](../repos/experientiallabs/experiential.md) | ⭐ 6,765 | 2026-09-06 | 4 |
+| [anthropics/financial-services](../repos/anthropics/financial-services.md) | ⭐ 37,528 | 2026-09-20 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [netbox-community/netbox](../repos/netbox-community/netbox.md) | ⭐ 21,393 | 2026-08-26 | The premier source of truth powering network automation. Open source under Apache 2. Try NetBox C... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [aiming-lab/AutoResearchClaw](../repos/aiming-lab/AutoResearchClaw.md) | ⭐ 14,247 | 2026-08-26 | Fully autonomous &amp; self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ai-dynamo/aiperf](../repos/ai-dynamo/aiperf.md) | ⭐ 587 | 2026-08-26 | AIPerf is a comprehensive benchmarking tool that measures the performance of generative AI models... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [andrewyng/aisuite](../repos/andrewyng/aisuite.md) | ⭐ 16,187 | 2026-08-27 | Simple, unified interface to multiple Generative AI providers  |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [goldmansachs/gs-quant](../repos/goldmansachs/gs-quant.md) | ⭐ 12,781 | 2026-08-28 | Python toolkit for quantitative finance |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [fla-org/flash-linear-attention](../repos/fla-org/flash-linear-attention.md) | ⭐ 5,652 | 2026-08-28 | 🚀 Efficient implementations for emerging model architectures |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 30,158 | 2026-08-29 | Fully automatic censorship removal for language models |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [warpdotdev/common-skills](../repos/warpdotdev/common-skills.md) | ⭐ 346 | 2026-08-29 |  |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 478,088 | 2026-08-01 | 7 |
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 483,206 | 2026-08-01 | 8 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 368,341 | 2026-08-03 | 6 |
 | [vinta/awesome-python](../repos/vinta/awesome-python.md) | ⭐ 319,105 | 2026-09-07 | 1 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | 2026-08-08 | 3 |
@@ -96,7 +96,7 @@
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 191,157 | 2026-08-02 | 7 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,465 | 2026-08-06 | 8 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 181,591 | 2026-09-07 | 2 |
-| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 177,966 | 2026-08-11 | 7 |
+| [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,921 | 2026-07-31 | 7 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 137,924 | 2026-08-04 | 4 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
@@ -122,9 +122,9 @@
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 10 | ⭐ 106,016 | 2026-08-08 | 2026-09-14 |
 | [cactus-compute/needle](../repos/cactus-compute/needle.md) | 10 | ⭐ 12,523 | 2026-08-11 | 2026-09-24 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 9 | ⭐ 1,384 | 2026-08-01 | 2026-08-28 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 9 | ⭐ 55,947 | 2026-08-03 | 2026-09-25 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 9 | ⭐ 39,719 | 2026-08-03 | 2026-09-09 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | 9 | ⭐ 115,765 | 2026-08-20 | 2026-09-21 |
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 9 | ⭐ 28,964 | 2026-08-22 | 2026-09-14 |
 
 ---
 
@@ -165,7 +165,7 @@
 - [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) - A Patch for GIMP 3+ for Photoshop Users
 - [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...
 - [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) - Kronos: A Foundation Model for the Language of Financial Markets
-- [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal...
+- [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) fro...
 - [livekit/agents](../repos/livekit/agents.md) - A framework for building realtime voice AI agents 🤖🎙️📹 
 - [comet-ml/opik](../repos/comet-ml/opik.md) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with compr...
 - [jamwithai/production-agentic-rag-course](../repos/jamwithai/production-agentic-rag-course.md) - 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.287Z*
+*Last updated: 2026-09-25T21:02:16.471Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 139
+- **Total Repositories**: 141
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,46 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pdone/lx-music-source](../repos/pdone/lx-music-source.md) | ⭐ 9,160 | 2026-08-02 | 5 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 71,131 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 70,767 | 2026-08-05 | 12 |
+| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 928 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,174 | 2026-08-08 | 3 |
+| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 8,350 | 2026-08-10 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 8,280 | 2026-08-10 | 8 |
+| [zarazhangrui/follow-builders](../repos/zarazhangrui/follow-builders.md) | ⭐ 6,793 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) | ⭐ 10,201 | 2026-08-14 | 7 |
+| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 3,775 | 2026-08-14 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-gsd/gsd-core](../repos/open-gsd/gsd-core.md) | ⭐ 9,821 | 2026-09-09 | 2 |
+| [BuilderIO/skills](../repos/BuilderIO/skills.md) | ⭐ 4,426 | 2026-09-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sandeco/reversa](../repos/sandeco/reversa.md) | ⭐ 1,632 | 2026-09-12 | 2 |
+| [androoAGI/starnet](../repos/androoAGI/starnet.md) | ⭐ 432 | 2026-09-24 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BuilderIO/skills](../repos/BuilderIO/skills.md) | ⭐ 4,411 | 2026-09-20 | 2 |
+| [copy/v86](../repos/copy/v86.md) | ⭐ 23,527 | 2026-09-25 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [androoAGI/starnet](../repos/androoAGI/starnet.md) | ⭐ 248 | 2026-09-24 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [elidickinson/pi-claude-bridge](../repos/elidickinson/pi-claude-bridge.md) | ⭐ 448 | 2026-09-24 | 1 |
+| [pashov/skills](../repos/pashov/skills.md) | ⭐ 1,205 | 2026-09-25 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nasa-gibs/worldview](../repos/nasa-gibs/worldview.md) | ⭐ 1,841 | 2026-08-26 | Interactive interface for browsing global, full-resolution satellite imagery |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | ⭐️  Companies that don&#39;t have a broken hiring process |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 33,415 | 2026-08-27 | A spy satellite simulator in your browser, except the data is real. Live open source spatial inte... |
@@ -80,6 +71,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Neet-Nestor/Telegram-Media-Downloader](../repos/Neet-Nestor/Telegram-Media-Downloader.md) | ⭐ 5,407 | 2026-09-01 | A script allowing you to download images and videos from Telegram web even if the group restricts... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/MoGe](../repos/microsoft/MoGe.md) | ⭐ 2,870 | 2026-09-01 | [CVPR&#39;25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [xinnan-tech/xiaozhi-esp32-server](../repos/xinnan-tech/xiaozhi-esp32-server.md) | ⭐ 10,476 | 2026-09-01 | 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly ... |
 
 
 ---
@@ -98,7 +95,7 @@
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 70,767 | 2026-08-05 | 12 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 71,131 | 2026-08-05 | 13 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 63,363 | 2026-08-01 | 15 |
@@ -119,12 +116,12 @@
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 16 | ⭐ 43,692 | 2026-08-04 | 2026-09-02 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [byoungd/up](../repos/byoungd/up.md) | 15 | ⭐ 63,363 | 2026-08-01 | 2026-09-20 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 12 | ⭐ 70,767 | 2026-08-05 | 2026-09-24 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 13 | ⭐ 71,131 | 2026-08-05 | 2026-09-25 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 12 | ⭐ 3,368 | 2026-08-07 | 2026-09-20 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 10 | ⭐ 33,479 | 2026-08-02 | 2026-09-22 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 10 | ⭐ 28,819 | 2026-08-08 | 2026-09-19 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 9 | ⭐ 39,675 | 2026-08-06 | 2026-09-22 |
-| [openai/plugins](../repos/openai/plugins.md) | 9 | ⭐ 6,378 | 2026-08-27 | 2026-09-10 |
+| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | 9 | ⭐ 8,350 | 2026-08-10 | 2026-09-25 |
 
 ---
 
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-09-24T21:01:47.255Z*
+*Last updated: 2026-09-25T21:02:16.431Z*

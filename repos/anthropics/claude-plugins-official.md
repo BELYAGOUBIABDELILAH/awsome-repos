@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 35,358 |
-| **Forks** | 🍴 3,957 |
-| **Trending Days** | 7 |
-| **Peak Rank** | #3 |
+| **Stars** | ⭐ 36,875 |
+| **Forks** | 🍴 4,150 |
+| **Trending Days** | 8 |
+| **Peak Rank** | #2 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Aug 29, 2026 |
+| **Last Seen** | Sep 25, 2026 |
 
 
 ---
@@ -48,11 +48,12 @@
 **Aug 27, 2026** — Rank #6 (+290 ⭐)  
 **Aug 28, 2026** — Rank #3 (+457 ⭐)  
 **Aug 29, 2026** — Rank #14 (+356 ⭐)  
+**Sep 25, 2026** — Rank #2 (+62 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #3
-- **Trending Days**: 7
+- **Peak Rank**: #2
+- **Trending Days**: 8
 - **Longest Streak**: 5 days
 
 ---
@@ -77,7 +78,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,10 +92,10 @@
 #### Metrics
 - **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
-- **Historical Rank**: Top 5 (Peak: #3)
+- **Historical Rank**: Top 5 (Peak: #2)
 
 
 ---
 
-*Last updated: 2026-09-24T21:01:50.204Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-09-25T21:02:20.186Z*  
+*Data from 8 trending reports*
