@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Swift |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 13,422 |
-| **Forks** | 🍴 674 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 13,693 |
+| **Forks** | 🍴 689 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 17, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Sep 27, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-25T21:02:21.152Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-27T21:01:39.644Z*  
+*Data from 3 trending reports*

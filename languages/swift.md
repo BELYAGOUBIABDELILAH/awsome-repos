@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 113
+- **Total Repositories**: 115
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-22
 
@@ -16,40 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,895 | 2026-08-01 | 6 |
+| [apple/container](../repos/apple/container.md) | ⭐ 50,301 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | ⭐ 6,761 | 2026-08-04 | 10 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 9,004 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,862 | 2026-08-06 | 9 |
+| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,412 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,410 | 2026-08-07 | 8 |
+| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 2,148 | 2026-08-12 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,305 | 2026-08-11 | 5 |
+| [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,693 | 2026-08-17 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/tart](../repos/openai/tart.md) | ⭐ 6,872 | 2026-08-14 | 6 |
+| [ronitsingh10/FineTune](../repos/ronitsingh10/FineTune.md) | ⭐ 9,444 | 2026-08-22 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,638 | 2026-09-04 | 5 |
+| [ChrisMack32/Locus](../repos/ChrisMack32/Locus.md) | ⭐ 511 | 2026-09-27 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PlayCover/PlayCover](../repos/PlayCover/PlayCover.md) | ⭐ 11,797 | 2026-09-07 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 408 | 2026-09-21 | 2 |
+| [thsnkhn/harbor](../repos/thsnkhn/harbor.md) | ⭐ 526 | 2026-09-27 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kitknox/rootshell](../repos/kitknox/rootshell.md) | ⭐ 555 | 2026-08-27 | rootshell - The terminal, reimagined for Apple platforms |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Nanako0129/TokenBar](../repos/Nanako0129/TokenBar.md) | ⭐ 317 | 2026-09-01 | AI token usage &amp; quota monitor for the macOS menu bar — native Swift, Liquid Glass, 3D contributi... |
@@ -77,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,600 | 2026-09-06 | Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alt... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | A modern Wine wrapper for macOS built with SwiftUI |
 
 
 ---
@@ -87,7 +84,7 @@
 |------------|-------|------------|---------------|
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,382 | 2026-08-05 | 14 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | 2026-09-04 | 1 |
-| [apple/container](../repos/apple/container.md) | ⭐ 49,834 | 2026-08-01 | 13 |
+| [apple/container](../repos/apple/container.md) | ⭐ 50,301 | 2026-08-01 | 14 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,218 | 2026-08-12 | 6 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
@@ -113,15 +110,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 20 | ⭐ 12,313 | 2026-08-01 | 2026-09-21 |
+| [apple/container](../repos/apple/container.md) | 14 | ⭐ 50,301 | 2026-08-01 | 2026-09-27 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 14 | ⭐ 70,382 | 2026-08-05 | 2026-09-22 |
-| [apple/container](../repos/apple/container.md) | 13 | ⭐ 49,834 | 2026-08-01 | 2026-09-10 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 13 | ⭐ 14,921 | 2026-08-04 | 2026-09-19 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 12 | ⭐ 27,391 | 2026-08-01 | 2026-09-24 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 11 | ⭐ 3,536 | 2026-08-01 | 2026-09-21 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 10 | ⭐ 6,487 | 2026-08-01 | 2026-09-20 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 10 | ⭐ 9,004 | 2026-08-02 | 2026-09-27 |
 | [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | 10 | ⭐ 6,761 | 2026-08-04 | 2026-09-25 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 10 | ⭐ 26,866 | 2026-08-04 | 2026-09-04 |
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 9 | ⭐ 8,986 | 2026-08-02 | 2026-09-20 |
 
 ---
 
@@ -230,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-09-25T21:02:16.494Z*
+*Last updated: 2026-09-27T21:01:34.571Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 204
+- **Total Repositories**: 207
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,013 | 2026-08-01 | 18 |
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 27,150 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,199 | 2026-08-01 | 11 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 19,204 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [php/php-src](../repos/php/php-src.md) | ⭐ 40,402 | 2026-08-01 | 7 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,693 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,761 | 2026-08-01 | 37 |
+| [git/git](../repos/git/git.md) | ⭐ 63,387 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mit-pdos/xv6-riscv](../repos/mit-pdos/xv6-riscv.md) | ⭐ 10,518 | 2026-08-03 | 6 |
+| [bol-van/zapret2](../repos/bol-van/zapret2.md) | ⭐ 5,545 | 2026-08-16 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,748 | 2026-08-03 | 7 |
+| [NVIDIA/open-gpu-kernel-modules](../repos/NVIDIA/open-gpu-kernel-modules.md) | ⭐ 17,429 | 2026-08-19 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [portapack-mayhem/mayhem-firmware](../repos/portapack-mayhem/mayhem-firmware.md) | ⭐ 5,427 | 2026-08-04 | 4 |
+| [FreeRDP/FreeRDP](../repos/FreeRDP/FreeRDP.md) | ⭐ 13,740 | 2026-08-20 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,692 | 2026-08-04 | 9 |
+| [espeak-ng/espeak-ng](../repos/espeak-ng/espeak-ng.md) | ⭐ 6,885 | 2026-08-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 44,920 | 2026-08-07 | 19 |
+| [Filoppi/Luma-Framework](../repos/Filoppi/Luma-Framework.md) | ⭐ 853 | 2026-09-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EpicGames/raddebugger](../repos/EpicGames/raddebugger.md) | ⭐ 7,516 | 2026-08-08 | 5 |
+| [xroche/httrack](../repos/xroche/httrack.md) | ⭐ 4,770 | 2026-09-05 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [espeak-ng/espeak-ng](../repos/espeak-ng/espeak-ng.md) | ⭐ 6,772 | 2026-08-27 | eSpeak NG is an open source speech synthesizer that supports more than hundred languages and acce... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [containers/bubblewrap](../repos/containers/bubblewrap.md) | ⭐ 8,520 | 2026-08-28 | Low-level unprivileged sandboxing tool used by Flatpak and similar projects |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [sunblaze-ucb/exploitgym](../repos/sunblaze-ucb/exploitgym.md) | ⭐ 942 | 2026-08-28 | ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed t... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/WSL2-Linux-Kernel](../repos/microsoft/WSL2-Linux-Kernel.md) | ⭐ 10,548 | 2026-08-29 | The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2) |
@@ -79,7 +70,16 @@
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 31,850 | 2026-09-01 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from di... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Filoppi/Luma-Framework](../repos/Filoppi/Luma-Framework.md) | ⭐ 811 | 2026-09-02 | Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are current... |
+| [Filoppi/Luma-Framework](../repos/Filoppi/Luma-Framework.md) | ⭐ 853 | 2026-09-02 | Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are current... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [redcanaryco/atomic-red-team](../repos/redcanaryco/atomic-red-team.md) | ⭐ 12,537 | 2026-09-02 | Small and highly portable detection tests based on MITRE&#39;s ATT&amp;CK. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hufrea/byedpi](../repos/hufrea/byedpi.md) | ⭐ 3,380 | 2026-09-02 | Bypass DPI |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [maharmstone/btrfs](../repos/maharmstone/btrfs.md) | ⭐ 7,724 | 2026-09-03 | WinBtrfs - an open-source btrfs driver for Windows |
 
 
 ---
@@ -91,10 +91,10 @@
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,145 | 2026-08-07 | 12 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,013 | 2026-08-01 | 18 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,470 | 2026-08-24 | 3 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,206 | 2026-08-02 | 13 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,693 | 2026-08-02 | 14 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 71,457 | 2026-08-01 | 18 |
-| [git/git](../repos/git/git.md) | ⭐ 63,088 | 2026-08-05 | 5 |
+| [git/git](../repos/git/git.md) | ⭐ 63,387 | 2026-08-05 | 6 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 44,920 | 2026-08-07 | 19 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,402 | 2026-08-01 | 7 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
@@ -122,7 +122,7 @@
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 17 | ⭐ 16,608 | 2026-08-06 | 2026-09-24 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 16 | ⭐ 27,819 | 2026-08-07 | 2026-09-10 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 15 | ⭐ 6,952 | 2026-08-04 | 2026-09-09 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 13 | ⭐ 76,206 | 2026-08-02 | 2026-09-14 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 14 | ⭐ 76,693 | 2026-08-02 | 2026-09-27 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 12 | ⭐ 150,145 | 2026-08-07 | 2026-09-21 |
 | [libuv/libuv](../repos/libuv/libuv.md) | 11 | ⭐ 27,199 | 2026-08-01 | 2026-09-25 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-25T21:02:16.377Z*
+*Last updated: 2026-09-27T21:01:34.476Z*

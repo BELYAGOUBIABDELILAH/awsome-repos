@@ -16,28 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,202 | 2026-08-01 | 34 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,387 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,246 | 2026-08-01 | 16 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,429 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 911 | 2026-08-01 | 29 |
+| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,073 | 2026-08-06 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 465 | 2026-08-04 | 18 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,070 | 2026-08-06 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,078 | 2026-08-07 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,683 | 2026-08-11 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [0Chencc/clawgod](../repos/0Chencc/clawgod.md) | ⭐ 2,063 | 2026-09-09 | 5 |
+| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,078 | 2026-08-07 | 7 |
 
 
 ---
@@ -85,12 +73,12 @@
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,033 | 2026-08-02 | 7 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,202 | 2026-08-01 | 34 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,387 | 2026-08-01 | 35 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,083 | 2026-08-04 | 3 |
 | [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,232 | 2026-09-02 | 7 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,084 | 2026-08-03 | 8 |
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,070 | 2026-08-06 | 11 |
+| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,073 | 2026-08-06 | 12 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,367 | 2026-08-01 | 20 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
@@ -99,9 +87,9 @@
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,838 | 2026-08-04 | 3 |
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,683 | 2026-08-11 | 9 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,538 | 2026-08-04 | 6 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,246 | 2026-08-01 | 16 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,429 | 2026-08-01 | 17 |
 | [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,178 | 2026-08-19 | 7 |
-| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,078 | 2026-08-07 | 6 |
+| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,078 | 2026-08-07 | 7 |
 
 ---
 
@@ -109,14 +97,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 34 | ⭐ 13,202 | 2026-08-01 | 2026-09-25 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 35 | ⭐ 13,387 | 2026-08-01 | 2026-09-27 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 29 | ⭐ 911 | 2026-08-01 | 2026-09-25 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 23 | ⭐ 1,610 | 2026-08-03 | 2026-09-20 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 20 | ⭐ 36,799 | 2026-08-01 | 2026-09-21 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 20 | ⭐ 8,367 | 2026-08-01 | 2026-09-22 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 20 | ⭐ 6,038 | 2026-08-01 | 2026-09-22 |
 | [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 18 | ⭐ 465 | 2026-08-04 | 2026-09-25 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 16 | ⭐ 2,246 | 2026-08-01 | 2026-09-25 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 17 | ⭐ 2,429 | 2026-08-01 | 2026-09-27 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 16 | ⭐ 1,475 | 2026-08-01 | 2026-09-19 |
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | 12 | ⭐ 1,001 | 2026-08-01 | 2026-09-12 |
 
@@ -180,4 +168,4 @@
 
 ---
 
-*Last updated: 2026-09-25T21:02:16.467Z*
+*Last updated: 2026-09-27T21:01:34.551Z*

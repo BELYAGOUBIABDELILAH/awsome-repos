@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 141
+- **Total Repositories**: 142
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,46 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 71,131 | 2026-08-05 | 13 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 142,790 | 2026-07-30 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 928 | 2026-08-07 | 5 |
+| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,494 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 8,350 | 2026-08-10 | 9 |
+| [fishjar/kiss-translator](../repos/fishjar/kiss-translator.md) | ⭐ 12,657 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zarazhangrui/follow-builders](../repos/zarazhangrui/follow-builders.md) | ⭐ 6,793 | 2026-08-10 | 3 |
+| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 3,873 | 2026-08-14 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 3,775 | 2026-08-14 | 7 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 20,958 | 2026-08-16 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BuilderIO/skills](../repos/BuilderIO/skills.md) | ⭐ 4,426 | 2026-09-20 | 3 |
+| [chuspeeism/dashi-ppt-skill](../repos/chuspeeism/dashi-ppt-skill.md) | ⭐ 8,880 | 2026-08-20 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [androoAGI/starnet](../repos/androoAGI/starnet.md) | ⭐ 432 | 2026-09-24 | 2 |
+| [qist/tvbox](../repos/qist/tvbox.md) | ⭐ 11,510 | 2026-09-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [copy/v86](../repos/copy/v86.md) | ⭐ 23,527 | 2026-09-25 | 1 |
+| [androoAGI/starnet](../repos/androoAGI/starnet.md) | ⭐ 670 | 2026-09-24 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pashov/skills](../repos/pashov/skills.md) | ⭐ 1,205 | 2026-09-25 | 1 |
+| [mlmvpn/mlmvpn_windows](../repos/mlmvpn/mlmvpn_windows.md) | ⭐ 150 | 2026-09-27 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 33,415 | 2026-08-27 | A spy satellite simulator in your browser, except the data is real. Live open source spatial inte... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openai/plugins](../repos/openai/plugins.md) | ⭐ 6,378 | 2026-08-27 | OpenAI Plugins |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 17,886 | 2026-08-28 | A coding-agent skill for multi-phase security audits with independently verified, machine-readabl... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Stremio/stremio-web](../repos/Stremio/stremio-web.md) | ⭐ 13,671 | 2026-08-29 | Stremio - Freedom to Stream |
@@ -77,6 +68,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [xinnan-tech/xiaozhi-esp32-server](../repos/xinnan-tech/xiaozhi-esp32-server.md) | ⭐ 10,476 | 2026-09-01 | 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [JoeanAmier/XHS-Downloader](../repos/JoeanAmier/XHS-Downloader.md) | ⭐ 12,565 | 2026-09-01 | 小红书（XiaoHongShu、RedNote）链接提取&#x2F;作品采集工具 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jgraph/drawio](../repos/jgraph/drawio.md) | ⭐ 7,880 | 2026-09-02 | draw.io is a JavaScript, client-side editor for general diagramming. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [facebook/stylex](../repos/facebook/stylex.md) | ⭐ 10,160 | 2026-09-03 | StyleX is the styling system for ambitious user interfaces. |
 
 
 ---
@@ -89,14 +89,14 @@
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | 2026-08-06 | 2 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 141,962 | 2026-07-30 | 8 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 142,790 | 2026-07-30 | 9 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 98,101 | 2026-08-05 | 21 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 71,131 | 2026-08-05 | 13 |
-| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,314 | 2026-08-04 | 1 |
+| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,494 | 2026-08-04 | 2 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 63,363 | 2026-08-01 | 15 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
@@ -120,8 +120,8 @@
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 12 | ⭐ 3,368 | 2026-08-07 | 2026-09-20 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 10 | ⭐ 33,479 | 2026-08-02 | 2026-09-22 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 10 | ⭐ 28,819 | 2026-08-08 | 2026-09-19 |
+| [vercel/next.js](../repos/vercel/next.js.md) | 9 | ⭐ 142,790 | 2026-07-30 | 2026-09-27 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 9 | ⭐ 39,675 | 2026-08-06 | 2026-09-22 |
-| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | 9 | ⭐ 8,350 | 2026-08-10 | 2026-09-25 |
 
 ---
 
@@ -230,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-09-25T21:02:16.431Z*
+*Last updated: 2026-09-27T21:01:34.524Z*

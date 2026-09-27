@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 124
+- **Total Repositories**: 125
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,43 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,178 | 2026-08-01 | 29 |
+| [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | ⭐ 3,143 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | ⭐ 2,316 | 2026-08-02 | 12 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,884 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,028 | 2026-08-03 | 8 |
+| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 6,529 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,211 | 2026-08-04 | 16 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,950 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,925 | 2026-08-07 | 4 |
+| [Sergeydigl3/zapret-discord-youtube-linux](../repos/Sergeydigl3/zapret-discord-youtube-linux.md) | ⭐ 2,047 | 2026-08-16 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,307 | 2026-08-11 | 6 |
+| [sabamdarif/termux-desktop](../repos/sabamdarif/termux-desktop.md) | ⭐ 2,287 | 2026-09-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,033 | 2026-08-19 | 6 |
+| [ZeroLu/awesome-seedance](../repos/ZeroLu/awesome-seedance.md) | ⭐ 2,560 | 2026-09-24 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,499 | 2026-08-20 | 8 |
+| [espressif/esp-csi](../repos/espressif/esp-csi.md) | ⭐ 1,627 | 2026-09-25 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bivlked/amneziawg-installer](../repos/bivlked/amneziawg-installer.md) | ⭐ 1,310 | 2026-08-25 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ONLYOFFICE/DocumentServer](../repos/ONLYOFFICE/DocumentServer.md) | ⭐ 6,943 | 2026-09-25 | 1 |
+| [BlackArch/blackarch](../repos/BlackArch/blackarch.md) | ⭐ 3,514 | 2026-09-27 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [juewuy/ShellCrash](../repos/juewuy/ShellCrash.md) | ⭐ 13,224 | 2026-08-27 | Run sing-box&#x2F;mihomo as client in shell |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 40,042 | 2026-08-29 | Beautiful, Modern &amp; Opinionated Linux |
@@ -80,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [WhatsApp/proxy](../repos/WhatsApp/proxy.md) | ⭐ 2,340 | 2026-09-06 | This repository contains the WhatsApp proxy implementation for users to host their own proxy infr... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hq450/fancyss](../repos/hq450/fancyss.md) | ⭐ 13,735 | 2026-09-06 | fancyss is a project providing tools to across the GFW on asuswrt&#x2F;merlin based router. |
 
 
 ---
@@ -101,7 +98,7 @@
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,563 | 2026-09-02 | 2 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,582 | 2026-08-04 | 9 |
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,925 | 2026-08-07 | 4 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,950 | 2026-08-07 | 5 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 6 |
@@ -137,7 +134,7 @@
 - [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) - Burpsuite Professional Latest Version 2026
 - [Chachamaru127/claude-code-harness](../repos/Chachamaru127/claude-code-harness.md) - Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonom...
 - [void-linux/void-packages](../repos/void-linux/void-packages.md) - The Void source packages collection
-- [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) - Универсальный менеджер для обхода блокировок на OpenWrt https:&#x2F;&#x2F;t.me&#x2F;stressozz_manager
+- [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) - Универсальный менеджер для обхода блокировок на OpenWrt
 - [basecamp/omarchy](../repos/basecamp/omarchy.md) - Beautiful, Modern &amp; Opinionated Linux
 - [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) - Docker configuration for running VLLM on dual DGX Sparks
 - [dockur/macos](../repos/dockur/macos.md) - MacOS inside a Docker container.
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-09-25T21:02:16.489Z*
+*Last updated: 2026-09-27T21:01:34.567Z*

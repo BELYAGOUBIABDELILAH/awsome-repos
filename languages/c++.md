@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 246
+- **Total Repositories**: 249
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-09-20
+- **Last Updated**: 2026-09-27
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 511 | 2026-08-01 | 13 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,570 | 2026-07-30 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 23,447 | 2026-08-02 | 6 |
+| [doitsujin/dxvk](../repos/doitsujin/dxvk.md) | ⭐ 18,158 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 32,969 | 2026-08-03 | 7 |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 32,997 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,583 | 2026-08-04 | 16 |
+| [argotorg/solidity](../repos/argotorg/solidity.md) | ⭐ 25,744 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [notepad-plus-plus/notepad-plus-plus](../repos/notepad-plus-plus/notepad-plus-plus.md) | ⭐ 29,410 | 2026-08-08 | 4 |
+| [RPCS3/rpcs3](../repos/RPCS3/rpcs3.md) | ⭐ 19,889 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-ai-edge/LiteRT](../repos/google-ai-edge/LiteRT.md) | ⭐ 3,439 | 2026-08-08 | 2 |
+| [google/flatbuffers](../repos/google/flatbuffers.md) | ⭐ 26,518 | 2026-08-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 7,373 | 2026-08-10 | 6 |
+| [ossrs/srs](../repos/ossrs/srs.md) | ⭐ 29,293 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amnezia-vpn/amnezia-client](../repos/amnezia-vpn/amnezia-client.md) | ⭐ 15,197 | 2026-08-16 | 7 |
+| [esphome/esphome](../repos/esphome/esphome.md) | ⭐ 11,736 | 2026-08-17 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/winget-cli](../repos/microsoft/winget-cli.md) | ⭐ 26,453 | 2026-08-19 | 2 |
+| [The412Banner/winlator-contents](../repos/The412Banner/winlator-contents.md) | ⭐ 82 | 2026-09-27 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,494 | 2026-08-25 | 9 |
+| [cataclysmbn/Cataclysm-BN](../repos/cataclysmbn/Cataclysm-BN.md) | ⭐ 1,245 | 2026-09-27 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/filament](../repos/google/filament.md) | ⭐ 20,459 | 2026-08-27 | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/wslg](../repos/microsoft/wslg.md) | ⭐ 11,886 | 2026-08-27 | Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scen... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [opentoonz/opentoonz](../repos/opentoonz/opentoonz.md) | ⭐ 7,709 | 2026-08-27 | OpenToonz - An open-source full-featured 2D animation creation software |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dragonflydb/dragonfly](../repos/dragonflydb/dragonfly.md) | ⭐ 31,401 | 2026-08-27 | A modern replacement for Redis and Memcached |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PaddlePaddle/Paddle](../repos/PaddlePaddle/Paddle.md) | ⭐ 24,082 | 2026-08-27 | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [lightgbm-org/LightGBM](../repos/lightgbm-org/LightGBM.md) | ⭐ 18,721 | 2026-08-28 | A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MatixYo/ESP32-Plane-Radar](../repos/MatixYo/ESP32-Plane-Radar.md) | ⭐ 938 | 2026-08-28 | Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your l... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [react/yoga](../repos/react/yoga.md) | ⭐ 18,897 | 2026-08-28 | Yoga is an embeddable layout engine targeting web standards. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [IfcOpenShell/IfcOpenShell](../repos/IfcOpenShell/IfcOpenShell.md) | ⭐ 2,800 | 2026-08-28 | Open source IFC library and geometry engine |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [omacom/omawrite](../repos/omacom/omawrite.md) | ⭐ 176 | 2026-08-29 | The essence of writing |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [brave/brave-core](../repos/brave/brave-core.md) | ⭐ 3,543 | 2026-08-29 | Core engine for the Brave browser for mobile and desktop. For issues https:&#x2F;&#x2F;github.com&#x2F;brave&#x2F;bra... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SatDump/SatDump](../repos/SatDump/SatDump.md) | ⭐ 2,126 | 2026-08-29 | A generic satellite data processing software. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Neroued/ninfer](../repos/Neroued/ninfer.md) | ⭐ 1,426 | 2026-08-29 | High-performance single-GPU inference for selected model checkpoints and GPUs. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [metasequoiaime/MetasequoiaImeTsf](../repos/metasequoiaime/MetasequoiaImeTsf.md) | ⭐ 1,119 | 2026-09-01 | 水杉输入法。内测：tg: https:&#x2F;&#x2F;t.me&#x2F;msimegroup QQ Group: 829919142 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,046 | 2026-09-01 | 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [crosire/reshade](../repos/crosire/reshade.md) | ⭐ 5,449 | 2026-09-01 | A generic post-processing injector for games and video software. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [prusa3d/PrusaSlicer](../repos/prusa3d/PrusaSlicer.md) | ⭐ 9,302 | 2026-09-02 | G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mysql/mysql-server](../repos/mysql/mysql-server.md) | ⭐ 12,416 | 2026-09-02 | MySQL Server, the world&#39;s most popular open source database, and MySQL Cluster, a real-time, open... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [xoxor4d/gta4-rtx](../repos/xoxor4d/gta4-rtx.md) | ⭐ 705 | 2026-09-02 | GTAIV RTX Remix Compatibility Mod |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,215 | 2026-07-30 | 19 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,570 | 2026-07-30 | 20 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 129,089 | 2026-08-01 | 25 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | 2026-08-04 | 4 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
@@ -116,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 25 | ⭐ 129,089 | 2026-08-01 | 2026-09-21 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 19 | ⭐ 200,215 | 2026-07-30 | 2026-09-20 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 20 | ⭐ 200,570 | 2026-07-30 | 2026-09-27 |
 | [google/googletest](../repos/google/googletest.md) | 16 | ⭐ 39,583 | 2026-08-04 | 2026-09-25 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 13 | ⭐ 511 | 2026-08-01 | 2026-09-25 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 13 | ⭐ 76,148 | 2026-08-08 | 2026-09-10 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-25T21:02:16.391Z*
+*Last updated: 2026-09-27T21:01:34.490Z*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 67
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-25
+- **Last Updated**: 2026-09-27
 
 ---
 
@@ -16,28 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,373 | 2026-08-01 | 21 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 921 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,443 | 2026-08-01 | 39 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,445 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,825 | 2026-08-06 | 15 |
+| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,408 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps](../repos/MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps.md) | ⭐ 54 | 2026-09-25 | 1 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,340 | 2026-08-04 | 21 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,831 | 2026-08-06 | 16 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 5,416 | 2026-08-10 | 12 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ayusharma/birthday](../repos/ayusharma/birthday.md) | ⭐ 1,290 | 2026-08-27 | A Happy Birthday animation design in CSS3, HTML5  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apachecn/sklearn-doc-zh](../repos/apachecn/sklearn-doc-zh.md) | ⭐ 5,228 | 2026-08-28 | :book: [译] scikit-learn（sklearn） 中文文档 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,363 | 2026-09-02 | 🕶️ Awesome stuff for Obsidian |
@@ -62,6 +62,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [wso2/docs-apim](../repos/wso2/docs-apim.md) | ⭐ 99 | 2026-09-09 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [aws-samples/amplify-next-template](../repos/aws-samples/amplify-next-template.md) | ⭐ 236 | 2026-09-09 | This is a Next.js starter for building a fullstack app with AWS Amplify. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jensimmons/cssremedy](../repos/jensimmons/cssremedy.md) | ⭐ 2,225 | 2026-09-12 | Start your project with a remedy for the technical debt of CSS.  |
 
 
 ---
@@ -70,9 +76,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,825 | 2026-08-06 | 15 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,831 | 2026-08-06 | 16 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,525 | 2026-08-01 | 9 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,329 | 2026-08-04 | 20 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,340 | 2026-08-04 | 21 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,947 | 2026-08-02 | 22 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
@@ -88,7 +94,7 @@
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,363 | 2026-09-02 | 4 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,283 | 2026-08-01 | 16 |
-| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,410 | 2026-08-03 | 5 |
+| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,408 | 2026-08-03 | 6 |
 | [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,313 | 2026-08-08 | 8 |
 
 ---
@@ -97,16 +103,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 39 | ⭐ 1,443 | 2026-08-01 | 2026-09-25 |
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 31 | ⭐ 920 | 2026-08-01 | 2026-09-21 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 40 | ⭐ 1,445 | 2026-08-01 | 2026-09-27 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 32 | ⭐ 921 | 2026-08-01 | 2026-09-27 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 22 | ⭐ 28,947 | 2026-08-02 | 2026-09-20 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 21 | ⭐ 12,373 | 2026-08-01 | 2026-09-25 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 21 | ⭐ 1,408 | 2026-08-01 | 2026-08-29 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 20 | ⭐ 45,329 | 2026-08-04 | 2026-09-22 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 21 | ⭐ 45,340 | 2026-08-04 | 2026-09-27 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 19 | ⭐ 12,419 | 2026-08-02 | 2026-09-14 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 16 | ⭐ 9,283 | 2026-08-01 | 2026-09-20 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 16 | ⭐ 9,539 | 2026-08-05 | 2026-09-24 |
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 15 | ⭐ 82,825 | 2026-08-06 | 2026-09-25 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 16 | ⭐ 82,831 | 2026-08-06 | 2026-09-27 |
 
 ---
 
@@ -182,4 +188,4 @@
 
 ---
 
-*Last updated: 2026-09-25T21:02:16.393Z*
+*Last updated: 2026-09-27T21:01:34.492Z*

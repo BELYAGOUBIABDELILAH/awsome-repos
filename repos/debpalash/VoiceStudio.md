@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 28,964 |
-| **Forks** | 🍴 3,535 |
-| **Trending Days** | 9 |
-| **Peak Rank** | #4 |
+| **Stars** | ⭐ 39,777 |
+| **Forks** | 🍴 4,727 |
+| **Trending Days** | 10 |
+| **Peak Rank** | #3 |
 
 | **First Seen** | Aug 22, 2026 |
-| **Last Seen** | Sep 14, 2026 |
+| **Last Seen** | Sep 27, 2026 |
 
 
 ---
@@ -49,11 +49,12 @@
 **Sep 4, 2026** — Rank #12 (+1345 ⭐)  
 **Sep 13, 2026** — Rank #12 (+2546 ⭐)  
 **Sep 14, 2026** — Rank #4 (+2774 ⭐)  
+**Sep 27, 2026** — Rank #3 (+3060 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #4
-- **Trending Days**: 9
+- **Peak Rank**: #3
+- **Trending Days**: 10
 - **Longest Streak**: 5 days
 
 ---
@@ -78,7 +79,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -92,10 +93,10 @@
 #### Metrics
 - **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
-- **Historical Rank**: Top 5 (Peak: #4)
+- **Historical Rank**: Top 5 (Peak: #3)
 
 
 ---
 
-*Last updated: 2026-09-25T21:02:21.405Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-09-27T21:01:39.904Z*  
+*Data from 10 trending reports*

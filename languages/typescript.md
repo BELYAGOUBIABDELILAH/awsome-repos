@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 227
+- **Total Repositories**: 231
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 8,632 | 2026-08-01 | 13 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 89,534 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 52,604 | 2026-08-01 | 9 |
+| [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) | ⭐ 4,130 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 84,635 | 2026-08-02 | 5 |
+| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 20,095 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 18,359 | 2026-08-05 | 4 |
+| [expo/expo](../repos/expo/expo.md) | ⭐ 52,466 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [payloadcms/payload](../repos/payloadcms/payload.md) | ⭐ 44,955 | 2026-08-07 | 2 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 53,621 | 2026-08-08 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 78,223 | 2026-08-11 | 13 |
+| [calcom/cal.diy](../repos/calcom/cal.diy.md) | ⭐ 48,688 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 21,052 | 2026-08-14 | 6 |
+| [mvschwarz/openrig](../repos/mvschwarz/openrig.md) | ⭐ 875 | 2026-09-25 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FxEmbed/FxEmbed](../repos/FxEmbed/FxEmbed.md) | ⭐ 5,449 | 2026-09-24 | 2 |
+| [vercel-labs/scriptc](../repos/vercel-labs/scriptc.md) | ⭐ 5,352 | 2026-09-27 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NginxProxyManager/nginx-proxy-manager](../repos/NginxProxyManager/nginx-proxy-manager.md) | ⭐ 34,234 | 2026-09-25 | 1 |
+| [mobile-next/mobile-mcp](../repos/mobile-next/mobile-mcp.md) | ⭐ 7,860 | 2026-09-27 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvschwarz/openrig](../repos/mvschwarz/openrig.md) | ⭐ 433 | 2026-09-25 | 1 |
+| [SinaXhpm/Submarine](../repos/SinaXhpm/Submarine.md) | ⭐ 366 | 2026-09-27 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Tencent/BrowserSkill](../repos/Tencent/BrowserSkill.md) | ⭐ 6,026 | 2026-08-27 | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension fo... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NeoLabHQ/context-engineering-kit](../repos/NeoLabHQ/context-engineering-kit.md) | ⭐ 1,466 | 2026-08-27 | Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenC... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tutti-os/tutti](../repos/tutti-os/tutti.md) | ⭐ 3,575 | 2026-08-27 | Where people and agents build in tune. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tradingview/lightweight-charts](../repos/tradingview/lightweight-charts.md) | ⭐ 17,184 | 2026-08-27 | Performant financial charts built with HTML5 canvas |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [1weiho/open-slide](../repos/1weiho/open-slide.md) | ⭐ 7,243 | 2026-08-27 | A slide framework built for agents. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 86,970 | 2026-08-28 | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ArnasDon/wacrm](../repos/ArnasDon/wacrm.md) | ⭐ 2,135 | 2026-08-28 | Self-hostable CRM template for WhatsApp — shared inbox, contacts, sales pipelines, broadcasts, an... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Agenta-AI/agenta](../repos/Agenta-AI/agenta.md) | ⭐ 4,621 | 2026-08-28 | Agenta is a workspace where you and your team build agents and automations. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [anthropics/claude-code-action](../repos/anthropics/claude-code-action.md) | ⭐ 8,752 | 2026-08-29 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cloudflare/kumo](../repos/cloudflare/kumo.md) | ⭐ 3,759 | 2026-08-29 | Cloudflare&#39;s component library for building modern web applications. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vercel-labs/vgpu](../repos/vercel-labs/vgpu.md) | ⭐ 926 | 2026-08-29 | Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and ma... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [inkeep/open-knowledge](../repos/inkeep/open-knowledge.md) | ⭐ 3,860 | 2026-09-01 | Beautiful, AI-native markdown IDE and LLM wiki |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [YishenTu/claudian](../repos/YishenTu/claudian.md) | ⭐ 15,098 | 2026-09-01 | An Obsidian plugin that embeds Claude Code&#x2F;Codex as an AI collaborator in your vault |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | 2026-09-01 | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vercel-labs/portless](../repos/vercel-labs/portless.md) | ⭐ 12,124 | 2026-09-02 | Replace port numbers with stable, named local URLs. For humans and agents. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mlc-ai/web-llm](../repos/mlc-ai/web-llm.md) | ⭐ 18,795 | 2026-09-02 | High-performance In-browser LLM Inference Engine  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [KeygraphHQ/shannon](../repos/KeygraphHQ/shannon.md) | ⭐ 47,606 | 2026-09-02 | Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifie... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [a2ui-project/a2ui](../repos/a2ui-project/a2ui.md) | ⭐ 16,270 | 2026-09-02 |  |
 
 
 ---
@@ -105,9 +105,9 @@
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
 | [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 89,779 | 2026-08-22 | 1 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 89,534 | 2026-08-02 | 6 |
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 87,081 | 2026-08-14 | 3 |
 | [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 86,970 | 2026-08-28 | 2 |
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 84,635 | 2026-08-02 | 5 |
 
 ---
 
@@ -120,7 +120,7 @@
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 13 | ⭐ 33,176 | 2026-08-02 | 2026-09-24 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 13 | ⭐ 78,223 | 2026-08-11 | 2026-09-25 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 12 | ⭐ 25,971 | 2026-08-07 | 2026-09-13 |
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 11 | ⭐ 48,711 | 2026-08-08 | 2026-09-10 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 12 | ⭐ 53,621 | 2026-08-08 | 2026-09-27 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 10 | ⭐ 131,955 | 2026-08-02 | 2026-09-07 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 9 | ⭐ 26,666 | 2026-08-01 | 2026-09-14 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 9 | ⭐ 52,604 | 2026-08-01 | 2026-09-25 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-25T21:02:16.498Z*
+*Last updated: 2026-09-27T21:01:34.574Z*

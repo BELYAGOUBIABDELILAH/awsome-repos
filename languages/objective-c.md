@@ -16,46 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,767 | 2026-08-01 | 18 |
+| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,703 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 27 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,227 | 2026-08-02 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 29 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 736 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 29 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,825 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 28 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,246 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,394 | 2026-08-03 | 13 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,399 | 2026-08-03 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,612 | 2026-08-04 | 20 |
+| [danveloper/flash-moe](../repos/danveloper/flash-moe.md) | ⭐ 4,151 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,642 | 2026-08-04 | 5 |
+| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | ⭐ 2,032 | 2026-08-08 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,539 | 2026-08-04 | 13 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,438 | 2026-08-06 | 4 |
+| [LiveContainer/LiveExec32](../repos/LiveContainer/LiveExec32.md) | ⭐ 281 | 2026-09-10 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jverdi/JVFloatLabeledTextField](../repos/jverdi/JVFloatLabeledTextField.md) | ⭐ 7,141 | 2026-08-27 | UITextField subclass with floating labels - inspired by Matt D. Smith&#39;s design: http:&#x2F;&#x2F;dribbble.c... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,828 | 2026-08-28 | A Cocoa &#x2F; Objective-C wrapper around SQLite |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pinterest/PINOperation](../repos/pinterest/PINOperation.md) | ⭐ 109 | 2026-08-29 |  |
@@ -79,7 +70,13 @@
 | [MacPass/MacPass](../repos/MacPass/MacPass.md) | ⭐ 6,863 | 2026-09-07 | A native macOS KeePass client  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [LiveContainer/LiveExec32](../repos/LiveContainer/LiveExec32.md) | ⭐ 283 | 2026-09-10 | Run 32-bit binaries on 64-bit iOS by passing through syscalls |
+| [LiveContainer/LiveExec32](../repos/LiveContainer/LiveExec32.md) | ⭐ 281 | 2026-09-10 | Run 32-bit binaries on 64-bit iOS by passing through syscalls |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [schuyler/macdown3000](../repos/schuyler/macdown3000.md) | ⭐ 462 | 2026-09-10 | A modern, lightweight Markdown editor for macOS. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MaikuB/flutter_appauth](../repos/MaikuB/flutter_appauth.md) | ⭐ 308 | 2026-09-10 | A Flutter wrapper for AppAuth iOS and Android SDKs |
 
 
 ---
@@ -91,7 +88,7 @@
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,371 | 2026-08-02 | 7 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,629 | 2026-08-01 | 27 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,198 | 2026-08-02 | 22 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,227 | 2026-08-02 | 23 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,612 | 2026-08-04 | 20 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,176 | 2026-08-04 | 17 |
@@ -102,7 +99,7 @@
 | [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,828 | 2026-08-28 | 2 |
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
 | [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,394 | 2026-08-03 | 13 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,399 | 2026-08-03 | 14 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,319 | 2026-08-04 | 11 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,438 | 2026-08-06 | 4 |
@@ -120,11 +117,11 @@
 | [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 28 | ⭐ 292 | 2026-08-01 | 2026-09-25 |
 | [google/promises](../repos/google/promises.md) | 27 | ⭐ 3,828 | 2026-08-01 | 2026-09-25 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 27 | ⭐ 25,629 | 2026-08-01 | 2026-09-22 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 22 | ⭐ 22,198 | 2026-08-02 | 2026-09-21 |
-| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 21 | ⭐ 2,032 | 2026-08-08 | 2026-09-22 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 23 | ⭐ 22,227 | 2026-08-02 | 2026-09-27 |
+| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 22 | ⭐ 2,032 | 2026-08-08 | 2026-09-27 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 20 | ⭐ 16,612 | 2026-08-04 | 2026-09-25 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 19 | ⭐ 736 | 2026-08-02 | 2026-09-27 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 19 | ⭐ 676 | 2026-08-04 | 2026-09-09 |
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | 18 | ⭐ 9,767 | 2026-08-01 | 2026-09-25 |
 
 ---
 
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-09-25T21:02:16.456Z*
+*Last updated: 2026-09-27T21:01:34.544Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 8,171 |
-| **Forks** | 🍴 1,789 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 8,188 |
+| **Forks** | 🍴 1,803 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Sep 20, 2026 |
+| **Last Seen** | Sep 27, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`android`](../../topics/android.md) [`apps`](../../topics/apps.md) [`hacktoberfest`](../../topics/hacktoberfest.md) [`podcast-manager`](../../topics/podcast-manager.md) [`podcasting20`](../../topics/podcasting20.md) 
+[`android`](../../topics/android.md) [`apps`](../../topics/apps.md) [`podcast-manager`](../../topics/podcast-manager.md) [`podcasting20`](../../topics/podcasting20.md) 
 
 ### Curated Categories
 `Mobile Development` `Systems Programming` 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-25T21:02:19.429Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-27T21:01:37.738Z*  
+*Data from 3 trending reports*

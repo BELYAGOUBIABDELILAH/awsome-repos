@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 268
+- **Total Repositories**: 272
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-09-25
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,011 | 2026-07-31 | 9 |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,056 | 2026-07-31 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 181,716 | 2026-08-01 | 14 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,053 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | ⭐ 38,300 | 2026-08-03 | 10 |
+| [openbao/openbao](../repos/openbao/openbao.md) | ⭐ 8,131 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 127,991 | 2026-08-04 | 6 |
+| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 20,261 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DataDog/datadog-agent](../repos/DataDog/datadog-agent.md) | ⭐ 3,751 | 2026-08-06 | 3 |
+| [cli/cli](../repos/cli/cli.md) | ⭐ 46,428 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akuity/kargo](../repos/akuity/kargo.md) | ⭐ 3,681 | 2026-08-06 | 3 |
+| [trufflesecurity/trufflehog](../repos/trufflesecurity/trufflehog.md) | ⭐ 28,129 | 2026-08-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openbao/openbao](../repos/openbao/openbao.md) | ⭐ 7,678 | 2026-08-07 | 2 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,237 | 2026-08-15 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [safing/portmaster](../repos/safing/portmaster.md) | ⭐ 13,812 | 2026-08-11 | 2 |
+| [obot-platform/obot](../repos/obot-platform/obot.md) | ⭐ 1,071 | 2026-09-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,204 | 2026-08-15 | 6 |
+| [git-bug/git-bug](../repos/git-bug/git-bug.md) | ⭐ 10,608 | 2026-09-27 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [seaweedfs/seaweedfs](../repos/seaweedfs/seaweedfs.md) | ⭐ 34,976 | 2026-08-19 | 3 |
+| [daeuniverse/dae](../repos/daeuniverse/dae.md) | ⭐ 6,243 | 2026-09-27 | 1 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [JetBrains/go-modern-guidelines](../repos/JetBrains/go-modern-guidelines.md) | ⭐ 2,846 | 2026-08-27 | Help AI coding agents write modern Go |
+| [dapr/dapr](../repos/dapr/dapr.md) | ⭐ 26,042 | 2026-08-29 | Dapr is a portable runtime for building distributed applications across cloud and edge, combining... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [docker/docker-agent](../repos/docker/docker-agent.md) | ⭐ 3,292 | 2026-08-27 | AI Agent Builder and Runtime by Docker Engineering |
+| [juanfont/headscale](../repos/juanfont/headscale.md) | ⭐ 43,439 | 2026-08-29 | An open source, self-hosted implementation of the Tailscale control server |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vitessio/vitess](../repos/vitessio/vitess.md) | ⭐ 21,265 | 2026-08-27 | Vitess is a database clustering system for horizontal scaling of MySQL. |
+| [amacneil/dbmate](../repos/amacneil/dbmate.md) | ⭐ 7,263 | 2026-08-29 | 🚀 A lightweight, framework-agnostic database migration tool. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [opencost/opencost](../repos/opencost/opencost.md) | ⭐ 6,706 | 2026-08-27 | Cost monitoring for Kubernetes workloads and cloud costs |
+| [bytebase/bytebase](../repos/bytebase/bytebase.md) | ⭐ 14,441 | 2026-08-29 | Database governance built for humans and agents — controlling changes and access across every maj... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [docker/cli](../repos/docker/cli.md) | ⭐ 6,029 | 2026-08-27 | The Docker CLI |
+| [voocel/ainovel-cli](../repos/voocel/ainovel-cli.md) | ⭐ 1,862 | 2026-08-29 | ✨多agent实现全自动AI小说生成 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cloudwego/eino](../repos/cloudwego/eino.md) | ⭐ 12,936 | 2026-08-27 | The ultimate LLM&#x2F;AI application development framework in Go. |
+| [BishopFox/sliver](../repos/BishopFox/sliver.md) | ⭐ 11,747 | 2026-08-29 | Adversary Emulation Framework |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [podman-container-tools/podman](../repos/podman-container-tools/podman.md) | ⭐ 32,838 | 2026-08-27 | Podman: A tool for managing OCI containers and pods. |
+| [miniflux/v2](../repos/miniflux/v2.md) | ⭐ 9,638 | 2026-09-01 | Minimalist and opinionated feed reader |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tailscale/tailcat](../repos/tailscale/tailcat.md) | ⭐ 3,418 | 2026-08-28 | like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane |
+| [kunchenguid/no-mistakes](../repos/kunchenguid/no-mistakes.md) | ⭐ 8,395 | 2026-09-01 | git push no-mistakes |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [workweave/router](../repos/workweave/router.md) | ⭐ 2,635 | 2026-08-28 | Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-7... |
+| [fish2018/pansou](../repos/fish2018/pansou.md) | ⭐ 14,442 | 2026-09-02 | PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google/gvisor](../repos/google/gvisor.md) | ⭐ 19,183 | 2026-08-28 | Application Kernel for Containers |
+| [slackhq/nebula](../repos/slackhq/nebula.md) | ⭐ 18,265 | 2026-09-02 | A scalable overlay networking tool with a focus on performance, simplicity and security |
 
 
 ---
@@ -89,9 +89,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 181,716 | 2026-08-01 | 14 |
-| [golang/go](../repos/golang/go.md) | ⭐ 139,011 | 2026-07-31 | 9 |
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 127,991 | 2026-08-04 | 6 |
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,204 | 2026-08-15 | 6 |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,056 | 2026-07-31 | 10 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,053 | 2026-08-04 | 7 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,237 | 2026-08-15 | 7 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,105 | 2026-08-06 | 10 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
@@ -122,9 +122,9 @@
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 14 | ⭐ 42,026 | 2026-08-07 | 2026-09-19 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 13 | ⭐ 38,014 | 2026-08-01 | 2026-09-22 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 12 | ⭐ 51,008 | 2026-08-01 | 2026-09-21 |
+| [golang/go](../repos/golang/go.md) | 10 | ⭐ 139,056 | 2026-07-31 | 2026-09-27 |
 | [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 10 | ⭐ 38,300 | 2026-08-03 | 2026-09-25 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 10 | ⭐ 91,105 | 2026-08-06 | 2026-09-21 |
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 10 | ⭐ 37,169 | 2026-08-20 | 2026-09-19 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-25T21:02:16.414Z*
+*Last updated: 2026-09-27T21:01:34.511Z*

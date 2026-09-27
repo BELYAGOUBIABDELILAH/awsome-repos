@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 93
+- **Total Repositories**: 94
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-22
 
@@ -16,40 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,492 | 2026-08-05 | 7 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,190 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 138,503 | 2026-08-08 | 14 |
+| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,507 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Arrow-air/project-quiver](../repos/Arrow-air/project-quiver.md) | ⭐ 451 | 2026-08-15 | 5 |
+| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,978 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rajhodedara/live-sport-plugin](../repos/rajhodedara/live-sport-plugin.md) | ⭐ 190 | 2026-09-25 | 1 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,800 | 2026-08-09 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
+| [nova-video-player/aos-AVP](../repos/nova-video-player/aos-AVP.md) | ⭐ 4,691 | 2026-08-16 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [promptpirate-x/discord-id-bypass-tool](../repos/promptpirate-x/discord-id-bypass-tool.md) | ⭐ 1,544 | 2026-09-27 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Manavarya09/design-extract](../repos/Manavarya09/design-extract.md) | ⭐ 4,049 | 2026-08-27 | Extract any website&#39;s complete design system with one command. DTCG tokens, semantic+primitive+co... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fcaronte/KingInstaller](../repos/fcaronte/KingInstaller.md) | ⭐ 461 | 2026-08-27 | Porting of KingInstaller get from GitLab by annexhack |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tianma-if/edgeever](../repos/tianma-if/edgeever.md) | ⭐ 1,289 | 2026-08-27 | Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rdkit/rdkit](../repos/rdkit/rdkit.md) | ⭐ 3,566 | 2026-08-27 | The official sources for the RDKit library |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openshift/openshift-docs](../repos/openshift/openshift-docs.md) | ⭐ 882 | 2026-08-28 | OpenShift 3 and 4 product and community documentation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ultrasecurity/Storm-Breaker](../repos/ultrasecurity/Storm-Breaker.md) | ⭐ 5,974 | 2026-08-29 | Social engineering tool [Access Webcam &amp; Microphone  &amp; Location Finder] With {Py,JS,PHP} |
@@ -65,6 +53,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [skindhu/Build-A-Large-Language-Model-CN](../repos/skindhu/Build-A-Large-Language-Model-CN.md) | ⭐ 4,007 | 2026-09-01 | 《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [matlab/simulink-agentic-toolkit](../repos/matlab/simulink-agentic-toolkit.md) | ⭐ 1,038 | 2026-09-01 | The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effecti... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [isjiamu/gzh-design-skill](../repos/isjiamu/gzh-design-skill.md) | ⭐ 3,456 | 2026-09-01 | 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdo... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [datawhalechina/Agent-Learning-Hub](../repos/datawhalechina/Agent-Learning-Hub.md) | ⭐ 7,630 | 2026-09-03 | AI Agent 学习路线与资料库收集 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [platzi/git-github](../repos/platzi/git-github.md) | ⭐ 1,904 | 2026-09-03 | Repositorio del Curso de Git y GitHub |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 40,978 | 2026-09-03 | 浙江大学课程攻略共享计划 |
 
 
 ---
@@ -83,7 +86,7 @@
 | [fengdu78/Coursera-ML-AndrewNg-Notes](../repos/fengdu78/Coursera-ML-AndrewNg-Notes.md) | ⭐ 37,699 | 2026-09-06 | 1 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 37,645 | 2026-08-12 | 11 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,595 | 2026-08-09 | 8 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,800 | 2026-08-09 | 9 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,529 | 2026-08-19 | 7 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,532 | 2026-08-03 | 9 |
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
@@ -208,7 +211,8 @@
 - [zouzhekang/YJYpaper](../repos/zouzhekang/YJYpaper.md) - 一个用来记录武汉大学杨景媛论文问题的仓库
 - [rajhodedara/live-sport-plugin](../repos/rajhodedara/live-sport-plugin.md) - A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-ti...
 - [Tencent/weui](../repos/Tencent/weui.md) - A UI library by WeChat official design team, includes the most useful widgets&#x2F;modules in mobile w...
+- [promptpirate-x/discord-id-bypass-tool](../repos/promptpirate-x/discord-id-bypass-tool.md) - A verified tool that works on any potato computer that will let you bypass discord verification
 
 ---
 
-*Last updated: 2026-09-25T21:02:16.421Z*
+*Last updated: 2026-09-27T21:01:34.516Z*

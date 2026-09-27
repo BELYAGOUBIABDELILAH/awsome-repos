@@ -16,25 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,112 | 2026-08-01 | 39 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,118 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,589 | 2026-08-01 | 27 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,122 | 2026-08-01 | 24 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,577 | 2026-08-01 | 37 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,708 | 2026-08-02 | 30 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,494 | 2026-08-07 | 13 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [xapi-project/xen-api](../repos/xapi-project/xen-api.md) | ⭐ 367 | 2026-09-09 | 2 |
+| [xapi-project/xen-api](../repos/xapi-project/xen-api.md) | ⭐ 367 | 2026-09-09 | 3 |
 
 
 ---
@@ -61,7 +46,7 @@
 | [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,265 | 2026-08-05 | 7 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,589 | 2026-08-01 | 27 |
 | [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,494 | 2026-08-07 | 13 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,112 | 2026-08-01 | 39 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,118 | 2026-08-01 | 40 |
 | [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,353 | 2026-08-02 | 1 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,122 | 2026-08-01 | 24 |
 | [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,918 | 2026-08-01 | 25 |
@@ -74,7 +59,7 @@
 | [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 885 | 2026-08-03 | 12 |
 | [caffeinelabs/motoko](../repos/caffeinelabs/motoko.md) | ⭐ 588 | 2026-08-01 | 5 |
 | [cryspen/hax](../repos/cryspen/hax.md) | ⭐ 464 | 2026-08-03 | 3 |
-| [xapi-project/xen-api](../repos/xapi-project/xen-api.md) | ⭐ 367 | 2026-09-09 | 2 |
+| [xapi-project/xen-api](../repos/xapi-project/xen-api.md) | ⭐ 367 | 2026-09-09 | 3 |
 
 ---
 
@@ -82,7 +67,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 39 | ⭐ 3,112 | 2026-08-01 | 2026-09-25 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 40 | ⭐ 3,118 | 2026-08-01 | 2026-09-27 |
 | [ocaml/ocaml](../repos/ocaml/ocaml.md) | 37 | ⭐ 6,577 | 2026-08-01 | 2026-09-25 |
 | [facebook/infer](../repos/facebook/infer.md) | 30 | ⭐ 15,708 | 2026-08-02 | 2026-09-25 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 27 | ⭐ 5,589 | 2026-08-01 | 2026-09-25 |
@@ -121,4 +106,4 @@
 
 ---
 
-*Last updated: 2026-09-25T21:02:16.453Z*
+*Last updated: 2026-09-27T21:01:34.542Z*

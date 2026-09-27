@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 31
+- **Total Repositories**: 32
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-25
+- **Last Updated**: 2026-09-27
 
 ---
 
@@ -16,22 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,960 | 2026-08-01 | 14 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,685 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,677 | 2026-08-01 | 40 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,088 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,088 | 2026-08-01 | 40 |
+| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 300 | 2026-08-08 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agda/agda](../repos/agda/agda.md) | ⭐ 2,933 | 2026-08-03 | 21 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 298 | 2026-08-08 | 20 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [channable/icepeak](../repos/channable/icepeak.md) | ⭐ 135 | 2026-09-25 | 1 |
+| [rzk-lang/rzk](../repos/rzk-lang/rzk.md) | ⭐ 298 | 2026-09-27 | 1 |
 
 
 ---
@@ -53,6 +47,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [channable/icepeak](../repos/channable/icepeak.md) | ⭐ 135 | 2026-09-25 | Icepeak is a fast JSON document store with push notification support. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rzk-lang/rzk](../repos/rzk-lang/rzk.md) | ⭐ 298 | 2026-09-27 | An experimental proof assistant based on a type theory for synthetic ∞-categories. |
 
 
 ---
@@ -61,8 +58,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,088 | 2026-08-01 | 40 |
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,677 | 2026-08-01 | 40 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,088 | 2026-08-01 | 41 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,685 | 2026-08-01 | 41 |
 | [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,908 | 2026-08-08 | 3 |
 | [elm/compiler](../repos/elm/compiler.md) | ⭐ 7,901 | 2026-08-09 | 4 |
 | [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,721 | 2026-08-06 | 7 |
@@ -88,11 +85,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 40 | ⭐ 27,677 | 2026-08-01 | 2026-09-25 |
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 40 | ⭐ 40,088 | 2026-08-01 | 2026-09-25 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 41 | ⭐ 27,685 | 2026-08-01 | 2026-09-27 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 41 | ⭐ 40,088 | 2026-08-01 | 2026-09-27 |
 | [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 33 | ⭐ 1,819 | 2026-08-01 | 2026-09-20 |
 | [agda/agda](../repos/agda/agda.md) | 21 | ⭐ 2,933 | 2026-08-03 | 2026-09-25 |
-| [mtolly/onyx](../repos/mtolly/onyx.md) | 20 | ⭐ 298 | 2026-08-08 | 2026-09-25 |
+| [mtolly/onyx](../repos/mtolly/onyx.md) | 21 | ⭐ 300 | 2026-08-08 | 2026-09-27 |
 | [haskell/cabal](../repos/haskell/cabal.md) | 18 | ⭐ 1,744 | 2026-08-01 | 2026-09-20 |
 | [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 18 | ⭐ 3,179 | 2026-08-01 | 2026-09-24 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 14 | ⭐ 2,960 | 2026-08-01 | 2026-09-25 |
@@ -134,7 +131,8 @@
 - [carp-lang/Carp](../repos/carp-lang/Carp.md) - A statically typed lisp, without a GC, for real-time applications.
 - [qualcomm/QAIC](../repos/qualcomm/QAIC.md) - 
 - [channable/icepeak](../repos/channable/icepeak.md) - Icepeak is a fast JSON document store with push notification support.
+- [rzk-lang/rzk](../repos/rzk-lang/rzk.md) - An experimental proof assistant based on a type theory for synthetic ∞-categories.
 
 ---
 
-*Last updated: 2026-09-25T21:02:16.424Z*
+*Last updated: 2026-09-27T21:01:34.518Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 57,475 |
-| **Forks** | 🍴 5,744 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 57,493 |
+| **Forks** | 🍴 5,751 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 25, 2026 |
+| **Last Seen** | Sep 27, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-25T21:02:18.551Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-27T21:01:36.830Z*  
+*Data from 3 trending reports*
