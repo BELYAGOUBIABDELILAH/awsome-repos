@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 254
+- **Total Repositories**: 259
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-25
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 103,415 | 2026-07-30 | 4 |
+| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 12,216 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) | ⭐ 37,058 | 2026-08-09 | 4 |
+| [alirezarezvani/claude-skills](../repos/alirezarezvani/claude-skills.md) | ⭐ 26,764 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 39,777 | 2026-08-22 | 10 |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 285,114 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/Model-Optimizer](../repos/NVIDIA/Model-Optimizer.md) | ⭐ 4,925 | 2026-09-24 | 3 |
+| [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) | ⭐ 40,803 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [derv82/wifit3](../repos/derv82/wifit3.md) | ⭐ 1,401 | 2026-09-25 | 2 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 43,605 | 2026-08-22 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/data-formulator](../repos/microsoft/data-formulator.md) | ⭐ 17,425 | 2026-09-27 | 1 |
+| [ashhart/TensorFold](../repos/ashhart/TensorFold.md) | ⭐ 551 | 2026-09-28 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [microsoft/SkillOpt](../repos/microsoft/SkillOpt.md) | ⭐ 17,793 | 2026-09-28 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [samugit83/redamon](../repos/samugit83/redamon.md) | ⭐ 2,745 | 2026-09-28 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Rizzo-AI-Academy/rizzo-pii](../repos/Rizzo-AI-Academy/rizzo-pii.md) | ⭐ 1,097 | 2026-09-28 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [mealie-recipes/mealie](../repos/mealie-recipes/mealie.md) | ⭐ 13,365 | 2026-09-28 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 30,158 | 2026-08-29 | Fully automatic censorship removal for language models |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [warpdotdev/common-skills](../repos/warpdotdev/common-skills.md) | ⭐ 346 | 2026-08-29 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [yifanfeng97/Hyper-Extract](../repos/yifanfeng97/Hyper-Extract.md) | ⭐ 3,720 | 2026-08-29 | Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Gra... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [lingfengQAQ/webnovel-writer](../repos/lingfengQAQ/webnovel-writer.md) | ⭐ 6,844 | 2026-08-29 | 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [alchaincyf/nuwa-skill](../repos/alchaincyf/nuwa-skill.md) | ⭐ 31,667 | 2026-08-29 | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ayghri/i-have-adhd](../repos/ayghri/i-have-adhd.md) | ⭐ 43,321 | 2026-08-29 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 46,418 | 2026-09-01 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
@@ -68,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apurvsinghgautam/robin](../repos/apurvsinghgautam/robin.md) | ⭐ 6,907 | 2026-09-01 | AI-Powered Dark Web OSINT Tool |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mujocolab/mjlab](../repos/mujocolab/mjlab.md) | ⭐ 2,937 | 2026-09-01 | Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NVIDIA/SkillSpector](../repos/NVIDIA/SkillSpector.md) | ⭐ 16,276 | 2026-09-01 | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks,... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [noonghunna/club-3090](../repos/noonghunna/club-3090.md) | ⭐ 2,146 | 2026-09-01 | Community recipes for serving LLMs on RTX 3090&#x2F;4090&#x2F;5090 CUDA gpus. Multi-engine (vLLM, llama.cpp... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sngyai/Sequoia-X](../repos/sngyai/Sequoia-X.md) | ⭐ 6,724 | 2026-09-02 | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zubair-trabzada/geo-seo-claude](../repos/zubair-trabzada/geo-seo-claude.md) | ⭐ 10,168 | 2026-09-02 | GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citab... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PDFMathTranslate/PDFMathTranslate](../repos/PDFMathTranslate/PDFMathTranslate.md) | ⭐ 36,627 | 2026-09-02 | [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全... |
 
 
 ---
@@ -79,7 +91,7 @@
 | [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 483,206 | 2026-08-01 | 8 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 368,341 | 2026-08-03 | 6 |
 | [vinta/awesome-python](../repos/vinta/awesome-python.md) | ⭐ 319,105 | 2026-09-07 | 1 |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 278,836 | 2026-08-08 | 3 |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 285,114 | 2026-08-08 | 4 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 191,157 | 2026-08-02 | 7 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,465 | 2026-08-06 | 8 |
@@ -106,10 +118,10 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 12 | ⭐ 125,514 | 2026-08-01 | 2026-09-24 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 11 | ⭐ 43,605 | 2026-08-22 | 2026-09-28 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 10 | ⭐ 41,423 | 2026-08-03 | 2026-09-01 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 10 | ⭐ 106,016 | 2026-08-08 | 2026-09-14 |
 | [cactus-compute/needle](../repos/cactus-compute/needle.md) | 10 | ⭐ 12,523 | 2026-08-11 | 2026-09-24 |
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 10 | ⭐ 39,777 | 2026-08-22 | 2026-09-27 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 9 | ⭐ 1,384 | 2026-08-01 | 2026-08-28 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 9 | ⭐ 55,947 | 2026-08-03 | 2026-09-25 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 9 | ⭐ 39,719 | 2026-08-03 | 2026-09-09 |
@@ -221,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.553Z*
+*Last updated: 2026-09-28T21:01:49.206Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Swift |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 10,862 |
-| **Forks** | 🍴 1,044 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 10,901 |
+| **Forks** | 🍴 1,058 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Sep 25, 2026 |
+| **Last Seen** | Sep 28, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Swift or similar-topics*
+*Similar: Check repositories in Swift or boring*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 2 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-
+[`boring`](../../topics/boring.md) [`boringname`](../../topics/boringname.md) 
 
 ### Curated Categories
 `General` 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:38.551Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-09-28T21:01:53.030Z*  
+*Data from 10 trending reports*

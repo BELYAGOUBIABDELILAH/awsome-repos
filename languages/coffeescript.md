@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,062 | 2026-08-01 | 31 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,062 | 2026-08-01 | 32 |
 
 
 ---
@@ -35,7 +35,7 @@
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,616 | 2026-08-01 | 17 |
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,781 | 2026-08-01 | 3 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,598 | 2026-08-09 | 2 |
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,062 | 2026-08-01 | 31 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,062 | 2026-08-01 | 32 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,151 | 2026-08-06 | 8 |
 
 ---
@@ -44,7 +44,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 31 | ⭐ 16,062 | 2026-08-01 | 2026-09-27 |
+| [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 32 | ⭐ 16,062 | 2026-08-01 | 2026-09-28 |
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 17 | ⭐ 22,616 | 2026-08-01 | 2026-09-25 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 8 | ⭐ 1,151 | 2026-08-06 | 2026-08-24 |
 | [mojs/mojs](../repos/mojs/mojs.md) | 3 | ⭐ 18,781 | 2026-08-01 | 2026-09-24 |
@@ -62,4 +62,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.495Z*
+*Last updated: 2026-09-28T21:01:49.150Z*

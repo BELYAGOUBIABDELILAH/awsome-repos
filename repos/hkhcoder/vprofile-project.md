@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | CSS |
 | **License** | Not specified |
-| **Stars** | ⭐ 1,445 |
-| **Forks** | 🍴 7,860 |
-| **Trending Days** | 40 |
+| **Stars** | ⭐ 1,446 |
+| **Forks** | 🍴 7,862 |
+| **Trending Days** | 41 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 27, 2026 |
+| **Last Seen** | Sep 28, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 40
+- **Trending Days**: 41
 - **Longest Streak**: 12 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 1,445+ stars, strong contributor base |
+| **Community** | Very Active | 1,446+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:37.165Z*  
-*Data from 40 trending reports*
+*Last updated: 2026-09-28T21:01:51.845Z*  
+*Data from 41 trending reports*

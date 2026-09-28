@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 140
+- **Total Repositories**: 141
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-24
 
@@ -16,34 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | ⭐ 1,175 | 2026-08-02 | 11 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,530 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) | ⭐ 3,394 | 2026-08-02 | 8 |
+| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 1,914 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,963 | 2026-08-03 | 11 |
+| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,356 | 2026-08-10 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 1,903 | 2026-08-04 | 7 |
+| [wgtunnel/android](../repos/wgtunnel/android.md) | ⭐ 3,214 | 2026-08-15 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cwuom/NeriPlayer](../repos/cwuom/NeriPlayer.md) | ⭐ 3,569 | 2026-08-05 | 6 |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,334 | 2026-09-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WinNative-Emu/WinNative](../repos/WinNative-Emu/WinNative.md) | ⭐ 638 | 2026-08-08 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,334 | 2026-08-10 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) | ⭐ 6,579 | 2026-08-16 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [jellyfin/jellyfin-androidtv](../repos/jellyfin/jellyfin-androidtv.md) | ⭐ 4,584 | 2026-08-24 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [CCBlueX/LiquidBounce](../repos/CCBlueX/LiquidBounce.md) | ⭐ 2,397 | 2026-08-24 | 2 |
+| [Codename-11/hermes-relay](../repos/Codename-11/hermes-relay.md) | ⭐ 281 | 2026-09-28 | 1 |
 
 
 ---
@@ -67,7 +55,7 @@
 | [Mygod/VPNHotspot](../repos/Mygod/VPNHotspot.md) | ⭐ 6,415 | 2026-09-07 | Share your VPN connection over hotspot or repeater! (root required) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,317 | 2026-09-07 | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin&#x2F;Compose Multiplatform |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,334 | 2026-09-07 | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin&#x2F;Compose Multiplatform |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [IacobIonut01/ReFra](../repos/IacobIonut01/ReFra.md) | ⭐ 2,756 | 2026-09-08 | Media Gallery app for Android made with Jetpack Compose |
@@ -101,13 +89,13 @@
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,872 | 2026-08-02 | 5 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,852 | 2026-08-01 | 7 |
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,317 | 2026-09-07 | 5 |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,334 | 2026-09-07 | 6 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,820 | 2026-08-17 | 4 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,755 | 2026-08-02 | 7 |
 | [ktorio/ktor](../repos/ktorio/ktor.md) | ⭐ 14,525 | 2026-09-12 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,644 | 2026-08-06 | 7 |
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,337 | 2026-08-02 | 10 |
+| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,356 | 2026-08-10 | 7 |
 
 ---
 
@@ -117,8 +105,8 @@
 |------------|---------------|-------|------------|-----------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 15 | ⭐ 63,062 | 2026-08-02 | 2026-09-24 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 15 | ⭐ 30,610 | 2026-08-08 | 2026-09-25 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 14 | ⭐ 2,530 | 2026-08-02 | 2026-09-28 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 13 | ⭐ 23,718 | 2026-08-01 | 2026-09-20 |
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 13 | ⭐ 2,476 | 2026-08-02 | 2026-09-22 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 13 | ⭐ 53,585 | 2026-08-06 | 2026-09-19 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 12 | ⭐ 10,776 | 2026-08-03 | 2026-09-25 |
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 12 | ⭐ 845 | 2026-08-05 | 2026-09-12 |
@@ -221,7 +209,7 @@
 - [sky-map-team/stardroid](../repos/sky-map-team/stardroid.md) - Sky Map (formerly Google Sky Map, open sourced in 2012)
 - [OuterTune/OuterTune](../repos/OuterTune/OuterTune.md) - A Material 3 Music Player for Android with local file &amp; YouTube Music support. Forked from InnerTune
 - [tristinbaker/IdleFantasy](../repos/tristinbaker/IdleFantasy.md) - Fantasy Inspired Idle Skilling Game
-- [wgtunnel/android](../repos/wgtunnel/android.md) - A FOSS WireGuard &amp; AmneziaWG Android client with auto-tunneling, lockdown &amp; local proxying.
+- [wgtunnel/android](../repos/wgtunnel/android.md) - An advanced, open-source client for WireGuard and AmneziaWG on Android.
 - [osfans/trime](../repos/osfans/trime.md) - 同文安卓輸入法平臺3.x&#x2F;Android-rime&#x2F;Rime Input Method Engine for Android
 - [SpaceNeuroX/proxy-turn-vk-android](../repos/SpaceNeuroX/proxy-turn-vk-android.md) - 
 - [keiyoushi/extensions-source](../repos/keiyoushi/extensions-source.md) - Source code of extensions in https:&#x2F;&#x2F;github.com&#x2F;keiyoushi&#x2F;extensions
@@ -233,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.530Z*
+*Last updated: 2026-09-28T21:01:49.182Z*

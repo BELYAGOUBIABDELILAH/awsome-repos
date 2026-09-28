@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 207
+- **Total Repositories**: 205
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 27,150 | 2026-08-02 | 5 |
+| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,382 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 19,204 | 2026-08-02 | 10 |
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 27,177 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,693 | 2026-08-02 | 14 |
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 19,223 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git/git](../repos/git/git.md) | ⭐ 63,387 | 2026-08-05 | 6 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,742 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bol-van/zapret2](../repos/bol-van/zapret2.md) | ⭐ 5,545 | 2026-08-16 | 6 |
+| [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 26,892 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/open-gpu-kernel-modules](../repos/NVIDIA/open-gpu-kernel-modules.md) | ⭐ 17,429 | 2026-08-19 | 8 |
+| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 6,772 | 2026-08-08 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRDP/FreeRDP](../repos/FreeRDP/FreeRDP.md) | ⭐ 13,740 | 2026-08-20 | 7 |
+| [86Box/86Box](../repos/86Box/86Box.md) | ⭐ 4,849 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espeak-ng/espeak-ng](../repos/espeak-ng/espeak-ng.md) | ⭐ 6,885 | 2026-08-27 | 2 |
+| [reactos/reactos](../repos/reactos/reactos.md) | ⭐ 18,140 | 2026-08-16 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Filoppi/Luma-Framework](../repos/Filoppi/Luma-Framework.md) | ⭐ 853 | 2026-09-02 | 3 |
+| [yugabyte/yugabyte-db](../repos/yugabyte/yugabyte-db.md) | ⭐ 10,565 | 2026-08-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xroche/httrack](../repos/xroche/httrack.md) | ⭐ 4,770 | 2026-09-05 | 2 |
+| [FreeRDP/FreeRDP](../repos/FreeRDP/FreeRDP.md) | ⭐ 13,750 | 2026-08-20 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/WSL2-Linux-Kernel](../repos/microsoft/WSL2-Linux-Kernel.md) | ⭐ 10,548 | 2026-08-29 | The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [capstone-engine/capstone](../repos/capstone-engine/capstone.md) | ⭐ 9,014 | 2026-08-29 | Capstone disassembly&#x2F;disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [merbanan/rtl_433](../repos/merbanan/rtl_433.md) | ⭐ 7,822 | 2026-09-01 | Program to decode radio transmissions from devices on the ISM bands (and other frequencies) |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [maharmstone/btrfs](../repos/maharmstone/btrfs.md) | ⭐ 7,724 | 2026-09-03 | WinBtrfs - an open-source btrfs driver for Windows |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [eunomia-bpf/agentsight](../repos/eunomia-bpf/agentsight.md) | ⭐ 663 | 2026-09-03 | lightweight system-level observability for AI Agents |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [raspberrypi/linux](../repos/raspberrypi/linux.md) | ⭐ 13,135 | 2026-09-03 | Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel ... |
 
 
 ---
@@ -91,7 +91,7 @@
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,145 | 2026-08-07 | 12 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,013 | 2026-08-01 | 18 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,470 | 2026-08-24 | 3 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,693 | 2026-08-02 | 14 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,742 | 2026-08-02 | 15 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 71,457 | 2026-08-01 | 18 |
 | [git/git](../repos/git/git.md) | ⭐ 63,387 | 2026-08-05 | 6 |
@@ -121,8 +121,8 @@
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 18 | ⭐ 71,457 | 2026-08-01 | 2026-09-19 |
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 17 | ⭐ 16,608 | 2026-08-06 | 2026-09-24 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 16 | ⭐ 27,819 | 2026-08-07 | 2026-09-10 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 15 | ⭐ 76,742 | 2026-08-02 | 2026-09-28 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 15 | ⭐ 6,952 | 2026-08-04 | 2026-09-09 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 14 | ⭐ 76,693 | 2026-08-02 | 2026-09-27 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 12 | ⭐ 150,145 | 2026-08-07 | 2026-09-21 |
 | [libuv/libuv](../repos/libuv/libuv.md) | 11 | ⭐ 27,199 | 2026-08-01 | 2026-09-25 |
 
@@ -156,7 +156,6 @@
 - [mpv-player/mpv](../repos/mpv-player/mpv.md) - 🎥 Command line media player
 - [TsudaKageyu/minhook](../repos/TsudaKageyu/minhook.md) - The Minimalistic x86&#x2F;x64 API Hooking Library for Windows
 - [olikraus/u8g2](../repos/olikraus/u8g2.md) - U8glib library for monochrome displays, version 2 
-- [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) - Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.
 - [bmax121/KernelPatch](../repos/bmax121/KernelPatch.md) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
 - [mgba-emu/mgba](../repos/mgba-emu/mgba.md) - mGBA Game Boy Advance Emulator
 - [flipperdevices/flipperzero-firmware](../repos/flipperdevices/flipperzero-firmware.md) - Flipper Zero firmware source code
@@ -188,7 +187,6 @@
 - [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, s...
 - [esnet/iperf](../repos/esnet/iperf.md) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [uber/h3](../repos/uber/h3.md) - Hexagonal hierarchical geospatial indexing system
-- [srwi/EverythingToolbar](../repos/srwi/EverythingToolbar.md) - Everything integration for the Windows taskbar.
 - [nrfconnect/sdk-nrf](../repos/nrfconnect/sdk-nrf.md) - nRF Connect SDK main repository
 - [google/XNNPACK](../repos/google/XNNPACK.md) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
 - [timescale/timescaledb](../repos/timescale/timescaledb.md) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
@@ -230,7 +228,9 @@
 - [nuta/operating-system-in-1000-lines](../repos/nuta/operating-system-in-1000-lines.md) - Writing an OS in 1,000 lines.
 - [superturtlee/gbl_root_canoe](../repos/superturtlee/gbl_root_canoe.md) - No TrickyStore on Canoe
 - [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital hu...
+- [microsoft/msquic](../repos/microsoft/msquic.md) - Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
+- [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) - An open and affordable mini quadruped robot based on ESP32.
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.476Z*
+*Last updated: 2026-09-28T21:01:49.132Z*

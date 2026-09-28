@@ -16,13 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,438 | 2026-08-01 | 42 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,382 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,378 | 2026-08-01 | 36 |
+| [Tymeslot/tymeslot](../repos/Tymeslot/tymeslot.md) | ⭐ 216 | 2026-09-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,172 | 2026-08-03 | 32 |
+| [agentjido/req_llm](../repos/agentjido/req_llm.md) | ⭐ 589 | 2026-09-22 | 3 |
 
 
 ---
@@ -34,7 +34,7 @@
 | [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,506 | 2026-09-01 | A declarative, extensible framework for building Elixir applications. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Tymeslot/tymeslot](../repos/Tymeslot/tymeslot.md) | ⭐ 214 | 2026-09-01 | Open-source meeting scheduling platform built with Elixir&#x2F;Phoenix LiveView. Self-host or use the ... |
+| [Tymeslot/tymeslot](../repos/Tymeslot/tymeslot.md) | ⭐ 216 | 2026-09-01 | Open-source meeting scheduling platform built with Elixir&#x2F;Phoenix LiveView. Self-host or use the ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PSPDFKit-labs/bypass](../repos/PSPDFKit-labs/bypass.md) | ⭐ 1,000 | 2026-09-02 | Bypass provides a quick way to create a custom plug that can be put in place instead of an actual... |
@@ -78,7 +78,7 @@
 | [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,484 | 2026-08-06 | 1 |
 | [papercups-io/papercups](../repos/papercups-io/papercups.md) | ⭐ 6,113 | 2026-09-21 | 2 |
 | [livebook-dev/livebook](../repos/livebook-dev/livebook.md) | ⭐ 5,862 | 2026-08-05 | 5 |
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,378 | 2026-08-01 | 36 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,382 | 2026-08-01 | 37 |
 | [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,506 | 2026-09-01 | 6 |
 | [expert-lsp/expert](../repos/expert-lsp/expert.md) | ⭐ 2,048 | 2026-08-01 | 6 |
 | [mtrudel/bandit](../repos/mtrudel/bandit.md) | ⭐ 1,915 | 2026-08-22 | 1 |
@@ -97,7 +97,7 @@
 | [openai/symphony](../repos/openai/symphony.md) | 42 | ⭐ 27,438 | 2026-08-01 | 2026-09-27 |
 | [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 40 | ⭐ 26,678 | 2026-08-01 | 2026-09-25 |
 | [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 40 | ⭐ 9,040 | 2026-08-02 | 2026-09-25 |
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 36 | ⭐ 5,378 | 2026-08-01 | 2026-09-27 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 37 | ⭐ 5,382 | 2026-08-01 | 2026-09-28 |
 | [firezone/firezone](../repos/firezone/firezone.md) | 36 | ⭐ 9,102 | 2026-08-02 | 2026-09-21 |
 | [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 32 | ⭐ 23,172 | 2026-08-03 | 2026-09-27 |
 | [open-telemetry/opentelemetry-erlang-contrib](../repos/open-telemetry/opentelemetry-erlang-contrib.md) | 25 | ⭐ 219 | 2026-08-01 | 2026-09-09 |
@@ -156,4 +156,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.503Z*
+*Last updated: 2026-09-28T21:01:49.158Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Lua |
 | **License** | LGPL-3.0 |
-| **Stars** | ⭐ 408 |
-| **Forks** | 🍴 743 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 417 |
+| **Forks** | 🍴 746 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Aug 9, 2026 |
+| **Last Seen** | Sep 28, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 408+ stars, strong contributor base |
+| **Community** | Very Active | 417+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-27T21:01:38.990Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-28T21:01:53.441Z*  
+*Data from 2 trending reports*

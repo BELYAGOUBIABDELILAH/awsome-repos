@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Objective-C |
 | **License** | MIT |
-| **Stars** | ⭐ 519 |
-| **Forks** | 🍴 295 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 526 |
+| **Forks** | 🍴 303 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Aug 10, 2026 |
+| **Last Seen** | Sep 28, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`jailbreak`](../../topics/jailbreak.md) [`jailbreak-detection-bypass`](../../topics/jailbreak-detection-bypass.md) [`logos`](../../topics/logos.md) [`theos`](../../topics/theos.md) [`theos-tweak`](../../topics/theos-tweak.md) 
+[`jailbreak`](../../topics/jailbreak.md) [`jailbreak-detection-bypass`](../../topics/jailbreak-detection-bypass.md) [`logos`](../../topics/logos.md) [`roothide`](../../topics/roothide.md) [`theos`](../../topics/theos.md) [`theos-tweak`](../../topics/theos-tweak.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Systems Programming` 
+`Artificial Intelligence` `Systems Programming` `Developer Tools` 
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 519+ stars, strong contributor base |
+| **Community** | Very Active | 526+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-27T21:01:39.004Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-28T21:01:53.453Z*  
+*Data from 3 trending reports*

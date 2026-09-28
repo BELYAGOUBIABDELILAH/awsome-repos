@@ -8,14 +8,16 @@
 
 - **Total Repositories**: 1
 - **First Seen**: 2026-08-19
-- **Last Updated**: 2026-08-19
+- **Last Updated**: 2026-09-28
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [NawfalMotii79/PLFM_RADAR](../repos/NawfalMotii79/PLFM_RADAR.md) | ⭐ 25,711 | 2026-08-19 | 2 |
 
-*No PLSQL repositories trending today*
 
 ---
 
@@ -30,7 +32,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NawfalMotii79/PLFM_RADAR](../repos/NawfalMotii79/PLFM_RADAR.md) | ⭐ 24,288 | 2026-08-19 | 1 |
+| [NawfalMotii79/PLFM_RADAR](../repos/NawfalMotii79/PLFM_RADAR.md) | ⭐ 25,711 | 2026-08-19 | 2 |
 
 ---
 
@@ -38,7 +40,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [NawfalMotii79/PLFM_RADAR](../repos/NawfalMotii79/PLFM_RADAR.md) | 1 | ⭐ 24,288 | 2026-08-19 | 2026-08-19 |
+| [NawfalMotii79/PLFM_RADAR](../repos/NawfalMotii79/PLFM_RADAR.md) | 2 | ⭐ 25,711 | 2026-08-19 | 2026-09-28 |
 
 ---
 
@@ -48,4 +50,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.548Z*
+*Last updated: 2026-09-28T21:01:49.199Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 167
+- **Total Repositories**: 169
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-25
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [modelcontextprotocol/csharp-sdk](../repos/modelcontextprotocol/csharp-sdk.md) | ⭐ 4,550 | 2026-08-01 | 8 |
+| [openutau/OpenUtau](../repos/openutau/OpenUtau.md) | ⭐ 4,340 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,443 | 2026-08-01 | 7 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 29,746 | 2026-08-02 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 29,595 | 2026-08-02 | 25 |
+| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 16,097 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 16,088 | 2026-08-02 | 7 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 16,635 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 15,755 | 2026-08-02 | 17 |
+| [srwi/EverythingToolbar](../repos/srwi/EverythingToolbar.md) | ⭐ 14,819 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 16,605 | 2026-08-03 | 12 |
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,793 | 2026-08-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Goob-Station/Goob-Station](../repos/Goob-Station/Goob-Station.md) | ⭐ 236 | 2026-08-08 | 2 |
+| [bbepis/XUnity.AutoTranslator](../repos/bbepis/XUnity.AutoTranslator.md) | ⭐ 3,433 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ed0ard/CS2-Bot-Improver](../repos/ed0ard/CS2-Bot-Improver.md) | ⭐ 1,179 | 2026-09-05 | 6 |
+| [Tianyu199509/DeskBox](../repos/Tianyu199509/DeskBox.md) | ⭐ 5,780 | 2026-09-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ProwlEngine/Prowl](../repos/ProwlEngine/Prowl.md) | ⭐ 1,220 | 2026-09-12 | 2 |
+| [RayWangQvQ/BiliBiliToolPro](../repos/RayWangQvQ/BiliBiliToolPro.md) | ⭐ 8,875 | 2026-09-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tianyu199509/DeskBox](../repos/Tianyu199509/DeskBox.md) | ⭐ 5,610 | 2026-09-27 | 1 |
+| [smartstore/Smartstore](../repos/smartstore/Smartstore.md) | ⭐ 1,693 | 2026-09-28 | 1 |
 
 
 ---
@@ -92,14 +92,14 @@
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,905 | 2026-08-02 | 17 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,513 | 2026-08-06 | 11 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,350 | 2026-08-01 | 9 |
-| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,644 | 2026-08-14 | 3 |
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,793 | 2026-08-14 | 4 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,844 | 2026-08-03 | 8 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,460 | 2026-08-01 | 15 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,235 | 2026-08-01 | 17 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,038 | 2026-08-28 | 2 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 29,746 | 2026-08-02 | 26 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 29,595 | 2026-08-02 | 25 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,603 | 2026-08-05 | 11 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,957 | 2026-08-10 | 4 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,140 | 2026-08-01 | 7 |
@@ -115,7 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 25 | ⭐ 29,595 | 2026-08-02 | 2026-09-27 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 26 | ⭐ 29,746 | 2026-08-02 | 2026-09-28 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 22 | ⭐ 116,992 | 2026-08-02 | 2026-09-25 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 20 | ⭐ 5,482 | 2026-08-03 | 2026-09-25 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 17 | ⭐ 31,235 | 2026-08-01 | 2026-09-25 |
@@ -184,6 +184,7 @@
 - [mcmonkeyprojects/SwarmUI](../repos/mcmonkeyprojects/SwarmUI.md) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis...
 - [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [Azure/azure-cosmos-dotnet-v3](../repos/Azure/azure-cosmos-dotnet-v3.md) - .NET SDK for Azure Cosmos DB for the core SQL API
+- [srwi/EverythingToolbar](../repos/srwi/EverythingToolbar.md) - Everything integration for the Windows taskbar.
 - [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) - PowerShell for every system!
 - [Azure/azure-powershell](../repos/Azure/azure-powershell.md) - Microsoft Azure PowerShell
 - [dotnet/arcade](../repos/dotnet/arcade.md) - Tools that provide common build infrastructure for multiple .NET Foundation projects.
@@ -229,8 +230,7 @@
 - [YSGStudyHards/DotNetGuide](../repos/YSGStudyHards/DotNetGuide.md) - 🌈【C#&#x2F;.NET&#x2F;.NET Core学习、工作、面试指南】记录、收集和总结C#&#x2F;.NET&#x2F;.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组...
 - [dotnet/orleans](../repos/dotnet/orleans.md) - Cloud Native application framework for .NET
 - [database64128/youtube-dl-wpf](../repos/database64128/youtube-dl-wpf.md) - WPF GUI for youtube-dl and yt-dlp.
-- [Bannerlord-Coop-Team/BannerlordCoop](../repos/Bannerlord-Coop-Team/BannerlordCoop.md) - 
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.486Z*
+*Last updated: 2026-09-28T21:01:49.142Z*

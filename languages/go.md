@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 272
+- **Total Repositories**: 276
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-09-25
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,056 | 2026-07-31 | 10 |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,064 | 2026-07-31 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,053 | 2026-08-04 | 7 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,783 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openbao/openbao](../repos/openbao/openbao.md) | ⭐ 8,131 | 2026-08-07 | 3 |
+| [openbao/openbao](../repos/openbao/openbao.md) | ⭐ 8,175 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [putyy/res-downloader](../repos/putyy/res-downloader.md) | ⭐ 20,261 | 2026-08-10 | 4 |
+| [rorkai/App-Store-Connect-CLI](../repos/rorkai/App-Store-Connect-CLI.md) | ⭐ 7,507 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cli/cli](../repos/cli/cli.md) | ⭐ 46,428 | 2026-08-11 | 3 |
+| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 29,535 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trufflesecurity/trufflehog](../repos/trufflesecurity/trufflehog.md) | ⭐ 28,129 | 2026-08-12 | 5 |
+| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 20,785 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,237 | 2026-08-15 | 7 |
+| [fish2018/pansou](../repos/fish2018/pansou.md) | ⭐ 14,731 | 2026-09-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [obot-platform/obot](../repos/obot-platform/obot.md) | ⭐ 1,071 | 2026-09-12 | 2 |
+| [guohuiyuan/go-music-dl](../repos/guohuiyuan/go-music-dl.md) | ⭐ 4,961 | 2026-09-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-bug/git-bug](../repos/git-bug/git-bug.md) | ⭐ 10,608 | 2026-09-27 | 1 |
+| [AminMGMT/BackPack](../repos/AminMGMT/BackPack.md) | ⭐ 401 | 2026-09-21 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [daeuniverse/dae](../repos/daeuniverse/dae.md) | ⭐ 6,243 | 2026-09-27 | 1 |
+| [daeuniverse/dae](../repos/daeuniverse/dae.md) | ⭐ 6,255 | 2026-09-27 | 2 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [dapr/dapr](../repos/dapr/dapr.md) | ⭐ 26,042 | 2026-08-29 | Dapr is a portable runtime for building distributed applications across cloud and edge, combining... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [juanfont/headscale](../repos/juanfont/headscale.md) | ⭐ 43,439 | 2026-08-29 | An open source, self-hosted implementation of the Tailscale control server |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [amacneil/dbmate](../repos/amacneil/dbmate.md) | ⭐ 7,263 | 2026-08-29 | 🚀 A lightweight, framework-agnostic database migration tool. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bytebase/bytebase](../repos/bytebase/bytebase.md) | ⭐ 14,441 | 2026-08-29 | Database governance built for humans and agents — controlling changes and access across every maj... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [voocel/ainovel-cli](../repos/voocel/ainovel-cli.md) | ⭐ 1,862 | 2026-08-29 | ✨多agent实现全自动AI小说生成 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [BishopFox/sliver](../repos/BishopFox/sliver.md) | ⭐ 11,747 | 2026-08-29 | Adversary Emulation Framework |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [miniflux/v2](../repos/miniflux/v2.md) | ⭐ 9,638 | 2026-09-01 | Minimalist and opinionated feed reader |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kunchenguid/no-mistakes](../repos/kunchenguid/no-mistakes.md) | ⭐ 8,395 | 2026-09-01 | git push no-mistakes |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [fish2018/pansou](../repos/fish2018/pansou.md) | ⭐ 14,442 | 2026-09-02 | PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，... |
+| [fish2018/pansou](../repos/fish2018/pansou.md) | ⭐ 14,731 | 2026-09-02 | PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [slackhq/nebula](../repos/slackhq/nebula.md) | ⭐ 18,265 | 2026-09-02 | A scalable overlay networking tool with a focus on performance, simplicity and security |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [VictoriaMetrics/VictoriaMetrics](../repos/VictoriaMetrics/VictoriaMetrics.md) | ⭐ 17,639 | 2026-09-02 | VictoriaMetrics: fast, cost-effective monitoring solution and time series database |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kopia/kopia](../repos/kopia/kopia.md) | ⭐ 14,027 | 2026-09-03 | Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [gogs/gogs](../repos/gogs/gogs.md) | ⭐ 47,800 | 2026-09-03 | The painless way to host your own Git service |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jaegertracing/jaeger](../repos/jaegertracing/jaeger.md) | ⭐ 23,179 | 2026-09-03 | CNCF Jaeger, a Distributed Tracing Platform |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [crowdsecurity/crowdsec](../repos/crowdsecurity/crowdsec.md) | ⭐ 14,742 | 2026-09-03 | CrowdSec - the open-source and participative security solution offering crowdsourced protection a... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tbphp/gpt-load](../repos/tbphp/gpt-load.md) | ⭐ 6,959 | 2026-09-03 | Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription acc... |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 181,716 | 2026-08-01 | 14 |
-| [golang/go](../repos/golang/go.md) | ⭐ 139,056 | 2026-07-31 | 10 |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,064 | 2026-07-31 | 11 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,053 | 2026-08-04 | 7 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,237 | 2026-08-15 | 7 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,105 | 2026-08-06 | 10 |
@@ -106,7 +106,7 @@
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 51,008 | 2026-08-01 | 12 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
-| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,527 | 2026-08-06 | 6 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,783 | 2026-08-06 | 7 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 48,695 | 2026-08-01 | 15 |
 
 ---
@@ -122,7 +122,7 @@
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 14 | ⭐ 42,026 | 2026-08-07 | 2026-09-19 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 13 | ⭐ 38,014 | 2026-08-01 | 2026-09-22 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 12 | ⭐ 51,008 | 2026-08-01 | 2026-09-21 |
-| [golang/go](../repos/golang/go.md) | 10 | ⭐ 139,056 | 2026-07-31 | 2026-09-27 |
+| [golang/go](../repos/golang/go.md) | 11 | ⭐ 139,064 | 2026-07-31 | 2026-09-28 |
 | [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 10 | ⭐ 38,300 | 2026-08-03 | 2026-09-25 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 10 | ⭐ 91,105 | 2026-08-06 | 2026-09-21 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.511Z*
+*Last updated: 2026-09-28T21:01:49.165Z*

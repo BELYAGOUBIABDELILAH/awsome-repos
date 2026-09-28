@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 125
+- **Total Repositories**: 126
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiv3r/Burpsuite-Professional](../repos/xiv3r/Burpsuite-Professional.md) | ⭐ 3,143 | 2026-08-01 | 7 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,888 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,884 | 2026-08-01 | 6 |
+| [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) | ⭐ 718 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 6,529 | 2026-08-02 | 5 |
+| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 6,787 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,950 | 2026-08-07 | 5 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,749 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sergeydigl3/zapret-discord-youtube-linux](../repos/Sergeydigl3/zapret-discord-youtube-linux.md) | ⭐ 2,047 | 2026-08-16 | 3 |
+| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,426 | 2026-08-11 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sabamdarif/termux-desktop](../repos/sabamdarif/termux-desktop.md) | ⭐ 2,287 | 2026-09-06 | 4 |
+| [Sergeydigl3/zapret-discord-youtube-linux](../repos/Sergeydigl3/zapret-discord-youtube-linux.md) | ⭐ 2,052 | 2026-08-16 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZeroLu/awesome-seedance](../repos/ZeroLu/awesome-seedance.md) | ⭐ 2,560 | 2026-09-24 | 2 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,442 | 2026-08-20 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/esp-csi](../repos/espressif/esp-csi.md) | ⭐ 1,627 | 2026-09-25 | 2 |
+| [ophub/fnnas](../repos/ophub/fnnas.md) | ⭐ 3,346 | 2026-08-22 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BlackArch/blackarch](../repos/BlackArch/blackarch.md) | ⭐ 3,514 | 2026-09-27 | 1 |
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,747 | 2026-09-01 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [WhatsApp/proxy](../repos/WhatsApp/proxy.md) | ⭐ 2,356 | 2026-09-06 | 2 |
 
 
 ---
@@ -49,10 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 40,042 | 2026-08-29 | Beautiful, Modern &amp; Opinionated Linux |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,578 | 2026-09-01 | 最好用的 sing-box 一键安装脚本 &amp; 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议 |
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,747 | 2026-09-01 | 最好用的 sing-box 一键安装脚本 &amp; 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [raphabot/awesome-cybersecurity-agentic-ai](../repos/raphabot/awesome-cybersecurity-agentic-ai.md) | ⭐ 577 | 2026-09-01 |  |
@@ -73,10 +73,13 @@
 | [pystardust/ani-cli](../repos/pystardust/ani-cli.md) | ⭐ 13,729 | 2026-09-06 | A cli tool to browse and play anime |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [WhatsApp/proxy](../repos/WhatsApp/proxy.md) | ⭐ 2,340 | 2026-09-06 | This repository contains the WhatsApp proxy implementation for users to host their own proxy infr... |
+| [WhatsApp/proxy](../repos/WhatsApp/proxy.md) | ⭐ 2,356 | 2026-09-06 | This repository contains the WhatsApp proxy implementation for users to host their own proxy infr... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [hq450/fancyss](../repos/hq450/fancyss.md) | ⭐ 13,735 | 2026-09-06 | fancyss is a project providing tools to across the GFW on asuswrt&#x2F;merlin based router. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [aditya-shri/VPN](../repos/aditya-shri/VPN.md) | ⭐ 2,104 | 2026-09-06 | Personal VPN using Shadowsocks and v2ray |
 
 
 ---
@@ -90,10 +93,10 @@
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,417 | 2026-08-04 | 6 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,392 | 2026-08-06 | 10 |
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,691 | 2026-08-04 | 8 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,749 | 2026-08-04 | 9 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 40,042 | 2026-08-29 | 3 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,222 | 2026-08-20 | 8 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,442 | 2026-08-20 | 9 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,563 | 2026-09-02 | 2 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
@@ -120,8 +123,8 @@
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 12 | ⭐ 2,316 | 2026-08-02 | 2026-09-25 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 10 | ⭐ 2,865 | 2026-08-05 | 2026-09-19 |
 | [dockur/windows](../repos/dockur/windows.md) | 10 | ⭐ 53,392 | 2026-08-06 | 2026-09-24 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 9 | ⭐ 47,749 | 2026-08-04 | 2026-09-28 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 9 | ⭐ 25,582 | 2026-08-04 | 2026-09-01 |
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 9 | ⭐ 10,837 | 2026-08-07 | 2026-09-22 |
 
 ---
 
@@ -135,6 +138,7 @@
 - [Chachamaru127/claude-code-harness](../repos/Chachamaru127/claude-code-harness.md) - Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonom...
 - [void-linux/void-packages](../repos/void-linux/void-packages.md) - The Void source packages collection
 - [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) - Универсальный менеджер для обхода блокировок на OpenWrt
+- [lcdyk0517/arkos4clone](../repos/lcdyk0517/arkos4clone.md) - Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.
 - [basecamp/omarchy](../repos/basecamp/omarchy.md) - Beautiful, Modern &amp; Opinionated Linux
 - [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) - Docker configuration for running VLLM on dual DGX Sparks
 - [dockur/macos](../repos/dockur/macos.md) - MacOS inside a Docker container.
@@ -226,8 +230,7 @@
 - [aditya-shri/VPN](../repos/aditya-shri/VPN.md) - Personal VPN using Shadowsocks and v2ray
 - [sabamdarif/termux-desktop](../repos/sabamdarif/termux-desktop.md) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) a...
 - [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) - 面向数学建模竞赛的 Claude Code &#x2F; Codex Skills ，支持分阶段建模流程与 Python、MATLAB&#x2F;北太天元代码分支。
-- [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.567Z*
+*Last updated: 2026-09-28T21:01:49.219Z*

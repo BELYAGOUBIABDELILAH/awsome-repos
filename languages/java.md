@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 201
+- **Total Repositories**: 203
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-19
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | ⭐ 29,137 | 2026-08-02 | 12 |
+| [MojoLauncher/MojoLauncher](../repos/MojoLauncher/MojoLauncher.md) | ⭐ 1,003 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,935 | 2026-08-02 | 8 |
+| [LiteLDev/LeviLaunchroid](../repos/LiteLDev/LeviLaunchroid.md) | ⭐ 598 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,793 | 2026-08-02 | 8 |
+| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,245 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Creators-of-Create/Create](../repos/Creators-of-Create/Create.md) | ⭐ 4,535 | 2026-08-02 | 5 |
+| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,331 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,012 | 2026-08-02 | 12 |
+| [apache/flink](../repos/apache/flink.md) | ⭐ 26,372 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AntennaPod/AntennaPod](../repos/AntennaPod/AntennaPod.md) | ⭐ 8,188 | 2026-08-03 | 3 |
+| [questdb/questdb](../repos/questdb/questdb.md) | ⭐ 17,362 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MCRcortex/voxy](../repos/MCRcortex/voxy.md) | ⭐ 1,255 | 2026-08-03 | 4 |
+| [CaffeineMC/sodium](../repos/CaffeineMC/sodium.md) | ⭐ 5,784 | 2026-08-09 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 34,222 | 2026-08-04 | 13 |
+| [PojavLauncherTeam/PojavLauncher](../repos/PojavLauncherTeam/PojavLauncher.md) | ⭐ 9,402 | 2026-08-16 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,520 | 2026-08-04 | 13 |
+| [Card-Forge/forge](../repos/Card-Forge/forge.md) | ⭐ 2,751 | 2026-08-16 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) | ⭐ 28,276 | 2026-08-07 | 10 |
+| [iflytek/astron-agent](../repos/iflytek/astron-agent.md) | ⭐ 9,085 | 2026-09-06 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [flowable/flowable-engine](../repos/flowable/flowable-engine.md) | ⭐ 9,501 | 2026-08-29 | A compact and highly efficient workflow and Business Process Management (BPM) platform for develo... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google/gson](../repos/google/gson.md) | ⭐ 24,229 | 2026-09-01 | A Java serialization&#x2F;deserialization library to convert Java Objects into JSON and back |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Zoeille/picsou-finance](../repos/Zoeille/picsou-finance.md) | ⭐ 503 | 2026-09-04 | Self-hosted personal finance dashboard  Track bank accounts, brokerage, crypto, and net worth — a... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [spring-ai-alibaba/DataAgent](../repos/spring-ai-alibaba/DataAgent.md) | ⭐ 2,609 | 2026-09-05 | Spring AI Alibaba DataAgent |
 
 
 ---
@@ -93,7 +93,7 @@
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,012 | 2026-08-02 | 12 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 75,795 | 2026-08-03 | 14 |
-| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,234 | 2026-08-04 | 6 |
+| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,331 | 2026-08-04 | 7 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,249 | 2026-08-08 | 6 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,905 | 2026-08-02 | 11 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.521Z*
+*Last updated: 2026-09-28T21:01:49.174Z*

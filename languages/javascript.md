@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 142
+- **Total Repositories**: 144
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,46 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 142,790 | 2026-07-30 | 9 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 142,852 | 2026-07-30 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,494 | 2026-08-04 | 2 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 64,596 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fishjar/kiss-translator](../repos/fishjar/kiss-translator.md) | ⭐ 12,657 | 2026-08-10 | 3 |
+| [Axorax/awesome-free-apps](../repos/Axorax/awesome-free-apps.md) | ⭐ 7,781 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 3,873 | 2026-08-14 | 8 |
+| [fishjar/kiss-translator](../repos/fishjar/kiss-translator.md) | ⭐ 12,676 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 20,958 | 2026-08-16 | 3 |
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 31,676 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chuspeeism/dashi-ppt-skill](../repos/chuspeeism/dashi-ppt-skill.md) | ⭐ 8,880 | 2026-08-20 | 5 |
+| [mlmvpn/mlmvpn_windows](../repos/mlmvpn/mlmvpn_windows.md) | ⭐ 159 | 2026-09-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qist/tvbox](../repos/qist/tvbox.md) | ⭐ 11,510 | 2026-09-14 | 2 |
+| [crocodilestick/Calibre-Web-Automated](../repos/crocodilestick/Calibre-Web-Automated.md) | ⭐ 6,332 | 2026-09-28 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [androoAGI/starnet](../repos/androoAGI/starnet.md) | ⭐ 670 | 2026-09-24 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mlmvpn/mlmvpn_windows](../repos/mlmvpn/mlmvpn_windows.md) | ⭐ 150 | 2026-09-27 | 1 |
+| [huilang-me/CF-Server-Monitor](../repos/huilang-me/CF-Server-Monitor.md) | ⭐ 2,302 | 2026-09-28 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Stremio/stremio-web](../repos/Stremio/stremio-web.md) | ⭐ 13,671 | 2026-08-29 | Stremio - Freedom to Stream |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rabbitmq/rabbitmq-server](../repos/rabbitmq/rabbitmq-server.md) | ⭐ 13,822 | 2026-08-29 | Open source RabbitMQ: core server and tier 1 (built-in) plugins |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 7,851 | 2026-08-29 | Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [amElnagdy/delegate-skills](../repos/amElnagdy/delegate-skills.md) | ⭐ 1,783 | 2026-09-01 | Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself ... |
@@ -77,6 +65,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [facebook/stylex](../repos/facebook/stylex.md) | ⭐ 10,160 | 2026-09-03 | StyleX is the styling system for ambitious user interfaces. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [gchq/CyberChef](../repos/gchq/CyberChef.md) | ⭐ 35,754 | 2026-09-04 | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [maillab/cloud-mail](../repos/maillab/cloud-mail.md) | ⭐ 13,996 | 2026-09-06 | A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ilysenko/codex-desktop-linux](../repos/ilysenko/codex-desktop-linux.md) | ⭐ 3,772 | 2026-09-06 | Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s of... |
 
 
 ---
@@ -89,7 +86,7 @@
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | 2026-08-06 | 2 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 142,790 | 2026-07-30 | 9 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 142,852 | 2026-07-30 | 10 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 98,101 | 2026-08-05 | 21 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
@@ -98,7 +95,7 @@
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 71,131 | 2026-08-05 | 13 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,494 | 2026-08-04 | 2 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 63,363 | 2026-08-01 | 15 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 64,596 | 2026-08-01 | 16 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,420 | 2026-08-11 | 4 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
@@ -113,14 +110,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 21 | ⭐ 98,101 | 2026-08-05 | 2026-09-21 |
+| [byoungd/up](../repos/byoungd/up.md) | 16 | ⭐ 64,596 | 2026-08-01 | 2026-09-28 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 16 | ⭐ 43,692 | 2026-08-04 | 2026-09-02 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
-| [byoungd/up](../repos/byoungd/up.md) | 15 | ⭐ 63,363 | 2026-08-01 | 2026-09-20 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 13 | ⭐ 71,131 | 2026-08-05 | 2026-09-25 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 12 | ⭐ 3,368 | 2026-08-07 | 2026-09-20 |
+| [vercel/next.js](../repos/vercel/next.js.md) | 10 | ⭐ 142,852 | 2026-07-30 | 2026-09-28 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 10 | ⭐ 33,479 | 2026-08-02 | 2026-09-22 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 10 | ⭐ 28,819 | 2026-08-08 | 2026-09-19 |
-| [vercel/next.js](../repos/vercel/next.js.md) | 9 | ⭐ 142,790 | 2026-07-30 | 2026-09-27 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 9 | ⭐ 39,675 | 2026-08-06 | 2026-09-22 |
 
 ---
@@ -230,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.524Z*
+*Last updated: 2026-09-28T21:01:49.177Z*

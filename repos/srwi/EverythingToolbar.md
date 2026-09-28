@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | C |
+| **Language** | C# |
 | **License** | Other |
-| **Stars** | ⭐ 14,510 |
-| **Forks** | 🍴 556 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 14,819 |
+| **Forks** | 🍴 563 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Aug 6, 2026 |
+| **Last Seen** | Sep 28, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in C or deskband*
+*Similar: Check repositories in C# or deskband*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -68,11 +68,11 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Advanced | Requires systems programming knowledge |
+| **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in C
+- Check similar projects in C#
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-27T21:01:38.530Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-28T21:01:53.006Z*  
+*Data from 2 trending reports*

@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 460
+- **Total Repositories**: 467
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-07
-- **Average Stars**: 21063
+- **Average Stars**: 20884
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,244 | Rust |  |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,064 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,056 | Go |  |
+| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 12,216 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,760 | Ruby |  |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 21,455 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,073 | Scala |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,763 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,203 | Lua |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,535 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,975 | Vim Script |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,085 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,919 | V |  |
+| [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,741 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 27,150 | C |  |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 66,513 | HTML |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,693 | C |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 40,985 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [argotorg/solidity](../repos/argotorg/solidity.md) | ⭐ 25,744 | C++ |  |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,248 | Nim |  |
 
 
 ---
@@ -73,13 +73,19 @@
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,244 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,056 | Go | 1 |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,064 | Go | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 125,514 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 12,216 | Python | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 4,985 | Rust | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 21,455 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 181,716 | Go | 1 |
@@ -91,33 +97,12 @@
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,235 | C# | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,760 | Ruby | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 323 | Kotlin | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,524 | Scala | 2 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,763 | Ruby | 2 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 30,158 | Python | 2026-08-29 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [yifanfeng97/Hyper-Extract](../repos/yifanfeng97/Hyper-Extract.md) | ⭐ 3,720 | Python | 2026-08-29 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 7,851 | JavaScript | 2026-08-29 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [chroma-core/chroma](../repos/chroma-core/chroma.md) | ⭐ 29,182 | Rust | 2026-08-29 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [voocel/ainovel-cli](../repos/voocel/ainovel-cli.md) | ⭐ 1,862 | Go | 2026-08-29 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 58,507 | Python | 2026-09-01 |
@@ -133,10 +118,29 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [datawhalechina/hello-agents](../repos/datawhalechina/hello-agents.md) | ⭐ 78,270 | Python | 2026-09-02 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [shaxiu/XianyuAutoAgent](../repos/shaxiu/XianyuAutoAgent.md) | ⭐ 8,967 | Python | 2026-09-02 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [mlc-ai/web-llm](../repos/mlc-ai/web-llm.md) | ⭐ 18,795 | TypeScript | 2026-09-02 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [tbphp/gpt-load](../repos/tbphp/gpt-load.md) | ⭐ 6,959 | Go | 2026-09-03 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [alibaba/zvec](../repos/alibaba/zvec.md) | ⭐ 15,792 | C++ | 2026-09-03 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [eunomia-bpf/agentsight](../repos/eunomia-bpf/agentsight.md) | ⭐ 663 | C | 2026-09-03 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-09-28](../archive/2026/09/2026-09-28.md)
+- 40 repositories trending
+- Top: golang&#x2F;go
 
 ### [2026-09-27](../archive/2026/09/2026-09-27.md)
 - 31 repositories trending
@@ -154,10 +158,6 @@
 - 42 repositories trending
 - Top: shanraisshan&#x2F;claude-code-best-practice
 
-### [2026-09-21](../archive/2026/09/2026-09-21.md)
-- 34 repositories trending
-- Top: Genymobile&#x2F;scrcpy
-
 
 ---
 
@@ -167,30 +167,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 47 days | 2026-08-01 | 2026-09-27 |
-| [vlang/v](../repos/vlang/v.md) | 43 days | 2026-08-01 | 2026-09-27 |
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 40 days | 2026-08-01 | 2026-09-25 |
-| [joernio/joern](../repos/joernio/joern.md) | 39 days | 2026-08-01 | 2026-09-25 |
-| [vim/vim](../repos/vim/vim.md) | 38 days | 2026-08-01 | 2026-09-27 |
+| [apache/spark](../repos/apache/spark.md) | 48 days | 2026-08-01 | 2026-09-28 |
+| [vlang/v](../repos/vlang/v.md) | 44 days | 2026-08-01 | 2026-09-28 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 41 days | 2026-08-01 | 2026-09-28 |
+| [joernio/joern](../repos/joernio/joern.md) | 40 days | 2026-08-01 | 2026-09-28 |
+| [vim/vim](../repos/vim/vim.md) | 39 days | 2026-08-01 | 2026-09-28 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 37 days | 2026-08-01 | 2026-09-25 |
 | [wrf-model/WRF](../repos/wrf-model/WRF.md) | 31 days | 2026-08-04 | 2026-09-25 |
 | [facebook/infer](../repos/facebook/infer.md) | 30 days | 2026-08-02 | 2026-09-25 |
+| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 27 days | 2026-08-04 | 2026-09-28 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | 26 days | 2026-08-01 | 2026-09-25 |
-| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 26 days | 2026-08-04 | 2026-09-19 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 96 repositories (21%)
+- **Python**: 99 repositories (21%)
 - **TypeScript**: 54 repositories (12%)
-- **Go**: 45 repositories (10%)
+- **Go**: 46 repositories (10%)
 - **Rust**: 38 repositories (8%)
 - **C**: 38 repositories (8%)
 
 ### Trending Frequency
-- **Daily Average**: 43.5 repositories
+- **Daily Average**: 43.4 repositories
 - **Peak Day**: 2026-08-19 (63 repositories)
 - **Growth Rate**: 25% this month
 
@@ -225,7 +225,7 @@
 - [git-ai-project/git-ai](../repos/git-ai-project/git-ai.md) - A Git extension for tracking the AI-generated code in your repos
 - [nolabs-ai/nono](../repos/nolabs-ai/nono.md) - secure multiplexed execution paths for agents - zero trust, zero setup, zero latency.
 - [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) - Next Generation Agentic Proxy for AI Agents and MCP servers
-- [t8y2/dbx](../repos/t8y2/dbx.md) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, ...
+- [t8y2/dbx](../repos/t8y2/dbx.md) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL,...
 - [cocoindex-io/cocoindex](../repos/cocoindex-io/cocoindex.md) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [cube-js/cube](../repos/cube-js/cube.md) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [adithyan-ak/AgentHound](../repos/adithyan-ak/AgentHound.md) - Offensive security framework for AI agent infrastructure - recon, credential looting, model exfil...
@@ -306,4 +306,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.226Z*
+*Last updated: 2026-09-28T21:01:48.872Z*

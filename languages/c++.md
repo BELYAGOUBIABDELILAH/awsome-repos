@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 249
+- **Total Repositories**: 253
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-09-27
+- **Last Updated**: 2026-09-28
 
 ---
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,570 | 2026-07-30 | 20 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,592 | 2026-07-30 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [doitsujin/dxvk](../repos/doitsujin/dxvk.md) | ⭐ 18,158 | 2026-08-03 | 6 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,133 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 32,997 | 2026-08-03 | 8 |
+| [envoyproxy/envoy](../repos/envoyproxy/envoy.md) | ⭐ 29,013 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [argotorg/solidity](../repos/argotorg/solidity.md) | ⭐ 25,744 | 2026-08-04 | 5 |
+| [futo-org/android-keyboard](../repos/futo-org/android-keyboard.md) | ⭐ 3,265 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RPCS3/rpcs3](../repos/RPCS3/rpcs3.md) | ⭐ 19,889 | 2026-08-09 | 5 |
+| [esphome/esphome](../repos/esphome/esphome.md) | ⭐ 11,745 | 2026-08-17 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/flatbuffers](../repos/google/flatbuffers.md) | ⭐ 26,518 | 2026-08-11 | 7 |
+| [moonlight-stream/moonlight-qt](../repos/moonlight-stream/moonlight-qt.md) | ⭐ 18,812 | 2026-08-24 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossrs/srs](../repos/ossrs/srs.md) | ⭐ 29,293 | 2026-08-14 | 3 |
+| [mg-chao/snow-apps](../repos/mg-chao/snow-apps.md) | ⭐ 5,225 | 2026-09-21 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [esphome/esphome](../repos/esphome/esphome.md) | ⭐ 11,736 | 2026-08-17 | 5 |
+| [Themaister/pyrowave](../repos/Themaister/pyrowave.md) | ⭐ 544 | 2026-09-24 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [The412Banner/winlator-contents](../repos/The412Banner/winlator-contents.md) | ⭐ 82 | 2026-09-27 | 1 |
+| [The412Banner/winlator-contents](../repos/The412Banner/winlator-contents.md) | ⭐ 102 | 2026-09-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cataclysmbn/Cataclysm-BN](../repos/cataclysmbn/Cataclysm-BN.md) | ⭐ 1,245 | 2026-09-27 | 1 |
+| [ammaarreshi/Generals-Mac-iOS-iPad](../repos/ammaarreshi/Generals-Mac-iOS-iPad.md) | ⭐ 1,640 | 2026-09-28 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [omacom/omawrite](../repos/omacom/omawrite.md) | ⭐ 176 | 2026-08-29 | The essence of writing |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [brave/brave-core](../repos/brave/brave-core.md) | ⭐ 3,543 | 2026-08-29 | Core engine for the Brave browser for mobile and desktop. For issues https:&#x2F;&#x2F;github.com&#x2F;brave&#x2F;bra... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SatDump/SatDump](../repos/SatDump/SatDump.md) | ⭐ 2,126 | 2026-08-29 | A generic satellite data processing software. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Neroued/ninfer](../repos/Neroued/ninfer.md) | ⭐ 1,426 | 2026-08-29 | High-performance single-GPU inference for selected model checkpoints and GPUs. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [metasequoiaime/MetasequoiaImeTsf](../repos/metasequoiaime/MetasequoiaImeTsf.md) | ⭐ 1,119 | 2026-09-01 | 水杉输入法。内测：tg: https:&#x2F;&#x2F;t.me&#x2F;msimegroup QQ Group: 829919142 |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [xoxor4d/gta4-rtx](../repos/xoxor4d/gta4-rtx.md) | ⭐ 705 | 2026-09-02 | GTAIV RTX Remix Compatibility Mod |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [monero-project/monero](../repos/monero-project/monero.md) | ⭐ 10,864 | 2026-09-02 | Monero: the secure, private, untraceable cryptocurrency |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [alibaba/zvec](../repos/alibaba/zvec.md) | ⭐ 15,792 | 2026-09-03 | A lightweight, lightning-fast, in-process vector database |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ethz-asl/kalibr](../repos/ethz-asl/kalibr.md) | ⭐ 5,698 | 2026-09-03 | The Kalibr visual-inertial calibration toolbox |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [harry7557558/spirula-studio](../repos/harry7557558/spirula-studio.md) | ⭐ 1,024 | 2026-09-03 | Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA. |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,570 | 2026-07-30 | 20 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,592 | 2026-07-30 | 21 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 129,089 | 2026-08-01 | 25 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | 2026-08-04 | 4 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
@@ -100,7 +100,7 @@
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,999 | 2026-08-01 | 12 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 49,778 | 2026-08-03 | 4 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,133 | 2026-08-03 | 5 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,046 | 2026-09-01 | 2 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,306 | 2026-08-02 | 7 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
@@ -116,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 25 | ⭐ 129,089 | 2026-08-01 | 2026-09-21 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 20 | ⭐ 200,570 | 2026-07-30 | 2026-09-27 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 21 | ⭐ 200,592 | 2026-07-30 | 2026-09-28 |
 | [google/googletest](../repos/google/googletest.md) | 16 | ⭐ 39,583 | 2026-08-04 | 2026-09-25 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 13 | ⭐ 511 | 2026-08-01 | 2026-09-25 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 13 | ⭐ 76,148 | 2026-08-08 | 2026-09-10 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.490Z*
+*Last updated: 2026-09-28T21:01:49.145Z*

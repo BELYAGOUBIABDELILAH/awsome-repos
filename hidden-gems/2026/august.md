@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 374
+**Gems Found**: 370
 
 ---
 
@@ -19,7 +19,7 @@
 |---|---|
 | ⭐ **Stars** | 659 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 94/100 |
+| 🏆 **Gem Score** | 93/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 19, 2026 |
 
@@ -71,47 +71,7 @@
 
 ---
 
-### 4. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
-
-**GitHub Stacked PRs**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,047 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 85/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+100 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/github/gh-stack.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;github&#x2F;gh-stack)
-
----
-
-### 5. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
-
-**Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,251 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 85/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 11, 2026 |
-
-**Why it's a gem**: High growth velocity (+524 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/macro-inc/macro.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;macro-inc&#x2F;macro)
-
----
-
-### 6. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
+### 4. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
 
 **Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de&#x2F;plugin-directory-submission.**
 
@@ -131,7 +91,7 @@
 
 ---
 
-### 7. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
+### 5. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
 
 **Open-source framework for the research and development of foundation models.**
 
@@ -151,7 +111,27 @@
 
 ---
 
-### 8. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+### 6. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+
+**GitHub Stacked PRs**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,047 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 84/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+100 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/github/gh-stack.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;github&#x2F;gh-stack)
+
+---
+
+### 7. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
 
 **OCTO Android Client — Open-source enterprise IM**
 
@@ -171,7 +151,7 @@
 
 ---
 
-### 9. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
+### 8. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
 
 **Help AI coding agents write modern Go**
 
@@ -191,7 +171,7 @@
 
 ---
 
-### 10. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
+### 9. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
 
 **A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.**
 
@@ -211,7 +191,7 @@
 
 ---
 
-### 11. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
+### 10. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
 
 **BookOrbit: Your Reading Space**
 
@@ -231,27 +211,7 @@
 
 ---
 
-### 12. [livekit&#x2F;agents](../../repos/livekit/agents.md)
-
-**A framework for building realtime voice AI agents 🤖🎙️📹 **
-
-| | |
-|---|---|
-| ⭐ **Stars** | 13,556 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 82/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 3, 2026 |
-
-**Why it's a gem**: High growth velocity (+296 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/livekit/agents.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;livekit&#x2F;agents)
-
----
-
-### 13. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 11. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
 **ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
@@ -271,7 +231,7 @@
 
 ---
 
-### 14. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
+### 12. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
 
 **Mission control for your AI agents**
 
@@ -291,7 +251,27 @@
 
 ---
 
-### 15. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
+### 13. [livekit&#x2F;agents](../../repos/livekit/agents.md)
+
+**A framework for building realtime voice AI agents 🤖🎙️📹 **
+
+| | |
+|---|---|
+| ⭐ **Stars** | 13,556 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 81/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 3, 2026 |
+
+**Why it's a gem**: High growth velocity (+296 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/livekit/agents.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;livekit&#x2F;agents)
+
+---
+
+### 14. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
 
 **BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
+### 15. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
 
 **BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
+### 16. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
 
 **Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy&#39;s LLM Wiki pattern.**
 
@@ -351,7 +331,7 @@
 
 ---
 
-### 18. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+### 17. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
 
 **Portable Tool for an Ideal Windows Setup**
 
@@ -371,27 +351,7 @@
 
 ---
 
-### 19. [workweave&#x2F;router](../../repos/workweave/router.md)
-
-**Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,635 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 81/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 28, 2026 |
-
-**Why it's a gem**: High growth velocity (+640 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/workweave/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;workweave&#x2F;router)
-
----
-
-### 20. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
+### 18. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
 
 **Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
 
@@ -411,6 +371,46 @@
 
 ---
 
+### 19. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+
+**Visualize your year in travel using your Google Location History (Timeline) data**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,684 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 80/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+1084 stars&#x2F;day) • Trending 4 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/mahlernim/google-timeline-visualizer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mahlernim&#x2F;google-timeline-visualizer)
+
+---
+
+### 20. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
+
+**A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,454 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 80/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+416 stars&#x2F;day) • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/Tencent/AI-Infra-Guard.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tencent&#x2F;AI-Infra-Guard)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-27T21:01:41.499Z*  
+*Generated: 2026-09-28T21:01:56.108Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

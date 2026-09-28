@@ -1,6 +1,6 @@
 # ayangweb&#x2F;BongoCat
 
-> 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+> 🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;ayangweb&#x2F;BongoCat) 
 
@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Vue |
-| **License** | MIT |
-| **Stars** | ⭐ 23,614 |
-| **Forks** | 🍴 1,159 |
-| **Trending Days** | 20 |
+| **Language** | Rust |
+| **License** | Apache-2.0 |
+| **Stars** | ⭐ 23,670 |
+| **Forks** | 🍴 1,163 |
+| **Trending Days** | 21 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Sep 25, 2026 |
+| **Last Seen** | Sep 28, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Vue or bongo-cat*
+*Similar: Check repositories in Rust or bongo-cat*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 20
+- **Trending Days**: 21
 - **Longest Streak**: 4 days
 
 ---
@@ -68,12 +68,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
+| **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
 - General purpose
@@ -81,7 +81,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Vue
+- Check similar projects in Rust
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:38.867Z*  
-*Data from 20 trending reports*
+*Last updated: 2026-09-28T21:01:53.335Z*  
+*Data from 21 trending reports*

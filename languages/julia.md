@@ -14,8 +14,10 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 732 | 2026-08-07 | 2 |
 
-*No Julia repositories trending today*
 
 ---
 
@@ -42,8 +44,8 @@
 | [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,417 | 2026-08-02 | 19 |
 | [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
 | [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 735 | 2026-08-01 | 40 |
+| [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 732 | 2026-08-07 | 2 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
-| [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 719 | 2026-08-07 | 1 |
 | [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | 2 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | 3 |
 | [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) | ⭐ 200 | 2026-09-02 | 1 |
@@ -68,9 +70,9 @@
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 12 | ⭐ 117 | 2026-08-01 | 2026-09-12 |
 | [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | 8 | ⭐ 73 | 2026-08-01 | 2026-08-12 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | 3 | ⭐ 355 | 2026-08-07 | 2026-08-11 |
+| [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | 2 | ⭐ 732 | 2026-08-07 | 2026-09-28 |
 | [davidanthoff/Electron.jl](../repos/davidanthoff/Electron.jl.md) | 2 | ⭐ 96 | 2026-08-14 | 2026-08-19 |
 | [kahliburke/Kaimon.jl](../repos/kahliburke/Kaimon.jl.md) | 2 | ⭐ 25 | 2026-08-20 | 2026-08-21 |
-| [NumericalEarth/NumericalEarth.jl](../repos/NumericalEarth/NumericalEarth.jl.md) | 2 | ⭐ 47 | 2026-08-24 | 2026-08-28 |
 
 ---
 
@@ -98,4 +100,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.526Z*
+*Last updated: 2026-09-28T21:01:49.179Z*

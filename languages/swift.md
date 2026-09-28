@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 115
+- **Total Repositories**: 118
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-22
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 50,301 | 2026-08-01 | 14 |
+| [apple/container](../repos/apple/container.md) | ⭐ 50,358 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 9,004 | 2026-08-02 | 10 |
+| [TheBoredTeam/boring.notch](../repos/TheBoredTeam/boring.notch.md) | ⭐ 10,901 | 2026-08-06 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,412 | 2026-08-07 | 9 |
+| [whoeevee/EeveeSpotifyReborn](../repos/whoeevee/EeveeSpotifyReborn.md) | ⭐ 2,414 | 2026-08-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 2,148 | 2026-08-12 | 10 |
+| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,482 | 2026-08-08 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [seemoo-lab/openhaystack](../repos/seemoo-lab/openhaystack.md) | ⭐ 13,693 | 2026-08-17 | 3 |
+| [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,948 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ronitsingh10/FineTune](../repos/ronitsingh10/FineTune.md) | ⭐ 9,444 | 2026-08-22 | 7 |
+| [openai/tart](../repos/openai/tart.md) | ⭐ 7,195 | 2026-08-14 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChrisMack32/Locus](../repos/ChrisMack32/Locus.md) | ⭐ 511 | 2026-09-27 | 1 |
+| [ronitsingh10/FineTune](../repos/ronitsingh10/FineTune.md) | ⭐ 9,471 | 2026-08-22 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thsnkhn/harbor](../repos/thsnkhn/harbor.md) | ⭐ 526 | 2026-09-27 | 1 |
+| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,667 | 2026-09-04 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [uzairansaruzi/hermex](../repos/uzairansaruzi/hermex.md) | ⭐ 1,415 | 2026-09-08 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [thsnkhn/harbor](../repos/thsnkhn/harbor.md) | ⭐ 538 | 2026-09-27 | 2 |
 
 
 ---
@@ -64,7 +70,7 @@
 | [ProxymanApp/TCPViewer](../repos/ProxymanApp/TCPViewer.md) | ⭐ 406 | 2026-09-03 | The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,638 | 2026-09-04 |  |
+| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,667 | 2026-09-04 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | 2026-09-04 | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects  |
@@ -84,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,382 | 2026-08-05 | 14 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | 2026-09-04 | 1 |
-| [apple/container](../repos/apple/container.md) | ⭐ 50,301 | 2026-08-01 | 14 |
+| [apple/container](../repos/apple/container.md) | ⭐ 50,358 | 2026-08-01 | 15 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,218 | 2026-08-12 | 6 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
@@ -99,7 +105,7 @@
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,921 | 2026-08-04 | 13 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,841 | 2026-08-03 | 2 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,744 | 2026-08-24 | 7 |
-| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,395 | 2026-08-08 | 7 |
+| [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,482 | 2026-08-08 | 8 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,327 | 2026-08-17 | 7 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | 2026-08-01 | 3 |
 
@@ -110,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 20 | ⭐ 12,313 | 2026-08-01 | 2026-09-21 |
-| [apple/container](../repos/apple/container.md) | 14 | ⭐ 50,301 | 2026-08-01 | 2026-09-27 |
+| [apple/container](../repos/apple/container.md) | 15 | ⭐ 50,358 | 2026-08-01 | 2026-09-28 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 14 | ⭐ 70,382 | 2026-08-05 | 2026-09-22 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 13 | ⭐ 14,921 | 2026-08-04 | 2026-09-19 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 12 | ⭐ 27,391 | 2026-08-01 | 2026-09-24 |
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.571Z*
+*Last updated: 2026-09-28T21:01:49.223Z*

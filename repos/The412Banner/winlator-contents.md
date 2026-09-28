@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | Not specified |
-| **Stars** | ⭐ 82 |
-| **Forks** | 🍴 4 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 102 |
+| **Forks** | 🍴 6 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 27, 2026 |
-| **Last Seen** | Sep 27, 2026 |
+| **Last Seen** | Sep 28, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Trending Days**: 2
+- **Longest Streak**: 2 days
 
 ---
 
@@ -84,12 +84,12 @@
 - Check similar projects in C++
 
 #### Metrics
-- **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 40&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-27T21:01:41.237Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-28T21:01:55.804Z*  
+*Data from 2 trending reports*

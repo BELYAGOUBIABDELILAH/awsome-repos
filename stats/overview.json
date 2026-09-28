@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-27T21:01:41.662Z",
-  "total_repositories": 3637,
-  "trending_today": 283,
-  "new_this_month": 870,
+  "generated_at": "2026-09-28T21:01:56.272Z",
+  "total_repositories": 3672,
+  "trending_today": 299,
+  "new_this_month": 865,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-09-27",
+  "last_collection": "2026-09-28",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 47,
+    "trending_days": 48,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "vercel-labs/scriptc",
-    "stars": 5352,
-    "first_seen": "2026-09-27"
+    "full_name": "cs341-illinois/coursebook",
+    "stars": 2450,
+    "first_seen": "2026-09-28"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 51149393,
-  "avg_stars": 14064,
-  "avg_trending_days": 5.2,
-  "language_count": 58,
-  "topic_count": 9546,
+  "total_stars": 51438225,
+  "avg_stars": 14008,
+  "avg_trending_days": 5.3,
+  "language_count": 59,
+  "topic_count": 9620,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

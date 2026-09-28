@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 95
+- **Total Repositories**: 98
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-27
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 57,493 | 2026-08-01 | 3 |
+| [lizhipay/acg-faka](../repos/lizhipay/acg-faka.md) | ⭐ 5,707 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,931 | 2026-08-01 | 24 |
+| [cedar2025/Xboard](../repos/cedar2025/Xboard.md) | ⭐ 4,738 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,148 | 2026-08-01 | 11 |
+| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,381 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | ⭐ 3,461 | 2026-08-01 | 20 |
+| [invoiceninja/invoiceninja](../repos/invoiceninja/invoiceninja.md) | ⭐ 10,126 | 2026-08-06 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [invoiceninja/invoiceninja](../repos/invoiceninja/invoiceninja.md) | ⭐ 10,121 | 2026-08-06 | 11 |
+| [pixelfed/pixelfed](../repos/pixelfed/pixelfed.md) | ⭐ 7,110 | 2026-08-26 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 23,951 | 2026-08-07 | 14 |
+| [koel/koel](../repos/koel/koel.md) | ⭐ 17,267 | 2026-09-28 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [David-Crty/databasement](../repos/David-Crty/databasement.md) | ⭐ 2,468 | 2026-08-10 | 10 |
+| [aimeos/aimeos-core](../repos/aimeos/aimeos-core.md) | ⭐ 4,530 | 2026-09-28 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrivateBin/PrivateBin](../repos/PrivateBin/PrivateBin.md) | ⭐ 8,633 | 2026-08-16 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [PHPOffice/PhpSpreadsheet](../repos/PHPOffice/PhpSpreadsheet.md) | ⭐ 13,990 | 2026-08-19 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [pixelfed/pixelfed](../repos/pixelfed/pixelfed.md) | ⭐ 7,105 | 2026-08-26 | 7 |
+| [eloquent/phony](../repos/eloquent/phony.md) | ⭐ 194 | 2026-09-28 | 1 |
 
 
 ---
@@ -94,10 +88,11 @@
 | [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,122 | 2026-08-02 | 15 |
 | [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,162 | 2026-08-02 | 23 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,168 | 2026-08-01 | 21 |
-| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,363 | 2026-08-04 | 16 |
+| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,381 | 2026-08-04 | 17 |
 | [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 23,951 | 2026-08-07 | 14 |
 | [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,296 | 2026-08-01 | 9 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,892 | 2026-08-01 | 23 |
+| [koel/koel](../repos/koel/koel.md) | ⭐ 17,267 | 2026-09-28 | 1 |
 | [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,808 | 2026-08-04 | 7 |
 | [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,112 | 2026-08-02 | 15 |
 | [getgrav/grav](../repos/getgrav/grav.md) | ⭐ 15,672 | 2026-08-12 | 7 |
@@ -107,7 +102,6 @@
 | [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 12,972 | 2026-08-05 | 3 |
 | [SpartnerNL/Laravel-Excel](../repos/SpartnerNL/Laravel-Excel.md) | ⭐ 12,699 | 2026-08-09 | 1 |
 | [typecho/typecho](../repos/typecho/typecho.md) | ⭐ 12,417 | 2026-08-02 | 1 |
-| [magento/magento2](../repos/magento/magento2.md) | ⭐ 12,199 | 2026-08-04 | 10 |
 
 ---
 
@@ -225,7 +219,10 @@
 - [Euro-Office/eurooffice-nextcloud](../repos/Euro-Office/eurooffice-nextcloud.md) - 
 - [silverstripe/silverstripe-framework](../repos/silverstripe/silverstripe-framework.md) - Silverstripe Framework, the MVC framework that powers Silverstripe CMS
 - [Blair2004/NexoPOS](../repos/Blair2004/NexoPOS.md) - Laravel-based web POS system with Vue.js, Tailwind CSS, inventory management, sales processing, c...
+- [koel/koel](../repos/koel/koel.md) - Music streaming solution that works.
+- [aimeos/aimeos-core](../repos/aimeos/aimeos-core.md) - Aimeos PHP e-commerce framework for ultra fast online shops, scalable marketplaces, complex B2B a...
+- [eloquent/phony](../repos/eloquent/phony.md) - Mocks, stubs, and spies for PHP.
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.546Z*
+*Last updated: 2026-09-28T21:01:49.197Z*

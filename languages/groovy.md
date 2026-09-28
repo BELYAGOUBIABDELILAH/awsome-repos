@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 11
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-25
+- **Last Updated**: 2026-09-28
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,931 | 2026-08-03 | 26 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,860 | 2026-08-01 | 45 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,859 | 2026-08-01 | 44 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,860 | 2026-08-01 | 45 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,311 | 2026-08-02 | 31 |
 | [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,467 | 2026-09-13 | 2 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
@@ -55,7 +55,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [gradle/gradle](../repos/gradle/gradle.md) | 44 | ⭐ 18,859 | 2026-08-01 | 2026-09-25 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 45 | ⭐ 18,860 | 2026-08-01 | 2026-09-28 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | 31 | ⭐ 6,311 | 2026-08-02 | 2026-09-25 |
 | [apache/grails-core](../repos/apache/grails-core.md) | 26 | ⭐ 2,931 | 2026-08-03 | 2026-09-27 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 24 | ⭐ 3,492 | 2026-08-02 | 2026-09-25 |
@@ -84,4 +84,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.513Z*
+*Last updated: 2026-09-28T21:01:49.167Z*

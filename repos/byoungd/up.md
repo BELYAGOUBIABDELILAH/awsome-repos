@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | Other |
-| **Stars** | ⭐ 63,363 |
-| **Forks** | 🍴 6,414 |
-| **Trending Days** | 15 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 64,596 |
+| **Forks** | 🍴 6,509 |
+| **Trending Days** | 16 |
+| **Peak Rank** | #6 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 20, 2026 |
+| **Last Seen** | Sep 28, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Sep 28, 2026** — Rank #6 (+310 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 15
+- **Peak Rank**: #6
+- **Trending Days**: 16
 - **Longest Streak**: 3 days
 
 ---
@@ -86,10 +87,10 @@
 #### Metrics
 - **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
-- **Historical Rank**: No ranking data
+- **Historical Rank**: Top 10 (Peak: #6)
 
 
 ---
 
-*Last updated: 2026-09-27T21:01:36.814Z*  
-*Data from 15 trending reports*
+*Last updated: 2026-09-28T21:01:51.496Z*  
+*Data from 16 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 87
+- **Total Repositories**: 86
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-19
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,312 | 2026-08-01 | 20 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,318 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,975 | 2026-08-01 | 29 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,617 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,613 | 2026-08-01 | 24 |
+| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 255 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,326 | 2026-08-01 | 19 |
+| [imsyy/home](../repos/imsyy/home.md) | ⭐ 4,568 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 446 | 2026-08-02 | 26 |
+| [aniyomiorg/aniyomi-website](../repos/aniyomiorg/aniyomi-website.md) | ⭐ 230 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,833 | 2026-08-02 | 20 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 448 | 2026-08-02 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ljxi/Cloudflare-R2-oss](../repos/ljxi/Cloudflare-R2-oss.md) | ⭐ 519 | 2026-08-02 | 7 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,843 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | ⭐ 1,927 | 2026-08-02 | 20 |
+| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 3,425 | 2026-08-02 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 3,339 | 2026-08-02 | 22 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,844 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Rule-34/App](../repos/Rule-34/App.md) | ⭐ 377 | 2026-08-16 | 5 |
+| [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,812 | 2026-08-03 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fastapiadmin/FastapiAdmin](../repos/fastapiadmin/FastapiAdmin.md) | ⭐ 1,069 | 2026-08-29 | FastapiAdmin 是一套完全开源的快速开发平台，提供免费使用。它结合了现代、高性能的技术栈，后端采用Fastapi + SQLAlchemy，前端采用基于 vue3 + typescri... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Jelosus2/BD2-L2D-Viewer](../repos/Jelosus2/BD2-L2D-Viewer.md) | ⭐ 475 | 2026-08-29 | Brown Dust 2 Live 2D Viewer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [build-admin/buildadmin](../repos/build-admin/buildadmin.md) | ⭐ 2,375 | 2026-09-02 | 可视化生成CRUD代码、内置WEB终端、workerman常驻内存运行支持，技术栈为Vue3.x(setup)+ThinkPHP8+TypeScript+Vite+Pinia+Element P... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [geekgeekrun/geekgeekrun](../repos/geekgeekrun/geekgeekrun.md) | ⭐ 2,640 | 2026-09-10 | 牛人快跑 - GeekGeekRun，求职找工作自动化工具，基于 Puppeteer、Electron。界面友好，简单易用！开源，免费！快速海投、自动开聊、已读不回提醒、职位信息抓取、不合适职位... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [wu529778790/panhub.shenzjd.com](../repos/wu529778790/panhub.shenzjd.com.md) | ⭐ 1,694 | 2026-09-12 | PanHub 网盘聚合搜索 · Netdisk Search Aggregator。一个搜索框聚合夸克&#x2F;阿里云盘&#x2F;百度&#x2F;115&#x2F;迅雷等网盘资源，多源聚合去重、智能排序、插件熔断隔离。零数据库轻量... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kodadot/nft-gallery](../repos/kodadot/nft-gallery.md) | ⭐ 685 | 2026-09-13 | Generative Art Marketplace  |
 
 
 ---
@@ -94,11 +94,10 @@
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,326 | 2026-08-01 | 19 |
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,975 | 2026-08-01 | 29 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,614 | 2026-08-08 | 20 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,986 | 2026-08-01 | 22 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,637 | 2026-08-02 | 12 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,833 | 2026-08-02 | 20 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,843 | 2026-08-02 | 21 |
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,458 | 2026-08-05 | 12 |
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,119 | 2026-08-20 | 4 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,749 | 2026-08-12 | 4 |
@@ -106,8 +105,9 @@
 | [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 10,240 | 2026-08-04 | 12 |
 | [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,365 | 2026-08-03 | 16 |
 | [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,314 | 2026-08-23 | 7 |
-| [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,816 | 2026-08-03 | 3 |
+| [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,812 | 2026-08-03 | 4 |
 | [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,734 | 2026-08-08 | 7 |
+| [un-pany/v3-admin-vite](../repos/un-pany/v3-admin-vite.md) | ⭐ 7,018 | 2026-08-04 | 1 |
 
 ---
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 30 | ⭐ 33,497 | 2026-08-01 | 2026-09-21 |
 | [requarks/wiki](../repos/requarks/wiki.md) | 29 | ⭐ 28,975 | 2026-08-01 | 2026-09-27 |
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 26 | ⭐ 446 | 2026-08-02 | 2026-09-27 |
-| [frappe/crm](../repos/frappe/crm.md) | 24 | ⭐ 3,613 | 2026-08-01 | 2026-09-27 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 27 | ⭐ 448 | 2026-08-02 | 2026-09-28 |
+| [frappe/crm](../repos/frappe/crm.md) | 25 | ⭐ 3,617 | 2026-08-01 | 2026-09-28 |
+| [julyx10/lap](../repos/julyx10/lap.md) | 23 | ⭐ 3,425 | 2026-08-02 | 2026-09-28 |
 | [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 22 | ⭐ 21,986 | 2026-08-01 | 2026-09-25 |
-| [julyx10/lap](../repos/julyx10/lap.md) | 22 | ⭐ 3,339 | 2026-08-02 | 2026-09-27 |
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 20 | ⭐ 4,312 | 2026-08-01 | 2026-09-27 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 20 | ⭐ 16,833 | 2026-08-02 | 2026-09-27 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 21 | ⭐ 4,318 | 2026-08-01 | 2026-09-28 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 21 | ⭐ 16,843 | 2026-08-02 | 2026-09-28 |
 | [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 20 | ⭐ 1,927 | 2026-08-02 | 2026-09-27 |
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 20 | ⭐ 23,614 | 2026-08-08 | 2026-09-25 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 19 | ⭐ 33,326 | 2026-08-01 | 2026-09-27 |
 
 ---
 
@@ -175,7 +175,6 @@
 - [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin ...
 - [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-a...
 - [freqtrade/frequi](../repos/freqtrade/frequi.md) - Freqtrade UI - Frontend for Freqtrade
-- [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) - 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 - [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on R...
 - [x2rr/funds](../repos/x2rr/funds.md) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 - [chenjigang4167/testhub_platform](../repos/chenjigang4167/testhub_platform.md) - AI-Powered Testing Platform
@@ -220,4 +219,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.585Z*
+*Last updated: 2026-09-28T21:01:49.238Z*

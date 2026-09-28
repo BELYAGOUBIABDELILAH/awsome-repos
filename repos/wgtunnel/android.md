@@ -1,6 +1,6 @@
 # wgtunnel&#x2F;android
 
-> A FOSS WireGuard &amp; AmneziaWG Android client with auto-tunneling, lockdown &amp; local proxying.
+> An advanced, open-source client for WireGuard and AmneziaWG on Android.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;wgtunnel&#x2F;android) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | MIT |
-| **Stars** | ⭐ 3,152 |
-| **Forks** | 🍴 186 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 3,214 |
+| **Forks** | 🍴 196 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 15, 2026 |
-| **Last Seen** | Sep 10, 2026 |
+| **Last Seen** | Sep 28, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:39.502Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-09-28T21:01:53.935Z*  
+*Data from 8 trending reports*

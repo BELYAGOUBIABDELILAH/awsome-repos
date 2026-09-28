@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 3
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-27
+- **Last Updated**: 2026-09-28
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,339 | 2026-08-01 | 32 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,339 | 2026-08-01 | 33 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,086 | 2026-08-09 | 3 |
 
 
 ---
@@ -32,8 +35,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,339 | 2026-08-01 | 32 |
-| [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,085 | 2026-08-09 | 2 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,339 | 2026-08-01 | 33 |
+| [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,086 | 2026-08-09 | 3 |
 | [dotnet/performance](../repos/dotnet/performance.md) | ⭐ 771 | 2026-08-07 | 1 |
 
 ---
@@ -42,8 +45,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 32 | ⭐ 4,339 | 2026-08-01 | 2026-09-27 |
-| [fsprojects/Paket](../repos/fsprojects/Paket.md) | 2 | ⭐ 2,085 | 2026-08-09 | 2026-09-14 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 33 | ⭐ 4,339 | 2026-08-01 | 2026-09-28 |
+| [fsprojects/Paket](../repos/fsprojects/Paket.md) | 3 | ⭐ 2,086 | 2026-08-09 | 2026-09-28 |
 | [dotnet/performance](../repos/dotnet/performance.md) | 1 | ⭐ 771 | 2026-08-07 | 2026-08-07 |
 
 ---
@@ -56,4 +59,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.506Z*
+*Last updated: 2026-09-28T21:01:49.161Z*

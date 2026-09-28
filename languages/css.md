@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 67
+- **Total Repositories**: 68
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-27
 
@@ -16,22 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 921 | 2026-08-01 | 32 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,421 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,445 | 2026-08-01 | 40 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,446 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,408 | 2026-08-03 | 6 |
+| [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,602 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,340 | 2026-08-04 | 21 |
+| [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) | ⭐ 6,082 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,831 | 2026-08-06 | 16 |
+| [google/google-api-javascript-client](../repos/google/google-api-javascript-client.md) | ⭐ 3,534 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 5,416 | 2026-08-10 | 12 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 5,436 | 2026-08-10 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Terminus2049/Terminus2049.github.io](../repos/Terminus2049/Terminus2049.github.io.md) | ⭐ 2,372 | 2026-08-20 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,426 | 2026-09-02 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [woowacourse/java-http](../repos/woowacourse/java-http.md) | ⭐ 23 | 2026-09-28 | 1 |
 
 
 ---
@@ -40,7 +49,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,363 | 2026-09-02 | 🕶️ Awesome stuff for Obsidian |
+| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,426 | 2026-09-02 | 🕶️ Awesome stuff for Obsidian |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CopticScriptorium/corpora](../repos/CopticScriptorium/corpora.md) | ⭐ 51 | 2026-09-02 | Public repository for Coptic SCRIPTORIUM Corpora Releases |
@@ -84,15 +93,15 @@
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,421 | 2026-08-01 | 22 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,419 | 2026-08-02 | 19 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,373 | 2026-08-01 | 21 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,807 | 2026-08-04 | 6 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,650 | 2026-08-06 | 10 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,481 | 2026-08-09 | 2 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,539 | 2026-08-05 | 16 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
-| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,363 | 2026-09-02 | 4 |
+| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,426 | 2026-09-02 | 5 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,283 | 2026-08-01 | 16 |
 | [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,408 | 2026-08-03 | 6 |
 | [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,313 | 2026-08-08 | 8 |
@@ -103,10 +112,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 40 | ⭐ 1,445 | 2026-08-01 | 2026-09-27 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 41 | ⭐ 1,446 | 2026-08-01 | 2026-09-28 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 32 | ⭐ 921 | 2026-08-01 | 2026-09-27 |
+| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 22 | ⭐ 12,421 | 2026-08-01 | 2026-09-28 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 22 | ⭐ 28,947 | 2026-08-02 | 2026-09-20 |
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 21 | ⭐ 12,373 | 2026-08-01 | 2026-09-25 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 21 | ⭐ 1,408 | 2026-08-01 | 2026-08-29 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 21 | ⭐ 45,340 | 2026-08-04 | 2026-09-27 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 19 | ⭐ 12,419 | 2026-08-02 | 2026-09-14 |
@@ -185,7 +194,8 @@
 - [CDCgov/prime-reportstream](../repos/CDCgov/prime-reportstream.md) - ReportStream is a public intermediary tool for delivery of data between different parts of the he...
 - [NilverTI/Web-Flores](../repos/NilverTI/Web-Flores.md) - Codigo de flores amarillas para regalar &#x2F; enviar a tu novia
 - [MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps](../repos/MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps.md) - Sample repo for Interact with Data for Blazor Web Apps Learn Module
+- [woowacourse/java-http](../repos/woowacourse/java-http.md) - 
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.492Z*
+*Last updated: 2026-09-28T21:01:49.147Z*

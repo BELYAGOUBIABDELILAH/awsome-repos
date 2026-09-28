@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PLSQL |
 | **License** | Other |
-| **Stars** | ⭐ 24,288 |
-| **Forks** | 🍴 5,586 |
-| **Trending Days** | 1 |
-| **Peak Rank** | #9 |
+| **Stars** | ⭐ 25,711 |
+| **Forks** | 🍴 5,883 |
+| **Trending Days** | 2 |
+| **Peak Rank** | #4 |
 
 | **First Seen** | Aug 19, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Sep 28, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Sep 28, 2026** — Rank #4 (+145 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #9
-- **Trending Days**: 1
+- **Peak Rank**: #4
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -84,12 +85,12 @@
 - Check similar projects in PLSQL
 
 #### Metrics
-- **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
-- **Historical Rank**: Top 10 (Peak: #9)
+- **Hidden Gem**: ✗ No
+- **Trending Score**: 35&#x2F;100
+- **Historical Rank**: Top 5 (Peak: #4)
 
 
 ---
 
-*Last updated: 2026-09-27T21:01:39.665Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-28T21:01:54.089Z*  
+*Data from 2 trending reports*

@@ -16,49 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 89,534 | 2026-08-02 | 6 |
+| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 49,723 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [melgarafael/DeskcommCRM](../repos/melgarafael/DeskcommCRM.md) | ⭐ 4,130 | 2026-08-05 | 6 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 92,542 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 20,095 | 2026-08-05 | 5 |
+| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 21,168 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/expo](../repos/expo/expo.md) | ⭐ 52,466 | 2026-08-06 | 3 |
+| [alsk1992/CloddsBot](../repos/alsk1992/CloddsBot.md) | ⭐ 2,898 | 2026-09-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 53,621 | 2026-08-08 | 12 |
+| [mvschwarz/openrig](../repos/mvschwarz/openrig.md) | ⭐ 1,623 | 2026-09-25 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [calcom/cal.diy](../repos/calcom/cal.diy.md) | ⭐ 48,688 | 2026-08-15 | 2 |
+| [vercel-labs/scriptc](../repos/vercel-labs/scriptc.md) | ⭐ 5,601 | 2026-09-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvschwarz/openrig](../repos/mvschwarz/openrig.md) | ⭐ 875 | 2026-09-25 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [vercel-labs/scriptc](../repos/vercel-labs/scriptc.md) | ⭐ 5,352 | 2026-09-27 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mobile-next/mobile-mcp](../repos/mobile-next/mobile-mcp.md) | ⭐ 7,860 | 2026-09-27 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [SinaXhpm/Submarine](../repos/SinaXhpm/Submarine.md) | ⭐ 366 | 2026-09-27 | 1 |
+| [mobile-next/mobile-mcp](../repos/mobile-next/mobile-mcp.md) | ⭐ 8,233 | 2026-09-27 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [anthropics/claude-code-action](../repos/anthropics/claude-code-action.md) | ⭐ 8,752 | 2026-08-29 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cloudflare/kumo](../repos/cloudflare/kumo.md) | ⭐ 3,759 | 2026-08-29 | Cloudflare&#39;s component library for building modern web applications. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vercel-labs/vgpu](../repos/vercel-labs/vgpu.md) | ⭐ 926 | 2026-08-29 | Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and ma... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [inkeep/open-knowledge](../repos/inkeep/open-knowledge.md) | ⭐ 3,860 | 2026-09-01 | Beautiful, AI-native markdown IDE and LLM wiki |
@@ -80,6 +62,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [a2ui-project/a2ui](../repos/a2ui-project/a2ui.md) | ⭐ 16,270 | 2026-09-02 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [fastapi/full-stack-fastapi-template](../repos/fastapi/full-stack-fastapi-template.md) | ⭐ 45,739 | 2026-09-02 | Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [awslabs/aidlc-workflows](../repos/awslabs/aidlc-workflows.md) | ⭐ 4,341 | 2026-09-03 | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [openreplay/openreplay](../repos/openreplay/openreplay.md) | ⭐ 12,660 | 2026-09-03 | Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues a... |
 
 
 ---
@@ -103,9 +94,9 @@
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 92,542 | 2026-08-02 | 7 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
 | [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 89,779 | 2026-08-22 | 1 |
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 89,534 | 2026-08-02 | 6 |
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 87,081 | 2026-08-14 | 3 |
 | [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 86,970 | 2026-08-28 | 2 |
 
@@ -233,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.574Z*
+*Last updated: 2026-09-28T21:01:49.226Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 94
+- **Total Repositories**: 95
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-22
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,190 | 2026-08-05 | 8 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 66,513 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,507 | 2026-08-05 | 8 |
+| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,333 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 14,978 | 2026-08-07 | 5 |
+| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 9,754 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,800 | 2026-08-09 | 9 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,840 | 2026-08-09 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nova-video-player/aos-AVP](../repos/nova-video-player/aos-AVP.md) | ⭐ 4,691 | 2026-08-16 | 2 |
+| [github/opensource.guide](../repos/github/opensource.guide.md) | ⭐ 15,706 | 2026-09-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [promptpirate-x/discord-id-bypass-tool](../repos/promptpirate-x/discord-id-bypass-tool.md) | ⭐ 1,544 | 2026-09-27 | 1 |
+| [promptpirate-x/discord-id-bypass-tool](../repos/promptpirate-x/discord-id-bypass-tool.md) | ⭐ 1,546 | 2026-09-27 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [FinMind/FinMind](../repos/FinMind/FinMind.md) | ⭐ 2,820 | 2026-09-28 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ultrasecurity/Storm-Breaker](../repos/ultrasecurity/Storm-Breaker.md) | ⭐ 5,974 | 2026-08-29 | Social engineering tool [Access Webcam &amp; Microphone  &amp; Location Finder] With {Py,JS,PHP} |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [atelier-anchor/smiley-sans](../repos/atelier-anchor/smiley-sans.md) | ⭐ 14,742 | 2026-08-29 | 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Sushegaad/Claude-Skills-Governance-Risk-and-Compliance](../repos/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance.md) | ⭐ 867 | 2026-09-01 | Claude Skills for Governance, Risk, &amp; Compliance (GRC): Expert-level compliance guidance for ISO ... |
@@ -68,6 +65,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 40,978 | 2026-09-03 | 浙江大学课程攻略共享计划 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | Dism++ Multi-language Support &amp; BUG Report |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SuperSimpleDev/html-css-course](../repos/SuperSimpleDev/html-css-course.md) | ⭐ 2,031 | 2026-09-06 | Watch the course: https:&#x2F;&#x2F;youtu.be&#x2F;G3e-cpL7ofc |
 
 
 ---
@@ -79,14 +82,14 @@
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,375 | 2026-08-03 | 14 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 138,503 | 2026-08-08 | 14 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,438 | 2026-08-19 | 6 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 66,242 | 2026-08-01 | 13 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 66,513 | 2026-08-01 | 14 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,262 | 2026-08-01 | 6 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 40,978 | 2026-09-03 | 1 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,545 | 2026-08-07 | 3 |
 | [fengdu78/Coursera-ML-AndrewNg-Notes](../repos/fengdu78/Coursera-ML-AndrewNg-Notes.md) | ⭐ 37,699 | 2026-09-06 | 1 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 37,645 | 2026-08-12 | 11 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,800 | 2026-08-09 | 9 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,840 | 2026-08-09 | 10 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,529 | 2026-08-19 | 7 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,532 | 2026-08-03 | 9 |
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
@@ -103,16 +106,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 14 | ⭐ 66,513 | 2026-08-01 | 2026-09-28 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 14 | ⭐ 209,375 | 2026-08-03 | 2026-09-22 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 14 | ⭐ 138,503 | 2026-08-08 | 2026-09-25 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 13 | ⭐ 66,242 | 2026-08-01 | 2026-09-22 |
-| [averygan/reclip](../repos/averygan/reclip.md) | 12 | ⭐ 9,214 | 2026-08-03 | 2026-09-12 |
+| [averygan/reclip](../repos/averygan/reclip.md) | 13 | ⭐ 9,754 | 2026-08-03 | 2026-09-28 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 11 | ⭐ 16,561 | 2026-08-04 | 2026-09-21 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 11 | ⭐ 37,645 | 2026-08-12 | 2026-09-10 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 10 | ⭐ 9,776 | 2026-08-01 | 2026-09-03 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 10 | ⭐ 29,840 | 2026-08-09 | 2026-09-28 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 9 | ⭐ 27,532 | 2026-08-03 | 2026-09-20 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 9 | ⭐ 26,740 | 2026-08-04 | 2026-09-21 |
-| [techchipnet/CamPhish](../repos/techchipnet/CamPhish.md) | 9 | ⭐ 5,100 | 2026-08-06 | 2026-09-14 |
 
 ---
 
@@ -212,7 +215,8 @@
 - [rajhodedara/live-sport-plugin](../repos/rajhodedara/live-sport-plugin.md) - A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-ti...
 - [Tencent/weui](../repos/Tencent/weui.md) - A UI library by WeChat official design team, includes the most useful widgets&#x2F;modules in mobile w...
 - [promptpirate-x/discord-id-bypass-tool](../repos/promptpirate-x/discord-id-bypass-tool.md) - A verified tool that works on any potato computer that will let you bypass discord verification
+- [FinMind/FinMind](../repos/FinMind/FinMind.md) - Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https:&#x2F;&#x2F;finmind.github.io&#x2F;
 
 ---
 
-*Last updated: 2026-09-27T21:01:34.516Z*
+*Last updated: 2026-09-28T21:01:49.170Z*
