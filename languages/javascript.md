@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 144
+- **Total Repositories**: 146
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 142,852 | 2026-07-30 | 10 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 65,652 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 64,596 | 2026-08-01 | 16 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 74,188 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Axorax/awesome-free-apps](../repos/Axorax/awesome-free-apps.md) | ⭐ 7,781 | 2026-08-03 | 4 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 72,511 | 2026-08-05 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fishjar/kiss-translator](../repos/fishjar/kiss-translator.md) | ⭐ 12,676 | 2026-08-10 | 4 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 39,807 | 2026-08-06 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 31,676 | 2026-08-19 | 5 |
+| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 946 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mlmvpn/mlmvpn_windows](../repos/mlmvpn/mlmvpn_windows.md) | ⭐ 159 | 2026-09-27 | 2 |
+| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 16,681 | 2026-08-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crocodilestick/Calibre-Web-Automated](../repos/crocodilestick/Calibre-Web-Automated.md) | ⭐ 6,332 | 2026-09-28 | 1 |
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 31,720 | 2026-08-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huilang-me/CF-Server-Monitor](../repos/huilang-me/CF-Server-Monitor.md) | ⭐ 2,302 | 2026-09-28 | 1 |
+| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 8,842 | 2026-08-29 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [crocodilestick/Calibre-Web-Automated](../repos/crocodilestick/Calibre-Web-Automated.md) | ⭐ 6,345 | 2026-09-28 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [QwenAudio/qwen-audio-agent](../repos/QwenAudio/qwen-audio-agent.md) | ⭐ 2,819 | 2026-09-29 | 1 |
 
 
 ---
@@ -92,16 +98,16 @@
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 71,131 | 2026-08-05 | 13 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 74,188 | 2026-08-04 | 17 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 72,511 | 2026-08-05 | 14 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,494 | 2026-08-04 | 2 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 64,596 | 2026-08-01 | 16 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 65,652 | 2026-08-01 | 17 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,420 | 2026-08-11 | 4 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,174 | 2026-08-08 | 3 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
-| [google/zx](../repos/google/zx.md) | ⭐ 45,685 | 2026-08-20 | 2 |
 
 ---
 
@@ -110,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 21 | ⭐ 98,101 | 2026-08-05 | 2026-09-21 |
-| [byoungd/up](../repos/byoungd/up.md) | 16 | ⭐ 64,596 | 2026-08-01 | 2026-09-28 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 16 | ⭐ 43,692 | 2026-08-04 | 2026-09-02 |
+| [byoungd/up](../repos/byoungd/up.md) | 17 | ⭐ 65,652 | 2026-08-01 | 2026-09-29 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 17 | ⭐ 74,188 | 2026-08-04 | 2026-09-29 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 13 | ⭐ 71,131 | 2026-08-05 | 2026-09-25 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 14 | ⭐ 72,511 | 2026-08-05 | 2026-09-29 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 12 | ⭐ 3,368 | 2026-08-07 | 2026-09-20 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 10 | ⭐ 142,852 | 2026-07-30 | 2026-09-28 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 10 | ⭐ 33,479 | 2026-08-02 | 2026-09-22 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 10 | ⭐ 39,807 | 2026-08-06 | 2026-09-29 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 10 | ⭐ 28,819 | 2026-08-08 | 2026-09-19 |
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 9 | ⭐ 39,675 | 2026-08-06 | 2026-09-22 |
 
 ---
 
@@ -167,7 +173,7 @@
 - [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [react/create-react-app](../repos/react/create-react-app.md) - Set up a modern web app by running one command.
 - [vrgamegirl19/comfyui-vrgamedevgirl](../repos/vrgamegirl19/comfyui-vrgamedevgirl.md) - Custom ComfyUI nodes for film grain, color matching, and video enhancement.
-- [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) - A plugin marketplace for Claude Code&#x2F;GitHub Copilot that provides Power Platform development plug...
+- [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) - A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform developm...
 - [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted devel...
 - [lackeyjb/playwright-skill](../repos/lackeyjb/playwright-skill.md) - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously wri...
 - [usebruno/bruno](../repos/usebruno/bruno.md) - Opensource IDE For Exploring and Testing API&#39;s (lightweight alternative to Postman&#x2F;Insomnia)
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.177Z*
+*Last updated: 2026-09-29T21:02:02.223Z*

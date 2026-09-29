@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 6,332 |
-| **Forks** | 🍴 532 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 6,345 |
+| **Forks** | 🍴 534 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 28, 2026 |
-| **Last Seen** | Sep 28, 2026 |
+| **Last Seen** | Sep 29, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Trending Days**: 2
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 40&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-28T21:01:55.834Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-29T21:02:07.142Z*  
+*Data from 2 trending reports*

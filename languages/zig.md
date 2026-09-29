@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 34
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-28
+- **Last Updated**: 2026-09-29
 
 ---
 
@@ -16,31 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,159 | 2026-08-01 | 36 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,160 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 61,647 | 2026-08-01 | 48 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 61,700 | 2026-08-01 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,103 | 2026-08-01 | 44 |
+| [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,172 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,720 | 2026-08-02 | 33 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,110 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [neurocyte/flow](../repos/neurocyte/flow.md) | ⭐ 2,444 | 2026-08-02 | 19 |
+| [david-vanderson/dvui](../repos/david-vanderson/dvui.md) | ⭐ 1,681 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 35,631 | 2026-08-02 | 36 |
+| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,763 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | ⭐ 8,105 | 2026-08-04 | 27 |
+| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,724 | 2026-08-02 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonybanters/oxwm](../repos/tonybanters/oxwm.md) | ⭐ 982 | 2026-08-09 | 20 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [sleep3r/mtproto.zig](../repos/sleep3r/mtproto.zig.md) | ⭐ 2,101 | 2026-09-05 | 14 |
+| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 35,656 | 2026-08-02 | 37 |
 
 
 ---
@@ -73,21 +70,21 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 61,647 | 2026-08-01 | 48 |
-| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 35,631 | 2026-08-02 | 36 |
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,103 | 2026-08-01 | 44 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 61,700 | 2026-08-01 | 49 |
+| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 35,656 | 2026-08-02 | 37 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,110 | 2026-08-01 | 45 |
 | [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | ⭐ 8,105 | 2026-08-04 | 27 |
-| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,720 | 2026-08-02 | 33 |
+| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,724 | 2026-08-02 | 34 |
 | [riverwm/river](../repos/riverwm/river.md) | ⭐ 4,288 | 2026-08-01 | 10 |
 | [zml/zml](../repos/zml/zml.md) | ⭐ 4,084 | 2026-08-01 | 22 |
 | [PixelGuys/Cubyz](../repos/PixelGuys/Cubyz.md) | ⭐ 3,651 | 2026-08-01 | 14 |
 | [mitchellh/libxev](../repos/mitchellh/libxev.md) | ⭐ 3,577 | 2026-08-23 | 6 |
 | [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | ⭐ 3,557 | 2026-08-01 | 19 |
-| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,731 | 2026-08-01 | 33 |
+| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,763 | 2026-08-01 | 34 |
 | [pedropark99/zig-book](../repos/pedropark99/zig-book.md) | ⭐ 2,679 | 2026-08-02 | 3 |
 | [neurocyte/flow](../repos/neurocyte/flow.md) | ⭐ 2,444 | 2026-08-02 | 19 |
 | [ZigEmbeddedGroup/microzig](../repos/ZigEmbeddedGroup/microzig.md) | ⭐ 2,280 | 2026-08-03 | 6 |
-| [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,171 | 2026-08-01 | 30 |
+| [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,172 | 2026-08-01 | 31 |
 | [sleep3r/mtproto.zig](../repos/sleep3r/mtproto.zig.md) | ⭐ 2,101 | 2026-09-05 | 14 |
 | [rockorager/libvaxis](../repos/rockorager/libvaxis.md) | ⭐ 2,007 | 2026-08-01 | 14 |
 | [nullclaw/nullhub](../repos/nullclaw/nullhub.md) | ⭐ 1,859 | 2026-08-02 | 10 |
@@ -100,13 +97,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | 48 | ⭐ 61,647 | 2026-08-01 | 2026-09-28 |
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | 44 | ⭐ 17,103 | 2026-08-01 | 2026-09-28 |
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 36 | ⭐ 1,159 | 2026-08-01 | 2026-09-28 |
-| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | 36 | ⭐ 35,631 | 2026-08-02 | 2026-09-28 |
-| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | 33 | ⭐ 2,731 | 2026-08-01 | 2026-09-21 |
-| [vercel-labs/native](../repos/vercel-labs/native.md) | 33 | ⭐ 7,720 | 2026-08-02 | 2026-09-28 |
-| [neurosnap/zmx](../repos/neurosnap/zmx.md) | 30 | ⭐ 2,171 | 2026-08-01 | 2026-09-27 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | 49 | ⭐ 61,700 | 2026-08-01 | 2026-09-29 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | 45 | ⭐ 17,110 | 2026-08-01 | 2026-09-29 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 37 | ⭐ 1,160 | 2026-08-01 | 2026-09-29 |
+| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | 37 | ⭐ 35,656 | 2026-08-02 | 2026-09-29 |
+| [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | 34 | ⭐ 2,763 | 2026-08-01 | 2026-09-29 |
+| [vercel-labs/native](../repos/vercel-labs/native.md) | 34 | ⭐ 7,724 | 2026-08-02 | 2026-09-29 |
+| [neurosnap/zmx](../repos/neurosnap/zmx.md) | 31 | ⭐ 2,172 | 2026-08-01 | 2026-09-29 |
 | [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 27 | ⭐ 8,105 | 2026-08-04 | 2026-09-28 |
 | [zml/zml](../repos/zml/zml.md) | 22 | ⭐ 4,084 | 2026-08-01 | 2026-09-25 |
 | [tonybanters/oxwm](../repos/tonybanters/oxwm.md) | 20 | ⭐ 982 | 2026-08-09 | 2026-09-28 |
@@ -152,4 +149,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.240Z*
+*Last updated: 2026-09-29T21:02:02.275Z*

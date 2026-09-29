@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | LGPL-2.1 |
-| **Stars** | ⭐ 9,523 |
-| **Forks** | 🍴 4,217 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 9,579 |
+| **Forks** | 🍴 4,256 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Sep 2, 2026 |
+| **Last Seen** | Sep 29, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 2 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 9,523+ stars, strong contributor base |
+| **Community** | Very Active | 9,579+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 70&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-28T21:01:53.386Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-09-29T21:02:05.380Z*  
+*Data from 5 trending reports*

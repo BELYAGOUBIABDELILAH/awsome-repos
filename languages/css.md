@@ -16,31 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,421 | 2026-08-01 | 22 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,424 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,446 | 2026-08-01 | 41 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,448 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,602 | 2026-08-02 | 9 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 29,304 | 2026-08-02 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) | ⭐ 6,082 | 2026-08-02 | 6 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,687 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/google-api-javascript-client](../repos/google/google-api-javascript-client.md) | ⭐ 3,534 | 2026-08-10 | 2 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 5,457 | 2026-08-10 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 5,436 | 2026-08-10 | 13 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Terminus2049/Terminus2049.github.io](../repos/Terminus2049/Terminus2049.github.io.md) | ⭐ 2,372 | 2026-08-20 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,426 | 2026-09-02 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [woowacourse/java-http](../repos/woowacourse/java-http.md) | ⭐ 23 | 2026-09-28 | 1 |
+| [jensimmons/cssremedy](../repos/jensimmons/cssremedy.md) | ⭐ 2,224 | 2026-09-12 | 2 |
 
 
 ---
@@ -76,7 +67,7 @@
 | [aws-samples/amplify-next-template](../repos/aws-samples/amplify-next-template.md) | ⭐ 236 | 2026-09-09 | This is a Next.js starter for building a fullstack app with AWS Amplify. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jensimmons/cssremedy](../repos/jensimmons/cssremedy.md) | ⭐ 2,225 | 2026-09-12 | Start your project with a remedy for the technical debt of CSS.  |
+| [jensimmons/cssremedy](../repos/jensimmons/cssremedy.md) | ⭐ 2,224 | 2026-09-12 | Start your project with a remedy for the technical debt of CSS.  |
 
 
 ---
@@ -88,13 +79,13 @@
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,831 | 2026-08-06 | 16 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,525 | 2026-08-01 | 9 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,340 | 2026-08-04 | 21 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 28,947 | 2026-08-02 | 22 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 29,304 | 2026-08-02 | 23 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,687 | 2026-08-02 | 20 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,421 | 2026-08-01 | 22 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,419 | 2026-08-02 | 19 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,807 | 2026-08-04 | 6 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,650 | 2026-08-06 | 10 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,481 | 2026-08-09 | 2 |
@@ -112,13 +103,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 41 | ⭐ 1,446 | 2026-08-01 | 2026-09-28 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 42 | ⭐ 1,448 | 2026-08-01 | 2026-09-29 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 32 | ⭐ 921 | 2026-08-01 | 2026-09-27 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 23 | ⭐ 29,304 | 2026-08-02 | 2026-09-29 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 22 | ⭐ 12,421 | 2026-08-01 | 2026-09-28 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 22 | ⭐ 28,947 | 2026-08-02 | 2026-09-20 |
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 21 | ⭐ 1,408 | 2026-08-01 | 2026-08-29 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 22 | ⭐ 1,424 | 2026-08-01 | 2026-09-29 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 21 | ⭐ 45,340 | 2026-08-04 | 2026-09-27 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 19 | ⭐ 12,419 | 2026-08-02 | 2026-09-14 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 20 | ⭐ 12,687 | 2026-08-02 | 2026-09-29 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 16 | ⭐ 9,283 | 2026-08-01 | 2026-09-20 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 16 | ⭐ 9,539 | 2026-08-05 | 2026-09-24 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 16 | ⭐ 82,831 | 2026-08-06 | 2026-09-27 |
@@ -198,4 +189,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.147Z*
+*Last updated: 2026-09-29T21:02:02.196Z*

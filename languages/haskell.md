@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 33
+- **Total Repositories**: 35
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-28
+- **Last Updated**: 2026-09-29
 
 ---
 
@@ -16,16 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,686 | 2026-08-01 | 42 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,690 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,092 | 2026-08-01 | 42 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,099 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 300 | 2026-08-08 | 22 |
+| [digital-asset/daml](../repos/digital-asset/daml.md) | ⭐ 917 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iijlab/dnsext](../repos/iijlab/dnsext.md) | ⭐ 80 | 2026-09-28 | 1 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,180 | 2026-08-01 | 19 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,852 | 2026-08-01 | 34 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [agda/agda](../repos/agda/agda.md) | ⭐ 2,934 | 2026-08-03 | 22 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,078 | 2026-08-05 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [rzk-lang/rzk](../repos/rzk-lang/rzk.md) | ⭐ 303 | 2026-09-27 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | ⭐ 4,734 | 2026-09-29 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [actonlang/acton](../repos/actonlang/acton.md) | ⭐ 189 | 2026-09-29 | 1 |
 
 
 ---
@@ -49,10 +67,16 @@
 | [channable/icepeak](../repos/channable/icepeak.md) | ⭐ 135 | 2026-09-25 | Icepeak is a fast JSON document store with push notification support. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [rzk-lang/rzk](../repos/rzk-lang/rzk.md) | ⭐ 298 | 2026-09-27 | An experimental proof assistant based on a type theory for synthetic ∞-categories. |
+| [rzk-lang/rzk](../repos/rzk-lang/rzk.md) | ⭐ 303 | 2026-09-27 | An experimental proof assistant based on a type theory for synthetic ∞-categories. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [iijlab/dnsext](../repos/iijlab/dnsext.md) | ⭐ 80 | 2026-09-28 | A DNS full resolver and a stub command |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | ⭐ 4,734 | 2026-09-29 | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [actonlang/acton](../repos/actonlang/acton.md) | ⭐ 189 | 2026-09-29 | Actor-based, safely typed, fast programming language. |
 
 
 ---
@@ -61,26 +85,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,092 | 2026-08-01 | 42 |
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,686 | 2026-08-01 | 42 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,099 | 2026-08-01 | 43 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,690 | 2026-08-01 | 43 |
 | [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,908 | 2026-08-08 | 3 |
 | [elm/compiler](../repos/elm/compiler.md) | ⭐ 7,901 | 2026-08-09 | 4 |
 | [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,721 | 2026-08-06 | 7 |
 | [carp-lang/Carp](../repos/carp-lang/Carp.md) | ⭐ 6,030 | 2026-09-04 | 1 |
 | [digitallyinduced/ihp](../repos/digitallyinduced/ihp.md) | ⭐ 5,330 | 2026-08-02 | 1 |
-| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,078 | 2026-08-05 | 7 |
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,179 | 2026-08-01 | 18 |
+| [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | ⭐ 4,734 | 2026-09-29 | 1 |
+| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,078 | 2026-08-05 | 8 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,180 | 2026-08-01 | 19 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,960 | 2026-08-01 | 14 |
-| [agda/agda](../repos/agda/agda.md) | ⭐ 2,933 | 2026-08-03 | 21 |
+| [agda/agda](../repos/agda/agda.md) | ⭐ 2,934 | 2026-08-03 | 22 |
 | [wireapp/wire-server](../repos/wireapp/wire-server.md) | ⭐ 2,783 | 2026-08-04 | 2 |
 | [diku-dk/futhark](../repos/diku-dk/futhark.md) | ⭐ 2,778 | 2026-08-02 | 1 |
 | [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | ⭐ 2,565 | 2026-08-03 | 14 |
 | [haskell-servant/servant](../repos/haskell-servant/servant.md) | ⭐ 1,967 | 2026-09-02 | 1 |
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,819 | 2026-08-01 | 33 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,852 | 2026-08-01 | 34 |
 | [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,744 | 2026-08-01 | 18 |
 | [IntersectMBO/plutus](../repos/IntersectMBO/plutus.md) | ⭐ 1,635 | 2026-08-05 | 2 |
-| [digital-asset/daml](../repos/digital-asset/daml.md) | ⭐ 917 | 2026-08-01 | 10 |
-| [cardano-foundation/cardano-wallet](../repos/cardano-foundation/cardano-wallet.md) | ⭐ 821 | 2026-08-03 | 5 |
+| [digital-asset/daml](../repos/digital-asset/daml.md) | ⭐ 917 | 2026-08-01 | 11 |
 
 ---
 
@@ -88,16 +112,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 42 | ⭐ 27,686 | 2026-08-01 | 2026-09-28 |
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 42 | ⭐ 40,092 | 2026-08-01 | 2026-09-28 |
-| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 33 | ⭐ 1,819 | 2026-08-01 | 2026-09-20 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 43 | ⭐ 27,690 | 2026-08-01 | 2026-09-29 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 43 | ⭐ 40,099 | 2026-08-01 | 2026-09-29 |
+| [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 34 | ⭐ 1,852 | 2026-08-01 | 2026-09-29 |
+| [agda/agda](../repos/agda/agda.md) | 22 | ⭐ 2,934 | 2026-08-03 | 2026-09-29 |
 | [mtolly/onyx](../repos/mtolly/onyx.md) | 22 | ⭐ 300 | 2026-08-08 | 2026-09-28 |
-| [agda/agda](../repos/agda/agda.md) | 21 | ⭐ 2,933 | 2026-08-03 | 2026-09-25 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 19 | ⭐ 3,180 | 2026-08-01 | 2026-09-29 |
 | [haskell/cabal](../repos/haskell/cabal.md) | 18 | ⭐ 1,744 | 2026-08-01 | 2026-09-20 |
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 18 | ⭐ 3,179 | 2026-08-01 | 2026-09-24 |
 | [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 14 | ⭐ 2,960 | 2026-08-01 | 2026-09-25 |
 | [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | 14 | ⭐ 2,565 | 2026-08-03 | 2026-09-13 |
-| [digital-asset/daml](../repos/digital-asset/daml.md) | 10 | ⭐ 917 | 2026-08-01 | 2026-09-19 |
+| [digital-asset/daml](../repos/digital-asset/daml.md) | 11 | ⭐ 917 | 2026-08-01 | 2026-09-29 |
 
 ---
 
@@ -136,7 +160,9 @@
 - [channable/icepeak](../repos/channable/icepeak.md) - Icepeak is a fast JSON document store with push notification support.
 - [rzk-lang/rzk](../repos/rzk-lang/rzk.md) - An experimental proof assistant based on a type theory for synthetic ∞-categories.
 - [iijlab/dnsext](../repos/iijlab/dnsext.md) - A DNS full resolver and a stub command
+- [hledgerorg/hledger](../repos/hledgerorg/hledger.md) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [actonlang/acton](../repos/actonlang/acton.md) - Actor-based, safely typed, fast programming language.
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.172Z*
+*Last updated: 2026-09-29T21:02:02.219Z*

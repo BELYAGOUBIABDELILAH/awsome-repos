@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 12,263 |
-| **Forks** | 🍴 5,387 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 12,820 |
+| **Forks** | 🍴 5,573 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 22, 2026 |
-| **Last Seen** | Sep 28, 2026 |
+| **Last Seen** | Sep 29, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
-- **Longest Streak**: 2 days
+- **Trending Days**: 6
+- **Longest Streak**: 3 days
 
 ---
 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 12,263+ stars, strong contributor base |
+| **Community** | Very Active | 12,820+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 85&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-28T21:01:55.676Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-09-29T21:02:07.020Z*  
+*Data from 6 trending reports*

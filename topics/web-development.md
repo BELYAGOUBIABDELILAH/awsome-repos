@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 427
+- **Total Repositories**: 429
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-06
-- **Average Stars**: 22241
+- **Average Stars**: 22160
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 142,852 | JavaScript |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 21,455 | Rust |  |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 21,892 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,763 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,249 | Ruby |  |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,262 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,535 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,539 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,085 | Scala |  |
+| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,281 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,131 | Dart |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,089 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,617 | Vue |  |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,217 | Shell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,703 | Objective-C |  |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,624 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 40,985 | Vim Script |  |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,540 | Vue |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,627 | Objective-C |  |
 
 
 ---
@@ -76,7 +76,7 @@
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 57,493 | PHP | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 21,455 | Rust | 1 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 21,892 | Rust | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,356 | C | 1 |
@@ -88,16 +88,16 @@
 | [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 5,953 | Ruby | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,763 | Ruby | 2 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,763 | Ruby | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,249 | Ruby | 1 |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,262 | Ruby | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,535 | Scala | 1 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,539 | Scala | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,280 | Scala | 2 |
+| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,281 | Scala | 1 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-09-29](../archive/2026/09/2026-09-29.md)
+- 41 repositories trending
+- Top: nvm-sh&#x2F;nvm
+
 ### [2026-09-28](../archive/2026/09/2026-09-28.md)
 - 35 repositories trending
 - Top: practical-tutorials&#x2F;project-based-learning
@@ -154,10 +158,6 @@
 - 44 repositories trending
 - Top: nvm-sh&#x2F;nvm
 
-### [2026-09-22](../archive/2026/09/2026-09-22.md)
-- 34 repositories trending
-- Top: nvm-sh&#x2F;nvm
-
 
 ---
 
@@ -167,16 +167,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 48 days | 2026-08-01 | 2026-09-28 |
-| [vlang/v](../repos/vlang/v.md) | 44 days | 2026-08-01 | 2026-09-28 |
-| [joernio/joern](../repos/joernio/joern.md) | 40 days | 2026-08-01 | 2026-09-28 |
-| [vim/vim](../repos/vim/vim.md) | 39 days | 2026-08-01 | 2026-09-28 |
+| [apache/spark](../repos/apache/spark.md) | 49 days | 2026-08-01 | 2026-09-29 |
+| [vlang/v](../repos/vlang/v.md) | 45 days | 2026-08-01 | 2026-09-29 |
+| [joernio/joern](../repos/joernio/joern.md) | 41 days | 2026-08-01 | 2026-09-29 |
+| [vim/vim](../repos/vim/vim.md) | 40 days | 2026-08-01 | 2026-09-29 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 37 days | 2026-08-01 | 2026-09-25 |
 | [flutter/flutter](../repos/flutter/flutter.md) | 34 days | 2026-08-01 | 2026-09-28 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 33 days | 2026-08-03 | 2026-09-29 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 32 days | 2026-08-01 | 2026-09-14 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 32 days | 2026-08-03 | 2026-09-27 |
-| [opf/openproject](../repos/opf/openproject.md) | 30 days | 2026-08-01 | 2026-09-28 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 30 days | 2026-08-01 | 2026-09-21 |
+| [opf/openproject](../repos/opf/openproject.md) | 31 days | 2026-08-01 | 2026-09-29 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 31 days | 2026-08-01 | 2026-09-29 |
 
 ---
 
@@ -190,9 +190,9 @@
 - **Go**: 30 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 44.7 repositories
+- **Daily Average**: 44.6 repositories
 - **Peak Day**: 2026-08-04 (66 repositories)
-- **Growth Rate**: 19% this month
+- **Growth Rate**: 20% this month
 
 ---
 
@@ -306,4 +306,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:48.911Z*
+*Last updated: 2026-09-29T21:02:01.988Z*

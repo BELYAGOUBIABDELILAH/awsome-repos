@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,592 | 2026-07-30 | 21 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,078 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,133 | 2026-08-03 | 5 |
+| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 40,434 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [envoyproxy/envoy](../repos/envoyproxy/envoy.md) | ⭐ 29,013 | 2026-08-05 | 3 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 30,309 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [futo-org/android-keyboard](../repos/futo-org/android-keyboard.md) | ⭐ 3,265 | 2026-08-09 | 2 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 39,597 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [esphome/esphome](../repos/esphome/esphome.md) | ⭐ 11,745 | 2026-08-17 | 6 |
+| [mltframework/shotcut](../repos/mltframework/shotcut.md) | ⭐ 15,316 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moonlight-stream/moonlight-qt](../repos/moonlight-stream/moonlight-qt.md) | ⭐ 18,812 | 2026-08-24 | 3 |
+| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 21,949 | 2026-08-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mg-chao/snow-apps](../repos/mg-chao/snow-apps.md) | ⭐ 5,225 | 2026-09-21 | 2 |
+| [ml-explore/mlx](../repos/ml-explore/mlx.md) | ⭐ 28,605 | 2026-08-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Themaister/pyrowave](../repos/Themaister/pyrowave.md) | ⭐ 544 | 2026-09-24 | 2 |
+| [kvcache-ai/Mooncake](../repos/kvcache-ai/Mooncake.md) | ⭐ 6,689 | 2026-08-15 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [The412Banner/winlator-contents](../repos/The412Banner/winlator-contents.md) | ⭐ 102 | 2026-09-27 | 2 |
+| [ikawrakow/ik_llama.cpp](../repos/ikawrakow/ik_llama.cpp.md) | ⭐ 3,270 | 2026-08-17 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ammaarreshi/Generals-Mac-iOS-iPad](../repos/ammaarreshi/Generals-Mac-iOS-iPad.md) | ⭐ 1,640 | 2026-09-28 | 1 |
+| [musescore/MuseScore](../repos/musescore/MuseScore.md) | ⭐ 15,155 | 2026-09-06 | 3 |
 
 
 ---
@@ -97,7 +97,7 @@
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,164 | 2026-08-02 | 8 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,568 | 2026-08-12 | 6 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,148 | 2026-08-08 | 13 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 71,999 | 2026-08-01 | 12 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,078 | 2026-08-01 | 13 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,133 | 2026-08-03 | 5 |
@@ -106,8 +106,8 @@
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,533 | 2026-08-19 | 8 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
+| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 40,434 | 2026-08-02 | 6 |
 | [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,335 | 2026-08-09 | 8 |
-| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 39,679 | 2026-08-02 | 5 |
 
 ---
 
@@ -117,10 +117,10 @@
 |------------|---------------|-------|------------|-----------|
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 25 | ⭐ 129,089 | 2026-08-01 | 2026-09-21 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 21 | ⭐ 200,592 | 2026-07-30 | 2026-09-28 |
-| [google/googletest](../repos/google/googletest.md) | 16 | ⭐ 39,583 | 2026-08-04 | 2026-09-25 |
+| [google/googletest](../repos/google/googletest.md) | 17 | ⭐ 39,597 | 2026-08-04 | 2026-09-29 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 13 | ⭐ 511 | 2026-08-01 | 2026-09-25 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 13 | ⭐ 72,078 | 2026-08-01 | 2026-09-29 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 13 | ⭐ 76,148 | 2026-08-08 | 2026-09-10 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 12 | ⭐ 71,999 | 2026-08-01 | 2026-09-04 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 12 | ⭐ 29,564 | 2026-08-01 | 2026-09-02 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 11 | ⭐ 10,993 | 2026-08-02 | 2026-09-14 |
 | [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | 10 | ⭐ 683 | 2026-08-02 | 2026-09-07 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.145Z*
+*Last updated: 2026-09-29T21:02:02.195Z*

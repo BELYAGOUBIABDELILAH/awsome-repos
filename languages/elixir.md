@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 44
+- **Total Repositories**: 45
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-09
 
@@ -16,13 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,382 | 2026-08-01 | 37 |
+| [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,471 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tymeslot/tymeslot](../repos/Tymeslot/tymeslot.md) | ⭐ 216 | 2026-09-01 | 5 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,674 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentjido/req_llm](../repos/agentjido/req_llm.md) | ⭐ 589 | 2026-09-22 | 3 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,383 | 2026-08-01 | 38 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,052 | 2026-08-02 | 41 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,107 | 2026-08-02 | 37 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,171 | 2026-08-03 | 33 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Tymeslot/tymeslot](../repos/Tymeslot/tymeslot.md) | ⭐ 216 | 2026-09-01 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [deepfates/imp](../repos/deepfates/imp.md) | ⭐ 233 | 2026-09-29 | 1 |
 
 
 ---
@@ -68,17 +83,17 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [anoma/anoma](../repos/anoma/anoma.md) | ⭐ 33,620 | 2026-09-04 | 4 |
-| [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,438 | 2026-08-01 | 42 |
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,678 | 2026-08-01 | 40 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,172 | 2026-08-03 | 32 |
+| [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,471 | 2026-08-01 | 43 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,674 | 2026-08-01 | 41 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,171 | 2026-08-03 | 33 |
 | [h4cc/awesome-elixir](../repos/h4cc/awesome-elixir.md) | ⭐ 13,166 | 2026-09-08 | 1 |
-| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,102 | 2026-08-02 | 36 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,040 | 2026-08-02 | 40 |
+| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,107 | 2026-08-02 | 37 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,052 | 2026-08-02 | 41 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,826 | 2026-08-01 | 18 |
 | [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,484 | 2026-08-06 | 1 |
 | [papercups-io/papercups](../repos/papercups-io/papercups.md) | ⭐ 6,113 | 2026-09-21 | 2 |
 | [livebook-dev/livebook](../repos/livebook-dev/livebook.md) | ⭐ 5,862 | 2026-08-05 | 5 |
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,382 | 2026-08-01 | 37 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,383 | 2026-08-01 | 38 |
 | [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,506 | 2026-09-01 | 6 |
 | [expert-lsp/expert](../repos/expert-lsp/expert.md) | ⭐ 2,048 | 2026-08-01 | 6 |
 | [mtrudel/bandit](../repos/mtrudel/bandit.md) | ⭐ 1,915 | 2026-08-22 | 1 |
@@ -94,12 +109,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [openai/symphony](../repos/openai/symphony.md) | 42 | ⭐ 27,438 | 2026-08-01 | 2026-09-27 |
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 40 | ⭐ 26,678 | 2026-08-01 | 2026-09-25 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 40 | ⭐ 9,040 | 2026-08-02 | 2026-09-25 |
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 37 | ⭐ 5,382 | 2026-08-01 | 2026-09-28 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 36 | ⭐ 9,102 | 2026-08-02 | 2026-09-21 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 32 | ⭐ 23,172 | 2026-08-03 | 2026-09-27 |
+| [openai/symphony](../repos/openai/symphony.md) | 43 | ⭐ 27,471 | 2026-08-01 | 2026-09-29 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 41 | ⭐ 26,674 | 2026-08-01 | 2026-09-29 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 41 | ⭐ 9,052 | 2026-08-02 | 2026-09-29 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 38 | ⭐ 5,383 | 2026-08-01 | 2026-09-29 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 37 | ⭐ 9,107 | 2026-08-02 | 2026-09-29 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 33 | ⭐ 23,171 | 2026-08-03 | 2026-09-29 |
 | [open-telemetry/opentelemetry-erlang-contrib](../repos/open-telemetry/opentelemetry-erlang-contrib.md) | 25 | ⭐ 219 | 2026-08-01 | 2026-09-09 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | 18 | ⭐ 6,826 | 2026-08-01 | 2026-09-25 |
 | [icoretech/codex-pooler](../repos/icoretech/codex-pooler.md) | 8 | ⭐ 208 | 2026-08-04 | 2026-09-14 |
@@ -153,7 +168,8 @@
 - [Spectral-Finance/lux](../repos/Spectral-Finance/lux.md) - Lux is an open-source framework for building multi-agent, swarmed intelligence built by Spectral ...
 - [papercups-io/papercups](../repos/papercups-io/papercups.md) - Open-source live customer chat
 - [agentjido/req_llm](../repos/agentjido/req_llm.md) - Composable Elixir library for LLM interactions built on Req and Finch
+- [deepfates/imp](../repos/deepfates/imp.md) - declarative self-improving language-model programs for Elixir 😇
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.158Z*
+*Last updated: 2026-09-29T21:02:02.206Z*

@@ -1,6 +1,6 @@
 # microsoft&#x2F;power-platform-skills
 
-> A plugin marketplace for Claude Code&#x2F;GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.
+> A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;power-platform-skills) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 928 |
-| **Forks** | 🍴 190 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 946 |
+| **Forks** | 🍴 191 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Sep 25, 2026 |
+| **Last Seen** | Sep 29, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-28T21:01:53.112Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-09-29T21:02:05.040Z*  
+*Data from 6 trending reports*

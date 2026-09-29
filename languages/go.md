@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 276
+- **Total Repositories**: 278
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-09-25
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,064 | 2026-07-31 | 11 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 51,680 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,783 | 2026-08-06 | 7 |
+| [kserve/kserve](../repos/kserve/kserve.md) | ⭐ 6,046 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openbao/openbao](../repos/openbao/openbao.md) | ⭐ 8,175 | 2026-08-07 | 4 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 27,514 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rorkai/App-Store-Connect-CLI](../repos/rorkai/App-Store-Connect-CLI.md) | ⭐ 7,507 | 2026-08-09 | 3 |
+| [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) | ⭐ 4,085 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 29,535 | 2026-08-11 | 4 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,509 | 2026-08-06 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 20,785 | 2026-08-11 | 5 |
+| [livekit/livekit](../repos/livekit/livekit.md) | ⭐ 21,183 | 2026-08-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fish2018/pansou](../repos/fish2018/pansou.md) | ⭐ 14,731 | 2026-09-02 | 2 |
+| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 20,807 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [guohuiyuan/go-music-dl](../repos/guohuiyuan/go-music-dl.md) | ⭐ 4,961 | 2026-09-20 | 3 |
+| [trufflesecurity/trufflehog](../repos/trufflesecurity/trufflehog.md) | ⭐ 28,187 | 2026-08-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AminMGMT/BackPack](../repos/AminMGMT/BackPack.md) | ⭐ 401 | 2026-09-21 | 2 |
+| [Gaurav-Gosain/tuios](../repos/Gaurav-Gosain/tuios.md) | ⭐ 4,298 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [daeuniverse/dae](../repos/daeuniverse/dae.md) | ⭐ 6,255 | 2026-09-27 | 2 |
+| [seaweedfs/seaweedfs](../repos/seaweedfs/seaweedfs.md) | ⭐ 35,092 | 2026-08-19 | 4 |
 
 
 ---
@@ -92,7 +92,7 @@
 | [golang/go](../repos/golang/go.md) | ⭐ 139,064 | 2026-07-31 | 11 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,053 | 2026-08-04 | 7 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,237 | 2026-08-15 | 7 |
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,105 | 2026-08-06 | 10 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,509 | 2026-08-06 | 11 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,506 | 2026-08-12 | 7 |
@@ -103,8 +103,8 @@
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,310 | 2026-08-22 | 3 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 51,680 | 2026-08-01 | 13 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 51,008 | 2026-08-01 | 12 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,783 | 2026-08-06 | 7 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 48,695 | 2026-08-01 | 15 |
@@ -120,11 +120,11 @@
 | [ollama/ollama](../repos/ollama/ollama.md) | 14 | ⭐ 181,716 | 2026-08-01 | 2026-09-25 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 14 | ⭐ 3,717 | 2026-08-02 | 2026-09-24 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 14 | ⭐ 42,026 | 2026-08-07 | 2026-09-19 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 13 | ⭐ 51,680 | 2026-08-01 | 2026-09-29 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 13 | ⭐ 38,014 | 2026-08-01 | 2026-09-22 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 12 | ⭐ 51,008 | 2026-08-01 | 2026-09-21 |
 | [golang/go](../repos/golang/go.md) | 11 | ⭐ 139,064 | 2026-07-31 | 2026-09-28 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 11 | ⭐ 91,509 | 2026-08-06 | 2026-09-29 |
 | [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 10 | ⭐ 38,300 | 2026-08-03 | 2026-09-25 |
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 10 | ⭐ 91,105 | 2026-08-06 | 2026-09-21 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.165Z*
+*Last updated: 2026-09-29T21:02:02.212Z*

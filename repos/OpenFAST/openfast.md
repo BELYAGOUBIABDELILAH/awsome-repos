@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Fortran |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 972 |
-| **Forks** | 🍴 542 |
-| **Trending Days** | 29 |
+| **Stars** | ⭐ 976 |
+| **Forks** | 🍴 543 |
+| **Trending Days** | 30 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 25, 2026 |
+| **Last Seen** | Sep 29, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 29
+- **Trending Days**: 30
 - **Longest Streak**: 6 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 972+ stars, strong contributor base |
+| **Community** | Very Active | 976+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:51.950Z*  
-*Data from 29 trending reports*
+*Last updated: 2026-09-29T21:02:04.107Z*  
+*Data from 30 trending reports*

@@ -16,19 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,392 | 2026-08-01 | 36 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,400 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,613 | 2026-08-01 | 18 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,389 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,075 | 2026-08-02 | 12 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,700 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,126 | 2026-08-03 | 9 |
+| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 517 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,236 | 2026-09-02 | 8 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 913 | 2026-08-01 | 30 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,040 | 2026-08-02 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,629 | 2026-08-03 | 24 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,558 | 2026-08-04 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,687 | 2026-08-11 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,240 | 2026-09-02 | 9 |
 
 
 ---
@@ -40,7 +55,7 @@
 | [MicrosoftEdge/WebView2Feedback](../repos/MicrosoftEdge/WebView2Feedback.md) | ⭐ 524 | 2026-09-01 | Feedback and discussions about Microsoft Edge WebView2 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,236 | 2026-09-02 | Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Ser... |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,240 | 2026-09-02 | Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Ser... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jimrtyler/Guerrilla](../repos/jimrtyler/Guerrilla.md) | ⭐ 72 | 2026-09-04 | PowerShell security assessment &amp; continuous monitoring module for Google Workspace, Active Direct... |
@@ -74,23 +89,23 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
-| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,033 | 2026-08-02 | 7 |
+| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,040 | 2026-08-02 | 8 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,392 | 2026-08-01 | 36 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,400 | 2026-08-01 | 37 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,083 | 2026-08-04 | 3 |
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,236 | 2026-09-02 | 8 |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,240 | 2026-09-02 | 9 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,126 | 2026-08-03 | 9 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,073 | 2026-08-06 | 12 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,367 | 2026-08-01 | 20 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,389 | 2026-08-01 | 21 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,038 | 2026-08-01 | 20 |
 | [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,590 | 2026-09-06 | 3 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,838 | 2026-08-04 | 3 |
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,683 | 2026-08-11 | 9 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,613 | 2026-08-01 | 18 |
-| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,538 | 2026-08-04 | 6 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 2,700 | 2026-08-01 | 19 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,687 | 2026-08-11 | 10 |
+| [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,558 | 2026-08-04 | 7 |
 | [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,178 | 2026-08-19 | 7 |
 | [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,078 | 2026-08-07 | 7 |
 
@@ -100,13 +115,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 36 | ⭐ 13,392 | 2026-08-01 | 2026-09-28 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 29 | ⭐ 911 | 2026-08-01 | 2026-09-25 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 23 | ⭐ 1,610 | 2026-08-03 | 2026-09-20 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 37 | ⭐ 13,400 | 2026-08-01 | 2026-09-29 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 30 | ⭐ 913 | 2026-08-01 | 2026-09-29 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 24 | ⭐ 1,629 | 2026-08-03 | 2026-09-29 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 21 | ⭐ 8,389 | 2026-08-01 | 2026-09-29 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 20 | ⭐ 36,799 | 2026-08-01 | 2026-09-21 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 20 | ⭐ 8,367 | 2026-08-01 | 2026-09-22 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 20 | ⭐ 6,038 | 2026-08-01 | 2026-09-22 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 18 | ⭐ 2,613 | 2026-08-01 | 2026-09-28 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 19 | ⭐ 2,700 | 2026-08-01 | 2026-09-29 |
 | [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 18 | ⭐ 465 | 2026-08-04 | 2026-09-25 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 16 | ⭐ 1,475 | 2026-08-01 | 2026-09-19 |
 | [microsoft/work-iq](../repos/microsoft/work-iq.md) | 12 | ⭐ 1,001 | 2026-08-01 | 2026-09-12 |
@@ -171,4 +186,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.203Z*
+*Last updated: 2026-09-29T21:02:02.246Z*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 1
 - **First Seen**: 2026-09-28
-- **Last Updated**: 2026-09-28
+- **Last Updated**: 2026-09-29
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cs341-illinois/coursebook](../repos/cs341-illinois/coursebook.md) | ⭐ 2,450 | 2026-09-28 | 1 |
+| [cs341-illinois/coursebook](../repos/cs341-illinois/coursebook.md) | ⭐ 3,042 | 2026-09-28 | 2 |
 
 
 ---
@@ -25,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cs341-illinois/coursebook](../repos/cs341-illinois/coursebook.md) | ⭐ 2,450 | 2026-09-28 | Open Source Introductory Systems Programming Textbook for the University of Illinois |
+| [cs341-illinois/coursebook](../repos/cs341-illinois/coursebook.md) | ⭐ 3,042 | 2026-09-28 | Open Source Introductory Systems Programming Textbook for the University of Illinois |
 
 
 ---
@@ -34,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cs341-illinois/coursebook](../repos/cs341-illinois/coursebook.md) | ⭐ 2,450 | 2026-09-28 | 1 |
+| [cs341-illinois/coursebook](../repos/cs341-illinois/coursebook.md) | ⭐ 3,042 | 2026-09-28 | 2 |
 
 ---
 
@@ -42,7 +42,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [cs341-illinois/coursebook](../repos/cs341-illinois/coursebook.md) | 1 | ⭐ 2,450 | 2026-09-28 | 2026-09-28 |
+| [cs341-illinois/coursebook](../repos/cs341-illinois/coursebook.md) | 2 | ⭐ 3,042 | 2026-09-28 | 2026-09-29 |
 
 ---
 
@@ -52,4 +52,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.224Z*
+*Last updated: 2026-09-29T21:02:02.263Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 259
+- **Total Repositories**: 260
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-25
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 12,216 | 2026-08-01 | 4 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 127,035 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alirezarezvani/claude-skills](../repos/alirezarezvani/claude-skills.md) | ⭐ 26,764 | 2026-08-04 | 4 |
+| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 83,226 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 285,114 | 2026-08-08 | 4 |
+| [harvard-edge/cs249r_book](../repos/harvard-edge/cs249r_book.md) | ⭐ 28,717 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) | ⭐ 40,803 | 2026-08-09 | 5 |
+| [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) | ⭐ 42,726 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 43,605 | 2026-08-22 | 11 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 47,746 | 2026-08-22 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashhart/TensorFold](../repos/ashhart/TensorFold.md) | ⭐ 551 | 2026-09-28 | 1 |
+| [TencentCloud/Octop](../repos/TencentCloud/Octop.md) | ⭐ 5,776 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/SkillOpt](../repos/microsoft/SkillOpt.md) | ⭐ 17,793 | 2026-09-28 | 1 |
+| [mem0ai/mem0](../repos/mem0ai/mem0.md) | ⭐ 66,321 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [samugit83/redamon](../repos/samugit83/redamon.md) | ⭐ 2,745 | 2026-09-28 | 1 |
+| [microsoft/SkillOpt](../repos/microsoft/SkillOpt.md) | ⭐ 17,869 | 2026-09-28 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Rizzo-AI-Academy/rizzo-pii](../repos/Rizzo-AI-Academy/rizzo-pii.md) | ⭐ 1,097 | 2026-09-28 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mealie-recipes/mealie](../repos/mealie-recipes/mealie.md) | ⭐ 13,365 | 2026-09-28 | 1 |
+| [SemiAnalysisAI/InferenceX](../repos/SemiAnalysisAI/InferenceX.md) | ⭐ 1,785 | 2026-09-29 | 1 |
 
 
 ---
@@ -101,7 +98,7 @@
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 137,924 | 2026-08-04 | 4 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 131,932 | 2026-08-05 | 8 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 125,514 | 2026-08-01 | 12 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 127,035 | 2026-08-01 | 13 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 114,356 | 2026-08-03 | 5 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
@@ -117,8 +114,8 @@
 |------------|---------------|-------|------------|-----------|
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 12 | ⭐ 125,514 | 2026-08-01 | 2026-09-24 |
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 11 | ⭐ 43,605 | 2026-08-22 | 2026-09-28 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 13 | ⭐ 127,035 | 2026-08-01 | 2026-09-29 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 12 | ⭐ 47,746 | 2026-08-22 | 2026-09-29 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 10 | ⭐ 41,423 | 2026-08-03 | 2026-09-01 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 10 | ⭐ 106,016 | 2026-08-08 | 2026-09-14 |
 | [cactus-compute/needle](../repos/cactus-compute/needle.md) | 10 | ⭐ 12,523 | 2026-08-11 | 2026-09-24 |
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.206Z*
+*Last updated: 2026-09-29T21:02:02.248Z*

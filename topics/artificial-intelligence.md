@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 869
+- **Total Repositories**: 881
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-07
-- **Average Stars**: 18109
+- **Average Stars**: 17977
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,592 | C++ |  |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 127,035 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 12,216 | Python |  |
+| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 49,828 | TypeScript |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 49,723 | TypeScript |  |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 21,892 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 21,455 | Rust |  |
+| [kserve/kserve](../repos/kserve/kserve.md) | ⭐ 6,046 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,382 | C |  |
+| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 4,161 | Java |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,919 | Ruby |  |
+| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,396 | C |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,194 | PHP |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,922 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,763 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,535 | Scala |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [apache/texera](../repos/apache/texera.md) | ⭐ 317 | Scala |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,085 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,539 | Scala |  |
 
 
 ---
@@ -76,28 +76,28 @@
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 103,415 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 125,514 | Python | 1 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 127,035 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 12,216 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 49,723 | TypeScript | 1 |
+| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 49,828 | TypeScript | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 4,985 | Rust | 1 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 21,892 | Rust | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 21,455 | Rust | 1 |
+| [kserve/kserve](../repos/kserve/kserve.md) | ⭐ 6,046 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 48,695 | Go | 2 |
+| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 4,161 | Java | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,014 | Go | 1 |
+| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,396 | C | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,382 | C | 1 |
+| [glfw/glfw](../repos/glfw/glfw.md) | ⭐ 15,356 | C | 1 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-09-29](../archive/2026/09/2026-09-29.md)
+- 86 repositories trending
+- Top: harry0703&#x2F;MoneyPrinterTurbo
+
 ### [2026-09-28](../archive/2026/09/2026-09-28.md)
 - 60 repositories trending
 - Top: tensorflow&#x2F;tensorflow
@@ -154,10 +158,6 @@
 - 89 repositories trending
 - Top: harry0703&#x2F;MoneyPrinterTurbo
 
-### [2026-09-22](../archive/2026/09/2026-09-22.md)
-- 75 repositories trending
-- Top: stablyai&#x2F;orca
-
 
 ---
 
@@ -167,32 +167,32 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 48 days | 2026-08-01 | 2026-09-28 |
-| [joernio/joern](../repos/joernio/joern.md) | 40 days | 2026-08-01 | 2026-09-28 |
-| [emqx/emqx](../repos/emqx/emqx.md) | 39 days | 2026-08-01 | 2026-09-28 |
-| [vim/vim](../repos/vim/vim.md) | 39 days | 2026-08-01 | 2026-09-28 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 38 days | 2026-08-01 | 2026-09-28 |
+| [apache/spark](../repos/apache/spark.md) | 49 days | 2026-08-01 | 2026-09-29 |
+| [joernio/joern](../repos/joernio/joern.md) | 41 days | 2026-08-01 | 2026-09-29 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 40 days | 2026-08-01 | 2026-09-29 |
+| [vim/vim](../repos/vim/vim.md) | 40 days | 2026-08-01 | 2026-09-29 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 39 days | 2026-08-01 | 2026-09-29 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 37 days | 2026-08-01 | 2026-09-25 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 36 days | 2026-08-02 | 2026-09-21 |
-| [discourse/discourse](../repos/discourse/discourse.md) | 30 days | 2026-08-01 | 2026-09-28 |
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 30 days | 2026-08-01 | 2026-09-21 |
-| [facebook/infer](../repos/facebook/infer.md) | 30 days | 2026-08-02 | 2026-09-25 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 37 days | 2026-08-02 | 2026-09-29 |
+| [discourse/discourse](../repos/discourse/discourse.md) | 31 days | 2026-08-01 | 2026-09-29 |
+| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 31 days | 2026-08-01 | 2026-09-29 |
+| [facebook/infer](../repos/facebook/infer.md) | 31 days | 2026-08-02 | 2026-09-29 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 128 repositories (15%)
-- **Go**: 108 repositories (12%)
-- **TypeScript**: 87 repositories (10%)
-- **Rust**: 55 repositories (6%)
+- **Python**: 129 repositories (15%)
+- **Go**: 110 repositories (12%)
+- **TypeScript**: 88 repositories (10%)
+- **Rust**: 56 repositories (6%)
 - **C++**: 54 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 82.1 repositories
-- **Peak Day**: 2026-08-19 (144 repositories)
-- **Growth Rate**: 23% this month
+- **Daily Average**: 82.2 repositories
+- **Peak Day**: 2026-08-19 (145 repositories)
+- **Growth Rate**: 24% this month
 
 ---
 
@@ -306,4 +306,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:48.853Z*
+*Last updated: 2026-09-29T21:02:01.922Z*

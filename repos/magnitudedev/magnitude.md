@@ -1,6 +1,6 @@
 # magnitudedev&#x2F;magnitude
 
-> Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.
+> Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;magnitudedev&#x2F;magnitude) 
 
@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | TypeScript |
+| **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 3,628 |
-| **Forks** | 🍴 256 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 5,472 |
+| **Forks** | 🍴 390 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Sep 6, 2026 |
+| **Last Seen** | Sep 29, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or similar-topics*
+*Similar: Check repositories in Rust or similar-topics*
 
 ---
 
@@ -51,7 +51,7 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 4 days
 
 ---
@@ -72,12 +72,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
+| **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
 - General purpose
@@ -85,7 +85,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in TypeScript
+- Check similar projects in Rust
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:54.235Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-09-29T21:02:06.032Z*  
+*Data from 7 trending reports*

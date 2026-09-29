@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 231
+- **Total Repositories**: 232
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,25 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 49,723 | 2026-08-01 | 4 |
+| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 49,828 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 92,542 | 2026-08-02 | 7 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 94,324 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 21,168 | 2026-08-05 | 6 |
+| [cypress-io/cypress](../repos/cypress-io/cypress.md) | ⭐ 51,043 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alsk1992/CloddsBot](../repos/alsk1992/CloddsBot.md) | ⭐ 2,898 | 2026-09-10 | 4 |
+| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 21,786 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvschwarz/openrig](../repos/mvschwarz/openrig.md) | ⭐ 1,623 | 2026-09-25 | 3 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 54,214 | 2026-08-08 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/scriptc](../repos/vercel-labs/scriptc.md) | ⭐ 5,601 | 2026-09-27 | 2 |
+| [oblien/openship](../repos/oblien/openship.md) | ⭐ 13,761 | 2026-08-25 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mobile-next/mobile-mcp](../repos/mobile-next/mobile-mcp.md) | ⭐ 8,233 | 2026-09-27 | 2 |
+| [mvschwarz/openrig](../repos/mvschwarz/openrig.md) | ⭐ 2,342 | 2026-09-25 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [vercel-labs/scriptc](../repos/vercel-labs/scriptc.md) | ⭐ 5,688 | 2026-09-27 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [mobile-next/mobile-mcp](../repos/mobile-next/mobile-mcp.md) | ⭐ 8,403 | 2026-09-27 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [cloudflare/vinext](../repos/cloudflare/vinext.md) | ⭐ 8,979 | 2026-09-29 | 1 |
 
 
 ---
@@ -94,7 +103,7 @@
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 92,542 | 2026-08-02 | 7 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 94,324 | 2026-08-02 | 8 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
 | [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 89,779 | 2026-08-22 | 1 |
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 87,081 | 2026-08-14 | 3 |
@@ -109,9 +118,9 @@
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 15 | ⭐ 147,645 | 2026-08-07 | 2026-09-22 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 13 | ⭐ 8,632 | 2026-08-01 | 2026-09-25 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 13 | ⭐ 33,176 | 2026-08-02 | 2026-09-24 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 13 | ⭐ 54,214 | 2026-08-08 | 2026-09-29 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 13 | ⭐ 78,223 | 2026-08-11 | 2026-09-25 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 12 | ⭐ 25,971 | 2026-08-07 | 2026-09-13 |
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 12 | ⭐ 53,621 | 2026-08-08 | 2026-09-27 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 10 | ⭐ 131,955 | 2026-08-02 | 2026-09-07 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 9 | ⭐ 26,666 | 2026-08-01 | 2026-09-14 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 9 | ⭐ 52,604 | 2026-08-01 | 2026-09-25 |
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.226Z*
+*Last updated: 2026-09-29T21:02:02.265Z*

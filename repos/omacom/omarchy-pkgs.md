@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | MIT |
-| **Stars** | ⭐ 97 |
-| **Forks** | 🍴 111 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 125 |
+| **Forks** | 🍴 231 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 2, 2026 |
-| **Last Seen** | Sep 5, 2026 |
+| **Last Seen** | Sep 29, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 97+ stars, strong contributor base |
+| **Community** | Very Active | 125+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -84,12 +84,12 @@
 - Check similar projects in Shell
 
 #### Metrics
-- **Hidden Gem**: ✗ No
-- **Trending Score**: 35&#x2F;100
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-28T21:01:54.842Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-09-29T21:02:06.487Z*  
+*Data from 3 trending reports*

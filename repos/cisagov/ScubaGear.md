@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PowerShell |
 | **License** | CC0-1.0 |
-| **Stars** | ⭐ 2,683 |
-| **Forks** | 🍴 381 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 2,687 |
+| **Forks** | 🍴 382 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Sep 25, 2026 |
+| **Last Seen** | Sep 29, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 2 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:53.658Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-09-29T21:02:05.585Z*  
+*Data from 10 trending reports*

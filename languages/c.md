@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 205
+- **Total Repositories**: 206
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,382 | 2026-08-01 | 5 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 72,376 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 27,177 | 2026-08-02 | 6 |
+| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,396 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 19,223 | 2026-08-02 | 11 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,420 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,742 | 2026-08-02 | 15 |
+| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,733 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 26,892 | 2026-08-06 | 4 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,645 | 2026-08-06 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 6,772 | 2026-08-08 | 8 |
+| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,105 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [86Box/86Box](../repos/86Box/86Box.md) | ⭐ 4,849 | 2026-08-09 | 5 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 45,482 | 2026-08-07 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [reactos/reactos](../repos/reactos/reactos.md) | ⭐ 18,140 | 2026-08-16 | 6 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,950 | 2026-08-07 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yugabyte/yugabyte-db](../repos/yugabyte/yugabyte-db.md) | ⭐ 10,565 | 2026-08-20 | 3 |
+| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 6,784 | 2026-08-08 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRDP/FreeRDP](../repos/FreeRDP/FreeRDP.md) | ⭐ 13,750 | 2026-08-20 | 8 |
+| [acidanthera/OpenCorePkg](../repos/acidanthera/OpenCorePkg.md) | ⭐ 15,489 | 2026-08-08 | 3 |
 
 
 ---
@@ -93,14 +93,14 @@
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,470 | 2026-08-24 | 3 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,742 | 2026-08-02 | 15 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 71,457 | 2026-08-01 | 18 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 72,376 | 2026-08-01 | 19 |
 | [git/git](../repos/git/git.md) | ⭐ 63,387 | 2026-08-05 | 6 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 44,920 | 2026-08-07 | 19 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 40,402 | 2026-08-01 | 7 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 45,482 | 2026-08-07 | 20 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,420 | 2026-08-01 | 8 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,692 | 2026-08-04 | 9 |
-| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,682 | 2026-08-03 | 5 |
+| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,733 | 2026-08-03 | 6 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,863 | 2026-09-06 | 3 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,195 | 2026-08-01 | 4 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 32,007 | 2026-08-17 | 1 |
@@ -116,11 +116,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 37 | ⭐ 16,761 | 2026-08-01 | 2026-09-25 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 19 | ⭐ 44,920 | 2026-08-07 | 2026-09-25 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 20 | ⭐ 45,482 | 2026-08-07 | 2026-09-29 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 19 | ⭐ 72,376 | 2026-08-01 | 2026-09-29 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 18 | ⭐ 139,013 | 2026-08-01 | 2026-09-25 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 18 | ⭐ 71,457 | 2026-08-01 | 2026-09-19 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 17 | ⭐ 16,608 | 2026-08-06 | 2026-09-24 |
-| [facebook/zstd](../repos/facebook/zstd.md) | 16 | ⭐ 27,819 | 2026-08-07 | 2026-09-10 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 18 | ⭐ 16,645 | 2026-08-06 | 2026-09-29 |
+| [facebook/zstd](../repos/facebook/zstd.md) | 17 | ⭐ 27,950 | 2026-08-07 | 2026-09-29 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 15 | ⭐ 76,742 | 2026-08-02 | 2026-09-28 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 15 | ⭐ 6,952 | 2026-08-04 | 2026-09-09 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 12 | ⭐ 150,145 | 2026-08-07 | 2026-09-21 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.132Z*
+*Last updated: 2026-09-29T21:02:02.182Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Perl |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 3,945 |
-| **Forks** | 🍴 215 |
-| **Trending Days** | 19 |
+| **Stars** | ⭐ 3,946 |
+| **Forks** | 🍴 214 |
+| **Trending Days** | 20 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Sep 28, 2026 |
+| **Last Seen** | Sep 29, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 19
+- **Trending Days**: 20
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:52.249Z*  
-*Data from 19 trending reports*
+*Last updated: 2026-09-29T21:02:04.344Z*  
+*Data from 20 trending reports*

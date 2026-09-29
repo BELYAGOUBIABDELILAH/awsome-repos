@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | HTML |
 | **License** | MIT |
-| **Stars** | ⭐ 9,754 |
-| **Forks** | 🍴 1,495 |
-| **Trending Days** | 13 |
-| **Peak Rank** | #10 |
+| **Stars** | ⭐ 10,015 |
+| **Forks** | 🍴 1,526 |
+| **Trending Days** | 14 |
+| **Peak Rank** | #8 |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Sep 28, 2026 |
+| **Last Seen** | Sep 29, 2026 |
 
 
 ---
@@ -45,11 +45,12 @@
 
 **Sep 1, 2026** — Rank #13 (+21 ⭐)  
 **Sep 3, 2026** — Rank #10 (+123 ⭐)  
+**Sep 29, 2026** — Rank #8 (+114 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #10
-- **Trending Days**: 13
+- **Peak Rank**: #8
+- **Trending Days**: 14
 - **Longest Streak**: 5 days
 
 ---
@@ -71,8 +72,8 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Limited | May require reading source code |
-| **Community** | Small | Niche but dedicated community |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
 | **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -88,10 +89,10 @@
 #### Metrics
 - **Hidden Gem**: ✓ Yes
 - **Trending Score**: 100&#x2F;100
-- **Historical Rank**: Top 10 (Peak: #10)
+- **Historical Rank**: Top 10 (Peak: #8)
 
 
 ---
 
-*Last updated: 2026-09-28T21:01:52.493Z*  
-*Data from 13 trending reports*
+*Last updated: 2026-09-29T21:02:04.547Z*  
+*Data from 14 trending reports*

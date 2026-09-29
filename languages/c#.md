@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 169
+- **Total Repositories**: 170
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-25
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openutau/OpenUtau](../repos/openutau/OpenUtau.md) | ⭐ 4,340 | 2026-08-01 | 5 |
+| [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 10,917 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 29,746 | 2026-08-02 | 26 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,507 | 2026-08-03 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 16,097 | 2026-08-02 | 8 |
+| [SirDiabo/GithubLauncher](../repos/SirDiabo/GithubLauncher.md) | ⭐ 1,655 | 2026-08-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 16,635 | 2026-08-03 | 13 |
+| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,053 | 2026-08-27 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [srwi/EverythingToolbar](../repos/srwi/EverythingToolbar.md) | ⭐ 14,819 | 2026-08-06 | 2 |
+| [RayrenSX/iPhoneMirror](../repos/RayrenSX/iPhoneMirror.md) | ⭐ 928 | 2026-09-24 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,793 | 2026-08-14 | 4 |
+| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 996 | 2026-09-24 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bbepis/XUnity.AutoTranslator](../repos/bbepis/XUnity.AutoTranslator.md) | ⭐ 3,433 | 2026-09-19 | 2 |
+| [Tianyu199509/DeskBox](../repos/Tianyu199509/DeskBox.md) | ⭐ 5,889 | 2026-09-27 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tianyu199509/DeskBox](../repos/Tianyu199509/DeskBox.md) | ⭐ 5,780 | 2026-09-27 | 2 |
+| [RayWangQvQ/BiliBiliToolPro](../repos/RayWangQvQ/BiliBiliToolPro.md) | ⭐ 8,893 | 2026-09-27 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RayWangQvQ/BiliBiliToolPro](../repos/RayWangQvQ/BiliBiliToolPro.md) | ⭐ 8,875 | 2026-09-27 | 2 |
+| [smartstore/Smartstore](../repos/smartstore/Smartstore.md) | ⭐ 1,712 | 2026-09-28 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [smartstore/Smartstore](../repos/smartstore/Smartstore.md) | ⭐ 1,693 | 2026-09-28 | 1 |
+| [MikuLeaks/MikuSB](../repos/MikuLeaks/MikuSB.md) | ⭐ 729 | 2026-09-29 | 1 |
 
 
 ---
@@ -104,7 +104,7 @@
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,957 | 2026-08-10 | 4 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,140 | 2026-08-01 | 7 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,058 | 2026-08-02 | 6 |
-| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 24,907 | 2026-08-27 | 6 |
+| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,053 | 2026-08-27 | 7 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,677 | 2026-08-01 | 9 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,198 | 2026-08-01 | 9 |
@@ -117,7 +117,7 @@
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 26 | ⭐ 29,746 | 2026-08-02 | 2026-09-28 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 22 | ⭐ 116,992 | 2026-08-02 | 2026-09-25 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 20 | ⭐ 5,482 | 2026-08-03 | 2026-09-25 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 21 | ⭐ 5,507 | 2026-08-03 | 2026-09-29 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 17 | ⭐ 31,235 | 2026-08-01 | 2026-09-25 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 17 | ⭐ 56,905 | 2026-08-02 | 2026-09-10 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 17 | ⭐ 15,755 | 2026-08-02 | 2026-09-27 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.142Z*
+*Last updated: 2026-09-29T21:02:02.190Z*

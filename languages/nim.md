@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,248 | 2026-08-01 | 41 |
+| [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 500 | 2026-08-01 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 663 | 2026-08-02 | 11 |
 
 
 ---
@@ -34,9 +37,9 @@
 |------------|-------|------------|---------------|
 | [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,248 | 2026-08-01 | 41 |
 | [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | ⭐ 1,301 | 2026-08-14 | 2 |
-| [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 664 | 2026-08-02 | 10 |
+| [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 663 | 2026-08-02 | 11 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 625 | 2026-08-05 | 2 |
-| [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 500 | 2026-08-01 | 14 |
+| [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 500 | 2026-08-01 | 15 |
 | [crashappsec/chalk](../repos/crashappsec/chalk.md) | ⭐ 438 | 2026-08-05 | 1 |
 | [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | ⭐ 322 | 2026-08-06 | 5 |
 | [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | ⭐ 249 | 2026-08-05 | 7 |
@@ -49,8 +52,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [nim-lang/Nim](../repos/nim-lang/Nim.md) | 41 | ⭐ 18,248 | 2026-08-01 | 2026-09-28 |
-| [nim-lang/packages](../repos/nim-lang/packages.md) | 14 | ⭐ 500 | 2026-08-01 | 2026-09-13 |
-| [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | 10 | ⭐ 664 | 2026-08-02 | 2026-09-25 |
+| [nim-lang/packages](../repos/nim-lang/packages.md) | 15 | ⭐ 500 | 2026-08-01 | 2026-09-29 |
+| [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | 11 | ⭐ 663 | 2026-08-02 | 2026-09-29 |
 | [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | 7 | ⭐ 249 | 2026-08-05 | 2026-09-25 |
 | [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | 5 | ⭐ 322 | 2026-08-06 | 2026-09-12 |
 | [status-im/nim-stew](../repos/status-im/nim-stew.md) | 3 | ⭐ 154 | 2026-08-06 | 2026-08-08 |
@@ -74,4 +77,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.191Z*
+*Last updated: 2026-09-29T21:02:02.237Z*

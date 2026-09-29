@@ -1,6 +1,6 @@
 # Gaurav-Gosain&#x2F;tuios
 
-> Terminal UI OS (Terminal Multiplexer)
+> A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Gaurav-Gosain&#x2F;tuios) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | MIT |
-| **Stars** | ⭐ 3,446 |
-| **Forks** | 🍴 132 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 4,298 |
+| **Forks** | 🍴 182 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 19, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Sep 29, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Go or bubbletea*
+*Similar: Check repositories in Go or ai-agents*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`bubbletea`](../../topics/bubbletea.md) [`charm`](../../topics/charm.md) [`go`](../../topics/go.md) [`multiplexer`](../../topics/multiplexer.md) [`pty`](../../topics/pty.md) [`terminal`](../../topics/terminal.md) 
+[`ai-agents`](../../topics/ai-agents.md) [`bubbletea`](../../topics/bubbletea.md) [`charm`](../../topics/charm.md) [`claude-code`](../../topics/claude-code.md) [`cli`](../../topics/cli.md) [`codex`](../../topics/codex.md) [`coding-agents`](../../topics/coding-agents.md) [`developer-tools`](../../topics/developer-tools.md) [`go`](../../topics/go.md) [`golang`](../../topics/golang.md) [`multiplexer`](../../topics/multiplexer.md) [`pty`](../../topics/pty.md) [`ssh`](../../topics/ssh.md) [`terminal`](../../topics/terminal.md) [`terminal-emulator`](../../topics/terminal-emulator.md) [`terminal-multiplexer`](../../topics/terminal-multiplexer.md) [`tiling-window-manager`](../../topics/tiling-window-manager.md) [`tmux-alternative`](../../topics/tmux-alternative.md) [`tui`](../../topics/tui.md) [`window-manager`](../../topics/window-manager.md) 
 
 ### Curated Categories
-`Systems Programming` 
+`Artificial Intelligence` `Large Language Models` `Frontend Development` `Systems Programming` `Developer Tools` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-28T21:01:54.105Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-09-29T21:02:05.931Z*  
+*Data from 2 trending reports*

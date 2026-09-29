@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 193
+- **Total Repositories**: 196
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-10
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 21,455 | 2026-08-01 | 11 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 21,892 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,165 | 2026-08-05 | 9 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,253 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 23,670 | 2026-08-08 | 21 |
+| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 11,653 | 2026-08-09 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 95,295 | 2026-08-09 | 13 |
+| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 5,472 | 2026-08-20 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [macro-inc/macro](../repos/macro-inc/macro.md) | ⭐ 4,477 | 2026-08-11 | 5 |
+| [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,272 | 2026-08-20 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pacifio/atlas](../repos/pacifio/atlas.md) | ⭐ 8,197 | 2026-08-14 | 8 |
+| [NVIDIA/OpenShell](../repos/NVIDIA/OpenShell.md) | ⭐ 10,445 | 2026-09-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [waditu/czsc](../repos/waditu/czsc.md) | ⭐ 6,328 | 2026-08-14 | 6 |
+| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 15,071 | 2026-09-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [block/buzz](../repos/block/buzz.md) | ⭐ 35,218 | 2026-08-19 | 8 |
+| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 3,662 | 2026-09-13 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
+| [hydra-db/hydradb](../repos/hydra-db/hydradb.md) | ⭐ 12,820 | 2026-09-22 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hydra-db/hydradb](../repos/hydra-db/hydradb.md) | ⭐ 12,263 | 2026-09-22 | 5 |
+| [timhartmann7/omnyssh](../repos/timhartmann7/omnyssh.md) | ⭐ 1,068 | 2026-09-29 | 1 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [raine/workmux](../repos/raine/workmux.md) | ⭐ 2,581 | 2026-09-01 | git worktrees + tmux windows for zero-friction parallel dev |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [NVIDIA/OpenShell](../repos/NVIDIA/OpenShell.md) | ⭐ 8,471 | 2026-09-01 | OpenShell is the safe, private runtime for autonomous AI agents. |
+| [NVIDIA/OpenShell](../repos/NVIDIA/OpenShell.md) | ⭐ 10,445 | 2026-09-01 | OpenShell is the safe, private runtime for autonomous AI agents. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alphaXiv/openresearch-cli](../repos/alphaXiv/openresearch-cli.md) | ⭐ 629 | 2026-09-01 | Run parallel research agents with any model |
@@ -97,14 +97,14 @@
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
-| [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 64,633 | 2026-08-20 | 3 |
+| [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,272 | 2026-08-20 | 4 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 64,099 | 2026-08-03 | 2 |
 | [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | 3 |
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,385 | 2026-08-19 | 5 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,503 | 2026-08-12 | 3 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 45,967 | 2026-08-28 | 1 |
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,165 | 2026-08-05 | 9 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,253 | 2026-08-05 | 10 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 42,307 | 2026-08-02 | 8 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 | [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,341 | 2026-08-02 | 2 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 21 | ⭐ 23,670 | 2026-08-08 | 2026-09-28 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 13 | ⭐ 95,295 | 2026-08-09 | 2026-09-28 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 12 | ⭐ 21,892 | 2026-08-01 | 2026-09-29 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 12 | ⭐ 40,038 | 2026-08-10 | 2026-09-22 |
 | [openai/codex](../repos/openai/codex.md) | 11 | ⭐ 123,093 | 2026-08-01 | 2026-09-10 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | 11 | ⭐ 21,455 | 2026-08-01 | 2026-09-28 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 11 | ⭐ 29,237 | 2026-08-03 | 2026-09-21 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 10 | ⭐ 119,244 | 2026-07-30 | 2026-09-27 |
+| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | 10 | ⭐ 45,253 | 2026-08-05 | 2026-09-29 |
+| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 10 | ⭐ 11,653 | 2026-08-09 | 2026-09-29 |
 | [rustfs/rustfs](../repos/rustfs/rustfs.md) | 10 | ⭐ 33,302 | 2026-08-09 | 2026-09-19 |
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | 9 | ⭐ 45,165 | 2026-08-05 | 2026-09-28 |
-| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 9 | ⭐ 11,298 | 2026-08-09 | 2026-09-20 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.214Z*
+*Last updated: 2026-09-29T21:02:02.255Z*

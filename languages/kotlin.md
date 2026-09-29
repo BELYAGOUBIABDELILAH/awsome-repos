@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 141
+- **Total Repositories**: 142
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-24
 
@@ -16,22 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,530 | 2026-08-02 | 14 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 4,477 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 1,914 | 2026-08-04 | 8 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,550 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,356 | 2026-08-10 | 7 |
+| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 6,289 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wgtunnel/android](../repos/wgtunnel/android.md) | ⭐ 3,214 | 2026-08-15 | 8 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,854 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,334 | 2026-09-07 | 6 |
+| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | ⭐ 1,736 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Codename-11/hermes-relay](../repos/Codename-11/hermes-relay.md) | ⭐ 281 | 2026-09-28 | 1 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,000 | 2026-08-03 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ryfineZ/carrier-ims-for-pixel](../repos/ryfineZ/carrier-ims-for-pixel.md) | ⭐ 1,792 | 2026-08-10 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,364 | 2026-08-10 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,807 | 2026-08-12 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [PortSwigger/mcp-server](../repos/PortSwigger/mcp-server.md) | ⭐ 1,200 | 2026-08-19 | 2 |
 
 
 ---
@@ -77,14 +89,14 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 63,062 | 2026-08-02 | 15 |
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 62,963 | 2026-08-03 | 11 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,000 | 2026-08-03 | 12 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,585 | 2026-08-06 | 13 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,402 | 2026-08-04 | 10 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 42,218 | 2026-08-03 | 10 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,610 | 2026-08-08 | 15 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,338 | 2026-08-05 | 5 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,730 | 2026-08-11 | 3 |
-| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,773 | 2026-08-12 | 6 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,807 | 2026-08-12 | 7 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,718 | 2026-08-01 | 13 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,872 | 2026-08-02 | 5 |
@@ -92,10 +104,10 @@
 | [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,334 | 2026-09-07 | 6 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,820 | 2026-08-17 | 4 |
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,755 | 2026-08-02 | 7 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,854 | 2026-08-02 | 8 |
 | [ktorio/ktor](../repos/ktorio/ktor.md) | ⭐ 14,525 | 2026-09-12 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,644 | 2026-08-06 | 7 |
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,356 | 2026-08-10 | 7 |
+| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,364 | 2026-08-10 | 8 |
 
 ---
 
@@ -104,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 15 | ⭐ 63,062 | 2026-08-02 | 2026-09-24 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 15 | ⭐ 2,550 | 2026-08-02 | 2026-09-29 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 15 | ⭐ 30,610 | 2026-08-08 | 2026-09-25 |
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 14 | ⭐ 2,530 | 2026-08-02 | 2026-09-28 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 13 | ⭐ 23,718 | 2026-08-01 | 2026-09-20 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 13 | ⭐ 53,585 | 2026-08-06 | 2026-09-19 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 12 | ⭐ 10,776 | 2026-08-03 | 2026-09-25 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 12 | ⭐ 63,000 | 2026-08-03 | 2026-09-29 |
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 12 | ⭐ 845 | 2026-08-05 | 2026-09-12 |
+| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 11 | ⭐ 4,477 | 2026-08-02 | 2026-09-29 |
 | [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | 11 | ⭐ 1,175 | 2026-08-02 | 2026-09-27 |
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 11 | ⭐ 62,963 | 2026-08-03 | 2026-09-27 |
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 10 | ⭐ 4,386 | 2026-08-02 | 2026-08-26 |
 
 ---
 
@@ -221,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.182Z*
+*Last updated: 2026-09-29T21:02:02.229Z*

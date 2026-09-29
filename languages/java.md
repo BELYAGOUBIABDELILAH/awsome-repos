@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 203
+- **Total Repositories**: 204
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-19
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MojoLauncher/MojoLauncher](../repos/MojoLauncher/MojoLauncher.md) | ⭐ 1,003 | 2026-08-02 | 6 |
+| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 4,161 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiteLDev/LeviLaunchroid](../repos/LiteLDev/LeviLaunchroid.md) | ⭐ 598 | 2026-08-02 | 3 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,790 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,245 | 2026-08-03 | 7 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,113 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,331 | 2026-08-04 | 7 |
+| [apache/cassandra](../repos/apache/cassandra.md) | ⭐ 10,108 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/flink](../repos/apache/flink.md) | ⭐ 26,372 | 2026-08-04 | 7 |
+| [camunda/camunda](../repos/camunda/camunda.md) | ⭐ 4,299 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [questdb/questdb](../repos/questdb/questdb.md) | ⭐ 17,362 | 2026-08-05 | 5 |
+| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,598 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CaffeineMC/sodium](../repos/CaffeineMC/sodium.md) | ⭐ 5,784 | 2026-08-09 | 8 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,836 | 2026-08-05 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher](../repos/PojavLauncherTeam/PojavLauncher.md) | ⭐ 9,402 | 2026-08-16 | 5 |
+| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,487 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Card-Forge/forge](../repos/Card-Forge/forge.md) | ⭐ 2,751 | 2026-08-16 | 7 |
+| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,029 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iflytek/astron-agent](../repos/iflytek/astron-agent.md) | ⭐ 9,085 | 2026-09-06 | 4 |
+| [checkstyle/checkstyle](../repos/checkstyle/checkstyle.md) | ⭐ 9,579 | 2026-08-09 | 5 |
 
 
 ---
@@ -55,10 +55,10 @@
 | [google/gson](../repos/google/gson.md) | ⭐ 24,229 | 2026-09-01 | A Java serialization&#x2F;deserialization library to convert Java Objects into JSON and back |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jenkinsci/jenkins](../repos/jenkinsci/jenkins.md) | ⭐ 26,541 | 2026-09-01 | Jenkins automation server |
+| [jenkinsci/jenkins](../repos/jenkinsci/jenkins.md) | ⭐ 26,603 | 2026-09-01 | Jenkins automation server |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sepinf-inc/IPED](../repos/sepinf-inc/IPED.md) | ⭐ 2,927 | 2026-09-02 | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze... |
+| [sepinf-inc/IPED](../repos/sepinf-inc/IPED.md) | ⭐ 3,011 | 2026-09-02 | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apereo/cas](../repos/apereo/cas.md) | ⭐ 11,360 | 2026-09-02 | Apereo CAS - Identity &amp; Single Sign On for all earthlings and beyond. |
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,276 | 2026-08-04 | 6 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,520 | 2026-08-04 | 13 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,012 | 2026-08-02 | 12 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,113 | 2026-08-02 | 13 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 75,795 | 2026-08-03 | 14 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,331 | 2026-08-04 | 7 |
@@ -100,11 +100,11 @@
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,878 | 2026-08-04 | 11 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,456 | 2026-08-12 | 4 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
-| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 47,716 | 2026-08-07 | 5 |
+| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,029 | 2026-08-07 | 6 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,787 | 2026-08-05 | 15 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,793 | 2026-08-02 | 8 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,063 | 2026-08-06 | 5 |
+| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,487 | 2026-08-06 | 6 |
 | [PhilJay/MPAndroidChart](../repos/PhilJay/MPAndroidChart.md) | ⭐ 38,169 | 2026-09-21 | 1 |
 | [alibaba/arthas](../repos/alibaba/arthas.md) | ⭐ 37,526 | 2026-08-28 | 2 |
 | [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,511 | 2026-08-08 | 5 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 21 | ⭐ 5,790 | 2026-08-05 | 2026-09-25 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 22 | ⭐ 5,836 | 2026-08-05 | 2026-09-29 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 16 | ⭐ 27,051 | 2026-08-02 | 2026-09-25 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 15 | ⭐ 41,787 | 2026-08-05 | 2026-09-25 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 14 | ⭐ 75,795 | 2026-08-03 | 2026-09-14 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 14 | ⭐ 28,349 | 2026-08-04 | 2026-09-25 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 13 | ⭐ 78,113 | 2026-08-02 | 2026-09-29 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 13 | ⭐ 34,222 | 2026-08-04 | 2026-09-27 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 13 | ⭐ 81,520 | 2026-08-04 | 2026-09-27 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 12 | ⭐ 13,790 | 2026-08-01 | 2026-09-29 |
 | [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | 12 | ⭐ 29,137 | 2026-08-02 | 2026-09-27 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 12 | ⭐ 78,012 | 2026-08-02 | 2026-09-27 |
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 11 | ⭐ 13,775 | 2026-08-01 | 2026-09-25 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-28T21:01:49.174Z*
+*Last updated: 2026-09-29T21:02:02.221Z*

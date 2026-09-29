@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T21:01:56.280Z",
+  "generated_at": "2026-09-29T21:02:07.508Z",
   "total_count": 100,
   "repositories": [
     {
@@ -107,10 +107,10 @@
       "full_name": "ossu/computer-science",
       "owner": "ossu",
       "name": "computer-science",
-      "stars": 209375,
+      "stars": 209605,
       "language": "HTML",
       "first_seen": "2026-08-03",
-      "trending_days": 14
+      "trending_days": 15
     },
     {
       "rank": 12,
@@ -394,6 +394,16 @@
     },
     {
       "rank": 40,
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "stars": 127035,
+      "language": "Python",
+      "first_seen": "2026-08-01",
+      "trending_days": 13
+    },
+    {
+      "rank": 41,
       "full_name": "react/react-native",
       "owner": "react",
       "name": "react-native",
@@ -401,16 +411,6 @@
       "language": "C++",
       "first_seen": "2026-08-04",
       "trending_days": 4
-    },
-    {
-      "rank": 41,
-      "full_name": "harry0703/MoneyPrinterTurbo",
-      "owner": "harry0703",
-      "name": "MoneyPrinterTurbo",
-      "stars": 125514,
-      "language": "Python",
-      "first_seen": "2026-08-01",
-      "trending_days": 12
     },
     {
       "rank": 42,
@@ -697,10 +697,10 @@
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
-      "stars": 95178,
+      "stars": 95217,
       "language": "Shell",
       "first_seen": "2026-08-01",
-      "trending_days": 29
+      "trending_days": 30
     },
     {
       "rank": 71,
@@ -714,6 +714,16 @@
     },
     {
       "rank": 72,
+      "full_name": "paperclipai/paperclip",
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "stars": 94324,
+      "language": "TypeScript",
+      "first_seen": "2026-08-02",
+      "trending_days": 8
+    },
+    {
+      "rank": 73,
       "full_name": "3b1b/manim",
       "owner": "3b1b",
       "name": "manim",
@@ -723,7 +733,7 @@
       "trending_days": 6
     },
     {
-      "rank": 73,
+      "rank": 74,
       "full_name": "localsend/localsend",
       "owner": "localsend",
       "name": "localsend",
@@ -733,17 +743,17 @@
       "trending_days": 22
     },
     {
-      "rank": 74,
-      "full_name": "paperclipai/paperclip",
-      "owner": "paperclipai",
-      "name": "paperclip",
-      "stars": 92542,
-      "language": "TypeScript",
-      "first_seen": "2026-08-02",
-      "trending_days": 7
+      "rank": 75,
+      "full_name": "infiniflow/ragflow",
+      "owner": "infiniflow",
+      "name": "ragflow",
+      "stars": 91509,
+      "language": "Go",
+      "first_seen": "2026-08-06",
+      "trending_days": 11
     },
     {
-      "rank": 75,
+      "rank": 76,
       "full_name": "sherlock-project/sherlock",
       "owner": "sherlock-project",
       "name": "sherlock",
@@ -751,16 +761,6 @@
       "language": "Python",
       "first_seen": "2026-08-02",
       "trending_days": 4
-    },
-    {
-      "rank": 76,
-      "full_name": "infiniflow/ragflow",
-      "owner": "infiniflow",
-      "name": "ragflow",
-      "stars": 91105,
-      "language": "Go",
-      "first_seen": "2026-08-06",
-      "trending_days": 10
     },
     {
       "rank": 77,
@@ -874,6 +874,16 @@
     },
     {
       "rank": 88,
+      "full_name": "bytedance/deer-flow",
+      "owner": "bytedance",
+      "name": "deer-flow",
+      "stars": 83226,
+      "language": "Python",
+      "first_seen": "2026-08-02",
+      "trending_days": 6
+    },
+    {
+      "rank": 89,
       "full_name": "animate-css/animate.css",
       "owner": "animate-css",
       "name": "animate.css",
@@ -883,24 +893,14 @@
       "trending_days": 16
     },
     {
-      "rank": 89,
+      "rank": 90,
       "full_name": "tonsky/FiraCode",
       "owner": "tonsky",
       "name": "FiraCode",
-      "stars": 82075,
+      "stars": 82076,
       "language": "Clojure",
       "first_seen": "2026-08-01",
-      "trending_days": 38
-    },
-    {
-      "rank": 90,
-      "full_name": "bytedance/deer-flow",
-      "owner": "bytedance",
-      "name": "deer-flow",
-      "stars": 81800,
-      "language": "Python",
-      "first_seen": "2026-08-02",
-      "trending_days": 5
+      "trending_days": 39
     },
     {
       "rank": 91,
@@ -997,10 +997,10 @@
       "full_name": "elastic/elasticsearch",
       "owner": "elastic",
       "name": "elasticsearch",
-      "stars": 78012,
+      "stars": 78113,
       "language": "Java",
       "first_seen": "2026-08-02",
-      "trending_days": 12
+      "trending_days": 13
     }
   ]
 }
