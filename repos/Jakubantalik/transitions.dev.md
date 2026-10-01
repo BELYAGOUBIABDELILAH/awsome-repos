@@ -1,6 +1,6 @@
 # Jakubantalik&#x2F;transitions.dev
 
-> Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
+> UI montion AI agent, a library of 43+ crafted transitions, a skill that fits your workflow.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Jakubantalik&#x2F;transitions.dev) 
 
@@ -11,14 +11,14 @@
 | | |
 |---|---|
 | **Language** | HTML |
-| **License** | Not specified |
-| **Stars** | ⭐ 4,102 |
-| **Forks** | 🍴 167 |
-| **Trending Days** | 7 |
+| **License** | Other |
+| **Stars** | ⭐ 4,496 |
+| **Forks** | 🍴 188 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Sep 14, 2026 |
+| **Last Seen** | Oct 1, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-29T21:02:05.583Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-10-01T21:02:03.840Z*  
+*Data from 8 trending reports*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 170
+- **Total Repositories**: 171
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-25
+- **Last Updated**: 2026-10-01
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 10,917 | 2026-08-01 | 4 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,444 | 2026-08-02 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,507 | 2026-08-03 | 21 |
+| [lostindark/DriverStoreExplorer](../repos/lostindark/DriverStoreExplorer.md) | ⭐ 11,757 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SirDiabo/GithubLauncher](../repos/SirDiabo/GithubLauncher.md) | ⭐ 1,655 | 2026-08-27 | 2 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,537 | 2026-08-03 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,053 | 2026-08-27 | 7 |
+| [actions/runner](../repos/actions/runner.md) | ⭐ 6,302 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RayrenSX/iPhoneMirror](../repos/RayrenSX/iPhoneMirror.md) | ⭐ 928 | 2026-09-24 | 2 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,331 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 996 | 2026-09-24 | 2 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,330 | 2026-08-05 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tianyu199509/DeskBox](../repos/Tianyu199509/DeskBox.md) | ⭐ 5,889 | 2026-09-27 | 3 |
+| [SirDiabo/GithubLauncher](../repos/SirDiabo/GithubLauncher.md) | ⭐ 1,674 | 2026-08-27 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RayWangQvQ/BiliBiliToolPro](../repos/RayWangQvQ/BiliBiliToolPro.md) | ⭐ 8,893 | 2026-09-27 | 3 |
+| [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,062 | 2026-08-28 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [smartstore/Smartstore](../repos/smartstore/Smartstore.md) | ⭐ 1,712 | 2026-09-28 | 2 |
+| [mcneel/RhinoAI](../repos/mcneel/RhinoAI.md) | ⭐ 335 | 2026-09-21 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MikuLeaks/MikuSB](../repos/MikuLeaks/MikuSB.md) | ⭐ 729 | 2026-09-29 | 1 |
+| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 1,197 | 2026-09-24 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nilaoda/N_m3u8DL-RE](../repos/nilaoda/N_m3u8DL-RE.md) | ⭐ 8,771 | 2026-09-01 | Cross-Platform, modern and powerful stream downloader for MPD&#x2F;M3U8&#x2F;ISM. English&#x2F;简体中文&#x2F;繁體中文.  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/WinUI-Gallery](../repos/microsoft/WinUI-Gallery.md) | ⭐ 3,620 | 2026-09-01 | This app demonstrates the controls available in WinUI and the Fluent Design System. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [stride3d/stride](../repos/stride3d/stride.md) | ⭐ 7,813 | 2026-09-03 | Stride (formerly Xenko), a free and open-source cross-platform C# game engine. |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Perfare/Il2CppDumper](../repos/Perfare/Il2CppDumper.md) | ⭐ 9,408 | 2026-09-07 | Unity il2cpp reverse engineer |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BluePointLilac/ContextMenuManager](../repos/BluePointLilac/ContextMenuManager.md) | ⭐ 20,102 | 2026-09-08 | 🖱️ 纯粹的Windows右键菜单管理程序 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [STranslate/STranslate](../repos/STranslate/STranslate.md) | ⭐ 8,106 | 2026-09-08 | A ready-to-go translation ocr tool developed with WPF&#x2F;WPF 开发的一款即用即走的翻译、OCR工具 |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 116,992 | 2026-08-02 | 22 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,444 | 2026-08-02 | 23 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,905 | 2026-08-02 | 17 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,513 | 2026-08-06 | 11 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,350 | 2026-08-01 | 9 |
@@ -97,7 +97,7 @@
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,460 | 2026-08-01 | 15 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,235 | 2026-08-01 | 17 |
-| [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,038 | 2026-08-28 | 2 |
+| [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,062 | 2026-08-28 | 3 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 29,746 | 2026-08-02 | 26 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,603 | 2026-08-05 | 11 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 26 | ⭐ 29,746 | 2026-08-02 | 2026-09-28 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 22 | ⭐ 116,992 | 2026-08-02 | 2026-09-25 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 21 | ⭐ 5,507 | 2026-08-03 | 2026-09-29 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 23 | ⭐ 117,444 | 2026-08-02 | 2026-10-01 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 22 | ⭐ 5,537 | 2026-08-03 | 2026-10-01 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 17 | ⭐ 31,235 | 2026-08-01 | 2026-09-25 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 17 | ⭐ 56,905 | 2026-08-02 | 2026-09-10 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 17 | ⭐ 15,755 | 2026-08-02 | 2026-09-27 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 15 | ⭐ 38,460 | 2026-08-01 | 2026-09-25 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | 15 | ⭐ 6,330 | 2026-08-05 | 2026-10-01 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 14 | ⭐ 3,708 | 2026-08-01 | 2026-09-24 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | 14 | ⭐ 18,292 | 2026-08-04 | 2026-09-21 |
-| [microsoft/aspire](../repos/microsoft/aspire.md) | 14 | ⭐ 6,317 | 2026-08-05 | 2026-09-19 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-29T21:02:02.190Z*
+*Last updated: 2026-10-01T21:01:59.040Z*

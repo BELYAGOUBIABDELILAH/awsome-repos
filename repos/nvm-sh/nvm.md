@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | MIT |
-| **Stars** | ⭐ 95,217 |
-| **Forks** | 🍴 10,477 |
-| **Trending Days** | 30 |
+| **Stars** | ⭐ 95,230 |
+| **Forks** | 🍴 10,484 |
+| **Trending Days** | 31 |
 | **Peak Rank** | #3 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 29, 2026 |
+| **Last Seen** | Oct 1, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #3
-- **Trending Days**: 30
+- **Trending Days**: 31
 - **Longest Streak**: 7 days
 
 ---
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-09-29T21:02:03.934Z*  
-*Data from 30 trending reports*
+*Last updated: 2026-10-01T21:02:01.788Z*  
+*Data from 31 trending reports*

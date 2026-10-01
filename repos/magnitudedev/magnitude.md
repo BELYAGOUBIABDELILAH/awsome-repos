@@ -1,6 +1,6 @@
 # magnitudedev&#x2F;magnitude
 
-> Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.
+> Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;magnitudedev&#x2F;magnitude) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 5,472 |
-| **Forks** | 🍴 390 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 6,087 |
+| **Forks** | 🍴 407 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Sep 29, 2026 |
+| **Last Seen** | Oct 1, 2026 |
 
 
 ---
@@ -51,7 +51,7 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 4 days
 
 ---
@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-09-29T21:02:06.032Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-10-01T21:02:04.421Z*  
+*Data from 8 trending reports*

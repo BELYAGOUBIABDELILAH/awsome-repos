@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 68
+- **Total Repositories**: 69
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-27
 
@@ -16,22 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,424 | 2026-08-01 | 22 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 922 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,448 | 2026-08-01 | 42 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,425 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 29,304 | 2026-08-02 | 23 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,451 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,687 | 2026-08-02 | 20 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 29,394 | 2026-08-02 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 5,457 | 2026-08-10 | 14 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,711 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jensimmons/cssremedy](../repos/jensimmons/cssremedy.md) | ⭐ 2,224 | 2026-09-12 | 2 |
+| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,407 | 2026-08-03 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,349 | 2026-08-04 | 22 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,669 | 2026-08-06 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 5,546 | 2026-08-10 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [DeGrandis/canvas-dark-mode](../repos/DeGrandis/canvas-dark-mode.md) | ⭐ 35 | 2026-09-03 | 2 |
 
 
 ---
@@ -46,7 +58,7 @@
 | [CopticScriptorium/corpora](../repos/CopticScriptorium/corpora.md) | ⭐ 51 | 2026-09-02 | Public repository for Coptic SCRIPTORIUM Corpora Releases |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [DeGrandis/canvas-dark-mode](../repos/DeGrandis/canvas-dark-mode.md) | ⭐ 33 | 2026-09-03 | Canvas Dark Mode |
+| [DeGrandis/canvas-dark-mode](../repos/DeGrandis/canvas-dark-mode.md) | ⭐ 35 | 2026-09-03 | Canvas Dark Mode |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [octaviovillegas/CursoIngresoJS](../repos/octaviovillegas/CursoIngresoJS.md) | ⭐ 121 | 2026-09-05 | Curso de ingreso con JavaScript |
@@ -78,23 +90,23 @@
 |------------|-------|------------|---------------|
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,831 | 2026-08-06 | 16 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,525 | 2026-08-01 | 9 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,340 | 2026-08-04 | 21 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 29,304 | 2026-08-02 | 23 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,349 | 2026-08-04 | 22 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 29,394 | 2026-08-02 | 24 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,687 | 2026-08-02 | 20 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,711 | 2026-08-02 | 21 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,421 | 2026-08-01 | 22 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,807 | 2026-08-04 | 6 |
-| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,650 | 2026-08-06 | 10 |
+| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,669 | 2026-08-06 | 11 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,481 | 2026-08-09 | 2 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,539 | 2026-08-05 | 16 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,426 | 2026-09-02 | 5 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,283 | 2026-08-01 | 16 |
-| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,408 | 2026-08-03 | 6 |
+| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,407 | 2026-08-03 | 7 |
 | [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,313 | 2026-08-08 | 8 |
 
 ---
@@ -103,13 +115,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 42 | ⭐ 1,448 | 2026-08-01 | 2026-09-29 |
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 32 | ⭐ 921 | 2026-08-01 | 2026-09-27 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 23 | ⭐ 29,304 | 2026-08-02 | 2026-09-29 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 43 | ⭐ 1,451 | 2026-08-01 | 2026-10-01 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 33 | ⭐ 922 | 2026-08-01 | 2026-10-01 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 24 | ⭐ 29,394 | 2026-08-02 | 2026-10-01 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 23 | ⭐ 1,425 | 2026-08-01 | 2026-10-01 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 22 | ⭐ 12,421 | 2026-08-01 | 2026-09-28 |
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 22 | ⭐ 1,424 | 2026-08-01 | 2026-09-29 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 21 | ⭐ 45,340 | 2026-08-04 | 2026-09-27 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 20 | ⭐ 12,687 | 2026-08-02 | 2026-09-29 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 22 | ⭐ 45,349 | 2026-08-04 | 2026-10-01 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 21 | ⭐ 12,711 | 2026-08-02 | 2026-10-01 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 16 | ⭐ 9,283 | 2026-08-01 | 2026-09-20 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 16 | ⭐ 9,539 | 2026-08-05 | 2026-09-24 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 16 | ⭐ 82,831 | 2026-08-06 | 2026-09-27 |
@@ -186,7 +198,8 @@
 - [NilverTI/Web-Flores](../repos/NilverTI/Web-Flores.md) - Codigo de flores amarillas para regalar &#x2F; enviar a tu novia
 - [MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps](../repos/MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps.md) - Sample repo for Interact with Data for Blazor Web Apps Learn Module
 - [woowacourse/java-http](../repos/woowacourse/java-http.md) - 
+- [bwhtech/commera](../repos/bwhtech/commera.md) - Open Source E-commerce Platform, powered by ERPNext
 
 ---
 
-*Last updated: 2026-09-29T21:02:02.196Z*
+*Last updated: 2026-10-01T21:01:59.045Z*

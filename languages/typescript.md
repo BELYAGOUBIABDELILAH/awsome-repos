@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 232
+- **Total Repositories**: 234
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 49,828 | 2026-08-01 | 5 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 9,302 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 94,324 | 2026-08-02 | 8 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 134,694 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cypress-io/cypress](../repos/cypress-io/cypress.md) | ⭐ 51,043 | 2026-08-04 | 3 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 111,123 | 2026-08-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dream-num/univer](../repos/dream-num/univer.md) | ⭐ 21,786 | 2026-08-05 | 7 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 55,265 | 2026-08-08 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 54,214 | 2026-08-08 | 13 |
+| [cordiverse/cordis](../repos/cordiverse/cordis.md) | ⭐ 8,940 | 2026-08-15 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [oblien/openship](../repos/oblien/openship.md) | ⭐ 13,761 | 2026-08-25 | 3 |
+| [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 90,933 | 2026-08-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvschwarz/openrig](../repos/mvschwarz/openrig.md) | ⭐ 2,342 | 2026-09-25 | 4 |
+| [oblien/openship](../repos/oblien/openship.md) | ⭐ 14,292 | 2026-08-25 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/scriptc](../repos/vercel-labs/scriptc.md) | ⭐ 5,688 | 2026-09-27 | 3 |
+| [humanlayer/skills](../repos/humanlayer/skills.md) | ⭐ 4,787 | 2026-09-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mobile-next/mobile-mcp](../repos/mobile-next/mobile-mcp.md) | ⭐ 8,403 | 2026-09-27 | 3 |
+| [mvschwarz/openrig](../repos/mvschwarz/openrig.md) | ⭐ 3,623 | 2026-09-25 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/vinext](../repos/cloudflare/vinext.md) | ⭐ 8,979 | 2026-09-29 | 1 |
+| [cloudflare/vinext](../repos/cloudflare/vinext.md) | ⭐ 9,057 | 2026-09-29 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [inkeep/open-knowledge](../repos/inkeep/open-knowledge.md) | ⭐ 3,860 | 2026-09-01 | Beautiful, AI-native markdown IDE and LLM wiki |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [YishenTu/claudian](../repos/YishenTu/claudian.md) | ⭐ 15,098 | 2026-09-01 | An Obsidian plugin that embeds Claude Code&#x2F;Codex as an AI collaborator in your vault |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | 2026-09-01 | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vercel-labs/portless](../repos/vercel-labs/portless.md) | ⭐ 12,124 | 2026-09-02 | Replace port numbers with stable, named local URLs. For humans and agents. |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openreplay/openreplay](../repos/openreplay/openreplay.md) | ⭐ 12,660 | 2026-09-03 | Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues a... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [humanlayer/skills](../repos/humanlayer/skills.md) | ⭐ 4,787 | 2026-09-04 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BraveOPotato/FckSignups](../repos/BraveOPotato/FckSignups.md) | ⭐ 4,097 | 2026-09-05 | A list of tools that are open-source, in-browser, and require no-signups! |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [actions/upload-artifact](../repos/actions/upload-artifact.md) | ⭐ 4,188 | 2026-09-05 |  |
 
 
 ---
@@ -95,17 +95,17 @@
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | 2026-09-01 | 2 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 147,645 | 2026-08-07 | 15 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,718 | 2026-08-02 | 5 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 131,955 | 2026-08-02 | 10 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 134,694 | 2026-08-02 | 11 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 108,096 | 2026-08-07 | 9 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 111,123 | 2026-08-07 | 10 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 94,324 | 2026-08-02 | 8 |
+| [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 90,933 | 2026-08-22 | 2 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
-| [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 89,779 | 2026-08-22 | 1 |
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 87,081 | 2026-08-14 | 3 |
 | [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 86,970 | 2026-08-28 | 2 |
 
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 15 | ⭐ 147,645 | 2026-08-07 | 2026-09-22 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 13 | ⭐ 8,632 | 2026-08-01 | 2026-09-25 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 14 | ⭐ 9,302 | 2026-08-01 | 2026-10-01 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 14 | ⭐ 55,265 | 2026-08-08 | 2026-10-01 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 13 | ⭐ 33,176 | 2026-08-02 | 2026-09-24 |
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 13 | ⭐ 54,214 | 2026-08-08 | 2026-09-29 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 13 | ⭐ 78,223 | 2026-08-11 | 2026-09-25 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 12 | ⭐ 25,971 | 2026-08-07 | 2026-09-13 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 10 | ⭐ 131,955 | 2026-08-02 | 2026-09-07 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | 11 | ⭐ 134,694 | 2026-08-02 | 2026-10-01 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | 10 | ⭐ 111,123 | 2026-08-07 | 2026-10-01 |
 | [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 9 | ⭐ 26,666 | 2026-08-01 | 2026-09-14 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 9 | ⭐ 52,604 | 2026-08-01 | 2026-09-25 |
-| [makeplane/plane](../repos/makeplane/plane.md) | 9 | ⭐ 58,350 | 2026-08-06 | 2026-08-26 |
 
 ---
 
@@ -186,7 +186,6 @@
 - [playcanvas/supersplat](../repos/playcanvas/supersplat.md) - 3D Gaussian Splat Editor
 - [KnockOutEZ/wigolo](../repos/KnockOutEZ/wigolo.md) - The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No...
 - [promptfoo/promptfoo](../repos/promptfoo/promptfoo.md) - Test your prompts, agents, and RAGs. Red teaming&#x2F;pentesting&#x2F;vulnerability scanning for AI. Compar...
-- [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [anthropics/claude-code](../repos/anthropics/claude-code.md) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...
 - [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one &#x2F;v1...
 - [open-mercato/open-mercato](../repos/open-mercato/open-mercato.md) - AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural ...
@@ -230,7 +229,8 @@
 - [Jakubantalik/Libraries](../repos/Jakubantalik/Libraries.md) - Collection of effects for React: Border beam, Liquid Gooey
 - [every-app/open-seo](../repos/every-app/open-seo.md) - Open source alternative to Semrush and Ahrefs
 - [documenso/documenso](../repos/documenso/documenso.md) - The Open Source DocuSign Alternative.
+- [vercel-labs/deepsec](../repos/vercel-labs/deepsec.md) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 
 ---
 
-*Last updated: 2026-09-29T21:02:02.265Z*
+*Last updated: 2026-10-01T21:01:59.158Z*

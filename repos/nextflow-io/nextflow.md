@@ -1,6 +1,6 @@
 # nextflow-io&#x2F;nextflow
 
-> A DSL for data-driven computational pipelines
+> A workflow language for data-driven computational pipelines
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;nextflow-io&#x2F;nextflow) 
 
@@ -13,12 +13,12 @@
 | **Language** | Groovy |
 | **License** | Apache-2.0 |
 | **Stars** | ⭐ 3,495 |
-| **Forks** | 🍴 812 |
-| **Trending Days** | 25 |
+| **Forks** | 🍴 813 |
+| **Trending Days** | 26 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Sep 29, 2026 |
+| **Last Seen** | Oct 1, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 25
+- **Trending Days**: 26
 - **Longest Streak**: 5 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-29T21:02:04.394Z*  
-*Data from 25 trending reports*
+*Last updated: 2026-10-01T21:02:02.462Z*  
+*Data from 26 trending reports*

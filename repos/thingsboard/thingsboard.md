@@ -1,6 +1,6 @@
 # thingsboard&#x2F;thingsboard
 
-> Open-source IoT Platform - Device management, data collection, processing and visualization.
+> All-in-one IoT Platform - Device management, data collection, processing and visualization.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;thingsboard&#x2F;thingsboard) 
 
@@ -11,14 +11,14 @@
 | | |
 |---|---|
 | **Language** | Java |
-| **License** | Apache-2.0 |
-| **Stars** | ⭐ 22,481 |
-| **Forks** | 🍴 6,472 |
-| **Trending Days** | 4 |
+| **License** | Other |
+| **Stars** | ⭐ 22,501 |
+| **Forks** | 🍴 6,487 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Sep 25, 2026 |
+| **Last Seen** | Oct 1, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 65&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-29T21:02:05.164Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-10-01T21:02:03.459Z*  
+*Data from 5 trending reports*

@@ -1,6 +1,6 @@
 # mvschwarz&#x2F;openrig
 
-> Multi-agent harness that runs Claude Code and Codex together as one system
+> Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;mvschwarz&#x2F;openrig) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 2,342 |
-| **Forks** | 🍴 170 |
-| **Trending Days** | 4 |
-| **Peak Rank** | #6 |
+| **Stars** | ⭐ 3,623 |
+| **Forks** | 🍴 244 |
+| **Trending Days** | 5 |
+| **Peak Rank** | #5 |
 
 | **First Seen** | Sep 25, 2026 |
-| **Last Seen** | Sep 29, 2026 |
+| **Last Seen** | Oct 1, 2026 |
 
 
 ---
@@ -46,11 +46,12 @@
 **Sep 27, 2026** — Rank #7 (+114 ⭐)  
 **Sep 28, 2026** — Rank #7 (+781 ⭐)  
 **Sep 29, 2026** — Rank #6 (+733 ⭐)  
+**Oct 1, 2026** — Rank #5 (+640 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #6
-- **Trending Days**: 4
+- **Peak Rank**: #5
+- **Trending Days**: 5
 - **Longest Streak**: 3 days
 
 ---
@@ -88,11 +89,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 75&#x2F;100
-- **Historical Rank**: Top 10 (Peak: #6)
+- **Trending Score**: 80&#x2F;100
+- **Historical Rank**: Top 5 (Peak: #5)
 
 
 ---
 
-*Last updated: 2026-09-29T21:02:07.090Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-10-01T21:02:05.762Z*  
+*Data from 5 trending reports*

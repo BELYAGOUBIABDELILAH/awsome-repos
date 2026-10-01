@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 196
+- **Total Repositories**: 199
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-09-10
+- **Last Updated**: 2026-10-01
 
 ---
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 21,892 | 2026-08-01 | 12 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 127,538 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,253 | 2026-08-05 | 10 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 23,706 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 11,653 | 2026-08-09 | 10 |
+| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 21,457 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 5,472 | 2026-08-20 | 7 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 95,867 | 2026-08-09 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,272 | 2026-08-20 | 4 |
+| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 11,824 | 2026-08-09 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/OpenShell](../repos/NVIDIA/OpenShell.md) | ⭐ 10,445 | 2026-09-01 | 2 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 40,407 | 2026-08-10 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 15,071 | 2026-09-04 | 6 |
+| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 6,087 | 2026-08-20 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 3,662 | 2026-09-13 | 3 |
+| [firecracker-microvm/firecracker](../repos/firecracker-microvm/firecracker.md) | ⭐ 37,098 | 2026-08-20 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hydra-db/hydradb](../repos/hydra-db/hydradb.md) | ⭐ 12,820 | 2026-09-22 | 6 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 8,600 | 2026-08-26 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [timhartmann7/omnyssh](../repos/timhartmann7/omnyssh.md) | ⭐ 1,068 | 2026-09-29 | 1 |
+| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 8,202 | 2026-08-27 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apache/iggy](../repos/apache/iggy.md) | ⭐ 4,731 | 2026-09-01 | Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [raine/workmux](../repos/raine/workmux.md) | ⭐ 2,581 | 2026-09-01 | git worktrees + tmux windows for zero-friction parallel dev |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NVIDIA/OpenShell](../repos/NVIDIA/OpenShell.md) | ⭐ 10,445 | 2026-09-01 | OpenShell is the safe, private runtime for autonomous AI agents. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [alphaXiv/openresearch-cli](../repos/alphaXiv/openresearch-cli.md) | ⭐ 629 | 2026-09-01 | Run parallel research agents with any model |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [librespot-org/librespot](../repos/librespot-org/librespot.md) | ⭐ 7,071 | 2026-09-02 | Open Source Spotify client library |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [qufei1993/skills-hub](../repos/qufei1993/skills-hub.md) | ⭐ 1,560 | 2026-09-03 | A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI cod... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | A curated list of Rust code and resources. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 15,480 | 2026-09-04 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [GreptimeTeam/greptimedb](../repos/GreptimeTeam/greptimedb.md) | ⭐ 6,642 | 2026-09-04 | The open-source observability database. One columnar engine for metrics, logs, and traces, on obj... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [coulsontl/ai-toolbox](../repos/coulsontl/ai-toolbox.md) | ⭐ 1,380 | 2026-09-05 | Personal AI Toolbox |
 
 
 ---
@@ -88,11 +88,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 123,093 | 2026-08-01 | 11 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 127,538 | 2026-08-01 | 12 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,244 | 2026-07-30 | 10 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,064 | 2026-08-11 | 8 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 95,295 | 2026-08-09 | 13 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 95,867 | 2026-08-09 | 14 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 90,142 | 2026-07-31 | 4 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
@@ -103,11 +103,11 @@
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,385 | 2026-08-19 | 5 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,503 | 2026-08-12 | 3 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
-| [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 45,967 | 2026-08-28 | 1 |
+| [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,253 | 2026-08-05 | 10 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 42,307 | 2026-08-02 | 8 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
-| [nushell/nushell](../repos/nushell/nushell.md) | ⭐ 40,341 | 2026-08-02 | 2 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 40,407 | 2026-08-10 | 13 |
 
 ---
 
@@ -116,14 +116,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 21 | ⭐ 23,670 | 2026-08-08 | 2026-09-28 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 13 | ⭐ 95,295 | 2026-08-09 | 2026-09-28 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | 12 | ⭐ 21,892 | 2026-08-01 | 2026-09-29 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 12 | ⭐ 40,038 | 2026-08-10 | 2026-09-22 |
-| [openai/codex](../repos/openai/codex.md) | 11 | ⭐ 123,093 | 2026-08-01 | 2026-09-10 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 14 | ⭐ 95,867 | 2026-08-09 | 2026-10-01 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 13 | ⭐ 23,706 | 2026-08-01 | 2026-10-01 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 13 | ⭐ 40,407 | 2026-08-10 | 2026-10-01 |
+| [openai/codex](../repos/openai/codex.md) | 12 | ⭐ 127,538 | 2026-08-01 | 2026-10-01 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 11 | ⭐ 29,237 | 2026-08-03 | 2026-09-21 |
+| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 11 | ⭐ 11,824 | 2026-08-09 | 2026-10-01 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 10 | ⭐ 119,244 | 2026-07-30 | 2026-09-27 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | 10 | ⭐ 45,253 | 2026-08-05 | 2026-09-29 |
-| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 10 | ⭐ 11,653 | 2026-08-09 | 2026-09-29 |
 | [rustfs/rustfs](../repos/rustfs/rustfs.md) | 10 | ⭐ 33,302 | 2026-08-09 | 2026-09-19 |
 
 ---
@@ -191,6 +191,7 @@
 - [GCWing/BitFun](../repos/GCWing/BitFun.md) - BitFun combines a high-performance agent runtime written in Rust with a polished desktop applicat...
 - [EFForg/rayhunter](../repos/EFForg/rayhunter.md) - Rust tool to detect cell site simulators on an orbic mobile hotspot 
 - [nubjs/nub](../repos/nubjs/nub.md) - The fast all-in-one Node.js toolkit
+- [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [denoland/celld](../repos/denoland/celld.md) - self-hosted, distributed Durable Objects
 - [glzr-io/glazewm](../repos/glzr-io/glazewm.md) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
 - [cloudflare/pingora](../repos/cloudflare/pingora.md) - A library for building fast, reliable and evolvable network services.
@@ -215,7 +216,7 @@
 - [Automattic/harper](../repos/Automattic/harper.md) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [apache/datafusion](../repos/apache/datafusion.md) - Apache DataFusion SQL Query Engine
 - [screenpipe/screenpipe](../repos/screenpipe/screenpipe.md) - YC (S26) | Record your screen 24&#x2F;7 and plug into your agents. Local, private, secure. Connect to ...
-- [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workf...
+- [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
 - [mufeedvh/code2prompt](../repos/mufeedvh/code2prompt.md) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating,...
 - [macro-inc/macro](../repos/macro-inc/macro.md) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-link...
 - [alacritty/alacritty](../repos/alacritty/alacritty.md) - A cross-platform, OpenGL terminal emulator.
@@ -229,8 +230,7 @@
 - [tonhowtf/omniget](../repos/tonhowtf/omniget.md) - Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. ...
 - [pacifio/atlas](../repos/pacifio/atlas.md) - Source control for agents. Use multiple coding agents, track their changes and query them in one ...
 - [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity &#x2F; Codex &#x2F; GitHub Copilot &#x2F; Windsurf &#x2F; Kiro &#x2F; Cursor &#x2F; Gemini-...
-- [waditu/czsc](../repos/waditu/czsc.md) - 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易
 
 ---
 
-*Last updated: 2026-09-29T21:02:02.255Z*
+*Last updated: 2026-10-01T21:01:59.138Z*

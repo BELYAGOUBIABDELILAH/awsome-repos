@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 204
+- **Total Repositories**: 205
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-19
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 4,161 | 2026-08-01 | 10 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,255 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,790 | 2026-08-01 | 12 |
+| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,506 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,113 | 2026-08-02 | 13 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,800 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/cassandra](../repos/apache/cassandra.md) | ⭐ 10,108 | 2026-08-04 | 5 |
+| [woheller69/FreeDroidWarn](../repos/woheller69/FreeDroidWarn.md) | ⭐ 3,534 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [camunda/camunda](../repos/camunda/camunda.md) | ⭐ 4,299 | 2026-08-04 | 3 |
+| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 29,454 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,598 | 2026-08-05 | 10 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 28,660 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 5,836 | 2026-08-05 | 22 |
+| [questdb/questdb](../repos/questdb/questdb.md) | ⭐ 17,405 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,487 | 2026-08-06 | 6 |
+| [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) | ⭐ 13,191 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,029 | 2026-08-07 | 6 |
+| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,264 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [checkstyle/checkstyle](../repos/checkstyle/checkstyle.md) | ⭐ 9,579 | 2026-08-09 | 5 |
+| [thingsboard/thingsboard](../repos/thingsboard/thingsboard.md) | ⭐ 22,501 | 2026-08-08 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/gson](../repos/google/gson.md) | ⭐ 24,229 | 2026-09-01 | A Java serialization&#x2F;deserialization library to convert Java Objects into JSON and back |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jenkinsci/jenkins](../repos/jenkinsci/jenkins.md) | ⭐ 26,603 | 2026-09-01 | Jenkins automation server |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sepinf-inc/IPED](../repos/sepinf-inc/IPED.md) | ⭐ 3,011 | 2026-09-02 | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [spring-ai-alibaba/DataAgent](../repos/spring-ai-alibaba/DataAgent.md) | ⭐ 2,609 | 2026-09-05 | Spring AI Alibaba DataAgent |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MuntashirAkon/AppManager](../repos/MuntashirAkon/AppManager.md) | ⭐ 8,897 | 2026-09-05 | A full-featured package manager and viewer for Android |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [iflytek/astron-agent](../repos/iflytek/astron-agent.md) | ⭐ 9,096 | 2026-09-06 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation Supe... |
 
 
 ---
@@ -95,7 +95,7 @@
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 75,795 | 2026-08-03 | 14 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,331 | 2026-08-04 | 7 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,249 | 2026-08-08 | 6 |
+| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,264 | 2026-08-08 | 7 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,905 | 2026-08-02 | 11 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,878 | 2026-08-04 | 11 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,456 | 2026-08-12 | 4 |
@@ -117,13 +117,13 @@
 |------------|---------------|-------|------------|-----------|
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 22 | ⭐ 5,836 | 2026-08-05 | 2026-09-29 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 16 | ⭐ 27,051 | 2026-08-02 | 2026-09-25 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 15 | ⭐ 28,660 | 2026-08-04 | 2026-10-01 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 15 | ⭐ 41,787 | 2026-08-05 | 2026-09-25 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 14 | ⭐ 75,795 | 2026-08-03 | 2026-09-14 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 14 | ⭐ 28,349 | 2026-08-04 | 2026-09-25 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 13 | ⭐ 13,800 | 2026-08-01 | 2026-10-01 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 13 | ⭐ 78,113 | 2026-08-02 | 2026-09-29 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 13 | ⭐ 34,222 | 2026-08-04 | 2026-09-27 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 13 | ⭐ 81,520 | 2026-08-04 | 2026-09-27 |
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 12 | ⭐ 13,790 | 2026-08-01 | 2026-09-29 |
 | [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | 12 | ⭐ 29,137 | 2026-08-02 | 2026-09-27 |
 
 ---
@@ -217,7 +217,7 @@
 - [kdn251/interviews](../repos/kdn251/interviews.md) - Everything you need to know to get the job.
 - [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) - Spring Framework
 - [anddea/revanced-patches](../repos/anddea/revanced-patches.md) - 🧩 Patches for ReVanced
-- [thingsboard/thingsboard](../repos/thingsboard/thingsboard.md) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [thingsboard/thingsboard](../repos/thingsboard/thingsboard.md) - All-in-one IoT Platform - Device management, data collection, processing and visualization.
 - [apache/cloudstack](../repos/apache/cloudstack.md) - Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
 - [micrometer-metrics/micrometer](../repos/micrometer-metrics/micrometer.md) - An application observability facade for the most popular observability tools. Think SLF4J, but fo...
 - [doocs/leetcode](../repos/doocs/leetcode.md) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第...
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-29T21:02:02.221Z*
+*Last updated: 2026-10-01T21:01:59.079Z*

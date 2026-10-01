@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 260
+- **Total Repositories**: 265
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-25
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 127,035 | 2026-08-01 | 13 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 127,927 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bytedance/deer-flow](../repos/bytedance/deer-flow.md) | ⭐ 83,226 | 2026-08-02 | 6 |
+| [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 80,006 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harvard-edge/cs249r_book](../repos/harvard-edge/cs249r_book.md) | ⭐ 28,717 | 2026-08-04 | 4 |
+| [PostHog/posthog](../repos/PostHog/posthog.md) | ⭐ 40,080 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) | ⭐ 42,726 | 2026-08-09 | 6 |
+| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 140,508 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 47,746 | 2026-08-22 | 12 |
+| [alirezarezvani/claude-skills](../repos/alirezarezvani/claude-skills.md) | ⭐ 27,162 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/Octop](../repos/TencentCloud/Octop.md) | ⭐ 5,776 | 2026-09-19 | 2 |
+| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 76,310 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mem0ai/mem0](../repos/mem0ai/mem0.md) | ⭐ 66,321 | 2026-09-19 | 2 |
+| [google/skills](../repos/google/skills.md) | ⭐ 20,563 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/SkillOpt](../repos/microsoft/SkillOpt.md) | ⭐ 17,869 | 2026-09-28 | 2 |
+| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 7,960 | 2026-08-15 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SemiAnalysisAI/InferenceX](../repos/SemiAnalysisAI/InferenceX.md) | ⭐ 1,785 | 2026-09-29 | 1 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 51,295 | 2026-08-22 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [elder-plinius/OBLITERATUS](../repos/elder-plinius/OBLITERATUS.md) | ⭐ 8,551 | 2026-08-23 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 46,418 | 2026-09-01 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jingyaogong/minimind](../repos/jingyaogong/minimind.md) | ⭐ 58,507 | 2026-09-01 | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [handsomestWei/patent-disclosure-skill](../repos/handsomestWei/patent-disclosure-skill.md) | ⭐ 6,661 | 2026-09-01 | 中国专利.skill：专利点挖掘与交底书（发明&#x2F;实用&#x2F;外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apurvsinghgautam/robin](../repos/apurvsinghgautam/robin.md) | ⭐ 6,907 | 2026-09-01 | AI-Powered Dark Web OSINT Tool |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mujocolab/mjlab](../repos/mujocolab/mjlab.md) | ⭐ 2,937 | 2026-09-01 | Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NVIDIA/SkillSpector](../repos/NVIDIA/SkillSpector.md) | ⭐ 16,276 | 2026-09-01 | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks,... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [noonghunna/club-3090](../repos/noonghunna/club-3090.md) | ⭐ 2,146 | 2026-09-01 | Community recipes for serving LLMs on RTX 3090&#x2F;4090&#x2F;5090 CUDA gpus. Multi-engine (vLLM, llama.cpp... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sngyai/Sequoia-X](../repos/sngyai/Sequoia-X.md) | ⭐ 6,724 | 2026-09-02 | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
@@ -77,6 +59,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PDFMathTranslate/PDFMathTranslate](../repos/PDFMathTranslate/PDFMathTranslate.md) | ⭐ 36,627 | 2026-09-02 | [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [datawhalechina/hello-agents](../repos/datawhalechina/hello-agents.md) | ⭐ 78,270 | 2026-09-02 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [shaxiu/XianyuAutoAgent](../repos/shaxiu/XianyuAutoAgent.md) | ⭐ 8,967 | 2026-09-02 | 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [teng-lin/notebooklm-py](../repos/teng-lin/notebooklm-py.md) | ⭐ 19,089 | 2026-09-02 | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to N... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [netalertx/NetAlertX](../repos/netalertx/NetAlertX.md) | ⭐ 7,030 | 2026-09-03 | Centralized network visibility and continuous asset discovery.  Monitor devices, detect change, a... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [datacurve-ai/deep-swe](../repos/datacurve-ai/deep-swe.md) | ⭐ 1,589 | 2026-09-03 | Measuring frontier coding agents on original, long-horizon engineering tasks |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bikini/exploitarium](../repos/bikini/exploitarium.md) | ⭐ 4,902 | 2026-09-04 | A single archive of public exploit PoCs and vulnerability research writeups. At the time I post t... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [radixark/miles](../repos/radixark/miles.md) | ⭐ 2,631 | 2026-09-04 | Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, for... |
 
 
 ---
@@ -95,10 +98,10 @@
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 181,591 | 2026-09-07 | 2 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,921 | 2026-07-31 | 7 |
-| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 137,924 | 2026-08-04 | 4 |
+| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 140,508 | 2026-08-04 | 5 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 131,932 | 2026-08-05 | 8 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 127,035 | 2026-08-01 | 13 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 127,927 | 2026-08-01 | 14 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 114,356 | 2026-08-03 | 5 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
@@ -113,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 14 | ⭐ 127,927 | 2026-08-01 | 2026-10-01 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 13 | ⭐ 127,035 | 2026-08-01 | 2026-09-29 |
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 12 | ⭐ 47,746 | 2026-08-22 | 2026-09-29 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 13 | ⭐ 51,295 | 2026-08-22 | 2026-10-01 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 10 | ⭐ 41,423 | 2026-08-03 | 2026-09-01 |
+| [PostHog/posthog](../repos/PostHog/posthog.md) | 10 | ⭐ 40,080 | 2026-08-03 | 2026-10-01 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 10 | ⭐ 106,016 | 2026-08-08 | 2026-09-14 |
 | [cactus-compute/needle](../repos/cactus-compute/needle.md) | 10 | ⭐ 12,523 | 2026-08-11 | 2026-09-24 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 9 | ⭐ 1,384 | 2026-08-01 | 2026-08-28 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 9 | ⭐ 55,947 | 2026-08-03 | 2026-09-25 |
-| [PostHog/posthog](../repos/PostHog/posthog.md) | 9 | ⭐ 39,719 | 2026-08-03 | 2026-09-09 |
 
 ---
 
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-29T21:02:02.248Z*
+*Last updated: 2026-10-01T21:01:59.125Z*

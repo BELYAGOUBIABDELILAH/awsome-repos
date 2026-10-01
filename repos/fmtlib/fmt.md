@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | MIT |
-| **Stars** | ⭐ 25,560 |
-| **Forks** | 🍴 3,042 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 25,854 |
+| **Forks** | 🍴 3,077 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 12, 2026 |
-| **Last Seen** | Sep 5, 2026 |
+| **Last Seen** | Oct 1, 2026 |
 
 
 ---
@@ -51,7 +51,7 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 4 days
 
 ---
@@ -76,7 +76,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-09-29T21:02:05.620Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-10-01T21:02:03.886Z*  
+*Data from 9 trending reports*

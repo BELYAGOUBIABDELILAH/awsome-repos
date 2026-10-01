@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | TypeScript |
-| **License** | MIT |
-| **Stars** | ⭐ 20,405 |
-| **Forks** | 🍴 2,236 |
-| **Trending Days** | 6 |
+| **Language** | Rust |
+| **License** | Other |
+| **Stars** | ⭐ 21,457 |
+| **Forks** | 🍴 2,367 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Sep 9, 2026 |
+| **Last Seen** | Oct 1, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or similar-topics*
+*Similar: Check repositories in Rust or similar-topics*
 
 ---
 
@@ -51,7 +51,7 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 5 days
 
 ---
@@ -72,12 +72,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
+| **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
 - General purpose
@@ -85,15 +85,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in TypeScript
+- Check similar projects in Rust
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 95&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-09-29T21:02:05.032Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-10-01T21:02:03.277Z*  
+*Data from 7 trending reports*

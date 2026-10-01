@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 146
+- **Total Repositories**: 147
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 65,652 | 2026-08-01 | 17 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 66,612 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 74,188 | 2026-08-04 | 17 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 33,755 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 72,511 | 2026-08-05 | 14 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 75,760 | 2026-08-04 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 39,807 | 2026-08-06 | 10 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 100,319 | 2026-08-05 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 946 | 2026-08-07 | 6 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 73,583 | 2026-08-05 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 16,681 | 2026-08-14 | 6 |
+| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 159,005 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 31,720 | 2026-08-19 | 6 |
+| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 39,600 | 2026-08-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 8,842 | 2026-08-29 | 8 |
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 31,810 | 2026-08-19 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crocodilestick/Calibre-Web-Automated](../repos/crocodilestick/Calibre-Web-Automated.md) | ⭐ 6,345 | 2026-09-28 | 2 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 46,128 | 2026-08-27 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QwenAudio/qwen-audio-agent](../repos/QwenAudio/qwen-audio-agent.md) | ⭐ 2,819 | 2026-09-29 | 1 |
+| [openai/plugins](../repos/openai/plugins.md) | ⭐ 7,251 | 2026-08-27 | 10 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [amElnagdy/delegate-skills](../repos/amElnagdy/delegate-skills.md) | ⭐ 1,783 | 2026-09-01 | Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Neet-Nestor/Telegram-Media-Downloader](../repos/Neet-Nestor/Telegram-Media-Downloader.md) | ⭐ 5,407 | 2026-09-01 | A script allowing you to download images and videos from Telegram web even if the group restricts... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/MoGe](../repos/microsoft/MoGe.md) | ⭐ 2,870 | 2026-09-01 | [CVPR&#39;25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [xinnan-tech/xiaozhi-esp32-server](../repos/xinnan-tech/xiaozhi-esp32-server.md) | ⭐ 10,476 | 2026-09-01 | 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [JoeanAmier/XHS-Downloader](../repos/JoeanAmier/XHS-Downloader.md) | ⭐ 12,565 | 2026-09-01 | 小红书（XiaoHongShu、RedNote）链接提取&#x2F;作品采集工具 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jgraph/drawio](../repos/jgraph/drawio.md) | ⭐ 7,880 | 2026-09-02 | draw.io is a JavaScript, client-side editor for general diagramming. |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ilysenko/codex-desktop-linux](../repos/ilysenko/codex-desktop-linux.md) | ⭐ 3,772 | 2026-09-06 | Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s of... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mekos2772/ios-location-spoofer](../repos/mekos2772/ios-location-spoofer.md) | ⭐ 4,199 | 2026-09-07 | Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket&#x2F;Surge&#x2F;Loon&#x2F;QX&#x2F;S... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Yu9191/wloc](../repos/Yu9191/wloc.md) | ⭐ 10,339 | 2026-09-07 | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge &#x2F; Quantumult X &#x2F; Loon &#x2F; Stash · 快捷指令一键设置&#x2F;恢复定位 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [koodo-reader/koodo-reader](../repos/koodo-reader/koodo-reader.md) | ⭐ 28,098 | 2026-09-07 | A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Andr... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [viarotel-org/escrcpy](../repos/viarotel-org/escrcpy.md) | ⭐ 11,643 | 2026-09-08 | 📱 Display and control your Android device graphically with scrcpy. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [open-gsd/gsd-core](../repos/open-gsd/gsd-core.md) | ⭐ 9,821 | 2026-09-09 | Git. Ship. Done - Core |
 
 
 ---
@@ -90,19 +90,19 @@
 |------------|-------|------------|---------------|
 | [react/react](../repos/react/react.md) | ⭐ 247,637 | 2026-08-04 | 2 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
-| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 157,730 | 2026-08-06 | 2 |
+| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 159,005 | 2026-08-06 | 3 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 142,852 | 2026-07-30 | 10 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 98,101 | 2026-08-05 | 21 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 100,319 | 2026-08-05 | 22 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 74,188 | 2026-08-04 | 17 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 72,511 | 2026-08-05 | 14 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 75,760 | 2026-08-04 | 18 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 73,583 | 2026-08-05 | 15 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,494 | 2026-08-04 | 2 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 66,612 | 2026-08-01 | 18 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 65,652 | 2026-08-01 | 17 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,420 | 2026-08-11 | 4 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
@@ -115,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 21 | ⭐ 98,101 | 2026-08-05 | 2026-09-21 |
-| [byoungd/up](../repos/byoungd/up.md) | 17 | ⭐ 65,652 | 2026-08-01 | 2026-09-29 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 17 | ⭐ 74,188 | 2026-08-04 | 2026-09-29 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 22 | ⭐ 100,319 | 2026-08-05 | 2026-10-01 |
+| [byoungd/up](../repos/byoungd/up.md) | 18 | ⭐ 66,612 | 2026-08-01 | 2026-10-01 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 18 | ⭐ 75,760 | 2026-08-04 | 2026-10-01 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 14 | ⭐ 72,511 | 2026-08-05 | 2026-09-29 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 15 | ⭐ 73,583 | 2026-08-05 | 2026-10-01 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 12 | ⭐ 3,368 | 2026-08-07 | 2026-09-20 |
+| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 11 | ⭐ 33,755 | 2026-08-02 | 2026-10-01 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 10 | ⭐ 142,852 | 2026-07-30 | 2026-09-28 |
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 10 | ⭐ 33,479 | 2026-08-02 | 2026-09-22 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 10 | ⭐ 39,807 | 2026-08-06 | 2026-09-29 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 10 | ⭐ 28,819 | 2026-08-08 | 2026-09-19 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-29T21:02:02.223Z*
+*Last updated: 2026-10-01T21:01:59.082Z*

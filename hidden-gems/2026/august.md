@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 365
+**Gems Found**: 361
 
 ---
 
@@ -91,27 +91,7 @@
 
 ---
 
-### 5. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
-
-**Open-source framework for the research and development of foundation models.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,876 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 85/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 24, 2026 |
-
-**Why it's a gem**: High growth velocity (+529 stars&#x2F;day) • Trending 5 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/marin-community/marin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;marin-community&#x2F;marin)
-
----
-
-### 6. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+### 5. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
 
 **GitHub Stacked PRs**
 
@@ -131,7 +111,7 @@
 
 ---
 
-### 7. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+### 6. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
 
 **OCTO Android Client — Open-source enterprise IM**
 
@@ -148,6 +128,26 @@
 **Best for**: 
 
 [View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
+
+---
+
+### 7. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
+
+**Open-source framework for the research and development of foundation models.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,876 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 84/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 24, 2026 |
+
+**Why it's a gem**: High growth velocity (+529 stars&#x2F;day) • Trending 5 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/marin-community/marin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;marin-community&#x2F;marin)
 
 ---
 
@@ -171,27 +171,7 @@
 
 ---
 
-### 9. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
-
-**A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 423 |
-| 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 83/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+77 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/h3nock/remux.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;h3nock&#x2F;remux)
-
----
-
-### 10. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
+### 9. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
 
 **BookOrbit: Your Reading Space**
 
@@ -211,27 +191,27 @@
 
 ---
 
-### 11. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 10. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
 
-**ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
+**A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,230 |
-| 💻 **Language** | Python |
+| ⭐ **Stars** | 423 |
+| 💻 **Language** | Swift |
 | 🏆 **Gem Score** | 82/100 |
 | 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 4, 2026 |
+| 📅 **First Seen** | Aug 6, 2026 |
 
-**Why it's a gem**: High growth velocity (+436 stars&#x2F;day) • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+77 stars&#x2F;day) • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/uber/ADR.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;uber&#x2F;ADR)
+[View Passport](../../repos/h3nock/remux.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;h3nock&#x2F;remux)
 
 ---
 
-### 12. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
+### 11. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
 
 **Mission control for your AI agents**
 
@@ -251,7 +231,7 @@
 
 ---
 
-### 13. [livekit&#x2F;agents](../../repos/livekit/agents.md)
+### 12. [livekit&#x2F;agents](../../repos/livekit/agents.md)
 
 **A framework for building realtime voice AI agents 🤖🎙️📹 **
 
@@ -268,6 +248,26 @@
 **Best for**: 
 
 [View Passport](../../repos/livekit/agents.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;livekit&#x2F;agents)
+
+---
+
+### 13. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+
+**ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,230 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 81/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+436 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/uber/ADR.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;uber&#x2F;ADR)
 
 ---
 
@@ -291,27 +291,7 @@
 
 ---
 
-### 15. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
-
-**Portable Tool for an Ideal Windows Setup**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,621 |
-| 💻 **Language** | C# |
-| 🏆 **Gem Score** | 81/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 24, 2026 |
-
-**Why it's a gem**: High growth velocity (+52 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Greedeks/GTweak.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Greedeks&#x2F;GTweak)
-
----
-
-### 16. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
+### 15. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
 
 **BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
+### 16. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
 
 **Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy&#39;s LLM Wiki pattern.**
 
@@ -351,7 +331,7 @@
 
 ---
 
-### 18. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+### 17. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
 
 **Visualize your year in travel using your Google Location History (Timeline) data**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
+### 18. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
 
 **A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.**
 
@@ -388,6 +368,26 @@
 **Best for**: 
 
 [View Passport](../../repos/Tencent/AI-Infra-Guard.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tencent&#x2F;AI-Infra-Guard)
+
+---
+
+### 19. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+
+**Portable Tool for an Ideal Windows Setup**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,621 |
+| 💻 **Language** | C# |
+| 🏆 **Gem Score** | 80/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 24, 2026 |
+
+**Why it's a gem**: High growth velocity (+52 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Greedeks/GTweak.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Greedeks&#x2F;GTweak)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-09-29T21:02:07.370Z*  
+*Generated: 2026-10-01T21:02:06.177Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

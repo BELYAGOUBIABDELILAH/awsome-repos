@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 126
+- **Total Repositories**: 128
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,217 | 2026-08-01 | 30 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,230 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 6,839 | 2026-08-02 | 7 |
+| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 2,797 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 2,776 | 2026-08-02 | 8 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,235 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 7,936 | 2026-08-04 | 7 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,987 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,761 | 2026-08-04 | 10 |
+| [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) | ⭐ 4,137 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,638 | 2026-08-07 | 23 |
+| [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,184 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/adk-docs](../repos/google/adk-docs.md) | ⭐ 1,507 | 2026-08-14 | 3 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,864 | 2026-08-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,753 | 2026-09-01 | 3 |
+| [juewuy/ShellCrash](../repos/juewuy/ShellCrash.md) | ⭐ 13,540 | 2026-08-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy-pkgs](../repos/omacom/omarchy-pkgs.md) | ⭐ 125 | 2026-09-02 | 3 |
+| [ONLYOFFICE/DocumentServer](../repos/ONLYOFFICE/DocumentServer.md) | ⭐ 6,962 | 2026-09-25 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pystardust/ani-cli](../repos/pystardust/ani-cli.md) | ⭐ 13,907 | 2026-09-06 | 2 |
+| [AppImage/appimage.github.io](../repos/AppImage/appimage.github.io.md) | ⭐ 406 | 2026-10-01 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,753 | 2026-09-01 | 最好用的 sing-box 一键安装脚本 &amp; 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [raphabot/awesome-cybersecurity-agentic-ai](../repos/raphabot/awesome-cybersecurity-agentic-ai.md) | ⭐ 577 | 2026-09-01 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | Fish-like autosuggestions for zsh |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [aditya-shri/VPN](../repos/aditya-shri/VPN.md) | ⭐ 2,104 | 2026-09-06 | Personal VPN using Shadowsocks and v2ray |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sabamdarif/termux-desktop](../repos/sabamdarif/termux-desktop.md) | ⭐ 2,287 | 2026-09-06 | Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) a... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) | ⭐ 1,023 | 2026-09-07 | 面向数学建模竞赛的 Claude Code &#x2F; Codex Skills ，支持分阶段建模流程与 Python、MATLAB&#x2F;北太天元代码分支。 |
 
 
 ---
@@ -89,9 +89,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,217 | 2026-08-01 | 30 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,230 | 2026-08-01 | 31 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,417 | 2026-08-04 | 6 |
-| [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 54,875 | 2026-08-07 | 1 |
+| [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,184 | 2026-08-07 | 2 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,392 | 2026-08-06 | 10 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,761 | 2026-08-04 | 10 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 40,042 | 2026-08-29 | 3 |
@@ -100,7 +100,7 @@
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,563 | 2026-09-02 | 2 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,582 | 2026-08-04 | 9 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,987 | 2026-08-04 | 10 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,950 | 2026-08-07 | 5 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 30 | ⭐ 95,217 | 2026-08-01 | 2026-09-29 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 31 | ⭐ 95,230 | 2026-08-01 | 2026-10-01 |
 | [expo/skills](../repos/expo/skills.md) | 23 | ⭐ 2,638 | 2026-08-07 | 2026-09-29 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [github/copilot-cli](../repos/github/copilot-cli.md) | 16 | ⭐ 11,211 | 2026-08-04 | 2026-09-25 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | 17 | ⭐ 11,235 | 2026-08-04 | 2026-10-01 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 16 | ⭐ 6,854 | 2026-08-12 | 2026-09-20 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 12 | ⭐ 2,316 | 2026-08-02 | 2026-09-25 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 10 | ⭐ 47,761 | 2026-08-04 | 2026-09-29 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 10 | ⭐ 25,987 | 2026-08-04 | 2026-10-01 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 10 | ⭐ 2,865 | 2026-08-05 | 2026-09-19 |
 | [dockur/windows](../repos/dockur/windows.md) | 10 | ⭐ 53,392 | 2026-08-06 | 2026-09-24 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 9 | ⭐ 25,582 | 2026-08-04 | 2026-09-01 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-29T21:02:02.259Z*
+*Last updated: 2026-10-01T21:01:59.146Z*

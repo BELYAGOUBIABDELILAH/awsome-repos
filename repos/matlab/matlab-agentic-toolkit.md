@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | MATLAB |
 | **License** | Other |
-| **Stars** | ⭐ 1,120 |
-| **Forks** | 🍴 135 |
-| **Trending Days** | 11 |
+| **Stars** | ⭐ 1,122 |
+| **Forks** | 🍴 136 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 10, 2026 |
-| **Last Seen** | Sep 29, 2026 |
+| **Last Seen** | Oct 1, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 11
+- **Trending Days**: 12
 - **Longest Streak**: 4 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`agent-skills`](../../topics/agent-skills.md) [`claude-code`](../../topics/claude-code.md) [`codex-plugin`](../../topics/codex-plugin.md) [`engineering-agents`](../../topics/engineering-agents.md) [`github-copilot`](../../topics/github-copilot.md) [`matlab`](../../topics/matlab.md) [`matlab-mcp-server`](../../topics/matlab-mcp-server.md) 
+[`agent-skills`](../../topics/agent-skills.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`codex-plugin`](../../topics/codex-plugin.md) [`codex-skills`](../../topics/codex-skills.md) [`engineering-agents`](../../topics/engineering-agents.md) [`github-copilot`](../../topics/github-copilot.md) [`matlab`](../../topics/matlab.md) [`matlab-mcp-server`](../../topics/matlab-mcp-server.md) 
 
 ### Curated Categories
 `Large Language Models` `Backend Development` `Systems Programming` 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-09-29T21:02:06.792Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-10-01T21:02:05.384Z*  
+*Data from 12 trending reports*

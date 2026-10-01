@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 119
+- **Total Repositories**: 121
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-22
 
@@ -16,43 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 12,508 | 2026-08-01 | 21 |
+| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,355 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/container](../repos/apple/container.md) | ⭐ 50,393 | 2026-08-01 | 16 |
+| [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | ⭐ 10,437 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 27,505 | 2026-08-01 | 13 |
+| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,529 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,943 | 2026-08-04 | 14 |
+| [swiftlang/swift-syntax](../repos/swiftlang/swift-syntax.md) | ⭐ 3,704 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,890 | 2026-08-04 | 11 |
+| [stripe/stripe-ios](../repos/stripe/stripe-ios.md) | ⭐ 2,569 | 2026-08-15 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/tart](../repos/openai/tart.md) | ⭐ 7,235 | 2026-08-14 | 8 |
+| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,683 | 2026-09-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ronitsingh10/FineTune](../repos/ronitsingh10/FineTune.md) | ⭐ 9,488 | 2026-08-22 | 9 |
+| [grishka/NearDrop](../repos/grishka/NearDrop.md) | ⭐ 6,285 | 2026-10-01 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kaishi00/hermes-conduit](../repos/kaishi00/hermes-conduit.md) | ⭐ 154 | 2026-09-29 | 1 |
+| [apple/swift-collections](../repos/apple/swift-collections.md) | ⭐ 4,512 | 2026-10-01 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Nanako0129/TokenBar](../repos/Nanako0129/TokenBar.md) | ⭐ 317 | 2026-09-01 | AI token usage &amp; quota monitor for the macOS menu bar — native Swift, Liquid Glass, 3D contributi... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 3,224 | 2026-09-01 | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Us... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cshariq/Sapphire](../repos/cshariq/Sapphire.md) | ⭐ 175 | 2026-09-02 | The all in one mac app that redefines the notch |
@@ -70,10 +61,19 @@
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | 2026-09-04 | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,600 | 2026-09-06 | Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alt... |
+| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,683 | 2026-09-06 | Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alt... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | A modern Wine wrapper for macOS built with SwiftUI |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Manic-EMU/ManicEMU](../repos/Manic-EMU/ManicEMU.md) | ⭐ 524 | 2026-09-07 | Manic EMU is an all-in-one retro game emulator for iOS. It packs powerful features while keeping ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PlayCover/PlayCover](../repos/PlayCover/PlayCover.md) | ⭐ 11,797 | 2026-09-07 | Community fork of PlayCover |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [uzairansaruzi/hermex](../repos/uzairansaruzi/hermex.md) | ⭐ 1,415 | 2026-09-08 | Native iPhone app for your Hermes agent |
 
 
 ---
@@ -227,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-09-29T21:02:02.262Z*
+*Last updated: 2026-10-01T21:01:59.151Z*

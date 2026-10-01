@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 206
+- **Total Repositories**: 207
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 72,376 | 2026-08-01 | 19 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,143 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,396 | 2026-08-01 | 6 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 72,762 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [php/php-src](../repos/php/php-src.md) | ⭐ 40,420 | 2026-08-01 | 8 |
+| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,364 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,733 | 2026-08-03 | 6 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,829 | 2026-08-01 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,645 | 2026-08-06 | 18 |
+| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,756 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,105 | 2026-08-07 | 8 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,665 | 2026-08-06 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 45,482 | 2026-08-07 | 20 |
+| [quickjs-ng/quickjs](../repos/quickjs-ng/quickjs.md) | ⭐ 3,851 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,950 | 2026-08-07 | 17 |
+| [EpicGames/raddebugger](../repos/EpicGames/raddebugger.md) | ⭐ 7,560 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 6,784 | 2026-08-08 | 9 |
+| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 19,136 | 2026-08-12 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acidanthera/OpenCorePkg](../repos/acidanthera/OpenCorePkg.md) | ⭐ 15,489 | 2026-08-08 | 3 |
+| [stackia/rtp2httpd](../repos/stackia/rtp2httpd.md) | ⭐ 2,195 | 2026-08-22 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [merbanan/rtl_433](../repos/merbanan/rtl_433.md) | ⭐ 7,822 | 2026-09-01 | Program to decode radio transmissions from devices on the ISM bands (and other frequencies) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [RT-Thread/rt-thread](../repos/RT-Thread/rt-thread.md) | ⭐ 12,202 | 2026-09-01 | RT-Thread is an open source IoT Real-Time Operating System (RTOS).                               ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OpenVPN/openvpn](../repos/OpenVPN/openvpn.md) | ⭐ 14,485 | 2026-09-01 | OpenVPN  is  an open source VPN daemon |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 31,850 | 2026-09-01 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from di... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Filoppi/Luma-Framework](../repos/Filoppi/Luma-Framework.md) | ⭐ 853 | 2026-09-02 | Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are current... |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [raspberrypi/linux](../repos/raspberrypi/linux.md) | ⭐ 13,135 | 2026-09-03 | Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NVIDIA-RTX/Streamline](../repos/NVIDIA-RTX/Streamline.md) | ⭐ 1,142 | 2026-09-03 | Streamline Integration Framework |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [freebsd/freebsd-src](../repos/freebsd/freebsd-src.md) | ⭐ 9,349 | 2026-09-03 | The FreeBSD src tree publish-only repository. Experimenting with &#39;simple&#39; pull requests.... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [destan19/OpenAppFilter](../repos/destan19/OpenAppFilter.md) | ⭐ 2,822 | 2026-09-03 | OAF(OpenAppFilter) is a parental control software based on OpenWrt. It supports popular applicati... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [QwenAudio/SenseVoice](../repos/QwenAudio/SenseVoice.md) | ⭐ 9,384 | 2026-09-04 | Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, lan... |
 
 
 ---
@@ -89,20 +89,20 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,145 | 2026-08-07 | 12 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,013 | 2026-08-01 | 18 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,143 | 2026-08-01 | 19 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,470 | 2026-08-24 | 3 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,742 | 2026-08-02 | 15 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 72,376 | 2026-08-01 | 19 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 72,762 | 2026-08-01 | 20 |
 | [git/git](../repos/git/git.md) | ⭐ 63,387 | 2026-08-05 | 6 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 45,482 | 2026-08-07 | 20 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,420 | 2026-08-01 | 8 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,692 | 2026-08-04 | 9 |
-| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,733 | 2026-08-03 | 6 |
+| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,756 | 2026-08-03 | 7 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,863 | 2026-09-06 | 3 |
-| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,195 | 2026-08-01 | 4 |
+| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,364 | 2026-08-01 | 5 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 32,007 | 2026-08-17 | 1 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 31,850 | 2026-09-01 | 9 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,695 | 2026-08-02 | 6 |
@@ -115,11 +115,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 37 | ⭐ 16,761 | 2026-08-01 | 2026-09-25 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 | ⭐ 16,829 | 2026-08-01 | 2026-10-01 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 20 | ⭐ 72,762 | 2026-08-01 | 2026-10-01 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 20 | ⭐ 45,482 | 2026-08-07 | 2026-09-29 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 19 | ⭐ 72,376 | 2026-08-01 | 2026-09-29 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 18 | ⭐ 139,013 | 2026-08-01 | 2026-09-25 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 18 | ⭐ 16,645 | 2026-08-06 | 2026-09-29 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 19 | ⭐ 139,143 | 2026-08-01 | 2026-10-01 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 19 | ⭐ 16,665 | 2026-08-06 | 2026-10-01 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 17 | ⭐ 27,950 | 2026-08-07 | 2026-09-29 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 15 | ⭐ 76,742 | 2026-08-02 | 2026-09-28 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 15 | ⭐ 6,952 | 2026-08-04 | 2026-09-09 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-29T21:02:02.182Z*
+*Last updated: 2026-10-01T21:01:59.028Z*

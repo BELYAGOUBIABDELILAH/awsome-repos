@@ -1,6 +1,6 @@
 # mlmvpn&#x2F;mlmvpn_android
 
-> Multi-engine Android VPN &amp; network-scanning app — Xray, AmneziaWG, Aether (MASQUE&#x2F;WG&#x2F;WARP-in-WARP), VPN Gate, DNS&#x2F;game-latency booster, and sanction-domain routing, built with Kotlin + Jetpack Compose. | اپلیکیشن اندروید VPN و اسکنر شبکه چندموتوره
+> Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE&#x2F;AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;mlmvpn&#x2F;mlmvpn_android) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 229 |
-| **Forks** | 🍴 36 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 258 |
+| **Forks** | 🍴 50 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 29, 2026 |
-| **Last Seen** | Sep 29, 2026 |
+| **Last Seen** | Oct 1, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-09-29T21:02:07.175Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-01T21:02:05.883Z*  
+*Data from 2 trending reports*

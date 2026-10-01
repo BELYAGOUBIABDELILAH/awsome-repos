@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 142
+- **Total Repositories**: 143
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-24
 
@@ -16,49 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | ⭐ 4,477 | 2026-08-02 | 11 |
+| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 7,951 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,550 | 2026-08-02 | 15 |
+| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 8,288 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 6,289 | 2026-08-02 | 8 |
+| [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,227 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,854 | 2026-08-02 | 8 |
+| [sky-map-team/stardroid](../repos/sky-map-team/stardroid.md) | ⭐ 1,867 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Dev4Mod/WaEnhancer](../repos/Dev4Mod/WaEnhancer.md) | ⭐ 1,736 | 2026-08-03 | 8 |
+| [d4rken-org/sdmaid-se](../repos/d4rken-org/sdmaid-se.md) | ⭐ 7,645 | 2026-08-28 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,000 | 2026-08-03 | 12 |
+| [IacobIonut01/ReFra](../repos/IacobIonut01/ReFra.md) | ⭐ 2,845 | 2026-09-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ryfineZ/carrier-ims-for-pixel](../repos/ryfineZ/carrier-ims-for-pixel.md) | ⭐ 1,792 | 2026-08-10 | 2 |
+| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 258 | 2026-09-29 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,364 | 2026-08-10 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,807 | 2026-08-12 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [PortSwigger/mcp-server](../repos/PortSwigger/mcp-server.md) | ⭐ 1,200 | 2026-08-19 | 2 |
+| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 1,354 | 2026-10-01 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fast4x/RiPlay](../repos/fast4x/RiPlay.md) | ⭐ 433 | 2026-09-01 | Multiplatform Music Player |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Kunzisoft/KeePassDX](../repos/Kunzisoft/KeePassDX.md) | ⭐ 7,218 | 2026-09-01 | Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [xchacha20-poly1305/husi](../repos/xchacha20-poly1305/husi.md) | ⭐ 1,781 | 2026-09-01 | Husi is a non-professional proxy-set-based multiplatform proxy tool set. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [streetcomplete/StreetComplete](../repos/streetcomplete/StreetComplete.md) | ⭐ 4,780 | 2026-09-02 | Easy to use OpenStreetMap editor for Android |
@@ -70,7 +55,7 @@
 | [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,334 | 2026-09-07 | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin&#x2F;Compose Multiplatform |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [IacobIonut01/ReFra](../repos/IacobIonut01/ReFra.md) | ⭐ 2,756 | 2026-09-08 | Media Gallery app for Android made with Jetpack Compose |
+| [IacobIonut01/ReFra](../repos/IacobIonut01/ReFra.md) | ⭐ 2,845 | 2026-09-08 | Media Gallery app for Android made with Jetpack Compose |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ximeiorg/Xime](../repos/ximeiorg/Xime.md) | ⭐ 1,007 | 2026-09-09 | 我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔&#x2F;拼音&#x2F;自定义方案。 |
@@ -80,6 +65,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mardous/BoomingMusic](../repos/mardous/BoomingMusic.md) | ⭐ 486 | 2026-09-12 | Clean, fast, and Material-driven Android music player with powerful features. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ktorio/ktor](../repos/ktorio/ktor.md) | ⭐ 14,525 | 2026-09-12 | Framework for quickly creating connected applications in Kotlin with minimal effort |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [compose-miuix-ui/miuix](../repos/compose-miuix-ui/miuix.md) | ⭐ 1,238 | 2026-09-14 | A UI library for Compose Multiplatform |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [FooIbar/EhViewer](../repos/FooIbar/EhViewer.md) | ⭐ 4,717 | 2026-09-20 | EhViewer overhauled with Material Design 3 and more, forked from https:&#x2F;&#x2F;github.com&#x2F;Ehviewer-Over... |
 
 
 ---
@@ -95,7 +89,7 @@
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 42,218 | 2026-08-03 | 10 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,610 | 2026-08-08 | 15 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,338 | 2026-08-05 | 5 |
-| [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 27,730 | 2026-08-11 | 3 |
+| [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,227 | 2026-08-11 | 4 |
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,807 | 2026-08-12 | 7 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,718 | 2026-08-01 | 13 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-09-29T21:02:02.229Z*
+*Last updated: 2026-10-01T21:01:59.089Z*

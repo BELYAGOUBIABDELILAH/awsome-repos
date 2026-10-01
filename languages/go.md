@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 278
+- **Total Repositories**: 279
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-09-25
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 51,680 | 2026-08-01 | 13 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,176 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kserve/kserve](../repos/kserve/kserve.md) | ⭐ 6,046 | 2026-08-01 | 3 |
+| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 7,669 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 27,514 | 2026-08-04 | 9 |
+| [authelia/authelia](../repos/authelia/authelia.md) | ⭐ 29,152 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) | ⭐ 4,085 | 2026-08-05 | 7 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 27,571 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,509 | 2026-08-06 | 11 |
+| [k3s-io/k3s](../repos/k3s-io/k3s.md) | ⭐ 34,096 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [livekit/livekit](../repos/livekit/livekit.md) | ⭐ 21,183 | 2026-08-07 | 4 |
+| [charmbracelet/crush](../repos/charmbracelet/crush.md) | ⭐ 28,436 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 20,807 | 2026-08-11 | 6 |
+| [containerd/containerd](../repos/containerd/containerd.md) | ⭐ 21,371 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trufflesecurity/trufflehog](../repos/trufflesecurity/trufflehog.md) | ⭐ 28,187 | 2026-08-12 | 6 |
+| [github/gh-aw](../repos/github/gh-aw.md) | ⭐ 5,321 | 2026-08-10 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Gaurav-Gosain/tuios](../repos/Gaurav-Gosain/tuios.md) | ⭐ 4,298 | 2026-08-19 | 2 |
+| [cli/cli](../repos/cli/cli.md) | ⭐ 46,494 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [seaweedfs/seaweedfs](../repos/seaweedfs/seaweedfs.md) | ⭐ 35,092 | 2026-08-19 | 4 |
+| [Gaurav-Gosain/tuios](../repos/Gaurav-Gosain/tuios.md) | ⭐ 4,454 | 2026-08-19 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [miniflux/v2](../repos/miniflux/v2.md) | ⭐ 9,638 | 2026-09-01 | Minimalist and opinionated feed reader |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kunchenguid/no-mistakes](../repos/kunchenguid/no-mistakes.md) | ⭐ 8,395 | 2026-09-01 | git push no-mistakes |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [fish2018/pansou](../repos/fish2018/pansou.md) | ⭐ 14,731 | 2026-09-02 | PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tbphp/gpt-load](../repos/tbphp/gpt-load.md) | ⭐ 6,959 | 2026-09-03 | Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription acc... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [crossplane/crossplane](../repos/crossplane/crossplane.md) | ⭐ 12,027 | 2026-09-04 | The Cloud Native Control Plane |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [e2b-dev/infra](../repos/e2b-dev/infra.md) | ⭐ 1,360 | 2026-09-04 | Infrastructure that&#39;s powering E2B Cloud. |
 
 
 ---
@@ -117,11 +117,11 @@
 |------------|---------------|-------|------------|-----------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 17 | ⭐ 27,208 | 2026-08-01 | 2026-09-19 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 15 | ⭐ 48,695 | 2026-08-01 | 2026-09-22 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 14 | ⭐ 38,176 | 2026-08-01 | 2026-10-01 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 14 | ⭐ 181,716 | 2026-08-01 | 2026-09-25 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 14 | ⭐ 3,717 | 2026-08-02 | 2026-09-24 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 14 | ⭐ 42,026 | 2026-08-07 | 2026-09-19 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 13 | ⭐ 51,680 | 2026-08-01 | 2026-09-29 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 13 | ⭐ 38,014 | 2026-08-01 | 2026-09-22 |
 | [golang/go](../repos/golang/go.md) | 11 | ⭐ 139,064 | 2026-07-31 | 2026-09-28 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 11 | ⭐ 91,509 | 2026-08-06 | 2026-09-29 |
 | [SagerNet/sing-box](../repos/SagerNet/sing-box.md) | 10 | ⭐ 38,300 | 2026-08-03 | 2026-09-25 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-09-29T21:02:02.212Z*
+*Last updated: 2026-10-01T21:01:59.065Z*
