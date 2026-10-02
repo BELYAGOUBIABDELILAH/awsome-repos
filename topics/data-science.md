@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 116
+- **Total Repositories**: 118
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-21
-- **Average Stars**: 16106
+- **Average Stars**: 16000
 
 ---
 
@@ -17,22 +17,22 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,540 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,541 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,103 | Scala |  |
+| [apache/texera](../repos/apache/texera.md) | ⭐ 316 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,503 | Clojure |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,109 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,829 | C |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,515 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,009 | Vim Script |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,016 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 988 | MATLAB |  |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 989 | MATLAB |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,694 | R |  |
@@ -41,10 +41,10 @@
 | [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,714 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Vexu/arocc](../repos/Vexu/arocc.md) | ⭐ 1,831 | Zig |  |
+| [Vexu/arocc](../repos/Vexu/arocc.md) | ⭐ 1,834 | Zig |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,072 | R |  |
+| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,295 | Java |  |
 
 
 ---
@@ -59,10 +59,10 @@
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | Go | 2026-08-07 | 2 |
 | [git/git](../repos/git/git.md) | ⭐ 63,387 | C | 2026-08-05 | 6 |
 | [TanStack/query](../repos/TanStack/query.md) | ⭐ 50,183 | TypeScript | 2026-08-22 | 1 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,503 | Clojure | 2026-08-01 | 47 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,515 | Clojure | 2026-08-01 | 48 |
 | [pandas-dev/pandas](../repos/pandas-dev/pandas.md) | ⭐ 49,417 | Python | 2026-08-04 | 1 |
 | [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 47,656 | Python | 2026-08-02 | 6 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,103 | Scala | 2026-08-01 | 50 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,109 | Scala | 2026-08-01 | 51 |
 
 ---
 
@@ -76,25 +76,25 @@
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,763 | Ruby | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,540 | Scala | 1 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,541 | Scala | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/texera](../repos/apache/texera.md) | ⭐ 317 | Scala | 2 |
+| [apache/texera](../repos/apache/texera.md) | ⭐ 316 | Scala | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,103 | Scala | 1 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,109 | Scala | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,503 | Clojure | 1 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,515 | Clojure | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,829 | C | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,009 | Vim Script | 1 |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,016 | Vim Script | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 988 | MATLAB | 1 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | ⭐ 989 | MATLAB | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 27,177 | C | 2 |
@@ -103,9 +103,6 @@
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [sngyai/Sequoia-X](../repos/sngyai/Sequoia-X.md) | ⭐ 6,724 | Python | 2026-09-02 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [lite-xl/lite-xl](../repos/lite-xl/lite-xl.md) | ⭐ 6,411 | Lua | 2026-09-03 |
@@ -133,10 +130,17 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [munificent/craftinginterpreters](../repos/munificent/craftinginterpreters.md) | ⭐ 11,047 | HTML | 2026-09-07 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [openwall/john](../repos/openwall/john.md) | ⭐ 13,611 | C | 2026-09-08 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-10-02](../archive/2026/10/2026-10-02.md)
+- 19 repositories trending
+- Top: metabase&#x2F;metabase
 
 ### [2026-10-01](../archive/2026/10/2026-10-01.md)
 - 17 repositories trending
@@ -154,10 +158,6 @@
 - 18 repositories trending
 - Top: pytorch&#x2F;pytorch
 
-### [2026-09-25](../archive/2026/09/2026-09-25.md)
-- 16 repositories trending
-- Top: metabase&#x2F;metabase
-
 
 ---
 
@@ -167,32 +167,32 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 50 days | 2026-08-01 | 2026-10-01 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 47 days | 2026-08-01 | 2026-10-01 |
-| [joernio/joern](../repos/joernio/joern.md) | 42 days | 2026-08-01 | 2026-10-01 |
-| [vim/vim](../repos/vim/vim.md) | 41 days | 2026-08-01 | 2026-10-01 |
+| [apache/spark](../repos/apache/spark.md) | 51 days | 2026-08-01 | 2026-10-02 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 48 days | 2026-08-01 | 2026-10-02 |
+| [joernio/joern](../repos/joernio/joern.md) | 43 days | 2026-08-01 | 2026-10-02 |
+| [vim/vim](../repos/vim/vim.md) | 42 days | 2026-08-01 | 2026-10-02 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 days | 2026-08-01 | 2026-10-01 |
-| [facebook/infer](../repos/facebook/infer.md) | 32 days | 2026-08-02 | 2026-10-01 |
+| [facebook/infer](../repos/facebook/infer.md) | 33 days | 2026-08-02 | 2026-10-02 |
 | [ruby/ruby](../repos/ruby/ruby.md) | 26 days | 2026-08-01 | 2026-09-29 |
-| [apache/texera](../repos/apache/texera.md) | 25 days | 2026-08-01 | 2026-09-29 |
-| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 22 days | 2026-08-04 | 2026-10-01 |
-| [hadley/r4ds](../repos/hadley/r4ds.md) | 21 days | 2026-08-04 | 2026-09-29 |
+| [apache/texera](../repos/apache/texera.md) | 26 days | 2026-08-01 | 2026-10-02 |
+| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 23 days | 2026-08-04 | 2026-10-02 |
+| [fieldtrip/fieldtrip](../repos/fieldtrip/fieldtrip.md) | 21 days | 2026-08-01 | 2026-10-02 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **C**: 34 repositories (29%)
+- **C**: 35 repositories (30%)
 - **Python**: 11 repositories (9%)
 - **R**: 9 repositories (8%)
 - **Scala**: 7 repositories (6%)
 - **Java**: 7 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 15.4 repositories
+- **Daily Average**: 15.5 repositories
 - **Peak Day**: 2026-08-04 (23 repositories)
-- **Growth Rate**: 22% this month
+- **Growth Rate**: 23% this month
 
 ---
 
@@ -306,4 +306,4 @@
 
 ---
 
-*Last updated: 2026-10-01T21:01:58.758Z*
+*Last updated: 2026-10-02T21:02:11.360Z*

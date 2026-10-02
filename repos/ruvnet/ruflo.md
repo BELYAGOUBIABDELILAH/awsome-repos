@@ -1,6 +1,6 @@
 # ruvnet&#x2F;ruflo
 
-> 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code &#x2F; Codex &#x2F; Hermes and many more Integrated
+> 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code &#x2F; Codex &#x2F; Hermes and many more Integrated
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;ruvnet&#x2F;ruflo) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 71,802 |
-| **Forks** | 🍴 8,497 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 73,727 |
+| **Forks** | 🍴 8,758 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Aug 10, 2026 |
-| **Last Seen** | Sep 9, 2026 |
+| **Last Seen** | Oct 2, 2026 |
 
 
 ---
@@ -51,7 +51,7 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 5 days
 
 ---
@@ -76,7 +76,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-10-01T21:02:03.678Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-10-02T21:02:15.841Z*  
+*Data from 10 trending reports*

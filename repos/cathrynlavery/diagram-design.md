@@ -1,6 +1,6 @@
 # cathrynlavery&#x2F;diagram-design
 
-> 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+> Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;cathrynlavery&#x2F;diagram-design) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | HTML |
 | **License** | MIT |
-| **Stars** | ⭐ 37,645 |
-| **Forks** | 🍴 2,388 |
-| **Trending Days** | 11 |
+| **Stars** | ⭐ 43,090 |
+| **Forks** | 🍴 2,772 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 12, 2026 |
-| **Last Seen** | Sep 10, 2026 |
+| **Last Seen** | Oct 2, 2026 |
 
 
 ---
@@ -55,7 +55,7 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 11
+- **Trending Days**: 12
 - **Longest Streak**: 7 days
 
 ---
@@ -80,7 +80,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -99,5 +99,5 @@
 
 ---
 
-*Last updated: 2026-10-01T21:02:03.846Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-10-02T21:02:16.016Z*  
+*Data from 12 trending reports*

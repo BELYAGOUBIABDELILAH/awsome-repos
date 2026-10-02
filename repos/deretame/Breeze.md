@@ -1,6 +1,6 @@
 # deretame&#x2F;Breeze
 
-> Breeze 是一款使用flutter构建的漫画阅读器，通过插件提供漫画支持，现支持哔咔，禁漫，ehentai，nhentai再漫画，拷贝漫画，NoyAcg，komiic，包子漫画，绅士漫画。
+> 使用flutter构建的漫画阅读器，通过插件提供漫画支持，现支持哔咔，禁漫，ehentai，nhentai再漫画，拷贝漫画，NoyAcg，komiic，包子漫画，绅士漫画。
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;deretame&#x2F;Breeze) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | MPL-2.0 |
-| **Stars** | ⭐ 2,466 |
-| **Forks** | 🍴 66 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 2,701 |
+| **Forks** | 🍴 74 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 17, 2026 |
-| **Last Seen** | Sep 8, 2026 |
+| **Last Seen** | Oct 2, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 70&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-01T21:02:04.259Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-10-02T21:02:16.421Z*  
+*Data from 5 trending reports*

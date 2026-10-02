@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Scala |
 | **License** | MIT |
-| **Stars** | ⭐ 2,794 |
-| **Forks** | 🍴 447 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 2,793 |
+| **Forks** | 🍴 448 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 20, 2026 |
-| **Last Seen** | Oct 1, 2026 |
+| **Last Seen** | Oct 2, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
-- **Longest Streak**: 1 days
+- **Trending Days**: 5
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 65&#x2F;100
+- **Trending Score**: 85&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-01T21:02:05.618Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-10-02T21:02:17.837Z*  
+*Data from 5 trending reports*

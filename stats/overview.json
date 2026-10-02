@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-01T21:02:06.342Z",
-  "total_repositories": 3723,
-  "trending_today": 392,
-  "new_this_month": 853,
+  "generated_at": "2026-10-02T21:02:18.705Z",
+  "total_repositories": 3751,
+  "trending_today": 418,
+  "new_this_month": 826,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-10-01",
+  "last_collection": "2026-10-02",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 50,
+    "trending_days": 51,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "tile-ai/tilelang",
-    "stars": 8069,
-    "first_seen": "2026-10-01"
+    "full_name": "getsentry/sentry",
+    "stars": 45010,
+    "first_seen": "2026-10-02"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 51839067,
-  "avg_stars": 13924,
-  "avg_trending_days": 5.4,
+  "total_stars": 52054377,
+  "avg_stars": 13877,
+  "avg_trending_days": 5.5,
   "language_count": 59,
-  "topic_count": 9719,
+  "topic_count": 9784,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

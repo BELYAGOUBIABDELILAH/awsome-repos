@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 19
+- **Total Repositories**: 20
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,10 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 735 | 2026-08-01 | 41 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 735 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,430 | 2026-08-02 | 21 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,430 | 2026-08-02 | 22 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [JuliaLLVM/LLVM.jl](../repos/JuliaLLVM/LLVM.jl.md) | ⭐ 145 | 2026-10-02 | 1 |
 
 
 ---
@@ -28,10 +31,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) | ⭐ 200 | 2026-09-02 | Boosted trees in Julia |
+| [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | Julia bindings for the Enzyme automatic differentiator |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | Julia bindings for the Enzyme automatic differentiator |
+| [JuliaLLVM/LLVM.jl](../repos/JuliaLLVM/LLVM.jl.md) | ⭐ 145 | 2026-10-02 | Julia wrapper for the LLVM C API |
 
 
 ---
@@ -43,15 +46,16 @@
 | [jump-dev/JuMP.jl](../repos/jump-dev/JuMP.jl.md) | ⭐ 2,462 | 2026-08-12 | 1 |
 | [TuringLang/Turing.jl](../repos/TuringLang/Turing.jl.md) | ⭐ 2,246 | 2026-08-12 | 1 |
 | [FluxML/Zygote.jl](../repos/FluxML/Zygote.jl.md) | ⭐ 1,568 | 2026-08-12 | 1 |
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,430 | 2026-08-02 | 21 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,430 | 2026-08-02 | 22 |
 | [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
 | [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 735 | 2026-08-01 | 41 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 735 | 2026-08-01 | 42 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 732 | 2026-08-07 | 2 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | 2 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | 3 |
 | [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) | ⭐ 200 | 2026-09-02 | 1 |
+| [JuliaLLVM/LLVM.jl](../repos/JuliaLLVM/LLVM.jl.md) | ⭐ 145 | 2026-10-02 | 1 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 126 | 2026-08-01 | 14 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | ⭐ 117 | 2026-08-01 | 12 |
 | [davidanthoff/Electron.jl](../repos/davidanthoff/Electron.jl.md) | ⭐ 96 | 2026-08-14 | 2 |
@@ -66,8 +70,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 41 | ⭐ 735 | 2026-08-01 | 2026-10-01 |
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 21 | ⭐ 1,430 | 2026-08-02 | 2026-10-01 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 42 | ⭐ 735 | 2026-08-01 | 2026-10-02 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 22 | ⭐ 1,430 | 2026-08-02 | 2026-10-02 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 15 | ⭐ 46 | 2026-08-02 | 2026-08-25 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 14 | ⭐ 126 | 2026-08-01 | 2026-09-12 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 12 | ⭐ 117 | 2026-08-01 | 2026-09-12 |
@@ -100,7 +104,8 @@
 - [NumericalEarth/NumericalEarth.jl](../repos/NumericalEarth/NumericalEarth.jl.md) - 🌎 A framework for simulating the Earth system at all scales with prescribed or prognostic atmosp...
 - [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) - Boosted trees in Julia
 - [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) - Julia bindings for the Enzyme automatic differentiator
+- [JuliaLLVM/LLVM.jl](../repos/JuliaLLVM/LLVM.jl.md) - Julia wrapper for the LLVM C API
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.085Z*
+*Last updated: 2026-10-02T21:02:11.678Z*

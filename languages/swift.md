@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 121
+- **Total Repositories**: 122
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-22
+- **Last Updated**: 2026-10-02
 
 ---
 
@@ -16,40 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,355 | 2026-08-01 | 5 |
+| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,356 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Ranchero-Software/NetNewsWire](../repos/Ranchero-Software/NetNewsWire.md) | ⭐ 10,437 | 2026-08-03 | 6 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 27,581 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,529 | 2026-08-04 | 9 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 9,126 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift-syntax](../repos/swiftlang/swift-syntax.md) | ⭐ 3,704 | 2026-08-04 | 4 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,946 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stripe/stripe-ios](../repos/stripe/stripe-ios.md) | ⭐ 2,569 | 2026-08-15 | 3 |
+| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,529 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,683 | 2026-09-06 | 4 |
+| [swiftlang/swift-syntax](../repos/swiftlang/swift-syntax.md) | ⭐ 3,701 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grishka/NearDrop](../repos/grishka/NearDrop.md) | ⭐ 6,285 | 2026-10-01 | 1 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,451 | 2026-08-05 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-collections](../repos/apple/swift-collections.md) | ⭐ 4,512 | 2026-10-01 | 1 |
+| [apple/containerization](../repos/apple/containerization.md) | ⭐ 8,959 | 2026-08-08 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,313 | 2026-08-11 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,318 | 2026-08-12 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cshariq/Sapphire](../repos/cshariq/Sapphire.md) | ⭐ 175 | 2026-09-02 | The all in one mac app that redefines the notch |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ninxsoft/Mist](../repos/ninxsoft/Mist.md) | ⭐ 5,197 | 2026-09-02 | A Mac utility that automatically downloads macOS Firmwares &#x2F; Installers. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ProxymanApp/TCPViewer](../repos/ProxymanApp/TCPViewer.md) | ⭐ 406 | 2026-09-03 | The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark |
@@ -61,7 +61,7 @@
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | 2026-09-04 | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,683 | 2026-09-06 | Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alt... |
+| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,693 | 2026-09-06 | Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alt... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | A modern Wine wrapper for macOS built with SwiftUI |
@@ -74,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [uzairansaruzi/hermex](../repos/uzairansaruzi/hermex.md) | ⭐ 1,415 | 2026-09-08 | Native iPhone app for your Hermes agent |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [iFurySt/open-codex-computer-use](../repos/iFurySt/open-codex-computer-use.md) | ⭐ 2,205 | 2026-09-09 | 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cashapp/AccessibilitySnapshot](../repos/cashapp/AccessibilitySnapshot.md) | ⭐ 740 | 2026-09-09 | Easy regression testing for iOS accessibility |
 
 
 ---
@@ -82,13 +88,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,382 | 2026-08-05 | 14 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,451 | 2026-08-05 | 15 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | 2026-09-04 | 1 |
 | [apple/container](../repos/apple/container.md) | ⭐ 50,393 | 2026-08-01 | 16 |
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,218 | 2026-08-12 | 6 |
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,318 | 2026-08-12 | 7 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 28,013 | 2026-08-04 | 3 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 27,505 | 2026-08-01 | 13 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 27,581 | 2026-08-01 | 14 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,890 | 2026-08-04 | 11 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
 | [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,536 | 2026-08-12 | 7 |
@@ -96,9 +102,9 @@
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,943 | 2026-08-04 | 14 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,946 | 2026-08-04 | 15 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 14,841 | 2026-08-03 | 2 |
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,744 | 2026-08-24 | 7 |
+| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,832 | 2026-08-24 | 8 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,482 | 2026-08-08 | 8 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,327 | 2026-08-17 | 7 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | 2026-08-01 | 3 |
@@ -111,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 21 | ⭐ 12,508 | 2026-08-01 | 2026-09-29 |
 | [apple/container](../repos/apple/container.md) | 16 | ⭐ 50,393 | 2026-08-01 | 2026-09-29 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 14 | ⭐ 14,943 | 2026-08-04 | 2026-09-29 |
-| [swiftlang/swift](../repos/swiftlang/swift.md) | 14 | ⭐ 70,382 | 2026-08-05 | 2026-09-22 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 13 | ⭐ 27,505 | 2026-08-01 | 2026-09-29 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 15 | ⭐ 14,946 | 2026-08-04 | 2026-10-02 |
+| [swiftlang/swift](../repos/swiftlang/swift.md) | 15 | ⭐ 70,451 | 2026-08-05 | 2026-10-02 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 14 | ⭐ 27,581 | 2026-08-01 | 2026-10-02 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 11 | ⭐ 3,536 | 2026-08-01 | 2026-09-21 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 11 | ⭐ 9,126 | 2026-08-02 | 2026-10-02 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 11 | ⭐ 26,890 | 2026-08-04 | 2026-09-29 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 10 | ⭐ 6,487 | 2026-08-01 | 2026-09-20 |
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 10 | ⭐ 9,004 | 2026-08-02 | 2026-09-27 |
-| [momenbasel/PureMac](../repos/momenbasel/PureMac.md) | 10 | ⭐ 6,761 | 2026-08-04 | 2026-09-25 |
+| [apple/swift-nio](../repos/apple/swift-nio.md) | 10 | ⭐ 8,529 | 2026-08-04 | 2026-10-02 |
 
 ---
 
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.151Z*
+*Last updated: 2026-10-02T21:02:11.731Z*

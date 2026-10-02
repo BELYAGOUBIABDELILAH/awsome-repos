@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | CC0-1.0 |
-| **Stars** | ⭐ 9,426 |
-| **Forks** | 🍴 307 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 9,474 |
+| **Forks** | 🍴 308 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Sep 28, 2026 |
+| **Last Seen** | Oct 2, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-01T21:02:03.833Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-10-02T21:02:16.002Z*  
+*Data from 10 trending reports*

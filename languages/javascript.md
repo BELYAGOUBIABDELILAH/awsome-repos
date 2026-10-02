@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 147
+- **Total Repositories**: 149
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 66,612 | 2026-08-01 | 18 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 100,495 | 2026-08-05 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | ⭐ 33,755 | 2026-08-02 | 11 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 74,230 | 2026-08-05 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 75,760 | 2026-08-04 | 18 |
+| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 9,007 | 2026-08-10 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 100,319 | 2026-08-05 | 22 |
+| [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) | ⭐ 10,835 | 2026-08-14 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 73,583 | 2026-08-05 | 15 |
+| [WebKit/WebKit](../repos/WebKit/WebKit.md) | ⭐ 10,191 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 159,005 | 2026-08-06 | 3 |
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 31,848 | 2026-08-19 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 39,600 | 2026-08-14 | 4 |
+| [webbrain-one/webbrain](../repos/webbrain-one/webbrain.md) | ⭐ 1,184 | 2026-08-24 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 31,810 | 2026-08-19 | 7 |
+| [Neet-Nestor/Telegram-Media-Downloader](../repos/Neet-Nestor/Telegram-Media-Downloader.md) | ⭐ 5,958 | 2026-09-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 46,128 | 2026-08-27 | 8 |
+| [BuilderIO/skills](../repos/BuilderIO/skills.md) | ⭐ 4,511 | 2026-09-20 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/plugins](../repos/openai/plugins.md) | ⭐ 7,251 | 2026-08-27 | 10 |
+| [androoAGI/starnet](../repos/androoAGI/starnet.md) | ⭐ 952 | 2026-09-24 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jgraph/drawio](../repos/jgraph/drawio.md) | ⭐ 7,880 | 2026-09-02 | draw.io is a JavaScript, client-side editor for general diagramming. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [facebook/stylex](../repos/facebook/stylex.md) | ⭐ 10,160 | 2026-09-03 | StyleX is the styling system for ambitious user interfaces. |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [open-gsd/gsd-core](../repos/open-gsd/gsd-core.md) | ⭐ 9,821 | 2026-09-09 | Git. Ship. Done - Core |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [UseInterstellar/Interstellar](../repos/UseInterstellar/Interstellar.md) | ⭐ 2,120 | 2026-09-09 | One of the most popular modern web proxies with blazing fast speeds and a variety of games. |
 
 
 ---
@@ -94,12 +94,12 @@
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 142,852 | 2026-07-30 | 10 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 100,319 | 2026-08-05 | 22 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 100,495 | 2026-08-05 | 23 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 75,760 | 2026-08-04 | 18 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 73,583 | 2026-08-05 | 15 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 74,230 | 2026-08-05 | 16 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,494 | 2026-08-04 | 2 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 66,612 | 2026-08-01 | 18 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
@@ -115,11 +115,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 22 | ⭐ 100,319 | 2026-08-05 | 2026-10-01 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 23 | ⭐ 100,495 | 2026-08-05 | 2026-10-02 |
 | [byoungd/up](../repos/byoungd/up.md) | 18 | ⭐ 66,612 | 2026-08-01 | 2026-10-01 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 18 | ⭐ 75,760 | 2026-08-04 | 2026-10-01 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 16 | ⭐ 74,230 | 2026-08-05 | 2026-10-02 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 15 | ⭐ 73,583 | 2026-08-05 | 2026-10-01 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 12 | ⭐ 3,368 | 2026-08-07 | 2026-09-20 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 11 | ⭐ 33,755 | 2026-08-02 | 2026-10-01 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 10 | ⭐ 142,852 | 2026-07-30 | 2026-09-28 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.082Z*
+*Last updated: 2026-10-02T21:02:11.676Z*

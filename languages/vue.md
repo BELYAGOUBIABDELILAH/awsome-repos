@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 86
+- **Total Repositories**: 87
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-01
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,995 | 2026-08-01 | 30 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,996 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,407 | 2026-08-01 | 16 |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,409 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 4,206 | 2026-08-01 | 9 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,698 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,690 | 2026-08-01 | 27 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,000 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,173 | 2026-08-01 | 12 |
+| [aniyomiorg/aniyomi-website](../repos/aniyomiorg/aniyomi-website.md) | ⭐ 230 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [imsyy/home](../repos/imsyy/home.md) | ⭐ 4,569 | 2026-08-01 | 4 |
+| [inovector/mixpost](../repos/inovector/mixpost.md) | ⭐ 3,762 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [inovector/mixpost](../repos/inovector/mixpost.md) | ⭐ 3,754 | 2026-08-01 | 12 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 452 | 2026-08-02 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,549 | 2026-08-01 | 32 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,883 | 2026-08-02 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 451 | 2026-08-02 | 28 |
+| [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,812 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [VueTorrent/VueTorrent](../repos/VueTorrent/VueTorrent.md) | ⭐ 6,979 | 2026-08-03 | 6 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 10,345 | 2026-08-04 | 13 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [build-admin/buildadmin](../repos/build-admin/buildadmin.md) | ⭐ 2,375 | 2026-09-02 | 可视化生成CRUD代码、内置WEB终端、workerman常驻内存运行支持，技术栈为Vue3.x(setup)+ThinkPHP8+TypeScript+Vite+Pinia+Element P... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [1sdv/TripStar](../repos/1sdv/TripStar.md) | ⭐ 2,423 | 2026-09-04 | 旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的各种问题，为提供一站式旅游攻略而生。 |
@@ -67,7 +64,7 @@
 | [ruxailab/RUXAILAB](../repos/ruxailab/RUXAILAB.md) | ⭐ 178 | 2026-09-07 | RUXAILAB - The Remote User eXperience Artificial Intelligence LAB |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [unovue/inspira-ui](../repos/unovue/inspira-ui.md) | ⭐ 5,007 | 2026-09-09 | Build beautiful website using Vue &amp; Nuxt. |
+| [unovue/inspira-ui](../repos/unovue/inspira-ui.md) | ⭐ 5,013 | 2026-09-09 | Build beautiful website using Vue &amp; Nuxt. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Abdulqudus001/vue-skeleton-loader](../repos/Abdulqudus001/vue-skeleton-loader.md) | ⭐ 115 | 2026-09-10 | A simple and easily customizable skeleton loader plugin for you Vue application.  |
@@ -79,7 +76,10 @@
 | [wu529778790/panhub.shenzjd.com](../repos/wu529778790/panhub.shenzjd.com.md) | ⭐ 1,706 | 2026-09-12 | PanHub 网盘聚合搜索 · Netdisk Search Aggregator。一个搜索框聚合夸克&#x2F;阿里云盘&#x2F;百度&#x2F;115&#x2F;迅雷等网盘资源，多源聚合去重、智能排序、插件熔断隔离。零数据库轻量... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [kodadot/nft-gallery](../repos/kodadot/nft-gallery.md) | ⭐ 685 | 2026-09-13 | Generative Art Marketplace  |
+| [kodadot/nft-gallery](../repos/kodadot/nft-gallery.md) | ⭐ 686 | 2026-09-13 | Generative Art Marketplace  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MoeKoeMusic/MoeKoeMusic](../repos/MoeKoeMusic/MoeKoeMusic.md) | ⭐ 6,384 | 2026-09-19 | 一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuG... |
 
 
 ---
@@ -92,20 +92,20 @@
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,045 | 2026-08-01 | 9 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,549 | 2026-08-01 | 32 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,326 | 2026-08-01 | 19 |
-| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,995 | 2026-08-01 | 30 |
+| [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 28,996 | 2026-08-01 | 31 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 21,991 | 2026-08-01 | 23 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,000 | 2026-08-01 | 24 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,637 | 2026-08-02 | 12 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,856 | 2026-08-02 | 22 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,883 | 2026-08-02 | 23 |
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,458 | 2026-08-05 | 12 |
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,119 | 2026-08-20 | 4 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,749 | 2026-08-12 | 4 |
 | [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,550 | 2026-08-17 | 5 |
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 10,240 | 2026-08-04 | 12 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 10,345 | 2026-08-04 | 13 |
 | [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,365 | 2026-08-03 | 16 |
 | [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,362 | 2026-08-23 | 8 |
-| [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,812 | 2026-08-03 | 5 |
+| [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,812 | 2026-08-03 | 6 |
 | [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,748 | 2026-08-08 | 8 |
 | [un-pany/v3-admin-vite](../repos/un-pany/v3-admin-vite.md) | ⭐ 7,018 | 2026-08-04 | 1 |
 
@@ -116,12 +116,12 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 32 | ⭐ 33,549 | 2026-08-01 | 2026-10-01 |
-| [requarks/wiki](../repos/requarks/wiki.md) | 30 | ⭐ 28,995 | 2026-08-01 | 2026-10-01 |
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 28 | ⭐ 451 | 2026-08-02 | 2026-10-01 |
-| [frappe/crm](../repos/frappe/crm.md) | 27 | ⭐ 3,690 | 2026-08-01 | 2026-10-01 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 23 | ⭐ 21,991 | 2026-08-01 | 2026-09-29 |
+| [requarks/wiki](../repos/requarks/wiki.md) | 31 | ⭐ 28,996 | 2026-08-01 | 2026-10-02 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 29 | ⭐ 452 | 2026-08-02 | 2026-10-02 |
+| [frappe/crm](../repos/frappe/crm.md) | 28 | ⭐ 3,698 | 2026-08-01 | 2026-10-02 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 24 | ⭐ 22,000 | 2026-08-01 | 2026-10-02 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 23 | ⭐ 16,883 | 2026-08-02 | 2026-10-02 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 23 | ⭐ 3,425 | 2026-08-02 | 2026-09-28 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 22 | ⭐ 16,856 | 2026-08-02 | 2026-09-29 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 21 | ⭐ 4,318 | 2026-08-01 | 2026-09-28 |
 | [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 20 | ⭐ 1,927 | 2026-08-02 | 2026-09-27 |
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 19 | ⭐ 33,326 | 2026-08-01 | 2026-09-27 |
@@ -164,7 +164,7 @@
 - [crmeb/CRMEB](../repos/crmeb/CRMEB.md) - 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、...
 - [frappe/suite](../repos/frappe/suite.md) - Original, intentionally designed productivity tools
 - [imsyy/yt-dlp-gui](../repos/imsyy/yt-dlp-gui.md) - A modern cross-platform GUI for yt-dlp. Download videos from YouTube, Bilibili, TikTok and 1000+ ...
-- [zyronon/TypeWords](../repos/zyronon/TypeWords.md) - Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；
+- [zyronon/TypeWords](../repos/zyronon/TypeWords.md) - Practice English, one strike, one step forward
 - [hslr-s/sun-panel](../repos/hslr-s/sun-panel.md) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 - [DependencyTrack/frontend](../repos/DependencyTrack/frontend.md) - Frontend UI for Dependency-Track
 - [luckjiawei/frpc-desktop](../repos/luckjiawei/frpc-desktop.md) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
@@ -216,7 +216,8 @@
 - [henryzt/Rhythm-Plus-Music-Game](../repos/henryzt/Rhythm-Plus-Music-Game.md) - Community-based vertical scrolling rhythm game (VSRG) made with Vue.js and canvas (WIP)
 - [fjykTec/ModernWMS](../repos/fjykTec/ModernWMS.md) - The open source simple and complete warehouse management system is derived from our many years of...
 - [timeshiftsauce/CeruMusic](../repos/timeshiftsauce/CeruMusic.md) - Ceru Music 是基于 Electron 和 Vue 开发的跨平台桌面音乐播放器工具，借鉴洛雪音乐插件思想，提供插件运行框架与播放功能，不直接存储、提供任何音乐源文件。用户需通过自行选择、...
+- [Tencent/tdesign-miniprogram](../repos/Tencent/tdesign-miniprogram.md) - Wechat MiniProgram and Uniapp UI components lib for TDesign
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.176Z*
+*Last updated: 2026-10-02T21:02:11.748Z*

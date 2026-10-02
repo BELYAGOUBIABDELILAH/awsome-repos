@@ -6,23 +6,33 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 2
+- **Total Repositories**: 3
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-25
+- **Last Updated**: 2026-10-02
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,916 | 2026-08-01 | 34 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,444 | 2026-08-06 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,023 | 2026-10-02 | 1 |
 
-*No Crystal repositories trending today*
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,023 | 2026-10-02 | Ultra quick message queue and streaming server |
 
-*No new Crystal repositories in the last 30 days*
 
 ---
 
@@ -30,8 +40,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,781 | 2026-08-01 | 33 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,418 | 2026-08-06 | 6 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,916 | 2026-08-01 | 34 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,444 | 2026-08-06 | 7 |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,023 | 2026-10-02 | 1 |
 
 ---
 
@@ -39,8 +50,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | 33 | ⭐ 24,781 | 2026-08-01 | 2026-09-25 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 6 | ⭐ 1,418 | 2026-08-06 | 2026-09-05 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | 34 | ⭐ 24,916 | 2026-08-01 | 2026-10-02 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 7 | ⭐ 1,444 | 2026-08-06 | 2026-10-02 |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | 1 | ⭐ 1,023 | 2026-10-02 | 2026-10-02 |
 
 ---
 
@@ -48,7 +60,8 @@
 
 - [iv-org/invidious](../repos/iv-org/invidious.md) - Invidious is an alternative front-end to YouTube
 - [owasp-noir/noir](../repos/owasp-noir/noir.md) - Hunt every Endpoint in your code, expose Shadow APIs, map the Attack Surface.
+- [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) - Ultra quick message queue and streaming server
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.052Z*
+*Last updated: 2026-10-02T21:02:11.650Z*

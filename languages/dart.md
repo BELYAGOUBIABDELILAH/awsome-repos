@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 95
+- **Total Repositories**: 96
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-01
+- **Last Updated**: 2026-10-02
 
 ---
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 77,053 | 2026-08-01 | 19 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,248 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,195 | 2026-08-01 | 35 |
+| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,291 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 16,056 | 2026-08-01 | 19 |
+| [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 16,062 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [miru-project/miru-app](../repos/miru-project/miru-app.md) | ⭐ 5,707 | 2026-08-01 | 5 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 30,520 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flame-engine/flame](../repos/flame-engine/flame.md) | ⭐ 10,779 | 2026-08-02 | 3 |
+| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 15,264 | 2026-08-02 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gokadzev/Musify](../repos/gokadzev/Musify.md) | ⭐ 4,284 | 2026-08-02 | 11 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 18,936 | 2026-08-02 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/website](../repos/flutter/website.md) | ⭐ 3,122 | 2026-08-04 | 4 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,103 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/agent-plugins](../repos/flutter/agent-plugins.md) | ⭐ 3,016 | 2026-08-04 | 11 |
+| [flame-engine/flame](../repos/flame-engine/flame.md) | ⭐ 10,779 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cake-tech/cake_wallet](../repos/cake-tech/cake_wallet.md) | ⭐ 1,942 | 2026-08-10 | 7 |
+| [raoxwup/haka_comic](../repos/raoxwup/haka_comic.md) | ⭐ 1,551 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [saber-notes/saber](../repos/saber-notes/saber.md) | ⭐ 4,867 | 2026-08-12 | 8 |
+| [gokadzev/Musify](../repos/gokadzev/Musify.md) | ⭐ 4,288 | 2026-08-02 | 12 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [axel10/vynody](../repos/axel10/vynody.md) | ⭐ 96 | 2026-09-02 | A visually appealing and feature-rich Flutter music player |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [orailnoor/private-agent](../repos/orailnoor/private-agent.md) | ⭐ 305 | 2026-09-02 | PrivateAgent is an open-source Android automation agent built with Flutter. It utilizes the DeepS... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hajisensai/Fushi](../repos/hajisensai/Fushi.md) | ⭐ 215 | 2026-09-02 | Immersion language-learning suite: EPUB reader, video subtitle lookup, audiobook sync, and one-ta... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sjjian/openhare](../repos/sjjian/openhare.md) | ⭐ 808 | 2026-09-03 | AI-powered desktop SQL client. Cross-platform. Built with Flutter. |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sdegenaar/liquid_glass_widgets](../repos/sdegenaar/liquid_glass_widgets.md) | ⭐ 695 | 2026-09-12 | Flutter UI kit implementing Apple&#39;s iOS 26 Liquid Glass design language - a comprehensive glass w... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BenderBlog/traintime_pda](../repos/BenderBlog/traintime_pda.md) | ⭐ 320 | 2026-09-14 | 开源的西电学生信息查询软件，包括课表查询、成绩查询、电费查询等功能。手机版称为 XDYou  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [DavBfr/dart_pdf](../repos/DavBfr/dart_pdf.md) | ⭐ 1,527 | 2026-09-19 | Pdf creation module for dart&#x2F;flutter |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CyrilPeng/Venera-Next](../repos/CyrilPeng/Venera-Next.md) | ⭐ 1,169 | 2026-09-25 | VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。 |
 
 
 ---
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,195 | 2026-08-01 | 35 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,248 | 2026-08-01 | 36 |
 | [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 92,838 | 2026-08-02 | 22 |
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 77,053 | 2026-08-01 | 19 |
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 53,389 | 2026-08-02 | 28 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 49,303 | 2026-08-04 | 20 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 32,971 | 2026-08-02 | 31 |
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 30,394 | 2026-08-01 | 30 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 30,520 | 2026-08-01 | 31 |
 | [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 26,576 | 2026-09-06 | 11 |
 | [mitesh77/Best-Flutter-UI-Templates](../repos/mitesh77/Best-Flutter-UI-Templates.md) | ⭐ 22,819 | 2026-08-01 | 2 |
 | [flutter/samples](../repos/flutter/samples.md) | ⭐ 19,271 | 2026-08-06 | 6 |
-| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 18,820 | 2026-08-02 | 28 |
-| [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 16,056 | 2026-08-01 | 19 |
-| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 15,171 | 2026-08-02 | 29 |
-| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,027 | 2026-08-06 | 12 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 18,936 | 2026-08-02 | 29 |
+| [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 16,062 | 2026-08-01 | 20 |
+| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 15,264 | 2026-08-02 | 30 |
+| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,046 | 2026-08-06 | 13 |
 | [guozhigq/pilipala](../repos/guozhigq/pilipala.md) | ⭐ 13,848 | 2026-08-20 | 2 |
 | [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) | ⭐ 12,957 | 2026-08-09 | 13 |
 | [cfug/dio](../repos/cfug/dio.md) | ⭐ 12,840 | 2026-09-05 | 1 |
-| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,288 | 2026-08-01 | 16 |
+| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,291 | 2026-08-01 | 17 |
 | [venera-app/venera](../repos/venera-app/venera.md) | ⭐ 11,086 | 2026-08-02 | 20 |
-| [flame-engine/flame](../repos/flame-engine/flame.md) | ⭐ 10,779 | 2026-08-02 | 3 |
+| [flame-engine/flame](../repos/flame-engine/flame.md) | ⭐ 10,779 | 2026-08-02 | 4 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [flutter/flutter](../repos/flutter/flutter.md) | 35 | ⭐ 179,195 | 2026-08-01 | 2026-10-01 |
+| [flutter/flutter](../repos/flutter/flutter.md) | 36 | ⭐ 179,248 | 2026-08-01 | 2026-10-02 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 31 | ⭐ 30,520 | 2026-08-01 | 2026-10-02 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 31 | ⭐ 32,971 | 2026-08-02 | 2026-09-29 |
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 30 | ⭐ 30,394 | 2026-08-01 | 2026-09-28 |
-| [KaringX/karing](../repos/KaringX/karing.md) | 29 | ⭐ 15,171 | 2026-08-02 | 2026-09-29 |
+| [KaringX/karing](../repos/KaringX/karing.md) | 30 | ⭐ 15,264 | 2026-08-02 | 2026-10-02 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 29 | ⭐ 18,936 | 2026-08-02 | 2026-10-02 |
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | 28 | ⭐ 53,389 | 2026-08-02 | 2026-09-25 |
-| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 28 | ⭐ 18,820 | 2026-08-02 | 2026-09-29 |
 | [localsend/localsend](../repos/localsend/localsend.md) | 22 | ⭐ 92,838 | 2026-08-02 | 2026-09-27 |
+| [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | 20 | ⭐ 16,062 | 2026-08-01 | 2026-10-02 |
 | [venera-app/venera](../repos/venera-app/venera.md) | 20 | ⭐ 11,086 | 2026-08-02 | 2026-09-28 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | 20 | ⭐ 49,303 | 2026-08-04 | 2026-09-20 |
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 19 | ⭐ 77,053 | 2026-08-01 | 2026-10-01 |
 
 ---
 
@@ -195,7 +195,7 @@
 - [fluttergems/awesome-open-source-flutter-apps](../repos/fluttergems/awesome-open-source-flutter-apps.md) - A curated list of awesome open source Flutter apps
 - [HemantKArya/BloomeeTunes](../repos/HemantKArya/BloomeeTunes.md) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources....
 - [akashdh11/skystream](../repos/akashdh11/skystream.md) - SkyStream is a modern, cross-platform media streaming client inspired by CloudStream. It uses a c...
-- [deretame/Breeze](../repos/deretame/Breeze.md) - Breeze 是一款使用flutter构建的漫画阅读器，通过插件提供漫画支持，现支持哔咔，禁漫，ehentai，nhentai再漫画，拷贝漫画，NoyAcg，komiic，包子漫画，绅士漫画。
+- [deretame/Breeze](../repos/deretame/Breeze.md) - 使用flutter构建的漫画阅读器，通过插件提供漫画支持，现支持哔咔，禁漫，ehentai，nhentai再漫画，拷贝漫画，NoyAcg，komiic，包子漫画，绅士漫画。
 - [haukuen/venera](../repos/haukuen/venera.md) - 仅自用 | For personal use only
 - [emavgl/oinkoin](../repos/emavgl/oinkoin.md) - Oinkoin is a flutter app for helping you managing your expenses. No internet required.
 - [anandnet/Harmony-Music](../repos/anandnet/Harmony-Music.md) - A cross platform App for streaming Music
@@ -225,7 +225,8 @@
 - [CyrilPeng/Venera-Next](../repos/CyrilPeng/Venera-Next.md) - VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。
 - [RyanYuuki/AnymeX](../repos/RyanYuuki/AnymeX.md) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 - [hui-z/image_gallery_saver](../repos/hui-z/image_gallery_saver.md) - flutter中用于保存图片到相册的Plugin
+- [Kyosee/VeneraX](../repos/Kyosee/VeneraX.md) - A personal-use fork of the original Venera, maintained and enhanced to suit my own needs. | Fork自...
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.055Z*
+*Last updated: 2026-10-02T21:02:11.653Z*

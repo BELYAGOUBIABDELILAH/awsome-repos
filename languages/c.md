@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 207
+- **Total Repositories**: 209
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,143 | 2026-08-01 | 19 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 72,917 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 72,762 | 2026-08-01 | 20 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,977 | 2026-08-04 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,364 | 2026-08-01 | 5 |
+| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,110 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,829 | 2026-08-01 | 38 |
+| [asterisk/asterisk](../repos/asterisk/asterisk.md) | ⭐ 3,590 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,756 | 2026-08-03 | 7 |
+| [EpicGames/raddebugger](../repos/EpicGames/raddebugger.md) | ⭐ 7,573 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,665 | 2026-08-06 | 19 |
+| [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) | ⭐ 15,636 | 2026-08-15 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quickjs-ng/quickjs](../repos/quickjs-ng/quickjs.md) | ⭐ 3,851 | 2026-08-07 | 3 |
+| [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 31,960 | 2026-08-17 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EpicGames/raddebugger](../repos/EpicGames/raddebugger.md) | ⭐ 7,560 | 2026-08-08 | 6 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 39,055 | 2026-09-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/esp-idf](../repos/espressif/esp-idf.md) | ⭐ 19,136 | 2026-08-12 | 10 |
+| [EchoStretch/kstuff-lite](../repos/EchoStretch/kstuff-lite.md) | ⭐ 578 | 2026-09-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stackia/rtp2httpd](../repos/stackia/rtp2httpd.md) | ⭐ 2,195 | 2026-08-22 | 5 |
+| [martanne/vis](../repos/martanne/vis.md) | ⭐ 4,976 | 2026-10-02 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Filoppi/Luma-Framework](../repos/Filoppi/Luma-Framework.md) | ⭐ 853 | 2026-09-02 | Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are current... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [redcanaryco/atomic-red-team](../repos/redcanaryco/atomic-red-team.md) | ⭐ 12,537 | 2026-09-02 | Small and highly portable detection tests based on MITRE&#39;s ATT&amp;CK. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hufrea/byedpi](../repos/hufrea/byedpi.md) | ⭐ 3,380 | 2026-09-02 | Bypass DPI |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [maharmstone/btrfs](../repos/maharmstone/btrfs.md) | ⭐ 7,724 | 2026-09-03 | WinBtrfs - an open-source btrfs driver for Windows |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [QwenAudio/SenseVoice](../repos/QwenAudio/SenseVoice.md) | ⭐ 9,384 | 2026-09-04 | Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, lan... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vanhauser-thc/thc-hydra](../repos/vanhauser-thc/thc-hydra.md) | ⭐ 12,230 | 2026-09-04 | hydra |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PerformanC/ReZygisk](../repos/PerformanC/ReZygisk.md) | ⭐ 3,961 | 2026-09-04 | Transparent implementation of Zygisk. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [open-quantum-safe/liboqs](../repos/open-quantum-safe/liboqs.md) | ⭐ 3,054 | 2026-09-04 | C library for prototyping and experimenting with quantum-resistant cryptography |
 
 
 ---
@@ -93,18 +93,18 @@
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,470 | 2026-08-24 | 3 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,742 | 2026-08-02 | 15 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 72,762 | 2026-08-01 | 20 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 72,917 | 2026-08-01 | 21 |
 | [git/git](../repos/git/git.md) | ⭐ 63,387 | 2026-08-05 | 6 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 45,482 | 2026-08-07 | 20 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,420 | 2026-08-01 | 8 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 39,055 | 2026-09-01 | 10 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,692 | 2026-08-04 | 9 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,756 | 2026-08-03 | 7 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,863 | 2026-09-06 | 3 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,364 | 2026-08-01 | 5 |
-| [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 32,007 | 2026-08-17 | 1 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 31,850 | 2026-09-01 | 9 |
+| [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 31,960 | 2026-08-17 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,695 | 2026-08-02 | 6 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
 | [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,526 | 2026-08-09 | 9 |
@@ -116,13 +116,13 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 | ⭐ 16,829 | 2026-08-01 | 2026-10-01 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 20 | ⭐ 72,762 | 2026-08-01 | 2026-10-01 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 21 | ⭐ 72,917 | 2026-08-01 | 2026-10-02 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 20 | ⭐ 45,482 | 2026-08-07 | 2026-09-29 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 19 | ⭐ 139,143 | 2026-08-01 | 2026-10-01 |
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 19 | ⭐ 16,665 | 2026-08-06 | 2026-10-01 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 17 | ⭐ 27,950 | 2026-08-07 | 2026-09-29 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 16 | ⭐ 6,977 | 2026-08-04 | 2026-10-02 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 15 | ⭐ 76,742 | 2026-08-02 | 2026-09-28 |
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 15 | ⭐ 6,952 | 2026-08-04 | 2026-09-09 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 12 | ⭐ 150,145 | 2026-08-07 | 2026-09-21 |
 | [libuv/libuv](../repos/libuv/libuv.md) | 11 | ⭐ 27,199 | 2026-08-01 | 2026-09-25 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.028Z*
+*Last updated: 2026-10-02T21:02:11.631Z*

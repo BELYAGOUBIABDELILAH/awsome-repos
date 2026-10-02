@@ -1,6 +1,6 @@
 # zyronon&#x2F;TypeWords
 
-> Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；
+> Practice English, one strike, one step forward
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;zyronon&#x2F;TypeWords) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vue |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 10,240 |
-| **Forks** | 🍴 1,229 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 10,345 |
+| **Forks** | 🍴 1,239 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #10 |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Sep 22, 2026 |
+| **Last Seen** | Oct 2, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #10
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 4 days
 
 ---
@@ -73,7 +73,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-10-01T21:02:02.898Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-10-02T21:02:15.075Z*  
+*Data from 13 trending reports*

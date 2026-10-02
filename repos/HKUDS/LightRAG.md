@@ -71,7 +71,7 @@
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
-| **Maturity** | Stable | Established project |
+| **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-01T21:02:04.415Z*  
+*Last updated: 2026-10-02T21:02:16.582Z*  
 *Data from 2 trending reports*

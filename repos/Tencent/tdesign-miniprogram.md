@@ -1,0 +1,95 @@
+# Tencent&#x2F;tdesign-miniprogram
+
+> Wechat MiniProgram and Uniapp UI components lib for TDesign
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tencent&#x2F;tdesign-miniprogram) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | Vue |
+| **License** | MIT |
+| **Stars** | ⭐ 1,773 |
+| **Forks** | 🍴 344 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Oct 2, 2026 |
+| **Last Seen** | Oct 2, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in Vue or miniprogram*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`miniprogram`](../../topics/miniprogram.md) [`tdesign`](../../topics/tdesign.md) [`uniapp`](../../topics/uniapp.md) [`wechat`](../../topics/wechat.md) 
+
+### Curated Categories
+`Systems Programming` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Limited | May require reading source code |
+| **Community** | Small | Niche but dedicated community |
+| **Maturity** | Stable | Established project |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in Vue
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-10-02T21:02:18.195Z*  
+*Data from 1 trending reports*

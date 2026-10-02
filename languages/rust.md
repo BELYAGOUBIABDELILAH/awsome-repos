@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 199
+- **Total Repositories**: 201
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-01
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 127,538 | 2026-08-01 | 12 |
+| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,143 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 23,706 | 2026-08-01 | 13 |
+| [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | ⭐ 6,643 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 21,457 | 2026-08-07 | 7 |
+| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 21,491 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 95,867 | 2026-08-09 | 14 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 40,454 | 2026-08-10 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | ⭐ 11,824 | 2026-08-09 | 11 |
+| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 6,270 | 2026-08-20 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 40,407 | 2026-08-10 | 13 |
+| [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,345 | 2026-08-20 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 6,087 | 2026-08-20 | 8 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 8,667 | 2026-08-26 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecracker-microvm/firecracker](../repos/firecracker-microvm/firecracker.md) | ⭐ 37,098 | 2026-08-20 | 4 |
+| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 8,208 | 2026-08-27 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 8,600 | 2026-08-26 | 9 |
+| [NVIDIA/OpenShell](../repos/NVIDIA/OpenShell.md) | ⭐ 14,380 | 2026-09-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 8,202 | 2026-08-27 | 4 |
+| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 15,677 | 2026-09-04 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [librespot-org/librespot](../repos/librespot-org/librespot.md) | ⭐ 7,071 | 2026-09-02 | Open Source Spotify client library |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [arcboxlabs/arcbox](../repos/arcboxlabs/arcbox.md) | ⭐ 3,363 | 2026-09-02 | Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms b... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jj-vcs/jj](../repos/jj-vcs/jj.md) | ⭐ 31,391 | 2026-09-02 | A Git-compatible VCS that is both simple and powerful |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [xai-org/x-algorithm](../repos/xai-org/x-algorithm.md) | ⭐ 33,338 | 2026-09-03 | Algorithm powering the For You feed on X |
@@ -73,13 +64,22 @@
 | [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | A curated list of Rust code and resources. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 15,480 | 2026-09-04 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
+| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 15,677 | 2026-09-04 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [GreptimeTeam/greptimedb](../repos/GreptimeTeam/greptimedb.md) | ⭐ 6,642 | 2026-09-04 | The open-source observability database. One columnar engine for metrics, logs, and traces, on obj... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [coulsontl/ai-toolbox](../repos/coulsontl/ai-toolbox.md) | ⭐ 1,380 | 2026-09-05 | Personal AI Toolbox |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nklmilojevic/sofka](../repos/nklmilojevic/sofka.md) | ⭐ 793 | 2026-09-06 | A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mixelpixx/Konnect](../repos/mixelpixx/Konnect.md) | ⭐ 591 | 2026-09-06 | AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 sche... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [huggingface/funes](../repos/huggingface/funes.md) | ⭐ 342 | 2026-09-07 | Durable, searchable memory of your past agent sessions. |
 
 
 ---
@@ -96,8 +96,8 @@
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 90,142 | 2026-07-31 | 4 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
+| [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,345 | 2026-08-20 | 5 |
 | [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
-| [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,272 | 2026-08-20 | 4 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 64,099 | 2026-08-03 | 2 |
 | [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | 3 |
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,385 | 2026-08-19 | 5 |
@@ -107,7 +107,7 @@
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,253 | 2026-08-05 | 10 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 42,307 | 2026-08-02 | 8 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 40,407 | 2026-08-10 | 13 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 40,454 | 2026-08-10 | 14 |
 
 ---
 
@@ -117,8 +117,8 @@
 |------------|---------------|-------|------------|-----------|
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 21 | ⭐ 23,670 | 2026-08-08 | 2026-09-28 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 14 | ⭐ 95,867 | 2026-08-09 | 2026-10-01 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 14 | ⭐ 40,454 | 2026-08-10 | 2026-10-02 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 13 | ⭐ 23,706 | 2026-08-01 | 2026-10-01 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 13 | ⭐ 40,407 | 2026-08-10 | 2026-10-01 |
 | [openai/codex](../repos/openai/codex.md) | 12 | ⭐ 127,538 | 2026-08-01 | 2026-10-01 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 11 | ⭐ 29,237 | 2026-08-03 | 2026-09-21 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 11 | ⭐ 11,824 | 2026-08-09 | 2026-10-01 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.138Z*
+*Last updated: 2026-10-02T21:02:11.720Z*

@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 130,078 | 2026-08-01 | 26 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,087 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 516 | 2026-08-01 | 14 |
+| [google/benchmark](../repos/google/benchmark.md) | ⭐ 10,446 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,080 | 2026-08-01 | 14 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,207 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,360 | 2026-08-02 | 8 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 39,614 | 2026-08-04 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 40,494 | 2026-08-02 | 7 |
+| [wazuh/wazuh](../repos/wazuh/wazuh.md) | ⭐ 17,067 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [official-stockfish/Stockfish](../repos/official-stockfish/Stockfish.md) | ⭐ 16,786 | 2026-08-03 | 7 |
+| [cloudflare/workerd](../repos/cloudflare/workerd.md) | ⭐ 8,802 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ValveSoftware/Proton](../repos/ValveSoftware/Proton.md) | ⭐ 32,960 | 2026-08-03 | 5 |
+| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 21,981 | 2026-08-06 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 21,976 | 2026-08-06 | 9 |
+| [microsoft/WSL](../repos/microsoft/WSL.md) | ⭐ 33,913 | 2026-08-08 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lemonade-sdk/lemonade](../repos/lemonade-sdk/lemonade.md) | ⭐ 5,813 | 2026-08-07 | 4 |
+| [fmtlib/fmt](../repos/fmtlib/fmt.md) | ⭐ 25,861 | 2026-08-12 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,454 | 2026-08-08 | 14 |
+| [firebase/firebase-ios-sdk](../repos/firebase/firebase-ios-sdk.md) | ⭐ 6,911 | 2026-08-12 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [prusa3d/PrusaSlicer](../repos/prusa3d/PrusaSlicer.md) | ⭐ 9,302 | 2026-09-02 | G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mysql/mysql-server](../repos/mysql/mysql-server.md) | ⭐ 12,416 | 2026-09-02 | MySQL Server, the world&#39;s most popular open source database, and MySQL Cluster, a real-time, open... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [xoxor4d/gta4-rtx](../repos/xoxor4d/gta4-rtx.md) | ⭐ 705 | 2026-09-02 | GTAIV RTX Remix Compatibility Mod |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [monero-project/monero](../repos/monero-project/monero.md) | ⭐ 10,864 | 2026-09-02 | Monero: the secure, private, untraceable cryptocurrency |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alibaba/zvec](../repos/alibaba/zvec.md) | ⭐ 15,792 | 2026-09-03 | A lightweight, lightning-fast, in-process vector database |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Diegiwg/PrismLauncher-Cracked](../repos/Diegiwg/PrismLauncher-Cracked.md) | ⭐ 945 | 2026-09-06 | This project is a Fork of Prism Launcher which aims to &#39;unblock&#39; the use of Offline Accounts, dis... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [musescore/MuseScore](../repos/musescore/MuseScore.md) | ⭐ 15,155 | 2026-09-06 | MuseScore is an open source and free music notation software. For support, contribution, bug repo... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HIllya51/LunaTranslator](../repos/HIllya51/LunaTranslator.md) | ⭐ 13,054 | 2026-09-06 | 视觉小说翻译器 &#x2F; Visual Novel Translator |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mamedev/mame](../repos/mamedev/mame.md) | ⭐ 10,465 | 2026-09-07 | MAME |
 
 
 ---
@@ -97,10 +97,10 @@
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,164 | 2026-08-02 | 8 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,568 | 2026-08-12 | 6 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,454 | 2026-08-08 | 14 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,080 | 2026-08-01 | 14 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,087 | 2026-08-01 | 15 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,133 | 2026-08-03 | 5 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,207 | 2026-08-03 | 6 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,046 | 2026-09-01 | 2 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,360 | 2026-08-02 | 8 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 26 | ⭐ 130,078 | 2026-08-01 | 2026-10-01 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 21 | ⭐ 200,592 | 2026-07-30 | 2026-09-28 |
-| [google/googletest](../repos/google/googletest.md) | 17 | ⭐ 39,597 | 2026-08-04 | 2026-09-29 |
+| [google/googletest](../repos/google/googletest.md) | 18 | ⭐ 39,614 | 2026-08-04 | 2026-10-02 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 15 | ⭐ 72,087 | 2026-08-01 | 2026-10-02 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 14 | ⭐ 516 | 2026-08-01 | 2026-10-01 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 14 | ⭐ 72,080 | 2026-08-01 | 2026-10-01 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 14 | ⭐ 76,454 | 2026-08-08 | 2026-10-01 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 12 | ⭐ 29,564 | 2026-08-01 | 2026-09-02 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 11 | ⭐ 10,993 | 2026-08-02 | 2026-09-14 |
 | [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | 10 | ⭐ 683 | 2026-08-02 | 2026-09-07 |
-| [godotengine/godot](../repos/godotengine/godot.md) | 9 | ⭐ 117,022 | 2026-08-01 | 2026-09-12 |
+| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | 10 | ⭐ 21,981 | 2026-08-06 | 2026-10-02 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.043Z*
+*Last updated: 2026-10-02T21:02:11.640Z*

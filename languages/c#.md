@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 171
+- **Total Repositories**: 174
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-01
+- **Last Updated**: 2026-10-02
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,444 | 2026-08-02 | 23 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,700 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lostindark/DriverStoreExplorer](../repos/lostindark/DriverStoreExplorer.md) | ⭐ 11,757 | 2026-08-02 | 3 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,496 | 2026-08-02 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,537 | 2026-08-03 | 22 |
+| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,690 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner](../repos/actions/runner.md) | ⭐ 6,302 | 2026-08-04 | 11 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,367 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,331 | 2026-08-04 | 13 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,539 | 2026-08-03 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,330 | 2026-08-05 | 15 |
+| [dotnet/efcore](../repos/dotnet/efcore.md) | ⭐ 14,797 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SirDiabo/GithubLauncher](../repos/SirDiabo/GithubLauncher.md) | ⭐ 1,674 | 2026-08-27 | 3 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,333 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,062 | 2026-08-28 | 3 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,569 | 2026-08-06 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mcneel/RhinoAI](../repos/mcneel/RhinoAI.md) | ⭐ 335 | 2026-09-21 | 2 |
+| [sbroenne/mcp-server-excel](../repos/sbroenne/mcp-server-excel.md) | ⭐ 799 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 1,197 | 2026-09-24 | 3 |
+| [scp222thj/MalumMenu](../repos/scp222thj/MalumMenu.md) | ⭐ 409 | 2026-08-19 | 5 |
 
 
 ---
@@ -88,9 +88,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,444 | 2026-08-02 | 23 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,496 | 2026-08-02 | 24 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,905 | 2026-08-02 | 17 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,513 | 2026-08-06 | 11 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,569 | 2026-08-06 | 12 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,350 | 2026-08-01 | 9 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,793 | 2026-08-14 | 4 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,844 | 2026-08-03 | 8 |
@@ -102,11 +102,11 @@
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,603 | 2026-08-05 | 11 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 26,957 | 2026-08-10 | 4 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,367 | 2026-08-02 | 7 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,140 | 2026-08-01 | 7 |
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,058 | 2026-08-02 | 6 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,053 | 2026-08-27 | 7 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,677 | 2026-08-01 | 9 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,700 | 2026-08-01 | 10 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,198 | 2026-08-01 | 9 |
 
 ---
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 26 | ⭐ 29,746 | 2026-08-02 | 2026-09-28 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 23 | ⭐ 117,444 | 2026-08-02 | 2026-10-01 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 22 | ⭐ 5,537 | 2026-08-03 | 2026-10-01 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 24 | ⭐ 117,496 | 2026-08-02 | 2026-10-02 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 23 | ⭐ 5,539 | 2026-08-03 | 2026-10-02 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 17 | ⭐ 31,235 | 2026-08-01 | 2026-09-25 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 17 | ⭐ 56,905 | 2026-08-02 | 2026-09-10 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 17 | ⭐ 15,755 | 2026-08-02 | 2026-09-27 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 15 | ⭐ 38,460 | 2026-08-01 | 2026-09-25 |
 | [microsoft/aspire](../repos/microsoft/aspire.md) | 15 | ⭐ 6,330 | 2026-08-05 | 2026-10-01 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 14 | ⭐ 3,708 | 2026-08-01 | 2026-09-24 |
-| [dotnet/runtime](../repos/dotnet/runtime.md) | 14 | ⭐ 18,292 | 2026-08-04 | 2026-09-21 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | 14 | ⭐ 9,333 | 2026-08-04 | 2026-10-02 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.040Z*
+*Last updated: 2026-10-02T21:02:11.635Z*

@@ -1,6 +1,6 @@
 # kubernetes-sigs&#x2F;kueue
 
-> Kubernetes-native Job Queueing
+> :vertical_traffic_light: Kubernetes-native Job Queueing and Scheduling
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;kubernetes-sigs&#x2F;kueue) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 2,785 |
-| **Forks** | 🍴 729 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 3,029 |
+| **Forks** | 🍴 823 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Aug 8, 2026 |
+| **Last Seen** | Oct 2, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-01T21:02:03.454Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-02T21:02:15.617Z*  
+*Data from 2 trending reports*

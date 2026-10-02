@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | MATLAB |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 988 |
+| **Stars** | ⭐ 989 |
 | **Forks** | 🍴 771 |
-| **Trending Days** | 20 |
+| **Trending Days** | 21 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 1, 2026 |
+| **Last Seen** | Oct 2, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 20
+- **Trending Days**: 21
 - **Longest Streak**: 8 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 988+ stars, strong contributor base |
+| **Community** | Very Active | 989+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-01T21:02:02.046Z*  
-*Data from 20 trending reports*
+*Last updated: 2026-10-02T21:02:14.317Z*  
+*Data from 21 trending reports*

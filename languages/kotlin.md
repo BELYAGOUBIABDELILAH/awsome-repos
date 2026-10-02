@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 143
+- **Total Repositories**: 147
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-24
+- **Last Updated**: 2026-10-02
 
 ---
 
@@ -16,37 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 7,951 | 2026-08-02 | 10 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 63,426 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AAswordman/Operit](../repos/AAswordman/Operit.md) | ⭐ 8,288 | 2026-08-03 | 8 |
+| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,561 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,227 | 2026-08-11 | 4 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,823 | 2026-08-12 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sky-map-team/stardroid](../repos/sky-map-team/stardroid.md) | ⭐ 1,867 | 2026-08-14 | 3 |
+| [d4rken-org/sdmaid-se](../repos/d4rken-org/sdmaid-se.md) | ⭐ 7,650 | 2026-08-28 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [d4rken-org/sdmaid-se](../repos/d4rken-org/sdmaid-se.md) | ⭐ 7,645 | 2026-08-28 | 4 |
+| [Kunzisoft/KeePassDX](../repos/Kunzisoft/KeePassDX.md) | ⭐ 7,405 | 2026-09-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [IacobIonut01/ReFra](../repos/IacobIonut01/ReFra.md) | ⭐ 2,845 | 2026-09-08 | 2 |
+| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 1,407 | 2026-10-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 258 | 2026-09-29 | 2 |
+| [ReSukiSU/ReSukiSU](../repos/ReSukiSU/ReSukiSU.md) | ⭐ 1,667 | 2026-10-02 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 1,354 | 2026-10-01 | 1 |
+| [home-assistant/android](../repos/home-assistant/android.md) | ⭐ 3,945 | 2026-10-02 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [GrapheneOS/Messaging](../repos/GrapheneOS/Messaging.md) | ⭐ 221 | 2026-10-02 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [agupta07505/SmartIsland](../repos/agupta07505/SmartIsland.md) | ⭐ 223 | 2026-10-02 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [streetcomplete/StreetComplete](../repos/streetcomplete/StreetComplete.md) | ⭐ 4,780 | 2026-09-02 | Easy to use OpenStreetMap editor for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Mygod/VPNHotspot](../repos/Mygod/VPNHotspot.md) | ⭐ 6,415 | 2026-09-07 | Share your VPN connection over hotspot or repeater! (root required) |
@@ -74,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [FooIbar/EhViewer](../repos/FooIbar/EhViewer.md) | ⭐ 4,717 | 2026-09-20 | EhViewer overhauled with Material Design 3 and more, forked from https:&#x2F;&#x2F;github.com&#x2F;Ehviewer-Over... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zacharee/InstallWithOptions](../repos/zacharee/InstallWithOptions.md) | ⭐ 3,266 | 2026-09-21 | Simple-ish app using Shizuku to install APKs on-device with advanced options |
 
 
 ---
@@ -82,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 63,062 | 2026-08-02 | 15 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 63,426 | 2026-08-02 | 16 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,000 | 2026-08-03 | 12 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,585 | 2026-08-06 | 13 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,402 | 2026-08-04 | 10 |
@@ -90,7 +96,7 @@
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,610 | 2026-08-08 | 15 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,338 | 2026-08-05 | 5 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,227 | 2026-08-11 | 4 |
-| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,807 | 2026-08-12 | 7 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,823 | 2026-08-12 | 8 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,718 | 2026-08-01 | 13 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,872 | 2026-08-02 | 5 |
@@ -101,7 +107,7 @@
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,854 | 2026-08-02 | 8 |
 | [ktorio/ktor](../repos/ktorio/ktor.md) | ⭐ 14,525 | 2026-09-12 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,644 | 2026-08-06 | 7 |
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,364 | 2026-08-10 | 8 |
+| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,561 | 2026-08-02 | 11 |
 
 ---
 
@@ -109,7 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 15 | ⭐ 63,062 | 2026-08-02 | 2026-09-24 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 16 | ⭐ 63,426 | 2026-08-02 | 2026-10-02 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 15 | ⭐ 2,550 | 2026-08-02 | 2026-09-29 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 15 | ⭐ 30,610 | 2026-08-08 | 2026-09-25 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 13 | ⭐ 23,718 | 2026-08-01 | 2026-09-20 |
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.089Z*
+*Last updated: 2026-10-02T21:02:11.682Z*

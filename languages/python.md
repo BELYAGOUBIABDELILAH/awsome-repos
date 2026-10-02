@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 265
+- **Total Repositories**: 266
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-25
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 127,927 | 2026-08-01 | 14 |
+| [microsoft/VibeVoice](../repos/microsoft/VibeVoice.md) | ⭐ 54,601 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 80,006 | 2026-08-02 | 4 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 88,465 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostHog/posthog](../repos/PostHog/posthog.md) | ⭐ 40,080 | 2026-08-03 | 10 |
+| [PostHog/posthog](../repos/PostHog/posthog.md) | ⭐ 40,107 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 140,508 | 2026-08-04 | 5 |
+| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 76,360 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alirezarezvani/claude-skills](../repos/alirezarezvani/claude-skills.md) | ⭐ 27,162 | 2026-08-04 | 5 |
+| [google/skills](../repos/google/skills.md) | ⭐ 20,705 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 76,310 | 2026-08-06 | 6 |
+| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 8,023 | 2026-08-15 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/skills](../repos/google/skills.md) | ⭐ 20,563 | 2026-08-07 | 7 |
+| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 11,344 | 2026-08-24 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 7,960 | 2026-08-15 | 7 |
+| [ayghri/i-have-adhd](../repos/ayghri/i-have-adhd.md) | ⭐ 52,914 | 2026-08-29 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 51,295 | 2026-08-22 | 13 |
+| [NVIDIA/SkillSpector](../repos/NVIDIA/SkillSpector.md) | ⭐ 19,090 | 2026-09-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elder-plinius/OBLITERATUS](../repos/elder-plinius/OBLITERATUS.md) | ⭐ 8,551 | 2026-08-23 | 2 |
+| [tile-ai/tilelang](../repos/tile-ai/tilelang.md) | ⭐ 8,237 | 2026-10-01 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [sngyai/Sequoia-X](../repos/sngyai/Sequoia-X.md) | ⭐ 6,724 | 2026-09-02 | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zubair-trabzada/geo-seo-claude](../repos/zubair-trabzada/geo-seo-claude.md) | ⭐ 10,168 | 2026-09-02 | GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citab... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PDFMathTranslate/PDFMathTranslate](../repos/PDFMathTranslate/PDFMathTranslate.md) | ⭐ 36,627 | 2026-09-02 | [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [datawhalechina/hello-agents](../repos/datawhalechina/hello-agents.md) | ⭐ 78,270 | 2026-09-02 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [shaxiu/XianyuAutoAgent](../repos/shaxiu/XianyuAutoAgent.md) | ⭐ 8,967 | 2026-09-02 | 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [teng-lin/notebooklm-py](../repos/teng-lin/notebooklm-py.md) | ⭐ 19,089 | 2026-09-02 | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to N... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [netalertx/NetAlertX](../repos/netalertx/NetAlertX.md) | ⭐ 7,030 | 2026-09-03 | Centralized network visibility and continuous asset discovery.  Monitor devices, detect change, a... |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [radixark/miles](../repos/radixark/miles.md) | ⭐ 2,631 | 2026-09-04 | Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, for... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Sumanth077/Hands-On-AI-Engineering](../repos/Sumanth077/Hands-On-AI-Engineering.md) | ⭐ 3,360 | 2026-09-04 | A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [earthtojake/text-to-cad](../repos/earthtojake/text-to-cad.md) | ⭐ 14,992 | 2026-09-04 | A library of agent skills for CAD, CAE and CAM |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jihe520/MathModelAgent](../repos/jihe520/MathModelAgent.md) | ⭐ 5,328 | 2026-09-04 | 🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Model... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [eriklindernoren/ML-From-Scratch](../repos/eriklindernoren/ML-From-Scratch.md) | ⭐ 32,720 | 2026-09-04 | Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and al... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sgl-project/sglang](../repos/sgl-project/sglang.md) | ⭐ 36,702 | 2026-09-04 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [k2-fsa/OmniVoice](../repos/k2-fsa/OmniVoice.md) | ⭐ 12,759 | 2026-09-05 | High-Quality Voice Cloning TTS for 600+ Languages |
 
 
 ---
@@ -119,12 +119,12 @@
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 14 | ⭐ 127,927 | 2026-08-01 | 2026-10-01 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 13 | ⭐ 51,295 | 2026-08-22 | 2026-10-01 |
+| [PostHog/posthog](../repos/PostHog/posthog.md) | 11 | ⭐ 40,107 | 2026-08-03 | 2026-10-02 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 10 | ⭐ 41,423 | 2026-08-03 | 2026-09-01 |
-| [PostHog/posthog](../repos/PostHog/posthog.md) | 10 | ⭐ 40,080 | 2026-08-03 | 2026-10-01 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 10 | ⭐ 106,016 | 2026-08-08 | 2026-09-14 |
 | [cactus-compute/needle](../repos/cactus-compute/needle.md) | 10 | ⭐ 12,523 | 2026-08-11 | 2026-09-24 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 9 | ⭐ 88,465 | 2026-08-01 | 2026-10-02 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 9 | ⭐ 1,384 | 2026-08-01 | 2026-08-28 |
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 9 | ⭐ 55,947 | 2026-08-03 | 2026-09-25 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.125Z*
+*Last updated: 2026-10-02T21:02:11.711Z*

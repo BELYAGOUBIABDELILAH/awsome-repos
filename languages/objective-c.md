@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 29 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 31 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 31 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 30 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 292 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,067 | 2026-08-01 | 15 |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,066 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,616 | 2026-08-01 | 29 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,614 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,855 | 2026-08-02 | 13 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,253 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,610 | 2026-08-04 | 22 |
+| [newmarcel/KeepingYouAwake](../repos/newmarcel/KeepingYouAwake.md) | ⭐ 6,956 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,322 | 2026-08-04 | 13 |
+| [danveloper/flash-moe](../repos/danveloper/flash-moe.md) | ⭐ 4,202 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | ⭐ 675 | 2026-08-04 | 21 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,215 | 2026-08-04 | 18 |
 
 
 ---
@@ -52,16 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive s... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [MacPass/MacPass](../repos/MacPass/MacPass.md) | ⭐ 6,863 | 2026-09-07 | A native macOS KeePass client  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [LiveContainer/LiveExec32](../repos/LiveContainer/LiveExec32.md) | ⭐ 281 | 2026-09-10 | Run 32-bit binaries on 64-bit iOS by passing through syscalls |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [schuyler/macdown3000](../repos/schuyler/macdown3000.md) | ⭐ 462 | 2026-09-10 | A modern, lightweight Markdown editor for macOS. |
+| [schuyler/macdown3000](../repos/schuyler/macdown3000.md) | ⭐ 483 | 2026-09-10 | A modern, lightweight Markdown editor for macOS. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MaikuB/flutter_appauth](../repos/MaikuB/flutter_appauth.md) | ⭐ 308 | 2026-09-10 | A Flutter wrapper for AppAuth iOS and Android SDKs |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bang590/JSPatch](../repos/bang590/JSPatch.md) | ⭐ 11,324 | 2026-09-13 | JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objecti... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | Spectacle allows you to organize your windows without using a mouse. |
 
 
 ---
@@ -90,11 +90,11 @@
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,371 | 2026-08-02 | 7 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,616 | 2026-08-01 | 29 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,614 | 2026-08-01 | 30 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,233 | 2026-08-02 | 24 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,610 | 2026-08-04 | 22 |
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,176 | 2026-08-04 | 17 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,609 | 2026-08-04 | 23 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,215 | 2026-08-04 | 18 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,923 | 2026-08-04 | 9 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,136 | 2026-08-01 | 11 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,642 | 2026-08-04 | 5 |
@@ -103,7 +103,7 @@
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
 | [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
 | [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,399 | 2026-08-03 | 14 |
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,322 | 2026-08-04 | 13 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,321 | 2026-08-04 | 14 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,438 | 2026-08-06 | 4 |
 | [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,131 | 2026-08-07 | 12 |
@@ -115,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 31 | ⭐ 136 | 2026-08-01 | 2026-10-01 |
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 31 | ⭐ 60 | 2026-08-01 | 2026-10-01 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 30 | ⭐ 292 | 2026-08-01 | 2026-10-01 |
-| [google/promises](../repos/google/promises.md) | 29 | ⭐ 3,828 | 2026-08-01 | 2026-10-01 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 29 | ⭐ 25,616 | 2026-08-01 | 2026-10-01 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 32 | ⭐ 136 | 2026-08-01 | 2026-10-02 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 32 | ⭐ 60 | 2026-08-01 | 2026-10-02 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 31 | ⭐ 292 | 2026-08-01 | 2026-10-02 |
+| [google/promises](../repos/google/promises.md) | 30 | ⭐ 3,828 | 2026-08-01 | 2026-10-02 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 30 | ⭐ 25,614 | 2026-08-01 | 2026-10-02 |
+| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 25 | ⭐ 2,030 | 2026-08-08 | 2026-10-02 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | 24 | ⭐ 22,233 | 2026-08-02 | 2026-09-28 |
-| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 24 | ⭐ 2,032 | 2026-08-08 | 2026-10-01 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | 22 | ⭐ 16,610 | 2026-08-04 | 2026-10-01 |
-| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 21 | ⭐ 675 | 2026-08-04 | 2026-10-01 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | 23 | ⭐ 16,609 | 2026-08-04 | 2026-10-02 |
+| [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 22 | ⭐ 675 | 2026-08-04 | 2026-10-02 |
 | [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 20 | ⭐ 737 | 2026-08-02 | 2026-09-28 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.109Z*
+*Last updated: 2026-10-02T21:02:11.697Z*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 48
+- **Total Repositories**: 49
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-01
+- **Last Updated**: 2026-10-02
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 441 | 2026-08-01 | 39 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,965 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | ⭐ 440 | 2026-08-01 | 40 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 441 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,730 | 2026-08-01 | 32 |
+| [aws/aws-lc](../repos/aws/aws-lc.md) | ⭐ 836 | 2026-08-01 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hiteshchoudhary/open-source-contribution](../repos/hiteshchoudhary/open-source-contribution.md) | ⭐ 543 | 2026-08-01 | 20 |
+| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | ⭐ 440 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,234 | 2026-08-01 | 33 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,730 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,761 | 2026-08-01 | 36 |
+| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,235 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | ⭐ 796 | 2026-08-02 | 28 |
+| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,763 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 11,978 | 2026-08-02 | 28 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,653 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 3,993 | 2026-08-04 | 28 |
+| [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | ⭐ 796 | 2026-08-02 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [netwide-assembler/nasm](../repos/netwide-assembler/nasm.md) | ⭐ 3,322 | 2026-09-01 | 8 |
+| [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 11,981 | 2026-08-02 | 29 |
 
 
 ---
@@ -52,22 +52,22 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [below/HelloSilicon](../repos/below/HelloSilicon.md) | ⭐ 4,994 | 2026-09-02 | An introduction to ARM64 assembly on Apple Silicon Macs |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [tectijuana/interfaz](../repos/tectijuana/interfaz.md) | ⭐ 24 | 2026-09-09 | Lenguajes de Interfaz (Assembly Language for ARM &#x2F; RISCV) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [NightFox-YT/Realix](../repos/NightFox-YT/Realix.md) | ⭐ 54 | 2026-09-12 | Light hybrid OS (NASM x86 &amp; Rust) with Russian codebase |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [openhwfoundation/cva6](../repos/openhwfoundation/cva6.md) | ⭐ 3,139 | 2026-09-19 | The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded a... |
+| [openhwfoundation/cva6](../repos/openhwfoundation/cva6.md) | ⭐ 3,142 | 2026-09-19 | The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded a... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SpinalHDL/VexRiscv](../repos/SpinalHDL/VexRiscv.md) | ⭐ 3,265 | 2026-09-19 | A FPGA friendly 32 bit RISC-V CPU implementation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jmechner/Prince-of-Persia-Apple-II](../repos/jmechner/Prince-of-Persia-Apple-II.md) | ⭐ 6,880 | 2026-09-28 | A running-jumping-swordfighting game I made on the Apple II from 1985-89 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [FireEmblemUniverse/fireemblem8u](../repos/FireEmblemUniverse/fireemblem8u.md) | ⭐ 219 | 2026-10-02 | Decompilation&#x2F;disassembly of Fire Emblem: The Sacred Stones |
 
 
 ---
@@ -76,26 +76,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,761 | 2026-08-01 | 36 |
-| [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 11,978 | 2026-08-02 | 28 |
+| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,763 | 2026-08-01 | 37 |
+| [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 11,981 | 2026-08-02 | 29 |
 | [kanaka/mal](../repos/kanaka/mal.md) | ⭐ 10,739 | 2026-08-11 | 12 |
 | [jmechner/Prince-of-Persia-Apple-II](../repos/jmechner/Prince-of-Persia-Apple-II.md) | ⭐ 6,880 | 2026-09-28 | 1 |
 | [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,447 | 2026-08-01 | 38 |
 | [below/HelloSilicon](../repos/below/HelloSilicon.md) | ⭐ 4,994 | 2026-09-02 | 2 |
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,958 | 2026-08-01 | 29 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,965 | 2026-08-01 | 30 |
 | [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,107 | 2026-08-01 | 12 |
-| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 3,993 | 2026-08-04 | 28 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 3,993 | 2026-08-04 | 29 |
 | [netwide-assembler/nasm](../repos/netwide-assembler/nasm.md) | ⭐ 3,322 | 2026-09-01 | 8 |
 | [SpinalHDL/VexRiscv](../repos/SpinalHDL/VexRiscv.md) | ⭐ 3,265 | 2026-09-19 | 1 |
 | [virtualagc/virtualagc](../repos/virtualagc/virtualagc.md) | ⭐ 3,227 | 2026-08-01 | 2 |
-| [openhwfoundation/cva6](../repos/openhwfoundation/cva6.md) | ⭐ 3,139 | 2026-09-19 | 8 |
+| [openhwfoundation/cva6](../repos/openhwfoundation/cva6.md) | ⭐ 3,142 | 2026-09-19 | 9 |
 | [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | ⭐ 3,111 | 2026-08-01 | 34 |
 | [SheerSt/pokewilds](../repos/SheerSt/pokewilds.md) | ⭐ 2,900 | 2026-08-03 | 11 |
 | [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,508 | 2026-08-01 | 21 |
-| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,234 | 2026-08-01 | 33 |
+| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,235 | 2026-08-01 | 34 |
 | [PlummersSoftwareLLC/TinyRetroPad](../repos/PlummersSoftwareLLC/TinyRetroPad.md) | ⭐ 1,750 | 2026-08-04 | 15 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,730 | 2026-08-01 | 32 |
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,649 | 2026-08-01 | 35 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,730 | 2026-08-01 | 33 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,653 | 2026-08-01 | 36 |
 
 ---
 
@@ -103,16 +103,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 40 | ⭐ 440 | 2026-08-01 | 2026-10-01 |
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 39 | ⭐ 441 | 2026-08-01 | 2026-10-01 |
+| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 41 | ⭐ 440 | 2026-08-01 | 2026-10-02 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 40 | ⭐ 441 | 2026-08-01 | 2026-10-02 |
+| [aws/aws-lc](../repos/aws/aws-lc.md) | 38 | ⭐ 836 | 2026-08-01 | 2026-10-02 |
 | [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | 38 | ⭐ 6,447 | 2026-08-01 | 2026-09-25 |
-| [aws/aws-lc](../repos/aws/aws-lc.md) | 37 | ⭐ 837 | 2026-08-01 | 2026-09-29 |
-| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | 36 | ⭐ 18,761 | 2026-08-01 | 2026-10-01 |
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 35 | ⭐ 1,649 | 2026-08-01 | 2026-09-29 |
+| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | 37 | ⭐ 18,763 | 2026-08-01 | 2026-10-02 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 36 | ⭐ 1,653 | 2026-08-01 | 2026-10-02 |
 | [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | 34 | ⭐ 3,111 | 2026-08-01 | 2026-09-14 |
-| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | 33 | ⭐ 2,234 | 2026-08-01 | 2026-10-01 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 32 | ⭐ 1,730 | 2026-08-01 | 2026-10-01 |
-| [pret/pokered](../repos/pret/pokered.md) | 29 | ⭐ 4,958 | 2026-08-01 | 2026-09-29 |
+| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | 34 | ⭐ 2,235 | 2026-08-01 | 2026-10-02 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 33 | ⭐ 1,730 | 2026-08-01 | 2026-10-02 |
+| [pret/pokered](../repos/pret/pokered.md) | 30 | ⭐ 4,965 | 2026-08-01 | 2026-10-02 |
 
 ---
 
@@ -166,7 +166,8 @@
 - [openhwfoundation/cva6](../repos/openhwfoundation/cva6.md) - The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded a...
 - [SpinalHDL/VexRiscv](../repos/SpinalHDL/VexRiscv.md) - A FPGA friendly 32 bit RISC-V CPU implementation
 - [jmechner/Prince-of-Persia-Apple-II](../repos/jmechner/Prince-of-Persia-Apple-II.md) - A running-jumping-swordfighting game I made on the Apple II from 1985-89
+- [FireEmblemUniverse/fireemblem8u](../repos/FireEmblemUniverse/fireemblem8u.md) - Decompilation&#x2F;disassembly of Fire Emblem: The Sacred Stones
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.020Z*
+*Last updated: 2026-10-02T21:02:11.619Z*

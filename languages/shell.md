@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,230 | 2026-08-01 | 31 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,242 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 2,797 | 2026-08-02 | 9 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,236 | 2026-08-04 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,235 | 2026-08-04 | 17 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 2,972 | 2026-08-05 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,987 | 2026-08-04 | 10 |
+| [hestiacp/hestiacp](../repos/hestiacp/hestiacp.md) | ⭐ 4,517 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) | ⭐ 4,137 | 2026-08-06 | 5 |
+| [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,184 | 2026-08-07 | 2 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,868 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,864 | 2026-08-07 | 10 |
+| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,474 | 2026-08-11 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [juewuy/ShellCrash](../repos/juewuy/ShellCrash.md) | ⭐ 13,540 | 2026-08-27 | 2 |
+| [juewuy/ShellCrash](../repos/juewuy/ShellCrash.md) | ⭐ 13,546 | 2026-08-27 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ONLYOFFICE/DocumentServer](../repos/ONLYOFFICE/DocumentServer.md) | ⭐ 6,962 | 2026-09-25 | 2 |
+| [zabbix/community-templates](../repos/zabbix/community-templates.md) | ⭐ 1,988 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AppImage/appimage.github.io](../repos/AppImage/appimage.github.io.md) | ⭐ 406 | 2026-10-01 | 1 |
+| [AppImage/appimage.github.io](../repos/AppImage/appimage.github.io.md) | ⭐ 411 | 2026-10-01 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | Fish-like autosuggestions for zsh |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,563 | 2026-09-02 | 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [omacom/omarchy-pkgs](../repos/omacom/omarchy-pkgs.md) | ⭐ 125 | 2026-09-02 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [skills/introduction-to-git](../repos/skills/introduction-to-git.md) | ⭐ 195 | 2026-09-05 | Use Git version control to work on a game using command line (CLI) and VS Code |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) | ⭐ 1,023 | 2026-09-07 | 面向数学建模竞赛的 Claude Code &#x2F; Codex Skills ，支持分阶段建模流程与 Python、MATLAB&#x2F;北太天元代码分支。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,853 | 2026-09-08 | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bitol-io/open-data-contract-standard](../repos/bitol-io/open-data-contract-standard.md) | ⭐ 1,128 | 2026-09-09 | Home of the Open Data Contract Standard (ODCS). |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CachyOS/CachyOS-PKGBUILDS](../repos/CachyOS/CachyOS-PKGBUILDS.md) | ⭐ 360 | 2026-09-09 | PKGBUILDs for CachyOS |
 
 
 ---
@@ -89,9 +89,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,230 | 2026-08-01 | 31 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,242 | 2026-08-01 | 32 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,417 | 2026-08-04 | 6 |
-| [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,184 | 2026-08-07 | 2 |
+| [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,392 | 2026-08-06 | 10 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,761 | 2026-08-04 | 10 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 40,042 | 2026-08-29 | 3 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 31 | ⭐ 95,230 | 2026-08-01 | 2026-10-01 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 32 | ⭐ 95,242 | 2026-08-01 | 2026-10-02 |
 | [expo/skills](../repos/expo/skills.md) | 23 | ⭐ 2,638 | 2026-08-07 | 2026-09-29 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [github/copilot-cli](../repos/github/copilot-cli.md) | 17 | ⭐ 11,235 | 2026-08-04 | 2026-10-01 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | 18 | ⭐ 11,236 | 2026-08-04 | 2026-10-02 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 16 | ⭐ 6,854 | 2026-08-12 | 2026-09-20 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 12 | ⭐ 2,316 | 2026-08-02 | 2026-09-25 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | 11 | ⭐ 2,972 | 2026-08-05 | 2026-10-02 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 11 | ⭐ 10,868 | 2026-08-07 | 2026-10-02 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 10 | ⭐ 47,761 | 2026-08-04 | 2026-09-29 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 10 | ⭐ 25,987 | 2026-08-04 | 2026-10-01 |
-| [cloudflare/skills](../repos/cloudflare/skills.md) | 10 | ⭐ 2,865 | 2026-08-05 | 2026-09-19 |
-| [dockur/windows](../repos/dockur/windows.md) | 10 | ⭐ 53,392 | 2026-08-06 | 2026-09-24 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.146Z*
+*Last updated: 2026-10-02T21:02:11.727Z*

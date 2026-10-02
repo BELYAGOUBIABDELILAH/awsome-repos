@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,176 | 2026-08-01 | 14 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,195 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 7,669 | 2026-08-02 | 9 |
+| [hashicorp/terraform-provider-aws](../repos/hashicorp/terraform-provider-aws.md) | ⭐ 11,106 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [authelia/authelia](../repos/authelia/authelia.md) | ⭐ 29,152 | 2026-08-03 | 7 |
+| [lharries/whatsapp-mcp](../repos/lharries/whatsapp-mcp.md) | ⭐ 6,376 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 27,571 | 2026-08-04 | 10 |
+| [pulumi/pulumi](../repos/pulumi/pulumi.md) | ⭐ 25,763 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k3s-io/k3s](../repos/k3s-io/k3s.md) | ⭐ 34,096 | 2026-08-05 | 3 |
+| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 76,235 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [charmbracelet/crush](../repos/charmbracelet/crush.md) | ⭐ 28,436 | 2026-08-08 | 6 |
+| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,317 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [containerd/containerd](../repos/containerd/containerd.md) | ⭐ 21,371 | 2026-08-08 | 6 |
+| [sysadminsmedia/homebox](../repos/sysadminsmedia/homebox.md) | ⭐ 7,432 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/gh-aw](../repos/github/gh-aw.md) | ⭐ 5,321 | 2026-08-10 | 6 |
+| [kubernetes-sigs/kueue](../repos/kubernetes-sigs/kueue.md) | ⭐ 3,029 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cli/cli](../repos/cli/cli.md) | ⭐ 46,494 | 2026-08-11 | 4 |
+| [github/gh-aw](../repos/github/gh-aw.md) | ⭐ 5,335 | 2026-08-10 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Gaurav-Gosain/tuios](../repos/Gaurav-Gosain/tuios.md) | ⭐ 4,454 | 2026-08-19 | 3 |
+| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 29,614 | 2026-08-11 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fish2018/pansou](../repos/fish2018/pansou.md) | ⭐ 14,731 | 2026-09-02 | PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [slackhq/nebula](../repos/slackhq/nebula.md) | ⭐ 18,265 | 2026-09-02 | A scalable overlay networking tool with a focus on performance, simplicity and security |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [VictoriaMetrics/VictoriaMetrics](../repos/VictoriaMetrics/VictoriaMetrics.md) | ⭐ 17,639 | 2026-09-02 | VictoriaMetrics: fast, cost-effective monitoring solution and time series database |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kopia/kopia](../repos/kopia/kopia.md) | ⭐ 14,027 | 2026-09-03 | Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side... |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [e2b-dev/infra](../repos/e2b-dev/infra.md) | ⭐ 1,360 | 2026-09-04 | Infrastructure that&#39;s powering E2B Cloud. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [project-zot/zot](../repos/project-zot/zot.md) | ⭐ 2,703 | 2026-09-04 | zot - A scale-out production-ready vendor-neutral OCI-native container image&#x2F;artifact registry (p... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [basecamp/hey-cli](../repos/basecamp/hey-cli.md) | ⭐ 328 | 2026-09-04 | HEY CLI and Agent Skills |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [openfga/openfga](../repos/openfga/openfga.md) | ⭐ 5,853 | 2026-09-05 | A high performance and flexible authorization&#x2F;permission engine built for developers and inspired... |
 
 
 ---
@@ -96,7 +96,7 @@
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,506 | 2026-08-12 | 7 |
-| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 75,999 | 2026-08-03 | 5 |
+| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 76,235 | 2026-08-03 | 6 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 72,088 | 2026-08-04 | 4 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | 2026-08-07 | 2 |
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,012 | 2026-08-11 | 5 |
@@ -117,7 +117,7 @@
 |------------|---------------|-------|------------|-----------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 17 | ⭐ 27,208 | 2026-08-01 | 2026-09-19 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 15 | ⭐ 48,695 | 2026-08-01 | 2026-09-22 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 14 | ⭐ 38,176 | 2026-08-01 | 2026-10-01 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 15 | ⭐ 38,195 | 2026-08-01 | 2026-10-02 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 14 | ⭐ 181,716 | 2026-08-01 | 2026-09-25 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 14 | ⭐ 3,717 | 2026-08-02 | 2026-09-24 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 14 | ⭐ 42,026 | 2026-08-07 | 2026-09-19 |
@@ -219,7 +219,7 @@
 - [actions/actions-runner-controller](../repos/actions/actions-runner-controller.md) - Kubernetes controller for GitHub Actions self-hosted runners
 - [navidrome/navidrome](../repos/navidrome/navidrome.md) - 🎧 Your Personal Streaming Service 
 - [anchore/grype](../repos/anchore/grype.md) - A vulnerability scanner for container images and filesystems
-- [kubernetes-sigs/kueue](../repos/kubernetes-sigs/kueue.md) - Kubernetes-native Job Queueing
+- [kubernetes-sigs/kueue](../repos/kubernetes-sigs/kueue.md) - :vertical_traffic_light: Kubernetes-native Job Queueing and Scheduling
 - [containerd/containerd](../repos/containerd/containerd.md) - An open and reliable container runtime
 - [aceberg/WatchYourLAN](../repos/aceberg/WatchYourLAN.md) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [mubeng/mubeng](../repos/mubeng/mubeng.md) - An incredibly fast proxy checker &amp; IP rotator with ease.
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-01T21:01:59.065Z*
+*Last updated: 2026-10-02T21:02:11.663Z*
