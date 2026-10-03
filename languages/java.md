@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 205
+- **Total Repositories**: 208
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-19
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,257 | 2026-08-01 | 9 |
+| [MojoLauncher/MojoLauncher](../repos/MojoLauncher/MojoLauncher.md) | ⭐ 1,012 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 29,993 | 2026-08-02 | 9 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,184 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,179 | 2026-08-02 | 14 |
+| [adityatandon15/Low-Level-Design-Course](../repos/adityatandon15/Low-Level-Design-Course.md) | ⭐ 1,341 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/guava](../repos/google/guava.md) | ⭐ 51,912 | 2026-08-02 | 12 |
+| [shmykelsa/AAAD](../repos/shmykelsa/AAAD.md) | ⭐ 3,028 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MCRcortex/voxy](../repos/MCRcortex/voxy.md) | ⭐ 1,274 | 2026-08-03 | 5 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 80,436 | 2026-08-03 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 80,330 | 2026-08-03 | 15 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 29,010 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,295 | 2026-08-04 | 8 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,548 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 28,830 | 2026-08-04 | 16 |
+| [openjdk/jdk](../repos/openjdk/jdk.md) | ⭐ 23,397 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [androidx/media](../repos/androidx/media.md) | ⭐ 3,019 | 2026-08-06 | 2 |
+| [apache/kafka](../repos/apache/kafka.md) | ⭐ 33,897 | 2026-08-12 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 14,755 | 2026-08-06 | 10 |
+| [PojavLauncherTeam/PojavLauncher](../repos/PojavLauncherTeam/PojavLauncher.md) | ⭐ 9,409 | 2026-08-16 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [micronaut-projects/micronaut-core](../repos/micronaut-projects/micronaut-core.md) | ⭐ 6,424 | 2026-09-03 | Micronaut Application Framework |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Brazzo978/L.L.E-Legacy-Lockscreen-Effects](../repos/Brazzo978/L.L.E-Legacy-Lockscreen-Effects.md) | ⭐ 156 | 2026-09-03 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](../repos/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition.md) | ⭐ 23,830 | 2026-09-04 | FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessm... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SlimeKnights/TinkersConstruct](../repos/SlimeKnights/TinkersConstruct.md) | ⭐ 1,403 | 2026-09-06 | Tinker a little, build a little, tinker a little more... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [beemdevelopment/Aegis](../repos/beemdevelopment/Aegis.md) | ⭐ 13,037 | 2026-09-07 | A free, secure and open source app for Android to manage your 2-step verification tokens. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [libgdx/libgdx](../repos/libgdx/libgdx.md) | ⭐ 25,377 | 2026-09-07 | Desktop&#x2F;Android&#x2F;HTML5&#x2F;iOS Java game development framework |
 
 
 ---
@@ -89,9 +89,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,276 | 2026-08-04 | 6 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,520 | 2026-08-04 | 13 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 80,330 | 2026-08-03 | 15 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,179 | 2026-08-02 | 14 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,548 | 2026-08-04 | 14 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 80,436 | 2026-08-03 | 16 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,184 | 2026-08-02 | 15 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,331 | 2026-08-04 | 7 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
@@ -116,14 +116,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 22 | ⭐ 5,836 | 2026-08-05 | 2026-09-29 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 17 | ⭐ 29,010 | 2026-08-04 | 2026-10-03 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 16 | ⭐ 27,051 | 2026-08-02 | 2026-09-25 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 16 | ⭐ 28,830 | 2026-08-04 | 2026-10-02 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 15 | ⭐ 80,330 | 2026-08-03 | 2026-10-02 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 16 | ⭐ 80,436 | 2026-08-03 | 2026-10-03 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 15 | ⭐ 78,184 | 2026-08-02 | 2026-10-03 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 15 | ⭐ 41,787 | 2026-08-05 | 2026-09-25 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 14 | ⭐ 78,179 | 2026-08-02 | 2026-10-02 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 14 | ⭐ 81,548 | 2026-08-04 | 2026-10-03 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 13 | ⭐ 13,800 | 2026-08-01 | 2026-10-01 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 13 | ⭐ 34,222 | 2026-08-04 | 2026-09-27 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 13 | ⭐ 81,520 | 2026-08-04 | 2026-09-27 |
 | [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | 12 | ⭐ 29,137 | 2026-08-02 | 2026-09-27 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:11.673Z*
+*Last updated: 2026-10-03T21:01:57.758Z*

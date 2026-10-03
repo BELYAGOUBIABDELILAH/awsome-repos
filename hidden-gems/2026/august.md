@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 354
+**Gems Found**: 349
 
 ---
 
@@ -39,7 +39,7 @@
 |---|---|
 | ⭐ **Stars** | 1,427 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 92/100 |
+| 🏆 **Gem Score** | 91/100 |
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 4, 2026 |
 
@@ -59,7 +59,7 @@
 |---|---|
 | ⭐ **Stars** | 3,374 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 86/100 |
+| 🏆 **Gem Score** | 85/100 |
 | 📈 **Trending Days** | 4 |
 | 📅 **First Seen** | Aug 16, 2026 |
 
@@ -71,27 +71,7 @@
 
 ---
 
-### 4. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
-
-**Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de&#x2F;plugin-directory-submission.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,146 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 85/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 22, 2026 |
-
-**Why it's a gem**: High growth velocity (+682 stars&#x2F;day) • Trending 5 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/anthropics/claude-plugins-community.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;anthropics&#x2F;claude-plugins-community)
-
----
-
-### 5. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+### 4. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
 
 **GitHub Stacked PRs**
 
@@ -108,6 +88,26 @@
 **Best for**: 
 
 [View Passport](../../repos/github/gh-stack.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;github&#x2F;gh-stack)
+
+---
+
+### 5. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
+
+**Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de&#x2F;plugin-directory-submission.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,146 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 84/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 22, 2026 |
+
+**Why it's a gem**: High growth velocity (+682 stars&#x2F;day) • Trending 5 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/anthropics/claude-plugins-community.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;anthropics&#x2F;claude-plugins-community)
 
 ---
 
@@ -211,27 +211,7 @@
 
 ---
 
-### 11. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
-
-**Mission control for your AI agents**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 477 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 82/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 26, 2026 |
-
-**Why it's a gem**: High growth velocity (+86 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/RizRiyz/luvus.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;RizRiyz&#x2F;luvus)
-
----
-
-### 12. [livekit&#x2F;agents](../../repos/livekit/agents.md)
+### 11. [livekit&#x2F;agents](../../repos/livekit/agents.md)
 
 **A framework for building realtime voice AI agents 🤖🎙️📹 **
 
@@ -251,7 +231,7 @@
 
 ---
 
-### 13. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 12. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
 **ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
@@ -271,27 +251,27 @@
 
 ---
 
-### 14. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
+### 13. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
 
-**BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
+**Mission control for your AI agents**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 971 |
-| 💻 **Language** | Java |
+| ⭐ **Stars** | 477 |
+| 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 81/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 8, 2026 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 26, 2026 |
 
-**Why it's a gem**: Trending 4 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+86 stars&#x2F;day) • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/booklore-app/booklore.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;booklore-app&#x2F;booklore)
+[View Passport](../../repos/RizRiyz/luvus.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;RizRiyz&#x2F;luvus)
 
 ---
 
-### 15. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
+### 14. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
 
 **BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
 
@@ -308,6 +288,26 @@
 **Best for**: 
 
 [View Passport](../../repos/GCWing/BitFun.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;GCWing&#x2F;BitFun)
+
+---
+
+### 15. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
+
+**BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 971 |
+| 💻 **Language** | Java |
+| 🏆 **Gem Score** | 80/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 8, 2026 |
+
+**Why it's a gem**: Trending 4 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/booklore-app/booklore.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;booklore-app&#x2F;booklore)
 
 ---
 
@@ -331,27 +331,7 @@
 
 ---
 
-### 17. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
-
-**Visualize your year in travel using your Google Location History (Timeline) data**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,684 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 80/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+1084 stars&#x2F;day) • Trending 4 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/mahlernim/google-timeline-visualizer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mahlernim&#x2F;google-timeline-visualizer)
-
----
-
-### 18. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+### 17. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
 
 **Portable Tool for an Ideal Windows Setup**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [workweave&#x2F;router](../../repos/workweave/router.md)
+### 18. [workweave&#x2F;router](../../repos/workweave/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -391,7 +371,7 @@
 
 ---
 
-### 20. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
+### 19. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
 
 **Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
+
+**The coding agent that answers to you, your model, your machine, your rules.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,544 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 79/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 16, 2026 |
+
+**Why it's a gem**: High growth velocity (+99 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Gitlawb/zero.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Gitlawb&#x2F;zero)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-02T21:02:18.497Z*  
+*Generated: 2026-10-03T21:02:03.897Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 254
+- **Total Repositories**: 257
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-09-28
+- **Last Updated**: 2026-10-03
 
 ---
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,087 | 2026-08-01 | 15 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,675 | 2026-07-30 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/benchmark](../repos/google/benchmark.md) | ⭐ 10,446 | 2026-08-01 | 3 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 520 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,207 | 2026-08-03 | 6 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 11,523 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,614 | 2026-08-04 | 18 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,223 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wazuh/wazuh](../repos/wazuh/wazuh.md) | ⭐ 17,067 | 2026-08-04 | 5 |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 33,060 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/workerd](../repos/cloudflare/workerd.md) | ⭐ 8,802 | 2026-08-06 | 5 |
+| [telegramdesktop/tdesktop](../repos/telegramdesktop/tdesktop.md) | ⭐ 33,097 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 21,981 | 2026-08-06 | 10 |
+| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 21,998 | 2026-08-06 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/WSL](../repos/microsoft/WSL.md) | ⭐ 33,913 | 2026-08-08 | 10 |
+| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,066 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fmtlib/fmt](../repos/fmtlib/fmt.md) | ⭐ 25,861 | 2026-08-12 | 10 |
+| [firebase/firebase-ios-sdk](../repos/firebase/firebase-ios-sdk.md) | ⭐ 6,914 | 2026-08-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firebase/firebase-ios-sdk](../repos/firebase/firebase-ios-sdk.md) | ⭐ 6,911 | 2026-08-12 | 3 |
+| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,885 | 2026-08-19 | 10 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [alibaba/zvec](../repos/alibaba/zvec.md) | ⭐ 15,792 | 2026-09-03 | A lightweight, lightning-fast, in-process vector database |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ethz-asl/kalibr](../repos/ethz-asl/kalibr.md) | ⭐ 5,698 | 2026-09-03 | The Kalibr visual-inertial calibration toolbox |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [harry7557558/spirula-studio](../repos/harry7557558/spirula-studio.md) | ⭐ 1,024 | 2026-09-03 | Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nextcloud/desktop](../repos/nextcloud/desktop.md) | ⭐ 3,858 | 2026-09-05 | 💻 Desktop sync client for Nextcloud |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mamedev/mame](../repos/mamedev/mame.md) | ⭐ 10,465 | 2026-09-07 | MAME |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vcmi/vcmi](../repos/vcmi/vcmi.md) | ⭐ 5,836 | 2026-09-07 | Open-source engine for Heroes of Might and Magic III |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LMMS/lmms](../repos/LMMS/lmms.md) | ⭐ 10,340 | 2026-09-07 | Cross-platform music production software |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LibreSprite/LibreSprite](../repos/LibreSprite/LibreSprite.md) | ⭐ 8,357 | 2026-09-07 | Animated sprite editor &amp; pixel art tool -- Fork of the last GPLv2 commit of Aseprite |
 
 
 ---
@@ -88,23 +88,23 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,592 | 2026-07-30 | 21 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,675 | 2026-07-30 | 22 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 130,078 | 2026-08-01 | 26 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | 2026-08-04 | 4 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 117,022 | 2026-08-01 | 9 |
-| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 104,963 | 2026-08-06 | 6 |
+| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,066 | 2026-08-06 | 7 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,164 | 2026-08-02 | 8 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,568 | 2026-08-12 | 6 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,454 | 2026-08-08 | 14 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,087 | 2026-08-01 | 15 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,207 | 2026-08-03 | 6 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,223 | 2026-08-03 | 7 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,046 | 2026-09-01 | 2 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,360 | 2026-08-02 | 8 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
-| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,864 | 2026-08-19 | 9 |
+| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,885 | 2026-08-19 | 10 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 40,494 | 2026-08-02 | 7 |
 | [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,335 | 2026-08-09 | 8 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 26 | ⭐ 130,078 | 2026-08-01 | 2026-10-01 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 21 | ⭐ 200,592 | 2026-07-30 | 2026-09-28 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 22 | ⭐ 200,675 | 2026-07-30 | 2026-10-03 |
 | [google/googletest](../repos/google/googletest.md) | 18 | ⭐ 39,614 | 2026-08-04 | 2026-10-02 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 15 | ⭐ 520 | 2026-08-01 | 2026-10-03 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 15 | ⭐ 72,087 | 2026-08-01 | 2026-10-02 |
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 14 | ⭐ 516 | 2026-08-01 | 2026-10-01 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 14 | ⭐ 76,454 | 2026-08-08 | 2026-10-01 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 12 | ⭐ 29,564 | 2026-08-01 | 2026-09-02 |
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 11 | ⭐ 10,993 | 2026-08-02 | 2026-09-14 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 12 | ⭐ 11,523 | 2026-08-02 | 2026-10-03 |
+| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | 11 | ⭐ 21,998 | 2026-08-06 | 2026-10-03 |
 | [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | 10 | ⭐ 683 | 2026-08-02 | 2026-09-07 |
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | 10 | ⭐ 21,981 | 2026-08-06 | 2026-10-02 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:11.640Z*
+*Last updated: 2026-10-03T21:01:57.735Z*

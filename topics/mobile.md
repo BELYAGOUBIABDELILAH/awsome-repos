@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 510
+- **Total Repositories**: 513
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
-- **Average Stars**: 14008
+- **Average Stars**: 14013
 
 ---
 
@@ -17,25 +17,25 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,356 | Swift |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,541 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,543 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,955 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,109 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,114 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,248 | Dart |  |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,300 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 30,520 | Dart |  |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 30,575 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,515 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,530 | Clojure |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,167 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [google/promises](../repos/google/promises.md) | ⭐ 3,828 | Objective-C |  |
@@ -44,7 +44,7 @@
 | [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,066 | Objective-C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,614 | Objective-C |  |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,613 | Objective-C |  |
 
 
 ---
@@ -55,8 +55,8 @@
 |------------|-------|----------|------------|---------------|
 | [react/react](../repos/react/react.md) | ⭐ 247,637 | JavaScript | 2026-08-04 | 2 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,248 | Dart | 2026-08-01 | 36 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,145 | C | 2026-08-07 | 12 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,300 | Dart | 2026-08-01 | 37 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,936 | C | 2026-08-07 | 13 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 142,852 | JavaScript | 2026-07-30 | 10 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | C++ | 2026-08-04 | 4 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | TypeScript | 2026-07-31 | 3 |
@@ -82,22 +82,22 @@
 | [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,356 | Swift | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,541 | Scala | 2 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,543 | Scala | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,955 | Scala | 2 |
+| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,955 | Scala | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,109 | Scala | 2 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,114 | Scala | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 77,053 | Dart | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,248 | Dart | 2 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,300 | Dart | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 30,520 | Dart | 1 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 30,575 | Dart | 2 |
 
 ---
 
@@ -105,22 +105,10 @@
 
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [openreplay/openreplay](../repos/openreplay/openreplay.md) | ⭐ 12,660 | TypeScript | 2026-09-03 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [qufei1993/skills-hub](../repos/qufei1993/skills-hub.md) | ⭐ 1,560 | Rust | 2026-09-03 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [micronaut-projects/micronaut-core](../repos/micronaut-projects/micronaut-core.md) | ⭐ 6,424 | Java | 2026-09-03 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [lite-xl/lite-xl](../repos/lite-xl/lite-xl.md) | ⭐ 6,411 | Lua | 2026-09-03 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
 | [PerformanC/ReZygisk](../repos/PerformanC/ReZygisk.md) | ⭐ 3,961 | C | 2026-09-04 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,272 | Swift | 2026-09-04 |
+| [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,508 | Swift | 2026-09-04 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [MuntashirAkon/AppManager](../repos/MuntashirAkon/AppManager.md) | ⭐ 8,897 | Java | 2026-09-05 |
@@ -133,10 +121,26 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [Aryan-0001/Jarvis-AI](../repos/Aryan-0001/Jarvis-AI.md) | ⭐ 96 | Dart | 2026-09-05 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [maziyarpanahi/openmed](../repos/maziyarpanahi/openmed.md) | ⭐ 5,244 | Python | 2026-09-06 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,693 | Swift | 2026-09-06 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | Swift | 2026-09-06 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 26,576 | Dart | 2026-09-06 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-10-03](../archive/2026/10/2026-10-03.md)
+- 57 repositories trending
+- Top: flutter&#x2F;flutter
 
 ### [2026-10-02](../archive/2026/10/2026-10-02.md)
 - 59 repositories trending
@@ -167,16 +171,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 51 days | 2026-08-01 | 2026-10-02 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 48 days | 2026-08-01 | 2026-10-02 |
-| [gradle/gradle](../repos/gradle/gradle.md) | 48 days | 2026-08-01 | 2026-10-02 |
-| [vlang/v](../repos/vlang/v.md) | 47 days | 2026-08-01 | 2026-10-02 |
-| [joernio/joern](../repos/joernio/joern.md) | 43 days | 2026-08-01 | 2026-10-02 |
-| [vim/vim](../repos/vim/vim.md) | 42 days | 2026-08-01 | 2026-10-02 |
-| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 41 days | 2026-08-01 | 2026-10-02 |
+| [apache/spark](../repos/apache/spark.md) | 52 days | 2026-08-01 | 2026-10-03 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 49 days | 2026-08-01 | 2026-10-03 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 49 days | 2026-08-01 | 2026-10-03 |
+| [vlang/v](../repos/vlang/v.md) | 48 days | 2026-08-01 | 2026-10-03 |
+| [joernio/joern](../repos/joernio/joern.md) | 44 days | 2026-08-01 | 2026-10-03 |
+| [vim/vim](../repos/vim/vim.md) | 43 days | 2026-08-01 | 2026-10-03 |
+| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 42 days | 2026-08-01 | 2026-10-03 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 days | 2026-08-01 | 2026-10-01 |
-| [flutter/flutter](../repos/flutter/flutter.md) | 36 days | 2026-08-01 | 2026-10-02 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 33 days | 2026-08-01 | 2026-10-02 |
+| [flutter/flutter](../repos/flutter/flutter.md) | 37 days | 2026-08-01 | 2026-10-03 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 34 days | 2026-08-01 | 2026-10-03 |
 
 ---
 
@@ -187,7 +191,7 @@
 - **Dart**: 66 repositories (13%)
 - **Swift**: 59 repositories (12%)
 - **C**: 44 repositories (9%)
-- **Java**: 36 repositories (7%)
+- **Java**: 37 repositories (7%)
 
 ### Trending Frequency
 - **Daily Average**: 54.7 repositories
@@ -306,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:11.422Z*
+*Last updated: 2026-10-03T21:01:57.589Z*

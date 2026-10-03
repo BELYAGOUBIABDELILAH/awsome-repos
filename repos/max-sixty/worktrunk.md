@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Other |
-| **Stars** | ⭐ 8,667 |
-| **Forks** | 🍴 309 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 8,726 |
+| **Forks** | 🍴 315 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #15 |
 
 | **First Seen** | Aug 26, 2026 |
-| **Last Seen** | Oct 2, 2026 |
+| **Last Seen** | Oct 3, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #15
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 4 days
 
 ---
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:16.865Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-10-03T21:02:02.386Z*  
+*Data from 11 trending reports*

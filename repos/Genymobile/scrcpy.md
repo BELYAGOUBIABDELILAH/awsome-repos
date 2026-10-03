@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 150,145 |
-| **Forks** | 🍴 13,789 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 150,936 |
+| **Forks** | 🍴 13,860 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Sep 21, 2026 |
+| **Last Seen** | Oct 3, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 4 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`android`](../../topics/android.md) [`c`](../../topics/c.md) [`ffmpeg`](../../topics/ffmpeg.md) [`libav`](../../topics/libav.md) [`mirroring`](../../topics/mirroring.md) [`recording`](../../topics/recording.md) [`screen`](../../topics/screen.md) [`sdl2`](../../topics/sdl2.md) 
+[`android`](../../topics/android.md) [`c`](../../topics/c.md) [`ffmpeg`](../../topics/ffmpeg.md) [`genyteam-system`](../../topics/genyteam-system.md) [`libav`](../../topics/libav.md) [`mirroring`](../../topics/mirroring.md) [`recording`](../../topics/recording.md) [`screen`](../../topics/screen.md) [`sdl2`](../../topics/sdl2.md) 
 
 ### Curated Categories
 `Mobile Development` `Systems Programming` 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 150,145+ stars, strong contributor base |
+| **Community** | Very Active | 150,936+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:15.520Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-10-03T21:02:01.029Z*  
+*Data from 13 trending reports*

@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 63,426 | 2026-08-02 | 16 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,917 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,561 | 2026-08-02 | 11 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,060 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,823 | 2026-08-12 | 8 |
+| [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | ⭐ 4,729 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [d4rken-org/sdmaid-se](../repos/d4rken-org/sdmaid-se.md) | ⭐ 7,650 | 2026-08-28 | 5 |
+| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 1,954 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kunzisoft/KeePassDX](../repos/Kunzisoft/KeePassDX.md) | ⭐ 7,405 | 2026-09-01 | 2 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,980 | 2026-08-08 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 1,407 | 2026-10-01 | 2 |
+| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | ⭐ 6,441 | 2026-08-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ReSukiSU/ReSukiSU](../repos/ReSukiSU/ReSukiSU.md) | ⭐ 1,667 | 2026-10-02 | 1 |
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,231 | 2026-08-17 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/android](../repos/home-assistant/android.md) | ⭐ 3,945 | 2026-10-02 | 1 |
+| [streetcomplete/StreetComplete](../repos/streetcomplete/StreetComplete.md) | ⭐ 5,014 | 2026-09-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GrapheneOS/Messaging](../repos/GrapheneOS/Messaging.md) | ⭐ 221 | 2026-10-02 | 1 |
+| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 1,453 | 2026-10-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agupta07505/SmartIsland](../repos/agupta07505/SmartIsland.md) | ⭐ 223 | 2026-10-02 | 1 |
+| [ReSukiSU/ReSukiSU](../repos/ReSukiSU/ReSukiSU.md) | ⭐ 1,677 | 2026-10-02 | 2 |
 
 
 ---
@@ -89,11 +89,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 63,426 | 2026-08-02 | 16 |
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,000 | 2026-08-03 | 12 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,060 | 2026-08-03 | 13 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,585 | 2026-08-06 | 13 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,402 | 2026-08-04 | 10 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 42,218 | 2026-08-03 | 10 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,610 | 2026-08-08 | 15 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,980 | 2026-08-08 | 16 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,338 | 2026-08-05 | 5 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,227 | 2026-08-11 | 4 |
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,823 | 2026-08-12 | 8 |
@@ -103,8 +103,8 @@
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,852 | 2026-08-01 | 7 |
 | [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,334 | 2026-09-07 | 6 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
-| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 17,820 | 2026-08-17 | 4 |
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,854 | 2026-08-02 | 8 |
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,231 | 2026-08-17 | 5 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,917 | 2026-08-02 | 9 |
 | [ktorio/ktor](../repos/ktorio/ktor.md) | ⭐ 14,525 | 2026-09-12 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,644 | 2026-08-06 | 7 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,561 | 2026-08-02 | 11 |
@@ -116,12 +116,12 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 16 | ⭐ 63,426 | 2026-08-02 | 2026-10-02 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 16 | ⭐ 30,980 | 2026-08-08 | 2026-10-03 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 15 | ⭐ 2,550 | 2026-08-02 | 2026-09-29 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 15 | ⭐ 30,610 | 2026-08-08 | 2026-09-25 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 13 | ⭐ 23,718 | 2026-08-01 | 2026-09-20 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 13 | ⭐ 63,060 | 2026-08-03 | 2026-10-03 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 13 | ⭐ 53,585 | 2026-08-06 | 2026-09-19 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 12 | ⭐ 10,776 | 2026-08-03 | 2026-09-25 |
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 12 | ⭐ 63,000 | 2026-08-03 | 2026-09-29 |
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 12 | ⭐ 845 | 2026-08-05 | 2026-09-12 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 11 | ⭐ 4,477 | 2026-08-02 | 2026-09-29 |
 | [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | 11 | ⭐ 1,175 | 2026-08-02 | 2026-09-27 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:11.682Z*
+*Last updated: 2026-10-03T21:01:57.764Z*

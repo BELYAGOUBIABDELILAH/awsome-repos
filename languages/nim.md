@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 9
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-02
+- **Last Updated**: 2026-10-03
 
 ---
 
@@ -16,13 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,249 | 2026-08-01 | 43 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,250 | 2026-08-01 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 663 | 2026-08-02 | 13 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | ⭐ 249 | 2026-08-05 | 9 |
+| [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | ⭐ 249 | 2026-08-05 | 10 |
 
 
 ---
@@ -38,14 +35,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,249 | 2026-08-01 | 43 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,250 | 2026-08-01 | 44 |
 | [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | ⭐ 1,301 | 2026-08-14 | 2 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 663 | 2026-08-02 | 13 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 625 | 2026-08-05 | 2 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 500 | 2026-08-01 | 15 |
 | [crashappsec/chalk](../repos/crashappsec/chalk.md) | ⭐ 438 | 2026-08-05 | 1 |
 | [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | ⭐ 322 | 2026-08-06 | 5 |
-| [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | ⭐ 249 | 2026-08-05 | 9 |
+| [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | ⭐ 249 | 2026-08-05 | 10 |
 | [status-im/nim-stew](../repos/status-im/nim-stew.md) | ⭐ 154 | 2026-08-06 | 3 |
 
 ---
@@ -54,10 +51,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 43 | ⭐ 18,249 | 2026-08-01 | 2026-10-02 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 44 | ⭐ 18,250 | 2026-08-01 | 2026-10-03 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | 15 | ⭐ 500 | 2026-08-01 | 2026-09-29 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | 13 | ⭐ 663 | 2026-08-02 | 2026-10-02 |
-| [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | 9 | ⭐ 249 | 2026-08-05 | 2026-10-02 |
+| [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | 10 | ⭐ 249 | 2026-08-05 | 2026-10-03 |
 | [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | 5 | ⭐ 322 | 2026-08-06 | 2026-09-12 |
 | [status-im/nim-stew](../repos/status-im/nim-stew.md) | 3 | ⭐ 154 | 2026-08-06 | 2026-08-08 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | 2 | ⭐ 625 | 2026-08-05 | 2026-08-06 |
@@ -80,4 +77,4 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:11.692Z*
+*Last updated: 2026-10-03T21:01:57.772Z*

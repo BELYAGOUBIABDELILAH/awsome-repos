@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-02T21:02:18.705Z",
-  "total_repositories": 3751,
-  "trending_today": 418,
-  "new_this_month": 826,
+  "generated_at": "2026-10-03T21:02:04.016Z",
+  "total_repositories": 3777,
+  "trending_today": 400,
+  "new_this_month": 809,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-10-02",
+  "last_collection": "2026-10-03",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 51,
+    "trending_days": 52,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "getsentry/sentry",
-    "stars": 45010,
-    "first_seen": "2026-10-02"
+    "full_name": "meituan-longcat/LongCat-Video",
+    "stars": 8710,
+    "first_seen": "2026-10-03"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 52054377,
-  "avg_stars": 13877,
+  "total_stars": 52346961,
+  "avg_stars": 13859,
   "avg_trending_days": 5.5,
   "language_count": 59,
-  "topic_count": 9784,
+  "topic_count": 9811,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

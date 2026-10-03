@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 54
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-02
+- **Last Updated**: 2026-10-03
 
 ---
 
@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aave/aave-v4](../repos/aave/aave-v4.md) | ⭐ 209 | 2026-08-01 | 17 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,058 | 2026-08-01 | 47 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,058 | 2026-08-01 | 46 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,265 | 2026-08-01 | 51 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,265 | 2026-08-01 | 50 |
+| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | ⭐ 223 | 2026-08-01 | 48 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | ⭐ 223 | 2026-08-01 | 47 |
+| [dapphub/ds-test](../repos/dapphub/ds-test.md) | ⭐ 240 | 2026-08-01 | 48 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dapphub/ds-test](../repos/dapphub/ds-test.md) | ⭐ 240 | 2026-08-01 | 47 |
+| [transmissions11/solmate](../repos/transmissions11/solmate.md) | ⭐ 4,286 | 2026-08-01 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [transmissions11/solmate](../repos/transmissions11/solmate.md) | ⭐ 4,286 | 2026-08-01 | 37 |
+| [morpho-org/vault-v2](../repos/morpho-org/vault-v2.md) | ⭐ 106 | 2026-08-04 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [morpho-org/vault-v2](../repos/morpho-org/vault-v2.md) | ⭐ 105 | 2026-08-04 | 21 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [celo-org/celo-monorepo](../repos/celo-org/celo-monorepo.md) | ⭐ 808 | 2026-08-05 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) | ⭐ 6,803 | 2026-09-05 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [NomicFoundation/solx](../repos/NomicFoundation/solx.md) | ⭐ 188 | 2026-10-02 | 1 |
+| [NomicFoundation/solx](../repos/NomicFoundation/solx.md) | ⭐ 188 | 2026-10-02 | 2 |
 
 
 ---
@@ -73,16 +64,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,265 | 2026-08-01 | 50 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,265 | 2026-08-01 | 51 |
 | [AmazingAng/WTF-Solidity](../repos/AmazingAng/WTF-Solidity.md) | ⭐ 14,060 | 2026-08-19 | 5 |
 | [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) | ⭐ 6,803 | 2026-09-05 | 10 |
-| [transmissions11/solmate](../repos/transmissions11/solmate.md) | ⭐ 4,286 | 2026-08-01 | 37 |
+| [transmissions11/solmate](../repos/transmissions11/solmate.md) | ⭐ 4,286 | 2026-08-01 | 38 |
 | [Uniswap/v4-core](../repos/Uniswap/v4-core.md) | ⭐ 2,533 | 2026-08-01 | 22 |
 | [ProjectOpenSea/seaport](../repos/ProjectOpenSea/seaport.md) | ⭐ 2,257 | 2026-09-12 | 1 |
 | [Cyfrin/security-and-auditing-full-course-s23](../repos/Cyfrin/security-and-auditing-full-course-s23.md) | ⭐ 1,954 | 2026-09-02 | 1 |
 | [Uniswap/v2-periphery](../repos/Uniswap/v2-periphery.md) | ⭐ 1,268 | 2026-08-02 | 2 |
 | [Arachnid/solidity-stringutils](../repos/Arachnid/solidity-stringutils.md) | ⭐ 1,154 | 2026-08-02 | 24 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,058 | 2026-08-01 | 46 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,058 | 2026-08-01 | 47 |
 | [bnb-chain/BEPs](../repos/bnb-chain/BEPs.md) | ⭐ 976 | 2026-08-26 | 3 |
 | [foundry-rs/book](../repos/foundry-rs/book.md) | ⭐ 960 | 2026-08-10 | 3 |
 | [Uniswap/permit2](../repos/Uniswap/permit2.md) | ⭐ 945 | 2026-08-01 | 18 |
@@ -100,15 +91,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 50 | ⭐ 27,265 | 2026-08-01 | 2026-10-02 |
-| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | 47 | ⭐ 223 | 2026-08-01 | 2026-10-02 |
-| [dapphub/ds-test](../repos/dapphub/ds-test.md) | 47 | ⭐ 240 | 2026-08-01 | 2026-10-02 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 46 | ⭐ 1,058 | 2026-08-01 | 2026-10-02 |
-| [transmissions11/solmate](../repos/transmissions11/solmate.md) | 37 | ⭐ 4,286 | 2026-08-01 | 2026-10-02 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 51 | ⭐ 27,265 | 2026-08-01 | 2026-10-03 |
+| [a16z/erc4626-tests](../repos/a16z/erc4626-tests.md) | 48 | ⭐ 223 | 2026-08-01 | 2026-10-03 |
+| [dapphub/ds-test](../repos/dapphub/ds-test.md) | 48 | ⭐ 240 | 2026-08-01 | 2026-10-03 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 47 | ⭐ 1,058 | 2026-08-01 | 2026-10-03 |
+| [transmissions11/solmate](../repos/transmissions11/solmate.md) | 38 | ⭐ 4,286 | 2026-08-01 | 2026-10-03 |
 | [OpenZeppelin/openzeppelin-foundry-upgrades](../repos/OpenZeppelin/openzeppelin-foundry-upgrades.md) | 37 | ⭐ 258 | 2026-08-01 | 2026-09-29 |
 | [Arachnid/solidity-stringutils](../repos/Arachnid/solidity-stringutils.md) | 24 | ⭐ 1,154 | 2026-08-02 | 2026-09-09 |
 | [Uniswap/v4-core](../repos/Uniswap/v4-core.md) | 22 | ⭐ 2,533 | 2026-08-01 | 2026-09-24 |
-| [morpho-org/vault-v2](../repos/morpho-org/vault-v2.md) | 21 | ⭐ 105 | 2026-08-04 | 2026-10-02 |
+| [morpho-org/vault-v2](../repos/morpho-org/vault-v2.md) | 22 | ⭐ 106 | 2026-08-04 | 2026-10-03 |
 | [dmfxyz/murky](../repos/dmfxyz/murky.md) | 21 | ⭐ 517 | 2026-08-04 | 2026-09-09 |
 
 ---
@@ -172,4 +163,4 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:11.729Z*
+*Last updated: 2026-10-03T21:01:57.793Z*

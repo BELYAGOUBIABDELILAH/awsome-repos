@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Not specified |
-| **Stars** | ⭐ 147,645 |
-| **Forks** | 🍴 24,132 |
-| **Trending Days** | 15 |
+| **Stars** | ⭐ 149,177 |
+| **Forks** | 🍴 25,335 |
+| **Trending Days** | 16 |
 | **Peak Rank** | #5 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Sep 22, 2026 |
+| **Last Seen** | Oct 3, 2026 |
 
 
 ---
@@ -46,11 +46,12 @@
 **Aug 22, 2026** — Rank #8 (+141 ⭐)  
 **Sep 19, 2026** — Rank #5 (+444 ⭐)  
 **Sep 20, 2026** — Rank #7 (+415 ⭐)  
+**Oct 3, 2026** — Rank #16 (+127 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #5
-- **Trending Days**: 15
+- **Trending Days**: 16
 - **Longest Streak**: 6 days
 
 ---
@@ -73,9 +74,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 147,645+ stars, strong contributor base |
+| **Community** | Very Active | 149,177+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -94,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:15.462Z*  
-*Data from 15 trending reports*
+*Last updated: 2026-10-03T21:02:00.974Z*  
+*Data from 16 trending reports*

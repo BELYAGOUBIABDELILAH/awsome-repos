@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 39,055 |
-| **Forks** | 🍴 4,273 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 39,305 |
+| **Forks** | 🍴 4,305 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Sep 1, 2026 |
-| **Last Seen** | Oct 2, 2026 |
+| **Last Seen** | Oct 3, 2026 |
 
 
 ---
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 3 days
 
 ---
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:17.088Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-10-03T21:02:02.663Z*  
+*Data from 11 trending reports*

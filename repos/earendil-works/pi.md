@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 111,123 |
-| **Forks** | 🍴 14,124 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 112,105 |
+| **Forks** | 🍴 14,223 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #10 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Oct 1, 2026 |
+| **Last Seen** | Oct 3, 2026 |
 
 
 ---
@@ -44,11 +44,12 @@
 ## Trending Timeline
 
 **Oct 1, 2026** — Rank #10 (+294 ⭐)  
+**Oct 3, 2026** — Rank #14 (+408 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #10
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 2 days
 
 ---
@@ -71,7 +72,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 111,123+ stars, strong contributor base |
+| **Community** | Very Active | 112,105+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
@@ -92,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:15.473Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-10-03T21:02:00.984Z*  
+*Data from 11 trending reports*

@@ -1,6 +1,6 @@
 # bryanthaboi&#x2F;gen1recomp
 
-> Gen1Recomp - A native Lua &#x2F; LÖVE2D recreation of Gen 1 and 2 Poke
+> Gen1Recomp - A native Lua &#x2F; LÖVE2D recreation of Gen 1, 2, and 3 Poke
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;bryanthaboi&#x2F;gen1recomp) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Lua |
 | **License** | Other |
-| **Stars** | ⭐ 3,794 |
-| **Forks** | 🍴 331 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 3,825 |
+| **Forks** | 🍴 337 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 20, 2026 |
-| **Last Seen** | Sep 28, 2026 |
+| **Last Seen** | Oct 3, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:17.821Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-10-03T21:02:03.334Z*  
+*Data from 8 trending reports*

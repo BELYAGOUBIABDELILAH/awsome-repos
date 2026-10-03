@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 73,727 |
-| **Forks** | 🍴 8,758 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 73,797 |
+| **Forks** | 🍴 8,766 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Aug 10, 2026 |
-| **Last Seen** | Oct 2, 2026 |
+| **Last Seen** | Oct 3, 2026 |
 
 
 ---
@@ -51,7 +51,7 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 5 days
 
 ---
@@ -59,7 +59,7 @@
 ## Categories
 
 ### Topics
-[`agentic-ai`](../../topics/agentic-ai.md) [`agentic-framework`](../../topics/agentic-framework.md) [`agentic-workflow`](../../topics/agentic-workflow.md) [`agents`](../../topics/agents.md) [`ai-agents`](../../topics/ai-agents.md) [`ai-assistant`](../../topics/ai-assistant.md) [`ai-skills`](../../topics/ai-skills.md) [`autonomous-agents`](../../topics/autonomous-agents.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`harness`](../../topics/harness.md) [`mcp-server`](../../topics/mcp-server.md) [`multi-agent`](../../topics/multi-agent.md) [`multi-agent-systems`](../../topics/multi-agent-systems.md) [`npm`](../../topics/npm.md) [`skills`](../../topics/skills.md) [`swarm`](../../topics/swarm.md) [`swarm-intelligence`](../../topics/swarm-intelligence.md) [`typescript`](../../topics/typescript.md) 
+[`agentic-ai`](../../topics/agentic-ai.md) [`agentic-framework`](../../topics/agentic-framework.md) [`agentic-workflow`](../../topics/agentic-workflow.md) [`agents`](../../topics/agents.md) [`ai-agents`](../../topics/ai-agents.md) [`ai-assistant`](../../topics/ai-assistant.md) [`ai-skills`](../../topics/ai-skills.md) [`autonomous-agents`](../../topics/autonomous-agents.md) [`claude`](../../topics/claude.md) [`codex`](../../topics/codex.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`harness`](../../topics/harness.md) [`mcp-server`](../../topics/mcp-server.md) [`multi-agent`](../../topics/multi-agent.md) [`multi-agent-systems`](../../topics/multi-agent-systems.md) [`npm`](../../topics/npm.md) [`skills`](../../topics/skills.md) [`swarm`](../../topics/swarm.md) [`swarm-intelligence`](../../topics/swarm-intelligence.md) [`typescript`](../../topics/typescript.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Backend Development` `Systems Programming` `Automation` `Robotics` 
@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:15.841Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-10-03T21:02:01.367Z*  
+*Data from 11 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 238
+- **Total Repositories**: 241
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 9,476 | 2026-08-01 | 15 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 9,642 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 134,774 | 2026-08-02 | 12 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 52,917 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 55,824 | 2026-08-08 | 15 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 24,613 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 32,986 | 2026-08-10 | 5 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 34,200 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 73,727 | 2026-08-10 | 10 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 149,177 | 2026-08-07 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 206,509 | 2026-08-11 | 6 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 112,105 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rmyndharis/OpenWA](../repos/rmyndharis/OpenWA.md) | ⭐ 14,961 | 2026-08-19 | 4 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 56,274 | 2026-08-08 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 90,957 | 2026-08-22 | 3 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 73,797 | 2026-08-10 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tradingview/lightweight-charts](../repos/tradingview/lightweight-charts.md) | ⭐ 17,452 | 2026-08-27 | 3 |
+| [cloudflare/cloudflare-os](../repos/cloudflare/cloudflare-os.md) | ⭐ 10,527 | 2026-08-25 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvschwarz/openrig](../repos/mvschwarz/openrig.md) | ⭐ 4,221 | 2026-09-25 | 6 |
+| [humanlayer/skills](../repos/humanlayer/skills.md) | ⭐ 4,877 | 2026-09-04 | 5 |
 
 
 ---
@@ -52,13 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [awslabs/aidlc-workflows](../repos/awslabs/aidlc-workflows.md) | ⭐ 4,341 | 2026-09-03 | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openreplay/openreplay](../repos/openreplay/openreplay.md) | ⭐ 12,660 | 2026-09-03 | Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues a... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [humanlayer/skills](../repos/humanlayer/skills.md) | ⭐ 4,787 | 2026-09-04 |  |
+| [humanlayer/skills](../repos/humanlayer/skills.md) | ⭐ 4,877 | 2026-09-04 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [BraveOPotato/FckSignups](../repos/BraveOPotato/FckSignups.md) | ⭐ 4,097 | 2026-09-05 | A list of tools that are open-source, in-browser, and require no-signups! |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MoonTechLab/LunaTV](../repos/MoonTechLab/LunaTV.md) | ⭐ 10,397 | 2026-09-07 | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pascalorg/editor](../repos/pascalorg/editor.md) | ⭐ 24,598 | 2026-09-07 | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for huma... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Nutlope/logocreator](../repos/Nutlope/logocreator.md) | ⭐ 8,614 | 2026-09-07 | A free + OSS logo generator powered by Flux on Together AI |
 
 
 ---
@@ -93,12 +93,12 @@
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | 2026-09-01 | 2 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 147,645 | 2026-08-07 | 15 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 149,177 | 2026-08-07 | 16 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,718 | 2026-08-02 | 5 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 134,774 | 2026-08-02 | 12 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 111,123 | 2026-08-07 | 10 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 112,105 | 2026-08-07 | 11 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [cursor/plugins](../repos/cursor/plugins.md) | 15 | ⭐ 9,476 | 2026-08-01 | 2026-10-02 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | 15 | ⭐ 147,645 | 2026-08-07 | 2026-09-22 |
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 15 | ⭐ 55,824 | 2026-08-08 | 2026-10-02 |
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 13 | ⭐ 33,176 | 2026-08-02 | 2026-09-24 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 16 | ⭐ 9,642 | 2026-08-01 | 2026-10-03 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | 16 | ⭐ 149,177 | 2026-08-07 | 2026-10-03 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 16 | ⭐ 56,274 | 2026-08-08 | 2026-10-03 |
+| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 13 | ⭐ 78,223 | 2026-08-11 | 2026-09-25 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 12 | ⭐ 134,774 | 2026-08-02 | 2026-10-02 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 12 | ⭐ 25,971 | 2026-08-07 | 2026-09-13 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | 10 | ⭐ 111,123 | 2026-08-07 | 2026-10-01 |
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 10 | ⭐ 73,727 | 2026-08-10 | 2026-10-02 |
-| [TencentCloud/TencentDB-Agent-Memory](../repos/TencentCloud/TencentDB-Agent-Memory.md) | 9 | ⭐ 26,666 | 2026-08-01 | 2026-09-14 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | 11 | ⭐ 112,105 | 2026-08-07 | 2026-10-03 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 11 | ⭐ 73,797 | 2026-08-10 | 2026-10-03 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 10 | ⭐ 52,917 | 2026-08-01 | 2026-10-03 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:11.736Z*
+*Last updated: 2026-10-03T21:01:57.797Z*

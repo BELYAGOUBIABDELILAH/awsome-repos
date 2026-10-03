@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 201
+- **Total Repositories**: 202
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-01
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,143 | 2026-08-01 | 5 |
+| [tursodatabase/turso](../repos/tursodatabase/turso.md) | ⭐ 24,545 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | ⭐ 6,643 | 2026-08-03 | 6 |
+| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,156 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 21,491 | 2026-08-07 | 8 |
+| [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | ⭐ 6,763 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 40,454 | 2026-08-10 | 14 |
+| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 21,514 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 6,270 | 2026-08-20 | 9 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 8,726 | 2026-08-26 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,345 | 2026-08-20 | 5 |
+| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 8,213 | 2026-08-27 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 8,667 | 2026-08-26 | 10 |
+| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 15,829 | 2026-09-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 8,208 | 2026-08-27 | 5 |
+| [a2x/cs2-dumper](../repos/a2x/cs2-dumper.md) | ⭐ 2,392 | 2026-09-24 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/OpenShell](../repos/NVIDIA/OpenShell.md) | ⭐ 14,380 | 2026-09-01 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 15,677 | 2026-09-04 | 8 |
+| [rubys/roundhouse](../repos/rubys/roundhouse.md) | ⭐ 373 | 2026-10-03 | 1 |
 
 
 ---
@@ -52,19 +49,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [xai-org/x-algorithm](../repos/xai-org/x-algorithm.md) | ⭐ 33,338 | 2026-09-03 | Algorithm powering the For You feed on X |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [espanso/espanso](../repos/espanso/espanso.md) | ⭐ 14,432 | 2026-09-03 | A Privacy-first, Cross-platform Text Expander written in Rust |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [qufei1993/skills-hub](../repos/qufei1993/skills-hub.md) | ⭐ 1,560 | 2026-09-03 | A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI cod... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | A curated list of Rust code and resources. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 15,677 | 2026-09-04 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
+| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 15,829 | 2026-09-04 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [GreptimeTeam/greptimedb](../repos/GreptimeTeam/greptimedb.md) | ⭐ 6,642 | 2026-09-04 | The open-source observability database. One columnar engine for metrics, logs, and traces, on obj... |
@@ -80,6 +65,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [huggingface/funes](../repos/huggingface/funes.md) | ⭐ 342 | 2026-09-07 | Durable, searchable memory of your past agent sessions. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [koharu-rs/koharu](../repos/koharu-rs/koharu.md) | ⭐ 5,511 | 2026-09-07 | AI-powered manga translator, written in Rust. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [visioncortex/vtracer](../repos/visioncortex/vtracer.md) | ⭐ 6,951 | 2026-09-07 | Raster to Vector Graphics Converter |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [quickwit-oss/quickwit](../repos/quickwit-oss/quickwit.md) | ⭐ 11,587 | 2026-09-08 | Cloud-native OSS search engine for observability |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google/magika](../repos/google/magika.md) | ⭐ 18,518 | 2026-09-09 | Fast and accurate AI powered file content types detection  |
 
 
 ---
@@ -122,9 +119,9 @@
 | [openai/codex](../repos/openai/codex.md) | 12 | ⭐ 127,538 | 2026-08-01 | 2026-10-01 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 11 | ⭐ 29,237 | 2026-08-03 | 2026-09-21 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 11 | ⭐ 11,824 | 2026-08-09 | 2026-10-01 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 11 | ⭐ 8,726 | 2026-08-26 | 2026-10-03 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 10 | ⭐ 119,244 | 2026-07-30 | 2026-09-27 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | 10 | ⭐ 45,253 | 2026-08-05 | 2026-09-29 |
-| [rustfs/rustfs](../repos/rustfs/rustfs.md) | 10 | ⭐ 33,302 | 2026-08-09 | 2026-09-19 |
 
 ---
 
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:11.720Z*
+*Last updated: 2026-10-03T21:01:57.787Z*

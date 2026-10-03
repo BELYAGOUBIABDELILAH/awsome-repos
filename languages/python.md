@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 266
+- **Total Repositories**: 270
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-25
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/VibeVoice](../repos/microsoft/VibeVoice.md) | ⭐ 54,601 | 2026-08-01 | 3 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 89,699 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 88,465 | 2026-08-01 | 9 |
+| [jamwithai/production-agentic-rag-course](../repos/jamwithai/production-agentic-rag-course.md) | ⭐ 9,377 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostHog/posthog](../repos/PostHog/posthog.md) | ⭐ 40,107 | 2026-08-03 | 11 |
+| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 66,333 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 76,360 | 2026-08-06 | 7 |
+| [google/skills](../repos/google/skills.md) | ⭐ 20,886 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/skills](../repos/google/skills.md) | ⭐ 20,705 | 2026-08-07 | 8 |
+| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 11,358 | 2026-08-24 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 8,023 | 2026-08-15 | 8 |
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 33,063 | 2026-08-29 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 11,344 | 2026-08-24 | 2 |
+| [handsomestWei/patent-disclosure-skill](../repos/handsomestWei/patent-disclosure-skill.md) | ⭐ 10,949 | 2026-09-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ayghri/i-have-adhd](../repos/ayghri/i-have-adhd.md) | ⭐ 52,914 | 2026-08-29 | 6 |
+| [mvt-project/mvt](../repos/mvt-project/mvt.md) | ⭐ 15,183 | 2026-09-21 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/SkillSpector](../repos/NVIDIA/SkillSpector.md) | ⭐ 19,090 | 2026-09-01 | 4 |
+| [getsentry/sentry](../repos/getsentry/sentry.md) | ⭐ 45,184 | 2026-10-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tile-ai/tilelang](../repos/tile-ai/tilelang.md) | ⭐ 8,237 | 2026-10-01 | 2 |
+| [meituan-longcat/LongCat-Video](../repos/meituan-longcat/LongCat-Video.md) | ⭐ 8,710 | 2026-10-03 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [netalertx/NetAlertX](../repos/netalertx/NetAlertX.md) | ⭐ 7,030 | 2026-09-03 | Centralized network visibility and continuous asset discovery.  Monitor devices, detect change, a... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [datacurve-ai/deep-swe](../repos/datacurve-ai/deep-swe.md) | ⭐ 1,589 | 2026-09-03 | Measuring frontier coding agents on original, long-horizon engineering tasks |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bikini/exploitarium](../repos/bikini/exploitarium.md) | ⭐ 4,902 | 2026-09-04 | A single archive of public exploit PoCs and vulnerability research writeups. At the time I post t... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [k2-fsa/OmniVoice](../repos/k2-fsa/OmniVoice.md) | ⭐ 12,759 | 2026-09-05 | High-Quality Voice Cloning TTS for 600+ Languages |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [huggingface/datasets](../repos/huggingface/datasets.md) | ⭐ 21,947 | 2026-09-05 | 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient da... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [openai/skills](../repos/openai/skills.md) | ⭐ 26,850 | 2026-09-06 | Skills Catalog for Codex |
 
 
 ---
@@ -120,10 +120,10 @@
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 13 | ⭐ 51,295 | 2026-08-22 | 2026-10-01 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 11 | ⭐ 40,107 | 2026-08-03 | 2026-10-02 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 10 | ⭐ 89,699 | 2026-08-01 | 2026-10-03 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 10 | ⭐ 41,423 | 2026-08-03 | 2026-09-01 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 10 | ⭐ 106,016 | 2026-08-08 | 2026-09-14 |
 | [cactus-compute/needle](../repos/cactus-compute/needle.md) | 10 | ⭐ 12,523 | 2026-08-11 | 2026-09-24 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 9 | ⭐ 88,465 | 2026-08-01 | 2026-10-02 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 9 | ⭐ 1,384 | 2026-08-01 | 2026-08-28 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-02T21:02:11.711Z*
+*Last updated: 2026-10-03T21:01:57.781Z*
