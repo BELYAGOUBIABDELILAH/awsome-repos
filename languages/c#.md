@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,465 | 2026-08-01 | 16 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,465 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,416 | 2026-08-01 | 14 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,458 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,566 | 2026-08-02 | 25 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 57,844 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 30,453 | 2026-08-02 | 27 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,565 | 2026-08-03 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tModLoader/tModLoader](../repos/tModLoader/tModLoader.md) | ⭐ 5,693 | 2026-08-02 | 11 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 16,844 | 2026-08-03 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lostindark/DriverStoreExplorer](../repos/lostindark/DriverStoreExplorer.md) | ⭐ 11,772 | 2026-08-02 | 4 |
+| [itsfatduck/optimizerDuck](../repos/itsfatduck/optimizerDuck.md) | ⭐ 10,250 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,546 | 2026-08-03 | 24 |
+| [space-wizards/space-station-14](../repos/space-wizards/space-station-14.md) | ⭐ 3,850 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,305 | 2026-08-04 | 15 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,346 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,038 | 2026-08-10 | 5 |
+| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 8,783 | 2026-08-09 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NickvisionApps/Parabolic](../repos/NickvisionApps/Parabolic.md) | ⭐ 7,219 | 2026-08-14 | 5 |
+| [NickvisionApps/Parabolic](../repos/NickvisionApps/Parabolic.md) | ⭐ 7,277 | 2026-08-14 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PixiEditor/PixiEditor](../repos/PixiEditor/PixiEditor.md) | ⭐ 8,031 | 2026-09-04 | PixiEditor is a Universal Editor for all your 2D needs |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [umlx5h/LLPlayer](../repos/umlx5h/LLPlayer.md) | ⭐ 4,232 | 2026-09-04 | The media player for language learning, with dual subtitles, AI-generated subtitles, real-time tr... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ed0ard/CS2-Bot-Improver](../repos/ed0ard/CS2-Bot-Improver.md) | ⭐ 1,179 | 2026-09-05 | CS2-Bot-Improver is a plugin for Counter-Strike 2 that improves bots&#39; aim, movement, nade throwin... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MUnique/OpenMU](../repos/MUnique/OpenMU.md) | ⭐ 1,166 | 2026-09-05 | This project aims to create an easy to use, extendable and customizable server for a MMORPG calle... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ClassIsland/ClassIsland](../repos/ClassIsland/ClassIsland.md) | ⭐ 2,809 | 2026-09-06 | 一款功能强、可定制、跨平台，适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mini-software/MiniPdf](../repos/mini-software/MiniPdf.md) | ⭐ 460 | 2026-09-06 | Lightweight Office-to-PDF libraries and command-line tools for Rust and .NET. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Perfare/Il2CppDumper](../repos/Perfare/Il2CppDumper.md) | ⭐ 9,408 | 2026-09-07 | Unity il2cpp reverse engineer |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [hellzerg/optimizer](../repos/hellzerg/optimizer.md) | ⭐ 18,296 | 2026-09-08 | The finest Windows Optimizer |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Kareadita/Kavita](../repos/Kareadita/Kavita.md) | ⭐ 11,639 | 2026-09-09 | Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a ful... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [FlaUI/FlaUI](../repos/FlaUI/FlaUI.md) | ⭐ 3,125 | 2026-09-09 | UI automation library for .Net |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/winappCli](../repos/microsoft/winappCli.md) | ⭐ 1,244 | 2026-09-10 | winapp, the Windows App Development CLI, is a single command-line interface for managing Windows ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [IAmParadox27/jellyfin-plugin-file-transformation](../repos/IAmParadox27/jellyfin-plugin-file-transformation.md) | ⭐ 523 | 2026-09-10 | Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin-web withou... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ProwlEngine/Prowl](../repos/ProwlEngine/Prowl.md) | ⭐ 1,220 | 2026-09-12 | An Open Source C# 3D Game Engine under MIT license, inspired by Unity and featuring a complete ed... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [duplicati/duplicati](../repos/duplicati/duplicati.md) | ⭐ 15,065 | 2026-09-12 | Store securely encrypted backups in the cloud! |
 
 
 ---
@@ -89,12 +89,12 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,566 | 2026-08-02 | 25 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 56,905 | 2026-08-02 | 17 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 57,844 | 2026-08-02 | 18 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,569 | 2026-08-06 | 12 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,350 | 2026-08-01 | 9 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,793 | 2026-08-14 | 4 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,844 | 2026-08-03 | 8 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,465 | 2026-08-01 | 16 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,465 | 2026-08-01 | 17 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,235 | 2026-08-01 | 17 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,062 | 2026-08-28 | 3 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 27 | ⭐ 30,453 | 2026-08-02 | 2026-10-03 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 25 | ⭐ 117,566 | 2026-08-02 | 2026-10-03 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 24 | ⭐ 5,546 | 2026-08-03 | 2026-10-03 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 25 | ⭐ 5,565 | 2026-08-03 | 2026-10-06 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 18 | ⭐ 57,844 | 2026-08-02 | 2026-10-06 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 17 | ⭐ 31,235 | 2026-08-01 | 2026-09-25 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 17 | ⭐ 56,905 | 2026-08-02 | 2026-09-10 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 17 | ⭐ 38,465 | 2026-08-01 | 2026-10-06 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 17 | ⭐ 15,755 | 2026-08-02 | 2026-09-27 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 16 | ⭐ 38,465 | 2026-08-01 | 2026-10-03 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 15 | ⭐ 14,458 | 2026-08-01 | 2026-10-06 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | 15 | ⭐ 9,346 | 2026-08-04 | 2026-10-06 |
 | [dotnet/runtime](../repos/dotnet/runtime.md) | 15 | ⭐ 18,305 | 2026-08-04 | 2026-10-03 |
-| [microsoft/aspire](../repos/microsoft/aspire.md) | 15 | ⭐ 6,330 | 2026-08-05 | 2026-10-01 |
-| [microsoft/mcp](../repos/microsoft/mcp.md) | 14 | ⭐ 3,708 | 2026-08-01 | 2026-09-24 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.733Z*
+*Last updated: 2026-10-06T21:02:08.252Z*

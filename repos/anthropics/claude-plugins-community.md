@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Python |
+| **Language** | JavaScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 2,146 |
-| **Forks** | 🍴 189 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 4,515 |
+| **Forks** | 🍴 324 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Aug 22, 2026 |
-| **Last Seen** | Aug 26, 2026 |
+| **Last Seen** | Oct 6, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Python or similar-topics*
+*Similar: Check repositories in JavaScript or similar-topics*
 
 ---
 
@@ -51,7 +51,7 @@
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 5 days
 
 ---
@@ -76,7 +76,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,15 +85,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Python
+- Check similar projects in JavaScript
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 100&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #2)
 
 
 ---
 
-*Last updated: 2026-10-03T21:02:02.164Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-10-06T21:02:17.578Z*  
+*Data from 6 trending reports*

@@ -16,40 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,507 | 2026-08-01 | 10 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,457 | 2026-08-01 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,425 | 2026-08-01 | 25 |
+| [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,653 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,453 | 2026-08-01 | 45 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 29,696 | 2026-08-02 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zarazhangrui/codebase-to-course](../repos/zarazhangrui/codebase-to-course.md) | ⭐ 5,640 | 2026-08-02 | 10 |
+| [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,837 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 29,460 | 2026-08-02 | 25 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 5,782 | 2026-08-10 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lscambo13/ElegantFin](../repos/lscambo13/ElegantFin.md) | ⭐ 2,191 | 2026-08-12 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [jensimmons/cssremedy](../repos/jensimmons/cssremedy.md) | ⭐ 2,224 | 2026-09-12 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mrrfv/open-android-backup](../repos/mrrfv/open-android-backup.md) | ⭐ 1,414 | 2026-10-03 | 1 |
+| [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) | ⭐ 7,355 | 2026-08-24 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [octaviovillegas/CursoIngresoJS](../repos/octaviovillegas/CursoIngresoJS.md) | ⭐ 121 | 2026-09-05 | Curso de ingreso con JavaScript |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AlirezaKJ/BetterSoundCloud](../repos/AlirezaKJ/BetterSoundCloud.md) | ⭐ 439 | 2026-09-05 | A PC client of SoundCloud with improvement made using electronjs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | Monospaced font family for user interface and coding environments |
@@ -74,6 +62,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps](../repos/MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps.md) | ⭐ 54 | 2026-09-25 | Sample repo for Interact with Data for Blazor Web Apps Learn Module |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [woowacourse/java-http](../repos/woowacourse/java-http.md) | ⭐ 23 | 2026-09-28 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bwhtech/commera](../repos/bwhtech/commera.md) | ⭐ 60 | 2026-10-01 | Open Source E-commerce Platform, powered by ERPNext |
 
 
 ---
@@ -85,14 +79,14 @@
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,831 | 2026-08-06 | 16 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,507 | 2026-08-01 | 10 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,352 | 2026-08-04 | 23 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 29,460 | 2026-08-02 | 25 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 29,696 | 2026-08-02 | 26 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,711 | 2026-08-02 | 21 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,421 | 2026-08-01 | 22 |
-| [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,807 | 2026-08-04 | 6 |
+| [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,837 | 2026-08-04 | 7 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,669 | 2026-08-06 | 12 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,481 | 2026-08-09 | 2 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
@@ -109,16 +103,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 45 | ⭐ 1,453 | 2026-08-01 | 2026-10-03 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 46 | ⭐ 1,457 | 2026-08-01 | 2026-10-06 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 33 | ⭐ 922 | 2026-08-01 | 2026-10-01 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 26 | ⭐ 29,696 | 2026-08-02 | 2026-10-06 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 25 | ⭐ 1,425 | 2026-08-01 | 2026-10-03 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 25 | ⭐ 29,460 | 2026-08-02 | 2026-10-03 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 23 | ⭐ 45,352 | 2026-08-04 | 2026-10-02 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 22 | ⭐ 12,421 | 2026-08-01 | 2026-09-28 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 21 | ⭐ 12,711 | 2026-08-02 | 2026-10-01 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 17 | ⭐ 9,316 | 2026-08-01 | 2026-10-02 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 17 | ⭐ 5,782 | 2026-08-10 | 2026-10-06 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 16 | ⭐ 9,539 | 2026-08-05 | 2026-09-24 |
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 16 | ⭐ 82,831 | 2026-08-06 | 2026-09-27 |
 
 ---
 
@@ -197,4 +191,4 @@
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.737Z*
+*Last updated: 2026-10-06T21:02:08.258Z*

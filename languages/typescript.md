@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 241
+- **Total Repositories**: 243
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,61 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 9,642 | 2026-08-01 | 16 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 10,089 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 52,917 | 2026-08-01 | 10 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 53,038 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 24,613 | 2026-08-01 | 9 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 25,861 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | ⭐ 34,200 | 2026-08-02 | 14 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 135,527 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 149,177 | 2026-08-07 | 16 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 57,867 | 2026-08-08 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 112,105 | 2026-08-07 | 11 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 74,000 | 2026-08-10 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 56,274 | 2026-08-08 | 16 |
+| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 9,176 | 2026-08-26 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 73,797 | 2026-08-10 | 11 |
+| [mrifqidaffaaditya/WA-AKG](../repos/mrifqidaffaaditya/WA-AKG.md) | ⭐ 489 | 2026-10-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/cloudflare-os](../repos/cloudflare/cloudflare-os.md) | ⭐ 10,527 | 2026-08-25 | 3 |
+| [tester-army/e2e](../repos/tester-army/e2e.md) | ⭐ 6,139 | 2026-10-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [humanlayer/skills](../repos/humanlayer/skills.md) | ⭐ 4,877 | 2026-09-04 | 5 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 8,682 | 2026-10-06 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [humanlayer/skills](../repos/humanlayer/skills.md) | ⭐ 4,877 | 2026-09-04 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [BraveOPotato/FckSignups](../repos/BraveOPotato/FckSignups.md) | ⭐ 4,097 | 2026-09-05 | A list of tools that are open-source, in-browser, and require no-signups! |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [actions/upload-artifact](../repos/actions/upload-artifact.md) | ⭐ 4,188 | 2026-09-05 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [777genius/agent-teams-ai](../repos/777genius/agent-teams-ai.md) | ⭐ 2,069 | 2026-09-05 | You&#39;re the boss, agents are your team. They handle tasks on their own, message each other, and re... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Jakubantalik/Libraries.dev](../repos/Jakubantalik/Libraries.dev.md) | ⭐ 2,921 | 2026-09-05 | High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Image |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [aipoch/open-science](../repos/aipoch/open-science.md) | ⭐ 4,884 | 2026-09-06 | The open-source AI research workbench for scientific research and agent workflows. Local-first, m... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hydralauncher/hydra](../repos/hydralauncher/hydra.md) | ⭐ 16,931 | 2026-09-06 | Hydra Launcher is an open-source gaming platform created to be the single tool that you need |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MoonTechLab/LunaTV](../repos/MoonTechLab/LunaTV.md) | ⭐ 10,397 | 2026-09-07 | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 |
@@ -80,6 +59,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Nutlope/logocreator](../repos/Nutlope/logocreator.md) | ⭐ 8,614 | 2026-09-07 | A free + OSS logo generator powered by Flux on Together AI |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [getopenscreen/openscreen](../repos/getopenscreen/openscreen.md) | ⭐ 2,645 | 2026-09-07 | Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscri... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nowork-studio/notfair-plugin](../repos/nowork-studio/notfair-plugin.md) | ⭐ 3,678 | 2026-09-08 | Open-source SEO, GEO, and marketing skills for AI agents. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [maotoumao/MusicFree](../repos/maotoumao/MusicFree.md) | ⭐ 26,750 | 2026-09-08 | 插件化、定制化、无广告的免费音乐播放器 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Tencent/teamai-cli](../repos/Tencent/teamai-cli.md) | ⭐ 3,715 | 2026-09-08 | Make Every Team AI Native |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [advaitpaliwal/feynman](../repos/advaitpaliwal/feynman.md) | ⭐ 9,225 | 2026-09-08 | The open source AI research agent. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vastsa/PI-Desktop](../repos/vastsa/PI-Desktop.md) | ⭐ 3,059 | 2026-09-09 | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installa... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [solidjs/solid](../repos/solidjs/solid.md) | ⭐ 36,006 | 2026-09-09 | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
 
 
 ---
@@ -95,7 +95,7 @@
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | 2026-09-01 | 2 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 149,177 | 2026-08-07 | 16 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,718 | 2026-08-02 | 5 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 134,774 | 2026-08-02 | 12 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 135,527 | 2026-08-02 | 13 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 112,105 | 2026-08-07 | 11 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [cursor/plugins](../repos/cursor/plugins.md) | 16 | ⭐ 9,642 | 2026-08-01 | 2026-10-03 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 17 | ⭐ 10,089 | 2026-08-01 | 2026-10-06 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 17 | ⭐ 57,867 | 2026-08-08 | 2026-10-06 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 16 | ⭐ 149,177 | 2026-08-07 | 2026-10-03 |
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 16 | ⭐ 56,274 | 2026-08-08 | 2026-10-03 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | 13 | ⭐ 135,527 | 2026-08-02 | 2026-10-06 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 13 | ⭐ 78,223 | 2026-08-11 | 2026-09-25 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 12 | ⭐ 134,774 | 2026-08-02 | 2026-10-02 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 12 | ⭐ 25,971 | 2026-08-07 | 2026-09-13 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 12 | ⭐ 74,000 | 2026-08-10 | 2026-10-06 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 11 | ⭐ 53,038 | 2026-08-01 | 2026-10-06 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | 11 | ⭐ 112,105 | 2026-08-07 | 2026-10-03 |
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 11 | ⭐ 73,797 | 2026-08-10 | 2026-10-03 |
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 10 | ⭐ 52,917 | 2026-08-01 | 2026-10-03 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.797Z*
+*Last updated: 2026-10-06T21:02:08.350Z*

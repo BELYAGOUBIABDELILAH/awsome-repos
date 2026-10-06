@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 257
+- **Total Repositories**: 259
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-03
 
@@ -16,58 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,675 | 2026-07-30 | 22 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 130,498 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 520 | 2026-08-01 | 15 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,669 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 11,523 | 2026-08-02 | 12 |
+| [OpenRCT2/OpenRCT2](../repos/OpenRCT2/OpenRCT2.md) | ⭐ 16,375 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,223 | 2026-08-03 | 7 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 39,629 | 2026-08-04 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 33,060 | 2026-08-03 | 9 |
+| [moonlight-stream/moonlight-qt](../repos/moonlight-stream/moonlight-qt.md) | ⭐ 18,957 | 2026-08-24 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [telegramdesktop/tdesktop](../repos/telegramdesktop/tdesktop.md) | ⭐ 33,097 | 2026-08-05 | 5 |
+| [0xShug0/audio.cpp](../repos/0xShug0/audio.cpp.md) | ⭐ 3,321 | 2026-09-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 21,998 | 2026-08-06 | 11 |
+| [falcosecurity/falco](../repos/falcosecurity/falco.md) | ⭐ 9,454 | 2026-09-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,066 | 2026-08-06 | 7 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 6,224 | 2026-10-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firebase/firebase-ios-sdk](../repos/firebase/firebase-ios-sdk.md) | ⭐ 6,914 | 2026-08-12 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,885 | 2026-08-19 | 10 |
+| [M-Abozaid/esp32-c3-adblock](../repos/M-Abozaid/esp32-c3-adblock.md) | ⭐ 1,733 | 2026-10-06 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nextcloud/desktop](../repos/nextcloud/desktop.md) | ⭐ 3,858 | 2026-09-05 | 💻 Desktop sync client for Nextcloud |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PlotJuggler/PlotJuggler](../repos/PlotJuggler/PlotJuggler.md) | ⭐ 6,153 | 2026-09-05 | The Time Series Visualization Tool that you deserve. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Diegiwg/PrismLauncher-Cracked](../repos/Diegiwg/PrismLauncher-Cracked.md) | ⭐ 945 | 2026-09-06 | This project is a Fork of Prism Launcher which aims to &#39;unblock&#39; the use of Offline Accounts, dis... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [musescore/MuseScore](../repos/musescore/MuseScore.md) | ⭐ 15,155 | 2026-09-06 | MuseScore is an open source and free music notation software. For support, contribution, bug repo... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [HIllya51/LunaTranslator](../repos/HIllya51/LunaTranslator.md) | ⭐ 13,054 | 2026-09-06 | 视觉小说翻译器 &#x2F; Visual Novel Translator |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mamedev/mame](../repos/mamedev/mame.md) | ⭐ 10,465 | 2026-09-07 | MAME |
@@ -80,6 +59,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [LibreSprite/LibreSprite](../repos/LibreSprite/LibreSprite.md) | ⭐ 8,357 | 2026-09-07 | Animated sprite editor &amp; pixel art tool -- Fork of the last GPLv2 commit of Aseprite |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MaaXYZ/MaaFramework](../repos/MaaXYZ/MaaFramework.md) | ⭐ 4,906 | 2026-09-08 | 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [memgraph/memgraph](../repos/memgraph/memgraph.md) | ⭐ 4,524 | 2026-09-08 | High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and re... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mattias800/prosper](../repos/mattias800/prosper.md) | ⭐ 133 | 2026-09-08 | A user-space PlayStation 5 to PC compatibility layer for Linux, Windows, and macOS. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apple/foundationdb](../repos/apple/foundationdb.md) | ⭐ 16,685 | 2026-09-08 | FoundationDB - the open source, distributed, transactional key-value store |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Open-Cascade-SAS/OCCT](../repos/Open-Cascade-SAS/OCCT.md) | ⭐ 2,904 | 2026-09-08 | Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [7h30th3r0n3/Evil-M5Project](../repos/7h30th3r0n3/Evil-M5Project.md) | ⭐ 2,607 | 2026-09-09 | Evil-M5Project is an innovative tool developed for ethical  hacking and exploration of WiFi netwo... |
 
 
 ---
@@ -89,7 +86,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,675 | 2026-07-30 | 22 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 130,078 | 2026-08-01 | 26 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 130,498 | 2026-08-01 | 27 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | 2026-08-04 | 4 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 117,022 | 2026-08-01 | 9 |
@@ -115,13 +112,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 26 | ⭐ 130,078 | 2026-08-01 | 2026-10-01 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 27 | ⭐ 130,498 | 2026-08-01 | 2026-10-06 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 22 | ⭐ 200,675 | 2026-07-30 | 2026-10-03 |
-| [google/googletest](../repos/google/googletest.md) | 18 | ⭐ 39,614 | 2026-08-04 | 2026-10-02 |
+| [google/googletest](../repos/google/googletest.md) | 19 | ⭐ 39,629 | 2026-08-04 | 2026-10-06 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 15 | ⭐ 520 | 2026-08-01 | 2026-10-03 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 15 | ⭐ 72,087 | 2026-08-01 | 2026-10-02 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 14 | ⭐ 76,454 | 2026-08-08 | 2026-10-01 |
-| [gabime/spdlog](../repos/gabime/spdlog.md) | 12 | ⭐ 29,564 | 2026-08-01 | 2026-09-02 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | 13 | ⭐ 29,669 | 2026-08-01 | 2026-10-06 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 12 | ⭐ 11,523 | 2026-08-02 | 2026-10-03 |
 | [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | 11 | ⭐ 21,998 | 2026-08-06 | 2026-10-03 |
 | [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | 10 | ⭐ 683 | 2026-08-02 | 2026-09-07 |
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.735Z*
+*Last updated: 2026-10-06T21:02:08.256Z*

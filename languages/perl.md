@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 35
+- **Total Repositories**: 36
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-03
 
@@ -16,28 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,784 | 2026-08-01 | 46 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 498 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 497 | 2026-08-01 | 36 |
+| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,697 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 599 | 2026-08-01 | 21 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,130 | 2026-08-01 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,122 | 2026-08-01 | 43 |
+| [acl-org/ACLPUB](../repos/acl-org/ACLPUB.md) | ⭐ 252 | 2026-08-28 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RotherOSS/otobo](../repos/RotherOSS/otobo.md) | ⭐ 336 | 2026-09-24 | 5 |
+| [xcat2/xcat-core](../repos/xcat2/xcat-core.md) | ⭐ 399 | 2026-10-06 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and mak... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [so-fancy/diff-so-fancy](../repos/so-fancy/diff-so-fancy.md) | ⭐ 18,090 | 2026-09-07 | Make your diffs human readable for improved code quality and faster defect detection. :tada: |
@@ -56,6 +53,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [RotherOSS/otobo](../repos/RotherOSS/otobo.md) | ⭐ 336 | 2026-09-24 | OTOBO is one of the most flexible web-based ticketing systems used for Customer Service, Help Des... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [xcat2/xcat-core](../repos/xcat2/xcat-core.md) | ⭐ 399 | 2026-10-06 | Code repo for xCAT core packages |
 
 
 ---
@@ -67,14 +67,14 @@
 | [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,784 | 2026-08-01 | 46 |
 | [so-fancy/diff-so-fancy](../repos/so-fancy/diff-so-fancy.md) | ⭐ 18,090 | 2026-09-07 | 1 |
 | [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 5 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,122 | 2026-08-01 | 43 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,130 | 2026-08-01 | 44 |
 | [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,950 | 2026-08-02 | 21 |
 | [rsnapshot/rsnapshot](../repos/rsnapshot/rsnapshot.md) | ⭐ 3,683 | 2026-09-21 | 1 |
 | [ddclient/ddclient](../repos/ddclient/ddclient.md) | ⭐ 3,517 | 2026-08-10 | 5 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,680 | 2026-08-01 | 32 |
 | [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,332 | 2026-08-03 | 23 |
 | [LMS-Community/slimserver](../repos/LMS-Community/slimserver.md) | ⭐ 1,780 | 2026-08-09 | 2 |
-| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,695 | 2026-08-01 | 25 |
+| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,697 | 2026-08-01 | 26 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,527 | 2026-08-01 | 28 |
 | [mrash/fwknop](../repos/mrash/fwknop.md) | ⭐ 1,441 | 2026-08-22 | 3 |
 | [asbru-cm/asbru-cm](../repos/asbru-cm/asbru-cm.md) | ⭐ 1,294 | 2026-08-03 | 3 |
@@ -92,11 +92,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 46 | ⭐ 19,784 | 2026-08-01 | 2026-10-03 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 43 | ⭐ 5,122 | 2026-08-01 | 2026-10-03 |
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 36 | ⭐ 497 | 2026-08-01 | 2026-10-03 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 44 | ⭐ 5,130 | 2026-08-01 | 2026-10-06 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 37 | ⭐ 498 | 2026-08-01 | 2026-10-06 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 32 | ⭐ 2,680 | 2026-08-01 | 2026-09-14 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | 28 | ⭐ 1,527 | 2026-08-01 | 2026-10-02 |
-| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 25 | ⭐ 1,695 | 2026-08-01 | 2026-10-02 |
+| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 26 | ⭐ 1,697 | 2026-08-01 | 2026-10-06 |
 | [Perl/perl5](../repos/Perl/perl5.md) | 23 | ⭐ 2,332 | 2026-08-03 | 2026-10-02 |
 | [znuny/Znuny](../repos/znuny/Znuny.md) | 21 | ⭐ 599 | 2026-08-01 | 2026-10-03 |
 | [holzschu/a-shell](../repos/holzschu/a-shell.md) | 21 | ⭐ 3,950 | 2026-08-02 | 2026-10-02 |
@@ -141,7 +141,8 @@
 - [docker-library/repo-info](../repos/docker-library/repo-info.md) - Extended information (especially license and layer details) about the published Official Images
 - [rsnapshot/rsnapshot](../repos/rsnapshot/rsnapshot.md) - a tool for backing up your data using rsync (if you want to get help, use https:&#x2F;&#x2F;lists.sourcefor...
 - [RotherOSS/otobo](../repos/RotherOSS/otobo.md) - OTOBO is one of the most flexible web-based ticketing systems used for Customer Service, Help Des...
+- [xcat2/xcat-core](../repos/xcat2/xcat-core.md) - Code repo for xCAT core packages
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.778Z*
+*Last updated: 2026-10-06T21:02:08.323Z*

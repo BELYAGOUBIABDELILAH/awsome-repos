@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 147
+- **Total Repositories**: 150
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-02
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,917 | 2026-08-02 | 9 |
+| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 6,385 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,060 | 2026-08-03 | 13 |
+| [jqssun/android-airplay-server](../repos/jqssun/android-airplay-server.md) | ⭐ 489 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | ⭐ 4,729 | 2026-08-03 | 4 |
+| [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) | ⭐ 7,739 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 1,954 | 2026-08-04 | 9 |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,566 | 2026-09-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,980 | 2026-08-08 | 16 |
+| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 1,596 | 2026-10-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | ⭐ 6,441 | 2026-08-09 | 7 |
+| [agupta07505/SmartIsland](../repos/agupta07505/SmartIsland.md) | ⭐ 253 | 2026-10-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,231 | 2026-08-17 | 5 |
+| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 743 | 2026-10-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [streetcomplete/StreetComplete](../repos/streetcomplete/StreetComplete.md) | ⭐ 5,014 | 2026-09-02 | 2 |
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 3,807 | 2026-10-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 1,453 | 2026-10-01 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ReSukiSU/ReSukiSU](../repos/ReSukiSU/ReSukiSU.md) | ⭐ 1,677 | 2026-10-02 | 2 |
+| [ahXN00/OwnTV](../repos/ahXN00/OwnTV.md) | ⭐ 492 | 2026-10-06 | 1 |
 
 
 ---
@@ -55,7 +52,7 @@
 | [Mygod/VPNHotspot](../repos/Mygod/VPNHotspot.md) | ⭐ 6,415 | 2026-09-07 | Share your VPN connection over hotspot or repeater! (root required) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,334 | 2026-09-07 | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin&#x2F;Compose Multiplatform |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,566 | 2026-09-07 | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin&#x2F;Compose Multiplatform |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [IacobIonut01/ReFra](../repos/IacobIonut01/ReFra.md) | ⭐ 2,845 | 2026-09-08 | Media Gallery app for Android made with Jetpack Compose |
@@ -101,7 +98,7 @@
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,872 | 2026-08-02 | 5 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,852 | 2026-08-01 | 7 |
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,334 | 2026-09-07 | 6 |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,566 | 2026-09-07 | 7 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,231 | 2026-08-17 | 5 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,917 | 2026-08-02 | 9 |
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.764Z*
+*Last updated: 2026-10-06T21:02:08.300Z*

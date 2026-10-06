@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 270
+- **Total Repositories**: 271
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-25
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 89,699 | 2026-08-01 | 10 |
+| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 12,459 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jamwithai/production-agentic-rag-course](../repos/jamwithai/production-agentic-rag-course.md) | ⭐ 9,377 | 2026-08-03 | 2 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 92,571 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 66,333 | 2026-08-04 | 9 |
+| [omnigent-ai/omnigent](../repos/omnigent-ai/omnigent.md) | ⭐ 10,626 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/skills](../repos/google/skills.md) | ⭐ 20,886 | 2026-08-07 | 9 |
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 33,676 | 2026-08-29 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 11,358 | 2026-08-24 | 3 |
+| [ayghri/i-have-adhd](../repos/ayghri/i-have-adhd.md) | ⭐ 54,323 | 2026-08-29 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 33,063 | 2026-08-29 | 3 |
+| [earthtojake/text-to-cad](../repos/earthtojake/text-to-cad.md) | ⭐ 17,897 | 2026-09-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [handsomestWei/patent-disclosure-skill](../repos/handsomestWei/patent-disclosure-skill.md) | ⭐ 10,949 | 2026-09-01 | 2 |
+| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 26,346 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvt-project/mvt](../repos/mvt-project/mvt.md) | ⭐ 15,183 | 2026-09-21 | 4 |
+| [raullenchai/Rapid-MLX](../repos/raullenchai/Rapid-MLX.md) | ⭐ 3,915 | 2026-10-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getsentry/sentry](../repos/getsentry/sentry.md) | ⭐ 45,184 | 2026-10-02 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [meituan-longcat/LongCat-Video](../repos/meituan-longcat/LongCat-Video.md) | ⭐ 8,710 | 2026-10-03 | 1 |
+| [dortania/OpenCore-Legacy-Patcher](../repos/dortania/OpenCore-Legacy-Patcher.md) | ⭐ 18,473 | 2026-10-06 | 1 |
 
 
 ---
@@ -52,34 +49,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [bikini/exploitarium](../repos/bikini/exploitarium.md) | ⭐ 4,902 | 2026-09-04 | A single archive of public exploit PoCs and vulnerability research writeups. At the time I post t... |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 181,591 | 2026-09-07 | Python tool for converting files and office documents to Markdown. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [radixark/miles](../repos/radixark/miles.md) | ⭐ 2,631 | 2026-09-04 | Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, for... |
+| [Free-TV/IPTV](../repos/Free-TV/IPTV.md) | ⭐ 20,423 | 2026-09-07 | M3U Playlist for free TV channels |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Sumanth077/Hands-On-AI-Engineering](../repos/Sumanth077/Hands-On-AI-Engineering.md) | ⭐ 3,360 | 2026-09-04 | A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other... |
+| [numpy/numpy](../repos/numpy/numpy.md) | ⭐ 32,700 | 2026-09-07 | The fundamental package for scientific computing with Python. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [earthtojake/text-to-cad](../repos/earthtojake/text-to-cad.md) | ⭐ 14,992 | 2026-09-04 | A library of agent skills for CAD, CAE and CAM |
+| [vinta/awesome-python](../repos/vinta/awesome-python.md) | ⭐ 319,105 | 2026-09-07 | The definitive list that answers &quot;I want to do X in Python, which tool should I use?&quot; |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [jihe520/MathModelAgent](../repos/jihe520/MathModelAgent.md) | ⭐ 5,328 | 2026-09-04 | 🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Model... |
+| [NVIDIA/personaplex](../repos/NVIDIA/personaplex.md) | ⭐ 10,435 | 2026-09-07 | PersonaPlex code. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [eriklindernoren/ML-From-Scratch](../repos/eriklindernoren/ML-From-Scratch.md) | ⭐ 32,720 | 2026-09-04 | Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and al... |
+| [Zie619/n8n-workflows](../repos/Zie619/n8n-workflows.md) | ⭐ 56,552 | 2026-09-07 | all of the workflows of n8n i could find (also from the site itself) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [sgl-project/sglang](../repos/sgl-project/sglang.md) | ⭐ 36,702 | 2026-09-04 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+| [hpcaitech/Open-Sora](../repos/hpcaitech/Open-Sora.md) | ⭐ 29,699 | 2026-09-08 | Open-Sora: Democratizing Efficient Video Production for All |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [k2-fsa/OmniVoice](../repos/k2-fsa/OmniVoice.md) | ⭐ 12,759 | 2026-09-05 | High-Quality Voice Cloning TTS for 600+ Languages |
+| [shareAI-lab/learn-claude-code](../repos/shareAI-lab/learn-claude-code.md) | ⭐ 76,345 | 2026-09-08 | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [huggingface/datasets](../repos/huggingface/datasets.md) | ⭐ 21,947 | 2026-09-05 | 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient da... |
+| [OpenDCAI/GameFactory-3A](../repos/OpenDCAI/GameFactory-3A.md) | ⭐ 594 | 2026-09-09 | A comprehensive open-source 3A game-generation skill and asset framework. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [openai/skills](../repos/openai/skills.md) | ⭐ 26,850 | 2026-09-06 | Skills Catalog for Codex |
+| [anbeime/skill](../repos/anbeime/skill.md) | ⭐ 6,455 | 2026-09-09 | 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按... |
 
 
 ---
@@ -119,8 +116,8 @@
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 14 | ⭐ 127,927 | 2026-08-01 | 2026-10-01 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 13 | ⭐ 51,295 | 2026-08-22 | 2026-10-01 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 11 | ⭐ 92,571 | 2026-08-01 | 2026-10-06 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 11 | ⭐ 40,107 | 2026-08-03 | 2026-10-02 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 10 | ⭐ 89,699 | 2026-08-01 | 2026-10-03 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 10 | ⭐ 41,423 | 2026-08-03 | 2026-09-01 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 10 | ⭐ 106,016 | 2026-08-08 | 2026-09-14 |
 | [cactus-compute/needle](../repos/cactus-compute/needle.md) | 10 | ⭐ 12,523 | 2026-08-11 | 2026-09-24 |
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.781Z*
+*Last updated: 2026-10-06T21:02:08.327Z*

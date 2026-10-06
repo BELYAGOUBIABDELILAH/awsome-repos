@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 35
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-03
+- **Last Updated**: 2026-10-06
 
 ---
 
@@ -16,34 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 61,813 | 2026-08-01 | 52 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,172 | 2026-08-01 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,185 | 2026-08-01 | 34 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 61,904 | 2026-08-01 | 53 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,130 | 2026-08-01 | 48 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,141 | 2026-08-01 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [david-vanderson/dvui](../repos/david-vanderson/dvui.md) | ⭐ 1,685 | 2026-08-01 | 7 |
+| [david-vanderson/dvui](../repos/david-vanderson/dvui.md) | ⭐ 1,689 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,740 | 2026-08-02 | 37 |
+| [PixelGuys/Cubyz](../repos/PixelGuys/Cubyz.md) | ⭐ 3,687 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 35,927 | 2026-08-02 | 39 |
+| [riverwm/river](../repos/riverwm/river.md) | ⭐ 4,307 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sleep3r/mtproto.zig](../repos/sleep3r/mtproto.zig.md) | ⭐ 2,123 | 2026-09-05 | 15 |
+| [zml/zml](../repos/zml/zml.md) | ⭐ 4,144 | 2026-08-01 | 25 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,750 | 2026-08-02 | 38 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 36,028 | 2026-08-02 | 40 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | ⭐ 8,102 | 2026-08-04 | 28 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [sleep3r/mtproto.zig](../repos/sleep3r/mtproto.zig.md) | ⭐ 2,123 | 2026-09-05 | Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [royalicing/qip](../repos/royalicing/qip.md) | ⭐ 46 | 2026-09-07 | Run composable WebAssembly modules securely |
@@ -58,7 +64,7 @@
 | [jackielii/skhd.zig](../repos/jackielii/skhd.zig.md) | ⭐ 659 | 2026-09-25 | Simple Hotkey Daemon for macOS, ported from skhd by asmvik |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [if-not-nil/revo](../repos/if-not-nil/revo.md) | ⭐ 461 | 2026-09-25 | a dynamic language for the joy of programming |
+| [if-not-nil/revo](../repos/if-not-nil/revo.md) | ⭐ 471 | 2026-09-25 | a dynamic language for the joy of programming |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jeffhajewski/latticedb](../repos/jeffhajewski/latticedb.md) | ⭐ 720 | 2026-10-01 | Embedded single-file knowledge graph database with vector search and full-text search for AI&#x2F;RAG ... |
@@ -70,14 +76,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 61,813 | 2026-08-01 | 52 |
-| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 35,927 | 2026-08-02 | 39 |
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,130 | 2026-08-01 | 48 |
-| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | ⭐ 8,105 | 2026-08-04 | 27 |
-| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,740 | 2026-08-02 | 37 |
-| [riverwm/river](../repos/riverwm/river.md) | ⭐ 4,288 | 2026-08-01 | 10 |
-| [zml/zml](../repos/zml/zml.md) | ⭐ 4,127 | 2026-08-01 | 24 |
-| [PixelGuys/Cubyz](../repos/PixelGuys/Cubyz.md) | ⭐ 3,681 | 2026-08-01 | 15 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | ⭐ 61,904 | 2026-08-01 | 53 |
+| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | ⭐ 36,028 | 2026-08-02 | 40 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | ⭐ 17,141 | 2026-08-01 | 49 |
+| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | ⭐ 8,102 | 2026-08-04 | 28 |
+| [vercel-labs/native](../repos/vercel-labs/native.md) | ⭐ 7,750 | 2026-08-02 | 38 |
+| [riverwm/river](../repos/riverwm/river.md) | ⭐ 4,307 | 2026-08-01 | 11 |
+| [zml/zml](../repos/zml/zml.md) | ⭐ 4,144 | 2026-08-01 | 25 |
+| [PixelGuys/Cubyz](../repos/PixelGuys/Cubyz.md) | ⭐ 3,687 | 2026-08-01 | 16 |
 | [mitchellh/libxev](../repos/mitchellh/libxev.md) | ⭐ 3,577 | 2026-08-23 | 6 |
 | [jstrieb/github-stats](../repos/jstrieb/github-stats.md) | ⭐ 3,557 | 2026-08-01 | 19 |
 | [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | ⭐ 2,771 | 2026-08-01 | 35 |
@@ -85,10 +91,10 @@
 | [neurocyte/flow](../repos/neurocyte/flow.md) | ⭐ 2,444 | 2026-08-02 | 19 |
 | [ZigEmbeddedGroup/microzig](../repos/ZigEmbeddedGroup/microzig.md) | ⭐ 2,280 | 2026-08-03 | 6 |
 | [neurosnap/zmx](../repos/neurosnap/zmx.md) | ⭐ 2,185 | 2026-08-01 | 34 |
-| [sleep3r/mtproto.zig](../repos/sleep3r/mtproto.zig.md) | ⭐ 2,123 | 2026-09-05 | 15 |
+| [sleep3r/mtproto.zig](../repos/sleep3r/mtproto.zig.md) | ⭐ 2,135 | 2026-09-05 | 16 |
 | [rockorager/libvaxis](../repos/rockorager/libvaxis.md) | ⭐ 2,007 | 2026-08-01 | 14 |
+| [raylib-zig/raylib-zig](../repos/raylib-zig/raylib-zig.md) | ⭐ 1,890 | 2026-08-07 | 4 |
 | [nullclaw/nullhub](../repos/nullclaw/nullhub.md) | ⭐ 1,859 | 2026-08-02 | 10 |
-| [raylib-zig/raylib-zig](../repos/raylib-zig/raylib-zig.md) | ⭐ 1,852 | 2026-08-07 | 3 |
 | [Vexu/arocc](../repos/Vexu/arocc.md) | ⭐ 1,834 | 2026-08-02 | 4 |
 
 ---
@@ -97,15 +103,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | 52 | ⭐ 61,813 | 2026-08-01 | 2026-10-03 |
-| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | 48 | ⭐ 17,130 | 2026-08-01 | 2026-10-03 |
-| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | 39 | ⭐ 35,927 | 2026-08-02 | 2026-10-03 |
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 38 | ⭐ 1,166 | 2026-08-01 | 2026-10-02 |
-| [vercel-labs/native](../repos/vercel-labs/native.md) | 37 | ⭐ 7,740 | 2026-08-02 | 2026-10-03 |
+| [ghostty-org/ghostty](../repos/ghostty-org/ghostty.md) | 53 | ⭐ 61,904 | 2026-08-01 | 2026-10-06 |
+| [tigerbeetle/tigerbeetle](../repos/tigerbeetle/tigerbeetle.md) | 49 | ⭐ 17,141 | 2026-08-01 | 2026-10-06 |
+| [lightpanda-io/browser](../repos/lightpanda-io/browser.md) | 40 | ⭐ 36,028 | 2026-08-02 | 2026-10-06 |
+| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 39 | ⭐ 1,172 | 2026-08-01 | 2026-10-06 |
+| [vercel-labs/native](../repos/vercel-labs/native.md) | 38 | ⭐ 7,750 | 2026-08-02 | 2026-10-06 |
 | [Loongphy/codex-auth](../repos/Loongphy/codex-auth.md) | 35 | ⭐ 2,771 | 2026-08-01 | 2026-10-02 |
 | [neurosnap/zmx](../repos/neurosnap/zmx.md) | 34 | ⭐ 2,185 | 2026-08-01 | 2026-10-03 |
-| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 27 | ⭐ 8,105 | 2026-08-04 | 2026-09-28 |
-| [zml/zml](../repos/zml/zml.md) | 24 | ⭐ 4,127 | 2026-08-01 | 2026-10-02 |
+| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 28 | ⭐ 8,102 | 2026-08-04 | 2026-10-06 |
+| [zml/zml](../repos/zml/zml.md) | 25 | ⭐ 4,144 | 2026-08-01 | 2026-10-06 |
 | [tonybanters/oxwm](../repos/tonybanters/oxwm.md) | 20 | ⭐ 982 | 2026-08-09 | 2026-09-28 |
 
 ---
@@ -150,4 +156,4 @@
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.807Z*
+*Last updated: 2026-10-06T21:02:08.367Z*

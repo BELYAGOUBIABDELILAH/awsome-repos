@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 21
+- **Total Repositories**: 22
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-03
 
@@ -16,34 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,616 | 2026-08-01 | 35 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 674 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 673 | 2026-08-01 | 36 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,804 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,802 | 2026-08-01 | 33 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 893 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 893 | 2026-08-01 | 31 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 420 | 2026-08-08 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,694 | 2026-08-02 | 22 |
+| [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,064 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,073 | 2026-08-04 | 21 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,922 | 2026-08-04 | 22 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 7,004 | 2026-08-04 | 24 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,174 | 2026-08-04 | 22 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,452 | 2026-08-04 | 10 |
+| [allisonhorst/palmerpenguins](../repos/allisonhorst/palmerpenguins.md) | ⭐ 1,021 | 2026-10-06 | 1 |
 
 
 ---
@@ -59,6 +47,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [r-lib/usethis](../repos/r-lib/usethis.md) | ⭐ 922 | 2026-09-24 | Set up commonly used 📦 components |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [allisonhorst/palmerpenguins](../repos/allisonhorst/palmerpenguins.md) | ⭐ 1,021 | 2026-10-06 | A great intro dataset for data exploration &amp; visualization (alternative to iris). |
 
 
 ---
@@ -73,20 +64,20 @@
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,073 | 2026-08-04 | 21 |
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,616 | 2026-08-01 | 35 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,922 | 2026-08-04 | 22 |
-| [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,065 | 2026-08-08 | 2 |
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,802 | 2026-08-01 | 33 |
+| [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,064 | 2026-08-08 | 3 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,804 | 2026-08-01 | 34 |
 | [jokergoo/ComplexHeatmap](../repos/jokergoo/ComplexHeatmap.md) | ⭐ 1,554 | 2026-09-01 | 1 |
 | [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,452 | 2026-08-04 | 10 |
 | [rstudio/renv](../repos/rstudio/renv.md) | ⭐ 1,160 | 2026-08-06 | 1 |
+| [allisonhorst/palmerpenguins](../repos/allisonhorst/palmerpenguins.md) | ⭐ 1,021 | 2026-10-06 | 1 |
 | [r-lib/usethis](../repos/r-lib/usethis.md) | ⭐ 922 | 2026-09-24 | 1 |
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 893 | 2026-08-01 | 31 |
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 673 | 2026-08-01 | 36 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 893 | 2026-08-01 | 32 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 674 | 2026-08-01 | 37 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 486 | 2026-08-03 | 8 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 418 | 2026-08-08 | 33 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 420 | 2026-08-08 | 34 |
 | [PecanProject/pecan](../repos/PecanProject/pecan.md) | ⭐ 244 | 2026-09-08 | 2 |
 | [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 153 | 2026-08-09 | 12 |
 | [ipea/geocodebr](../repos/ipea/geocodebr.md) | ⭐ 112 | 2026-09-10 | 1 |
-| [cf-convention/cf-conventions](../repos/cf-convention/cf-conventions.md) | ⭐ 100 | 2026-08-17 | 2 |
 
 ---
 
@@ -94,11 +85,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 36 | ⭐ 673 | 2026-08-01 | 2026-10-03 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 37 | ⭐ 674 | 2026-08-01 | 2026-10-06 |
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 35 | ⭐ 4,616 | 2026-08-01 | 2026-10-03 |
-| [satijalab/seurat](../repos/satijalab/seurat.md) | 33 | ⭐ 2,802 | 2026-08-01 | 2026-10-03 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 33 | ⭐ 418 | 2026-08-08 | 2026-10-03 |
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 31 | ⭐ 893 | 2026-08-01 | 2026-10-03 |
+| [satijalab/seurat](../repos/satijalab/seurat.md) | 34 | ⭐ 2,804 | 2026-08-01 | 2026-10-06 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 34 | ⭐ 420 | 2026-08-08 | 2026-10-06 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 32 | ⭐ 893 | 2026-08-01 | 2026-10-06 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 24 | ⭐ 7,004 | 2026-08-04 | 2026-10-03 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | 22 | ⭐ 5,694 | 2026-08-02 | 2026-10-03 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 22 | ⭐ 3,922 | 2026-08-04 | 2026-10-03 |
@@ -130,7 +121,8 @@
 - [PecanProject/pecan](../repos/PecanProject/pecan.md) - The Predictive Ecosystem Analyzer (PEcAn) is an integrated ecological bioinformatics toolbox.
 - [ipea/geocodebr](../repos/ipea/geocodebr.md) - Geolocalização de Endereços Brasileiros (Geocoding Brazilian Addresses)
 - [r-lib/usethis](../repos/r-lib/usethis.md) - Set up commonly used 📦 components
+- [allisonhorst/palmerpenguins](../repos/allisonhorst/palmerpenguins.md) - A great intro dataset for data exploration &amp; visualization (alternative to iris).
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.784Z*
+*Last updated: 2026-10-06T21:02:08.331Z*

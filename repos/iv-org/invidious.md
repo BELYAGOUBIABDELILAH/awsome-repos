@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Crystal |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 24,968 |
-| **Forks** | 🍴 2,789 |
-| **Trending Days** | 35 |
+| **Stars** | ⭐ 25,142 |
+| **Forks** | 🍴 2,810 |
+| **Trending Days** | 36 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 3, 2026 |
+| **Last Seen** | Oct 6, 2026 |
 
 
 ---
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 35
+- **Trending Days**: 36
 - **Longest Streak**: 8 days
 
 ---
@@ -87,12 +87,12 @@
 - Check similar projects in Crystal
 
 #### Metrics
-- **Hidden Gem**: ✓ Yes
+- **Hidden Gem**: ✗ No
 - **Trending Score**: 100&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #4)
 
 
 ---
 
-*Last updated: 2026-10-03T21:01:59.708Z*  
-*Data from 35 trending reports*
+*Last updated: 2026-10-06T21:02:11.656Z*  
+*Data from 36 trending reports*

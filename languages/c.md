@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 210
+- **Total Repositories**: 212
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-03
+- **Last Updated**: 2026-10-06
 
 ---
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 73,118 | 2026-08-01 | 22 |
+| [darktable-org/darktable](../repos/darktable-org/darktable.md) | ⭐ 13,207 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 27,357 | 2026-08-02 | 7 |
+| [portapack-mayhem/mayhem-firmware](../repos/portapack-mayhem/mayhem-firmware.md) | ⭐ 5,453 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 6,981 | 2026-08-04 | 17 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,703 | 2026-08-06 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [portapack-mayhem/mayhem-firmware](../repos/portapack-mayhem/mayhem-firmware.md) | ⭐ 5,443 | 2026-08-04 | 5 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,402 | 2026-08-07 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lz4/lz4](../repos/lz4/lz4.md) | ⭐ 12,113 | 2026-08-05 | 3 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,659 | 2026-08-09 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git/git](../repos/git/git.md) | ⭐ 63,555 | 2026-08-05 | 7 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 39,990 | 2026-09-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,119 | 2026-08-07 | 10 |
+| [n64decomp/sm64](../repos/n64decomp/sm64.md) | ⭐ 8,823 | 2026-10-06 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,936 | 2026-08-07 | 13 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [EpicGames/raddebugger](../repos/EpicGames/raddebugger.md) | ⭐ 7,581 | 2026-08-08 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ExpressLRS/ExpressLRS](../repos/ExpressLRS/ExpressLRS.md) | ⭐ 5,372 | 2026-08-10 | 2 |
+| [LongSoft/UEFITool](../repos/LongSoft/UEFITool.md) | ⭐ 5,729 | 2026-10-06 | 1 |
 
 
 ---
@@ -52,34 +46,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [QwenAudio/SenseVoice](../repos/QwenAudio/SenseVoice.md) | ⭐ 9,384 | 2026-09-04 | Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, lan... |
+| [ish-app/ish](../repos/ish-app/ish.md) | ⭐ 20,422 | 2026-09-07 | Linux shell for iOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vanhauser-thc/thc-hydra](../repos/vanhauser-thc/thc-hydra.md) | ⭐ 12,230 | 2026-09-04 | hydra |
+| [armory3d/armorpaint](../repos/armory3d/armorpaint.md) | ⭐ 5,265 | 2026-09-08 | Graphics Creation Tools |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [PerformanC/ReZygisk](../repos/PerformanC/ReZygisk.md) | ⭐ 3,961 | 2026-09-04 | Transparent implementation of Zygisk. |
+| [doldecomp/melee](../repos/doldecomp/melee.md) | ⭐ 2,084 | 2026-09-08 | A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [open-quantum-safe/liboqs](../repos/open-quantum-safe/liboqs.md) | ⭐ 3,054 | 2026-09-04 | C library for prototyping and experimenting with quantum-resistant cryptography |
+| [openwall/john](../repos/openwall/john.md) | ⭐ 13,611 | 2026-09-08 | John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and ci... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [NebuSec/CyberMeowfia](../repos/NebuSec/CyberMeowfia.md) | ⭐ 1,592 | 2026-09-05 | PoCs and exploits for CVEs discovered by NebuSec.  |
+| [xiph/rnnoise](../repos/xiph/rnnoise.md) | ⭐ 5,830 | 2026-09-09 | Recurrent neural network for audio noise reduction |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [haiwen/seafile](../repos/haiwen/seafile.md) | ⭐ 15,209 | 2026-09-05 | Beyond file syncing and sharing, a new way to organize your files with extensible file properties... |
+| [willfaust/Madeira](../repos/willfaust/Madeira.md) | ⭐ 1,708 | 2026-09-09 | Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [maxsteeel/nomount](../repos/maxsteeel/nomount.md) | ⭐ 242 | 2026-09-05 | NoMount is a VFS (Virtual File System) path redirection framework for Android kernels. |
+| [iczelia/bzip3](../repos/iczelia/bzip3.md) | ⭐ 1,499 | 2026-09-09 | A better and stronger spiritual successor to BZip2. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [coredevices/PebbleOS](../repos/coredevices/PebbleOS.md) | ⭐ 1,391 | 2026-09-05 |  |
+| [HarbourMasters/Ghostship](../repos/HarbourMasters/Ghostship.md) | ⭐ 777 | 2026-09-09 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [xroche/httrack](../repos/xroche/httrack.md) | ⭐ 4,770 | 2026-09-05 | HTTrack Website Copier, copy websites to your computer (Official repository) |
+| [voidtools/voidImageViewer](../repos/voidtools/voidImageViewer.md) | ⭐ 2,347 | 2026-09-10 | Lightweight image viewer for Windows with animated GIF&#x2F;WEBP support |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Yuzhii0718/bl-mt798x-dhcpd](../repos/Yuzhii0718/bl-mt798x-dhcpd.md) | ⭐ 426 | 2026-09-06 | A variant of hanwckf&#39;s u-boot by yuzhii, with support for dhcpd, and advance web ui, support i18n... |
+| [signalwire/freeswitch](../repos/signalwire/freeswitch.md) | ⭐ 5,191 | 2026-09-10 | FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprieta... |
 
 
 ---
@@ -88,7 +82,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,936 | 2026-08-07 | 13 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,402 | 2026-08-07 | 14 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,143 | 2026-08-01 | 19 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,470 | 2026-08-24 | 3 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,742 | 2026-08-02 | 15 |
@@ -97,7 +91,7 @@
 | [git/git](../repos/git/git.md) | ⭐ 63,555 | 2026-08-05 | 7 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 45,482 | 2026-08-07 | 20 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,420 | 2026-08-01 | 8 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 39,305 | 2026-09-01 | 11 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 39,990 | 2026-09-01 | 12 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,692 | 2026-08-04 | 9 |
@@ -117,14 +111,14 @@
 |------------|---------------|-------|------------|-----------|
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 | ⭐ 16,829 | 2026-08-01 | 2026-10-01 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 22 | ⭐ 73,118 | 2026-08-01 | 2026-10-03 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 20 | ⭐ 16,703 | 2026-08-06 | 2026-10-06 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 20 | ⭐ 45,482 | 2026-08-07 | 2026-09-29 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 19 | ⭐ 139,143 | 2026-08-01 | 2026-10-01 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 19 | ⭐ 16,665 | 2026-08-06 | 2026-10-01 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 17 | ⭐ 6,981 | 2026-08-04 | 2026-10-03 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 17 | ⭐ 27,950 | 2026-08-07 | 2026-09-29 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 15 | ⭐ 76,742 | 2026-08-02 | 2026-09-28 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 13 | ⭐ 150,936 | 2026-08-07 | 2026-10-03 |
-| [libuv/libuv](../repos/libuv/libuv.md) | 11 | ⭐ 27,199 | 2026-08-01 | 2026-09-25 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 14 | ⭐ 151,402 | 2026-08-07 | 2026-10-06 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 12 | ⭐ 39,990 | 2026-09-01 | 2026-10-06 |
 
 ---
 
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.730Z*
+*Last updated: 2026-10-06T21:02:08.247Z*

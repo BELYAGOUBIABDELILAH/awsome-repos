@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 374
+- **Total Repositories**: 378
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-09-06
-- **Average Stars**: 20316
+- **Average Stars**: 20143
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,156 | Rust |  |
+| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 12,459 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,543 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,134 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,114 | Scala |  |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,354 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,300 | Dart |  |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,246 | Lua |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [digital-asset/daml](../repos/digital-asset/daml.md) | ⭐ 916 | Haskell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,530 | Clojure |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,557 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,122 | OCaml |  |
+| [zml/zml](../repos/zml/zml.md) | ⭐ 4,144 | Zig |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,043 | Vim Script |  |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,057 | Solidity |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | ⭐ 1,058 | Solidity |  |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,266 | Solidity |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,265 | Solidity |  |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,154 | Verilog |  |
 
 
 ---
@@ -57,11 +57,11 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | Python | 2026-08-01 | 17 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 206,509 | TypeScript | 2026-08-11 | 6 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,465 | Python | 2026-08-06 | 8 |
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,300 | Dart | 2026-08-01 | 37 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,354 | Dart | 2026-08-01 | 38 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | TypeScript | 2026-08-07 | 5 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 159,005 | JavaScript | 2026-08-06 | 3 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | TypeScript | 2026-09-01 | 2 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 150,936 | C | 2026-08-07 | 13 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,402 | C | 2026-08-07 | 14 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | Python | 2026-08-14 | 7 |
 
 ---
@@ -70,10 +70,7 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 12,216 | Python | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 57,493 | PHP | 1 |
+| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 12,459 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,156 | Rust | 2 |
@@ -82,22 +79,25 @@
 | [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 23,706 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 4,161 | Java | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,194 | PHP | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,763 | Ruby | 3 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,543 | Scala | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,114 | Scala | 3 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,134 | Scala | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,300 | Dart | 3 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,354 | Dart | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,246 | Lua | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [digital-asset/daml](../repos/digital-asset/daml.md) | ⭐ 916 | Haskell | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,557 | Clojure | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 16,829 | C | 1 |
 
 ---
 
@@ -105,38 +105,42 @@
 
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [Sumanth077/Hands-On-AI-Engineering](../repos/Sumanth077/Hands-On-AI-Engineering.md) | ⭐ 3,360 | Python | 2026-09-04 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [anoma/anoma](../repos/anoma/anoma.md) | ⭐ 33,620 | Elixir | 2026-09-04 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [huggingface/datasets](../repos/huggingface/datasets.md) | ⭐ 21,947 | Python | 2026-09-05 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [Aryan-0001/Jarvis-AI](../repos/Aryan-0001/Jarvis-AI.md) | ⭐ 96 | Dart | 2026-09-05 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [SunWeb3Sec/DeFiHackLabs](../repos/SunWeb3Sec/DeFiHackLabs.md) | ⭐ 6,803 | Solidity | 2026-09-05 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [The-Swarm-Corporation/AutoHedge](../repos/The-Swarm-Corporation/AutoHedge.md) | ⭐ 5,949 | Python | 2026-09-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [iflytek/astron-agent](../repos/iflytek/astron-agent.md) | ⭐ 9,096 | Java | 2026-09-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [miragecoa/AI-Cubby](../repos/miragecoa/AI-Cubby.md) | ⭐ 319 | Vue | 2026-09-06 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
 | [munificent/craftinginterpreters](../repos/munificent/craftinginterpreters.md) | ⭐ 11,047 | HTML | 2026-09-07 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [stacklok/toolhive](../repos/stacklok/toolhive.md) | ⭐ 2,138 | Go | 2026-09-08 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [memgraph/memgraph](../repos/memgraph/memgraph.md) | ⭐ 4,524 | C++ | 2026-09-08 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [openwall/john](../repos/openwall/john.md) | ⭐ 13,611 | C | 2026-09-08 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [symfony/ai](../repos/symfony/ai.md) | ⭐ 1,196 | PHP | 2026-09-08 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [PecanProject/pecan](../repos/PecanProject/pecan.md) | ⭐ 244 | R | 2026-09-08 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [solidjs/solid](../repos/solidjs/solid.md) | ⭐ 36,006 | TypeScript | 2026-09-09 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [google/magika](../repos/google/magika.md) | ⭐ 18,518 | Rust | 2026-09-09 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [volcano-sh/volcano](../repos/volcano-sh/volcano.md) | ⭐ 5,932 | Go | 2026-09-09 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [xiph/rnnoise](../repos/xiph/rnnoise.md) | ⭐ 5,830 | C | 2026-09-09 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-10-06](../archive/2026/10/2026-10-06.md)
+- 25 repositories trending
+- Top: flutter&#x2F;flutter
 
 ### [2026-10-03](../archive/2026/10/2026-10-03.md)
 - 38 repositories trending
@@ -150,18 +154,6 @@
 - 41 repositories trending
 - Top: flutter&#x2F;flutter
 
-### [2026-09-29](../archive/2026/09/2026-09-29.md)
-- 42 repositories trending
-- Top: infiniflow&#x2F;ragflow
-
-### [2026-09-28](../archive/2026/09/2026-09-28.md)
-- 41 repositories trending
-- Top: flutter&#x2F;flutter
-
-### [2026-09-27](../archive/2026/09/2026-09-27.md)
-- 37 repositories trending
-- Top: flutter&#x2F;flutter
-
 
 ---
 
@@ -171,15 +163,15 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 52 days | 2026-08-01 | 2026-10-03 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 51 days | 2026-08-01 | 2026-10-03 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 49 days | 2026-08-01 | 2026-10-03 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 49 days | 2026-08-01 | 2026-10-03 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 47 days | 2026-08-01 | 2026-10-03 |
+| [apache/spark](../repos/apache/spark.md) | 53 days | 2026-08-01 | 2026-10-06 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 52 days | 2026-08-01 | 2026-10-06 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 50 days | 2026-08-01 | 2026-10-06 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 50 days | 2026-08-01 | 2026-10-06 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 48 days | 2026-08-01 | 2026-10-06 |
 | [joernio/joern](../repos/joernio/joern.md) | 44 days | 2026-08-01 | 2026-10-03 |
 | [vim/vim](../repos/vim/vim.md) | 43 days | 2026-08-01 | 2026-10-03 |
+| [flutter/flutter](../repos/flutter/flutter.md) | 38 days | 2026-08-01 | 2026-10-06 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 days | 2026-08-01 | 2026-10-01 |
-| [flutter/flutter](../repos/flutter/flutter.md) | 37 days | 2026-08-01 | 2026-10-03 |
 | [facebook/infer](../repos/facebook/infer.md) | 34 days | 2026-08-02 | 2026-10-03 |
 
 ---
@@ -188,15 +180,15 @@
 
 ### Language Breakdown
 - **Python**: 50 repositories (13%)
-- **TypeScript**: 44 repositories (12%)
+- **TypeScript**: 45 repositories (12%)
 - **C**: 41 repositories (11%)
-- **Go**: 32 repositories (9%)
-- **Rust**: 29 repositories (8%)
+- **Go**: 33 repositories (9%)
+- **Rust**: 30 repositories (8%)
 
 ### Trending Frequency
-- **Daily Average**: 40.4 repositories
+- **Daily Average**: 40.1 repositories
 - **Peak Day**: 2026-08-06 (58 repositories)
-- **Growth Rate**: 22% this month
+- **Growth Rate**: 21% this month
 
 ---
 
@@ -310,4 +302,4 @@
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.599Z*
+*Last updated: 2026-10-06T21:02:08.041Z*

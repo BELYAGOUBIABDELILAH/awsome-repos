@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [clshortfuse/renodx](../repos/clshortfuse/renodx.md) | ⭐ 3,506 | 2026-09-04 | Renovation Engine for DirectX Games |
 
+*No new HLSL repositories in the last 30 days*
 
 ---
 
@@ -50,4 +48,4 @@
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.754Z*
+*Last updated: 2026-10-06T21:02:08.284Z*

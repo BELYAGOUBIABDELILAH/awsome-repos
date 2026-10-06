@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 3
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-03
+- **Last Updated**: 2026-10-06
 
 ---
 
@@ -16,10 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,968 | 2026-08-01 | 35 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,025 | 2026-10-02 | 2 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 25,142 | 2026-08-01 | 36 |
 
 
 ---
@@ -37,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 24,968 | 2026-08-01 | 35 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 25,142 | 2026-08-01 | 36 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,444 | 2026-08-06 | 7 |
 | [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,025 | 2026-10-02 | 2 |
 
@@ -47,7 +44,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | 35 | ⭐ 24,968 | 2026-08-01 | 2026-10-03 |
+| [iv-org/invidious](../repos/iv-org/invidious.md) | 36 | ⭐ 25,142 | 2026-08-01 | 2026-10-06 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | 7 | ⭐ 1,444 | 2026-08-06 | 2026-10-02 |
 | [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | 2 | ⭐ 1,025 | 2026-10-02 | 2026-10-03 |
 
@@ -61,4 +58,4 @@
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.741Z*
+*Last updated: 2026-10-06T21:02:08.265Z*

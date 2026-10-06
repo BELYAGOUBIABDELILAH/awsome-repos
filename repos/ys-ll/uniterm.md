@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Vue |
+| **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 451 |
-| **Forks** | 🍴 64 |
-| **Trending Days** | 14 |
+| **Stars** | ⭐ 745 |
+| **Forks** | 🍴 115 |
+| **Trending Days** | 15 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 10, 2026 |
+| **Last Seen** | Oct 6, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Vue or ai-agent*
+*Similar: Check repositories in Go or ai-agent*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 14
+- **Trending Days**: 15
 - **Longest Streak**: 6 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,7 +81,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Vue
+- Check similar projects in Go
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-03T21:01:59.612Z*  
-*Data from 14 trending reports*
+*Last updated: 2026-10-06T21:02:11.539Z*  
+*Data from 15 trending reports*

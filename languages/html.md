@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 100
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-01
+- **Last Updated**: 2026-10-06
 
 ---
 
@@ -16,43 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 16,947 | 2026-08-02 | 7 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 22,554 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,646 | 2026-08-07 | 4 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,914 | 2026-08-03 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,948 | 2026-08-09 | 12 |
+| [Commando-X/vuln-bank](../repos/Commando-X/vuln-bank.md) | ⭐ 968 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
+| [davidarroyo1234/InstagramUnfollowers](../repos/davidarroyo1234/InstagramUnfollowers.md) | ⭐ 4,922 | 2026-08-26 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LingDong-/shan-shui-inf](../repos/LingDong-/shan-shui-inf.md) | ⭐ 6,137 | 2026-10-02 | 2 |
+| [openshift/openshift-docs](../repos/openshift/openshift-docs.md) | ⭐ 882 | 2026-08-28 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dequelabs/axe-core](../repos/dequelabs/axe-core.md) | ⭐ 7,587 | 2026-10-03 | 1 |
+| [ultrasecurity/Storm-Breaker](../repos/ultrasecurity/Storm-Breaker.md) | ⭐ 6,084 | 2026-08-29 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gn-math/html](../repos/gn-math/html.md) | ⭐ 25 | 2026-10-03 | 1 |
+| [dequelabs/axe-core](../repos/dequelabs/axe-core.md) | ⭐ 7,605 | 2026-10-03 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | Dism++ Multi-language Support &amp; BUG Report |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SuperSimpleDev/html-css-course](../repos/SuperSimpleDev/html-css-course.md) | ⭐ 2,031 | 2026-09-06 | Watch the course: https:&#x2F;&#x2F;youtu.be&#x2F;G3e-cpL7ofc |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fengdu78/Coursera-ML-AndrewNg-Notes](../repos/fengdu78/Coursera-ML-AndrewNg-Notes.md) | ⭐ 37,699 | 2026-09-06 | 吴恩达老师的机器学习课程个人笔记 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | Emoji for everyone. https:&#x2F;&#x2F;twemoji.twitter.com&#x2F; |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [munificent/craftinginterpreters](../repos/munificent/craftinginterpreters.md) | ⭐ 11,047 | 2026-09-07 | Repository for the book &quot;Crafting Interpreters&quot; |
@@ -71,6 +59,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [horilla/horilla-hr](../repos/horilla/horilla-hr.md) | ⭐ 1,417 | 2026-09-12 | Horilla is a free and open source HR software. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [comfyanonymous/ComfyUI_examples](../repos/comfyanonymous/ComfyUI_examples.md) | ⭐ 4,542 | 2026-09-12 | Examples of ComfyUI workflows |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tinkerhub/useless_project_temp](../repos/tinkerhub/useless_project_temp.md) | ⭐ 42 | 2026-09-13 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apna-college/Delta](../repos/apna-college/Delta.md) | ⭐ 1,123 | 2026-09-13 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 16,343 | 2026-09-14 | AI 时代的伯克希尔：基于 Claude Code &#x2F; Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: ... |
 
 
 ---
@@ -79,7 +79,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,669 | 2026-08-03 | 16 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,914 | 2026-08-03 | 17 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 138,503 | 2026-08-08 | 14 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,939 | 2026-08-19 | 7 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 67,007 | 2026-08-01 | 17 |
@@ -95,7 +95,7 @@
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 26,740 | 2026-08-04 | 9 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 21,868 | 2026-08-01 | 6 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 22,554 | 2026-08-01 | 7 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,479 | 2026-08-03 | 4 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
 | [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | 1 |
@@ -107,7 +107,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 17 | ⭐ 67,007 | 2026-08-01 | 2026-10-02 |
-| [ossu/computer-science](../repos/ossu/computer-science.md) | 16 | ⭐ 209,669 | 2026-08-03 | 2026-10-01 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | 17 | ⭐ 209,914 | 2026-08-03 | 2026-10-06 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 15 | ⭐ 10,572 | 2026-08-03 | 2026-10-01 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 14 | ⭐ 138,503 | 2026-08-08 | 2026-09-25 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 13 | ⭐ 43,224 | 2026-08-12 | 2026-10-03 |
@@ -224,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.755Z*
+*Last updated: 2026-10-06T21:02:08.285Z*

@@ -1,0 +1,95 @@
+# boykopovar&#x2F;AnyPS5
+
+> Tool for automatic PS5 executables porting to Linux and Windows
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;boykopovar&#x2F;AnyPS5) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | C++ |
+| **License** | GPL-2.0 |
+| **Stars** | ⭐ 6,224 |
+| **Forks** | 🍴 459 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #4 |
+
+| **First Seen** | Oct 6, 2026 |
+| **Last Seen** | Oct 6, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in C++ or anyps5*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #4
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+[`anyps5`](../../topics/anyps5.md) [`dynamic-library`](../../topics/dynamic-library.md) [`game-porting`](../../topics/game-porting.md) [`ps5`](../../topics/ps5.md) [`ps5-tools`](../../topics/ps5-tools.md) [`spir-v`](../../topics/spir-v.md) [`vulkan`](../../topics/vulkan.md) 
+
+### Curated Categories
+`Game Development` `Systems Programming` `Developer Tools` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Advanced | Requires systems programming knowledge |
+| **Documentation** | Limited | May require reading source code |
+| **Community** | Small | Niche but dedicated community |
+| **Maturity** | Experimental | New project, evolving rapidly |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Hard | Requires domain expertise |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in C++
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: Top 5 (Peak: #4)
+
+
+---
+
+*Last updated: 2026-10-06T21:02:19.470Z*  
+*Data from 1 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 202
+- **Total Repositories**: 203
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-01
 
@@ -16,52 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tursodatabase/turso](../repos/tursodatabase/turso.md) | ⭐ 24,545 | 2026-08-01 | 2 |
+| [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | ⭐ 7,694 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,156 | 2026-08-01 | 6 |
+| [block/buzz](../repos/block/buzz.md) | ⭐ 35,619 | 2026-08-19 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | ⭐ 6,763 | 2026-08-03 | 7 |
+| [RyanCodrai/turbovec](../repos/RyanCodrai/turbovec.md) | ⭐ 17,338 | 2026-08-19 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrimeIntellect-ai/prime-agent](../repos/PrimeIntellect-ai/prime-agent.md) | ⭐ 21,514 | 2026-08-07 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 8,726 | 2026-08-26 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 8,213 | 2026-08-27 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 15,829 | 2026-09-04 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [a2x/cs2-dumper](../repos/a2x/cs2-dumper.md) | ⭐ 2,392 | 2026-09-24 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [rubys/roundhouse](../repos/rubys/roundhouse.md) | ⭐ 373 | 2026-10-03 | 1 |
+| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 3,056 | 2026-10-06 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 15,829 | 2026-09-04 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [GreptimeTeam/greptimedb](../repos/GreptimeTeam/greptimedb.md) | ⭐ 6,642 | 2026-09-04 | The open-source observability database. One columnar engine for metrics, logs, and traces, on obj... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [coulsontl/ai-toolbox](../repos/coulsontl/ai-toolbox.md) | ⭐ 1,380 | 2026-09-05 | Personal AI Toolbox |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nklmilojevic/sofka](../repos/nklmilojevic/sofka.md) | ⭐ 793 | 2026-09-06 | A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mixelpixx/Konnect](../repos/mixelpixx/Konnect.md) | ⭐ 591 | 2026-09-06 | AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 sche... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [huggingface/funes](../repos/huggingface/funes.md) | ⭐ 342 | 2026-09-07 | Durable, searchable memory of your past agent sessions. |
@@ -77,6 +47,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google/magika](../repos/google/magika.md) | ⭐ 18,518 | 2026-09-09 | Fast and accurate AI powered file content types detection  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [polarsquad/krops](../repos/polarsquad/krops.md) | ⭐ 137 | 2026-09-09 | Kubernetes-Native Resource Operations |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [alphaXiv/OpenResearch](../repos/alphaXiv/OpenResearch.md) | ⭐ 2,474 | 2026-09-10 | Turn your coding agents into research agents |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [feigeCode/navop](../repos/feigeCode/navop.md) | ⭐ 1,709 | 2026-09-10 | A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, a... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [akitaonrails/ai-usagebar](../repos/akitaonrails/ai-usagebar.md) | ⭐ 463 | 2026-09-10 | Rust-based waybar widget to monitor status of Claude, GPT, GLM, OpenRouter plans&#x2F;credits - inspir... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ast-grep/ast-grep](../repos/ast-grep/ast-grep.md) | ⭐ 15,838 | 2026-09-10 | ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust |
 
 
 ---
@@ -230,4 +215,4 @@
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.787Z*
+*Last updated: 2026-10-06T21:02:08.336Z*

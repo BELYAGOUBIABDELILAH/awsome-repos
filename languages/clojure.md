@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 14
+- **Total Repositories**: 15
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-03
+- **Last Updated**: 2026-10-06
 
 ---
 
@@ -16,19 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,530 | 2026-08-01 | 49 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,557 | 2026-08-01 | 50 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,082 | 2026-08-01 | 42 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,084 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 60,653 | 2026-08-01 | 45 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 60,758 | 2026-08-01 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,118 | 2026-08-01 | 48 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,154 | 2026-08-01 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 3,949 | 2026-08-02 | 41 |
+| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 3,963 | 2026-08-02 | 42 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [xtdb/xtdb](../repos/xtdb/xtdb.md) | ⭐ 3,077 | 2026-10-06 | 1 |
 
 
 ---
@@ -53,6 +56,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [miniforge-ai/miniforge](../repos/miniforge-ai/miniforge.md) | ⭐ 46 | 2026-10-01 | miniforge is an autonomous software development system designed to behave like a factory, not a c... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [xtdb/xtdb](../repos/xtdb/xtdb.md) | ⭐ 3,077 | 2026-10-06 | An immutable SQL database for application development, time-travel reporting and data compliance.... |
 
 
 ---
@@ -61,15 +67,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,082 | 2026-08-01 | 42 |
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 60,653 | 2026-08-01 | 45 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,530 | 2026-08-01 | 49 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,118 | 2026-08-01 | 48 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,084 | 2026-08-01 | 43 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 60,758 | 2026-08-01 | 46 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,557 | 2026-08-01 | 50 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,154 | 2026-08-01 | 49 |
 | [clojure/clojurescript](../repos/clojure/clojurescript.md) | ⭐ 9,393 | 2026-09-07 | 1 |
 | [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,022 | 2026-08-02 | 14 |
-| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 3,949 | 2026-08-02 | 41 |
+| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 3,963 | 2026-08-02 | 42 |
 | [functional-koans/clojure-koans](../repos/functional-koans/clojure-koans.md) | ⭐ 3,802 | 2026-09-12 | 1 |
 | [jepsen-io/maelstrom](../repos/jepsen-io/maelstrom.md) | ⭐ 3,706 | 2026-10-01 | 1 |
+| [xtdb/xtdb](../repos/xtdb/xtdb.md) | ⭐ 3,077 | 2026-10-06 | 1 |
 | [clj-kondo/clj-kondo](../repos/clj-kondo/clj-kondo.md) | ⭐ 1,856 | 2026-09-24 | 2 |
 | [logseq/og](../repos/logseq/og.md) | ⭐ 318 | 2026-08-02 | 24 |
 | [cognitect-labs/test-runner](../repos/cognitect-labs/test-runner.md) | ⭐ 308 | 2026-08-01 | 12 |
@@ -82,11 +89,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [metabase/metabase](../repos/metabase/metabase.md) | 49 | ⭐ 49,530 | 2026-08-01 | 2026-10-03 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 48 | ⭐ 45,118 | 2026-08-01 | 2026-10-03 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 45 | ⭐ 60,653 | 2026-08-01 | 2026-10-03 |
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 42 | ⭐ 82,082 | 2026-08-01 | 2026-10-03 |
-| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | 41 | ⭐ 3,949 | 2026-08-02 | 2026-10-03 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 50 | ⭐ 49,557 | 2026-08-01 | 2026-10-06 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 49 | ⭐ 45,154 | 2026-08-01 | 2026-10-06 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 46 | ⭐ 60,758 | 2026-08-01 | 2026-10-06 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 43 | ⭐ 82,084 | 2026-08-01 | 2026-10-06 |
+| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | 42 | ⭐ 3,963 | 2026-08-02 | 2026-10-06 |
 | [logseq/og](../repos/logseq/og.md) | 24 | ⭐ 318 | 2026-08-02 | 2026-10-02 |
 | [status-im/status-legacy](../repos/status-im/status-legacy.md) | 14 | ⭐ 4,022 | 2026-08-02 | 2026-09-22 |
 | [cognitect-labs/test-runner](../repos/cognitect-labs/test-runner.md) | 12 | ⭐ 308 | 2026-08-01 | 2026-08-29 |
@@ -111,7 +118,8 @@
 - [logseq/docs](../repos/logseq/docs.md) - Logseq documentation
 - [jepsen-io/maelstrom](../repos/jepsen-io/maelstrom.md) - A workbench for writing toy implementations of distributed systems.
 - [miniforge-ai/miniforge](../repos/miniforge-ai/miniforge.md) - miniforge is an autonomous software development system designed to behave like a factory, not a c...
+- [xtdb/xtdb](../repos/xtdb/xtdb.md) - An immutable SQL database for application development, time-travel reporting and data compliance....
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.738Z*
+*Last updated: 2026-10-06T21:02:08.260Z*

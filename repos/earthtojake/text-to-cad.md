@@ -1,6 +1,6 @@
 # earthtojake&#x2F;text-to-cad
 
-> A library of agent skills for CAD, CAE and CAM
+> Give your agent CAD superpowers.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;earthtojake&#x2F;text-to-cad) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 14,992 |
-| **Forks** | 🍴 1,560 |
-| **Trending Days** | 3 |
-| **Peak Rank** | #5 |
+| **Stars** | ⭐ 17,897 |
+| **Forks** | 🍴 1,797 |
+| **Trending Days** | 4 |
+| **Peak Rank** | #3 |
 
 | **First Seen** | Sep 4, 2026 |
-| **Last Seen** | Sep 9, 2026 |
+| **Last Seen** | Oct 6, 2026 |
 
 
 ---
@@ -44,11 +44,12 @@
 ## Trending Timeline
 
 **Sep 9, 2026** — Rank #5 (+97 ⭐)  
+**Oct 6, 2026** — Rank #3 (+620 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #5
-- **Trending Days**: 3
+- **Peak Rank**: #3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -73,7 +74,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -86,11 +87,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
-- **Historical Rank**: Top 5 (Peak: #5)
+- **Trending Score**: 65&#x2F;100
+- **Historical Rank**: Top 5 (Peak: #3)
 
 
 ---
 
-*Last updated: 2026-10-03T21:02:02.805Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-10-06T21:02:18.270Z*  
+*Data from 4 trending reports*

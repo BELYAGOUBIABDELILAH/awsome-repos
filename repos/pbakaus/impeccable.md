@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 75,172 |
-| **Forks** | 🍴 4,508 |
-| **Trending Days** | 17 |
+| **Stars** | ⭐ 77,610 |
+| **Forks** | 🍴 4,622 |
+| **Trending Days** | 18 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Oct 3, 2026 |
+| **Last Seen** | Oct 6, 2026 |
 
 
 ---
@@ -47,11 +47,12 @@
 **Oct 1, 2026** — Rank #14 (+602 ⭐)  
 **Oct 2, 2026** — Rank #5 (+717 ⭐)  
 **Oct 3, 2026** — Rank #2 (+705 ⭐)  
+**Oct 6, 2026** — Rank #5 (+609 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 17
+- **Trending Days**: 18
 - **Longest Streak**: 4 days
 
 ---
@@ -95,5 +96,5 @@
 
 ---
 
-*Last updated: 2026-10-03T21:02:00.653Z*  
-*Data from 17 trending reports*
+*Last updated: 2026-10-06T21:02:15.744Z*  
+*Data from 18 trending reports*

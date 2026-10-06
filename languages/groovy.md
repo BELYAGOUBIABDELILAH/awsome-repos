@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 12
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-03
+- **Last Updated**: 2026-10-06
 
 ---
 
@@ -16,22 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,871 | 2026-08-01 | 49 |
+| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 70 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 908 | 2026-08-01 | 8 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,878 | 2026-08-01 | 50 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,323 | 2026-08-02 | 35 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,327 | 2026-08-02 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,496 | 2026-08-02 | 28 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,933 | 2026-08-03 | 28 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [apache/bigtop](../repos/apache/bigtop.md) | ⭐ 682 | 2026-10-03 | 1 |
+| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,499 | 2026-08-02 | 29 |
 
 
 ---
@@ -55,17 +49,17 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,871 | 2026-08-01 | 49 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,323 | 2026-08-02 | 35 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,878 | 2026-08-01 | 50 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,327 | 2026-08-02 | 36 |
 | [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,467 | 2026-09-13 | 2 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
-| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,496 | 2026-08-02 | 28 |
+| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,499 | 2026-08-02 | 29 |
 | [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,933 | 2026-08-03 | 28 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 908 | 2026-08-01 | 8 |
 | [apache/bigtop](../repos/apache/bigtop.md) | ⭐ 682 | 2026-10-03 | 1 |
 | [NationalSecurityAgency/skills-service](../repos/NationalSecurityAgency/skills-service.md) | ⭐ 633 | 2026-08-27 | 1 |
 | [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | ⭐ 96 | 2026-08-06 | 1 |
-| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 68 | 2026-08-01 | 11 |
+| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 70 | 2026-08-01 | 12 |
 | [Percona-Lab/jenkins-pipelines](../repos/Percona-Lab/jenkins-pipelines.md) | ⭐ 27 | 2026-09-25 | 2 |
 
 ---
@@ -74,11 +68,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [gradle/gradle](../repos/gradle/gradle.md) | 49 | ⭐ 18,871 | 2026-08-01 | 2026-10-03 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 35 | ⭐ 6,323 | 2026-08-02 | 2026-10-03 |
-| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 28 | ⭐ 3,496 | 2026-08-02 | 2026-10-03 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 50 | ⭐ 18,878 | 2026-08-01 | 2026-10-06 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 36 | ⭐ 6,327 | 2026-08-02 | 2026-10-06 |
+| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 29 | ⭐ 3,499 | 2026-08-02 | 2026-10-06 |
 | [apache/grails-core](../repos/apache/grails-core.md) | 28 | ⭐ 2,933 | 2026-08-03 | 2026-10-03 |
-| [gravitee-io/issues](../repos/gravitee-io/issues.md) | 11 | ⭐ 68 | 2026-08-01 | 2026-09-09 |
+| [gravitee-io/issues](../repos/gravitee-io/issues.md) | 12 | ⭐ 70 | 2026-08-01 | 2026-10-06 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | 8 | ⭐ 908 | 2026-08-01 | 2026-10-03 |
 | [apache/groovy](../repos/apache/groovy.md) | 2 | ⭐ 5,467 | 2026-09-13 | 2026-09-14 |
 | [Percona-Lab/jenkins-pipelines](../repos/Percona-Lab/jenkins-pipelines.md) | 2 | ⭐ 27 | 2026-09-25 | 2026-09-29 |
@@ -104,4 +98,4 @@
 
 ---
 
-*Last updated: 2026-10-03T21:01:57.753Z*
+*Last updated: 2026-10-06T21:02:08.282Z*
