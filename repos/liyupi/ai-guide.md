@@ -11,14 +11,14 @@
 | | |
 |---|---|
 | **Language** | JavaScript |
-| **License** | Not specified |
-| **Stars** | ⭐ 18,826 |
-| **Forks** | 🍴 2,131 |
-| **Trending Days** | 1 |
+| **License** | Other |
+| **Stars** | ⭐ 20,778 |
+| **Forks** | 🍴 2,294 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 19, 2026 |
-| **Last Seen** | Aug 19, 2026 |
+| **Last Seen** | Oct 7, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`ai`](../../topics/ai.md) [`artificial-intelligence`](../../topics/artificial-intelligence.md) [`chatgpt`](../../topics/chatgpt.md) [`claude`](../../topics/claude.md) [`codex`](../../topics/codex.md) [`cursor`](../../topics/cursor.md) [`deep-learning`](../../topics/deep-learning.md) [`deepseek`](../../topics/deepseek.md) [`gemini`](../../topics/gemini.md) [`generative-ai`](../../topics/generative-ai.md) [`gpt`](../../topics/gpt.md) [`llm`](../../topics/llm.md) [`mcp`](../../topics/mcp.md) [`openai`](../../topics/openai.md) [`python`](../../topics/python.md) [`rag`](../../topics/rag.md) [`vibe-coding`](../../topics/vibe-coding.md) [`vibecoding`](../../topics/vibecoding.md) [`vue`](../../topics/vue.md) [`vuepress`](../../topics/vuepress.md) 
+[`ai`](../../topics/ai.md) [`ai-agent`](../../topics/ai-agent.md) [`artificial-intelligence`](../../topics/artificial-intelligence.md) [`chatgpt`](../../topics/chatgpt.md) [`claude`](../../topics/claude.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`cursor`](../../topics/cursor.md) [`deep-learning`](../../topics/deep-learning.md) [`deepseek`](../../topics/deepseek.md) [`gemini`](../../topics/gemini.md) [`generative-ai`](../../topics/generative-ai.md) [`gpt`](../../topics/gpt.md) [`llm`](../../topics/llm.md) [`mcp`](../../topics/mcp.md) [`openai`](../../topics/openai.md) [`rag`](../../topics/rag.md) [`vibe-coding`](../../topics/vibe-coding.md) [`vibecoding`](../../topics/vibecoding.md) [`vuepress`](../../topics/vuepress.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Generative AI` `Web Development` `Systems Programming` `Education &amp; Learning` 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-06T21:02:17.317Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-07T21:01:58.823Z*  
+*Data from 2 trending reports*

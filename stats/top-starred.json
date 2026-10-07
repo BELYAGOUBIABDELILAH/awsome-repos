@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:02:19.919Z",
+  "generated_at": "2026-10-07T21:02:01.128Z",
   "total_count": 100,
   "repositories": [
     {
@@ -144,6 +144,16 @@
     },
     {
       "rank": 15,
+      "full_name": "microsoft/markitdown",
+      "owner": "microsoft",
+      "name": "markitdown",
+      "stars": 189013,
+      "language": "Python",
+      "first_seen": "2026-09-07",
+      "trending_days": 3
+    },
+    {
+      "rank": 16,
       "full_name": "microsoft/vscode",
       "owner": "microsoft",
       "name": "vscode",
@@ -153,7 +163,7 @@
       "trending_days": 5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "full_name": "Significant-Gravitas/AutoGPT",
       "owner": "Significant-Gravitas",
       "name": "AutoGPT",
@@ -163,34 +173,24 @@
       "trending_days": 8
     },
     {
-      "rank": 17,
+      "rank": 18,
       "full_name": "ollama/ollama",
       "owner": "ollama",
       "name": "ollama",
-      "stars": 182384,
+      "stars": 182488,
       "language": "Go",
       "first_seen": "2026-08-01",
-      "trending_days": 16
-    },
-    {
-      "rank": 18,
-      "full_name": "microsoft/markitdown",
-      "owner": "microsoft",
-      "name": "markitdown",
-      "stars": 181591,
-      "language": "Python",
-      "first_seen": "2026-09-07",
-      "trending_days": 2
+      "trending_days": 17
     },
     {
       "rank": 19,
       "full_name": "flutter/flutter",
       "owner": "flutter",
       "name": "flutter",
-      "stars": 179354,
+      "stars": 179363,
       "language": "Dart",
       "first_seen": "2026-08-01",
-      "trending_days": 38
+      "trending_days": 39
     },
     {
       "rank": 20,
@@ -247,20 +247,20 @@
       "full_name": "Genymobile/scrcpy",
       "owner": "Genymobile",
       "name": "scrcpy",
-      "stars": 151402,
+      "stars": 151563,
       "language": "C",
       "first_seen": "2026-08-07",
-      "trending_days": 14
+      "trending_days": 15
     },
     {
       "rank": 26,
       "full_name": "anthropics/claude-code",
       "owner": "anthropics",
       "name": "claude-code",
-      "stars": 149177,
+      "stars": 149758,
       "language": "TypeScript",
       "first_seen": "2026-08-07",
-      "trending_days": 16
+      "trending_days": 17
     },
     {
       "rank": 27,
@@ -277,10 +277,10 @@
       "full_name": "vercel/next.js",
       "owner": "vercel",
       "name": "next.js",
-      "stars": 142852,
+      "stars": 143238,
       "language": "JavaScript",
       "first_seen": "2026-07-30",
-      "trending_days": 10
+      "trending_days": 11
     },
     {
       "rank": 29,
@@ -297,10 +297,10 @@
       "full_name": "golang/go",
       "owner": "golang",
       "name": "go",
-      "stars": 139319,
+      "stars": 139317,
       "language": "Go",
       "first_seen": "2026-07-31",
-      "trending_days": 12
+      "trending_days": 13
     },
     {
       "rank": 31,
@@ -537,10 +537,10 @@
       "full_name": "microsoft/TypeScript",
       "owner": "microsoft",
       "name": "TypeScript",
-      "stars": 111330,
+      "stars": 111384,
       "language": "Go",
       "first_seen": "2026-08-15",
-      "trending_days": 8
+      "trending_days": 9
     },
     {
       "rank": 55,
@@ -627,10 +627,10 @@
       "full_name": "addyosmani/agent-skills",
       "owner": "addyosmani",
       "name": "agent-skills",
-      "stars": 101983,
+      "stars": 102703,
       "language": "JavaScript",
       "first_seen": "2026-08-05",
-      "trending_days": 25
+      "trending_days": 26
     },
     {
       "rank": 64,
@@ -724,6 +724,16 @@
     },
     {
       "rank": 73,
+      "full_name": "localsend/localsend",
+      "owner": "localsend",
+      "name": "localsend",
+      "stars": 93607,
+      "language": "Dart",
+      "first_seen": "2026-08-02",
+      "trending_days": 23
+    },
+    {
+      "rank": 74,
       "full_name": "3b1b/manim",
       "owner": "3b1b",
       "name": "manim",
@@ -731,16 +741,6 @@
       "language": "Python",
       "first_seen": "2026-08-10",
       "trending_days": 6
-    },
-    {
-      "rank": 74,
-      "full_name": "localsend/localsend",
-      "owner": "localsend",
-      "name": "localsend",
-      "stars": 92838,
-      "language": "Dart",
-      "first_seen": "2026-08-02",
-      "trending_days": 22
     },
     {
       "rank": 75,
@@ -847,10 +847,10 @@
       "full_name": "gin-gonic/gin",
       "owner": "gin-gonic",
       "name": "gin",
-      "stars": 89049,
+      "stars": 89294,
       "language": "Go",
       "first_seen": "2026-08-05",
-      "trending_days": 1
+      "trending_days": 2
     },
     {
       "rank": 86,
@@ -917,20 +917,20 @@
       "full_name": "spring-projects/spring-boot",
       "owner": "spring-projects",
       "name": "spring-boot",
-      "stars": 81548,
+      "stars": 81565,
       "language": "Java",
       "first_seen": "2026-08-04",
-      "trending_days": 14
+      "trending_days": 15
     },
     {
       "rank": 93,
       "full_name": "NationalSecurityAgency/ghidra",
       "owner": "NationalSecurityAgency",
       "name": "ghidra",
-      "stars": 81079,
+      "stars": 81382,
       "language": "Java",
       "first_seen": "2026-08-03",
-      "trending_days": 17
+      "trending_days": 18
     },
     {
       "rank": 94,
@@ -944,6 +944,16 @@
     },
     {
       "rank": 95,
+      "full_name": "Z4nzu/hackingtool",
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "stars": 80400,
+      "language": "Python",
+      "first_seen": "2026-08-02",
+      "trending_days": 5
+    },
+    {
+      "rank": 96,
       "full_name": "opendatalab/MinerU",
       "owner": "opendatalab",
       "name": "MinerU",
@@ -951,16 +961,6 @@
       "language": "Python",
       "first_seen": "2026-09-19",
       "trending_days": 1
-    },
-    {
-      "rank": 96,
-      "full_name": "Z4nzu/hackingtool",
-      "owner": "Z4nzu",
-      "name": "hackingtool",
-      "stars": 80006,
-      "language": "Python",
-      "first_seen": "2026-08-02",
-      "trending_days": 4
     },
     {
       "rank": 97,

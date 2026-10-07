@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 152
+- **Total Repositories**: 153
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,40 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 101,983 | 2026-08-05 | 25 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,238 | 2026-07-30 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 77,610 | 2026-08-05 | 18 |
+| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,592 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-community](../repos/anthropics/claude-plugins-community.md) | ⭐ 4,515 | 2026-08-22 | 6 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 102,703 | 2026-08-05 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 25,282 | 2026-08-28 | 4 |
+| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 971 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Stremio/stremio-web](../repos/Stremio/stremio-web.md) | ⭐ 14,406 | 2026-08-29 | 4 |
+| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Joooook/12306-mcp](../repos/Joooook/12306-mcp.md) | ⭐ 2,222 | 2026-10-06 | 1 |
+| [liyupi/ai-guide](../repos/liyupi/ai-guide.md) | ⭐ 20,778 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kanoqwq/UFI-TOOLS](../repos/kanoqwq/UFI-TOOLS.md) | ⭐ 2,499 | 2026-10-06 | 1 |
+| [anthropics/claude-plugins-community](../repos/anthropics/claude-plugins-community.md) | ⭐ 4,553 | 2026-08-22 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 25,945 | 2026-08-28 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Stremio/stremio-web](../repos/Stremio/stremio-web.md) | ⭐ 14,426 | 2026-08-29 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Joooook/12306-mcp](../repos/Joooook/12306-mcp.md) | ⭐ 2,289 | 2026-10-06 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mekos2772/ios-location-spoofer](../repos/mekos2772/ios-location-spoofer.md) | ⭐ 4,199 | 2026-09-07 | Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket&#x2F;Surge&#x2F;Loon&#x2F;QX&#x2F;S... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Yu9191/wloc](../repos/Yu9191/wloc.md) | ⭐ 10,339 | 2026-09-07 | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge &#x2F; Quantumult X &#x2F; Loon &#x2F; Stash · 快捷指令一键设置&#x2F;恢复定位 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [koodo-reader/koodo-reader](../repos/koodo-reader/koodo-reader.md) | ⭐ 28,098 | 2026-09-07 | A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Andr... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [viarotel-org/escrcpy](../repos/viarotel-org/escrcpy.md) | ⭐ 11,643 | 2026-09-08 | 📱 Display and control your Android device graphically with scrcpy. |
@@ -71,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [0xranx/OpenContext](../repos/0xranx/OpenContext.md) | ⭐ 1,117 | 2026-09-12 | A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sandeco/reversa](../repos/sandeco/reversa.md) | ⭐ 1,632 | 2026-09-12 | Transform legacy systems into executable specifications for AI coding agents |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [QuiteAFancyEmerald/InvisiProxy](../repos/QuiteAFancyEmerald/InvisiProxy.md) | ⭐ 1,552 | 2026-09-12 | InvisiProxy LTS is a web proxy service that helps you access websites that may be blocked by your... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 4,348 | 2026-09-12 |  |
 
 
 ---
@@ -83,18 +92,18 @@
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 159,005 | 2026-08-06 | 3 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 142,852 | 2026-07-30 | 10 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,238 | 2026-07-30 | 11 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 101,983 | 2026-08-05 | 25 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 102,703 | 2026-08-05 | 26 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 77,610 | 2026-08-05 | 18 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 75,760 | 2026-08-04 | 18 |
-| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,494 | 2026-08-04 | 2 |
+| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,592 | 2026-08-04 | 3 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 66,612 | 2026-08-01 | 18 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
-| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,289 | 2026-08-11 | 3 |
+| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
 | [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,420 | 2026-08-11 | 4 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,174 | 2026-08-08 | 3 |
@@ -106,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 25 | ⭐ 101,983 | 2026-08-05 | 2026-10-06 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 26 | ⭐ 102,703 | 2026-08-05 | 2026-10-07 |
 | [byoungd/up](../repos/byoungd/up.md) | 18 | ⭐ 66,612 | 2026-08-01 | 2026-10-01 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 18 | ⭐ 75,760 | 2026-08-04 | 2026-10-01 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 18 | ⭐ 77,610 | 2026-08-05 | 2026-10-06 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 13 | ⭐ 3,954 | 2026-08-07 | 2026-10-03 |
+| [vercel/next.js](../repos/vercel/next.js.md) | 11 | ⭐ 143,238 | 2026-07-30 | 2026-10-07 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 11 | ⭐ 33,755 | 2026-08-02 | 2026-10-01 |
 | [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | 11 | ⭐ 9,110 | 2026-08-10 | 2026-10-03 |
-| [vercel/next.js](../repos/vercel/next.js.md) | 10 | ⭐ 142,852 | 2026-07-30 | 2026-09-28 |
 | [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 10 | ⭐ 39,807 | 2026-08-06 | 2026-09-29 |
 
 ---
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.293Z*
+*Last updated: 2026-10-07T21:01:53.423Z*

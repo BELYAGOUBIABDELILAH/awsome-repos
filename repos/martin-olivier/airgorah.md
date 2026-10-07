@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | MIT |
-| **Stars** | ⭐ 3,662 |
-| **Forks** | 🍴 619 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 3,895 |
+| **Forks** | 🍴 676 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 13, 2026 |
-| **Last Seen** | Sep 29, 2026 |
+| **Last Seen** | Oct 7, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Rust or aircrack-ng*
+*Similar: Check repositories in Rust or gui*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`aircrack-ng`](../../topics/aircrack-ng.md) [`gui`](../../topics/gui.md) [`kali`](../../topics/kali.md) [`linux-app`](../../topics/linux-app.md) [`security`](../../topics/security.md) [`security-audit`](../../topics/security-audit.md) [`wifi`](../../topics/wifi.md) [`wifi-security`](../../topics/wifi-security.md) [`wireless`](../../topics/wireless.md) 
+[`gui`](../../topics/gui.md) [`kali`](../../topics/kali.md) [`linux-app`](../../topics/linux-app.md) [`security`](../../topics/security.md) [`security-audit`](../../topics/security-audit.md) [`wifi`](../../topics/wifi.md) [`wifi-security`](../../topics/wifi-security.md) [`wireless`](../../topics/wireless.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Frontend Development` `Cybersecurity` `Systems Programming` 
+`Frontend Development` `Cybersecurity` `Systems Programming` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-06T21:02:18.733Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-10-07T21:02:00.029Z*  
+*Data from 4 trending reports*

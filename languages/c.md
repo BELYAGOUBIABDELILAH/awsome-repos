@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 212
+- **Total Repositories**: 213
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-06
+- **Last Updated**: 2026-10-07
 
 ---
 
@@ -16,37 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darktable-org/darktable](../repos/darktable-org/darktable.md) | ⭐ 13,207 | 2026-08-03 | 3 |
+| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,458 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [portapack-mayhem/mayhem-firmware](../repos/portapack-mayhem/mayhem-firmware.md) | ⭐ 5,453 | 2026-08-04 | 6 |
+| [microsoft/mimalloc](../repos/microsoft/mimalloc.md) | ⭐ 13,441 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,703 | 2026-08-06 | 20 |
+| [portapack-mayhem/mayhem-firmware](../repos/portapack-mayhem/mayhem-firmware.md) | ⭐ 5,459 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,402 | 2026-08-07 | 14 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,706 | 2026-08-06 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,659 | 2026-08-09 | 10 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,563 | 2026-08-07 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 39,990 | 2026-09-01 | 12 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,995 | 2026-08-07 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [n64decomp/sm64](../repos/n64decomp/sm64.md) | ⭐ 8,823 | 2026-10-06 | 1 |
+| [EpicGames/raddebugger](../repos/EpicGames/raddebugger.md) | ⭐ 7,826 | 2026-08-08 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LongSoft/UEFITool](../repos/LongSoft/UEFITool.md) | ⭐ 5,729 | 2026-10-06 | 1 |
+| [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) | ⭐ 15,706 | 2026-08-15 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 40,292 | 2026-09-01 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [libarchive/libarchive](../repos/libarchive/libarchive.md) | ⭐ 3,630 | 2026-09-06 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ish-app/ish](../repos/ish-app/ish.md) | ⭐ 20,422 | 2026-09-07 | Linux shell for iOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [armory3d/armorpaint](../repos/armory3d/armorpaint.md) | ⭐ 5,265 | 2026-09-08 | Graphics Creation Tools |
@@ -74,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [signalwire/freeswitch](../repos/signalwire/freeswitch.md) | ⭐ 5,191 | 2026-09-10 | FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprieta... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [johnfanv2/LenovoLegionLinux](../repos/johnfanv2/LenovoLegionLinux.md) | ⭐ 3,366 | 2026-09-13 | Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power m... |
 
 
 ---
@@ -82,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,402 | 2026-08-07 | 14 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,563 | 2026-08-07 | 15 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,143 | 2026-08-01 | 19 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,470 | 2026-08-24 | 3 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,742 | 2026-08-02 | 15 |
@@ -91,7 +97,7 @@
 | [git/git](../repos/git/git.md) | ⭐ 63,555 | 2026-08-05 | 7 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 45,482 | 2026-08-07 | 20 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,420 | 2026-08-01 | 8 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 39,990 | 2026-09-01 | 12 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 40,292 | 2026-09-01 | 13 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,692 | 2026-08-04 | 9 |
@@ -111,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 | ⭐ 16,829 | 2026-08-01 | 2026-10-01 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 22 | ⭐ 73,118 | 2026-08-01 | 2026-10-03 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 20 | ⭐ 16,703 | 2026-08-06 | 2026-10-06 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 21 | ⭐ 16,706 | 2026-08-06 | 2026-10-07 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 20 | ⭐ 45,482 | 2026-08-07 | 2026-09-29 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 19 | ⭐ 139,143 | 2026-08-01 | 2026-10-01 |
+| [facebook/zstd](../repos/facebook/zstd.md) | 18 | ⭐ 27,995 | 2026-08-07 | 2026-10-07 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 17 | ⭐ 6,981 | 2026-08-04 | 2026-10-03 |
-| [facebook/zstd](../repos/facebook/zstd.md) | 17 | ⭐ 27,950 | 2026-08-07 | 2026-09-29 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 15 | ⭐ 76,742 | 2026-08-02 | 2026-09-28 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 14 | ⭐ 151,402 | 2026-08-07 | 2026-10-06 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 12 | ⭐ 39,990 | 2026-09-01 | 2026-10-06 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 15 | ⭐ 151,563 | 2026-08-07 | 2026-10-07 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 13 | ⭐ 40,292 | 2026-09-01 | 2026-10-07 |
 
 ---
 
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.247Z*
+*Last updated: 2026-10-07T21:01:53.369Z*

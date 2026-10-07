@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 271
+- **Total Repositories**: 273
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-25
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 12,459 | 2026-08-01 | 5 |
+| [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 80,400 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 92,571 | 2026-08-01 | 11 |
+| [uber/ADR](../repos/uber/ADR.md) | ⭐ 1,893 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omnigent-ai/omnigent](../repos/omnigent-ai/omnigent.md) | ⭐ 10,626 | 2026-08-12 | 2 |
+| [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) | ⭐ 23,102 | 2026-08-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 33,676 | 2026-08-29 | 4 |
+| [ayghri/i-have-adhd](../repos/ayghri/i-have-adhd.md) | ⭐ 55,018 | 2026-08-29 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ayghri/i-have-adhd](../repos/ayghri/i-have-adhd.md) | ⭐ 54,323 | 2026-08-29 | 7 |
+| [earthtojake/text-to-cad](../repos/earthtojake/text-to-cad.md) | ⭐ 18,267 | 2026-09-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earthtojake/text-to-cad](../repos/earthtojake/text-to-cad.md) | ⭐ 17,897 | 2026-09-04 | 4 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | 2026-09-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 26,346 | 2026-09-19 | 2 |
+| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 27,106 | 2026-09-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [raullenchai/Rapid-MLX](../repos/raullenchai/Rapid-MLX.md) | ⭐ 3,915 | 2026-10-06 | 1 |
+| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 4,732 | 2026-09-22 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dortania/OpenCore-Legacy-Patcher](../repos/dortania/OpenCore-Legacy-Patcher.md) | ⭐ 18,473 | 2026-10-06 | 1 |
+| [allenai/olmocr](../repos/allenai/olmocr.md) | ⭐ 19,723 | 2026-10-07 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [MDX-Tom/gpt-instruct](../repos/MDX-Tom/gpt-instruct.md) | ⭐ 9,315 | 2026-10-07 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 181,591 | 2026-09-07 | Python tool for converting files and office documents to Markdown. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Free-TV/IPTV](../repos/Free-TV/IPTV.md) | ⭐ 20,423 | 2026-09-07 | M3U Playlist for free TV channels |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [numpy/numpy](../repos/numpy/numpy.md) | ⭐ 32,700 | 2026-09-07 | The fundamental package for scientific computing with Python. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vinta/awesome-python](../repos/vinta/awesome-python.md) | ⭐ 319,105 | 2026-09-07 | The definitive list that answers &quot;I want to do X in Python, which tool should I use?&quot; |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NVIDIA/personaplex](../repos/NVIDIA/personaplex.md) | ⭐ 10,435 | 2026-09-07 | PersonaPlex code. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Zie619/n8n-workflows](../repos/Zie619/n8n-workflows.md) | ⭐ 56,552 | 2026-09-07 | all of the workflows of n8n i could find (also from the site itself) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [hpcaitech/Open-Sora](../repos/hpcaitech/Open-Sora.md) | ⭐ 29,699 | 2026-09-08 | Open-Sora: Democratizing Efficient Video Production for All |
@@ -77,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [anbeime/skill](../repos/anbeime/skill.md) | ⭐ 6,455 | 2026-09-09 | 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jiji262/douyin-downloader](../repos/jiji262/douyin-downloader.md) | ⭐ 11,707 | 2026-09-10 | A practical Douyin downloader for both single-item and profile batch downloads, with progress dis... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [gpustack/gpustack](../repos/gpustack/gpustack.md) | ⭐ 5,658 | 2026-09-10 | A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-acce... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ultralytics/ultralytics](../repos/ultralytics/ultralytics.md) | ⭐ 61,481 | 2026-09-10 | Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentati... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google-deepmind/alphagenome](../repos/google-deepmind/alphagenome.md) | ⭐ 2,080 | 2026-09-10 | This API provides programmatic access to the AlphaGenome model developed by Google DeepMind. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SnailSploit/Claude-Red](../repos/SnailSploit/Claude-Red.md) | ⭐ 4,659 | 2026-09-12 | claude-red is a curated library of offensive security skills designed for the Claude skills syste... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [multimodal-art-projection/YuE](../repos/multimodal-art-projection/YuE.md) | ⭐ 8,273 | 2026-09-12 | YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. |
 
 
 ---
@@ -91,8 +94,8 @@
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 285,114 | 2026-08-08 | 4 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | 2026-08-01 | 17 |
 | [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 191,157 | 2026-08-02 | 7 |
+| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | 2026-09-07 | 3 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,465 | 2026-08-06 | 8 |
-| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 181,591 | 2026-09-07 | 2 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,921 | 2026-07-31 | 7 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 140,508 | 2026-08-04 | 5 |
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.327Z*
+*Last updated: 2026-10-07T21:01:53.454Z*

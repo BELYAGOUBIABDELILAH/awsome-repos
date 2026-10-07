@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 290
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-10-06
+- **Last Updated**: 2026-10-07
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,319 | 2026-07-31 | 12 |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,317 | 2026-07-31 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,270 | 2026-08-01 | 17 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,286 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,384 | 2026-08-01 | 16 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,488 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | ⭐ 745 | 2026-08-01 | 15 |
+| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | ⭐ 762 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubescape/kubescape](../repos/kubescape/kubescape.md) | ⭐ 11,776 | 2026-08-02 | 2 |
+| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 77,476 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 77,400 | 2026-08-03 | 7 |
+| [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,294 | 2026-08-05 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [livekit/livekit](../repos/livekit/livekit.md) | ⭐ 21,307 | 2026-08-07 | 5 |
+| [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) | ⭐ 4,177 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 29,746 | 2026-08-11 | 6 |
+| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 29,781 | 2026-08-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [podman-container-tools/podman](../repos/podman-container-tools/podman.md) | ⭐ 33,004 | 2026-08-27 | 4 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,384 | 2026-08-15 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gvisor](../repos/google/gvisor.md) | ⭐ 19,567 | 2026-08-28 | 2 |
+| [maximhq/bifrost](../repos/maximhq/bifrost.md) | ⭐ 8,610 | 2026-08-19 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [amir20/dozzle](../repos/amir20/dozzle.md) | ⭐ 14,359 | 2026-09-07 | Realtime log viewer for containers.  Supports Docker, Swarm and K8s.  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [v2fly/domain-list-community](../repos/v2fly/domain-list-community.md) | ⭐ 9,456 | 2026-09-07 | Community managed domain list. Generate geosite.dat for V2Ray. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [gtsteffaniak/filebrowser](../repos/gtsteffaniak/filebrowser.md) | ⭐ 8,191 | 2026-09-08 | 📂 Web File Browser |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [R-s0n/ars0n-framework-v2](../repos/R-s0n/ars0n-framework-v2.md) | ⭐ 800 | 2026-09-10 | AI Native Bug Bounty Hunting Framework Designed to Help Beginners Compete w&#x2F; the Pros |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [theagentrouter/agent-router](../repos/theagentrouter/agent-router.md) | ⭐ 2,034 | 2026-09-10 | Manages Unified Access to Generative AI Services built on Envoy Gateway |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [projectdiscovery/katana](../repos/projectdiscovery/katana.md) | ⭐ 17,453 | 2026-09-10 | A next-generation crawling and spidering framework. |
 
 
 ---
@@ -88,15 +88,15 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,384 | 2026-08-01 | 16 |
-| [golang/go](../repos/golang/go.md) | ⭐ 139,319 | 2026-07-31 | 12 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,488 | 2026-08-01 | 17 |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,317 | 2026-07-31 | 13 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,053 | 2026-08-04 | 7 |
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,330 | 2026-08-15 | 8 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,384 | 2026-08-15 | 9 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,509 | 2026-08-06 | 11 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
-| [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,049 | 2026-08-05 | 1 |
+| [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,294 | 2026-08-05 | 2 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,506 | 2026-08-12 | 7 |
-| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 77,400 | 2026-08-03 | 7 |
+| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 77,476 | 2026-08-03 | 8 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 72,088 | 2026-08-04 | 4 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | 2026-08-07 | 2 |
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,012 | 2026-08-11 | 5 |
@@ -115,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 17 | ⭐ 38,270 | 2026-08-01 | 2026-10-06 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 18 | ⭐ 38,286 | 2026-08-01 | 2026-10-07 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 17 | ⭐ 27,208 | 2026-08-01 | 2026-09-19 |
-| [ollama/ollama](../repos/ollama/ollama.md) | 16 | ⭐ 182,384 | 2026-08-01 | 2026-10-06 |
+| [ollama/ollama](../repos/ollama/ollama.md) | 17 | ⭐ 182,488 | 2026-08-01 | 2026-10-07 |
+| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 16 | ⭐ 762 | 2026-08-01 | 2026-10-07 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 15 | ⭐ 48,695 | 2026-08-01 | 2026-09-22 |
-| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 15 | ⭐ 745 | 2026-08-01 | 2026-10-06 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 15 | ⭐ 4,200 | 2026-08-02 | 2026-10-03 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 14 | ⭐ 42,026 | 2026-08-07 | 2026-09-19 |
+| [golang/go](../repos/golang/go.md) | 13 | ⭐ 139,317 | 2026-07-31 | 2026-10-07 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 13 | ⭐ 51,680 | 2026-08-01 | 2026-09-29 |
-| [golang/go](../repos/golang/go.md) | 12 | ⭐ 139,319 | 2026-07-31 | 2026-10-06 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 11 | ⭐ 91,509 | 2026-08-06 | 2026-09-29 |
 
 ---
@@ -147,7 +147,7 @@
 - [hashicorp/terraform-provider-aws](../repos/hashicorp/terraform-provider-aws.md) - The AWS Provider enables Terraform to manage AWS resources.
 - [kserve/kserve](../repos/kserve/kserve.md) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Fram...
 - [looplj/axonhub](../repos/looplj/axonhub.md) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cos...
-- [ys-ll/uniterm](../repos/ys-ll/uniterm.md) - A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and ...
+- [ys-ll/uniterm](../repos/ys-ll/uniterm.md) - All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With...
 - [esengine/DeepSeek-Reasonix](../repos/esengine/DeepSeek-Reasonix.md) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — lea...
 - [superplanehq/superplane](../repos/superplanehq/superplane.md) - Open source factory for one-shot engineering
 - [stretchr/testify](../repos/stretchr/testify.md) - A toolkit with common assertions and mocks that plays nicely with the standard library
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.280Z*
+*Last updated: 2026-10-07T21:01:53.408Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 36
+- **Total Repositories**: 37
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-03
 
@@ -16,19 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 498 | 2026-08-01 | 37 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 498 | 2026-08-01 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,697 | 2026-08-01 | 26 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,135 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,130 | 2026-08-01 | 44 |
+| [manwar/perlweeklychallenge-club](../repos/manwar/perlweeklychallenge-club.md) | ⭐ 220 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acl-org/ACLPUB](../repos/acl-org/ACLPUB.md) | ⭐ 252 | 2026-08-28 | 4 |
+| [acl-org/ACLPUB](../repos/acl-org/ACLPUB.md) | ⭐ 252 | 2026-08-28 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xcat2/xcat-core](../repos/xcat2/xcat-core.md) | ⭐ 399 | 2026-10-06 | 1 |
+| [docker-library/repo-info](../repos/docker-library/repo-info.md) | ⭐ 608 | 2026-09-12 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [RotherOSS/otobo](../repos/RotherOSS/otobo.md) | ⭐ 335 | 2026-09-24 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [sipwise/rtpengine](../repos/sipwise/rtpengine.md) | ⭐ 992 | 2026-10-07 | 1 |
 
 
 ---
@@ -37,25 +43,25 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [so-fancy/diff-so-fancy](../repos/so-fancy/diff-so-fancy.md) | ⭐ 18,090 | 2026-09-07 | Make your diffs human readable for improved code quality and faster defect detection. :tada: |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [mysociety/fixmystreet](../repos/mysociety/fixmystreet.md) | ⭐ 616 | 2026-09-08 | This is mySociety&#39;s popular map-based reporting platform: easy to install in new countries and re... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [UniversalDependencies/tools](../repos/UniversalDependencies/tools.md) | ⭐ 220 | 2026-09-09 | Various utilities for processing the data. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [docker-library/repo-info](../repos/docker-library/repo-info.md) | ⭐ 609 | 2026-09-12 | Extended information (especially license and layer details) about the published Official Images |
+| [docker-library/repo-info](../repos/docker-library/repo-info.md) | ⭐ 608 | 2026-09-12 | Extended information (especially license and layer details) about the published Official Images |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rsnapshot/rsnapshot](../repos/rsnapshot/rsnapshot.md) | ⭐ 3,683 | 2026-09-21 | a tool for backing up your data using rsync (if you want to get help, use https:&#x2F;&#x2F;lists.sourcefor... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [RotherOSS/otobo](../repos/RotherOSS/otobo.md) | ⭐ 336 | 2026-09-24 | OTOBO is one of the most flexible web-based ticketing systems used for Customer Service, Help Des... |
+| [RotherOSS/otobo](../repos/RotherOSS/otobo.md) | ⭐ 335 | 2026-09-24 | OTOBO is one of the most flexible web-based ticketing systems used for Customer Service, Help Des... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [xcat2/xcat-core](../repos/xcat2/xcat-core.md) | ⭐ 399 | 2026-10-06 | Code repo for xCAT core packages |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sipwise/rtpengine](../repos/sipwise/rtpengine.md) | ⭐ 992 | 2026-10-07 | The Sipwise media proxy for Kamailio |
 
 
 ---
@@ -67,7 +73,7 @@
 | [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,784 | 2026-08-01 | 46 |
 | [so-fancy/diff-so-fancy](../repos/so-fancy/diff-so-fancy.md) | ⭐ 18,090 | 2026-09-07 | 1 |
 | [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 5 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,130 | 2026-08-01 | 44 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,135 | 2026-08-01 | 45 |
 | [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,950 | 2026-08-02 | 21 |
 | [rsnapshot/rsnapshot](../repos/rsnapshot/rsnapshot.md) | ⭐ 3,683 | 2026-09-21 | 1 |
 | [ddclient/ddclient](../repos/ddclient/ddclient.md) | ⭐ 3,517 | 2026-08-10 | 5 |
@@ -81,9 +87,9 @@
 | [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,152 | 2026-08-01 | 14 |
 | [aspiers/stow](../repos/aspiers/stow.md) | ⭐ 1,124 | 2026-08-26 | 3 |
 | [linux-test-project/lcov](../repos/linux-test-project/lcov.md) | ⭐ 1,106 | 2026-08-08 | 2 |
+| [sipwise/rtpengine](../repos/sipwise/rtpengine.md) | ⭐ 992 | 2026-10-07 | 1 |
 | [mysociety/fixmystreet](../repos/mysociety/fixmystreet.md) | ⭐ 616 | 2026-09-08 | 1 |
-| [docker-library/repo-info](../repos/docker-library/repo-info.md) | ⭐ 609 | 2026-09-12 | 1 |
-| [znuny/Znuny](../repos/znuny/Znuny.md) | ⭐ 599 | 2026-08-01 | 21 |
+| [docker-library/repo-info](../repos/docker-library/repo-info.md) | ⭐ 608 | 2026-09-12 | 2 |
 
 ---
 
@@ -92,8 +98,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 46 | ⭐ 19,784 | 2026-08-01 | 2026-10-03 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 44 | ⭐ 5,130 | 2026-08-01 | 2026-10-06 |
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 37 | ⭐ 498 | 2026-08-01 | 2026-10-06 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 45 | ⭐ 5,135 | 2026-08-01 | 2026-10-07 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 38 | ⭐ 498 | 2026-08-01 | 2026-10-07 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 32 | ⭐ 2,680 | 2026-08-01 | 2026-09-14 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | 28 | ⭐ 1,527 | 2026-08-01 | 2026-10-02 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 26 | ⭐ 1,697 | 2026-08-01 | 2026-10-06 |
@@ -142,7 +148,8 @@
 - [rsnapshot/rsnapshot](../repos/rsnapshot/rsnapshot.md) - a tool for backing up your data using rsync (if you want to get help, use https:&#x2F;&#x2F;lists.sourcefor...
 - [RotherOSS/otobo](../repos/RotherOSS/otobo.md) - OTOBO is one of the most flexible web-based ticketing systems used for Customer Service, Help Des...
 - [xcat2/xcat-core](../repos/xcat2/xcat-core.md) - Code repo for xCAT core packages
+- [sipwise/rtpengine](../repos/sipwise/rtpengine.md) - The Sipwise media proxy for Kamailio
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.323Z*
+*Last updated: 2026-10-07T21:01:53.449Z*

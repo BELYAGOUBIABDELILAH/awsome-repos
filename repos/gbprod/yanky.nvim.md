@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Lua |
 | **License** | WTFPL |
-| **Stars** | ⭐ 1,286 |
+| **Stars** | ⭐ 1,287 |
 | **Forks** | 🍴 30 |
-| **Trending Days** | 2 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 22, 2026 |
-| **Last Seen** | Oct 6, 2026 |
+| **Last Seen** | Oct 7, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
-- **Longest Streak**: 1 days
+- **Trending Days**: 3
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 55&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-06T21:02:19.141Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-10-07T21:02:00.300Z*  
+*Data from 3 trending reports*

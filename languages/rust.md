@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 203
+- **Total Repositories**: 206
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-01
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FalkorDB/FalkorDB](../repos/FalkorDB/FalkorDB.md) | ⭐ 7,694 | 2026-08-03 | 8 |
+| [emilk/egui](../repos/emilk/egui.md) | ⭐ 30,969 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [block/buzz](../repos/block/buzz.md) | ⭐ 35,619 | 2026-08-19 | 9 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 41,568 | 2026-08-10 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RyanCodrai/turbovec](../repos/RyanCodrai/turbovec.md) | ⭐ 17,338 | 2026-08-19 | 7 |
+| [RyanCodrai/turbovec](../repos/RyanCodrai/turbovec.md) | ⭐ 17,353 | 2026-08-19 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 3,056 | 2026-10-06 | 1 |
+| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 3,895 | 2026-09-13 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 4,539 | 2026-10-06 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [eolix/photosuite](../repos/eolix/photosuite.md) | ⭐ 886 | 2026-10-07 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [harry0703/MangoDisk](../repos/harry0703/MangoDisk.md) | ⭐ 3,803 | 2026-10-07 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [xerj-org/xerj](../repos/xerj-org/xerj.md) | ⭐ 3,101 | 2026-10-07 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [huggingface/funes](../repos/huggingface/funes.md) | ⭐ 342 | 2026-09-07 | Durable, searchable memory of your past agent sessions. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [koharu-rs/koharu](../repos/koharu-rs/koharu.md) | ⭐ 5,511 | 2026-09-07 | AI-powered manga translator, written in Rust. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [visioncortex/vtracer](../repos/visioncortex/vtracer.md) | ⭐ 6,951 | 2026-09-07 | Raster to Vector Graphics Converter |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [quickwit-oss/quickwit](../repos/quickwit-oss/quickwit.md) | ⭐ 11,587 | 2026-09-08 | Cloud-native OSS search engine for observability |
@@ -62,6 +65,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ast-grep/ast-grep](../repos/ast-grep/ast-grep.md) | ⭐ 15,838 | 2026-09-10 | ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [persiyanov/herdr-reviewr](../repos/persiyanov/herdr-reviewr.md) | ⭐ 660 | 2026-09-10 | A code review + file viewer sidebar for herdr. Comment on a diff and send back to agent. Inspect ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [teamclouday/AndroidMic](../repos/teamclouday/AndroidMic.md) | ⭐ 1,632 | 2026-09-12 | Use your Android phone as a microphone for your PC |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NVlabs/cuda-oxide](../repos/NVlabs/cuda-oxide.md) | ⭐ 3,299 | 2026-09-12 | cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idioma... |
 
 
 ---
@@ -88,8 +100,8 @@
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,253 | 2026-08-05 | 10 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 42,307 | 2026-08-02 | 8 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 41,568 | 2026-08-10 | 15 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 40,454 | 2026-08-10 | 14 |
 
 ---
 
@@ -98,8 +110,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 21 | ⭐ 23,670 | 2026-08-08 | 2026-09-28 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 15 | ⭐ 41,568 | 2026-08-10 | 2026-10-07 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 14 | ⭐ 95,867 | 2026-08-09 | 2026-10-01 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 14 | ⭐ 40,454 | 2026-08-10 | 2026-10-02 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 13 | ⭐ 23,706 | 2026-08-01 | 2026-10-01 |
 | [openai/codex](../repos/openai/codex.md) | 12 | ⭐ 127,538 | 2026-08-01 | 2026-10-01 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 11 | ⭐ 29,237 | 2026-08-03 | 2026-09-21 |
@@ -215,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.336Z*
+*Last updated: 2026-10-07T21:01:53.462Z*

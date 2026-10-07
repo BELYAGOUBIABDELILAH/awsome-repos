@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [luanfujun/deep-photo-styletransfer](../repos/luanfujun/deep-photo-styletransfer.md) | ⭐ 9,989 | 2026-09-07 | Code and data for paper &quot;Deep Photo Style Transfer&quot;: https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;1703.07511  |
 
+*No new Matlab repositories in the last 30 days*
 
 ---
 
@@ -50,4 +48,4 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.307Z*
+*Last updated: 2026-10-07T21:01:53.437Z*

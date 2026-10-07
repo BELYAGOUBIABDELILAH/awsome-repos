@@ -1,6 +1,6 @@
 # ys-ll&#x2F;uniterm
 
-> A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.
+> All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;ys-ll&#x2F;uniterm) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 745 |
-| **Forks** | 🍴 115 |
-| **Trending Days** | 15 |
+| **Stars** | ⭐ 762 |
+| **Forks** | 🍴 117 |
+| **Trending Days** | 16 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 6, 2026 |
+| **Last Seen** | Oct 7, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 15
+- **Trending Days**: 16
 - **Longest Streak**: 6 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:11.539Z*  
-*Data from 15 trending reports*
+*Last updated: 2026-10-07T21:01:56.537Z*  
+*Data from 16 trending reports*

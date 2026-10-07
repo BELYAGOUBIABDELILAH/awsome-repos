@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 259
+- **Total Repositories**: 262
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-03
 
@@ -16,49 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 130,498 | 2026-08-01 | 27 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,673 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,669 | 2026-08-01 | 13 |
+| [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | ⭐ 16,009 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenRCT2/OpenRCT2](../repos/OpenRCT2/OpenRCT2.md) | ⭐ 16,375 | 2026-08-03 | 5 |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 33,209 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,629 | 2026-08-04 | 19 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 10,021 | 2026-10-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moonlight-stream/moonlight-qt](../repos/moonlight-stream/moonlight-qt.md) | ⭐ 18,957 | 2026-08-24 | 4 |
+| [M-Abozaid/esp32-c3-adblock](../repos/M-Abozaid/esp32-c3-adblock.md) | ⭐ 2,190 | 2026-10-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [0xShug0/audio.cpp](../repos/0xShug0/audio.cpp.md) | ⭐ 3,321 | 2026-09-12 | 4 |
+| [Confetti3/SF4-Ember-Netplay](../repos/Confetti3/SF4-Ember-Netplay.md) | ⭐ 91 | 2026-10-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [falcosecurity/falco](../repos/falcosecurity/falco.md) | ⭐ 9,454 | 2026-09-22 | 2 |
+| [MAZHARMIK/Interview_DS_Algo](../repos/MAZHARMIK/Interview_DS_Algo.md) | ⭐ 5,144 | 2026-10-07 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 6,224 | 2026-10-06 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [M-Abozaid/esp32-c3-adblock](../repos/M-Abozaid/esp32-c3-adblock.md) | ⭐ 1,733 | 2026-10-06 | 1 |
+| [google/re2](../repos/google/re2.md) | ⭐ 9,817 | 2026-10-07 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mamedev/mame](../repos/mamedev/mame.md) | ⭐ 10,465 | 2026-09-07 | MAME |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vcmi/vcmi](../repos/vcmi/vcmi.md) | ⭐ 5,836 | 2026-09-07 | Open-source engine for Heroes of Might and Magic III |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [LMMS/lmms](../repos/LMMS/lmms.md) | ⭐ 10,340 | 2026-09-07 | Cross-platform music production software |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [LibreSprite/LibreSprite](../repos/LibreSprite/LibreSprite.md) | ⭐ 8,357 | 2026-09-07 | Animated sprite editor &amp; pixel art tool -- Fork of the last GPLv2 commit of Aseprite |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MaaXYZ/MaaFramework](../repos/MaaXYZ/MaaFramework.md) | ⭐ 4,906 | 2026-09-08 | 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition |
@@ -77,6 +62,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [7h30th3r0n3/Evil-M5Project](../repos/7h30th3r0n3/Evil-M5Project.md) | ⭐ 2,607 | 2026-09-09 | Evil-M5Project is an innovative tool developed for ethical  hacking and exploration of WiFi netwo... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google-ai-edge/LiteRT-LM](../repos/google-ai-edge/LiteRT-LM.md) | ⭐ 6,415 | 2026-09-10 | LiteRT-LM is Google&#39;s production-ready, high-performance, open-source inference framework for dep... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google-ai-edge/mediapipe](../repos/google-ai-edge/mediapipe.md) | ⭐ 36,903 | 2026-09-10 | Cross-platform, customizable ML solutions for live and streaming media. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [0xShug0/audio.cpp](../repos/0xShug0/audio.cpp.md) | ⭐ 3,321 | 2026-09-12 | An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VA... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Atmosphere-NX/Atmosphere](../repos/Atmosphere-NX/Atmosphere.md) | ⭐ 19,861 | 2026-09-12 | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. |
 
 
 ---
@@ -117,8 +114,8 @@
 | [google/googletest](../repos/google/googletest.md) | 19 | ⭐ 39,629 | 2026-08-04 | 2026-10-06 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 15 | ⭐ 520 | 2026-08-01 | 2026-10-03 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 15 | ⭐ 72,087 | 2026-08-01 | 2026-10-02 |
+| [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 14 | ⭐ 76,454 | 2026-08-08 | 2026-10-01 |
-| [gabime/spdlog](../repos/gabime/spdlog.md) | 13 | ⭐ 29,669 | 2026-08-01 | 2026-10-06 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 12 | ⭐ 11,523 | 2026-08-02 | 2026-10-03 |
 | [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | 11 | ⭐ 21,998 | 2026-08-06 | 2026-10-03 |
 | [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | 10 | ⭐ 683 | 2026-08-02 | 2026-09-07 |
@@ -230,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.256Z*
+*Last updated: 2026-10-07T21:01:53.379Z*

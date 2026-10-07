@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [yangyangwithgnu/use_vim_as_ide](../repos/yangyangwithgnu/use_vim_as_ide.md) | ⭐ 9,159 | 2026-09-07 | use vim as IDE |
 
+*No new VimL repositories in the last 30 days*
 
 ---
 
@@ -53,4 +51,4 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.363Z*
+*Last updated: 2026-10-07T21:01:53.486Z*

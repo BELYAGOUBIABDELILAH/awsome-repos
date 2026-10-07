@@ -16,40 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,274 | 2026-08-01 | 34 |
+| [bats-core/bats-core](../repos/bats-core/bats-core.md) | ⭐ 6,305 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,240 | 2026-08-04 | 19 |
+| [openshift/release](../repos/openshift/release.md) | ⭐ 330 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,537 | 2026-08-06 | 12 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,660 | 2026-08-07 | 24 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,674 | 2026-08-07 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) | ⭐ 4,845 | 2026-08-09 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,416 | 2026-08-11 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 7,610 | 2026-08-12 | 17 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [caido/caido](../repos/caido/caido.md) | ⭐ 2,658 | 2026-10-06 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [aquasecurity/trivy-action](../repos/aquasecurity/trivy-action.md) | ⭐ 1,431 | 2026-10-06 | 1 |
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,194 | 2026-08-19 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zhnnky329/MathModeling-skills](../repos/zhnnky329/MathModeling-skills.md) | ⭐ 1,023 | 2026-09-07 | 面向数学建模竞赛的 Claude Code &#x2F; Codex Skills ，支持分阶段建模流程与 Python、MATLAB&#x2F;北太天元代码分支。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,853 | 2026-09-08 | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources |
@@ -77,6 +62,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [higgsfield-ai/cli](../repos/higgsfield-ai/cli.md) | ⭐ 610 | 2026-09-19 | Higgsfield CLI |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [akitaonrails/distrobox-gaming](../repos/akitaonrails/distrobox-gaming.md) | ⭐ 303 | 2026-09-19 | Script to create a gaming focused Distrobox with all emulators pre-configured |
 
 
 ---
@@ -89,7 +77,7 @@
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,274 | 2026-08-01 | 34 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,417 | 2026-08-04 | 6 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,537 | 2026-08-06 | 12 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,761 | 2026-08-04 | 10 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 40,042 | 2026-08-29 | 3 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
@@ -113,13 +101,13 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 34 | ⭐ 95,274 | 2026-08-01 | 2026-10-06 |
-| [expo/skills](../repos/expo/skills.md) | 24 | ⭐ 2,660 | 2026-08-07 | 2026-10-06 |
+| [expo/skills](../repos/expo/skills.md) | 25 | ⭐ 2,674 | 2026-08-07 | 2026-10-07 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 19 | ⭐ 11,240 | 2026-08-04 | 2026-10-06 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 17 | ⭐ 7,610 | 2026-08-12 | 2026-10-06 |
+| [dockur/windows](../repos/dockur/windows.md) | 13 | ⭐ 53,550 | 2026-08-06 | 2026-10-07 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 12 | ⭐ 2,316 | 2026-08-02 | 2026-09-25 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 12 | ⭐ 2,975 | 2026-08-05 | 2026-10-03 |
-| [dockur/windows](../repos/dockur/windows.md) | 12 | ⭐ 53,537 | 2026-08-06 | 2026-10-06 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 11 | ⭐ 25,999 | 2026-08-04 | 2026-10-03 |
 | [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 11 | ⭐ 10,868 | 2026-08-07 | 2026-10-02 |
 
@@ -230,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.342Z*
+*Last updated: 2026-10-07T21:01:53.467Z*

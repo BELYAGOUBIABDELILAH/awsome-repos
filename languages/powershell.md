@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 53
+- **Total Repositories**: 54
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,435 | 2026-08-01 | 39 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,436 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,439 | 2026-08-01 | 24 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 924 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,084 | 2026-08-01 | 22 |
+| [meetrevision/playbook](../repos/meetrevision/playbook.md) | ⭐ 2,093 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 923 | 2026-08-01 | 32 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | ⭐ 1,648 | 2026-08-03 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,131 | 2026-08-03 | 10 |
+| [actions/python-versions](../repos/actions/python-versions.md) | ⭐ 242 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,090 | 2026-08-07 | 8 |
+| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,111 | 2026-08-06 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,699 | 2026-08-11 | 13 |
+| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,094 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SharePoint/sp-dev-docs](../repos/SharePoint/sp-dev-docs.md) | ⭐ 1,377 | 2026-08-15 | 7 |
+| [github/copilot-plugins](../repos/github/copilot-plugins.md) | ⭐ 371 | 2026-08-26 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,245 | 2026-09-02 | 10 |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,249 | 2026-09-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/finops-toolkit](../repos/microsoft/finops-toolkit.md) | ⭐ 609 | 2026-09-10 | 3 |
+| [MicrosoftDocs/power-platform](../repos/MicrosoftDocs/power-platform.md) | ⭐ 522 | 2026-09-04 | 4 |
 
 
 ---
@@ -71,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [secretGeek/AwesomeCSV](../repos/secretGeek/AwesomeCSV.md) | ⭐ 951 | 2026-09-24 | 🕶️A curated list of awesome tools for dealing with CSV. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/ARI](../repos/microsoft/ARI.md) | ⭐ 1,699 | 2026-10-07 | Azure Resource Inventory - It&#39;s a Powerful tool to create EXCEL inventory from Azure Resources wi... |
 
 
 ---
@@ -82,12 +85,12 @@
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,040 | 2026-08-02 | 8 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,435 | 2026-08-01 | 39 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,436 | 2026-08-01 | 40 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,083 | 2026-08-04 | 3 |
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,245 | 2026-09-02 | 10 |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,249 | 2026-09-02 | 11 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,131 | 2026-08-03 | 10 |
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,087 | 2026-08-06 | 13 |
+| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,111 | 2026-08-06 | 14 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,439 | 2026-08-01 | 24 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
@@ -98,7 +101,7 @@
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,699 | 2026-08-11 | 13 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,559 | 2026-08-04 | 8 |
 | [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,179 | 2026-08-19 | 8 |
-| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,090 | 2026-08-07 | 8 |
+| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,094 | 2026-08-07 | 9 |
 
 ---
 
@@ -106,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 39 | ⭐ 13,435 | 2026-08-01 | 2026-10-06 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 32 | ⭐ 923 | 2026-08-01 | 2026-10-06 |
-| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 27 | ⭐ 1,638 | 2026-08-03 | 2026-10-03 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 40 | ⭐ 13,436 | 2026-08-01 | 2026-10-07 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 33 | ⭐ 924 | 2026-08-01 | 2026-10-07 |
+| [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 28 | ⭐ 1,648 | 2026-08-03 | 2026-10-07 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 24 | ⭐ 8,439 | 2026-08-01 | 2026-10-06 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 22 | ⭐ 2,953 | 2026-08-01 | 2026-10-03 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 22 | ⭐ 6,084 | 2026-08-01 | 2026-10-06 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 20 | ⭐ 36,799 | 2026-08-01 | 2026-09-21 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 19 | ⭐ 1,513 | 2026-08-01 | 2026-10-03 |
 | [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 18 | ⭐ 465 | 2026-08-04 | 2026-09-25 |
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | 13 | ⭐ 9,087 | 2026-08-06 | 2026-10-02 |
+| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | 14 | ⭐ 9,111 | 2026-08-06 | 2026-10-07 |
 
 ---
 
@@ -174,7 +177,8 @@
 - [microsoft/sre-agent](../repos/microsoft/sre-agent.md) - Azure SRE Agent is an AI-powered reliability assistant that helps teams diagnose and resolve prod...
 - [CyberDrain/CIPP](../repos/CyberDrain/CIPP.md) - 
 - [secretGeek/AwesomeCSV](../repos/secretGeek/AwesomeCSV.md) - 🕶️A curated list of awesome tools for dealing with CSV.
+- [microsoft/ARI](../repos/microsoft/ARI.md) - Azure Resource Inventory - It&#39;s a Powerful tool to create EXCEL inventory from Azure Resources wi...
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.325Z*
+*Last updated: 2026-10-07T21:01:53.451Z*

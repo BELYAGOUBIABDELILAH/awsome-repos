@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Clojure |
 | **License** | Not specified |
-| **Stars** | ⭐ 3,963 |
-| **Forks** | 🍴 398 |
-| **Trending Days** | 42 |
+| **Stars** | ⭐ 3,966 |
+| **Forks** | 🍴 397 |
+| **Trending Days** | 43 |
 | **Peak Rank** | #13 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 6, 2026 |
+| **Last Seen** | Oct 7, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #13
-- **Trending Days**: 42
+- **Trending Days**: 43
 - **Longest Streak**: 11 days
 
 ---
@@ -73,7 +73,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:11.990Z*  
-*Data from 42 trending reports*
+*Last updated: 2026-10-07T21:01:56.921Z*  
+*Data from 43 trending reports*

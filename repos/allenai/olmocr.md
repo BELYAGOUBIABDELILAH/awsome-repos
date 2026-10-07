@@ -1,0 +1,95 @@
+# allenai&#x2F;olmocr
+
+> Toolkit for linearizing PDFs for LLM datasets&#x2F;training
+
+[View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;allenai&#x2F;olmocr) 
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Language** | Python |
+| **License** | Apache-2.0 |
+| **Stars** | ⭐ 19,723 |
+| **Forks** | 🍴 1,645 |
+| **Trending Days** | 1 |
+| **Peak Rank** | #N&#x2F;A |
+
+| **First Seen** | Oct 7, 2026 |
+| **Last Seen** | Oct 7, 2026 |
+
+
+---
+
+## Best For
+
+
+
+---
+
+## Works Great With
+
+*Ecosystem data coming soon*
+
+---
+
+## Alternatives
+
+*Similar: Check repositories in Python or similar-topics*
+
+---
+
+## Trending Timeline
+
+
+### Highlights
+
+- **Peak Rank**: #N&#x2F;A
+- **Trending Days**: 1
+- **Longest Streak**: 1 days
+
+---
+
+## Categories
+
+### Topics
+
+
+### Curated Categories
+`General` 
+
+---
+
+## Developer Card
+
+### Developer Card
+
+| Aspect | Rating | Details |
+|--------|--------|---------|
+| **Difficulty** | Beginner | Approachable with good examples |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
+| **Maturity** | Stable | Mature with proven track record |
+| **Maintenance** | Inactive | No recent updates |
+| **Learning Curve** | Medium | Moderate learning investment |
+
+#### Use Cases
+- General purpose
+
+#### Works Great With
+
+#### Alternatives
+- Check similar projects in Python
+
+#### Metrics
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 20&#x2F;100
+- **Historical Rank**: No ranking data
+
+
+---
+
+*Last updated: 2026-10-07T21:02:00.634Z*  
+*Data from 1 trending reports*

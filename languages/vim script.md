@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [altercation/solarized](../repos/altercation/solarized.md) | ⭐ 16,013 | 2026-09-07 | precision color scheme for multiple applications (terminal, vim, etc.) with both dark&#x2F;light modes |
 
+*No new Vim script repositories in the last 30 days*
 
 ---
 
@@ -62,4 +60,4 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.362Z*
+*Last updated: 2026-10-07T21:01:53.485Z*

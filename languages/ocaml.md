@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 22
+- **Total Repositories**: 23
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-03
 
@@ -16,10 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,147 | 2026-08-01 | 45 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,153 | 2026-08-01 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,410 | 2026-08-02 | 2 |
+| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,596 | 2026-08-01 | 30 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,922 | 2026-08-01 | 30 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,600 | 2026-08-01 | 43 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 902 | 2026-08-03 | 14 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,517 | 2026-08-07 | 19 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [mirage/mirage](../repos/mirage/mirage.md) | ⭐ 3,006 | 2026-10-07 | 1 |
 
 
 ---
@@ -32,6 +47,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rescript-lang/rescript](../repos/rescript-lang/rescript.md) | ⭐ 7,458 | 2026-10-03 | ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mirage/mirage](../repos/mirage/mirage.md) | ⭐ 3,006 | 2026-10-07 | MirageOS is a library operating system that constructs unikernels |
 
 
 ---
@@ -43,23 +61,23 @@
 | [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,715 | 2026-08-02 | 34 |
 | [rescript-lang/rescript](../repos/rescript-lang/rescript.md) | ⭐ 7,458 | 2026-10-03 | 1 |
 | [facebook/pyre-check](../repos/facebook/pyre-check.md) | ⭐ 7,171 | 2026-09-02 | 2 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,594 | 2026-08-01 | 42 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,600 | 2026-08-01 | 43 |
 | [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,265 | 2026-08-05 | 7 |
-| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,598 | 2026-08-01 | 29 |
-| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,508 | 2026-08-07 | 18 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,147 | 2026-08-01 | 45 |
+| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,596 | 2026-08-01 | 30 |
+| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,517 | 2026-08-07 | 19 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,153 | 2026-08-01 | 46 |
+| [mirage/mirage](../repos/mirage/mirage.md) | ⭐ 3,006 | 2026-10-07 | 1 |
 | [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,410 | 2026-08-02 | 2 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,122 | 2026-08-01 | 27 |
-| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,921 | 2026-08-01 | 29 |
+| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,922 | 2026-08-01 | 30 |
 | [savonet/liquidsoap](../repos/savonet/liquidsoap.md) | ⭐ 1,722 | 2026-08-10 | 2 |
 | [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,383 | 2026-08-01 | 13 |
 | [janestreet/bonsai](../repos/janestreet/bonsai.md) | ⭐ 1,381 | 2026-08-05 | 3 |
 | [stategraph/stategraph](../repos/stategraph/stategraph.md) | ⭐ 1,283 | 2026-08-09 | 2 |
 | [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,006 | 2026-08-01 | 26 |
 | [ocaml/ocaml-lsp](../repos/ocaml/ocaml-lsp.md) | ⭐ 909 | 2026-08-06 | 3 |
-| [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 898 | 2026-08-03 | 13 |
+| [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 902 | 2026-08-03 | 14 |
 | [caffeinelabs/motoko](../repos/caffeinelabs/motoko.md) | ⭐ 588 | 2026-08-01 | 5 |
-| [cryspen/hax](../repos/cryspen/hax.md) | ⭐ 464 | 2026-08-03 | 3 |
 
 ---
 
@@ -67,16 +85,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 45 | ⭐ 3,147 | 2026-08-01 | 2026-10-06 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 42 | ⭐ 6,594 | 2026-08-01 | 2026-10-03 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 46 | ⭐ 3,153 | 2026-08-01 | 2026-10-07 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 43 | ⭐ 6,600 | 2026-08-01 | 2026-10-07 |
 | [facebook/infer](../repos/facebook/infer.md) | 34 | ⭐ 15,715 | 2026-08-02 | 2026-10-03 |
-| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 29 | ⭐ 5,598 | 2026-08-01 | 2026-10-03 |
-| [ocaml/dune](../repos/ocaml/dune.md) | 29 | ⭐ 1,921 | 2026-08-01 | 2026-10-03 |
+| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 30 | ⭐ 5,596 | 2026-08-01 | 2026-10-07 |
+| [ocaml/dune](../repos/ocaml/dune.md) | 30 | ⭐ 1,922 | 2026-08-01 | 2026-10-07 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 27 | ⭐ 2,122 | 2026-08-01 | 2026-10-03 |
 | [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 26 | ⭐ 1,006 | 2026-08-01 | 2026-10-03 |
 | [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | 24 | ⭐ 59 | 2026-08-01 | 2026-08-29 |
-| [bcpierce00/unison](../repos/bcpierce00/unison.md) | 18 | ⭐ 5,508 | 2026-08-07 | 2026-10-03 |
-| [ocaml/opam](../repos/ocaml/opam.md) | 13 | ⭐ 1,383 | 2026-08-01 | 2026-10-02 |
+| [bcpierce00/unison](../repos/bcpierce00/unison.md) | 19 | ⭐ 5,517 | 2026-08-07 | 2026-10-07 |
+| [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | 14 | ⭐ 902 | 2026-08-03 | 2026-10-07 |
 
 ---
 
@@ -104,7 +122,8 @@
 - [facebook/pyre-check](../repos/facebook/pyre-check.md) - Performant type-checking for python.
 - [xapi-project/xen-api](../repos/xapi-project/xen-api.md) - The Xapi Project&#39;s XenAPI Server
 - [rescript-lang/rescript](../repos/rescript-lang/rescript.md) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
+- [mirage/mirage](../repos/mirage/mirage.md) - MirageOS is a library operating system that constructs unikernels
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.312Z*
+*Last updated: 2026-10-07T21:01:53.442Z*

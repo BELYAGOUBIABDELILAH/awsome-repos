@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 150
+- **Total Repositories**: 151
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-02
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 6,385 | 2026-08-02 | 9 |
+| [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 376 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqssun/android-airplay-server](../repos/jqssun/android-airplay-server.md) | ⭐ 489 | 2026-08-07 | 2 |
+| [bmax121/APatch](../repos/bmax121/APatch.md) | ⭐ 8,014 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) | ⭐ 7,739 | 2026-08-11 | 4 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,486 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,566 | 2026-09-07 | 7 |
+| [jqssun/android-airplay-server](../repos/jqssun/android-airplay-server.md) | ⭐ 519 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 1,596 | 2026-10-01 | 4 |
+| [rushiranpise/morphe-patches](../repos/rushiranpise/morphe-patches.md) | ⭐ 833 | 2026-08-08 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agupta07505/SmartIsland](../repos/agupta07505/SmartIsland.md) | ⭐ 253 | 2026-10-02 | 2 |
+| [torlando-tech/columba](../repos/torlando-tech/columba.md) | ⭐ 1,206 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 743 | 2026-10-06 | 1 |
+| [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) | ⭐ 7,749 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 3,807 | 2026-10-06 | 1 |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,614 | 2026-09-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ahXN00/OwnTV](../repos/ahXN00/OwnTV.md) | ⭐ 492 | 2026-10-06 | 1 |
+| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 826 | 2026-10-06 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 3,881 | 2026-10-06 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Mygod/VPNHotspot](../repos/Mygod/VPNHotspot.md) | ⭐ 6,415 | 2026-09-07 | Share your VPN connection over hotspot or repeater! (root required) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,566 | 2026-09-07 | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin&#x2F;Compose Multiplatform |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [IacobIonut01/ReFra](../repos/IacobIonut01/ReFra.md) | ⭐ 2,845 | 2026-09-08 | Media Gallery app for Android made with Jetpack Compose |
@@ -77,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zacharee/InstallWithOptions](../repos/zacharee/InstallWithOptions.md) | ⭐ 3,266 | 2026-09-21 | Simple-ish app using Shizuku to install APKs on-device with advanced options |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [aquamarine5/ChaoxingSignFaker](../repos/aquamarine5/ChaoxingSignFaker.md) | ⭐ 566 | 2026-09-24 | 伪造学习通的签到活动🙋学习通签到神器。支持滑动验证码签到、签退、人脸识别功能，支持自定义位置签到、动态二维码签到、自选照片进行拍照签到等全部签到形式以及给其他用户无限代签的功能 Falsify... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tasks/tasks](../repos/tasks/tasks.md) | ⭐ 5,609 | 2026-09-27 | Bringing Astrid Tasks back from the dead |
 
 
 ---
@@ -88,7 +91,7 @@
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 63,426 | 2026-08-02 | 16 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,060 | 2026-08-03 | 13 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,585 | 2026-08-06 | 13 |
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,402 | 2026-08-04 | 10 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,486 | 2026-08-04 | 11 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 42,218 | 2026-08-03 | 10 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,980 | 2026-08-08 | 16 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,338 | 2026-08-05 | 5 |
@@ -98,7 +101,7 @@
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,872 | 2026-08-02 | 5 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,852 | 2026-08-01 | 7 |
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,566 | 2026-09-07 | 7 |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,614 | 2026-09-07 | 8 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,231 | 2026-08-17 | 5 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,917 | 2026-08-02 | 9 |
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.300Z*
+*Last updated: 2026-10-07T21:01:53.430Z*

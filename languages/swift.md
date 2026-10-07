@@ -16,46 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,362 | 2026-08-01 | 7 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 12,666 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 27,671 | 2026-08-01 | 15 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 27,804 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,687 | 2026-08-01 | 12 |
+| [sozercan/kaset](../repos/sozercan/kaset.md) | ⭐ 2,360 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,108 | 2026-08-03 | 3 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,893 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,951 | 2026-08-04 | 16 |
+| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,319 | 2026-08-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,533 | 2026-08-04 | 12 |
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,480 | 2026-08-12 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mozilla-mobile/firefox-ios](../repos/mozilla-mobile/firefox-ios.md) | ⭐ 13,052 | 2026-08-05 | 2 |
+| [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,552 | 2026-09-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,453 | 2026-08-12 | 9 |
+| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,768 | 2026-09-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lab421/forel](../repos/lab421/forel.md) | ⭐ 707 | 2026-10-06 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ggml-org/Llama-macOS](../repos/ggml-org/Llama-macOS.md) | ⭐ 1,563 | 2026-10-06 | 1 |
+| [ggml-org/Llama-macOS](../repos/ggml-org/Llama-macOS.md) | ⭐ 1,573 | 2026-10-06 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Manic-EMU/ManicEMU](../repos/Manic-EMU/ManicEMU.md) | ⭐ 524 | 2026-09-07 | Manic EMU is an all-in-one retro game emulator for iOS. It packs powerful features while keeping ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PlayCover/PlayCover](../repos/PlayCover/PlayCover.md) | ⭐ 11,797 | 2026-09-07 | Community fork of PlayCover |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [uzairansaruzi/hermex](../repos/uzairansaruzi/hermex.md) | ⭐ 1,415 | 2026-09-08 | Native iPhone app for your Hermes agent |
@@ -80,6 +71,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nightscout/Trio](../repos/nightscout/Trio.md) | ⭐ 389 | 2026-09-14 | Trio - an automated insulin delivery system for iOS based on the OpenAPS algorithm with adaptations. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [karansinghgit/speaktype](../repos/karansinghgit/speaktype.md) | ⭐ 499 | 2026-09-19 | 100% offline, open-source, Voice Dictation app on any OS |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rooootdev/mond](../repos/rooootdev/mond.md) | ⭐ 641 | 2026-09-20 | Edit MobileGestalt on iOS 27.0 beta 1 - 4! |
 
 
 ---
@@ -89,13 +86,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,451 | 2026-08-05 | 15 |
-| [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,508 | 2026-09-04 | 2 |
+| [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,552 | 2026-09-04 | 3 |
 | [apple/container](../repos/apple/container.md) | ⭐ 50,393 | 2026-08-01 | 16 |
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,453 | 2026-08-12 | 9 |
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,480 | 2026-08-12 | 10 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 27,997 | 2026-08-04 | 4 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 27,671 | 2026-08-01 | 15 |
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,890 | 2026-08-04 | 11 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 27,804 | 2026-08-01 | 16 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,893 | 2026-08-04 | 12 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
 | [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,536 | 2026-08-12 | 7 |
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
@@ -115,15 +112,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 21 | ⭐ 12,508 | 2026-08-01 | 2026-09-29 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 22 | ⭐ 12,666 | 2026-08-01 | 2026-10-07 |
 | [apple/container](../repos/apple/container.md) | 16 | ⭐ 50,393 | 2026-08-01 | 2026-09-29 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 16 | ⭐ 27,804 | 2026-08-01 | 2026-10-07 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 16 | ⭐ 14,951 | 2026-08-04 | 2026-10-06 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 15 | ⭐ 27,671 | 2026-08-01 | 2026-10-06 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 15 | ⭐ 70,451 | 2026-08-05 | 2026-10-02 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 12 | ⭐ 3,687 | 2026-08-01 | 2026-10-06 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 12 | ⭐ 9,138 | 2026-08-02 | 2026-10-03 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 12 | ⭐ 8,533 | 2026-08-04 | 2026-10-06 |
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 11 | ⭐ 26,890 | 2026-08-04 | 2026-09-29 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 12 | ⭐ 26,893 | 2026-08-04 | 2026-10-07 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 10 | ⭐ 6,487 | 2026-08-01 | 2026-09-20 |
 
 ---
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.346Z*
+*Last updated: 2026-10-07T21:01:53.472Z*

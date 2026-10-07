@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 54,323 |
-| **Forks** | 🍴 3,121 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 55,018 |
+| **Forks** | 🍴 3,156 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 29, 2026 |
-| **Last Seen** | Oct 6, 2026 |
+| **Last Seen** | Oct 7, 2026 |
 
 
 ---
@@ -47,11 +47,12 @@
 **Sep 9, 2026** — Rank #1 (+4624 ⭐)  
 **Sep 10, 2026** — Rank #1 (+3854 ⭐)  
 **Oct 6, 2026** — Rank #7 (+318 ⭐)  
+**Oct 7, 2026** — Rank #4 (+620 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 3 days
 
 ---
@@ -76,7 +77,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -95,5 +96,5 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:18.007Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-10-07T21:01:59.406Z*  
+*Data from 8 trending reports*

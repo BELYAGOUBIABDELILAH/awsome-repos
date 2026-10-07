@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 26,717 |
-| **Forks** | 🍴 1,745 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 26,730 |
+| **Forks** | 🍴 1,746 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 6, 2026 |
-| **Last Seen** | Oct 6, 2026 |
+| **Last Seen** | Oct 7, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 4 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:18.400Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-10-07T21:01:59.753Z*  
+*Data from 13 trending reports*

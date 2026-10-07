@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 25,142 | 2026-08-01 | 36 |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,027 | 2026-10-02 | 3 |
 
 
 ---
@@ -25,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,025 | 2026-10-02 | Ultra quick message queue and streaming server |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,027 | 2026-10-02 | Ultra quick message queue and streaming server |
 
 
 ---
@@ -36,7 +36,7 @@
 |------------|-------|------------|---------------|
 | [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 25,142 | 2026-08-01 | 36 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,444 | 2026-08-06 | 7 |
-| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,025 | 2026-10-02 | 2 |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,027 | 2026-10-02 | 3 |
 
 ---
 
@@ -46,7 +46,7 @@
 |------------|---------------|-------|------------|-----------|
 | [iv-org/invidious](../repos/iv-org/invidious.md) | 36 | ⭐ 25,142 | 2026-08-01 | 2026-10-06 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | 7 | ⭐ 1,444 | 2026-08-06 | 2026-10-02 |
-| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | 2 | ⭐ 1,025 | 2026-10-02 | 2026-10-03 |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | 3 | ⭐ 1,027 | 2026-10-02 | 2026-10-07 |
 
 ---
 
@@ -58,4 +58,4 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.265Z*
+*Last updated: 2026-10-07T21:01:53.391Z*

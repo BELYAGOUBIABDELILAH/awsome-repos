@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 100
+- **Total Repositories**: 101
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-06
 
@@ -16,37 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 22,554 | 2026-08-01 | 7 |
+| [ultrasecurity/Storm-Breaker](../repos/ultrasecurity/Storm-Breaker.md) | ⭐ 6,087 | 2026-08-29 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,914 | 2026-08-03 | 17 |
+| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,395 | 2026-09-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Commando-X/vuln-bank](../repos/Commando-X/vuln-bank.md) | ⭐ 968 | 2026-08-05 | 4 |
+| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,149 | 2026-09-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [davidarroyo1234/InstagramUnfollowers](../repos/davidarroyo1234/InstagramUnfollowers.md) | ⭐ 4,922 | 2026-08-26 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [openshift/openshift-docs](../repos/openshift/openshift-docs.md) | ⭐ 882 | 2026-08-28 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ultrasecurity/Storm-Breaker](../repos/ultrasecurity/Storm-Breaker.md) | ⭐ 6,084 | 2026-08-29 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [dequelabs/axe-core](../repos/dequelabs/axe-core.md) | ⭐ 7,605 | 2026-10-03 | 2 |
+| [pedrohcgs/claude-code-my-workflow](../repos/pedrohcgs/claude-code-my-workflow.md) | ⭐ 1,644 | 2026-10-07 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [munificent/craftinginterpreters](../repos/munificent/craftinginterpreters.md) | ⭐ 11,047 | 2026-09-07 | Repository for the book &quot;Crafting Interpreters&quot; |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [aoaostar/legado](../repos/aoaostar/legado.md) | ⭐ 6,325 | 2026-09-07 | 阅读APP书源 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [omacom/omarchy-site](../repos/omacom/omarchy-site.md) | ⭐ 77 | 2026-09-08 | Beautiful, Modern &amp; Opinionated Linux by DHH |
@@ -71,6 +56,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 16,343 | 2026-09-14 | AI 时代的伯克希尔：基于 Claude Code &#x2F; Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,395 | 2026-09-19 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [github/opensource.guide](../repos/github/opensource.guide.md) | ⭐ 15,706 | 2026-09-19 | 📚 Community guides for open source creators |
 
 
 ---
@@ -224,4 +215,4 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.285Z*
+*Last updated: 2026-10-07T21:01:53.414Z*

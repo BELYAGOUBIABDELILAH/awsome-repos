@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [deepseek-ai/DeepGEMM](../repos/deepseek-ai/DeepGEMM.md) | ⭐ 8,657 | 2026-10-06 | 1 |
 
+*No Cuda repositories trending today*
 
 ---
 
@@ -52,4 +50,4 @@
 
 ---
 
-*Last updated: 2026-10-06T21:02:08.266Z*
+*Last updated: 2026-10-07T21:01:53.393Z*
