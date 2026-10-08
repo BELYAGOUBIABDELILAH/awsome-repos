@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 42,218 |
-| **Forks** | 🍴 1,998 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 42,607 |
+| **Forks** | 🍴 2,024 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Sep 25, 2026 |
+| **Last Seen** | Oct 8, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 3 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`accessibility`](../../topics/accessibility.md) [`android`](../../topics/android.md) [`auto`](../../topics/auto.md) [`click`](../../topics/click.md) [`compose`](../../topics/compose.md) [`jetpack-compose`](../../topics/jetpack-compose.md) [`kotlin`](../../topics/kotlin.md) [`kotlin-js`](../../topics/kotlin-js.md) [`kotlin-multiplatform`](../../topics/kotlin-multiplatform.md) [`webassembly`](../../topics/webassembly.md) 
+[`accessibility`](../../topics/accessibility.md) [`android`](../../topics/android.md) [`auto`](../../topics/auto.md) [`click`](../../topics/click.md) [`compose`](../../topics/compose.md) [`compose-multiplatform`](../../topics/compose-multiplatform.md) [`jetpack-compose`](../../topics/jetpack-compose.md) [`kotlin`](../../topics/kotlin.md) [`kotlin-js`](../../topics/kotlin-js.md) [`kotlin-multiplatform`](../../topics/kotlin-multiplatform.md) [`webassembly`](../../topics/webassembly.md) 
 
 ### Curated Categories
 `Web Development` `Mobile Development` `Systems Programming` `Developer Tools` 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:57.147Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-10-08T21:01:48.343Z*  
+*Data from 11 trending reports*

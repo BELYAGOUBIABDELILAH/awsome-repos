@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 335
+**Gems Found**: 330
 
 ---
 
@@ -71,27 +71,7 @@
 
 ---
 
-### 4. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
-
-**Open-source framework for the research and development of foundation models.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,876 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 84/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 24, 2026 |
-
-**Why it's a gem**: High growth velocity (+529 stars&#x2F;day) • Trending 5 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/marin-community/marin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;marin-community&#x2F;marin)
-
----
-
-### 5. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+### 4. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
 
 **GitHub Stacked PRs**
 
@@ -111,7 +91,7 @@
 
 ---
 
-### 6. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+### 5. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
 
 **OCTO Android Client — Open-source enterprise IM**
 
@@ -131,6 +111,26 @@
 
 ---
 
+### 6. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
+
+**Open-source framework for the research and development of foundation models.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,876 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 83/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 24, 2026 |
+
+**Why it's a gem**: High growth velocity (+529 stars&#x2F;day) • Trending 5 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/marin-community/marin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;marin-community&#x2F;marin)
+
+---
+
 ### 7. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
 
 **Help AI coding agents write modern Go**
@@ -139,7 +139,7 @@
 |---|---|
 | ⭐ **Stars** | 2,846 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 83/100 |
+| 🏆 **Gem Score** | 82/100 |
 | 📈 **Trending Days** | 3 |
 | 📅 **First Seen** | Aug 27, 2026 |
 
@@ -191,27 +191,7 @@
 
 ---
 
-### 10. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
-
-**Mission control for your AI agents**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 477 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 81/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 26, 2026 |
-
-**Why it's a gem**: High growth velocity (+86 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/RizRiyz/luvus.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;RizRiyz&#x2F;luvus)
-
----
-
-### 11. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
+### 10. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
 
 **BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
 
@@ -228,6 +208,26 @@
 **Best for**: 
 
 [View Passport](../../repos/booklore-app/booklore.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;booklore-app&#x2F;booklore)
+
+---
+
+### 11. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
+
+**Mission control for your AI agents**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 477 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 80/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 26, 2026 |
+
+**Why it's a gem**: High growth velocity (+86 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/RizRiyz/luvus.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;RizRiyz&#x2F;luvus)
 
 ---
 
@@ -291,27 +291,7 @@
 
 ---
 
-### 15. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
-
-**A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,454 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 79/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+416 stars&#x2F;day) • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/Tencent/AI-Infra-Guard.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tencent&#x2F;AI-Infra-Guard)
-
----
-
-### 16. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+### 15. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
 
 **Portable Tool for an Ideal Windows Setup**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [workweave&#x2F;router](../../repos/workweave/router.md)
+### 16. [workweave&#x2F;router](../../repos/workweave/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -351,7 +331,7 @@
 
 ---
 
-### 18. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
+### 17. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
 
 **Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
+### 18. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
 
 **The coding agent that answers to you, your model, your machine, your rules.**
 
@@ -388,6 +368,26 @@
 **Best for**: 
 
 [View Passport](../../repos/Gitlawb/zero.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Gitlawb&#x2F;zero)
+
+---
+
+### 19. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
+
+**A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,454 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 78/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+416 stars&#x2F;day) • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/Tencent/AI-Infra-Guard.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tencent&#x2F;AI-Infra-Guard)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-07T21:02:00.948Z*  
+*Generated: 2026-10-08T21:01:50.950Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

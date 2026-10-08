@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:02:01.128Z",
+  "generated_at": "2026-10-08T21:01:51.077Z",
   "total_count": 100,
   "repositories": [
     {
@@ -177,10 +177,10 @@
       "full_name": "ollama/ollama",
       "owner": "ollama",
       "name": "ollama",
-      "stars": 182488,
+      "stars": 182406,
       "language": "Go",
       "first_seen": "2026-08-01",
-      "trending_days": 17
+      "trending_days": 18
     },
     {
       "rank": 19,
@@ -247,10 +247,10 @@
       "full_name": "Genymobile/scrcpy",
       "owner": "Genymobile",
       "name": "scrcpy",
-      "stars": 151563,
+      "stars": 151549,
       "language": "C",
       "first_seen": "2026-08-07",
-      "trending_days": 15
+      "trending_days": 16
     },
     {
       "rank": 26,
@@ -367,10 +367,10 @@
       "full_name": "ggml-org/llama.cpp",
       "owner": "ggml-org",
       "name": "llama.cpp",
-      "stars": 130498,
+      "stars": 130537,
       "language": "C++",
       "first_seen": "2026-08-01",
-      "trending_days": 27
+      "trending_days": 28
     },
     {
       "rank": 38,
@@ -614,6 +614,16 @@
     },
     {
       "rank": 62,
+      "full_name": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "stars": 103340,
+      "language": "JavaScript",
+      "first_seen": "2026-08-05",
+      "trending_days": 27
+    },
+    {
+      "rank": 63,
       "full_name": "react/create-react-app",
       "owner": "react",
       "name": "create-react-app",
@@ -621,16 +631,6 @@
       "language": "JavaScript",
       "first_seen": "2026-08-06",
       "trending_days": 1
-    },
-    {
-      "rank": 63,
-      "full_name": "addyosmani/agent-skills",
-      "owner": "addyosmani",
-      "name": "agent-skills",
-      "stars": 102703,
-      "language": "JavaScript",
-      "first_seen": "2026-08-05",
-      "trending_days": 26
     },
     {
       "rank": 64,
@@ -864,6 +864,16 @@
     },
     {
       "rank": 87,
+      "full_name": "koala73/worldmonitor",
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "stars": 88062,
+      "language": "TypeScript",
+      "first_seen": "2026-08-28",
+      "trending_days": 3
+    },
+    {
+      "rank": 88,
       "full_name": "OpenHands/OpenHands",
       "owner": "OpenHands",
       "name": "OpenHands",
@@ -871,16 +881,6 @@
       "language": "TypeScript",
       "first_seen": "2026-08-14",
       "trending_days": 3
-    },
-    {
-      "rank": 88,
-      "full_name": "koala73/worldmonitor",
-      "owner": "koala73",
-      "name": "worldmonitor",
-      "stars": 86970,
-      "language": "TypeScript",
-      "first_seen": "2026-08-28",
-      "trending_days": 2
     },
     {
       "rank": 89,
@@ -907,13 +907,23 @@
       "full_name": "tonsky/FiraCode",
       "owner": "tonsky",
       "name": "FiraCode",
-      "stars": 82084,
+      "stars": 82087,
       "language": "Clojure",
       "first_seen": "2026-08-01",
-      "trending_days": 43
+      "trending_days": 44
     },
     {
       "rank": 92,
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "stars": 81709,
+      "language": "Java",
+      "first_seen": "2026-08-03",
+      "trending_days": 19
+    },
+    {
+      "rank": 93,
       "full_name": "spring-projects/spring-boot",
       "owner": "spring-projects",
       "name": "spring-boot",
@@ -921,16 +931,6 @@
       "language": "Java",
       "first_seen": "2026-08-04",
       "trending_days": 15
-    },
-    {
-      "rank": 93,
-      "full_name": "NationalSecurityAgency/ghidra",
-      "owner": "NationalSecurityAgency",
-      "name": "ghidra",
-      "stars": 81382,
-      "language": "Java",
-      "first_seen": "2026-08-03",
-      "trending_days": 18
     },
     {
       "rank": 94,

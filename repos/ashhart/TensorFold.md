@@ -1,6 +1,6 @@
 # ashhart&#x2F;TensorFold
 
-> Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint
+> LLM Inference Engine for Metal, CUDA and Vulkan.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;ashhart&#x2F;TensorFold) 
 
@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Python |
-| **License** | MIT |
-| **Stars** | ⭐ 551 |
-| **Forks** | 🍴 57 |
-| **Trending Days** | 1 |
+| **Language** | Zig |
+| **License** | Apache-2.0 |
+| **Stars** | ⭐ 1,115 |
+| **Forks** | 🍴 192 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 28, 2026 |
-| **Last Seen** | Sep 28, 2026 |
+| **Last Seen** | Oct 8, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Python or ai*
+*Similar: Check repositories in Zig or ai*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Python
+- Check similar projects in Zig
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-07T21:02:00.440Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-08T21:01:50.574Z*  
+*Data from 2 trending reports*

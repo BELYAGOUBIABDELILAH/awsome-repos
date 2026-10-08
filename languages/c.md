@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 213
+- **Total Repositories**: 214
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-07
+- **Last Updated**: 2026-10-08
 
 ---
 
@@ -16,49 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DarkFlippers/unleashed-firmware](../repos/DarkFlippers/unleashed-firmware.md) | ⭐ 22,458 | 2026-08-01 | 7 |
+| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,757 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mimalloc](../repos/microsoft/mimalloc.md) | ⭐ 13,441 | 2026-08-04 | 8 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 46,160 | 2026-08-07 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [portapack-mayhem/mayhem-firmware](../repos/portapack-mayhem/mayhem-firmware.md) | ⭐ 5,459 | 2026-08-04 | 7 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,549 | 2026-08-07 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,706 | 2026-08-06 | 21 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,997 | 2026-08-07 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,563 | 2026-08-07 | 15 |
+| [EpicGames/raddebugger](../repos/EpicGames/raddebugger.md) | ⭐ 8,081 | 2026-08-08 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 27,995 | 2026-08-07 | 18 |
+| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 4,589 | 2026-08-15 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EpicGames/raddebugger](../repos/EpicGames/raddebugger.md) | ⭐ 7,826 | 2026-08-08 | 9 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 40,543 | 2026-09-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) | ⭐ 15,706 | 2026-08-15 | 7 |
+| [winsiderss/systeminformer](../repos/winsiderss/systeminformer.md) | ⭐ 16,193 | 2026-09-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 40,292 | 2026-09-01 | 13 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [libarchive/libarchive](../repos/libarchive/libarchive.md) | ⭐ 3,630 | 2026-09-06 | 2 |
+| [WeebLabs/DSPi](../repos/WeebLabs/DSPi.md) | ⭐ 1,312 | 2026-10-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [armory3d/armorpaint](../repos/armory3d/armorpaint.md) | ⭐ 5,265 | 2026-09-08 | Graphics Creation Tools |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [doldecomp/melee](../repos/doldecomp/melee.md) | ⭐ 2,084 | 2026-09-08 | A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openwall/john](../repos/openwall/john.md) | ⭐ 13,611 | 2026-09-08 | John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and ci... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [xiph/rnnoise](../repos/xiph/rnnoise.md) | ⭐ 5,830 | 2026-09-09 | Recurrent neural network for audio noise reduction |
@@ -80,6 +68,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [johnfanv2/LenovoLegionLinux](../repos/johnfanv2/LenovoLegionLinux.md) | ⭐ 3,366 | 2026-09-13 | Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power m... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apache/nuttx](../repos/apache/nuttx.md) | ⭐ 4,031 | 2026-09-13 | Apache NuttX is a mature, real-time embedded operating system (RTOS) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jemalloc/jemalloc](../repos/jemalloc/jemalloc.md) | ⭐ 11,168 | 2026-09-13 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [openshwprojects/OpenBK7231T_App](../repos/openshwprojects/OpenBK7231T_App.md) | ⭐ 2,285 | 2026-09-13 | Open source firmware (Tasmota&#x2F;Esphome replacement) for BK7231T, BK7231N, BL2028N, T34, XR809, W80... |
 
 
 ---
@@ -88,16 +85,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,563 | 2026-08-07 | 15 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,549 | 2026-08-07 | 16 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,143 | 2026-08-01 | 19 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,470 | 2026-08-24 | 3 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 76,742 | 2026-08-02 | 15 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 73,118 | 2026-08-01 | 22 |
 | [git/git](../repos/git/git.md) | ⭐ 63,555 | 2026-08-05 | 7 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 45,482 | 2026-08-07 | 20 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 46,160 | 2026-08-07 | 21 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 40,543 | 2026-09-01 | 14 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,420 | 2026-08-01 | 8 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 40,292 | 2026-09-01 | 13 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,692 | 2026-08-04 | 9 |
@@ -118,13 +115,13 @@
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 | ⭐ 16,829 | 2026-08-01 | 2026-10-01 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 22 | ⭐ 73,118 | 2026-08-01 | 2026-10-03 |
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 21 | ⭐ 16,706 | 2026-08-06 | 2026-10-07 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 20 | ⭐ 45,482 | 2026-08-07 | 2026-09-29 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 21 | ⭐ 46,160 | 2026-08-07 | 2026-10-08 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 19 | ⭐ 139,143 | 2026-08-01 | 2026-10-01 |
-| [facebook/zstd](../repos/facebook/zstd.md) | 18 | ⭐ 27,995 | 2026-08-07 | 2026-10-07 |
+| [facebook/zstd](../repos/facebook/zstd.md) | 19 | ⭐ 27,997 | 2026-08-07 | 2026-10-08 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 17 | ⭐ 6,981 | 2026-08-04 | 2026-10-03 |
+| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 16 | ⭐ 151,549 | 2026-08-07 | 2026-10-08 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 15 | ⭐ 76,742 | 2026-08-02 | 2026-09-28 |
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 15 | ⭐ 151,563 | 2026-08-07 | 2026-10-07 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 13 | ⭐ 40,292 | 2026-09-01 | 2026-10-07 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 14 | ⭐ 40,543 | 2026-09-01 | 2026-10-08 |
 
 ---
 
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.369Z*
+*Last updated: 2026-10-08T21:01:46.322Z*

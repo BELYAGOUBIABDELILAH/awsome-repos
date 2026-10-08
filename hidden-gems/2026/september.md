@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 545
+**Gems Found**: 529
 
 ---
 
@@ -171,27 +171,7 @@
 
 ---
 
-### 9. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
-
-**Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 7,722 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+69 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/chenyme/grok2api.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chenyme&#x2F;grok2api)
-
----
-
-### 10. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
+### 9. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
 **Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
@@ -211,7 +191,7 @@
 
 ---
 
-### 11. [apache&#x2F;maka](../../repos/apache/maka.md)
+### 10. [apache&#x2F;maka](../../repos/apache/maka.md)
 
 **Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
 
@@ -231,7 +211,7 @@
 
 ---
 
-### 12. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+### 11. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
 
 **Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
 
@@ -251,7 +231,7 @@
 
 ---
 
-### 13. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
+### 12. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
 
 **Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
 
@@ -271,7 +251,7 @@
 
 ---
 
-### 14. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+### 13. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
 
 **Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
 
@@ -288,6 +268,26 @@
 **Best for**: 
 
 [View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
+
+---
+
+### 14. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+
+**Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,722 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+69 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/chenyme/grok2api.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chenyme&#x2F;grok2api)
 
 ---
 
@@ -311,27 +311,7 @@
 
 ---
 
-### 16. [feigeCode&#x2F;navop](../../repos/feigeCode/navop.md)
-
-**A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,709 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Sep 10, 2026 |
-
-**Why it's a gem**: High growth velocity (+54 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/feigeCode/navop.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;feigeCode&#x2F;navop)
-
----
-
-### 17. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
+### 16. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
 
 **The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
 
@@ -343,11 +323,31 @@
 | 📈 **Trending Days** | 4 |
 | 📅 **First Seen** | Aug 6, 2026 |
 
-**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 4 times • Strong community engagement
 
 **Best for**: 
 
 [View Passport](../../repos/KnockOutEZ/wigolo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;KnockOutEZ&#x2F;wigolo)
+
+---
+
+### 17. [feigeCode&#x2F;navop](../../repos/feigeCode/navop.md)
+
+**A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,709 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+54 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/feigeCode/navop.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;feigeCode&#x2F;navop)
 
 ---
 
@@ -391,23 +391,23 @@
 
 ---
 
-### 20. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
+### 20. [chuspeeism&#x2F;dashi-ppt-skill](../../repos/chuspeeism/dashi-ppt-skill.md)
 
-**The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.**
+**An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,342 |
-| 💻 **Language** | Go |
+| ⭐ **Stars** | 8,880 |
+| 💻 **Language** | JavaScript |
 | 🏆 **Gem Score** | 87/100 |
 | 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| 📅 **First Seen** | Aug 20, 2026 |
 
-**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 5 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+125 stars&#x2F;day) • Trending 5 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/Ed1s0nZ/CyberStrikeAI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Ed1s0nZ&#x2F;CyberStrikeAI)
+[View Passport](../../repos/chuspeeism/dashi-ppt-skill.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chuspeeism&#x2F;dashi-ppt-skill)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-07T21:02:00.938Z*  
+*Generated: 2026-10-08T21:01:50.942Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

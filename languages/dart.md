@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 98
+- **Total Repositories**: 99
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-07
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,363 | 2026-08-01 | 39 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 32,677 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 16,092 | 2026-08-01 | 21 |
+| [UnboundTechCo/defyxVPN](../repos/UnboundTechCo/defyxVPN.md) | ⭐ 825 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 31,544 | 2026-08-01 | 34 |
+| [kodjodevf/mangayomi](../repos/kodjodevf/mangayomi.md) | ⭐ 4,028 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [UnboundTechCo/defyxVPN](../repos/UnboundTechCo/defyxVPN.md) | ⭐ 818 | 2026-08-01 | 4 |
+| [krille-chan/fluffychat](../repos/krille-chan/fluffychat.md) | ⭐ 3,198 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 19,170 | 2026-08-02 | 32 |
+| [Predidit/KazumiRules](../repos/Predidit/KazumiRules.md) | ⭐ 2,211 | 2026-08-10 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 93,607 | 2026-08-02 | 23 |
+| [deretame/Breeze](../repos/deretame/Breeze.md) | ⭐ 2,773 | 2026-08-17 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kodjodevf/mangayomi](../repos/kodjodevf/mangayomi.md) | ⭐ 3,994 | 2026-08-02 | 13 |
+| [InlitX/streak](../repos/InlitX/streak.md) | ⭐ 777 | 2026-08-23 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anxcye/anx-reader](../repos/Anxcye/anx-reader.md) | ⭐ 8,926 | 2026-08-04 | 12 |
+| [DonutWare/Fladder](../repos/DonutWare/Fladder.md) | ⭐ 2,636 | 2026-08-25 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krille-chan/fluffychat](../repos/krille-chan/fluffychat.md) | ⭐ 3,193 | 2026-08-05 | 11 |
+| [RyanYuuki/AnymeX](../repos/RyanYuuki/AnymeX.md) | ⭐ 1,247 | 2026-09-28 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Predidit/KazumiRules](../repos/Predidit/KazumiRules.md) | ⭐ 2,183 | 2026-08-10 | 4 |
+| [ComicSparks/jasmine](../repos/ComicSparks/jasmine.md) | ⭐ 5,465 | 2026-10-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [DanXi-Dev/DanXi](../repos/DanXi-Dev/DanXi.md) | ⭐ 418 | 2026-09-08 | [Windows &#x2F; Mac &#x2F; Linux &#x2F; Android &#x2F; iOS] Maybe the best all-rounded service app for Fudan Universi... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [leancodepl/marionette_mcp](../repos/leancodepl/marionette_mcp.md) | ⭐ 464 | 2026-09-09 | MCP server enabling AI agents to interact with Flutter apps at runtime - let them inspect widgets... |
@@ -70,7 +67,7 @@
 | [CyrilPeng/Venera-Next](../repos/CyrilPeng/Venera-Next.md) | ⭐ 1,191 | 2026-09-25 | VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [RyanYuuki/AnymeX](../repos/RyanYuuki/AnymeX.md) | ⭐ 1,227 | 2026-09-28 | An Open Source app for Tracking Multi Service (AL, MAL, SIMKL) |
+| [RyanYuuki/AnymeX](../repos/RyanYuuki/AnymeX.md) | ⭐ 1,247 | 2026-09-28 | An Open Source app for Tracking Multi Service (AL, MAL, SIMKL) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [hui-z/image_gallery_saver](../repos/hui-z/image_gallery_saver.md) | ⭐ 315 | 2026-09-28 | flutter中用于保存图片到相册的Plugin |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Teskann/QuaX](../repos/Teskann/QuaX.md) | ⭐ 515 | 2026-10-06 | Privacy respecting X client for Android |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [autonomous-ai/openharness](../repos/autonomous-ai/openharness.md) | ⭐ 1,134 | 2026-10-06 | The ultimate harness for coding agents and beyond. All your agents. All your machines. One comman... |
 
 
 ---
@@ -94,7 +94,7 @@
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 54,586 | 2026-08-02 | 29 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 49,303 | 2026-08-04 | 20 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,073 | 2026-08-02 | 32 |
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 31,544 | 2026-08-01 | 34 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 32,677 | 2026-08-01 | 35 |
 | [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 26,730 | 2026-09-06 | 13 |
 | [mitesh77/Best-Flutter-UI-Templates](../repos/mitesh77/Best-Flutter-UI-Templates.md) | ⭐ 22,819 | 2026-08-01 | 2 |
 | [flutter/samples](../repos/flutter/samples.md) | ⭐ 19,271 | 2026-08-06 | 6 |
@@ -116,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [flutter/flutter](../repos/flutter/flutter.md) | 39 | ⭐ 179,363 | 2026-08-01 | 2026-10-07 |
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 34 | ⭐ 31,544 | 2026-08-01 | 2026-10-07 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 35 | ⭐ 32,677 | 2026-08-01 | 2026-10-08 |
 | [KaringX/karing](../repos/KaringX/karing.md) | 32 | ⭐ 15,361 | 2026-08-02 | 2026-10-06 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 32 | ⭐ 19,170 | 2026-08-02 | 2026-10-07 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 32 | ⭐ 33,073 | 2026-08-02 | 2026-10-06 |
@@ -228,7 +228,8 @@
 - [Kyosee/VeneraX](../repos/Kyosee/VeneraX.md) - A personal-use fork of the original Venera, maintained and enhanced to suit my own needs. | Fork自...
 - [Teskann/QuaX](../repos/Teskann/QuaX.md) - Privacy respecting X client for Android
 - [autonomous-ai/openharness](../repos/autonomous-ai/openharness.md) - The ultimate harness for coding agents and beyond. All your agents. All your machines. One comman...
+- [ComicSparks/jasmine](../repos/ComicSparks/jasmine.md) - A comic browser，support Android &#x2F; iOS &#x2F; MacOS &#x2F; Windows &#x2F; Linux. 
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.397Z*
+*Last updated: 2026-10-08T21:01:46.335Z*

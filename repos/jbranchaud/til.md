@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vim Script |
 | **License** | MIT |
-| **Stars** | ⭐ 14,154 |
-| **Forks** | 🍴 752 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 14,155 |
+| **Forks** | 🍴 751 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 9, 2026 |
-| **Last Seen** | Oct 7, 2026 |
+| **Last Seen** | Oct 8, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:59.922Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-10-08T21:01:50.227Z*  
+*Data from 8 trending reports*

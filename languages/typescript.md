@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 245
+- **Total Repositories**: 251
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 10,238 | 2026-08-01 | 18 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 32,095 | 2026-08-07 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 26,124 | 2026-08-01 | 11 |
+| [dyad-sh/dyad](../repos/dyad-sh/dyad.md) | ⭐ 21,775 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 149,758 | 2026-08-07 | 17 |
+| [ItzCrazyKns/Vane](../repos/ItzCrazyKns/Vane.md) | ⭐ 37,149 | 2026-08-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gbrain](../repos/garrytan/gbrain.md) | ⭐ 30,648 | 2026-08-11 | 2 |
+| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 9,224 | 2026-08-26 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 58,038 | 2026-08-12 | 4 |
+| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 88,062 | 2026-08-28 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [reconurge/flowsint](../repos/reconurge/flowsint.md) | ⭐ 9,508 | 2026-09-14 | 2 |
+| [reconurge/flowsint](../repos/reconurge/flowsint.md) | ⭐ 9,556 | 2026-09-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tester-army/e2e](../repos/tester-army/e2e.md) | ⭐ 7,301 | 2026-10-06 | 2 |
+| [tester-army/e2e](../repos/tester-army/e2e.md) | ⭐ 8,136 | 2026-10-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 14,307 | 2026-10-06 | 2 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 24,023 | 2026-10-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel/eve](../repos/vercel/eve.md) | ⭐ 5,483 | 2026-10-07 | 1 |
+| [Vincentwei1021/video-shotcraft](../repos/Vincentwei1021/video-shotcraft.md) | ⭐ 10,872 | 2026-10-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elder-plinius/G0DM0D3](../repos/elder-plinius/G0DM0D3.md) | ⭐ 11,550 | 2026-10-07 | 1 |
+| [Gimanh/taskview-community](../repos/Gimanh/taskview-community.md) | ⭐ 1,273 | 2026-10-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nowork-studio/notfair-plugin](../repos/nowork-studio/notfair-plugin.md) | ⭐ 3,678 | 2026-09-08 | Open-source SEO, GEO, and marketing skills for AI agents. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [maotoumao/MusicFree](../repos/maotoumao/MusicFree.md) | ⭐ 26,750 | 2026-09-08 | 插件化、定制化、无广告的免费音乐播放器 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Tencent/teamai-cli](../repos/Tencent/teamai-cli.md) | ⭐ 3,715 | 2026-09-08 | Make Every Team AI Native |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [advaitpaliwal/feynman](../repos/advaitpaliwal/feynman.md) | ⭐ 9,225 | 2026-09-08 | The open source AI research agent. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vastsa/PI-Desktop](../repos/vastsa/PI-Desktop.md) | ⭐ 3,059 | 2026-09-09 | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installa... |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/Ontology-Playground](../repos/microsoft/Ontology-Playground.md) | ⭐ 2,642 | 2026-09-10 | Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalo... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ahmadrosid/nakama](../repos/ahmadrosid/nakama.md) | ⭐ 359 | 2026-09-10 | It&#39;s like Hermes Agent &amp; OpenClaw but designed to work nicely with teams. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nab138/iloader](../repos/nab138/iloader.md) | ⭐ 3,310 | 2026-09-12 | User friendly sideloader |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BuilderIO/agent-native](../repos/BuilderIO/agent-native.md) | ⭐ 6,313 | 2026-09-12 | A framework for building agentic apps |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tech-leads-club/agent-skills](../repos/tech-leads-club/agent-skills.md) | ⭐ 6,008 | 2026-09-13 | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claud... |
 
 
 ---
@@ -106,8 +106,8 @@
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 94,324 | 2026-08-02 | 8 |
 | [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 90,957 | 2026-08-22 | 3 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
+| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 88,062 | 2026-08-28 | 3 |
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 87,081 | 2026-08-14 | 3 |
-| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 86,970 | 2026-08-28 | 2 |
 
 ---
 
@@ -120,8 +120,8 @@
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 17 | ⭐ 57,867 | 2026-08-08 | 2026-10-06 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 13 | ⭐ 135,527 | 2026-08-02 | 2026-10-06 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 13 | ⭐ 32,095 | 2026-08-07 | 2026-10-08 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 13 | ⭐ 78,223 | 2026-08-11 | 2026-09-25 |
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 12 | ⭐ 25,971 | 2026-08-07 | 2026-09-13 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 12 | ⭐ 74,000 | 2026-08-10 | 2026-10-06 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 11 | ⭐ 53,038 | 2026-08-01 | 2026-10-06 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 11 | ⭐ 26,124 | 2026-08-01 | 2026-10-07 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.476Z*
+*Last updated: 2026-10-08T21:01:46.383Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 262
+- **Total Repositories**: 268
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-03
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gabime/spdlog](../repos/gabime/spdlog.md) | ⭐ 29,673 | 2026-08-01 | 14 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 130,537 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | ⭐ 16,009 | 2026-08-02 | 7 |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 33,251 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 33,209 | 2026-08-03 | 10 |
+| [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 10,021 | 2026-10-06 | 2 |
+| [google-ai-edge/LiteRT-LM](../repos/google-ai-edge/LiteRT-LM.md) | ⭐ 6,614 | 2026-09-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [M-Abozaid/esp32-c3-adblock](../repos/M-Abozaid/esp32-c3-adblock.md) | ⭐ 2,190 | 2026-10-06 | 2 |
+| [AlexandreRouma/SDRPlusPlus](../repos/AlexandreRouma/SDRPlusPlus.md) | ⭐ 6,416 | 2026-09-25 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Confetti3/SF4-Ember-Netplay](../repos/Confetti3/SF4-Ember-Netplay.md) | ⭐ 91 | 2026-10-07 | 1 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 14,981 | 2026-10-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MAZHARMIK/Interview_DS_Algo](../repos/MAZHARMIK/Interview_DS_Algo.md) | ⭐ 5,144 | 2026-10-07 | 1 |
+| [M-Abozaid/esp32-c3-adblock](../repos/M-Abozaid/esp32-c3-adblock.md) | ⭐ 2,354 | 2026-10-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/re2](../repos/google/re2.md) | ⭐ 9,817 | 2026-10-07 | 1 |
+| [facebook/rebalancer](../repos/facebook/rebalancer.md) | ⭐ 353 | 2026-10-08 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ytsaurus/ytsaurus](../repos/ytsaurus/ytsaurus.md) | ⭐ 2,283 | 2026-10-08 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [TigerVNC/tigervnc](../repos/TigerVNC/tigervnc.md) | ⭐ 7,544 | 2026-10-08 | 1 |
 
 
 ---
@@ -46,25 +52,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [MaaXYZ/MaaFramework](../repos/MaaXYZ/MaaFramework.md) | ⭐ 4,906 | 2026-09-08 | 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [memgraph/memgraph](../repos/memgraph/memgraph.md) | ⭐ 4,524 | 2026-09-08 | High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and re... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mattias800/prosper](../repos/mattias800/prosper.md) | ⭐ 133 | 2026-09-08 | A user-space PlayStation 5 to PC compatibility layer for Linux, Windows, and macOS. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apple/foundationdb](../repos/apple/foundationdb.md) | ⭐ 16,685 | 2026-09-08 | FoundationDB - the open source, distributed, transactional key-value store |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Open-Cascade-SAS/OCCT](../repos/Open-Cascade-SAS/OCCT.md) | ⭐ 2,904 | 2026-09-08 | Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [7h30th3r0n3/Evil-M5Project](../repos/7h30th3r0n3/Evil-M5Project.md) | ⭐ 2,607 | 2026-09-09 | Evil-M5Project is an innovative tool developed for ethical  hacking and exploration of WiFi netwo... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [google-ai-edge/LiteRT-LM](../repos/google-ai-edge/LiteRT-LM.md) | ⭐ 6,415 | 2026-09-10 | LiteRT-LM is Google&#39;s production-ready, high-performance, open-source inference framework for dep... |
+| [google-ai-edge/LiteRT-LM](../repos/google-ai-edge/LiteRT-LM.md) | ⭐ 6,614 | 2026-09-10 | LiteRT-LM is Google&#39;s production-ready, high-performance, open-source inference framework for dep... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google-ai-edge/mediapipe](../repos/google-ai-edge/mediapipe.md) | ⭐ 36,903 | 2026-09-10 | Cross-platform, customizable ML solutions for live and streaming media. |
@@ -74,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Atmosphere-NX/Atmosphere](../repos/Atmosphere-NX/Atmosphere.md) | ⭐ 19,861 | 2026-09-12 | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dsp56300/gearmulator](../repos/dsp56300/gearmulator.md) | ⭐ 1,399 | 2026-09-12 | Low Level Emulation of classic VA synths &amp; effects of the late 90s&#x2F;2000s by emulating the used ICs |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lkimuk/ReArk](../repos/lkimuk/ReArk.md) | ⭐ 311 | 2026-09-12 | An intelligent reverse engineering analysis tool designed for multiple target platforms, currentl... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [scylladb/scylladb](../repos/scylladb/scylladb.md) | ⭐ 15,749 | 2026-09-12 | NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jomjol/AI-on-the-edge-device](../repos/jomjol/AI-on-the-edge-device.md) | ⭐ 8,759 | 2026-09-13 | Easy to use device for connecting &quot;old&quot; measuring units (water, power, gas, ...) to the digital w... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Redot-Engine/redot-engine](../repos/Redot-Engine/redot-engine.md) | ⭐ 6,089 | 2026-09-13 | Redot Engine – Multi-platform 2D and 3D game engine |
 
 
 ---
@@ -83,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,675 | 2026-07-30 | 22 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 130,498 | 2026-08-01 | 27 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 130,537 | 2026-08-01 | 28 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | 2026-08-04 | 4 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 117,022 | 2026-08-01 | 9 |
@@ -95,7 +101,7 @@
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,223 | 2026-08-03 | 7 |
-| [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,046 | 2026-09-01 | 2 |
+| [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,360 | 2026-08-02 | 8 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,885 | 2026-08-19 | 10 |
@@ -109,7 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 27 | ⭐ 130,498 | 2026-08-01 | 2026-10-06 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 28 | ⭐ 130,537 | 2026-08-01 | 2026-10-08 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 22 | ⭐ 200,675 | 2026-07-30 | 2026-10-03 |
 | [google/googletest](../repos/google/googletest.md) | 19 | ⭐ 39,629 | 2026-08-04 | 2026-10-06 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 15 | ⭐ 520 | 2026-08-01 | 2026-10-03 |
@@ -117,8 +123,8 @@
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 14 | ⭐ 76,454 | 2026-08-08 | 2026-10-01 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 12 | ⭐ 11,523 | 2026-08-02 | 2026-10-03 |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | 11 | ⭐ 33,251 | 2026-08-03 | 2026-10-08 |
 | [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | 11 | ⭐ 21,998 | 2026-08-06 | 2026-10-03 |
-| [leapbtw/uxplay-windows](../repos/leapbtw/uxplay-windows.md) | 10 | ⭐ 683 | 2026-08-02 | 2026-09-07 |
 
 ---
 
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.379Z*
+*Last updated: 2026-10-08T21:01:46.326Z*

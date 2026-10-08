@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 14,307 |
-| **Forks** | 🍴 1,504 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 24,023 |
+| **Forks** | 🍴 2,663 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Oct 6, 2026 |
-| **Last Seen** | Oct 7, 2026 |
+| **Last Seen** | Oct 8, 2026 |
 
 
 ---
@@ -44,22 +44,23 @@
 ## Trending Timeline
 
 **Oct 7, 2026** — Rank #1 (+4666 ⭐)  
+**Oct 8, 2026** — Rank #3 (+7744 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 2
-- **Longest Streak**: 2 days
+- **Trending Days**: 3
+- **Longest Streak**: 3 days
 
 ---
 
 ## Categories
 
 ### Topics
-[`agent-skills`](../../topics/agent-skills.md) [`ai-agent-tools`](../../topics/ai-agent-tools.md) [`ai-agents`](../../topics/ai-agents.md) [`binary-analysis`](../../topics/binary-analysis.md) [`cli`](../../topics/cli.md) [`coding-agents`](../../topics/coding-agents.md) [`cordis`](../../topics/cordis.md) [`ctf`](../../topics/ctf.md) [`decompiler`](../../topics/decompiler.md) [`disassembler`](../../topics/disassembler.md) [`dsh`](../../topics/dsh.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`ghidra`](../../topics/ghidra.md) [`hopper`](../../topics/hopper.md) [`mcp`](../../topics/mcp.md) [`mcp-server`](../../topics/mcp-server.md) [`model-context-protocol`](../../topics/model-context-protocol.md) [`reverse-engineering`](../../topics/reverse-engineering.md) [`reverse-engineering-tools`](../../topics/reverse-engineering-tools.md) [`static-analysis`](../../topics/static-analysis.md) 
+[`agent-skills`](../../topics/agent-skills.md) [`ai-agents`](../../topics/ai-agents.md) [`binary-analysis`](../../topics/binary-analysis.md) [`claude-code`](../../topics/claude-code.md) [`cli`](../../topics/cli.md) [`codex`](../../topics/codex.md) [`cordis`](../../topics/cordis.md) [`ctf`](../../topics/ctf.md) [`decompiler`](../../topics/decompiler.md) [`developer-tools`](../../topics/developer-tools.md) [`disassembler`](../../topics/disassembler.md) [`dsh`](../../topics/dsh.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`ghidra`](../../topics/ghidra.md) [`hopper`](../../topics/hopper.md) [`llm`](../../topics/llm.md) [`mcp`](../../topics/mcp.md) [`model-context-protocol`](../../topics/model-context-protocol.md) [`reverse-engineering`](../../topics/reverse-engineering.md) [`static-analysis`](../../topics/static-analysis.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Frontend Development` `Backend Development` `Systems Programming` `Developer Tools` 
+`Artificial Intelligence` `Large Language Models` `Frontend Development` `Systems Programming` `Developer Tools` 
 
 ---
 
@@ -86,11 +87,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 60&#x2F;100
 - **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-10-07T21:02:00.593Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-10-08T21:01:50.702Z*  
+*Data from 3 trending reports*

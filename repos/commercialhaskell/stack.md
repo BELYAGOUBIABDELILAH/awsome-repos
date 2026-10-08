@@ -13,12 +13,12 @@
 | **Language** | Haskell |
 | **License** | Other |
 | **Stars** | ⭐ 4,078 |
-| **Forks** | 🍴 852 |
-| **Trending Days** | 9 |
+| **Forks** | 🍴 854 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Oct 1, 2026 |
+| **Last Seen** | Oct 8, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:57.629Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-10-08T21:01:48.684Z*  
+*Data from 10 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 273
+- **Total Repositories**: 275
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-25
 
@@ -16,46 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) | ⭐ 80,400 | 2026-08-02 | 5 |
+| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 53,951 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [uber/ADR](../repos/uber/ADR.md) | ⭐ 1,893 | 2026-08-04 | 4 |
+| [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) | ⭐ 23,180 | 2026-08-12 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) | ⭐ 23,102 | 2026-08-12 | 6 |
+| [microsoft/agent-framework](../repos/microsoft/agent-framework.md) | ⭐ 14,018 | 2026-08-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ayghri/i-have-adhd](../repos/ayghri/i-have-adhd.md) | ⭐ 55,018 | 2026-08-29 | 8 |
+| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 11,650 | 2026-08-24 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earthtojake/text-to-cad](../repos/earthtojake/text-to-cad.md) | ⭐ 18,267 | 2026-09-04 | 5 |
+| [earthtojake/text-to-cad](../repos/earthtojake/text-to-cad.md) | ⭐ 18,451 | 2026-09-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | 2026-09-07 | 3 |
+| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 27,453 | 2026-09-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 27,106 | 2026-09-19 | 3 |
+| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 4,838 | 2026-09-22 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 4,732 | 2026-09-22 | 4 |
+| [abrignoni/ALEAPP](../repos/abrignoni/ALEAPP.md) | ⭐ 974 | 2026-10-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [allenai/olmocr](../repos/allenai/olmocr.md) | ⭐ 19,723 | 2026-10-07 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [MDX-Tom/gpt-instruct](../repos/MDX-Tom/gpt-instruct.md) | ⭐ 9,315 | 2026-10-07 | 1 |
+| [IAmTomShaw/f1-race-replay](../repos/IAmTomShaw/f1-race-replay.md) | ⭐ 6,673 | 2026-10-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hpcaitech/Open-Sora](../repos/hpcaitech/Open-Sora.md) | ⭐ 29,699 | 2026-09-08 | Open-Sora: Democratizing Efficient Video Production for All |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [shareAI-lab/learn-claude-code](../repos/shareAI-lab/learn-claude-code.md) | ⭐ 76,345 | 2026-09-08 | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OpenDCAI/GameFactory-3A](../repos/OpenDCAI/GameFactory-3A.md) | ⭐ 594 | 2026-09-09 | A comprehensive open-source 3A game-generation skill and asset framework. |
@@ -80,6 +71,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [multimodal-art-projection/YuE](../repos/multimodal-art-projection/YuE.md) | ⭐ 8,273 | 2026-09-12 | YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [petergyang/no-ai-slop](../repos/petergyang/no-ai-slop.md) | ⭐ 9,499 | 2026-09-12 | Removes 20+ patterns of AI slop from any piece of writing. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google-gemini/gemini-skills](../repos/google-gemini/gemini-skills.md) | ⭐ 4,100 | 2026-09-12 | Skills for the Gemini API, SDK and model&#x2F;agent interactions |
 
 
 ---
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.454Z*
+*Last updated: 2026-10-08T21:01:46.370Z*

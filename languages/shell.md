@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 130
+- **Total Repositories**: 131
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,28 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bats-core/bats-core](../repos/bats-core/bats-core.md) | ⭐ 6,305 | 2026-08-03 | 4 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,940 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openshift/release](../repos/openshift/release.md) | ⭐ 330 | 2026-08-04 | 5 |
+| [openshift/release](../repos/openshift/release.md) | ⭐ 330 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,683 | 2026-08-07 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,674 | 2026-08-07 | 25 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,031 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,194 | 2026-08-19 | 7 |
+| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,451 | 2026-08-11 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,204 | 2026-08-19 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ophub/fnnas](../repos/ophub/fnnas.md) | ⭐ 3,359 | 2026-08-22 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [zabbix/community-templates](../repos/zabbix/community-templates.md) | ⭐ 1,990 | 2026-09-19 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Mr-MIBonk/M.I.B._More-Incredible-Bash](../repos/Mr-MIBonk/M.I.B._More-Incredible-Bash.md) | ⭐ 1,124 | 2026-09-20 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [aquasecurity/trivy-action](../repos/aquasecurity/trivy-action.md) | ⭐ 1,435 | 2026-10-06 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,853 | 2026-09-08 | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bitol-io/open-data-contract-standard](../repos/bitol-io/open-data-contract-standard.md) | ⭐ 1,128 | 2026-09-09 | Home of the Open Data Contract Standard (ODCS). |
@@ -65,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [akitaonrails/distrobox-gaming](../repos/akitaonrails/distrobox-gaming.md) | ⭐ 303 | 2026-09-19 | Script to create a gaming focused Distrobox with all emulators pre-configured |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [truenas/truenas-proxmox-plugin](../repos/truenas/truenas-proxmox-plugin.md) | ⭐ 313 | 2026-09-19 | For providing seamless block storage to PVE |
 
 
 ---
@@ -86,13 +101,13 @@
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,563 | 2026-09-02 | 2 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,999 | 2026-08-04 | 11 |
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 21,950 | 2026-08-07 | 5 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,031 | 2026-08-07 | 6 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 6 |
 | [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,794 | 2026-08-08 | 5 |
 | [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,853 | 2026-09-08 | 1 |
-| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,416 | 2026-08-11 | 7 |
+| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,451 | 2026-08-11 | 8 |
 
 ---
 
@@ -101,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 34 | ⭐ 95,274 | 2026-08-01 | 2026-10-06 |
-| [expo/skills](../repos/expo/skills.md) | 25 | ⭐ 2,674 | 2026-08-07 | 2026-10-07 |
+| [expo/skills](../repos/expo/skills.md) | 26 | ⭐ 2,683 | 2026-08-07 | 2026-10-08 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 19 | ⭐ 11,240 | 2026-08-04 | 2026-10-06 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 17 | ⭐ 7,610 | 2026-08-12 | 2026-10-06 |
@@ -218,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.467Z*
+*Last updated: 2026-10-08T21:01:46.378Z*

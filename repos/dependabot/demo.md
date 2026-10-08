@@ -13,12 +13,12 @@
 | **Language** | Ruby |
 | **License** | Not specified |
 | **Stars** | ⭐ 338 |
-| **Forks** | 🍴 4,967 |
-| **Trending Days** | 4 |
+| **Forks** | 🍴 4,985 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 12, 2026 |
-| **Last Seen** | Oct 1, 2026 |
+| **Last Seen** | Oct 8, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 65&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-07T21:01:58.456Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-10-08T21:01:49.222Z*  
+*Data from 5 trending reports*

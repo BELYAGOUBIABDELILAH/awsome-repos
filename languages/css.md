@@ -16,22 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,458 | 2026-08-01 | 47 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,365 | 2026-08-04 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/google-api-javascript-client](../repos/google/google-api-javascript-client.md) | ⭐ 3,531 | 2026-08-10 | 3 |
+| [google/google-api-javascript-client](../repos/google/google-api-javascript-client.md) | ⭐ 3,531 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 5,808 | 2026-08-10 | 18 |
+| [mingw-w64/mingw-w64.github.io](../repos/mingw-w64/mingw-w64.github.io.md) | ⭐ 1,043 | 2026-08-22 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [jensimmons/cssremedy](../repos/jensimmons/cssremedy.md) | ⭐ 2,224 | 2026-09-12 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SillyTavern/SillyTavern-Docs](../repos/SillyTavern/SillyTavern-Docs.md) | ⭐ 160 | 2026-09-08 | Documentation website for SillyTavern. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [wso2/docs-apim](../repos/wso2/docs-apim.md) | ⭐ 99 | 2026-09-09 |  |
@@ -69,7 +69,7 @@
 |------------|-------|------------|---------------|
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,831 | 2026-08-06 | 16 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,507 | 2026-08-01 | 10 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,352 | 2026-08-04 | 23 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,365 | 2026-08-04 | 24 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 29,696 | 2026-08-02 | 26 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
@@ -98,7 +98,7 @@
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 33 | ⭐ 922 | 2026-08-01 | 2026-10-01 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 26 | ⭐ 29,696 | 2026-08-02 | 2026-10-06 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 25 | ⭐ 1,425 | 2026-08-01 | 2026-10-03 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 23 | ⭐ 45,352 | 2026-08-04 | 2026-10-02 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 24 | ⭐ 45,365 | 2026-08-04 | 2026-10-08 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 22 | ⭐ 12,421 | 2026-08-01 | 2026-09-28 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 21 | ⭐ 12,711 | 2026-08-02 | 2026-10-01 |
 | [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 18 | ⭐ 5,808 | 2026-08-10 | 2026-10-07 |
@@ -182,4 +182,4 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.382Z*
+*Last updated: 2026-10-08T21:01:46.328Z*

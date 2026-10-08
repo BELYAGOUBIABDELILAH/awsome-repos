@@ -16,31 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,618 | 2026-08-01 | 36 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 676 | 2026-08-01 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 675 | 2026-08-01 | 38 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,804 | 2026-08-01 | 35 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 893 | 2026-08-01 | 33 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 422 | 2026-08-08 | 35 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [allisonhorst/palmerpenguins](../repos/allisonhorst/palmerpenguins.md) | ⭐ 1,021 | 2026-10-06 | 2 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 423 | 2026-08-08 | 36 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PecanProject/pecan](../repos/PecanProject/pecan.md) | ⭐ 244 | 2026-09-08 | The Predictive Ecosystem Analyzer (PEcAn) is an integrated ecological bioinformatics toolbox. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ipea/geocodebr](../repos/ipea/geocodebr.md) | ⭐ 112 | 2026-09-10 | Geolocalização de Endereços Brasileiros (Geocoding Brazilian Addresses) |
@@ -72,9 +57,9 @@
 | [allisonhorst/palmerpenguins](../repos/allisonhorst/palmerpenguins.md) | ⭐ 1,021 | 2026-10-06 | 2 |
 | [r-lib/usethis](../repos/r-lib/usethis.md) | ⭐ 922 | 2026-09-24 | 1 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 893 | 2026-08-01 | 33 |
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 675 | 2026-08-01 | 38 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 676 | 2026-08-01 | 39 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 486 | 2026-08-03 | 8 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 422 | 2026-08-08 | 35 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 423 | 2026-08-08 | 36 |
 | [PecanProject/pecan](../repos/PecanProject/pecan.md) | ⭐ 244 | 2026-09-08 | 2 |
 | [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 153 | 2026-08-09 | 12 |
 | [ipea/geocodebr](../repos/ipea/geocodebr.md) | ⭐ 112 | 2026-09-10 | 1 |
@@ -85,10 +70,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 38 | ⭐ 675 | 2026-08-01 | 2026-10-07 |
+| [jinworks/CellChat](../repos/jinworks/CellChat.md) | 39 | ⭐ 676 | 2026-08-01 | 2026-10-08 |
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 36 | ⭐ 4,618 | 2026-08-01 | 2026-10-07 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 36 | ⭐ 423 | 2026-08-08 | 2026-10-08 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | 35 | ⭐ 2,804 | 2026-08-01 | 2026-10-07 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 35 | ⭐ 422 | 2026-08-08 | 2026-10-07 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 33 | ⭐ 893 | 2026-08-01 | 2026-10-07 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 24 | ⭐ 7,004 | 2026-08-04 | 2026-10-03 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | 22 | ⭐ 5,694 | 2026-08-02 | 2026-10-03 |
@@ -125,4 +110,4 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.457Z*
+*Last updated: 2026-10-08T21:01:46.371Z*

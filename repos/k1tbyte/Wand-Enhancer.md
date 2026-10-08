@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C# |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 30,453 |
-| **Forks** | 🍴 78,583 |
-| **Trending Days** | 27 |
+| **Stars** | ⭐ 31,087 |
+| **Forks** | 🍴 80,372 |
+| **Trending Days** | 28 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 3, 2026 |
+| **Last Seen** | Oct 8, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 27
+- **Trending Days**: 28
 - **Longest Streak**: 6 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 30,453+ stars, strong contributor base |
+| **Community** | Very Active | 31,087+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:56.791Z*  
-*Data from 27 trending reports*
+*Last updated: 2026-10-08T21:01:48.090Z*  
+*Data from 28 trending reports*

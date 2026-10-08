@@ -16,43 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,238 | 2026-07-30 | 11 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 103,340 | 2026-08-05 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,592 | 2026-08-04 | 3 |
+| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | ⭐ 1,087 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 102,703 | 2026-08-05 | 26 |
+| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 978 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 971 | 2026-08-07 | 7 |
+| [CodeWithHarry/Sigma-Web-Dev-Course](../repos/CodeWithHarry/Sigma-Web-Dev-Course.md) | ⭐ 11,963 | 2026-08-10 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
+| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 39,816 | 2026-08-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [liyupi/ai-guide](../repos/liyupi/ai-guide.md) | ⭐ 20,778 | 2026-08-19 | 2 |
+| [anthropics/claude-plugins-community](../repos/anthropics/claude-plugins-community.md) | ⭐ 4,580 | 2026-08-22 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-community](../repos/anthropics/claude-plugins-community.md) | ⭐ 4,553 | 2026-08-22 | 7 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 26,553 | 2026-08-28 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 25,945 | 2026-08-28 | 5 |
+| [tabler/tabler-icons](../repos/tabler/tabler-icons.md) | ⭐ 22,093 | 2026-10-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Stremio/stremio-web](../repos/Stremio/stremio-web.md) | ⭐ 14,426 | 2026-08-29 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Joooook/12306-mcp](../repos/Joooook/12306-mcp.md) | ⭐ 2,289 | 2026-10-06 | 2 |
+| [XCQ0607/lxserver](../repos/XCQ0607/lxserver.md) | ⭐ 928 | 2026-10-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [viarotel-org/escrcpy](../repos/viarotel-org/escrcpy.md) | ⭐ 11,643 | 2026-09-08 | 📱 Display and control your Android device graphically with scrcpy. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [open-gsd/gsd-core](../repos/open-gsd/gsd-core.md) | ⭐ 9,821 | 2026-09-09 | Git. Ship. Done - Core |
@@ -80,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 4,348 | 2026-09-12 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [shaun8149/sdf-js](../repos/shaun8149/sdf-js.md) | ⭐ 269 | 2026-09-13 | Chainable JS SDF library + 基于 SDF 的离散结构生成器层 (form × generator decoupling). Port &amp; extension of fo... |
 
 
 ---
@@ -93,8 +90,8 @@
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 159,005 | 2026-08-06 | 3 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,238 | 2026-07-30 | 11 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 103,340 | 2026-08-05 | 27 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 102,703 | 2026-08-05 | 26 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 77,610 | 2026-08-05 | 18 |
@@ -104,10 +101,10 @@
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 66,612 | 2026-08-01 | 18 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
-| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 52,420 | 2026-08-11 | 4 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,174 | 2026-08-08 | 3 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 46,128 | 2026-08-27 | 8 |
 
 ---
 
@@ -115,7 +112,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 26 | ⭐ 102,703 | 2026-08-05 | 2026-10-07 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 27 | ⭐ 103,340 | 2026-08-05 | 2026-10-08 |
 | [byoungd/up](../repos/byoungd/up.md) | 18 | ⭐ 66,612 | 2026-08-01 | 2026-10-01 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 18 | ⭐ 75,760 | 2026-08-04 | 2026-10-01 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 18 | ⭐ 77,610 | 2026-08-05 | 2026-10-06 |
@@ -192,7 +189,6 @@
 - [fishjar/kiss-translator](../repos/fishjar/kiss-translator.md) - A simple, open source bilingual translation extension &amp; Greasemonkey script (一个简约、开源的 双语对照翻译扩展 &amp; ...
 - [zarazhangrui/follow-builders](../repos/zarazhangrui/follow-builders.md) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content in...
 - [chr0nzz/traefik-manager](../repos/chr0nzz/traefik-manager.md) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
-- [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) - Breakthrough Method for Agile Ai Driven Development
 - [polius/FileSync](../repos/polius/FileSync.md) - Send files from one device to many in real-time.
 - [plankanban/planka](../repos/plankanban/planka.md) - PLANKA is the Kanban-style project mastering tool for everyone
 - [lodash/lodash](../repos/lodash/lodash.md) - A modern JavaScript utility library delivering modularity, performance, &amp; extras.
@@ -230,7 +226,8 @@
 - [FB208/OpenBidKit_Yibiao](../repos/FB208/OpenBidKit_Yibiao.md) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
 - [fmhy/edit](../repos/fmhy/edit.md) - Make changes to FMHY
 - [nasa-gibs/worldview](../repos/nasa-gibs/worldview.md) - Interactive interface for browsing global, full-resolution satellite imagery
+- [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) - ⭐️  Companies that don&#39;t have a broken hiring process
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.423Z*
+*Last updated: 2026-10-08T21:01:46.350Z*

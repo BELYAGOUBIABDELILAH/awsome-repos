@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 37
+- **Total Repositories**: 38
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-03
 
@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 498 | 2026-08-01 | 38 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 500 | 2026-08-01 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,135 | 2026-08-01 | 45 |
+| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,698 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manwar/perlweeklychallenge-club](../repos/manwar/perlweeklychallenge-club.md) | ⭐ 220 | 2026-08-02 | 12 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,136 | 2026-08-01 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acl-org/ACLPUB](../repos/acl-org/ACLPUB.md) | ⭐ 252 | 2026-08-28 | 5 |
+| [RotherOSS/otobo](../repos/RotherOSS/otobo.md) | ⭐ 335 | 2026-09-24 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker-library/repo-info](../repos/docker-library/repo-info.md) | ⭐ 608 | 2026-09-12 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [RotherOSS/otobo](../repos/RotherOSS/otobo.md) | ⭐ 335 | 2026-09-24 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [sipwise/rtpengine](../repos/sipwise/rtpengine.md) | ⭐ 992 | 2026-10-07 | 1 |
+| [ledgersmb/LedgerSMB](../repos/ledgersmb/LedgerSMB.md) | ⭐ 570 | 2026-10-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mysociety/fixmystreet](../repos/mysociety/fixmystreet.md) | ⭐ 616 | 2026-09-08 | This is mySociety&#39;s popular map-based reporting platform: easy to install in new countries and re... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [UniversalDependencies/tools](../repos/UniversalDependencies/tools.md) | ⭐ 220 | 2026-09-09 | Various utilities for processing the data. |
@@ -62,6 +53,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sipwise/rtpengine](../repos/sipwise/rtpengine.md) | ⭐ 992 | 2026-10-07 | The Sipwise media proxy for Kamailio |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ledgersmb/LedgerSMB](../repos/ledgersmb/LedgerSMB.md) | ⭐ 570 | 2026-10-08 | Double-entry accounting &amp; ERP for the web |
 
 
 ---
@@ -73,14 +67,14 @@
 | [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | ⭐ 19,784 | 2026-08-01 | 46 |
 | [so-fancy/diff-so-fancy](../repos/so-fancy/diff-so-fancy.md) | ⭐ 18,090 | 2026-09-07 | 1 |
 | [major/MySQLTuner-perl](../repos/major/MySQLTuner-perl.md) | ⭐ 9,477 | 2026-09-04 | 5 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,135 | 2026-08-01 | 45 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,136 | 2026-08-01 | 46 |
 | [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,950 | 2026-08-02 | 21 |
 | [rsnapshot/rsnapshot](../repos/rsnapshot/rsnapshot.md) | ⭐ 3,683 | 2026-09-21 | 1 |
 | [ddclient/ddclient](../repos/ddclient/ddclient.md) | ⭐ 3,517 | 2026-08-10 | 5 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,680 | 2026-08-01 | 32 |
 | [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,332 | 2026-08-03 | 23 |
 | [LMS-Community/slimserver](../repos/LMS-Community/slimserver.md) | ⭐ 1,780 | 2026-08-09 | 2 |
-| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,697 | 2026-08-01 | 26 |
+| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,698 | 2026-08-01 | 27 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,527 | 2026-08-01 | 28 |
 | [mrash/fwknop](../repos/mrash/fwknop.md) | ⭐ 1,441 | 2026-08-22 | 3 |
 | [asbru-cm/asbru-cm](../repos/asbru-cm/asbru-cm.md) | ⭐ 1,294 | 2026-08-03 | 3 |
@@ -98,11 +92,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 46 | ⭐ 19,784 | 2026-08-01 | 2026-10-03 |
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 45 | ⭐ 5,135 | 2026-08-01 | 2026-10-07 |
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 38 | ⭐ 498 | 2026-08-01 | 2026-10-07 |
+| [exiftool/exiftool](../repos/exiftool/exiftool.md) | 46 | ⭐ 5,136 | 2026-08-01 | 2026-10-08 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 39 | ⭐ 500 | 2026-08-01 | 2026-10-08 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 32 | ⭐ 2,680 | 2026-08-01 | 2026-09-14 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | 28 | ⭐ 1,527 | 2026-08-01 | 2026-10-02 |
-| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 26 | ⭐ 1,697 | 2026-08-01 | 2026-10-06 |
+| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 27 | ⭐ 1,698 | 2026-08-01 | 2026-10-08 |
 | [Perl/perl5](../repos/Perl/perl5.md) | 23 | ⭐ 2,332 | 2026-08-03 | 2026-10-02 |
 | [znuny/Znuny](../repos/znuny/Znuny.md) | 21 | ⭐ 599 | 2026-08-01 | 2026-10-03 |
 | [holzschu/a-shell](../repos/holzschu/a-shell.md) | 21 | ⭐ 3,950 | 2026-08-02 | 2026-10-02 |
@@ -149,7 +143,8 @@
 - [RotherOSS/otobo](../repos/RotherOSS/otobo.md) - OTOBO is one of the most flexible web-based ticketing systems used for Customer Service, Help Des...
 - [xcat2/xcat-core](../repos/xcat2/xcat-core.md) - Code repo for xCAT core packages
 - [sipwise/rtpengine](../repos/sipwise/rtpengine.md) - The Sipwise media proxy for Kamailio
+- [ledgersmb/LedgerSMB](../repos/ledgersmb/LedgerSMB.md) - Double-entry accounting &amp; ERP for the web
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.449Z*
+*Last updated: 2026-10-08T21:01:46.367Z*

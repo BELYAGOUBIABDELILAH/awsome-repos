@@ -1,6 +1,6 @@
 # PimpinPumpkin&#x2F;Vela
 
-> Degoogled maps &amp; turn-by-turn navigation for Android - MapLibre + Overture POI, no Google Play Services
+> Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;PimpinPumpkin&#x2F;Vela) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 826 |
-| **Forks** | 🍴 34 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 1,134 |
+| **Forks** | 🍴 48 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 6, 2026 |
-| **Last Seen** | Oct 7, 2026 |
+| **Last Seen** | Oct 8, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Kotlin or android*
+*Similar: Check repositories in Kotlin or alpr*
 
 ---
 
@@ -47,15 +47,15 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
-- **Longest Streak**: 2 days
+- **Trending Days**: 3
+- **Longest Streak**: 3 days
 
 ---
 
 ## Categories
 
 ### Topics
-[`android`](../../topics/android.md) [`android-auto`](../../topics/android-auto.md) [`degoogle`](../../topics/degoogle.md) [`degoogled`](../../topics/degoogled.md) [`foss`](../../topics/foss.md) [`grapheneos`](../../topics/grapheneos.md) [`jetpack-compose`](../../topics/jetpack-compose.md) [`maplibre`](../../topics/maplibre.md) [`maps`](../../topics/maps.md) [`navigation`](../../topics/navigation.md) [`newpipe`](../../topics/newpipe.md) [`openstreetmap`](../../topics/openstreetmap.md) [`openstreetmaps`](../../topics/openstreetmaps.md) [`osm`](../../topics/osm.md) [`overture`](../../topics/overture.md) [`overture-maps`](../../topics/overture-maps.md) [`overturemaps`](../../topics/overturemaps.md) [`privacy`](../../topics/privacy.md) 
+[`alpr`](../../topics/alpr.md) [`android`](../../topics/android.md) [`android-auto`](../../topics/android-auto.md) [`degoogle`](../../topics/degoogle.md) [`degoogled`](../../topics/degoogled.md) [`flock`](../../topics/flock.md) [`foss`](../../topics/foss.md) [`google-maps`](../../topics/google-maps.md) [`google-maps-alternative`](../../topics/google-maps-alternative.md) [`grapheneos`](../../topics/grapheneos.md) [`jetpack-compose`](../../topics/jetpack-compose.md) [`maplibre`](../../topics/maplibre.md) [`maps`](../../topics/maps.md) [`navigation`](../../topics/navigation.md) [`newpipe`](../../topics/newpipe.md) [`openstreetmap`](../../topics/openstreetmap.md) [`osm`](../../topics/osm.md) [`overture`](../../topics/overture.md) [`overture-maps`](../../topics/overture-maps.md) [`privacy`](../../topics/privacy.md) 
 
 ### Curated Categories
 `Mobile Development` `Systems Programming` 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 60&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-07T21:02:00.618Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-10-08T21:01:50.719Z*  
+*Data from 3 trending reports*

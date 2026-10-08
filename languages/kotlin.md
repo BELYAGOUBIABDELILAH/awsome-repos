@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 151
+- **Total Repositories**: 152
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-02
 
@@ -16,43 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 376 | 2026-08-01 | 7 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,128 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bmax121/APatch](../repos/bmax121/APatch.md) | ⭐ 8,014 | 2026-08-02 | 6 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 42,607 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,486 | 2026-08-04 | 11 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,879 | 2026-08-12 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqssun/android-airplay-server](../repos/jqssun/android-airplay-server.md) | ⭐ 519 | 2026-08-07 | 3 |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,687 | 2026-09-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rushiranpise/morphe-patches](../repos/rushiranpise/morphe-patches.md) | ⭐ 833 | 2026-08-08 | 8 |
+| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 1,134 | 2026-10-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [torlando-tech/columba](../repos/torlando-tech/columba.md) | ⭐ 1,206 | 2026-08-11 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) | ⭐ 7,749 | 2026-08-11 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,614 | 2026-09-07 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 826 | 2026-10-06 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 3,881 | 2026-10-06 | 2 |
+| [Lelonio/Square](../repos/Lelonio/Square.md) | ⭐ 102 | 2026-10-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [IacobIonut01/ReFra](../repos/IacobIonut01/ReFra.md) | ⭐ 2,845 | 2026-09-08 | Media Gallery app for Android made with Jetpack Compose |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ximeiorg/Xime](../repos/ximeiorg/Xime.md) | ⭐ 1,007 | 2026-09-09 | 我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔&#x2F;拼音&#x2F;自定义方案。 |
@@ -80,6 +65,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tasks/tasks](../repos/tasks/tasks.md) | ⭐ 5,609 | 2026-09-27 | Bringing Astrid Tasks back from the dead |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Codename-11/hermes-relay](../repos/Codename-11/hermes-relay.md) | ⭐ 281 | 2026-09-28 | Hermes-Relay — Your Hermes AI agent, in your pocket — chat, voice, and control. |
 
 
 ---
@@ -92,16 +80,16 @@
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,060 | 2026-08-03 | 13 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,585 | 2026-08-06 | 13 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,486 | 2026-08-04 | 11 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 42,218 | 2026-08-03 | 10 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 42,607 | 2026-08-03 | 11 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,980 | 2026-08-08 | 16 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,338 | 2026-08-05 | 5 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,227 | 2026-08-11 | 4 |
-| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,823 | 2026-08-12 | 8 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 23,718 | 2026-08-01 | 13 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,879 | 2026-08-12 | 9 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,128 | 2026-08-01 | 14 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,872 | 2026-08-02 | 5 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,852 | 2026-08-01 | 7 |
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,614 | 2026-09-07 | 8 |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,687 | 2026-09-07 | 9 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,231 | 2026-08-17 | 5 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,917 | 2026-08-02 | 9 |
@@ -118,7 +106,7 @@
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 16 | ⭐ 63,426 | 2026-08-02 | 2026-10-02 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 16 | ⭐ 30,980 | 2026-08-08 | 2026-10-03 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 15 | ⭐ 2,550 | 2026-08-02 | 2026-09-29 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 13 | ⭐ 23,718 | 2026-08-01 | 2026-09-20 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 14 | ⭐ 24,128 | 2026-08-01 | 2026-10-08 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 13 | ⭐ 63,060 | 2026-08-03 | 2026-10-03 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 13 | ⭐ 53,585 | 2026-08-06 | 2026-09-19 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 12 | ⭐ 10,776 | 2026-08-03 | 2026-09-25 |
@@ -233,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.430Z*
+*Last updated: 2026-10-08T21:01:46.354Z*

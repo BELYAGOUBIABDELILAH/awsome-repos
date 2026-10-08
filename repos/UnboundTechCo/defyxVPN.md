@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | MIT |
-| **Stars** | ⭐ 818 |
-| **Forks** | 🍴 75 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 825 |
+| **Forks** | 🍴 77 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 7, 2026 |
+| **Last Seen** | Oct 8, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
-- **Longest Streak**: 1 days
+- **Trending Days**: 5
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 65&#x2F;100
+- **Trending Score**: 85&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-07T21:01:56.419Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-10-08T21:01:47.835Z*  
+*Data from 5 trending reports*

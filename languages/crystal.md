@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,027 | 2026-10-02 | 3 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,451 | 2026-08-06 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,028 | 2026-10-02 | 4 |
 
 
 ---
@@ -25,7 +28,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,027 | 2026-10-02 | Ultra quick message queue and streaming server |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,028 | 2026-10-02 | Ultra quick message queue and streaming server |
 
 
 ---
@@ -35,8 +38,8 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 25,142 | 2026-08-01 | 36 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,444 | 2026-08-06 | 7 |
-| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,027 | 2026-10-02 | 3 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,451 | 2026-08-06 | 8 |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,028 | 2026-10-02 | 4 |
 
 ---
 
@@ -45,8 +48,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [iv-org/invidious](../repos/iv-org/invidious.md) | 36 | ⭐ 25,142 | 2026-08-01 | 2026-10-06 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 7 | ⭐ 1,444 | 2026-08-06 | 2026-10-02 |
-| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | 3 | ⭐ 1,027 | 2026-10-02 | 2026-10-07 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 8 | ⭐ 1,451 | 2026-08-06 | 2026-10-08 |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | 4 | ⭐ 1,028 | 2026-10-02 | 2026-10-08 |
 
 ---
 
@@ -58,4 +61,4 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.391Z*
+*Last updated: 2026-10-08T21:01:46.332Z*

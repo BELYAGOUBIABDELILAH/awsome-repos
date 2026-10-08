@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 101
+- **Total Repositories**: 102
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-06
 
@@ -16,28 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ultrasecurity/Storm-Breaker](../repos/ultrasecurity/Storm-Breaker.md) | ⭐ 6,087 | 2026-08-29 | 5 |
+| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 8,612 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,395 | 2026-09-19 | 4 |
+| [google/fonts](../repos/google/fonts.md) | ⭐ 20,592 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,149 | 2026-09-19 | 4 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,428 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pedrohcgs/claude-code-my-workflow](../repos/pedrohcgs/claude-code-my-workflow.md) | ⭐ 1,644 | 2026-10-07 | 1 |
+| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,737 | 2026-08-19 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [isjiamu/gzh-design-skill](../repos/isjiamu/gzh-design-skill.md) | ⭐ 3,931 | 2026-09-01 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,410 | 2026-09-19 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [alchaincyf/darwin-skill](../repos/alchaincyf/darwin-skill.md) | ⭐ 6,216 | 2026-10-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [omacom/omarchy-site](../repos/omacom/omarchy-site.md) | ⭐ 77 | 2026-09-08 | Beautiful, Modern &amp; Opinionated Linux by DHH |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [wdndev/llm_interview_note](../repos/wdndev/llm_interview_note.md) | ⭐ 15,058 | 2026-09-08 | 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Guyungy/damaihelper](../repos/Guyungy/damaihelper.md) | ⭐ 4,121 | 2026-09-09 | 支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本 |
@@ -58,10 +61,16 @@
 | [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 16,343 | 2026-09-14 | AI 时代的伯克希尔：基于 Claude Code &#x2F; Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,395 | 2026-09-19 |  |
+| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,410 | 2026-09-19 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [github/opensource.guide](../repos/github/opensource.guide.md) | ⭐ 15,706 | 2026-09-19 | 📚 Community guides for open source creators |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,149 | 2026-09-19 | Crack Interface lockscreen, Metasploit and More Android&#x2F;IOS Hacking |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [TandoorRecipes/recipes](../repos/TandoorRecipes/recipes.md) | ⭐ 8,616 | 2026-09-20 | Application for managing recipes, planning meals, building shopping lists and much much more! |
 
 
 ---
@@ -81,13 +90,13 @@
 | [fengdu78/Coursera-ML-AndrewNg-Notes](../repos/fengdu78/Coursera-ML-AndrewNg-Notes.md) | ⭐ 37,699 | 2026-09-06 | 1 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,948 | 2026-08-09 | 12 |
-| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,529 | 2026-08-19 | 7 |
+| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,737 | 2026-08-19 | 8 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,661 | 2026-08-03 | 10 |
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 26,740 | 2026-08-04 | 9 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,428 | 2026-08-04 | 10 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 22,554 | 2026-08-01 | 7 |
-| [google/fonts](../repos/google/fonts.md) | ⭐ 20,479 | 2026-08-03 | 4 |
+| [google/fonts](../repos/google/fonts.md) | ⭐ 20,592 | 2026-08-03 | 5 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
 | [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | 1 |
 
@@ -106,7 +115,7 @@
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 12 | ⭐ 16,578 | 2026-08-04 | 2026-10-02 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 12 | ⭐ 29,948 | 2026-08-09 | 2026-10-03 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 10 | ⭐ 27,661 | 2026-08-03 | 2026-10-01 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 9 | ⭐ 26,740 | 2026-08-04 | 2026-09-21 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 10 | ⭐ 27,428 | 2026-08-04 | 2026-10-08 |
 
 ---
 
@@ -215,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.414Z*
+*Last updated: 2026-10-08T21:01:46.345Z*

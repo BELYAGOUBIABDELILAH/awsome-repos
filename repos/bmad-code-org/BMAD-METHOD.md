@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | JavaScript |
+| **Language** | Python |
 | **License** | Other |
-| **Stars** | ⭐ 52,420 |
-| **Forks** | 🍴 5,964 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 53,951 |
+| **Forks** | 🍴 6,074 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Aug 28, 2026 |
+| **Last Seen** | Oct 8, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in JavaScript or similar-topics*
+*Similar: Check repositories in Python or agile*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-
+[`agile`](../../topics/agile.md) [`ai`](../../topics/ai.md) [`context-engineering`](../../topics/context-engineering.md) [`sdlc`](../../topics/sdlc.md) [`spec-driven-development`](../../topics/spec-driven-development.md) 
 
 ### Curated Categories
-`General` 
+`Artificial Intelligence` `Systems Programming` 
 
 ---
 
@@ -72,8 +72,8 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
 - General purpose
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in JavaScript
+- Check similar projects in Python
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 65&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-07T21:01:58.316Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-10-08T21:01:49.126Z*  
+*Data from 5 trending reports*

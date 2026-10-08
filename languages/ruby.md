@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 95
+- **Total Repositories**: 98
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-07
+- **Last Updated**: 2026-10-08
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,942 | 2026-08-01 | 34 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,773 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 5,986 | 2026-08-01 | 22 |
+| [instructure/canvas-lms](../repos/instructure/canvas-lms.md) | ⭐ 6,861 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [antiwork/gumroad](../repos/antiwork/gumroad.md) | ⭐ 9,790 | 2026-08-01 | 24 |
+| [antiwork/gumroad](../repos/antiwork/gumroad.md) | ⭐ 9,819 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,799 | 2026-08-01 | 26 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,726 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rails/rails](../repos/rails/rails.md) | ⭐ 58,808 | 2026-08-02 | 35 |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,801 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [forem/forem](../repos/forem/forem.md) | ⭐ 22,790 | 2026-08-04 | 9 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 58,810 | 2026-08-02 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openstreetmap/openstreetmap-website](../repos/openstreetmap/openstreetmap-website.md) | ⭐ 2,838 | 2026-08-08 | 3 |
+| [dependabot/demo](../repos/dependabot/demo.md) | ⭐ 338 | 2026-08-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/explore](../repos/github/explore.md) | ⭐ 4,903 | 2026-08-09 | 22 |
+| [neutraltone/awesome-stock-resources](../repos/neutraltone/awesome-stock-resources.md) | ⭐ 14,588 | 2026-09-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [basecamp/once-campfire](../repos/basecamp/once-campfire.md) | ⭐ 4,746 | 2026-08-16 | 15 |
+| [github/scientist](../repos/github/scientist.md) | ⭐ 7,763 | 2026-10-08 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TheOdinProject/ruby-exercises](../repos/TheOdinProject/ruby-exercises.md) | ⭐ 310 | 2026-08-16 | 4 |
+| [fluent/fluentd](../repos/fluent/fluentd.md) | ⭐ 13,601 | 2026-10-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [heartcombo/devise](../repos/heartcombo/devise.md) | ⭐ 24,356 | 2026-09-08 | Flexible authentication solution for Rails with Warden. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [gollum/gollum](../repos/gollum/gollum.md) | ⭐ 14,323 | 2026-09-08 | A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openSUSE/open-build-service](../repos/openSUSE/open-build-service.md) | ⭐ 1,074 | 2026-09-12 | Build and distribute Linux packages from sources in an automatic, consistent and reproducible way... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ruby/json](../repos/ruby/json.md) | ⭐ 783 | 2026-09-29 | JSON implementation for Ruby |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [github/markup](../repos/github/markup.md) | ⭐ 6,044 | 2026-10-06 | Determines which markup library to use to render a content file (e.g. README) on GitHub |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [doorkeeper-gem/doorkeeper](../repos/doorkeeper-gem/doorkeeper.md) | ⭐ 5,522 | 2026-10-07 | Doorkeeper is an OAuth 2 provider for Ruby on Rails &#x2F; Grape. |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rails/rails](../repos/rails/rails.md) | ⭐ 58,808 | 2026-08-02 | 35 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 58,810 | 2026-08-02 | 36 |
 | [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,707 | 2026-08-03 | 16 |
 | [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,020 | 2026-08-01 | 21 |
 | [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,942 | 2026-08-01 | 34 |
@@ -98,7 +98,7 @@
 | [matteocrippa/awesome-swift](../repos/matteocrippa/awesome-swift.md) | ⭐ 26,311 | 2026-09-27 | 2 |
 | [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,546 | 2026-08-01 | 13 |
 | [heartcombo/devise](../repos/heartcombo/devise.md) | ⭐ 24,356 | 2026-09-08 | 2 |
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,763 | 2026-08-01 | 26 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,773 | 2026-08-01 | 27 |
 | [forem/forem](../repos/forem/forem.md) | ⭐ 22,790 | 2026-08-04 | 9 |
 | [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,660 | 2026-08-02 | 21 |
 | [postalserver/postal](../repos/postalserver/postal.md) | ⭐ 16,853 | 2026-08-04 | 15 |
@@ -106,7 +106,7 @@
 | [spree/spree](../repos/spree/spree.md) | ⭐ 15,735 | 2026-08-01 | 27 |
 | [CocoaPods/CocoaPods](../repos/CocoaPods/CocoaPods.md) | ⭐ 14,831 | 2026-09-02 | 1 |
 | [basecamp/kamal](../repos/basecamp/kamal.md) | ⭐ 14,605 | 2026-08-12 | 10 |
-| [neutraltone/awesome-stock-resources](../repos/neutraltone/awesome-stock-resources.md) | ⭐ 14,554 | 2026-09-04 | 2 |
+| [neutraltone/awesome-stock-resources](../repos/neutraltone/awesome-stock-resources.md) | ⭐ 14,588 | 2026-09-04 | 3 |
 | [gollum/gollum](../repos/gollum/gollum.md) | ⭐ 14,323 | 2026-09-08 | 1 |
 
 ---
@@ -115,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [rails/rails](../repos/rails/rails.md) | 35 | ⭐ 58,808 | 2026-08-02 | 2026-10-07 |
+| [rails/rails](../repos/rails/rails.md) | 36 | ⭐ 58,810 | 2026-08-02 | 2026-10-08 |
 | [discourse/discourse](../repos/discourse/discourse.md) | 34 | ⭐ 47,942 | 2026-08-01 | 2026-10-07 |
 | [opf/openproject](../repos/opf/openproject.md) | 34 | ⭐ 16,299 | 2026-08-01 | 2026-10-03 |
 | [fastlane/fastlane](../repos/fastlane/fastlane.md) | 31 | ⭐ 42,205 | 2026-08-04 | 2026-10-06 |
 | [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | 30 | ⭐ 39,107 | 2026-08-01 | 2026-10-06 |
+| [ruby/ruby](../repos/ruby/ruby.md) | 27 | ⭐ 23,773 | 2026-08-01 | 2026-10-08 |
 | [spree/spree](../repos/spree/spree.md) | 27 | ⭐ 15,735 | 2026-08-01 | 2026-09-28 |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 27 | ⭐ 5,801 | 2026-08-01 | 2026-10-08 |
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 27 | ⭐ 1,074 | 2026-08-01 | 2026-10-03 |
-| [ruby/ruby](../repos/ruby/ruby.md) | 26 | ⭐ 23,763 | 2026-08-01 | 2026-09-29 |
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 26 | ⭐ 5,799 | 2026-08-01 | 2026-10-07 |
 | [we-promise/sure](../repos/we-promise/sure.md) | 26 | ⭐ 10,371 | 2026-08-02 | 2026-10-02 |
 
 ---
@@ -225,7 +225,10 @@
 - [ruby/json](../repos/ruby/json.md) - JSON implementation for Ruby
 - [github/markup](../repos/github/markup.md) - Determines which markup library to use to render a content file (e.g. README) on GitHub
 - [doorkeeper-gem/doorkeeper](../repos/doorkeeper-gem/doorkeeper.md) - Doorkeeper is an OAuth 2 provider for Ruby on Rails &#x2F; Grape.
+- [github/scientist](../repos/github/scientist.md) - :microscope: A Ruby library for carefully refactoring critical paths.
+- [fluent/fluentd](../repos/fluent/fluentd.md) - Fluentd: Unified Logging Layer (project under CNCF)
+- [puppetlabs/puppet](../repos/puppetlabs/puppet.md) - Server automation framework and application
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.460Z*
+*Last updated: 2026-10-08T21:01:46.373Z*

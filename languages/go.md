@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 290
+- **Total Repositories**: 293
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-10-07
+- **Last Updated**: 2026-10-08
 
 ---
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,317 | 2026-07-31 | 13 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,406 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,286 | 2026-08-01 | 18 |
+| [tailscale/tailscale](../repos/tailscale/tailscale.md) | ⭐ 37,276 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,488 | 2026-08-01 | 17 |
+| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,349 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | ⭐ 762 | 2026-08-01 | 16 |
+| [navidrome/navidrome](../repos/navidrome/navidrome.md) | ⭐ 24,043 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 77,476 | 2026-08-03 | 8 |
+| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 29,794 | 2026-08-11 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,294 | 2026-08-05 | 2 |
+| [open-telemetry/opentelemetry-collector-contrib](../repos/open-telemetry/opentelemetry-collector-contrib.md) | ⭐ 4,982 | 2026-08-26 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) | ⭐ 4,177 | 2026-08-05 | 8 |
+| [hashicorp/vault](../repos/hashicorp/vault.md) | ⭐ 36,358 | 2026-08-26 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 29,781 | 2026-08-11 | 7 |
+| [docker/docker-agent](../repos/docker/docker-agent.md) | ⭐ 4,222 | 2026-08-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,384 | 2026-08-15 | 9 |
+| [stacklok/toolhive](../repos/stacklok/toolhive.md) | ⭐ 2,251 | 2026-09-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [maximhq/bifrost](../repos/maximhq/bifrost.md) | ⭐ 8,610 | 2026-08-19 | 3 |
+| [llm-d/llm-d-router](../repos/llm-d/llm-d-router.md) | ⭐ 381 | 2026-10-06 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [gtsteffaniak/filebrowser](../repos/gtsteffaniak/filebrowser.md) | ⭐ 8,191 | 2026-09-08 | 📂 Web File Browser |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [stacklok/toolhive](../repos/stacklok/toolhive.md) | ⭐ 2,138 | 2026-09-08 | ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) se... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [go-playground/validator](../repos/go-playground/validator.md) | ⭐ 20,151 | 2026-09-08 | :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array di... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [moby/buildkit](../repos/moby/buildkit.md) | ⭐ 10,245 | 2026-09-08 | concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [go-resty/resty](../repos/go-resty/resty.md) | ⭐ 11,792 | 2026-09-09 | Simple HTTP, REST, and SSE client library for Go |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [projectdiscovery/katana](../repos/projectdiscovery/katana.md) | ⭐ 17,453 | 2026-09-10 | A next-generation crawling and spidering framework. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [golang-migrate/migrate](../repos/golang-migrate/migrate.md) | ⭐ 18,908 | 2026-09-10 | Database migrations. CLI and Golang library. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [p1neappleXpress/OpenFlux](../repos/p1neappleXpress/OpenFlux.md) | ⭐ 1,516 | 2026-09-12 | Network stack research tool. TCP tunnel with pluggable transports. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [najmuzzaman-mohammad/gawkbot](../repos/najmuzzaman-mohammad/gawkbot.md) | ⭐ 1,377 | 2026-09-12 | open source grok bot. gawk bots automate your menial work via AI models and build you microapps t... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [obot-platform/obot](../repos/obot-platform/obot.md) | ⭐ 1,071 | 2026-09-12 | Complete AI Governance Platform from Obot AI |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,488 | 2026-08-01 | 17 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,406 | 2026-08-01 | 18 |
 | [golang/go](../repos/golang/go.md) | ⭐ 139,317 | 2026-07-31 | 13 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,053 | 2026-08-04 | 7 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,384 | 2026-08-15 | 9 |
@@ -116,8 +116,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 18 | ⭐ 38,286 | 2026-08-01 | 2026-10-07 |
+| [ollama/ollama](../repos/ollama/ollama.md) | 18 | ⭐ 182,406 | 2026-08-01 | 2026-10-08 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 17 | ⭐ 27,208 | 2026-08-01 | 2026-09-19 |
-| [ollama/ollama](../repos/ollama/ollama.md) | 17 | ⭐ 182,488 | 2026-08-01 | 2026-10-07 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 16 | ⭐ 762 | 2026-08-01 | 2026-10-07 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 15 | ⭐ 48,695 | 2026-08-01 | 2026-09-22 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 15 | ⭐ 4,200 | 2026-08-02 | 2026-10-03 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.408Z*
+*Last updated: 2026-10-08T21:01:46.342Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 206
+- **Total Repositories**: 208
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-01
 
@@ -16,37 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emilk/egui](../repos/emilk/egui.md) | ⭐ 30,969 | 2026-08-02 | 3 |
+| [microsoft/mxc](../repos/microsoft/mxc.md) | ⭐ 1,725 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 41,568 | 2026-08-10 | 15 |
+| [emilk/egui](../repos/emilk/egui.md) | ⭐ 31,035 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RyanCodrai/turbovec](../repos/RyanCodrai/turbovec.md) | ⭐ 17,353 | 2026-08-19 | 8 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 43,678 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 3,895 | 2026-09-13 | 4 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 9,046 | 2026-08-17 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 4,539 | 2026-10-06 | 2 |
+| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 3,958 | 2026-09-13 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [eolix/photosuite](../repos/eolix/photosuite.md) | ⭐ 886 | 2026-10-07 | 1 |
+| [rubys/roundhouse](../repos/rubys/roundhouse.md) | ⭐ 421 | 2026-10-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry0703/MangoDisk](../repos/harry0703/MangoDisk.md) | ⭐ 3,803 | 2026-10-07 | 1 |
+| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 7,462 | 2026-10-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xerj-org/xerj](../repos/xerj-org/xerj.md) | ⭐ 3,101 | 2026-10-07 | 1 |
+| [tracel-ai/burn](../repos/tracel-ai/burn.md) | ⭐ 16,056 | 2026-10-08 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [yuxino/Mimi](../repos/yuxino/Mimi.md) | ⭐ 627 | 2026-10-08 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [quickwit-oss/quickwit](../repos/quickwit-oss/quickwit.md) | ⭐ 11,587 | 2026-09-08 | Cloud-native OSS search engine for observability |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google/magika](../repos/google/magika.md) | ⭐ 18,518 | 2026-09-09 | Fast and accurate AI powered file content types detection  |
@@ -74,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [NVlabs/cuda-oxide](../repos/NVlabs/cuda-oxide.md) | ⭐ 3,299 | 2026-09-12 | cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idioma... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Stremio/stremio-core](../repos/Stremio/stremio-core.md) | ⭐ 2,377 | 2026-09-13 | ⚛️ The Stremio Core: types, addon system, UI models, core logic |
 
 
 ---
@@ -99,7 +102,7 @@
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,253 | 2026-08-05 | 10 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 42,307 | 2026-08-02 | 8 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 43,678 | 2026-08-02 | 9 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 41,568 | 2026-08-10 | 15 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 
@@ -227,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.462Z*
+*Last updated: 2026-10-08T21:01:46.375Z*

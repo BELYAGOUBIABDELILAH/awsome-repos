@@ -7,7 +7,7 @@
 ## October 2026
 
 **Period**: 2026-10-01 to 2026-10-28  
-**Gems Found**: 242
+**Gems Found**: 283
 
 ---
 
@@ -31,23 +31,23 @@
 
 ---
 
-### 2. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
+### 2. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
 
-**Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
+**OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,646 |
-| 💻 **Language** | TypeScript |
+| ⭐ **Stars** | 4,838 |
+| 💻 **Language** | Python |
 | 🏆 **Gem Score** | 95/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Sep 25, 2026 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 22, 2026 |
 
-**Why it's a gem**: High growth velocity (+943 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+444 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/mvschwarz/openrig.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mvschwarz&#x2F;openrig)
+[View Passport](../../repos/superdesigndev/treg.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superdesigndev&#x2F;treg)
 
 ---
 
@@ -111,7 +111,27 @@
 
 ---
 
-### 6. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
+### 6. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
+
+**Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,646 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 94/100 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Sep 25, 2026 |
+
+**Why it's a gem**: High growth velocity (+943 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/mvschwarz/openrig.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mvschwarz&#x2F;openrig)
+
+---
+
+### 7. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
 
 **Open source factory for one-shot engineering**
 
@@ -119,7 +139,7 @@
 |---|---|
 | ⭐ **Stars** | 7,705 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 92/100 |
+| 🏆 **Gem Score** | 91/100 |
 | 📈 **Trending Days** | 10 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
@@ -131,7 +151,7 @@
 
 ---
 
-### 7. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
+### 8. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
 
 **Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.**
 
@@ -151,67 +171,27 @@
 
 ---
 
-### 8. [max-sixty&#x2F;worktrunk](../../repos/max-sixty/worktrunk.md)
+### 9. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
 
-**Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 8,726 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 11 |
-| 📅 **First Seen** | Aug 26, 2026 |
-
-**Why it's a gem**: High growth velocity (+113 stars&#x2F;day) • Trending 11 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/max-sixty/worktrunk.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;max-sixty&#x2F;worktrunk)
-
----
-
-### 9. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
-
-**Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT**
+**Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,708 |
-| 💻 **Language** | C |
+| ⭐ **Stars** | 1,134 |
+| 💻 **Language** | Kotlin |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Sep 9, 2026 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Oct 6, 2026 |
 
-**Why it's a gem**: High growth velocity (+131 stars&#x2F;day) • Trending 8 times • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+179 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/willfaust/Madeira.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;willfaust&#x2F;Madeira)
+[View Passport](../../repos/PimpinPumpkin/Vela.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PimpinPumpkin&#x2F;Vela)
 
 ---
 
-### 10. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
-
-**OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,732 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Sep 22, 2026 |
-
-**Why it's a gem**: High growth velocity (+525 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/superdesigndev/treg.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superdesigndev&#x2F;treg)
-
----
-
-### 11. [itsfatduck&#x2F;optimizerDuck](../../repos/itsfatduck/optimizerDuck.md)
+### 10. [itsfatduck&#x2F;optimizerDuck](../../repos/itsfatduck/optimizerDuck.md)
 
 **Free, open-source Windows optimization tool for performance, privacy, and simplicity.**
 
@@ -231,7 +211,7 @@
 
 ---
 
-### 12. [mnfst&#x2F;awesome-free-llm-apis](../../repos/mnfst/awesome-free-llm-apis.md)
+### 11. [mnfst&#x2F;awesome-free-llm-apis](../../repos/mnfst/awesome-free-llm-apis.md)
 
 **List of Permanent Free LLM API  (API Keys)**
 
@@ -251,7 +231,7 @@
 
 ---
 
-### 13. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
+### 12. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
 
 **ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.**
 
@@ -271,19 +251,19 @@
 
 ---
 
-### 14. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
+### 13. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
 
 **OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,194 |
+| ⭐ **Stars** | 3,204 |
 | 💻 **Language** | Shell |
 | 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 7 |
+| 📈 **Trending Days** | 8 |
 | 📅 **First Seen** | Aug 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+124 stars&#x2F;day) • Trending 7 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+109 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -291,7 +271,67 @@
 
 ---
 
-### 15. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
+### 14. [max-sixty&#x2F;worktrunk](../../repos/max-sixty/worktrunk.md)
+
+**Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 8,726 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 11 |
+| 📅 **First Seen** | Aug 26, 2026 |
+
+**Why it's a gem**: High growth velocity (+113 stars&#x2F;day) • Trending 11 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/max-sixty/worktrunk.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;max-sixty&#x2F;worktrunk)
+
+---
+
+### 15. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
+
+**Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,708 |
+| 💻 **Language** | C |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Sep 9, 2026 |
+
+**Why it's a gem**: High growth velocity (+131 stars&#x2F;day) • Trending 8 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/willfaust/Madeira.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;willfaust&#x2F;Madeira)
+
+---
+
+### 16. [M-Abozaid&#x2F;esp32-c3-adblock](../../repos/M-Abozaid/esp32-c3-adblock.md)
+
+**Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https:&#x2F;&#x2F;youtube.com&#x2F;shorts&#x2F;RaxszOUMi8E?feature&#x3D;share**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,354 |
+| 💻 **Language** | C++ |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Oct 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+372 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/M-Abozaid/esp32-c3-adblock.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;M-Abozaid&#x2F;esp32-c3-adblock)
+
+---
+
+### 17. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
 
 **Agent Substrate: the core system**
 
@@ -311,7 +351,7 @@
 
 ---
 
-### 16. [optiscaler&#x2F;OptiScaler](../../repos/optiscaler/OptiScaler.md)
+### 18. [optiscaler&#x2F;OptiScaler](../../repos/optiscaler/OptiScaler.md)
 
 **OptiScaler bridges upscaling&#x2F;frame gen across GPUs. Supports DLSS2+&#x2F;XeSS&#x2F;FSR2+ inputs, replaces native upscalers, enables FSR-FG&#x2F;XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.**
 
@@ -331,7 +371,7 @@
 
 ---
 
-### 17. [jo-inc&#x2F;camofox-browser](../../repos/jo-inc/camofox-browser.md)
+### 19. [jo-inc&#x2F;camofox-browser](../../repos/jo-inc/camofox-browser.md)
 
 **Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer&#x2F;Playwright replacement.**
 
@@ -351,7 +391,7 @@
 
 ---
 
-### 18. [laoma2053&#x2F;awesome-zhuiju-free](../../repos/laoma2053/awesome-zhuiju-free.md)
+### 20. [laoma2053&#x2F;awesome-zhuiju-free](../../repos/laoma2053/awesome-zhuiju-free.md)
 
 **免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。**
 
@@ -371,46 +411,6 @@
 
 ---
 
-### 19. [anthropics&#x2F;claude-plugins-community](../../repos/anthropics/claude-plugins-community.md)
-
-**Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de&#x2F;plugin-directory-submission.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,553 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Aug 22, 2026 |
-
-**Why it's a gem**: High growth velocity (+496 stars&#x2F;day) • Trending 7 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/anthropics/claude-plugins-community.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;anthropics&#x2F;claude-plugins-community)
-
----
-
-### 20. [InlitX&#x2F;streak](../../repos/InlitX/streak.md)
-
-**Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 753 |
-| 💻 **Language** | Dart |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 23, 2026 |
-
-**Why it's a gem**: Trending 8 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/InlitX/streak.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;InlitX&#x2F;streak)
-
----
-
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-07T21:02:00.945Z*  
+*Generated: 2026-10-08T21:01:50.948Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

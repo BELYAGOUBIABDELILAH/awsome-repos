@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | MIT |
-| **Stars** | ⭐ 8,068 |
-| **Forks** | 🍴 545 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 9,046 |
+| **Forks** | 🍴 628 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #3 |
 
 | **First Seen** | Aug 17, 2026 |
-| **Last Seen** | Sep 22, 2026 |
+| **Last Seen** | Oct 8, 2026 |
 
 
 ---
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #3
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 3 days
 
 ---
@@ -75,7 +75,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:58.756Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-10-08T21:01:49.419Z*  
+*Data from 9 trending reports*

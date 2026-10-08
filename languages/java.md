@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 211
+- **Total Repositories**: 213
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-19
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | ⭐ 10,651 | 2026-08-01 | 3 |
+| [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | ⭐ 10,715 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [debezium/debezium](../repos/debezium/debezium.md) | ⭐ 13,196 | 2026-08-01 | 4 |
+| [apache/maven](../repos/apache/maven.md) | ⭐ 5,369 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 27,258 | 2026-08-02 | 17 |
+| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,779 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 81,382 | 2026-08-03 | 18 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 81,709 | 2026-08-03 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,306 | 2026-08-04 | 9 |
+| [apache/cassandra](../repos/apache/cassandra.md) | ⭐ 10,116 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,565 | 2026-08-04 | 15 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 14,810 | 2026-08-06 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 14,798 | 2026-08-06 | 11 |
+| [logisim-evolution/logisim-evolution](../repos/logisim-evolution/logisim-evolution.md) | ⭐ 7,729 | 2026-08-22 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,278 | 2026-08-08 | 8 |
+| [AndreyPavlenko/Fermata](../repos/AndreyPavlenko/Fermata.md) | ⭐ 1,404 | 2026-08-23 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AbdurazaaqMohammed/MP-Manager](../repos/AbdurazaaqMohammed/MP-Manager.md) | ⭐ 155 | 2026-09-27 | 2 |
+| [apache/fineract](../repos/apache/fineract.md) | ⭐ 2,538 | 2026-08-27 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/JetBrainsRuntime](../repos/JetBrains/JetBrainsRuntime.md) | ⭐ 1,999 | 2026-10-07 | 1 |
+| [jenkinsci/jenkins](../repos/jenkinsci/jenkins.md) | ⭐ 26,628 | 2026-09-01 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Suwayomi/Suwayomi-Server](../repos/Suwayomi/Suwayomi-Server.md) | ⭐ 7,785 | 2026-09-08 | A rewrite of Tachiyomi for the Desktop |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [alibaba/DataX](../repos/alibaba/DataX.md) | ⭐ 17,345 | 2026-09-08 | DataX是阿里云DataWorks数据集成的开源版本。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [runelite/runelite](../repos/runelite/runelite.md) | ⭐ 5,454 | 2026-09-08 | Open source Old School RuneScape client |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [iterate-ch/cyberduck](../repos/iterate-ch/cyberduck.md) | ⭐ 4,761 | 2026-09-08 | Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure &amp; OneDrive and O... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [spring-projects/spring-security](../repos/spring-projects/spring-security.md) | ⭐ 9,625 | 2026-09-08 | Spring Security |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/fesod](../repos/apache/fesod.md) | ⭐ 6,202 | 2026-09-09 | Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM. |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/gravitino](../repos/apache/gravitino.md) | ⭐ 3,218 | 2026-09-12 | World&#39;s most powerful open data catalog for building a high-performance, geo-distributed and fede... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apache/hudi](../repos/apache/hudi.md) | ⭐ 6,242 | 2026-09-13 | Upserts, Deletes And Incremental Processing on Big Data. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [RikkaApps/Sui](../repos/RikkaApps/Sui.md) | ⭐ 4,200 | 2026-09-13 | Modern super user interface implementation on Android. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [FIRST-Tech-Challenge/FtcRobotController](../repos/FIRST-Tech-Challenge/FtcRobotController.md) | ⭐ 1,340 | 2026-09-13 | FTC Android Studio Workspace for robot programming in Android Studio |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [19MisterX98/SeedcrackerX](../repos/19MisterX98/SeedcrackerX.md) | ⭐ 1,760 | 2026-09-14 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [icysymmetra/tiktok-patches-for-morphe](../repos/icysymmetra/tiktok-patches-for-morphe.md) | ⭐ 344 | 2026-09-14 | This repository is a Morphe patch source for TikTok.  It continues the work from earlier communit... |
 
 
 ---
@@ -89,8 +89,8 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,276 | 2026-08-04 | 6 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 81,709 | 2026-08-03 | 19 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,565 | 2026-08-04 | 15 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 81,382 | 2026-08-03 | 18 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,184 | 2026-08-02 | 15 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,331 | 2026-08-04 | 7 |
@@ -116,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 22 | ⭐ 5,836 | 2026-08-05 | 2026-09-29 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 18 | ⭐ 81,382 | 2026-08-03 | 2026-10-07 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 19 | ⭐ 81,709 | 2026-08-03 | 2026-10-08 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 18 | ⭐ 29,311 | 2026-08-04 | 2026-10-06 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 17 | ⭐ 27,258 | 2026-08-02 | 2026-10-07 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 15 | ⭐ 78,184 | 2026-08-02 | 2026-10-03 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-07T21:01:53.419Z*
+*Last updated: 2026-10-08T21:01:46.348Z*
