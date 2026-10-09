@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 152
+- **Total Repositories**: 153
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,128 | 2026-08-01 | 14 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 42,630 | 2026-08-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 42,607 | 2026-08-03 | 11 |
+| [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,342 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,879 | 2026-08-12 | 9 |
+| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | ⭐ 5,866 | 2026-08-11 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,687 | 2026-09-07 | 9 |
+| [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 1,373 | 2026-08-19 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 1,134 | 2026-10-06 | 3 |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,731 | 2026-09-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Lelonio/Square](../repos/Lelonio/Square.md) | ⭐ 102 | 2026-10-08 | 1 |
+| [ximeiorg/Xime](../repos/ximeiorg/Xime.md) | ⭐ 1,168 | 2026-09-09 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 1,278 | 2026-10-06 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [HaoZai000/NexioSchedule](../repos/HaoZai000/NexioSchedule.md) | ⭐ 151 | 2026-10-09 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ximeiorg/Xime](../repos/ximeiorg/Xime.md) | ⭐ 1,007 | 2026-09-09 | 我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔&#x2F;拼音&#x2F;自定义方案。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NeoApplications/Neo-Store](../repos/NeoApplications/Neo-Store.md) | ⭐ 5,171 | 2026-09-09 | An F-Droid client with modern UI and an arsenal of extra features. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mardous/BoomingMusic](../repos/mardous/BoomingMusic.md) | ⭐ 486 | 2026-09-12 | Clean, fast, and Material-driven Android music player with powerful features. |
@@ -68,6 +68,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Codename-11/hermes-relay](../repos/Codename-11/hermes-relay.md) | ⭐ 281 | 2026-09-28 | Hermes-Relay — Your Hermes AI agent, in your pocket — chat, voice, and control. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 258 | 2026-09-29 | Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE&#x2F;AmneziaWG, and the MLM... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 1,596 | 2026-10-01 | GhostLock One-Tap Execution App (CVE-2026-43499) |
 
 
 ---
@@ -80,16 +86,16 @@
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,060 | 2026-08-03 | 13 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,585 | 2026-08-06 | 13 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,486 | 2026-08-04 | 11 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 42,607 | 2026-08-03 | 11 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 42,630 | 2026-08-03 | 12 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,980 | 2026-08-08 | 16 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,338 | 2026-08-05 | 5 |
-| [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,227 | 2026-08-11 | 4 |
+| [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,342 | 2026-08-11 | 5 |
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,879 | 2026-08-12 | 9 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,128 | 2026-08-01 | 14 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,872 | 2026-08-02 | 5 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,852 | 2026-08-01 | 7 |
-| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,687 | 2026-09-07 | 9 |
+| [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,731 | 2026-09-07 | 10 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,231 | 2026-08-17 | 5 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,917 | 2026-08-02 | 9 |
@@ -110,9 +116,9 @@
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 13 | ⭐ 63,060 | 2026-08-03 | 2026-10-03 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 13 | ⭐ 53,585 | 2026-08-06 | 2026-09-19 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 12 | ⭐ 10,776 | 2026-08-03 | 2026-09-25 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 12 | ⭐ 42,630 | 2026-08-03 | 2026-10-09 |
 | [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 12 | ⭐ 845 | 2026-08-05 | 2026-09-12 |
 | [embabel/embabel-agent](../repos/embabel/embabel-agent.md) | 11 | ⭐ 4,477 | 2026-08-02 | 2026-09-29 |
-| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | 11 | ⭐ 1,175 | 2026-08-02 | 2026-09-27 |
 
 ---
 
@@ -221,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.354Z*
+*Last updated: 2026-10-09T21:01:33.174Z*

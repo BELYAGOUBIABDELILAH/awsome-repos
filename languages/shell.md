@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 131
+- **Total Repositories**: 132
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 1,940 | 2026-08-01 | 8 |
+| [bats-core/bats-core](../repos/bats-core/bats-core.md) | ⭐ 6,309 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openshift/release](../repos/openshift/release.md) | ⭐ 330 | 2026-08-04 | 6 |
+| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,630 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,683 | 2026-08-07 | 26 |
+| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,710 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,031 | 2026-08-07 | 6 |
+| [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) | ⭐ 4,194 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,451 | 2026-08-11 | 8 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,683 | 2026-08-07 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,204 | 2026-08-19 | 8 |
+| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,956 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/fnnas](../repos/ophub/fnnas.md) | ⭐ 3,359 | 2026-08-22 | 5 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 7,740 | 2026-08-12 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zabbix/community-templates](../repos/zabbix/community-templates.md) | ⭐ 1,990 | 2026-09-19 | 3 |
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,792 | 2026-09-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mr-MIBonk/M.I.B._More-Incredible-Bash](../repos/Mr-MIBonk/M.I.B._More-Incredible-Bash.md) | ⭐ 1,124 | 2026-09-20 | 3 |
+| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,703 | 2026-09-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy-action](../repos/aquasecurity/trivy-action.md) | ⭐ 1,435 | 2026-10-06 | 2 |
+| [conda-forge/miniforge](../repos/conda-forge/miniforge.md) | ⭐ 10,253 | 2026-10-09 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bitol-io/open-data-contract-standard](../repos/bitol-io/open-data-contract-standard.md) | ⭐ 1,128 | 2026-09-09 | Home of the Open Data Contract Standard (ODCS). |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [CachyOS/CachyOS-PKGBUILDS](../repos/CachyOS/CachyOS-PKGBUILDS.md) | ⭐ 360 | 2026-09-09 | PKGBUILDs for CachyOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [gnzsnz/ib-gateway-docker](../repos/gnzsnz/ib-gateway-docker.md) | ⭐ 1,216 | 2026-09-10 | Docker image with IB Gateway&#x2F;TWS and IBC  |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [truenas/truenas-proxmox-plugin](../repos/truenas/truenas-proxmox-plugin.md) | ⭐ 313 | 2026-09-19 | For providing seamless block storage to PVE |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Euro-Office/DocumentServer](../repos/Euro-Office/DocumentServer.md) | ⭐ 1,804 | 2026-09-19 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zabbix/community-templates](../repos/zabbix/community-templates.md) | ⭐ 1,990 | 2026-09-19 | Zabbix Community Templates repository |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,274 | 2026-08-01 | 34 |
-| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,417 | 2026-08-04 | 6 |
+| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,630 | 2026-08-04 | 7 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,761 | 2026-08-04 | 10 |
@@ -98,7 +98,7 @@
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,442 | 2026-08-20 | 9 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,563 | 2026-09-02 | 2 |
+| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,703 | 2026-09-02 | 3 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,999 | 2026-08-04 | 11 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,031 | 2026-08-07 | 6 |
@@ -116,10 +116,10 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 34 | ⭐ 95,274 | 2026-08-01 | 2026-10-06 |
-| [expo/skills](../repos/expo/skills.md) | 26 | ⭐ 2,683 | 2026-08-07 | 2026-10-08 |
+| [expo/skills](../repos/expo/skills.md) | 27 | ⭐ 2,683 | 2026-08-07 | 2026-10-09 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 19 | ⭐ 11,240 | 2026-08-04 | 2026-10-06 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 17 | ⭐ 7,610 | 2026-08-12 | 2026-10-06 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 18 | ⭐ 7,740 | 2026-08-12 | 2026-10-09 |
 | [dockur/windows](../repos/dockur/windows.md) | 13 | ⭐ 53,550 | 2026-08-06 | 2026-10-07 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 12 | ⭐ 2,316 | 2026-08-02 | 2026-09-25 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 12 | ⭐ 2,975 | 2026-08-05 | 2026-10-03 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.378Z*
+*Last updated: 2026-10-09T21:01:33.200Z*

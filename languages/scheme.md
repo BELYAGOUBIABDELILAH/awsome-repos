@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [gambit/gambit](../repos/gambit/gambit.md) | ⭐ 1,441 | 2026-09-09 | Gambit is an efficient implementation of the Scheme programming language. |
 
+*No new Scheme repositories in the last 30 days*
 
 ---
 
@@ -59,4 +57,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.377Z*
+*Last updated: 2026-10-09T21:01:33.199Z*

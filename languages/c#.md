@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 178
+- **Total Repositories**: 180
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-03
+- **Last Updated**: 2026-10-09
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,748 | 2026-08-01 | 16 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,756 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,440 | 2026-08-01 | 9 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,706 | 2026-08-02 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,087 | 2026-08-02 | 28 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,218 | 2026-08-02 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AssetRipper/AssetRipper](../repos/AssetRipper/AssetRipper.md) | ⭐ 8,513 | 2026-08-02 | 4 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,592 | 2026-08-03 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,582 | 2026-08-03 | 26 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 16,935 | 2026-08-03 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,640 | 2026-08-06 | 13 |
+| [srwi/EverythingToolbar](../repos/srwi/EverythingToolbar.md) | ⭐ 14,885 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LorisYounger/VPet](../repos/LorisYounger/VPet.md) | ⭐ 6,907 | 2026-08-08 | 6 |
+| [LorisYounger/VPet](../repos/LorisYounger/VPet.md) | ⭐ 6,926 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MUnique/OpenMU](../repos/MUnique/OpenMU.md) | ⭐ 1,201 | 2026-09-05 | 3 |
+| [sourcegit-scm/sourcegit](../repos/sourcegit-scm/sourcegit.md) | ⭐ 6,115 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kareadita/Kavita](../repos/Kareadita/Kavita.md) | ⭐ 11,821 | 2026-09-09 | 2 |
+| [redis-windows/redis-windows](../repos/redis-windows/redis-windows.md) | ⭐ 4,336 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shaked6540/YoutubePlaylistDownloader](../repos/shaked6540/YoutubePlaylistDownloader.md) | ⭐ 3,146 | 2026-10-08 | 1 |
+| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,231 | 2026-08-27 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Kareadita/Kavita](../repos/Kareadita/Kavita.md) | ⭐ 11,821 | 2026-09-09 | Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a ful... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [FlaUI/FlaUI](../repos/FlaUI/FlaUI.md) | ⭐ 3,125 | 2026-09-09 | UI automation library for .Net |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/winappCli](../repos/microsoft/winappCli.md) | ⭐ 1,244 | 2026-09-10 | winapp, the Windows App Development CLI, is a single command-line interface for managing Windows ... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Taiizor/ReaLTaiizor](../repos/Taiizor/ReaLTaiizor.md) | ⭐ 2,342 | 2026-09-19 | ReaLTaiizor is a .NET WinForms control library that offers a wide range of components and is user... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bbepis/XUnity.AutoTranslator](../repos/bbepis/XUnity.AutoTranslator.md) | ⭐ 3,433 | 2026-09-19 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [RankFTW/RHI](../repos/RankFTW/RHI.md) | ⭐ 1,656 | 2026-09-20 | ReShade HDR Installer |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,566 | 2026-08-02 | 25 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,706 | 2026-08-02 | 26 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 57,879 | 2026-08-02 | 19 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,640 | 2026-08-06 | 13 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,350 | 2026-08-01 | 9 |
@@ -97,14 +97,14 @@
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,465 | 2026-08-01 | 17 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,235 | 2026-08-01 | 17 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,087 | 2026-08-02 | 28 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,218 | 2026-08-02 | 29 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,062 | 2026-08-28 | 3 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,603 | 2026-08-05 | 11 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,038 | 2026-08-10 | 5 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,440 | 2026-08-01 | 9 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,367 | 2026-08-02 | 7 |
-| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,053 | 2026-08-27 | 7 |
+| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,231 | 2026-08-27 | 8 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,700 | 2026-08-01 | 10 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,198 | 2026-08-01 | 9 |
@@ -115,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 28 | ⭐ 31,087 | 2026-08-02 | 2026-10-08 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 26 | ⭐ 5,582 | 2026-08-03 | 2026-10-08 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 25 | ⭐ 117,566 | 2026-08-02 | 2026-10-03 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 29 | ⭐ 31,218 | 2026-08-02 | 2026-10-09 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 27 | ⭐ 5,592 | 2026-08-03 | 2026-10-09 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 26 | ⭐ 117,706 | 2026-08-02 | 2026-10-09 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 19 | ⭐ 57,879 | 2026-08-02 | 2026-10-07 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 17 | ⭐ 31,235 | 2026-08-01 | 2026-09-25 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | 17 | ⭐ 3,756 | 2026-08-01 | 2026-10-09 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 17 | ⭐ 38,465 | 2026-08-01 | 2026-10-06 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 17 | ⭐ 15,755 | 2026-08-02 | 2026-09-27 |
-| [microsoft/mcp](../repos/microsoft/mcp.md) | 16 | ⭐ 3,748 | 2026-08-01 | 2026-10-08 |
 | [microsoft/aspire](../repos/microsoft/aspire.md) | 16 | ⭐ 6,350 | 2026-08-05 | 2026-10-07 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 15 | ⭐ 14,458 | 2026-08-01 | 2026-10-06 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.324Z*
+*Last updated: 2026-10-09T21:01:33.143Z*

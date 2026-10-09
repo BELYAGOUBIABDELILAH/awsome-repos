@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 213
+- **Total Repositories**: 214
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-19
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LaurieWired/GhidraMCP](../repos/LaurieWired/GhidraMCP.md) | ⭐ 10,715 | 2026-08-01 | 4 |
+| [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 4,221 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/maven](../repos/apache/maven.md) | ⭐ 5,369 | 2026-08-01 | 5 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | ⭐ 27,298 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenAPITools/openapi-generator](../repos/OpenAPITools/openapi-generator.md) | ⭐ 26,779 | 2026-08-01 | 9 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 82,060 | 2026-08-03 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 81,709 | 2026-08-03 | 19 |
+| [apache/paimon](../repos/apache/paimon.md) | ⭐ 3,416 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/cassandra](../repos/apache/cassandra.md) | ⭐ 10,116 | 2026-08-04 | 6 |
+| [apache/doris](../repos/apache/doris.md) | ⭐ 16,044 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 14,810 | 2026-08-06 | 12 |
+| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,601 | 2026-08-05 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [logisim-evolution/logisim-evolution](../repos/logisim-evolution/logisim-evolution.md) | ⭐ 7,729 | 2026-08-22 | 6 |
+| [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) | ⭐ 13,221 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AndreyPavlenko/Fermata](../repos/AndreyPavlenko/Fermata.md) | ⭐ 1,404 | 2026-08-23 | 4 |
+| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,613 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/fineract](../repos/apache/fineract.md) | ⭐ 2,538 | 2026-08-27 | 5 |
+| [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) | ⭐ 28,305 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jenkinsci/jenkins](../repos/jenkinsci/jenkins.md) | ⭐ 26,628 | 2026-09-01 | 6 |
+| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,124 | 2026-08-07 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apache/fesod](../repos/apache/fesod.md) | ⭐ 6,202 | 2026-09-09 | Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tencentmusic/supersonic](../repos/tencentmusic/supersonic.md) | ⭐ 5,070 | 2026-09-09 | SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headle... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apple/pkl](../repos/apple/pkl.md) | ⭐ 11,515 | 2026-09-10 | A configuration as code language with rich validation and tooling. |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [icysymmetra/tiktok-patches-for-morphe](../repos/icysymmetra/tiktok-patches-for-morphe.md) | ⭐ 344 | 2026-09-14 | This repository is a Morphe patch source for TikTok.  It continues the work from earlier communit... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [niedev/RTranslator](../repos/niedev/RTranslator.md) | ⭐ 10,435 | 2026-09-20 | Open source real-time translation app for Android that runs locally |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [anonfaded/FadCam](../repos/anonfaded/FadCam.md) | ⭐ 2,789 | 2026-09-20 | Open-source, ad-free Android multimedia recorder with background video recording, screen recordin... |
 
 
 ---
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,276 | 2026-08-04 | 6 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 81,709 | 2026-08-03 | 19 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 82,060 | 2026-08-03 | 20 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,565 | 2026-08-04 | 15 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,184 | 2026-08-02 | 15 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
@@ -100,11 +100,11 @@
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,878 | 2026-08-04 | 11 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,456 | 2026-08-12 | 4 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
-| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,029 | 2026-08-07 | 6 |
+| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,124 | 2026-08-07 | 7 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,787 | 2026-08-05 | 15 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,932 | 2026-08-02 | 9 |
+| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,613 | 2026-08-06 | 7 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,487 | 2026-08-06 | 6 |
 | [PhilJay/MPAndroidChart](../repos/PhilJay/MPAndroidChart.md) | ⭐ 38,169 | 2026-09-21 | 1 |
 | [alibaba/arthas](../repos/alibaba/arthas.md) | ⭐ 37,526 | 2026-08-28 | 2 |
 | [doocs/leetcode](../repos/doocs/leetcode.md) | ⭐ 36,511 | 2026-08-08 | 5 |
@@ -116,9 +116,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 22 | ⭐ 5,836 | 2026-08-05 | 2026-09-29 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 19 | ⭐ 81,709 | 2026-08-03 | 2026-10-08 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 20 | ⭐ 82,060 | 2026-08-03 | 2026-10-09 |
+| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 18 | ⭐ 27,298 | 2026-08-02 | 2026-10-09 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 18 | ⭐ 29,311 | 2026-08-04 | 2026-10-06 |
-| [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 17 | ⭐ 27,258 | 2026-08-02 | 2026-10-07 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 15 | ⭐ 78,184 | 2026-08-02 | 2026-10-03 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 15 | ⭐ 81,565 | 2026-08-04 | 2026-10-07 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 15 | ⭐ 41,787 | 2026-08-05 | 2026-09-25 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.348Z*
+*Last updated: 2026-10-09T21:01:33.168Z*

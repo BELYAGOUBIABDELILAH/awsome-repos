@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 24,023 |
-| **Forks** | 🍴 2,663 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 42,794 |
+| **Forks** | 🍴 6,692 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Oct 6, 2026 |
-| **Last Seen** | Oct 8, 2026 |
+| **Last Seen** | Oct 9, 2026 |
 
 
 ---
@@ -45,12 +45,13 @@
 
 **Oct 7, 2026** — Rank #1 (+4666 ⭐)  
 **Oct 8, 2026** — Rank #3 (+7744 ⭐)  
+**Oct 9, 2026** — Rank #1 (+15335 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 3
-- **Longest Streak**: 3 days
+- **Trending Days**: 4
+- **Longest Streak**: 4 days
 
 ---
 
@@ -86,12 +87,12 @@
 - Check similar projects in TypeScript
 
 #### Metrics
-- **Hidden Gem**: ✓ Yes
-- **Trending Score**: 60&#x2F;100
+- **Hidden Gem**: ✗ No
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-10-08T21:01:50.702Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-10-09T21:01:37.386Z*  
+*Data from 4 trending reports*

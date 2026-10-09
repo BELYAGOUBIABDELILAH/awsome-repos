@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 8,935 |
-| **Forks** | 🍴 633 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 10,563 |
+| **Forks** | 🍴 714 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 13, 2026 |
-| **Last Seen** | Sep 13, 2026 |
+| **Last Seen** | Oct 9, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or agent*
+*Similar: Check repositories in TypeScript or ag-ui*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`agent`](../../topics/agent.md) [`agents`](../../topics/agents.md) [`ai`](../../topics/ai.md) [`generative-ui`](../../topics/generative-ui.md) [`help-wanted`](../../topics/help-wanted.md) [`javascript`](../../topics/javascript.md) [`llm`](../../topics/llm.md) [`looking-for-contributors`](../../topics/looking-for-contributors.md) 
+[`ag-ui`](../../topics/ag-ui.md) [`agent`](../../topics/agent.md) [`agents`](../../topics/agents.md) [`ai`](../../topics/ai.md) [`generative-ui`](../../topics/generative-ui.md) [`javascript`](../../topics/javascript.md) [`langchain`](../../topics/langchain.md) [`llm`](../../topics/llm.md) [`mastra`](../../topics/mastra.md) [`react`](../../topics/react.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `Frontend Development` `Systems Programming` 
+`Artificial Intelligence` `Large Language Models` `Web Development` `Frontend Development` `Systems Programming` 
 
 ---
 
@@ -69,10 +69,10 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Limited | May require reading source code |
-| **Community** | Small | Niche but dedicated community |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-08T21:01:50.301Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-09T21:01:37.037Z*  
+*Data from 2 trending reports*

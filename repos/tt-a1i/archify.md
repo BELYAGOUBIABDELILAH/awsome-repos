@@ -1,6 +1,6 @@
 # tt-a1i&#x2F;archify
 
-> Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+> Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;tt-a1i&#x2F;archify) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | MIT |
-| **Stars** | ⭐ 75,760 |
-| **Forks** | 🍴 5,090 |
-| **Trending Days** | 18 |
+| **Stars** | ⭐ 81,136 |
+| **Forks** | 🍴 5,476 |
+| **Trending Days** | 19 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Oct 1, 2026 |
+| **Last Seen** | Oct 9, 2026 |
 
 
 ---
@@ -51,7 +51,7 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 18
+- **Trending Days**: 19
 - **Longest Streak**: 6 days
 
 ---
@@ -59,7 +59,7 @@
 ## Categories
 
 ### Topics
-[`agent-skills`](../../topics/agent-skills.md) [`architecture-as-code`](../../topics/architecture-as-code.md) [`architecture-diagram`](../../topics/architecture-diagram.md) [`claude-skill`](../../topics/claude-skill.md) [`code-visualization`](../../topics/code-visualization.md) [`codex`](../../topics/codex.md) [`coding-agents`](../../topics/coding-agents.md) [`data-flow-diagram`](../../topics/data-flow-diagram.md) [`deepseek-harness`](../../topics/deepseek-harness.md) [`developer-tools`](../../topics/developer-tools.md) [`diagram-as-code`](../../topics/diagram-as-code.md) [`diagrams`](../../topics/diagrams.md) [`diagrams-as-code`](../../topics/diagrams-as-code.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`mermaid-alternative`](../../topics/mermaid-alternative.md) [`opencode`](../../topics/opencode.md) [`sequence-diagram`](../../topics/sequence-diagram.md) [`software-architecture`](../../topics/software-architecture.md) [`system-design`](../../topics/system-design.md) [`text-to-diagram`](../../topics/text-to-diagram.md) 
+[`agent-skills`](../../topics/agent-skills.md) [`ai-agents`](../../topics/ai-agents.md) [`architecture-diagram`](../../topics/architecture-diagram.md) [`claude-code`](../../topics/claude-code.md) [`claude-skills`](../../topics/claude-skills.md) [`codex`](../../topics/codex.md) [`coding-agents`](../../topics/coding-agents.md) [`deepseek-harness`](../../topics/deepseek-harness.md) [`developer-tools`](../../topics/developer-tools.md) [`diagrams`](../../topics/diagrams.md) [`diagrams-as-code`](../../topics/diagrams-as-code.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`flowchart`](../../topics/flowchart.md) [`llm`](../../topics/llm.md) [`mermaid`](../../topics/mermaid.md) [`opencode`](../../topics/opencode.md) [`sequence-diagram`](../../topics/sequence-diagram.md) [`software-architecture`](../../topics/software-architecture.md) [`system-design`](../../topics/system-design.md) [`visualization`](../../topics/visualization.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Systems Programming` `Developer Tools` 
@@ -76,7 +76,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:48.557Z*  
-*Data from 18 trending reports*
+*Last updated: 2026-10-09T21:01:35.209Z*  
+*Data from 19 trending reports*

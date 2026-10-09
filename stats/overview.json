@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-08T21:01:51.070Z",
-  "total_repositories": 3879,
-  "trending_today": 317,
-  "new_this_month": 708,
+  "generated_at": "2026-10-09T21:01:37.749Z",
+  "total_repositories": 3904,
+  "trending_today": 305,
+  "new_this_month": 685,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-10-08",
+  "last_collection": "2026-10-09",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 55,
+    "trending_days": 56,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "abrignoni/ALEAPP",
-    "stars": 974,
-    "first_seen": "2026-10-08"
+    "full_name": "Robbyant/lingbot-map",
+    "stars": 17653,
+    "first_seen": "2026-10-09"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 53029106,
-  "avg_stars": 13671,
-  "avg_trending_days": 5.6,
+  "total_stars": 53406395,
+  "avg_stars": 13680,
+  "avg_trending_days": 5.7,
   "language_count": 60,
-  "topic_count": 9989,
+  "topic_count": 10017,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

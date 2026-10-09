@@ -16,10 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,451 | 2026-08-06 | 8 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,451 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,028 | 2026-10-02 | 4 |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,027 | 2026-10-02 | 5 |
 
 
 ---
@@ -28,7 +28,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,028 | 2026-10-02 | Ultra quick message queue and streaming server |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,027 | 2026-10-02 | Ultra quick message queue and streaming server |
 
 
 ---
@@ -38,8 +38,8 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 25,142 | 2026-08-01 | 36 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,451 | 2026-08-06 | 8 |
-| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,028 | 2026-10-02 | 4 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,451 | 2026-08-06 | 9 |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,027 | 2026-10-02 | 5 |
 
 ---
 
@@ -48,8 +48,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [iv-org/invidious](../repos/iv-org/invidious.md) | 36 | ⭐ 25,142 | 2026-08-01 | 2026-10-06 |
-| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 8 | ⭐ 1,451 | 2026-08-06 | 2026-10-08 |
-| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | 4 | ⭐ 1,028 | 2026-10-02 | 2026-10-08 |
+| [owasp-noir/noir](../repos/owasp-noir/noir.md) | 9 | ⭐ 1,451 | 2026-08-06 | 2026-10-09 |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | 5 | ⭐ 1,027 | 2026-10-02 | 2026-10-09 |
 
 ---
 
@@ -61,4 +61,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.332Z*
+*Last updated: 2026-10-09T21:01:33.151Z*

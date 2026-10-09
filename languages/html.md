@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 102
+- **Total Repositories**: 104
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-06
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 8,612 | 2026-08-01 | 5 |
+| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 8,618 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/fonts](../repos/google/fonts.md) | ⭐ 20,592 | 2026-08-03 | 5 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,721 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,428 | 2026-08-04 | 10 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,501 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,737 | 2026-08-19 | 8 |
+| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,754 | 2026-08-19 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isjiamu/gzh-design-skill](../repos/isjiamu/gzh-design-skill.md) | ⭐ 3,931 | 2026-09-01 | 2 |
+| [datawhalechina/Agent-Learning-Hub](../repos/datawhalechina/Agent-Learning-Hub.md) | ⭐ 8,514 | 2026-09-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,410 | 2026-09-19 | 5 |
+| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 16,673 | 2026-09-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alchaincyf/darwin-skill](../repos/alchaincyf/darwin-skill.md) | ⭐ 6,216 | 2026-10-08 | 1 |
+| [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 24,735 | 2026-10-09 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [EricTechPro/super-board](../repos/EricTechPro/super-board.md) | ⭐ 129 | 2026-10-09 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Guyungy/damaihelper](../repos/Guyungy/damaihelper.md) | ⭐ 4,121 | 2026-09-09 | 支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [horilla/horilla-hr](../repos/horilla/horilla-hr.md) | ⭐ 1,417 | 2026-09-12 | Horilla is a free and open source HR software. |
@@ -58,7 +58,7 @@
 | [apna-college/Delta](../repos/apna-college/Delta.md) | ⭐ 1,123 | 2026-09-13 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 16,343 | 2026-09-14 | AI 时代的伯克希尔：基于 Claude Code &#x2F; Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: ... |
+| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 16,673 | 2026-09-14 | AI 时代的伯克希尔：基于 Claude Code &#x2F; Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,410 | 2026-09-19 |  |
@@ -71,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [TandoorRecipes/recipes](../repos/TandoorRecipes/recipes.md) | ⭐ 8,616 | 2026-09-20 | Application for managing recipes, planning meals, building shopping lists and much much more! |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [chiphuyen/machine-learning-systems-design](../repos/chiphuyen/machine-learning-systems-design.md) | ⭐ 10,658 | 2026-09-21 | A booklet on machine learning systems design with exercises. NOT the repo for the book &quot;Designing... |
 
 
 ---
@@ -90,15 +93,15 @@
 | [fengdu78/Coursera-ML-AndrewNg-Notes](../repos/fengdu78/Coursera-ML-AndrewNg-Notes.md) | ⭐ 37,699 | 2026-09-06 | 1 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,948 | 2026-08-09 | 12 |
-| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,737 | 2026-08-19 | 8 |
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,661 | 2026-08-03 | 10 |
+| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,754 | 2026-08-19 | 9 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,721 | 2026-08-03 | 11 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,501 | 2026-08-04 | 11 |
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,428 | 2026-08-04 | 10 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
+| [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 24,735 | 2026-10-09 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 22,554 | 2026-08-01 | 7 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,592 | 2026-08-03 | 5 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
-| [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | 1 |
 
 ---
 
@@ -114,8 +117,8 @@
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 12 | ⭐ 9,898 | 2026-08-01 | 2026-10-02 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 12 | ⭐ 16,578 | 2026-08-04 | 2026-10-02 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 12 | ⭐ 29,948 | 2026-08-09 | 2026-10-03 |
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 10 | ⭐ 27,661 | 2026-08-03 | 2026-10-01 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 10 | ⭐ 27,428 | 2026-08-04 | 2026-10-08 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 11 | ⭐ 27,721 | 2026-08-03 | 2026-10-09 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 11 | ⭐ 27,501 | 2026-08-04 | 2026-10-09 |
 
 ---
 
@@ -224,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.345Z*
+*Last updated: 2026-10-09T21:01:33.165Z*

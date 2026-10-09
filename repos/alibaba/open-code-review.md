@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 37,169 |
-| **Forks** | 🍴 2,653 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 45,100 |
+| **Forks** | 🍴 3,258 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Sep 19, 2026 |
+| **Last Seen** | Oct 9, 2026 |
 
 
 ---
@@ -45,11 +45,12 @@
 
 **Sep 13, 2026** — Rank #14 (+438 ⭐)  
 **Sep 14, 2026** — Rank #2 (+1796 ⭐)  
+**Oct 9, 2026** — Rank #5 (+323 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 5 days
 
 ---
@@ -74,7 +75,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -93,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:49.567Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-10-09T21:01:36.314Z*  
+*Data from 11 trending reports*

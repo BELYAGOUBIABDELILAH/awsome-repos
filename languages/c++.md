@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 268
+- **Total Repositories**: 270
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-03
 
@@ -16,43 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 130,537 | 2026-08-01 | 28 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 527 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 33,251 | 2026-08-03 | 11 |
+| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | ⭐ 439 | 2026-08-01 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 30,565 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-ai-edge/LiteRT-LM](../repos/google-ai-edge/LiteRT-LM.md) | ⭐ 6,614 | 2026-09-10 | 2 |
+| [google/perfetto](../repos/google/perfetto.md) | ⭐ 6,619 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AlexandreRouma/SDRPlusPlus](../repos/AlexandreRouma/SDRPlusPlus.md) | ⭐ 6,416 | 2026-09-25 | 2 |
+| [kvcache-ai/Mooncake](../repos/kvcache-ai/Mooncake.md) | ⭐ 6,746 | 2026-08-15 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 14,981 | 2026-10-06 | 3 |
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 21,577 | 2026-10-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [M-Abozaid/esp32-c3-adblock](../repos/M-Abozaid/esp32-c3-adblock.md) | ⭐ 2,354 | 2026-10-06 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [facebook/rebalancer](../repos/facebook/rebalancer.md) | ⭐ 353 | 2026-10-08 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ytsaurus/ytsaurus](../repos/ytsaurus/ytsaurus.md) | ⭐ 2,283 | 2026-10-08 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [TigerVNC/tigervnc](../repos/TigerVNC/tigervnc.md) | ⭐ 7,544 | 2026-10-08 | 1 |
+| [DamRsn/NeuralNote](../repos/DamRsn/NeuralNote.md) | ⭐ 3,068 | 2026-10-09 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [7h30th3r0n3/Evil-M5Project](../repos/7h30th3r0n3/Evil-M5Project.md) | ⭐ 2,607 | 2026-09-09 | Evil-M5Project is an innovative tool developed for ethical  hacking and exploration of WiFi netwo... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google-ai-edge/LiteRT-LM](../repos/google-ai-edge/LiteRT-LM.md) | ⭐ 6,614 | 2026-09-10 | LiteRT-LM is Google&#39;s production-ready, high-performance, open-source inference framework for dep... |
@@ -80,6 +68,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Redot-Engine/redot-engine](../repos/Redot-Engine/redot-engine.md) | ⭐ 6,089 | 2026-09-13 | Redot Engine – Multi-platform 2D and 3D game engine |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [WiVRn/WiVRn](../repos/WiVRn/WiVRn.md) | ⭐ 1,666 | 2026-09-13 | The Linux OpenXR streaming application to standalone headsets |
 
 
 ---
@@ -115,16 +106,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 28 | ⭐ 130,537 | 2026-08-01 | 2026-10-08 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 22 | ⭐ 200,675 | 2026-07-30 | 2026-10-03 |
 | [google/googletest](../repos/google/googletest.md) | 19 | ⭐ 39,629 | 2026-08-04 | 2026-10-06 |
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 15 | ⭐ 520 | 2026-08-01 | 2026-10-03 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 16 | ⭐ 527 | 2026-08-01 | 2026-10-09 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 15 | ⭐ 72,087 | 2026-08-01 | 2026-10-02 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 14 | ⭐ 76,454 | 2026-08-08 | 2026-10-01 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 12 | ⭐ 11,523 | 2026-08-02 | 2026-10-03 |
 | [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | 11 | ⭐ 33,251 | 2026-08-03 | 2026-10-08 |
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | 11 | ⭐ 21,998 | 2026-08-06 | 2026-10-03 |
 
 ---
 
@@ -149,6 +140,7 @@
 - [v8/v8](../repos/v8/v8.md) - The official mirror of the V8 Git repository
 - [electron/electron](../repos/electron/electron.md) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [espressif/arduino-esp32](../repos/espressif/arduino-esp32.md) - Arduino core for the ESP32 family of SoCs
+- [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) - TLS Support for SwiftNIO, based on BoringSSL.
 - [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
 - [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) - Port of OpenAI&#39;s Whisper model in C&#x2F;C++
 - [sz3/libcimbar](../repos/sz3/libcimbar.md) - Optimized implementation for color-icon-matrix barcodes
@@ -229,8 +221,7 @@
 - [RPCS3/rpcs3](../repos/RPCS3/rpcs3.md) - PlayStation 3 emulator and debugger
 - [Tencent/ncnn](../repos/Tencent/ncnn.md) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) - Distribute and run LLMs with a single file.
-- [YimMenu/YimMenuV2](../repos/YimMenu/YimMenuV2.md) - Experimental menu for GTA 5: Enhanced
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.326Z*
+*Last updated: 2026-10-09T21:01:33.145Z*

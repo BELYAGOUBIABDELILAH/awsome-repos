@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 153
+- **Total Repositories**: 156
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 103,340 | 2026-08-05 | 27 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 81,136 | 2026-08-04 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) | ⭐ 1,087 | 2026-08-05 | 8 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 103,896 | 2026-08-05 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 978 | 2026-08-07 | 8 |
+| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CodeWithHarry/Sigma-Web-Dev-Course](../repos/CodeWithHarry/Sigma-Web-Dev-Course.md) | ⭐ 11,963 | 2026-08-10 | 3 |
+| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 984 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 39,816 | 2026-08-14 | 6 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 29,939 | 2026-08-08 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-community](../repos/anthropics/claude-plugins-community.md) | ⭐ 4,580 | 2026-08-22 | 8 |
+| [liyupi/ai-guide](../repos/liyupi/ai-guide.md) | ⭐ 20,912 | 2026-08-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 26,553 | 2026-08-28 | 6 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 26,895 | 2026-08-28 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tabler/tabler-icons](../repos/tabler/tabler-icons.md) | ⭐ 22,093 | 2026-10-02 | 2 |
+| [chuspeeism/dashi-taskboard](../repos/chuspeeism/dashi-taskboard.md) | ⭐ 3,313 | 2026-10-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XCQ0607/lxserver](../repos/XCQ0607/lxserver.md) | ⭐ 928 | 2026-10-08 | 1 |
+| [chaolucky18/xuexitongScript](../repos/chaolucky18/xuexitongScript.md) | ⭐ 2,758 | 2026-10-09 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [songquanpeng/one-api](../repos/songquanpeng/one-api.md) | ⭐ 37,105 | 2026-10-09 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [open-gsd/gsd-core](../repos/open-gsd/gsd-core.md) | ⭐ 9,821 | 2026-09-09 | Git. Ship. Done - Core |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [UseInterstellar/Interstellar](../repos/UseInterstellar/Interstellar.md) | ⭐ 2,120 | 2026-09-09 | One of the most popular modern web proxies with blazing fast speeds and a variety of games. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Anil-matcha/awesome-generative-ai-apps](../repos/Anil-matcha/awesome-generative-ai-apps.md) | ⭐ 3,202 | 2026-09-10 | 50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video ... |
@@ -77,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [shaun8149/sdf-js](../repos/shaun8149/sdf-js.md) | ⭐ 269 | 2026-09-13 | Chainable JS SDF library + 基于 SDF 的离散结构生成器层 (form × generator decoupling). Port &amp; extension of fo... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [qist/tvbox](../repos/qist/tvbox.md) | ⭐ 11,510 | 2026-09-14 | OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [playcanvas/engine](../repos/playcanvas/engine.md) | ⭐ 16,784 | 2026-09-14 | Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF |
 
 
 ---
@@ -87,16 +90,16 @@
 |------------|-------|------------|---------------|
 | [react/react](../repos/react/react.md) | ⭐ 247,637 | 2026-08-04 | 2 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
-| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 159,005 | 2026-08-06 | 3 |
+| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,238 | 2026-07-30 | 11 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 103,340 | 2026-08-05 | 27 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 103,896 | 2026-08-05 | 28 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 81,136 | 2026-08-04 | 19 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 77,610 | 2026-08-05 | 18 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 75,760 | 2026-08-04 | 18 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,592 | 2026-08-04 | 3 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 66,612 | 2026-08-01 | 18 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
@@ -112,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 27 | ⭐ 103,340 | 2026-08-05 | 2026-10-08 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 28 | ⭐ 103,896 | 2026-08-05 | 2026-10-09 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 19 | ⭐ 81,136 | 2026-08-04 | 2026-10-09 |
 | [byoungd/up](../repos/byoungd/up.md) | 18 | ⭐ 66,612 | 2026-08-01 | 2026-10-01 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 18 | ⭐ 75,760 | 2026-08-04 | 2026-10-01 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 18 | ⭐ 77,610 | 2026-08-05 | 2026-10-06 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 13 | ⭐ 3,954 | 2026-08-07 | 2026-10-03 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 11 | ⭐ 143,238 | 2026-07-30 | 2026-10-07 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 11 | ⭐ 33,755 | 2026-08-02 | 2026-10-01 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 11 | ⭐ 29,939 | 2026-08-08 | 2026-10-09 |
 | [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | 11 | ⭐ 9,110 | 2026-08-10 | 2026-10-03 |
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 10 | ⭐ 39,807 | 2026-08-06 | 2026-09-29 |
 
 ---
 
@@ -158,7 +161,7 @@
 - [worldwonderer/oh-story-claudecode](../repos/worldwonderer/oh-story-claudecode.md) - 网文&#x2F;小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-f...
 - [react/react](../repos/react/react.md) - The library for web and native user interfaces.
 - [Dailin521/codex-provider-sync](../repos/Dailin521/codex-provider-sync.md) - Synchronize Codex session provider metadata across rollout files and SQLite state.
-- [tt-a1i/archify](../repos/tt-a1i/archify.md) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle ...
+- [tt-a1i/archify](../repos/tt-a1i/archify.md) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude ...
 - [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) - Production-grade engineering skills for AI coding agents.
 - [pbakaus/impeccable](../repos/pbakaus/impeccable.md) - The design language that makes your AI harness better at design.
 - [eze-is/web-access](../repos/eze-is/web-access.md) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.350Z*
+*Last updated: 2026-10-09T21:01:33.169Z*

@@ -14,18 +14,13 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,432 | 2026-08-02 | 25 |
 
+*No Julia repositories trending today*
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | Julia bindings for the Enzyme automatic differentiator |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [JuliaLLVM/LLVM.jl](../repos/JuliaLLVM/LLVM.jl.md) | ⭐ 145 | 2026-10-02 | Julia wrapper for the LLVM C API |
@@ -102,4 +97,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.352Z*
+*Last updated: 2026-10-09T21:01:33.171Z*

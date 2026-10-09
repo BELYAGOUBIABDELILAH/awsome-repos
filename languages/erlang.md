@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 15
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-07
+- **Last Updated**: 2026-10-09
 
 ---
 
@@ -16,10 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,355 | 2026-08-01 | 42 |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,357 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,739 | 2026-08-08 | 24 |
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,778 | 2026-08-01 | 46 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 6,970 | 2026-08-03 | 22 |
 
 
 ---
@@ -35,10 +38,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,778 | 2026-08-01 | 45 |
-| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,355 | 2026-08-01 | 42 |
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,778 | 2026-08-01 | 46 |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,357 | 2026-08-01 | 43 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | ⭐ 7,527 | 2026-08-03 | 21 |
-| [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 6,970 | 2026-08-03 | 21 |
+| [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 6,970 | 2026-08-03 | 22 |
 | [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,739 | 2026-08-08 | 24 |
 | [erlang/rebar3](../repos/erlang/rebar3.md) | ⭐ 1,818 | 2026-08-03 | 5 |
 | [ninenines/ranch](../repos/ninenines/ranch.md) | ⭐ 1,244 | 2026-08-02 | 8 |
@@ -57,12 +60,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [emqx/emqx](../repos/emqx/emqx.md) | 45 | ⭐ 16,778 | 2026-08-01 | 2026-10-07 |
-| [erlang/otp](../repos/erlang/otp.md) | 42 | ⭐ 12,355 | 2026-08-01 | 2026-10-08 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 46 | ⭐ 16,778 | 2026-08-01 | 2026-10-09 |
+| [erlang/otp](../repos/erlang/otp.md) | 43 | ⭐ 12,357 | 2026-08-01 | 2026-10-09 |
 | [WhatsApp/erlfmt](../repos/WhatsApp/erlfmt.md) | 24 | ⭐ 466 | 2026-08-01 | 2026-09-09 |
 | [processone/ejabberd](../repos/processone/ejabberd.md) | 24 | ⭐ 6,739 | 2026-08-08 | 2026-10-08 |
 | [blt/port_compiler](../repos/blt/port_compiler.md) | 22 | ⭐ 69 | 2026-08-01 | 2026-09-12 |
-| [apache/couchdb](../repos/apache/couchdb.md) | 21 | ⭐ 6,970 | 2026-08-03 | 2026-10-07 |
+| [apache/couchdb](../repos/apache/couchdb.md) | 22 | ⭐ 6,970 | 2026-08-03 | 2026-10-09 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | 21 | ⭐ 7,527 | 2026-08-03 | 2026-09-09 |
 | [ninenines/cowlib](../repos/ninenines/cowlib.md) | 11 | ⭐ 298 | 2026-08-02 | 2026-08-28 |
 | [ninenines/ranch](../repos/ninenines/ranch.md) | 8 | ⭐ 1,244 | 2026-08-02 | 2026-08-29 |
@@ -90,4 +93,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.338Z*
+*Last updated: 2026-10-09T21:01:33.157Z*

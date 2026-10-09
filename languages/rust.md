@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 208
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-01
+- **Last Updated**: 2026-10-09
 
 ---
 
@@ -16,43 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mxc](../repos/microsoft/mxc.md) | ⭐ 1,725 | 2026-08-01 | 4 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 128,385 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emilk/egui](../repos/emilk/egui.md) | ⭐ 31,035 | 2026-08-02 | 4 |
+| [microsoft/mxc](../repos/microsoft/mxc.md) | ⭐ 2,367 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 43,678 | 2026-08-02 | 9 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 43,722 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 9,046 | 2026-08-17 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 3,958 | 2026-09-13 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [rubys/roundhouse](../repos/rubys/roundhouse.md) | ⭐ 421 | 2026-10-03 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 7,462 | 2026-10-06 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tracel-ai/burn](../repos/tracel-ai/burn.md) | ⭐ 16,056 | 2026-10-08 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [yuxino/Mimi](../repos/yuxino/Mimi.md) | ⭐ 627 | 2026-10-08 | 1 |
+| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 11,073 | 2026-10-06 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/magika](../repos/google/magika.md) | ⭐ 18,518 | 2026-09-09 | Fast and accurate AI powered file content types detection  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [polarsquad/krops](../repos/polarsquad/krops.md) | ⭐ 137 | 2026-09-09 | Kubernetes-Native Resource Operations |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alphaXiv/OpenResearch](../repos/alphaXiv/OpenResearch.md) | ⭐ 2,474 | 2026-09-10 | Turn your coding agents into research agents |
@@ -77,6 +56,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Stremio/stremio-core](../repos/Stremio/stremio-core.md) | ⭐ 2,377 | 2026-09-13 | ⚛️ The Stremio Core: types, addon system, UI models, core logic |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 3,958 | 2026-09-13 | A WiFi security auditing software |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CluvexStudio/Aether](../repos/CluvexStudio/Aether.md) | ⭐ 1,871 | 2026-09-14 | A Rust userspace WARP core for censored networks, built around MASQUE over HTTP&#x2F;3 and HTTP&#x2F;2. |
 
 
 ---
@@ -85,7 +70,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 127,538 | 2026-08-01 | 12 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 128,385 | 2026-08-01 | 13 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,244 | 2026-07-30 | 10 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,064 | 2026-08-11 | 8 |
@@ -102,7 +87,7 @@
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,253 | 2026-08-05 | 10 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 43,678 | 2026-08-02 | 9 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 43,722 | 2026-08-02 | 10 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 41,568 | 2026-08-10 | 15 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 
@@ -115,13 +100,13 @@
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 21 | ⭐ 23,670 | 2026-08-08 | 2026-09-28 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 15 | ⭐ 41,568 | 2026-08-10 | 2026-10-07 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 14 | ⭐ 95,867 | 2026-08-09 | 2026-10-01 |
+| [openai/codex](../repos/openai/codex.md) | 13 | ⭐ 128,385 | 2026-08-01 | 2026-10-09 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 13 | ⭐ 23,706 | 2026-08-01 | 2026-10-01 |
-| [openai/codex](../repos/openai/codex.md) | 12 | ⭐ 127,538 | 2026-08-01 | 2026-10-01 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 11 | ⭐ 29,237 | 2026-08-03 | 2026-09-21 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 11 | ⭐ 11,824 | 2026-08-09 | 2026-10-01 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 11 | ⭐ 8,726 | 2026-08-26 | 2026-10-03 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 10 | ⭐ 119,244 | 2026-07-30 | 2026-09-27 |
-| [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | 10 | ⭐ 45,253 | 2026-08-05 | 2026-09-29 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 10 | ⭐ 43,722 | 2026-08-02 | 2026-10-09 |
 
 ---
 
@@ -230,4 +215,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.375Z*
+*Last updated: 2026-10-09T21:01:33.197Z*

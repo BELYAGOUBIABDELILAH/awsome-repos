@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 100
+- **Total Repositories**: 102
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-27
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,015 | 2026-08-01 | 24 |
+| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,953 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,954 | 2026-08-01 | 28 |
+| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,442 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,440 | 2026-08-01 | 31 |
+| [WordPress/mcp-adapter](../repos/WordPress/mcp-adapter.md) | ⭐ 1,821 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WordPress/mcp-adapter](../repos/WordPress/mcp-adapter.md) | ⭐ 1,813 | 2026-08-01 | 15 |
+| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,261 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,583 | 2026-08-01 | 8 |
+| [ChurchCRM/CRM](../repos/ChurchCRM/CRM.md) | ⭐ 964 | 2026-08-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,182 | 2026-08-02 | 28 |
+| [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,886 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,223 | 2026-08-02 | 21 |
+| [espocrm/espocrm](../repos/espocrm/espocrm.md) | ⭐ 3,467 | 2026-08-06 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,255 | 2026-08-02 | 19 |
+| [freescout-help-desk/freescout](../repos/freescout-help-desk/freescout.md) | ⭐ 4,592 | 2026-08-14 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laravel/ai](../repos/laravel/ai.md) | ⭐ 1,217 | 2026-08-05 | 13 |
+| [WordPress/ai](../repos/WordPress/ai.md) | ⭐ 360 | 2026-08-17 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [larastan/larastan](../repos/larastan/larastan.md) | ⭐ 6,533 | 2026-08-06 | 2 |
+| [silverstripe/silverstripe-framework](../repos/silverstripe/silverstripe-framework.md) | ⭐ 724 | 2026-09-22 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [metadist/synaplan](../repos/metadist/synaplan.md) | ⭐ 144 | 2026-09-09 | Our AI control plane for fast deployment. Talk to various models, MCP with agents, get a chat wid... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Submitty/Submitty](../repos/Submitty/Submitty.md) | ⭐ 801 | 2026-09-19 | Homework Submission, Automated Grading, and TA grading system. |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [symfony/ux](../repos/symfony/ux.md) | ⭐ 1,078 | 2026-10-01 | Symfony UX initiative: a JavaScript ecosystem for Symfony |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [shlinkio/shlink](../repos/shlinkio/shlink.md) | ⭐ 5,324 | 2026-10-07 | The definitive self-hosted URL shortener |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 57,493 | 2026-08-01 | 3 |
 | [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,027 | 2026-08-02 | 29 |
-| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,954 | 2026-08-01 | 28 |
+| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,953 | 2026-08-01 | 29 |
 | [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,223 | 2026-08-02 | 21 |
 | [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,182 | 2026-08-02 | 28 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,217 | 2026-08-01 | 23 |
@@ -99,8 +99,8 @@
 | [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,304 | 2026-08-01 | 10 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,892 | 2026-08-01 | 23 |
 | [koel/koel](../repos/koel/koel.md) | ⭐ 17,267 | 2026-09-28 | 1 |
-| [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,808 | 2026-08-04 | 7 |
-| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,255 | 2026-08-02 | 19 |
+| [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,886 | 2026-08-04 | 8 |
+| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,261 | 2026-08-02 | 20 |
 | [getgrav/grav](../repos/getgrav/grav.md) | ⭐ 15,672 | 2026-08-12 | 7 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,015 | 2026-08-01 | 24 |
 | [PHPOffice/PhpSpreadsheet](../repos/PHPOffice/PhpSpreadsheet.md) | ⭐ 13,990 | 2026-08-19 | 4 |
@@ -115,9 +115,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | 31 | ⭐ 6,440 | 2026-08-01 | 2026-10-08 |
+| [glpi-project/glpi](../repos/glpi-project/glpi.md) | 32 | ⭐ 6,442 | 2026-08-01 | 2026-10-09 |
+| [laravel/framework](../repos/laravel/framework.md) | 29 | ⭐ 34,953 | 2026-08-01 | 2026-10-09 |
 | [nextcloud/server](../repos/nextcloud/server.md) | 29 | ⭐ 37,027 | 2026-08-02 | 2026-10-07 |
-| [laravel/framework](../repos/laravel/framework.md) | 28 | ⭐ 34,954 | 2026-08-01 | 2026-10-08 |
 | [symfony/symfony](../repos/symfony/symfony.md) | 28 | ⭐ 31,182 | 2026-08-02 | 2026-10-08 |
 | [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 27 | ⭐ 10,550 | 2026-08-09 | 2026-10-06 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | 24 | ⭐ 15,015 | 2026-08-01 | 2026-10-08 |
@@ -161,7 +161,7 @@
 - [consolidation/annotated-command](../repos/consolidation/annotated-command.md) - Create Symfony Console commands from annotated command class methods.
 - [stecman/symfony-console-completion](../repos/stecman/symfony-console-completion.md) - Automatic tab-key completion for Symfony console application options, arguments and parameters
 - [kimai/kimai](../repos/kimai/kimai.md) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisa...
-- [ChurchCRM/CRM](../repos/ChurchCRM/CRM.md) - ChurchCRM - A free and open-source Church Management Software (ChMS) to help churches manage thei...
+- [ChurchCRM/CRM](../repos/ChurchCRM/CRM.md) - Free, open-source church management software for people, families, groups, events, attendance, gi...
 - [KhronosGroup/glTF-Sample-Assets](../repos/KhronosGroup/glTF-Sample-Assets.md) - An assortment of assets that demonstrate features and capabilities of the glTF format
 - [RSS-Bridge/rss-bridge](../repos/RSS-Bridge/rss-bridge.md) - The RSS feed for websites missing it
 - [elementor/elementor](../repos/elementor/elementor.md) - The most advanced frontend drag &amp; drop page builder. Create high-end, pixel perfect websites at r...
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.365Z*
+*Last updated: 2026-10-09T21:01:33.187Z*

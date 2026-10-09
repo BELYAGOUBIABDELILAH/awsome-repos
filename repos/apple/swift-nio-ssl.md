@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Assembly |
+| **Language** | C++ |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 440 |
+| **Stars** | ⭐ 439 |
 | **Forks** | 🍴 183 |
-| **Trending Days** | 45 |
+| **Trending Days** | 46 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 8, 2026 |
+| **Last Seen** | Oct 9, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Assembly or swift5*
+*Similar: Check repositories in C++ or swift5*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 45
+- **Trending Days**: 46
 - **Longest Streak**: 12 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 440+ stars, strong contributor base |
+| **Community** | Very Active | 439+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -81,7 +81,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Assembly
+- Check similar projects in C++
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:47.959Z*  
-*Data from 45 trending reports*
+*Last updated: 2026-10-09T21:01:34.656Z*  
+*Data from 46 trending reports*

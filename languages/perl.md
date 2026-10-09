@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 38
+- **Total Repositories**: 39
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-03
 
@@ -16,28 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 500 | 2026-08-01 | 39 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | ⭐ 500 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,698 | 2026-08-01 | 27 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [exiftool/exiftool](../repos/exiftool/exiftool.md) | ⭐ 5,136 | 2026-08-01 | 46 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [RotherOSS/otobo](../repos/RotherOSS/otobo.md) | ⭐ 335 | 2026-09-24 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ledgersmb/LedgerSMB](../repos/ledgersmb/LedgerSMB.md) | ⭐ 570 | 2026-10-08 | 1 |
+| [mojolicious/mojo](../repos/mojolicious/mojo.md) | ⭐ 2,751 | 2026-10-09 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [UniversalDependencies/tools](../repos/UniversalDependencies/tools.md) | ⭐ 220 | 2026-09-09 | Various utilities for processing the data. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [docker-library/repo-info](../repos/docker-library/repo-info.md) | ⭐ 608 | 2026-09-12 | Extended information (especially license and layer details) about the published Official Images |
@@ -56,6 +44,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ledgersmb/LedgerSMB](../repos/ledgersmb/LedgerSMB.md) | ⭐ 570 | 2026-10-08 | Double-entry accounting &amp; ERP for the web |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mojolicious/mojo](../repos/mojolicious/mojo.md) | ⭐ 2,751 | 2026-10-09 | :sparkles: Mojolicious - Perl real-time web framework |
 
 
 ---
@@ -71,6 +62,7 @@
 | [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,950 | 2026-08-02 | 21 |
 | [rsnapshot/rsnapshot](../repos/rsnapshot/rsnapshot.md) | ⭐ 3,683 | 2026-09-21 | 1 |
 | [ddclient/ddclient](../repos/ddclient/ddclient.md) | ⭐ 3,517 | 2026-08-10 | 5 |
+| [mojolicious/mojo](../repos/mojolicious/mojo.md) | ⭐ 2,751 | 2026-10-09 | 1 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,680 | 2026-08-01 | 32 |
 | [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,332 | 2026-08-03 | 23 |
 | [LMS-Community/slimserver](../repos/LMS-Community/slimserver.md) | ⭐ 1,780 | 2026-08-09 | 2 |
@@ -83,7 +75,6 @@
 | [linux-test-project/lcov](../repos/linux-test-project/lcov.md) | ⭐ 1,106 | 2026-08-08 | 2 |
 | [sipwise/rtpengine](../repos/sipwise/rtpengine.md) | ⭐ 992 | 2026-10-07 | 1 |
 | [mysociety/fixmystreet](../repos/mysociety/fixmystreet.md) | ⭐ 616 | 2026-09-08 | 1 |
-| [docker-library/repo-info](../repos/docker-library/repo-info.md) | ⭐ 608 | 2026-09-12 | 2 |
 
 ---
 
@@ -93,7 +84,7 @@
 |------------|---------------|-------|------------|-----------|
 | [brendangregg/FlameGraph](../repos/brendangregg/FlameGraph.md) | 46 | ⭐ 19,784 | 2026-08-01 | 2026-10-03 |
 | [exiftool/exiftool](../repos/exiftool/exiftool.md) | 46 | ⭐ 5,136 | 2026-08-01 | 2026-10-08 |
-| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 39 | ⭐ 500 | 2026-08-01 | 2026-10-08 |
+| [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 40 | ⭐ 500 | 2026-08-01 | 2026-10-09 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 32 | ⭐ 2,680 | 2026-08-01 | 2026-09-14 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | 28 | ⭐ 1,527 | 2026-08-01 | 2026-10-02 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 27 | ⭐ 1,698 | 2026-08-01 | 2026-10-08 |
@@ -144,7 +135,8 @@
 - [xcat2/xcat-core](../repos/xcat2/xcat-core.md) - Code repo for xCAT core packages
 - [sipwise/rtpengine](../repos/sipwise/rtpengine.md) - The Sipwise media proxy for Kamailio
 - [ledgersmb/LedgerSMB](../repos/ledgersmb/LedgerSMB.md) - Double-entry accounting &amp; ERP for the web
+- [mojolicious/mojo](../repos/mojolicious/mojo.md) - :sparkles: Mojolicious - Perl real-time web framework
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.367Z*
+*Last updated: 2026-10-09T21:01:33.189Z*

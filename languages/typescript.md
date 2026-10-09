@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 251
+- **Total Repositories**: 254
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 32,095 | 2026-08-07 | 13 |
+| [apify/crawlee](../repos/apify/crawlee.md) | ⭐ 26,087 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dyad-sh/dyad](../repos/dyad-sh/dyad.md) | ⭐ 21,775 | 2026-08-10 | 2 |
+| [alsk1992/CloddsBot](../repos/alsk1992/CloddsBot.md) | ⭐ 2,944 | 2026-09-10 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ItzCrazyKns/Vane](../repos/ItzCrazyKns/Vane.md) | ⭐ 37,149 | 2026-08-22 | 3 |
+| [thesysdev/openui](../repos/thesysdev/openui.md) | ⭐ 10,563 | 2026-09-13 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 9,224 | 2026-08-26 | 4 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 42,794 | 2026-10-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 88,062 | 2026-08-28 | 3 |
+| [Vincentwei1021/video-shotcraft](../repos/Vincentwei1021/video-shotcraft.md) | ⭐ 11,028 | 2026-10-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [reconurge/flowsint](../repos/reconurge/flowsint.md) | ⭐ 9,556 | 2026-09-14 | 3 |
+| [VERT-sh/VERT](../repos/VERT-sh/VERT.md) | ⭐ 15,807 | 2026-10-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tester-army/e2e](../repos/tester-army/e2e.md) | ⭐ 8,136 | 2026-10-06 | 3 |
+| [cartesiancs/map3d](../repos/cartesiancs/map3d.md) | ⭐ 2,571 | 2026-10-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 24,023 | 2026-10-06 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Vincentwei1021/video-shotcraft](../repos/Vincentwei1021/video-shotcraft.md) | ⭐ 10,872 | 2026-10-08 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Gimanh/taskview-community](../repos/Gimanh/taskview-community.md) | ⭐ 1,273 | 2026-10-08 | 1 |
+| [makecindy/cindy](../repos/makecindy/cindy.md) | ⭐ 2,970 | 2026-10-09 | 1 |
 
 
 ---
@@ -52,16 +46,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vastsa/PI-Desktop](../repos/vastsa/PI-Desktop.md) | ⭐ 3,059 | 2026-09-09 | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installa... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [solidjs/solid](../repos/solidjs/solid.md) | ⭐ 36,006 | 2026-09-09 | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [supermemoryai/supermemory](../repos/supermemoryai/supermemory.md) | ⭐ 30,681 | 2026-09-09 | Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. T... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [alsk1992/CloddsBot](../repos/alsk1992/CloddsBot.md) | ⭐ 2,898 | 2026-09-10 | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi... |
+| [alsk1992/CloddsBot](../repos/alsk1992/CloddsBot.md) | ⭐ 2,944 | 2026-09-10 | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nashsu/llm_wiki](../repos/nashsu/llm_wiki.md) | ⭐ 19,461 | 2026-09-10 | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, int... |
@@ -80,6 +65,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tech-leads-club/agent-skills](../repos/tech-leads-club/agent-skills.md) | ⭐ 6,008 | 2026-09-13 | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claud... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ColeMurray/background-agents](../repos/ColeMurray/background-agents.md) | ⭐ 3,012 | 2026-09-13 | An open-source background agents coding system |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/AI-Engineering-Coach](../repos/microsoft/AI-Engineering-Coach.md) | ⭐ 4,117 | 2026-09-13 | better agentic engineering |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [thesysdev/openui](../repos/thesysdev/openui.md) | ⭐ 10,563 | 2026-09-13 | The Open Standard for Generative UI |
 
 
 ---
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.383Z*
+*Last updated: 2026-10-09T21:01:33.207Z*

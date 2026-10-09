@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 275
+- **Total Repositories**: 279
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-25
 
@@ -16,43 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 53,951 | 2026-08-11 | 5 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 48,163 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) | ⭐ 23,180 | 2026-08-12 | 7 |
+| [hugohe3/ppt-master](../repos/hugohe3/ppt-master.md) | ⭐ 58,702 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/agent-framework](../repos/microsoft/agent-framework.md) | ⭐ 14,018 | 2026-08-20 | 3 |
+| [bojieli/ai-agent-book](../repos/bojieli/ai-agent-book.md) | ⭐ 53,185 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tracer-Cloud/opensre](../repos/Tracer-Cloud/opensre.md) | ⭐ 11,650 | 2026-08-24 | 4 |
+| [datawhalechina/hello-agents](../repos/datawhalechina/hello-agents.md) | ⭐ 82,247 | 2026-09-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [earthtojake/text-to-cad](../repos/earthtojake/text-to-cad.md) | ⭐ 18,451 | 2026-09-04 | 6 |
+| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 28,173 | 2026-09-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 27,453 | 2026-09-19 | 4 |
+| [Robbyant/lingbot-map](../repos/Robbyant/lingbot-map.md) | ⭐ 17,653 | 2026-10-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 4,838 | 2026-09-22 | 5 |
+| [Tencent-Hunyuan/Hy-MT2](../repos/Tencent-Hunyuan/Hy-MT2.md) | ⭐ 1,185 | 2026-10-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [abrignoni/ALEAPP](../repos/abrignoni/ALEAPP.md) | ⭐ 974 | 2026-10-08 | 1 |
+| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 74,834 | 2026-10-09 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [IAmTomShaw/f1-race-replay](../repos/IAmTomShaw/f1-race-replay.md) | ⭐ 6,673 | 2026-10-08 | 1 |
+| [hiroi-sora/Umi-OCR](../repos/hiroi-sora/Umi-OCR.md) | ⭐ 47,729 | 2026-10-09 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OpenDCAI/GameFactory-3A](../repos/OpenDCAI/GameFactory-3A.md) | ⭐ 594 | 2026-09-09 | A comprehensive open-source 3A game-generation skill and asset framework. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [anbeime/skill](../repos/anbeime/skill.md) | ⭐ 6,455 | 2026-09-09 | 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jiji262/douyin-downloader](../repos/jiji262/douyin-downloader.md) | ⭐ 11,707 | 2026-09-10 | A practical Douyin downloader for both single-item and profile batch downloads, with progress dis... |
@@ -77,6 +71,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google-gemini/gemini-skills](../repos/google-gemini/gemini-skills.md) | ⭐ 4,100 | 2026-09-12 | Skills for the Gemini API, SDK and model&#x2F;agent interactions |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jordan-gibbs/hyperresearch](../repos/jordan-gibbs/hyperresearch.md) | ⭐ 3,200 | 2026-09-12 | Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [simonlin1212/TradingAgents-astock](../repos/simonlin1212/TradingAgents-astock.md) | ⭐ 3,302 | 2026-09-13 | A股多Agent投研框架 — 适配A股数据源(龙虎榜&#x2F;游资&#x2F;解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent ... |
 
 
 ---
@@ -117,8 +117,8 @@
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 13 | ⭐ 51,295 | 2026-08-22 | 2026-10-01 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 11 | ⭐ 92,571 | 2026-08-01 | 2026-10-06 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 11 | ⭐ 48,163 | 2026-08-03 | 2026-10-09 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 11 | ⭐ 40,107 | 2026-08-03 | 2026-10-02 |
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 10 | ⭐ 41,423 | 2026-08-03 | 2026-09-01 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 10 | ⭐ 106,016 | 2026-08-08 | 2026-09-14 |
 | [cactus-compute/needle](../repos/cactus-compute/needle.md) | 10 | ⭐ 12,523 | 2026-08-11 | 2026-09-24 |
 | [microsoft/hve-core](../repos/microsoft/hve-core.md) | 9 | ⭐ 1,384 | 2026-08-01 | 2026-08-28 |
@@ -166,7 +166,7 @@
 - [livekit/agents](../repos/livekit/agents.md) - A framework for building realtime voice AI agents 🤖🎙️📹 
 - [comet-ml/opik](../repos/comet-ml/opik.md) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with compr...
 - [jamwithai/production-agentic-rag-course](../repos/jamwithai/production-agentic-rag-course.md) - 
-- [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+...
+- [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+...
 - [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...
 - [PostHog/posthog](../repos/PostHog/posthog.md) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tool...
 - [frappe/builder](../repos/frappe/builder.md) - Craft beautiful websites effortlessly with an intuitive visual builder and publish them instantly
@@ -230,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.370Z*
+*Last updated: 2026-10-09T21:01:33.192Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Groovy |
 | **License** | EPL-1.0 |
-| **Stars** | ⭐ 908 |
-| **Forks** | 🍴 508 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 913 |
+| **Forks** | 🍴 509 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 3, 2026 |
+| **Last Seen** | Oct 9, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 2 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 908+ stars, strong contributor base |
+| **Community** | Very Active | 913+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:47.952Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-10-09T21:01:34.651Z*  
+*Data from 9 trending reports*

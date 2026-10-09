@@ -16,40 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 12,694 | 2026-08-01 | 23 |
+| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,995 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,026 | 2026-08-01 | 17 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,065 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | ⭐ 2,836 | 2026-08-03 | 6 |
+| [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,130 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/tart](../repos/openai/tart.md) | ⭐ 7,423 | 2026-08-14 | 9 |
+| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,323 | 2026-08-11 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 516 | 2026-09-21 | 3 |
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,858 | 2026-08-12 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [scholay/rimes](../repos/scholay/rimes.md) | ⭐ 896 | 2026-10-08 | 1 |
+| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,888 | 2026-08-24 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-argument-parser](../repos/apple/swift-argument-parser.md) | ⭐ 3,784 | 2026-10-08 | 1 |
+| [cshariq/Sapphire](../repos/cshariq/Sapphire.md) | ⭐ 285 | 2026-09-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 1,670 | 2026-10-08 | 1 |
+| [PlayCover/PlayCover](../repos/PlayCover/PlayCover.md) | ⭐ 11,892 | 2026-09-07 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [iFurySt/open-codex-computer-use](../repos/iFurySt/open-codex-computer-use.md) | ⭐ 2,368 | 2026-09-09 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [scholay/rimes](../repos/scholay/rimes.md) | ⭐ 981 | 2026-10-08 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [iFurySt/open-codex-computer-use](../repos/iFurySt/open-codex-computer-use.md) | ⭐ 2,205 | 2026-09-09 | 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cashapp/AccessibilitySnapshot](../repos/cashapp/AccessibilitySnapshot.md) | ⭐ 740 | 2026-09-09 | Easy regression testing for iOS accessibility |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](../repos/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring.md) | ⭐ 9,173 | 2026-09-10 | Menubar Tool to set Charge Limits and Prolong Battery Lifespan |
@@ -74,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mattt/iMCP](../repos/mattt/iMCP.md) | ⭐ 1,645 | 2026-09-20 | A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/ZoomitForMac](../repos/microsoft/ZoomitForMac.md) | ⭐ 1,045 | 2026-09-21 | Sysinternals ZoomIt for MacOS |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 516 | 2026-09-21 | Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH,... |
 
 
 ---
@@ -87,18 +93,18 @@
 | [apple/container](../repos/apple/container.md) | ⭐ 50,393 | 2026-08-01 | 16 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,480 | 2026-08-12 | 10 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,026 | 2026-08-01 | 17 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,065 | 2026-08-01 | 18 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 27,997 | 2026-08-04 | 4 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,893 | 2026-08-04 | 12 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
-| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,536 | 2026-08-12 | 7 |
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,858 | 2026-08-12 | 8 |
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
-| [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,108 | 2026-08-03 | 3 |
+| [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,130 | 2026-08-03 | 4 |
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,951 | 2026-08-04 | 16 |
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,832 | 2026-08-24 | 8 |
+| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,888 | 2026-08-24 | 9 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,482 | 2026-08-08 | 8 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,327 | 2026-08-17 | 7 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | 2026-08-01 | 3 |
@@ -110,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 23 | ⭐ 12,694 | 2026-08-01 | 2026-10-08 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 17 | ⭐ 28,026 | 2026-08-01 | 2026-10-08 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 18 | ⭐ 28,065 | 2026-08-01 | 2026-10-09 |
 | [apple/container](../repos/apple/container.md) | 16 | ⭐ 50,393 | 2026-08-01 | 2026-09-29 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 16 | ⭐ 14,951 | 2026-08-04 | 2026-10-06 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 15 | ⭐ 70,451 | 2026-08-05 | 2026-10-02 |
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.380Z*
+*Last updated: 2026-10-09T21:01:33.203Z*

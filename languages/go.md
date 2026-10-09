@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 293
+- **Total Repositories**: 294
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-10-08
+- **Last Updated**: 2026-10-09
 
 ---
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,406 | 2026-08-01 | 18 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 49,529 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailscale/tailscale](../repos/tailscale/tailscale.md) | ⭐ 37,276 | 2026-08-02 | 5 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 52,304 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,349 | 2026-08-04 | 6 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 32,822 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [navidrome/navidrome](../repos/navidrome/navidrome.md) | ⭐ 24,043 | 2026-08-08 | 7 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,527 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 29,794 | 2026-08-11 | 8 |
+| [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 42,020 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-telemetry/opentelemetry-collector-contrib](../repos/open-telemetry/opentelemetry-collector-contrib.md) | ⭐ 4,982 | 2026-08-26 | 5 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,914 | 2026-08-06 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hashicorp/vault](../repos/hashicorp/vault.md) | ⭐ 36,358 | 2026-08-26 | 2 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 25,398 | 2026-08-06 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker/docker-agent](../repos/docker/docker-agent.md) | ⭐ 4,222 | 2026-08-27 | 2 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 43,570 | 2026-08-07 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stacklok/toolhive](../repos/stacklok/toolhive.md) | ⭐ 2,251 | 2026-09-08 | 2 |
+| [trufflesecurity/trufflehog](../repos/trufflesecurity/trufflehog.md) | ⭐ 28,395 | 2026-08-12 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [llm-d/llm-d-router](../repos/llm-d/llm-d-router.md) | ⭐ 381 | 2026-10-06 | 2 |
+| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 12,851 | 2026-08-19 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [go-resty/resty](../repos/go-resty/resty.md) | ⭐ 11,792 | 2026-09-09 | Simple HTTP, REST, and SSE client library for Go |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [chenhg5/cc-connect](../repos/chenhg5/cc-connect.md) | ⭐ 15,434 | 2026-09-09 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Fe... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [volcano-sh/volcano](../repos/volcano-sh/volcano.md) | ⭐ 5,932 | 2026-09-09 | A Cloud Native Batch System (Project under CNCF) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [R-s0n/ars0n-framework-v2](../repos/R-s0n/ars0n-framework-v2.md) | ⭐ 800 | 2026-09-10 | AI Native Bug Bounty Hunting Framework Designed to Help Beginners Compete w&#x2F; the Pros |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [obot-platform/obot](../repos/obot-platform/obot.md) | ⭐ 1,071 | 2026-09-12 | Complete AI Governance Platform from Obot AI |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hashicorp/nomad](../repos/hashicorp/nomad.md) | ⭐ 16,903 | 2026-09-13 | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ipfs/kubo](../repos/ipfs/kubo.md) | ⭐ 17,136 | 2026-09-13 | IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HT... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [operacle/checkcle](../repos/operacle/checkcle.md) | ⭐ 3,196 | 2026-09-14 | CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack sys... |
 
 
 ---
@@ -88,11 +88,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,406 | 2026-08-01 | 18 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,527 | 2026-08-01 | 19 |
 | [golang/go](../repos/golang/go.md) | ⭐ 139,317 | 2026-07-31 | 13 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,053 | 2026-08-04 | 7 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,384 | 2026-08-15 | 9 |
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,509 | 2026-08-06 | 11 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,914 | 2026-08-06 | 12 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,294 | 2026-08-05 | 2 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,506 | 2026-08-12 | 7 |
@@ -103,11 +103,11 @@
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,310 | 2026-08-22 | 3 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 51,680 | 2026-08-01 | 13 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 52,304 | 2026-08-01 | 14 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,820 | 2026-08-06 | 8 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 48,695 | 2026-08-01 | 15 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 49,529 | 2026-08-01 | 16 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [ollama/ollama](../repos/ollama/ollama.md) | 19 | ⭐ 182,527 | 2026-08-01 | 2026-10-09 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 18 | ⭐ 38,286 | 2026-08-01 | 2026-10-07 |
-| [ollama/ollama](../repos/ollama/ollama.md) | 18 | ⭐ 182,406 | 2026-08-01 | 2026-10-08 |
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 17 | ⭐ 27,208 | 2026-08-01 | 2026-09-19 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 18 | ⭐ 32,822 | 2026-08-01 | 2026-10-09 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 16 | ⭐ 49,529 | 2026-08-01 | 2026-10-09 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 16 | ⭐ 762 | 2026-08-01 | 2026-10-07 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 15 | ⭐ 48,695 | 2026-08-01 | 2026-09-22 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 15 | ⭐ 4,200 | 2026-08-02 | 2026-10-03 |
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 14 | ⭐ 42,026 | 2026-08-07 | 2026-09-19 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 15 | ⭐ 43,570 | 2026-08-07 | 2026-10-09 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 14 | ⭐ 52,304 | 2026-08-01 | 2026-10-09 |
 | [golang/go](../repos/golang/go.md) | 13 | ⭐ 139,317 | 2026-07-31 | 2026-10-07 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 13 | ⭐ 51,680 | 2026-08-01 | 2026-09-29 |
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 11 | ⭐ 91,509 | 2026-08-06 | 2026-09-29 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 12 | ⭐ 91,914 | 2026-08-06 | 2026-10-09 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-08T21:01:46.342Z*
+*Last updated: 2026-10-09T21:01:33.161Z*
