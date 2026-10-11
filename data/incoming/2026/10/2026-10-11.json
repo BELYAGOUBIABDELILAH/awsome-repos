@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "date": "2026-10-11",
-  "generated_at": "2026-10-11T14:37:50Z",
+  "generated_at": "2026-10-11T21:00:38Z",
   "period": "daily",
   "sources": [
     "github-trending"
   ],
-  "repository_count": 286,
+  "repository_count": 288,
   "repositories": [
     {
       "full_name": "morluto/rea",
@@ -39,11 +39,11 @@
         "static-analysis"
       ],
       "license": "MIT",
-      "stars": 90458,
-      "forks": 19966,
+      "stars": 99604,
+      "forks": 22007,
       "created_at": "2026-04-14T00:51:32Z",
-      "updated_at": "2026-10-11T14:38:02Z",
-      "pushed_at": "2026-10-11T14:35:34Z",
+      "updated_at": "2026-10-11T21:00:44Z",
+      "pushed_at": "2026-10-11T20:55:25Z",
       "appearances": [
         {
           "source_type": "overall",
@@ -77,11 +77,11 @@
         "vulkan"
       ],
       "license": "GPL-2.0",
-      "stars": 28703,
-      "forks": 2442,
+      "stars": 29652,
+      "forks": 2545,
       "created_at": "2026-08-03T21:30:25Z",
-      "updated_at": "2026-10-11T14:37:35Z",
-      "pushed_at": "2026-10-11T12:42:34Z",
+      "updated_at": "2026-10-11T20:59:30Z",
+      "pushed_at": "2026-10-11T19:59:34Z",
       "appearances": [
         {
           "source_type": "overall",
@@ -113,10 +113,10 @@
         "imagegeneration"
       ],
       "license": "Apache-2.0",
-      "stars": 16323,
-      "forks": 2647,
+      "stars": 17429,
+      "forks": 2848,
       "created_at": "2022-03-31T23:19:12Z",
-      "updated_at": "2026-10-11T14:37:21Z",
+      "updated_at": "2026-10-11T21:00:07Z",
       "pushed_at": "2026-10-11T13:47:59Z",
       "appearances": [
         {
@@ -156,10 +156,10 @@
         "worldview"
       ],
       "license": "Other",
-      "stars": 50925,
-      "forks": 10268,
+      "stars": 51425,
+      "forks": 10337,
       "created_at": "2026-06-22T23:37:22Z",
-      "updated_at": "2026-10-11T14:37:59Z",
+      "updated_at": "2026-10-11T21:00:11Z",
       "pushed_at": "2026-10-10T03:59:46Z",
       "appearances": [
         {
@@ -195,11 +195,11 @@
         "tensor"
       ],
       "license": "Other",
-      "stars": 104316,
-      "forks": 32051,
+      "stars": 104424,
+      "forks": 32078,
       "created_at": "2016-08-13T05:26:41Z",
-      "updated_at": "2026-10-11T14:36:00Z",
-      "pushed_at": "2026-10-11T14:16:04Z",
+      "updated_at": "2026-10-11T20:58:12Z",
+      "pushed_at": "2026-10-11T20:17:00Z",
       "appearances": [
         {
           "source_type": "overall",
@@ -225,10 +225,10 @@
       "primary_language": "Python",
       "topics": [],
       "license": "Other",
-      "stars": 57768,
-      "forks": 9201,
+      "stars": 58003,
+      "forks": 9225,
       "created_at": "2026-01-28T19:02:30Z",
-      "updated_at": "2026-10-11T14:37:56Z",
+      "updated_at": "2026-10-11T21:00:45Z",
       "pushed_at": "2026-10-11T08:00:50Z",
       "appearances": [
         {
@@ -269,11 +269,11 @@
         "vlm"
       ],
       "license": "Apache-2.0",
-      "stars": 167507,
-      "forks": 34819,
+      "stars": 167518,
+      "forks": 34837,
       "created_at": "2018-10-29T13:56:00Z",
-      "updated_at": "2026-10-11T14:34:27Z",
-      "pushed_at": "2026-10-11T13:57:46Z",
+      "updated_at": "2026-10-11T20:44:49Z",
+      "pushed_at": "2026-10-11T20:51:58Z",
       "appearances": [
         {
           "source_type": "language",
@@ -304,11 +304,11 @@
         "slides"
       ],
       "license": "MIT",
-      "stars": 60166,
-      "forks": 4741,
+      "stars": 60321,
+      "forks": 4755,
       "created_at": "2025-12-10T06:54:33Z",
-      "updated_at": "2026-10-11T14:36:40Z",
-      "pushed_at": "2026-10-08T07:45:46Z",
+      "updated_at": "2026-10-11T20:58:01Z",
+      "pushed_at": "2026-10-11T15:41:40Z",
       "appearances": [
         {
           "source_type": "language",
@@ -349,11 +349,11 @@
         "workflow"
       ],
       "license": "AGPL-3.0",
-      "stars": 58131,
-      "forks": 6527,
+      "stars": 58546,
+      "forks": 6575,
       "created_at": "2026-04-09T21:40:26Z",
-      "updated_at": "2026-10-11T14:37:49Z",
-      "pushed_at": "2026-10-11T14:00:00Z",
+      "updated_at": "2026-10-11T20:58:42Z",
+      "pushed_at": "2026-10-11T20:50:35Z",
       "appearances": [
         {
           "source_type": "language",
@@ -393,10 +393,10 @@
         "termux-tool"
       ],
       "license": null,
-      "stars": 18177,
-      "forks": 2483,
+      "stars": 18210,
+      "forks": 2486,
       "created_at": "2023-04-15T07:20:47Z",
-      "updated_at": "2026-10-11T14:30:07Z",
+      "updated_at": "2026-10-11T20:32:46Z",
       "pushed_at": "2024-01-11T15:36:46Z",
       "appearances": [
         {
@@ -435,10 +435,10 @@
         "workflow-automation"
       ],
       "license": null,
-      "stars": 76854,
-      "forks": 9033,
+      "stars": 76874,
+      "forks": 9039,
       "created_at": "2025-10-17T07:15:01Z",
-      "updated_at": "2026-10-11T14:23:35Z",
+      "updated_at": "2026-10-11T20:56:00Z",
       "pushed_at": "2026-09-18T07:16:11Z",
       "appearances": [
         {
@@ -459,10 +459,10 @@
       "primary_language": "Python",
       "topics": [],
       "license": "MIT",
-      "stars": 11829,
-      "forks": 1439,
+      "stars": 11842,
+      "forks": 1442,
       "created_at": "2025-11-26T10:04:35Z",
-      "updated_at": "2026-10-11T14:04:30Z",
+      "updated_at": "2026-10-11T20:37:48Z",
       "pushed_at": "2026-07-10T12:34:32Z",
       "appearances": [
         {
@@ -503,10 +503,10 @@
         "streaming"
       ],
       "license": "GPL-3.0",
-      "stars": 9701,
-      "forks": 634,
+      "stars": 9712,
+      "forks": 636,
       "created_at": "2023-08-16T04:23:44Z",
-      "updated_at": "2026-10-11T14:37:05Z",
+      "updated_at": "2026-10-11T19:30:56Z",
       "pushed_at": "2026-10-08T14:10:50Z",
       "appearances": [
         {
@@ -532,10 +532,10 @@
         "tutorial"
       ],
       "license": "Other",
-      "stars": 82544,
+      "stars": 82563,
       "forks": 10238,
       "created_at": "2025-09-07T09:50:24Z",
-      "updated_at": "2026-10-11T14:38:02Z",
+      "updated_at": "2026-10-11T20:50:58Z",
       "pushed_at": "2026-10-08T08:17:28Z",
       "appearances": [
         {
@@ -561,10 +561,10 @@
         "rag"
       ],
       "license": "Apache-2.0",
-      "stars": 141240,
-      "forks": 20774,
+      "stars": 141279,
+      "forks": 20775,
       "created_at": "2024-04-29T05:30:25Z",
-      "updated_at": "2026-10-11T14:31:49Z",
+      "updated_at": "2026-10-11T20:07:48Z",
       "pushed_at": "2026-09-30T20:31:22Z",
       "appearances": [
         {
@@ -585,10 +585,10 @@
       "primary_language": "Python",
       "topics": [],
       "license": "Apache-2.0",
-      "stars": 29046,
-      "forks": 3297,
+      "stars": 29093,
+      "forks": 3301,
       "created_at": "2026-01-23T20:11:54Z",
-      "updated_at": "2026-10-11T14:33:51Z",
+      "updated_at": "2026-10-11T20:54:57Z",
       "pushed_at": "2026-10-11T07:46:16Z",
       "appearances": [
         {
@@ -628,11 +628,11 @@
         "wan"
       ],
       "license": "Apache-2.0",
-      "stars": 36986,
-      "forks": 9451,
+      "stars": 36996,
+      "forks": 9460,
       "created_at": "2024-01-08T04:15:52Z",
-      "updated_at": "2026-10-11T14:36:35Z",
-      "pushed_at": "2026-10-11T14:36:31Z",
+      "updated_at": "2026-10-11T20:59:16Z",
+      "pushed_at": "2026-10-11T19:23:33Z",
       "appearances": [
         {
           "source_type": "language",
@@ -673,10 +673,10 @@
         "vuepress"
       ],
       "license": "Other",
-      "stars": 20994,
+      "stars": 20996,
       "forks": 2308,
       "created_at": "2025-02-13T05:47:46Z",
-      "updated_at": "2026-10-11T14:24:41Z",
+      "updated_at": "2026-10-11T19:22:02Z",
       "pushed_at": "2026-09-28T03:09:27Z",
       "appearances": [
         {
@@ -704,11 +704,11 @@
         "smarthome"
       ],
       "license": "MIT",
-      "stars": 24032,
+      "stars": 24049,
       "forks": 4576,
       "created_at": "2014-02-19T15:48:09Z",
-      "updated_at": "2026-10-11T14:16:43Z",
-      "pushed_at": "2026-10-10T10:23:05Z",
+      "updated_at": "2026-10-11T20:52:24Z",
+      "pushed_at": "2026-10-11T20:28:30Z",
       "appearances": [
         {
           "source_type": "language",
@@ -734,17 +734,17 @@
         "scroll"
       ],
       "license": null,
-      "stars": 29054,
-      "forks": 2248,
+      "stars": 29064,
+      "forks": 2250,
       "created_at": "2012-09-21T18:03:25Z",
-      "updated_at": "2026-10-11T13:52:05Z",
+      "updated_at": "2026-10-11T20:25:35Z",
       "pushed_at": "2026-04-13T13:08:58Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "javascript",
           "rank": 5,
-          "stars_gained": 54
+          "stars_gained": 47
         }
       ]
     },
@@ -758,17 +758,17 @@
       "primary_language": "JavaScript",
       "topics": [],
       "license": null,
-      "stars": 2802,
-      "forks": 365,
+      "stars": 2804,
+      "forks": 368,
       "created_at": "2020-03-08T08:08:37Z",
-      "updated_at": "2026-10-11T14:34:52Z",
+      "updated_at": "2026-10-11T17:11:11Z",
       "pushed_at": "2026-07-13T09:54:25Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "javascript",
           "rank": 6,
-          "stars_gained": 26
+          "stars_gained": 25
         }
       ]
     },
@@ -802,11 +802,11 @@
         "workflow"
       ],
       "license": "Other",
-      "stars": 158140,
-      "forks": 24978,
+      "stars": 158159,
+      "forks": 25004,
       "created_at": "2023-04-12T07:40:24Z",
-      "updated_at": "2026-10-11T14:30:21Z",
-      "pushed_at": "2026-10-11T12:42:46Z",
+      "updated_at": "2026-10-11T20:06:19Z",
+      "pushed_at": "2026-10-11T19:42:30Z",
       "appearances": [
         {
           "source_type": "language",
@@ -842,10 +842,10 @@
         "visualization"
       ],
       "license": "MIT",
-      "stars": 2568,
-      "forks": 292,
+      "stars": 2632,
+      "forks": 301,
       "created_at": "2026-03-12T20:40:06Z",
-      "updated_at": "2026-10-11T14:35:02Z",
+      "updated_at": "2026-10-11T20:59:13Z",
       "pushed_at": "2026-10-09T16:02:43Z",
       "appearances": [
         {
@@ -877,11 +877,11 @@
         "vercel-deployment"
       ],
       "license": "AGPL-3.0",
-      "stars": 4849,
-      "forks": 399,
+      "stars": 4978,
+      "forks": 417,
       "created_at": "2025-11-28T11:58:07Z",
-      "updated_at": "2026-10-11T14:37:52Z",
-      "pushed_at": "2026-10-11T14:32:22Z",
+      "updated_at": "2026-10-11T20:52:52Z",
+      "pushed_at": "2026-10-11T17:55:31Z",
       "appearances": [
         {
           "source_type": "language",
@@ -913,11 +913,11 @@
         "windows"
       ],
       "license": "Other",
-      "stars": 56458,
+      "stars": 56477,
       "forks": 5060,
       "created_at": "2018-12-18T11:45:05Z",
-      "updated_at": "2026-10-11T14:37:22Z",
-      "pushed_at": "2026-10-10T15:01:00Z",
+      "updated_at": "2026-10-11T20:55:48Z",
+      "pushed_at": "2026-10-11T16:48:23Z",
       "appearances": [
         {
           "source_type": "language",
@@ -957,10 +957,10 @@
         "text-to-sql"
       ],
       "license": "Other",
-      "stars": 1897,
+      "stars": 1905,
       "forks": 282,
       "created_at": "2025-12-30T18:33:25Z",
-      "updated_at": "2026-10-11T14:19:31Z",
+      "updated_at": "2026-10-11T20:24:36Z",
       "pushed_at": "2026-10-09T18:40:34Z",
       "appearances": [
         {
@@ -990,10 +990,10 @@
         "wireless"
       ],
       "license": "MIT",
-      "stars": 4092,
-      "forks": 718,
+      "stars": 4099,
+      "forks": 719,
       "created_at": "2022-09-30T09:06:45Z",
-      "updated_at": "2026-10-11T14:37:31Z",
+      "updated_at": "2026-10-11T20:32:24Z",
       "pushed_at": "2026-10-09T11:43:02Z",
       "appearances": [
         {
@@ -1024,17 +1024,17 @@
         "retrogaming"
       ],
       "license": "GPL-3.0",
-      "stars": 115,
-      "forks": 31,
+      "stars": 120,
+      "forks": 33,
       "created_at": "2026-08-09T11:59:33Z",
-      "updated_at": "2026-10-11T11:50:39Z",
+      "updated_at": "2026-10-11T20:35:55Z",
       "pushed_at": "2026-10-10T05:00:17Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "rust",
           "rank": 4,
-          "stars_gained": 26
+          "stars_gained": 14
         }
       ]
     },
@@ -1048,10 +1048,10 @@
       "primary_language": "Rust",
       "topics": [],
       "license": "Apache-2.0",
-      "stars": 5414,
-      "forks": 287,
+      "stars": 5430,
+      "forks": 293,
       "created_at": "2025-04-25T12:27:48Z",
-      "updated_at": "2026-10-11T14:26:53Z",
+      "updated_at": "2026-10-11T20:56:39Z",
       "pushed_at": "2026-10-07T15:44:50Z",
       "appearances": [
         {
@@ -1079,17 +1079,17 @@
         "repository-level-context"
       ],
       "license": "Apache-2.0",
-      "stars": 46060,
-      "forks": 3343,
+      "stars": 46146,
+      "forks": 3348,
       "created_at": "2026-05-18T02:16:36Z",
-      "updated_at": "2026-10-11T14:36:40Z",
+      "updated_at": "2026-10-11T20:59:00Z",
       "pushed_at": "2026-10-10T08:37:26Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "go",
           "rank": 1,
-          "stars_gained": 876
+          "stars_gained": 297
         }
       ]
     },
@@ -1111,17 +1111,17 @@
         "rerank"
       ],
       "license": "AGPL-3.0",
-      "stars": 49705,
-      "forks": 11946,
+      "stars": 49718,
+      "forks": 11953,
       "created_at": "2023-11-10T19:33:36Z",
-      "updated_at": "2026-10-11T14:36:17Z",
+      "updated_at": "2026-10-11T19:49:12Z",
       "pushed_at": "2026-10-11T11:26:38Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "go",
           "rank": 2,
-          "stars_gained": 135
+          "stars_gained": 72
         }
       ]
     },
@@ -1153,17 +1153,17 @@
         "vulnerability-scanners"
       ],
       "license": null,
-      "stars": 1787,
+      "stars": 1792,
       "forks": 342,
       "created_at": "2024-02-27T03:04:25Z",
-      "updated_at": "2026-10-11T13:59:51Z",
+      "updated_at": "2026-10-11T19:08:52Z",
       "pushed_at": "2026-10-11T03:21:00Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "go",
           "rank": 3,
-          "stars_gained": 35
+          "stars_gained": 27
         }
       ]
     },
@@ -1193,10 +1193,10 @@
         "sliver"
       ],
       "license": "GPL-3.0",
-      "stars": 12075,
-      "forks": 1620,
+      "stars": 12085,
+      "forks": 1621,
       "created_at": "2019-01-17T22:07:38Z",
-      "updated_at": "2026-10-11T14:06:43Z",
+      "updated_at": "2026-10-11T20:30:25Z",
       "pushed_at": "2026-10-10T17:05:26Z",
       "appearances": [
         {
@@ -1238,17 +1238,17 @@
         "wiki"
       ],
       "license": "Other",
-      "stars": 33124,
-      "forks": 4412,
+      "stars": 33190,
+      "forks": 4417,
       "created_at": "2025-07-22T08:01:23Z",
-      "updated_at": "2026-10-11T14:29:15Z",
-      "pushed_at": "2026-10-11T09:07:00Z",
+      "updated_at": "2026-10-11T20:55:06Z",
+      "pushed_at": "2026-10-11T14:48:57Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "go",
           "rank": 6,
-          "stars_gained": 216
+          "stars_gained": 128
         }
       ]
     },
@@ -1262,17 +1262,17 @@
       "primary_language": "Go",
       "topics": [],
       "license": "MIT",
-      "stars": 17622,
+      "stars": 17624,
       "forks": 1390,
       "created_at": "2026-03-25T07:13:30Z",
-      "updated_at": "2026-10-11T14:34:15Z",
+      "updated_at": "2026-10-11T20:21:40Z",
       "pushed_at": "2026-10-09T12:28:26Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "go",
           "rank": 7,
-          "stars_gained": 23
+          "stars_gained": 15
         }
       ]
     },
@@ -1304,11 +1304,11 @@
         "vgpu-hypervisor"
       ],
       "license": "Apache-2.0",
-      "stars": 4679,
-      "forks": 853,
+      "stars": 4691,
+      "forks": 854,
       "created_at": "2021-09-14T11:51:49Z",
-      "updated_at": "2026-10-11T14:07:16Z",
-      "pushed_at": "2026-10-11T13:29:31Z",
+      "updated_at": "2026-10-11T20:06:54Z",
+      "pushed_at": "2026-10-11T17:44:09Z",
       "appearances": [
         {
           "source_type": "language",
@@ -1328,11 +1328,11 @@
       "primary_language": "Go",
       "topics": [],
       "license": "Other",
-      "stars": 52462,
-      "forks": 6834,
+      "stars": 52478,
+      "forks": 6837,
       "created_at": "2026-01-13T17:59:46Z",
-      "updated_at": "2026-10-11T14:27:11Z",
-      "pushed_at": "2026-10-11T01:24:05Z",
+      "updated_at": "2026-10-11T20:54:57Z",
+      "pushed_at": "2026-10-11T15:23:30Z",
       "appearances": [
         {
           "source_type": "language",
@@ -1352,11 +1352,11 @@
       "primary_language": "Go",
       "topics": [],
       "license": "Apache-2.0",
-      "stars": 8606,
-      "forks": 465,
+      "stars": 8631,
+      "forks": 467,
       "created_at": "2023-06-11T19:19:09Z",
-      "updated_at": "2026-10-11T14:05:59Z",
-      "pushed_at": "2026-10-11T14:05:54Z",
+      "updated_at": "2026-10-11T20:52:52Z",
+      "pushed_at": "2026-10-11T16:52:52Z",
       "appearances": [
         {
           "source_type": "language",
@@ -1386,17 +1386,17 @@
         "gemini"
       ],
       "license": "LGPL-3.0",
-      "stars": 43707,
-      "forks": 9380,
+      "stars": 43723,
+      "forks": 9383,
       "created_at": "2025-12-18T02:26:18Z",
-      "updated_at": "2026-10-11T14:32:20Z",
-      "pushed_at": "2026-10-11T06:38:08Z",
+      "updated_at": "2026-10-11T20:36:01Z",
+      "pushed_at": "2026-10-11T16:32:14Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "go",
           "rank": 12,
-          "stars_gained": 88
+          "stars_gained": 75
         }
       ]
     },
@@ -1415,10 +1415,10 @@
         "whatsapp-api"
       ],
       "license": "MIT",
-      "stars": 6530,
-      "forks": 1382,
+      "stars": 6537,
+      "forks": 1384,
       "created_at": "2025-03-29T12:49:33Z",
-      "updated_at": "2026-10-11T14:08:28Z",
+      "updated_at": "2026-10-11T20:06:50Z",
       "pushed_at": "2025-07-13T17:22:00Z",
       "appearances": [
         {
@@ -1443,10 +1443,10 @@
         "sandbox"
       ],
       "license": "Other",
-      "stars": 12873,
-      "forks": 1185,
+      "stars": 12876,
+      "forks": 1186,
       "created_at": "2026-04-10T03:00:31Z",
-      "updated_at": "2026-10-11T13:24:09Z",
+      "updated_at": "2026-10-11T20:56:18Z",
       "pushed_at": "2026-10-10T06:51:59Z",
       "appearances": [
         {
@@ -1467,10 +1467,10 @@
       "primary_language": "Go",
       "topics": [],
       "license": "MIT",
-      "stars": 14873,
+      "stars": 14874,
       "forks": 3611,
       "created_at": "2025-07-10T07:17:46Z",
-      "updated_at": "2026-10-11T12:09:32Z",
+      "updated_at": "2026-10-11T16:59:06Z",
       "pushed_at": "2026-10-08T15:10:17Z",
       "appearances": [
         {
@@ -1495,10 +1495,10 @@
         "software-analysis"
       ],
       "license": "Apache-2.0",
-      "stars": 83125,
-      "forks": 9248,
+      "stars": 83352,
+      "forks": 9270,
       "created_at": "2019-03-01T03:27:48Z",
-      "updated_at": "2026-10-11T14:37:43Z",
+      "updated_at": "2026-10-11T21:00:05Z",
       "pushed_at": "2026-10-09T10:30:16Z",
       "appearances": [
         {
@@ -1538,10 +1538,10 @@
         "vector"
       ],
       "license": "Apache-2.0",
-      "stars": 16068,
+      "stars": 16070,
       "forks": 3976,
       "created_at": "2017-08-10T12:13:30Z",
-      "updated_at": "2026-10-11T14:25:14Z",
+      "updated_at": "2026-10-11T19:55:04Z",
       "pushed_at": "2026-10-11T08:51:48Z",
       "appearances": [
         {
@@ -1571,17 +1571,17 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 39651,
-      "forks": 8555,
+      "stars": 39663,
+      "forks": 8557,
       "created_at": "2021-01-24T03:18:25Z",
-      "updated_at": "2026-10-11T13:48:54Z",
+      "updated_at": "2026-10-11T20:54:09Z",
       "pushed_at": "2026-10-09T04:42:29Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "java",
           "rank": 3,
-          "stars_gained": 32
+          "stars_gained": 19
         }
       ]
     },
@@ -1605,17 +1605,17 @@
         "llm"
       ],
       "license": "Apache-2.0",
-      "stars": 5922,
+      "stars": 5924,
       "forks": 1465,
       "created_at": "2025-09-23T04:37:43Z",
-      "updated_at": "2026-10-11T14:30:16Z",
-      "pushed_at": "2026-10-11T13:49:30Z",
+      "updated_at": "2026-10-11T18:20:44Z",
+      "pushed_at": "2026-10-11T14:41:25Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "java",
           "rank": 4,
-          "stars_gained": 16
+          "stars_gained": 9
         }
       ]
     },
@@ -1634,17 +1634,17 @@
         "java"
       ],
       "license": "Apache-2.0",
-      "stars": 50830,
-      "forks": 5796,
+      "stars": 50837,
+      "forks": 5797,
       "created_at": "2013-03-18T17:08:21Z",
-      "updated_at": "2026-10-11T12:22:34Z",
+      "updated_at": "2026-10-11T19:27:43Z",
       "pushed_at": "2026-10-10T23:29:52Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "java",
           "rank": 5,
-          "stars_gained": 29
+          "stars_gained": 16
         }
       ]
     },
@@ -1660,10 +1660,10 @@
         "telegram"
       ],
       "license": "GPL-2.0",
-      "stars": 30056,
-      "forks": 10211,
+      "stars": 30055,
+      "forks": 10216,
       "created_at": "2013-10-25T14:08:10Z",
-      "updated_at": "2026-10-11T14:22:32Z",
+      "updated_at": "2026-10-11T19:56:09Z",
       "pushed_at": "2026-09-30T17:52:20Z",
       "appearances": [
         {
@@ -1684,17 +1684,17 @@
       "primary_language": "Java",
       "topics": [],
       "license": "MIT",
-      "stars": 6912,
+      "stars": 6914,
       "forks": 672,
       "created_at": "2025-11-20T03:41:05Z",
-      "updated_at": "2026-10-11T13:57:01Z",
+      "updated_at": "2026-10-11T20:38:04Z",
       "pushed_at": "2026-10-10T04:59:45Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "java",
           "rank": 7,
-          "stars_gained": 33
+          "stars_gained": 9
         }
       ]
     },
@@ -1729,17 +1729,17 @@
         "vue3"
       ],
       "license": "Apache-2.0",
-      "stars": 48164,
-      "forks": 16215,
+      "stars": 48174,
+      "forks": 16213,
       "created_at": "2018-11-26T10:40:00Z",
-      "updated_at": "2026-10-11T14:31:44Z",
+      "updated_at": "2026-10-11T20:48:14Z",
       "pushed_at": "2026-09-22T14:26:15Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "java",
           "rank": 8,
-          "stars_gained": 26
+          "stars_gained": 31
         }
       ]
     },
@@ -1772,17 +1772,17 @@
         "version-control"
       ],
       "license": "Apache-2.0",
-      "stars": 5171,
+      "stars": 5172,
       "forks": 841,
       "created_at": "2026-03-11T12:17:05Z",
-      "updated_at": "2026-10-11T12:39:14Z",
+      "updated_at": "2026-10-11T17:33:39Z",
       "pushed_at": "2026-10-10T10:43:04Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "java",
           "rank": 9,
-          "stars_gained": 10
+          "stars_gained": 4
         }
       ]
     },
@@ -1808,10 +1808,10 @@
         "xxl-job"
       ],
       "license": "GPL-3.0",
-      "stars": 30609,
+      "stars": 30610,
       "forks": 11496,
       "created_at": "2015-11-28T12:59:34Z",
-      "updated_at": "2026-10-11T11:59:29Z",
+      "updated_at": "2026-10-11T15:07:14Z",
       "pushed_at": "2026-10-09T15:01:06Z",
       "appearances": [
         {
@@ -1867,9 +1867,9 @@
       ],
       "license": "Apache-2.0",
       "stars": 10996,
-      "forks": 2442,
+      "forks": 2443,
       "created_at": "2024-09-09T01:35:50Z",
-      "updated_at": "2026-10-11T14:26:05Z",
+      "updated_at": "2026-10-11T19:36:42Z",
       "pushed_at": "2026-10-07T13:48:56Z",
       "appearances": [
         {
@@ -1894,9 +1894,9 @@
       ],
       "license": "LGPL-3.0",
       "stars": 9424,
-      "forks": 2381,
+      "forks": 2384,
       "created_at": "2020-03-11T03:22:54Z",
-      "updated_at": "2026-10-11T11:57:04Z",
+      "updated_at": "2026-10-11T19:36:28Z",
       "pushed_at": "2025-09-23T20:12:28Z",
       "appearances": [
         {
@@ -1929,17 +1929,17 @@
         "programming"
       ],
       "license": "Other",
-      "stars": 130541,
+      "stars": 130550,
       "forks": 15503,
       "created_at": "2022-11-04T11:08:34Z",
-      "updated_at": "2026-10-11T14:36:14Z",
+      "updated_at": "2026-10-11T20:11:46Z",
       "pushed_at": "2026-10-10T21:51:10Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "java",
           "rank": 16,
-          "stars_gained": 44
+          "stars_gained": 35
         }
       ]
     },
@@ -1963,10 +1963,10 @@
         "pathfinding"
       ],
       "license": "LGPL-3.0",
-      "stars": 9284,
-      "forks": 2062,
+      "stars": 9285,
+      "forks": 2063,
       "created_at": "2018-08-01T15:34:21Z",
-      "updated_at": "2026-10-11T11:34:13Z",
+      "updated_at": "2026-10-11T19:36:00Z",
       "pushed_at": "2026-09-29T18:45:52Z",
       "appearances": [
         {
@@ -1991,17 +1991,17 @@
         "spring-ai"
       ],
       "license": "Apache-2.0",
-      "stars": 9530,
+      "stars": 9531,
       "forks": 2961,
       "created_at": "2023-06-27T18:57:29Z",
-      "updated_at": "2026-10-11T13:46:23Z",
+      "updated_at": "2026-10-11T15:30:09Z",
       "pushed_at": "2026-10-09T17:30:15Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "java",
           "rank": 18,
-          "stars_gained": 6
+          "stars_gained": 4
         }
       ]
     },
@@ -2022,11 +2022,11 @@
         "sql"
       ],
       "license": "Apache-2.0",
-      "stars": 26399,
+      "stars": 26400,
       "forks": 14058,
       "created_at": "2014-06-07T07:00:10Z",
-      "updated_at": "2026-10-11T13:37:00Z",
-      "pushed_at": "2026-10-10T12:38:07Z",
+      "updated_at": "2026-10-11T17:28:49Z",
+      "pushed_at": "2026-10-11T16:18:25Z",
       "appearances": [
         {
           "source_type": "language",
@@ -2055,11 +2055,11 @@
         "tensorflow"
       ],
       "license": "Apache-2.0",
-      "stars": 200862,
-      "forks": 79074,
+      "stars": 200868,
+      "forks": 79100,
       "created_at": "2015-11-07T01:19:20Z",
-      "updated_at": "2026-10-11T13:23:21Z",
-      "pushed_at": "2026-10-11T12:51:38Z",
+      "updated_at": "2026-10-11T20:38:25Z",
+      "pushed_at": "2026-10-11T20:04:43Z",
       "appearances": [
         {
           "source_type": "language",
@@ -2079,10 +2079,10 @@
       "primary_language": "C++",
       "topics": [],
       "license": "MIT",
-      "stars": 40662,
-      "forks": 3787,
+      "stars": 40688,
+      "forks": 3790,
       "created_at": "2024-08-05T09:07:38Z",
-      "updated_at": "2026-10-11T14:34:14Z",
+      "updated_at": "2026-10-11T20:43:45Z",
       "pushed_at": "2026-07-27T05:52:06Z",
       "appearances": [
         {
@@ -2121,17 +2121,17 @@
         "sql"
       ],
       "license": "Apache-2.0",
-      "stars": 50338,
-      "forks": 9082,
+      "stars": 50344,
+      "forks": 9083,
       "created_at": "2016-06-02T08:28:18Z",
-      "updated_at": "2026-10-11T14:14:44Z",
-      "pushed_at": "2026-10-11T14:37:35Z",
+      "updated_at": "2026-10-11T20:51:51Z",
+      "pushed_at": "2026-10-11T20:59:23Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "cpp",
           "rank": 4,
-          "stars_gained": 21
+          "stars_gained": 16
         }
       ]
     },
@@ -2151,17 +2151,17 @@
         "telegram-solution"
       ],
       "license": "GPL-3.0",
-      "stars": 33198,
-      "forks": 7369,
+      "stars": 33203,
+      "forks": 7375,
       "created_at": "2014-05-02T12:36:31Z",
-      "updated_at": "2026-10-11T13:44:52Z",
+      "updated_at": "2026-10-11T20:39:28Z",
       "pushed_at": "2026-10-10T13:03:13Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "cpp",
           "rank": 5,
-          "stars_gained": 31
+          "stars_gained": 24
         }
       ]
     },
@@ -2175,10 +2175,10 @@
       "primary_language": "C++",
       "topics": [],
       "license": "AGPL-3.0",
-      "stars": 1021,
+      "stars": 1026,
       "forks": 91,
       "created_at": "2026-06-06T05:45:07Z",
-      "updated_at": "2026-10-11T13:41:11Z",
+      "updated_at": "2026-10-11T20:49:04Z",
       "pushed_at": "2026-09-14T02:26:22Z",
       "appearances": [
         {
@@ -2205,10 +2205,10 @@
         "tool"
       ],
       "license": "GPL-3.0",
-      "stars": 3362,
+      "stars": 3370,
       "forks": 165,
       "created_at": "2025-04-12T06:48:01Z",
-      "updated_at": "2026-10-11T13:15:41Z",
+      "updated_at": "2026-10-11T20:47:42Z",
       "pushed_at": "2026-10-10T18:59:38Z",
       "appearances": [
         {
@@ -2229,11 +2229,11 @@
       "primary_language": "C++",
       "topics": [],
       "license": "GPL-3.0",
-      "stars": 15208,
+      "stars": 15212,
       "forks": 536,
       "created_at": "2023-12-31T10:09:12Z",
-      "updated_at": "2026-10-11T14:26:35Z",
-      "pushed_at": "2026-10-07T18:58:01Z",
+      "updated_at": "2026-10-11T18:55:01Z",
+      "pushed_at": "2026-10-11T19:03:10Z",
       "appearances": [
         {
           "source_type": "language",
@@ -2257,11 +2257,11 @@
         "mcp"
       ],
       "license": "MIT",
-      "stars": 30639,
-      "forks": 7182,
+      "stars": 30645,
+      "forks": 7185,
       "created_at": "2024-08-31T10:08:16Z",
-      "updated_at": "2026-10-11T14:15:45Z",
-      "pushed_at": "2026-10-10T07:51:57Z",
+      "updated_at": "2026-10-11T20:53:33Z",
+      "pushed_at": "2026-10-11T20:53:28Z",
       "appearances": [
         {
           "source_type": "language",
@@ -2287,10 +2287,10 @@
         "tools"
       ],
       "license": "Other",
-      "stars": 5739,
+      "stars": 5747,
       "forks": 354,
       "created_at": "2025-02-26T07:04:51Z",
-      "updated_at": "2026-10-11T14:17:58Z",
+      "updated_at": "2026-10-11T18:59:42Z",
       "pushed_at": "2026-10-11T13:02:36Z",
       "appearances": [
         {
@@ -2324,17 +2324,17 @@
         "windows"
       ],
       "license": "GPL-2.0",
-      "stars": 33406,
-      "forks": 2692,
+      "stars": 33412,
+      "forks": 2696,
       "created_at": "2022-10-24T09:48:37Z",
-      "updated_at": "2026-10-11T14:32:32Z",
-      "pushed_at": "2026-10-11T11:14:36Z",
+      "updated_at": "2026-10-11T20:41:37Z",
+      "pushed_at": "2026-10-11T20:06:53Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "cpp",
           "rank": 12,
-          "stars_gained": 71
+          "stars_gained": 53
         }
       ]
     },
@@ -2366,11 +2366,11 @@
         "xess-sr"
       ],
       "license": "GPL-3.0",
-      "stars": 11694,
+      "stars": 11698,
       "forks": 527,
       "created_at": "2023-12-07T10:47:17Z",
-      "updated_at": "2026-10-11T14:18:31Z",
-      "pushed_at": "2026-10-11T11:49:54Z",
+      "updated_at": "2026-10-11T20:48:35Z",
+      "pushed_at": "2026-10-11T20:37:54Z",
       "appearances": [
         {
           "source_type": "language",
@@ -2411,11 +2411,11 @@
         "vulkan"
       ],
       "license": "Other",
-      "stars": 23934,
-      "forks": 4522,
+      "stars": 23936,
+      "forks": 4523,
       "created_at": "2017-06-30T10:55:37Z",
-      "updated_at": "2026-10-11T12:42:12Z",
-      "pushed_at": "2026-10-10T15:18:27Z",
+      "updated_at": "2026-10-11T16:20:19Z",
+      "pushed_at": "2026-10-11T16:01:46Z",
       "appearances": [
         {
           "source_type": "language",
@@ -2455,17 +2455,17 @@
         "z-image-turbo"
       ],
       "license": "MIT",
-      "stars": 7632,
-      "forks": 864,
+      "stars": 7639,
+      "forks": 866,
       "created_at": "2023-08-13T07:36:51Z",
-      "updated_at": "2026-10-11T13:45:00Z",
+      "updated_at": "2026-10-11T20:30:42Z",
       "pushed_at": "2026-10-10T20:43:23Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "cpp",
           "rank": 15,
-          "stars_gained": 34
+          "stars_gained": 24
         }
       ]
     },
@@ -2479,10 +2479,10 @@
       "primary_language": "C",
       "topics": [],
       "license": "Other",
-      "stars": 1024,
+      "stars": 1029,
       "forks": 170,
       "created_at": "2026-01-22T21:41:25Z",
-      "updated_at": "2026-10-11T12:16:13Z",
+      "updated_at": "2026-10-11T19:55:52Z",
       "pushed_at": "2026-10-02T12:11:33Z",
       "appearances": [
         {
@@ -2514,11 +2514,11 @@
         "security"
       ],
       "license": "Other",
-      "stars": 24990,
-      "forks": 3345,
+      "stars": 24995,
+      "forks": 3346,
       "created_at": "2012-07-03T07:42:26Z",
-      "updated_at": "2026-10-11T10:09:32Z",
-      "pushed_at": "2026-10-11T10:09:32Z",
+      "updated_at": "2026-10-11T20:27:11Z",
+      "pushed_at": "2026-10-11T17:36:28Z",
       "appearances": [
         {
           "source_type": "language",
@@ -2547,10 +2547,10 @@
         "video-synthesis"
       ],
       "license": "Other",
-      "stars": 15843,
-      "forks": 2698,
+      "stars": 15849,
+      "forks": 2699,
       "created_at": "2024-12-24T03:00:26Z",
-      "updated_at": "2026-10-11T14:23:39Z",
+      "updated_at": "2026-10-11T19:55:11Z",
       "pushed_at": "2026-04-21T07:06:36Z",
       "appearances": [
         {
@@ -2585,17 +2585,17 @@
         "x86"
       ],
       "license": "GPL-2.0",
-      "stars": 18179,
+      "stars": 18180,
       "forks": 2239,
       "created_at": "2017-10-03T08:04:52Z",
-      "updated_at": "2026-10-11T14:35:58Z",
-      "pushed_at": "2026-10-11T14:35:53Z",
+      "updated_at": "2026-10-11T20:49:44Z",
+      "pushed_at": "2026-10-11T20:49:37Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "c",
           "rank": 4,
-          "stars_gained": 7
+          "stars_gained": 9
         }
       ]
     },
@@ -2609,10 +2609,10 @@
       "primary_language": "C",
       "topics": [],
       "license": "MIT",
-      "stars": 879,
-      "forks": 26,
+      "stars": 895,
+      "forks": 28,
       "created_at": "2026-07-12T18:25:30Z",
-      "updated_at": "2026-10-11T14:24:16Z",
+      "updated_at": "2026-10-11T19:29:33Z",
       "pushed_at": "2026-10-08T22:54:24Z",
       "appearances": [
         {
@@ -2640,10 +2640,10 @@
         "spotify-adblocker"
       ],
       "license": null,
-      "stars": 527,
+      "stars": 530,
       "forks": 25,
       "created_at": "2026-07-13T17:30:30Z",
-      "updated_at": "2026-10-11T12:27:24Z",
+      "updated_at": "2026-10-11T18:14:10Z",
       "pushed_at": "2026-10-10T22:04:59Z",
       "appearances": [
         {
@@ -2673,10 +2673,10 @@
         "windows"
       ],
       "license": "MIT",
-      "stars": 27240,
+      "stars": 27241,
       "forks": 3946,
       "created_at": "2013-11-30T00:29:56Z",
-      "updated_at": "2026-10-11T14:36:07Z",
+      "updated_at": "2026-10-11T19:10:01Z",
       "pushed_at": "2026-10-10T21:37:34Z",
       "appearances": [
         {
@@ -2699,10 +2699,10 @@
         "opencore"
       ],
       "license": "BSD-3-Clause",
-      "stars": 15521,
-      "forks": 2307,
+      "stars": 15523,
+      "forks": 2308,
       "created_at": "2019-04-03T19:14:29Z",
-      "updated_at": "2026-10-11T14:00:04Z",
+      "updated_at": "2026-10-11T18:09:14Z",
       "pushed_at": "2026-10-10T21:00:31Z",
       "appearances": [
         {
@@ -2723,10 +2723,10 @@
       "primary_language": "C",
       "topics": [],
       "license": "MIT",
-      "stars": 381,
-      "forks": 40,
+      "stars": 382,
+      "forks": 41,
       "created_at": "2026-03-11T05:07:12Z",
-      "updated_at": "2026-10-11T11:06:31Z",
+      "updated_at": "2026-10-11T19:26:15Z",
       "pushed_at": "2026-10-07T21:36:34Z",
       "appearances": [
         {
@@ -2747,10 +2747,10 @@
       "primary_language": "C",
       "topics": [],
       "license": "MIT",
-      "stars": 170,
+      "stars": 174,
       "forks": 44,
       "created_at": "2026-03-06T09:08:23Z",
-      "updated_at": "2026-10-11T11:06:15Z",
+      "updated_at": "2026-10-11T18:31:54Z",
       "pushed_at": "2026-10-07T21:49:36Z",
       "appearances": [
         {
@@ -2784,10 +2784,10 @@
         "winget"
       ],
       "license": "MIT",
-      "stars": 26496,
+      "stars": 26499,
       "forks": 945,
       "created_at": "2021-06-15T12:57:58Z",
-      "updated_at": "2026-10-11T14:30:11Z",
+      "updated_at": "2026-10-11T20:45:50Z",
       "pushed_at": "2026-10-10T15:10:45Z",
       "appearances": [
         {
@@ -2812,11 +2812,11 @@
         "driverstore"
       ],
       "license": "GPL-2.0",
-      "stars": 11846,
+      "stars": 11850,
       "forks": 565,
       "created_at": "2016-06-15T04:03:33Z",
-      "updated_at": "2026-10-11T11:55:29Z",
-      "pushed_at": "2026-10-11T05:26:57Z",
+      "updated_at": "2026-10-11T20:40:12Z",
+      "pushed_at": "2026-10-11T15:18:01Z",
       "appearances": [
         {
           "source_type": "language",
@@ -2848,10 +2848,10 @@
         "xtls"
       ],
       "license": "GPL-3.0",
-      "stars": 117854,
-      "forks": 16074,
+      "stars": 117872,
+      "forks": 16077,
       "created_at": "2019-07-30T03:47:24Z",
-      "updated_at": "2026-10-11T14:18:10Z",
+      "updated_at": "2026-10-11T19:19:26Z",
       "pushed_at": "2026-10-11T05:59:58Z",
       "appearances": [
         {
@@ -2879,10 +2879,10 @@
         "wpf"
       ],
       "license": "Apache-2.0",
-      "stars": 31472,
-      "forks": 81420,
+      "stars": 31520,
+      "forks": 81551,
       "created_at": "2024-11-17T20:02:10Z",
-      "updated_at": "2026-10-11T14:29:46Z",
+      "updated_at": "2026-10-11T20:42:44Z",
       "pushed_at": "2026-09-09T09:07:55Z",
       "appearances": [
         {
@@ -2903,10 +2903,10 @@
       "primary_language": "C#",
       "topics": [],
       "license": "Other",
-      "stars": 3946,
+      "stars": 3947,
       "forks": 567,
       "created_at": "2017-10-16T02:20:16Z",
-      "updated_at": "2026-10-11T13:19:08Z",
+      "updated_at": "2026-10-11T19:17:13Z",
       "pushed_at": "2026-09-21T20:13:18Z",
       "appearances": [
         {
@@ -2937,11 +2937,11 @@
         "recorder"
       ],
       "license": "MIT",
-      "stars": 8887,
+      "stars": 8889,
       "forks": 889,
       "created_at": "2022-05-25T12:28:40Z",
-      "updated_at": "2026-10-11T13:34:55Z",
-      "pushed_at": "2026-10-11T13:34:55Z",
+      "updated_at": "2026-10-11T18:55:15Z",
+      "pushed_at": "2026-10-11T16:37:28Z",
       "appearances": [
         {
           "source_type": "language",
@@ -2973,10 +2973,10 @@
         "sql-server"
       ],
       "license": "Other",
-      "stars": 20273,
-      "forks": 1789,
+      "stars": 20275,
+      "forks": 1791,
       "created_at": "2015-11-23T23:45:33Z",
-      "updated_at": "2026-10-11T14:10:27Z",
+      "updated_at": "2026-10-11T19:16:02Z",
       "pushed_at": "2026-10-11T04:43:45Z",
       "appearances": [
         {
@@ -3002,10 +3002,10 @@
         "unity3d"
       ],
       "license": "GPL-3.0",
-      "stars": 8551,
-      "forks": 992,
+      "stars": 8556,
+      "forks": 993,
       "created_at": "2021-07-12T03:52:18Z",
-      "updated_at": "2026-10-11T14:34:49Z",
+      "updated_at": "2026-10-11T19:08:13Z",
       "pushed_at": "2026-10-10T22:41:33Z",
       "appearances": [
         {
@@ -3029,8 +3029,8 @@
       "stars": 130,
       "forks": 677,
       "created_at": "2024-11-04T17:54:36Z",
-      "updated_at": "2026-10-11T13:11:05Z",
-      "pushed_at": "2026-10-11T14:27:08Z",
+      "updated_at": "2026-10-11T18:40:08Z",
+      "pushed_at": "2026-10-11T18:40:29Z",
       "appearances": [
         {
           "source_type": "language",
@@ -3068,10 +3068,10 @@
         "xaml"
       ],
       "license": "GPL-3.0",
-      "stars": 27117,
+      "stars": 27119,
       "forks": 1727,
       "created_at": "2020-12-15T13:52:11Z",
-      "updated_at": "2026-10-11T14:28:24Z",
+      "updated_at": "2026-10-11T14:50:55Z",
       "pushed_at": "2026-08-31T10:08:47Z",
       "appearances": [
         {
@@ -3101,7 +3101,7 @@
       ],
       "license": "Apache-2.0",
       "stars": 5828,
-      "forks": 16349,
+      "forks": 16351,
       "created_at": "2015-11-15T19:59:56Z",
       "updated_at": "2026-10-11T09:58:17Z",
       "pushed_at": "2024-10-10T15:05:06Z",
@@ -3124,10 +3124,10 @@
       "primary_language": "C#",
       "topics": [],
       "license": "MIT",
-      "stars": 1694,
-      "forks": 34,
+      "stars": 1710,
+      "forks": 35,
       "created_at": "2026-06-18T10:53:02Z",
-      "updated_at": "2026-10-11T14:25:22Z",
+      "updated_at": "2026-10-11T20:50:53Z",
       "pushed_at": "2026-10-11T08:23:12Z",
       "appearances": [
         {
@@ -3169,11 +3169,11 @@
         "xaml"
       ],
       "license": "MIT",
-      "stars": 45904,
-      "forks": 2953,
+      "stars": 45905,
+      "forks": 2954,
       "created_at": "2019-01-04T18:19:14Z",
-      "updated_at": "2026-10-11T14:01:04Z",
-      "pushed_at": "2026-10-09T19:34:15Z",
+      "updated_at": "2026-10-11T20:36:23Z",
+      "pushed_at": "2026-10-11T20:02:21Z",
       "appearances": [
         {
           "source_type": "language",
@@ -3204,10 +3204,10 @@
         "windows"
       ],
       "license": "GPL-3.0",
-      "stars": 38913,
+      "stars": 38914,
       "forks": 4074,
       "created_at": "2019-07-21T15:12:52Z",
-      "updated_at": "2026-10-11T13:44:19Z",
+      "updated_at": "2026-10-11T16:05:32Z",
       "pushed_at": "2026-08-16T12:51:44Z",
       "appearances": [
         {
@@ -3311,10 +3311,10 @@
         "workflow"
       ],
       "license": "AGPL-3.0",
-      "stars": 5792,
+      "stars": 5793,
       "forks": 2430,
       "created_at": "2013-09-23T19:10:08Z",
-      "updated_at": "2026-10-10T23:31:54Z",
+      "updated_at": "2026-10-11T15:44:06Z",
       "pushed_at": "2026-10-07T15:42:55Z",
       "appearances": [
         {
@@ -3370,10 +3370,10 @@
       ],
       "license": "LGPL-2.1",
       "stars": 553,
-      "forks": 133,
+      "forks": 134,
       "created_at": "2020-06-07T16:05:22Z",
       "updated_at": "2026-10-11T13:46:31Z",
-      "pushed_at": "2026-10-11T14:20:27Z",
+      "pushed_at": "2026-10-11T17:53:09Z",
       "appearances": [
         {
           "source_type": "language",
@@ -3393,10 +3393,10 @@
       "primary_language": "Ruby",
       "topics": [],
       "license": "AGPL-3.0",
-      "stars": 10481,
+      "stars": 10486,
       "forks": 629,
       "created_at": "2025-07-23T04:13:55Z",
-      "updated_at": "2026-10-11T14:28:16Z",
+      "updated_at": "2026-10-11T20:05:20Z",
       "pushed_at": "2026-10-11T10:59:02Z",
       "appearances": [
         {
@@ -3425,10 +3425,10 @@
         "ruby"
       ],
       "license": "GPL-2.0",
-      "stars": 47960,
+      "stars": 47961,
       "forks": 9032,
       "created_at": "2013-01-12T00:25:55Z",
-      "updated_at": "2026-10-11T13:50:44Z",
+      "updated_at": "2026-10-11T19:27:15Z",
       "pushed_at": "2026-10-11T08:53:45Z",
       "appearances": [
         {
@@ -3457,11 +3457,11 @@
         "ruby"
       ],
       "license": "MIT",
-      "stars": 58818,
-      "forks": 24980,
+      "stars": 58817,
+      "forks": 25006,
       "created_at": "2008-04-11T02:19:47Z",
-      "updated_at": "2026-10-11T10:23:06Z",
-      "pushed_at": "2026-10-11T10:21:51Z",
+      "updated_at": "2026-10-11T20:13:22Z",
+      "pushed_at": "2026-10-11T18:20:41Z",
       "appearances": [
         {
           "source_type": "language",
@@ -3492,10 +3492,10 @@
         "screenshots"
       ],
       "license": "MIT",
-      "stars": 42227,
+      "stars": 42230,
       "forks": 6041,
       "created_at": "2014-12-02T17:00:38Z",
-      "updated_at": "2026-10-11T13:17:04Z",
+      "updated_at": "2026-10-11T19:04:38Z",
       "pushed_at": "2026-10-10T20:26:03Z",
       "appearances": [
         {
@@ -3503,6 +3503,30 @@
           "source_slug": "ruby",
           "rank": 5,
           "stars_gained": 9
+        }
+      ]
+    },
+    {
+      "full_name": "antiwork/gumroad",
+      "owner": "antiwork",
+      "name": "gumroad",
+      "github_id": 959682770,
+      "url": "https://github.com/antiwork/gumroad",
+      "description": "See what sticks",
+      "primary_language": "Ruby",
+      "topics": [],
+      "license": "MIT",
+      "stars": 9844,
+      "forks": 2064,
+      "created_at": "2025-04-03T07:22:41Z",
+      "updated_at": "2026-10-11T19:00:26Z",
+      "pushed_at": "2026-10-11T20:49:31Z",
+      "appearances": [
+        {
+          "source_type": "language",
+          "source_slug": "ruby",
+          "rank": 8,
+          "stars_gained": 6
         }
       ]
     },
@@ -3523,16 +3547,16 @@
         "static-site-generator"
       ],
       "license": "MIT",
-      "stars": 51705,
-      "forks": 10304,
+      "stars": 51708,
+      "forks": 10305,
       "created_at": "2008-10-20T06:29:03Z",
-      "updated_at": "2026-10-10T22:48:03Z",
+      "updated_at": "2026-10-11T20:44:46Z",
       "pushed_at": "2026-09-17T19:20:03Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "ruby",
-          "rank": 8,
+          "rank": 9,
           "stars_gained": 1
         }
       ]
@@ -3558,12 +3582,12 @@
       "forks": 422,
       "created_at": "2013-08-05T22:05:57Z",
       "updated_at": "2026-10-11T13:22:44Z",
-      "pushed_at": "2026-10-11T13:54:36Z",
+      "pushed_at": "2026-10-11T19:18:53Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "ruby",
-          "rank": 9,
+          "rank": 10,
           "stars_gained": 1
         }
       ]
@@ -3591,16 +3615,16 @@
         "webscraping"
       ],
       "license": "MIT",
-      "stars": 50039,
+      "stars": 50042,
       "forks": 4305,
       "created_at": "2013-03-10T06:00:31Z",
-      "updated_at": "2026-10-11T12:24:29Z",
+      "updated_at": "2026-10-11T19:32:15Z",
       "pushed_at": "2026-10-10T19:21:46Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "ruby",
-          "rank": 11,
+          "rank": 12,
           "stars_gained": 8
         }
       ]
@@ -3629,7 +3653,7 @@
         {
           "source_type": "language",
           "source_slug": "ruby",
-          "rank": 12,
+          "rank": 13,
           "stars_gained": 2
         }
       ]
@@ -3660,7 +3684,7 @@
         {
           "source_type": "language",
           "source_slug": "ruby",
-          "rank": 13,
+          "rank": 14,
           "stars_gained": 1
         }
       ]
@@ -3690,7 +3714,7 @@
         {
           "source_type": "language",
           "source_slug": "ruby",
-          "rank": 14,
+          "rank": 15,
           "stars_gained": 4
         }
       ]
@@ -3724,13 +3748,13 @@
       "stars": 5804,
       "forks": 1556,
       "created_at": "2017-06-02T12:23:31Z",
-      "updated_at": "2026-10-11T13:21:51Z",
-      "pushed_at": "2026-10-09T23:40:56Z",
+      "updated_at": "2026-10-11T17:43:58Z",
+      "pushed_at": "2026-10-11T16:24:04Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "ruby",
-          "rank": 15,
+          "rank": 16,
           "stars_gained": 2
         }
       ]
@@ -3748,13 +3772,13 @@
       "stars": 2124,
       "forks": 576,
       "created_at": "2014-02-18T17:52:32Z",
-      "updated_at": "2026-10-11T12:45:30Z",
-      "pushed_at": "2026-10-10T00:03:51Z",
+      "updated_at": "2026-10-11T14:57:38Z",
+      "pushed_at": "2026-10-11T14:57:32Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "ruby",
-          "rank": 16,
+          "rank": 17,
           "stars_gained": 0
         }
       ]
@@ -3776,17 +3800,17 @@
         "xcode"
       ],
       "license": "MIT",
-      "stars": 6737,
-      "forks": 239,
+      "stars": 6929,
+      "forks": 249,
       "created_at": "2024-11-17T08:18:44Z",
-      "updated_at": "2026-10-11T14:35:26Z",
+      "updated_at": "2026-10-11T20:58:41Z",
       "pushed_at": "2026-10-06T22:54:38Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "swift",
           "rank": 1,
-          "stars_gained": 877
+          "stars_gained": 426
         }
       ]
     },
@@ -3800,11 +3824,11 @@
       "primary_language": "Swift",
       "topics": [],
       "license": "GPL-3.0",
-      "stars": 278,
+      "stars": 284,
       "forks": 24,
       "created_at": "2026-06-30T21:00:48Z",
-      "updated_at": "2026-10-11T13:34:22Z",
-      "pushed_at": "2026-10-10T17:12:29Z",
+      "updated_at": "2026-10-11T20:34:28Z",
+      "pushed_at": "2026-10-11T20:34:22Z",
       "appearances": [
         {
           "source_type": "language",
@@ -3824,10 +3848,10 @@
       "primary_language": "Swift",
       "topics": [],
       "license": "AGPL-3.0",
-      "stars": 14527,
-      "forks": 1584,
+      "stars": 14530,
+      "forks": 1585,
       "created_at": "2019-05-10T18:29:53Z",
-      "updated_at": "2026-10-11T12:56:05Z",
+      "updated_at": "2026-10-11T18:26:40Z",
       "pushed_at": "2026-09-30T20:12:19Z",
       "appearances": [
         {
@@ -3864,17 +3888,17 @@
         "youdao"
       ],
       "license": "GPL-3.0",
-      "stars": 14901,
+      "stars": 14904,
       "forks": 773,
       "created_at": "2022-11-15T12:41:53Z",
-      "updated_at": "2026-10-11T13:51:55Z",
+      "updated_at": "2026-10-11T18:35:39Z",
       "pushed_at": "2026-10-11T13:51:47Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "swift",
           "rank": 7,
-          "stars_gained": 9
+          "stars_gained": 10
         }
       ]
     },
@@ -3888,17 +3912,17 @@
       "primary_language": "Kotlin",
       "topics": [],
       "license": "Other",
-      "stars": 1454,
-      "forks": 268,
+      "stars": 1469,
+      "forks": 272,
       "created_at": "2026-04-24T16:25:41Z",
-      "updated_at": "2026-10-11T14:14:59Z",
-      "pushed_at": "2026-10-11T10:35:13Z",
+      "updated_at": "2026-10-11T19:15:10Z",
+      "pushed_at": "2026-10-11T18:29:09Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "kotlin",
           "rank": 1,
-          "stars_gained": 46
+          "stars_gained": 45
         }
       ]
     },
@@ -3912,10 +3936,10 @@
       "primary_language": "Kotlin",
       "topics": [],
       "license": "AGPL-3.0",
-      "stars": 29445,
+      "stars": 29444,
       "forks": 6898,
       "created_at": "2011-12-15T20:01:12Z",
-      "updated_at": "2026-10-11T13:30:12Z",
+      "updated_at": "2026-10-11T20:27:16Z",
       "pushed_at": "2026-10-08T20:05:08Z",
       "appearances": [
         {
@@ -3946,11 +3970,11 @@
         "zalithlauncher"
       ],
       "license": "GPL-3.0",
-      "stars": 2000,
-      "forks": 358,
+      "stars": 2005,
+      "forks": 359,
       "created_at": "2025-03-24T12:30:06Z",
-      "updated_at": "2026-10-11T14:19:14Z",
-      "pushed_at": "2026-10-11T14:19:10Z",
+      "updated_at": "2026-10-11T18:46:11Z",
+      "pushed_at": "2026-10-11T18:52:49Z",
       "appearances": [
         {
           "source_type": "language",
@@ -3970,10 +3994,10 @@
       "primary_language": "Kotlin",
       "topics": [],
       "license": "Apache-2.0",
-      "stars": 1800,
-      "forks": 464,
+      "stars": 1809,
+      "forks": 467,
       "created_at": "2026-07-29T05:04:25Z",
-      "updated_at": "2026-10-11T14:01:31Z",
+      "updated_at": "2026-10-11T18:05:12Z",
       "pushed_at": "2026-10-11T00:35:02Z",
       "appearances": [
         {
@@ -3994,11 +4018,11 @@
       "primary_language": "Kotlin",
       "topics": [],
       "license": "LGPL-3.0",
-      "stars": 11667,
-      "forks": 414,
+      "stars": 11673,
+      "forks": 415,
       "created_at": "2022-04-16T13:45:06Z",
-      "updated_at": "2026-10-11T14:35:03Z",
-      "pushed_at": "2026-10-04T07:31:54Z",
+      "updated_at": "2026-10-11T20:54:57Z",
+      "pushed_at": "2026-10-11T18:39:25Z",
       "appearances": [
         {
           "source_type": "language",
@@ -4018,10 +4042,10 @@
       "primary_language": "Kotlin",
       "topics": [],
       "license": "Apache-2.0",
-      "stars": 1394,
-      "forks": 286,
+      "stars": 1395,
+      "forks": 285,
       "created_at": "2026-07-17T14:24:08Z",
-      "updated_at": "2026-10-11T11:52:24Z",
+      "updated_at": "2026-10-11T19:24:38Z",
       "pushed_at": "2026-09-03T03:21:42Z",
       "appearances": [
         {
@@ -4054,10 +4078,10 @@
         "xhttp"
       ],
       "license": "GPL-3.0",
-      "stars": 558,
-      "forks": 21,
+      "stars": 559,
+      "forks": 20,
       "created_at": "2026-07-14T06:23:38Z",
-      "updated_at": "2026-10-11T14:06:11Z",
+      "updated_at": "2026-10-11T16:49:51Z",
       "pushed_at": "2026-10-10T04:48:58Z",
       "appearances": [
         {
@@ -4078,10 +4102,10 @@
       "primary_language": "Kotlin",
       "topics": [],
       "license": "GPL-3.0",
-      "stars": 6502,
+      "stars": 6506,
       "forks": 1350,
       "created_at": "2025-03-29T12:56:40Z",
-      "updated_at": "2026-10-11T13:19:46Z",
+      "updated_at": "2026-10-11T20:16:46Z",
       "pushed_at": "2026-10-10T11:42:17Z",
       "appearances": [
         {
@@ -4112,11 +4136,11 @@
         "privacy"
       ],
       "license": "MIT",
-      "stars": 517,
-      "forks": 24,
+      "stars": 520,
+      "forks": 25,
       "created_at": "2026-08-10T12:14:22Z",
-      "updated_at": "2026-10-11T13:47:45Z",
-      "pushed_at": "2026-10-11T13:47:41Z",
+      "updated_at": "2026-10-11T20:50:23Z",
+      "pushed_at": "2026-10-11T20:50:15Z",
       "appearances": [
         {
           "source_type": "language",
@@ -4149,10 +4173,10 @@
         "xtls"
       ],
       "license": "GPL-3.0",
-      "stars": 63794,
-      "forks": 8259,
+      "stars": 63811,
+      "forks": 8262,
       "created_at": "2019-05-15T02:15:31Z",
-      "updated_at": "2026-10-11T14:36:34Z",
+      "updated_at": "2026-10-11T20:48:35Z",
       "pushed_at": "2026-10-11T07:07:53Z",
       "appearances": [
         {
@@ -4182,11 +4206,11 @@
         "sql"
       ],
       "license": "Apache-2.0",
-      "stars": 44164,
-      "forks": 29439,
+      "stars": 44168,
+      "forks": 29440,
       "created_at": "2014-02-25T08:00:08Z",
-      "updated_at": "2026-10-11T14:25:08Z",
-      "pushed_at": "2026-10-11T08:42:56Z",
+      "updated_at": "2026-10-11T20:44:26Z",
+      "pushed_at": "2026-10-11T16:50:22Z",
       "appearances": [
         {
           "source_type": "language",
@@ -4206,10 +4230,10 @@
       "primary_language": "Scala",
       "topics": [],
       "license": "AGPL-3.0",
-      "stars": 73965,
+      "stars": 73967,
       "forks": 13264,
       "created_at": "2023-03-27T14:57:57Z",
-      "updated_at": "2026-10-11T11:02:49Z",
+      "updated_at": "2026-10-11T20:33:26Z",
       "pushed_at": "2025-09-08T18:40:54Z",
       "appearances": [
         {
@@ -4377,7 +4401,7 @@
       ],
       "license": "Apache-2.0",
       "stars": 3560,
-      "forks": 469,
+      "forks": 468,
       "created_at": "2019-03-14T18:51:07Z",
       "updated_at": "2026-10-10T13:55:42Z",
       "pushed_at": "2026-10-10T07:30:04Z",
@@ -4411,7 +4435,7 @@
       ],
       "license": "Other",
       "stars": 1741,
-      "forks": 514,
+      "forks": 513,
       "created_at": "2013-12-04T17:11:24Z",
       "updated_at": "2026-10-07T13:36:18Z",
       "pushed_at": "2026-08-04T16:07:14Z",
@@ -4479,7 +4503,7 @@
       "stars": 4803,
       "forks": 1779,
       "created_at": "2024-05-22T10:00:51Z",
-      "updated_at": "2026-10-11T14:11:11Z",
+      "updated_at": "2026-10-11T14:45:09Z",
       "pushed_at": "2026-06-04T06:27:22Z",
       "appearances": [
         {
@@ -4500,11 +4524,11 @@
       "primary_language": "Shell",
       "topics": [],
       "license": "MIT",
-      "stars": 44562,
-      "forks": 5377,
+      "stars": 44584,
+      "forks": 5381,
       "created_at": "2025-06-01T07:26:22Z",
-      "updated_at": "2026-10-11T14:36:51Z",
-      "pushed_at": "2026-10-11T14:36:10Z",
+      "updated_at": "2026-10-11T20:54:37Z",
+      "pushed_at": "2026-10-11T20:07:57Z",
       "appearances": [
         {
           "source_type": "language",
@@ -4544,10 +4568,10 @@
         "web"
       ],
       "license": "Apache-2.0",
-      "stars": 3401,
-      "forks": 1049,
+      "stars": 3402,
+      "forks": 1050,
       "created_at": "2023-05-08T15:19:57Z",
-      "updated_at": "2026-10-11T14:33:32Z",
+      "updated_at": "2026-10-11T18:54:53Z",
       "pushed_at": "2026-10-11T09:45:38Z",
       "appearances": [
         {
@@ -4580,17 +4604,17 @@
         "smtp"
       ],
       "license": "MIT",
-      "stars": 19344,
-      "forks": 2085,
+      "stars": 19399,
+      "forks": 2093,
       "created_at": "2015-03-28T14:56:28Z",
-      "updated_at": "2026-10-11T14:37:27Z",
+      "updated_at": "2026-10-11T20:55:42Z",
       "pushed_at": "2026-10-04T20:52:48Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "shell",
           "rank": 8,
-          "stars_gained": 204
+          "stars_gained": 208
         }
       ]
     },
@@ -4604,10 +4628,10 @@
       "primary_language": "Shell",
       "topics": [],
       "license": "MIT",
-      "stars": 468,
-      "forks": 64,
+      "stars": 494,
+      "forks": 65,
       "created_at": "2026-06-08T19:59:22Z",
-      "updated_at": "2026-10-11T14:35:21Z",
+      "updated_at": "2026-10-11T20:49:52Z",
       "pushed_at": "2026-09-17T02:27:43Z",
       "appearances": [
         {
@@ -4629,16 +4653,16 @@
       "topics": [],
       "license": "MIT",
       "stars": 136,
-      "forks": 276,
+      "forks": 278,
       "created_at": "2025-08-24T18:00:31Z",
-      "updated_at": "2026-10-11T13:24:29Z",
-      "pushed_at": "2026-10-11T13:24:24Z",
+      "updated_at": "2026-10-11T16:04:13Z",
+      "pushed_at": "2026-10-11T18:35:07Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "shell",
           "rank": 10,
-          "stars_gained": 0
+          "stars_gained": 2
         }
       ]
     },
@@ -4702,10 +4726,10 @@
         "youtube"
       ],
       "license": "GPL-3.0",
-      "stars": 6939,
+      "stars": 6938,
       "forks": 249,
       "created_at": "2022-05-11T06:30:25Z",
-      "updated_at": "2026-10-11T14:36:18Z",
+      "updated_at": "2026-10-11T19:24:34Z",
       "pushed_at": "2026-09-26T08:12:59Z",
       "appearances": [
         {
@@ -4732,10 +4756,10 @@
         "subconverter"
       ],
       "license": "MIT",
-      "stars": 14976,
+      "stars": 14977,
       "forks": 1645,
       "created_at": "2024-03-11T19:46:13Z",
-      "updated_at": "2026-10-11T13:16:37Z",
+      "updated_at": "2026-10-11T15:08:01Z",
       "pushed_at": "2026-10-10T15:25:57Z",
       "appearances": [
         {
@@ -4769,10 +4793,10 @@
         "vim"
       ],
       "license": "GPL-2.0",
-      "stars": 1135,
+      "stars": 1137,
       "forks": 131,
       "created_at": "2022-01-19T08:48:31Z",
-      "updated_at": "2026-10-11T14:33:52Z",
+      "updated_at": "2026-10-11T20:14:55Z",
       "pushed_at": "2026-10-07T14:03:33Z",
       "appearances": [
         {
@@ -4813,11 +4837,11 @@
         "windows"
       ],
       "license": "BSD-3-Clause",
-      "stars": 179739,
-      "forks": 33707,
+      "stars": 179777,
+      "forks": 33748,
       "created_at": "2015-03-06T22:54:58Z",
-      "updated_at": "2026-10-11T14:22:08Z",
-      "pushed_at": "2026-10-11T13:41:41Z",
+      "updated_at": "2026-10-11T20:44:30Z",
+      "pushed_at": "2026-10-11T17:34:14Z",
       "appearances": [
         {
           "source_type": "language",
@@ -4846,17 +4870,17 @@
         "windows"
       ],
       "license": "GPL-3.0",
-      "stars": 35160,
+      "stars": 35269,
       "forks": 1105,
       "created_at": "2024-05-09T01:56:22Z",
-      "updated_at": "2026-10-11T14:37:16Z",
+      "updated_at": "2026-10-11T20:39:41Z",
       "pushed_at": "2026-10-11T08:58:37Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "dart",
           "rank": 2,
-          "stars_gained": 890
+          "stars_gained": 788
         }
       ]
     },
@@ -4870,17 +4894,17 @@
       "primary_language": "Dart",
       "topics": [],
       "license": "MIT",
-      "stars": 2286,
+      "stars": 2290,
       "forks": 124,
       "created_at": "2024-05-22T02:28:06Z",
-      "updated_at": "2026-10-11T14:23:30Z",
+      "updated_at": "2026-10-11T18:50:47Z",
       "pushed_at": "2026-10-03T21:51:06Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "dart",
           "rank": 4,
-          "stars_gained": 24
+          "stars_gained": 28
         }
       ]
     },
@@ -4901,10 +4925,10 @@
         "windows"
       ],
       "license": "GPL-3.0",
-      "stars": 19341,
+      "stars": 19352,
       "forks": 1450,
       "created_at": "2024-08-22T02:24:56Z",
-      "updated_at": "2026-10-11T14:10:57Z",
+      "updated_at": "2026-10-11T18:07:35Z",
       "pushed_at": "2026-10-11T12:34:41Z",
       "appearances": [
         {
@@ -4931,10 +4955,10 @@
         "pixiv"
       ],
       "license": "GPL-3.0",
-      "stars": 13051,
+      "stars": 13052,
       "forks": 498,
       "created_at": "2019-11-02T07:19:12Z",
-      "updated_at": "2026-10-11T14:12:39Z",
+      "updated_at": "2026-10-11T18:23:44Z",
       "pushed_at": "2026-10-11T01:02:15Z",
       "appearances": [
         {
@@ -4967,10 +4991,10 @@
         "openharmony"
       ],
       "license": "AGPL-3.0",
-      "stars": 4198,
-      "forks": 471,
+      "stars": 4199,
+      "forks": 472,
       "created_at": "2025-08-29T08:57:55Z",
-      "updated_at": "2026-10-11T14:18:07Z",
+      "updated_at": "2026-10-11T18:22:39Z",
       "pushed_at": "2026-10-09T03:19:03Z",
       "appearances": [
         {
@@ -4998,10 +5022,10 @@
         "zhuabao"
       ],
       "license": "Apache-2.0",
-      "stars": 14104,
+      "stars": 14106,
       "forks": 1229,
       "created_at": "2023-06-05T11:16:00Z",
-      "updated_at": "2026-10-11T13:56:13Z",
+      "updated_at": "2026-10-11T19:21:01Z",
       "pushed_at": "2026-10-08T18:47:05Z",
       "appearances": [
         {
@@ -5031,7 +5055,7 @@
       ],
       "license": "LGPL-3.0",
       "stars": 556,
-      "forks": 172,
+      "forks": 173,
       "created_at": "2014-12-17T00:53:58Z",
       "updated_at": "2026-09-30T15:48:24Z",
       "pushed_at": "2026-07-31T02:02:58Z",
@@ -5058,7 +5082,7 @@
       "forks": 1056,
       "created_at": "2014-06-07T16:38:05Z",
       "updated_at": "2026-10-11T11:36:30Z",
-      "pushed_at": "2026-10-11T11:36:33Z",
+      "pushed_at": "2026-10-11T15:31:39Z",
       "appearances": [
         {
           "source_type": "language",
@@ -5087,8 +5111,8 @@
       "stars": 528,
       "forks": 87,
       "created_at": "2020-01-31T16:34:47Z",
-      "updated_at": "2026-10-11T11:32:33Z",
-      "pushed_at": "2026-10-11T14:12:15Z",
+      "updated_at": "2026-10-11T19:30:10Z",
+      "pushed_at": "2026-10-11T20:11:30Z",
       "appearances": [
         {
           "source_type": "language",
@@ -5115,17 +5139,17 @@
         "rime-weasel"
       ],
       "license": "GPL-3.0",
-      "stars": 19716,
+      "stars": 19719,
       "forks": 1198,
       "created_at": "2021-01-29T10:25:46Z",
-      "updated_at": "2026-10-11T13:58:49Z",
+      "updated_at": "2026-10-11T19:12:12Z",
       "pushed_at": "2026-10-05T13:37:02Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "lua",
           "rank": 1,
-          "stars_gained": 28
+          "stars_gained": 19
         }
       ]
     },
@@ -5147,17 +5171,17 @@
         "rime-wanxiang"
       ],
       "license": "CC-BY-4.0",
-      "stars": 4823,
+      "stars": 4836,
       "forks": 177,
       "created_at": "2024-08-06T13:16:11Z",
-      "updated_at": "2026-10-11T14:37:14Z",
+      "updated_at": "2026-10-11T20:47:21Z",
       "pushed_at": "2026-10-11T13:11:22Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "lua",
           "rank": 2,
-          "stars_gained": 18
+          "stars_gained": 28
         }
       ]
     },
@@ -5172,16 +5196,16 @@
       "topics": [],
       "license": "GPL-3.0",
       "stars": 290,
-      "forks": 17,
+      "forks": 18,
       "created_at": "2025-07-16T17:22:30Z",
-      "updated_at": "2026-10-11T10:08:17Z",
-      "pushed_at": "2026-10-10T13:00:10Z",
+      "updated_at": "2026-10-11T18:47:58Z",
+      "pushed_at": "2026-10-11T15:43:19Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "lua",
           "rank": 3,
-          "stars_gained": 2
+          "stars_gained": 3
         }
       ]
     },
@@ -5195,11 +5219,11 @@
       "primary_language": "Lua",
       "topics": [],
       "license": "Other",
-      "stars": 368,
+      "stars": 369,
       "forks": 22,
       "created_at": "2026-08-08T23:22:45Z",
-      "updated_at": "2026-10-11T10:12:54Z",
-      "pushed_at": "2026-10-10T04:32:32Z",
+      "updated_at": "2026-10-11T20:54:23Z",
+      "pushed_at": "2026-10-11T20:54:19Z",
       "appearances": [
         {
           "source_type": "language",
@@ -5219,11 +5243,11 @@
       "primary_language": "Lua",
       "topics": [],
       "license": "Other",
-      "stars": 4269,
+      "stars": 4277,
       "forks": 687,
       "created_at": "2019-02-24T17:57:39Z",
-      "updated_at": "2026-10-11T12:16:38Z",
-      "pushed_at": "2026-10-11T12:16:30Z",
+      "updated_at": "2026-10-11T20:49:32Z",
+      "pushed_at": "2026-10-11T20:58:52Z",
       "appearances": [
         {
           "source_type": "language",
@@ -5275,10 +5299,10 @@
         "standlua"
       ],
       "license": "Apache-2.0",
-      "stars": 768,
+      "stars": 769,
       "forks": 378,
       "created_at": "2023-01-25T13:38:21Z",
-      "updated_at": "2026-10-11T13:17:12Z",
+      "updated_at": "2026-10-11T17:12:33Z",
       "pushed_at": "2026-10-10T02:52:33Z",
       "appearances": [
         {
@@ -5320,17 +5344,41 @@
         "ubuntu-touch"
       ],
       "license": "AGPL-3.0",
-      "stars": 30234,
-      "forks": 1959,
+      "stars": 30241,
+      "forks": 1960,
       "created_at": "2013-03-24T13:09:42Z",
-      "updated_at": "2026-10-11T14:35:45Z",
-      "pushed_at": "2026-10-11T14:37:38Z",
+      "updated_at": "2026-10-11T20:22:36Z",
+      "pushed_at": "2026-10-11T20:46:25Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "lua",
           "rank": 9,
-          "stars_gained": 26
+          "stars_gained": 29
+        }
+      ]
+    },
+    {
+      "full_name": "bryanthaboi/gen1recomp",
+      "owner": "bryanthaboi",
+      "name": "gen1recomp",
+      "github_id": 1304486109,
+      "url": "https://github.com/bryanthaboi/gen1recomp",
+      "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1, 2, and 3 Poke",
+      "primary_language": "Lua",
+      "topics": [],
+      "license": "Other",
+      "stars": 3895,
+      "forks": 348,
+      "created_at": "2026-07-18T00:29:27Z",
+      "updated_at": "2026-10-11T20:57:18Z",
+      "pushed_at": "2026-10-11T19:53:03Z",
+      "appearances": [
+        {
+          "source_type": "language",
+          "source_slug": "lua",
+          "rank": 10,
+          "stars_gained": 17
         }
       ]
     },
@@ -5356,8 +5404,8 @@
         {
           "source_type": "language",
           "source_slug": "lua",
-          "rank": 10,
-          "stars_gained": 1
+          "rank": 11,
+          "stars_gained": 0
         }
       ]
     },
@@ -5387,7 +5435,7 @@
         {
           "source_type": "language",
           "source_slug": "lua",
-          "rank": 11,
+          "rank": 12,
           "stars_gained": 1
         }
       ]
@@ -5411,7 +5459,7 @@
         {
           "source_type": "language",
           "source_slug": "lua",
-          "rank": 13,
+          "rank": 14,
           "stars_gained": 2
         }
       ]
@@ -5435,7 +5483,7 @@
         {
           "source_type": "language",
           "source_slug": "lua",
-          "rank": 14,
+          "rank": 15,
           "stars_gained": 0
         }
       ]
@@ -5459,7 +5507,7 @@
         {
           "source_type": "language",
           "source_slug": "lua",
-          "rank": 15,
+          "rank": 16,
           "stars_gained": 0
         }
       ]
@@ -5484,10 +5532,10 @@
       ],
       "license": "Apache-2.0",
       "stars": 2962,
-      "forks": 468,
+      "forks": 469,
       "created_at": "2020-01-25T14:19:39Z",
-      "updated_at": "2026-10-11T13:47:42Z",
-      "pushed_at": "2026-10-11T13:44:58Z",
+      "updated_at": "2026-10-11T17:33:02Z",
+      "pushed_at": "2026-10-11T17:32:57Z",
       "appearances": [
         {
           "source_type": "language",
@@ -5514,10 +5562,10 @@
         "static-analysis"
       ],
       "license": "GPL-3.0",
-      "stars": 40160,
-      "forks": 1959,
+      "stars": 40162,
+      "forks": 1958,
       "created_at": "2012-11-17T03:15:11Z",
-      "updated_at": "2026-10-11T10:50:52Z",
+      "updated_at": "2026-10-11T17:26:55Z",
       "pushed_at": "2026-10-09T02:05:50Z",
       "appearances": [
         {
@@ -5577,10 +5625,10 @@
         "framework"
       ],
       "license": null,
-      "stars": 2530,
+      "stars": 2532,
       "forks": 450,
       "created_at": "2019-10-03T03:07:55Z",
-      "updated_at": "2026-10-11T07:27:32Z",
+      "updated_at": "2026-10-11T20:08:21Z",
       "pushed_at": "2026-10-10T20:00:43Z",
       "appearances": [
         {
@@ -5614,10 +5662,10 @@
         "typescript"
       ],
       "license": "Other",
-      "stars": 579,
+      "stars": 580,
       "forks": 75,
       "created_at": "2023-02-28T15:04:39Z",
-      "updated_at": "2026-10-10T15:16:12Z",
+      "updated_at": "2026-10-11T15:00:06Z",
       "pushed_at": "2026-10-10T14:03:13Z",
       "appearances": [
         {
@@ -5662,10 +5710,10 @@
       "primary_language": "Elixir",
       "topics": [],
       "license": "Apache-2.0",
-      "stars": 27632,
-      "forks": 2877,
+      "stars": 27635,
+      "forks": 2876,
       "created_at": "2026-02-26T21:54:00Z",
-      "updated_at": "2026-10-11T13:05:23Z",
+      "updated_at": "2026-10-11T19:46:40Z",
       "pushed_at": "2026-09-15T22:14:59Z",
       "appearances": [
         {
@@ -5686,10 +5734,10 @@
       "primary_language": "Clojure",
       "topics": [],
       "license": null,
-      "stars": 3990,
+      "stars": 3992,
       "forks": 399,
       "created_at": "2026-04-17T15:18:26Z",
-      "updated_at": "2026-10-11T07:22:54Z",
+      "updated_at": "2026-10-11T20:38:16Z",
       "pushed_at": "2026-09-07T14:45:22Z",
       "appearances": [
         {
@@ -5718,11 +5766,11 @@
         "ux-experience"
       ],
       "license": "MPL-2.0",
-      "stars": 60905,
-      "forks": 4200,
+      "stars": 60921,
+      "forks": 4199,
       "created_at": "2015-12-29T22:09:07Z",
-      "updated_at": "2026-10-11T14:36:45Z",
-      "pushed_at": "2026-10-11T09:31:31Z",
+      "updated_at": "2026-10-11T20:29:35Z",
+      "pushed_at": "2026-10-11T20:51:36Z",
       "appearances": [
         {
           "source_type": "language",
@@ -5754,11 +5802,11 @@
         "pkm"
       ],
       "license": "AGPL-3.0",
-      "stars": 45206,
-      "forks": 2829,
+      "stars": 45210,
+      "forks": 2828,
       "created_at": "2020-05-23T00:06:06Z",
-      "updated_at": "2026-10-11T13:43:34Z",
-      "pushed_at": "2026-10-11T14:37:38Z",
+      "updated_at": "2026-10-11T20:14:06Z",
+      "pushed_at": "2026-10-11T17:29:18Z",
       "appearances": [
         {
           "source_type": "language",
@@ -5797,11 +5845,11 @@
         "visualization"
       ],
       "license": "Other",
-      "stars": 49616,
-      "forks": 6892,
+      "stars": 49620,
+      "forks": 6894,
       "created_at": "2015-02-02T19:25:47Z",
-      "updated_at": "2026-10-11T14:37:26Z",
-      "pushed_at": "2026-10-11T11:35:51Z",
+      "updated_at": "2026-10-11T18:52:11Z",
+      "pushed_at": "2026-10-11T18:51:29Z",
       "appearances": [
         {
           "source_type": "language",
@@ -5825,10 +5873,10 @@
         "programming-ligatures"
       ],
       "license": "OFL-1.1",
-      "stars": 82094,
+      "stars": 82097,
       "forks": 3190,
       "created_at": "2014-11-11T19:32:38Z",
-      "updated_at": "2026-10-11T14:12:00Z",
+      "updated_at": "2026-10-11T20:09:31Z",
       "pushed_at": "2026-07-28T17:02:16Z",
       "appearances": [
         {
@@ -5889,10 +5937,10 @@
       "primary_language": "Clojure",
       "topics": [],
       "license": "AGPL-3.0",
-      "stars": 327,
+      "stars": 328,
       "forks": 61,
       "created_at": "2025-12-25T03:44:34Z",
-      "updated_at": "2026-10-10T12:19:07Z",
+      "updated_at": "2026-10-11T19:05:03Z",
       "pushed_at": "2026-05-28T13:45:13Z",
       "appearances": [
         {
@@ -5951,10 +5999,10 @@
       "primary_language": "OCaml",
       "topics": [],
       "license": "LGPL-2.1",
-      "stars": 3165,
+      "stars": 3166,
       "forks": 273,
       "created_at": "2024-12-14T19:34:46Z",
-      "updated_at": "2026-10-10T18:27:03Z",
+      "updated_at": "2026-10-11T18:57:54Z",
       "pushed_at": "2026-10-10T18:27:00Z",
       "appearances": [
         {
@@ -5980,7 +6028,7 @@
       ],
       "license": "Other",
       "stars": 6601,
-      "forks": 1404,
+      "forks": 1403,
       "created_at": "2012-11-20T22:18:22Z",
       "updated_at": "2026-10-10T04:04:06Z",
       "pushed_at": "2026-10-09T08:14:19Z",
@@ -6059,10 +6107,10 @@
         "pubsub"
       ],
       "license": "Other",
-      "stars": 16784,
+      "stars": 16785,
       "forks": 2559,
       "created_at": "2012-12-17T10:07:44Z",
-      "updated_at": "2026-10-11T08:05:18Z",
+      "updated_at": "2026-10-11T19:32:45Z",
       "pushed_at": "2026-10-10T21:11:21Z",
       "appearances": [
         {
@@ -6100,10 +6148,10 @@
         "xmpp"
       ],
       "license": "Other",
-      "stars": 6740,
+      "stars": 6741,
       "forks": 1550,
       "created_at": "2010-02-08T10:37:25Z",
-      "updated_at": "2026-10-10T07:27:52Z",
+      "updated_at": "2026-10-11T19:21:07Z",
       "pushed_at": "2026-10-09T20:40:37Z",
       "appearances": [
         {
@@ -6170,10 +6218,10 @@
         "ragnarok"
       ],
       "license": "Other",
-      "stars": 1529,
+      "stars": 1530,
       "forks": 1225,
       "created_at": "2016-02-28T14:35:23Z",
-      "updated_at": "2026-10-09T17:22:07Z",
+      "updated_at": "2026-10-11T15:44:39Z",
       "pushed_at": "2026-08-09T19:18:09Z",
       "appearances": [
         {
@@ -6203,10 +6251,10 @@
         "megathread"
       ],
       "license": null,
-      "stars": 422,
+      "stars": 431,
       "forks": 27,
       "created_at": "2025-07-10T10:52:58Z",
-      "updated_at": "2026-10-11T14:05:53Z",
+      "updated_at": "2026-10-11T20:52:11Z",
       "pushed_at": "2026-09-30T21:01:37Z",
       "appearances": [
         {
@@ -6248,10 +6296,10 @@
         "warren-buffett"
       ],
       "license": "MIT",
-      "stars": 16701,
-      "forks": 2485,
+      "stars": 16703,
+      "forks": 2486,
       "created_at": "2026-04-07T11:19:51Z",
-      "updated_at": "2026-10-11T14:32:42Z",
+      "updated_at": "2026-10-11T19:11:02Z",
       "pushed_at": "2026-10-08T18:04:43Z",
       "appearances": [
         {
@@ -6284,17 +6332,17 @@
         "web-ppt"
       ],
       "license": "AGPL-3.0",
-      "stars": 27608,
+      "stars": 27613,
       "forks": 1909,
       "created_at": "2026-04-23T13:23:07Z",
-      "updated_at": "2026-10-11T14:15:09Z",
+      "updated_at": "2026-10-11T17:56:22Z",
       "pushed_at": "2026-08-07T03:58:08Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "html",
           "rank": 5,
-          "stars_gained": 70
+          "stars_gained": 51
         }
       ]
     },
@@ -6313,10 +6361,10 @@
         "ui"
       ],
       "license": "MIT",
-      "stars": 13458,
-      "forks": 951,
+      "stars": 13464,
+      "forks": 953,
       "created_at": "2023-10-01T17:22:04Z",
-      "updated_at": "2026-10-11T13:25:18Z",
+      "updated_at": "2026-10-11T20:26:34Z",
       "pushed_at": "2024-09-02T14:32:05Z",
       "appearances": [
         {
@@ -6337,17 +6385,17 @@
       "primary_language": "HTML",
       "topics": [],
       "license": "MIT",
-      "stars": 8585,
+      "stars": 8590,
       "forks": 865,
       "created_at": "2026-05-17T06:41:12Z",
-      "updated_at": "2026-10-11T14:33:51Z",
+      "updated_at": "2026-10-11T17:53:26Z",
       "pushed_at": "2026-07-19T12:59:49Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "html",
           "rank": 7,
-          "stars_gained": 45
+          "stars_gained": 34
         }
       ]
     },
@@ -6361,10 +6409,10 @@
       "primary_language": "HTML",
       "topics": [],
       "license": null,
-      "stars": 41223,
-      "forks": 9589,
+      "stars": 41225,
+      "forks": 9590,
       "created_at": "2016-06-28T16:17:32Z",
-      "updated_at": "2026-10-11T13:45:28Z",
+      "updated_at": "2026-10-11T16:59:40Z",
       "pushed_at": "2026-09-07T08:20:49Z",
       "appearances": [
         {
@@ -6403,10 +6451,10 @@
         "system-information"
       ],
       "license": "MIT",
-      "stars": 1595,
-      "forks": 326,
+      "stars": 1597,
+      "forks": 328,
       "created_at": "2022-05-26T22:03:13Z",
-      "updated_at": "2026-10-11T13:33:08Z",
+      "updated_at": "2026-10-11T19:40:37Z",
       "pushed_at": "2026-01-06T21:19:10Z",
       "appearances": [
         {
@@ -6442,11 +6490,11 @@
         "workflow-engine"
       ],
       "license": "MIT",
-      "stars": 171,
-      "forks": 55,
+      "stars": 178,
+      "forks": 56,
       "created_at": "2026-05-24T20:45:07Z",
-      "updated_at": "2026-10-11T12:31:42Z",
-      "pushed_at": "2026-10-08T20:38:58Z",
+      "updated_at": "2026-10-11T20:59:23Z",
+      "pushed_at": "2026-10-11T19:12:17Z",
       "appearances": [
         {
           "source_type": "language",
@@ -6466,17 +6514,17 @@
       "primary_language": "HTML",
       "topics": [],
       "license": "MIT",
-      "stars": 24826,
+      "stars": 24836,
       "forks": 2803,
       "created_at": "2026-04-19T14:42:06Z",
-      "updated_at": "2026-10-11T14:36:51Z",
+      "updated_at": "2026-10-11T19:31:29Z",
       "pushed_at": "2026-09-22T15:52:07Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "html",
           "rank": 11,
-          "stars_gained": 54
+          "stars_gained": 57
         }
       ]
     },
@@ -6507,10 +6555,10 @@
         "vpn"
       ],
       "license": null,
-      "stars": 1611,
+      "stars": 1613,
       "forks": 107,
       "created_at": "2022-05-18T04:36:52Z",
-      "updated_at": "2026-10-11T14:11:12Z",
+      "updated_at": "2026-10-11T17:53:50Z",
       "pushed_at": "2026-10-07T02:58:45Z",
       "appearances": [
         {
@@ -6545,10 +6593,10 @@
         "weixin"
       ],
       "license": "Other",
-      "stars": 3961,
+      "stars": 3964,
       "forks": 441,
       "created_at": "2026-07-01T04:28:03Z",
-      "updated_at": "2026-10-11T14:14:22Z",
+      "updated_at": "2026-10-11T18:17:34Z",
       "pushed_at": "2026-10-09T08:05:05Z",
       "appearances": [
         {
@@ -6576,10 +6624,10 @@
         "web-design"
       ],
       "license": "MIT",
-      "stars": 12823,
-      "forks": 1538,
+      "stars": 12826,
+      "forks": 1539,
       "created_at": "2026-04-21T11:56:17Z",
-      "updated_at": "2026-10-11T09:26:39Z",
+      "updated_at": "2026-10-11T20:48:53Z",
       "pushed_at": "2026-10-11T02:28:13Z",
       "appearances": [
         {
@@ -6629,10 +6677,10 @@
         "stylesheets"
       ],
       "license": "Other",
-      "stars": 82859,
+      "stars": 82861,
       "forks": 15868,
       "created_at": "2011-10-12T10:07:38Z",
-      "updated_at": "2026-10-11T13:29:14Z",
+      "updated_at": "2026-10-11T20:35:15Z",
       "pushed_at": "2024-07-29T19:34:21Z",
       "appearances": [
         {
@@ -6730,10 +6778,10 @@
         "wexin"
       ],
       "license": null,
-      "stars": 4239,
+      "stars": 4241,
       "forks": 860,
       "created_at": "2023-05-22T14:35:29Z",
-      "updated_at": "2026-10-11T06:26:49Z",
+      "updated_at": "2026-10-11T18:42:56Z",
       "pushed_at": "2026-04-28T12:13:20Z",
       "appearances": [
         {
@@ -6790,10 +6838,10 @@
         "ielts-writing"
       ],
       "license": null,
-      "stars": 3669,
+      "stars": 3685,
       "forks": 423,
       "created_at": "2023-07-15T07:57:38Z",
-      "updated_at": "2026-10-11T14:34:57Z",
+      "updated_at": "2026-10-11T20:51:55Z",
       "pushed_at": "2026-08-17T05:05:25Z",
       "appearances": [
         {
@@ -6818,10 +6866,10 @@
         "music-player"
       ],
       "license": "MIT",
-      "stars": 16961,
-      "forks": 1376,
+      "stars": 16962,
+      "forks": 1377,
       "created_at": "2023-10-27T15:52:55Z",
-      "updated_at": "2026-10-11T14:21:31Z",
+      "updated_at": "2026-10-11T18:24:00Z",
       "pushed_at": "2026-09-19T04:15:17Z",
       "appearances": [
         {
@@ -6853,10 +6901,10 @@
         "proxy"
       ],
       "license": "MPL-2.0",
-      "stars": 24435,
+      "stars": 24440,
       "forks": 3002,
       "created_at": "2020-09-29T10:38:20Z",
-      "updated_at": "2026-10-11T13:54:56Z",
+      "updated_at": "2026-10-11T18:51:20Z",
       "pushed_at": "2026-10-08T19:19:08Z",
       "appearances": [
         {
@@ -6877,10 +6925,10 @@
       "primary_language": "Vue",
       "topics": [],
       "license": "MIT",
-      "stars": 1489,
+      "stars": 1501,
       "forks": 57,
       "created_at": "2026-08-03T13:07:01Z",
-      "updated_at": "2026-10-11T14:33:46Z",
+      "updated_at": "2026-10-11T20:51:37Z",
       "pushed_at": "2026-10-11T13:08:16Z",
       "appearances": [
         {
@@ -6919,11 +6967,11 @@
         "windows-app"
       ],
       "license": "GPL-3.0",
-      "stars": 3811,
+      "stars": 3815,
       "forks": 221,
       "created_at": "2024-08-11T16:24:28Z",
-      "updated_at": "2026-10-11T13:37:20Z",
-      "pushed_at": "2026-10-11T13:37:16Z",
+      "updated_at": "2026-10-11T20:46:48Z",
+      "pushed_at": "2026-10-11T15:46:37Z",
       "appearances": [
         {
           "source_type": "language",
@@ -6951,10 +6999,10 @@
         "wiki"
       ],
       "license": "AGPL-3.0",
-      "stars": 29030,
+      "stars": 29033,
       "forks": 3321,
       "created_at": "2016-08-16T19:35:26Z",
-      "updated_at": "2026-10-11T11:13:57Z",
+      "updated_at": "2026-10-11T19:45:44Z",
       "pushed_at": "2026-10-11T03:39:02Z",
       "appearances": [
         {
@@ -6984,10 +7032,10 @@
         "windows"
       ],
       "license": "GPL-2.0",
-      "stars": 6428,
+      "stars": 6430,
       "forks": 402,
       "created_at": "2024-11-02T06:22:01Z",
-      "updated_at": "2026-10-11T11:48:16Z",
+      "updated_at": "2026-10-11T19:05:54Z",
       "pushed_at": "2026-09-22T12:27:21Z",
       "appearances": [
         {
@@ -7019,10 +7067,10 @@
         "typeorm"
       ],
       "license": null,
-      "stars": 2709,
+      "stars": 2708,
       "forks": 205,
       "created_at": "2024-11-23T07:55:34Z",
-      "updated_at": "2026-10-11T13:53:53Z",
+      "updated_at": "2026-10-11T19:21:57Z",
       "pushed_at": "2026-07-06T01:09:57Z",
       "appearances": [
         {
@@ -7062,10 +7110,10 @@
         "web-search"
       ],
       "license": "Other",
-      "stars": 1730,
-      "forks": 667,
+      "stars": 1731,
+      "forks": 668,
       "created_at": "2025-08-10T11:27:52Z",
-      "updated_at": "2026-10-11T14:15:19Z",
+      "updated_at": "2026-10-11T16:49:29Z",
       "pushed_at": "2026-09-24T06:32:20Z",
       "appearances": [
         {
@@ -7093,7 +7141,7 @@
       "forks": 30,
       "created_at": "2026-02-10T01:00:45Z",
       "updated_at": "2026-10-11T04:59:30Z",
-      "pushed_at": "2026-10-11T05:12:20Z",
+      "pushed_at": "2026-10-11T20:47:42Z",
       "appearances": [
         {
           "source_type": "language",
@@ -7130,10 +7178,10 @@
         "vue-radix"
       ],
       "license": "MIT",
-      "stars": 6863,
+      "stars": 6864,
       "forks": 565,
       "created_at": "2023-06-22T11:08:02Z",
-      "updated_at": "2026-10-10T20:17:32Z",
+      "updated_at": "2026-10-11T15:31:23Z",
       "pushed_at": "2026-10-11T13:33:56Z",
       "appearances": [
         {
@@ -7173,10 +7221,10 @@
         "windows"
       ],
       "license": "MIT",
-      "stars": 33363,
+      "stars": 33366,
       "forks": 4657,
       "created_at": "2020-10-09T10:04:21Z",
-      "updated_at": "2026-10-11T14:13:01Z",
+      "updated_at": "2026-10-11T16:46:14Z",
       "pushed_at": "2026-10-10T11:05:47Z",
       "appearances": [
         {
@@ -7197,10 +7245,10 @@
       "primary_language": "Vue",
       "topics": [],
       "license": "GPL-2.0",
-      "stars": 2472,
-      "forks": 288,
+      "stars": 2473,
+      "forks": 289,
       "created_at": "2026-03-07T12:27:59Z",
-      "updated_at": "2026-10-11T13:36:42Z",
+      "updated_at": "2026-10-11T15:04:43Z",
       "pushed_at": "2026-10-10T04:42:28Z",
       "appearances": [
         {
@@ -7245,10 +7293,10 @@
       "primary_language": "Objective-C",
       "topics": [],
       "license": "Other",
-      "stars": 22314,
+      "stars": 22321,
       "forks": 1683,
       "created_at": "2022-09-02T15:17:20Z",
-      "updated_at": "2026-10-11T13:55:28Z",
+      "updated_at": "2026-10-11T20:59:47Z",
       "pushed_at": "2026-04-01T09:43:17Z",
       "appearances": [
         {
@@ -7339,7 +7387,7 @@
       "stars": 750,
       "forks": 274,
       "created_at": "2025-02-21T17:39:46Z",
-      "updated_at": "2026-10-11T13:43:00Z",
+      "updated_at": "2026-10-11T17:02:33Z",
       "pushed_at": "2026-10-02T14:47:50Z",
       "appearances": [
         {
@@ -7365,7 +7413,7 @@
       ],
       "license": "GPL-3.0",
       "stars": 3255,
-      "forks": 1476,
+      "forks": 1475,
       "created_at": "2020-12-28T22:58:35Z",
       "updated_at": "2026-10-11T12:29:24Z",
       "pushed_at": "2025-09-23T20:13:08Z",
@@ -7388,10 +7436,10 @@
       "primary_language": "Objective-C",
       "topics": [],
       "license": "GPL-3.0",
-      "stars": 13427,
+      "stars": 13429,
       "forks": 536,
       "created_at": "2012-12-09T10:31:44Z",
-      "updated_at": "2026-10-11T11:35:10Z",
+      "updated_at": "2026-10-11T19:10:54Z",
       "pushed_at": "2026-09-06T18:24:21Z",
       "appearances": [
         {
@@ -7412,10 +7460,10 @@
       "primary_language": "Objective-C",
       "topics": [],
       "license": "MIT",
-      "stars": 1864,
+      "stars": 1865,
       "forks": 90,
       "created_at": "2026-08-03T10:42:50Z",
-      "updated_at": "2026-10-11T14:21:21Z",
+      "updated_at": "2026-10-11T18:49:43Z",
       "pushed_at": "2026-08-27T21:23:47Z",
       "appearances": [
         {
@@ -7436,10 +7484,10 @@
       "primary_language": "Objective-C",
       "topics": [],
       "license": "MIT",
-      "stars": 5924,
+      "stars": 5927,
       "forks": 698,
       "created_at": "2018-03-20T14:33:51Z",
-      "updated_at": "2026-10-11T14:34:44Z",
+      "updated_at": "2026-10-11T18:57:57Z",
       "pushed_at": "2026-09-29T05:46:06Z",
       "appearances": [
         {
@@ -7469,10 +7517,10 @@
         "sequelpro"
       ],
       "license": "Other",
-      "stars": 7554,
+      "stars": 7553,
       "forks": 339,
       "created_at": "2020-06-11T13:31:01Z",
-      "updated_at": "2026-10-11T03:57:06Z",
+      "updated_at": "2026-10-11T14:43:51Z",
       "pushed_at": "2026-10-09T07:23:36Z",
       "appearances": [
         {
@@ -7493,10 +7541,10 @@
       "primary_language": "Objective-C",
       "topics": [],
       "license": "GPL-3.0",
-      "stars": 12134,
+      "stars": 12135,
       "forks": 1502,
       "created_at": "2015-08-13T04:11:10Z",
-      "updated_at": "2026-10-10T21:00:33Z",
+      "updated_at": "2026-10-11T17:06:04Z",
       "pushed_at": "2026-10-08T17:03:59Z",
       "appearances": [
         {
@@ -7558,10 +7606,10 @@
         "webp"
       ],
       "license": "MIT",
-      "stars": 25610,
+      "stars": 25609,
       "forks": 5952,
       "created_at": "2009-09-21T17:39:19Z",
-      "updated_at": "2026-10-10T13:49:29Z",
+      "updated_at": "2026-10-11T20:25:21Z",
       "pushed_at": "2026-04-15T03:36:16Z",
       "appearances": [
         {
@@ -7588,17 +7636,17 @@
         "llm-tools"
       ],
       "license": "Apache-2.0",
-      "stars": 1245,
-      "forks": 219,
+      "stars": 1254,
+      "forks": 220,
       "created_at": "2026-06-19T20:27:39Z",
-      "updated_at": "2026-10-11T14:14:42Z",
+      "updated_at": "2026-10-11T20:14:08Z",
       "pushed_at": "2026-10-11T08:40:19Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "zig",
           "rank": 1,
-          "stars_gained": 64
+          "stars_gained": 37
         }
       ]
     },
@@ -7621,17 +7669,17 @@
         "zig"
       ],
       "license": "AGPL-3.0",
-      "stars": 36263,
-      "forks": 1727,
+      "stars": 36276,
+      "forks": 1729,
       "created_at": "2023-02-07T15:19:34Z",
-      "updated_at": "2026-10-11T13:55:55Z",
+      "updated_at": "2026-10-11T20:09:34Z",
       "pushed_at": "2026-10-11T04:25:15Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "zig",
           "rank": 3,
-          "stars_gained": 50
+          "stars_gained": 67
         }
       ]
     },
@@ -7645,11 +7693,11 @@
       "primary_language": "Zig",
       "topics": [],
       "license": "Apache-2.0",
-      "stars": 7767,
+      "stars": 7770,
       "forks": 325,
       "created_at": "2026-05-08T19:53:41Z",
-      "updated_at": "2026-10-11T12:23:23Z",
-      "pushed_at": "2026-10-10T17:26:38Z",
+      "updated_at": "2026-10-11T20:53:00Z",
+      "pushed_at": "2026-10-11T20:36:46Z",
       "appearances": [
         {
           "source_type": "language",
@@ -7669,11 +7717,11 @@
       "primary_language": "Zig",
       "topics": [],
       "license": "Apache-2.0",
-      "stars": 3361,
-      "forks": 375,
+      "stars": 3364,
+      "forks": 374,
       "created_at": "2026-08-11T08:57:04Z",
-      "updated_at": "2026-10-11T05:32:37Z",
-      "pushed_at": "2026-10-11T10:10:30Z",
+      "updated_at": "2026-10-11T19:19:12Z",
+      "pushed_at": "2026-10-11T19:17:02Z",
       "appearances": [
         {
           "source_type": "language",
@@ -7693,11 +7741,11 @@
       "primary_language": "Zig",
       "topics": [],
       "license": "Apache-2.0",
-      "stars": 17169,
-      "forks": 917,
+      "stars": 17173,
+      "forks": 918,
       "created_at": "2020-04-09T16:04:20Z",
-      "updated_at": "2026-10-11T14:30:20Z",
-      "pushed_at": "2026-10-11T14:09:23Z",
+      "updated_at": "2026-10-11T20:13:35Z",
+      "pushed_at": "2026-10-11T19:25:28Z",
       "appearances": [
         {
           "source_type": "language",
@@ -7737,17 +7785,17 @@
         "zig"
       ],
       "license": "MIT",
-      "stars": 2043,
+      "stars": 2046,
       "forks": 78,
       "created_at": "2026-03-29T10:01:35Z",
-      "updated_at": "2026-10-11T13:01:56Z",
+      "updated_at": "2026-10-11T17:51:44Z",
       "pushed_at": "2026-10-01T11:59:47Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "zig",
           "rank": 7,
-          "stars_gained": 8
+          "stars_gained": 9
         }
       ]
     },
@@ -7797,17 +7845,17 @@
       "primary_language": "Zig",
       "topics": [],
       "license": "MIT",
-      "stars": 62070,
+      "stars": 62077,
       "forks": 3623,
       "created_at": "2022-03-29T17:38:26Z",
-      "updated_at": "2026-10-11T14:08:03Z",
-      "pushed_at": "2026-10-11T14:20:26Z",
+      "updated_at": "2026-10-11T20:46:21Z",
+      "pushed_at": "2026-10-11T18:46:26Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "zig",
           "rank": 11,
-          "stars_gained": 31
+          "stars_gained": 47
         }
       ]
     },
@@ -7824,17 +7872,17 @@
         "zig"
       ],
       "license": "MIT",
-      "stars": 2796,
+      "stars": 2798,
       "forks": 162,
       "created_at": "2026-02-10T06:53:56Z",
-      "updated_at": "2026-10-10T19:43:29Z",
+      "updated_at": "2026-10-11T19:33:03Z",
       "pushed_at": "2026-10-08T04:09:52Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "zig",
           "rank": 12,
-          "stars_gained": 4
+          "stars_gained": 2
         }
       ]
     },
@@ -7854,10 +7902,10 @@
         "zig"
       ],
       "license": null,
-      "stars": 4315,
+      "stars": 4316,
       "forks": 170,
       "created_at": "2020-03-20T21:53:10Z",
-      "updated_at": "2026-10-11T06:46:47Z",
+      "updated_at": "2026-10-11T14:45:38Z",
       "pushed_at": "2026-10-10T08:55:44Z",
       "appearances": [
         {
@@ -7883,11 +7931,11 @@
         "vim"
       ],
       "license": "Vim",
-      "stars": 41192,
+      "stars": 41195,
       "forks": 6158,
       "created_at": "2015-08-18T21:03:56Z",
-      "updated_at": "2026-10-11T12:09:12Z",
-      "pushed_at": "2026-10-10T02:34:45Z",
+      "updated_at": "2026-10-11T20:53:10Z",
+      "pushed_at": "2026-10-11T18:31:48Z",
       "appearances": [
         {
           "source_type": "language",
@@ -7907,10 +7955,10 @@
       "primary_language": "PowerShell",
       "topics": [],
       "license": "MIT",
-      "stars": 13466,
+      "stars": 13470,
       "forks": 3912,
       "created_at": "2019-06-05T15:02:59Z",
-      "updated_at": "2026-10-11T14:18:26Z",
+      "updated_at": "2026-10-11T17:45:40Z",
       "pushed_at": "2026-10-09T18:46:49Z",
       "appearances": [
         {
@@ -7931,10 +7979,10 @@
       "primary_language": "PowerShell",
       "topics": [],
       "license": "Other",
-      "stars": 565,
+      "stars": 576,
       "forks": 43,
       "created_at": "2025-10-17T19:11:33Z",
-      "updated_at": "2026-10-11T14:23:05Z",
+      "updated_at": "2026-10-11T20:57:32Z",
       "pushed_at": "2026-10-11T12:17:01Z",
       "appearances": [
         {
@@ -7983,10 +8031,10 @@
       ],
       "license": "Apache-2.0",
       "stars": 2937,
-      "forks": 978,
+      "forks": 977,
       "created_at": "2010-02-10T23:57:57Z",
-      "updated_at": "2026-10-10T20:22:28Z",
-      "pushed_at": "2026-10-11T13:42:43Z",
+      "updated_at": "2026-10-11T20:10:52Z",
+      "pushed_at": "2026-10-11T20:40:00Z",
       "appearances": [
         {
           "source_type": "language",
@@ -8016,11 +8064,11 @@
         "static-typing"
       ],
       "license": "Apache-2.0",
-      "stars": 5477,
+      "stars": 5476,
       "forks": 1914,
       "created_at": "2015-04-16T07:00:05Z",
-      "updated_at": "2026-10-11T14:24:33Z",
-      "pushed_at": "2026-10-11T14:27:45Z",
+      "updated_at": "2026-10-11T17:21:53Z",
+      "pushed_at": "2026-10-11T18:25:59Z",
       "appearances": [
         {
           "source_type": "language",
@@ -8043,8 +8091,8 @@
       "stars": 50,
       "forks": 155,
       "created_at": "2017-01-11T20:14:22Z",
-      "updated_at": "2026-10-09T13:05:35Z",
-      "pushed_at": "2026-10-09T13:13:44Z",
+      "updated_at": "2026-10-11T17:13:41Z",
+      "pushed_at": "2026-10-11T17:16:45Z",
       "appearances": [
         {
           "source_type": "language",
@@ -8073,7 +8121,7 @@
       ],
       "license": "Apache-2.0",
       "stars": 18887,
-      "forks": 5328,
+      "forks": 5327,
       "created_at": "2009-09-09T18:27:19Z",
       "updated_at": "2026-10-11T07:26:38Z",
       "pushed_at": "2026-10-11T00:30:48Z",
@@ -8103,11 +8151,11 @@
         "paket"
       ],
       "license": "MIT",
-      "stars": 2088,
+      "stars": 2089,
       "forks": 530,
       "created_at": "2014-08-08T11:36:13Z",
-      "updated_at": "2026-10-10T16:26:21Z",
-      "pushed_at": "2026-10-11T08:30:12Z",
+      "updated_at": "2026-10-11T18:12:16Z",
+      "pushed_at": "2026-10-11T18:28:19Z",
       "appearances": [
         {
           "source_type": "language",
@@ -8140,7 +8188,7 @@
       "forks": 331,
       "created_at": "2016-01-11T10:10:13Z",
       "updated_at": "2026-10-11T14:33:13Z",
-      "pushed_at": "2026-10-11T09:10:47Z",
+      "pushed_at": "2026-10-11T17:40:19Z",
       "appearances": [
         {
           "source_type": "language",
@@ -8160,11 +8208,11 @@
       "primary_language": "Assembly",
       "topics": [],
       "license": "Other",
-      "stars": 3285,
+      "stars": 3287,
       "forks": 415,
       "created_at": "2015-04-07T19:17:25Z",
-      "updated_at": "2026-10-11T14:31:04Z",
-      "pushed_at": "2026-10-11T14:31:00Z",
+      "updated_at": "2026-10-11T19:07:15Z",
+      "pushed_at": "2026-10-11T17:53:15Z",
       "appearances": [
         {
           "source_type": "language",
@@ -8190,10 +8238,10 @@
         "reverse-engineering"
       ],
       "license": null,
-      "stars": 613,
-      "forks": 212,
+      "stars": 614,
+      "forks": 213,
       "created_at": "2021-06-18T12:28:37Z",
-      "updated_at": "2026-10-11T12:35:09Z",
+      "updated_at": "2026-10-11T19:48:19Z",
       "pushed_at": "2026-10-11T12:34:47Z",
       "appearances": [
         {
@@ -8236,7 +8284,7 @@
       ],
       "license": "Other",
       "stars": 10744,
-      "forks": 2712,
+      "forks": 2713,
       "created_at": "2014-03-24T21:33:23Z",
       "updated_at": "2026-10-11T13:22:06Z",
       "pushed_at": "2025-10-22T16:42:57Z",
@@ -8283,8 +8331,8 @@
       "stars": 1143,
       "forks": 211,
       "created_at": "2016-03-16T13:48:16Z",
-      "updated_at": "2026-10-11T06:54:02Z",
-      "pushed_at": "2026-10-11T13:45:35Z",
+      "updated_at": "2026-10-11T15:05:42Z",
+      "pushed_at": "2026-10-11T15:05:35Z",
       "appearances": [
         {
           "source_type": "language",
@@ -8403,7 +8451,7 @@
       ],
       "license": null,
       "stars": 1660,
-      "forks": 342,
+      "forks": 341,
       "created_at": "2017-05-24T11:54:53Z",
       "updated_at": "2026-10-10T16:57:50Z",
       "pushed_at": "2026-10-10T19:36:36Z",
@@ -8426,10 +8474,10 @@
       "primary_language": "Assembly",
       "topics": [],
       "license": "Apache-2.0",
-      "stars": 6471,
+      "stars": 6473,
       "forks": 492,
       "created_at": "2019-11-10T11:15:44Z",
-      "updated_at": "2026-10-11T14:32:41Z",
+      "updated_at": "2026-10-11T17:12:04Z",
       "pushed_at": "2026-10-01T20:07:25Z",
       "appearances": [
         {
@@ -8533,10 +8581,10 @@
       "primary_language": "Fortran",
       "topics": [],
       "license": "LGPL-3.0",
-      "stars": 46,
+      "stars": 48,
       "forks": 37,
       "created_at": "2026-05-29T08:48:57Z",
-      "updated_at": "2026-10-11T01:32:42Z",
+      "updated_at": "2026-10-11T20:35:22Z",
       "pushed_at": "2026-09-29T06:41:25Z",
       "appearances": [
         {
@@ -8611,11 +8659,11 @@
         "procedural"
       ],
       "license": "Other",
-      "stars": 18262,
+      "stars": 18263,
       "forks": 1564,
       "created_at": "2010-08-16T20:38:58Z",
-      "updated_at": "2026-10-11T12:11:38Z",
-      "pushed_at": "2026-10-11T12:25:54Z",
+      "updated_at": "2026-10-11T17:46:45Z",
+      "pushed_at": "2026-10-11T17:30:16Z",
       "appearances": [
         {
           "source_type": "language",
@@ -8674,11 +8722,11 @@
         "v"
       ],
       "license": "MIT",
-      "stars": 37994,
-      "forks": 2298,
+      "stars": 37995,
+      "forks": 2299,
       "created_at": "2019-02-08T02:57:06Z",
-      "updated_at": "2026-10-11T14:12:02Z",
-      "pushed_at": "2026-10-11T14:29:03Z",
+      "updated_at": "2026-10-11T20:54:06Z",
+      "pushed_at": "2026-10-11T20:54:01Z",
       "appearances": [
         {
           "source_type": "language",
@@ -8704,10 +8752,10 @@
         "vlang"
       ],
       "license": "GPL-2.0",
-      "stars": 2594,
+      "stars": 2596,
       "forks": 152,
       "created_at": "2019-11-15T10:56:22Z",
-      "updated_at": "2026-10-11T13:34:10Z",
+      "updated_at": "2026-10-11T19:17:54Z",
       "pushed_at": "2026-10-11T11:07:28Z",
       "appearances": [
         {
@@ -8729,7 +8777,7 @@
       "topics": [],
       "license": "GPL-3.0",
       "stars": 22601,
-      "forks": 3632,
+      "forks": 3631,
       "created_at": "2012-06-08T15:32:30Z",
       "updated_at": "2026-10-11T10:43:04Z",
       "pushed_at": "2024-12-27T12:00:30Z",
@@ -8753,7 +8801,7 @@
       "topics": [],
       "license": "MIT",
       "stars": 16594,
-      "forks": 1978,
+      "forks": 1977,
       "created_at": "2009-12-18T01:39:53Z",
       "updated_at": "2026-10-09T17:48:20Z",
       "pushed_at": "2024-03-22T14:04:00Z",
@@ -8783,10 +8831,10 @@
         "scheme"
       ],
       "license": "ISC",
-      "stars": 3558,
+      "stars": 3559,
       "forks": 247,
       "created_at": "2020-08-22T23:55:21Z",
-      "updated_at": "2026-10-11T14:23:12Z",
+      "updated_at": "2026-10-11T18:21:18Z",
       "pushed_at": "2026-10-05T22:19:32Z",
       "appearances": [
         {
@@ -8813,17 +8861,17 @@
         "solidity"
       ],
       "license": "MIT",
-      "stars": 27267,
+      "stars": 27268,
       "forks": 12387,
       "created_at": "2016-08-01T20:54:54Z",
-      "updated_at": "2026-10-11T07:19:31Z",
+      "updated_at": "2026-10-11T16:07:15Z",
       "pushed_at": "2026-10-09T15:20:31Z",
       "appearances": [
         {
           "source_type": "language",
           "source_slug": "solidity",
           "rank": 1,
-          "stars_gained": 1
+          "stars_gained": 2
         }
       ]
     },
@@ -8856,7 +8904,7 @@
           "source_type": "language",
           "source_slug": "solidity",
           "rank": 2,
-          "stars_gained": 1
+          "stars_gained": 0
         }
       ]
     },
@@ -8897,8 +8945,8 @@
       "stars": 107,
       "forks": 77,
       "created_at": "2024-10-01T09:26:45Z",
-      "updated_at": "2026-10-11T13:41:41Z",
-      "pushed_at": "2026-10-11T14:16:29Z",
+      "updated_at": "2026-10-11T18:05:46Z",
+      "pushed_at": "2026-10-11T18:42:47Z",
       "appearances": [
         {
           "source_type": "language",
@@ -8990,10 +9038,10 @@
       "primary_language": "Verilog",
       "topics": [],
       "license": "ISC",
-      "stars": 4390,
+      "stars": 4391,
       "forks": 1022,
       "created_at": "2015-06-06T11:52:27Z",
-      "updated_at": "2026-10-11T14:29:23Z",
+      "updated_at": "2026-10-11T14:52:11Z",
       "pushed_at": "2026-09-07T08:01:26Z",
       "appearances": [
         {
@@ -9029,7 +9077,7 @@
       "forks": 537,
       "created_at": "2020-07-28T18:19:42Z",
       "updated_at": "2026-10-11T07:29:34Z",
-      "pushed_at": "2026-10-11T03:39:09Z",
+      "pushed_at": "2026-10-11T14:51:46Z",
       "appearances": [
         {
           "source_type": "language",
