@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T14:39:16.037Z",
+  "generated_at": "2026-10-11T21:01:45.346Z",
   "total_languages": 61,
   "languages": [
     {
@@ -89,8 +89,8 @@
     {
       "language": "Lua",
       "repository_count": 116,
-      "total_stars": 544767,
-      "avg_stars": 4696,
+      "total_stars": 544808,
+      "avg_stars": 4697,
       "percentage": 2.9
     },
     {
@@ -117,7 +117,7 @@
     {
       "language": "Ruby",
       "repository_count": 100,
-      "total_stars": 901003,
+      "total_stars": 901028,
       "avg_stars": 9010,
       "percentage": 2.5
     },

@@ -22,6 +22,9 @@
 | [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,039 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [antiwork/gumroad](../repos/antiwork/gumroad.md) | ⭐ 9,844 | 2026-08-01 | 26 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,804 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
@@ -41,9 +44,6 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [github/explore](../repos/github/explore.md) | ⭐ 4,908 | 2026-08-09 | 23 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [greasyfork-org/greasyfork](../repos/greasyfork-org/greasyfork.md) | ⭐ 2,124 | 2026-08-10 | 5 |
 
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-11T14:39:08.898Z*
+*Last updated: 2026-10-11T21:01:37.835Z*

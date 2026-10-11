@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-11T14:39:08.179Z",
+  "last_updated": "2026-10-11T21:01:36.835Z",
   "total_repositories": 3941,
   "repositories": {
     "tensorflow/tensorflow": {
@@ -18666,9 +18666,9 @@
       "name": "gumroad",
       "github_id": 959682770,
       "first_seen": "2026-08-01",
-      "last_seen": "2026-10-08",
-      "trending_days": 25,
-      "current_consecutive_days": 3,
+      "last_seen": "2026-10-11",
+      "trending_days": 26,
+      "current_consecutive_days": 1,
       "appearance_dates": [
         "2026-08-01",
         "2026-08-02",
@@ -18694,21 +18694,22 @@
         "2026-09-28",
         "2026-10-06",
         "2026-10-07",
-        "2026-10-08"
+        "2026-10-08",
+        "2026-10-11"
       ],
-      "latest_stars": 9819,
-      "previous_stars": 9790,
-      "star_change_since_last_seen": 29,
+      "latest_stars": 9844,
+      "previous_stars": 9819,
+      "star_change_since_last_seen": 25,
       "latest_language": "Ruby",
       "latest_topics": [],
       "latest_metadata": {
         "description": "See what sticks",
         "url": "https://github.com/antiwork/gumroad",
         "license": "MIT",
-        "forks": 2058,
+        "forks": 2064,
         "created_at": "2025-04-03T07:22:41Z",
-        "updated_at": "2026-10-08T20:12:32Z",
-        "pushed_at": "2026-10-08T20:56:13Z"
+        "updated_at": "2026-10-11T19:00:26Z",
+        "pushed_at": "2026-10-11T20:49:31Z"
       },
       "appearances_history": [
         {
@@ -18884,6 +18885,13 @@
           "rank": 1,
           "stars_gained": 10,
           "date": "2026-10-08"
+        },
+        {
+          "source_type": "language",
+          "source_slug": "ruby",
+          "rank": 8,
+          "stars_gained": 6,
+          "date": "2026-10-11"
         }
       ]
     },
@@ -296168,9 +296176,9 @@
       "name": "gen1recomp",
       "github_id": 1304486109,
       "first_seen": "2026-09-20",
-      "last_seen": "2026-10-07",
-      "trending_days": 10,
-      "current_consecutive_days": 2,
+      "last_seen": "2026-10-11",
+      "trending_days": 11,
+      "current_consecutive_days": 1,
       "appearance_dates": [
         "2026-09-20",
         "2026-09-21",
@@ -296181,21 +296189,22 @@
         "2026-09-28",
         "2026-10-03",
         "2026-10-06",
-        "2026-10-07"
+        "2026-10-07",
+        "2026-10-11"
       ],
-      "latest_stars": 3854,
-      "previous_stars": 3848,
-      "star_change_since_last_seen": 6,
+      "latest_stars": 3895,
+      "previous_stars": 3854,
+      "star_change_since_last_seen": 41,
       "latest_language": "Lua",
       "latest_topics": [],
       "latest_metadata": {
         "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1, 2, and 3 Poke",
         "url": "https://github.com/bryanthaboi/gen1recomp",
         "license": "Other",
-        "forks": 346,
+        "forks": 348,
         "created_at": "2026-07-18T00:29:27Z",
-        "updated_at": "2026-10-07T20:49:05Z",
-        "pushed_at": "2026-10-07T20:48:58Z"
+        "updated_at": "2026-10-11T20:57:18Z",
+        "pushed_at": "2026-10-11T19:53:03Z"
       },
       "appearances_history": [
         {
@@ -296266,6 +296275,13 @@
           "rank": 1,
           "stars_gained": 11,
           "date": "2026-10-07"
+        },
+        {
+          "source_type": "language",
+          "source_slug": "lua",
+          "rank": 10,
+          "stars_gained": 17,
+          "date": "2026-10-11"
         }
       ]
     },
