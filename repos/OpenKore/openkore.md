@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Perl |
 | **License** | Other |
-| **Stars** | ⭐ 1,527 |
-| **Forks** | 🍴 1,223 |
-| **Trending Days** | 28 |
+| **Stars** | ⭐ 1,529 |
+| **Forks** | 🍴 1,225 |
+| **Trending Days** | 29 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 2, 2026 |
+| **Last Seen** | Oct 11, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 28
+- **Trending Days**: 29
 - **Longest Streak**: 7 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 1,527+ stars, strong contributor base |
+| **Community** | Very Active | 1,529+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:34.584Z*  
-*Data from 28 trending reports*
+*Last updated: 2026-10-11T14:39:10.679Z*  
+*Data from 29 trending reports*

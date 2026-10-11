@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 156
+- **Total Repositories**: 157
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,49 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 81,136 | 2026-08-04 | 19 |
+| [greensock/GSAP](../repos/greensock/GSAP.md) | ⭐ 29,054 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 103,896 | 2026-08-05 | 28 |
+| [liyupi/ai-guide](../repos/liyupi/ai-guide.md) | ⭐ 20,994 | 2026-08-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 50,925 | 2026-08-27 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/power-platform-skills](../repos/microsoft/power-platform-skills.md) | ⭐ 984 | 2026-08-07 | 9 |
+| [chaolucky18/xuexitongScript](../repos/chaolucky18/xuexitongScript.md) | ⭐ 2,802 | 2026-10-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 29,939 | 2026-08-08 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [liyupi/ai-guide](../repos/liyupi/ai-guide.md) | ⭐ 20,912 | 2026-08-19 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 26,895 | 2026-08-28 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [chuspeeism/dashi-taskboard](../repos/chuspeeism/dashi-taskboard.md) | ⭐ 3,313 | 2026-10-09 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [chaolucky18/xuexitongScript](../repos/chaolucky18/xuexitongScript.md) | ⭐ 2,758 | 2026-10-09 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [songquanpeng/one-api](../repos/songquanpeng/one-api.md) | ⭐ 37,105 | 2026-10-09 | 1 |
+| [MagicMirrorOrg/MagicMirror](../repos/MagicMirrorOrg/MagicMirror.md) | ⭐ 24,032 | 2026-10-11 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Anil-matcha/awesome-generative-ai-apps](../repos/Anil-matcha/awesome-generative-ai-apps.md) | ⭐ 3,202 | 2026-09-10 | 50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [sgoudelis/ground-station](../repos/sgoudelis/ground-station.md) | ⭐ 4,772 | 2026-09-10 | Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and t... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Anarios/return-youtube-dislike](../repos/Anarios/return-youtube-dislike.md) | ⭐ 13,769 | 2026-09-10 | Chrome extension to return youtube dislikes |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [0xranx/OpenContext](../repos/0xranx/OpenContext.md) | ⭐ 1,117 | 2026-09-12 | A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex... |
@@ -80,6 +56,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [playcanvas/engine](../repos/playcanvas/engine.md) | ⭐ 16,784 | 2026-09-14 | Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [yuliskov/SmartTubeLegacy](../repos/yuliskov/SmartTubeLegacy.md) | ⭐ 4,559 | 2026-09-14 | Watch YouTube videos on your TV and set-top-box with comfort |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [plugin87/ux-ui-agent-skills](../repos/plugin87/ux-ui-agent-skills.md) | ⭐ 1,300 | 2026-09-14 | Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AA... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mindcraft-bots/mindcraft](../repos/mindcraft-bots/mindcraft.md) | ⭐ 5,768 | 2026-09-19 | Minecraft AI with LLMs+Mineflayer |
 
 
 ---
@@ -105,9 +90,9 @@
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 50,925 | 2026-08-27 | 9 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,174 | 2026-08-08 | 3 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 46,128 | 2026-08-27 | 8 |
 
 ---
 
@@ -233,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.169Z*
+*Last updated: 2026-10-11T14:39:08.867Z*

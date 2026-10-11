@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Elixir |
 | **License** | Other |
-| **Stars** | ⭐ 576 |
-| **Forks** | 🍴 73 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 579 |
+| **Forks** | 🍴 75 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 7, 2026 |
+| **Last Seen** | Oct 11, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:34.854Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-10-11T14:39:10.990Z*  
+*Data from 8 trending reports*

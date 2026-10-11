@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 64
+- **Total Repositories**: 65
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-09
+- **Last Updated**: 2026-10-11
 
 ---
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,557 | 2026-08-01 | 47 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,560 | 2026-08-01 | 48 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,039 | 2026-08-01 | 47 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,040 | 2026-08-01 | 48 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | ⭐ 1,008 | 2026-08-01 | 38 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,965 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,602 | 2026-08-01 | 45 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,300 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,953 | 2026-08-01 | 41 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,164 | 2026-08-01 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,310 | 2026-08-01 | 31 |
+| [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,741 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,149 | 2026-08-01 | 56 |
+| [apache/kyuubi](../repos/apache/kyuubi.md) | ⭐ 2,369 | 2026-08-03 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,741 | 2026-08-01 | 22 |
+| [com-lihaoyi/mill](../repos/com-lihaoyi/mill.md) | ⭐ 2,797 | 2026-09-20 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,813 | 2026-08-02 | 47 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | ⭐ 1,288 | 2026-08-02 | 41 |
+| [sbt/sbt-native-packager](../repos/sbt/sbt-native-packager.md) | ⭐ 1,606 | 2026-10-11 | 1 |
 
 
 ---
@@ -61,13 +58,16 @@
 | [orbeon/orbeon-forms](../repos/orbeon/orbeon-forms.md) | ⭐ 545 | 2026-09-19 | Orbeon Forms - Build, run, and manage web forms on-premises or in the cloud. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [com-lihaoyi/mill](../repos/com-lihaoyi/mill.md) | ⭐ 2,796 | 2026-09-20 | A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x... |
+| [com-lihaoyi/mill](../repos/com-lihaoyi/mill.md) | ⭐ 2,797 | 2026-09-20 | A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SpinalHDL/SpinalHDL](../repos/SpinalHDL/SpinalHDL.md) | ⭐ 2,051 | 2026-10-06 | Scala based HDL |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [d2iq-archive/marathon](../repos/d2iq-archive/marathon.md) | ⭐ 4,025 | 2026-10-07 | Deploy and manage containers (including Docker) on top of Apache Mesos at scale. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sbt/sbt-native-packager](../repos/sbt/sbt-native-packager.md) | ⭐ 1,606 | 2026-10-11 | sbt Native Packager |
 
 
 ---
@@ -76,17 +76,17 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,953 | 2026-08-01 | 41 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,149 | 2026-08-01 | 56 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,965 | 2026-08-01 | 42 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,164 | 2026-08-01 | 57 |
 | [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,813 | 2026-08-02 | 47 |
 | [scala/scala](../repos/scala/scala.md) | ⭐ 14,562 | 2026-08-01 | 28 |
 | [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,281 | 2026-08-01 | 25 |
 | [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,518 | 2026-09-02 | 5 |
 | [yahoo/CMAK](../repos/yahoo/CMAK.md) | ⭐ 11,924 | 2026-09-07 | 1 |
 | [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,402 | 2026-08-01 | 29 |
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,039 | 2026-08-01 | 47 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,040 | 2026-08-01 | 48 |
 | [twitter/finagle](../repos/twitter/finagle.md) | ⭐ 8,865 | 2026-08-20 | 4 |
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,291 | 2026-08-01 | 42 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,300 | 2026-08-01 | 43 |
 | [snowplow/snowplow](../repos/snowplow/snowplow.md) | ⭐ 7,035 | 2026-08-11 | 7 |
 | [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,955 | 2026-08-01 | 33 |
 | [apache/openwhisk](../repos/apache/openwhisk.md) | ⭐ 6,802 | 2026-08-05 | 7 |
@@ -103,13 +103,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [apache/spark](../repos/apache/spark.md) | 56 | ⭐ 44,149 | 2026-08-01 | 2026-10-09 |
-| [joernio/joern](../repos/joernio/joern.md) | 47 | ⭐ 3,557 | 2026-08-01 | 2026-10-09 |
-| [delta-io/delta](../repos/delta-io/delta.md) | 47 | ⭐ 9,039 | 2026-08-01 | 2026-10-09 |
+| [apache/spark](../repos/apache/spark.md) | 57 | ⭐ 44,164 | 2026-08-01 | 2026-10-11 |
+| [joernio/joern](../repos/joernio/joern.md) | 48 | ⭐ 3,560 | 2026-08-01 | 2026-10-11 |
+| [delta-io/delta](../repos/delta-io/delta.md) | 48 | ⭐ 9,040 | 2026-08-01 | 2026-10-11 |
 | [lichess-org/lila](../repos/lichess-org/lila.md) | 47 | ⭐ 18,813 | 2026-08-02 | 2026-10-09 |
 | [apache/gluten](../repos/apache/gluten.md) | 45 | ⭐ 1,602 | 2026-08-01 | 2026-10-09 |
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 42 | ⭐ 7,291 | 2026-08-01 | 2026-10-07 |
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 41 | ⭐ 73,953 | 2026-08-01 | 2026-10-09 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 43 | ⭐ 7,300 | 2026-08-01 | 2026-10-11 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 42 | ⭐ 73,965 | 2026-08-01 | 2026-10-11 |
 | [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | 41 | ⭐ 1,288 | 2026-08-02 | 2026-10-09 |
 | [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 38 | ⭐ 1,008 | 2026-08-01 | 2026-10-09 |
 | [gatling/gatling](../repos/gatling/gatling.md) | 33 | ⭐ 6,955 | 2026-08-01 | 2026-10-03 |
@@ -182,7 +182,8 @@
 - [com-lihaoyi/mill](../repos/com-lihaoyi/mill.md) - A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x...
 - [SpinalHDL/SpinalHDL](../repos/SpinalHDL/SpinalHDL.md) - Scala based HDL
 - [d2iq-archive/marathon](../repos/d2iq-archive/marathon.md) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
+- [sbt/sbt-native-packager](../repos/sbt/sbt-native-packager.md) - sbt Native Packager
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.198Z*
+*Last updated: 2026-10-11T14:39:08.901Z*

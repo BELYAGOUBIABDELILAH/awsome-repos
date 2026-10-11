@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | MIT |
-| **Stars** | ⭐ 18,794 |
-| **Forks** | 🍴 2,044 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 19,344 |
+| **Forks** | 🍴 2,085 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Aug 24, 2026 |
+| **Last Seen** | Oct 11, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Shell or antispam*
+*Similar: Check repositories in Shell or container*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 2 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`antispam`](../../topics/antispam.md) [`antivirus`](../../topics/antivirus.md) [`container`](../../topics/container.md) [`docker`](../../topics/docker.md) [`dovecot`](../../topics/dovecot.md) [`fail2ban`](../../topics/fail2ban.md) [`imap`](../../topics/imap.md) [`kubernetes`](../../topics/kubernetes.md) [`ldap`](../../topics/ldap.md) [`mail`](../../topics/mail.md) [`mailserver`](../../topics/mailserver.md) [`postfix`](../../topics/postfix.md) [`rspamd`](../../topics/rspamd.md) [`smtp`](../../topics/smtp.md) 
+[`container`](../../topics/container.md) [`dovecot`](../../topics/dovecot.md) [`fail2ban`](../../topics/fail2ban.md) [`imap`](../../topics/imap.md) [`ldap`](../../topics/ldap.md) [`mail`](../../topics/mail.md) [`mailserver`](../../topics/mailserver.md) [`pop3`](../../topics/pop3.md) [`postfix`](../../topics/postfix.md) [`rspamd`](../../topics/rspamd.md) [`smtp`](../../topics/smtp.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Backend Development` `Containers &amp; Orchestration` `Systems Programming` 
+`Artificial Intelligence` `Backend Development` `Systems Programming` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-09T21:01:35.617Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-10-11T14:39:12.199Z*  
+*Data from 6 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 102
+- **Total Repositories**: 104
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-27
 
@@ -16,34 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,953 | 2026-08-01 | 29 |
+| [SuiteCRM/SuiteCRM](../repos/SuiteCRM/SuiteCRM.md) | ⭐ 5,792 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [glpi-project/glpi](../repos/glpi-project/glpi.md) | ⭐ 6,442 | 2026-08-01 | 32 |
+| [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,562 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WordPress/mcp-adapter](../repos/WordPress/mcp-adapter.md) | ⭐ 1,821 | 2026-08-01 | 16 |
+| [femiwiki/docker-mediawiki](../repos/femiwiki/docker-mediawiki.md) | ⭐ 33 | 2026-10-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,261 | 2026-08-02 | 20 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ChurchCRM/CRM](../repos/ChurchCRM/CRM.md) | ⭐ 964 | 2026-08-03 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,886 | 2026-08-04 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [espocrm/espocrm](../repos/espocrm/espocrm.md) | ⭐ 3,467 | 2026-08-06 | 17 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [freescout-help-desk/freescout](../repos/freescout-help-desk/freescout.md) | ⭐ 4,592 | 2026-08-14 | 14 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [WordPress/ai](../repos/WordPress/ai.md) | ⭐ 360 | 2026-08-17 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [silverstripe/silverstripe-framework](../repos/silverstripe/silverstripe-framework.md) | ⭐ 724 | 2026-09-22 | 2 |
+| [OpenVK/openvk](../repos/OpenVK/openvk.md) | ⭐ 553 | 2026-10-11 | 1 |
 
 
 ---
@@ -104,7 +86,7 @@
 | [getgrav/grav](../repos/getgrav/grav.md) | ⭐ 15,672 | 2026-08-12 | 7 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,015 | 2026-08-01 | 24 |
 | [PHPOffice/PhpSpreadsheet](../repos/PHPOffice/PhpSpreadsheet.md) | ⭐ 13,990 | 2026-08-19 | 4 |
-| [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,544 | 2026-08-04 | 3 |
+| [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,562 | 2026-08-04 | 4 |
 | [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 12,972 | 2026-08-05 | 3 |
 | [SpartnerNL/Laravel-Excel](../repos/SpartnerNL/Laravel-Excel.md) | ⭐ 12,699 | 2026-08-09 | 1 |
 | [typecho/typecho](../repos/typecho/typecho.md) | ⭐ 12,417 | 2026-08-02 | 1 |
@@ -233,4 +215,4 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.187Z*
+*Last updated: 2026-10-11T14:39:08.886Z*

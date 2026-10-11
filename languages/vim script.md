@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mhinz/vim-galore](../repos/mhinz/vim-galore.md) | ⭐ 18,015 | 2026-08-01 | 20 |
 
+*No Vim script repositories trending today*
 
 ---
 
@@ -62,4 +60,4 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.212Z*
+*Last updated: 2026-10-11T14:39:08.919Z*

@@ -1,6 +1,6 @@
 # Alishahryar1&#x2F;free-claude-code
 
-> Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+> Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Alishahryar1&#x2F;free-claude-code) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Other |
-| **Stars** | ⭐ 55,947 |
-| **Forks** | 🍴 8,951 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 57,768 |
+| **Forks** | 🍴 9,201 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Sep 25, 2026 |
+| **Last Seen** | Oct 11, 2026 |
 
 
 ---
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 4 days
 
 ---
@@ -75,7 +75,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:34.928Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-10-11T14:39:11.071Z*  
+*Data from 10 trending reports*

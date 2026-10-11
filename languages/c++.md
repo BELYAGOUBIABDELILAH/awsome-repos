@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 270
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-03
+- **Last Updated**: 2026-10-11
 
 ---
 
@@ -16,37 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 527 | 2026-08-01 | 16 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,862 | 2026-07-30 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | ⭐ 439 | 2026-08-01 | 46 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 11,694 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 30,565 | 2026-08-03 | 10 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 30,639 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/perfetto](../repos/google/perfetto.md) | ⭐ 6,619 | 2026-08-07 | 5 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,338 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kvcache-ai/Mooncake](../repos/kvcache-ai/Mooncake.md) | ⭐ 6,746 | 2026-08-15 | 5 |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 33,406 | 2026-08-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 21,577 | 2026-10-06 | 4 |
+| [dyang886/Game-Cheats-Manager](../repos/dyang886/Game-Cheats-Manager.md) | ⭐ 15,208 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DamRsn/NeuralNote](../repos/DamRsn/NeuralNote.md) | ⭐ 3,068 | 2026-10-09 | 1 |
+| [telegramdesktop/tdesktop](../repos/telegramdesktop/tdesktop.md) | ⭐ 33,198 | 2026-08-05 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,662 | 2026-08-09 | 9 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Tencent/ncnn](../repos/Tencent/ncnn.md) | ⭐ 23,934 | 2026-08-09 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 7,632 | 2026-08-10 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google-ai-edge/LiteRT-LM](../repos/google-ai-edge/LiteRT-LM.md) | ⭐ 6,614 | 2026-09-10 | LiteRT-LM is Google&#39;s production-ready, high-performance, open-source inference framework for dep... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google-ai-edge/mediapipe](../repos/google-ai-edge/mediapipe.md) | ⭐ 36,903 | 2026-09-10 | Cross-platform, customizable ML solutions for live and streaming media. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [0xShug0/audio.cpp](../repos/0xShug0/audio.cpp.md) | ⭐ 3,321 | 2026-09-12 | An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VA... |
@@ -71,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [WiVRn/WiVRn](../repos/WiVRn/WiVRn.md) | ⭐ 1,666 | 2026-09-13 | The Linux OpenXR streaming application to standalone headsets |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [AutoHotkey/AutoHotkey](../repos/AutoHotkey/AutoHotkey.md) | ⭐ 13,120 | 2026-09-13 | AutoHotkey - macro-creation and automation-oriented scripting utility for Windows. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jtenniswood/espcontrol](../repos/jtenniswood/espcontrol.md) | ⭐ 1,010 | 2026-09-14 | Esphome based smart home control panel |
 
 
 ---
@@ -79,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,675 | 2026-07-30 | 22 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,862 | 2026-07-30 | 23 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 130,537 | 2026-08-01 | 28 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | 2026-08-04 | 4 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
@@ -91,14 +100,14 @@
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,087 | 2026-08-01 | 15 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,223 | 2026-08-03 | 7 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,338 | 2026-08-03 | 8 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,360 | 2026-08-02 | 8 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,885 | 2026-08-19 | 10 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,662 | 2026-08-09 | 9 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 40,494 | 2026-08-02 | 7 |
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,335 | 2026-08-09 | 8 |
 
 ---
 
@@ -108,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 28 | ⭐ 130,537 | 2026-08-01 | 2026-10-08 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 22 | ⭐ 200,675 | 2026-07-30 | 2026-10-03 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 23 | ⭐ 200,862 | 2026-07-30 | 2026-10-11 |
 | [google/googletest](../repos/google/googletest.md) | 19 | ⭐ 39,629 | 2026-08-04 | 2026-10-06 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 16 | ⭐ 527 | 2026-08-01 | 2026-10-09 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 15 | ⭐ 72,087 | 2026-08-01 | 2026-10-02 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 14 | ⭐ 76,454 | 2026-08-08 | 2026-10-01 |
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 12 | ⭐ 11,523 | 2026-08-02 | 2026-10-03 |
-| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | 11 | ⭐ 33,251 | 2026-08-03 | 2026-10-08 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 13 | ⭐ 11,694 | 2026-08-02 | 2026-10-11 |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | 12 | ⭐ 33,406 | 2026-08-03 | 2026-10-11 |
 
 ---
 
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.145Z*
+*Last updated: 2026-10-11T14:39:08.837Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Crystal |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 1,027 |
+| **Stars** | ⭐ 1,028 |
 | **Forks** | 🍴 65 |
-| **Trending Days** | 5 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 2, 2026 |
-| **Last Seen** | Oct 9, 2026 |
+| **Last Seen** | Oct 11, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 3 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 90&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-09T21:01:37.367Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-10-11T14:39:15.494Z*  
+*Data from 6 trending reports*

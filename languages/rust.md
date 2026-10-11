@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 208
+- **Total Repositories**: 209
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-09
 
@@ -16,37 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 128,385 | 2026-08-01 | 13 |
+| [denoland/celld](../repos/denoland/celld.md) | ⭐ 5,414 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mxc](../repos/microsoft/mxc.md) | ⭐ 2,367 | 2026-08-01 | 5 |
+| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 4,092 | 2026-09-13 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 43,722 | 2026-08-02 | 10 |
+| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 16,323 | 2026-10-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 11,073 | 2026-10-06 | 4 |
+| [BrandonKowalski/slot](../repos/BrandonKowalski/slot.md) | ⭐ 115 | 2026-10-11 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [alphaXiv/OpenResearch](../repos/alphaXiv/OpenResearch.md) | ⭐ 2,474 | 2026-09-10 | Turn your coding agents into research agents |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [feigeCode/navop](../repos/feigeCode/navop.md) | ⭐ 1,709 | 2026-09-10 | A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, a... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [akitaonrails/ai-usagebar](../repos/akitaonrails/ai-usagebar.md) | ⭐ 463 | 2026-09-10 | Rust-based waybar widget to monitor status of Claude, GPT, GLM, OpenRouter plans&#x2F;credits - inspir... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ast-grep/ast-grep](../repos/ast-grep/ast-grep.md) | ⭐ 15,838 | 2026-09-10 | ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [persiyanov/herdr-reviewr](../repos/persiyanov/herdr-reviewr.md) | ⭐ 660 | 2026-09-10 | A code review + file viewer sidebar for herdr. Comment on a diff and send back to agent. Inspect ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [teamclouday/AndroidMic](../repos/teamclouday/AndroidMic.md) | ⭐ 1,632 | 2026-09-12 | Use your Android phone as a microphone for your PC |
@@ -58,10 +43,25 @@
 | [Stremio/stremio-core](../repos/Stremio/stremio-core.md) | ⭐ 2,377 | 2026-09-13 | ⚛️ The Stremio Core: types, addon system, UI models, core logic |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 3,958 | 2026-09-13 | A WiFi security auditing software |
+| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 4,092 | 2026-09-13 | A WiFi security auditing software |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CluvexStudio/Aether](../repos/CluvexStudio/Aether.md) | ⭐ 1,871 | 2026-09-14 | A Rust userspace WARP core for censored networks, built around MASQUE over HTTP&#x2F;3 and HTTP&#x2F;2. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [yynxxxxx/Codex-X](../repos/yynxxxxx/Codex-X.md) | ⭐ 3,851 | 2026-09-19 | OpenAI Codex 桌面端&#x2F;CLI 的可视化管理工具，具有Provider&#x2F;API 切换、会话同步、提示词注入、Skills&#x2F;MCP 管理、TOML 配置可视化的跨平台工具。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [yyjeqhc/webcodex](../repos/yyjeqhc/webcodex.md) | ⭐ 1,627 | 2026-09-19 | Give cloud AI agents a real development environment on your own machines. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [EpicGames/lore](../repos/EpicGames/lore.md) | ⭐ 8,701 | 2026-09-19 | Lore is a next-generation, open source version control system |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [EricLBuehler/mistral.rs](../repos/EricLBuehler/mistral.rs.md) | ⭐ 7,703 | 2026-09-19 | Fast, flexible LLM inference |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pandorafuture/wx-cli](../repos/pandorafuture/wx-cli.md) | ⭐ 805 | 2026-09-20 | WeChat macOS database decryption and query tool |
 
 
 ---
@@ -215,4 +215,4 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.197Z*
+*Last updated: 2026-10-11T14:39:08.900Z*

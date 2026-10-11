@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | GPL-2.0 |
-| **Stars** | ⭐ 21,577 |
-| **Forks** | 🍴 1,744 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 28,703 |
+| **Forks** | 🍴 2,442 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Oct 6, 2026 |
-| **Last Seen** | Oct 9, 2026 |
+| **Last Seen** | Oct 11, 2026 |
 
 
 ---
@@ -46,11 +46,12 @@
 **Oct 7, 2026** — Rank #3 (+2725 ⭐)  
 **Oct 8, 2026** — Rank #1 (+4640 ⭐)  
 **Oct 9, 2026** — Rank #2 (+5925 ⭐)  
+**Oct 11, 2026** — Rank #2 (+3977 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 4 days
 
 ---
@@ -87,12 +88,12 @@
 - Check similar projects in C++
 
 #### Metrics
-- **Hidden Gem**: ✓ Yes
+- **Hidden Gem**: ✗ No
 - **Trending Score**: 80&#x2F;100
 - **Historical Rank**: Reached #1
 
 
 ---
 
-*Last updated: 2026-10-09T21:01:37.385Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-10-11T14:39:15.520Z*  
+*Data from 5 trending reports*

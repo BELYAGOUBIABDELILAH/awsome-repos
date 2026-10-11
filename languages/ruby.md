@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 99
+- **Total Repositories**: 100
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-08
+- **Last Updated**: 2026-10-11
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,951 | 2026-08-01 | 35 |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,960 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 5,993 | 2026-08-01 | 23 |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,039 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,314 | 2026-08-01 | 13 |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,804 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,553 | 2026-08-01 | 14 |
+| [we-promise/sure](../repos/we-promise/sure.md) | ⭐ 10,481 | 2026-08-02 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,366 | 2026-08-01 | 35 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 58,818 | 2026-08-02 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 39,117 | 2026-08-01 | 31 |
+| [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,705 | 2026-08-03 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,685 | 2026-08-02 | 22 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,227 | 2026-08-04 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [forem/forem](../repos/forem/forem.md) | ⭐ 22,791 | 2026-08-04 | 10 |
+| [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,214 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dependabot/demo](../repos/dependabot/demo.md) | ⭐ 338 | 2026-08-12 | 6 |
+| [github/explore](../repos/github/explore.md) | ⭐ 4,908 | 2026-08-09 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [matteocrippa/awesome-swift](../repos/matteocrippa/awesome-swift.md) | ⭐ 26,314 | 2026-09-27 | 3 |
+| [greasyfork-org/greasyfork](../repos/greasyfork-org/greasyfork.md) | ⭐ 2,124 | 2026-08-10 | 5 |
 
 
 ---
@@ -88,13 +88,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rails/rails](../repos/rails/rails.md) | ⭐ 58,810 | 2026-08-02 | 36 |
-| [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,707 | 2026-08-03 | 16 |
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,020 | 2026-08-01 | 21 |
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,951 | 2026-08-01 | 35 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,205 | 2026-08-04 | 31 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 58,818 | 2026-08-02 | 37 |
+| [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,705 | 2026-08-03 | 17 |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,039 | 2026-08-01 | 22 |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,960 | 2026-08-01 | 36 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,227 | 2026-08-04 | 32 |
 | [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 39,117 | 2026-08-01 | 31 |
-| [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,211 | 2026-08-05 | 4 |
+| [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,214 | 2026-08-05 | 5 |
 | [matteocrippa/awesome-swift](../repos/matteocrippa/awesome-swift.md) | ⭐ 26,314 | 2026-09-27 | 3 |
 | [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,553 | 2026-08-01 | 14 |
 | [heartcombo/devise](../repos/heartcombo/devise.md) | ⭐ 24,356 | 2026-09-08 | 2 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [rails/rails](../repos/rails/rails.md) | 36 | ⭐ 58,810 | 2026-08-02 | 2026-10-08 |
-| [discourse/discourse](../repos/discourse/discourse.md) | 35 | ⭐ 47,951 | 2026-08-01 | 2026-10-09 |
+| [rails/rails](../repos/rails/rails.md) | 37 | ⭐ 58,818 | 2026-08-02 | 2026-10-11 |
+| [discourse/discourse](../repos/discourse/discourse.md) | 36 | ⭐ 47,960 | 2026-08-01 | 2026-10-11 |
 | [opf/openproject](../repos/opf/openproject.md) | 35 | ⭐ 16,366 | 2026-08-01 | 2026-10-09 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 32 | ⭐ 42,227 | 2026-08-04 | 2026-10-11 |
 | [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | 31 | ⭐ 39,117 | 2026-08-01 | 2026-10-09 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 31 | ⭐ 42,205 | 2026-08-04 | 2026-10-06 |
+| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 28 | ⭐ 5,804 | 2026-08-01 | 2026-10-11 |
 | [ruby/ruby](../repos/ruby/ruby.md) | 27 | ⭐ 23,773 | 2026-08-01 | 2026-10-08 |
 | [spree/spree](../repos/spree/spree.md) | 27 | ⭐ 15,735 | 2026-08-01 | 2026-09-28 |
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 27 | ⭐ 5,801 | 2026-08-01 | 2026-10-08 |
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 27 | ⭐ 1,074 | 2026-08-01 | 2026-10-03 |
-| [we-promise/sure](../repos/we-promise/sure.md) | 26 | ⭐ 10,371 | 2026-08-02 | 2026-10-02 |
+| [we-promise/sure](../repos/we-promise/sure.md) | 27 | ⭐ 10,481 | 2026-08-02 | 2026-10-11 |
 
 ---
 
@@ -229,7 +229,8 @@
 - [fluent/fluentd](../repos/fluent/fluentd.md) - Fluentd: Unified Logging Layer (project under CNCF)
 - [puppetlabs/puppet](../repos/puppetlabs/puppet.md) - Server automation framework and application
 - [swombat/souls-house](../repos/swombat/souls-house.md) - A platform for hosting persistent AI agents that live, rather than stateless assistants that wake...
+- [jwt/ruby-jwt](../repos/jwt/ruby-jwt.md) - A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.195Z*
+*Last updated: 2026-10-11T14:39:08.898Z*

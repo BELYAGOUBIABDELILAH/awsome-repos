@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | Other |
-| **Stars** | ⭐ 15,706 |
-| **Forks** | 🍴 2,673 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 15,843 |
+| **Forks** | 🍴 2,698 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 15, 2026 |
-| **Last Seen** | Oct 7, 2026 |
+| **Last Seen** | Oct 11, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 2 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:36.007Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-10-11T14:39:12.656Z*  
+*Data from 8 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 128
+- **Total Repositories**: 129
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-02
 
@@ -16,43 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 2,995 | 2026-08-01 | 7 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,527 | 2026-08-17 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,065 | 2026-08-01 | 18 |
+| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,901 | 2026-08-24 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,130 | 2026-08-03 | 4 |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 6,737 | 2026-09-21 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,323 | 2026-08-11 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 21,858 | 2026-08-12 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,888 | 2026-08-24 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cshariq/Sapphire](../repos/cshariq/Sapphire.md) | ⭐ 285 | 2026-09-02 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [PlayCover/PlayCover](../repos/PlayCover/PlayCover.md) | ⭐ 11,892 | 2026-09-07 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [iFurySt/open-codex-computer-use](../repos/iFurySt/open-codex-computer-use.md) | ⭐ 2,368 | 2026-09-09 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [scholay/rimes](../repos/scholay/rimes.md) | ⭐ 981 | 2026-10-08 | 2 |
+| [bobsupra/NuvioTVOS](../repos/bobsupra/NuvioTVOS.md) | ⭐ 278 | 2026-10-11 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](../repos/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring.md) | ⭐ 9,173 | 2026-09-10 | Menubar Tool to set Charge Limits and Prolong Battery Lifespan |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [samhenrigold/LidAngleSensor](../repos/samhenrigold/LidAngleSensor.md) | ⭐ 4,218 | 2026-09-12 | tfw when you when your lid when uhh angle your lid sensor |
@@ -80,6 +59,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 516 | 2026-09-21 | Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH,... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 6,737 | 2026-09-21 | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. |
 
 
 ---
@@ -104,9 +86,9 @@
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,130 | 2026-08-03 | 4 |
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,951 | 2026-08-04 | 16 |
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,888 | 2026-08-24 | 9 |
+| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,901 | 2026-08-24 | 10 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,527 | 2026-08-17 | 8 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,482 | 2026-08-08 | 8 |
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,327 | 2026-08-17 | 7 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | 2026-08-01 | 3 |
 
 ---
@@ -233,4 +215,4 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.203Z*
+*Last updated: 2026-10-11T14:39:08.908Z*

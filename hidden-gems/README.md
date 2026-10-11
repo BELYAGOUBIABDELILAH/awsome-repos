@@ -7,31 +7,11 @@
 ## All Time
 
 **Period**: Beginning to Present  
-**Gems Found**: 1151
+**Gems Found**: 1168
 
 ---
 
-### 1. [harry7557558&#x2F;spirula-studio](../../repos/harry7557558/spirula-studio.md)
-
-**Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,024 |
-| 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 97/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 3, 2026 |
-
-**Why it's a gem**: High growth velocity (+97 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/harry7557558/spirula-studio.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;harry7557558&#x2F;spirula-studio)
-
----
-
-### 2. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
+### 1. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
 
 **A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
 
@@ -51,23 +31,43 @@
 
 ---
 
-### 3. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
+### 2. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
 
 **An offline-first photo manager for large local libraries**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,770 |
+| ⭐ **Stars** | 3,811 |
 | 💻 **Language** | Vue |
 | 🏆 **Gem Score** | 96/100 |
-| 📈 **Trending Days** | 24 |
+| 📈 **Trending Days** | 25 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+65 stars&#x2F;day) • Trending 24 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+64 stars&#x2F;day) • Trending 25 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
 [View Passport](../../repos/julyx10/lap.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;julyx10&#x2F;lap)
+
+---
+
+### 3. [harry7557558&#x2F;spirula-studio](../../repos/harry7557558/spirula-studio.md)
+
+**Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,024 |
+| 💻 **Language** | C++ |
+| 🏆 **Gem Score** | 96/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 3, 2026 |
+
+**Why it's a gem**: High growth velocity (+97 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/harry7557558/spirula-studio.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;harry7557558&#x2F;spirula-studio)
 
 ---
 
@@ -91,27 +91,7 @@
 
 ---
 
-### 5. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
-
-**Vivi-Music is an expressive Material 3–based YouTube Music client for Android.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,394 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 95/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+64 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/vivizzz007/vivi-music.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;vivizzz007&#x2F;vivi-music)
-
----
-
-### 6. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
+### 5. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
 
 **OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
 
@@ -131,27 +111,27 @@
 
 ---
 
-### 7. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
+### 6. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
 
-**Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras**
+**Vivi-Music is an expressive Material 3–based YouTube Music client for Android.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,278 |
+| ⭐ **Stars** | 3,394 |
 | 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 95/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Oct 6, 2026 |
+| 🏆 **Gem Score** | 94/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+177 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+64 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/PimpinPumpkin/Vela.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PimpinPumpkin&#x2F;Vela)
+[View Passport](../../repos/vivizzz007/vivi-music.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;vivizzz007&#x2F;vivi-music)
 
 ---
 
-### 8. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 7. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
 **ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
@@ -171,7 +151,7 @@
 
 ---
 
-### 9. [melgarafael&#x2F;DeskcommCRM](../../repos/melgarafael/DeskcommCRM.md)
+### 8. [melgarafael&#x2F;DeskcommCRM](../../repos/melgarafael/DeskcommCRM.md)
 
 **Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.**
 
@@ -191,27 +171,7 @@
 
 ---
 
-### 10. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
-
-**Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,477 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 11, 2026 |
-
-**Why it's a gem**: High growth velocity (+423 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/macro-inc/macro.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;macro-inc&#x2F;macro)
-
----
-
-### 11. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
+### 9. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
 
 **UI montion AI agent, a library of 43+ crafted transitions, a skill that fits your workflow.**
 
@@ -231,27 +191,7 @@
 
 ---
 
-### 12. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
-
-**🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24&#x2F;7. Works with FREE Gemini API or OpenAI. No coding required!**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,873 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 14, 2026 |
-
-**Why it's a gem**: High growth velocity (+65 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/darkzOGx/youtube-automation-agent.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;darkzOGx&#x2F;youtube-automation-agent)
-
----
-
-### 13. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
+### 10. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
 
 **Bonsai Demo**
 
@@ -263,7 +203,7 @@
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 15, 2026 |
 
-**Why it's a gem**: High growth velocity (+120 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+120 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -271,7 +211,7 @@
 
 ---
 
-### 14. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
+### 11. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
 
 **Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
 
@@ -288,6 +228,66 @@
 **Best for**: 
 
 [View Passport](../../repos/mvschwarz/openrig.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mvschwarz&#x2F;openrig)
+
+---
+
+### 12. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
+
+**Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,278 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 94/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Oct 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+177 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/PimpinPumpkin/Vela.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PimpinPumpkin&#x2F;Vela)
+
+---
+
+### 13. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
+
+**Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,477 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 93/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 11, 2026 |
+
+**Why it's a gem**: High growth velocity (+423 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/macro-inc/macro.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;macro-inc&#x2F;macro)
+
+---
+
+### 14. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
+
+**🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24&#x2F;7. Works with FREE Gemini API or OpenAI. No coding required!**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,873 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 93/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 14, 2026 |
+
+**Why it's a gem**: High growth velocity (+65 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/darkzOGx/youtube-automation-agent.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;darkzOGx&#x2F;youtube-automation-agent)
 
 ---
 
@@ -311,47 +311,7 @@
 
 ---
 
-### 16. [google&#x2F;sam](../../repos/google/sam.md)
-
-**SAM Sovereign Agent Mesh**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 659 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 19, 2026 |
-
-**Why it's a gem**: High growth velocity (+73 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/google/sam.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;google&#x2F;sam)
-
----
-
-### 17. [microsoft&#x2F;mxc](../../repos/microsoft/mxc.md)
-
-**Policy-driven, layered isolation and containment **
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,367 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+159 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/microsoft/mxc.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;mxc)
-
----
-
-### 18. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
+### 16. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
 
 **Open source factory for one-shot engineering**
 
@@ -371,43 +331,83 @@
 
 ---
 
-### 19. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
+### 17. [google&#x2F;sam](../../repos/google/sam.md)
 
-**Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.**
+**SAM Sovereign Agent Mesh**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8,023 |
-| 💻 **Language** | Python |
+| ⭐ **Stars** | 659 |
+| 💻 **Language** | Go |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 15, 2026 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+268 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+73 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/MakazhanAlpamys/Soup.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;MakazhanAlpamys&#x2F;Soup)
+[View Passport](../../repos/google/sam.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;google&#x2F;sam)
 
 ---
 
-### 20. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+### 18. [ashhart&#x2F;TensorFold](../../repos/ashhart/TensorFold.md)
 
-**A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
+**LLM Inference Engine for Metal, CUDA and Vulkan.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,808 |
-| 💻 **Language** | C++ |
+| ⭐ **Stars** | 1,245 |
+| 💻 **Language** | Zig |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 28, 2026 |
+
+**Why it's a gem**: High growth velocity (+88 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/ashhart/TensorFold.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ashhart&#x2F;TensorFold)
+
+---
+
+### 19. [YuKongA&#x2F;ghostlock-app](../../repos/YuKongA/ghostlock-app.md)
+
+**GhostLock One-Tap Execution App (CVE-2026-43499)**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,800 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Oct 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+57 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/YuKongA/ghostlock-app.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;YuKongA&#x2F;ghostlock-app)
+
+---
+
+### 20. [microsoft&#x2F;mxc](../../repos/microsoft/mxc.md)
+
+**Policy-driven, layered isolation and containment **
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,367 |
+| 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 90/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 1, 2026 |
 
-**Why it's a gem**: High growth velocity (+61 stars&#x2F;day) • Trending 5 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+159 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/geo-tp/ESP32-Bit-Pirate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;geo-tp&#x2F;ESP32-Bit-Pirate)
+[View Passport](../../repos/microsoft/mxc.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;mxc)
 
 ---
 
@@ -451,27 +451,7 @@
 
 ---
 
-### 23. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
-
-**ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,808 |
-| 💻 **Language** | CSS |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 18 |
-| 📅 **First Seen** | Aug 10, 2026 |
-
-**Why it's a gem**: High growth velocity (+71 stars&#x2F;day) • Trending 18 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/XiaomingX/ai-money-maker-handbook.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;XiaomingX&#x2F;ai-money-maker-handbook)
-
----
-
-### 24. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
+### 23. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
 **Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
@@ -488,6 +468,26 @@
 **Best for**: 
 
 [View Passport](../../repos/pacifio/atlas.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas)
+
+---
+
+### 24. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
+
+**Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 8,023 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 15, 2026 |
+
+**Why it's a gem**: High growth velocity (+268 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/MakazhanAlpamys/Soup.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;MakazhanAlpamys&#x2F;Soup)
 
 ---
 
@@ -551,27 +551,7 @@
 
 ---
 
-### 28. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
-
-**Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 8,842 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 29, 2026 |
-
-**Why it's a gem**: High growth velocity (+198 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/OpenWhispr/openwhispr.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;OpenWhispr&#x2F;openwhispr)
-
----
-
-### 29. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
+### 28. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
 
 **Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT**
 
@@ -591,23 +571,43 @@
 
 ---
 
-### 30. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+### 29. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
 
-**Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
+**Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,605 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 4, 2026 |
+| ⭐ **Stars** | 5,739 |
+| 💻 **Language** | C++ |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Sep 21, 2026 |
 
-**Why it's a gem**: High growth velocity (+658 stars&#x2F;day) • Trending 6 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+71 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
+[View Passport](../../repos/mg-chao/snow-apps.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mg-chao&#x2F;snow-apps)
+
+---
+
+### 30. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+
+**A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,808 |
+| 💻 **Language** | C++ |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+61 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/geo-tp/ESP32-Bit-Pirate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;geo-tp&#x2F;ESP32-Bit-Pirate)
 
 ---
 
@@ -627,5 +627,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-09T21:01:37.643Z*  
+*Generated: 2026-10-11T14:39:15.873Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

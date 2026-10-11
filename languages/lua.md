@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 113
+- **Total Repositories**: 116
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,255 | 2026-08-01 | 26 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 30,234 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 296 | 2026-08-01 | 36 |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 297 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,788 | 2026-08-01 | 17 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,823 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [id577/FS25_AdvancedDamageSystem](../repos/id577/FS25_AdvancedDamageSystem.md) | ⭐ 286 | 2026-08-02 | 13 |
+| [id577/FS25_AdvancedDamageSystem](../repos/id577/FS25_AdvancedDamageSystem.md) | ⭐ 290 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Stephan-S/FS25_AutoDrive](../repos/Stephan-S/FS25_AutoDrive.md) | ⭐ 669 | 2026-08-02 | 9 |
+| [Courseplay/Courseplay_FS25](../repos/Courseplay/Courseplay_FS25.md) | ⭐ 926 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Courseplay/Courseplay_FS25](../repos/Courseplay/Courseplay_FS25.md) | ⭐ 924 | 2026-08-02 | 7 |
+| [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) | ⭐ 4,269 | 2026-08-03 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) | ⭐ 4,265 | 2026-08-03 | 19 |
+| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 19,716 | 2026-08-03 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 19,681 | 2026-08-03 | 21 |
+| [PathOfBuildingCommunity/PathOfBuilding](../repos/PathOfBuildingCommunity/PathOfBuilding.md) | ⭐ 5,464 | 2026-08-09 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | ⭐ 5,150 | 2026-08-04 | 13 |
+| [FrSkyRC/ETHOS-Feedback-Community](../repos/FrSkyRC/ETHOS-Feedback-Community.md) | ⭐ 252 | 2026-08-20 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvim-tree/nvim-tree.lua](../repos/nvim-tree/nvim-tree.lua.md) | ⭐ 8,655 | 2026-08-05 | 5 |
+| [xhcherry/GTA5-Stand-LuaAIO](../repos/xhcherry/GTA5-Stand-LuaAIO.md) | ⭐ 768 | 2026-08-28 | 3 |
 
 
 ---
@@ -90,13 +90,13 @@
 |------------|-------|------------|---------------|
 | [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,255 | 2026-08-01 | 26 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,557 | 2026-08-04 | 33 |
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 30,080 | 2026-08-01 | 34 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 30,234 | 2026-08-01 | 35 |
 | [NvChad/NvChad](../repos/NvChad/NvChad.md) | ⭐ 28,507 | 2026-10-01 | 2 |
 | [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) | ⭐ 28,218 | 2026-08-01 | 2 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,597 | 2026-08-04 | 25 |
 | [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,602 | 2026-08-06 | 8 |
 | [nvim-telescope/telescope.nvim](../repos/nvim-telescope/telescope.nvim.md) | ⭐ 19,811 | 2026-08-11 | 15 |
-| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 19,681 | 2026-08-03 | 21 |
+| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 19,716 | 2026-08-03 | 22 |
 | [yetone/avante.nvim](../repos/yetone/avante.nvim.md) | ⭐ 18,120 | 2026-08-03 | 5 |
 | [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,187 | 2026-08-01 | 16 |
 | [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,248 | 2026-08-04 | 14 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 36 | ⭐ 296 | 2026-08-01 | 2026-10-09 |
-| [koreader/koreader](../repos/koreader/koreader.md) | 34 | ⭐ 30,080 | 2026-08-01 | 2026-10-03 |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 37 | ⭐ 297 | 2026-08-01 | 2026-10-11 |
+| [koreader/koreader](../repos/koreader/koreader.md) | 35 | ⭐ 30,234 | 2026-08-01 | 2026-10-11 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 33 | ⭐ 31,557 | 2026-08-04 | 2026-10-08 |
 | [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 26 | ⭐ 1,024 | 2026-08-01 | 2026-10-07 |
 | [Kong/kong](../repos/Kong/kong.md) | 26 | ⭐ 44,255 | 2026-08-01 | 2026-10-09 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | 25 | ⭐ 27,597 | 2026-08-04 | 2026-10-03 |
-| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 21 | ⭐ 19,681 | 2026-08-03 | 2026-10-09 |
-| [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) | 19 | ⭐ 4,265 | 2026-08-03 | 2026-10-09 |
+| [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 22 | ⭐ 19,716 | 2026-08-03 | 2026-10-11 |
+| [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) | 20 | ⭐ 4,269 | 2026-08-03 | 2026-10-11 |
 | [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | 19 | ⭐ 8,129 | 2026-08-08 | 2026-10-06 |
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | 17 | ⭐ 4,788 | 2026-08-01 | 2026-10-09 |
+| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | 18 | ⭐ 4,823 | 2026-08-01 | 2026-10-11 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.176Z*
+*Last updated: 2026-10-11T14:39:08.875Z*

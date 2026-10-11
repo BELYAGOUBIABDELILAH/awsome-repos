@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 279
+- **Total Repositories**: 280
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-25
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 48,163 | 2026-08-03 | 11 |
+| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 104,316 | 2026-07-30 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hugohe3/ppt-master](../repos/hugohe3/ppt-master.md) | ⭐ 58,702 | 2026-08-12 | 3 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,507 | 2026-07-31 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bojieli/ai-agent-book](../repos/bojieli/ai-agent-book.md) | ⭐ 53,185 | 2026-08-19 | 2 |
+| [microsoft/TRELLIS.2](../repos/microsoft/TRELLIS.2.md) | ⭐ 11,829 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [datawhalechina/hello-agents](../repos/datawhalechina/hello-agents.md) | ⭐ 82,247 | 2026-09-02 | 4 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 57,768 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 28,173 | 2026-09-19 | 5 |
+| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 141,240 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Robbyant/lingbot-map](../repos/Robbyant/lingbot-map.md) | ⭐ 17,653 | 2026-10-09 | 1 |
+| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 76,854 | 2026-08-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent-Hunyuan/Hy-MT2](../repos/Tencent-Hunyuan/Hy-MT2.md) | ⭐ 1,185 | 2026-10-09 | 1 |
+| [hugohe3/ppt-master](../repos/hugohe3/ppt-master.md) | ⭐ 60,166 | 2026-08-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 74,834 | 2026-10-09 | 1 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 58,131 | 2026-08-22 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hiroi-sora/Umi-OCR](../repos/hiroi-sora/Umi-OCR.md) | ⭐ 47,729 | 2026-10-09 | 1 |
+| [datawhalechina/hello-agents](../repos/datawhalechina/hello-agents.md) | ⭐ 82,544 | 2026-09-02 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [sgl-project/sglang](../repos/sgl-project/sglang.md) | ⭐ 36,986 | 2026-09-04 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jiji262/douyin-downloader](../repos/jiji262/douyin-downloader.md) | ⭐ 11,707 | 2026-09-10 | A practical Douyin downloader for both single-item and profile batch downloads, with progress dis... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [gpustack/gpustack](../repos/gpustack/gpustack.md) | ⭐ 5,658 | 2026-09-10 | A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-acce... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ultralytics/ultralytics](../repos/ultralytics/ultralytics.md) | ⭐ 61,481 | 2026-09-10 | Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentati... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google-deepmind/alphagenome](../repos/google-deepmind/alphagenome.md) | ⭐ 2,080 | 2026-09-10 | This API provides programmatic access to the AlphaGenome model developed by Google DeepMind. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SnailSploit/Claude-Red](../repos/SnailSploit/Claude-Red.md) | ⭐ 4,659 | 2026-09-12 | claude-red is a curated library of offensive security skills designed for the Claude skills syste... |
@@ -77,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [simonlin1212/TradingAgents-astock](../repos/simonlin1212/TradingAgents-astock.md) | ⭐ 3,302 | 2026-09-13 | A股多Agent投研框架 — 适配A股数据源(龙虎榜&#x2F;游资&#x2F;解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rlaope/oh-my-hermes](../repos/rlaope/oh-my-hermes.md) | ⭐ 1,971 | 2026-09-14 | All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [OpenBMB/VoxCPM](../repos/OpenBMB/VoxCPM.md) | ⭐ 37,320 | 2026-09-14 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [searxng/searxng](../repos/searxng/searxng.md) | ⭐ 37,067 | 2026-09-14 | SearXNG is a free internet metasearch engine which aggregates results from various search service... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dgtlmoon/changedetection.io](../repos/dgtlmoon/changedetection.io.md) | ⭐ 34,117 | 2026-09-14 | Best and simplest tool for website change detection, web page monitoring, and website change aler... |
 
 
 ---
@@ -94,8 +97,8 @@
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | 2026-09-07 | 3 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,465 | 2026-08-06 | 8 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 165,921 | 2026-07-31 | 7 |
-| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 140,508 | 2026-08-04 | 5 |
+| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,507 | 2026-07-31 | 8 |
+| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 141,240 | 2026-08-04 | 6 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 131,932 | 2026-08-05 | 8 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 127,927 | 2026-08-01 | 14 |
@@ -103,7 +106,7 @@
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 114,356 | 2026-08-03 | 5 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 106,016 | 2026-08-08 | 10 |
-| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 103,415 | 2026-07-30 | 4 |
+| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 104,316 | 2026-07-30 | 5 |
 | [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 92,978 | 2026-08-10 | 6 |
 
 ---
@@ -115,13 +118,13 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 14 | ⭐ 127,927 | 2026-08-01 | 2026-10-01 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 13 | ⭐ 51,295 | 2026-08-22 | 2026-10-01 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 14 | ⭐ 58,131 | 2026-08-22 | 2026-10-11 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 11 | ⭐ 92,571 | 2026-08-01 | 2026-10-06 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 11 | ⭐ 48,163 | 2026-08-03 | 2026-10-09 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 11 | ⭐ 40,107 | 2026-08-03 | 2026-10-02 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 10 | ⭐ 57,768 | 2026-08-03 | 2026-10-11 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 10 | ⭐ 106,016 | 2026-08-08 | 2026-09-14 |
 | [cactus-compute/needle](../repos/cactus-compute/needle.md) | 10 | ⭐ 12,523 | 2026-08-11 | 2026-09-24 |
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | 9 | ⭐ 1,384 | 2026-08-01 | 2026-08-28 |
 
 ---
 
@@ -162,7 +165,7 @@
 - [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) - A Patch for GIMP 3+ for Photoshop Users
 - [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...
 - [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) - Kronos: A Foundation Model for the Language of Financial Markets
-- [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) fro...
+- [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tok...
 - [livekit/agents](../repos/livekit/agents.md) - A framework for building realtime voice AI agents 🤖🎙️📹 
 - [comet-ml/opik](../repos/comet-ml/opik.md) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with compr...
 - [jamwithai/production-agentic-rag-course](../repos/jamwithai/production-agentic-rag-course.md) - 
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.192Z*
+*Last updated: 2026-10-11T14:39:08.893Z*

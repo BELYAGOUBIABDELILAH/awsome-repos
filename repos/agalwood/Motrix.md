@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Other |
-| **Stars** | ⭐ 54,244 |
-| **Forks** | 🍴 4,977 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 56,458 |
+| **Forks** | 🍴 5,060 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #8 |
 
 | **First Seen** | Aug 17, 2026 |
-| **Last Seen** | Aug 21, 2026 |
+| **Last Seen** | Oct 11, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #8
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 3 days
 
 ---
@@ -56,7 +56,7 @@
 ## Categories
 
 ### Topics
-[`aria2`](../../topics/aria2.md) [`bittorrent`](../../topics/bittorrent.md) [`bt`](../../topics/bt.md) [`download`](../../topics/download.md) [`download-manager`](../../topics/download-manager.md) [`electron`](../../topics/electron.md) [`linux`](../../topics/linux.md) [`mac`](../../topics/mac.md) [`macos`](../../topics/macos.md) [`magnet`](../../topics/magnet.md) [`motrix`](../../topics/motrix.md) [`torrent`](../../topics/torrent.md) [`windows`](../../topics/windows.md) 
+[`aria2`](../../topics/aria2.md) [`bt`](../../topics/bt.md) [`download`](../../topics/download.md) [`electron`](../../topics/electron.md) [`linux`](../../topics/linux.md) [`mac`](../../topics/mac.md) [`macos`](../../topics/macos.md) [`magnet`](../../topics/magnet.md) [`motrix`](../../topics/motrix.md) [`torrent`](../../topics/torrent.md) [`windows`](../../topics/windows.md) 
 
 ### Curated Categories
 `Systems Programming` 
@@ -73,7 +73,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -86,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 75&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: Top 10 (Peak: #8)
 
 
 ---
 
-*Last updated: 2026-10-09T21:01:36.097Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-10-11T14:39:13.195Z*  
+*Data from 5 trending reports*

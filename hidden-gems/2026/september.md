@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 506
+**Gems Found**: 496
 
 ---
 
@@ -19,7 +19,7 @@
 |---|---|
 | ⭐ **Stars** | 1,024 |
 | 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 97/100 |
+| 🏆 **Gem Score** | 96/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Sep 3, 2026 |
 
@@ -39,7 +39,7 @@
 |---|---|
 | ⭐ **Stars** | 3,394 |
 | 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 95/100 |
+| 🏆 **Gem Score** | 94/100 |
 | 📈 **Trending Days** | 8 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
@@ -71,47 +71,7 @@
 
 ---
 
-### 4. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
-
-**Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,477 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 11, 2026 |
-
-**Why it's a gem**: High growth velocity (+423 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/macro-inc/macro.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;macro-inc&#x2F;macro)
-
----
-
-### 5. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
-
-**🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24&#x2F;7. Works with FREE Gemini API or OpenAI. No coding required!**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,873 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 14, 2026 |
-
-**Why it's a gem**: High growth velocity (+65 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/darkzOGx/youtube-automation-agent.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;darkzOGx&#x2F;youtube-automation-agent)
-
----
-
-### 6. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
+### 4. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
 
 **Bonsai Demo**
 
@@ -123,7 +83,7 @@
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 15, 2026 |
 
-**Why it's a gem**: High growth velocity (+120 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+120 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -131,27 +91,47 @@
 
 ---
 
-### 7. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+### 5. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
 
-**A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
+**Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,808 |
-| 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 90/100 |
+| ⭐ **Stars** | 4,477 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 93/100 |
 | 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| 📅 **First Seen** | Aug 11, 2026 |
 
-**Why it's a gem**: High growth velocity (+61 stars&#x2F;day) • Trending 5 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+423 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/geo-tp/ESP32-Bit-Pirate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;geo-tp&#x2F;ESP32-Bit-Pirate)
+[View Passport](../../repos/macro-inc/macro.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;macro-inc&#x2F;macro)
 
 ---
 
-### 8. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
+### 6. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
+
+**🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24&#x2F;7. Works with FREE Gemini API or OpenAI. No coding required!**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,873 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 93/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 14, 2026 |
+
+**Why it's a gem**: High growth velocity (+65 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/darkzOGx/youtube-automation-agent.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;darkzOGx&#x2F;youtube-automation-agent)
+
+---
+
+### 7. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
 **Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
@@ -171,7 +151,7 @@
 
 ---
 
-### 9. [apache&#x2F;maka](../../repos/apache/maka.md)
+### 8. [apache&#x2F;maka](../../repos/apache/maka.md)
 
 **Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
 
@@ -191,47 +171,27 @@
 
 ---
 
-### 10. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+### 9. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
 
-**Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 8,842 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 29, 2026 |
-
-**Why it's a gem**: High growth velocity (+198 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/OpenWhispr/openwhispr.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;OpenWhispr&#x2F;openwhispr)
-
----
-
-### 11. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
-
-**Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
+**A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,605 |
-| 💻 **Language** | Python |
+| ⭐ **Stars** | 5,808 |
+| 💻 **Language** | C++ |
 | 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 4, 2026 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 1, 2026 |
 
-**Why it's a gem**: High growth velocity (+658 stars&#x2F;day) • Trending 6 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+61 stars&#x2F;day) • Trending 5 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
+[View Passport](../../repos/geo-tp/ESP32-Bit-Pirate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;geo-tp&#x2F;ESP32-Bit-Pirate)
 
 ---
 
-### 12. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 10. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
 **Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
@@ -251,7 +211,7 @@
 
 ---
 
-### 13. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+### 11. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
 
 **Native GUI for Homebrew Casks**
 
@@ -268,6 +228,46 @@
 **Best for**: 
 
 [View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
+
+---
+
+### 12. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+
+**Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 8,842 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 29, 2026 |
+
+**Why it's a gem**: High growth velocity (+198 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/OpenWhispr/openwhispr.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;OpenWhispr&#x2F;openwhispr)
+
+---
+
+### 13. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+
+**Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,605 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+658 stars&#x2F;day) • Trending 6 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
 
 ---
 
@@ -291,27 +291,7 @@
 
 ---
 
-### 15. [TNT-Likely&#x2F;PanWatch](../../repos/TNT-Likely/PanWatch.md)
-
-**盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股&#x2F;港股&#x2F;美股实时监控、持仓管理、智能分析、全渠道推送**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,761 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Sep 21, 2026 |
-
-**Why it's a gem**: High growth velocity (+202 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/TNT-Likely/PanWatch.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;TNT-Likely&#x2F;PanWatch)
-
----
-
-### 16. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
+### 15. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
 
 **The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
 
@@ -331,27 +311,7 @@
 
 ---
 
-### 17. [chuspeeism&#x2F;dashi-ppt-skill](../../repos/chuspeeism/dashi-ppt-skill.md)
-
-**An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 8,880 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+125 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/chuspeeism/dashi-ppt-skill.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chuspeeism&#x2F;dashi-ppt-skill)
-
----
-
-### 18. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
+### 16. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
 
 **A framework for building agentic apps**
 
@@ -363,7 +323,7 @@
 | 📈 **Trending Days** | 4 |
 | 📅 **First Seen** | Sep 12, 2026 |
 
-**Why it's a gem**: High growth velocity (+531 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+531 stars&#x2F;day) • Trending 4 times • Strong community engagement
 
 **Best for**: 
 
@@ -371,7 +331,7 @@
 
 ---
 
-### 19. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
+### 17. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
 
 **Give cloud AI agents a real development environment on your own machines.**
 
@@ -391,7 +351,27 @@
 
 ---
 
-### 20. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
+### 18. [TNT-Likely&#x2F;PanWatch](../../repos/TNT-Likely/PanWatch.md)
+
+**盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股&#x2F;港股&#x2F;美股实时监控、持仓管理、智能分析、全渠道推送**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,761 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 21, 2026 |
+
+**Why it's a gem**: High growth velocity (+202 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/TNT-Likely/PanWatch.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;TNT-Likely&#x2F;PanWatch)
+
+---
+
+### 19. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
 
 **The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [chuspeeism&#x2F;dashi-ppt-skill](../../repos/chuspeeism/dashi-ppt-skill.md)
+
+**An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 8,880 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 86/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+125 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/chuspeeism/dashi-ppt-skill.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chuspeeism&#x2F;dashi-ppt-skill)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-09T21:01:37.622Z*  
+*Generated: 2026-10-11T14:39:15.856Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

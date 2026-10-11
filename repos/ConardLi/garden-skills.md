@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | CSS |
 | **License** | MIT |
-| **Stars** | ⭐ 12,711 |
-| **Forks** | 🍴 1,525 |
-| **Trending Days** | 21 |
+| **Stars** | ⭐ 12,823 |
+| **Forks** | 🍴 1,538 |
+| **Trending Days** | 22 |
 | **Peak Rank** | #11 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 1, 2026 |
+| **Last Seen** | Oct 11, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #11
-- **Trending Days**: 21
+- **Trending Days**: 22
 - **Longest Streak**: 5 days
 
 ---
@@ -74,7 +74,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:34.878Z*  
-*Data from 21 trending reports*
+*Last updated: 2026-10-11T14:39:11.013Z*  
+*Data from 22 trending reports*

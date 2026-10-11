@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 132
+- **Total Repositories**: 133
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bats-core/bats-core](../repos/bats-core/bats-core.md) | ⭐ 6,309 | 2026-08-03 | 5 |
+| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 6,939 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,630 | 2026-08-04 | 7 |
+| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,976 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,710 | 2026-08-04 | 6 |
+| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 19,344 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nyldn/claude-octopus](../repos/nyldn/claude-octopus.md) | ⭐ 4,194 | 2026-08-06 | 6 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 44,562 | 2026-08-29 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,683 | 2026-08-07 | 27 |
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,803 | 2026-09-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,956 | 2026-08-07 | 8 |
+| [omacom/omarchy-pkgs](../repos/omacom/omarchy-pkgs.md) | ⭐ 136 | 2026-09-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 7,740 | 2026-08-12 | 18 |
+| [Mr-MIBonk/M.I.B._More-Incredible-Bash](../repos/Mr-MIBonk/M.I.B._More-Incredible-Bash.md) | ⭐ 1,135 | 2026-09-20 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,792 | 2026-09-01 | 4 |
+| [fscarmen/sing-box](../repos/fscarmen/sing-box.md) | ⭐ 5,785 | 2026-09-21 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,703 | 2026-09-02 | 3 |
+| [kejilion/sh](../repos/kejilion/sh.md) | ⭐ 3,401 | 2026-09-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [conda-forge/miniforge](../repos/conda-forge/miniforge.md) | ⭐ 10,253 | 2026-10-09 | 1 |
+| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 468 | 2026-10-11 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [gnzsnz/ib-gateway-docker](../repos/gnzsnz/ib-gateway-docker.md) | ⭐ 1,216 | 2026-09-10 | Docker image with IB Gateway&#x2F;TWS and IBC  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](../repos/FiorenMas/Revanced-And-Revanced-Extended-Non-Root.md) | ⭐ 2,694 | 2026-09-13 | Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch re... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zabbix/community-templates](../repos/zabbix/community-templates.md) | ⭐ 1,990 | 2026-09-19 | Zabbix Community Templates repository |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Mr-MIBonk/M.I.B._More-Incredible-Bash](../repos/Mr-MIBonk/M.I.B._More-Incredible-Bash.md) | ⭐ 1,135 | 2026-09-20 | M.I.B. - More Incredible Bash - The Army knife for Harman MIB 2.x aka MHI2(Q) units |
 
 
 ---
@@ -94,7 +94,7 @@
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,761 | 2026-08-04 | 10 |
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 40,042 | 2026-08-29 | 3 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 44,562 | 2026-08-29 | 4 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,442 | 2026-08-20 | 9 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
@@ -105,7 +105,7 @@
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 6 |
-| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 18,794 | 2026-08-08 | 5 |
+| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 19,344 | 2026-08-08 | 6 |
 | [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,853 | 2026-09-08 | 1 |
 | [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,451 | 2026-08-11 | 8 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.200Z*
+*Last updated: 2026-10-11T14:39:08.905Z*

@@ -16,31 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,449 | 2026-08-01 | 41 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,466 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 924 | 2026-08-01 | 35 |
+| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 565 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoftgraph/microsoft-graph-docs-contrib](../repos/microsoftgraph/microsoft-graph-docs-contrib.md) | ⭐ 149 | 2026-08-05 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,707 | 2026-08-11 | 14 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [pnp/copilot-prompts](../repos/pnp/copilot-prompts.md) | ⭐ 893 | 2026-09-04 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [microsoft/ARI](../repos/microsoft/ARI.md) | ⭐ 1,705 | 2026-10-07 | 3 |
+| [actions/python-versions](../repos/actions/python-versions.md) | ⭐ 242 | 2026-08-03 | 10 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/finops-toolkit](../repos/microsoft/finops-toolkit.md) | ⭐ 609 | 2026-09-10 | Tools and resources to help you adopt and implement FinOps capabilities that automate and extend ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/sre-agent](../repos/microsoft/sre-agent.md) | ⭐ 169 | 2026-09-22 | Azure SRE Agent is an AI-powered reliability assistant that helps teams diagnose and resolve prod... |
@@ -64,7 +52,7 @@
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,040 | 2026-08-02 | 8 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,449 | 2026-08-01 | 41 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,466 | 2026-08-01 | 42 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,073 | 2026-08-04 | 4 |
 | [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,250 | 2026-09-02 | 12 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
@@ -88,7 +76,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 41 | ⭐ 13,449 | 2026-08-01 | 2026-10-09 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 42 | ⭐ 13,466 | 2026-08-01 | 2026-10-11 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 35 | ⭐ 924 | 2026-08-01 | 2026-10-09 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 28 | ⭐ 1,648 | 2026-08-03 | 2026-10-07 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 24 | ⭐ 8,439 | 2026-08-01 | 2026-10-06 |
@@ -160,4 +148,4 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.190Z*
+*Last updated: 2026-10-11T14:39:08.890Z*

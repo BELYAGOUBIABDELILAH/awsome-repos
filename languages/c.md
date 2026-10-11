@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 215
+- **Total Repositories**: 218
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,144 | 2026-08-01 | 20 |
+| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,240 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 13,027 | 2026-08-01 | 11 |
+| [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 24,990 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 77,200 | 2026-08-02 | 16 |
+| [acidanthera/OpenCorePkg](../repos/acidanthera/OpenCorePkg.md) | ⭐ 15,521 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,734 | 2026-08-06 | 22 |
+| [rexglue/rexglue-sdk](../repos/rexglue/rexglue-sdk.md) | ⭐ 1,024 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 46,229 | 2026-08-07 | 22 |
+| [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) | ⭐ 15,843 | 2026-08-15 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,696 | 2026-08-07 | 17 |
+| [reactos/reactos](../repos/reactos/reactos.md) | ⭐ 18,179 | 2026-08-16 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EpicGames/raddebugger](../repos/EpicGames/raddebugger.md) | ⭐ 8,249 | 2026-08-08 | 11 |
+| [lyssadev/Spotilol](../repos/lyssadev/Spotilol.md) | ⭐ 527 | 2026-09-22 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [coop-deluxe/sm64coopdx](../repos/coop-deluxe/sm64coopdx.md) | ⭐ 1,405 | 2026-08-16 | 4 |
+| [tarwin/tinyjsapp](../repos/tarwin/tinyjsapp.md) | ⭐ 879 | 2026-10-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [containers/bubblewrap](../repos/containers/bubblewrap.md) | ⭐ 8,984 | 2026-08-28 | 2 |
+| [sp00nznet/ps3recomp](../repos/sp00nznet/ps3recomp.md) | ⭐ 381 | 2026-10-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WeebLabs/DSPi](../repos/WeebLabs/DSPi.md) | ⭐ 1,329 | 2026-10-08 | 2 |
+| [sp00nznet/xboxrecomp](../repos/sp00nznet/xboxrecomp.md) | ⭐ 170 | 2026-10-11 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [voidtools/voidImageViewer](../repos/voidtools/voidImageViewer.md) | ⭐ 2,347 | 2026-09-10 | Lightweight image viewer for Windows with animated GIF&#x2F;WEBP support |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [signalwire/freeswitch](../repos/signalwire/freeswitch.md) | ⭐ 5,191 | 2026-09-10 | FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprieta... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [johnfanv2/LenovoLegionLinux](../repos/johnfanv2/LenovoLegionLinux.md) | ⭐ 3,366 | 2026-09-13 | Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power m... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Rainchus/Donkey-Kong-64-Recompiled](../repos/Rainchus/Donkey-Kong-64-Recompiled.md) | ⭐ 435 | 2026-09-19 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [checkpoint-restore/criu](../repos/checkpoint-restore/criu.md) | ⭐ 3,997 | 2026-09-19 | Checkpoint&#x2F;Restore tool |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [luka-dev/mib2q-carplay-rgi](../repos/luka-dev/mib2q-carplay-rgi.md) | ⭐ 194 | 2026-09-20 | Implementation of Route Guidance from CarPlay for MHI2Q |
 
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.140Z*
+*Last updated: 2026-10-11T14:39:08.831Z*

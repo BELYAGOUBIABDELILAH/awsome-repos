@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 254
+- **Total Repositories**: 257
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,46 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apify/crawlee](../repos/apify/crawlee.md) | ⭐ 26,087 | 2026-08-10 | 2 |
+| [agalwood/Motrix](../repos/agalwood/Motrix.md) | ⭐ 56,458 | 2026-08-17 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alsk1992/CloddsBot](../repos/alsk1992/CloddsBot.md) | ⭐ 2,944 | 2026-09-10 | 5 |
+| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,140 | 2026-09-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thesysdev/openui](../repos/thesysdev/openui.md) | ⭐ 10,563 | 2026-09-13 | 2 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 90,458 | 2026-10-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 42,794 | 2026-10-06 | 4 |
+| [CopilotKit/OpenIntelligentUI](../repos/CopilotKit/OpenIntelligentUI.md) | ⭐ 2,568 | 2026-10-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Vincentwei1021/video-shotcraft](../repos/Vincentwei1021/video-shotcraft.md) | ⭐ 11,028 | 2026-10-08 | 2 |
+| [chthollyphile/folia-major](../repos/chthollyphile/folia-major.md) | ⭐ 4,849 | 2026-10-11 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [VERT-sh/VERT](../repos/VERT-sh/VERT.md) | ⭐ 15,807 | 2026-10-09 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [cartesiancs/map3d](../repos/cartesiancs/map3d.md) | ⭐ 2,571 | 2026-10-09 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [makecindy/cindy](../repos/makecindy/cindy.md) | ⭐ 2,970 | 2026-10-09 | 1 |
+| [getnao/nao](../repos/getnao/nao.md) | ⭐ 1,897 | 2026-10-11 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [alsk1992/CloddsBot](../repos/alsk1992/CloddsBot.md) | ⭐ 2,944 | 2026-09-10 | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nashsu/llm_wiki](../repos/nashsu/llm_wiki.md) | ⭐ 19,461 | 2026-09-10 | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, int... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/Ontology-Playground](../repos/microsoft/Ontology-Playground.md) | ⭐ 2,642 | 2026-09-10 | Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalo... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ahmadrosid/nakama](../repos/ahmadrosid/nakama.md) | ⭐ 359 | 2026-09-10 | It&#39;s like Hermes Agent &amp; OpenClaw but designed to work nicely with teams. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nab138/iloader](../repos/nab138/iloader.md) | ⭐ 3,310 | 2026-09-12 | User friendly sideloader |
@@ -74,6 +56,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [thesysdev/openui](../repos/thesysdev/openui.md) | ⭐ 10,563 | 2026-09-13 | The Open Standard for Generative UI |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 38,128 | 2026-09-14 | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [reconurge/flowsint](../repos/reconurge/flowsint.md) | ⭐ 9,556 | 2026-09-14 | A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecur... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NangoHQ/nango](../repos/NangoHQ/nango.md) | ⭐ 12,051 | 2026-09-14 | Build product integrations with AI. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Foundry376/Mailspring](../repos/Foundry376/Mailspring.md) | ⭐ 17,803 | 2026-09-14 | :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux. |
 
 
 ---
@@ -86,7 +80,7 @@
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 206,509 | 2026-08-11 | 6 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
-| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 154,463 | 2026-09-01 | 2 |
+| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,140 | 2026-09-01 | 3 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 149,758 | 2026-08-07 | 17 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,718 | 2026-08-02 | 5 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 135,527 | 2026-08-02 | 13 |
@@ -100,8 +94,8 @@
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 94,324 | 2026-08-02 | 8 |
 | [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 90,957 | 2026-08-22 | 3 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 90,458 | 2026-10-06 | 5 |
 | [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 88,062 | 2026-08-28 | 3 |
-| [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 87,081 | 2026-08-14 | 3 |
 
 ---
 
@@ -227,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.207Z*
+*Last updated: 2026-10-11T14:39:08.912Z*

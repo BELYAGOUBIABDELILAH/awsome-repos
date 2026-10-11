@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | LGPL-3.0 |
-| **Stars** | ⭐ 43,570 |
-| **Forks** | 🍴 9,342 |
-| **Trending Days** | 15 |
+| **Stars** | ⭐ 43,707 |
+| **Forks** | 🍴 9,380 |
+| **Trending Days** | 16 |
 | **Peak Rank** | #5 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Oct 9, 2026 |
+| **Last Seen** | Oct 11, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #5
-- **Trending Days**: 15
+- **Trending Days**: 16
 - **Longest Streak**: 5 days
 
 ---
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:35.488Z*  
-*Data from 15 trending reports*
+*Last updated: 2026-10-11T14:39:12.064Z*  
+*Data from 16 trending reports*

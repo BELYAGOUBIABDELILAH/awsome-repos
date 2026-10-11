@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | Other |
-| **Stars** | ⭐ 46,128 |
-| **Forks** | 🍴 9,439 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 50,925 |
+| **Forks** | 🍴 10,268 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 27, 2026 |
-| **Last Seen** | Oct 1, 2026 |
+| **Last Seen** | Oct 11, 2026 |
 
 
 ---
@@ -48,11 +48,12 @@
 **Sep 10, 2026** — Rank #2 (+1588 ⭐)  
 **Sep 12, 2026** — Rank #1 (+2265 ⭐)  
 **Sep 13, 2026** — Rank #3 (+2898 ⭐)  
+**Oct 11, 2026** — Rank #5 (+872 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 3 days
 
 ---
@@ -73,11 +74,11 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Average | Basic documentation available |
+| **Difficulty** | Intermediate | Well-documented but extensive API |
+| **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -96,5 +97,5 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:36.544Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-10-11T14:39:14.571Z*  
+*Data from 9 trending reports*

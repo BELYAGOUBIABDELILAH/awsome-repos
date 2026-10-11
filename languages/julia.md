@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 20
+- **Total Repositories**: 21
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -14,8 +14,10 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [JuliaGPU/KernelAbstractions.jl](../repos/JuliaGPU/KernelAbstractions.jl.md) | ⭐ 528 | 2026-10-11 | 1 |
 
-*No Julia repositories trending today*
 
 ---
 
@@ -24,6 +26,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [JuliaLLVM/LLVM.jl](../repos/JuliaLLVM/LLVM.jl.md) | ⭐ 145 | 2026-10-02 | Julia wrapper for the LLVM C API |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [JuliaGPU/KernelAbstractions.jl](../repos/JuliaGPU/KernelAbstractions.jl.md) | ⭐ 528 | 2026-10-11 | Heterogeneous programming in Julia |
 
 
 ---
@@ -42,6 +47,7 @@
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 732 | 2026-08-07 | 2 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | 2 |
+| [JuliaGPU/KernelAbstractions.jl](../repos/JuliaGPU/KernelAbstractions.jl.md) | ⭐ 528 | 2026-10-11 | 1 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | 3 |
 | [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) | ⭐ 200 | 2026-09-02 | 1 |
 | [JuliaLLVM/LLVM.jl](../repos/JuliaLLVM/LLVM.jl.md) | ⭐ 145 | 2026-10-02 | 2 |
@@ -51,7 +57,6 @@
 | [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 8 |
 | [NumericalEarth/NumericalEarth.jl](../repos/NumericalEarth/NumericalEarth.jl.md) | ⭐ 47 | 2026-08-24 | 2 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 15 |
-| [kahliburke/Kaimon.jl](../repos/kahliburke/Kaimon.jl.md) | ⭐ 25 | 2026-08-20 | 2 |
 
 ---
 
@@ -94,7 +99,8 @@
 - [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) - Boosted trees in Julia
 - [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) - Julia bindings for the Enzyme automatic differentiator
 - [JuliaLLVM/LLVM.jl](../repos/JuliaLLVM/LLVM.jl.md) - Julia wrapper for the LLVM C API
+- [JuliaGPU/KernelAbstractions.jl](../repos/JuliaGPU/KernelAbstractions.jl.md) - Heterogeneous programming in Julia
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.171Z*
+*Last updated: 2026-10-11T14:39:08.869Z*

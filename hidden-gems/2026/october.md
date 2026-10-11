@@ -7,7 +7,7 @@
 ## October 2026
 
 **Period**: 2026-10-01 to 2026-10-28  
-**Gems Found**: 315
+**Gems Found**: 347
 
 ---
 
@@ -37,13 +37,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,770 |
+| ⭐ **Stars** | 3,811 |
 | 💻 **Language** | Vue |
 | 🏆 **Gem Score** | 96/100 |
-| 📈 **Trending Days** | 24 |
+| 📈 **Trending Days** | 25 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+65 stars&#x2F;day) • Trending 24 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+64 stars&#x2F;day) • Trending 25 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -91,27 +91,7 @@
 
 ---
 
-### 5. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
-
-**Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,278 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 95/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Oct 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+177 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/PimpinPumpkin/Vela.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PimpinPumpkin&#x2F;Vela)
-
----
-
-### 6. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 5. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
 **ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
@@ -131,7 +111,7 @@
 
 ---
 
-### 7. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
+### 6. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
 
 **UI montion AI agent, a library of 43+ crafted transitions, a skill that fits your workflow.**
 
@@ -151,7 +131,7 @@
 
 ---
 
-### 8. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
+### 7. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
 
 **Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
 
@@ -168,6 +148,26 @@
 **Best for**: 
 
 [View Passport](../../repos/mvschwarz/openrig.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mvschwarz&#x2F;openrig)
+
+---
+
+### 8. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
+
+**Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,278 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 94/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Oct 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+177 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/PimpinPumpkin/Vela.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PimpinPumpkin&#x2F;Vela)
 
 ---
 
@@ -191,27 +191,7 @@
 
 ---
 
-### 10. [microsoft&#x2F;mxc](../../repos/microsoft/mxc.md)
-
-**Policy-driven, layered isolation and containment **
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,367 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+159 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/microsoft/mxc.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;mxc)
-
----
-
-### 11. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
+### 10. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
 
 **Open source factory for one-shot engineering**
 
@@ -231,27 +211,67 @@
 
 ---
 
-### 12. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
+### 11. [ashhart&#x2F;TensorFold](../../repos/ashhart/TensorFold.md)
 
-**Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.**
+**LLM Inference Engine for Metal, CUDA and Vulkan.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8,023 |
-| 💻 **Language** | Python |
+| ⭐ **Stars** | 1,245 |
+| 💻 **Language** | Zig |
 | 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 15, 2026 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 28, 2026 |
 
-**Why it's a gem**: High growth velocity (+268 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+88 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/MakazhanAlpamys/Soup.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;MakazhanAlpamys&#x2F;Soup)
+[View Passport](../../repos/ashhart/TensorFold.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ashhart&#x2F;TensorFold)
 
 ---
 
-### 13. [mnfst&#x2F;awesome-free-llm-apis](../../repos/mnfst/awesome-free-llm-apis.md)
+### 12. [YuKongA&#x2F;ghostlock-app](../../repos/YuKongA/ghostlock-app.md)
+
+**GhostLock One-Tap Execution App (CVE-2026-43499)**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,800 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Oct 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+57 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/YuKongA/ghostlock-app.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;YuKongA&#x2F;ghostlock-app)
+
+---
+
+### 13. [microsoft&#x2F;mxc](../../repos/microsoft/mxc.md)
+
+**Policy-driven, layered isolation and containment **
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,367 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+159 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/microsoft/mxc.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;mxc)
+
+---
+
+### 14. [mnfst&#x2F;awesome-free-llm-apis](../../repos/mnfst/awesome-free-llm-apis.md)
 
 **List of Permanent Free LLM API  (API Keys)**
 
@@ -271,27 +291,27 @@
 
 ---
 
-### 14. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
+### 15. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
 
-**ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.**
+**Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,808 |
-| 💻 **Language** | CSS |
+| ⭐ **Stars** | 8,023 |
+| 💻 **Language** | Python |
 | 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 18 |
-| 📅 **First Seen** | Aug 10, 2026 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 15, 2026 |
 
-**Why it's a gem**: High growth velocity (+71 stars&#x2F;day) • Trending 18 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+268 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/XiaomingX/ai-money-maker-handbook.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;XiaomingX&#x2F;ai-money-maker-handbook)
+[View Passport](../../repos/MakazhanAlpamys/Soup.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;MakazhanAlpamys&#x2F;Soup)
 
 ---
 
-### 15. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
+### 16. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
 
 **OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
 
@@ -311,7 +331,7 @@
 
 ---
 
-### 16. [max-sixty&#x2F;worktrunk](../../repos/max-sixty/worktrunk.md)
+### 17. [max-sixty&#x2F;worktrunk](../../repos/max-sixty/worktrunk.md)
 
 **Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows**
 
@@ -331,7 +351,7 @@
 
 ---
 
-### 17. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
+### 18. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
 
 **Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT**
 
@@ -351,7 +371,27 @@
 
 ---
 
-### 18. [itsfatduck&#x2F;optimizerDuck](../../repos/itsfatduck/optimizerDuck.md)
+### 19. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
+
+**Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,739 |
+| 💻 **Language** | C++ |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Sep 21, 2026 |
+
+**Why it's a gem**: High growth velocity (+71 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/mg-chao/snow-apps.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mg-chao&#x2F;snow-apps)
+
+---
+
+### 20. [itsfatduck&#x2F;optimizerDuck](../../repos/itsfatduck/optimizerDuck.md)
 
 **Free, open-source Windows optimization tool for performance, privacy, and simplicity.**
 
@@ -371,46 +411,6 @@
 
 ---
 
-### 19. [Tianyu199509&#x2F;DeskBox](../../repos/Tianyu199509/DeskBox.md)
-
-**A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,559 |
-| 💻 **Language** | C# |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Sep 27, 2026 |
-
-**Why it's a gem**: High growth velocity (+132 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/Tianyu199509/DeskBox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tianyu199509&#x2F;DeskBox)
-
----
-
-### 20. [M-Abozaid&#x2F;esp32-c3-adblock](../../repos/M-Abozaid/esp32-c3-adblock.md)
-
-**Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https:&#x2F;&#x2F;youtube.com&#x2F;shorts&#x2F;RaxszOUMi8E?feature&#x3D;share**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,354 |
-| 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Oct 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+372 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/M-Abozaid/esp32-c3-adblock.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;M-Abozaid&#x2F;esp32-c3-adblock)
-
----
-
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-09T21:01:37.628Z*  
+*Generated: 2026-10-11T14:39:15.852Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

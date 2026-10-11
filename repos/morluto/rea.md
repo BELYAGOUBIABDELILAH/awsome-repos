@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 42,794 |
-| **Forks** | 🍴 6,692 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 90,458 |
+| **Forks** | 🍴 19,966 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Oct 6, 2026 |
-| **Last Seen** | Oct 9, 2026 |
+| **Last Seen** | Oct 11, 2026 |
 
 
 ---
@@ -46,11 +46,12 @@
 **Oct 7, 2026** — Rank #1 (+4666 ⭐)  
 **Oct 8, 2026** — Rank #3 (+7744 ⭐)  
 **Oct 9, 2026** — Rank #1 (+15335 ⭐)  
+**Oct 11, 2026** — Rank #1 (+25585 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 4 days
 
 ---
@@ -71,12 +72,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Average | Basic documentation available |
-| **Community** | Growing | Emerging community |
+| **Difficulty** | Intermediate | Well-documented but extensive API |
+| **Documentation** | Good | Well-maintained documentation |
+| **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
 | **Maintenance** | Very Active | Updated within last week |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
 - General purpose
@@ -94,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:37.386Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-10-11T14:39:15.522Z*  
+*Data from 5 trending reports*

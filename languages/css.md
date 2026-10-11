@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 70
+- **Total Repositories**: 72
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-09-27
+- **Last Updated**: 2026-10-11
 
 ---
 
@@ -16,10 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,511 | 2026-08-01 | 23 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,823 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,459 | 2026-08-01 | 48 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,859 | 2026-08-06 | 17 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [adobe/adobe.github.com](../repos/adobe/adobe.github.com.md) | ⭐ 1,662 | 2026-10-11 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Astromations/Hazy](../repos/Astromations/Hazy.md) | ⭐ 456 | 2026-10-11 | 1 |
 
 
 ---
@@ -47,6 +53,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mrrfv/open-android-backup](../repos/mrrfv/open-android-backup.md) | ⭐ 1,414 | 2026-10-03 | Back up your device without vendor lock-ins, using insecure software or root. Supports encryption... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [adobe/adobe.github.com](../repos/adobe/adobe.github.com.md) | ⭐ 1,662 | 2026-10-11 | Adobe central hub for open source |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Astromations/Hazy](../repos/Astromations/Hazy.md) | ⭐ 456 | 2026-10-11 | A translucent spicetify theme |
 
 
 ---
@@ -55,7 +67,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,831 | 2026-08-06 | 16 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,859 | 2026-08-06 | 17 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,507 | 2026-08-01 | 10 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,365 | 2026-08-04 | 24 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 29,696 | 2026-08-02 | 26 |
@@ -63,7 +75,7 @@
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,711 | 2026-08-02 | 21 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,823 | 2026-08-02 | 22 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,511 | 2026-08-01 | 23 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,837 | 2026-08-04 | 7 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,669 | 2026-08-06 | 12 |
@@ -88,10 +100,10 @@
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 25 | ⭐ 1,425 | 2026-08-01 | 2026-10-03 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 24 | ⭐ 45,365 | 2026-08-04 | 2026-10-08 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 23 | ⭐ 12,511 | 2026-08-01 | 2026-10-09 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 21 | ⭐ 12,711 | 2026-08-02 | 2026-10-01 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 22 | ⭐ 12,823 | 2026-08-02 | 2026-10-11 |
 | [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 18 | ⭐ 5,808 | 2026-08-10 | 2026-10-07 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 17 | ⭐ 9,316 | 2026-08-01 | 2026-10-02 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 16 | ⭐ 9,539 | 2026-08-05 | 2026-09-24 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 17 | ⭐ 82,859 | 2026-08-06 | 2026-10-11 |
 
 ---
 
@@ -167,7 +179,9 @@
 - [woowacourse/java-http](../repos/woowacourse/java-http.md) - 
 - [bwhtech/commera](../repos/bwhtech/commera.md) - Open Source E-commerce Platform, powered by ERPNext
 - [mrrfv/open-android-backup](../repos/mrrfv/open-android-backup.md) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption...
+- [adobe/adobe.github.com](../repos/adobe/adobe.github.com.md) - Adobe central hub for open source
+- [Astromations/Hazy](../repos/Astromations/Hazy.md) - A translucent spicetify theme
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.146Z*
+*Last updated: 2026-10-11T14:39:08.838Z*

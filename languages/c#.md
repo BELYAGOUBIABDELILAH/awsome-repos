@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 180
+- **Total Repositories**: 182
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-09
+- **Last Updated**: 2026-10-11
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,756 | 2026-08-01 | 17 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,904 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,706 | 2026-08-02 | 26 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,273 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,218 | 2026-08-02 | 29 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,854 | 2026-08-02 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,592 | 2026-08-03 | 27 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,472 | 2026-08-02 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 16,935 | 2026-08-03 | 15 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,496 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [srwi/EverythingToolbar](../repos/srwi/EverythingToolbar.md) | ⭐ 14,885 | 2026-08-06 | 3 |
+| [AssetRipper/AssetRipper](../repos/AssetRipper/AssetRipper.md) | ⭐ 8,551 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LorisYounger/VPet](../repos/LorisYounger/VPet.md) | ⭐ 6,926 | 2026-08-08 | 7 |
+| [lostindark/DriverStoreExplorer](../repos/lostindark/DriverStoreExplorer.md) | ⭐ 11,846 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sourcegit-scm/sourcegit](../repos/sourcegit-scm/sourcegit.md) | ⭐ 6,115 | 2026-08-19 | 5 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,913 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [redis-windows/redis-windows](../repos/redis-windows/redis-windows.md) | ⭐ 4,336 | 2026-08-19 | 5 |
+| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,946 | 2026-08-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,231 | 2026-08-27 | 8 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,117 | 2026-08-10 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/winappCli](../repos/microsoft/winappCli.md) | ⭐ 1,244 | 2026-09-10 | winapp, the Windows App Development CLI, is a single command-line interface for managing Windows ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [IAmParadox27/jellyfin-plugin-file-transformation](../repos/IAmParadox27/jellyfin-plugin-file-transformation.md) | ⭐ 523 | 2026-09-10 | Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin-web withou... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ProwlEngine/Prowl](../repos/ProwlEngine/Prowl.md) | ⭐ 1,220 | 2026-09-12 | An Open Source C# 3D Game Engine under MIT license, inspired by Unity and featuring a complete ed... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [RankFTW/RHI](../repos/RankFTW/RHI.md) | ⭐ 1,656 | 2026-09-20 | ReShade HDR Installer |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [UnderminersTeam/UndertaleModTool](../repos/UnderminersTeam/UndertaleModTool.md) | ⭐ 2,056 | 2026-09-20 | The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mcneel/RhinoAI](../repos/mcneel/RhinoAI.md) | ⭐ 335 | 2026-09-21 | AI features for Rhino |
 
 
 ---
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,706 | 2026-08-02 | 26 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,854 | 2026-08-02 | 27 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 57,879 | 2026-08-02 | 19 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,640 | 2026-08-06 | 13 |
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,350 | 2026-08-01 | 9 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,904 | 2026-08-01 | 10 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,793 | 2026-08-14 | 4 |
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,844 | 2026-08-03 | 8 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,913 | 2026-08-03 | 9 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,465 | 2026-08-01 | 17 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,472 | 2026-08-02 | 30 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,235 | 2026-08-01 | 17 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,218 | 2026-08-02 | 29 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,062 | 2026-08-28 | 3 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,603 | 2026-08-05 | 11 |
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,038 | 2026-08-10 | 5 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,117 | 2026-08-10 | 6 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,496 | 2026-08-02 | 8 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,440 | 2026-08-01 | 9 |
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,367 | 2026-08-02 | 7 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,231 | 2026-08-27 | 8 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,700 | 2026-08-01 | 10 |
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,198 | 2026-08-01 | 9 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,273 | 2026-08-01 | 10 |
 
 ---
 
@@ -115,9 +115,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 29 | ⭐ 31,218 | 2026-08-02 | 2026-10-09 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 30 | ⭐ 31,472 | 2026-08-02 | 2026-10-11 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 27 | ⭐ 117,854 | 2026-08-02 | 2026-10-11 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 27 | ⭐ 5,592 | 2026-08-03 | 2026-10-09 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 26 | ⭐ 117,706 | 2026-08-02 | 2026-10-09 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 19 | ⭐ 57,879 | 2026-08-02 | 2026-10-07 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 17 | ⭐ 31,235 | 2026-08-01 | 2026-09-25 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 17 | ⭐ 3,756 | 2026-08-01 | 2026-10-09 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-09T21:01:33.143Z*
+*Last updated: 2026-10-11T14:39:08.834Z*
