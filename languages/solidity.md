@@ -31,6 +31,9 @@
 | [transmissions11/solmate](../repos/transmissions11/solmate.md) | ⭐ 4,288 | 2026-08-01 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [ethereum/ERCs](../repos/ethereum/ERCs.md) | ⭐ 766 | 2026-08-04 | 20 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [morpho-org/vault-v2](../repos/morpho-org/vault-v2.md) | ⭐ 107 | 2026-08-04 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
@@ -77,7 +80,7 @@
 | [Uniswap/permit2](../repos/Uniswap/permit2.md) | ⭐ 945 | 2026-08-01 | 18 |
 | [Uniswap/v4-periphery](../repos/Uniswap/v4-periphery.md) | ⭐ 904 | 2026-08-01 | 15 |
 | [celo-org/celo-monorepo](../repos/celo-org/celo-monorepo.md) | ⭐ 808 | 2026-08-05 | 7 |
-| [ethereum/ERCs](../repos/ethereum/ERCs.md) | ⭐ 766 | 2026-08-04 | 19 |
+| [ethereum/ERCs](../repos/ethereum/ERCs.md) | ⭐ 766 | 2026-08-04 | 20 |
 | [GNSPS/solidity-bytes-utils](../repos/GNSPS/solidity-bytes-utils.md) | ⭐ 562 | 2026-08-04 | 10 |
 | [matter-labs/era-contracts](../repos/matter-labs/era-contracts.md) | ⭐ 538 | 2026-08-07 | 11 |
 | [dmfxyz/murky](../repos/dmfxyz/murky.md) | ⭐ 517 | 2026-08-04 | 21 |
@@ -162,4 +165,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.367Z*
+*Last updated: 2026-10-12T21:02:07.479Z*

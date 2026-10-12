@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 2514
+- **Total Repositories**: 2526
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 16063
+- **Average Stars**: 16054
 
 ---
 
@@ -24,6 +24,9 @@
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | Python |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 487,953 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 49,776 | Go |  |
@@ -42,9 +45,6 @@
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,278 | C# |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,965 | Ruby |  |
 
 
 ---
@@ -54,7 +54,7 @@
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
 | [codecrafters-io/build-your-own-x](../repos/codecrafters-io/build-your-own-x.md) | ⭐ 534,798 | Markdown | 2026-08-02 | 1 |
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 483,206 | Python | 2026-08-01 | 8 |
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 487,953 | Python | 2026-08-01 | 9 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 368,341 | Python | 2026-08-03 | 6 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 285,114 | Python | 2026-08-08 | 4 |
 | [react/react](../repos/react/react.md) | ⭐ 247,637 | JavaScript | 2026-08-04 | 2 |
@@ -82,6 +82,9 @@
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | Python | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 487,953 | Python | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [0x4m4/hexstrike-ai](../repos/0x4m4/hexstrike-ai.md) | ⭐ 12,459 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
@@ -95,9 +98,6 @@
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,286 | Go | 2 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 33,419 | Go | 2 |
 
 ---
 
@@ -139,8 +139,8 @@
 ## 📅 Recent History
 
 ### [2026-10-12](../archive/2026/10/2026-10-12.md)
-- 180 repositories trending
-- Top: tensorflow&#x2F;tensorflow
+- 266 repositories trending
+- Top: public-apis&#x2F;public-apis
 
 ### [2026-10-11](../archive/2026/10/2026-10-11.md)
 - 182 repositories trending
@@ -174,29 +174,29 @@
 | [apache/spark](../repos/apache/spark.md) | 58 days | 2026-08-01 | 2026-10-12 |
 | [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 57 days | 2026-08-01 | 2026-10-12 |
 | [metabase/metabase](../repos/metabase/metabase.md) | 55 days | 2026-08-01 | 2026-10-12 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 54 days | 2026-08-01 | 2026-10-12 |
 | [logseq/logseq](../repos/logseq/logseq.md) | 53 days | 2026-08-01 | 2026-10-12 |
 | [vlang/v](../repos/vlang/v.md) | 53 days | 2026-08-01 | 2026-10-12 |
 | [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 53 days | 2026-08-01 | 2026-10-12 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 53 days | 2026-08-01 | 2026-10-09 |
 | [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 52 days | 2026-08-01 | 2026-10-12 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 50 days | 2026-08-01 | 2026-10-12 |
 | [penpot/penpot](../repos/penpot/penpot.md) | 50 days | 2026-08-01 | 2026-10-12 |
-| [joernio/joern](../repos/joernio/joern.md) | 49 days | 2026-08-01 | 2026-10-12 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 238 repositories (9%)
+- **Go**: 239 repositories (9%)
+- **C++**: 181 repositories (7%)
 - **Python**: 181 repositories (7%)
-- **C++**: 180 repositories (7%)
-- **TypeScript**: 177 repositories (7%)
+- **TypeScript**: 178 repositories (7%)
 - **Rust**: 162 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 236.5 repositories
+- **Daily Average**: 238.1 repositories
 - **Peak Day**: 2026-08-19 (382 repositories)
-- **Growth Rate**: 15% this month
+- **Growth Rate**: 16% this month
 
 ---
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.160Z*
+*Last updated: 2026-10-12T21:02:07.223Z*

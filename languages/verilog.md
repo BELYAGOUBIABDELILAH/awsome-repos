@@ -19,6 +19,9 @@
 | [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,391 | 2026-08-01 | 48 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,166 | 2026-08-01 | 54 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | ⭐ 761 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
@@ -53,7 +56,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | ⭐ 4,391 | 2026-08-01 | 48 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,160 | 2026-08-01 | 53 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | ⭐ 3,166 | 2026-08-01 | 54 |
 | [alexforencich/verilog-ethernet](../repos/alexforencich/verilog-ethernet.md) | ⭐ 3,078 | 2026-08-02 | 7 |
 | [corundum/corundum](../repos/corundum/corundum.md) | ⭐ 2,486 | 2026-08-07 | 5 |
 | [vortexgpgpu/vortex](../repos/vortexgpgpu/vortex.md) | ⭐ 2,273 | 2026-08-04 | 22 |
@@ -78,7 +81,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 53 | ⭐ 3,160 | 2026-08-01 | 2026-10-09 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 54 | ⭐ 3,166 | 2026-08-01 | 2026-10-12 |
 | [YosysHQ/picorv32](../repos/YosysHQ/picorv32.md) | 48 | ⭐ 4,391 | 2026-08-01 | 2026-10-12 |
 | [EttusResearch/uhd](../repos/EttusResearch/uhd.md) | 36 | ⭐ 1,286 | 2026-08-01 | 2026-10-09 |
 | [The-OpenROAD-Project/OpenROAD-flow-scripts](../repos/The-OpenROAD-Project/OpenROAD-flow-scripts.md) | 35 | ⭐ 761 | 2026-08-01 | 2026-10-12 |
@@ -115,4 +118,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.376Z*
+*Last updated: 2026-10-12T21:02:07.490Z*

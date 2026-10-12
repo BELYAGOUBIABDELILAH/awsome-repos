@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 457
+- **Total Repositories**: 461
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-06
-- **Average Stars**: 21451
+- **Average Stars**: 21302
 
 ---
 
@@ -18,6 +18,9 @@
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,046 | Ruby |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,770 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,563 | Scala |  |
@@ -35,16 +38,13 @@
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 29,036 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,428 | Vue |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,783 | Vue |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,371 | Vue |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,587 | Vue |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,704 | Objective-C |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,608 | Objective-C |  |
 
 
 ---
@@ -82,7 +82,7 @@
 | [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 5,993 | Ruby | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,773 | Ruby | 1 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,770 | Ruby | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,366 | Ruby | 1 |
@@ -139,7 +139,7 @@
 ## 📅 Recent History
 
 ### [2026-10-12](../archive/2026/10/2026-10-12.md)
-- 37 repositories trending
+- 52 repositories trending
 - Top: flutter&#x2F;flutter
 
 ### [2026-10-11](../archive/2026/10/2026-10-11.md)
@@ -188,15 +188,15 @@
 
 ### Language Breakdown
 - **TypeScript**: 70 repositories (15%)
-- **Vue**: 48 repositories (11%)
+- **Vue**: 50 repositories (11%)
 - **JavaScript**: 43 repositories (9%)
 - **C**: 38 repositories (8%)
-- **Go**: 30 repositories (7%)
+- **Go**: 31 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 43.5 repositories
+- **Daily Average**: 43.7 repositories
 - **Peak Day**: 2026-08-04 (66 repositories)
-- **Growth Rate**: 14% this month
+- **Growth Rate**: 15% this month
 
 ---
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.072Z*
+*Last updated: 2026-10-12T21:02:07.138Z*

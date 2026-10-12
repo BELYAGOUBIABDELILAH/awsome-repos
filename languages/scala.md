@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 65
+- **Total Repositories**: 66
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-12
 
@@ -34,13 +34,16 @@
 | [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,742 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,817 | 2026-08-02 | 48 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [TheHive-Project/TheHive](../repos/TheHive-Project/TheHive.md) | ⭐ 3,946 | 2026-08-03 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [apache/kyuubi](../repos/apache/kyuubi.md) | ⭐ 2,369 | 2026-08-03 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [com-lihaoyi/mill](../repos/com-lihaoyi/mill.md) | ⭐ 2,797 | 2026-09-20 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [sbt/sbt-native-packager](../repos/sbt/sbt-native-packager.md) | ⭐ 1,606 | 2026-10-11 | 2 |
+| [scalapb/ScalaPB](../repos/scalapb/ScalaPB.md) | ⭐ 1,340 | 2026-08-04 | 14 |
 
 
 ---
@@ -68,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sbt/sbt-native-packager](../repos/sbt/sbt-native-packager.md) | ⭐ 1,606 | 2026-10-11 | sbt Native Packager |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [llm4s/llm4s](../repos/llm4s/llm4s.md) | ⭐ 268 | 2026-10-12 | Agentic  and LLM Programming in Scala |
 
 
 ---
@@ -78,7 +84,7 @@
 |------------|-------|------------|---------------|
 | [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,967 | 2026-08-01 | 43 |
 | [apache/spark](../repos/apache/spark.md) | ⭐ 44,173 | 2026-08-01 | 58 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,813 | 2026-08-02 | 47 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,817 | 2026-08-02 | 48 |
 | [scala/scala](../repos/scala/scala.md) | ⭐ 14,562 | 2026-08-01 | 28 |
 | [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,281 | 2026-08-01 | 25 |
 | [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,518 | 2026-09-02 | 5 |
@@ -106,7 +112,7 @@
 | [apache/spark](../repos/apache/spark.md) | 58 | ⭐ 44,173 | 2026-08-01 | 2026-10-12 |
 | [joernio/joern](../repos/joernio/joern.md) | 49 | ⭐ 3,563 | 2026-08-01 | 2026-10-12 |
 | [delta-io/delta](../repos/delta-io/delta.md) | 49 | ⭐ 9,040 | 2026-08-01 | 2026-10-12 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | 47 | ⭐ 18,813 | 2026-08-02 | 2026-10-09 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | 48 | ⭐ 18,817 | 2026-08-02 | 2026-10-12 |
 | [apache/gluten](../repos/apache/gluten.md) | 45 | ⭐ 1,602 | 2026-08-01 | 2026-10-09 |
 | [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 44 | ⭐ 7,303 | 2026-08-01 | 2026-10-12 |
 | [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 43 | ⭐ 73,967 | 2026-08-01 | 2026-10-12 |
@@ -183,7 +189,8 @@
 - [SpinalHDL/SpinalHDL](../repos/SpinalHDL/SpinalHDL.md) - Scala based HDL
 - [d2iq-archive/marathon](../repos/d2iq-archive/marathon.md) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [sbt/sbt-native-packager](../repos/sbt/sbt-native-packager.md) - sbt Native Packager
+- [llm4s/llm4s](../repos/llm4s/llm4s.md) - Agentic  and LLM Programming in Scala
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.363Z*
+*Last updated: 2026-10-12T21:02:07.474Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 92
+- **Total Repositories**: 94
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-03
 
@@ -22,28 +22,28 @@
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 29,036 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,428 | 2026-08-01 | 20 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 4,246 | 2026-08-01 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,783 | 2026-08-01 | 29 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 255 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,371 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,045 | 2026-08-01 | 27 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [aniyomiorg/aniyomi-website](../repos/aniyomiorg/aniyomi-website.md) | ⭐ 232 | 2026-08-01 | 9 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,587 | 2026-08-01 | 35 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,968 | 2026-08-02 | 28 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 3,829 | 2026-08-02 | 26 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,866 | 2026-08-02 | 23 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [hefengxian/my-ielts](../repos/hefengxian/my-ielts.md) | ⭐ 3,696 | 2026-08-19 | 20 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [1sdv/TripStar](../repos/1sdv/TripStar.md) | ⭐ 2,473 | 2026-09-04 | 9 |
 
 
 ---
@@ -95,10 +95,11 @@
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 29,036 | 2026-08-01 | 35 |
 | [docmirror/dev-sidecar](../repos/docmirror/dev-sidecar.md) | ⭐ 24,452 | 2026-10-06 | 4 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,025 | 2026-08-01 | 26 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,045 | 2026-08-01 | 27 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,637 | 2026-08-02 | 12 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 16,968 | 2026-08-02 | 28 |
+| [Hunlongyu/ZY-Player](../repos/Hunlongyu/ZY-Player.md) | ⭐ 14,511 | 2026-10-12 | 1 |
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,458 | 2026-08-05 | 12 |
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,119 | 2026-08-20 | 4 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,749 | 2026-08-12 | 4 |
@@ -107,7 +108,6 @@
 | [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,398 | 2026-08-03 | 19 |
 | [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,362 | 2026-08-23 | 8 |
 | [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,812 | 2026-08-03 | 7 |
-| [HuLaSpark/HuLa](../repos/HuLaSpark/HuLa.md) | ⭐ 7,748 | 2026-08-08 | 8 |
 
 ---
 
@@ -118,13 +118,13 @@
 | [requarks/wiki](../repos/requarks/wiki.md) | 35 | ⭐ 29,036 | 2026-08-01 | 2026-10-12 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 35 | ⭐ 33,587 | 2026-08-01 | 2026-10-12 |
 | [RikkaApps/websites](../repos/RikkaApps/websites.md) | 31 | ⭐ 456 | 2026-08-02 | 2026-10-06 |
-| [frappe/crm](../repos/frappe/crm.md) | 28 | ⭐ 3,698 | 2026-08-01 | 2026-10-02 |
+| [frappe/crm](../repos/frappe/crm.md) | 29 | ⭐ 3,783 | 2026-08-01 | 2026-10-12 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 28 | ⭐ 16,968 | 2026-08-02 | 2026-10-12 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 26 | ⭐ 22,025 | 2026-08-01 | 2026-10-08 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 27 | ⭐ 22,045 | 2026-08-01 | 2026-10-12 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 26 | ⭐ 3,829 | 2026-08-02 | 2026-10-12 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 24 | ⭐ 4,409 | 2026-08-01 | 2026-10-12 |
+| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 23 | ⭐ 1,988 | 2026-08-02 | 2026-10-12 |
 | [unovue/reka-ui](../repos/unovue/reka-ui.md) | 23 | ⭐ 6,866 | 2026-08-02 | 2026-10-12 |
-| [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 22 | ⭐ 1,974 | 2026-08-02 | 2026-10-09 |
 
 ---
 
@@ -222,7 +222,9 @@
 - [stark81/VutronMusic](../repos/stark81/VutronMusic.md) - 高颜值的第三方网易云播放器；通过自写插件可支持其他线上音乐服务；支持流媒体音乐，如navidrome、jellyfin、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Ba...
 - [Tools-cx-app/meta-magic_mount-rs](../repos/Tools-cx-app/meta-magic_mount-rs.md) - An implementation of a metamodule using Magic Mount, Based on MKSU, Template is from meta-overlay.
 - [gcpaas/DataRoom](../repos/gcpaas/DataRoom.md) - 🔥AI对话式生成大屏、页面，采用前后端一体化解决方案，几十种炫酷图表，支持20+数据来源接入，适用于大屏、低代码、BI场景，使用简单，代码完全开源。
+- [Hunlongyu/ZY-Player](../repos/Hunlongyu/ZY-Player.md) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+- [Bootstrap-Academy/frontend](../repos/Bootstrap-Academy/frontend.md) - The official frontend of Bootstrap Academy - Learn Computer Science Online
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.381Z*
+*Last updated: 2026-10-12T21:02:07.497Z*

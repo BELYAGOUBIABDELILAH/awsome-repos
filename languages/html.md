@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 108
+- **Total Repositories**: 107
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-06
 
@@ -20,6 +20,12 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,664 | 2026-08-04 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 15,243 | 2026-08-07 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 4,930 | 2026-08-11 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [isjiamu/gzh-design-skill](../repos/isjiamu/gzh-design-skill.md) | ⭐ 3,969 | 2026-09-01 | 4 |
@@ -38,12 +44,6 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [EricTechPro/super-board](../repos/EricTechPro/super-board.md) | ⭐ 195 | 2026-10-09 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [SamidyFR/Game-Decompilations](../repos/SamidyFR/Game-Decompilations.md) | ⭐ 442 | 2026-10-11 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [spyboy-productions/r4ven](../repos/spyboy-productions/r4ven.md) | ⭐ 1,600 | 2026-10-11 | 2 |
 
 
 ---
@@ -100,7 +100,6 @@
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,948 | 2026-08-09 | 12 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,754 | 2026-08-19 | 9 |
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,721 | 2026-08-03 | 11 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,664 | 2026-08-04 | 13 |
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
@@ -108,6 +107,7 @@
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 22,554 | 2026-08-01 | 7 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,592 | 2026-08-03 | 5 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
+| [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | 1 |
 
 ---
 
@@ -124,7 +124,7 @@
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 12 | ⭐ 9,898 | 2026-08-01 | 2026-10-02 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 12 | ⭐ 16,578 | 2026-08-04 | 2026-10-02 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 12 | ⭐ 29,948 | 2026-08-09 | 2026-10-03 |
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 11 | ⭐ 27,721 | 2026-08-03 | 2026-10-09 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 9 | ⭐ 6,205 | 2026-08-05 | 2026-10-02 |
 
 ---
 
@@ -150,7 +150,6 @@
 - [kubernetes/website](../repos/kubernetes/website.md) - Kubernetes website and documentation repo: 
 - [thedev-id/thedev.id](../repos/thedev-id/thedev.id.md) - Identity for developers on the web.
 - [adongwanai/AgentGuide](../repos/adongwanai/AgentGuide.md) - https:&#x2F;&#x2F;adongwanai.github.io&#x2F;AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法...
-- [vernesong/OpenClash](../repos/vernesong/OpenClash.md) - A Clash Client For OpenWrt
 - [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, im...
 - [trickest/cve](../repos/trickest/cve.md) - Gather and update all available and newest CVEs with their PoC.
 - [DefectDojo/django-DefectDojo](../repos/DefectDojo/django-DefectDojo.md) - Open-Source Unified Vulnerability Management, DevSecOps &amp; ASPM
@@ -230,7 +229,8 @@
 - [phishdestroy/destroylist](../repos/phishdestroy/destroylist.md) - Real-time phishing &amp; scam domain blocklist - 205k+ curated threats, 1M+ community, free API, mult...
 - [dequelabs/axe-core](../repos/dequelabs/axe-core.md) - Accessibility engine for automated Web UI testing
 - [gn-math/html](../repos/gn-math/html.md) - used for statistics https:&#x2F;&#x2F;data.jsdelivr.com&#x2F;v1&#x2F;stats&#x2F;packages&#x2F;gh&#x2F;gn-math&#x2F;html@main&#x2F;files?period...
+- [pedrohcgs/claude-code-my-workflow](../repos/pedrohcgs/claude-code-my-workflow.md) - A ready-to-fork Claude Code template for academics using LaTeX&#x2F;Beamer + R. Multi-agent review, qu...
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.326Z*
+*Last updated: 2026-10-12T21:02:07.425Z*

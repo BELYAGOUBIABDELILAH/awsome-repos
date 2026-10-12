@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 265
+- **Total Repositories**: 267
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
-- **Average Stars**: 14260
+- **Average Stars**: 14181
 
 ---
 
@@ -18,6 +18,9 @@
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,243 | C |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,770 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,563 | Scala |  |
@@ -42,9 +45,6 @@
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [vlang/v](../repos/vlang/v.md) | ⭐ 37,997 | V |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,272 | Solidity |  |
 
 
 ---
@@ -82,7 +82,7 @@
 | [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,583 | PHP | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,773 | Ruby | 1 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,770 | Ruby | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,362 | Swift | 1 |
@@ -108,7 +108,7 @@
 | [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 4,113 | Rust | 2026-09-13 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 561 | C | 2026-09-20 |
+| [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 659 | C | 2026-09-20 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [mvt-project/mvt](../repos/mvt-project/mvt.md) | ⭐ 15,183 | Python | 2026-09-21 |
@@ -139,7 +139,7 @@
 ## 📅 Recent History
 
 ### [2026-10-12](../archive/2026/10/2026-10-12.md)
-- 22 repositories trending
+- 30 repositories trending
 - Top: metabase&#x2F;metabase
 
 ### [2026-10-11](../archive/2026/10/2026-10-11.md)
@@ -189,12 +189,12 @@
 ### Language Breakdown
 - **C**: 50 repositories (19%)
 - **Go**: 38 repositories (14%)
-- **Python**: 20 repositories (8%)
+- **Python**: 20 repositories (7%)
 - **Java**: 15 repositories (6%)
 - **C++**: 15 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 30.2 repositories
+- **Daily Average**: 30.3 repositories
 - **Peak Day**: 2026-08-19 (42 repositories)
 - **Growth Rate**: 14% this month
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.127Z*
+*Last updated: 2026-10-12T21:02:07.190Z*

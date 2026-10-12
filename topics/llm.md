@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 493
+- **Total Repositories**: 495
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-07
-- **Average Stars**: 21079
+- **Average Stars**: 21226
 
 ---
 
@@ -21,6 +21,12 @@
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 33,419 | Go |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,887 | Go |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,770 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,563 | Scala |  |
@@ -39,12 +45,6 @@
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,265 | Nim |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 37,997 | V |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,201 | Dart |  |
 
 
 ---
@@ -57,7 +57,7 @@
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 206,509 | TypeScript | 2026-08-11 | 6 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | Python | 2026-09-07 | 3 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,465 | Python | 2026-08-06 | 8 |
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,527 | Go | 2026-08-01 | 19 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,887 | Go | 2026-08-01 | 20 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | Python | 2026-07-31 | 9 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | TypeScript | 2026-08-07 | 5 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | JavaScript | 2026-08-06 | 4 |
@@ -85,13 +85,13 @@
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 33,419 | Go | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,527 | Go | 4 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,887 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [nageoffer/ragent](../repos/nageoffer/ragent.md) | ⭐ 4,221 | Java | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,773 | Ruby | 1 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,770 | Ruby | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [AndyShaman/BYDMate](../repos/AndyShaman/BYDMate.md) | ⭐ 376 | Kotlin | 1 |
@@ -139,8 +139,8 @@
 ## 📅 Recent History
 
 ### [2026-10-12](../archive/2026/10/2026-10-12.md)
-- 37 repositories trending
-- Top: huggingface&#x2F;transformers
+- 49 repositories trending
+- Top: ollama&#x2F;ollama
 
 ### [2026-10-11](../archive/2026/10/2026-10-11.md)
 - 37 repositories trending
@@ -176,11 +176,11 @@
 | [joernio/joern](../repos/joernio/joern.md) | 49 days | 2026-08-01 | 2026-10-12 |
 | [nim-lang/Nim](../repos/nim-lang/Nim.md) | 49 days | 2026-08-01 | 2026-10-12 |
 | [vim/vim](../repos/vim/vim.md) | 48 days | 2026-08-01 | 2026-10-12 |
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 39 days | 2026-08-04 | 2026-10-09 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 40 days | 2026-08-04 | 2026-10-12 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 days | 2026-08-01 | 2026-10-01 |
 | [facebook/infer](../repos/facebook/infer.md) | 34 days | 2026-08-02 | 2026-10-03 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | 30 days | 2026-08-01 | 2026-10-12 |
-| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 29 days | 2026-08-04 | 2026-10-09 |
+| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 30 days | 2026-08-04 | 2026-10-12 |
 
 ---
 
@@ -188,13 +188,13 @@
 
 ### Language Breakdown
 - **Python**: 105 repositories (21%)
-- **TypeScript**: 59 repositories (12%)
+- **TypeScript**: 60 repositories (12%)
 - **Go**: 49 repositories (10%)
 - **Rust**: 39 repositories (8%)
 - **C**: 39 repositories (8%)
 
 ### Trending Frequency
-- **Daily Average**: 42.8 repositories
+- **Daily Average**: 43.2 repositories
 - **Peak Day**: 2026-08-19 (64 repositories)
 - **Growth Rate**: 16% this month
 
@@ -272,6 +272,7 @@
 - [Narcooo/inkos](../repos/Narcooo/inkos.md) - Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
 - [jamiepine/voicebox](../repos/jamiepine/voicebox.md) - The open-source AI voice studio. Clone, dictate, create.
 - [elizaOS/eliza](../repos/elizaOS/eliza.md) - Open source agentic operating system
+- [paperclipai/paperclip](../repos/paperclipai/paperclip.md) - The open-source app everyone uses to manage agents at work
 - [simstudioai/sim](../repos/simstudioai/sim.md) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by...
 - [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [zeroclaw-labs/zeroclaw](../repos/zeroclaw-labs/zeroclaw.md) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — de...
@@ -306,8 +307,7 @@
 - [zhongkaifu/TensorSharp](../repos/zhongkaifu/TensorSharp.md) - A native .NET LLM inference engine for GGUF models. TensorSharp provides a console application, a...
 - [AAswordman/Operit](../repos/AAswordman/Operit.md) - The most powerful AI agent and AI chat software on Android&#x2F;Operit是一款Android上能力最为强大、发展最久的AI Agent
 - [esmuellert/codediff.nvim](../repos/esmuellert/codediff.nvim.md) - VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level...
-- [milanglacier/minuet-ai.nvim](../repos/milanglacier/minuet-ai.nvim.md) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular L...
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.026Z*
+*Last updated: 2026-10-12T21:02:07.095Z*

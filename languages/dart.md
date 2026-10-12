@@ -22,19 +22,28 @@
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 35,614 | 2026-08-01 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 55,402 | 2026-08-02 | 31 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 19,374 | 2026-08-02 | 34 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 94,120 | 2026-08-02 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,201 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [kodjodevf/mangayomi](../repos/kodjodevf/mangayomi.md) | ⭐ 4,117 | 2026-08-02 | 16 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [gokadzev/Musify](../repos/gokadzev/Musify.md) | ⭐ 4,318 | 2026-08-02 | 14 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [shiyi-0x7f/olib-mobile](../repos/shiyi-0x7f/olib-mobile.md) | ⭐ 1,333 | 2026-08-03 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,109 | 2026-08-06 | 16 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) | ⭐ 13,056 | 2026-08-09 | 16 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Predidit/KazumiRules](../repos/Predidit/KazumiRules.md) | ⭐ 2,293 | 2026-08-10 | 8 |
 
 
 ---
@@ -77,9 +86,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,869 | 2026-08-01 | 42 |
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 93,607 | 2026-08-02 | 23 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 94,120 | 2026-08-02 | 24 |
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 77,208 | 2026-08-01 | 20 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 54,980 | 2026-08-02 | 30 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 55,402 | 2026-08-02 | 31 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 49,303 | 2026-08-04 | 20 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 35,614 | 2026-08-01 | 38 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,073 | 2026-08-02 | 32 |
@@ -108,8 +117,8 @@
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 34 | ⭐ 19,374 | 2026-08-02 | 2026-10-12 |
 | [KaringX/karing](../repos/KaringX/karing.md) | 32 | ⭐ 15,361 | 2026-08-02 | 2026-10-06 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 32 | ⭐ 33,073 | 2026-08-02 | 2026-10-06 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 30 | ⭐ 54,980 | 2026-08-02 | 2026-10-09 |
-| [localsend/localsend](../repos/localsend/localsend.md) | 23 | ⭐ 93,607 | 2026-08-02 | 2026-10-07 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 31 | ⭐ 55,402 | 2026-08-02 | 2026-10-12 |
+| [localsend/localsend](../repos/localsend/localsend.md) | 24 | ⭐ 94,120 | 2026-08-02 | 2026-10-12 |
 | [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 22 | ⭐ 4,201 | 2026-08-02 | 2026-10-12 |
 | [venera-app/venera](../repos/venera-app/venera.md) | 22 | ⭐ 11,143 | 2026-08-02 | 2026-10-06 |
 | [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | 21 | ⭐ 16,092 | 2026-08-01 | 2026-10-07 |
@@ -220,4 +229,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.315Z*
+*Last updated: 2026-10-12T21:02:07.408Z*

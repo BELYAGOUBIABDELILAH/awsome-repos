@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 929
+- **Total Repositories**: 933
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-07
-- **Average Stars**: 18012
+- **Average Stars**: 18061
 
 ---
 
@@ -41,10 +41,10 @@
 | [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,965 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,563 | Scala |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,770 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,173 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,563 | Scala |  |
 
 
 ---
@@ -123,7 +123,7 @@
 | [rlaope/oh-my-hermes](../repos/rlaope/oh-my-hermes.md) | ⭐ 1,971 | Python | 2026-09-14 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [OpenBMB/VoxCPM](../repos/OpenBMB/VoxCPM.md) | ⭐ 37,320 | Python | 2026-09-14 |
+| [OpenBMB/VoxCPM](../repos/OpenBMB/VoxCPM.md) | ⭐ 39,163 | Python | 2026-09-14 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [plugin87/ux-ui-agent-skills](../repos/plugin87/ux-ui-agent-skills.md) | ⭐ 1,300 | JavaScript | 2026-09-14 |
@@ -139,7 +139,7 @@
 ## 📅 Recent History
 
 ### [2026-10-12](../archive/2026/10/2026-10-12.md)
-- 61 repositories trending
+- 84 repositories trending
 - Top: tensorflow&#x2F;tensorflow
 
 ### [2026-10-11](../archive/2026/10/2026-10-11.md)
@@ -188,15 +188,15 @@
 
 ### Language Breakdown
 - **Python**: 136 repositories (15%)
-- **Go**: 117 repositories (13%)
-- **TypeScript**: 97 repositories (10%)
+- **Go**: 118 repositories (13%)
+- **TypeScript**: 98 repositories (11%)
 - **Rust**: 61 repositories (7%)
 - **C++**: 55 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 80.2 repositories
+- **Daily Average**: 80.8 repositories
 - **Peak Day**: 2026-08-19 (145 repositories)
-- **Growth Rate**: 15% this month
+- **Growth Rate**: 16% this month
 
 ---
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:38.997Z*
+*Last updated: 2026-10-12T21:02:07.074Z*

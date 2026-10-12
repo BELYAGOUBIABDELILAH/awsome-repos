@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T10:53:43.809Z",
+  "generated_at": "2026-10-12T21:02:14.753Z",
   "total_count": 100,
   "repositories": [
     {
@@ -17,10 +17,10 @@
       "full_name": "public-apis/public-apis",
       "owner": "public-apis",
       "name": "public-apis",
-      "stars": 483206,
+      "stars": 487953,
       "language": "Python",
       "first_seen": "2026-08-01",
-      "trending_days": 8
+      "trending_days": 9
     },
     {
       "rank": 3,
@@ -177,10 +177,10 @@
       "full_name": "ollama/ollama",
       "owner": "ollama",
       "name": "ollama",
-      "stars": 182527,
+      "stars": 182887,
       "language": "Go",
       "first_seen": "2026-08-01",
-      "trending_days": 19
+      "trending_days": 20
     },
     {
       "rank": 19,
@@ -654,6 +654,16 @@
     },
     {
       "rank": 66,
+      "full_name": "paperclipai/paperclip",
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "stars": 100889,
+      "language": "TypeScript",
+      "first_seen": "2026-08-02",
+      "trending_days": 9
+    },
+    {
+      "rank": 67,
       "full_name": "tailwindlabs/tailwindcss",
       "owner": "tailwindlabs",
       "name": "tailwindcss",
@@ -663,7 +673,7 @@
       "trending_days": 3
     },
     {
-      "rank": 67,
+      "rank": 68,
       "full_name": "microsoft/Web-Dev-For-Beginners",
       "owner": "microsoft",
       "name": "Web-Dev-For-Beginners",
@@ -673,7 +683,7 @@
       "trending_days": 3
     },
     {
-      "rank": 68,
+      "rank": 69,
       "full_name": "oven-sh/bun",
       "owner": "oven-sh",
       "name": "bun",
@@ -683,7 +693,7 @@
       "trending_days": 8
     },
     {
-      "rank": 69,
+      "rank": 70,
       "full_name": "ruvnet/RuView",
       "owner": "ruvnet",
       "name": "RuView",
@@ -693,7 +703,7 @@
       "trending_days": 14
     },
     {
-      "rank": 70,
+      "rank": 71,
       "full_name": "puppeteer/puppeteer",
       "owner": "puppeteer",
       "name": "puppeteer",
@@ -703,7 +713,7 @@
       "trending_days": 1
     },
     {
-      "rank": 71,
+      "rank": 72,
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
@@ -713,7 +723,7 @@
       "trending_days": 34
     },
     {
-      "rank": 72,
+      "rank": 73,
       "full_name": "ryanmcdermott/clean-code-javascript",
       "owner": "ryanmcdermott",
       "name": "clean-code-javascript",
@@ -723,24 +733,14 @@
       "trending_days": 1
     },
     {
-      "rank": 73,
-      "full_name": "paperclipai/paperclip",
-      "owner": "paperclipai",
-      "name": "paperclip",
-      "stars": 94324,
-      "language": "TypeScript",
-      "first_seen": "2026-08-02",
-      "trending_days": 8
-    },
-    {
       "rank": 74,
       "full_name": "localsend/localsend",
       "owner": "localsend",
       "name": "localsend",
-      "stars": 93607,
+      "stars": 94120,
       "language": "Dart",
       "first_seen": "2026-08-02",
-      "trending_days": 23
+      "trending_days": 24
     },
     {
       "rank": 75,
@@ -784,6 +784,16 @@
     },
     {
       "rank": 79,
+      "full_name": "home-assistant/core",
+      "owner": "home-assistant",
+      "name": "core",
+      "stars": 91417,
+      "language": "Python",
+      "first_seen": "2026-08-27",
+      "trending_days": 3
+    },
+    {
+      "rank": 80,
       "full_name": "modelcontextprotocol/servers",
       "owner": "modelcontextprotocol",
       "name": "servers",
@@ -793,7 +803,7 @@
       "trending_days": 3
     },
     {
-      "rank": 80,
+      "rank": 81,
       "full_name": "storybookjs/storybook",
       "owner": "storybookjs",
       "name": "storybook",
@@ -801,16 +811,6 @@
       "language": "TypeScript",
       "first_seen": "2026-08-02",
       "trending_days": 1
-    },
-    {
-      "rank": 81,
-      "full_name": "home-assistant/core",
-      "owner": "home-assistant",
-      "name": "core",
-      "stars": 90290,
-      "language": "Python",
-      "first_seen": "2026-08-27",
-      "trending_days": 2
     },
     {
       "rank": 82,

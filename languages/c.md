@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 218
+- **Total Repositories**: 219
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
 
@@ -19,7 +19,16 @@
 | [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,243 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,779 | 2026-08-01 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 19,433 | 2026-08-02 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 25,000 | 2026-08-05 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 6,877 | 2026-08-08 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [acidanthera/OpenCorePkg](../repos/acidanthera/OpenCorePkg.md) | ⭐ 15,526 | 2026-08-08 | 5 |
@@ -28,22 +37,13 @@
 | [rexglue/rexglue-sdk](../repos/rexglue/rexglue-sdk.md) | ⭐ 1,035 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [arendst/Tasmota](../repos/arendst/Tasmota.md) | ⭐ 24,821 | 2026-08-09 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) | ⭐ 15,861 | 2026-08-15 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [reactos/reactos](../repos/reactos/reactos.md) | ⭐ 18,186 | 2026-08-16 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [lyssadev/Spotilol](../repos/lyssadev/Spotilol.md) | ⭐ 535 | 2026-09-22 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tarwin/tinyjsapp](../repos/tarwin/tinyjsapp.md) | ⭐ 930 | 2026-10-11 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [sp00nznet/ps3recomp](../repos/sp00nznet/ps3recomp.md) | ⭐ 385 | 2026-10-11 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [sp00nznet/xboxrecomp](../repos/sp00nznet/xboxrecomp.md) | ⭐ 180 | 2026-10-11 | 2 |
 
 
 ---
@@ -67,7 +67,7 @@
 | [HarbourMasters/2ship2harkinian](../repos/HarbourMasters/2ship2harkinian.md) | ⭐ 2,222 | 2026-09-14 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [HarbourMasters/PaperBoat](../repos/HarbourMasters/PaperBoat.md) | ⭐ 341 | 2026-09-19 |  |
+| [HarbourMasters/PaperBoat](../repos/HarbourMasters/PaperBoat.md) | ⭐ 455 | 2026-09-19 | Paper Mario 64 port based on the Paper Mario DX decompilation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [foobnix/LibreraReader](../repos/foobnix/LibreraReader.md) | ⭐ 4,823 | 2026-09-19 | Book Reader for Android |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.296Z*
+*Last updated: 2026-10-12T21:02:07.385Z*

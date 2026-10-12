@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 94,324 |
-| **Forks** | 🍴 16,034 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 100,889 |
+| **Forks** | 🍴 16,969 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Sep 29, 2026 |
+| **Last Seen** | Oct 12, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or similar-topics*
+*Similar: Check repositories in TypeScript or acpx*
 
 ---
 
@@ -54,7 +54,7 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 3 days
 
 ---
@@ -62,10 +62,10 @@
 ## Categories
 
 ### Topics
-
+[`acpx`](../../topics/acpx.md) [`agent-orchestration`](../../topics/agent-orchestration.md) [`agent-skills`](../../topics/agent-skills.md) [`agentic-ai`](../../topics/agentic-ai.md) [`ai-agents`](../../topics/ai-agents.md) [`ai-engineering`](../../topics/ai-engineering.md) [`ai-governance`](../../topics/ai-governance.md) [`ai-tools`](../../topics/ai-tools.md) [`autonomous-agents`](../../topics/autonomous-agents.md) [`claude`](../../topics/claude.md) [`claude-code`](../../topics/claude-code.md) [`claude-skills`](../../topics/claude-skills.md) [`codex`](../../topics/codex.md) [`hermes`](../../topics/hermes.md) [`llm`](../../topics/llm.md) [`mcp`](../../topics/mcp.md) [`multi-agent`](../../topics/multi-agent.md) [`openclaw`](../../topics/openclaw.md) [`project-management`](../../topics/project-management.md) [`workflow-automation`](../../topics/workflow-automation.md) 
 
 ### Curated Categories
-`General` 
+`Artificial Intelligence` `Large Language Models` `DevOps &amp; CI&#x2F;CD` `Containers &amp; Orchestration` `Systems Programming` `Developer Tools` `Automation` `Robotics` 
 
 ---
 
@@ -76,10 +76,10 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
-| **Documentation** | Good | Well-maintained documentation |
-| **Community** | Active | Regular contributions and discussions |
+| **Documentation** | Excellent | Comprehensive guides and examples |
+| **Community** | Very Active | 100,889+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -98,5 +98,5 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:40.910Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-10-12T21:02:10.198Z*  
+*Data from 9 trending reports*

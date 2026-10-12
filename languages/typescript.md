@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 257
+- **Total Repositories**: 258
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,10 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 100,889 | 2026-08-02 | 9 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 33,970 | 2026-08-07 | 14 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [agalwood/Motrix](../repos/agalwood/Motrix.md) | ⭐ 56,553 | 2026-08-17 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [rmyndharis/OpenWA](../repos/rmyndharis/OpenWA.md) | ⭐ 15,378 | 2026-08-19 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 39,687 | 2026-09-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 129,595 | 2026-10-06 | 6 |
@@ -52,7 +64,7 @@
 | [thesysdev/openui](../repos/thesysdev/openui.md) | ⭐ 10,563 | 2026-09-13 | The Open Standard for Generative UI |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 38,128 | 2026-09-14 | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, ... |
+| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 39,687 | 2026-09-14 | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [reconurge/flowsint](../repos/reconurge/flowsint.md) | ⭐ 9,556 | 2026-09-14 | A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecur... |
@@ -90,9 +102,9 @@
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 112,105 | 2026-08-07 | 11 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 100,889 | 2026-08-02 | 9 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 94,324 | 2026-08-02 | 8 |
 | [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 90,957 | 2026-08-22 | 3 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
 | [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 88,062 | 2026-08-28 | 3 |
@@ -107,8 +119,8 @@
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 17 | ⭐ 149,758 | 2026-08-07 | 2026-10-07 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 17 | ⭐ 57,867 | 2026-08-08 | 2026-10-06 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 14 | ⭐ 33,970 | 2026-08-07 | 2026-10-12 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 13 | ⭐ 135,527 | 2026-08-02 | 2026-10-06 |
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 13 | ⭐ 32,095 | 2026-08-07 | 2026-10-08 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 13 | ⭐ 78,223 | 2026-08-11 | 2026-09-25 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 12 | ⭐ 74,000 | 2026-08-10 | 2026-10-06 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 11 | ⭐ 53,038 | 2026-08-01 | 2026-10-06 |
@@ -221,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.372Z*
+*Last updated: 2026-10-12T21:02:07.485Z*

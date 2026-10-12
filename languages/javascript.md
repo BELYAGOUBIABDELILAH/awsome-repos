@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 157
+- **Total Repositories**: 160
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,7 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 7,890 | 2026-08-01 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,764 | 2026-08-03 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [greensock/GSAP](../repos/greensock/GSAP.md) | ⭐ 29,096 | 2026-08-04 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 39,942 | 2026-08-06 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [liyupi/ai-guide](../repos/liyupi/ai-guide.md) | ⭐ 21,025 | 2026-08-19 | 5 |
@@ -29,6 +38,12 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [MagicMirrorOrg/MagicMirror](../repos/MagicMirrorOrg/MagicMirror.md) | ⭐ 24,088 | 2026-10-11 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [poloclub/transformer-explainer](../repos/poloclub/transformer-explainer.md) | ⭐ 8,927 | 2026-10-12 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [JoeanAmier/TikTokDownloader](../repos/JoeanAmier/TikTokDownloader.md) | ⭐ 16,745 | 2026-10-12 | 1 |
 
 
 ---
@@ -106,10 +121,10 @@
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 18 | ⭐ 77,610 | 2026-08-05 | 2026-10-06 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 13 | ⭐ 3,954 | 2026-08-07 | 2026-10-03 |
+| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 12 | ⭐ 27,764 | 2026-08-03 | 2026-10-12 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 11 | ⭐ 143,238 | 2026-07-30 | 2026-10-07 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 11 | ⭐ 33,755 | 2026-08-02 | 2026-10-01 |
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 11 | ⭐ 29,939 | 2026-08-08 | 2026-10-09 |
-| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | 11 | ⭐ 9,110 | 2026-08-10 | 2026-10-03 |
+| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 11 | ⭐ 39,942 | 2026-08-06 | 2026-10-12 |
 
 ---
 
@@ -138,6 +153,7 @@
 - [is-a-dev/register](../repos/is-a-dev/register.md) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain.
 - [validatorjs/validator.js](../repos/validatorjs/validator.js.md) - String validation
 - [Axorax/awesome-free-apps](../repos/Axorax/awesome-free-apps.md) - Curated list of the best free apps for PC and mobile
+- [vernesong/OpenClash](../repos/vernesong/OpenClash.md) - A Clash Client For OpenWrt
 - [webpack/webpack](../repos/webpack/webpack.md) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splittin...
 - [greensock/GSAP](../repos/greensock/GSAP.md) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [expressjs/express](../repos/expressjs/express.md) - Fast, unopinionated, minimalist web framework for node.
@@ -214,8 +230,7 @@
 - [FB208/OpenBidKit_Yibiao](../repos/FB208/OpenBidKit_Yibiao.md) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
 - [fmhy/edit](../repos/fmhy/edit.md) - Make changes to FMHY
 - [nasa-gibs/worldview](../repos/nasa-gibs/worldview.md) - Interactive interface for browsing global, full-resolution satellite imagery
-- [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) - ⭐️  Companies that don&#39;t have a broken hiring process
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.332Z*
+*Last updated: 2026-10-12T21:02:07.433Z*

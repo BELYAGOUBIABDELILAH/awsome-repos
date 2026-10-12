@@ -19,6 +19,9 @@
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,926 | 2026-08-04 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 425 | 2026-08-08 | 38 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [benjjneb/dada2](../repos/benjjneb/dada2.md) | ⭐ 558 | 2026-10-11 | 2 |
 
 
@@ -60,7 +63,7 @@
 | [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 676 | 2026-08-01 | 40 |
 | [benjjneb/dada2](../repos/benjjneb/dada2.md) | ⭐ 558 | 2026-10-11 | 2 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 486 | 2026-08-03 | 8 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 423 | 2026-08-08 | 37 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 425 | 2026-08-08 | 38 |
 | [PecanProject/pecan](../repos/PecanProject/pecan.md) | ⭐ 244 | 2026-09-08 | 2 |
 | [r-lib/tree-sitter-r](../repos/r-lib/tree-sitter-r.md) | ⭐ 153 | 2026-08-09 | 12 |
 
@@ -71,8 +74,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [jinworks/CellChat](../repos/jinworks/CellChat.md) | 40 | ⭐ 676 | 2026-08-01 | 2026-10-09 |
+| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 38 | ⭐ 425 | 2026-08-08 | 2026-10-12 |
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 37 | ⭐ 4,618 | 2026-08-01 | 2026-10-09 |
-| [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 37 | ⭐ 423 | 2026-08-08 | 2026-10-09 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | 36 | ⭐ 2,804 | 2026-08-01 | 2026-10-09 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 33 | ⭐ 893 | 2026-08-01 | 2026-10-07 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 24 | ⭐ 3,926 | 2026-08-04 | 2026-10-12 |
@@ -111,4 +114,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.357Z*
+*Last updated: 2026-10-12T21:02:07.466Z*

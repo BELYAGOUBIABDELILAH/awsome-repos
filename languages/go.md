@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 295
+- **Total Repositories**: 297
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-10-09
+- **Last Updated**: 2026-10-12
 
 ---
 
@@ -25,10 +25,16 @@
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 33,419 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,887 | 2026-08-01 | 20 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [lharries/whatsapp-mcp](../repos/lharries/whatsapp-mcp.md) | ⭐ 6,547 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Project-HAMi/HAMi](../repos/Project-HAMi/HAMi.md) | ⭐ 4,708 | 2026-08-04 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [YouROK/TorrServer](../repos/YouROK/TorrServer.md) | ⭐ 3,121 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 17,638 | 2026-08-06 | 7 |
@@ -38,12 +44,6 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 12,891 | 2026-08-19 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 46,386 | 2026-08-20 | 13 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [BishopFox/sliver](../repos/BishopFox/sliver.md) | ⭐ 12,097 | 2026-08-29 | 3 |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,527 | 2026-08-01 | 19 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,887 | 2026-08-01 | 20 |
 | [golang/go](../repos/golang/go.md) | ⭐ 139,317 | 2026-07-31 | 13 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,053 | 2026-08-04 | 7 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,384 | 2026-08-15 | 9 |
@@ -116,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 20 | ⭐ 33,419 | 2026-08-01 | 2026-10-12 |
-| [ollama/ollama](../repos/ollama/ollama.md) | 19 | ⭐ 182,527 | 2026-08-01 | 2026-10-09 |
+| [ollama/ollama](../repos/ollama/ollama.md) | 20 | ⭐ 182,887 | 2026-08-01 | 2026-10-12 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 18 | ⭐ 49,776 | 2026-08-01 | 2026-10-12 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 18 | ⭐ 38,286 | 2026-08-01 | 2026-10-07 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 17 | ⭐ 43,788 | 2026-08-07 | 2026-10-12 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.322Z*
+*Last updated: 2026-10-12T21:02:07.419Z*

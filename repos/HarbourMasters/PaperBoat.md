@@ -1,6 +1,6 @@
 # HarbourMasters&#x2F;PaperBoat
 
-> No description available
+> Paper Mario 64 port based on the Paper Mario DX decompilation
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;HarbourMasters&#x2F;PaperBoat) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | CC0-1.0 |
-| **Stars** | ⭐ 341 |
-| **Forks** | 🍴 18 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 455 |
+| **Forks** | 🍴 37 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 19, 2026 |
-| **Last Seen** | Sep 20, 2026 |
+| **Last Seen** | Oct 12, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-12T10:53:43.116Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-10-12T21:02:13.615Z*  
+*Data from 3 trending reports*

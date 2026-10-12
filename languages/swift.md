@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 129
+- **Total Repositories**: 131
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-02
 
@@ -22,10 +22,19 @@
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,912 | 2026-08-24 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,005 | 2026-09-13 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 7,316 | 2026-09-21 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [bobsupra/NuvioTVOS](../repos/bobsupra/NuvioTVOS.md) | ⭐ 286 | 2026-10-11 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [StephenLovino/BetterCast](../repos/StephenLovino/BetterCast.md) | ⭐ 182 | 2026-10-12 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [wuwangzhang1216/ChinaTextbookStudyFree](../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) | ⭐ 412 | 2026-10-12 | 1 |
 
 
 ---
@@ -34,7 +43,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 677 | 2026-09-13 | An an app that installs Sidestore on iOS 27, fully on-device  |
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,005 | 2026-09-13 | An an app that installs Sidestore on iOS 27, fully on-device  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 🕹 Retro video game emulation for macOS |
@@ -215,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.369Z*
+*Last updated: 2026-10-12T21:02:07.481Z*

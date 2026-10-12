@@ -22,6 +22,12 @@
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,863 | 2026-08-06 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [GregTech-Odyssey/GregTech-Odyssey](../repos/GregTech-Odyssey/GregTech-Odyssey.md) | ⭐ 454 | 2026-08-07 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [jensimmons/cssremedy](../repos/jensimmons/cssremedy.md) | ⭐ 2,222 | 2026-09-12 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [adobe/adobe.github.com](../repos/adobe/adobe.github.com.md) | ⭐ 1,663 | 2026-10-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
@@ -181,4 +187,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.307Z*
+*Last updated: 2026-10-12T21:02:07.396Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 209
+- **Total Repositories**: 210
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-09
 
@@ -14,6 +14,9 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 29,888 | 2026-08-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [denoland/celld](../repos/denoland/celld.md) | ⭐ 5,466 | 2026-08-07 | 6 |
@@ -26,6 +29,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [BrandonKowalski/slot](../repos/BrandonKowalski/slot.md) | ⭐ 131 | 2026-10-11 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [microsoft/litebox](../repos/microsoft/litebox.md) | ⭐ 3,122 | 2026-10-12 | 1 |
 
 
 ---
@@ -102,7 +108,7 @@
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 14 | ⭐ 95,867 | 2026-08-09 | 2026-10-01 |
 | [openai/codex](../repos/openai/codex.md) | 13 | ⭐ 128,385 | 2026-08-01 | 2026-10-09 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 13 | ⭐ 23,706 | 2026-08-01 | 2026-10-01 |
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 11 | ⭐ 29,237 | 2026-08-03 | 2026-09-21 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 12 | ⭐ 29,888 | 2026-08-03 | 2026-10-12 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 11 | ⭐ 11,824 | 2026-08-09 | 2026-10-01 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 11 | ⭐ 8,726 | 2026-08-26 | 2026-10-03 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 10 | ⭐ 119,244 | 2026-07-30 | 2026-09-27 |
@@ -215,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.362Z*
+*Last updated: 2026-10-12T21:02:07.472Z*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 280
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-09-25
+- **Last Updated**: 2026-10-12
 
 ---
 
@@ -20,6 +20,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 487,953 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [microsoft/TRELLIS.2](../repos/microsoft/TRELLIS.2.md) | ⭐ 11,876 | 2026-08-01 | 4 |
@@ -34,16 +37,13 @@
 | [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 76,911 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [google/skills](../repos/google/skills.md) | ⭐ 21,214 | 2026-08-07 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [hugohe3/ppt-master](../repos/hugohe3/ppt-master.md) | ⭐ 60,779 | 2026-08-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 59,533 | 2026-08-22 | 15 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [datawhalechina/hello-agents](../repos/datawhalechina/hello-agents.md) | ⭐ 82,697 | 2026-09-02 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [sgl-project/sglang](../repos/sgl-project/sglang.md) | ⭐ 37,031 | 2026-09-04 | 5 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [rlaope/oh-my-hermes](../repos/rlaope/oh-my-hermes.md) | ⭐ 1,971 | 2026-09-14 | All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [OpenBMB/VoxCPM](../repos/OpenBMB/VoxCPM.md) | ⭐ 37,320 | 2026-09-14 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t... |
+| [OpenBMB/VoxCPM](../repos/OpenBMB/VoxCPM.md) | ⭐ 39,163 | 2026-09-14 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [searxng/searxng](../repos/searxng/searxng.md) | ⭐ 37,067 | 2026-09-14 | SearXNG is a free internet metasearch engine which aggregates results from various search service... |
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 483,206 | 2026-08-01 | 8 |
+| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 487,953 | 2026-08-01 | 9 |
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 368,341 | 2026-08-03 | 6 |
 | [vinta/awesome-python](../repos/vinta/awesome-python.md) | ⭐ 319,105 | 2026-09-07 | 1 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 285,114 | 2026-08-08 | 4 |
@@ -123,8 +123,8 @@
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 11 | ⭐ 58,238 | 2026-08-03 | 2026-10-12 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 11 | ⭐ 48,163 | 2026-08-03 | 2026-10-09 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 11 | ⭐ 40,107 | 2026-08-03 | 2026-10-02 |
+| [google/skills](../repos/google/skills.md) | 10 | ⭐ 21,214 | 2026-08-07 | 2026-10-12 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 10 | ⭐ 106,016 | 2026-08-08 | 2026-09-14 |
-| [cactus-compute/needle](../repos/cactus-compute/needle.md) | 10 | ⭐ 12,523 | 2026-08-11 | 2026-09-24 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.355Z*
+*Last updated: 2026-10-12T21:02:07.463Z*

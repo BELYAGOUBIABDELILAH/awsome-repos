@@ -19,6 +19,9 @@
 | [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,169 | 2026-08-01 | 50 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,125 | 2026-08-01 | 28 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
 | [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,033 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
@@ -53,7 +56,7 @@
 | [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,169 | 2026-08-01 | 50 |
 | [mirage/mirage](../repos/mirage/mirage.md) | ⭐ 3,006 | 2026-10-07 | 1 |
 | [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,418 | 2026-08-02 | 4 |
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,122 | 2026-08-01 | 27 |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,125 | 2026-08-01 | 28 |
 | [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,922 | 2026-08-01 | 30 |
 | [savonet/liquidsoap](../repos/savonet/liquidsoap.md) | ⭐ 1,722 | 2026-08-10 | 2 |
 | [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,383 | 2026-08-01 | 13 |
@@ -76,7 +79,7 @@
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 30 | ⭐ 5,596 | 2026-08-01 | 2026-10-07 |
 | [ocaml/dune](../repos/ocaml/dune.md) | 30 | ⭐ 1,922 | 2026-08-01 | 2026-10-07 |
 | [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 30 | ⭐ 1,033 | 2026-08-01 | 2026-10-12 |
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 27 | ⭐ 2,122 | 2026-08-01 | 2026-10-03 |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 28 | ⭐ 2,125 | 2026-08-01 | 2026-10-12 |
 | [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | 24 | ⭐ 59 | 2026-08-01 | 2026-08-29 |
 | [bcpierce00/unison](../repos/bcpierce00/unison.md) | 21 | ⭐ 5,524 | 2026-08-07 | 2026-10-09 |
 | [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | 14 | ⭐ 902 | 2026-08-03 | 2026-10-07 |
@@ -111,4 +114,4 @@
 
 ---
 
-*Last updated: 2026-10-12T10:53:39.346Z*
+*Last updated: 2026-10-12T21:02:07.452Z*
