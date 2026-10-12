@@ -16,10 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,088 | 2026-08-09 | 8 |
+| [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,089 | 2026-08-09 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | ⭐ 3,151 | 2026-10-07 | 3 |
+| [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | ⭐ 3,151 | 2026-10-07 | 4 |
 
 
 ---
@@ -38,8 +38,8 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,343 | 2026-08-01 | 36 |
-| [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | ⭐ 3,151 | 2026-10-07 | 3 |
-| [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,088 | 2026-08-09 | 8 |
+| [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | ⭐ 3,151 | 2026-10-07 | 4 |
+| [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,089 | 2026-08-09 | 9 |
 | [dotnet/performance](../repos/dotnet/performance.md) | ⭐ 771 | 2026-08-07 | 1 |
 
 ---
@@ -49,8 +49,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [dotnet/fsharp](../repos/dotnet/fsharp.md) | 36 | ⭐ 4,343 | 2026-08-01 | 2026-10-06 |
-| [fsprojects/Paket](../repos/fsprojects/Paket.md) | 8 | ⭐ 2,088 | 2026-08-09 | 2026-10-11 |
-| [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | 3 | ⭐ 3,151 | 2026-10-07 | 2026-10-11 |
+| [fsprojects/Paket](../repos/fsprojects/Paket.md) | 9 | ⭐ 2,089 | 2026-08-09 | 2026-10-12 |
+| [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | 4 | ⭐ 3,151 | 2026-10-07 | 2026-10-12 |
 | [dotnet/performance](../repos/dotnet/performance.md) | 1 | ⭐ 771 | 2026-08-07 | 2026-08-07 |
 
 ---
@@ -64,4 +64,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.774Z*
+*Last updated: 2026-10-12T10:53:39.319Z*

@@ -16,16 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [denoland/celld](../repos/denoland/celld.md) | ⭐ 5,414 | 2026-08-07 | 5 |
+| [denoland/celld](../repos/denoland/celld.md) | ⭐ 5,466 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 4,092 | 2026-09-13 | 6 |
+| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 4,113 | 2026-09-13 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 16,323 | 2026-10-06 | 5 |
+| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 19,734 | 2026-10-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BrandonKowalski/slot](../repos/BrandonKowalski/slot.md) | ⭐ 115 | 2026-10-11 | 1 |
+| [BrandonKowalski/slot](../repos/BrandonKowalski/slot.md) | ⭐ 131 | 2026-10-11 | 2 |
 
 
 ---
@@ -34,16 +34,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [teamclouday/AndroidMic](../repos/teamclouday/AndroidMic.md) | ⭐ 1,632 | 2026-09-12 | Use your Android phone as a microphone for your PC |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NVlabs/cuda-oxide](../repos/NVlabs/cuda-oxide.md) | ⭐ 3,299 | 2026-09-12 | cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idioma... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [Stremio/stremio-core](../repos/Stremio/stremio-core.md) | ⭐ 2,377 | 2026-09-13 | ⚛️ The Stremio Core: types, addon system, UI models, core logic |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 4,092 | 2026-09-13 | A WiFi security auditing software |
+| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 4,113 | 2026-09-13 | A WiFi security auditing software |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CluvexStudio/Aether](../repos/CluvexStudio/Aether.md) | ⭐ 1,871 | 2026-09-14 | A Rust userspace WARP core for censored networks, built around MASQUE over HTTP&#x2F;3 and HTTP&#x2F;2. |
@@ -62,6 +56,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pandorafuture/wx-cli](../repos/pandorafuture/wx-cli.md) | ⭐ 805 | 2026-09-20 | WeChat macOS database decryption and query tool |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HelixDB/helix-db](../repos/HelixDB/helix-db.md) | ⭐ 6,077 | 2026-09-20 | HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [smol-machines/smolvm](../repos/smol-machines/smolvm.md) | ⭐ 6,273 | 2026-09-20 | An embeddable, portable, branchable virtual machine to safely run Agents locally. |
 
 
 ---
@@ -215,4 +215,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.838Z*
+*Last updated: 2026-10-12T10:53:39.362Z*

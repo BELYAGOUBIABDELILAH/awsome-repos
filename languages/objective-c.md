@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,827 | 2026-08-01 | 20 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,827 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,704 | 2026-08-01 | 10 |
+| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,704 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,610 | 2026-08-01 | 36 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,608 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,314 | 2026-08-02 | 26 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,325 | 2026-08-02 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 750 | 2026-08-02 | 23 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | ⭐ 751 | 2026-08-02 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,924 | 2026-08-02 | 15 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 5,931 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 524 | 2026-08-02 | 14 |
+| [34306/FilzaJailedDS](../repos/34306/FilzaJailedDS.md) | ⭐ 524 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,255 | 2026-08-02 | 19 |
+| [PojavLauncherTeam/PojavLauncher_iOS](../repos/PojavLauncherTeam/PojavLauncher_iOS.md) | ⭐ 3,255 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,427 | 2026-08-03 | 17 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,429 | 2026-08-03 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,554 | 2026-08-04 | 14 |
+| [Sequel-Ace/Sequel-Ace](../repos/Sequel-Ace/Sequel-Ace.md) | ⭐ 7,553 | 2026-08-04 | 15 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OneSignal/OneSignal-iOS-SDK](../repos/OneSignal/OneSignal-iOS-SDK.md) | ⭐ 538 | 2026-09-12 | OneSignal makes engaging customers simple and is the fastest, most reliable service to send push ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [button/DeepLinkKit](../repos/button/DeepLinkKit.md) | ⭐ 3,448 | 2026-09-12 | A splendid route-matching, block-based way to handle your deep links. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [marcuswestin/WebViewJavascriptBridge](../repos/marcuswestin/WebViewJavascriptBridge.md) | ⭐ 14,308 | 2026-09-13 | An iOS&#x2F;OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews&#x2F;WebViews |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [donato-fiore/TrollDecrypt](../repos/donato-fiore/TrollDecrypt.md) | ⭐ 831 | 2026-09-21 | iOS IPA Decrypter for TrollStore |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pinterest/PINCache](../repos/pinterest/PINCache.md) | ⭐ 2,685 | 2026-09-21 | Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SelfControlApp/selfcontrol](../repos/SelfControlApp/selfcontrol.md) | ⭐ 4,401 | 2026-09-22 | :skull: Mac app to block your own access to distracting websites etc for a predetermined period o... |
 
 
 ---
@@ -90,8 +90,8 @@
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,371 | 2026-08-02 | 7 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,610 | 2026-08-01 | 36 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,314 | 2026-08-02 | 26 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,608 | 2026-08-01 | 37 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,325 | 2026-08-02 | 27 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,610 | 2026-08-04 | 24 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,215 | 2026-08-04 | 18 |
@@ -102,11 +102,11 @@
 | [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,828 | 2026-08-28 | 2 |
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
 | [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,427 | 2026-08-03 | 17 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,429 | 2026-08-03 | 18 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,321 | 2026-08-04 | 18 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,438 | 2026-08-06 | 4 |
-| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,134 | 2026-08-07 | 13 |
+| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,135 | 2026-08-07 | 14 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
 
 ---
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 37 | ⭐ 136 | 2026-08-01 | 2026-10-09 |
 | [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 37 | ⭐ 60 | 2026-08-01 | 2026-10-09 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 37 | ⭐ 25,608 | 2026-08-01 | 2026-10-12 |
 | [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 36 | ⭐ 290 | 2026-08-01 | 2026-10-09 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 36 | ⭐ 25,610 | 2026-08-01 | 2026-10-11 |
 | [google/promises](../repos/google/promises.md) | 35 | ⭐ 3,827 | 2026-08-01 | 2026-10-09 |
 | [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 29 | ⭐ 2,030 | 2026-08-08 | 2026-10-09 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 27 | ⭐ 22,325 | 2026-08-02 | 2026-10-12 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 27 | ⭐ 675 | 2026-08-04 | 2026-10-09 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 26 | ⭐ 22,314 | 2026-08-02 | 2026-10-11 |
+| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 24 | ⭐ 751 | 2026-08-02 | 2026-10-12 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 24 | ⭐ 16,610 | 2026-08-04 | 2026-10-03 |
-| [geode-sdk/ios-launcher](../repos/geode-sdk/ios-launcher.md) | 23 | ⭐ 750 | 2026-08-02 | 2026-10-11 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.818Z*
+*Last updated: 2026-10-12T10:53:39.348Z*

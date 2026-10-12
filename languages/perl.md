@@ -16,19 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,529 | 2026-08-01 | 29 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,530 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mojolicious/mojo](../repos/mojolicious/mojo.md) | ⭐ 2,753 | 2026-10-09 | 2 |
+| [mojolicious/mojo](../repos/mojolicious/mojo.md) | ⭐ 2,753 | 2026-10-09 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [docker-library/repo-info](../repos/docker-library/repo-info.md) | ⭐ 608 | 2026-09-12 | Extended information (especially license and layer details) about the published Official Images |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rsnapshot/rsnapshot](../repos/rsnapshot/rsnapshot.md) | ⭐ 3,683 | 2026-09-21 | a tool for backing up your data using rsync (if you want to get help, use https:&#x2F;&#x2F;lists.sourcefor... |
@@ -62,12 +59,12 @@
 | [holzschu/a-shell](../repos/holzschu/a-shell.md) | ⭐ 3,950 | 2026-08-02 | 21 |
 | [rsnapshot/rsnapshot](../repos/rsnapshot/rsnapshot.md) | ⭐ 3,683 | 2026-09-21 | 1 |
 | [ddclient/ddclient](../repos/ddclient/ddclient.md) | ⭐ 3,517 | 2026-08-10 | 5 |
-| [mojolicious/mojo](../repos/mojolicious/mojo.md) | ⭐ 2,753 | 2026-10-09 | 2 |
+| [mojolicious/mojo](../repos/mojolicious/mojo.md) | ⭐ 2,753 | 2026-10-09 | 3 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | ⭐ 2,680 | 2026-08-01 | 32 |
 | [Perl/perl5](../repos/Perl/perl5.md) | ⭐ 2,332 | 2026-08-03 | 23 |
 | [LMS-Community/slimserver](../repos/LMS-Community/slimserver.md) | ⭐ 1,780 | 2026-08-09 | 2 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | ⭐ 1,698 | 2026-08-01 | 27 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,529 | 2026-08-01 | 29 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,530 | 2026-08-01 | 30 |
 | [mrash/fwknop](../repos/mrash/fwknop.md) | ⭐ 1,441 | 2026-08-22 | 3 |
 | [asbru-cm/asbru-cm](../repos/asbru-cm/asbru-cm.md) | ⭐ 1,294 | 2026-08-03 | 3 |
 | [lm-sensors/lm-sensors](../repos/lm-sensors/lm-sensors.md) | ⭐ 1,152 | 2026-08-01 | 14 |
@@ -86,7 +83,7 @@
 | [exiftool/exiftool](../repos/exiftool/exiftool.md) | 46 | ⭐ 5,136 | 2026-08-01 | 2026-10-08 |
 | [glpi-project/glpi-agent](../repos/glpi-project/glpi-agent.md) | 40 | ⭐ 500 | 2026-08-01 | 2026-10-09 |
 | [szTheory/exifcleaner](../repos/szTheory/exifcleaner.md) | 32 | ⭐ 2,680 | 2026-08-01 | 2026-09-14 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 29 | ⭐ 1,529 | 2026-08-01 | 2026-10-11 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 30 | ⭐ 1,530 | 2026-08-01 | 2026-10-12 |
 | [inverse-inc/packetfence](../repos/inverse-inc/packetfence.md) | 27 | ⭐ 1,698 | 2026-08-01 | 2026-10-08 |
 | [Perl/perl5](../repos/Perl/perl5.md) | 23 | ⭐ 2,332 | 2026-08-03 | 2026-10-02 |
 | [znuny/Znuny](../repos/znuny/Znuny.md) | 21 | ⭐ 599 | 2026-08-01 | 2026-10-03 |
@@ -139,4 +136,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.824Z*
+*Last updated: 2026-10-12T10:53:39.352Z*

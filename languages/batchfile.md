@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Flowseal/zapret-discord-youtube](../repos/Flowseal/zapret-discord-youtube.md) | ⭐ 33,199 | 2026-09-12 |  |
 
+*No new Batchfile repositories in the last 30 days*
 
 ---
 
@@ -50,4 +48,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.736Z*
+*Last updated: 2026-10-12T10:53:39.294Z*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 99
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-11
+- **Last Updated**: 2026-10-12
 
 ---
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,739 | 2026-08-01 | 41 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,869 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 35,160 | 2026-08-01 | 37 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 35,614 | 2026-08-01 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 19,341 | 2026-08-02 | 33 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 19,374 | 2026-08-02 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,198 | 2026-08-02 | 21 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,201 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,104 | 2026-08-06 | 15 |
+| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,109 | 2026-08-06 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) | ⭐ 13,051 | 2026-08-09 | 15 |
+| [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) | ⭐ 13,056 | 2026-08-09 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Predidit/KazumiRules](../repos/Predidit/KazumiRules.md) | ⭐ 2,286 | 2026-08-10 | 7 |
+| [Predidit/KazumiRules](../repos/Predidit/KazumiRules.md) | ⭐ 2,293 | 2026-08-10 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [sdegenaar/liquid_glass_widgets](../repos/sdegenaar/liquid_glass_widgets.md) | ⭐ 695 | 2026-09-12 | Flutter UI kit implementing Apple&#39;s iOS 26 Liquid Glass design language - a comprehensive glass w... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [BenderBlog/traintime_pda](../repos/BenderBlog/traintime_pda.md) | ⭐ 320 | 2026-09-14 | 开源的西电学生信息查询软件，包括课表查询、成绩查询、电费查询等功能。手机版称为 XDYou  |
@@ -79,22 +76,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,739 | 2026-08-01 | 41 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,869 | 2026-08-01 | 42 |
 | [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 93,607 | 2026-08-02 | 23 |
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 77,208 | 2026-08-01 | 20 |
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 54,980 | 2026-08-02 | 30 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 49,303 | 2026-08-04 | 20 |
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 35,160 | 2026-08-01 | 37 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 35,614 | 2026-08-01 | 38 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,073 | 2026-08-02 | 32 |
 | [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 26,730 | 2026-09-06 | 13 |
 | [mitesh77/Best-Flutter-UI-Templates](../repos/mitesh77/Best-Flutter-UI-Templates.md) | ⭐ 22,819 | 2026-08-01 | 2 |
-| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 19,341 | 2026-08-02 | 33 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 19,374 | 2026-08-02 | 34 |
 | [flutter/samples](../repos/flutter/samples.md) | ⭐ 19,271 | 2026-08-06 | 6 |
 | [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 16,092 | 2026-08-01 | 21 |
 | [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 15,361 | 2026-08-02 | 32 |
-| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,104 | 2026-08-06 | 15 |
+| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,109 | 2026-08-06 | 16 |
 | [guozhigq/pilipala](../repos/guozhigq/pilipala.md) | ⭐ 13,848 | 2026-08-20 | 2 |
-| [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) | ⭐ 13,051 | 2026-08-09 | 15 |
+| [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) | ⭐ 13,056 | 2026-08-09 | 16 |
 | [cfug/dio](../repos/cfug/dio.md) | ⭐ 12,840 | 2026-09-05 | 1 |
 | [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,295 | 2026-08-01 | 18 |
 | [venera-app/venera](../repos/venera-app/venera.md) | ⭐ 11,143 | 2026-08-02 | 22 |
@@ -106,16 +103,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [flutter/flutter](../repos/flutter/flutter.md) | 41 | ⭐ 179,739 | 2026-08-01 | 2026-10-11 |
-| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 37 | ⭐ 35,160 | 2026-08-01 | 2026-10-11 |
-| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 33 | ⭐ 19,341 | 2026-08-02 | 2026-10-11 |
+| [flutter/flutter](../repos/flutter/flutter.md) | 42 | ⭐ 179,869 | 2026-08-01 | 2026-10-12 |
+| [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 38 | ⭐ 35,614 | 2026-08-01 | 2026-10-12 |
+| [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 34 | ⭐ 19,374 | 2026-08-02 | 2026-10-12 |
 | [KaringX/karing](../repos/KaringX/karing.md) | 32 | ⭐ 15,361 | 2026-08-02 | 2026-10-06 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 32 | ⭐ 33,073 | 2026-08-02 | 2026-10-06 |
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | 30 | ⭐ 54,980 | 2026-08-02 | 2026-10-09 |
 | [localsend/localsend](../repos/localsend/localsend.md) | 23 | ⭐ 93,607 | 2026-08-02 | 2026-10-07 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 22 | ⭐ 4,201 | 2026-08-02 | 2026-10-12 |
 | [venera-app/venera](../repos/venera-app/venera.md) | 22 | ⭐ 11,143 | 2026-08-02 | 2026-10-06 |
 | [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | 21 | ⭐ 16,092 | 2026-08-01 | 2026-10-07 |
-| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 21 | ⭐ 4,198 | 2026-08-02 | 2026-10-11 |
 
 ---
 
@@ -223,4 +220,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.768Z*
+*Last updated: 2026-10-12T10:53:39.315Z*

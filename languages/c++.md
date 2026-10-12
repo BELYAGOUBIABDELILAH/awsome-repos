@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 270
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-11
+- **Last Updated**: 2026-10-12
 
 ---
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,862 | 2026-07-30 | 23 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,877 | 2026-07-30 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 11,694 | 2026-08-02 | 13 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 11,716 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 30,639 | 2026-08-03 | 11 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 30,701 | 2026-08-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,338 | 2026-08-03 | 8 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,361 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 33,406 | 2026-08-03 | 12 |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 33,442 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dyang886/Game-Cheats-Manager](../repos/dyang886/Game-Cheats-Manager.md) | ⭐ 15,208 | 2026-08-05 | 3 |
+| [dyang886/Game-Cheats-Manager](../repos/dyang886/Game-Cheats-Manager.md) | ⭐ 15,235 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [telegramdesktop/tdesktop](../repos/telegramdesktop/tdesktop.md) | ⭐ 33,198 | 2026-08-05 | 6 |
+| [telegramdesktop/tdesktop](../repos/telegramdesktop/tdesktop.md) | ⭐ 33,216 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,662 | 2026-08-09 | 9 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,725 | 2026-08-09 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/ncnn](../repos/Tencent/ncnn.md) | ⭐ 23,934 | 2026-08-09 | 3 |
+| [Tencent/ncnn](../repos/Tencent/ncnn.md) | ⭐ 23,942 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 7,632 | 2026-08-10 | 7 |
+| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 7,648 | 2026-08-10 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [0xShug0/audio.cpp](../repos/0xShug0/audio.cpp.md) | ⭐ 3,321 | 2026-09-12 | An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VA... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Atmosphere-NX/Atmosphere](../repos/Atmosphere-NX/Atmosphere.md) | ⭐ 19,861 | 2026-09-12 | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dsp56300/gearmulator](../repos/dsp56300/gearmulator.md) | ⭐ 1,399 | 2026-09-12 | Low Level Emulation of classic VA synths &amp; effects of the late 90s&#x2F;2000s by emulating the used ICs |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [lkimuk/ReArk](../repos/lkimuk/ReArk.md) | ⭐ 311 | 2026-09-12 | An intelligent reverse engineering analysis tool designed for multiple target platforms, currentl... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [scylladb/scylladb](../repos/scylladb/scylladb.md) | ⭐ 15,749 | 2026-09-12 | NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jomjol/AI-on-the-edge-device](../repos/jomjol/AI-on-the-edge-device.md) | ⭐ 8,759 | 2026-09-13 | Easy to use device for connecting &quot;old&quot; measuring units (water, power, gas, ...) to the digital w... |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jtenniswood/espcontrol](../repos/jtenniswood/espcontrol.md) | ⭐ 1,010 | 2026-09-14 | Esphome based smart home control panel |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [OpenTTD/OpenTTD](../repos/OpenTTD/OpenTTD.md) | ⭐ 8,323 | 2026-09-14 | OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [eden-emulator/mirror](../repos/eden-emulator/mirror.md) | ⭐ 224 | 2026-09-14 | Mirror of Eden. PRs welcome. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [flameshot-org/flameshot](../repos/flameshot-org/flameshot.md) | ⭐ 31,014 | 2026-09-19 | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mumble-voip/mumble](../repos/mumble-voip/mumble.md) | ⭐ 8,292 | 2026-09-20 | Mumble is an open-source, low-latency, high quality voice chat software. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [f4exb/sdrangel](../repos/f4exb/sdrangel.md) | ⭐ 4,057 | 2026-09-21 | SDR Rx&#x2F;Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay a... |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,862 | 2026-07-30 | 23 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,877 | 2026-07-30 | 24 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 130,537 | 2026-08-01 | 28 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | 2026-08-04 | 4 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
@@ -100,13 +100,13 @@
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,087 | 2026-08-01 | 15 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,338 | 2026-08-03 | 8 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,361 | 2026-08-03 | 9 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,360 | 2026-08-02 | 8 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,885 | 2026-08-19 | 10 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,662 | 2026-08-09 | 9 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,725 | 2026-08-09 | 10 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 40,494 | 2026-08-02 | 7 |
 
 ---
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 28 | ⭐ 130,537 | 2026-08-01 | 2026-10-08 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 23 | ⭐ 200,862 | 2026-07-30 | 2026-10-11 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 24 | ⭐ 200,877 | 2026-07-30 | 2026-10-12 |
 | [google/googletest](../repos/google/googletest.md) | 19 | ⭐ 39,629 | 2026-08-04 | 2026-10-06 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 16 | ⭐ 527 | 2026-08-01 | 2026-10-09 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 15 | ⭐ 72,087 | 2026-08-01 | 2026-10-02 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 14 | ⭐ 11,716 | 2026-08-02 | 2026-10-12 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 14 | ⭐ 76,454 | 2026-08-08 | 2026-10-01 |
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 13 | ⭐ 11,694 | 2026-08-02 | 2026-10-11 |
-| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | 12 | ⭐ 33,406 | 2026-08-03 | 2026-10-11 |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | 13 | ⭐ 33,442 | 2026-08-03 | 2026-10-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.750Z*
+*Last updated: 2026-10-12T10:53:39.304Z*

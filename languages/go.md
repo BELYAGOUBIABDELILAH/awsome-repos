@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 49,705 | 2026-08-01 | 17 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 49,776 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 52,462 | 2026-08-01 | 15 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 52,569 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 33,124 | 2026-08-01 | 19 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 33,419 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lharries/whatsapp-mcp](../repos/lharries/whatsapp-mcp.md) | ⭐ 6,530 | 2026-08-03 | 4 |
+| [lharries/whatsapp-mcp](../repos/lharries/whatsapp-mcp.md) | ⭐ 6,547 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Project-HAMi/HAMi](../repos/Project-HAMi/HAMi.md) | ⭐ 4,679 | 2026-08-04 | 5 |
+| [Project-HAMi/HAMi](../repos/Project-HAMi/HAMi.md) | ⭐ 4,708 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 17,622 | 2026-08-06 | 6 |
+| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 17,638 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 43,707 | 2026-08-07 | 16 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 43,788 | 2026-08-07 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 12,873 | 2026-08-19 | 8 |
+| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 12,891 | 2026-08-19 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 46,060 | 2026-08-20 | 12 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 46,386 | 2026-08-20 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BishopFox/sliver](../repos/BishopFox/sliver.md) | ⭐ 12,075 | 2026-08-29 | 2 |
+| [BishopFox/sliver](../repos/BishopFox/sliver.md) | ⭐ 12,097 | 2026-08-29 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [p1neappleXpress/OpenFlux](../repos/p1neappleXpress/OpenFlux.md) | ⭐ 1,516 | 2026-09-12 | Network stack research tool. TCP tunnel with pluggable transports. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [najmuzzaman-mohammad/gawkbot](../repos/najmuzzaman-mohammad/gawkbot.md) | ⭐ 1,377 | 2026-09-12 | open source grok bot. gawk bots automate your menial work via AI models and build you microapps t... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [obot-platform/obot](../repos/obot-platform/obot.md) | ⭐ 1,071 | 2026-09-12 | Complete AI Governance Platform from Obot AI |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [hashicorp/nomad](../repos/hashicorp/nomad.md) | ⭐ 16,903 | 2026-09-13 | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of ... |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [karmada-io/karmada](../repos/karmada-io/karmada.md) | ⭐ 5,667 | 2026-09-19 | Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [weave-os/router](../repos/weave-os/router.md) | ⭐ 5,557 | 2026-09-19 | Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-7... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cloudflare/cloudflared](../repos/cloudflare/cloudflared.md) | ⭐ 15,844 | 2026-09-19 | Cloudflare Tunnel client |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [openai/tunnel-client](../repos/openai/tunnel-client.md) | ⭐ 473 | 2026-09-19 | Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, C... |
 
 
 ---
@@ -102,12 +102,12 @@
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,012 | 2026-08-11 | 5 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 52,462 | 2026-08-01 | 15 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 52,569 | 2026-08-01 | 16 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,310 | 2026-08-22 | 3 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,820 | 2026-08-06 | 8 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 49,705 | 2026-08-01 | 17 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 49,776 | 2026-08-01 | 18 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 19 | ⭐ 33,124 | 2026-08-01 | 2026-10-11 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 20 | ⭐ 33,419 | 2026-08-01 | 2026-10-12 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 19 | ⭐ 182,527 | 2026-08-01 | 2026-10-09 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 18 | ⭐ 49,776 | 2026-08-01 | 2026-10-12 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 18 | ⭐ 38,286 | 2026-08-01 | 2026-10-07 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 17 | ⭐ 49,705 | 2026-08-01 | 2026-10-11 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 17 | ⭐ 43,788 | 2026-08-07 | 2026-10-12 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 16 | ⭐ 52,569 | 2026-08-01 | 2026-10-12 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 16 | ⭐ 762 | 2026-08-01 | 2026-10-07 |
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 16 | ⭐ 43,707 | 2026-08-07 | 2026-10-11 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 15 | ⭐ 52,462 | 2026-08-01 | 2026-10-11 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 15 | ⭐ 4,200 | 2026-08-02 | 2026-10-03 |
 | [golang/go](../repos/golang/go.md) | 13 | ⭐ 139,317 | 2026-07-31 | 2026-10-07 |
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | 12 | ⭐ 91,914 | 2026-08-06 | 2026-10-09 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 13 | ⭐ 46,386 | 2026-08-20 | 2026-10-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.779Z*
+*Last updated: 2026-10-12T10:53:39.322Z*

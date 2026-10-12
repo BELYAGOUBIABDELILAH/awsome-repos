@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [JuliaGPU/KernelAbstractions.jl](../repos/JuliaGPU/KernelAbstractions.jl.md) | ⭐ 528 | 2026-10-11 | 1 |
 
+*No Julia repositories trending today*
 
 ---
 
@@ -103,4 +101,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.796Z*
+*Last updated: 2026-10-12T10:53:39.334Z*

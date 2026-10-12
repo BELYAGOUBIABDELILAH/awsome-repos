@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 182
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-11
+- **Last Updated**: 2026-10-12
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,904 | 2026-08-01 | 10 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,923 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,273 | 2026-08-01 | 10 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,278 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,854 | 2026-08-02 | 27 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,946 | 2026-08-02 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,472 | 2026-08-02 | 30 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,572 | 2026-08-02 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,496 | 2026-08-02 | 8 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,527 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AssetRipper/AssetRipper](../repos/AssetRipper/AssetRipper.md) | ⭐ 8,551 | 2026-08-02 | 5 |
+| [AssetRipper/AssetRipper](../repos/AssetRipper/AssetRipper.md) | ⭐ 8,568 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lostindark/DriverStoreExplorer](../repos/lostindark/DriverStoreExplorer.md) | ⭐ 11,846 | 2026-08-02 | 5 |
+| [lostindark/DriverStoreExplorer](../repos/lostindark/DriverStoreExplorer.md) | ⭐ 11,852 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,913 | 2026-08-03 | 9 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,915 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,946 | 2026-08-07 | 10 |
+| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,951 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,117 | 2026-08-10 | 6 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,124 | 2026-08-10 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ProwlEngine/Prowl](../repos/ProwlEngine/Prowl.md) | ⭐ 1,220 | 2026-09-12 | An Open Source C# 3D Game Engine under MIT license, inspired by Unity and featuring a complete ed... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [duplicati/duplicati](../repos/duplicati/duplicati.md) | ⭐ 15,065 | 2026-09-12 | Store securely encrypted backups in the cloud! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [V1ck3s/octo-fiesta](../repos/V1ck3s/octo-fiesta.md) | ⭐ 804 | 2026-09-13 | A Subsonic API proxy server that transparently integrates multiple music streaming providers as s... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mcneel/RhinoAI](../repos/mcneel/RhinoAI.md) | ⭐ 335 | 2026-09-21 | AI features for Rhino |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [0x90d/videoduplicatefinder](../repos/0x90d/videoduplicatefinder.md) | ⭐ 3,707 | 2026-09-22 | Video Duplicate Finder - Crossplatform |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ValveResourceFormat/ValveResourceFormat](../repos/ValveResourceFormat/ValveResourceFormat.md) | ⭐ 2,445 | 2026-09-22 | Source 2 Viewer is an all-in-one tool to browse VPK archives, view, extract, and decompile Source... |
 
 
 ---
@@ -88,26 +88,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,854 | 2026-08-02 | 27 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,946 | 2026-08-02 | 28 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 57,879 | 2026-08-02 | 19 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,640 | 2026-08-06 | 13 |
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,904 | 2026-08-01 | 10 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,923 | 2026-08-01 | 11 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,793 | 2026-08-14 | 4 |
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,913 | 2026-08-03 | 9 |
+| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,915 | 2026-08-03 | 10 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,465 | 2026-08-01 | 17 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,472 | 2026-08-02 | 30 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,572 | 2026-08-02 | 31 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,235 | 2026-08-01 | 17 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,062 | 2026-08-28 | 3 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,603 | 2026-08-05 | 11 |
-| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,117 | 2026-08-10 | 6 |
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,496 | 2026-08-02 | 8 |
+| [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,124 | 2026-08-10 | 7 |
+| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,527 | 2026-08-02 | 9 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,440 | 2026-08-01 | 9 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,231 | 2026-08-27 | 8 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,700 | 2026-08-01 | 10 |
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,273 | 2026-08-01 | 10 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,278 | 2026-08-01 | 11 |
 
 ---
 
@@ -115,8 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 30 | ⭐ 31,472 | 2026-08-02 | 2026-10-11 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 27 | ⭐ 117,854 | 2026-08-02 | 2026-10-11 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 31 | ⭐ 31,572 | 2026-08-02 | 2026-10-12 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 28 | ⭐ 117,946 | 2026-08-02 | 2026-10-12 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 27 | ⭐ 5,592 | 2026-08-03 | 2026-10-09 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 19 | ⭐ 57,879 | 2026-08-02 | 2026-10-07 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 17 | ⭐ 31,235 | 2026-08-01 | 2026-09-25 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.746Z*
+*Last updated: 2026-10-12T10:53:39.300Z*

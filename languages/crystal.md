@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,028 | 2026-10-02 | 6 |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,028 | 2026-10-02 | 7 |
 
 
 ---
@@ -36,7 +36,7 @@
 |------------|-------|------------|---------------|
 | [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 25,142 | 2026-08-01 | 36 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,451 | 2026-08-06 | 9 |
-| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,028 | 2026-10-02 | 6 |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,028 | 2026-10-02 | 7 |
 
 ---
 
@@ -46,7 +46,7 @@
 |------------|---------------|-------|------------|-----------|
 | [iv-org/invidious](../repos/iv-org/invidious.md) | 36 | ⭐ 25,142 | 2026-08-01 | 2026-10-06 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | 9 | ⭐ 1,451 | 2026-08-06 | 2026-10-09 |
-| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | 6 | ⭐ 1,028 | 2026-10-02 | 2026-10-11 |
+| [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | 7 | ⭐ 1,028 | 2026-10-02 | 2026-10-12 |
 
 ---
 
@@ -58,4 +58,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.762Z*
+*Last updated: 2026-10-12T10:53:39.312Z*

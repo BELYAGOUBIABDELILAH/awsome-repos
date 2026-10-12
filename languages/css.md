@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 72
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-11
+- **Last Updated**: 2026-10-12
 
 ---
 
@@ -16,25 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,823 | 2026-08-02 | 22 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,835 | 2026-08-02 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,859 | 2026-08-06 | 17 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,863 | 2026-08-06 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adobe/adobe.github.com](../repos/adobe/adobe.github.com.md) | ⭐ 1,662 | 2026-10-11 | 1 |
+| [adobe/adobe.github.com](../repos/adobe/adobe.github.com.md) | ⭐ 1,663 | 2026-10-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Astromations/Hazy](../repos/Astromations/Hazy.md) | ⭐ 456 | 2026-10-11 | 1 |
+| [Astromations/Hazy](../repos/Astromations/Hazy.md) | ⭐ 457 | 2026-10-11 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jensimmons/cssremedy](../repos/jensimmons/cssremedy.md) | ⭐ 2,224 | 2026-09-12 | Start your project with a remedy for the technical debt of CSS.  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CDCgov/prime-reportstream](../repos/CDCgov/prime-reportstream.md) | ⭐ 83 | 2026-09-13 | ReportStream is a public intermediary tool for delivery of data between different parts of the he... |
@@ -55,10 +52,10 @@
 | [mrrfv/open-android-backup](../repos/mrrfv/open-android-backup.md) | ⭐ 1,414 | 2026-10-03 | Back up your device without vendor lock-ins, using insecure software or root. Supports encryption... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [adobe/adobe.github.com](../repos/adobe/adobe.github.com.md) | ⭐ 1,662 | 2026-10-11 | Adobe central hub for open source |
+| [adobe/adobe.github.com](../repos/adobe/adobe.github.com.md) | ⭐ 1,663 | 2026-10-11 | Adobe central hub for open source |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Astromations/Hazy](../repos/Astromations/Hazy.md) | ⭐ 456 | 2026-10-11 | A translucent spicetify theme |
+| [Astromations/Hazy](../repos/Astromations/Hazy.md) | ⭐ 457 | 2026-10-11 | A translucent spicetify theme |
 
 
 ---
@@ -67,7 +64,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,859 | 2026-08-06 | 17 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,863 | 2026-08-06 | 18 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,507 | 2026-08-01 | 10 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,365 | 2026-08-04 | 24 |
 | [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 29,696 | 2026-08-02 | 26 |
@@ -75,7 +72,7 @@
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,823 | 2026-08-02 | 22 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,835 | 2026-08-02 | 23 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,511 | 2026-08-01 | 23 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,837 | 2026-08-04 | 7 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,669 | 2026-08-06 | 12 |
@@ -100,10 +97,10 @@
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 25 | ⭐ 1,425 | 2026-08-01 | 2026-10-03 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 24 | ⭐ 45,365 | 2026-08-04 | 2026-10-08 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 23 | ⭐ 12,511 | 2026-08-01 | 2026-10-09 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 22 | ⭐ 12,823 | 2026-08-02 | 2026-10-11 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 23 | ⭐ 12,835 | 2026-08-02 | 2026-10-12 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 18 | ⭐ 82,863 | 2026-08-06 | 2026-10-12 |
 | [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 18 | ⭐ 5,808 | 2026-08-10 | 2026-10-07 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 17 | ⭐ 9,316 | 2026-08-01 | 2026-10-02 |
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 17 | ⭐ 82,859 | 2026-08-06 | 2026-10-11 |
 
 ---
 
@@ -184,4 +181,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.755Z*
+*Last updated: 2026-10-12T10:53:39.307Z*

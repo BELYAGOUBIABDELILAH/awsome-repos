@@ -16,13 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,466 | 2026-08-01 | 42 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,469 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 565 | 2026-08-01 | 6 |
+| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 617 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/python-versions](../repos/actions/python-versions.md) | ⭐ 242 | 2026-08-03 | 10 |
+| [actions/python-versions](../repos/actions/python-versions.md) | ⭐ 242 | 2026-08-03 | 11 |
 
 
 ---
@@ -52,7 +52,7 @@
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,040 | 2026-08-02 | 8 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,466 | 2026-08-01 | 42 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,469 | 2026-08-01 | 43 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,073 | 2026-08-04 | 4 |
 | [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,250 | 2026-09-02 | 12 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
@@ -76,7 +76,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 42 | ⭐ 13,466 | 2026-08-01 | 2026-10-11 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 43 | ⭐ 13,469 | 2026-08-01 | 2026-10-12 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 35 | ⭐ 924 | 2026-08-01 | 2026-10-09 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 28 | ⭐ 1,648 | 2026-08-03 | 2026-10-07 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 24 | ⭐ 8,439 | 2026-08-01 | 2026-10-06 |
@@ -148,4 +148,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.826Z*
+*Last updated: 2026-10-12T10:53:39.353Z*

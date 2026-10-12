@@ -16,37 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [greensock/GSAP](../repos/greensock/GSAP.md) | ⭐ 29,054 | 2026-08-04 | 2 |
+| [greensock/GSAP](../repos/greensock/GSAP.md) | ⭐ 29,096 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [liyupi/ai-guide](../repos/liyupi/ai-guide.md) | ⭐ 20,994 | 2026-08-19 | 4 |
+| [liyupi/ai-guide](../repos/liyupi/ai-guide.md) | ⭐ 21,025 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 50,925 | 2026-08-27 | 9 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 52,549 | 2026-08-27 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chaolucky18/xuexitongScript](../repos/chaolucky18/xuexitongScript.md) | ⭐ 2,802 | 2026-10-09 | 2 |
+| [chaolucky18/xuexitongScript](../repos/chaolucky18/xuexitongScript.md) | ⭐ 2,828 | 2026-10-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MagicMirrorOrg/MagicMirror](../repos/MagicMirrorOrg/MagicMirror.md) | ⭐ 24,032 | 2026-10-11 | 1 |
+| [MagicMirrorOrg/MagicMirror](../repos/MagicMirrorOrg/MagicMirror.md) | ⭐ 24,088 | 2026-10-11 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [0xranx/OpenContext](../repos/0xranx/OpenContext.md) | ⭐ 1,117 | 2026-09-12 | A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [sandeco/reversa](../repos/sandeco/reversa.md) | ⭐ 1,632 | 2026-09-12 | Transform legacy systems into executable specifications for AI coding agents |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [QuiteAFancyEmerald/InvisiProxy](../repos/QuiteAFancyEmerald/InvisiProxy.md) | ⭐ 1,552 | 2026-09-12 | InvisiProxy LTS is a web proxy service that helps you access websites that may be blocked by your... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 4,348 | 2026-09-12 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [shaun8149/sdf-js](../repos/shaun8149/sdf-js.md) | ⭐ 269 | 2026-09-13 | Chainable JS SDF library + 基于 SDF 的离散结构生成器层 (form × generator decoupling). Port &amp; extension of fo... |
@@ -65,6 +53,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mindcraft-bots/mindcraft](../repos/mindcraft-bots/mindcraft.md) | ⭐ 5,768 | 2026-09-19 | Minecraft AI with LLMs+Mineflayer |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BuilderIO/skills](../repos/BuilderIO/skills.md) | ⭐ 4,511 | 2026-09-20 | Skills for agents |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [fspecii/ace-step-ui](../repos/fspecii/ace-step-ui.md) | ⭐ 4,961 | 2026-09-20 | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generati... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [androoAGI/starnet](../repos/androoAGI/starnet.md) | ⭐ 1,011 | 2026-09-24 | A living pixel-art station where real AI agents do real work. Local-first desktop agent harness -... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [elidickinson/pi-claude-bridge](../repos/elidickinson/pi-claude-bridge.md) | ⭐ 448 | 2026-09-24 | Claude Code inference provider for Pi. Allows the use of Claude Code of Pro&#x2F;Max subscriptions fro... |
 
 
 ---
@@ -89,8 +89,8 @@
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 66,612 | 2026-08-01 | 18 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 52,549 | 2026-08-27 | 10 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 50,925 | 2026-08-27 | 9 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,174 | 2026-08-08 | 3 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
 
@@ -218,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.794Z*
+*Last updated: 2026-10-12T10:53:39.332Z*

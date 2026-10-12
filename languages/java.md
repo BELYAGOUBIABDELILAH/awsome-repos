@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 214
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-11
+- **Last Updated**: 2026-10-12
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,530 | 2026-08-01 | 7 |
+| [spring-projects/spring-ai](../repos/spring-projects/spring-ai.md) | ⭐ 9,531 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 30,056 | 2026-08-02 | 10 |
+| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 30,060 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MojoLauncher/MojoLauncher](../repos/MojoLauncher/MojoLauncher.md) | ⭐ 1,031 | 2026-08-02 | 8 |
+| [MojoLauncher/MojoLauncher](../repos/MojoLauncher/MojoLauncher.md) | ⭐ 1,032 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 83,125 | 2026-08-03 | 21 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 84,171 | 2026-08-03 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,284 | 2026-08-03 | 8 |
+| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,286 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 5,171 | 2026-08-04 | 11 |
+| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 5,184 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,541 | 2026-08-04 | 7 |
+| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,574 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/flink](../repos/apache/flink.md) | ⭐ 26,399 | 2026-08-04 | 8 |
+| [apache/flink](../repos/apache/flink.md) | ⭐ 26,401 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/doris](../repos/apache/doris.md) | ⭐ 16,068 | 2026-08-05 | 7 |
+| [apache/doris](../repos/apache/doris.md) | ⭐ 16,076 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,609 | 2026-08-05 | 12 |
+| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | ⭐ 30,608 | 2026-08-05 | 13 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hibernate/hibernate-orm](../repos/hibernate/hibernate-orm.md) | ⭐ 6,472 | 2026-09-12 | Idiomatic persistence for Java and relational databases |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apache/gravitino](../repos/apache/gravitino.md) | ⭐ 3,218 | 2026-09-12 | World&#39;s most powerful open data catalog for building a high-performance, geo-distributed and fede... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apache/hudi](../repos/apache/hudi.md) | ⭐ 6,242 | 2026-09-13 | Upserts, Deletes And Incremental Processing on Big Data. |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Katana-Official/SPatch-Update](../repos/Katana-Official/SPatch-Update.md) | ⭐ 2,303 | 2026-09-21 | Update for SPatch nightly |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kknifer7/FreeBox](../repos/kknifer7/FreeBox.md) | ⭐ 1,955 | 2026-09-21 | TVBox电脑版&#x2F;姊妹软件，致力于TVBox功能和生态的跨平台扩展 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PhilJay/MPAndroidChart](../repos/PhilJay/MPAndroidChart.md) | ⭐ 38,169 | 2026-09-21 | A powerful 🚀 Android chart view &#x2F; graph view library, supporting line- bar- pie- radar- bubble- ... |
 
 
 ---
@@ -88,8 +88,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,541 | 2026-08-04 | 7 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 83,125 | 2026-08-03 | 21 |
+| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,574 | 2026-08-04 | 8 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 84,171 | 2026-08-03 | 22 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,565 | 2026-08-04 | 15 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,184 | 2026-08-02 | 15 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
@@ -98,12 +98,12 @@
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,278 | 2026-08-08 | 8 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,912 | 2026-08-02 | 12 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,878 | 2026-08-04 | 11 |
-| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,830 | 2026-08-12 | 5 |
+| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,860 | 2026-08-12 | 6 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
-| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,164 | 2026-08-07 | 8 |
+| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,186 | 2026-08-07 | 9 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 41,787 | 2026-08-05 | 15 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 39,932 | 2026-08-02 | 9 |
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,651 | 2026-08-06 | 8 |
+| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,692 | 2026-08-06 | 9 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
 | [PhilJay/MPAndroidChart](../repos/PhilJay/MPAndroidChart.md) | ⭐ 38,169 | 2026-09-21 | 1 |
 | [alibaba/arthas](../repos/alibaba/arthas.md) | ⭐ 37,526 | 2026-08-28 | 2 |
@@ -115,8 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 23 | ⭐ 5,922 | 2026-08-05 | 2026-10-11 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 21 | ⭐ 83,125 | 2026-08-03 | 2026-10-11 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 24 | ⭐ 5,939 | 2026-08-05 | 2026-10-12 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 22 | ⭐ 84,171 | 2026-08-03 | 2026-10-12 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 18 | ⭐ 27,298 | 2026-08-02 | 2026-10-09 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 18 | ⭐ 29,311 | 2026-08-04 | 2026-10-06 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 15 | ⭐ 78,184 | 2026-08-02 | 2026-10-03 |
@@ -124,7 +124,7 @@
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 15 | ⭐ 41,787 | 2026-08-05 | 2026-09-25 |
 | [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | 13 | ⭐ 13,800 | 2026-08-01 | 2026-10-01 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 13 | ⭐ 34,222 | 2026-08-04 | 2026-09-27 |
-| [Anuken/Mindustry](../repos/Anuken/Mindustry.md) | 12 | ⭐ 29,137 | 2026-08-02 | 2026-09-27 |
+| [xuxueli/xxl-job](../repos/xuxueli/xxl-job.md) | 13 | ⭐ 30,608 | 2026-08-05 | 2026-10-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.791Z*
+*Last updated: 2026-10-12T10:53:39.330Z*

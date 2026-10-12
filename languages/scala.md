@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 65
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-11
+- **Last Updated**: 2026-10-12
 
 ---
 
@@ -16,31 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,560 | 2026-08-01 | 48 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,563 | 2026-08-01 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,040 | 2026-08-01 | 48 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,040 | 2026-08-01 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,965 | 2026-08-01 | 42 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,967 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,300 | 2026-08-01 | 43 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,303 | 2026-08-01 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,164 | 2026-08-01 | 57 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,173 | 2026-08-01 | 58 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,741 | 2026-08-01 | 23 |
+| [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,742 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/kyuubi](../repos/apache/kyuubi.md) | ⭐ 2,369 | 2026-08-03 | 32 |
+| [apache/kyuubi](../repos/apache/kyuubi.md) | ⭐ 2,369 | 2026-08-03 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [com-lihaoyi/mill](../repos/com-lihaoyi/mill.md) | ⭐ 2,797 | 2026-09-20 | 8 |
+| [com-lihaoyi/mill](../repos/com-lihaoyi/mill.md) | ⭐ 2,797 | 2026-09-20 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sbt/sbt-native-packager](../repos/sbt/sbt-native-packager.md) | ⭐ 1,606 | 2026-10-11 | 1 |
+| [sbt/sbt-native-packager](../repos/sbt/sbt-native-packager.md) | ⭐ 1,606 | 2026-10-11 | 2 |
 
 
 ---
@@ -76,17 +76,17 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,965 | 2026-08-01 | 42 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,164 | 2026-08-01 | 57 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,967 | 2026-08-01 | 43 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,173 | 2026-08-01 | 58 |
 | [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,813 | 2026-08-02 | 47 |
 | [scala/scala](../repos/scala/scala.md) | ⭐ 14,562 | 2026-08-01 | 28 |
 | [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,281 | 2026-08-01 | 25 |
 | [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,518 | 2026-09-02 | 5 |
 | [yahoo/CMAK](../repos/yahoo/CMAK.md) | ⭐ 11,924 | 2026-09-07 | 1 |
 | [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,402 | 2026-08-01 | 29 |
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,040 | 2026-08-01 | 48 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,040 | 2026-08-01 | 49 |
 | [twitter/finagle](../repos/twitter/finagle.md) | ⭐ 8,865 | 2026-08-20 | 4 |
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,300 | 2026-08-01 | 43 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,303 | 2026-08-01 | 44 |
 | [snowplow/snowplow](../repos/snowplow/snowplow.md) | ⭐ 7,035 | 2026-08-11 | 7 |
 | [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,955 | 2026-08-01 | 33 |
 | [apache/openwhisk](../repos/apache/openwhisk.md) | ⭐ 6,802 | 2026-08-05 | 7 |
@@ -103,13 +103,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [apache/spark](../repos/apache/spark.md) | 57 | ⭐ 44,164 | 2026-08-01 | 2026-10-11 |
-| [joernio/joern](../repos/joernio/joern.md) | 48 | ⭐ 3,560 | 2026-08-01 | 2026-10-11 |
-| [delta-io/delta](../repos/delta-io/delta.md) | 48 | ⭐ 9,040 | 2026-08-01 | 2026-10-11 |
+| [apache/spark](../repos/apache/spark.md) | 58 | ⭐ 44,173 | 2026-08-01 | 2026-10-12 |
+| [joernio/joern](../repos/joernio/joern.md) | 49 | ⭐ 3,563 | 2026-08-01 | 2026-10-12 |
+| [delta-io/delta](../repos/delta-io/delta.md) | 49 | ⭐ 9,040 | 2026-08-01 | 2026-10-12 |
 | [lichess-org/lila](../repos/lichess-org/lila.md) | 47 | ⭐ 18,813 | 2026-08-02 | 2026-10-09 |
 | [apache/gluten](../repos/apache/gluten.md) | 45 | ⭐ 1,602 | 2026-08-01 | 2026-10-09 |
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 43 | ⭐ 7,300 | 2026-08-01 | 2026-10-11 |
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 42 | ⭐ 73,965 | 2026-08-01 | 2026-10-11 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 44 | ⭐ 7,303 | 2026-08-01 | 2026-10-12 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 43 | ⭐ 73,967 | 2026-08-01 | 2026-10-12 |
 | [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | 41 | ⭐ 1,288 | 2026-08-02 | 2026-10-09 |
 | [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 38 | ⭐ 1,008 | 2026-08-01 | 2026-10-09 |
 | [gatling/gatling](../repos/gatling/gatling.md) | 33 | ⭐ 6,955 | 2026-08-01 | 2026-10-03 |
@@ -186,4 +186,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.841Z*
+*Last updated: 2026-10-12T10:53:39.363Z*

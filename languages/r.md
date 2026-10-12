@@ -16,10 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,926 | 2026-08-04 | 23 |
+| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,926 | 2026-08-04 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [benjjneb/dada2](../repos/benjjneb/dada2.md) | ⭐ 556 | 2026-10-11 | 1 |
+| [benjjneb/dada2](../repos/benjjneb/dada2.md) | ⭐ 558 | 2026-10-11 | 2 |
 
 
 ---
@@ -34,7 +34,7 @@
 | [allisonhorst/palmerpenguins](../repos/allisonhorst/palmerpenguins.md) | ⭐ 1,021 | 2026-10-06 | A great intro dataset for data exploration &amp; visualization (alternative to iris). |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [benjjneb/dada2](../repos/benjjneb/dada2.md) | ⭐ 556 | 2026-10-11 | Accurate sample inference from amplicon data with single nucleotide resolution |
+| [benjjneb/dada2](../repos/benjjneb/dada2.md) | ⭐ 558 | 2026-10-11 | Accurate sample inference from amplicon data with single nucleotide resolution |
 
 
 ---
@@ -48,7 +48,7 @@
 | [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,174 | 2026-08-04 | 22 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,073 | 2026-08-04 | 21 |
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | ⭐ 4,618 | 2026-08-01 | 37 |
-| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,926 | 2026-08-04 | 23 |
+| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,926 | 2026-08-04 | 24 |
 | [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,064 | 2026-08-08 | 3 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,804 | 2026-08-01 | 36 |
 | [jokergoo/ComplexHeatmap](../repos/jokergoo/ComplexHeatmap.md) | ⭐ 1,554 | 2026-09-01 | 1 |
@@ -58,7 +58,7 @@
 | [r-lib/usethis](../repos/r-lib/usethis.md) | ⭐ 922 | 2026-09-24 | 1 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 893 | 2026-08-01 | 33 |
 | [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 676 | 2026-08-01 | 40 |
-| [benjjneb/dada2](../repos/benjjneb/dada2.md) | ⭐ 556 | 2026-10-11 | 1 |
+| [benjjneb/dada2](../repos/benjjneb/dada2.md) | ⭐ 558 | 2026-10-11 | 2 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 486 | 2026-08-03 | 8 |
 | [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | ⭐ 423 | 2026-08-08 | 37 |
 | [PecanProject/pecan](../repos/PecanProject/pecan.md) | ⭐ 244 | 2026-09-08 | 2 |
@@ -75,8 +75,8 @@
 | [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 37 | ⭐ 423 | 2026-08-08 | 2026-10-09 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | 36 | ⭐ 2,804 | 2026-08-01 | 2026-10-09 |
 | [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 33 | ⭐ 893 | 2026-08-01 | 2026-10-07 |
+| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 24 | ⭐ 3,926 | 2026-08-04 | 2026-10-12 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 24 | ⭐ 7,004 | 2026-08-04 | 2026-10-03 |
-| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 23 | ⭐ 3,926 | 2026-08-04 | 2026-10-11 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | 22 | ⭐ 5,694 | 2026-08-02 | 2026-10-03 |
 | [hadley/r4ds](../repos/hadley/r4ds.md) | 22 | ⭐ 5,174 | 2026-08-04 | 2026-10-03 |
 | [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | 21 | ⭐ 5,073 | 2026-08-04 | 2026-10-03 |
@@ -111,4 +111,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.832Z*
+*Last updated: 2026-10-12T10:53:39.357Z*

@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agalwood/Motrix](../repos/agalwood/Motrix.md) | ⭐ 56,458 | 2026-08-17 | 5 |
+| [agalwood/Motrix](../repos/agalwood/Motrix.md) | ⭐ 56,553 | 2026-08-17 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,140 | 2026-09-01 | 3 |
+| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 90,458 | 2026-10-06 | 5 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 129,595 | 2026-10-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CopilotKit/OpenIntelligentUI](../repos/CopilotKit/OpenIntelligentUI.md) | ⭐ 2,568 | 2026-10-11 | 1 |
+| [CopilotKit/OpenIntelligentUI](../repos/CopilotKit/OpenIntelligentUI.md) | ⭐ 2,791 | 2026-10-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chthollyphile/folia-major](../repos/chthollyphile/folia-major.md) | ⭐ 4,849 | 2026-10-11 | 1 |
+| [chthollyphile/folia-major](../repos/chthollyphile/folia-major.md) | ⭐ 5,284 | 2026-10-11 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getnao/nao](../repos/getnao/nao.md) | ⭐ 1,897 | 2026-10-11 | 1 |
+| [getnao/nao](../repos/getnao/nao.md) | ⭐ 1,913 | 2026-10-11 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nab138/iloader](../repos/nab138/iloader.md) | ⭐ 3,310 | 2026-09-12 | User friendly sideloader |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [BuilderIO/agent-native](../repos/BuilderIO/agent-native.md) | ⭐ 6,313 | 2026-09-12 | A framework for building agentic apps |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tech-leads-club/agent-skills](../repos/tech-leads-club/agent-skills.md) | ⭐ 6,008 | 2026-09-13 | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claud... |
@@ -68,6 +62,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Foundry376/Mailspring](../repos/Foundry376/Mailspring.md) | ⭐ 17,803 | 2026-09-14 | :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jetkvm/kvm](../repos/jetkvm/kvm.md) | ⭐ 5,111 | 2026-09-14 | Control any computer remotely |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PasarGuard/panel](../repos/PasarGuard/panel.md) | ⭐ 2,575 | 2026-09-14 | PasarGuard | Unified GUI Censorship Resistant Solution |
 
 
 ---
@@ -80,10 +80,11 @@
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 206,509 | 2026-08-11 | 6 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
-| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,140 | 2026-09-01 | 3 |
+| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 149,758 | 2026-08-07 | 17 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,718 | 2026-08-02 | 5 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 135,527 | 2026-08-02 | 13 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 129,595 | 2026-10-06 | 6 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 112,105 | 2026-08-07 | 11 |
@@ -94,7 +95,6 @@
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 94,324 | 2026-08-02 | 8 |
 | [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 90,957 | 2026-08-22 | 3 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 90,458 | 2026-10-06 | 5 |
 | [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 88,062 | 2026-08-28 | 3 |
 
 ---
@@ -221,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-10-11T21:01:37.853Z*
+*Last updated: 2026-10-12T10:53:39.372Z*
