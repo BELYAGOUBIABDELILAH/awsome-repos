@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Lua |
 | **License** | Other |
-| **Stars** | ⭐ 376 |
-| **Forks** | 🍴 22 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 384 |
+| **Forks** | 🍴 25 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 11, 2026 |
-| **Last Seen** | Oct 12, 2026 |
+| **Last Seen** | Oct 13, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
-- **Longest Streak**: 2 days
+- **Trending Days**: 3
+- **Longest Streak**: 3 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 60&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-12T21:02:14.266Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-10-13T21:02:08.638Z*  
+*Data from 3 trending reports*

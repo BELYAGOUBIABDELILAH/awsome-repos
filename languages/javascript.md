@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 160
+- **Total Repositories**: 161
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-22
 
@@ -16,43 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NomaDamas/k-skill](../repos/NomaDamas/k-skill.md) | ⭐ 7,890 | 2026-08-01 | 6 |
+| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 17,300 | 2026-08-14 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | ⭐ 27,764 | 2026-08-03 | 12 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 55,171 | 2026-08-27 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [greensock/GSAP](../repos/greensock/GSAP.md) | ⭐ 29,096 | 2026-08-04 | 3 |
+| [chaolucky18/xuexitongScript](../repos/chaolucky18/xuexitongScript.md) | ⭐ 2,884 | 2026-10-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | ⭐ 39,942 | 2026-08-06 | 11 |
+| [poloclub/transformer-explainer](../repos/poloclub/transformer-explainer.md) | ⭐ 8,958 | 2026-10-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [liyupi/ai-guide](../repos/liyupi/ai-guide.md) | ⭐ 21,025 | 2026-08-19 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 52,549 | 2026-08-27 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [chaolucky18/xuexitongScript](../repos/chaolucky18/xuexitongScript.md) | ⭐ 2,828 | 2026-10-09 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [MagicMirrorOrg/MagicMirror](../repos/MagicMirrorOrg/MagicMirror.md) | ⭐ 24,088 | 2026-10-11 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [poloclub/transformer-explainer](../repos/poloclub/transformer-explainer.md) | ⭐ 8,927 | 2026-10-12 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [JoeanAmier/TikTokDownloader](../repos/JoeanAmier/TikTokDownloader.md) | ⭐ 16,745 | 2026-10-12 | 1 |
+| [truelockmc/streambert](../repos/truelockmc/streambert.md) | ⭐ 6,259 | 2026-10-13 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [shaun8149/sdf-js](../repos/shaun8149/sdf-js.md) | ⭐ 269 | 2026-09-13 | Chainable JS SDF library + 基于 SDF 的离散结构生成器层 (form × generator decoupling). Port &amp; extension of fo... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [qist/tvbox](../repos/qist/tvbox.md) | ⭐ 11,510 | 2026-09-14 | OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 |
@@ -80,6 +62,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [elidickinson/pi-claude-bridge](../repos/elidickinson/pi-claude-bridge.md) | ⭐ 448 | 2026-09-24 | Claude Code inference provider for Pi. Allows the use of Claude Code of Pro&#x2F;Max subscriptions fro... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [copy/v86](../repos/copy/v86.md) | ⭐ 23,527 | 2026-09-25 | x86 PC emulator and x86-to-wasm JIT, running in the browser |
 
 
 ---
@@ -104,7 +89,7 @@
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 66,612 | 2026-08-01 | 18 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 52,549 | 2026-08-27 | 10 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 55,171 | 2026-08-27 | 11 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,174 | 2026-08-08 | 3 |
 | [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
@@ -233,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.433Z*
+*Last updated: 2026-10-13T21:02:01.785Z*

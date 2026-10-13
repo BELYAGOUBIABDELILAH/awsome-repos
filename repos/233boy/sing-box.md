@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 4,809 |
-| **Forks** | 🍴 1,783 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 4,821 |
+| **Forks** | 🍴 1,787 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 1, 2026 |
-| **Last Seen** | Oct 12, 2026 |
+| **Last Seen** | Oct 13, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
-- **Longest Streak**: 2 days
+- **Trending Days**: 7
+- **Longest Streak**: 3 days
 
 ---
 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 4,809+ stars, strong contributor base |
+| **Community** | Very Active | 4,821+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:12.936Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-10-13T21:02:07.364Z*  
+*Data from 7 trending reports*

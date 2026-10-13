@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 105
+- **Total Repositories**: 106
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-27
 
@@ -16,31 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lizhipay/acg-faka](../repos/lizhipay/acg-faka.md) | ⭐ 5,789 | 2026-08-01 | 17 |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,030 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cedar2025/Xboard](../repos/cedar2025/Xboard.md) | ⭐ 4,772 | 2026-08-02 | 18 |
+| [lizhipay/acg-faka](../repos/lizhipay/acg-faka.md) | ⭐ 5,803 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SuiteCRM/SuiteCRM](../repos/SuiteCRM/SuiteCRM.md) | ⭐ 5,796 | 2026-08-02 | 14 |
+| [mahdiMGF2/mirzabot](../repos/mahdiMGF2/mirzabot.md) | ⭐ 674 | 2026-08-03 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,565 | 2026-08-04 | 5 |
+| [googleapis/google-api-php-client](../repos/googleapis/google-api-php-client.md) | ⭐ 9,813 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [silverstripe/silverstripe-framework](../repos/silverstripe/silverstripe-framework.md) | ⭐ 724 | 2026-09-22 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [koel/koel](../repos/koel/koel.md) | ⭐ 17,277 | 2026-09-28 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [femiwiki/docker-mediawiki](../repos/femiwiki/docker-mediawiki.md) | ⭐ 33 | 2026-10-11 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [OpenVK/openvk](../repos/OpenVK/openvk.md) | ⭐ 553 | 2026-10-11 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [paragonie/awesome-appsec](../repos/paragonie/awesome-appsec.md) | ⭐ 7,099 | 2026-10-12 | 1 |
+| [googleapis/google-cloud-php](../repos/googleapis/google-cloud-php.md) | ⭐ 1,180 | 2026-10-13 | 1 |
 
 
 ---
@@ -99,7 +87,7 @@
 | [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,886 | 2026-08-04 | 8 |
 | [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,261 | 2026-08-02 | 20 |
 | [getgrav/grav](../repos/getgrav/grav.md) | ⭐ 15,672 | 2026-08-12 | 7 |
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,015 | 2026-08-01 | 24 |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,030 | 2026-08-01 | 25 |
 | [PHPOffice/PhpSpreadsheet](../repos/PHPOffice/PhpSpreadsheet.md) | ⭐ 13,990 | 2026-08-19 | 4 |
 | [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,565 | 2026-08-04 | 5 |
 | [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 12,972 | 2026-08-05 | 3 |
@@ -117,7 +105,7 @@
 | [nextcloud/server](../repos/nextcloud/server.md) | 29 | ⭐ 37,027 | 2026-08-02 | 2026-10-07 |
 | [symfony/symfony](../repos/symfony/symfony.md) | 28 | ⭐ 31,182 | 2026-08-02 | 2026-10-08 |
 | [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 27 | ⭐ 10,550 | 2026-08-09 | 2026-10-06 |
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | 24 | ⭐ 15,015 | 2026-08-01 | 2026-10-08 |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | 25 | ⭐ 15,030 | 2026-08-01 | 2026-10-13 |
 | [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 23 | ⭐ 3,473 | 2026-08-01 | 2026-10-03 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | 23 | ⭐ 21,892 | 2026-08-01 | 2026-09-21 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | 23 | ⭐ 28,217 | 2026-08-01 | 2026-10-07 |
@@ -230,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.456Z*
+*Last updated: 2026-10-13T21:02:01.807Z*

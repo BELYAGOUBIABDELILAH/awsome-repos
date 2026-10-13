@@ -13,12 +13,12 @@
 | **Language** | Fortran |
 | **License** | MIT |
 | **Stars** | ⭐ 432 |
-| **Forks** | 🍴 177 |
-| **Trending Days** | 7 |
+| **Forks** | 🍴 179 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 19, 2026 |
-| **Last Seen** | Oct 12, 2026 |
+| **Last Seen** | Oct 13, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
-- **Longest Streak**: 2 days
+- **Trending Days**: 8
+- **Longest Streak**: 3 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:12.322Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-10-13T21:02:06.761Z*  
+*Data from 8 trending reports*

@@ -1,6 +1,6 @@
 # Jakubantalik&#x2F;transitions.dev
 
-> UI montion AI agent, a library of 43+ crafted transitions, a skill that fits your workflow.
+> UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Jakubantalik&#x2F;transitions.dev) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | HTML |
 | **License** | Other |
-| **Stars** | ⭐ 4,930 |
-| **Forks** | 🍴 207 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 5,185 |
+| **Forks** | 🍴 229 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Oct 12, 2026 |
+| **Last Seen** | Oct 13, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 2 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:11.835Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-10-13T21:02:06.277Z*  
+*Data from 10 trending reports*

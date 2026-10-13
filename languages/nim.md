@@ -16,10 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 502 | 2026-08-01 | 16 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,265 | 2026-08-01 | 49 |
+| [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 662 | 2026-08-02 | 16 |
 
 
 ---
@@ -37,7 +34,7 @@
 |------------|-------|------------|---------------|
 | [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,265 | 2026-08-01 | 49 |
 | [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | ⭐ 1,301 | 2026-08-14 | 2 |
-| [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 663 | 2026-08-02 | 15 |
+| [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 662 | 2026-08-02 | 16 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 625 | 2026-08-05 | 2 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 502 | 2026-08-01 | 16 |
 | [crashappsec/chalk](../repos/crashappsec/chalk.md) | ⭐ 438 | 2026-08-05 | 1 |
@@ -53,7 +50,7 @@
 |------------|---------------|-------|------------|-----------|
 | [nim-lang/Nim](../repos/nim-lang/Nim.md) | 49 | ⭐ 18,265 | 2026-08-01 | 2026-10-12 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | 16 | ⭐ 502 | 2026-08-01 | 2026-10-12 |
-| [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | 15 | ⭐ 663 | 2026-08-02 | 2026-10-08 |
+| [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | 16 | ⭐ 662 | 2026-08-02 | 2026-10-13 |
 | [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | 12 | ⭐ 249 | 2026-08-05 | 2026-10-09 |
 | [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | 5 | ⭐ 322 | 2026-08-06 | 2026-09-12 |
 | [status-im/nim-stew](../repos/status-im/nim-stew.md) | 3 | ⭐ 154 | 2026-08-06 | 2026-08-08 |
@@ -77,4 +74,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.450Z*
+*Last updated: 2026-10-13T21:02:01.801Z*

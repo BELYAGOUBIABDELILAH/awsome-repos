@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 13,473 | 2026-08-01 | 7 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,524 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,664 | 2026-08-04 | 13 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,874 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 15,243 | 2026-08-07 | 6 |
+| [trickest/cve](../repos/trickest/cve.md) | ⭐ 8,138 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 4,930 | 2026-08-11 | 9 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 5,185 | 2026-08-11 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isjiamu/gzh-design-skill](../repos/isjiamu/gzh-design-skill.md) | ⭐ 3,969 | 2026-09-01 | 4 |
+| [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,193 | 2026-08-19 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [datawhalechina/Agent-Learning-Hub](../repos/datawhalechina/Agent-Learning-Hub.md) | ⭐ 8,618 | 2026-09-03 | 6 |
+| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,449 | 2026-09-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,233 | 2026-09-03 | 4 |
+| [dequelabs/axe-core](../repos/dequelabs/axe-core.md) | ⭐ 7,640 | 2026-10-03 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 16,716 | 2026-09-14 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 24,855 | 2026-10-09 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [EricTechPro/super-board](../repos/EricTechPro/super-board.md) | ⭐ 195 | 2026-10-09 | 3 |
+| [spyboy-productions/r4ven](../repos/spyboy-productions/r4ven.md) | ⭐ 1,625 | 2026-10-11 | 3 |
 
 
 ---
@@ -52,16 +46,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tinkerhub/useless_project_temp](../repos/tinkerhub/useless_project_temp.md) | ⭐ 42 | 2026-09-13 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apna-college/Delta](../repos/apna-college/Delta.md) | ⭐ 1,123 | 2026-09-13 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 16,716 | 2026-09-14 | AI 时代的伯克希尔：基于 Claude Code &#x2F; Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,410 | 2026-09-19 |  |
+| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,449 | 2026-09-19 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [github/opensource.guide](../repos/github/opensource.guide.md) | ⭐ 15,706 | 2026-09-19 | 📚 Community guides for open source creators |
@@ -80,6 +68,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rajhodedara/live-sport-plugin](../repos/rajhodedara/live-sport-plugin.md) | ⭐ 190 | 2026-09-25 | A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-ti... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | A UI library by WeChat official design team, includes the most useful widgets&#x2F;modules in mobile w... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [promptpirate-x/discord-id-bypass-tool](../repos/promptpirate-x/discord-id-bypass-tool.md) | ⭐ 1,546 | 2026-09-27 | A verified tool that works on any potato computer that will let you bypass discord verification |
 
 
 ---
@@ -90,9 +84,9 @@
 |------------|-------|------------|---------------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,914 | 2026-08-03 | 17 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 138,503 | 2026-08-08 | 14 |
-| [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 75,939 | 2026-08-19 | 7 |
+| [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,193 | 2026-08-19 | 8 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 67,007 | 2026-08-01 | 17 |
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,262 | 2026-08-01 | 6 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,524 | 2026-08-01 | 7 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,233 | 2026-09-03 | 4 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,646 | 2026-08-07 | 4 |
@@ -100,7 +94,7 @@
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,948 | 2026-08-09 | 12 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,754 | 2026-08-19 | 9 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,664 | 2026-08-04 | 13 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,874 | 2026-08-04 | 14 |
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 24,855 | 2026-10-09 | 3 |
@@ -118,13 +112,13 @@
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 17 | ⭐ 67,007 | 2026-08-01 | 2026-10-02 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 17 | ⭐ 209,914 | 2026-08-03 | 2026-10-06 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 15 | ⭐ 10,572 | 2026-08-03 | 2026-10-01 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 14 | ⭐ 27,874 | 2026-08-04 | 2026-10-13 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 14 | ⭐ 138,503 | 2026-08-08 | 2026-09-25 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 13 | ⭐ 27,664 | 2026-08-04 | 2026-10-12 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 13 | ⭐ 43,224 | 2026-08-12 | 2026-10-03 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 12 | ⭐ 9,898 | 2026-08-01 | 2026-10-02 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 12 | ⭐ 16,578 | 2026-08-04 | 2026-10-02 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 12 | ⭐ 29,948 | 2026-08-09 | 2026-10-03 |
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 9 | ⭐ 6,205 | 2026-08-05 | 2026-10-02 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 10 | ⭐ 5,185 | 2026-08-11 | 2026-10-13 |
 
 ---
 
@@ -167,7 +161,7 @@
 - [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Fin...
 - [github/choosealicense.com](../repos/github/choosealicense.com.md) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [revfactory/harness](../repos/revfactory/harness.md) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates ...
-- [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) - UI montion AI agent, a library of 43+ crafted transitions, a skill that fits your workflow.
+- [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) - UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.
 - [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagra...
 - [alpinejs/alpine](../repos/alpinejs/alpine.md) - A rugged, minimal framework for composing JavaScript behavior in your markup. 
 - [D-Ogi/WatermarkRemover-AI](../repos/D-Ogi/WatermarkRemover-AI.md) - AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos,...
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.425Z*
+*Last updated: 2026-10-13T21:02:01.777Z*

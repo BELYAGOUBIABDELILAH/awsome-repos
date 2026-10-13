@@ -1,6 +1,6 @@
 # krillinai&#x2F;OpenCreator
 
-> Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place.
+> Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;krillinai&#x2F;OpenCreator) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 12,201 |
-| **Forks** | 🍴 1,242 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 12,900 |
+| **Forks** | 🍴 1,371 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 20, 2026 |
-| **Last Seen** | Sep 22, 2026 |
+| **Last Seen** | Oct 13, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or dubbing*
+*Similar: Check repositories in TypeScript or agent-skills*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 3 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`dubbing`](../../topics/dubbing.md) [`localization`](../../topics/localization.md) [`tts`](../../topics/tts.md) [`video-transcription`](../../topics/video-transcription.md) [`video-translation`](../../topics/video-translation.md) 
+[`agent-skills`](../../topics/agent-skills.md) [`codex-cli`](../../topics/codex-cli.md) [`deskop-app`](../../topics/deskop-app.md) [`dubbing`](../../topics/dubbing.md) [`image-generation`](../../topics/image-generation.md) [`localization`](../../topics/localization.md) [`skills`](../../topics/skills.md) [`tts`](../../topics/tts.md) [`video-editing`](../../topics/video-editing.md) [`video-generation`](../../topics/video-generation.md) [`video-transcription`](../../topics/video-transcription.md) [`video-translation`](../../topics/video-translation.md) 
 
 ### Curated Categories
-`Systems Programming` `Developer Tools` 
+`Generative AI` `Systems Programming` `Developer Tools` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 60&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-12T21:02:13.657Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-10-13T21:02:08.058Z*  
+*Data from 4 trending reports*

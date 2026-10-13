@@ -16,46 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 7,290 | 2026-08-01 | 8 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,350 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [InfinityLoop1308/PipePipe](../repos/InfinityLoop1308/PipePipe.md) | ⭐ 6,946 | 2026-08-02 | 9 |
+| [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 7,342 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,792 | 2026-08-07 | 28 |
+| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 8,101 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nelvko/clash-for-linux-install](../repos/nelvko/clash-for-linux-install.md) | ⭐ 14,982 | 2026-08-07 | 10 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,811 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 19,479 | 2026-08-08 | 7 |
+| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,666 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,570 | 2026-08-11 | 11 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,137 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 44,635 | 2026-08-29 | 5 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,828 | 2026-08-07 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,809 | 2026-09-01 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [omacom/omarchy-pkgs](../repos/omacom/omarchy-pkgs.md) | ⭐ 136 | 2026-09-02 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Mr-MIBonk/M.I.B._More-Incredible-Bash](../repos/Mr-MIBonk/M.I.B._More-Incredible-Bash.md) | ⭐ 1,140 | 2026-09-20 | 5 |
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,821 | 2026-09-01 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](../repos/FiorenMas/Revanced-And-Revanced-Extended-Non-Root.md) | ⭐ 2,694 | 2026-09-13 | Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch re... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MichaIng/DietPi](../repos/MichaIng/DietPi.md) | ⭐ 6,259 | 2026-09-13 | Lightweight justice for your single-board computer! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [FlyBrainLab/FlyBrainLab](../repos/FlyBrainLab/FlyBrainLab.md) | ⭐ 80 | 2026-09-14 | An interactive computing platform for studying the function of executable circuits constructed fr... |
@@ -80,6 +68,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Mr-MIBonk/M.I.B._More-Incredible-Bash](../repos/Mr-MIBonk/M.I.B._More-Incredible-Bash.md) | ⭐ 1,140 | 2026-09-20 | M.I.B. - More Incredible Bash - The Army knife for Harman MIB 2.x aka MHI2(Q) units |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [fscarmen/sing-box](../repos/fscarmen/sing-box.md) | ⭐ 5,788 | 2026-09-21 | Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vm... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [wlzh/dji-4g-vohive-mac](../repos/wlzh/dji-4g-vohive-mac.md) | ⭐ 1,062 | 2026-09-21 | 在 Mac（Apple Silicon &#x2F; Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的... |
 
 
 ---
@@ -89,18 +83,18 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,274 | 2026-08-01 | 34 |
-| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,630 | 2026-08-04 | 7 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,350 | 2026-08-01 | 35 |
+| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,666 | 2026-08-04 | 8 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,761 | 2026-08-04 | 10 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,811 | 2026-08-04 | 11 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 44,635 | 2026-08-29 | 5 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,442 | 2026-08-20 | 9 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,703 | 2026-09-02 | 3 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 25,999 | 2026-08-04 | 11 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,137 | 2026-08-04 | 12 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,031 | 2026-08-07 | 6 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
@@ -115,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 34 | ⭐ 95,274 | 2026-08-01 | 2026-10-06 |
-| [expo/skills](../repos/expo/skills.md) | 28 | ⭐ 2,792 | 2026-08-07 | 2026-10-12 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 35 | ⭐ 95,350 | 2026-08-01 | 2026-10-13 |
+| [expo/skills](../repos/expo/skills.md) | 29 | ⭐ 2,828 | 2026-08-07 | 2026-10-13 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 19 | ⭐ 11,240 | 2026-08-04 | 2026-10-06 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 18 | ⭐ 7,740 | 2026-08-12 | 2026-10-09 |
 | [dockur/windows](../repos/dockur/windows.md) | 13 | ⭐ 53,550 | 2026-08-06 | 2026-10-07 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 12 | ⭐ 2,316 | 2026-08-02 | 2026-09-25 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 12 | ⭐ 26,137 | 2026-08-04 | 2026-10-13 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 12 | ⭐ 2,975 | 2026-08-05 | 2026-10-03 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 11 | ⭐ 25,999 | 2026-08-04 | 2026-10-03 |
-| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | 11 | ⭐ 10,868 | 2026-08-07 | 2026-10-02 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 11 | ⭐ 47,811 | 2026-08-04 | 2026-10-13 |
 
 ---
 
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.477Z*
+*Last updated: 2026-10-13T21:02:01.829Z*

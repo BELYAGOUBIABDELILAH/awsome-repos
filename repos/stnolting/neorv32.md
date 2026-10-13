@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | VHDL |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 2,273 |
-| **Forks** | 🍴 391 |
-| **Trending Days** | 14 |
+| **Stars** | ⭐ 2,294 |
+| **Forks** | 🍴 397 |
+| **Trending Days** | 15 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Sep 19, 2026 |
+| **Last Seen** | Oct 13, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 14
+- **Trending Days**: 15
 - **Longest Streak**: 3 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:11.417Z*  
-*Data from 14 trending reports*
+*Last updated: 2026-10-13T21:02:05.840Z*  
+*Data from 15 trending reports*

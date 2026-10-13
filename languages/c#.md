@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 182
+- **Total Repositories**: 184
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-12
+- **Last Updated**: 2026-10-13
 
 ---
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,923 | 2026-08-01 | 11 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,947 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,278 | 2026-08-01 | 11 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 118,098 | 2026-08-02 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,946 | 2026-08-02 | 28 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 16,141 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,572 | 2026-08-02 | 31 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,620 | 2026-08-03 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,527 | 2026-08-02 | 9 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 17,079 | 2026-08-03 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AssetRipper/AssetRipper](../repos/AssetRipper/AssetRipper.md) | ⭐ 8,568 | 2026-08-02 | 6 |
+| [TechnitiumSoftware/DnsServer](../repos/TechnitiumSoftware/DnsServer.md) | ⭐ 10,106 | 2026-08-12 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lostindark/DriverStoreExplorer](../repos/lostindark/DriverStoreExplorer.md) | ⭐ 11,852 | 2026-08-02 | 6 |
+| [sourcegit-scm/sourcegit](../repos/sourcegit-scm/sourcegit.md) | ⭐ 6,135 | 2026-08-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,915 | 2026-08-03 | 10 |
+| [redis-windows/redis-windows](../repos/redis-windows/redis-windows.md) | ⭐ 4,348 | 2026-08-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 3,951 | 2026-08-07 | 11 |
+| [cyanfish/naps2](../repos/cyanfish/naps2.md) | ⭐ 4,622 | 2026-08-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BepInEx/BepInEx](../repos/BepInEx/BepInEx.md) | ⭐ 8,823 | 2026-08-09 | 9 |
+| [SteamRE/DepotDownloader](../repos/SteamRE/DepotDownloader.md) | ⭐ 3,462 | 2026-10-01 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [V1ck3s/octo-fiesta](../repos/V1ck3s/octo-fiesta.md) | ⭐ 804 | 2026-09-13 | A Subsonic API proxy server that transparently integrates multiple music streaming providers as s... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OpenTabletDriver/OpenTabletDriver](../repos/OpenTabletDriver/OpenTabletDriver.md) | ⭐ 4,073 | 2026-09-14 | Open source, cross-platform, user-mode tablet driver |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ValveResourceFormat/ValveResourceFormat](../repos/ValveResourceFormat/ValveResourceFormat.md) | ⭐ 2,445 | 2026-09-22 | Source 2 Viewer is an all-in-one tool to browse VPK archives, view, extract, and decompile Source... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [serilog/serilog](../repos/serilog/serilog.md) | ⭐ 8,041 | 2026-09-22 | Simple .NET logging with fully-structured events |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 117,946 | 2026-08-02 | 28 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 118,098 | 2026-08-02 | 29 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 57,879 | 2026-08-02 | 19 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,640 | 2026-08-06 | 13 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 45,923 | 2026-08-01 | 11 |
@@ -96,8 +96,8 @@
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,915 | 2026-08-03 | 10 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,465 | 2026-08-01 | 17 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,947 | 2026-08-01 | 18 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,572 | 2026-08-02 | 31 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,235 | 2026-08-01 | 17 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,062 | 2026-08-28 | 3 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,603 | 2026-08-05 | 11 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 31 | ⭐ 31,572 | 2026-08-02 | 2026-10-12 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 28 | ⭐ 117,946 | 2026-08-02 | 2026-10-12 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 27 | ⭐ 5,592 | 2026-08-03 | 2026-10-09 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 29 | ⭐ 118,098 | 2026-08-02 | 2026-10-13 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 28 | ⭐ 5,620 | 2026-08-03 | 2026-10-13 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 19 | ⭐ 57,879 | 2026-08-02 | 2026-10-07 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 17 | ⭐ 31,235 | 2026-08-01 | 2026-09-25 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 18 | ⭐ 31,947 | 2026-08-01 | 2026-10-13 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 18 | ⭐ 16,141 | 2026-08-02 | 2026-10-13 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 17 | ⭐ 3,756 | 2026-08-01 | 2026-10-09 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 17 | ⭐ 38,465 | 2026-08-01 | 2026-10-06 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 17 | ⭐ 15,755 | 2026-08-02 | 2026-09-27 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | 16 | ⭐ 17,079 | 2026-08-03 | 2026-10-13 |
 | [microsoft/aspire](../repos/microsoft/aspire.md) | 16 | ⭐ 6,350 | 2026-08-05 | 2026-10-07 |
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 15 | ⭐ 14,458 | 2026-08-01 | 2026-10-06 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.391Z*
+*Last updated: 2026-10-13T21:02:01.743Z*

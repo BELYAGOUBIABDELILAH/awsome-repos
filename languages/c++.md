@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 271
+- **Total Repositories**: 272
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-12
 
@@ -16,52 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,877 | 2026-07-30 | 24 |
+| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 23,734 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 11,716 | 2026-08-02 | 14 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 30,914 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 30,701 | 2026-08-03 | 12 |
+| [react/react-native](../repos/react/react-native.md) | ⭐ 126,659 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,361 | 2026-08-03 | 9 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,122 | 2026-08-09 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | ⭐ 33,442 | 2026-08-03 | 13 |
+| [ran-j/PS2Recomp](../repos/ran-j/PS2Recomp.md) | ⭐ 3,422 | 2026-08-23 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dyang886/Game-Cheats-Manager](../repos/dyang886/Game-Cheats-Manager.md) | ⭐ 15,235 | 2026-08-05 | 4 |
+| [SethRobinson/Patchy](../repos/SethRobinson/Patchy.md) | ⭐ 579 | 2026-10-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [telegramdesktop/tdesktop](../repos/telegramdesktop/tdesktop.md) | ⭐ 33,216 | 2026-08-05 | 7 |
+| [diasurgical/DevilutionX](../repos/diasurgical/DevilutionX.md) | ⭐ 9,834 | 2026-10-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,725 | 2026-08-09 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Tencent/ncnn](../repos/Tencent/ncnn.md) | ⭐ 23,942 | 2026-08-09 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [leejet/stable-diffusion.cpp](../repos/leejet/stable-diffusion.cpp.md) | ⭐ 7,648 | 2026-08-10 | 8 |
+| [scummvm/scummvm](../repos/scummvm/scummvm.md) | ⭐ 2,846 | 2026-10-13 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jomjol/AI-on-the-edge-device](../repos/jomjol/AI-on-the-edge-device.md) | ⭐ 8,759 | 2026-09-13 | Easy to use device for connecting &quot;old&quot; measuring units (water, power, gas, ...) to the digital w... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Redot-Engine/redot-engine](../repos/Redot-Engine/redot-engine.md) | ⭐ 6,089 | 2026-09-13 | Redot Engine – Multi-platform 2D and 3D game engine |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [WiVRn/WiVRn](../repos/WiVRn/WiVRn.md) | ⭐ 1,666 | 2026-09-13 | The Linux OpenXR streaming application to standalone headsets |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AutoHotkey/AutoHotkey](../repos/AutoHotkey/AutoHotkey.md) | ⭐ 13,120 | 2026-09-13 | AutoHotkey - macro-creation and automation-oriented scripting utility for Windows. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jtenniswood/espcontrol](../repos/jtenniswood/espcontrol.md) | ⭐ 1,010 | 2026-09-14 | Esphome based smart home control panel |
@@ -80,6 +62,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [f4exb/sdrangel](../repos/f4exb/sdrangel.md) | ⭐ 4,057 | 2026-09-21 | SDR Rx&#x2F;Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay a... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [TranslucentTB/TranslucentTB](../repos/TranslucentTB/TranslucentTB.md) | ⭐ 20,394 | 2026-09-21 | A lightweight utility that makes the Windows taskbar translucent&#x2F;transparent. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mg-chao/snow-apps](../repos/mg-chao/snow-apps.md) | ⭐ 5,767 | 2026-09-21 | Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Codensity30/Strivers-A2Z-DSA-Sheet](../repos/Codensity30/Strivers-A2Z-DSA-Sheet.md) | ⭐ 898 | 2026-09-21 | Contains everything related to Stiver&#39;s A2Z sheet along with question, approach and code. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [falcosecurity/falco](../repos/falcosecurity/falco.md) | ⭐ 9,454 | 2026-09-22 | Cloud Native Runtime Security |
 
 
 ---
@@ -90,7 +84,7 @@
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,877 | 2026-07-30 | 24 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 130,537 | 2026-08-01 | 28 |
-| [react/react-native](../repos/react/react-native.md) | ⭐ 126,539 | 2026-08-04 | 4 |
+| [react/react-native](../repos/react/react-native.md) | ⭐ 126,659 | 2026-08-04 | 5 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 117,022 | 2026-08-01 | 9 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,066 | 2026-08-06 | 7 |
@@ -105,8 +99,8 @@
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,360 | 2026-08-02 | 8 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,885 | 2026-08-19 | 10 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,122 | 2026-08-09 | 11 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 40,725 | 2026-08-09 | 10 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 40,494 | 2026-08-02 | 7 |
 
 ---
@@ -124,7 +118,7 @@
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 14 | ⭐ 11,716 | 2026-08-02 | 2026-10-12 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 14 | ⭐ 76,454 | 2026-08-08 | 2026-10-01 |
-| [shadps4-emu/shadPS4](../repos/shadps4-emu/shadPS4.md) | 13 | ⭐ 33,442 | 2026-08-03 | 2026-10-12 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 13 | ⭐ 30,914 | 2026-08-03 | 2026-10-13 |
 
 ---
 
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.394Z*
+*Last updated: 2026-10-13T21:02:01.746Z*

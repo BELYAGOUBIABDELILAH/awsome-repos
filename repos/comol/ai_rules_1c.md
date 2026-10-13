@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PowerShell |
 | **License** | Not specified |
-| **Stars** | ⭐ 465 |
-| **Forks** | 🍴 104 |
-| **Trending Days** | 18 |
+| **Stars** | ⭐ 486 |
+| **Forks** | 🍴 110 |
+| **Trending Days** | 19 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Sep 25, 2026 |
+| **Last Seen** | Oct 13, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 18
+- **Trending Days**: 19
 - **Longest Streak**: 4 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:10.956Z*  
-*Data from 18 trending reports*
+*Last updated: 2026-10-13T21:02:05.393Z*  
+*Data from 19 trending reports*

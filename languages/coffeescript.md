@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 5
+- **Total Repositories**: 6
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-12
+- **Last Updated**: 2026-10-13
 
 ---
 
@@ -16,18 +16,23 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,600 | 2026-08-01 | 22 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,602 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,594 | 2026-08-09 | 7 |
+| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,810 | 2026-08-01 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | ⭐ 382 | 2026-10-13 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | ⭐ 382 | 2026-10-13 |  |
 
-*No new CoffeeScript repositories in the last 30 days*
 
 ---
 
@@ -35,11 +40,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,600 | 2026-08-01 | 22 |
-| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,791 | 2026-08-01 | 4 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | ⭐ 22,602 | 2026-08-01 | 23 |
+| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,810 | 2026-08-01 | 5 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,594 | 2026-08-09 | 7 |
 | [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,068 | 2026-08-01 | 37 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,158 | 2026-08-06 | 9 |
+| [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | ⭐ 382 | 2026-10-13 | 1 |
 
 ---
 
@@ -48,10 +54,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 37 | ⭐ 16,068 | 2026-08-01 | 2026-10-09 |
-| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 22 | ⭐ 22,600 | 2026-08-01 | 2026-10-12 |
+| [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 23 | ⭐ 22,602 | 2026-08-01 | 2026-10-13 |
 | [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 9 | ⭐ 1,158 | 2026-08-06 | 2026-10-09 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | 7 | ⭐ 16,594 | 2026-08-09 | 2026-10-12 |
-| [mojs/mojs](../repos/mojs/mojs.md) | 4 | ⭐ 18,791 | 2026-08-01 | 2026-10-01 |
+| [mojs/mojs](../repos/mojs/mojs.md) | 5 | ⭐ 18,810 | 2026-08-01 | 2026-10-13 |
+| [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | 1 | ⭐ 382 | 2026-10-13 | 2026-10-13 |
 
 ---
 
@@ -62,7 +69,8 @@
 - [mojs/mojs](../repos/mojs/mojs.md) - The motion graphics toolbelt for the web
 - [ccd0/4chan-x](../repos/ccd0/4chan-x.md) - Adds various features to anonymous imageboards.
 - [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) - Unfancy JavaScript
+- [taigaio/taiga-front](../repos/taigaio/taiga-front.md) - 
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.400Z*
+*Last updated: 2026-10-13T21:02:01.752Z*

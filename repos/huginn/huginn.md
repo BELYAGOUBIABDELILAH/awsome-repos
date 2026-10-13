@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Ruby |
 | **License** | MIT |
-| **Stars** | ⭐ 50,046 |
+| **Stars** | ⭐ 50,052 |
 | **Forks** | 🍴 4,306 |
-| **Trending Days** | 23 |
+| **Trending Days** | 24 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 12, 2026 |
+| **Last Seen** | Oct 13, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 23
+- **Trending Days**: 24
 - **Longest Streak**: 3 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`agent`](../../topics/agent.md) [`automation`](../../topics/automation.md) [`feed`](../../topics/feed.md) [`feedgenerator`](../../topics/feedgenerator.md) [`huginn`](../../topics/huginn.md) [`monitoring`](../../topics/monitoring.md) [`notifications`](../../topics/notifications.md) [`rss`](../../topics/rss.md) [`scraper`](../../topics/scraper.md) [`twitter`](../../topics/twitter.md) [`twitter-streaming`](../../topics/twitter-streaming.md) [`webscraping`](../../topics/webscraping.md) 
+[`agent`](../../topics/agent.md) [`automation`](../../topics/automation.md) [`feed`](../../topics/feed.md) [`feedgenerator`](../../topics/feedgenerator.md) [`huginn`](../../topics/huginn.md) [`monitoring`](../../topics/monitoring.md) [`notifications`](../../topics/notifications.md) [`rss`](../../topics/rss.md) [`scraper`](../../topics/scraper.md) [`webscraping`](../../topics/webscraping.md) 
 
 ### Curated Categories
-`Data Engineering` `Web Development` `Backend Development` `DevOps &amp; CI&#x2F;CD` `Systems Programming` `Automation` 
+`Web Development` `Backend Development` `DevOps &amp; CI&#x2F;CD` `Systems Programming` `Automation` 
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:09.799Z*  
-*Data from 23 trending reports*
+*Last updated: 2026-10-13T21:02:04.330Z*  
+*Data from 24 trending reports*

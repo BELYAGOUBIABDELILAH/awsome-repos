@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 15
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-12
+- **Last Updated**: 2026-10-13
 
 ---
 
@@ -16,25 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,626 | 2026-08-01 | 55 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,644 | 2026-08-01 | 56 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,096 | 2026-08-01 | 47 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,098 | 2026-08-01 | 48 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 60,946 | 2026-08-01 | 50 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 61,011 | 2026-08-01 | 51 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,214 | 2026-08-01 | 53 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,024 | 2026-08-02 | 17 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 3,996 | 2026-08-02 | 45 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [logseq/og](../repos/logseq/og.md) | ⭐ 328 | 2026-08-02 | 26 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,224 | 2026-08-01 | 54 |
 
 
 ---
@@ -64,10 +55,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,096 | 2026-08-01 | 47 |
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 60,946 | 2026-08-01 | 50 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,626 | 2026-08-01 | 55 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,214 | 2026-08-01 | 53 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,098 | 2026-08-01 | 48 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 61,011 | 2026-08-01 | 51 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,644 | 2026-08-01 | 56 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,224 | 2026-08-01 | 54 |
 | [clojure/clojurescript](../repos/clojure/clojurescript.md) | ⭐ 9,393 | 2026-09-07 | 1 |
 | [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,024 | 2026-08-02 | 17 |
 | [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 3,996 | 2026-08-02 | 45 |
@@ -86,10 +77,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [metabase/metabase](../repos/metabase/metabase.md) | 55 | ⭐ 49,626 | 2026-08-01 | 2026-10-12 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 53 | ⭐ 45,214 | 2026-08-01 | 2026-10-12 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 50 | ⭐ 60,946 | 2026-08-01 | 2026-10-12 |
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 47 | ⭐ 82,096 | 2026-08-01 | 2026-10-12 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 56 | ⭐ 49,644 | 2026-08-01 | 2026-10-13 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 54 | ⭐ 45,224 | 2026-08-01 | 2026-10-13 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 51 | ⭐ 61,011 | 2026-08-01 | 2026-10-13 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 48 | ⭐ 82,098 | 2026-08-01 | 2026-10-13 |
 | [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | 45 | ⭐ 3,996 | 2026-08-02 | 2026-10-12 |
 | [logseq/og](../repos/logseq/og.md) | 26 | ⭐ 328 | 2026-08-02 | 2026-10-12 |
 | [status-im/status-legacy](../repos/status-im/status-legacy.md) | 17 | ⭐ 4,024 | 2026-08-02 | 2026-10-12 |
@@ -119,4 +110,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.398Z*
+*Last updated: 2026-10-13T21:02:01.750Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 280
+- **Total Repositories**: 283
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-12
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 104,706 | 2026-07-30 | 6 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 64,157 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 130,515 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [public-apis/public-apis](../repos/public-apis/public-apis.md) | ⭐ 487,953 | 2026-08-01 | 9 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 60,173 | 2026-08-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/TRELLIS.2](../repos/microsoft/TRELLIS.2.md) | ⭐ 11,876 | 2026-08-01 | 4 |
+| [browser-use/video-use](../repos/browser-use/video-use.md) | ⭐ 28,869 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 58,238 | 2026-08-03 | 11 |
+| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 77,020 | 2026-08-06 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 141,347 | 2026-08-04 | 7 |
+| [hugohe3/ppt-master](../repos/hugohe3/ppt-master.md) | ⭐ 61,640 | 2026-08-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 76,911 | 2026-08-06 | 9 |
+| [sgl-project/sglang-omni](../repos/sgl-project/sglang-omni.md) | ⭐ 1,437 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/skills](../repos/google/skills.md) | ⭐ 21,214 | 2026-08-07 | 10 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 62,844 | 2026-08-22 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hugohe3/ppt-master](../repos/hugohe3/ppt-master.md) | ⭐ 60,779 | 2026-08-12 | 5 |
+| [sgl-project/sglang](../repos/sgl-project/sglang.md) | ⭐ 37,094 | 2026-09-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 59,533 | 2026-08-22 | 15 |
+| [NVIDIA/personaplex](../repos/NVIDIA/personaplex.md) | ⭐ 11,147 | 2026-09-07 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [simonlin1212/TradingAgents-astock](../repos/simonlin1212/TradingAgents-astock.md) | ⭐ 3,302 | 2026-09-13 | A股多Agent投研框架 — 适配A股数据源(龙虎榜&#x2F;游资&#x2F;解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rlaope/oh-my-hermes](../repos/rlaope/oh-my-hermes.md) | ⭐ 1,971 | 2026-09-14 | All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PenglongHuang/chinese-novelist-skill](../repos/PenglongHuang/chinese-novelist-skill.md) | ⭐ 3,100 | 2026-09-19 | 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜AI novel w... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [TencentCloud/Octop](../repos/TencentCloud/Octop.md) | ⭐ 6,227 | 2026-09-19 | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
 
 
 ---
@@ -101,7 +101,7 @@
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 141,347 | 2026-08-04 | 7 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 131,932 | 2026-08-05 | 8 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 127,927 | 2026-08-01 | 14 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 130,515 | 2026-08-01 | 15 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 114,356 | 2026-08-03 | 5 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 15 | ⭐ 59,533 | 2026-08-22 | 2026-10-12 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 14 | ⭐ 127,927 | 2026-08-01 | 2026-10-01 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 16 | ⭐ 62,844 | 2026-08-22 | 2026-10-13 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 15 | ⭐ 130,515 | 2026-08-01 | 2026-10-13 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 12 | ⭐ 60,173 | 2026-08-03 | 2026-10-13 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 11 | ⭐ 92,571 | 2026-08-01 | 2026-10-06 |
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 11 | ⭐ 58,238 | 2026-08-03 | 2026-10-12 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 11 | ⭐ 48,163 | 2026-08-03 | 2026-10-09 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 11 | ⭐ 40,107 | 2026-08-03 | 2026-10-02 |
+| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | 10 | ⭐ 77,020 | 2026-08-06 | 2026-10-13 |
 | [google/skills](../repos/google/skills.md) | 10 | ⭐ 21,214 | 2026-08-07 | 2026-10-12 |
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 10 | ⭐ 106,016 | 2026-08-08 | 2026-09-14 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.463Z*
+*Last updated: 2026-10-13T21:02:01.814Z*

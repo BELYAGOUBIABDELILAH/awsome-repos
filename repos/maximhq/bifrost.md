@@ -1,6 +1,6 @@
 # maximhq&#x2F;bifrost
 
-> Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support &amp; &lt;100 µs overhead at 5k RPS.
+> Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;maximhq&#x2F;bifrost) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 8,610 |
-| **Forks** | 🍴 1,354 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 8,760 |
+| **Forks** | 🍴 1,385 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 19, 2026 |
-| **Last Seen** | Oct 7, 2026 |
+| **Last Seen** | Oct 13, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Go or ai-gateway*
+*Similar: Check repositories in Go or agent-gateway*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`ai-gateway`](../../topics/ai-gateway.md) [`gateway`](../../topics/gateway.md) [`gateway-services`](../../topics/gateway-services.md) [`generative-ai`](../../topics/generative-ai.md) [`guardrails`](../../topics/guardrails.md) [`llm`](../../topics/llm.md) [`llm-cost`](../../topics/llm-cost.md) [`llm-gateway`](../../topics/llm-gateway.md) [`llm-observability`](../../topics/llm-observability.md) [`llmops`](../../topics/llmops.md) [`load-balancing`](../../topics/load-balancing.md) [`mcp-client`](../../topics/mcp-client.md) [`mcp-gateway`](../../topics/mcp-gateway.md) [`mcp-server`](../../topics/mcp-server.md) [`model-router`](../../topics/model-router.md) [`token-management`](../../topics/token-management.md) 
+[`agent-gateway`](../../topics/agent-gateway.md) [`ai-gateway`](../../topics/ai-gateway.md) [`ai-governance`](../../topics/ai-governance.md) [`api-gateway`](../../topics/api-gateway.md) [`claude-code`](../../topics/claude-code.md) [`coding-agents`](../../topics/coding-agents.md) [`failover`](../../topics/failover.md) [`gateway`](../../topics/gateway.md) [`guardrails`](../../topics/guardrails.md) [`llm-cost`](../../topics/llm-cost.md) [`llm-gateway`](../../topics/llm-gateway.md) [`llm-observability`](../../topics/llm-observability.md) [`llm-proxy`](../../topics/llm-proxy.md) [`llm-router`](../../topics/llm-router.md) [`load-balancing`](../../topics/load-balancing.md) [`mcp-gateway`](../../topics/mcp-gateway.md) [`model-context-protocol`](../../topics/model-context-protocol.md) [`model-router`](../../topics/model-router.md) [`openai-compatible`](../../topics/openai-compatible.md) [`semantic-cache`](../../topics/semantic-cache.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `Generative AI` `Backend Development` `Systems Programming` `Developer Tools` 
+`Artificial Intelligence` `Large Language Models` `Backend Development` `Systems Programming` 
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-12T21:02:12.289Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-10-13T21:02:06.731Z*  
+*Data from 4 trending reports*

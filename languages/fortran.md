@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 29
+- **Total Repositories**: 30
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-05
 
@@ -16,19 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 981 | 2026-08-01 | 38 |
+| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 889 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 406 | 2026-08-03 | 20 |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,219 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,777 | 2026-08-04 | 40 |
+| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 406 | 2026-08-03 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MFlowCode/MFC](../repos/MFlowCode/MFC.md) | ⭐ 432 | 2026-08-19 | 7 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,778 | 2026-08-04 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iterorganization/JOREK](../repos/iterorganization/JOREK.md) | ⭐ 49 | 2026-08-19 | 8 |
+| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,735 | 2026-08-04 | 24 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [MFlowCode/MFC](../repos/MFlowCode/MFC.md) | ⭐ 432 | 2026-08-19 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Dhondtguido/CalculiX](../repos/Dhondtguido/CalculiX.md) | ⭐ 221 | 2026-10-13 | 1 |
 
 
 ---
@@ -41,6 +47,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ROCm/aomp](../repos/ROCm/aomp.md) | ⭐ 246 | 2026-09-20 | AOMP is an open source Clang&#x2F;LLVM based compiler with added support for the OpenMP® API on Radeon... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Dhondtguido/CalculiX](../repos/Dhondtguido/CalculiX.md) | ⭐ 221 | 2026-10-13 | This repository contains the source files of CalculiX, a three-dimensional Finite Element Program... |
 
 
 ---
@@ -50,25 +59,25 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,883 | 2026-08-02 | 3 |
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,777 | 2026-08-04 | 40 |
-| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,729 | 2026-08-04 | 23 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,778 | 2026-08-04 | 41 |
+| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,735 | 2026-08-04 | 24 |
 | [fortran-lang/stdlib](../repos/fortran-lang/stdlib.md) | ⭐ 1,349 | 2026-09-08 | 1 |
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,215 | 2026-08-01 | 41 |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,219 | 2026-08-01 | 42 |
 | [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 981 | 2026-08-01 | 38 |
-| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 888 | 2026-08-01 | 35 |
+| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 889 | 2026-08-01 | 36 |
 | [OpenRadioss/OpenRadioss](../repos/OpenRadioss/OpenRadioss.md) | ⭐ 874 | 2026-09-04 | 6 |
 | [grimme-lab/xtb](../repos/grimme-lab/xtb.md) | ⭐ 842 | 2026-09-20 | 1 |
 | [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 444 | 2026-08-01 | 47 |
-| [MFlowCode/MFC](../repos/MFlowCode/MFC.md) | ⭐ 432 | 2026-08-19 | 7 |
-| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 406 | 2026-08-03 | 20 |
+| [MFlowCode/MFC](../repos/MFlowCode/MFC.md) | ⭐ 432 | 2026-08-19 | 8 |
+| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 406 | 2026-08-03 | 21 |
 | [MODFLOW-ORG/modflow6](../repos/MODFLOW-ORG/modflow6.md) | ⭐ 366 | 2026-08-20 | 3 |
 | [ESCOMP/CTSM](../repos/ESCOMP/CTSM.md) | ⭐ 352 | 2026-08-09 | 6 |
 | [MPAS-Dev/MPAS-Model](../repos/MPAS-Dev/MPAS-Model.md) | ⭐ 311 | 2026-08-07 | 1 |
 | [ROCm/aomp](../repos/ROCm/aomp.md) | ⭐ 246 | 2026-09-20 | 1 |
 | [DSSAT/dssat-csm-os](../repos/DSSAT/dssat-csm-os.md) | ⭐ 228 | 2026-08-08 | 2 |
+| [Dhondtguido/CalculiX](../repos/Dhondtguido/CalculiX.md) | ⭐ 221 | 2026-10-13 | 1 |
 | [esmf-org/esmf](../repos/esmf-org/esmf.md) | ⭐ 211 | 2026-08-17 | 3 |
 | [nasa/cea](../repos/nasa/cea.md) | ⭐ 178 | 2026-08-27 | 1 |
-| [NGEET/fates](../repos/NGEET/fates.md) | ⭐ 130 | 2026-08-02 | 30 |
 
 ---
 
@@ -77,15 +86,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 47 | ⭐ 444 | 2026-08-01 | 2026-10-08 |
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | 41 | ⭐ 1,215 | 2026-08-01 | 2026-10-09 |
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 40 | ⭐ 1,777 | 2026-08-04 | 2026-10-12 |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | 42 | ⭐ 1,219 | 2026-08-01 | 2026-10-13 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 41 | ⭐ 1,778 | 2026-08-04 | 2026-10-13 |
 | [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | 38 | ⭐ 981 | 2026-08-01 | 2026-10-12 |
-| [firemodels/fds](../repos/firemodels/fds.md) | 35 | ⭐ 888 | 2026-08-01 | 2026-10-09 |
+| [firemodels/fds](../repos/firemodels/fds.md) | 36 | ⭐ 889 | 2026-08-01 | 2026-10-13 |
 | [NGEET/fates](../repos/NGEET/fates.md) | 30 | ⭐ 130 | 2026-08-02 | 2026-09-21 |
 | [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | 27 | ⭐ 26 | 2026-08-01 | 2026-09-29 |
 | [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | 26 | ⭐ 54 | 2026-08-02 | 2026-09-21 |
 | [MetOffice/jules](../repos/MetOffice/jules.md) | 25 | ⭐ 24 | 2026-08-11 | 2026-10-03 |
-| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | 23 | ⭐ 1,729 | 2026-08-04 | 2026-10-09 |
+| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | 24 | ⭐ 1,735 | 2026-08-04 | 2026-10-13 |
 
 ---
 
@@ -120,7 +129,8 @@
 - [fortran-lang/stdlib](../repos/fortran-lang/stdlib.md) - Fortran Standard Library
 - [grimme-lab/xtb](../repos/grimme-lab/xtb.md) - Semiempirical Extended Tight-Binding Program Package
 - [ROCm/aomp](../repos/ROCm/aomp.md) - AOMP is an open source Clang&#x2F;LLVM based compiler with added support for the OpenMP® API on Radeon...
+- [Dhondtguido/CalculiX](../repos/Dhondtguido/CalculiX.md) - This repository contains the source files of CalculiX, a three-dimensional Finite Element Program...
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.416Z*
+*Last updated: 2026-10-13T21:02:01.768Z*

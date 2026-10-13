@@ -16,37 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,534 | 2026-08-17 | 9 |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 6,786 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,912 | 2026-08-24 | 11 |
+| [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | ⭐ 2,890 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,005 | 2026-09-13 | 3 |
+| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 8,465 | 2026-09-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 7,316 | 2026-09-21 | 5 |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 9,167 | 2026-09-21 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bobsupra/NuvioTVOS](../repos/bobsupra/NuvioTVOS.md) | ⭐ 286 | 2026-10-11 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [StephenLovino/BetterCast](../repos/StephenLovino/BetterCast.md) | ⭐ 182 | 2026-10-12 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [wuwangzhang1216/ChinaTextbookStudyFree](../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) | ⭐ 412 | 2026-10-12 | 1 |
+| [wuwangzhang1216/ChinaTextbookStudyFree](../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) | ⭐ 456 | 2026-10-12 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,005 | 2026-09-13 | An an app that installs Sidestore on iOS 27, fully on-device  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 🕹 Retro video game emulation for macOS |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nightscout/Trio](../repos/nightscout/Trio.md) | ⭐ 389 | 2026-09-14 | Trio - an automated insulin delivery system for iOS based on the OpenAPS algorithm with adaptations. |
@@ -67,10 +55,16 @@
 | [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 516 | 2026-09-21 | Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH,... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 7,316 | 2026-09-21 | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 9,167 | 2026-09-21 | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chenqi92/primuse](../repos/chenqi92/primuse.md) | ⭐ 144 | 2026-09-24 | IOS、MacOS、AppleTV端音乐app，添加群晖等nas源、飞牛音乐等音乐服务源、百度网盘等各类网盘源、webdav等网络文件源。apple music集成播放，自带刮削功能、CarPl... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ChrisMack32/Locus](../repos/ChrisMack32/Locus.md) | ⭐ 511 | 2026-09-27 | Free open-source iPhone location teleport (MIT) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [thsnkhn/harbor](../repos/thsnkhn/harbor.md) | ⭐ 538 | 2026-09-27 | Beautiful native macOS download manager for direct links, magnets, and torrents. |
 
 
 ---
@@ -115,7 +109,7 @@
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 12 | ⭐ 9,138 | 2026-08-02 | 2026-10-03 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 12 | ⭐ 8,533 | 2026-08-04 | 2026-10-06 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 12 | ⭐ 26,893 | 2026-08-04 | 2026-10-07 |
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | 11 | ⭐ 14,912 | 2026-08-24 | 2026-10-12 |
+| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 11 | ⭐ 6,786 | 2026-08-01 | 2026-10-13 |
 
 ---
 
@@ -224,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.481Z*
+*Last updated: 2026-10-13T21:02:01.833Z*

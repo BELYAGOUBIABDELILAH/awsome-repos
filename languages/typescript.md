@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 258
+- **Total Repositories**: 261
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-04
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 100,889 | 2026-08-02 | 9 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 34,631 | 2026-08-07 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 33,970 | 2026-08-07 | 14 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 62,646 | 2026-08-08 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agalwood/Motrix](../repos/agalwood/Motrix.md) | ⭐ 56,553 | 2026-08-17 | 6 |
+| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 34,395 | 2026-08-10 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rmyndharis/OpenWA](../repos/rmyndharis/OpenWA.md) | ⭐ 15,378 | 2026-08-19 | 5 |
+| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 23,462 | 2026-08-14 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
+| [rmyndharis/OpenWA](../repos/rmyndharis/OpenWA.md) | ⭐ 15,435 | 2026-08-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 39,687 | 2026-09-14 | 4 |
+| [Tencent/teamai-cli](../repos/Tencent/teamai-cli.md) | ⭐ 5,423 | 2026-09-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 129,595 | 2026-10-06 | 6 |
+| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 39,896 | 2026-09-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CopilotKit/OpenIntelligentUI](../repos/CopilotKit/OpenIntelligentUI.md) | ⭐ 2,791 | 2026-10-11 | 2 |
+| [krillinai/OpenCreator](../repos/krillinai/OpenCreator.md) | ⭐ 12,900 | 2026-09-20 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chthollyphile/folia-major](../repos/chthollyphile/folia-major.md) | ⭐ 5,284 | 2026-10-11 | 2 |
+| [ashhart/TensorFold](../repos/ashhart/TensorFold.md) | ⭐ 1,305 | 2026-09-28 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getnao/nao](../repos/getnao/nao.md) | ⭐ 1,913 | 2026-10-11 | 2 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 203,313 | 2026-10-06 | 7 |
 
 
 ---
@@ -52,19 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tech-leads-club/agent-skills](../repos/tech-leads-club/agent-skills.md) | ⭐ 6,008 | 2026-09-13 | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claud... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ColeMurray/background-agents](../repos/ColeMurray/background-agents.md) | ⭐ 3,012 | 2026-09-13 | An open-source background agents coding system |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/AI-Engineering-Coach](../repos/microsoft/AI-Engineering-Coach.md) | ⭐ 4,117 | 2026-09-13 | better agentic engineering |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [thesysdev/openui](../repos/thesysdev/openui.md) | ⭐ 10,563 | 2026-09-13 | The Open Standard for Generative UI |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 39,687 | 2026-09-14 | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, ... |
+| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 39,896 | 2026-09-14 | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [reconurge/flowsint](../repos/reconurge/flowsint.md) | ⭐ 9,556 | 2026-09-14 | A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecur... |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PasarGuard/panel](../repos/PasarGuard/panel.md) | ⭐ 2,575 | 2026-09-14 | PasarGuard | Unified GUI Censorship Resistant Solution |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Open-Dev-Society/OpenStock](../repos/Open-Dev-Society/OpenStock.md) | ⭐ 18,327 | 2026-09-19 | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, se... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vercel-labs/json-render](../repos/vercel-labs/json-render.md) | ⭐ 18,085 | 2026-09-19 | The Generative UI framework |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ahmedkhaleel2004/gitdiagram](../repos/ahmedkhaleel2004/gitdiagram.md) | ⭐ 16,761 | 2026-09-19 | Free, simple, fast interactive diagrams for any GitHub repository |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Fission-AI/OpenSpec](../repos/Fission-AI/OpenSpec.md) | ⭐ 69,510 | 2026-09-19 | Spec-driven development (SDD) for AI coding assistants. |
 
 
 ---
@@ -90,13 +90,13 @@
 |------------|-------|------------|---------------|
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 206,509 | 2026-08-11 | 6 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 203,313 | 2026-10-06 | 7 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 149,758 | 2026-08-07 | 17 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,718 | 2026-08-02 | 5 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 135,527 | 2026-08-02 | 13 |
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 129,595 | 2026-10-06 | 6 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 112,105 | 2026-08-07 | 11 |
@@ -116,10 +116,10 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [cursor/plugins](../repos/cursor/plugins.md) | 18 | ⭐ 10,238 | 2026-08-01 | 2026-10-07 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 18 | ⭐ 62,646 | 2026-08-08 | 2026-10-13 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 17 | ⭐ 149,758 | 2026-08-07 | 2026-10-07 |
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 17 | ⭐ 57,867 | 2026-08-08 | 2026-10-06 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 15 | ⭐ 34,631 | 2026-08-07 | 2026-10-13 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 14 | ⭐ 33,970 | 2026-08-07 | 2026-10-12 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 13 | ⭐ 135,527 | 2026-08-02 | 2026-10-06 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 13 | ⭐ 78,223 | 2026-08-11 | 2026-09-25 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 12 | ⭐ 74,000 | 2026-08-10 | 2026-10-06 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.485Z*
+*Last updated: 2026-10-13T21:02:01.837Z*

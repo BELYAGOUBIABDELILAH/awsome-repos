@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 219
+- **Total Repositories**: 221
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libuv/libuv](../repos/libuv/libuv.md) | ⭐ 27,243 | 2026-08-01 | 13 |
+| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,340 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,779 | 2026-08-01 | 8 |
+| [SchedMD/slurm](../repos/SchedMD/slurm.md) | ⭐ 4,435 | 2026-08-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [brunodev85/winlator](../repos/brunodev85/winlator.md) | ⭐ 19,433 | 2026-08-02 | 12 |
+| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,347 | 2026-08-12 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 25,000 | 2026-08-05 | 4 |
+| [espressif/esp-claw](../repos/espressif/esp-claw.md) | ⭐ 2,233 | 2026-08-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 6,877 | 2026-08-08 | 10 |
+| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 4,653 | 2026-08-15 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acidanthera/OpenCorePkg](../repos/acidanthera/OpenCorePkg.md) | ⭐ 15,526 | 2026-08-08 | 5 |
+| [willfaust/Madeira](../repos/willfaust/Madeira.md) | ⭐ 2,397 | 2026-09-09 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rexglue/rexglue-sdk](../repos/rexglue/rexglue-sdk.md) | ⭐ 1,035 | 2026-08-08 | 6 |
+| [HarbourMasters/PaperBoat](../repos/HarbourMasters/PaperBoat.md) | ⭐ 461 | 2026-09-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [arendst/Tasmota](../repos/arendst/Tasmota.md) | ⭐ 24,821 | 2026-08-09 | 6 |
+| [tarwin/tinyjsapp](../repos/tarwin/tinyjsapp.md) | ⭐ 1,008 | 2026-10-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) | ⭐ 15,861 | 2026-08-15 | 9 |
+| [Zelda64Recomp/Zelda64Recomp](../repos/Zelda64Recomp/Zelda64Recomp.md) | ⭐ 7,396 | 2026-10-13 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [reactos/reactos](../repos/reactos/reactos.md) | ⭐ 18,186 | 2026-08-16 | 8 |
+| [rogerbinns/apsw](../repos/rogerbinns/apsw.md) | ⭐ 938 | 2026-10-13 | 1 |
 
 
 ---
@@ -52,22 +52,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [johnfanv2/LenovoLegionLinux](../repos/johnfanv2/LenovoLegionLinux.md) | ⭐ 3,366 | 2026-09-13 | Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power m... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [apache/nuttx](../repos/apache/nuttx.md) | ⭐ 4,031 | 2026-09-13 | Apache NuttX is a mature, real-time embedded operating system (RTOS) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jemalloc/jemalloc](../repos/jemalloc/jemalloc.md) | ⭐ 11,168 | 2026-09-13 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openshwprojects/OpenBK7231T_App](../repos/openshwprojects/OpenBK7231T_App.md) | ⭐ 2,285 | 2026-09-13 | Open source firmware (Tasmota&#x2F;Esphome replacement) for BK7231T, BK7231N, BL2028N, T34, XR809, W80... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [HarbourMasters/2ship2harkinian](../repos/HarbourMasters/2ship2harkinian.md) | ⭐ 2,222 | 2026-09-14 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [HarbourMasters/PaperBoat](../repos/HarbourMasters/PaperBoat.md) | ⭐ 455 | 2026-09-19 | Paper Mario 64 port based on the Paper Mario DX decompilation |
+| [HarbourMasters/PaperBoat](../repos/HarbourMasters/PaperBoat.md) | ⭐ 461 | 2026-09-19 | Paper Mario 64 port based on the Paper Mario DX decompilation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [foobnix/LibreraReader](../repos/foobnix/LibreraReader.md) | ⭐ 4,823 | 2026-09-19 | Book Reader for Android |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [luka-dev/mib2q-carplay-rgi](../repos/luka-dev/mib2q-carplay-rgi.md) | ⭐ 194 | 2026-09-20 | Implementation of Route Guidance from CarPlay for MHI2Q |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PlatformLab/HomaModule](../repos/PlatformLab/HomaModule.md) | ⭐ 361 | 2026-09-20 | A Linux kernel module that implements the Homa transport protocol. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [henrypp/simplewall](../repos/henrypp/simplewall.md) | ⭐ 9,015 | 2026-09-20 | Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 659 | 2026-09-20 | Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vladelaina/Catime](../repos/vladelaina/Catime.md) | ⭐ 4,837 | 2026-09-21 | 💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, ... |
 
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.385Z*
+*Last updated: 2026-10-13T21:02:01.739Z*

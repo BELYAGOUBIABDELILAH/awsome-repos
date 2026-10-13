@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 4,589 |
-| **Forks** | 🍴 618 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 4,653 |
+| **Forks** | 🍴 623 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 15, 2026 |
-| **Last Seen** | Oct 8, 2026 |
+| **Last Seen** | Oct 13, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 3 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Slow | Occasional updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:12.109Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-10-13T21:02:06.537Z*  
+*Data from 11 trending reports*

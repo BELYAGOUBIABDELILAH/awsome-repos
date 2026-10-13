@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 482
+**Gems Found**: 468
 
 ---
 
@@ -23,7 +23,7 @@
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Sep 3, 2026 |
 
-**Why it's a gem**: High growth velocity (+97 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+97 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -123,7 +123,7 @@
 | 📈 **Trending Days** | 8 |
 | 📅 **First Seen** | Aug 14, 2026 |
 
-**Why it's a gem**: High growth velocity (+65 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+65 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -171,27 +171,7 @@
 
 ---
 
-### 9. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
-
-**Native GUI for Homebrew Casks**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,131 |
-| 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 10, 2026 |
-
-**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
-
----
-
-### 10. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
+### 9. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
 **Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
@@ -211,7 +191,7 @@
 
 ---
 
-### 11. [apache&#x2F;maka](../../repos/apache/maka.md)
+### 10. [apache&#x2F;maka](../../repos/apache/maka.md)
 
 **Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
 
@@ -231,7 +211,7 @@
 
 ---
 
-### 12. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+### 11. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
 
 **Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
 
@@ -251,7 +231,7 @@
 
 ---
 
-### 13. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+### 12. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
 
 **Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
 
@@ -268,6 +248,26 @@
 **Best for**: 
 
 [View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
+
+---
+
+### 13. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+
+**Native GUI for Homebrew Casks**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,131 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
 
 ---
 
@@ -391,23 +391,23 @@
 
 ---
 
-### 20. [arcboxlabs&#x2F;arcbox](../../repos/arcboxlabs/arcbox.md)
+### 20. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
 
-**Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.**
+**A framework for building agentic apps**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,363 |
-| 💻 **Language** | Rust |
+| ⭐ **Stars** | 6,313 |
+| 💻 **Language** | TypeScript |
 | 🏆 **Gem Score** | 86/100 |
 | 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Sep 2, 2026 |
+| 📅 **First Seen** | Sep 12, 2026 |
 
-**Why it's a gem**: High growth velocity (+494 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+531 stars&#x2F;day) • Trending 4 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/arcboxlabs/arcbox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;arcboxlabs&#x2F;arcbox)
+[View Passport](../../repos/BuilderIO/agent-native.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;BuilderIO&#x2F;agent-native)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-12T21:02:14.566Z*  
+*Generated: 2026-10-13T21:02:08.978Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

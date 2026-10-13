@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 157
+- **Total Repositories**: 160
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,287 | 2026-08-01 | 15 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,321 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 63,841 | 2026-08-02 | 18 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,779 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,681 | 2026-08-02 | 13 |
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,495 | 2026-08-17 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | ⭐ 10,935 | 2026-08-03 | 13 |
+| [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 1,789 | 2026-08-19 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ZalithLauncher/ZalithLauncher2](../repos/ZalithLauncher/ZalithLauncher2.md) | ⭐ 2,007 | 2026-08-04 | 11 |
+| [zhanghai/MaterialFiles](../repos/zhanghai/MaterialFiles.md) | ⭐ 9,194 | 2026-08-19 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,447 | 2026-08-05 | 7 |
+| [compose-miuix-ui/miuix](../repos/compose-miuix-ui/miuix.md) | ⭐ 1,431 | 2026-09-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | ⭐ 6,511 | 2026-08-09 | 9 |
+| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 3,094 | 2026-10-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,459 | 2026-08-17 | 6 |
+| [MuwMx/YumaPlayer](../repos/MuwMx/YumaPlayer.md) | ⭐ 771 | 2026-10-13 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 1,656 | 2026-08-19 | 10 |
+| [komikku-app/anikku](../repos/komikku-app/anikku.md) | ⭐ 1,088 | 2026-10-13 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 1,825 | 2026-10-01 | 6 |
+| [Ackites/Nrfr](../repos/Ackites/Nrfr.md) | ⭐ 9,168 | 2026-10-13 | 1 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [compose-miuix-ui/miuix](../repos/compose-miuix-ui/miuix.md) | ⭐ 1,238 | 2026-09-14 | A UI library for Compose Multiplatform |
+| [compose-miuix-ui/miuix](../repos/compose-miuix-ui/miuix.md) | ⭐ 1,431 | 2026-09-14 | A UI library for Compose Multiplatform |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [FooIbar/EhViewer](../repos/FooIbar/EhViewer.md) | ⭐ 4,717 | 2026-09-20 | EhViewer overhauled with Material Design 3 and more, forked from https:&#x2F;&#x2F;github.com&#x2F;Ehviewer-Over... |
@@ -97,13 +97,13 @@
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,447 | 2026-08-05 | 7 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,342 | 2026-08-11 | 5 |
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,879 | 2026-08-12 | 9 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,287 | 2026-08-01 | 15 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,321 | 2026-08-01 | 16 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,872 | 2026-08-02 | 5 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,852 | 2026-08-01 | 7 |
 | [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,731 | 2026-09-07 | 10 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
-| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,459 | 2026-08-17 | 6 |
+| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,495 | 2026-08-17 | 7 |
 | [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,917 | 2026-08-02 | 9 |
 | [ktorio/ktor](../repos/ktorio/ktor.md) | ⭐ 14,525 | 2026-09-12 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,644 | 2026-08-06 | 7 |
@@ -116,9 +116,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 18 | ⭐ 63,841 | 2026-08-02 | 2026-10-12 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 16 | ⭐ 24,321 | 2026-08-01 | 2026-10-13 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 16 | ⭐ 2,779 | 2026-08-02 | 2026-10-13 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 16 | ⭐ 30,980 | 2026-08-08 | 2026-10-03 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 15 | ⭐ 24,287 | 2026-08-01 | 2026-10-12 |
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 15 | ⭐ 2,550 | 2026-08-02 | 2026-09-29 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 13 | ⭐ 11,681 | 2026-08-02 | 2026-10-12 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 13 | ⭐ 10,935 | 2026-08-03 | 2026-10-12 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 13 | ⭐ 63,060 | 2026-08-03 | 2026-10-03 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.440Z*
+*Last updated: 2026-10-13T21:02:01.791Z*

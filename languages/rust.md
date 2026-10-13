@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 210
+- **Total Repositories**: 211
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-09
 
@@ -16,34 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 29,888 | 2026-08-03 | 12 |
+| [googleworkspace/cli](../repos/googleworkspace/cli.md) | ⭐ 31,460 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [denoland/celld](../repos/denoland/celld.md) | ⭐ 5,466 | 2026-08-07 | 6 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 97,791 | 2026-08-09 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 4,113 | 2026-09-13 | 7 |
+| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 25,290 | 2026-10-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 19,734 | 2026-10-06 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [BrandonKowalski/slot](../repos/BrandonKowalski/slot.md) | ⭐ 131 | 2026-10-11 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [microsoft/litebox](../repos/microsoft/litebox.md) | ⭐ 3,122 | 2026-10-12 | 1 |
+| [raphaelmansuy/edgequake](../repos/raphaelmansuy/edgequake.md) | ⭐ 2,236 | 2026-10-13 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Stremio/stremio-core](../repos/Stremio/stremio-core.md) | ⭐ 2,377 | 2026-09-13 | ⚛️ The Stremio Core: types, addon system, UI models, core logic |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 4,113 | 2026-09-13 | A WiFi security auditing software |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CluvexStudio/Aether](../repos/CluvexStudio/Aether.md) | ⭐ 1,871 | 2026-09-14 | A Rust userspace WARP core for censored networks, built around MASQUE over HTTP&#x2F;3 and HTTP&#x2F;2. |
@@ -68,6 +56,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [smol-machines/smolvm](../repos/smol-machines/smolvm.md) | ⭐ 6,273 | 2026-09-20 | An embeddable, portable, branchable virtual machine to safely run Agents locally. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mesamirh/MovieBox-Tui](../repos/mesamirh/MovieBox-Tui.md) | ⭐ 2,169 | 2026-09-21 | Terminal interface to find, download, and stream movies, TV shows, and live TV using local media ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hydra-db/hydradb](../repos/hydra-db/hydradb.md) | ⭐ 12,820 | 2026-09-22 | HydraDB - fast graph database on object storage |
 
 
 ---
@@ -79,8 +73,8 @@
 | [openai/codex](../repos/openai/codex.md) | ⭐ 128,385 | 2026-08-01 | 13 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,244 | 2026-07-30 | 10 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 97,791 | 2026-08-09 | 15 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,064 | 2026-08-11 | 8 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 95,867 | 2026-08-09 | 14 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 90,142 | 2026-07-31 | 4 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
@@ -104,8 +98,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 21 | ⭐ 23,670 | 2026-08-08 | 2026-09-28 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 15 | ⭐ 97,791 | 2026-08-09 | 2026-10-13 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 15 | ⭐ 41,568 | 2026-08-10 | 2026-10-07 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 14 | ⭐ 95,867 | 2026-08-09 | 2026-10-01 |
 | [openai/codex](../repos/openai/codex.md) | 13 | ⭐ 128,385 | 2026-08-01 | 2026-10-09 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 13 | ⭐ 23,706 | 2026-08-01 | 2026-10-01 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 12 | ⭐ 29,888 | 2026-08-03 | 2026-10-12 |
@@ -221,4 +215,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.472Z*
+*Last updated: 2026-10-13T21:02:01.823Z*

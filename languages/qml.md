@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Swordfish90/cool-retro-term](../repos/Swordfish90/cool-retro-term.md) | ⭐ 26,198 | 2026-09-13 | A good looking terminal emulator which mimics the old cathode display... |
 
+*No new QML repositories in the last 30 days*
 
 ---
 
@@ -50,4 +48,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.465Z*
+*Last updated: 2026-10-13T21:02:01.816Z*

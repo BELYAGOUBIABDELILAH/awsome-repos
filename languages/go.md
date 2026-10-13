@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 297
+- **Total Repositories**: 299
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-10-12
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 49,776 | 2026-08-01 | 18 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 49,872 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 52,569 | 2026-08-01 | 16 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 52,694 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 33,419 | 2026-08-01 | 20 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 33,751 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,887 | 2026-08-01 | 20 |
+| [Project-HAMi/HAMi](../repos/Project-HAMi/HAMi.md) | ⭐ 4,745 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lharries/whatsapp-mcp](../repos/lharries/whatsapp-mcp.md) | ⭐ 6,547 | 2026-08-03 | 5 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,905 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Project-HAMi/HAMi](../repos/Project-HAMi/HAMi.md) | ⭐ 4,708 | 2026-08-04 | 6 |
+| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 17,659 | 2026-08-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YouROK/TorrServer](../repos/YouROK/TorrServer.md) | ⭐ 3,121 | 2026-08-06 | 2 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 28,147 | 2026-08-06 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 17,638 | 2026-08-06 | 7 |
+| [livekit/livekit](../repos/livekit/livekit.md) | ⭐ 21,418 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 43,788 | 2026-08-07 | 17 |
+| [kedacore/keda](../repos/kedacore/keda.md) | ⭐ 10,616 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 12,891 | 2026-08-19 | 9 |
+| [maximhq/bifrost](../repos/maximhq/bifrost.md) | ⭐ 8,760 | 2026-08-19 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hashicorp/nomad](../repos/hashicorp/nomad.md) | ⭐ 16,903 | 2026-09-13 | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ipfs/kubo](../repos/ipfs/kubo.md) | ⭐ 17,136 | 2026-09-13 | IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HT... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [operacle/checkcle](../repos/operacle/checkcle.md) | ⭐ 3,196 | 2026-09-14 | CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack sys... |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openai/tunnel-client](../repos/openai/tunnel-client.md) | ⭐ 473 | 2026-09-19 | Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, C... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [charmbracelet/bubbletea](../repos/charmbracelet/bubbletea.md) | ⭐ 45,247 | 2026-09-19 | A powerful little TUI framework 🏗 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [grafana/gcx](../repos/grafana/gcx.md) | ⭐ 771 | 2026-09-19 | A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage. |
 
 
 ---
@@ -102,12 +102,12 @@
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,012 | 2026-08-11 | 5 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 52,569 | 2026-08-01 | 16 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 52,694 | 2026-08-01 | 17 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,310 | 2026-08-22 | 3 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
-| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,820 | 2026-08-06 | 8 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 49,776 | 2026-08-01 | 18 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,905 | 2026-08-06 | 9 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 49,872 | 2026-08-01 | 19 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 20 | ⭐ 33,419 | 2026-08-01 | 2026-10-12 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 21 | ⭐ 33,751 | 2026-08-01 | 2026-10-13 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 20 | ⭐ 182,887 | 2026-08-01 | 2026-10-12 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 18 | ⭐ 49,776 | 2026-08-01 | 2026-10-12 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 19 | ⭐ 49,872 | 2026-08-01 | 2026-10-13 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 18 | ⭐ 38,286 | 2026-08-01 | 2026-10-07 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 17 | ⭐ 52,694 | 2026-08-01 | 2026-10-13 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 17 | ⭐ 43,788 | 2026-08-07 | 2026-10-12 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 16 | ⭐ 52,569 | 2026-08-01 | 2026-10-12 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 16 | ⭐ 762 | 2026-08-01 | 2026-10-07 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 15 | ⭐ 4,200 | 2026-08-02 | 2026-10-03 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 14 | ⭐ 46,880 | 2026-08-20 | 2026-10-13 |
 | [golang/go](../repos/golang/go.md) | 13 | ⭐ 139,317 | 2026-07-31 | 2026-10-07 |
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 13 | ⭐ 46,386 | 2026-08-20 | 2026-10-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-12T21:02:07.419Z*
+*Last updated: 2026-10-13T21:02:01.771Z*
