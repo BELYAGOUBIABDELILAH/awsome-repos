@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 101
+- **Total Repositories**: 104
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-12
+- **Last Updated**: 2026-10-14
 
 ---
 
@@ -16,40 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 77,296 | 2026-08-01 | 21 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 77,327 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 15,522 | 2026-08-02 | 33 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 180,154 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 94,271 | 2026-08-02 | 25 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 94,391 | 2026-08-02 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [umr-xiaomai/kgka_Music_hl](../repos/umr-xiaomai/kgka_Music_hl.md) | ⭐ 641 | 2026-08-04 | 6 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,222 | 2026-08-02 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jameskokoska/Cashew](../repos/jameskokoska/Cashew.md) | ⭐ 4,700 | 2026-08-09 | 9 |
+| [gokadzev/Musify](../repos/gokadzev/Musify.md) | ⭐ 4,325 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lollipopkit/flutter_server_box](../repos/lollipopkit/flutter_server_box.md) | ⭐ 8,819 | 2026-08-11 | 9 |
+| [lollipopkit/flutter_server_box](../repos/lollipopkit/flutter_server_box.md) | ⭐ 8,822 | 2026-08-11 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [saber-notes/saber](../repos/saber-notes/saber.md) | ⭐ 4,913 | 2026-08-12 | 9 |
+| [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 26,912 | 2026-09-06 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 904 | 2026-10-13 | 1 |
+| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 927 | 2026-10-13 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JeoJay127/RapidEFI-Tool](../repos/JeoJay127/RapidEFI-Tool.md) | ⭐ 2,559 | 2026-10-13 | 1 |
+| [zzyoxml/md3Music](../repos/zzyoxml/md3Music.md) | ⭐ 971 | 2026-10-14 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [AneryCoft/course_helper](../repos/AneryCoft/course_helper.md) | ⭐ 267 | 2026-10-14 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [BenderBlog/traintime_pda](../repos/BenderBlog/traintime_pda.md) | ⭐ 320 | 2026-09-14 | 开源的西电学生信息查询软件，包括课表查询、成绩查询、电费查询等功能。手机版称为 XDYou  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [DavBfr/dart_pdf](../repos/DavBfr/dart_pdf.md) | ⭐ 1,527 | 2026-09-19 | Pdf creation module for dart&#x2F;flutter |
@@ -76,7 +76,10 @@
 | [ComicSparks/jasmine](../repos/ComicSparks/jasmine.md) | ⭐ 5,465 | 2026-10-08 | A comic browser，support Android &#x2F; iOS &#x2F; MacOS &#x2F; Windows &#x2F; Linux.  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 904 | 2026-10-13 |  Offline gym log for Android. No account, no ads, no internet. |
+| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 927 | 2026-10-13 |  Offline gym log for Android. No account, no ads, no internet. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [JeoJay127/RapidEFI-Tool](../repos/JeoJay127/RapidEFI-Tool.md) | ⭐ 2,559 | 2026-10-13 | An excellent one-click EFI configuration tool based on OpenCore |
 
 
 ---
@@ -85,14 +88,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 179,869 | 2026-08-01 | 42 |
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 94,271 | 2026-08-02 | 25 |
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 77,296 | 2026-08-01 | 21 |
+| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 180,154 | 2026-08-01 | 43 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 94,391 | 2026-08-02 | 26 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 77,327 | 2026-08-01 | 22 |
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 55,402 | 2026-08-02 | 31 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 49,303 | 2026-08-04 | 20 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 35,614 | 2026-08-01 | 38 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,073 | 2026-08-02 | 32 |
-| [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 26,730 | 2026-09-06 | 13 |
+| [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 26,912 | 2026-09-06 | 14 |
 | [mitesh77/Best-Flutter-UI-Templates](../repos/mitesh77/Best-Flutter-UI-Templates.md) | ⭐ 22,819 | 2026-08-01 | 2 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 19,374 | 2026-08-02 | 34 |
 | [flutter/samples](../repos/flutter/samples.md) | ⭐ 19,271 | 2026-08-06 | 6 |
@@ -112,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [flutter/flutter](../repos/flutter/flutter.md) | 42 | ⭐ 179,869 | 2026-08-01 | 2026-10-12 |
+| [flutter/flutter](../repos/flutter/flutter.md) | 43 | ⭐ 180,154 | 2026-08-01 | 2026-10-14 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 38 | ⭐ 35,614 | 2026-08-01 | 2026-10-12 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 34 | ⭐ 19,374 | 2026-08-02 | 2026-10-12 |
 | [KaringX/karing](../repos/KaringX/karing.md) | 33 | ⭐ 15,522 | 2026-08-02 | 2026-10-13 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 32 | ⭐ 33,073 | 2026-08-02 | 2026-10-06 |
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | 31 | ⭐ 55,402 | 2026-08-02 | 2026-10-12 |
-| [localsend/localsend](../repos/localsend/localsend.md) | 25 | ⭐ 94,271 | 2026-08-02 | 2026-10-13 |
-| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 22 | ⭐ 4,201 | 2026-08-02 | 2026-10-12 |
+| [localsend/localsend](../repos/localsend/localsend.md) | 26 | ⭐ 94,391 | 2026-08-02 | 2026-10-14 |
+| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 23 | ⭐ 4,222 | 2026-08-02 | 2026-10-14 |
+| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 22 | ⭐ 77,327 | 2026-08-01 | 2026-10-14 |
 | [venera-app/venera](../repos/venera-app/venera.md) | 22 | ⭐ 11,143 | 2026-08-02 | 2026-10-06 |
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 21 | ⭐ 77,296 | 2026-08-01 | 2026-10-13 |
 
 ---
 
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:01.761Z*
+*Last updated: 2026-10-14T21:02:06.753Z*

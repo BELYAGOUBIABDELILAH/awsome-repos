@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,340 | 2026-08-01 | 3 |
+| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,345 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SchedMD/slurm](../repos/SchedMD/slurm.md) | ⭐ 4,435 | 2026-08-11 | 7 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,563 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,347 | 2026-08-12 | 9 |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 76,813 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espressif/esp-claw](../repos/espressif/esp-claw.md) | ⭐ 2,233 | 2026-08-12 | 6 |
+| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 4,653 | 2026-08-15 | 11 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 28,021 | 2026-08-07 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [willfaust/Madeira](../repos/willfaust/Madeira.md) | ⭐ 2,397 | 2026-09-09 | 10 |
+| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 6,923 | 2026-08-08 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HarbourMasters/PaperBoat](../repos/HarbourMasters/PaperBoat.md) | ⭐ 461 | 2026-09-19 | 4 |
+| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tarwin/tinyjsapp](../repos/tarwin/tinyjsapp.md) | ⭐ 1,008 | 2026-10-11 | 3 |
+| [HarbourMasters/PaperBoat](../repos/HarbourMasters/PaperBoat.md) | ⭐ 468 | 2026-09-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Zelda64Recomp/Zelda64Recomp](../repos/Zelda64Recomp/Zelda64Recomp.md) | ⭐ 7,396 | 2026-10-13 | 1 |
+| [sp00nznet/ps3recomp](../repos/sp00nznet/ps3recomp.md) | ⭐ 429 | 2026-10-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rogerbinns/apsw](../repos/rogerbinns/apsw.md) | ⭐ 938 | 2026-10-13 | 1 |
+| [sp00nznet/xboxrecomp](../repos/sp00nznet/xboxrecomp.md) | ⭐ 211 | 2026-10-11 | 3 |
 
 
 ---
@@ -52,10 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [HarbourMasters/2ship2harkinian](../repos/HarbourMasters/2ship2harkinian.md) | ⭐ 2,222 | 2026-09-14 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [HarbourMasters/PaperBoat](../repos/HarbourMasters/PaperBoat.md) | ⭐ 461 | 2026-09-19 | Paper Mario 64 port based on the Paper Mario DX decompilation |
+| [HarbourMasters/PaperBoat](../repos/HarbourMasters/PaperBoat.md) | ⭐ 468 | 2026-09-19 | Paper Mario 64 port based on the Paper Mario DX decompilation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [foobnix/LibreraReader](../repos/foobnix/LibreraReader.md) | ⭐ 4,823 | 2026-09-19 | Book Reader for Android |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vladelaina/Catime](../repos/vladelaina/Catime.md) | ⭐ 4,837 | 2026-09-21 | 💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [oerg866/win98-quickinstall](../repos/oerg866/win98-quickinstall.md) | ⭐ 1,730 | 2026-09-21 | A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a moder... |
 
 
 ---
@@ -90,9 +90,9 @@
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,696 | 2026-08-07 | 17 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,144 | 2026-08-01 | 20 |
-| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 79,470 | 2026-08-24 | 3 |
+| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 77,200 | 2026-08-02 | 16 |
-| [redis/redis](../repos/redis/redis.md) | ⭐ 76,113 | 2026-08-04 | 5 |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 76,813 | 2026-08-04 | 6 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 73,118 | 2026-08-01 | 22 |
 | [git/git](../repos/git/git.md) | ⭐ 63,555 | 2026-08-05 | 7 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 46,229 | 2026-08-07 | 22 |
@@ -100,7 +100,7 @@
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,420 | 2026-08-01 | 8 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
-| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,692 | 2026-08-04 | 9 |
+| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,756 | 2026-08-03 | 7 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,863 | 2026-09-06 | 3 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,364 | 2026-08-01 | 5 |
@@ -120,7 +120,7 @@
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 22 | ⭐ 16,734 | 2026-08-06 | 2026-10-09 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 22 | ⭐ 46,229 | 2026-08-07 | 2026-10-09 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 20 | ⭐ 139,144 | 2026-08-01 | 2026-10-09 |
-| [facebook/zstd](../repos/facebook/zstd.md) | 19 | ⭐ 27,997 | 2026-08-07 | 2026-10-08 |
+| [facebook/zstd](../repos/facebook/zstd.md) | 20 | ⭐ 28,021 | 2026-08-07 | 2026-10-14 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 17 | ⭐ 6,981 | 2026-08-04 | 2026-10-03 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 17 | ⭐ 151,696 | 2026-08-07 | 2026-10-09 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 16 | ⭐ 77,200 | 2026-08-02 | 2026-10-09 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:01.739Z*
+*Last updated: 2026-10-14T21:02:06.732Z*

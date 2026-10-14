@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C# |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 17,079 |
-| **Forks** | 🍴 2,033 |
-| **Trending Days** | 16 |
+| **Stars** | ⭐ 17,117 |
+| **Forks** | 🍴 2,037 |
+| **Trending Days** | 17 |
 | **Peak Rank** | #7 |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Oct 13, 2026 |
+| **Last Seen** | Oct 14, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #7
-- **Trending Days**: 16
+- **Trending Days**: 17
 - **Longest Streak**: 4 days
 
 ---
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:05.073Z*  
-*Data from 16 trending reports*
+*Last updated: 2026-10-14T21:02:09.390Z*  
+*Data from 17 trending reports*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Swift |
 | **License** | MIT |
-| **Stars** | ⭐ 9,167 |
-| **Forks** | 🍴 388 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 10,613 |
+| **Forks** | 🍴 468 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Sep 21, 2026 |
-| **Last Seen** | Oct 13, 2026 |
+| **Last Seen** | Oct 14, 2026 |
 
 
 ---
@@ -44,12 +44,13 @@
 ## Trending Timeline
 
 **Oct 13, 2026** — Rank #9 (+1182 ⭐)  
+**Oct 14, 2026** — Rank #10 (+1510 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 6
-- **Longest Streak**: 3 days
+- **Trending Days**: 7
+- **Longest Streak**: 4 days
 
 ---
 
@@ -70,8 +71,8 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
-| **Documentation** | Limited | May require reading source code |
-| **Community** | Small | Niche but dedicated community |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -92,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:08.129Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-10-14T21:02:12.013Z*  
+*Data from 7 trending reports*

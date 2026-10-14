@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 161
+- **Total Repositories**: 162
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-22
+- **Last Updated**: 2026-10-14
 
 ---
 
@@ -16,37 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 17,300 | 2026-08-14 | 7 |
+| [react/react](../repos/react/react.md) | ⭐ 251,021 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 55,171 | 2026-08-27 | 11 |
+| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 40,018 | 2026-08-14 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chaolucky18/xuexitongScript](../repos/chaolucky18/xuexitongScript.md) | ⭐ 2,884 | 2026-10-09 | 4 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 22,292 | 2026-08-16 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [poloclub/transformer-explainer](../repos/poloclub/transformer-explainer.md) | ⭐ 8,958 | 2026-10-12 | 2 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 56,369 | 2026-08-27 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [truelockmc/streambert](../repos/truelockmc/streambert.md) | ⭐ 6,259 | 2026-10-13 | 1 |
+| [sandeco/reversa](../repos/sandeco/reversa.md) | ⭐ 1,744 | 2026-09-12 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [plugin87/ux-ui-agent-skills](../repos/plugin87/ux-ui-agent-skills.md) | ⭐ 1,721 | 2026-09-14 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [qist/tvbox](../repos/qist/tvbox.md) | ⭐ 11,510 | 2026-09-14 | OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [playcanvas/engine](../repos/playcanvas/engine.md) | ⭐ 16,784 | 2026-09-14 | Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [yuliskov/SmartTubeLegacy](../repos/yuliskov/SmartTubeLegacy.md) | ⭐ 4,559 | 2026-09-14 | Watch YouTube videos on your TV and set-top-box with comfort |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [plugin87/ux-ui-agent-skills](../repos/plugin87/ux-ui-agent-skills.md) | ⭐ 1,300 | 2026-09-14 | Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AA... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mindcraft-bots/mindcraft](../repos/mindcraft-bots/mindcraft.md) | ⭐ 5,768 | 2026-09-19 | Minecraft AI with LLMs+Mineflayer |
@@ -65,6 +59,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [copy/v86](../repos/copy/v86.md) | ⭐ 23,527 | 2026-09-25 | x86 PC emulator and x86-to-wasm JIT, running in the browser |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pashov/skills](../repos/pashov/skills.md) | ⭐ 1,205 | 2026-09-25 | Pashov Audit Group Skills |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mlmvpn/mlmvpn_windows](../repos/mlmvpn/mlmvpn_windows.md) | ⭐ 159 | 2026-09-27 | MLMVPN - Ultimate Anti-Filter &amp; IP Scanner |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [crocodilestick/Calibre-Web-Automated](../repos/crocodilestick/Calibre-Web-Automated.md) | ⭐ 6,345 | 2026-09-28 | Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook s... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [huilang-me/CF-Server-Monitor](../repos/huilang-me/CF-Server-Monitor.md) | ⭐ 2,302 | 2026-09-28 | 一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能... |
 
 
 ---
@@ -73,7 +79,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react](../repos/react/react.md) | ⭐ 247,637 | 2026-08-04 | 2 |
+| [react/react](../repos/react/react.md) | ⭐ 251,021 | 2026-08-04 | 3 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
@@ -89,10 +95,10 @@
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 66,612 | 2026-08-01 | 18 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 55,171 | 2026-08-27 | 11 |
+| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 56,369 | 2026-08-27 | 12 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,174 | 2026-08-08 | 3 |
-| [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
 
 ---
 
@@ -107,9 +113,9 @@
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 13 | ⭐ 3,954 | 2026-08-07 | 2026-10-03 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 12 | ⭐ 27,764 | 2026-08-03 | 2026-10-12 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 12 | ⭐ 56,369 | 2026-08-27 | 2026-10-14 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 11 | ⭐ 143,238 | 2026-07-30 | 2026-10-07 |
 | [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 11 | ⭐ 33,755 | 2026-08-02 | 2026-10-01 |
-| [drawdb-io/drawdb](../repos/drawdb-io/drawdb.md) | 11 | ⭐ 39,942 | 2026-08-06 | 2026-10-12 |
 
 ---
 
@@ -218,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:01.785Z*
+*Last updated: 2026-10-14T21:02:06.774Z*

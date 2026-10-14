@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 272
+- **Total Repositories**: 273
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-12
+- **Last Updated**: 2026-10-14
 
 ---
 
@@ -16,43 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 23,734 | 2026-08-02 | 7 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,966 | 2026-07-30 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 30,914 | 2026-08-03 | 13 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,180 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react-native](../repos/react/react-native.md) | ⭐ 126,659 | 2026-08-04 | 5 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 31,084 | 2026-08-03 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,122 | 2026-08-09 | 11 |
+| [colmap/colmap](../repos/colmap/colmap.md) | ⭐ 12,951 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ran-j/PS2Recomp](../repos/ran-j/PS2Recomp.md) | ⭐ 3,422 | 2026-08-23 | 4 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,156 | 2026-08-09 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SethRobinson/Patchy](../repos/SethRobinson/Patchy.md) | ⭐ 579 | 2026-10-08 | 2 |
+| [ran-j/PS2Recomp](../repos/ran-j/PS2Recomp.md) | ⭐ 3,464 | 2026-08-23 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [diasurgical/DevilutionX](../repos/diasurgical/DevilutionX.md) | ⭐ 9,834 | 2026-10-12 | 2 |
+| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,577 | 2026-08-25 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [scummvm/scummvm](../repos/scummvm/scummvm.md) | ⭐ 2,846 | 2026-10-13 | 1 |
+| [pichenettes/eurorack](../repos/pichenettes/eurorack.md) | ⭐ 3,289 | 2026-10-14 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jtenniswood/espcontrol](../repos/jtenniswood/espcontrol.md) | ⭐ 1,010 | 2026-09-14 | Esphome based smart home control panel |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OpenTTD/OpenTTD](../repos/OpenTTD/OpenTTD.md) | ⭐ 8,323 | 2026-09-14 | OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [eden-emulator/mirror](../repos/eden-emulator/mirror.md) | ⭐ 224 | 2026-09-14 | Mirror of Eden. PRs welcome. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [flameshot-org/flameshot](../repos/flameshot-org/flameshot.md) | ⭐ 31,014 | 2026-09-19 | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: |
@@ -74,6 +65,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [falcosecurity/falco](../repos/falcosecurity/falco.md) | ⭐ 9,454 | 2026-09-22 | Cloud Native Runtime Security |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [openxla/xla](../repos/openxla/xla.md) | ⭐ 4,557 | 2026-09-24 | A machine learning compiler for GPUs, CPUs, and ML accelerators |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Themaister/pyrowave](../repos/Themaister/pyrowave.md) | ⭐ 544 | 2026-09-24 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Fable2Recomp/Fable2Recomp](../repos/Fable2Recomp/Fable2Recomp.md) | ⭐ 332 | 2026-09-24 | A Fable 2 Recomp |
 
 
 ---
@@ -82,8 +82,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,877 | 2026-07-30 | 24 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 130,537 | 2026-08-01 | 28 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,966 | 2026-07-30 | 25 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,180 | 2026-08-01 | 29 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,659 | 2026-08-04 | 5 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 117,022 | 2026-08-01 | 9 |
@@ -99,7 +99,7 @@
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,360 | 2026-08-02 | 8 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,885 | 2026-08-19 | 10 |
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,122 | 2026-08-09 | 11 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,156 | 2026-08-09 | 12 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 40,494 | 2026-08-02 | 7 |
 
@@ -110,15 +110,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 28 | ⭐ 130,537 | 2026-08-01 | 2026-10-08 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 24 | ⭐ 200,877 | 2026-07-30 | 2026-10-12 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 29 | ⭐ 131,180 | 2026-08-01 | 2026-10-14 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 25 | ⭐ 200,966 | 2026-07-30 | 2026-10-14 |
 | [google/googletest](../repos/google/googletest.md) | 19 | ⭐ 39,629 | 2026-08-04 | 2026-10-06 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 16 | ⭐ 527 | 2026-08-01 | 2026-10-09 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 15 | ⭐ 72,087 | 2026-08-01 | 2026-10-02 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 14 | ⭐ 11,716 | 2026-08-02 | 2026-10-12 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 14 | ⭐ 31,084 | 2026-08-03 | 2026-10-14 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 14 | ⭐ 76,454 | 2026-08-08 | 2026-10-01 |
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 13 | ⭐ 30,914 | 2026-08-03 | 2026-10-13 |
 
 ---
 
@@ -227,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:01.746Z*
+*Last updated: 2026-10-14T21:02:06.740Z*

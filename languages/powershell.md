@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,476 | 2026-08-01 | 44 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,478 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 654 | 2026-08-01 | 8 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,484 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,111 | 2026-08-01 | 23 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,153 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 926 | 2026-08-01 | 36 |
+| [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) | ⭐ 669 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,037 | 2026-08-02 | 9 |
+| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,039 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 486 | 2026-08-04 | 19 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,724 | 2026-08-11 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,128 | 2026-08-06 | 16 |
+| [SharePoint/sp-dev-docs](../repos/SharePoint/sp-dev-docs.md) | ⭐ 1,379 | 2026-08-15 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kiterlin/anti-defensive-writing](../repos/Kiterlin/anti-defensive-writing.md) | ⭐ 1,014 | 2026-10-13 | 1 |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,255 | 2026-09-02 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [CyberDrain/CIPP](../repos/CyberDrain/CIPP.md) | ⭐ 85 | 2026-09-22 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Kiterlin/anti-defensive-writing](../repos/Kiterlin/anti-defensive-writing.md) | ⭐ 1,047 | 2026-10-13 | 2 |
 
 
 ---
@@ -49,7 +55,7 @@
 | [microsoft/sre-agent](../repos/microsoft/sre-agent.md) | ⭐ 169 | 2026-09-22 | Azure SRE Agent is an AI-powered reliability assistant that helps teams diagnose and resolve prod... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [CyberDrain/CIPP](../repos/CyberDrain/CIPP.md) | ⭐ 80 | 2026-09-22 |  |
+| [CyberDrain/CIPP](../repos/CyberDrain/CIPP.md) | ⭐ 85 | 2026-09-22 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [secretGeek/AwesomeCSV](../repos/secretGeek/AwesomeCSV.md) | ⭐ 951 | 2026-09-24 | 🕶️A curated list of awesome tools for dealing with CSV. |
@@ -58,7 +64,7 @@
 | [microsoft/ARI](../repos/microsoft/ARI.md) | ⭐ 1,705 | 2026-10-07 | Azure Resource Inventory - It&#39;s a Powerful tool to create EXCEL inventory from Azure Resources wi... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Kiterlin/anti-defensive-writing](../repos/Kiterlin/anti-defensive-writing.md) | ⭐ 1,014 | 2026-10-13 | Codex skill for removing defensive writing and strengthening prose. |
+| [Kiterlin/anti-defensive-writing](../repos/Kiterlin/anti-defensive-writing.md) | ⭐ 1,047 | 2026-10-13 | Codex skill for removing defensive writing and strengthening prose. |
 
 
 ---
@@ -68,22 +74,22 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
-| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,037 | 2026-08-02 | 9 |
+| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,039 | 2026-08-02 | 10 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,476 | 2026-08-01 | 44 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,478 | 2026-08-01 | 45 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,073 | 2026-08-04 | 4 |
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,250 | 2026-09-02 | 12 |
+| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,255 | 2026-09-02 | 13 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,136 | 2026-08-03 | 11 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,128 | 2026-08-06 | 16 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,439 | 2026-08-01 | 24 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,484 | 2026-08-01 | 25 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,111 | 2026-08-01 | 23 |
 | [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,590 | 2026-09-06 | 3 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,129 | 2026-08-01 | 23 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,153 | 2026-08-01 | 24 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,838 | 2026-08-04 | 3 |
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,707 | 2026-08-11 | 14 |
+| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,724 | 2026-08-11 | 15 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,559 | 2026-08-04 | 8 |
 | [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,179 | 2026-08-19 | 8 |
 | [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,096 | 2026-08-07 | 10 |
@@ -94,11 +100,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 44 | ⭐ 13,476 | 2026-08-01 | 2026-10-13 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 45 | ⭐ 13,478 | 2026-08-01 | 2026-10-14 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 36 | ⭐ 926 | 2026-08-01 | 2026-10-13 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 29 | ⭐ 1,664 | 2026-08-03 | 2026-10-12 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 24 | ⭐ 8,439 | 2026-08-01 | 2026-10-06 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 23 | ⭐ 3,129 | 2026-08-01 | 2026-10-12 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 25 | ⭐ 8,484 | 2026-08-01 | 2026-10-14 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 24 | ⭐ 3,153 | 2026-08-01 | 2026-10-14 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 23 | ⭐ 6,111 | 2026-08-01 | 2026-10-13 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 20 | ⭐ 36,799 | 2026-08-01 | 2026-09-21 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 19 | ⭐ 1,513 | 2026-08-01 | 2026-10-03 |
@@ -167,4 +173,4 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:01.812Z*
+*Last updated: 2026-10-14T21:02:06.800Z*

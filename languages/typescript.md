@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 261
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-08-04
+- **Last Updated**: 2026-10-14
 
 ---
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 34,631 | 2026-08-07 | 15 |
+| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 193,606 | 2026-07-30 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 62,646 | 2026-08-08 | 18 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 53,536 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 34,395 | 2026-08-10 | 6 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 63,609 | 2026-08-08 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 23,462 | 2026-08-14 | 7 |
+| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 34,922 | 2026-08-10 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rmyndharis/OpenWA](../repos/rmyndharis/OpenWA.md) | ⭐ 15,435 | 2026-08-19 | 6 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 74,664 | 2026-08-10 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/teamai-cli](../repos/Tencent/teamai-cli.md) | ⭐ 5,423 | 2026-09-08 | 4 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 92,416 | 2026-08-11 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 39,896 | 2026-09-14 | 5 |
+| [vuejs/core](../repos/vuejs/core.md) | ⭐ 54,624 | 2026-08-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krillinai/OpenCreator](../repos/krillinai/OpenCreator.md) | ⭐ 12,900 | 2026-09-20 | 4 |
+| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 40,128 | 2026-09-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashhart/TensorFold](../repos/ashhart/TensorFold.md) | ⭐ 1,305 | 2026-09-28 | 5 |
+| [krillinai/OpenCreator](../repos/krillinai/OpenCreator.md) | ⭐ 13,041 | 2026-09-20 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 203,313 | 2026-10-06 | 7 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 238,653 | 2026-10-06 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 39,896 | 2026-09-14 | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [reconurge/flowsint](../repos/reconurge/flowsint.md) | ⭐ 9,556 | 2026-09-14 | A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecur... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NangoHQ/nango](../repos/NangoHQ/nango.md) | ⭐ 12,051 | 2026-09-14 | Build product integrations with AI. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Foundry376/Mailspring](../repos/Foundry376/Mailspring.md) | ⭐ 17,803 | 2026-09-14 | :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jetkvm/kvm](../repos/jetkvm/kvm.md) | ⭐ 5,111 | 2026-09-14 | Control any computer remotely |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PasarGuard/panel](../repos/PasarGuard/panel.md) | ⭐ 2,575 | 2026-09-14 | PasarGuard | Unified GUI Censorship Resistant Solution |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Open-Dev-Society/OpenStock](../repos/Open-Dev-Society/OpenStock.md) | ⭐ 18,327 | 2026-09-19 | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, se... |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Fission-AI/OpenSpec](../repos/Fission-AI/OpenSpec.md) | ⭐ 69,510 | 2026-09-19 | Spec-driven development (SDD) for AI coding assistants. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cloudflare/mcp-server-cloudflare](../repos/cloudflare/mcp-server-cloudflare.md) | ⭐ 4,269 | 2026-09-20 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [browserbase/stagehand](../repos/browserbase/stagehand.md) | ⭐ 24,641 | 2026-09-20 | The SDK to extract data and interact with any site on the web. Get started with Claude Code, Code... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [krillinai/OpenCreator](../repos/krillinai/OpenCreator.md) | ⭐ 13,041 | 2026-09-20 | Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, pow... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [diffusionstudio/editor](../repos/diffusionstudio/editor.md) | ⭐ 2,979 | 2026-09-20 | An open-source video editor built for agents. Edits become code, code becomes video. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Jakubantalik/thinking-orbs](../repos/Jakubantalik/thinking-orbs.md) | ⭐ 3,174 | 2026-09-21 | Dotted thought-orb loading indicators for AI &amp; agent UIs, 9 tuned types, two sizes, auto dark&#x2F;light |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [FxEmbed/FxEmbed](../repos/FxEmbed/FxEmbed.md) | ⭐ 5,449 | 2026-09-24 | Fix X&#x2F;Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Di... |
 
 
 ---
@@ -88,10 +88,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 238,653 | 2026-10-06 | 8 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 206,509 | 2026-08-11 | 6 |
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 203,313 | 2026-10-06 | 7 |
-| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 188,451 | 2026-07-30 | 5 |
+| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 193,606 | 2026-07-30 | 6 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 149,758 | 2026-08-07 | 17 |
@@ -105,9 +105,9 @@
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 100,889 | 2026-08-02 | 9 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 92,416 | 2026-08-11 | 14 |
 | [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 90,957 | 2026-08-22 | 3 |
 | [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
-| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 88,062 | 2026-08-28 | 3 |
 
 ---
 
@@ -115,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 19 | ⭐ 63,609 | 2026-08-08 | 2026-10-14 |
 | [cursor/plugins](../repos/cursor/plugins.md) | 18 | ⭐ 10,238 | 2026-08-01 | 2026-10-07 |
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 18 | ⭐ 62,646 | 2026-08-08 | 2026-10-13 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 17 | ⭐ 149,758 | 2026-08-07 | 2026-10-07 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 15 | ⭐ 34,631 | 2026-08-07 | 2026-10-13 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 14 | ⭐ 92,416 | 2026-08-11 | 2026-10-14 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 13 | ⭐ 135,527 | 2026-08-02 | 2026-10-06 |
-| [stablyai/orca](../repos/stablyai/orca.md) | 13 | ⭐ 78,223 | 2026-08-11 | 2026-09-25 |
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 12 | ⭐ 74,000 | 2026-08-10 | 2026-10-06 |
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 11 | ⭐ 53,038 | 2026-08-01 | 2026-10-06 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 13 | ⭐ 74,664 | 2026-08-10 | 2026-10-14 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 12 | ⭐ 53,536 | 2026-08-01 | 2026-10-14 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 11 | ⭐ 26,124 | 2026-08-01 | 2026-10-07 |
 
 ---
@@ -148,7 +148,6 @@
 - [actions/checkout](../repos/actions/checkout.md) - Action for checking out a repo
 - [Narcooo/inkos](../repos/Narcooo/inkos.md) - Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
 - [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) - 📨 The ultimate agentic social media scheduling tool 🤖
-- [jamiepine/voicebox](../repos/jamiepine/voicebox.md) - The open-source AI voice studio. Clone, dictate, create.
 - [NateBJones-Projects/OB1](../repos/NateBJones-Projects/OB1.md) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat c...
 - [nrwl/nx](../repos/nrwl/nx.md) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, sca...
 - [garrytan/gstack](../repos/garrytan/gstack.md) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...
@@ -230,7 +229,8 @@
 - [every-app/open-seo](../repos/every-app/open-seo.md) - Open source alternative to Semrush and Ahrefs
 - [documenso/documenso](../repos/documenso/documenso.md) - The Open Source DocuSign Alternative.
 - [vercel-labs/deepsec](../repos/vercel-labs/deepsec.md) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
+- [upscayl/upscayl](../repos/upscayl/upscayl.md) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 
 ---
 
-*Last updated: 2026-10-13T21:02:01.837Z*
+*Last updated: 2026-10-14T21:02:06.824Z*

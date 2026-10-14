@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 62,844 |
-| **Forks** | 🍴 6,997 |
-| **Trending Days** | 16 |
+| **Stars** | ⭐ 65,960 |
+| **Forks** | 🍴 7,283 |
+| **Trending Days** | 17 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 22, 2026 |
-| **Last Seen** | Oct 13, 2026 |
+| **Last Seen** | Oct 14, 2026 |
 
 
 ---
@@ -43,7 +43,6 @@
 
 ## Trending Timeline
 
-**Sep 1, 2026** — Rank #6 (+745 ⭐)  
 **Sep 2, 2026** — Rank #4 (+834 ⭐)  
 **Sep 3, 2026** — Rank #17 (+1738 ⭐)  
 **Sep 4, 2026** — Rank #12 (+1345 ⭐)  
@@ -53,11 +52,12 @@
 **Sep 28, 2026** — Rank #1 (+3274 ⭐)  
 **Sep 29, 2026** — Rank #1 (+4712 ⭐)  
 **Oct 13, 2026** — Rank #3 (+2277 ⭐)  
+**Oct 14, 2026** — Rank #2 (+3547 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 16
+- **Trending Days**: 17
 - **Longest Streak**: 5 days
 
 ---
@@ -65,7 +65,7 @@
 ## Categories
 
 ### Topics
-[`ai`](../../topics/ai.md) [`audiobook`](../../topics/audiobook.md) [`cuda`](../../topics/cuda.md) [`dubbing`](../../topics/dubbing.md) [`elevenlabs-alternative`](../../topics/elevenlabs-alternative.md) [`huggingface`](../../topics/huggingface.md) [`local-first`](../../topics/local-first.md) [`mlx`](../../topics/mlx.md) [`omnivoice-studio`](../../topics/omnivoice-studio.md) [`speech-to-text`](../../topics/speech-to-text.md) [`tauri`](../../topics/tauri.md) [`text-to-speech`](../../topics/text-to-speech.md) [`transcription`](../../topics/transcription.md) [`translate`](../../topics/translate.md) [`tts`](../../topics/tts.md) [`voice-ai`](../../topics/voice-ai.md) [`voice-cloning`](../../topics/voice-cloning.md) [`voice-generation`](../../topics/voice-generation.md) [`voicestudio`](../../topics/voicestudio.md) [`workflow`](../../topics/workflow.md) 
+[`ai`](../../topics/ai.md) [`audiobook`](../../topics/audiobook.md) [`cuda`](../../topics/cuda.md) [`dubbing`](../../topics/dubbing.md) [`elevenlabs-alternative`](../../topics/elevenlabs-alternative.md) [`huggingface`](../../topics/huggingface.md) [`local-first`](../../topics/local-first.md) [`mlx`](../../topics/mlx.md) [`omnivoice-studio`](../../topics/omnivoice-studio.md) [`speech-to-text`](../../topics/speech-to-text.md) [`text-to-speech`](../../topics/text-to-speech.md) [`transcription`](../../topics/transcription.md) [`translate`](../../topics/translate.md) [`tts`](../../topics/tts.md) [`voice-ai`](../../topics/voice-ai.md) [`voice-cloning`](../../topics/voice-cloning.md) [`voice-generation`](../../topics/voice-generation.md) [`voicestudio`](../../topics/voicestudio.md) [`workflow`](../../topics/workflow.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Systems Programming` `Automation` 
@@ -101,5 +101,5 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:06.924Z*  
-*Data from 16 trending reports*
+*Last updated: 2026-10-14T21:02:11.012Z*  
+*Data from 17 trending reports*

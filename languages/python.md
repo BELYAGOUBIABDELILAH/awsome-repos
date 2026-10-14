@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 283
+- **Total Repositories**: 285
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-12
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 64,157 | 2026-08-01 | 6 |
+| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 57,471 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 130,515 | 2026-08-01 | 15 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 60,537 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 60,173 | 2026-08-03 | 12 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 49,219 | 2026-08-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [browser-use/video-use](../repos/browser-use/video-use.md) | ⭐ 28,869 | 2026-08-04 | 9 |
+| [aws/agent-toolkit-for-aws](../repos/aws/agent-toolkit-for-aws.md) | ⭐ 2,877 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | ⭐ 77,020 | 2026-08-06 | 10 |
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 38,050 | 2026-08-07 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hugohe3/ppt-master](../repos/hugohe3/ppt-master.md) | ⭐ 61,640 | 2026-08-12 | 6 |
+| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 9,013 | 2026-08-15 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sgl-project/sglang-omni](../repos/sgl-project/sglang-omni.md) | ⭐ 1,437 | 2026-08-15 | 2 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 52,403 | 2026-08-15 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 62,844 | 2026-08-22 | 16 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 65,960 | 2026-08-22 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sgl-project/sglang](../repos/sgl-project/sglang.md) | ⭐ 37,094 | 2026-09-04 | 6 |
+| [home-assistant/core](../repos/home-assistant/core.md) | ⭐ 91,497 | 2026-08-27 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/personaplex](../repos/NVIDIA/personaplex.md) | ⭐ 11,147 | 2026-09-07 | 2 |
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 35,265 | 2026-08-29 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rlaope/oh-my-hermes](../repos/rlaope/oh-my-hermes.md) | ⭐ 1,971 | 2026-09-14 | All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OpenBMB/VoxCPM](../repos/OpenBMB/VoxCPM.md) | ⭐ 39,163 | 2026-09-14 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [searxng/searxng](../repos/searxng/searxng.md) | ⭐ 37,067 | 2026-09-14 | SearXNG is a free internet metasearch engine which aggregates results from various search service... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dgtlmoon/changedetection.io](../repos/dgtlmoon/changedetection.io.md) | ⭐ 34,117 | 2026-09-14 | Best and simplest tool for website change detection, web page monitoring, and website change aler... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 29,194 | 2026-09-19 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [TencentCloud/Octop](../repos/TencentCloud/Octop.md) | ⭐ 6,227 | 2026-09-19 | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mcncarl/yichen-skills](../repos/mcncarl/yichen-skills.md) | ⭐ 3,838 | 2026-09-19 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [opendatalab/MinerU](../repos/opendatalab/MinerU.md) | ⭐ 80,238 | 2026-09-19 | Transforms complex documents like PDFs and Office docs into LLM-ready markdown&#x2F;JSON for your Agen... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mem0ai/mem0](../repos/mem0ai/mem0.md) | ⭐ 66,321 | 2026-09-19 | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context th... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [anthropics/financial-services](../repos/anthropics/financial-services.md) | ⭐ 37,528 | 2026-09-20 |  |
 
 
 ---
@@ -116,12 +116,12 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 16 | ⭐ 62,844 | 2026-08-22 | 2026-10-13 |
+| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 17 | ⭐ 65,960 | 2026-08-22 | 2026-10-14 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 15 | ⭐ 130,515 | 2026-08-01 | 2026-10-13 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 12 | ⭐ 60,173 | 2026-08-03 | 2026-10-13 |
+| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 13 | ⭐ 60,537 | 2026-08-03 | 2026-10-14 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 12 | ⭐ 49,219 | 2026-08-03 | 2026-10-14 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 11 | ⭐ 92,571 | 2026-08-01 | 2026-10-06 |
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 11 | ⭐ 48,163 | 2026-08-03 | 2026-10-09 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 11 | ⭐ 40,107 | 2026-08-03 | 2026-10-02 |
 | [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | 10 | ⭐ 77,020 | 2026-08-06 | 2026-10-13 |
 | [google/skills](../repos/google/skills.md) | 10 | ⭐ 21,214 | 2026-08-07 | 2026-10-12 |
@@ -162,6 +162,7 @@
 - [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) - A feature-rich command-line audio&#x2F;video downloader
 - [Z4nzu/hackingtool](../repos/Z4nzu/hackingtool.md) - ALL IN ONE Hacking Tool For Hackers
 - [PrefectHQ/prefect](../repos/PrefectHQ/prefect.md) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+- [jamiepine/voicebox](../repos/jamiepine/voicebox.md) - The open-source AI voice studio. Clone, dictate, create.
 - [Diolinux/PhotoGIMP](../repos/Diolinux/PhotoGIMP.md) - A Patch for GIMP 3+ for Photoshop Users
 - [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...
 - [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) - Kronos: A Foundation Model for the Language of Financial Markets
@@ -229,8 +230,7 @@
 - [LLMQuant/quant-mind](../repos/LLMQuant/quant-mind.md) - QuantMind is an agent-native knowledge extraction and retrieval framework for quantitative finance.
 - [AWeirdDev/flights](../repos/AWeirdDev/flights.md) - Fast, robust Google Flights scraper (API) for Python. (Probably)
 - [cactus-compute/needle](../repos/cactus-compute/needle.md) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction a...
-- [NVlabs/GR00T-WholeBodyControl](../repos/NVlabs/GR00T-WholeBodyControl.md) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deployin...
 
 ---
 
-*Last updated: 2026-10-13T21:02:01.814Z*
+*Last updated: 2026-10-14T21:02:06.802Z*

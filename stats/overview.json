@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-13T21:02:09.166Z",
-  "total_repositories": 3986,
-  "trending_today": 305,
-  "new_this_month": 649,
+  "generated_at": "2026-10-14T21:02:12.922Z",
+  "total_repositories": 4009,
+  "trending_today": 325,
+  "new_this_month": 638,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-10-13",
+  "last_collection": "2026-10-14",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 59,
+    "trending_days": 60,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "baidu/Unlimited-OCR",
-    "stars": 27295,
-    "first_seen": "2026-10-13"
+    "full_name": "isair/jarvis",
+    "stars": 2062,
+    "first_seen": "2026-10-14"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 54091503,
-  "avg_stars": 13570,
-  "avg_trending_days": 5.8,
+  "total_stars": 54472236,
+  "avg_stars": 13587,
+  "avg_trending_days": 5.9,
   "language_count": 60,
-  "topic_count": 10177,
+  "topic_count": 10204,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

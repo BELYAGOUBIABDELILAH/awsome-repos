@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 119,244 |
-| **Forks** | 🍴 16,974 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 119,946 |
+| **Forks** | 🍴 18,699 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #3 |
 
 | **First Seen** | Jul 30, 2026 |
-| **Last Seen** | Sep 27, 2026 |
+| **Last Seen** | Oct 14, 2026 |
 
 
 ---
@@ -46,11 +46,12 @@
 ## Trending Timeline
 
 **Aug 10, 2026** — Rank #3 (+100 ⭐)  
+**Oct 14, 2026** — Rank #9 (+205 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #3
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 2 days
 
 ---
@@ -73,9 +74,9 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 119,244+ stars, strong contributor base |
+| **Community** | Very Active | 119,946+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -100,5 +101,5 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:04.113Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-10-14T21:02:08.516Z*  
+*Data from 11 trending reports*

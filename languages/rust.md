@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 211
+- **Total Repositories**: 212
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-09
+- **Last Updated**: 2026-10-14
 
 ---
 
@@ -16,25 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [googleworkspace/cli](../repos/googleworkspace/cli.md) | ⭐ 31,460 | 2026-08-01 | 4 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,946 | 2026-07-30 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 97,791 | 2026-08-09 | 15 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 90,775 | 2026-07-31 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 25,290 | 2026-10-06 | 7 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 129,224 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [raphaelmansuy/edgequake](../repos/raphaelmansuy/edgequake.md) | ⭐ 2,236 | 2026-10-13 | 1 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 26,668 | 2026-08-01 | 14 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 97,972 | 2026-08-09 | 16 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 50,085 | 2026-08-12 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 27,737 | 2026-10-06 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [vosen/ZLUDA](../repos/vosen/ZLUDA.md) | ⭐ 15,052 | 2026-10-14 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [CluvexStudio/Aether](../repos/CluvexStudio/Aether.md) | ⭐ 1,871 | 2026-09-14 | A Rust userspace WARP core for censored networks, built around MASQUE over HTTP&#x2F;3 and HTTP&#x2F;2. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [yynxxxxx/Codex-X](../repos/yynxxxxx/Codex-X.md) | ⭐ 3,851 | 2026-09-19 | OpenAI Codex 桌面端&#x2F;CLI 的可视化管理工具，具有Provider&#x2F;API 切换、会话同步、提示词注入、Skills&#x2F;MCP 管理、TOML 配置可视化的跨平台工具。 |
@@ -62,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [hydra-db/hydradb](../repos/hydra-db/hydradb.md) | ⭐ 12,820 | 2026-09-22 | HydraDB - fast graph database on object storage |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Nasiko-Labs/nasiko](../repos/Nasiko-Labs/nasiko.md) | ⭐ 8,872 | 2026-09-22 | Developer Control Plane for your AI Agents |
 
 
 ---
@@ -70,12 +82,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 128,385 | 2026-08-01 | 13 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,244 | 2026-07-30 | 10 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 129,224 | 2026-08-01 | 14 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,946 | 2026-07-30 | 11 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 97,791 | 2026-08-09 | 15 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 97,972 | 2026-08-09 | 16 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,064 | 2026-08-11 | 8 |
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 90,142 | 2026-07-31 | 4 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 90,775 | 2026-07-31 | 5 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,345 | 2026-08-20 | 5 |
@@ -83,7 +95,7 @@
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 64,099 | 2026-08-03 | 2 |
 | [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | 3 |
 | [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,385 | 2026-08-19 | 5 |
-| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 49,503 | 2026-08-12 | 3 |
+| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 50,085 | 2026-08-12 | 4 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,253 | 2026-08-05 | 10 |
@@ -98,14 +110,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 21 | ⭐ 23,670 | 2026-08-08 | 2026-09-28 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 15 | ⭐ 97,791 | 2026-08-09 | 2026-10-13 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 16 | ⭐ 97,972 | 2026-08-09 | 2026-10-14 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 15 | ⭐ 41,568 | 2026-08-10 | 2026-10-07 |
-| [openai/codex](../repos/openai/codex.md) | 13 | ⭐ 128,385 | 2026-08-01 | 2026-10-09 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | 13 | ⭐ 23,706 | 2026-08-01 | 2026-10-01 |
+| [openai/codex](../repos/openai/codex.md) | 14 | ⭐ 129,224 | 2026-08-01 | 2026-10-14 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 14 | ⭐ 26,668 | 2026-08-01 | 2026-10-14 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 12 | ⭐ 29,888 | 2026-08-03 | 2026-10-12 |
+| [rust-lang/rust](../repos/rust-lang/rust.md) | 11 | ⭐ 119,946 | 2026-07-30 | 2026-10-14 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 11 | ⭐ 11,824 | 2026-08-09 | 2026-10-01 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 11 | ⭐ 8,726 | 2026-08-26 | 2026-10-03 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | 10 | ⭐ 119,244 | 2026-07-30 | 2026-09-27 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 10 | ⭐ 43,722 | 2026-08-02 | 2026-10-09 |
 
 ---
@@ -215,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:01.823Z*
+*Last updated: 2026-10-14T21:02:06.810Z*

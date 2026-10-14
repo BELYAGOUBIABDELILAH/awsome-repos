@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 160
+- **Total Repositories**: 163
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,321 | 2026-08-01 | 16 |
+| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | ⭐ 1,431 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,779 | 2026-08-02 | 16 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 16,060 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,495 | 2026-08-17 | 7 |
+| [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | ⭐ 4,858 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 1,789 | 2026-08-19 | 11 |
+| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,437 | 2026-08-10 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhanghai/MaterialFiles](../repos/zhanghai/MaterialFiles.md) | ⭐ 9,194 | 2026-08-19 | 7 |
+| [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 1,856 | 2026-08-19 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [compose-miuix-ui/miuix](../repos/compose-miuix-ui/miuix.md) | ⭐ 1,431 | 2026-09-14 | 2 |
+| [aquamarine5/ChaoxingSignFaker](../repos/aquamarine5/ChaoxingSignFaker.md) | ⭐ 761 | 2026-09-24 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 3,094 | 2026-10-12 | 2 |
+| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 1,932 | 2026-10-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MuwMx/YumaPlayer](../repos/MuwMx/YumaPlayer.md) | ⭐ 771 | 2026-10-13 | 1 |
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 4,398 | 2026-10-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [komikku-app/anikku](../repos/komikku-app/anikku.md) | ⭐ 1,088 | 2026-10-13 | 1 |
+| [ahXN00/OwnTV](../repos/ahXN00/OwnTV.md) | ⭐ 550 | 2026-10-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Ackites/Nrfr](../repos/Ackites/Nrfr.md) | ⭐ 9,168 | 2026-10-13 | 1 |
+| [throneproj/ThroneForAndroid](../repos/throneproj/ThroneForAndroid.md) | ⭐ 586 | 2026-10-11 | 3 |
 
 
 ---
@@ -52,16 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [compose-miuix-ui/miuix](../repos/compose-miuix-ui/miuix.md) | ⭐ 1,431 | 2026-09-14 | A UI library for Compose Multiplatform |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [FooIbar/EhViewer](../repos/FooIbar/EhViewer.md) | ⭐ 4,717 | 2026-09-20 | EhViewer overhauled with Material Design 3 and more, forked from https:&#x2F;&#x2F;github.com&#x2F;Ehviewer-Over... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zacharee/InstallWithOptions](../repos/zacharee/InstallWithOptions.md) | ⭐ 3,266 | 2026-09-21 | Simple-ish app using Shizuku to install APKs on-device with advanced options |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aquamarine5/ChaoxingSignFaker](../repos/aquamarine5/ChaoxingSignFaker.md) | ⭐ 566 | 2026-09-24 | 伪造学习通的签到活动🙋学习通签到神器。支持滑动验证码签到、签退、人脸识别功能，支持自定义位置签到、动态二维码签到、自选照片进行拍照签到等全部签到形式以及给其他用户无限代签的功能 Falsify... |
+| [aquamarine5/ChaoxingSignFaker](../repos/aquamarine5/ChaoxingSignFaker.md) | ⭐ 761 | 2026-09-24 | 伪造学习通的签到活动🙋学习通签到神器。支持滑动验证码签到、签退、人脸识别功能，支持自定义位置签到、动态二维码签到、自选照片进行拍照签到等全部签到形式以及给其他用户无限代签的功能 Falsify... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tasks/tasks](../repos/tasks/tasks.md) | ⭐ 5,609 | 2026-09-27 | Bringing Astrid Tasks back from the dead |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [home-assistant/android](../repos/home-assistant/android.md) | ⭐ 3,945 | 2026-10-02 | Home Assistant Companion for Android |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [GrapheneOS/Messaging](../repos/GrapheneOS/Messaging.md) | ⭐ 221 | 2026-10-02 | Messaging app |
 
 
 ---
@@ -92,6 +92,7 @@
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,060 | 2026-08-03 | 13 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,585 | 2026-08-06 | 13 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,486 | 2026-08-04 | 11 |
+| [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,863 | 2026-10-14 | 1 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 42,630 | 2026-08-03 | 12 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,980 | 2026-08-08 | 16 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,447 | 2026-08-05 | 7 |
@@ -104,10 +105,9 @@
 | [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,731 | 2026-09-07 | 10 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,495 | 2026-08-17 | 7 |
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 15,917 | 2026-08-02 | 9 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 16,060 | 2026-08-02 | 10 |
 | [ktorio/ktor](../repos/ktorio/ktor.md) | ⭐ 14,525 | 2026-09-12 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,644 | 2026-08-06 | 7 |
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,681 | 2026-08-02 | 13 |
 
 ---
 
@@ -123,8 +123,8 @@
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 13 | ⭐ 10,935 | 2026-08-03 | 2026-10-12 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 13 | ⭐ 63,060 | 2026-08-03 | 2026-10-03 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 13 | ⭐ 53,585 | 2026-08-06 | 2026-09-19 |
+| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | 12 | ⭐ 1,431 | 2026-08-02 | 2026-10-14 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 12 | ⭐ 42,630 | 2026-08-03 | 2026-10-09 |
-| [Ujhhgtg/WeKit](../repos/Ujhhgtg/WeKit.md) | 12 | ⭐ 845 | 2026-08-05 | 2026-09-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:01.791Z*
+*Last updated: 2026-10-14T21:02:06.780Z*

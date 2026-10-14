@@ -13,12 +13,12 @@
 | **Language** | Objective-C |
 | **License** | BSD-3-Clause |
 | **Stars** | ⭐ 13,318 |
-| **Forks** | 🍴 2,274 |
-| **Trending Days** | 19 |
+| **Forks** | 🍴 2,273 |
+| **Trending Days** | 20 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Oct 13, 2026 |
+| **Last Seen** | Oct 14, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 19
+- **Trending Days**: 20
 - **Longest Streak**: 4 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:05.380Z*  
-*Data from 19 trending reports*
+*Last updated: 2026-10-14T21:02:09.675Z*  
+*Data from 20 trending reports*

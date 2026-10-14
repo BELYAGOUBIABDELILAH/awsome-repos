@@ -16,40 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,350 | 2026-08-01 | 35 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,433 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 7,342 | 2026-08-01 | 9 |
+| [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 7,380 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 8,101 | 2026-08-04 | 8 |
+| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,150 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,811 | 2026-08-04 | 11 |
+| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 8,137 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,666 | 2026-08-04 | 8 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,850 | 2026-08-07 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,137 | 2026-08-04 | 12 |
+| [wondelai/skills](../repos/wondelai/skills.md) | ⭐ 2,424 | 2026-08-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,828 | 2026-08-07 | 29 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,570 | 2026-08-20 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,821 | 2026-09-01 | 7 |
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,826 | 2026-09-01 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ONLYOFFICE/DocumentServer](../repos/ONLYOFFICE/DocumentServer.md) | ⭐ 7,019 | 2026-09-25 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [FlyBrainLab/FlyBrainLab](../repos/FlyBrainLab/FlyBrainLab.md) | ⭐ 80 | 2026-09-14 | An interactive computing platform for studying the function of executable circuits constructed fr... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [CachyOS/linux-cachyos](../repos/CachyOS/linux-cachyos.md) | ⭐ 4,455 | 2026-09-14 | Archlinux Kernel based on different schedulers and some other performance improvements. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [higgsfield-ai/cli](../repos/higgsfield-ai/cli.md) | ⭐ 610 | 2026-09-19 | Higgsfield CLI |
@@ -74,6 +71,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [wlzh/dji-4g-vohive-mac](../repos/wlzh/dji-4g-vohive-mac.md) | ⭐ 1,062 | 2026-09-21 | 在 Mac（Apple Silicon &#x2F; Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Bash-it/bash-it](../repos/Bash-it/bash-it.md) | ⭐ 15,235 | 2026-09-22 | A community Bash framework. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [iamj0ker/bypass-403](../repos/iamj0ker/bypass-403.md) | ⭐ 2,257 | 2026-09-22 | A simple script just made for self use for bypassing 403 |
 
 
 ---
@@ -83,7 +86,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,350 | 2026-08-01 | 35 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,433 | 2026-08-01 | 36 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,666 | 2026-08-04 | 8 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
@@ -109,8 +112,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 35 | ⭐ 95,350 | 2026-08-01 | 2026-10-13 |
-| [expo/skills](../repos/expo/skills.md) | 29 | ⭐ 2,828 | 2026-08-07 | 2026-10-13 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 36 | ⭐ 95,433 | 2026-08-01 | 2026-10-14 |
+| [expo/skills](../repos/expo/skills.md) | 30 | ⭐ 2,850 | 2026-08-07 | 2026-10-14 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 19 | ⭐ 11,240 | 2026-08-04 | 2026-10-06 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 18 | ⭐ 7,740 | 2026-08-12 | 2026-10-09 |
@@ -227,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:01.829Z*
+*Last updated: 2026-10-14T21:02:06.816Z*

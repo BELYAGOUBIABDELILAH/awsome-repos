@@ -16,7 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,476 | 2026-09-13 | 5 |
+| [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,476 | 2026-09-13 | 6 |
 
 
 ---
@@ -42,7 +42,7 @@
 |------------|-------|------------|---------------|
 | [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,888 | 2026-08-01 | 55 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,331 | 2026-08-02 | 38 |
-| [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,476 | 2026-09-13 | 5 |
+| [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,476 | 2026-09-13 | 6 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
 | [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,501 | 2026-08-02 | 31 |
 | [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,937 | 2026-08-03 | 31 |
@@ -66,7 +66,7 @@
 | [apache/grails-core](../repos/apache/grails-core.md) | 31 | ⭐ 2,937 | 2026-08-03 | 2026-10-12 |
 | [gravitee-io/issues](../repos/gravitee-io/issues.md) | 13 | ⭐ 70 | 2026-08-01 | 2026-10-08 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | 9 | ⭐ 913 | 2026-08-01 | 2026-10-09 |
-| [apache/groovy](../repos/apache/groovy.md) | 5 | ⭐ 5,476 | 2026-09-13 | 2026-10-13 |
+| [apache/groovy](../repos/apache/groovy.md) | 6 | ⭐ 5,476 | 2026-09-13 | 2026-10-14 |
 | [Percona-Lab/jenkins-pipelines](../repos/Percona-Lab/jenkins-pipelines.md) | 2 | ⭐ 27 | 2026-09-25 | 2026-09-29 |
 | [apache/bigtop](../repos/apache/bigtop.md) | 2 | ⭐ 682 | 2026-10-03 | 2026-10-07 |
 | [openshift-eng/aos-cd-jobs](../repos/openshift-eng/aos-cd-jobs.md) | 2 | ⭐ 50 | 2026-10-11 | 2026-10-12 |
@@ -91,4 +91,4 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:01.773Z*
+*Last updated: 2026-10-14T21:02:06.764Z*

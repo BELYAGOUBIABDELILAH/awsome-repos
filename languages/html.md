@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 107
+- **Total Repositories**: 108
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-06
 
@@ -16,37 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,524 | 2026-08-01 | 7 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,951 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,874 | 2026-08-04 | 14 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,965 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trickest/cve](../repos/trickest/cve.md) | ⭐ 8,138 | 2026-08-04 | 4 |
+| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,673 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 5,185 | 2026-08-11 | 10 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 5,311 | 2026-08-11 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,193 | 2026-08-19 | 8 |
+| [zhaochenyang20/Awesome-ML-SYS-Tutorial](../repos/zhaochenyang20/Awesome-ML-SYS-Tutorial.md) | ⭐ 7,530 | 2026-08-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,449 | 2026-09-19 | 6 |
+| [CoolDude2349/Offline-HTML-Games-Pack](../repos/CoolDude2349/Offline-HTML-Games-Pack.md) | ⭐ 206 | 2026-09-29 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dequelabs/axe-core](../repos/dequelabs/axe-core.md) | ⭐ 7,640 | 2026-10-03 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [spyboy-productions/r4ven](../repos/spyboy-productions/r4ven.md) | ⭐ 1,625 | 2026-10-11 | 3 |
+| [yvoronoy/awesome-english](../repos/yvoronoy/awesome-english.md) | ⭐ 4,153 | 2026-10-14 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 16,716 | 2026-09-14 | AI 时代的伯克希尔：基于 Claude Code &#x2F; Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,449 | 2026-09-19 |  |
@@ -74,6 +68,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [promptpirate-x/discord-id-bypass-tool](../repos/promptpirate-x/discord-id-bypass-tool.md) | ⭐ 1,546 | 2026-09-27 | A verified tool that works on any potato computer that will let you bypass discord verification |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [FinMind/FinMind](../repos/FinMind/FinMind.md) | ⭐ 2,820 | 2026-09-28 | Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https:&#x2F;&#x2F;finmind.github.io&#x2F; |
 
 
 ---
@@ -89,12 +86,12 @@
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,524 | 2026-08-01 | 7 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,233 | 2026-09-03 | 4 |
-| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,646 | 2026-08-07 | 4 |
+| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,673 | 2026-08-07 | 5 |
 | [fengdu78/Coursera-ML-AndrewNg-Notes](../repos/fengdu78/Coursera-ML-AndrewNg-Notes.md) | ⭐ 37,699 | 2026-09-06 | 1 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,948 | 2026-08-09 | 12 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,754 | 2026-08-19 | 9 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,874 | 2026-08-04 | 14 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,965 | 2026-08-04 | 15 |
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 24,855 | 2026-10-09 | 3 |
@@ -112,13 +109,13 @@
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 17 | ⭐ 67,007 | 2026-08-01 | 2026-10-02 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 17 | ⭐ 209,914 | 2026-08-03 | 2026-10-06 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 15 | ⭐ 10,572 | 2026-08-03 | 2026-10-01 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 14 | ⭐ 27,874 | 2026-08-04 | 2026-10-13 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 15 | ⭐ 27,965 | 2026-08-04 | 2026-10-14 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 14 | ⭐ 138,503 | 2026-08-08 | 2026-09-25 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 13 | ⭐ 9,951 | 2026-08-01 | 2026-10-14 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 13 | ⭐ 43,224 | 2026-08-12 | 2026-10-03 |
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 12 | ⭐ 9,898 | 2026-08-01 | 2026-10-02 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 12 | ⭐ 16,578 | 2026-08-04 | 2026-10-02 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 12 | ⭐ 29,948 | 2026-08-09 | 2026-10-03 |
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 10 | ⭐ 5,185 | 2026-08-11 | 2026-10-13 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 11 | ⭐ 5,311 | 2026-08-11 | 2026-10-14 |
 
 ---
 
@@ -218,7 +215,7 @@
 - [Tencent/weui](../repos/Tencent/weui.md) - A UI library by WeChat official design team, includes the most useful widgets&#x2F;modules in mobile w...
 - [promptpirate-x/discord-id-bypass-tool](../repos/promptpirate-x/discord-id-bypass-tool.md) - A verified tool that works on any potato computer that will let you bypass discord verification
 - [FinMind/FinMind](../repos/FinMind/FinMind.md) - Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https:&#x2F;&#x2F;finmind.github.io&#x2F;
-- [CoolDude2349/Offline-HTML-Games-Pack](../repos/CoolDude2349/Offline-HTML-Games-Pack.md) - 300 offline HTML games, each on a single file
+- [CoolDude2349/Offline-HTML-Games-Pack](../repos/CoolDude2349/Offline-HTML-Games-Pack.md) - 352 offline HTML games, each on a single file
 - [LingDong-/shan-shui-inf](../repos/LingDong-/shan-shui-inf.md) - Procedurally generated Chinese landscape painting.
 - [phishdestroy/destroylist](../repos/phishdestroy/destroylist.md) - Real-time phishing &amp; scam domain blocklist - 205k+ curated threats, 1M+ community, free API, mult...
 - [dequelabs/axe-core](../repos/dequelabs/axe-core.md) - Accessibility engine for automated Web UI testing
@@ -227,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:01.777Z*
+*Last updated: 2026-10-14T21:02:06.767Z*

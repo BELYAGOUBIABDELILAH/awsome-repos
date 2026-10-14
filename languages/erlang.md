@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 15
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-13
+- **Last Updated**: 2026-10-14
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,795 | 2026-08-01 | 49 |
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,798 | 2026-08-01 | 50 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,743 | 2026-08-08 | 27 |
 
 
 ---
@@ -32,11 +35,11 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,795 | 2026-08-01 | 49 |
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,798 | 2026-08-01 | 50 |
 | [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,357 | 2026-08-01 | 43 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | ⭐ 7,527 | 2026-08-03 | 21 |
 | [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 6,973 | 2026-08-03 | 24 |
-| [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,743 | 2026-08-08 | 26 |
+| [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,743 | 2026-08-08 | 27 |
 | [erlang/rebar3](../repos/erlang/rebar3.md) | ⭐ 1,818 | 2026-08-03 | 5 |
 | [ninenines/ranch](../repos/ninenines/ranch.md) | ⭐ 1,244 | 2026-08-02 | 8 |
 | [ninenines/gun](../repos/ninenines/gun.md) | ⭐ 947 | 2026-08-06 | 2 |
@@ -54,9 +57,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [emqx/emqx](../repos/emqx/emqx.md) | 49 | ⭐ 16,795 | 2026-08-01 | 2026-10-13 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 50 | ⭐ 16,798 | 2026-08-01 | 2026-10-14 |
 | [erlang/otp](../repos/erlang/otp.md) | 43 | ⭐ 12,357 | 2026-08-01 | 2026-10-09 |
-| [processone/ejabberd](../repos/processone/ejabberd.md) | 26 | ⭐ 6,743 | 2026-08-08 | 2026-10-12 |
+| [processone/ejabberd](../repos/processone/ejabberd.md) | 27 | ⭐ 6,743 | 2026-08-08 | 2026-10-14 |
 | [WhatsApp/erlfmt](../repos/WhatsApp/erlfmt.md) | 24 | ⭐ 466 | 2026-08-01 | 2026-09-09 |
 | [apache/couchdb](../repos/apache/couchdb.md) | 24 | ⭐ 6,973 | 2026-08-03 | 2026-10-12 |
 | [blt/port_compiler](../repos/blt/port_compiler.md) | 22 | ⭐ 69 | 2026-08-01 | 2026-09-12 |
@@ -87,4 +90,4 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:01.765Z*
+*Last updated: 2026-10-14T21:02:06.756Z*

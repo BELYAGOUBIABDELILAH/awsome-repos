@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 6,786 | 2026-08-01 | 11 |
+| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 3,074 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | ⭐ 2,890 | 2026-08-03 | 7 |
+| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,538 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [abue-ammar/tinycast](../repos/abue-ammar/tinycast.md) | ⭐ 8,465 | 2026-09-01 | 9 |
+| [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,933 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 9,167 | 2026-09-21 | 6 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,578 | 2026-08-17 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wuwangzhang1216/ChinaTextbookStudyFree](../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) | ⭐ 456 | 2026-10-12 | 2 |
+| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,708 | 2026-09-04 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,043 | 2026-09-13 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 10,613 | 2026-09-21 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [wuwangzhang1216/ChinaTextbookStudyFree](../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) | ⭐ 503 | 2026-10-12 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nightscout/Trio](../repos/nightscout/Trio.md) | ⭐ 389 | 2026-09-14 | Trio - an automated insulin delivery system for iOS based on the OpenAPS algorithm with adaptations. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [karansinghgit/speaktype](../repos/karansinghgit/speaktype.md) | ⭐ 499 | 2026-09-19 | 100% offline, open-source, Voice Dictation app on any OS |
@@ -55,7 +61,7 @@
 | [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 516 | 2026-09-21 | Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH,... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 9,167 | 2026-09-21 | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 10,613 | 2026-09-21 | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chenqi92/primuse](../repos/chenqi92/primuse.md) | ⭐ 144 | 2026-09-24 | IOS、MacOS、AppleTV端音乐app，添加群晖等nas源、飞牛音乐等音乐服务源、百度网盘等各类网盘源、webdav等网络文件源。apple music集成播放，自带刮削功能、CarPl... |
@@ -65,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [thsnkhn/harbor](../repos/thsnkhn/harbor.md) | ⭐ 538 | 2026-09-27 | Beautiful native macOS download manager for direct links, magnets, and torrents. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Nanako0129/syrtis](../repos/Nanako0129/syrtis.md) | ⭐ 380 | 2026-09-28 | AI token usage &amp; quota monitor for the macOS menu bar — native Swift, Liquid Glass, 3D contributi... |
 
 
 ---
@@ -90,7 +99,7 @@
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,951 | 2026-08-04 | 16 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,912 | 2026-08-24 | 11 |
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,534 | 2026-08-17 | 9 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,578 | 2026-08-17 | 10 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,482 | 2026-08-08 | 8 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | 2026-08-01 | 3 |
 
@@ -105,9 +114,9 @@
 | [apple/container](../repos/apple/container.md) | 16 | ⭐ 50,393 | 2026-08-01 | 2026-09-29 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 16 | ⭐ 14,951 | 2026-08-04 | 2026-10-06 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 15 | ⭐ 70,451 | 2026-08-05 | 2026-10-02 |
+| [apple/swift-nio](../repos/apple/swift-nio.md) | 13 | ⭐ 8,538 | 2026-08-04 | 2026-10-14 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 12 | ⭐ 3,687 | 2026-08-01 | 2026-10-06 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 12 | ⭐ 9,138 | 2026-08-02 | 2026-10-03 |
-| [apple/swift-nio](../repos/apple/swift-nio.md) | 12 | ⭐ 8,533 | 2026-08-04 | 2026-10-06 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 12 | ⭐ 26,893 | 2026-08-04 | 2026-10-07 |
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | 11 | ⭐ 6,786 | 2026-08-01 | 2026-10-13 |
 
@@ -218,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-13T21:02:01.833Z*
+*Last updated: 2026-10-14T21:02:06.820Z*
