@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Python |
+| **Language** | Kotlin |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 6,612 |
-| **Forks** | 🍴 385 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 7,838 |
+| **Forks** | 🍴 520 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Aug 7, 2026 |
+| **Last Seen** | Oct 15, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Python or skills*
+*Similar: Check repositories in Kotlin or skills*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Python
+- Check similar projects in Kotlin
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-14T21:02:09.985Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-15T21:02:16.751Z*  
+*Data from 2 trending reports*

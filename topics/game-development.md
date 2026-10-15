@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 309
+- **Total Repositories**: 311
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-10-14
-- **Average Stars**: 17118
+- **Last Updated**: 2026-10-15
+- **Average Stars**: 17112
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,169 | Go |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,778 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,345 | C |  |
+| [decidim/decidim](../repos/decidim/decidim.md) | ⭐ 1,829 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,777 | Ruby |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,576 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,573 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,214 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,201 | Scala |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,231 | Clojure |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,246 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,532 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | ⭐ 1,189 | Zig |  |
+| [PixelGuys/Cubyz](../repos/PixelGuys/Cubyz.md) | ⭐ 3,718 | Zig |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,139 | Vim Script |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,151 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,986 | Assembly |  |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,990 | Assembly |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,816 | CoffeeScript |  |
 
 
 ---
@@ -53,7 +53,7 @@
 
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 238,653 | TypeScript | 2026-10-06 | 8 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 267,514 | TypeScript | 2026-10-06 | 9 |
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,887 | Go | 2026-08-01 | 20 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,696 | C | 2026-08-07 | 17 |
 | [golang/go](../repos/golang/go.md) | ⭐ 139,169 | Go | 2026-07-31 | 14 |
@@ -62,7 +62,7 @@
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | Go | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,294 | Go | 2026-08-05 | 2 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 77,476 | Go | 2026-08-03 | 8 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 77,200 | C | 2026-08-02 | 16 |
+| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 77,304 | TypeScript | 2026-08-04 | 5 |
 
 ---
 
@@ -79,25 +79,25 @@
 | [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,345 | C | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,440 | C# | 2 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,777 | Ruby | 3 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,778 | Ruby | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,314 | Ruby | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [decidim/decidim](../repos/decidim/decidim.md) | ⭐ 1,829 | Ruby | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,804 | Ruby | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,573 | Scala | 1 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,576 | Scala | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,201 | Scala | 4 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,214 | Scala | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,231 | Clojure | 4 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,246 | Clojure | 5 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-10-15](../archive/2026/10/2026-10-15.md)
+- 27 repositories trending
+- Top: morluto&#x2F;rea
+
 ### [2026-10-14](../archive/2026/10/2026-10-14.md)
 - 29 repositories trending
 - Top: morluto&#x2F;rea
@@ -158,10 +162,6 @@
 - 23 repositories trending
 - Top: morluto&#x2F;rea
 
-### [2026-10-08](../archive/2026/10/2026-10-08.md)
-- 28 repositories trending
-- Top: morluto&#x2F;rea
-
 
 ---
 
@@ -171,16 +171,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 60 days | 2026-08-01 | 2026-10-14 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 55 days | 2026-08-01 | 2026-10-14 |
+| [apache/spark](../repos/apache/spark.md) | 61 days | 2026-08-01 | 2026-10-15 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 56 days | 2026-08-01 | 2026-10-15 |
 | [vlang/v](../repos/vlang/v.md) | 55 days | 2026-08-01 | 2026-10-14 |
-| [joernio/joern](../repos/joernio/joern.md) | 50 days | 2026-08-01 | 2026-10-14 |
-| [vim/vim](../repos/vim/vim.md) | 49 days | 2026-08-01 | 2026-10-14 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | 49 days | 2026-08-02 | 2026-10-14 |
+| [joernio/joern](../repos/joernio/joern.md) | 51 days | 2026-08-01 | 2026-10-15 |
+| [vim/vim](../repos/vim/vim.md) | 50 days | 2026-08-01 | 2026-10-15 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | 50 days | 2026-08-02 | 2026-10-15 |
 | [Seafoam-Labs/Shelly-ALPM](../repos/Seafoam-Labs/Shelly-ALPM.md) | 43 days | 2026-08-01 | 2026-10-14 |
 | [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 40 days | 2026-08-01 | 2026-10-12 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 days | 2026-08-01 | 2026-10-01 |
-| [pret/pokered](../repos/pret/pokered.md) | 36 days | 2026-08-01 | 2026-10-14 |
+| [pret/pokered](../repos/pret/pokered.md) | 37 days | 2026-08-01 | 2026-10-15 |
 
 ---
 
@@ -188,13 +188,13 @@
 
 ### Language Breakdown
 - **Go**: 67 repositories (22%)
-- **C++**: 41 repositories (13%)
+- **C++**: 42 repositories (14%)
 - **C**: 41 repositories (13%)
 - **C#**: 27 repositories (9%)
 - **Rust**: 13 repositories (4%)
 
 ### Trending Frequency
-- **Daily Average**: 32.4 repositories
+- **Daily Average**: 32.3 repositories
 - **Peak Day**: 2026-08-24 (48 repositories)
 - **Growth Rate**: 15% this month
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.519Z*
+*Last updated: 2026-10-15T21:02:12.554Z*

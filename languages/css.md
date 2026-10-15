@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 72
+- **Total Repositories**: 73
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-14
 
@@ -16,25 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,508 | 2026-08-01 | 11 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 30,141 | 2026-08-02 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,461 | 2026-08-01 | 50 |
+| [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) | ⭐ 6,111 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 30,056 | 2026-08-02 | 27 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,918 | 2026-08-02 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,896 | 2026-08-02 | 25 |
+| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,407 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,579 | 2026-08-05 | 17 |
+| [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) | ⭐ 7,359 | 2026-08-24 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,865 | 2026-08-06 | 19 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [adobe/adobe.github.com](../repos/adobe/adobe.github.com.md) | ⭐ 1,668 | 2026-10-11 | 4 |
+| [wanteddev/wanted-sans](../repos/wanteddev/wanted-sans.md) | ⭐ 367 | 2026-10-15 | 1 |
 
 
 ---
@@ -62,6 +59,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Astromations/Hazy](../repos/Astromations/Hazy.md) | ⭐ 457 | 2026-10-11 | A translucent spicetify theme |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [wanteddev/wanted-sans](../repos/wanteddev/wanted-sans.md) | ⭐ 367 | 2026-10-15 | 곧으면서도 유연한 산세리프 글꼴 | A Sans-serif font; Geometric with a heart, Humanist with a soul |
 
 
 ---
@@ -73,12 +73,12 @@
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,865 | 2026-08-06 | 19 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,508 | 2026-08-01 | 11 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,365 | 2026-08-04 | 24 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 30,056 | 2026-08-02 | 27 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 30,141 | 2026-08-02 | 28 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
 | [CodeByZach/pace](../repos/CodeByZach/pace.md) | ⭐ 15,601 | 2026-08-12 | 1 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,896 | 2026-08-02 | 25 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,918 | 2026-08-02 | 26 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,511 | 2026-08-01 | 23 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,837 | 2026-08-04 | 7 |
 | [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,669 | 2026-08-06 | 12 |
@@ -88,7 +88,7 @@
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,426 | 2026-09-02 | 5 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,316 | 2026-08-01 | 17 |
-| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,407 | 2026-08-03 | 7 |
+| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,407 | 2026-08-03 | 8 |
 | [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,313 | 2026-08-08 | 8 |
 
 ---
@@ -99,9 +99,9 @@
 |------------|---------------|-------|------------|-----------|
 | [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 50 | ⭐ 1,461 | 2026-08-01 | 2026-10-14 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 33 | ⭐ 922 | 2026-08-01 | 2026-10-01 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 27 | ⭐ 30,056 | 2026-08-02 | 2026-10-14 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 28 | ⭐ 30,141 | 2026-08-02 | 2026-10-15 |
+| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 26 | ⭐ 12,918 | 2026-08-02 | 2026-10-15 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 25 | ⭐ 1,425 | 2026-08-01 | 2026-10-03 |
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 25 | ⭐ 12,896 | 2026-08-02 | 2026-10-14 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 24 | ⭐ 45,365 | 2026-08-04 | 2026-10-08 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 23 | ⭐ 12,511 | 2026-08-01 | 2026-10-09 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 19 | ⭐ 82,865 | 2026-08-06 | 2026-10-14 |
@@ -184,7 +184,8 @@
 - [mrrfv/open-android-backup](../repos/mrrfv/open-android-backup.md) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption...
 - [adobe/adobe.github.com](../repos/adobe/adobe.github.com.md) - Adobe central hub for open source
 - [Astromations/Hazy](../repos/Astromations/Hazy.md) - A translucent spicetify theme
+- [wanteddev/wanted-sans](../repos/wanteddev/wanted-sans.md) - 곧으면서도 유연한 산세리프 글꼴 | A Sans-serif font; Geometric with a heart, Humanist with a soul
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.742Z*
+*Last updated: 2026-10-15T21:02:12.757Z*

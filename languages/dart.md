@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 77,327 | 2026-08-01 | 22 |
+| [flutter/packages](../repos/flutter/packages.md) | ⭐ 5,323 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 180,154 | 2026-08-01 | 43 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 55,963 | 2026-08-02 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 94,391 | 2026-08-02 | 26 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 94,476 | 2026-08-02 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | ⭐ 4,222 | 2026-08-02 | 23 |
+| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,138 | 2026-08-06 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gokadzev/Musify](../repos/gokadzev/Musify.md) | ⭐ 4,325 | 2026-08-02 | 15 |
+| [jameskokoska/Cashew](../repos/jameskokoska/Cashew.md) | ⭐ 4,703 | 2026-08-09 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lollipopkit/flutter_server_box](../repos/lollipopkit/flutter_server_box.md) | ⭐ 8,822 | 2026-08-11 | 10 |
+| [CyrilPeng/Venera-Next](../repos/CyrilPeng/Venera-Next.md) | ⭐ 1,477 | 2026-09-25 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 26,912 | 2026-09-06 | 14 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 927 | 2026-10-13 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [zzyoxml/md3Music](../repos/zzyoxml/md3Music.md) | ⭐ 971 | 2026-10-14 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [AneryCoft/course_helper](../repos/AneryCoft/course_helper.md) | ⭐ 267 | 2026-10-14 | 1 |
+| [AneryCoft/course_helper](../repos/AneryCoft/course_helper.md) | ⭐ 276 | 2026-10-14 | 2 |
 
 
 ---
@@ -55,7 +46,7 @@
 | [DavBfr/dart_pdf](../repos/DavBfr/dart_pdf.md) | ⭐ 1,527 | 2026-09-19 | Pdf creation module for dart&#x2F;flutter |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [CyrilPeng/Venera-Next](../repos/CyrilPeng/Venera-Next.md) | ⭐ 1,191 | 2026-09-25 | VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。 |
+| [CyrilPeng/Venera-Next](../repos/CyrilPeng/Venera-Next.md) | ⭐ 1,477 | 2026-09-25 | VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [RyanYuuki/AnymeX](../repos/RyanYuuki/AnymeX.md) | ⭐ 1,247 | 2026-09-28 | An Open Source app for Tracking Multi Service (AL, MAL, SIMKL) |
@@ -89,9 +80,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 180,154 | 2026-08-01 | 43 |
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 94,391 | 2026-08-02 | 26 |
+| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 94,476 | 2026-08-02 | 27 |
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 77,327 | 2026-08-01 | 22 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 55,402 | 2026-08-02 | 31 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 55,963 | 2026-08-02 | 32 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 49,303 | 2026-08-04 | 20 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 35,614 | 2026-08-01 | 38 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,073 | 2026-08-02 | 32 |
@@ -101,7 +92,7 @@
 | [flutter/samples](../repos/flutter/samples.md) | ⭐ 19,271 | 2026-08-06 | 6 |
 | [xiaoyaocz/dart_simple_live](../repos/xiaoyaocz/dart_simple_live.md) | ⭐ 16,092 | 2026-08-01 | 21 |
 | [KaringX/karing](../repos/KaringX/karing.md) | ⭐ 15,522 | 2026-08-02 | 33 |
-| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,109 | 2026-08-06 | 16 |
+| [wanghongenpin/proxypin](../repos/wanghongenpin/proxypin.md) | ⭐ 14,138 | 2026-08-06 | 17 |
 | [guozhigq/pilipala](../repos/guozhigq/pilipala.md) | ⭐ 13,848 | 2026-08-20 | 2 |
 | [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) | ⭐ 13,056 | 2026-08-09 | 16 |
 | [cfug/dio](../repos/cfug/dio.md) | ⭐ 12,840 | 2026-09-05 | 1 |
@@ -119,9 +110,9 @@
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 38 | ⭐ 35,614 | 2026-08-01 | 2026-10-12 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 34 | ⭐ 19,374 | 2026-08-02 | 2026-10-12 |
 | [KaringX/karing](../repos/KaringX/karing.md) | 33 | ⭐ 15,522 | 2026-08-02 | 2026-10-13 |
+| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 32 | ⭐ 55,963 | 2026-08-02 | 2026-10-15 |
 | [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 32 | ⭐ 33,073 | 2026-08-02 | 2026-10-06 |
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | 31 | ⭐ 55,402 | 2026-08-02 | 2026-10-12 |
-| [localsend/localsend](../repos/localsend/localsend.md) | 26 | ⭐ 94,391 | 2026-08-02 | 2026-10-14 |
+| [localsend/localsend](../repos/localsend/localsend.md) | 27 | ⭐ 94,476 | 2026-08-02 | 2026-10-15 |
 | [Chevey339/kelivo](../repos/Chevey339/kelivo.md) | 23 | ⭐ 4,222 | 2026-08-02 | 2026-10-14 |
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 22 | ⭐ 77,327 | 2026-08-01 | 2026-10-14 |
 | [venera-app/venera](../repos/venera-app/venera.md) | 22 | ⭐ 11,143 | 2026-08-02 | 2026-10-06 |
@@ -233,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.753Z*
+*Last updated: 2026-10-15T21:02:12.769Z*

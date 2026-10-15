@@ -16,10 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,185 | 2026-08-01 | 52 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,190 | 2026-08-01 | 53 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,724 | 2026-08-02 | 36 |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,050 | 2026-08-01 | 32 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,530 | 2026-08-07 | 23 |
 
 
 ---
@@ -46,8 +49,8 @@
 | [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,602 | 2026-08-01 | 46 |
 | [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,265 | 2026-08-05 | 7 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,596 | 2026-08-01 | 30 |
-| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,528 | 2026-08-07 | 22 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,185 | 2026-08-01 | 52 |
+| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,530 | 2026-08-07 | 23 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,190 | 2026-08-01 | 53 |
 | [mirage/mirage](../repos/mirage/mirage.md) | ⭐ 3,006 | 2026-10-07 | 1 |
 | [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,418 | 2026-08-02 | 4 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,125 | 2026-08-01 | 28 |
@@ -56,7 +59,7 @@
 | [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,383 | 2026-08-01 | 13 |
 | [janestreet/bonsai](../repos/janestreet/bonsai.md) | ⭐ 1,381 | 2026-08-05 | 3 |
 | [stategraph/stategraph](../repos/stategraph/stategraph.md) | ⭐ 1,283 | 2026-08-09 | 2 |
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,037 | 2026-08-01 | 31 |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | ⭐ 1,050 | 2026-08-01 | 32 |
 | [ocaml/ocaml-lsp](../repos/ocaml/ocaml-lsp.md) | ⭐ 909 | 2026-08-06 | 3 |
 | [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | ⭐ 902 | 2026-08-03 | 14 |
 | [caffeinelabs/motoko](../repos/caffeinelabs/motoko.md) | ⭐ 588 | 2026-08-01 | 5 |
@@ -67,15 +70,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 52 | ⭐ 3,185 | 2026-08-01 | 2026-10-14 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 53 | ⭐ 3,190 | 2026-08-01 | 2026-10-15 |
 | [ocaml/ocaml](../repos/ocaml/ocaml.md) | 46 | ⭐ 6,602 | 2026-08-01 | 2026-10-12 |
 | [facebook/infer](../repos/facebook/infer.md) | 36 | ⭐ 15,724 | 2026-08-02 | 2026-10-14 |
-| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 31 | ⭐ 1,037 | 2026-08-01 | 2026-10-13 |
+| [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 32 | ⭐ 1,050 | 2026-08-01 | 2026-10-15 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 30 | ⭐ 5,596 | 2026-08-01 | 2026-10-07 |
 | [ocaml/dune](../repos/ocaml/dune.md) | 30 | ⭐ 1,922 | 2026-08-01 | 2026-10-07 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 28 | ⭐ 2,125 | 2026-08-01 | 2026-10-12 |
 | [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | 24 | ⭐ 59 | 2026-08-01 | 2026-08-29 |
-| [bcpierce00/unison](../repos/bcpierce00/unison.md) | 22 | ⭐ 5,528 | 2026-08-07 | 2026-10-13 |
+| [bcpierce00/unison](../repos/bcpierce00/unison.md) | 23 | ⭐ 5,530 | 2026-08-07 | 2026-10-15 |
 | [oxcaml/oxcaml](../repos/oxcaml/oxcaml.md) | 14 | ⭐ 902 | 2026-08-03 | 2026-10-07 |
 
 ---
@@ -108,4 +111,4 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.791Z*
+*Last updated: 2026-10-15T21:02:12.830Z*

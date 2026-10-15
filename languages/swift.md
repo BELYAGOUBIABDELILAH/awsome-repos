@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 131
+- **Total Repositories**: 132
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-02
 
@@ -16,28 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 3,074 | 2026-08-01 | 8 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 12,801 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,538 | 2026-08-04 | 13 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,598 | 2026-08-17 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,933 | 2026-08-11 | 4 |
+| [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,622 | 2026-09-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,578 | 2026-08-17 | 10 |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 11,567 | 2026-09-21 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [farzaa/clicky](../repos/farzaa/clicky.md) | ⭐ 7,708 | 2026-09-04 | 7 |
+| [wuwangzhang1216/ChinaTextbookStudyFree](../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) | ⭐ 539 | 2026-10-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,043 | 2026-09-13 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 10,613 | 2026-09-21 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [wuwangzhang1216/ChinaTextbookStudyFree](../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) | ⭐ 503 | 2026-10-12 | 3 |
+| [OpenBMB/MiniCPM-V-Apps](../repos/OpenBMB/MiniCPM-V-Apps.md) | ⭐ 454 | 2026-10-15 | 1 |
 
 
 ---
@@ -61,7 +55,7 @@
 | [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 516 | 2026-09-21 | Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH,... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 10,613 | 2026-09-21 | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. |
+| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 11,567 | 2026-09-21 | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chenqi92/primuse](../repos/chenqi92/primuse.md) | ⭐ 144 | 2026-09-24 | IOS、MacOS、AppleTV端音乐app，添加群晖等nas源、飞牛音乐等音乐服务源、百度网盘等各类网盘源、webdav等网络文件源。apple music集成播放，自带刮削功能、CarPl... |
@@ -83,7 +77,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,451 | 2026-08-05 | 15 |
-| [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,552 | 2026-09-04 | 3 |
+| [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,622 | 2026-09-04 | 4 |
 | [apple/container](../repos/apple/container.md) | ⭐ 50,393 | 2026-08-01 | 16 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,480 | 2026-08-12 | 10 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
@@ -99,7 +93,7 @@
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,951 | 2026-08-04 | 16 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,912 | 2026-08-24 | 11 |
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,578 | 2026-08-17 | 10 |
+| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,598 | 2026-08-17 | 11 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,482 | 2026-08-08 | 8 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | 2026-08-01 | 3 |
 
@@ -109,7 +103,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 23 | ⭐ 12,694 | 2026-08-01 | 2026-10-08 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 24 | ⭐ 12,801 | 2026-08-01 | 2026-10-15 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 18 | ⭐ 28,065 | 2026-08-01 | 2026-10-09 |
 | [apple/container](../repos/apple/container.md) | 16 | ⭐ 50,393 | 2026-08-01 | 2026-09-29 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 16 | ⭐ 14,951 | 2026-08-04 | 2026-10-06 |
@@ -227,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.820Z*
+*Last updated: 2026-10-15T21:02:12.868Z*

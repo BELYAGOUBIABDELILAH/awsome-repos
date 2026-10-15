@@ -16,25 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,951 | 2026-08-01 | 13 |
+| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 8,705 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,965 | 2026-08-04 | 15 |
+| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,384 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,673 | 2026-08-07 | 5 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 28,016 | 2026-08-04 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 5,311 | 2026-08-11 | 11 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 5,350 | 2026-08-11 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhaochenyang20/Awesome-ML-SYS-Tutorial](../repos/zhaochenyang20/Awesome-ML-SYS-Tutorial.md) | ⭐ 7,530 | 2026-08-19 | 6 |
+| [zhaochenyang20/Awesome-ML-SYS-Tutorial](../repos/zhaochenyang20/Awesome-ML-SYS-Tutorial.md) | ⭐ 7,546 | 2026-08-19 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CoolDude2349/Offline-HTML-Games-Pack](../repos/CoolDude2349/Offline-HTML-Games-Pack.md) | ⭐ 206 | 2026-09-29 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [yvoronoy/awesome-english](../repos/yvoronoy/awesome-english.md) | ⭐ 4,153 | 2026-10-14 | 1 |
+| [Guyungy/damaihelper](../repos/Guyungy/damaihelper.md) | ⭐ 4,257 | 2026-09-09 | 2 |
 
 
 ---
@@ -91,7 +88,7 @@
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,948 | 2026-08-09 | 12 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,754 | 2026-08-19 | 9 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 27,965 | 2026-08-04 | 15 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 28,016 | 2026-08-04 | 16 |
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 24,855 | 2026-10-09 | 3 |
@@ -108,14 +105,14 @@
 |------------|---------------|-------|------------|-----------|
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 17 | ⭐ 67,007 | 2026-08-01 | 2026-10-02 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 17 | ⭐ 209,914 | 2026-08-03 | 2026-10-06 |
+| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 16 | ⭐ 28,016 | 2026-08-04 | 2026-10-15 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 15 | ⭐ 10,572 | 2026-08-03 | 2026-10-01 |
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 15 | ⭐ 27,965 | 2026-08-04 | 2026-10-14 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 14 | ⭐ 138,503 | 2026-08-08 | 2026-09-25 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 13 | ⭐ 9,951 | 2026-08-01 | 2026-10-14 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 13 | ⭐ 43,224 | 2026-08-12 | 2026-10-03 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 12 | ⭐ 16,578 | 2026-08-04 | 2026-10-02 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 12 | ⭐ 29,948 | 2026-08-09 | 2026-10-03 |
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 11 | ⭐ 5,311 | 2026-08-11 | 2026-10-14 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 12 | ⭐ 5,350 | 2026-08-11 | 2026-10-15 |
 
 ---
 
@@ -224,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.767Z*
+*Last updated: 2026-10-15T21:02:12.787Z*

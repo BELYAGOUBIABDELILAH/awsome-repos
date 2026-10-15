@@ -7,7 +7,7 @@
 ## All Time
 
 **Period**: Beginning to Present  
-**Gems Found**: 1187
+**Gems Found**: 1194
 
 ---
 
@@ -19,7 +19,7 @@
 |---|---|
 | ⭐ **Stars** | 1,305 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 99/100 |
+| 🏆 **Gem Score** | 98/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Sep 28, 2026 |
 
@@ -117,13 +117,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,311 |
+| ⭐ **Stars** | 5,350 |
 | 💻 **Language** | HTML |
 | 🏆 **Gem Score** | 95/100 |
-| 📈 **Trending Days** | 11 |
+| 📈 **Trending Days** | 12 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
-**Why it's a gem**: High growth velocity (+108 stars&#x2F;day) • Trending 11 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+103 stars&#x2F;day) • Trending 12 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -151,27 +151,7 @@
 
 ---
 
-### 8. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
-
-**Vivi-Music is an expressive Material 3–based YouTube Music client for Android.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,394 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+64 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/vivizzz007/vivi-music.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;vivizzz007&#x2F;vivi-music)
-
----
-
-### 9. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
+### 8. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
 
 **Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
 
@@ -191,7 +171,7 @@
 
 ---
 
-### 10. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
+### 9. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
 
 **OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
 
@@ -211,27 +191,27 @@
 
 ---
 
-### 11. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
+### 10. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
 
-**Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
+**Vivi-Music is an expressive Material 3–based YouTube Music client for Android.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,646 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 7 |
-| 📅 **First Seen** | Sep 25, 2026 |
+| ⭐ **Stars** | 3,394 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 93/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+943 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+64 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/mvschwarz/openrig.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mvschwarz&#x2F;openrig)
+[View Passport](../../repos/vivizzz007/vivi-music.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;vivizzz007&#x2F;vivi-music)
 
 ---
 
-### 12. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 11. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
 **ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
@@ -251,7 +231,7 @@
 
 ---
 
-### 13. [melgarafael&#x2F;DeskcommCRM](../../repos/melgarafael/DeskcommCRM.md)
+### 12. [melgarafael&#x2F;DeskcommCRM](../../repos/melgarafael/DeskcommCRM.md)
 
 **Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.**
 
@@ -263,7 +243,7 @@
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 5, 2026 |
 
-**Why it's a gem**: High growth velocity (+414 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+414 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -271,7 +251,7 @@
 
 ---
 
-### 14. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
+### 13. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
 
 **Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
 
@@ -291,7 +271,7 @@
 
 ---
 
-### 15. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
+### 14. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
 
 **🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24&#x2F;7. Works with FREE Gemini API or OpenAI. No coding required!**
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
+### 15. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
 
 **Bonsai Demo**
 
@@ -331,27 +311,27 @@
 
 ---
 
-### 17. [weave-os&#x2F;router](../../repos/weave-os/router.md)
+### 16. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
 
-**Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
+**Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,557 |
-| 💻 **Language** | Go |
+| ⭐ **Stars** | 4,646 |
+| 💻 **Language** | TypeScript |
 | 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 19, 2026 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Sep 25, 2026 |
 
-**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+943 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/weave-os/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;weave-os&#x2F;router)
+[View Passport](../../repos/mvschwarz/openrig.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mvschwarz&#x2F;openrig)
 
 ---
 
-### 18. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
+### 17. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
 
 **Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.**
 
@@ -368,6 +348,26 @@
 **Best for**: 
 
 [View Passport](../../repos/Armur-Ai/Pentest-Swarm-AI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Armur-Ai&#x2F;Pentest-Swarm-AI)
+
+---
+
+### 18. [weave-os&#x2F;router](../../repos/weave-os/router.md)
+
+**Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,557 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 19, 2026 |
+
+**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/weave-os/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;weave-os&#x2F;router)
 
 ---
 
@@ -411,7 +411,27 @@
 
 ---
 
-### 21. [tgeorgiadis&#x2F;quiver-launcher](../../repos/tgeorgiadis/quiver-launcher.md)
+### 21. [p1neappleXpress&#x2F;OpenFlux](../../repos/p1neappleXpress/OpenFlux.md)
+
+**Network stack research tool. TCP tunnel with pluggable transports.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,177 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 12, 2026 |
+
+**Why it's a gem**: High growth velocity (+199 stars&#x2F;day) • Trending 5 times • Very active development • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/p1neappleXpress/OpenFlux.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;p1neappleXpress&#x2F;OpenFlux)
+
+---
+
+### 22. [tgeorgiadis&#x2F;quiver-launcher](../../repos/tgeorgiadis/quiver-launcher.md)
 
 **A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.**
 
@@ -431,7 +451,7 @@
 
 ---
 
-### 22. [YuKongA&#x2F;ghostlock-app](../../repos/YuKongA/ghostlock-app.md)
+### 23. [YuKongA&#x2F;ghostlock-app](../../repos/YuKongA/ghostlock-app.md)
 
 **GhostLock One-Tap Execution App (CVE-2026-43499)**
 
@@ -451,7 +471,7 @@
 
 ---
 
-### 23. [microsoft&#x2F;mxc](../../repos/microsoft/mxc.md)
+### 24. [microsoft&#x2F;mxc](../../repos/microsoft/mxc.md)
 
 **Policy-driven, layered isolation and containment **
 
@@ -471,7 +491,7 @@
 
 ---
 
-### 24. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
+### 25. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
 
 **Open source factory for one-shot engineering**
 
@@ -488,26 +508,6 @@
 **Best for**: 
 
 [View Passport](../../repos/superplanehq/superplane.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superplanehq&#x2F;superplane)
-
----
-
-### 25. [zzet&#x2F;gortex](../../repos/zzet/gortex.md)
-
-**High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https:&#x2F;&#x2F;discord.gg&#x2F;39MFHu3J5d**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,427 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+53 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/zzet/gortex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;zzet&#x2F;gortex)
 
 ---
 
@@ -531,23 +531,23 @@
 
 ---
 
-### 27. [itsfatduck&#x2F;optimizerDuck](../../repos/itsfatduck/optimizerDuck.md)
+### 27. [zzet&#x2F;gortex](../../repos/zzet/gortex.md)
 
-**Free, open-source Windows optimization tool for performance, privacy, and simplicity.**
+**High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https:&#x2F;&#x2F;discord.gg&#x2F;39MFHu3J5d**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10,284 |
-| 💻 **Language** | C# |
+| ⭐ **Stars** | 1,427 |
+| 💻 **Language** | Go |
 | 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 13 |
+| 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 4, 2026 |
 
-**Why it's a gem**: High growth velocity (+75 stars&#x2F;day) • Trending 13 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+53 stars&#x2F;day) • Trending 6 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/itsfatduck/optimizerDuck.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;itsfatduck&#x2F;optimizerDuck)
+[View Passport](../../repos/zzet/gortex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;zzet&#x2F;gortex)
 
 ---
 
@@ -571,27 +571,7 @@
 
 ---
 
-### 29. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
-
-**ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,808 |
-| 💻 **Language** | CSS |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 18 |
-| 📅 **First Seen** | Aug 10, 2026 |
-
-**Why it's a gem**: High growth velocity (+71 stars&#x2F;day) • Trending 18 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/XiaomingX/ai-money-maker-handbook.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;XiaomingX&#x2F;ai-money-maker-handbook)
-
----
-
-### 30. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
+### 29. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
 **Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
@@ -611,6 +591,26 @@
 
 ---
 
+### 30. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
+
+**OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,204 |
+| 💻 **Language** | Shell |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 19, 2026 |
+
+**Why it's a gem**: High growth velocity (+109 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/rawfilejson/awesome-osint-arsenal.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;rawfilejson&#x2F;awesome-osint-arsenal)
+
+---
+
 
 ## Scoring Methodology
 
@@ -627,5 +627,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-14T21:02:12.779Z*  
+*Generated: 2026-10-15T21:02:19.942Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

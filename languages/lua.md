@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 117
+- **Total Repositories**: 118
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | ⭐ 1,071 | 2026-08-01 | 27 |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 298 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 297 | 2026-08-01 | 40 |
+| [ibhagwan/fzf-lua](../repos/ibhagwan/fzf-lua.md) | ⭐ 4,465 | 2026-08-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ntop/ntopng](../repos/ntop/ntopng.md) | ⭐ 8,255 | 2026-08-02 | 13 |
+| [overextended/ox_lib](../repos/overextended/ox_lib.md) | ⭐ 419 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EllesmereGaming/EllesmereUI](../repos/EllesmereGaming/EllesmereUI.md) | ⭐ 246 | 2026-08-03 | 14 |
+| [tukui-org/ElvUI](../repos/tukui-org/ElvUI.md) | ⭐ 708 | 2026-08-12 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MeanderingProgrammer/render-markdown.nvim](../repos/MeanderingProgrammer/render-markdown.nvim.md) | ⭐ 5,163 | 2026-08-04 | 15 |
+| [mason-org/mason-lspconfig.nvim](../repos/mason-org/mason-lspconfig.nvim.md) | ⭐ 3,951 | 2026-08-17 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,661 | 2026-08-04 | 26 |
+| [b0o/SchemaStore.nvim](../repos/b0o/SchemaStore.nvim.md) | ⭐ 1,040 | 2026-08-19 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stevearc/oil.nvim](../repos/stevearc/oil.nvim.md) | ⭐ 6,950 | 2026-08-04 | 10 |
+| [nvim-tree/nvim-web-devicons](../repos/nvim-tree/nvim-web-devicons.md) | ⭐ 2,725 | 2026-09-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mason-org/mason-lspconfig.nvim](../repos/mason-org/mason-lspconfig.nvim.md) | ⭐ 3,951 | 2026-08-17 | 6 |
+| [bryanthaboi/gen1recomp](../repos/bryanthaboi/gen1recomp.md) | ⭐ 3,934 | 2026-09-20 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [b0o/SchemaStore.nvim](../repos/b0o/SchemaStore.nvim.md) | ⭐ 1,040 | 2026-08-19 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nvim-mini/mini.nvim](../repos/nvim-mini/mini.nvim.md) | ⭐ 9,584 | 2026-08-26 | 12 |
+| [tomasklaen/uosc](../repos/tomasklaen/uosc.md) | ⭐ 3,446 | 2026-10-15 | 1 |
 
 
 ---
@@ -52,13 +49,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nvim-tree/nvim-web-devicons](../repos/nvim-tree/nvim-web-devicons.md) | ⭐ 2,724 | 2026-09-19 | Provides Nerd Font icons (glyphs) for use by neovim plugins |
+| [nvim-tree/nvim-web-devicons](../repos/nvim-tree/nvim-web-devicons.md) | ⭐ 2,725 | 2026-09-19 | Provides Nerd Font icons (glyphs) for use by neovim plugins |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Questie/Questie](../repos/Questie/Questie.md) | ⭐ 1,095 | 2026-09-19 | Questie: The WoW Classic quest helper |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [bryanthaboi/gen1recomp](../repos/bryanthaboi/gen1recomp.md) | ⭐ 3,903 | 2026-09-20 | Gen1Recomp - A native Lua &#x2F; LÖVE2D recreation of Gen 1, 2, and 3 Poke |
+| [bryanthaboi/gen1recomp](../repos/bryanthaboi/gen1recomp.md) | ⭐ 3,934 | 2026-09-20 | Gen1Recomp - A native Lua &#x2F; LÖVE2D recreation of Gen 1, 2, and 3 Poke |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sphamba/smear-cursor.nvim](../repos/sphamba/smear-cursor.nvim.md) | ⭐ 2,045 | 2026-09-20 | 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals |
@@ -115,7 +112,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 40 | ⭐ 297 | 2026-08-01 | 2026-10-14 |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 41 | ⭐ 298 | 2026-08-01 | 2026-10-15 |
 | [koreader/koreader](../repos/koreader/koreader.md) | 37 | ⭐ 30,295 | 2026-08-01 | 2026-10-13 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 34 | ⭐ 31,574 | 2026-08-04 | 2026-10-13 |
 | [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 27 | ⭐ 1,071 | 2026-08-01 | 2026-10-14 |
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.782Z*
+*Last updated: 2026-10-15T21:02:12.816Z*

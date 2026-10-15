@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 31,612 |
-| **Forks** | 🍴 2,424 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 40,012 |
+| **Forks** | 🍴 3,186 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Aug 14, 2026 |
-| **Last Seen** | Aug 21, 2026 |
+| **Last Seen** | Oct 15, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Python or agent-memory*
+*Similar: Check repositories in Python or agent-context*
 
 ---
 
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 3 days
 
 ---
@@ -58,7 +58,7 @@
 ## Categories
 
 ### Topics
-[`agent-memory`](../../topics/agent-memory.md) [`agent-plugins`](../../topics/agent-plugins.md) [`agentic-rag`](../../topics/agentic-rag.md) [`context-database`](../../topics/context-database.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`self-evolving`](../../topics/self-evolving.md) 
+[`agent-context`](../../topics/agent-context.md) [`agent-memory`](../../topics/agent-memory.md) [`agent-plugins`](../../topics/agent-plugins.md) [`agentic-rag`](../../topics/agentic-rag.md) [`context-database`](../../topics/context-database.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`knowledge-base`](../../topics/knowledge-base.md) [`memory`](../../topics/memory.md) [`memory-management`](../../topics/memory-management.md) [`self-evolving`](../../topics/self-evolving.md) [`vector-database`](../../topics/vector-database.md) 
 
 ### Curated Categories
 `Databases` `Systems Programming` 
@@ -75,7 +75,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -88,11 +88,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 90&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #4)
 
 
 ---
 
-*Last updated: 2026-10-14T21:02:10.580Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-10-15T21:02:17.419Z*  
+*Data from 6 trending reports*

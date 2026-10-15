@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Kotlin |
+| **Language** | C |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 4,299 |
-| **Forks** | 🍴 1,126 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 4,475 |
+| **Forks** | 🍴 1,182 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Sep 24, 2026 |
+| **Last Seen** | Oct 15, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Kotlin or android*
+*Similar: Check repositories in C or android*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 2 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`android`](../../topics/android.md) [`kernel`](../../topics/kernel.md) [`kernelsu`](../../topics/kernelsu.md) [`kernelsu-next`](../../topics/kernelsu-next.md) [`root`](../../topics/root.md) [`su`](../../topics/su.md) 
+[`android`](../../topics/android.md) [`kernel`](../../topics/kernel.md) [`kernelsu`](../../topics/kernelsu.md) [`kernelsu-next`](../../topics/kernelsu-next.md) [`root`](../../topics/root.md) [`su`](../../topics/su.md) [`susfs`](../../topics/susfs.md) [`susfs4ksu`](../../topics/susfs4ksu.md) 
 
 ### Curated Categories
 `Mobile Development` `Systems Programming` 
@@ -68,11 +68,11 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Beginner | Approachable with good examples |
+| **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -81,7 +81,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Kotlin
+- Check similar projects in C
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:10.281Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-10-15T21:02:17.074Z*  
+*Data from 9 trending reports*

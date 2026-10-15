@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | MIT |
-| **Stars** | ⭐ 29,265 |
-| **Forks** | 🍴 4,398 |
-| **Trending Days** | 12 |
+| **Stars** | ⭐ 30,440 |
+| **Forks** | 🍴 4,561 |
+| **Trending Days** | 13 |
 | **Peak Rank** | #8 |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Oct 14, 2026 |
+| **Last Seen** | Oct 15, 2026 |
 
 
 ---
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #8
-- **Trending Days**: 12
+- **Trending Days**: 13
 - **Longest Streak**: 3 days
 
 ---
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:09.882Z*  
-*Data from 12 trending reports*
+*Last updated: 2026-10-15T21:02:16.631Z*  
+*Data from 13 trending reports*

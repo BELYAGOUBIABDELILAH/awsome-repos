@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 163
+- **Total Repositories**: 165
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-12
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | ⭐ 1,431 | 2026-08-02 | 12 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,402 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 16,060 | 2026-08-02 | 10 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,826 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jay3-yy/BiliPai](../repos/jay3-yy/BiliPai.md) | ⭐ 4,858 | 2026-08-03 | 5 |
+| [android/skills](../repos/android/skills.md) | ⭐ 7,838 | 2026-08-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yairm210/Unciv](../repos/yairm210/Unciv.md) | ⭐ 11,437 | 2026-08-10 | 9 |
+| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 3,262 | 2026-10-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HuangZhuoRui/LocationSpoofer](../repos/HuangZhuoRui/LocationSpoofer.md) | ⭐ 1,856 | 2026-08-19 | 12 |
+| [MuwMx/YumaPlayer](../repos/MuwMx/YumaPlayer.md) | ⭐ 815 | 2026-10-13 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquamarine5/ChaoxingSignFaker](../repos/aquamarine5/ChaoxingSignFaker.md) | ⭐ 761 | 2026-09-24 | 2 |
+| [Spotui/Spotui](../repos/Spotui/Spotui.md) | ⭐ 652 | 2026-10-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 1,932 | 2026-10-06 | 5 |
+| [realidkroo/musicfy](../repos/realidkroo/musicfy.md) | ⭐ 144 | 2026-10-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 4,398 | 2026-10-06 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ahXN00/OwnTV](../repos/ahXN00/OwnTV.md) | ⭐ 550 | 2026-10-06 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [throneproj/ThroneForAndroid](../repos/throneproj/ThroneForAndroid.md) | ⭐ 586 | 2026-10-11 | 3 |
+| [1013503897/jadx-headless-mcp](../repos/1013503897/jadx-headless-mcp.md) | ⭐ 80 | 2026-10-15 | 1 |
 
 
 ---
@@ -98,7 +92,7 @@
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,447 | 2026-08-05 | 7 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,342 | 2026-08-11 | 5 |
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,879 | 2026-08-12 | 9 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,321 | 2026-08-01 | 16 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,402 | 2026-08-01 | 17 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 22,872 | 2026-08-02 | 5 |
 | [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,852 | 2026-08-01 | 7 |
@@ -116,8 +110,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 18 | ⭐ 63,841 | 2026-08-02 | 2026-10-12 |
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 16 | ⭐ 24,321 | 2026-08-01 | 2026-10-13 |
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 16 | ⭐ 2,779 | 2026-08-02 | 2026-10-13 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | 17 | ⭐ 24,402 | 2026-08-01 | 2026-10-15 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 17 | ⭐ 2,826 | 2026-08-02 | 2026-10-15 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 16 | ⭐ 30,980 | 2026-08-08 | 2026-10-03 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 13 | ⭐ 11,681 | 2026-08-02 | 2026-10-12 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 13 | ⭐ 10,935 | 2026-08-03 | 2026-10-12 |
@@ -187,6 +181,7 @@
 - [Kotlin/kotlin-lsp](../repos/Kotlin/kotlin-lsp.md) - Kotlin Language Server and plugin for Visual Studio Code
 - [KotatsuApp/Kotatsu](../repos/KotatsuApp/Kotatsu.md) - Manga reader for Android
 - [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) - An alternative frontend for YouTube, for Android.
+- [android/skills](../repos/android/skills.md) - 
 - [xororz/local-dream](../repos/xororz/local-dream.md) - Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU&#x2F;GPU i...
 - [samolego/Canta](../repos/samolego/Canta.md) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, ...
 - [jqssun/android-airplay-server](../repos/jqssun/android-airplay-server.md) - First open-source AirPlay receiver implementation for Android with mirroring, video and audio sup...
@@ -199,7 +194,6 @@
 - [newo-ether/Agora](../repos/newo-ether/Agora.md) - Android BYOK LLM client with multi-provider access, agentic workflows, and remote device control.
 - [EchoMusicApp/Echo-Music](../repos/EchoMusicApp/Echo-Music.md) - A modern Android music app with ad-free streaming, synced lyrics, offline playback, and an intuit...
 - [google/private-compute-services](../repos/google/private-compute-services.md) - 
-- [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) - An advanced Kernel based root solution for Android
 - [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) - Kernel-based Android Root Solution &amp; KPM
 - [celzero/rethink-app](../repos/celzero/rethink-app.md) - DNS over HTTPS &#x2F; DNS over Tor &#x2F; DNSCrypt client, WireGuard proxifier, firewall, and connection tr...
 - [ryfineZ/carrier-ims-for-pixel](../repos/ryfineZ/carrier-ims-for-pixel.md) - Carrier IMS for Pixel (TurboIMS): multilingual (中文&#x2F;English) pixel ims &#x2F; ims &#x2F; carrierconfig &#x2F; vol...
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.780Z*
+*Last updated: 2026-10-15T21:02:12.811Z*

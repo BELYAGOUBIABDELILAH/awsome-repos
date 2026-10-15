@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 316
+**Gems Found**: 314
 
 ---
 
@@ -39,7 +39,7 @@
 |---|---|
 | ⭐ **Stars** | 1,427 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 90/100 |
+| 🏆 **Gem Score** | 89/100 |
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 4, 2026 |
 
@@ -59,7 +59,7 @@
 |---|---|
 | ⭐ **Stars** | 3,374 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 84/100 |
+| 🏆 **Gem Score** | 83/100 |
 | 📈 **Trending Days** | 4 |
 | 📅 **First Seen** | Aug 16, 2026 |
 
@@ -111,27 +111,7 @@
 
 ---
 
-### 6. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
-
-**Help AI coding agents write modern Go**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,846 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 82/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 27, 2026 |
-
-**Why it's a gem**: High growth velocity (+788 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/JetBrains/go-modern-guidelines.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;JetBrains&#x2F;go-modern-guidelines)
-
----
-
-### 7. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+### 6. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
 
 **OCTO Android Client — Open-source enterprise IM**
 
@@ -148,6 +128,26 @@
 **Best for**: 
 
 [View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
+
+---
+
+### 7. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
+
+**Help AI coding agents write modern Go**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,846 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 81/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 27, 2026 |
+
+**Why it's a gem**: High growth velocity (+788 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/JetBrains/go-modern-guidelines.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;JetBrains&#x2F;go-modern-guidelines)
 
 ---
 
@@ -271,27 +271,7 @@
 
 ---
 
-### 14. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
-
-**Visualize your year in travel using your Google Location History (Timeline) data**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,684 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 78/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+1084 stars&#x2F;day) • Trending 4 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/mahlernim/google-timeline-visualizer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mahlernim&#x2F;google-timeline-visualizer)
-
----
-
-### 15. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+### 14. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
 
 **Portable Tool for an Ideal Windows Setup**
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [workweave&#x2F;router](../../repos/workweave/router.md)
+### 15. [workweave&#x2F;router](../../repos/workweave/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
+### 16. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
 
 **Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
 
@@ -351,7 +331,7 @@
 
 ---
 
-### 18. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
+### 17. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
 
 **The coding agent that answers to you, your model, your machine, your rules.**
 
@@ -368,6 +348,26 @@
 **Best for**: 
 
 [View Passport](../../repos/Gitlawb/zero.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Gitlawb&#x2F;zero)
+
+---
+
+### 18. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+
+**Visualize your year in travel using your Google Location History (Timeline) data**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,684 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 77/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+1084 stars&#x2F;day) • Trending 4 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/mahlernim/google-timeline-visualizer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mahlernim&#x2F;google-timeline-visualizer)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-14T21:02:12.760Z*  
+*Generated: 2026-10-15T21:02:19.919Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 162
+- **Total Repositories**: 163
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-14
+- **Last Updated**: 2026-10-15
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react](../repos/react/react.md) | ⭐ 251,021 | 2026-08-04 | 3 |
+| [react/react](../repos/react/react.md) | ⭐ 251,068 | 2026-08-04 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 40,018 | 2026-08-14 | 7 |
+| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,649 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 22,292 | 2026-08-16 | 4 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 30,461 | 2026-08-08 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 56,369 | 2026-08-27 | 12 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 22,875 | 2026-08-16 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sandeco/reversa](../repos/sandeco/reversa.md) | ⭐ 1,744 | 2026-09-12 | 3 |
+| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 32,482 | 2026-08-19 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [plugin87/ux-ui-agent-skills](../repos/plugin87/ux-ui-agent-skills.md) | ⭐ 1,721 | 2026-09-14 | 2 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 56,874 | 2026-08-27 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
+| [laoma528/awesome-zhuiju-free](../repos/laoma528/awesome-zhuiju-free.md) | ⭐ 12,302 | 2026-10-15 | 1 |
 
 
 ---
@@ -79,7 +79,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react](../repos/react/react.md) | ⭐ 251,021 | 2026-08-04 | 3 |
+| [react/react](../repos/react/react.md) | ⭐ 251,068 | 2026-08-04 | 4 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
@@ -96,9 +96,9 @@
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
 | [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 56,369 | 2026-08-27 | 12 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 56,874 | 2026-08-27 | 13 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
-| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,174 | 2026-08-08 | 3 |
+| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,649 | 2026-08-08 | 4 |
 
 ---
 
@@ -112,10 +112,10 @@
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 18 | ⭐ 77,610 | 2026-08-05 | 2026-10-06 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 13 | ⭐ 3,954 | 2026-08-07 | 2026-10-03 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 13 | ⭐ 56,874 | 2026-08-27 | 2026-10-15 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 12 | ⭐ 27,764 | 2026-08-03 | 2026-10-12 |
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 12 | ⭐ 56,369 | 2026-08-27 | 2026-10-14 |
+| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 12 | ⭐ 30,461 | 2026-08-08 | 2026-10-15 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 11 | ⭐ 143,238 | 2026-07-30 | 2026-10-07 |
-| [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) | 11 | ⭐ 33,755 | 2026-08-02 | 2026-10-01 |
 
 ---
 
@@ -224,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.774Z*
+*Last updated: 2026-10-15T21:02:12.800Z*

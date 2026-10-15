@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 500
+- **Total Repositories**: 502
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-09-07
+- **Last Updated**: 2026-10-15
 - **Average Stars**: 21471
 
 ---
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,946 | Rust |  |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 131,560 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,169 | Go |  |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 34,196 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 26,668 | Rust |  |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,047 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 33,980 | Go |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,778 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,345 | C |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,576 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,777 | Ruby |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,573 | Scala |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,201 | Scala |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,742 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,214 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,532 | Perl |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [zml/zml](../repos/zml/zml.md) | ⭐ 4,180 | Zig |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,151 | Vim Script |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 102,669 | TypeScript |  |
 
 
 ---
@@ -53,8 +53,8 @@
 
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 267,514 | TypeScript | 2026-10-06 | 9 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | Python | 2026-08-01 | 17 |
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 238,653 | TypeScript | 2026-10-06 | 8 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 206,509 | TypeScript | 2026-08-11 | 6 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | Python | 2026-09-07 | 3 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,465 | Python | 2026-08-06 | 8 |
@@ -79,13 +79,13 @@
 | [golang/go](../repos/golang/go.md) | ⭐ 139,169 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 130,515 | Python | 1 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 131,560 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 26,668 | Rust | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 33,980 | Go | 4 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 34,196 | Go | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,887 | Go | 1 |
@@ -97,7 +97,7 @@
 | [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,345 | C | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 31,947 | C# | 1 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,047 | C# | 1 |
 
 ---
 
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-10-15](../archive/2026/10/2026-10-15.md)
+- 31 repositories trending
+- Top: morluto&#x2F;rea
+
 ### [2026-10-14](../archive/2026/10/2026-10-14.md)
 - 37 repositories trending
 - Top: morluto&#x2F;rea
@@ -158,10 +162,6 @@
 - 46 repositories trending
 - Top: morluto&#x2F;rea
 
-### [2026-10-08](../archive/2026/10/2026-10-08.md)
-- 28 repositories trending
-- Top: morluto&#x2F;rea
-
 
 ---
 
@@ -171,16 +171,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 60 days | 2026-08-01 | 2026-10-14 |
+| [apache/spark](../repos/apache/spark.md) | 61 days | 2026-08-01 | 2026-10-15 |
 | [vlang/v](../repos/vlang/v.md) | 55 days | 2026-08-01 | 2026-10-14 |
-| [joernio/joern](../repos/joernio/joern.md) | 50 days | 2026-08-01 | 2026-10-14 |
-| [vim/vim](../repos/vim/vim.md) | 49 days | 2026-08-01 | 2026-10-14 |
+| [joernio/joern](../repos/joernio/joern.md) | 51 days | 2026-08-01 | 2026-10-15 |
+| [vim/vim](../repos/vim/vim.md) | 50 days | 2026-08-01 | 2026-10-15 |
 | [nim-lang/Nim](../repos/nim-lang/Nim.md) | 49 days | 2026-08-01 | 2026-10-12 |
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 42 days | 2026-08-04 | 2026-10-14 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 43 days | 2026-08-04 | 2026-10-15 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 days | 2026-08-01 | 2026-10-01 |
 | [facebook/infer](../repos/facebook/infer.md) | 36 days | 2026-08-02 | 2026-10-14 |
-| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 32 days | 2026-08-04 | 2026-10-14 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 31 days | 2026-08-01 | 2026-10-14 |
+| [nullclaw/nullclaw](../repos/nullclaw/nullclaw.md) | 33 days | 2026-08-04 | 2026-10-15 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 32 days | 2026-08-01 | 2026-10-15 |
 
 ---
 
@@ -188,13 +188,13 @@
 
 ### Language Breakdown
 - **Python**: 108 repositories (22%)
-- **TypeScript**: 62 repositories (12%)
+- **TypeScript**: 63 repositories (13%)
 - **Go**: 49 repositories (10%)
 - **C**: 40 repositories (8%)
 - **Rust**: 39 repositories (8%)
 
 ### Trending Frequency
-- **Daily Average**: 43 repositories
+- **Daily Average**: 42.8 repositories
 - **Peak Day**: 2026-08-19 (64 repositories)
 - **Growth Rate**: 16% this month
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.403Z*
+*Last updated: 2026-10-15T21:02:12.373Z*

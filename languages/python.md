@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jamiepine/voicebox](../repos/jamiepine/voicebox.md) | ⭐ 57,471 | 2026-08-02 | 6 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 131,560 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 60,537 | 2026-08-03 | 13 |
+| [trailofbits/skills](../repos/trailofbits/skills.md) | ⭐ 7,570 | 2026-08-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 49,219 | 2026-08-03 | 12 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 50,344 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aws/agent-toolkit-for-aws](../repos/aws/agent-toolkit-for-aws.md) | ⭐ 2,877 | 2026-08-06 | 2 |
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 38,924 | 2026-08-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 38,050 | 2026-08-07 | 9 |
+| [volcengine/OpenViking](../repos/volcengine/OpenViking.md) | ⭐ 40,012 | 2026-08-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MakazhanAlpamys/Soup](../repos/MakazhanAlpamys/Soup.md) | ⭐ 9,013 | 2026-08-15 | 9 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 53,046 | 2026-08-15 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 52,403 | 2026-08-15 | 7 |
+| [sgl-project/sglang-omni](../repos/sgl-project/sglang-omni.md) | ⭐ 1,515 | 2026-08-15 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | ⭐ 65,960 | 2026-08-22 | 17 |
+| [bojieli/ai-agent-book](../repos/bojieli/ai-agent-book.md) | ⭐ 54,402 | 2026-08-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/core](../repos/home-assistant/core.md) | ⭐ 91,497 | 2026-08-27 | 4 |
+| [ifixai-ai/iFixAi](../repos/ifixai-ai/iFixAi.md) | ⭐ 28,316 | 2026-10-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 35,265 | 2026-08-29 | 5 |
+| [Crosstalk-Solutions/unifi-toolkit](../repos/Crosstalk-Solutions/unifi-toolkit.md) | ⭐ 658 | 2026-10-15 | 1 |
 
 
 ---
@@ -101,7 +101,7 @@
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 141,347 | 2026-08-04 | 7 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 131,932 | 2026-08-05 | 8 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 130,515 | 2026-08-01 | 15 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 131,560 | 2026-08-01 | 16 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 114,356 | 2026-08-03 | 5 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
@@ -117,10 +117,10 @@
 |------------|---------------|-------|------------|-----------|
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 17 | ⭐ 65,960 | 2026-08-22 | 2026-10-14 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 15 | ⭐ 130,515 | 2026-08-01 | 2026-10-13 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 16 | ⭐ 131,560 | 2026-08-01 | 2026-10-15 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 13 | ⭐ 60,537 | 2026-08-03 | 2026-10-14 |
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 12 | ⭐ 49,219 | 2026-08-03 | 2026-10-14 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 13 | ⭐ 50,344 | 2026-08-03 | 2026-10-15 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 11 | ⭐ 92,571 | 2026-08-01 | 2026-10-06 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 11 | ⭐ 40,107 | 2026-08-03 | 2026-10-02 |
 | [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | 10 | ⭐ 77,020 | 2026-08-06 | 2026-10-13 |
@@ -202,7 +202,6 @@
 - [Unclecheng-li/VulnClaw](../repos/Unclecheng-li/VulnClaw.md) - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
 - [666ghj/MiroFish](../repos/666ghj/MiroFish.md) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [google/skills](../repos/google/skills.md) - Agent Skills for Google products and technologies
-- [android/skills](../repos/android/skills.md) - 
 - [p1ngul1n0/blackbird](../repos/p1ngul1n0/blackbird.md) - An OSINT tool to search for accounts by username and email in social networks.
 - [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) - TradingAgents: Multi-Agents LLM Financial Trading Framework
@@ -230,7 +229,8 @@
 - [LLMQuant/quant-mind](../repos/LLMQuant/quant-mind.md) - QuantMind is an agent-native knowledge extraction and retrieval framework for quantitative finance.
 - [AWeirdDev/flights](../repos/AWeirdDev/flights.md) - Fast, robust Google Flights scraper (API) for Python. (Probably)
 - [cactus-compute/needle](../repos/cactus-compute/needle.md) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction a...
+- [NVlabs/GR00T-WholeBodyControl](../repos/NVlabs/GR00T-WholeBodyControl.md) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deployin...
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.802Z*
+*Last updated: 2026-10-15T21:02:12.841Z*

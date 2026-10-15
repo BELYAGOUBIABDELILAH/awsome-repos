@@ -16,28 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,946 | 2026-07-30 | 11 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 44,035 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 90,775 | 2026-07-31 | 5 |
+| [surrealdb/surrealdb](../repos/surrealdb/surrealdb.md) | ⭐ 33,163 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 129,224 | 2026-08-01 | 14 |
+| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 16,452 | 2026-08-10 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 26,668 | 2026-08-01 | 14 |
+| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 8,305 | 2026-08-27 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 97,972 | 2026-08-09 | 16 |
+| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 17,598 | 2026-09-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 50,085 | 2026-08-12 | 4 |
+| [koharu-rs/koharu](../repos/koharu-rs/koharu.md) | ⭐ 6,311 | 2026-09-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 27,737 | 2026-10-06 | 8 |
+| [alphaXiv/OpenResearch](../repos/alphaXiv/OpenResearch.md) | ⭐ 7,255 | 2026-09-10 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vosen/ZLUDA](../repos/vosen/ZLUDA.md) | ⭐ 15,052 | 2026-10-14 | 1 |
+| [xerj-org/xerj](../repos/xerj-org/xerj.md) | ⭐ 5,518 | 2026-10-07 | 2 |
 
 
 ---
@@ -99,7 +99,7 @@
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,253 | 2026-08-05 | 10 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 43,722 | 2026-08-02 | 10 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 44,035 | 2026-08-02 | 11 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 41,568 | 2026-08-10 | 15 |
 | [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 
@@ -116,9 +116,9 @@
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 14 | ⭐ 26,668 | 2026-08-01 | 2026-10-14 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 12 | ⭐ 29,888 | 2026-08-03 | 2026-10-12 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 11 | ⭐ 119,946 | 2026-07-30 | 2026-10-14 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 11 | ⭐ 44,035 | 2026-08-02 | 2026-10-15 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 11 | ⭐ 11,824 | 2026-08-09 | 2026-10-01 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 11 | ⭐ 8,726 | 2026-08-26 | 2026-10-03 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 10 | ⭐ 43,722 | 2026-08-02 | 2026-10-09 |
 
 ---
 
@@ -227,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.810Z*
+*Last updated: 2026-10-15T21:02:12.857Z*

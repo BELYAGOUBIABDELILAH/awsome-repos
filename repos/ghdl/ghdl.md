@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | VHDL |
 | **License** | GPL-2.0 |
-| **Stars** | ⭐ 2,898 |
-| **Forks** | 🍴 425 |
-| **Trending Days** | 29 |
+| **Stars** | ⭐ 2,908 |
+| **Forks** | 🍴 429 |
+| **Trending Days** | 30 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 3, 2026 |
+| **Last Seen** | Oct 15, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 29
+- **Trending Days**: 30
 - **Longest Streak**: 5 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:09.000Z*  
-*Data from 29 trending reports*
+*Last updated: 2026-10-15T21:02:15.623Z*  
+*Data from 30 trending reports*

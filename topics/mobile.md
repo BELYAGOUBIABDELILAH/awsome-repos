@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 545
+- **Total Repositories**: 547
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-14
-- **Average Stars**: 14044
+- **Last Updated**: 2026-10-15
+- **Average Stars**: 14057
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,345 | C |  |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,953 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,954 | PHP |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,778 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,777 | Ruby |  |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,402 | Kotlin |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 3,074 | Swift |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,576 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,573 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,214 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,201 | Scala |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | ⭐ 77,327 | Dart |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 180,154 | Dart |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,686 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [google/promises](../repos/google/promises.md) | ⭐ 3,827 | Objective-C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,065 | Objective-C |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,609 | Objective-C |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,151 | Vim Script |  |
 
 
 ---
@@ -53,8 +53,8 @@
 
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
-| [react/react](../repos/react/react.md) | ⭐ 251,021 | JavaScript | 2026-08-04 | 3 |
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 238,653 | TypeScript | 2026-10-06 | 8 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 267,514 | TypeScript | 2026-10-06 | 9 |
+| [react/react](../repos/react/react.md) | ⭐ 251,068 | JavaScript | 2026-08-04 | 4 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
 | [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 180,154 | Dart | 2026-08-01 | 43 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,696 | C | 2026-08-07 | 17 |
@@ -76,10 +76,10 @@
 | [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,345 | C | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,954 | PHP | 1 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,953 | PHP | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,777 | Ruby | 3 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,778 | Ruby | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 3,074 | Swift | 1 |
@@ -88,16 +88,16 @@
 | [Beingpax/VoiceInk](../repos/Beingpax/VoiceInk.md) | ⭐ 6,786 | Swift | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,321 | Kotlin | 2 |
+| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,402 | Kotlin | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,573 | Scala | 1 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,576 | Scala | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,954 | Scala | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,201 | Scala | 4 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,214 | Scala | 5 |
 
 ---
 
@@ -138,9 +138,13 @@
 
 ## 📅 Recent History
 
+### [2026-10-15](../archive/2026/10/2026-10-15.md)
+- 40 repositories trending
+- Top: morluto&#x2F;rea
+
 ### [2026-10-14](../archive/2026/10/2026-10-14.md)
 - 49 repositories trending
-- Top: react&#x2F;react
+- Top: morluto&#x2F;rea
 
 ### [2026-10-13](../archive/2026/10/2026-10-13.md)
 - 43 repositories trending
@@ -158,10 +162,6 @@
 - 43 repositories trending
 - Top: morluto&#x2F;rea
 
-### [2026-10-08](../archive/2026/10/2026-10-08.md)
-- 39 repositories trending
-- Top: morluto&#x2F;rea
-
 
 ---
 
@@ -171,30 +171,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 60 days | 2026-08-01 | 2026-10-14 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 56 days | 2026-08-01 | 2026-10-13 |
-| [gradle/gradle](../repos/gradle/gradle.md) | 55 days | 2026-08-01 | 2026-10-12 |
+| [apache/spark](../repos/apache/spark.md) | 61 days | 2026-08-01 | 2026-10-15 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 57 days | 2026-08-01 | 2026-10-15 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 56 days | 2026-08-01 | 2026-10-15 |
 | [vlang/v](../repos/vlang/v.md) | 55 days | 2026-08-01 | 2026-10-14 |
-| [joernio/joern](../repos/joernio/joern.md) | 50 days | 2026-08-01 | 2026-10-14 |
-| [vim/vim](../repos/vim/vim.md) | 49 days | 2026-08-01 | 2026-10-14 |
+| [joernio/joern](../repos/joernio/joern.md) | 51 days | 2026-08-01 | 2026-10-15 |
+| [vim/vim](../repos/vim/vim.md) | 50 days | 2026-08-01 | 2026-10-15 |
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 days | 2026-08-01 | 2026-10-09 |
 | [flutter/flutter](../repos/flutter/flutter.md) | 43 days | 2026-08-01 | 2026-10-14 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 42 days | 2026-08-01 | 2026-10-14 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 39 days | 2026-08-01 | 2026-10-14 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 43 days | 2026-08-01 | 2026-10-15 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 40 days | 2026-08-01 | 2026-10-15 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Kotlin**: 105 repositories (19%)
+- **Kotlin**: 104 repositories (19%)
 - **Dart**: 70 repositories (13%)
-- **Swift**: 62 repositories (11%)
-- **C**: 46 repositories (8%)
+- **Swift**: 63 repositories (12%)
+- **C**: 47 repositories (9%)
 - **TypeScript**: 40 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 53.7 repositories
+- **Daily Average**: 53.5 repositories
 - **Peak Day**: 2026-08-19 (77 repositories)
 - **Growth Rate**: 16% this month
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.480Z*
+*Last updated: 2026-10-15T21:02:12.489Z*

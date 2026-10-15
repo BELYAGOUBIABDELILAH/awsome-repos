@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 273
+- **Total Repositories**: 275
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-14
 
@@ -16,28 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,966 | 2026-07-30 | 25 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 535 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,180 | 2026-08-01 | 29 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 31,192 | 2026-08-03 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 31,084 | 2026-08-03 | 14 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,435 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colmap/colmap](../repos/colmap/colmap.md) | ⭐ 12,951 | 2026-08-06 | 3 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 39,642 | 2026-08-04 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,156 | 2026-08-09 | 12 |
+| [ran-j/PS2Recomp](../repos/ran-j/PS2Recomp.md) | ⭐ 3,511 | 2026-08-23 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ran-j/PS2Recomp](../repos/ran-j/PS2Recomp.md) | ⭐ 3,464 | 2026-08-23 | 5 |
+| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,591 | 2026-08-25 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,577 | 2026-08-25 | 10 |
+| [scummvm/scummvm](../repos/scummvm/scummvm.md) | ⭐ 2,855 | 2026-10-13 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pichenettes/eurorack](../repos/pichenettes/eurorack.md) | ⭐ 3,289 | 2026-10-14 | 1 |
+| [ChiR24/Unreal_mcp](../repos/ChiR24/Unreal_mcp.md) | ⭐ 948 | 2026-10-15 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Flare-Animate/Flare](../repos/Flare-Animate/Flare.md) | ⭐ 110 | 2026-10-15 | 1 |
 
 
 ---
@@ -94,7 +97,7 @@
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,087 | 2026-08-01 | 15 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,361 | 2026-08-03 | 9 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,435 | 2026-08-03 | 10 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,360 | 2026-08-02 | 8 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
@@ -112,12 +115,12 @@
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 29 | ⭐ 131,180 | 2026-08-01 | 2026-10-14 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 25 | ⭐ 200,966 | 2026-07-30 | 2026-10-14 |
-| [google/googletest](../repos/google/googletest.md) | 19 | ⭐ 39,629 | 2026-08-04 | 2026-10-06 |
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 16 | ⭐ 527 | 2026-08-01 | 2026-10-09 |
+| [google/googletest](../repos/google/googletest.md) | 20 | ⭐ 39,642 | 2026-08-04 | 2026-10-15 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 17 | ⭐ 535 | 2026-08-01 | 2026-10-15 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 15 | ⭐ 72,087 | 2026-08-01 | 2026-10-02 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 15 | ⭐ 31,192 | 2026-08-03 | 2026-10-15 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 14 | ⭐ 11,716 | 2026-08-02 | 2026-10-12 |
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 14 | ⭐ 31,084 | 2026-08-03 | 2026-10-14 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 14 | ⭐ 76,454 | 2026-08-08 | 2026-10-01 |
 
 ---
@@ -227,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.740Z*
+*Last updated: 2026-10-15T21:02:12.755Z*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 261
+- **Total Repositories**: 265
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-14
+- **Last Updated**: 2026-10-15
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 193,606 | 2026-07-30 | 6 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 11,607 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 53,536 | 2026-08-01 | 12 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 102,669 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 63,609 | 2026-08-08 | 19 |
+| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 77,304 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 34,922 | 2026-08-10 | 7 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 35,725 | 2026-08-07 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 74,664 | 2026-08-10 | 13 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 64,440 | 2026-08-08 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 92,416 | 2026-08-11 | 14 |
+| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 35,096 | 2026-08-10 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vuejs/core](../repos/vuejs/core.md) | ⭐ 54,624 | 2026-08-15 | 2 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 75,029 | 2026-08-10 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 40,128 | 2026-09-14 | 6 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 93,354 | 2026-08-11 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krillinai/OpenCreator](../repos/krillinai/OpenCreator.md) | ⭐ 13,041 | 2026-09-20 | 5 |
+| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 40,276 | 2026-09-14 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 238,653 | 2026-10-06 | 8 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 267,514 | 2026-10-06 | 9 |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 238,653 | 2026-10-06 | 8 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 267,514 | 2026-10-06 | 9 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 206,509 | 2026-08-11 | 6 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 193,606 | 2026-07-30 | 6 |
@@ -101,13 +101,13 @@
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 112,105 | 2026-08-07 | 11 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
+| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 102,669 | 2026-08-02 | 10 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 100,889 | 2026-08-02 | 9 |
+| [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 97,789 | 2026-10-15 | 1 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 92,416 | 2026-08-11 | 14 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 93,354 | 2026-08-11 | 15 |
 | [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 90,957 | 2026-08-22 | 3 |
-| [storybookjs/storybook](../repos/storybookjs/storybook.md) | ⭐ 90,749 | 2026-08-02 | 1 |
 
 ---
 
@@ -115,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 19 | ⭐ 63,609 | 2026-08-08 | 2026-10-14 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 18 | ⭐ 10,238 | 2026-08-01 | 2026-10-07 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 20 | ⭐ 64,440 | 2026-08-08 | 2026-10-15 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 19 | ⭐ 11,607 | 2026-08-01 | 2026-10-15 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 17 | ⭐ 149,758 | 2026-08-07 | 2026-10-07 |
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 15 | ⭐ 34,631 | 2026-08-07 | 2026-10-13 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 16 | ⭐ 35,725 | 2026-08-07 | 2026-10-15 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 15 | ⭐ 93,354 | 2026-08-11 | 2026-10-15 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
-| [stablyai/orca](../repos/stablyai/orca.md) | 14 | ⭐ 92,416 | 2026-08-11 | 2026-10-14 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 14 | ⭐ 75,029 | 2026-08-10 | 2026-10-15 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 13 | ⭐ 135,527 | 2026-08-02 | 2026-10-06 |
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 13 | ⭐ 74,664 | 2026-08-10 | 2026-10-14 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 12 | ⭐ 53,536 | 2026-08-01 | 2026-10-14 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 11 | ⭐ 26,124 | 2026-08-01 | 2026-10-07 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.824Z*
+*Last updated: 2026-10-15T21:02:12.876Z*

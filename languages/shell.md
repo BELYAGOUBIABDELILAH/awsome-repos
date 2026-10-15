@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 134
+- **Total Repositories**: 136
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,31 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,433 | 2026-08-01 | 36 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,544 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 7,380 | 2026-08-01 | 10 |
+| [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 7,410 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,150 | 2026-08-03 | 9 |
+| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 8,150 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 8,137 | 2026-08-04 | 9 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,663 | 2026-08-20 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,850 | 2026-08-07 | 30 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,572 | 2026-08-20 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wondelai/skills](../repos/wondelai/skills.md) | ⭐ 2,424 | 2026-08-14 | 4 |
+| [ONLYOFFICE/DocumentServer](../repos/ONLYOFFICE/DocumentServer.md) | ⭐ 7,023 | 2026-09-25 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,570 | 2026-08-20 | 9 |
+| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 444 | 2026-10-15 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,826 | 2026-09-01 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ONLYOFFICE/DocumentServer](../repos/ONLYOFFICE/DocumentServer.md) | ⭐ 7,019 | 2026-09-25 | 3 |
+| [nelvko/clashctl](../repos/nelvko/clashctl.md) | ⭐ 15,015 | 2026-10-15 | 1 |
 
 
 ---
@@ -86,14 +83,14 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,433 | 2026-08-01 | 36 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,544 | 2026-08-01 | 37 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,666 | 2026-08-04 | 8 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,811 | 2026-08-04 | 11 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 44,635 | 2026-08-29 | 5 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,442 | 2026-08-20 | 9 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,663 | 2026-08-20 | 10 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,703 | 2026-09-02 | 3 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
@@ -112,7 +109,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 36 | ⭐ 95,433 | 2026-08-01 | 2026-10-14 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 37 | ⭐ 95,544 | 2026-08-01 | 2026-10-15 |
 | [expo/skills](../repos/expo/skills.md) | 30 | ⭐ 2,850 | 2026-08-07 | 2026-10-14 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 19 | ⭐ 11,240 | 2026-08-04 | 2026-10-06 |
@@ -121,7 +118,7 @@
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 12 | ⭐ 2,316 | 2026-08-02 | 2026-09-25 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 12 | ⭐ 26,137 | 2026-08-04 | 2026-10-13 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 12 | ⭐ 2,975 | 2026-08-05 | 2026-10-03 |
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 11 | ⭐ 47,811 | 2026-08-04 | 2026-10-13 |
+| [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | 11 | ⭐ 7,410 | 2026-08-01 | 2026-10-15 |
 
 ---
 
@@ -230,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.816Z*
+*Last updated: 2026-10-15T21:02:12.864Z*

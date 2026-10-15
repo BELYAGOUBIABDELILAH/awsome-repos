@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 39,629 |
-| **Forks** | 🍴 10,914 |
-| **Trending Days** | 19 |
+| **Stars** | ⭐ 39,642 |
+| **Forks** | 🍴 10,920 |
+| **Trending Days** | 20 |
 | **Peak Rank** | #13 |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Oct 6, 2026 |
+| **Last Seen** | Oct 15, 2026 |
 
 
 ---
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #13
-- **Trending Days**: 19
+- **Trending Days**: 20
 - **Longest Streak**: 4 days
 
 ---
@@ -75,7 +75,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-10-14T21:02:09.565Z*  
-*Data from 19 trending reports*
+*Last updated: 2026-10-15T21:02:16.277Z*  
+*Data from 20 trending reports*

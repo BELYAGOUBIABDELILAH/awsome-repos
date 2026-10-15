@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 221
+- **Total Repositories**: 222
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,345 | 2026-08-01 | 4 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 74,191 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,563 | 2026-08-04 | 12 |
+| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 13,040 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [redis/redis](../repos/redis/redis.md) | ⭐ 76,813 | 2026-08-04 | 6 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,572 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
+| [lz4/lz4](../repos/lz4/lz4.md) | ⭐ 12,148 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 28,021 | 2026-08-07 | 20 |
+| [git/git](../repos/git/git.md) | ⭐ 63,813 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 6,923 | 2026-08-08 | 11 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,803 | 2026-08-06 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
+| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 6,936 | 2026-08-08 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HarbourMasters/PaperBoat](../repos/HarbourMasters/PaperBoat.md) | ⭐ 468 | 2026-09-19 | 5 |
+| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,475 | 2026-08-09 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sp00nznet/ps3recomp](../repos/sp00nznet/ps3recomp.md) | ⭐ 429 | 2026-10-11 | 3 |
+| [capstone-engine/capstone](../repos/capstone-engine/capstone.md) | ⭐ 9,107 | 2026-08-29 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sp00nznet/xboxrecomp](../repos/sp00nznet/xboxrecomp.md) | ⭐ 211 | 2026-10-11 | 3 |
+| [sp00nznet/ps3recomp](../repos/sp00nznet/ps3recomp.md) | ⭐ 446 | 2026-10-11 | 4 |
 
 
 ---
@@ -93,8 +93,8 @@
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 77,200 | 2026-08-02 | 16 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,813 | 2026-08-04 | 6 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 73,118 | 2026-08-01 | 22 |
-| [git/git](../repos/git/git.md) | ⭐ 63,555 | 2026-08-05 | 7 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 74,191 | 2026-08-01 | 23 |
+| [git/git](../repos/git/git.md) | ⭐ 63,813 | 2026-08-05 | 8 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 46,229 | 2026-08-07 | 22 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 40,543 | 2026-09-01 | 14 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,420 | 2026-08-01 | 8 |
@@ -116,8 +116,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 | ⭐ 16,829 | 2026-08-01 | 2026-10-01 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 22 | ⭐ 73,118 | 2026-08-01 | 2026-10-03 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 22 | ⭐ 16,734 | 2026-08-06 | 2026-10-09 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 23 | ⭐ 74,191 | 2026-08-01 | 2026-10-15 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 23 | ⭐ 16,803 | 2026-08-06 | 2026-10-15 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 22 | ⭐ 46,229 | 2026-08-07 | 2026-10-09 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 20 | ⭐ 139,144 | 2026-08-01 | 2026-10-09 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 20 | ⭐ 28,021 | 2026-08-07 | 2026-10-14 |
@@ -214,6 +214,7 @@
 - [arendst/Tasmota](../repos/arendst/Tasmota.md) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA...
 - [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader/sumatrapdf.md) - SumatraPDF reader
 - [libusb/libusb](../repos/libusb/libusb.md) - A cross-platform library to access USB devices 
+- [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) - An advanced Kernel based root solution for Android
 - [HermannBjorgvin/Clawdmeter](../repos/HermannBjorgvin/Clawdmeter.md) - ESP32 desk dashboard that shows Claude Code usage
 - [fastfetch-cli/fastfetch](../repos/fastfetch-cli/fastfetch.md) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [ExpressLRS/ExpressLRS](../repos/ExpressLRS/ExpressLRS.md) - High Performance Open Source Radio Control Link
@@ -229,8 +230,7 @@
 - [superturtlee/gbl_root_canoe](../repos/superturtlee/gbl_root_canoe.md) - No TrickyStore on Canoe
 - [duixcom/Duix-Avatar](../repos/duixcom/Duix-Avatar.md) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital hu...
 - [microsoft/msquic](../repos/microsoft/msquic.md) - Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
-- [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) - An open and affordable mini quadruped robot based on ESP32.
 
 ---
 
-*Last updated: 2026-10-14T21:02:06.732Z*
+*Last updated: 2026-10-15T21:02:12.747Z*
