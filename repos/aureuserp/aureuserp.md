@@ -1,6 +1,6 @@
 # aureuserp&#x2F;aureuserp
 
-> Free and Open Source ERP platform
+> Free and Open Source ERP software
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;aureuserp&#x2F;aureuserp) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PHP |
 | **License** | MIT |
-| **Stars** | ⭐ 12,017 |
-| **Forks** | 🍴 586 |
-| **Trending Days** | 16 |
+| **Stars** | ⭐ 12,077 |
+| **Forks** | 🍴 598 |
+| **Trending Days** | 17 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Oct 3, 2026 |
+| **Last Seen** | Oct 16, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 16
+- **Trending Days**: 17
 - **Longest Streak**: 2 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`accounting`](../../topics/accounting.md) [`erp`](../../topics/erp.md) [`erp-software`](../../topics/erp-software.md) [`filamentphp`](../../topics/filamentphp.md) [`hrm`](../../topics/hrm.md) [`inventory-management`](../../topics/inventory-management.md) [`invoice`](../../topics/invoice.md) [`laravel`](../../topics/laravel.md) [`maintenance`](../../topics/maintenance.md) [`manufacturing`](../../topics/manufacturing.md) [`pms`](../../topics/pms.md) [`purchase-order`](../../topics/purchase-order.md) [`recruitment`](../../topics/recruitment.md) [`sale-or`](../../topics/sale-or.md) [`sales`](../../topics/sales.md) [`warehouse-management`](../../topics/warehouse-management.md) 
+[`accounting`](../../topics/accounting.md) [`erp`](../../topics/erp.md) [`erp-software`](../../topics/erp-software.md) [`filamentphp`](../../topics/filamentphp.md) [`hrm`](../../topics/hrm.md) [`inventory-management`](../../topics/inventory-management.md) [`invoice`](../../topics/invoice.md) [`laravel`](../../topics/laravel.md) [`maintenance`](../../topics/maintenance.md) [`manufacturing`](../../topics/manufacturing.md) [`open-source-erp`](../../topics/open-source-erp.md) [`pms`](../../topics/pms.md) [`purchase-order`](../../topics/purchase-order.md) [`recruitment`](../../topics/recruitment.md) [`sale-or`](../../topics/sale-or.md) [`sales`](../../topics/sales.md) [`warehouse-management`](../../topics/warehouse-management.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Frontend Development` `Systems Programming` 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:17.280Z*  
-*Data from 16 trending reports*
+*Last updated: 2026-10-16T21:28:05.658Z*  
+*Data from 17 trending reports*

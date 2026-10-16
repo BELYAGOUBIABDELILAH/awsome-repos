@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 136
+- **Total Repositories**: 139
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,544 | 2026-08-01 | 37 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,560 | 2026-08-01 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | ⭐ 7,410 | 2026-08-01 | 11 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,261 | 2026-08-04 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 8,150 | 2026-08-04 | 10 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 3,079 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,663 | 2026-08-20 | 10 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,002 | 2026-08-12 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,572 | 2026-08-20 | 10 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,676 | 2026-08-20 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ONLYOFFICE/DocumentServer](../repos/ONLYOFFICE/DocumentServer.md) | ⭐ 7,023 | 2026-09-25 | 4 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,573 | 2026-08-20 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 444 | 2026-10-15 | 1 |
+| [CISOfy/lynis](../repos/CISOfy/lynis.md) | ⭐ 16,492 | 2026-08-24 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nelvko/clashctl](../repos/nelvko/clashctl.md) | ⭐ 15,015 | 2026-10-15 | 1 |
+| [zabbix/community-templates](../repos/zabbix/community-templates.md) | ⭐ 1,997 | 2026-09-19 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [winapps-org/winapps](../repos/winapps-org/winapps.md) | ⭐ 16,088 | 2026-10-16 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [IceWhaleTech/ZimaOS](../repos/IceWhaleTech/ZimaOS.md) | ⭐ 3,031 | 2026-10-16 | 1 |
 
 
 ---
@@ -58,7 +64,7 @@
 | [Euro-Office/DocumentServer](../repos/Euro-Office/DocumentServer.md) | ⭐ 1,804 | 2026-09-19 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zabbix/community-templates](../repos/zabbix/community-templates.md) | ⭐ 1,990 | 2026-09-19 | Zabbix Community Templates repository |
+| [zabbix/community-templates](../repos/zabbix/community-templates.md) | ⭐ 1,997 | 2026-09-19 | Zabbix Community Templates repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Mr-MIBonk/M.I.B._More-Incredible-Bash](../repos/Mr-MIBonk/M.I.B._More-Incredible-Bash.md) | ⭐ 1,140 | 2026-09-20 | M.I.B. - More Incredible Bash - The Army knife for Harman MIB 2.x aka MHI2(Q) units |
@@ -83,14 +89,14 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,544 | 2026-08-01 | 37 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,560 | 2026-08-01 | 38 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,666 | 2026-08-04 | 8 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,811 | 2026-08-04 | 11 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 44,635 | 2026-08-29 | 5 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,663 | 2026-08-20 | 10 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,676 | 2026-08-20 | 11 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,703 | 2026-09-02 | 3 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
@@ -101,7 +107,7 @@
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 6 |
 | [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 19,479 | 2026-08-08 | 7 |
 | [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,853 | 2026-09-08 | 1 |
-| [quickemu-project/quickemu](../repos/quickemu-project/quickemu.md) | ⭐ 16,451 | 2026-08-11 | 8 |
+| [CISOfy/lynis](../repos/CISOfy/lynis.md) | ⭐ 16,492 | 2026-08-24 | 2 |
 
 ---
 
@@ -109,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 37 | ⭐ 95,544 | 2026-08-01 | 2026-10-15 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 38 | ⭐ 95,560 | 2026-08-01 | 2026-10-16 |
 | [expo/skills](../repos/expo/skills.md) | 30 | ⭐ 2,850 | 2026-08-07 | 2026-10-14 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [github/copilot-cli](../repos/github/copilot-cli.md) | 19 | ⭐ 11,240 | 2026-08-04 | 2026-10-06 |
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 18 | ⭐ 7,740 | 2026-08-12 | 2026-10-09 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | 20 | ⭐ 11,261 | 2026-08-04 | 2026-10-16 |
+| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 19 | ⭐ 8,002 | 2026-08-12 | 2026-10-16 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | 13 | ⭐ 3,079 | 2026-08-05 | 2026-10-16 |
 | [dockur/windows](../repos/dockur/windows.md) | 13 | ⭐ 53,550 | 2026-08-06 | 2026-10-07 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 12 | ⭐ 2,316 | 2026-08-02 | 2026-09-25 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 12 | ⭐ 26,137 | 2026-08-04 | 2026-10-13 |
-| [cloudflare/skills](../repos/cloudflare/skills.md) | 12 | ⭐ 2,975 | 2026-08-05 | 2026-10-03 |
 | [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | 11 | ⭐ 7,410 | 2026-08-01 | 2026-10-15 |
 
 ---
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.864Z*
+*Last updated: 2026-10-16T21:27:59.199Z*

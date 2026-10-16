@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 3,068 |
-| **Forks** | 🍴 207 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 3,195 |
+| **Forks** | 🍴 227 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 9, 2026 |
-| **Last Seen** | Oct 9, 2026 |
+| **Last Seen** | Oct 16, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-15T21:02:19.500Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-16T21:28:07.401Z*  
+*Data from 2 trending reports*

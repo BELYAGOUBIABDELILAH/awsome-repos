@@ -1,6 +1,6 @@
 # magnitudedev&#x2F;magnitude
 
-> Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.
+> Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;magnitudedev&#x2F;magnitude) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 6,270 |
-| **Forks** | 🍴 424 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 7,011 |
+| **Forks** | 🍴 480 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Oct 2, 2026 |
+| **Last Seen** | Oct 16, 2026 |
 
 
 ---
@@ -51,7 +51,7 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 4 days
 
 ---
@@ -76,7 +76,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:17.856Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-10-16T21:28:06.099Z*  
+*Data from 10 trending reports*

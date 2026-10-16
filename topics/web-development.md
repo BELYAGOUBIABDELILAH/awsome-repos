@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 469
+- **Total Repositories**: 473
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-06
-- **Average Stars**: 21954
+- **Average Stars**: 21896
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,953 | PHP |  |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,067 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,778 | Ruby |  |
+| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 6,015 | Ruby |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,445 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,576 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,214 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,223 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,544 | Shell |  |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,560 | Shell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,794 | Vue |  |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,608 | Objective-C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,609 | Objective-C |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,145 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,151 | Vim Script |  |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,012 | V |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,816 | CoffeeScript |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,733 | Ruby |  |
+| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,815 | CoffeeScript |  |
 
 
 ---
@@ -54,8 +54,8 @@
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
 | [donnemartin/system-design-primer](../repos/donnemartin/system-design-primer.md) | ⭐ 368,341 | Python | 2026-08-03 | 6 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 289,610 | TypeScript | 2026-10-06 | 10 |
 | [practical-tutorials/project-based-learning](../repos/practical-tutorials/project-based-learning.md) | ⭐ 285,114 | Python | 2026-08-08 | 4 |
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 267,514 | TypeScript | 2026-10-06 | 9 |
 | [react/react](../repos/react/react.md) | ⭐ 251,068 | JavaScript | 2026-08-04 | 4 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | TypeScript | 2026-08-04 | 1 |
@@ -82,22 +82,22 @@
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,953 | PHP | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,052 | Ruby | 3 |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,067 | Ruby | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 6,011 | Ruby | 1 |
+| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 6,015 | Ruby | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,778 | Ruby | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,366 | Ruby | 1 |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,445 | Ruby | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,576 | Scala | 2 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,576 | Scala | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,214 | Scala | 5 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,223 | Scala | 6 |
 
 ---
 
@@ -117,7 +117,7 @@
 | [pinterest/PINRemoteImage](../repos/pinterest/PINRemoteImage.md) | ⭐ 4,024 | Objective-C | 2026-09-19 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [MoeKoeMusic/MoeKoeMusic](../repos/MoeKoeMusic/MoeKoeMusic.md) | ⭐ 6,692 | Vue | 2026-09-19 |
+| [MoeKoeMusic/MoeKoeMusic](../repos/MoeKoeMusic/MoeKoeMusic.md) | ⭐ 6,736 | Vue | 2026-09-19 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [paperless-ngx/paperless-ngx](../repos/paperless-ngx/paperless-ngx.md) | ⭐ 45,828 | Python | 2026-09-20 |
@@ -132,11 +132,15 @@
 | [screego/server](../repos/screego/server.md) | ⭐ 10,670 | Go | 2026-09-20 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 659 | C | 2026-09-20 |
+| [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 687 | C | 2026-09-20 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-10-16](../archive/2026/10/2026-10-16.md)
+- 48 repositories trending
+- Top: morluto&#x2F;rea
 
 ### [2026-10-15](../archive/2026/10/2026-10-15.md)
 - 48 repositories trending
@@ -147,19 +151,15 @@
 - Top: morluto&#x2F;rea
 
 ### [2026-10-13](../archive/2026/10/2026-10-13.md)
-- 42 repositories trending
+- 43 repositories trending
 - Top: morluto&#x2F;rea
 
 ### [2026-10-12](../archive/2026/10/2026-10-12.md)
-- 53 repositories trending
+- 54 repositories trending
 - Top: morluto&#x2F;rea
 
 ### [2026-10-11](../archive/2026/10/2026-10-11.md)
-- 39 repositories trending
-- Top: morluto&#x2F;rea
-
-### [2026-10-09](../archive/2026/10/2026-10-09.md)
-- 34 repositories trending
+- 40 repositories trending
 - Top: morluto&#x2F;rea
 
 
@@ -171,31 +171,31 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 61 days | 2026-08-01 | 2026-10-15 |
-| [vlang/v](../repos/vlang/v.md) | 55 days | 2026-08-01 | 2026-10-14 |
-| [joernio/joern](../repos/joernio/joern.md) | 51 days | 2026-08-01 | 2026-10-15 |
-| [vim/vim](../repos/vim/vim.md) | 50 days | 2026-08-01 | 2026-10-15 |
+| [apache/spark](../repos/apache/spark.md) | 62 days | 2026-08-01 | 2026-10-16 |
+| [vlang/v](../repos/vlang/v.md) | 56 days | 2026-08-01 | 2026-10-16 |
+| [joernio/joern](../repos/joernio/joern.md) | 52 days | 2026-08-01 | 2026-10-16 |
+| [vim/vim](../repos/vim/vim.md) | 51 days | 2026-08-01 | 2026-10-16 |
 | [flutter/flutter](../repos/flutter/flutter.md) | 43 days | 2026-08-01 | 2026-10-14 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 40 days | 2026-08-01 | 2026-10-15 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 40 days | 2026-08-03 | 2026-10-15 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 41 days | 2026-08-01 | 2026-10-16 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 41 days | 2026-08-03 | 2026-10-16 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 38 days | 2026-08-01 | 2026-10-16 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 days | 2026-08-01 | 2026-10-01 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 37 days | 2026-08-01 | 2026-10-15 |
-| [facebook/infer](../repos/facebook/infer.md) | 36 days | 2026-08-02 | 2026-10-14 |
+| [facebook/infer](../repos/facebook/infer.md) | 37 days | 2026-08-02 | 2026-10-16 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **TypeScript**: 74 repositories (16%)
-- **Vue**: 50 repositories (11%)
-- **JavaScript**: 43 repositories (9%)
+- **TypeScript**: 75 repositories (16%)
+- **Vue**: 51 repositories (11%)
+- **JavaScript**: 44 repositories (9%)
 - **C**: 39 repositories (8%)
 - **Go**: 33 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 43.8 repositories
-- **Peak Day**: 2026-08-04 (66 repositories)
+- **Daily Average**: 44.3 repositories
+- **Peak Day**: 2026-08-04 (67 repositories)
 - **Growth Rate**: 16% this month
 
 ---
@@ -293,6 +293,7 @@
 - [Virtual-Browser/VirtualBrowser](../repos/Virtual-Browser/VirtualBrowser.md) - Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https:&#x2F;&#x2F;vir...
 - [xiaoshengxianjun/51mazi](../repos/xiaoshengxianjun/51mazi.md) - 我要码字，这可能会是最好用的小说写作软件。51mazi是一款基于 Electron + Vue 3 技术栈开发的桌面小说写作软件，专为小说创作者设计，它不仅集成了随机取名，小说地图设计、关系图谱...
 - [vuejs/docs](../repos/vuejs/docs.md) - 📄 Documentation for Vue 3
+- [julyx10/lap](../repos/julyx10/lap.md) - An offline-first photo manager for large local libraries
 - [unovue/reka-ui](../repos/unovue/reka-ui.md) - An open-source UI component library for building high-quality, accessible design systems and web ...
 - [Vexu/arocc](../repos/Vexu/arocc.md) - A modern fully featured C compiler.
 - [firecrawl/pdf-inspector](../repos/firecrawl/pdf-inspector.md) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects ...
@@ -306,8 +307,7 @@
 - [bytecodealliance/wasmtime](../repos/bytecodealliance/wasmtime.md) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [gfx-rs/wgpu](../repos/gfx-rs/wgpu.md) - A cross-platform, safe, pure-Rust graphics API.
 - [authelia/authelia](../repos/authelia/authelia.md) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptogra...
-- [chaitin/SafeLine](../repos/chaitin/SafeLine.md) - SafeLine is a self-hosted WAF(Web Application Firewall) &#x2F; reverse proxy to protect your web apps ...
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.439Z*
+*Last updated: 2026-10-16T21:27:58.930Z*

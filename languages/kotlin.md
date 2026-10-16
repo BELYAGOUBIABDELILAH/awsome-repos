@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 165
+- **Total Repositories**: 167
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-12
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,402 | 2026-08-01 | 17 |
+| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 6,516 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,826 | 2026-08-02 | 17 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 16,089 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [android/skills](../repos/android/skills.md) | ⭐ 7,838 | 2026-08-07 | 2 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,310 | 2026-08-03 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 3,262 | 2026-10-12 | 3 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 42,934 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MuwMx/YumaPlayer](../repos/MuwMx/YumaPlayer.md) | ⭐ 815 | 2026-10-13 | 2 |
+| [LegadoTeam/legado](../repos/LegadoTeam/legado.md) | ⭐ 1,528 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Spotui/Spotui](../repos/Spotui/Spotui.md) | ⭐ 652 | 2026-10-14 | 2 |
+| [android/skills](../repos/android/skills.md) | ⭐ 8,023 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realidkroo/musicfy](../repos/realidkroo/musicfy.md) | ⭐ 144 | 2026-10-15 | 1 |
+| [The412Banner/Bannerlator](../repos/The412Banner/Bannerlator.md) | ⭐ 427 | 2026-08-26 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [1013503897/jadx-headless-mcp](../repos/1013503897/jadx-headless-mcp.md) | ⭐ 80 | 2026-10-15 | 1 |
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 4,577 | 2026-10-06 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 3,363 | 2026-10-12 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Ackites/Nrfr](../repos/Ackites/Nrfr.md) | ⭐ 9,206 | 2026-10-13 | 2 |
 
 
 ---
@@ -83,11 +89,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 63,841 | 2026-08-02 | 18 |
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,060 | 2026-08-03 | 13 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,310 | 2026-08-03 | 14 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 53,585 | 2026-08-06 | 13 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,486 | 2026-08-04 | 11 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,863 | 2026-10-14 | 1 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 42,630 | 2026-08-03 | 12 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 42,934 | 2026-08-03 | 13 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 30,980 | 2026-08-08 | 16 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,447 | 2026-08-05 | 7 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,342 | 2026-08-11 | 5 |
@@ -99,7 +105,7 @@
 | [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,731 | 2026-09-07 | 10 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,495 | 2026-08-17 | 7 |
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 16,060 | 2026-08-02 | 10 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 16,089 | 2026-08-02 | 11 |
 | [ktorio/ktor](../repos/ktorio/ktor.md) | ⭐ 14,525 | 2026-09-12 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,644 | 2026-08-06 | 7 |
 
@@ -113,12 +119,12 @@
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 17 | ⭐ 24,402 | 2026-08-01 | 2026-10-15 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 17 | ⭐ 2,826 | 2026-08-02 | 2026-10-15 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 16 | ⭐ 30,980 | 2026-08-08 | 2026-10-03 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 14 | ⭐ 63,310 | 2026-08-03 | 2026-10-16 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 13 | ⭐ 11,681 | 2026-08-02 | 2026-10-12 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 13 | ⭐ 10,935 | 2026-08-03 | 2026-10-12 |
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 13 | ⭐ 63,060 | 2026-08-03 | 2026-10-03 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 13 | ⭐ 42,934 | 2026-08-03 | 2026-10-16 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 13 | ⭐ 53,585 | 2026-08-06 | 2026-09-19 |
 | [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | 12 | ⭐ 1,431 | 2026-08-02 | 2026-10-14 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 12 | ⭐ 42,630 | 2026-08-03 | 2026-10-09 |
 
 ---
 
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.811Z*
+*Last updated: 2026-10-16T21:27:59.170Z*

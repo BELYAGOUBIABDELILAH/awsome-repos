@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vue |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 3,846 |
-| **Forks** | 🍴 226 |
-| **Trending Days** | 27 |
+| **Stars** | ⭐ 3,901 |
+| **Forks** | 🍴 229 |
+| **Trending Days** | 28 |
 | **Peak Rank** | #12 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 13, 2026 |
+| **Last Seen** | Oct 16, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #12
-- **Trending Days**: 27
+- **Trending Days**: 28
 - **Longest Streak**: 4 days
 
 ---
@@ -56,10 +56,10 @@
 ## Categories
 
 ### Topics
-[`desktop-app`](../../topics/desktop-app.md) [`digital-asset-manager`](../../topics/digital-asset-manager.md) [`duplicate-detection`](../../topics/duplicate-detection.md) [`face-recognition`](../../topics/face-recognition.md) [`family-photos`](../../topics/family-photos.md) [`image-search`](../../topics/image-search.md) [`large-photo-collections`](../../topics/large-photo-collections.md) [`linux-app`](../../topics/linux-app.md) [`local-first`](../../topics/local-first.md) [`macos-app`](../../topics/macos-app.md) [`offline`](../../topics/offline.md) [`open-source`](../../topics/open-source.md) [`photo-library`](../../topics/photo-library.md) [`photo-management`](../../topics/photo-management.md) [`photo-organizer`](../../topics/photo-organizer.md) [`privacy`](../../topics/privacy.md) [`windows-app`](../../topics/windows-app.md) 
+[`desktop-app`](../../topics/desktop-app.md) [`digital-asset-manager`](../../topics/digital-asset-manager.md) [`duplicate-detection`](../../topics/duplicate-detection.md) [`face-recognition`](../../topics/face-recognition.md) [`image-search`](../../topics/image-search.md) [`large-photo-collections`](../../topics/large-photo-collections.md) [`linux-app`](../../topics/linux-app.md) [`local-first`](../../topics/local-first.md) [`macos-app`](../../topics/macos-app.md) [`offline`](../../topics/offline.md) [`open-source`](../../topics/open-source.md) [`photo-library`](../../topics/photo-library.md) [`photo-management`](../../topics/photo-management.md) [`photo-organizer`](../../topics/photo-organizer.md) [`privacy`](../../topics/privacy.md) [`rust`](../../topics/rust.md) [`tauri`](../../topics/tauri.md) [`vue`](../../topics/vue.md) [`windows-app`](../../topics/windows-app.md) 
 
 ### Curated Categories
-`Systems Programming` 
+`Web Development` `Systems Programming` 
 
 ---
 
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:15.924Z*  
-*Data from 27 trending reports*
+*Last updated: 2026-10-16T21:28:03.463Z*  
+*Data from 28 trending reports*

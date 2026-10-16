@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 314
+**Gems Found**: 310
 
 ---
 
@@ -19,7 +19,7 @@
 |---|---|
 | ⭐ **Stars** | 659 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 91/100 |
+| 🏆 **Gem Score** | 90/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 19, 2026 |
 
@@ -71,27 +71,7 @@
 
 ---
 
-### 4. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
-
-**GitHub Stacked PRs**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,047 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 82/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+100 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/github/gh-stack.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;github&#x2F;gh-stack)
-
----
-
-### 5. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
+### 4. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
 
 **Open-source framework for the research and development of foundation models.**
 
@@ -108,6 +88,26 @@
 **Best for**: 
 
 [View Passport](../../repos/marin-community/marin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;marin-community&#x2F;marin)
+
+---
+
+### 5. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+
+**GitHub Stacked PRs**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,047 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 81/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+100 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/github/gh-stack.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;github&#x2F;gh-stack)
 
 ---
 
@@ -291,27 +291,7 @@
 
 ---
 
-### 15. [workweave&#x2F;router](../../repos/workweave/router.md)
-
-**Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,635 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 78/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 28, 2026 |
-
-**Why it's a gem**: High growth velocity (+640 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/workweave/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;workweave&#x2F;router)
-
----
-
-### 16. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
+### 15. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
 
 **Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
 
@@ -331,27 +311,7 @@
 
 ---
 
-### 17. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
-
-**The coding agent that answers to you, your model, your machine, your rules.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,544 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 77/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 16, 2026 |
-
-**Why it's a gem**: High growth velocity (+99 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Gitlawb/zero.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Gitlawb&#x2F;zero)
-
----
-
-### 18. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+### 16. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
 
 **Visualize your year in travel using your Google Location History (Timeline) data**
 
@@ -371,7 +331,7 @@
 
 ---
 
-### 19. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
+### 17. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
 
 **A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.**
 
@@ -391,7 +351,27 @@
 
 ---
 
-### 20. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
+### 18. [workweave&#x2F;router](../../repos/workweave/router.md)
+
+**Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,635 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 77/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 28, 2026 |
+
+**Why it's a gem**: High growth velocity (+640 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/workweave/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;workweave&#x2F;router)
+
+---
+
+### 19. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
 
 **Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
+
+**The coding agent that answers to you, your model, your machine, your rules.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,544 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 76/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 16, 2026 |
+
+**Why it's a gem**: High growth velocity (+99 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Gitlawb/zero.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Gitlawb&#x2F;zero)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-15T21:02:19.919Z*  
+*Generated: 2026-10-16T21:28:07.749Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

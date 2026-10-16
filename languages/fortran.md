@@ -16,31 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 444 | 2026-08-01 | 49 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 445 | 2026-08-01 | 50 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 893 | 2026-08-01 | 38 |
+| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 893 | 2026-08-01 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,220 | 2026-08-01 | 44 |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,223 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 982 | 2026-08-01 | 40 |
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 982 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 406 | 2026-08-03 | 22 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,781 | 2026-08-04 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,779 | 2026-08-04 | 43 |
+| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,738 | 2026-08-04 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,737 | 2026-08-04 | 26 |
+| [grimme-lab/xtb](../repos/grimme-lab/xtb.md) | ⭐ 868 | 2026-09-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iterorganization/JOREK](../repos/iterorganization/JOREK.md) | ⭐ 53 | 2026-08-19 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [grimme-lab/xtb](../repos/grimme-lab/xtb.md) | ⭐ 867 | 2026-09-20 | 2 |
+| [Dhondtguido/CalculiX](../repos/Dhondtguido/CalculiX.md) | ⭐ 222 | 2026-10-13 | 2 |
 
 
 ---
@@ -49,13 +46,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [grimme-lab/xtb](../repos/grimme-lab/xtb.md) | ⭐ 867 | 2026-09-20 | Semiempirical Extended Tight-Binding Program Package |
+| [grimme-lab/xtb](../repos/grimme-lab/xtb.md) | ⭐ 868 | 2026-09-20 | Semiempirical Extended Tight-Binding Program Package |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ROCm/aomp](../repos/ROCm/aomp.md) | ⭐ 246 | 2026-09-20 | AOMP is an open source Clang&#x2F;LLVM based compiler with added support for the OpenMP® API on Radeon... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Dhondtguido/CalculiX](../repos/Dhondtguido/CalculiX.md) | ⭐ 221 | 2026-10-13 | This repository contains the source files of CalculiX, a three-dimensional Finite Element Program... |
+| [Dhondtguido/CalculiX](../repos/Dhondtguido/CalculiX.md) | ⭐ 222 | 2026-10-13 | This repository contains the source files of CalculiX, a three-dimensional Finite Element Program... |
 
 
 ---
@@ -65,15 +62,15 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Reference-LAPACK/lapack](../repos/Reference-LAPACK/lapack.md) | ⭐ 1,883 | 2026-08-02 | 3 |
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,779 | 2026-08-04 | 43 |
-| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,737 | 2026-08-04 | 26 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | ⭐ 1,781 | 2026-08-04 | 44 |
+| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | ⭐ 1,738 | 2026-08-04 | 27 |
 | [fortran-lang/stdlib](../repos/fortran-lang/stdlib.md) | ⭐ 1,349 | 2026-09-08 | 1 |
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,220 | 2026-08-01 | 44 |
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 982 | 2026-08-01 | 40 |
-| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 893 | 2026-08-01 | 38 |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | ⭐ 1,223 | 2026-08-01 | 45 |
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | ⭐ 982 | 2026-08-01 | 41 |
+| [firemodels/fds](../repos/firemodels/fds.md) | ⭐ 893 | 2026-08-01 | 39 |
 | [OpenRadioss/OpenRadioss](../repos/OpenRadioss/OpenRadioss.md) | ⭐ 874 | 2026-09-04 | 6 |
-| [grimme-lab/xtb](../repos/grimme-lab/xtb.md) | ⭐ 867 | 2026-09-20 | 2 |
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 444 | 2026-08-01 | 49 |
+| [grimme-lab/xtb](../repos/grimme-lab/xtb.md) | ⭐ 868 | 2026-09-20 | 3 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | ⭐ 445 | 2026-08-01 | 50 |
 | [MFlowCode/MFC](../repos/MFlowCode/MFC.md) | ⭐ 432 | 2026-08-19 | 9 |
 | [JuliaPackaging/Yggdrasil](../repos/JuliaPackaging/Yggdrasil.md) | ⭐ 406 | 2026-08-03 | 22 |
 | [MODFLOW-ORG/modflow6](../repos/MODFLOW-ORG/modflow6.md) | ⭐ 366 | 2026-08-20 | 3 |
@@ -81,7 +78,7 @@
 | [MPAS-Dev/MPAS-Model](../repos/MPAS-Dev/MPAS-Model.md) | ⭐ 311 | 2026-08-07 | 1 |
 | [ROCm/aomp](../repos/ROCm/aomp.md) | ⭐ 246 | 2026-09-20 | 1 |
 | [DSSAT/dssat-csm-os](../repos/DSSAT/dssat-csm-os.md) | ⭐ 228 | 2026-08-08 | 2 |
-| [Dhondtguido/CalculiX](../repos/Dhondtguido/CalculiX.md) | ⭐ 221 | 2026-10-13 | 1 |
+| [Dhondtguido/CalculiX](../repos/Dhondtguido/CalculiX.md) | ⭐ 222 | 2026-10-13 | 2 |
 | [esmf-org/esmf](../repos/esmf-org/esmf.md) | ⭐ 211 | 2026-08-17 | 3 |
 | [nasa/cea](../repos/nasa/cea.md) | ⭐ 178 | 2026-08-27 | 1 |
 
@@ -91,15 +88,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 49 | ⭐ 444 | 2026-08-01 | 2026-10-15 |
-| [cp2k/cp2k](../repos/cp2k/cp2k.md) | 44 | ⭐ 1,220 | 2026-08-01 | 2026-10-15 |
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 43 | ⭐ 1,779 | 2026-08-04 | 2026-10-15 |
-| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | 40 | ⭐ 982 | 2026-08-01 | 2026-10-15 |
-| [firemodels/fds](../repos/firemodels/fds.md) | 38 | ⭐ 893 | 2026-08-01 | 2026-10-15 |
+| [E3SM-Project/E3SM](../repos/E3SM-Project/E3SM.md) | 50 | ⭐ 445 | 2026-08-01 | 2026-10-16 |
+| [cp2k/cp2k](../repos/cp2k/cp2k.md) | 45 | ⭐ 1,223 | 2026-08-01 | 2026-10-16 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 44 | ⭐ 1,781 | 2026-08-04 | 2026-10-16 |
+| [OpenFAST/openfast](../repos/OpenFAST/openfast.md) | 41 | ⭐ 982 | 2026-08-01 | 2026-10-16 |
+| [firemodels/fds](../repos/firemodels/fds.md) | 39 | ⭐ 893 | 2026-08-01 | 2026-10-16 |
 | [NGEET/fates](../repos/NGEET/fates.md) | 30 | ⭐ 130 | 2026-08-02 | 2026-09-21 |
 | [MetOffice/lfric_core](../repos/MetOffice/lfric_core.md) | 27 | ⭐ 26 | 2026-08-01 | 2026-09-29 |
+| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | 27 | ⭐ 1,738 | 2026-08-04 | 2026-10-16 |
 | [MCSclimate/MCT](../repos/MCSclimate/MCT.md) | 26 | ⭐ 54 | 2026-08-02 | 2026-09-21 |
-| [ElmerCSC/elmerfem](../repos/ElmerCSC/elmerfem.md) | 26 | ⭐ 1,737 | 2026-08-04 | 2026-10-15 |
 | [MetOffice/jules](../repos/MetOffice/jules.md) | 25 | ⭐ 24 | 2026-08-11 | 2026-10-03 |
 
 ---
@@ -139,4 +136,4 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.776Z*
+*Last updated: 2026-10-16T21:27:59.152Z*

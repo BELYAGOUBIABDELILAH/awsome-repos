@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 285
+- **Total Repositories**: 288
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 131,560 | 2026-08-01 | 16 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 132,098 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trailofbits/skills](../repos/trailofbits/skills.md) | ⭐ 7,570 | 2026-08-01 | 2 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 51,404 | 2026-08-03 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 50,344 | 2026-08-03 | 13 |
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 40,403 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 38,924 | 2026-08-07 | 10 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 53,415 | 2026-08-15 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [volcengine/OpenViking](../repos/volcengine/OpenViking.md) | ⭐ 40,012 | 2026-08-14 | 6 |
+| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 52,400 | 2026-09-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 53,046 | 2026-08-15 | 8 |
+| [earthtojake/text-to-cad](../repos/earthtojake/text-to-cad.md) | ⭐ 20,965 | 2026-09-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sgl-project/sglang-omni](../repos/sgl-project/sglang-omni.md) | ⭐ 1,515 | 2026-08-15 | 3 |
+| [ifixai-ai/iFixAi](../repos/ifixai-ai/iFixAi.md) | ⭐ 28,720 | 2026-10-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bojieli/ai-agent-book](../repos/bojieli/ai-agent-book.md) | ⭐ 54,402 | 2026-08-19 | 3 |
+| [Crosstalk-Solutions/unifi-toolkit](../repos/Crosstalk-Solutions/unifi-toolkit.md) | ⭐ 681 | 2026-10-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ifixai-ai/iFixAi](../repos/ifixai-ai/iFixAi.md) | ⭐ 28,316 | 2026-10-01 | 3 |
+| [elder-plinius/V3R1T4S](../repos/elder-plinius/V3R1T4S.md) | ⭐ 361 | 2026-10-16 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Crosstalk-Solutions/unifi-toolkit](../repos/Crosstalk-Solutions/unifi-toolkit.md) | ⭐ 658 | 2026-10-15 | 1 |
+| [odoo/odoo](../repos/odoo/odoo.md) | ⭐ 55,090 | 2026-10-16 | 1 |
 
 
 ---
@@ -100,8 +100,8 @@
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 141,347 | 2026-08-04 | 7 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 132,098 | 2026-08-01 | 17 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 131,932 | 2026-08-05 | 8 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 131,560 | 2026-08-01 | 16 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 114,356 | 2026-08-03 | 5 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 17 | ⭐ 132,098 | 2026-08-01 | 2026-10-16 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 17 | ⭐ 65,960 | 2026-08-22 | 2026-10-14 |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 16 | ⭐ 131,560 | 2026-08-01 | 2026-10-15 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 14 | ⭐ 51,404 | 2026-08-03 | 2026-10-16 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 13 | ⭐ 60,537 | 2026-08-03 | 2026-10-14 |
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 13 | ⭐ 50,344 | 2026-08-03 | 2026-10-15 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 11 | ⭐ 92,571 | 2026-08-01 | 2026-10-06 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 11 | ⭐ 40,107 | 2026-08-03 | 2026-10-02 |
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 11 | ⭐ 40,403 | 2026-08-07 | 2026-10-16 |
 | [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | 10 | ⭐ 77,020 | 2026-08-06 | 2026-10-13 |
-| [google/skills](../repos/google/skills.md) | 10 | ⭐ 21,214 | 2026-08-07 | 2026-10-12 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.841Z*
+*Last updated: 2026-10-16T21:27:59.188Z*

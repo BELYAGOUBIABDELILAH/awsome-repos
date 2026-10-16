@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 5,131 |
-| **Forks** | 🍴 476 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 5,811 |
+| **Forks** | 🍴 551 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Sep 9, 2026 |
+| **Last Seen** | Oct 16, 2026 |
 
 
 ---
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 7 days
 
 ---
@@ -75,7 +75,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:17.857Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-10-16T21:28:06.100Z*  
+*Data from 9 trending reports*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 265
+- **Total Repositories**: 268
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-15
+- **Last Updated**: 2026-10-16
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 11,607 | 2026-08-01 | 19 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 11,894 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 102,669 | 2026-08-02 | 10 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 65,234 | 2026-08-08 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grafana/grafana](../repos/grafana/grafana.md) | ⭐ 77,304 | 2026-08-04 | 5 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 75,574 | 2026-08-10 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 35,725 | 2026-08-07 | 16 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 94,428 | 2026-08-11 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 64,440 | 2026-08-08 | 20 |
+| [apache/maka](../repos/apache/maka.md) | ⭐ 5,811 | 2026-08-20 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/skills](../repos/vercel-labs/skills.md) | ⭐ 35,096 | 2026-08-10 | 8 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 8,525 | 2026-08-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 75,029 | 2026-08-10 | 14 |
+| [BuilderIO/agent-native](../repos/BuilderIO/agent-native.md) | ⭐ 7,390 | 2026-09-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 93,354 | 2026-08-11 | 15 |
+| [Fission-AI/OpenSpec](../repos/Fission-AI/OpenSpec.md) | ⭐ 72,158 | 2026-09-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Crosstalk-Solutions/project-nomad](../repos/Crosstalk-Solutions/project-nomad.md) | ⭐ 40,276 | 2026-09-14 | 7 |
+| [krillinai/OpenCreator](../repos/krillinai/OpenCreator.md) | ⭐ 13,473 | 2026-09-20 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 267,514 | 2026-10-06 | 9 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 289,610 | 2026-10-06 | 10 |
 
 
 ---
@@ -61,7 +61,7 @@
 | [ahmedkhaleel2004/gitdiagram](../repos/ahmedkhaleel2004/gitdiagram.md) | ⭐ 16,761 | 2026-09-19 | Free, simple, fast interactive diagrams for any GitHub repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Fission-AI/OpenSpec](../repos/Fission-AI/OpenSpec.md) | ⭐ 69,510 | 2026-09-19 | Spec-driven development (SDD) for AI coding assistants. |
+| [Fission-AI/OpenSpec](../repos/Fission-AI/OpenSpec.md) | ⭐ 72,158 | 2026-09-19 | Spec-driven development (SDD) for AI coding assistants. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cloudflare/mcp-server-cloudflare](../repos/cloudflare/mcp-server-cloudflare.md) | ⭐ 4,269 | 2026-09-20 |  |
@@ -70,7 +70,7 @@
 | [browserbase/stagehand](../repos/browserbase/stagehand.md) | ⭐ 24,641 | 2026-09-20 | The SDK to extract data and interact with any site on the web. Get started with Claude Code, Code... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [krillinai/OpenCreator](../repos/krillinai/OpenCreator.md) | ⭐ 13,041 | 2026-09-20 | Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, pow... |
+| [krillinai/OpenCreator](../repos/krillinai/OpenCreator.md) | ⭐ 13,473 | 2026-09-20 | Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, pow... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [diffusionstudio/editor](../repos/diffusionstudio/editor.md) | ⭐ 2,979 | 2026-09-20 | An open-source video editor built for agents. Edits become code, code becomes video. |
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [morluto/rea](../repos/morluto/rea.md) | ⭐ 267,514 | 2026-10-06 | 9 |
+| [morluto/rea](../repos/morluto/rea.md) | ⭐ 289,610 | 2026-10-06 | 10 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 206,509 | 2026-08-11 | 6 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 193,606 | 2026-07-30 | 6 |
@@ -106,7 +106,7 @@
 | [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 97,789 | 2026-10-15 | 1 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 93,354 | 2026-08-11 | 15 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 94,428 | 2026-08-11 | 16 |
 | [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 90,957 | 2026-08-22 | 3 |
 
 ---
@@ -115,13 +115,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 20 | ⭐ 64,440 | 2026-08-08 | 2026-10-15 |
-| [cursor/plugins](../repos/cursor/plugins.md) | 19 | ⭐ 11,607 | 2026-08-01 | 2026-10-15 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 21 | ⭐ 65,234 | 2026-08-08 | 2026-10-16 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 20 | ⭐ 11,894 | 2026-08-01 | 2026-10-16 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 17 | ⭐ 149,758 | 2026-08-07 | 2026-10-07 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 16 | ⭐ 35,725 | 2026-08-07 | 2026-10-15 |
-| [stablyai/orca](../repos/stablyai/orca.md) | 15 | ⭐ 93,354 | 2026-08-11 | 2026-10-15 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 16 | ⭐ 94,428 | 2026-08-11 | 2026-10-16 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 15 | ⭐ 75,574 | 2026-08-10 | 2026-10-16 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 14 | ⭐ 75,029 | 2026-08-10 | 2026-10-15 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 13 | ⭐ 135,527 | 2026-08-02 | 2026-10-06 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 12 | ⭐ 53,536 | 2026-08-01 | 2026-10-14 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 11 | ⭐ 26,124 | 2026-08-01 | 2026-10-07 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.876Z*
+*Last updated: 2026-10-16T21:27:59.206Z*

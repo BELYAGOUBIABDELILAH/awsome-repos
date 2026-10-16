@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 222
+- **Total Repositories**: 224
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 74,191 | 2026-08-01 | 23 |
+| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,816 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 13,040 | 2026-08-01 | 12 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,578 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,572 | 2026-08-04 | 13 |
+| [rexglue/rexglue-sdk](../repos/rexglue/rexglue-sdk.md) | ⭐ 1,090 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lz4/lz4](../repos/lz4/lz4.md) | ⭐ 12,148 | 2026-08-05 | 4 |
+| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,487 | 2026-08-09 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git/git](../repos/git/git.md) | ⭐ 63,813 | 2026-08-05 | 8 |
+| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 4,704 | 2026-08-15 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,803 | 2026-08-06 | 23 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 42,403 | 2026-09-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 6,936 | 2026-08-08 | 12 |
+| [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 687 | 2026-09-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,475 | 2026-08-09 | 9 |
+| [sp00nznet/ps3recomp](../repos/sp00nznet/ps3recomp.md) | ⭐ 463 | 2026-10-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [capstone-engine/capstone](../repos/capstone-engine/capstone.md) | ⭐ 9,107 | 2026-08-29 | 4 |
+| [timescale/pg_vectorsearch](../repos/timescale/pg_vectorsearch.md) | ⭐ 368 | 2026-10-16 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sp00nznet/ps3recomp](../repos/sp00nznet/ps3recomp.md) | ⭐ 446 | 2026-10-11 | 4 |
+| [logicog/RTLPlayground](../repos/logicog/RTLPlayground.md) | ⭐ 602 | 2026-10-16 | 1 |
 
 
 ---
@@ -73,7 +73,7 @@
 | [henrypp/simplewall](../repos/henrypp/simplewall.md) | ⭐ 9,015 | 2026-09-20 | Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 659 | 2026-09-20 | Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude ... |
+| [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 687 | 2026-09-20 | Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vladelaina/Catime](../repos/vladelaina/Catime.md) | ⭐ 4,837 | 2026-09-21 | 💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, ... |
@@ -96,7 +96,7 @@
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 74,191 | 2026-08-01 | 23 |
 | [git/git](../repos/git/git.md) | ⭐ 63,813 | 2026-08-05 | 8 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 46,229 | 2026-08-07 | 22 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 40,543 | 2026-09-01 | 14 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 42,403 | 2026-09-01 | 15 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,420 | 2026-08-01 | 8 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
@@ -124,7 +124,7 @@
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 17 | ⭐ 6,981 | 2026-08-04 | 2026-10-03 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 17 | ⭐ 151,696 | 2026-08-07 | 2026-10-09 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 16 | ⭐ 77,200 | 2026-08-02 | 2026-10-09 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 14 | ⭐ 40,543 | 2026-09-01 | 2026-10-08 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 15 | ⭐ 42,403 | 2026-09-01 | 2026-10-16 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.747Z*
+*Last updated: 2026-10-16T21:27:59.130Z*

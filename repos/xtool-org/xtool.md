@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Swift |
 | **License** | MIT |
-| **Stars** | ⭐ 11,567 |
-| **Forks** | 🍴 544 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 11,909 |
+| **Forks** | 🍴 574 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Sep 21, 2026 |
-| **Last Seen** | Oct 15, 2026 |
+| **Last Seen** | Oct 16, 2026 |
 
 
 ---
@@ -49,8 +49,8 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 8
-- **Longest Streak**: 5 days
+- **Trending Days**: 9
+- **Longest Streak**: 6 days
 
 ---
 
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:19.048Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-10-16T21:28:07.046Z*  
+*Data from 9 trending reports*

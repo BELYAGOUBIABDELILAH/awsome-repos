@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 15
+- **Total Repositories**: 16
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-14
+- **Last Updated**: 2026-10-16
 
 ---
 
@@ -16,18 +16,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,367 | 2026-08-01 | 44 |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,368 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 6,974 | 2026-08-03 | 25 |
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,809 | 2026-08-01 | 51 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 6,976 | 2026-08-03 | 26 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [apache/couchdb-couch](../repos/apache/couchdb-couch.md) | ⭐ 44 | 2026-10-16 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apache/couchdb-couch](../repos/apache/couchdb-couch.md) | ⭐ 44 | 2026-10-16 | Mirror of Apache CouchDB |
 
-*No new Erlang repositories in the last 30 days*
 
 ---
 
@@ -35,10 +43,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,798 | 2026-08-01 | 50 |
-| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,367 | 2026-08-01 | 44 |
+| [emqx/emqx](../repos/emqx/emqx.md) | ⭐ 16,809 | 2026-08-01 | 51 |
+| [erlang/otp](../repos/erlang/otp.md) | ⭐ 12,368 | 2026-08-01 | 45 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | ⭐ 7,527 | 2026-08-03 | 21 |
-| [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 6,974 | 2026-08-03 | 25 |
+| [apache/couchdb](../repos/apache/couchdb.md) | ⭐ 6,976 | 2026-08-03 | 26 |
 | [processone/ejabberd](../repos/processone/ejabberd.md) | ⭐ 6,743 | 2026-08-08 | 27 |
 | [erlang/rebar3](../repos/erlang/rebar3.md) | ⭐ 1,818 | 2026-08-03 | 5 |
 | [ninenines/ranch](../repos/ninenines/ranch.md) | ⭐ 1,244 | 2026-08-02 | 8 |
@@ -50,6 +58,7 @@
 | [ninenines/cowlib](../repos/ninenines/cowlib.md) | ⭐ 298 | 2026-08-02 | 11 |
 | [hexpm/hex_core](../repos/hexpm/hex_core.md) | ⭐ 105 | 2026-08-06 | 2 |
 | [blt/port_compiler](../repos/blt/port_compiler.md) | ⭐ 69 | 2026-08-01 | 22 |
+| [apache/couchdb-couch](../repos/apache/couchdb-couch.md) | ⭐ 44 | 2026-10-16 | 1 |
 
 ---
 
@@ -57,10 +66,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [emqx/emqx](../repos/emqx/emqx.md) | 50 | ⭐ 16,798 | 2026-08-01 | 2026-10-14 |
-| [erlang/otp](../repos/erlang/otp.md) | 44 | ⭐ 12,367 | 2026-08-01 | 2026-10-15 |
+| [emqx/emqx](../repos/emqx/emqx.md) | 51 | ⭐ 16,809 | 2026-08-01 | 2026-10-16 |
+| [erlang/otp](../repos/erlang/otp.md) | 45 | ⭐ 12,368 | 2026-08-01 | 2026-10-16 |
 | [processone/ejabberd](../repos/processone/ejabberd.md) | 27 | ⭐ 6,743 | 2026-08-08 | 2026-10-14 |
-| [apache/couchdb](../repos/apache/couchdb.md) | 25 | ⭐ 6,974 | 2026-08-03 | 2026-10-15 |
+| [apache/couchdb](../repos/apache/couchdb.md) | 26 | ⭐ 6,976 | 2026-08-03 | 2026-10-16 |
 | [WhatsApp/erlfmt](../repos/WhatsApp/erlfmt.md) | 24 | ⭐ 466 | 2026-08-01 | 2026-09-09 |
 | [blt/port_compiler](../repos/blt/port_compiler.md) | 22 | ⭐ 69 | 2026-08-01 | 2026-09-12 |
 | [ninenines/cowboy](../repos/ninenines/cowboy.md) | 21 | ⭐ 7,527 | 2026-08-03 | 2026-09-09 |
@@ -87,7 +96,8 @@
 - [hexpm/hex_core](../repos/hexpm/hex_core.md) - Reference implementation of Hex specifications.
 - [processone/ejabberd](../repos/processone/ejabberd.md) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
 - [erlanglab/erlangpl](../repos/erlanglab/erlangpl.md) - Tool for developers working with systems running on the Erlang VM (BEAM). It helps with performan...
+- [apache/couchdb-couch](../repos/apache/couchdb-couch.md) - Mirror of Apache CouchDB
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.773Z*
+*Last updated: 2026-10-16T21:27:59.149Z*

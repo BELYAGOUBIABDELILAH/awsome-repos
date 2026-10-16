@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 163
+- **Total Repositories**: 165
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-15
 
@@ -16,25 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react](../repos/react/react.md) | ⭐ 251,068 | 2026-08-04 | 4 |
+| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 40,090 | 2026-08-14 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,649 | 2026-08-08 | 4 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 23,606 | 2026-08-16 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | ⭐ 30,461 | 2026-08-08 | 12 |
+| [kunchenguid/lavish-axi](../repos/kunchenguid/lavish-axi.md) | ⭐ 4,170 | 2026-08-24 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 22,875 | 2026-08-16 | 5 |
+| [plugin87/ux-ui-agent-skills](../repos/plugin87/ux-ui-agent-skills.md) | ⭐ 2,006 | 2026-09-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-skills](../repos/vercel-labs/agent-skills.md) | ⭐ 32,482 | 2026-08-19 | 10 |
+| [laoma528/awesome-zhuiju-free](../repos/laoma528/awesome-zhuiju-free.md) | ⭐ 12,382 | 2026-10-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 56,874 | 2026-08-27 | 13 |
+| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 2,667 | 2026-10-16 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laoma528/awesome-zhuiju-free](../repos/laoma528/awesome-zhuiju-free.md) | ⭐ 12,302 | 2026-10-15 | 1 |
+| [superdesigndev/superdesign-skill](../repos/superdesigndev/superdesign-skill.md) | ⭐ 812 | 2026-10-16 | 1 |
 
 
 ---
@@ -224,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.800Z*
+*Last updated: 2026-10-16T21:27:59.165Z*

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:02:20.104Z",
+  "generated_at": "2026-10-16T21:28:07.898Z",
   "total_count": 100,
   "repositories": [
     {
@@ -44,6 +44,16 @@
     },
     {
       "rank": 5,
+      "full_name": "morluto/rea",
+      "owner": "morluto",
+      "name": "rea",
+      "stars": 289610,
+      "language": "TypeScript",
+      "first_seen": "2026-10-06",
+      "trending_days": 10
+    },
+    {
+      "rank": 6,
       "full_name": "practical-tutorials/project-based-learning",
       "owner": "practical-tutorials",
       "name": "project-based-learning",
@@ -51,16 +61,6 @@
       "language": "Python",
       "first_seen": "2026-08-08",
       "trending_days": 4
-    },
-    {
-      "rank": 6,
-      "full_name": "morluto/rea",
-      "owner": "morluto",
-      "name": "rea",
-      "stars": 267514,
-      "language": "TypeScript",
-      "first_seen": "2026-10-06",
-      "trending_days": 9
     },
     {
       "rank": 7,
@@ -364,6 +364,16 @@
     },
     {
       "rank": 37,
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "stars": 132098,
+      "language": "Python",
+      "first_seen": "2026-08-01",
+      "trending_days": 17
+    },
+    {
+      "rank": 38,
       "full_name": "Comfy-Org/ComfyUI",
       "owner": "Comfy-Org",
       "name": "ComfyUI",
@@ -371,16 +381,6 @@
       "language": "Python",
       "first_seen": "2026-08-05",
       "trending_days": 8
-    },
-    {
-      "rank": 38,
-      "full_name": "harry0703/MoneyPrinterTurbo",
-      "owner": "harry0703",
-      "name": "MoneyPrinterTurbo",
-      "stars": 131560,
-      "language": "Python",
-      "first_seen": "2026-08-01",
-      "trending_days": 16
     },
     {
       "rank": 39,
@@ -667,10 +667,10 @@
       "full_name": "ruvnet/RuView",
       "owner": "ruvnet",
       "name": "RuView",
-      "stars": 97972,
+      "stars": 98335,
       "language": "Rust",
       "first_seen": "2026-08-09",
-      "trending_days": 16
+      "trending_days": 17
     },
     {
       "rank": 68,
@@ -717,10 +717,10 @@
       "full_name": "nvm-sh/nvm",
       "owner": "nvm-sh",
       "name": "nvm",
-      "stars": 95544,
+      "stars": 95560,
       "language": "Shell",
       "first_seen": "2026-08-01",
-      "trending_days": 37
+      "trending_days": 38
     },
     {
       "rank": 73,
@@ -757,10 +757,10 @@
       "full_name": "stablyai/orca",
       "owner": "stablyai",
       "name": "orca",
-      "stars": 93354,
+      "stars": 94428,
       "language": "TypeScript",
       "first_seen": "2026-08-11",
-      "trending_days": 15
+      "trending_days": 16
     },
     {
       "rank": 77,
@@ -864,6 +864,16 @@
     },
     {
       "rank": 87,
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "stars": 89561,
+      "language": "Java",
+      "first_seen": "2026-08-03",
+      "trending_days": 26
+    },
+    {
+      "rank": 88,
       "full_name": "gohugoio/hugo",
       "owner": "gohugoio",
       "name": "hugo",
@@ -873,7 +883,7 @@
       "trending_days": 3
     },
     {
-      "rank": 88,
+      "rank": 89,
       "full_name": "gin-gonic/gin",
       "owner": "gin-gonic",
       "name": "gin",
@@ -881,16 +891,6 @@
       "language": "Go",
       "first_seen": "2026-08-05",
       "trending_days": 2
-    },
-    {
-      "rank": 89,
-      "full_name": "NationalSecurityAgency/ghidra",
-      "owner": "NationalSecurityAgency",
-      "name": "ghidra",
-      "stars": 88603,
-      "language": "Java",
-      "first_seen": "2026-08-03",
-      "trending_days": 25
     },
     {
       "rank": 90,
@@ -937,10 +937,10 @@
       "full_name": "animate-css/animate.css",
       "owner": "animate-css",
       "name": "animate.css",
-      "stars": 82865,
+      "stars": 82875,
       "language": "CSS",
       "first_seen": "2026-08-06",
-      "trending_days": 19
+      "trending_days": 20
     },
     {
       "rank": 95,
@@ -960,7 +960,7 @@
       "stars": 82100,
       "language": "Clojure",
       "first_seen": "2026-08-01",
-      "trending_days": 50
+      "trending_days": 51
     },
     {
       "rank": 97,

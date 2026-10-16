@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 73
+- **Total Repositories**: 74
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-14
+- **Last Updated**: 2026-10-16
 
 ---
 
@@ -16,22 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 30,141 | 2026-08-02 | 28 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 919 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [missing-semester/missing-semester](../repos/missing-semester/missing-semester.md) | ⭐ 6,111 | 2026-08-02 | 7 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 30,221 | 2026-08-02 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,918 | 2026-08-02 | 26 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,382 | 2026-08-04 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,407 | 2026-08-03 | 8 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,584 | 2026-08-05 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WebStackPage/WebStackPage.github.io](../repos/WebStackPage/WebStackPage.github.io.md) | ⭐ 7,359 | 2026-08-24 | 6 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,875 | 2026-08-06 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wanteddev/wanted-sans](../repos/wanteddev/wanted-sans.md) | ⭐ 367 | 2026-10-15 | 1 |
+| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,695 | 2026-08-06 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 6,096 | 2026-08-10 | 19 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,725 | 2026-10-16 | 1 |
 
 
 ---
@@ -62,6 +68,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [wanteddev/wanted-sans](../repos/wanteddev/wanted-sans.md) | ⭐ 367 | 2026-10-15 | 곧으면서도 유연한 산세리프 글꼴 | A Sans-serif font; Geometric with a heart, Humanist with a soul |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,725 | 2026-10-16 | Functional css for humans |
 
 
 ---
@@ -70,10 +79,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,865 | 2026-08-06 | 19 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,875 | 2026-08-06 | 20 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,508 | 2026-08-01 | 11 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,365 | 2026-08-04 | 24 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 30,141 | 2026-08-02 | 28 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,382 | 2026-08-04 | 25 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 30,221 | 2026-08-02 | 29 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
@@ -81,15 +90,15 @@
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,918 | 2026-08-02 | 26 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,511 | 2026-08-01 | 23 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,837 | 2026-08-04 | 7 |
-| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,669 | 2026-08-06 | 12 |
+| [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,725 | 2026-10-16 | 1 |
+| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,695 | 2026-08-06 | 13 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,481 | 2026-08-09 | 2 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,579 | 2026-08-05 | 17 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,584 | 2026-08-05 | 18 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,426 | 2026-09-02 | 5 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,316 | 2026-08-01 | 17 |
 | [barryclark/jekyll-now](../repos/barryclark/jekyll-now.md) | ⭐ 8,407 | 2026-08-03 | 8 |
-| [primefaces/primereact](../repos/primefaces/primereact.md) | ⭐ 8,313 | 2026-08-08 | 8 |
 
 ---
 
@@ -98,15 +107,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 50 | ⭐ 1,461 | 2026-08-01 | 2026-10-14 |
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 33 | ⭐ 922 | 2026-08-01 | 2026-10-01 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 28 | ⭐ 30,141 | 2026-08-02 | 2026-10-15 |
+| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 34 | ⭐ 919 | 2026-08-01 | 2026-10-16 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 29 | ⭐ 30,221 | 2026-08-02 | 2026-10-16 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 26 | ⭐ 12,918 | 2026-08-02 | 2026-10-15 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 25 | ⭐ 1,425 | 2026-08-01 | 2026-10-03 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 24 | ⭐ 45,365 | 2026-08-04 | 2026-10-08 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 25 | ⭐ 45,382 | 2026-08-04 | 2026-10-16 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 23 | ⭐ 12,511 | 2026-08-01 | 2026-10-09 |
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 19 | ⭐ 82,865 | 2026-08-06 | 2026-10-14 |
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 18 | ⭐ 5,808 | 2026-08-10 | 2026-10-07 |
-| [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | 17 | ⭐ 9,316 | 2026-08-01 | 2026-10-02 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 20 | ⭐ 82,875 | 2026-08-06 | 2026-10-16 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 19 | ⭐ 6,096 | 2026-08-10 | 2026-10-16 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 18 | ⭐ 9,584 | 2026-08-05 | 2026-10-16 |
 
 ---
 
@@ -185,7 +194,8 @@
 - [adobe/adobe.github.com](../repos/adobe/adobe.github.com.md) - Adobe central hub for open source
 - [Astromations/Hazy](../repos/Astromations/Hazy.md) - A translucent spicetify theme
 - [wanteddev/wanted-sans](../repos/wanteddev/wanted-sans.md) - 곧으면서도 유연한 산세리프 글꼴 | A Sans-serif font; Geometric with a heart, Humanist with a soul
+- [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) - Functional css for humans
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.757Z*
+*Last updated: 2026-10-16T21:27:59.137Z*

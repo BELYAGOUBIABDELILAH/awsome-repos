@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 95
+- **Total Repositories**: 96
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-03
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,425 | 2026-08-01 | 25 |
+| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 4,271 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 4,261 | 2026-08-01 | 15 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,066 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,794 | 2026-08-01 | 30 |
+| [inovector/mixpost](../repos/inovector/mixpost.md) | ⭐ 3,824 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,004 | 2026-08-02 | 29 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 462 | 2026-08-02 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Virtual-Browser/VirtualBrowser](../repos/Virtual-Browser/VirtualBrowser.md) | ⭐ 3,178 | 2026-08-02 | 2 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,017 | 2026-08-02 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,880 | 2026-08-02 | 24 |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,683 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,414 | 2026-08-03 | 21 |
+| [Virtual-Browser/VirtualBrowser](../repos/Virtual-Browser/VirtualBrowser.md) | ⭐ 3,183 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Daymychen/art-design-pro](../repos/Daymychen/art-design-pro.md) | ⭐ 5,926 | 2026-08-07 | 16 |
+| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 3,901 | 2026-08-02 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geekgeekrun/geekgeekrun](../repos/geekgeekrun/geekgeekrun.md) | ⭐ 2,738 | 2026-09-10 | 9 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,883 | 2026-08-02 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MoeKoeMusic/MoeKoeMusic](../repos/MoeKoeMusic/MoeKoeMusic.md) | ⭐ 6,692 | 2026-09-19 | 10 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,418 | 2026-08-03 | 22 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [MoeKoeMusic/MoeKoeMusic](../repos/MoeKoeMusic/MoeKoeMusic.md) | ⭐ 6,692 | 2026-09-19 | 一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuG... |
+| [MoeKoeMusic/MoeKoeMusic](../repos/MoeKoeMusic/MoeKoeMusic.md) | ⭐ 6,736 | 2026-09-19 | 一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuG... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [henryzt/Rhythm-Plus-Music-Game](../repos/henryzt/Rhythm-Plus-Music-Game.md) | ⭐ 285 | 2026-09-20 | Community-based vertical scrolling rhythm game (VSRG) made with Vue.js and canvas (WIP) |
@@ -64,7 +64,7 @@
 | [timeshiftsauce/CeruMusic](../repos/timeshiftsauce/CeruMusic.md) | ⭐ 1,942 | 2026-09-24 | Ceru Music 是基于 Electron 和 Vue 开发的跨平台桌面音乐播放器工具，借鉴洛雪音乐插件思想，提供插件运行框架与播放功能，不直接存储、提供任何音乐源文件。用户需通过自行选择、... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Tencent/tdesign-miniprogram](../repos/Tencent/tdesign-miniprogram.md) | ⭐ 1,773 | 2026-10-02 | Wechat MiniProgram and Uniapp UI components lib for TDesign |
+| [Tencent/tdesign-miniprogram](../repos/Tencent/tdesign-miniprogram.md) | ⭐ 1,778 | 2026-10-02 | Wechat MiniProgram and Uniapp UI components lib for TDesign |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zs1083339604/FaceWinUnlock-Tauri](../repos/zs1083339604/FaceWinUnlock-Tauri.md) | ⭐ 1,960 | 2026-10-03 | 一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue ... |
@@ -95,19 +95,19 @@
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 29,036 | 2026-08-01 | 35 |
 | [docmirror/dev-sidecar](../repos/docmirror/dev-sidecar.md) | ⭐ 24,452 | 2026-10-06 | 4 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,044 | 2026-08-01 | 28 |
-| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,678 | 2026-08-02 | 13 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,066 | 2026-08-01 | 29 |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,683 | 2026-08-02 | 14 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,004 | 2026-08-02 | 29 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,017 | 2026-08-02 | 30 |
 | [Hunlongyu/ZY-Player](../repos/Hunlongyu/ZY-Player.md) | ⭐ 14,511 | 2026-10-12 | 1 |
-| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,458 | 2026-08-05 | 12 |
+| [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,447 | 2026-08-05 | 13 |
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,119 | 2026-08-20 | 4 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,764 | 2026-08-12 | 5 |
 | [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,550 | 2026-08-17 | 5 |
 | [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 10,469 | 2026-08-04 | 18 |
-| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,414 | 2026-08-03 | 21 |
-| [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,385 | 2026-08-23 | 10 |
-| [BewlyBewly/BewlyBewly](../repos/BewlyBewly/BewlyBewly.md) | ⭐ 8,812 | 2026-08-03 | 7 |
+| [dicebear/dicebear](../repos/dicebear/dicebear.md) | ⭐ 9,870 | 2026-10-16 | 1 |
+| [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,418 | 2026-08-03 | 22 |
+| [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,400 | 2026-08-23 | 11 |
 
 ---
 
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [requarks/wiki](../repos/requarks/wiki.md) | 35 | ⭐ 29,036 | 2026-08-01 | 2026-10-12 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 35 | ⭐ 33,587 | 2026-08-01 | 2026-10-12 |
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 31 | ⭐ 456 | 2026-08-02 | 2026-10-06 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 32 | ⭐ 462 | 2026-08-02 | 2026-10-16 |
 | [frappe/crm](../repos/frappe/crm.md) | 30 | ⭐ 3,794 | 2026-08-01 | 2026-10-15 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 29 | ⭐ 17,004 | 2026-08-02 | 2026-10-15 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 28 | ⭐ 22,044 | 2026-08-01 | 2026-10-13 |
-| [julyx10/lap](../repos/julyx10/lap.md) | 27 | ⭐ 3,846 | 2026-08-02 | 2026-10-13 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 30 | ⭐ 17,017 | 2026-08-02 | 2026-10-16 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 29 | ⭐ 22,066 | 2026-08-01 | 2026-10-16 |
+| [julyx10/lap](../repos/julyx10/lap.md) | 28 | ⭐ 3,901 | 2026-08-02 | 2026-10-16 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 25 | ⭐ 4,425 | 2026-08-01 | 2026-10-15 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | 25 | ⭐ 6,883 | 2026-08-02 | 2026-10-16 |
 | [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 24 | ⭐ 2,001 | 2026-08-02 | 2026-10-14 |
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | 24 | ⭐ 6,880 | 2026-08-02 | 2026-10-15 |
 
 ---
 
@@ -225,7 +225,8 @@
 - [Hunlongyu/ZY-Player](../repos/Hunlongyu/ZY-Player.md) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [Bootstrap-Academy/frontend](../repos/Bootstrap-Academy/frontend.md) - The official frontend of Bootstrap Academy - Learn Computer Science Online
 - [Hacker233/resume-design](../repos/Hacker233/resume-design.md) - 猫步简历 – 一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据、Markdown格式等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度...
+- [dicebear/dicebear](../repos/dicebear/dicebear.md) - DiceBear is an avatar library for designers and developers. 🌍
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.898Z*
+*Last updated: 2026-10-16T21:27:59.215Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 303
+- **Total Repositories**: 306
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-10-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 52,913 | 2026-08-01 | 18 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 34,389 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 34,196 | 2026-08-01 | 23 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 30,725 | 2026-08-06 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 5,223 | 2026-08-02 | 17 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 44,212 | 2026-08-07 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailscale/tailscale](../repos/tailscale/tailscale.md) | ⭐ 37,602 | 2026-08-02 | 6 |
+| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 30,028 | 2026-08-11 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 27,911 | 2026-08-04 | 11 |
+| [gotenberg/gotenberg](../repos/gotenberg/gotenberg.md) | ⭐ 13,311 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 30,440 | 2026-08-06 | 13 |
+| [cilium/cilium](../repos/cilium/cilium.md) | ⭐ 25,671 | 2026-08-19 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [livekit/livekit](../repos/livekit/livekit.md) | ⭐ 21,467 | 2026-08-07 | 7 |
+| [bytebase/bytebase](../repos/bytebase/bytebase.md) | ⭐ 14,579 | 2026-08-29 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [containerd/containerd](../repos/containerd/containerd.md) | ⭐ 21,415 | 2026-08-08 | 7 |
+| [tbphp/gpt-load](../repos/tbphp/gpt-load.md) | ⭐ 7,140 | 2026-09-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 29,970 | 2026-08-11 | 9 |
+| [skyhook-io/radar](../repos/skyhook-io/radar.md) | ⭐ 3,824 | 2026-09-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,483 | 2026-08-15 | 10 |
+| [llm-d/llm-d-router](../repos/llm-d/llm-d-router.md) | ⭐ 414 | 2026-10-06 | 3 |
 
 
 ---
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 23 | ⭐ 34,196 | 2026-08-01 | 2026-10-15 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 24 | ⭐ 34,389 | 2026-08-01 | 2026-10-16 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 20 | ⭐ 182,887 | 2026-08-01 | 2026-10-12 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 19 | ⭐ 49,872 | 2026-08-01 | 2026-10-13 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 18 | ⭐ 52,913 | 2026-08-01 | 2026-10-15 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 18 | ⭐ 38,286 | 2026-08-01 | 2026-10-07 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 18 | ⭐ 44,212 | 2026-08-07 | 2026-10-16 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 17 | ⭐ 5,223 | 2026-08-02 | 2026-10-15 |
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 17 | ⭐ 43,788 | 2026-08-07 | 2026-10-12 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 16 | ⭐ 762 | 2026-08-01 | 2026-10-07 |
 | [golang/go](../repos/golang/go.md) | 14 | ⭐ 139,169 | 2026-07-31 | 2026-10-14 |
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 14 | ⭐ 46,880 | 2026-08-20 | 2026-10-13 |
+| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 14 | ⭐ 30,725 | 2026-08-06 | 2026-10-16 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.779Z*
+*Last updated: 2026-10-16T21:27:59.154Z*

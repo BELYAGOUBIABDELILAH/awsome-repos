@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 275
+- **Total Repositories**: 277
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-14
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 535 | 2026-08-01 | 17 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,114 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 31,192 | 2026-08-03 | 15 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 31,282 | 2026-08-03 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,435 | 2026-08-03 | 10 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,678 | 2026-08-08 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,642 | 2026-08-04 | 20 |
+| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 26,353 | 2026-08-09 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ran-j/PS2Recomp](../repos/ran-j/PS2Recomp.md) | ⭐ 3,511 | 2026-08-23 | 6 |
+| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,205 | 2026-08-19 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,591 | 2026-08-25 | 11 |
+| [ran-j/PS2Recomp](../repos/ran-j/PS2Recomp.md) | ⭐ 3,538 | 2026-08-23 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [scummvm/scummvm](../repos/scummvm/scummvm.md) | ⭐ 2,855 | 2026-10-13 | 2 |
+| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,605 | 2026-08-25 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChiR24/Unreal_mcp](../repos/ChiR24/Unreal_mcp.md) | ⭐ 948 | 2026-10-15 | 1 |
+| [DamRsn/NeuralNote](../repos/DamRsn/NeuralNote.md) | ⭐ 3,195 | 2026-10-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Flare-Animate/Flare](../repos/Flare-Animate/Flare.md) | ⭐ 110 | 2026-10-15 | 1 |
+| [zeldaret/botw](../repos/zeldaret/botw.md) | ⭐ 2,243 | 2026-10-16 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [LittleBitUA/DownpourRecomp](../repos/LittleBitUA/DownpourRecomp.md) | ⭐ 295 | 2026-10-16 | 1 |
 
 
 ---
@@ -92,16 +95,16 @@
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 117,022 | 2026-08-01 | 9 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,066 | 2026-08-06 | 7 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,164 | 2026-08-02 | 8 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,678 | 2026-08-08 | 15 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,568 | 2026-08-12 | 6 |
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,454 | 2026-08-08 | 14 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,087 | 2026-08-01 | 15 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,114 | 2026-08-01 | 16 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,435 | 2026-08-03 | 10 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,360 | 2026-08-02 | 8 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
-| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 41,885 | 2026-08-19 | 10 |
+| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,205 | 2026-08-19 | 11 |
 | [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,156 | 2026-08-09 | 12 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 40,494 | 2026-08-02 | 7 |
@@ -117,11 +120,11 @@
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 25 | ⭐ 200,966 | 2026-07-30 | 2026-10-14 |
 | [google/googletest](../repos/google/googletest.md) | 20 | ⭐ 39,642 | 2026-08-04 | 2026-10-15 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 17 | ⭐ 535 | 2026-08-01 | 2026-10-15 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 15 | ⭐ 72,087 | 2026-08-01 | 2026-10-02 |
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 15 | ⭐ 31,192 | 2026-08-03 | 2026-10-15 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 16 | ⭐ 72,114 | 2026-08-01 | 2026-10-16 |
+| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 16 | ⭐ 31,282 | 2026-08-03 | 2026-10-16 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | 15 | ⭐ 76,678 | 2026-08-08 | 2026-10-16 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 14 | ⭐ 11,716 | 2026-08-02 | 2026-10-12 |
-| [ocornut/imgui](../repos/ocornut/imgui.md) | 14 | ⭐ 76,454 | 2026-08-08 | 2026-10-01 |
 
 ---
 
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.755Z*
+*Last updated: 2026-10-16T21:27:59.136Z*

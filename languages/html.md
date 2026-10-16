@@ -16,22 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 8,705 | 2026-08-01 | 7 |
+| [google/fonts](../repos/google/fonts.md) | ⭐ 20,632 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,384 | 2026-08-02 | 6 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,604 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 28,016 | 2026-08-04 | 16 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,231 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 5,350 | 2026-08-11 | 12 |
+| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,676 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhaochenyang20/Awesome-ML-SYS-Tutorial](../repos/zhaochenyang20/Awesome-ML-SYS-Tutorial.md) | ⭐ 7,546 | 2026-08-19 | 7 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 30,142 | 2026-08-09 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Guyungy/damaihelper](../repos/Guyungy/damaihelper.md) | ⭐ 4,257 | 2026-09-09 | 2 |
+| [openshift/openshift-docs](../repos/openshift/openshift-docs.md) | ⭐ 882 | 2026-08-28 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [isjiamu/gzh-design-skill](../repos/isjiamu/gzh-design-skill.md) | ⭐ 4,018 | 2026-09-01 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [EricTechPro/super-board](../repos/EricTechPro/super-board.md) | ⭐ 326 | 2026-10-09 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [SamidyFR/Game-Decompilations](../repos/SamidyFR/Game-Decompilations.md) | ⭐ 568 | 2026-10-11 | 3 |
 
 
 ---
@@ -83,17 +92,17 @@
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,524 | 2026-08-01 | 7 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,233 | 2026-09-03 | 4 |
-| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,673 | 2026-08-07 | 5 |
+| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,676 | 2026-08-07 | 6 |
 | [fengdu78/Coursera-ML-AndrewNg-Notes](../repos/fengdu78/Coursera-ML-AndrewNg-Notes.md) | ⭐ 37,699 | 2026-09-06 | 1 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 29,948 | 2026-08-09 | 12 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 30,142 | 2026-08-09 | 13 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,754 | 2026-08-19 | 9 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 28,016 | 2026-08-04 | 16 |
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 24,855 | 2026-10-09 | 3 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 22,554 | 2026-08-01 | 7 |
-| [google/fonts](../repos/google/fonts.md) | ⭐ 20,592 | 2026-08-03 | 5 |
+| [google/fonts](../repos/google/fonts.md) | ⭐ 20,632 | 2026-08-03 | 6 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
 | [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | 1 |
 
@@ -109,9 +118,9 @@
 | [averygan/reclip](../repos/averygan/reclip.md) | 15 | ⭐ 10,572 | 2026-08-03 | 2026-10-01 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 14 | ⭐ 138,503 | 2026-08-08 | 2026-09-25 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 13 | ⭐ 9,951 | 2026-08-01 | 2026-10-14 |
+| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 13 | ⭐ 16,604 | 2026-08-04 | 2026-10-16 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 13 | ⭐ 30,142 | 2026-08-09 | 2026-10-16 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 13 | ⭐ 43,224 | 2026-08-12 | 2026-10-03 |
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 12 | ⭐ 16,578 | 2026-08-04 | 2026-10-02 |
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 12 | ⭐ 29,948 | 2026-08-09 | 2026-10-03 |
 | [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 12 | ⭐ 5,350 | 2026-08-11 | 2026-10-15 |
 
 ---
@@ -221,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.787Z*
+*Last updated: 2026-10-16T21:27:59.159Z*

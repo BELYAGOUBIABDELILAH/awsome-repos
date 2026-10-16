@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 212
+- **Total Repositories**: 213
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-14
 
@@ -16,28 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 44,035 | 2026-08-02 | 11 |
+| [cloud-hypervisor/cloud-hypervisor](../repos/cloud-hypervisor/cloud-hypervisor.md) | ⭐ 6,372 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [surrealdb/surrealdb](../repos/surrealdb/surrealdb.md) | ⭐ 33,163 | 2026-08-09 | 3 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 98,335 | 2026-08-09 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 16,452 | 2026-08-10 | 8 |
+| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 16,552 | 2026-08-10 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 8,305 | 2026-08-27 | 7 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 9,588 | 2026-08-17 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 17,598 | 2026-09-04 | 10 |
+| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 7,011 | 2026-08-20 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koharu-rs/koharu](../repos/koharu-rs/koharu.md) | ⭐ 6,311 | 2026-09-07 | 2 |
+| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 8,314 | 2026-08-27 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alphaXiv/OpenResearch](../repos/alphaXiv/OpenResearch.md) | ⭐ 7,255 | 2026-09-10 | 5 |
+| [voidzero-dev/vite-plus](../repos/voidzero-dev/vite-plus.md) | ⭐ 6,318 | 2026-08-29 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xerj-org/xerj](../repos/xerj-org/xerj.md) | ⭐ 5,518 | 2026-10-07 | 2 |
+| [hydra-db/hydradb](../repos/hydra-db/hydradb.md) | ⭐ 13,043 | 2026-09-22 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [xerj-org/xerj](../repos/xerj-org/xerj.md) | ⭐ 6,835 | 2026-10-07 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [pollen-robotics/microduck](../repos/pollen-robotics/microduck.md) | ⭐ 9,487 | 2026-10-16 | 1 |
 
 
 ---
@@ -70,7 +76,7 @@
 | [mesamirh/MovieBox-Tui](../repos/mesamirh/MovieBox-Tui.md) | ⭐ 2,169 | 2026-09-21 | Terminal interface to find, download, and stream movies, TV shows, and live TV using local media ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hydra-db/hydradb](../repos/hydra-db/hydradb.md) | ⭐ 12,820 | 2026-09-22 | HydraDB - fast graph database on object storage |
+| [hydra-db/hydradb](../repos/hydra-db/hydradb.md) | ⭐ 13,043 | 2026-09-22 | HydraDB - fast graph database on object storage |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Nasiko-Labs/nasiko](../repos/Nasiko-Labs/nasiko.md) | ⭐ 8,872 | 2026-09-22 | Developer Control Plane for your AI Agents |
@@ -85,7 +91,7 @@
 | [openai/codex](../repos/openai/codex.md) | ⭐ 129,224 | 2026-08-01 | 14 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,946 | 2026-07-30 | 11 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 97,972 | 2026-08-09 | 16 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 98,335 | 2026-08-09 | 17 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,064 | 2026-08-11 | 8 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 90,775 | 2026-07-31 | 5 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
@@ -110,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 21 | ⭐ 23,670 | 2026-08-08 | 2026-09-28 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 16 | ⭐ 97,972 | 2026-08-09 | 2026-10-14 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 17 | ⭐ 98,335 | 2026-08-09 | 2026-10-16 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 15 | ⭐ 41,568 | 2026-08-10 | 2026-10-07 |
 | [openai/codex](../repos/openai/codex.md) | 14 | ⭐ 129,224 | 2026-08-01 | 2026-10-14 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 14 | ⭐ 26,668 | 2026-08-01 | 2026-10-14 |
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.857Z*
+*Last updated: 2026-10-16T21:27:59.194Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Julia |
 | **License** | MIT |
-| **Stars** | ⭐ 1,435 |
+| **Stars** | ⭐ 1,439 |
 | **Forks** | 🍴 300 |
-| **Trending Days** | 26 |
+| **Trending Days** | 27 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 14, 2026 |
+| **Last Seen** | Oct 16, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 26
+- **Trending Days**: 27
 - **Longest Streak**: 4 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:15.868Z*  
-*Data from 26 trending reports*
+*Last updated: 2026-10-16T21:28:03.418Z*  
+*Data from 27 trending reports*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 15
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-15
+- **Last Updated**: 2026-10-16
 
 ---
 
@@ -16,16 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,686 | 2026-08-01 | 57 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,703 | 2026-08-01 | 58 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,100 | 2026-08-01 | 50 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,100 | 2026-08-01 | 51 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 61,131 | 2026-08-01 | 53 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 61,237 | 2026-08-01 | 54 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,246 | 2026-08-01 | 56 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,258 | 2026-08-01 | 57 |
 
 
 ---
@@ -55,10 +55,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,100 | 2026-08-01 | 50 |
-| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 61,131 | 2026-08-01 | 53 |
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,686 | 2026-08-01 | 57 |
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,246 | 2026-08-01 | 56 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | ⭐ 82,100 | 2026-08-01 | 51 |
+| [penpot/penpot](../repos/penpot/penpot.md) | ⭐ 61,237 | 2026-08-01 | 54 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,703 | 2026-08-01 | 58 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,258 | 2026-08-01 | 57 |
 | [clojure/clojurescript](../repos/clojure/clojurescript.md) | ⭐ 9,393 | 2026-09-07 | 1 |
 | [status-im/status-legacy](../repos/status-im/status-legacy.md) | ⭐ 4,024 | 2026-08-02 | 17 |
 | [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | ⭐ 3,996 | 2026-08-02 | 45 |
@@ -77,10 +77,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [metabase/metabase](../repos/metabase/metabase.md) | 57 | ⭐ 49,686 | 2026-08-01 | 2026-10-15 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 56 | ⭐ 45,246 | 2026-08-01 | 2026-10-15 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 53 | ⭐ 61,131 | 2026-08-01 | 2026-10-15 |
-| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 50 | ⭐ 82,100 | 2026-08-01 | 2026-10-15 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 58 | ⭐ 49,703 | 2026-08-01 | 2026-10-16 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 57 | ⭐ 45,258 | 2026-08-01 | 2026-10-16 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 54 | ⭐ 61,237 | 2026-08-01 | 2026-10-16 |
+| [tonsky/FiraCode](../repos/tonsky/FiraCode.md) | 51 | ⭐ 82,100 | 2026-08-01 | 2026-10-16 |
 | [unclebob/swarm-forge](../repos/unclebob/swarm-forge.md) | 45 | ⭐ 3,996 | 2026-08-02 | 2026-10-12 |
 | [logseq/og](../repos/logseq/og.md) | 26 | ⭐ 328 | 2026-08-02 | 2026-10-12 |
 | [status-im/status-legacy](../repos/status-im/status-legacy.md) | 17 | ⭐ 4,024 | 2026-08-02 | 2026-10-12 |
@@ -110,4 +110,4 @@
 
 ---
 
-*Last updated: 2026-10-15T21:02:12.758Z*
+*Last updated: 2026-10-16T21:27:59.139Z*
