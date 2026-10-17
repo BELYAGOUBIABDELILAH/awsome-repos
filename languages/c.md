@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,816 | 2026-08-01 | 9 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,429 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,578 | 2026-08-04 | 14 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,587 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rexglue/rexglue-sdk](../repos/rexglue/rexglue-sdk.md) | ⭐ 1,090 | 2026-08-08 | 7 |
+| [lz4/lz4](../repos/lz4/lz4.md) | ⭐ 12,150 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,487 | 2026-08-09 | 10 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,815 | 2026-08-06 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dorianborian/sesame-robot](../repos/dorianborian/sesame-robot.md) | ⭐ 4,704 | 2026-08-15 | 12 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,787 | 2026-08-09 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 42,403 | 2026-09-01 | 15 |
+| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,507 | 2026-08-09 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 687 | 2026-09-20 | 3 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 42,587 | 2026-09-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sp00nznet/ps3recomp](../repos/sp00nznet/ps3recomp.md) | ⭐ 463 | 2026-10-11 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [timescale/pg_vectorsearch](../repos/timescale/pg_vectorsearch.md) | ⭐ 368 | 2026-10-16 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [logicog/RTLPlayground](../repos/logicog/RTLPlayground.md) | ⭐ 602 | 2026-10-16 | 1 |
+| [luka-dev/mib2q-carplay-rgi](../repos/luka-dev/mib2q-carplay-rgi.md) | ⭐ 339 | 2026-09-20 | 3 |
 
 
 ---
@@ -64,7 +58,7 @@
 | [checkpoint-restore/criu](../repos/checkpoint-restore/criu.md) | ⭐ 3,997 | 2026-09-19 | Checkpoint&#x2F;Restore tool |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [luka-dev/mib2q-carplay-rgi](../repos/luka-dev/mib2q-carplay-rgi.md) | ⭐ 194 | 2026-09-20 | Implementation of Route Guidance from CarPlay for MHI2Q |
+| [luka-dev/mib2q-carplay-rgi](../repos/luka-dev/mib2q-carplay-rgi.md) | ⭐ 339 | 2026-09-20 | Better CarPlay for MHI2Q! Cluster Map, HUD Projection, Spatial Audio and more |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PlatformLab/HomaModule](../repos/PlatformLab/HomaModule.md) | ⭐ 361 | 2026-09-20 | A Linux kernel module that implements the Homa transport protocol. |
@@ -89,14 +83,14 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,696 | 2026-08-07 | 17 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,144 | 2026-08-01 | 20 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,429 | 2026-08-01 | 21 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 77,200 | 2026-08-02 | 16 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 76,813 | 2026-08-04 | 6 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 74,191 | 2026-08-01 | 23 |
 | [git/git](../repos/git/git.md) | ⭐ 63,813 | 2026-08-05 | 8 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 46,229 | 2026-08-07 | 22 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 42,403 | 2026-09-01 | 15 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 42,587 | 2026-09-01 | 16 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 40,420 | 2026-08-01 | 8 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
@@ -107,7 +101,7 @@
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 31,960 | 2026-08-17 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,695 | 2026-08-02 | 6 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
-| [ValdikSS/GoodbyeDPI](../repos/ValdikSS/GoodbyeDPI.md) | ⭐ 28,712 | 2026-10-03 | 1 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,787 | 2026-08-09 | 11 |
 
 ---
 
@@ -116,15 +110,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 | ⭐ 16,829 | 2026-08-01 | 2026-10-01 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 24 | ⭐ 16,815 | 2026-08-06 | 2026-10-17 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 23 | ⭐ 74,191 | 2026-08-01 | 2026-10-15 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 23 | ⭐ 16,803 | 2026-08-06 | 2026-10-15 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 22 | ⭐ 46,229 | 2026-08-07 | 2026-10-09 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 20 | ⭐ 139,144 | 2026-08-01 | 2026-10-09 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 21 | ⭐ 139,429 | 2026-08-01 | 2026-10-17 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 20 | ⭐ 28,021 | 2026-08-07 | 2026-10-14 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 17 | ⭐ 6,981 | 2026-08-04 | 2026-10-03 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 17 | ⭐ 151,696 | 2026-08-07 | 2026-10-09 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 16 | ⭐ 77,200 | 2026-08-02 | 2026-10-09 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 15 | ⭐ 42,403 | 2026-09-01 | 2026-10-16 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 16 | ⭐ 42,587 | 2026-09-01 | 2026-10-17 |
 
 ---
 
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-16T21:32:51.444Z*
+*Last updated: 2026-10-17T21:01:41.926Z*

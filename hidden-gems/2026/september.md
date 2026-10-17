@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 438
+**Gems Found**: 430
 
 ---
 
@@ -79,7 +79,7 @@
 |---|---|
 | ⭐ **Stars** | 4,477 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 93/100 |
+| 🏆 **Gem Score** | 92/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
@@ -99,7 +99,7 @@
 |---|---|
 | ⭐ **Stars** | 3,873 |
 | 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 93/100 |
+| 🏆 **Gem Score** | 92/100 |
 | 📈 **Trending Days** | 8 |
 | 📅 **First Seen** | Aug 14, 2026 |
 
@@ -111,27 +111,7 @@
 
 ---
 
-### 6. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
-
-**Bonsai Demo**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,007 |
-| 💻 **Language** | Shell |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 15, 2026 |
-
-**Why it's a gem**: High growth velocity (+120 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/PrismML-Eng/Bonsai-demo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;PrismML-Eng&#x2F;Bonsai-demo)
-
----
-
-### 7. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
+### 6. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
 **Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
@@ -151,7 +131,7 @@
 
 ---
 
-### 8. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+### 7. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
 
 **A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
 
@@ -171,7 +151,7 @@
 
 ---
 
-### 9. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 8. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
 **Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
@@ -191,7 +171,7 @@
 
 ---
 
-### 10. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+### 9. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
 
 **Native GUI for Homebrew Casks**
 
@@ -211,7 +191,7 @@
 
 ---
 
-### 11. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+### 10. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
 
 **Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
 
@@ -223,7 +203,7 @@
 | 📈 **Trending Days** | 8 |
 | 📅 **First Seen** | Aug 29, 2026 |
 
-**Why it's a gem**: High growth velocity (+198 stars&#x2F;day) • Trending 8 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+198 stars&#x2F;day) • Trending 8 times • Strong community engagement
 
 **Best for**: 
 
@@ -231,7 +211,7 @@
 
 ---
 
-### 12. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+### 11. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
 
 **Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
 
@@ -251,7 +231,7 @@
 
 ---
 
-### 13. [feigeCode&#x2F;navop](../../repos/feigeCode/navop.md)
+### 12. [feigeCode&#x2F;navop](../../repos/feigeCode/navop.md)
 
 **A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.**
 
@@ -271,7 +251,7 @@
 
 ---
 
-### 14. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
+### 13. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
 
 **The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
 
@@ -291,7 +271,7 @@
 
 ---
 
-### 15. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
+### 14. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
 
 **Give cloud AI agents a real development environment on your own machines.**
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [TNT-Likely&#x2F;PanWatch](../../repos/TNT-Likely/PanWatch.md)
+### 15. [TNT-Likely&#x2F;PanWatch](../../repos/TNT-Likely/PanWatch.md)
 
 **盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股&#x2F;港股&#x2F;美股实时监控、持仓管理、智能分析、全渠道推送**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
+### 16. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
 
 **The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.**
 
@@ -351,27 +331,7 @@
 
 ---
 
-### 18. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
-
-**Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode&#x2F;Homebrew&#x2F;system cache cleanup. MIT licensed.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,761 |
-| 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 85/100 |
-| 📈 **Trending Days** | 10 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+40 stars&#x2F;day) • Trending 10 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/momenbasel/PureMac.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;momenbasel&#x2F;PureMac)
-
----
-
-### 19. [chuspeeism&#x2F;dashi-ppt-skill](../../repos/chuspeeism/dashi-ppt-skill.md)
+### 17. [chuspeeism&#x2F;dashi-ppt-skill](../../repos/chuspeeism/dashi-ppt-skill.md)
 
 **An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.**
 
@@ -391,7 +351,7 @@
 
 ---
 
-### 20. [arcboxlabs&#x2F;arcbox](../../repos/arcboxlabs/arcbox.md)
+### 18. [arcboxlabs&#x2F;arcbox](../../repos/arcboxlabs/arcbox.md)
 
 **Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.**
 
@@ -411,6 +371,46 @@
 
 ---
 
+### 19. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
+
+**Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode&#x2F;Homebrew&#x2F;system cache cleanup. MIT licensed.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6,761 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 84/100 |
+| 📈 **Trending Days** | 10 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+40 stars&#x2F;day) • Trending 10 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/momenbasel/PureMac.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;momenbasel&#x2F;PureMac)
+
+---
+
+### 20. [luolangaga&#x2F;tubatools](../../repos/luolangaga/tubatools.md)
+
+**图吧工具箱 CE**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,313 |
+| 💻 **Language** | C# |
+| 🏆 **Gem Score** | 84/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 12, 2026 |
+
+**Why it's a gem**: High growth velocity (+48 stars&#x2F;day) • Trending 8 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/luolangaga/tubatools.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;luolangaga&#x2F;tubatools)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-16T21:32:58.986Z*  
+*Generated: 2026-10-17T21:01:49.116Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -1,6 +1,6 @@
 # mtex-toolbox&#x2F;mtex
 
-> MTEX is a free Matlab toolbox for quantitative texture analysis. Homepage:
+> MTEX is a free Matlab toolbox for quantitative texture analysis. A Python version is here: https:&#x2F;&#x2F;github.com&#x2F;mtex-toolbox&#x2F;pymtex
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;mtex-toolbox&#x2F;mtex) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | MATLAB |
 | **License** | GPL-2.0 |
-| **Stars** | ⭐ 376 |
-| **Forks** | 🍴 207 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 381 |
+| **Forks** | 🍴 211 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 14, 2026 |
-| **Last Seen** | Aug 17, 2026 |
+| **Last Seen** | Oct 17, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 4 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`crystallography`](../../topics/crystallography.md) [`ebsd`](../../topics/ebsd.md) [`matlab`](../../topics/matlab.md) [`mtex`](../../topics/mtex.md) [`orientation-maps`](../../topics/orientation-maps.md) [`pole-figures`](../../topics/pole-figures.md) [`texture-analysis`](../../topics/texture-analysis.md) [`xrd`](../../topics/xrd.md) 
+[`crystallography`](../../topics/crystallography.md) [`ebsd`](../../topics/ebsd.md) [`pole-figures`](../../topics/pole-figures.md) [`texture-analysis`](../../topics/texture-analysis.md) [`xrd`](../../topics/xrd.md) 
 
 ### Curated Categories
 `Systems Programming` 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 376+ stars, strong contributor base |
+| **Community** | Very Active | 381+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-16T21:32:56.498Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-10-17T21:01:46.436Z*  
+*Data from 5 trending reports*

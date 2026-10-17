@@ -211,27 +211,7 @@
 
 ---
 
-### 11. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
-
-**BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,608 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 78/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+47 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/GCWing/BitFun.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;GCWing&#x2F;BitFun)
-
----
-
-### 12. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
+### 11. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
 
 **BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
 
@@ -251,27 +231,7 @@
 
 ---
 
-### 13. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
-
-**Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy&#39;s LLM Wiki pattern.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 13,929 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 78/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 11, 2026 |
-
-**Why it's a gem**: High growth velocity (+1021 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/AgriciDaniel/claude-obsidian.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;AgriciDaniel&#x2F;claude-obsidian)
-
----
-
-### 14. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+### 12. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
 
 **Portable Tool for an Ideal Windows Setup**
 
@@ -291,27 +251,47 @@
 
 ---
 
-### 15. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
+### 13. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
 
-**Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
+**BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,568 |
+| ⭐ **Stars** | 1,608 |
 | 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 77/100 |
 | 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 8, 2026 |
+| 📅 **First Seen** | Aug 6, 2026 |
 
-**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+47 stars&#x2F;day) • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/malisper/pgrust.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;malisper&#x2F;pgrust)
+[View Passport](../../repos/GCWing/BitFun.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;GCWing&#x2F;BitFun)
 
 ---
 
-### 16. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+### 14. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
+
+**Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy&#39;s LLM Wiki pattern.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 13,929 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 77/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 11, 2026 |
+
+**Why it's a gem**: High growth velocity (+1021 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/AgriciDaniel/claude-obsidian.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;AgriciDaniel&#x2F;claude-obsidian)
+
+---
+
+### 15. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
 
 **Visualize your year in travel using your Google Location History (Timeline) data**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
+### 16. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
 
 **A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.**
 
@@ -351,7 +331,7 @@
 
 ---
 
-### 18. [workweave&#x2F;router](../../repos/workweave/router.md)
+### 17. [workweave&#x2F;router](../../repos/workweave/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -371,27 +351,27 @@
 
 ---
 
-### 19. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
+### 18. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
 
-**Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
+**Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 13,249 |
+| ⭐ **Stars** | 4,568 |
 | 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 76/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 1, 2026 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 8, 2026 |
 
-**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 6 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/longbridge/gpui-component.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;longbridge&#x2F;gpui-component)
+[View Passport](../../repos/malisper/pgrust.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;malisper&#x2F;pgrust)
 
 ---
 
-### 20. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
+### 19. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
 
 **The coding agent that answers to you, your model, your machine, your rules.**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
+
+**Where people and agents build in tune.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,575 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 76/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 27, 2026 |
+
+**Why it's a gem**: High growth velocity (+62 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/tutti-os/tutti.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tutti-os&#x2F;tutti)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-16T21:32:58.989Z*  
+*Generated: 2026-10-17T21:01:49.118Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 55
+- **Total Repositories**: 56
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,28 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,484 | 2026-08-01 | 46 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,487 | 2026-08-01 | 47 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,492 | 2026-08-01 | 27 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 927 | 2026-08-01 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 927 | 2026-08-01 | 38 |
+| [microsoft/AL](../repos/microsoft/AL.md) | ⭐ 886 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,045 | 2026-08-02 | 12 |
+| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,045 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,149 | 2026-08-06 | 18 |
+| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,180 | 2026-08-19 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,729 | 2026-08-11 | 17 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,180 | 2026-08-19 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,259 | 2026-09-02 | 14 |
+| [microsoft/Windows-Sandbox](../repos/microsoft/Windows-Sandbox.md) | ⭐ 577 | 2026-10-17 | 1 |
 
 
 ---
@@ -59,6 +53,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Kiterlin/anti-defensive-writing](../repos/Kiterlin/anti-defensive-writing.md) | ⭐ 1,076 | 2026-10-13 | Codex skill for removing defensive writing and strengthening prose. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/Windows-Sandbox](../repos/microsoft/Windows-Sandbox.md) | ⭐ 577 | 2026-10-17 | Disposable, secure and lightweight Windows Desktop Environment |
 
 
 ---
@@ -68,9 +65,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
-| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,045 | 2026-08-02 | 12 |
+| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,045 | 2026-08-02 | 13 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,484 | 2026-08-01 | 46 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,487 | 2026-08-01 | 47 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,073 | 2026-08-04 | 5 |
 | [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,259 | 2026-09-02 | 14 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
@@ -85,7 +82,7 @@
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,838 | 2026-08-04 | 3 |
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,729 | 2026-08-11 | 17 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,559 | 2026-08-04 | 8 |
-| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,180 | 2026-08-19 | 10 |
+| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,180 | 2026-08-19 | 11 |
 | [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,096 | 2026-08-07 | 10 |
 
 ---
@@ -94,8 +91,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 46 | ⭐ 13,484 | 2026-08-01 | 2026-10-16 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 38 | ⭐ 927 | 2026-08-01 | 2026-10-16 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 47 | ⭐ 13,487 | 2026-08-01 | 2026-10-17 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 39 | ⭐ 927 | 2026-08-01 | 2026-10-17 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 29 | ⭐ 1,664 | 2026-08-03 | 2026-10-12 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 27 | ⭐ 8,492 | 2026-08-01 | 2026-10-16 |
 | [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 24 | ⭐ 3,153 | 2026-08-01 | 2026-10-14 |
@@ -164,7 +161,8 @@
 - [secretGeek/AwesomeCSV](../repos/secretGeek/AwesomeCSV.md) - 🕶️A curated list of awesome tools for dealing with CSV.
 - [microsoft/ARI](../repos/microsoft/ARI.md) - Azure Resource Inventory - It&#39;s a Powerful tool to create EXCEL inventory from Azure Resources wi...
 - [Kiterlin/anti-defensive-writing](../repos/Kiterlin/anti-defensive-writing.md) - Codex skill for removing defensive writing and strengthening prose.
+- [microsoft/Windows-Sandbox](../repos/microsoft/Windows-Sandbox.md) - Disposable, secure and lightweight Windows Desktop Environment
 
 ---
 
-*Last updated: 2026-10-16T21:32:51.533Z*
+*Last updated: 2026-10-17T21:01:42.007Z*

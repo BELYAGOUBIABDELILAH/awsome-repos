@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 23,606 |
-| **Forks** | 🍴 1,433 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 24,356 |
+| **Forks** | 🍴 1,488 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #12 |
 
 | **First Seen** | Aug 16, 2026 |
-| **Last Seen** | Oct 16, 2026 |
+| **Last Seen** | Oct 17, 2026 |
 
 
 ---
@@ -48,8 +48,8 @@
 ### Highlights
 
 - **Peak Rank**: #12
-- **Trending Days**: 6
-- **Longest Streak**: 3 days
+- **Trending Days**: 7
+- **Longest Streak**: 4 days
 
 ---
 
@@ -73,7 +73,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-10-16T21:32:56.588Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-10-17T21:01:46.526Z*  
+*Data from 7 trending reports*

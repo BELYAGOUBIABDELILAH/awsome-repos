@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Verilog |
 | **License** | MIT |
-| **Stars** | ⭐ 3,078 |
-| **Forks** | 🍴 853 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 3,129 |
+| **Forks** | 🍴 860 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Sep 2, 2026 |
+| **Last Seen** | Oct 17, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-16T21:32:54.970Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-10-17T21:01:44.702Z*  
+*Data from 8 trending reports*

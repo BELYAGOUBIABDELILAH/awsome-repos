@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 213
+- **Total Repositories**: 215
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-14
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloud-hypervisor/cloud-hypervisor](../repos/cloud-hypervisor/cloud-hypervisor.md) | ⭐ 6,372 | 2026-08-07 | 3 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 30,255 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 98,335 | 2026-08-09 | 17 |
+| [surrealdb/surrealdb](../repos/surrealdb/surrealdb.md) | ⭐ 33,195 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 16,552 | 2026-08-10 | 9 |
+| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 16,628 | 2026-08-10 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 9,588 | 2026-08-17 | 10 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 9,851 | 2026-08-17 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 7,011 | 2026-08-20 | 10 |
+| [magnitudedev/magnitude](../repos/magnitudedev/magnitude.md) | ⭐ 7,060 | 2026-08-20 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 8,314 | 2026-08-27 | 8 |
+| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 8,323 | 2026-08-27 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [voidzero-dev/vite-plus](../repos/voidzero-dev/vite-plus.md) | ⭐ 6,318 | 2026-08-29 | 2 |
+| [voidzero-dev/vite-plus](../repos/voidzero-dev/vite-plus.md) | ⭐ 6,346 | 2026-08-29 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hydra-db/hydradb](../repos/hydra-db/hydradb.md) | ⭐ 13,043 | 2026-09-22 | 7 |
+| [mixelpixx/Konnect](../repos/mixelpixx/Konnect.md) | ⭐ 1,239 | 2026-09-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xerj-org/xerj](../repos/xerj-org/xerj.md) | ⭐ 6,835 | 2026-10-07 | 3 |
+| [xerj-org/xerj](../repos/xerj-org/xerj.md) | ⭐ 7,707 | 2026-10-07 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pollen-robotics/microduck](../repos/pollen-robotics/microduck.md) | ⭐ 9,487 | 2026-10-16 | 1 |
+| [GCWing/OpenBitFun](../repos/GCWing/OpenBitFun.md) | ⭐ 2,828 | 2026-10-17 | 1 |
 
 
 ---
@@ -120,11 +120,11 @@
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 15 | ⭐ 41,568 | 2026-08-10 | 2026-10-07 |
 | [openai/codex](../repos/openai/codex.md) | 14 | ⭐ 129,224 | 2026-08-01 | 2026-10-14 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 14 | ⭐ 26,668 | 2026-08-01 | 2026-10-14 |
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 12 | ⭐ 29,888 | 2026-08-03 | 2026-10-12 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 13 | ⭐ 30,255 | 2026-08-03 | 2026-10-17 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 11 | ⭐ 119,946 | 2026-07-30 | 2026-10-14 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 11 | ⭐ 44,035 | 2026-08-02 | 2026-10-15 |
 | [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 11 | ⭐ 11,824 | 2026-08-09 | 2026-10-01 |
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 11 | ⭐ 8,726 | 2026-08-26 | 2026-10-03 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 11 | ⭐ 9,851 | 2026-08-17 | 2026-10-17 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-16T21:32:51.551Z*
+*Last updated: 2026-10-17T21:01:42.018Z*

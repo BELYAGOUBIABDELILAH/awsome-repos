@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 215
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-15
+- **Last Updated**: 2026-10-17
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,293 | 2026-08-01 | 11 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,310 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [modelcontextprotocol/java-sdk](../repos/modelcontextprotocol/java-sdk.md) | ⭐ 3,740 | 2026-08-01 | 4 |
+| [modelcontextprotocol/java-sdk](../repos/modelcontextprotocol/java-sdk.md) | ⭐ 3,741 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [debezium/debezium](../repos/debezium/debezium.md) | ⭐ 13,230 | 2026-08-01 | 5 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 90,182 | 2026-08-03 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [adityatandon15/Low-Level-Design-Course](../repos/adityatandon15/Low-Level-Design-Course.md) | ⭐ 1,376 | 2026-08-03 | 7 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 29,705 | 2026-08-04 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 89,561 | 2026-08-03 | 26 |
+| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,826 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 5,234 | 2026-08-04 | 15 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,704 | 2026-08-04 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 29,661 | 2026-08-04 | 20 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 42,498 | 2026-08-05 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 42,425 | 2026-08-05 | 17 |
+| [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) | ⭐ 28,322 | 2026-08-07 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,183 | 2026-08-05 | 12 |
+| [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) | ⭐ 5,524 | 2026-08-10 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,293 | 2026-08-08 | 9 |
+| [alibaba/spring-ai-alibaba](../repos/alibaba/spring-ai-alibaba.md) | ⭐ 11,029 | 2026-08-11 | 13 |
 
 
 ---
@@ -73,7 +73,7 @@
 | [FasterXML/jackson-core](../repos/FasterXML/jackson-core.md) | ⭐ 2,379 | 2026-09-24 | Core part of Jackson that defines Streaming API as well as basic shared abstractions |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [AbdurazaaqMohammed/MP-Manager](../repos/AbdurazaaqMohammed/MP-Manager.md) | ⭐ 160 | 2026-09-27 | Dual pane Android file manager with focus on APKs |
+| [AbdurazaaqMohammed/MP-Manager](../repos/AbdurazaaqMohammed/MP-Manager.md) | ⭐ 288 | 2026-09-27 | Dual pane Android file manager with focus on APKs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AndroidCSOfficial/android-code-studio](../repos/AndroidCSOfficial/android-code-studio.md) | ⭐ 1,300 | 2026-09-28 | Android Code Studio is an IDE for Android to develop full featured Android apps. |
@@ -88,9 +88,9 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,738 | 2026-08-04 | 11 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 89,561 | 2026-08-03 | 26 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,632 | 2026-08-04 | 17 |
+| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,826 | 2026-08-04 | 12 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 90,182 | 2026-08-03 | 27 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,704 | 2026-08-04 | 18 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,266 | 2026-08-02 | 17 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,331 | 2026-08-04 | 7 |
@@ -98,10 +98,10 @@
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,293 | 2026-08-08 | 9 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,912 | 2026-08-02 | 12 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 51,878 | 2026-08-04 | 11 |
-| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 50,982 | 2026-08-12 | 9 |
+| [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,037 | 2026-08-12 | 10 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,186 | 2026-08-07 | 9 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 42,425 | 2026-08-05 | 17 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 42,498 | 2026-08-05 | 18 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,100 | 2026-08-02 | 10 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,819 | 2026-08-06 | 12 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 26 | ⭐ 89,561 | 2026-08-03 | 2026-10-16 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 27 | ⭐ 90,182 | 2026-08-03 | 2026-10-17 |
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 26 | ⭐ 5,996 | 2026-08-05 | 2026-10-15 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 20 | ⭐ 29,661 | 2026-08-04 | 2026-10-16 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 21 | ⭐ 29,705 | 2026-08-04 | 2026-10-17 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 18 | ⭐ 27,298 | 2026-08-02 | 2026-10-09 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 18 | ⭐ 81,704 | 2026-08-04 | 2026-10-17 |
+| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 18 | ⭐ 42,498 | 2026-08-05 | 2026-10-17 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 17 | ⭐ 78,266 | 2026-08-02 | 2026-10-14 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 17 | ⭐ 81,632 | 2026-08-04 | 2026-10-15 |
-| [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 17 | ⭐ 42,425 | 2026-08-05 | 2026-10-16 |
 | [iflytek/skillhub](../repos/iflytek/skillhub.md) | 15 | ⭐ 5,234 | 2026-08-04 | 2026-10-16 |
-| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 15 | ⭐ 7,044 | 2026-08-14 | 2026-10-16 |
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 14 | ⭐ 34,879 | 2026-08-04 | 2026-10-12 |
+| [OtterMind/Chat2DB](../repos/OtterMind/Chat2DB.md) | 15 | ⭐ 28,322 | 2026-08-07 | 2026-10-17 |
+| [apache/kafka](../repos/apache/kafka.md) | 15 | ⭐ 34,036 | 2026-08-12 | 2026-10-17 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-16T21:32:51.490Z*
+*Last updated: 2026-10-17T21:01:41.969Z*

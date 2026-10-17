@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 306
+- **Total Repositories**: 308
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-10-12
+- **Last Updated**: 2026-10-17
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 34,389 | 2026-08-01 | 24 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 183,618 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | ⭐ 30,725 | 2026-08-06 | 14 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,332 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 44,212 | 2026-08-07 | 18 |
+| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,423 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 30,028 | 2026-08-11 | 10 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 27,965 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gotenberg/gotenberg](../repos/gotenberg/gotenberg.md) | ⭐ 13,311 | 2026-08-19 | 2 |
+| [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) | ⭐ 4,292 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cilium/cilium](../repos/cilium/cilium.md) | ⭐ 25,671 | 2026-08-19 | 7 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 44,261 | 2026-08-07 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bytebase/bytebase](../repos/bytebase/bytebase.md) | ⭐ 14,579 | 2026-08-29 | 2 |
+| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 30,073 | 2026-08-11 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tbphp/gpt-load](../repos/tbphp/gpt-load.md) | ⭐ 7,140 | 2026-09-03 | 5 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,512 | 2026-08-15 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [skyhook-io/radar](../repos/skyhook-io/radar.md) | ⭐ 3,824 | 2026-09-22 | 3 |
+| [cilium/cilium](../repos/cilium/cilium.md) | ⭐ 25,676 | 2026-08-19 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [llm-d/llm-d-router](../repos/llm-d/llm-d-router.md) | ⭐ 414 | 2026-10-06 | 3 |
+| [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,372 | 2026-08-22 | 4 |
 
 
 ---
@@ -79,7 +79,7 @@
 | [screego/server](../repos/screego/server.md) | ⭐ 10,670 | 2026-09-20 | screen sharing for developers https:&#x2F;&#x2F;screego.net&#x2F; |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vshulcz/deja-vu](../repos/vshulcz/deja-vu.md) | ⭐ 1,014 | 2026-09-20 | One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 29 more coding agents,... |
+| [vshulcz/deja-vu](../repos/vshulcz/deja-vu.md) | ⭐ 1,235 | 2026-09-20 | Coding agent memory for Claude Code, Codex, Cursor and 39 more, built from the session history al... |
 
 
 ---
@@ -88,10 +88,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 182,887 | 2026-08-01 | 20 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 183,618 | 2026-08-01 | 21 |
 | [golang/go](../repos/golang/go.md) | ⭐ 139,169 | 2026-07-31 | 14 |
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,217 | 2026-08-04 | 8 |
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,483 | 2026-08-15 | 10 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,332 | 2026-08-04 | 9 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,512 | 2026-08-15 | 11 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,914 | 2026-08-06 | 12 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,294 | 2026-08-05 | 2 |
@@ -103,7 +103,7 @@
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 52,913 | 2026-08-01 | 18 |
-| [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,310 | 2026-08-22 | 3 |
+| [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,372 | 2026-08-22 | 4 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,905 | 2026-08-06 | 9 |
@@ -116,11 +116,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 24 | ⭐ 34,389 | 2026-08-01 | 2026-10-16 |
-| [ollama/ollama](../repos/ollama/ollama.md) | 20 | ⭐ 182,887 | 2026-08-01 | 2026-10-12 |
+| [ollama/ollama](../repos/ollama/ollama.md) | 21 | ⭐ 183,618 | 2026-08-01 | 2026-10-17 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 19 | ⭐ 49,872 | 2026-08-01 | 2026-10-13 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 19 | ⭐ 44,261 | 2026-08-07 | 2026-10-17 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 18 | ⭐ 52,913 | 2026-08-01 | 2026-10-15 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 18 | ⭐ 38,286 | 2026-08-01 | 2026-10-07 |
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 18 | ⭐ 44,212 | 2026-08-07 | 2026-10-16 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 17 | ⭐ 5,223 | 2026-08-02 | 2026-10-15 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 16 | ⭐ 762 | 2026-08-01 | 2026-10-07 |
 | [golang/go](../repos/golang/go.md) | 14 | ⭐ 139,169 | 2026-07-31 | 2026-10-14 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-16T21:32:51.480Z*
+*Last updated: 2026-10-17T21:01:41.959Z*

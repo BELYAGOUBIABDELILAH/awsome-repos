@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 277
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-14
+- **Last Updated**: 2026-10-17
 
 ---
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,114 | 2026-08-01 | 16 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,084 | 2026-07-30 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | ⭐ 31,282 | 2026-08-03 | 16 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,520 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,678 | 2026-08-08 | 15 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,421 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 26,353 | 2026-08-09 | 8 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 39,653 | 2026-08-04 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,205 | 2026-08-19 | 11 |
+| [juce-framework/JUCE](../repos/juce-framework/JUCE.md) | ⭐ 8,986 | 2026-08-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ran-j/PS2Recomp](../repos/ran-j/PS2Recomp.md) | ⭐ 3,538 | 2026-08-23 | 7 |
+| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 26,395 | 2026-08-09 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,605 | 2026-08-25 | 12 |
+| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,613 | 2026-08-25 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DamRsn/NeuralNote](../repos/DamRsn/NeuralNote.md) | ⭐ 3,195 | 2026-10-09 | 2 |
+| [geode-sdk/geode](../repos/geode-sdk/geode.md) | ⭐ 2,984 | 2026-09-28 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zeldaret/botw](../repos/zeldaret/botw.md) | ⭐ 2,243 | 2026-10-16 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [LittleBitUA/DownpourRecomp](../repos/LittleBitUA/DownpourRecomp.md) | ⭐ 295 | 2026-10-16 | 1 |
+| [MAZHARMIK/Interview_DS_Algo](../repos/MAZHARMIK/Interview_DS_Algo.md) | ⭐ 5,206 | 2026-10-07 | 2 |
 
 
 ---
@@ -88,13 +85,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 200,966 | 2026-07-30 | 25 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,180 | 2026-08-01 | 29 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,084 | 2026-07-30 | 26 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,520 | 2026-08-01 | 30 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,659 | 2026-08-04 | 5 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 117,022 | 2026-08-01 | 9 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,066 | 2026-08-06 | 7 |
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,164 | 2026-08-02 | 8 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,421 | 2026-08-02 | 9 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,678 | 2026-08-08 | 15 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,568 | 2026-08-12 | 6 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,114 | 2026-08-01 | 16 |
@@ -116,9 +113,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 29 | ⭐ 131,180 | 2026-08-01 | 2026-10-14 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 25 | ⭐ 200,966 | 2026-07-30 | 2026-10-14 |
-| [google/googletest](../repos/google/googletest.md) | 20 | ⭐ 39,642 | 2026-08-04 | 2026-10-15 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 30 | ⭐ 131,520 | 2026-08-01 | 2026-10-17 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 26 | ⭐ 201,084 | 2026-07-30 | 2026-10-17 |
+| [google/googletest](../repos/google/googletest.md) | 21 | ⭐ 39,653 | 2026-08-04 | 2026-10-17 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 17 | ⭐ 535 | 2026-08-01 | 2026-10-15 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 16 | ⭐ 72,114 | 2026-08-01 | 2026-10-16 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 16 | ⭐ 31,282 | 2026-08-03 | 2026-10-16 |
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-16T21:32:51.454Z*
+*Last updated: 2026-10-17T21:01:41.936Z*

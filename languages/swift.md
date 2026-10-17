@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 133
+- **Total Repositories**: 134
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-02
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 12,830 | 2026-08-01 | 25 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 12,878 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,372 | 2026-08-01 | 8 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,229 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,899 | 2026-08-04 | 13 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 9,241 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lihaoyun6/QuickRecorder](../repos/lihaoyun6/QuickRecorder.md) | ⭐ 8,720 | 2026-08-12 | 2 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,962 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,606 | 2026-08-17 | 12 |
+| [swiftlang/swift-syntax](../repos/swiftlang/swift-syntax.md) | ⭐ 3,709 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,074 | 2026-09-13 | 5 |
+| [stripe/stripe-ios](../repos/stripe/stripe-ios.md) | ⭐ 2,575 | 2026-08-15 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 11,909 | 2026-09-21 | 9 |
+| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,987 | 2026-08-24 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-argument-parser](../repos/apple/swift-argument-parser.md) | ⭐ 3,791 | 2026-10-08 | 2 |
+| [wuwangzhang1216/ChinaTextbookStudyFree](../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) | ⭐ 834 | 2026-10-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wuwangzhang1216/ChinaTextbookStudyFree](../repos/wuwangzhang1216/ChinaTextbookStudyFree.md) | ⭐ 748 | 2026-10-12 | 5 |
+| [1lck/Lithe-IDEA](../repos/1lck/Lithe-IDEA.md) | ⭐ 1,979 | 2026-10-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenBMB/MiniCPM-V-Apps](../repos/OpenBMB/MiniCPM-V-Apps.md) | ⭐ 457 | 2026-10-15 | 2 |
+| [hugeBlack/GetMoreRam](../repos/hugeBlack/GetMoreRam.md) | ⭐ 394 | 2026-10-17 | 1 |
 
 
 ---
@@ -93,7 +93,7 @@
 | [apple/container](../repos/apple/container.md) | ⭐ 50,393 | 2026-08-01 | 16 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,480 | 2026-08-12 | 10 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,065 | 2026-08-01 | 18 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,229 | 2026-08-01 | 19 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 27,997 | 2026-08-04 | 4 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,899 | 2026-08-04 | 13 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
@@ -103,8 +103,8 @@
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,130 | 2026-08-03 | 4 |
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,951 | 2026-08-04 | 16 |
-| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,912 | 2026-08-24 | 11 |
+| [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,987 | 2026-08-24 | 12 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,962 | 2026-08-04 | 17 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,606 | 2026-08-17 | 12 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,482 | 2026-08-08 | 8 |
 | [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | 2026-08-01 | 3 |
@@ -115,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 25 | ⭐ 12,830 | 2026-08-01 | 2026-10-16 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 18 | ⭐ 28,065 | 2026-08-01 | 2026-10-09 |
+| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 26 | ⭐ 12,878 | 2026-08-01 | 2026-10-17 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 19 | ⭐ 28,229 | 2026-08-01 | 2026-10-17 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 17 | ⭐ 14,962 | 2026-08-04 | 2026-10-17 |
 | [apple/container](../repos/apple/container.md) | 16 | ⭐ 50,393 | 2026-08-01 | 2026-09-29 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 16 | ⭐ 14,951 | 2026-08-04 | 2026-10-06 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 15 | ⭐ 70,451 | 2026-08-05 | 2026-10-02 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 13 | ⭐ 9,241 | 2026-08-02 | 2026-10-17 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 13 | ⭐ 8,538 | 2026-08-04 | 2026-10-14 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 13 | ⭐ 26,899 | 2026-08-04 | 2026-10-16 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 12 | ⭐ 3,687 | 2026-08-01 | 2026-10-06 |
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 12 | ⭐ 9,138 | 2026-08-02 | 2026-10-03 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | 12 | ⭐ 14,606 | 2026-08-17 | 2026-10-16 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-16T21:32:51.563Z*
+*Last updated: 2026-10-17T21:01:42.028Z*

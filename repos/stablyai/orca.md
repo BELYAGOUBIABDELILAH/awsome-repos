@@ -1,6 +1,6 @@
 # stablyai&#x2F;orca
 
-> Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+> Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;stablyai&#x2F;orca) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 94,428 |
-| **Forks** | 🍴 6,038 |
-| **Trending Days** | 16 |
+| **Stars** | ⭐ 95,269 |
+| **Forks** | 🍴 6,097 |
+| **Trending Days** | 17 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Oct 16, 2026 |
+| **Last Seen** | Oct 17, 2026 |
 
 
 ---
@@ -44,11 +44,12 @@
 ## Trending Timeline
 
 **Aug 12, 2026** — Rank #4 (+1215 ⭐)  
+**Oct 17, 2026** — Rank #8 (+829 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 16
+- **Trending Days**: 17
 - **Longest Streak**: 4 days
 
 ---
@@ -56,10 +57,10 @@
 ## Categories
 
 ### Topics
-[`ade`](../../topics/ade.md) [`agent-ide`](../../topics/agent-ide.md) [`ai-agents`](../../topics/ai-agents.md) [`claude-code`](../../topics/claude-code.md) [`cli`](../../topics/cli.md) [`codex`](../../topics/codex.md) [`cursor-agent`](../../topics/cursor-agent.md) [`devtools`](../../topics/devtools.md) [`ghostty`](../../topics/ghostty.md) [`ide`](../../topics/ide.md) [`mobile-app`](../../topics/mobile-app.md) [`opencode`](../../topics/opencode.md) [`orchestration`](../../topics/orchestration.md) [`parallel-agents`](../../topics/parallel-agents.md) [`pi`](../../topics/pi.md) [`terminal`](../../topics/terminal.md) [`worktrees`](../../topics/worktrees.md) [`yc-backed`](../../topics/yc-backed.md) 
+[`ade`](../../topics/ade.md) [`agent-ide`](../../topics/agent-ide.md) [`ai-agents`](../../topics/ai-agents.md) [`automation`](../../topics/automation.md) [`bot`](../../topics/bot.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`ghostty`](../../topics/ghostty.md) [`grok-bot`](../../topics/grok-bot.md) [`hermes-agent`](../../topics/hermes-agent.md) [`mobile-app`](../../topics/mobile-app.md) [`muse`](../../topics/muse.md) [`openclaw`](../../topics/openclaw.md) [`opencode`](../../topics/opencode.md) [`orchestration`](../../topics/orchestration.md) [`pi`](../../topics/pi.md) [`runtime`](../../topics/runtime.md) [`terminal`](../../topics/terminal.md) [`worktrees`](../../topics/worktrees.md) [`yc-backed`](../../topics/yc-backed.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `Mobile Development` `Containers &amp; Orchestration` `Systems Programming` `Developer Tools` 
+`Artificial Intelligence` `Large Language Models` `Mobile Development` `DevOps &amp; CI&#x2F;CD` `Containers &amp; Orchestration` `Systems Programming` `Developer Tools` `Automation` 
 
 ---
 
@@ -92,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-10-16T21:32:56.216Z*  
-*Data from 16 trending reports*
+*Last updated: 2026-10-17T21:01:46.131Z*  
+*Data from 17 trending reports*

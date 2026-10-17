@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,019 | 2026-08-01 | 14 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,395 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,363 | 2026-08-01 | 12 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,474 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,583 | 2026-08-01 | 17 |
+| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 6,481 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,653 | 2026-08-03 | 31 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 17,249 | 2026-08-03 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,965 | 2026-08-03 | 12 |
+| [actions/runner](../repos/actions/runner.md) | ⭐ 6,338 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,775 | 2026-08-06 | 16 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,800 | 2026-08-06 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tichau/FileConverter](../repos/Tichau/FileConverter.md) | ⭐ 15,393 | 2026-08-11 | 5 |
+| [Azure/azure-sdk-for-net](../repos/Azure/azure-sdk-for-net.md) | ⭐ 6,067 | 2026-08-12 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SirDiabo/GithubLauncher](../repos/SirDiabo/GithubLauncher.md) | ⭐ 1,830 | 2026-08-27 | 5 |
+| [microsoft/winappCli](../repos/microsoft/winappCli.md) | ⭐ 1,321 | 2026-09-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RankFTW/RHI](../repos/RankFTW/RHI.md) | ⭐ 2,175 | 2026-09-20 | 6 |
+| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 2,229 | 2026-09-24 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/Llama-Windows](../repos/ggml-org/Llama-Windows.md) | ⭐ 197 | 2026-10-07 | 5 |
+| [ggml-org/Llama-Windows](../repos/ggml-org/Llama-Windows.md) | ⭐ 223 | 2026-10-07 | 6 |
 
 
 ---
@@ -90,11 +90,11 @@
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 118,208 | 2026-08-02 | 30 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 57,879 | 2026-08-02 | 19 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,775 | 2026-08-06 | 16 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,800 | 2026-08-06 | 17 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,019 | 2026-08-01 | 14 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,793 | 2026-08-14 | 4 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,965 | 2026-08-03 | 12 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,465 | 2026-08-01 | 17 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,474 | 2026-08-01 | 18 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,047 | 2026-08-01 | 19 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,572 | 2026-08-02 | 31 |
@@ -107,7 +107,7 @@
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,231 | 2026-08-27 | 8 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,700 | 2026-08-01 | 10 |
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,363 | 2026-08-01 | 12 |
+| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,395 | 2026-08-01 | 13 |
 
 ---
 
@@ -122,9 +122,9 @@
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 19 | ⭐ 57,879 | 2026-08-02 | 2026-10-07 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 19 | ⭐ 16,177 | 2026-08-02 | 2026-10-14 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 18 | ⭐ 3,774 | 2026-08-01 | 2026-10-14 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 17 | ⭐ 38,465 | 2026-08-01 | 2026-10-06 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 18 | ⭐ 38,474 | 2026-08-01 | 2026-10-17 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | 18 | ⭐ 17,249 | 2026-08-03 | 2026-10-17 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 17 | ⭐ 14,583 | 2026-08-01 | 2026-10-16 |
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | 17 | ⭐ 17,117 | 2026-08-03 | 2026-10-14 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-16T21:32:51.451Z*
+*Last updated: 2026-10-17T21:01:41.931Z*

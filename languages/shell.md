@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 139
+- **Total Repositories**: 140
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,560 | 2026-08-01 | 38 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,831 | 2026-08-04 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,261 | 2026-08-04 | 20 |
+| [kodekloudhub/certified-kubernetes-administrator-course](../repos/kodekloudhub/certified-kubernetes-administrator-course.md) | ⭐ 10,917 | 2026-08-07 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 3,079 | 2026-08-05 | 13 |
+| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,660 | 2026-08-08 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | ⭐ 8,002 | 2026-08-12 | 19 |
+| [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) | ⭐ 4,911 | 2026-08-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,676 | 2026-08-20 | 11 |
+| [PrismML-Eng/Bonsai-demo](../repos/PrismML-Eng/Bonsai-demo.md) | ⭐ 3,393 | 2026-08-15 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,573 | 2026-08-20 | 11 |
+| [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,993 | 2026-09-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CISOfy/lynis](../repos/CISOfy/lynis.md) | ⭐ 16,492 | 2026-08-24 | 2 |
+| [ONLYOFFICE/DocumentServer](../repos/ONLYOFFICE/DocumentServer.md) | ⭐ 7,030 | 2026-09-25 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zabbix/community-templates](../repos/zabbix/community-templates.md) | ⭐ 1,997 | 2026-09-19 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [winapps-org/winapps](../repos/winapps-org/winapps.md) | ⭐ 16,088 | 2026-10-16 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [IceWhaleTech/ZimaOS](../repos/IceWhaleTech/ZimaOS.md) | ⭐ 3,031 | 2026-10-16 | 1 |
+| [home-assistant/addons](../repos/home-assistant/addons.md) | ⭐ 2,239 | 2026-10-17 | 1 |
 
 
 ---
@@ -93,7 +87,7 @@
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,666 | 2026-08-04 | 8 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,811 | 2026-08-04 | 11 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,831 | 2026-08-04 | 12 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 44,635 | 2026-08-29 | 5 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,676 | 2026-08-20 | 11 |
@@ -106,7 +100,7 @@
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 6 |
 | [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 19,479 | 2026-08-08 | 7 |
-| [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,853 | 2026-09-08 | 1 |
+| [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,993 | 2026-09-08 | 2 |
 | [CISOfy/lynis](../repos/CISOfy/lynis.md) | ⭐ 16,492 | 2026-08-24 | 2 |
 
 ---
@@ -123,8 +117,8 @@
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 13 | ⭐ 3,079 | 2026-08-05 | 2026-10-16 |
 | [dockur/windows](../repos/dockur/windows.md) | 13 | ⭐ 53,550 | 2026-08-06 | 2026-10-07 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 12 | ⭐ 2,316 | 2026-08-02 | 2026-09-25 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 12 | ⭐ 47,831 | 2026-08-04 | 2026-10-17 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 12 | ⭐ 26,137 | 2026-08-04 | 2026-10-13 |
-| [deanpeters/Product-Manager-Skills](../repos/deanpeters/Product-Manager-Skills.md) | 11 | ⭐ 7,410 | 2026-08-01 | 2026-10-15 |
 
 ---
 
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-16T21:32:51.559Z*
+*Last updated: 2026-10-17T21:01:42.024Z*

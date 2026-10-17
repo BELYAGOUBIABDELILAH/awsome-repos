@@ -16,31 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/fonts](../repos/google/fonts.md) | ⭐ 20,632 | 2026-08-03 | 6 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,544 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | ⭐ 16,604 | 2026-08-04 | 13 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 30,172 | 2026-08-09 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,231 | 2026-08-05 | 10 |
+| [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,980 | 2026-08-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,676 | 2026-08-07 | 6 |
+| [openshift/openshift-docs](../repos/openshift/openshift-docs.md) | ⭐ 882 | 2026-08-28 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 30,142 | 2026-08-09 | 13 |
+| [aoaostar/legado](../repos/aoaostar/legado.md) | ⭐ 6,915 | 2026-09-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openshift/openshift-docs](../repos/openshift/openshift-docs.md) | ⭐ 882 | 2026-08-28 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [isjiamu/gzh-design-skill](../repos/isjiamu/gzh-design-skill.md) | ⭐ 4,018 | 2026-09-01 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [EricTechPro/super-board](../repos/EricTechPro/super-board.md) | ⭐ 326 | 2026-10-09 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [SamidyFR/Game-Decompilations](../repos/SamidyFR/Game-Decompilations.md) | ⭐ 568 | 2026-10-11 | 3 |
+| [EricTechPro/super-board](../repos/EricTechPro/super-board.md) | ⭐ 359 | 2026-10-09 | 5 |
 
 
 ---
@@ -89,13 +80,13 @@
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 138,503 | 2026-08-08 | 14 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,193 | 2026-08-19 | 8 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 67,007 | 2026-08-01 | 17 |
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,524 | 2026-08-01 | 7 |
+| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,544 | 2026-08-01 | 8 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,233 | 2026-09-03 | 4 |
 | [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,676 | 2026-08-07 | 6 |
 | [fengdu78/Coursera-ML-AndrewNg-Notes](../repos/fengdu78/Coursera-ML-AndrewNg-Notes.md) | ⭐ 37,699 | 2026-09-06 | 1 |
-| [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,850 | 2026-08-12 | 1 |
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 30,142 | 2026-08-09 | 13 |
+| [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,980 | 2026-08-12 | 2 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 30,172 | 2026-08-09 | 14 |
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,754 | 2026-08-19 | 9 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 28,016 | 2026-08-04 | 16 |
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
@@ -117,9 +108,9 @@
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 16 | ⭐ 28,016 | 2026-08-04 | 2026-10-15 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 15 | ⭐ 10,572 | 2026-08-03 | 2026-10-01 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 14 | ⭐ 138,503 | 2026-08-08 | 2026-09-25 |
+| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 14 | ⭐ 30,172 | 2026-08-09 | 2026-10-17 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 13 | ⭐ 9,951 | 2026-08-01 | 2026-10-14 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 13 | ⭐ 16,604 | 2026-08-04 | 2026-10-16 |
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 13 | ⭐ 30,142 | 2026-08-09 | 2026-10-16 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 13 | ⭐ 43,224 | 2026-08-12 | 2026-10-03 |
 | [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 12 | ⭐ 5,350 | 2026-08-11 | 2026-10-15 |
 
@@ -230,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-10-16T21:32:51.485Z*
+*Last updated: 2026-10-17T21:01:41.965Z*

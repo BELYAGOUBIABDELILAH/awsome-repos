@@ -16,25 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 40,090 | 2026-08-14 | 8 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,053 | 2026-07-30 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 23,606 | 2026-08-16 | 6 |
+| [decolua/9router](../repos/decolua/9router.md) | ⭐ 30,970 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/lavish-axi](../repos/kunchenguid/lavish-axi.md) | ⭐ 4,170 | 2026-08-24 | 2 |
+| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,701 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [plugin87/ux-ui-agent-skills](../repos/plugin87/ux-ui-agent-skills.md) | ⭐ 2,006 | 2026-09-14 | 3 |
+| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 40,126 | 2026-08-14 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laoma528/awesome-zhuiju-free](../repos/laoma528/awesome-zhuiju-free.md) | ⭐ 12,382 | 2026-10-15 | 2 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 24,356 | 2026-08-16 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 2,667 | 2026-10-16 | 1 |
+| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 5,327 | 2026-09-12 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superdesigndev/superdesign-skill](../repos/superdesigndev/superdesign-skill.md) | ⭐ 812 | 2026-10-16 | 1 |
+| [plugin87/ux-ui-agent-skills](../repos/plugin87/ux-ui-agent-skills.md) | ⭐ 2,033 | 2026-09-14 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 2,752 | 2026-10-16 | 2 |
 
 
 ---
@@ -83,7 +86,7 @@
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,238 | 2026-07-30 | 11 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,053 | 2026-07-30 | 12 |
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 103,896 | 2026-08-05 | 28 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
@@ -98,7 +101,7 @@
 | [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 56,874 | 2026-08-27 | 13 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
-| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,649 | 2026-08-08 | 4 |
+| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,701 | 2026-08-08 | 5 |
 
 ---
 
@@ -113,9 +116,9 @@
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 13 | ⭐ 3,954 | 2026-08-07 | 2026-10-03 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 13 | ⭐ 56,874 | 2026-08-27 | 2026-10-15 |
+| [vercel/next.js](../repos/vercel/next.js.md) | 12 | ⭐ 143,053 | 2026-07-30 | 2026-10-17 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 12 | ⭐ 27,764 | 2026-08-03 | 2026-10-12 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 12 | ⭐ 30,461 | 2026-08-08 | 2026-10-15 |
-| [vercel/next.js](../repos/vercel/next.js.md) | 11 | ⭐ 143,238 | 2026-07-30 | 2026-10-07 |
 
 ---
 
@@ -224,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-16T21:32:51.494Z*
+*Last updated: 2026-10-17T21:01:41.972Z*

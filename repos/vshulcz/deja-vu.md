@@ -1,6 +1,6 @@
 # vshulcz&#x2F;deja-vu
 
-> One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 29 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.
+> Coding agent memory for Claude Code, Codex, Cursor and 39 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;vshulcz&#x2F;deja-vu) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | MIT |
-| **Stars** | ⭐ 1,014 |
-| **Forks** | 🍴 100 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 1,235 |
+| **Forks** | 🍴 125 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 20, 2026 |
-| **Last Seen** | Sep 25, 2026 |
+| **Last Seen** | Oct 17, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`agent-memory`](../../topics/agent-memory.md) [`agents`](../../topics/agents.md) [`ai`](../../topics/ai.md) [`claude-code`](../../topics/claude-code.md) [`claude-code-hooks`](../../topics/claude-code-hooks.md) [`claude-code-plugins`](../../topics/claude-code-plugins.md) [`codex`](../../topics/codex.md) [`coding-agents`](../../topics/coding-agents.md) [`deepseek-harness`](../../topics/deepseek-harness.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`gemini-cli-extension`](../../topics/gemini-cli-extension.md) [`genai`](../../topics/genai.md) [`kimi-code`](../../topics/kimi-code.md) [`mcp`](../../topics/mcp.md) [`mcp-server`](../../topics/mcp-server.md) [`memory`](../../topics/memory.md) [`opencode`](../../topics/opencode.md) [`qwen-code`](../../topics/qwen-code.md) [`session-history`](../../topics/session-history.md) [`zed-extension`](../../topics/zed-extension.md) 
+[`agent-memory`](../../topics/agent-memory.md) [`ai-memory`](../../topics/ai-memory.md) [`claude-code`](../../topics/claude-code.md) [`claude-code-hooks`](../../topics/claude-code-hooks.md) [`claude-code-plugins`](../../topics/claude-code-plugins.md) [`codex`](../../topics/codex.md) [`coding-agents`](../../topics/coding-agents.md) [`deepseek-harness`](../../topics/deepseek-harness.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`gemini-cli-extension`](../../topics/gemini-cli-extension.md) [`hacktoberfest`](../../topics/hacktoberfest.md) [`kimi-code`](../../topics/kimi-code.md) [`mcp`](../../topics/mcp.md) [`mcp-server`](../../topics/mcp-server.md) [`memory`](../../topics/memory.md) [`opencode`](../../topics/opencode.md) [`persistent-memory`](../../topics/persistent-memory.md) [`qwen-code`](../../topics/qwen-code.md) [`session-history`](../../topics/session-history.md) [`zed-extension`](../../topics/zed-extension.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Backend Development` `Systems Programming` `Developer Tools` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-16T21:32:58.034Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-10-17T21:01:48.097Z*  
+*Data from 3 trending reports*

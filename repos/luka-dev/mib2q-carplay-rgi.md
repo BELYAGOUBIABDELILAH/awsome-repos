@@ -1,6 +1,6 @@
 # luka-dev&#x2F;mib2q-carplay-rgi
 
-> Implementation of Route Guidance from CarPlay for MHI2Q
+> Better CarPlay for MHI2Q! Cluster Map, HUD Projection, Spatial Audio and more
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;luka-dev&#x2F;mib2q-carplay-rgi) 
 
@@ -11,14 +11,14 @@
 | | |
 |---|---|
 | **Language** | C |
-| **License** | Not specified |
-| **Stars** | ⭐ 194 |
-| **Forks** | 🍴 28 |
-| **Trending Days** | 2 |
+| **License** | GPL-3.0 |
+| **Stars** | ⭐ 339 |
+| **Forks** | 🍴 65 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 20, 2026 |
-| **Last Seen** | Sep 21, 2026 |
+| **Last Seen** | Oct 17, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in C or apple-carplay*
+*Similar: Check repositories in C or altscreen*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`apple-carplay`](../../topics/apple-carplay.md) [`audi`](../../topics/audi.md) [`car-hacking`](../../topics/car-hacking.md) [`carplay`](../../topics/carplay.md) [`iap2`](../../topics/iap2.md) [`mhi2`](../../topics/mhi2.md) [`mhi2q`](../../topics/mhi2q.md) [`mib`](../../topics/mib.md) [`mib2`](../../topics/mib2.md) [`mib2q`](../../topics/mib2q.md) [`navigation`](../../topics/navigation.md) [`qnx`](../../topics/qnx.md) [`route-guidance`](../../topics/route-guidance.md) [`turn-by-turn`](../../topics/turn-by-turn.md) [`vw`](../../topics/vw.md) 
+[`altscreen`](../../topics/altscreen.md) [`apple-carplay`](../../topics/apple-carplay.md) [`audi`](../../topics/audi.md) [`car-hacking`](../../topics/car-hacking.md) [`carplay`](../../topics/carplay.md) [`cluster`](../../topics/cluster.md) [`iap2`](../../topics/iap2.md) [`mhi2`](../../topics/mhi2.md) [`mhi2q`](../../topics/mhi2q.md) [`mib`](../../topics/mib.md) [`mib2`](../../topics/mib2.md) [`mib2q`](../../topics/mib2q.md) [`navigation`](../../topics/navigation.md) [`qnx`](../../topics/qnx.md) [`route-guidance`](../../topics/route-guidance.md) [`spatial-audio`](../../topics/spatial-audio.md) [`turn-by-turn`](../../topics/turn-by-turn.md) [`upmix`](../../topics/upmix.md) [`vw`](../../topics/vw.md) 
 
 ### Curated Categories
 `Frontend Development` `Systems Programming` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-16T21:32:58.041Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-10-17T21:01:48.108Z*  
+*Data from 3 trending reports*
