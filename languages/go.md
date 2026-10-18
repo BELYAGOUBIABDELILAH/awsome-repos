@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 308
+- **Total Repositories**: 310
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-10-17
+- **Last Updated**: 2026-10-18
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 183,618 | 2026-08-01 | 21 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 183,731 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,332 | 2026-08-04 | 9 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 5,489 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,423 | 2026-08-04 | 7 |
+| [authelia/authelia](../repos/authelia/authelia.md) | ⭐ 29,302 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 27,965 | 2026-08-04 | 12 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 27,991 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) | ⭐ 4,292 | 2026-08-05 | 9 |
+| [github/github-mcp-server](../repos/github/github-mcp-server.md) | ⭐ 33,731 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 44,261 | 2026-08-07 | 19 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,972 | 2026-08-06 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 30,073 | 2026-08-11 | 11 |
+| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 30,098 | 2026-08-11 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,512 | 2026-08-15 | 11 |
+| [guohuiyuan/go-music-dl](../repos/guohuiyuan/go-music-dl.md) | ⭐ 5,459 | 2026-09-20 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cilium/cilium](../repos/cilium/cilium.md) | ⭐ 25,676 | 2026-08-19 | 8 |
+| [google/ax](../repos/google/ax.md) | ⭐ 13,932 | 2026-09-22 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,372 | 2026-08-22 | 4 |
+| [jasonxu114514/opencode2api](../repos/jasonxu114514/opencode2api.md) | ⭐ 1,045 | 2026-10-16 | 3 |
 
 
 ---
@@ -70,7 +70,7 @@
 | [grafana/gcx](../repos/grafana/gcx.md) | ⭐ 771 | 2026-09-19 | A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [guohuiyuan/go-music-dl](../repos/guohuiyuan/go-music-dl.md) | ⭐ 5,148 | 2026-09-20 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析... |
+| [guohuiyuan/go-music-dl](../repos/guohuiyuan/go-music-dl.md) | ⭐ 5,459 | 2026-09-20 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [dagger/dagger](../repos/dagger/dagger.md) | ⭐ 16,278 | 2026-09-20 | Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the c... |
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 183,618 | 2026-08-01 | 21 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 183,731 | 2026-08-01 | 22 |
 | [golang/go](../repos/golang/go.md) | ⭐ 139,169 | 2026-07-31 | 14 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,332 | 2026-08-04 | 9 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,512 | 2026-08-15 | 11 |
@@ -106,7 +106,7 @@
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,372 | 2026-08-22 | 4 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
-| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,905 | 2026-08-06 | 9 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,972 | 2026-08-06 | 10 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 49,872 | 2026-08-01 | 19 |
 
 ---
@@ -116,12 +116,12 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 24 | ⭐ 34,389 | 2026-08-01 | 2026-10-16 |
-| [ollama/ollama](../repos/ollama/ollama.md) | 21 | ⭐ 183,618 | 2026-08-01 | 2026-10-17 |
+| [ollama/ollama](../repos/ollama/ollama.md) | 22 | ⭐ 183,731 | 2026-08-01 | 2026-10-18 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 19 | ⭐ 49,872 | 2026-08-01 | 2026-10-13 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 19 | ⭐ 44,261 | 2026-08-07 | 2026-10-17 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 18 | ⭐ 52,913 | 2026-08-01 | 2026-10-15 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 18 | ⭐ 38,286 | 2026-08-01 | 2026-10-07 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 17 | ⭐ 5,223 | 2026-08-02 | 2026-10-15 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 18 | ⭐ 5,489 | 2026-08-02 | 2026-10-18 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 16 | ⭐ 762 | 2026-08-01 | 2026-10-07 |
 | [golang/go](../repos/golang/go.md) | 14 | ⭐ 139,169 | 2026-07-31 | 2026-10-14 |
 | [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 14 | ⭐ 30,725 | 2026-08-06 | 2026-10-16 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-17T21:01:41.959Z*
+*Last updated: 2026-10-18T21:01:50.662Z*

@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Swift |
+| **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 834 |
-| **Forks** | 🍴 230 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 863 |
+| **Forks** | 🍴 235 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 12, 2026 |
-| **Last Seen** | Oct 17, 2026 |
+| **Last Seen** | Oct 18, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Swift or similar-topics*
+*Similar: Check repositories in TypeScript or similar-topics*
 
 ---
 
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
-- **Longest Streak**: 6 days
+- **Trending Days**: 7
+- **Longest Streak**: 7 days
 
 ---
 
@@ -81,7 +81,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Swift
+- Check similar projects in TypeScript
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-17T21:01:48.736Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-10-18T21:01:54.958Z*  
+*Data from 7 trending reports*

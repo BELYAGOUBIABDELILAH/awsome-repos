@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 114,356 |
-| **Forks** | 🍴 11,110 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 128,343 |
+| **Forks** | 🍴 12,373 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Sep 3, 2026 |
+| **Last Seen** | Oct 18, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`ai-agents`](../../topics/ai-agents.md) [`antigravity`](../../topics/antigravity.md) [`ast`](../../topics/ast.md) [`claude-code`](../../topics/claude-code.md) [`code-analysis`](../../topics/code-analysis.md) [`code-search`](../../topics/code-search.md) [`codex`](../../topics/codex.md) [`cursor`](../../topics/cursor.md) [`developer-tools`](../../topics/developer-tools.md) [`gemini`](../../topics/gemini.md) [`graphrag`](../../topics/graphrag.md) [`knowledge-graph`](../../topics/knowledge-graph.md) [`leiden`](../../topics/leiden.md) [`llm`](../../topics/llm.md) [`mcp`](../../topics/mcp.md) [`openclaw`](../../topics/openclaw.md) [`rag`](../../topics/rag.md) [`skills`](../../topics/skills.md) [`tree-sitter`](../../topics/tree-sitter.md) 
+[`ai-agents`](../../topics/ai-agents.md) [`antigravity`](../../topics/antigravity.md) [`ast`](../../topics/ast.md) [`claude-code`](../../topics/claude-code.md) [`code-analysis`](../../topics/code-analysis.md) [`code-search`](../../topics/code-search.md) [`codex`](../../topics/codex.md) [`cursor`](../../topics/cursor.md) [`developer-tools`](../../topics/developer-tools.md) [`gemini`](../../topics/gemini.md) [`graphify`](../../topics/graphify.md) [`graphrag`](../../topics/graphrag.md) [`knowledge-graph`](../../topics/knowledge-graph.md) [`leiden`](../../topics/leiden.md) [`llm`](../../topics/llm.md) [`mcp`](../../topics/mcp.md) [`openclaw`](../../topics/openclaw.md) [`rag`](../../topics/rag.md) [`skills`](../../topics/skills.md) [`tree-sitter`](../../topics/tree-sitter.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Systems Programming` `Developer Tools` 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 114,356+ stars, strong contributor base |
+| **Community** | Very Active | 128,343+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-17T21:01:44.712Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-10-18T21:01:52.513Z*  
+*Data from 6 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 270
+- **Total Repositories**: 272
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 193,792 | 2026-07-30 | 7 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 12,692 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 12,263 | 2026-08-01 | 21 |
+| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,316 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/expo](../repos/expo/expo.md) | ⭐ 52,795 | 2026-08-06 | 4 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 151,629 | 2026-08-07 | 18 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 76,441 | 2026-08-10 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [payloadcms/payload](../repos/payloadcms/payload.md) | ⭐ 45,312 | 2026-08-07 | 3 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 96,468 | 2026-08-11 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 75,995 | 2026-08-10 | 16 |
+| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 58,498 | 2026-08-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 95,269 | 2026-08-11 | 17 |
+| [anthropics/claude-quickstarts](../repos/anthropics/claude-quickstarts.md) | ⭐ 18,611 | 2026-08-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [calcom/cal.diy](../repos/calcom/cal.diy.md) | ⭐ 49,113 | 2026-08-15 | 3 |
+| [thesysdev/openui](../repos/thesysdev/openui.md) | ⭐ 11,779 | 2026-09-13 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cline/cline](../repos/cline/cline.md) | ⭐ 70,464 | 2026-08-20 | 3 |
+| [vercel-labs/scriptc](../repos/vercel-labs/scriptc.md) | ⭐ 6,225 | 2026-09-27 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [awslabs/aidlc-workflows](../repos/awslabs/aidlc-workflows.md) | ⭐ 5,369 | 2026-09-03 | 3 |
+| [DmNote-App/DmNote](../repos/DmNote-App/DmNote.md) | ⭐ 4,675 | 2026-10-08 | 2 |
 
 
 ---
@@ -95,18 +95,18 @@
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 151,629 | 2026-08-07 | 18 |
-| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 137,718 | 2026-08-02 | 5 |
+| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,316 | 2026-08-02 | 6 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 135,527 | 2026-08-02 | 13 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
-| [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 112,105 | 2026-08-07 | 11 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 102,669 | 2026-08-02 | 10 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
 | [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 97,789 | 2026-10-15 | 1 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 96,468 | 2026-08-11 | 18 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 95,269 | 2026-08-11 | 17 |
 | [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 90,957 | 2026-08-22 | 3 |
 
 ---
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [cursor/plugins](../repos/cursor/plugins.md) | 21 | ⭐ 12,263 | 2026-08-01 | 2026-10-17 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 22 | ⭐ 12,692 | 2026-08-01 | 2026-10-18 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 21 | ⭐ 65,234 | 2026-08-08 | 2026-10-16 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 18 | ⭐ 151,629 | 2026-08-07 | 2026-10-17 |
-| [stablyai/orca](../repos/stablyai/orca.md) | 17 | ⭐ 95,269 | 2026-08-11 | 2026-10-17 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 18 | ⭐ 96,468 | 2026-08-11 | 2026-10-18 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 17 | ⭐ 76,441 | 2026-08-10 | 2026-10-18 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 16 | ⭐ 35,725 | 2026-08-07 | 2026-10-15 |
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 16 | ⭐ 75,995 | 2026-08-10 | 2026-10-17 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 13 | ⭐ 135,527 | 2026-08-02 | 2026-10-06 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 12 | ⭐ 53,536 | 2026-08-01 | 2026-10-14 |
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 11 | ⭐ 26,124 | 2026-08-01 | 2026-10-07 |
+| [earendil-works/pi](../repos/earendil-works/pi.md) | 12 | ⭐ 116,129 | 2026-08-07 | 2026-10-18 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-17T21:01:42.032Z*
+*Last updated: 2026-10-18T21:01:50.724Z*

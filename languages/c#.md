@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 187
+- **Total Repositories**: 189
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-14
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,395 | 2026-08-01 | 13 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 32,308 | 2026-08-02 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,474 | 2026-08-01 | 18 |
+| [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) | ⭐ 14,248 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [builtbybel/FluentCleaner](../repos/builtbybel/FluentCleaner.md) | ⭐ 6,481 | 2026-08-02 | 13 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 17,291 | 2026-08-03 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 17,249 | 2026-08-03 | 18 |
+| [TechnitiumSoftware/DnsServer](../repos/TechnitiumSoftware/DnsServer.md) | ⭐ 10,151 | 2026-08-12 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner](../repos/actions/runner.md) | ⭐ 6,338 | 2026-08-04 | 12 |
+| [luolangaga/tubatools](../repos/luolangaga/tubatools.md) | ⭐ 5,528 | 2026-08-12 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,800 | 2026-08-06 | 17 |
+| [Revolutionary-Games/Thrive](../repos/Revolutionary-Games/Thrive.md) | ⭐ 3,761 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Azure/azure-sdk-for-net](../repos/Azure/azure-sdk-for-net.md) | ⭐ 6,067 | 2026-08-12 | 7 |
+| [SirDiabo/GithubLauncher](../repos/SirDiabo/GithubLauncher.md) | ⭐ 1,882 | 2026-08-27 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/winappCli](../repos/microsoft/winappCli.md) | ⭐ 1,321 | 2026-09-10 | 2 |
+| [RankFTW/RHI](../repos/RankFTW/RHI.md) | ⭐ 2,223 | 2026-09-20 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 2,229 | 2026-09-24 | 6 |
+| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 2,345 | 2026-09-24 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/Llama-Windows](../repos/ggml-org/Llama-Windows.md) | ⭐ 223 | 2026-10-07 | 6 |
+| [ggml-org/Llama-Windows](../repos/ggml-org/Llama-Windows.md) | ⭐ 234 | 2026-10-07 | 7 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [bbepis/XUnity.AutoTranslator](../repos/bbepis/XUnity.AutoTranslator.md) | ⭐ 3,433 | 2026-09-19 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [RankFTW/RHI](../repos/RankFTW/RHI.md) | ⭐ 2,175 | 2026-09-20 | ReShade HDR Installer |
+| [RankFTW/RHI](../repos/RankFTW/RHI.md) | ⭐ 2,223 | 2026-09-20 | ReShade HDR Installer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [UnderminersTeam/UndertaleModTool](../repos/UnderminersTeam/UndertaleModTool.md) | ⭐ 2,056 | 2026-09-20 | The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!) |
@@ -95,9 +95,9 @@
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,793 | 2026-08-14 | 4 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,965 | 2026-08-03 | 12 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,474 | 2026-08-01 | 18 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 32,308 | 2026-08-02 | 32 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,047 | 2026-08-01 | 19 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 31,572 | 2026-08-02 | 31 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,062 | 2026-08-28 | 3 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,603 | 2026-08-05 | 11 |
@@ -115,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 31 | ⭐ 31,572 | 2026-08-02 | 2026-10-12 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 32 | ⭐ 32,308 | 2026-08-02 | 2026-10-18 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 31 | ⭐ 5,653 | 2026-08-03 | 2026-10-16 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 30 | ⭐ 118,208 | 2026-08-02 | 2026-10-14 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 19 | ⭐ 32,047 | 2026-08-01 | 2026-10-15 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 19 | ⭐ 57,879 | 2026-08-02 | 2026-10-07 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 19 | ⭐ 16,177 | 2026-08-02 | 2026-10-14 |
+| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | 19 | ⭐ 17,291 | 2026-08-03 | 2026-10-18 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 18 | ⭐ 3,774 | 2026-08-01 | 2026-10-14 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 18 | ⭐ 38,474 | 2026-08-01 | 2026-10-17 |
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | 18 | ⭐ 17,249 | 2026-08-03 | 2026-10-17 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 17 | ⭐ 14,583 | 2026-08-01 | 2026-10-16 |
 
 ---
@@ -217,7 +217,7 @@
 - [rmcrackan/Libation](../repos/rmcrackan/Libation.md) - Libation: Liberate your Library
 - [TechnitiumSoftware/DnsServer](../repos/TechnitiumSoftware/DnsServer.md) - Technitium DNS Server
 - [Azure/azure-sdk-for-net](../repos/Azure/azure-sdk-for-net.md) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we ...
-- [luolangaga/tubatools](../repos/luolangaga/tubatools.md) - 图吧工具箱 CE
+- [luolangaga/tubatools](../repos/luolangaga/tubatools.md) - 这是图吧工具箱基于 WinUI 3 全新重构的版本，一款由社区驱动、深度契合 Windows 11 设计美学的现代化工具箱。它不仅确保你始终使用最新版本的工具，还集成了更加丰富的实用功能，更可满...
 - [TheJoeFin/Text-Grab](../repos/TheJoeFin/Text-Grab.md) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifi...
 - [indiff/qttabbar](../repos/indiff/qttabbar.md) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   h...
 - [Unity-Technologies/skills](../repos/Unity-Technologies/skills.md) - A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built f...
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-17T21:01:41.931Z*
+*Last updated: 2026-10-18T21:01:50.632Z*

@@ -1,6 +1,6 @@
 # Comfy-Org&#x2F;ComfyUI
 
-> The most powerful and modular diffusion model GUI, api and backend with a graph&#x2F;nodes interface.
+> The most powerful and modular diffusion model GUI, api and backend with a graph&#x2F;nodes interface. The fastest local inference engine in the world.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Comfy-Org&#x2F;ComfyUI) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 131,932 |
-| **Forks** | 🍴 15,556 |
-| **Trending Days** | 8 |
+| **Stars** | ⭐ 138,529 |
+| **Forks** | 🍴 16,495 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #10 |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Sep 7, 2026 |
+| **Last Seen** | Oct 18, 2026 |
 
 
 ---
@@ -46,11 +46,12 @@
 **Aug 9, 2026** — Rank #10 (+333 ⭐)  
 **Aug 10, 2026** — Rank #15 (+921 ⭐)  
 **Aug 23, 2026** — Rank #17 (+179 ⭐)  
+**Oct 18, 2026** — Rank #13 (+155 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #10
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 2 days
 
 ---
@@ -73,9 +74,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 131,932+ stars, strong contributor base |
+| **Community** | Very Active | 138,529+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -94,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-10-17T21:01:45.243Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-10-18T21:01:52.822Z*  
+*Data from 9 trending reports*

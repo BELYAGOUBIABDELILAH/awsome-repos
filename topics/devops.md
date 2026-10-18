@@ -9,7 +9,7 @@
 - **Total Repositories**: 325
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
-- **Average Stars**: 14603
+- **Average Stars**: 14608
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,395 | C# |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,780 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,779 | Ruby |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,580 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,581 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,240 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,233 | Scala |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,235 | Lua |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,269 | Clojure |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,288 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,382 | OCaml |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,544 | HTML |  |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,023 | V |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,015 | V |  |
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 27,880 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,700 | R |  |
+| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,702 | R |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,137 | Elixir |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,343 | Groovy |  |
 
 
 ---
@@ -85,19 +85,19 @@
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,395 | C# | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,779 | Ruby | 1 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,780 | Ruby | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,804 | Ruby | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,581 | Scala | 4 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,580 | Scala | 5 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,403 | Scala | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,233 | Scala | 7 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,240 | Scala | 8 |
 
 ---
 
@@ -117,7 +117,7 @@
 | [screego/server](../repos/screego/server.md) | ⭐ 10,670 | Go | 2026-09-20 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 687 | C | 2026-09-20 |
+| [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 720 | C | 2026-09-20 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [TandoorRecipes/recipes](../repos/TandoorRecipes/recipes.md) | ⭐ 8,616 | HTML | 2026-09-20 |
@@ -137,6 +137,10 @@
 ---
 
 ## 📅 Recent History
+
+### [2026-10-18](../archive/2026/10/2026-10-18.md)
+- 22 repositories trending
+- Top: hashicorp&#x2F;terraform
 
 ### [2026-10-17](../archive/2026/10/2026-10-17.md)
 - 37 repositories trending
@@ -162,10 +166,6 @@
 - 29 repositories trending
 - Top: files-community&#x2F;Files
 
-### [2026-10-11](../archive/2026/10/2026-10-11.md)
-- 24 repositories trending
-- Top: files-community&#x2F;Files
-
 
 ---
 
@@ -175,13 +175,13 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 63 days | 2026-08-01 | 2026-10-17 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 58 days | 2026-08-01 | 2026-10-17 |
-| [vlang/v](../repos/vlang/v.md) | 57 days | 2026-08-01 | 2026-10-17 |
-| [joernio/joern](../repos/joernio/joern.md) | 53 days | 2026-08-01 | 2026-10-17 |
+| [apache/spark](../repos/apache/spark.md) | 64 days | 2026-08-01 | 2026-10-18 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 59 days | 2026-08-01 | 2026-10-18 |
+| [vlang/v](../repos/vlang/v.md) | 58 days | 2026-08-01 | 2026-10-18 |
+| [joernio/joern](../repos/joernio/joern.md) | 54 days | 2026-08-01 | 2026-10-18 |
 | [vim/vim](../repos/vim/vim.md) | 51 days | 2026-08-01 | 2026-10-16 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 50 days | 2026-08-02 | 2026-10-17 |
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 40 days | 2026-08-02 | 2026-10-17 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 51 days | 2026-08-02 | 2026-10-18 |
+| [rundeck/rundeck](../repos/rundeck/rundeck.md) | 41 days | 2026-08-02 | 2026-10-18 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 days | 2026-08-01 | 2026-10-01 |
 | [facebook/infer](../repos/facebook/infer.md) | 38 days | 2026-08-02 | 2026-10-17 |
 | [requarks/wiki](../repos/requarks/wiki.md) | 35 days | 2026-08-01 | 2026-10-12 |
@@ -198,7 +198,7 @@
 - **Rust**: 15 repositories (5%)
 
 ### Trending Frequency
-- **Daily Average**: 32.2 repositories
+- **Daily Average**: 32.1 repositories
 - **Peak Day**: 2026-08-04 (49 repositories)
 - **Growth Rate**: 14% this month
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-10-17T21:01:41.647Z*
+*Last updated: 2026-10-18T21:01:50.457Z*

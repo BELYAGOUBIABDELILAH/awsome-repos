@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 165
+- **Total Repositories**: 166
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-15
 
@@ -16,28 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,053 | 2026-07-30 | 12 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 108,158 | 2026-08-05 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [decolua/9router](../repos/decolua/9router.md) | ⭐ 30,970 | 2026-08-02 | 8 |
+| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 10,609 | 2026-08-10 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,701 | 2026-08-08 | 5 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 24,863 | 2026-08-16 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 40,126 | 2026-08-14 | 9 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 31,084 | 2026-08-28 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 24,356 | 2026-08-16 | 7 |
+| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 5,708 | 2026-09-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 5,327 | 2026-09-12 | 2 |
+| [laoma528/awesome-zhuiju-free](../repos/laoma528/awesome-zhuiju-free.md) | ⭐ 12,592 | 2026-10-15 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [plugin87/ux-ui-agent-skills](../repos/plugin87/ux-ui-agent-skills.md) | ⭐ 2,033 | 2026-09-14 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 2,752 | 2026-10-16 | 2 |
+| [guoyue2010/lxmusic-](../repos/guoyue2010/lxmusic-.md) | ⭐ 6,466 | 2026-10-18 | 1 |
 
 
 ---
@@ -87,7 +84,7 @@
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,053 | 2026-07-30 | 12 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 103,896 | 2026-08-05 | 28 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 108,158 | 2026-08-05 | 29 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
@@ -109,7 +106,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 28 | ⭐ 103,896 | 2026-08-05 | 2026-10-09 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 29 | ⭐ 108,158 | 2026-08-05 | 2026-10-18 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 19 | ⭐ 81,136 | 2026-08-04 | 2026-10-09 |
 | [byoungd/up](../repos/byoungd/up.md) | 18 | ⭐ 66,612 | 2026-08-01 | 2026-10-01 |
 | [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 18 | ⭐ 77,610 | 2026-08-05 | 2026-10-06 |
@@ -227,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-17T21:01:41.972Z*
+*Last updated: 2026-10-18T21:01:50.675Z*

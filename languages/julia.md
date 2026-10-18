@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,439 | 2026-08-02 | 28 |
 
+*No Julia repositories trending today*
 
 ---
 
@@ -103,4 +101,4 @@
 
 ---
 
-*Last updated: 2026-10-17T21:01:41.975Z*
+*Last updated: 2026-10-18T21:01:50.677Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 8,638 |
-| **Forks** | 🍴 759 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 8,677 |
+| **Forks** | 🍴 769 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Oct 17, 2026 |
+| **Last Seen** | Oct 18, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
-- **Longest Streak**: 2 days
+- **Trending Days**: 7
+- **Longest Streak**: 3 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-17T21:01:46.176Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-10-18T21:01:53.373Z*  
+*Data from 7 trending reports*

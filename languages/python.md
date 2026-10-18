@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 289
+- **Total Repositories**: 292
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-12
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yt-dlp/yt-dlp](../repos/yt-dlp/yt-dlp.md) | ⭐ 198,857 | 2026-08-02 | 8 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 52,636 | 2026-08-03 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 52,177 | 2026-08-03 | 15 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 128,343 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 41,600 | 2026-08-07 | 12 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 138,529 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bmad-code-org/BMAD-METHOD](../repos/bmad-code-org/BMAD-METHOD.md) | ⭐ 54,264 | 2026-08-11 | 6 |
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 42,581 | 2026-08-07 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 53,985 | 2026-08-15 | 10 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 111,892 | 2026-08-08 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [The-Swarm-Corporation/AutoHedge](../repos/The-Swarm-Corporation/AutoHedge.md) | ⭐ 6,350 | 2026-09-06 | 5 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 54,528 | 2026-08-15 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Crosstalk-Solutions/unifi-toolkit](../repos/Crosstalk-Solutions/unifi-toolkit.md) | ⭐ 691 | 2026-10-15 | 3 |
+| [k2-fsa/OmniVoice](../repos/k2-fsa/OmniVoice.md) | ⭐ 14,749 | 2026-09-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/artemis](../repos/google/artemis.md) | ⭐ 12,153 | 2026-10-16 | 2 |
+| [Free-TV/IPTV](../repos/Free-TV/IPTV.md) | ⭐ 21,195 | 2026-09-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ScrapeCreators/social-media-research-skills](../repos/ScrapeCreators/social-media-research-skills.md) | ⭐ 4,026 | 2026-10-17 | 1 |
+| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 5,749 | 2026-09-22 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Kruk2/jasna](../repos/Kruk2/jasna.md) | ⭐ 2,356 | 2026-10-18 | 1 |
 
 
 ---
@@ -96,13 +99,13 @@
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 141,347 | 2026-08-04 | 7 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 138,529 | 2026-08-05 | 9 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 132,098 | 2026-08-01 | 17 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 131,932 | 2026-08-05 | 8 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 128,343 | 2026-08-03 | 6 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 114,356 | 2026-08-03 | 5 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 111,892 | 2026-08-08 | 11 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 106,016 | 2026-08-08 | 10 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 104,706 | 2026-07-30 | 6 |
 | [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 92,978 | 2026-08-10 | 6 |
 
@@ -115,13 +118,13 @@
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | 17 | ⭐ 132,098 | 2026-08-01 | 2026-10-16 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 17 | ⭐ 65,960 | 2026-08-22 | 2026-10-14 |
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 15 | ⭐ 52,177 | 2026-08-03 | 2026-10-17 |
+| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 16 | ⭐ 52,636 | 2026-08-03 | 2026-10-18 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 13 | ⭐ 60,537 | 2026-08-03 | 2026-10-14 |
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 12 | ⭐ 41,600 | 2026-08-07 | 2026-10-17 |
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 13 | ⭐ 42,581 | 2026-08-07 | 2026-10-18 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 11 | ⭐ 92,571 | 2026-08-01 | 2026-10-06 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 11 | ⭐ 40,107 | 2026-08-03 | 2026-10-02 |
-| [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) | 10 | ⭐ 77,020 | 2026-08-06 | 2026-10-13 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 11 | ⭐ 111,892 | 2026-08-08 | 2026-10-18 |
 
 ---
 
@@ -190,7 +193,7 @@
 - [NovaSky-AI/SkyRL](../repos/NovaSky-AI/SkyRL.md) - SkyRL: A Modular Full-stack RL Library for LLMs
 - [NVIDIA-NeMo/Speech](../repos/NVIDIA-NeMo/Speech.md) - A scalable generative AI framework built for researchers and developers working on Large Language...
 - [sierra-research/tau2-bench](../repos/sierra-research/tau2-bench.md) - τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains
-- [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) - The most powerful and modular diffusion model GUI, api and backend with a graph&#x2F;nodes interface.
+- [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) - The most powerful and modular diffusion model GUI, api and backend with a graph&#x2F;nodes interface. ...
 - [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...
 - [frappe/hrms](../repos/frappe/hrms.md) - Open Source HR and Payroll Software
 - [ComposioHQ/awesome-claude-skills](../repos/ComposioHQ/awesome-claude-skills.md) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-17T21:01:42.010Z*
+*Last updated: 2026-10-18T21:01:50.705Z*

@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 430
+**Gems Found**: 424
 
 ---
 
@@ -59,7 +59,7 @@
 |---|---|
 | ⭐ **Stars** | 4,130 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 93/100 |
+| 🏆 **Gem Score** | 92/100 |
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 5, 2026 |
 
@@ -391,23 +391,23 @@
 
 ---
 
-### 20. [luolangaga&#x2F;tubatools](../../repos/luolangaga/tubatools.md)
+### 20. [shiaho777&#x2F;web-to-app](../../repos/shiaho777/web-to-app.md)
 
-**图吧工具箱 CE**
+**The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,313 |
-| 💻 **Language** | C# |
+| ⭐ **Stars** | 6,579 |
+| 💻 **Language** | Kotlin |
 | 🏆 **Gem Score** | 84/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 12, 2026 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 16, 2026 |
 
-**Why it's a gem**: High growth velocity (+48 stars&#x2F;day) • Trending 8 times • Underrated project
+**Why it's a gem**: High growth velocity (+43 stars&#x2F;day) • Trending 6 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/luolangaga/tubatools.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;luolangaga&#x2F;tubatools)
+[View Passport](../../repos/shiaho777/web-to-app.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;shiaho777&#x2F;web-to-app)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-17T21:01:49.116Z*  
+*Generated: 2026-10-18T21:01:55.226Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

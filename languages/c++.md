@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 277
+- **Total Repositories**: 278
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-17
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,084 | 2026-07-30 | 26 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,620 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,520 | 2026-08-01 | 30 |
+| [luau-lang/luau](../repos/luau-lang/luau.md) | ⭐ 5,997 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,421 | 2026-08-02 | 9 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,718 | 2026-08-08 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,653 | 2026-08-04 | 21 |
+| [juce-framework/JUCE](../repos/juce-framework/JUCE.md) | ⭐ 9,009 | 2026-08-09 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [juce-framework/JUCE](../repos/juce-framework/JUCE.md) | ⭐ 8,986 | 2026-08-09 | 7 |
+| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 26,422 | 2026-08-09 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 26,395 | 2026-08-09 | 9 |
+| [mamedev/mame](../repos/mamedev/mame.md) | ⭐ 10,639 | 2026-09-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/cutlass](../repos/NVIDIA/cutlass.md) | ⭐ 10,613 | 2026-08-25 | 13 |
+| [Atmosphere-NX/Atmosphere](../repos/Atmosphere-NX/Atmosphere.md) | ⭐ 20,146 | 2026-09-12 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/geode](../repos/geode-sdk/geode.md) | ⭐ 2,984 | 2026-09-28 | 3 |
+| [geode-sdk/geode](../repos/geode-sdk/geode.md) | ⭐ 3,003 | 2026-09-28 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MAZHARMIK/Interview_DS_Algo](../repos/MAZHARMIK/Interview_DS_Algo.md) | ⭐ 5,206 | 2026-10-07 | 2 |
+| [zeldaret/botw](../repos/zeldaret/botw.md) | ⭐ 2,272 | 2026-10-16 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [mzzvxm/LARecomp](../repos/mzzvxm/LARecomp.md) | ⭐ 161 | 2026-10-18 | 1 |
 
 
 ---
@@ -86,13 +89,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,084 | 2026-07-30 | 26 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,520 | 2026-08-01 | 30 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,620 | 2026-08-01 | 31 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,659 | 2026-08-04 | 5 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 117,022 | 2026-08-01 | 9 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,066 | 2026-08-06 | 7 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,421 | 2026-08-02 | 9 |
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,678 | 2026-08-08 | 15 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,718 | 2026-08-08 | 16 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,568 | 2026-08-12 | 6 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,114 | 2026-08-01 | 16 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
@@ -113,13 +116,13 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 30 | ⭐ 131,520 | 2026-08-01 | 2026-10-17 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 31 | ⭐ 131,620 | 2026-08-01 | 2026-10-18 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 26 | ⭐ 201,084 | 2026-07-30 | 2026-10-17 |
 | [google/googletest](../repos/google/googletest.md) | 21 | ⭐ 39,653 | 2026-08-04 | 2026-10-17 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 17 | ⭐ 535 | 2026-08-01 | 2026-10-15 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 16 | ⭐ 72,114 | 2026-08-01 | 2026-10-16 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 16 | ⭐ 31,282 | 2026-08-03 | 2026-10-16 |
-| [ocornut/imgui](../repos/ocornut/imgui.md) | 15 | ⭐ 76,678 | 2026-08-08 | 2026-10-16 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | 16 | ⭐ 76,718 | 2026-08-08 | 2026-10-18 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 14 | ⭐ 11,716 | 2026-08-02 | 2026-10-12 |
 
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-17T21:01:41.936Z*
+*Last updated: 2026-10-18T21:01:50.637Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | MIT |
-| **Stars** | ⭐ 9,851 |
-| **Forks** | 🍴 711 |
-| **Trending Days** | 11 |
+| **Stars** | ⭐ 10,400 |
+| **Forks** | 🍴 747 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #3 |
 
 | **First Seen** | Aug 17, 2026 |
-| **Last Seen** | Oct 17, 2026 |
+| **Last Seen** | Oct 18, 2026 |
 
 
 ---
@@ -47,11 +47,12 @@
 **Aug 20, 2026** — Rank #7 (+335 ⭐)  
 **Sep 21, 2026** — Rank #4 (+217 ⭐)  
 **Oct 17, 2026** — Rank #6 (+208 ⭐)  
+**Oct 18, 2026** — Rank #6 (+513 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #3
-- **Trending Days**: 11
+- **Trending Days**: 12
 - **Longest Streak**: 3 days
 
 ---
@@ -73,8 +74,8 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
-| **Documentation** | Limited | May require reading source code |
-| **Community** | Small | Niche but dedicated community |
+| **Documentation** | Average | Basic documentation available |
+| **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -95,5 +96,5 @@
 
 ---
 
-*Last updated: 2026-10-17T21:01:46.582Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-10-18T21:01:53.637Z*  
+*Data from 12 trending reports*

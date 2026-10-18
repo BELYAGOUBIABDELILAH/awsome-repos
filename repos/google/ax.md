@@ -1,6 +1,6 @@
 # google&#x2F;ax
 
-> Google&#39;s open agentic orchestration runtime
+> Agent Executor (AX) is Google&#39;s open agentic orchestration runtime
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;google&#x2F;ax) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 13,893 |
-| **Forks** | 🍴 715 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 13,932 |
+| **Forks** | 🍴 722 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #4 |
 
 | **First Seen** | Sep 22, 2026 |
-| **Last Seen** | Oct 17, 2026 |
+| **Last Seen** | Oct 18, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #4
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 2 days
 
 ---
@@ -87,11 +87,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: Top 5 (Peak: #4)
 
 
 ---
 
-*Last updated: 2026-10-17T21:01:48.174Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-10-18T21:01:54.618Z*  
+*Data from 6 trending reports*
