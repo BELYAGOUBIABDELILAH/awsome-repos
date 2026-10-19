@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 7,951 |
-| **Forks** | 🍴 727 |
-| **Trending Days** | 10 |
+| **Stars** | ⭐ 8,301 |
+| **Forks** | 🍴 792 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 1, 2026 |
+| **Last Seen** | Oct 19, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 2 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`agent`](../../topics/agent.md) [`android`](../../topics/android.md) [`app`](../../topics/app.md) [`chatbot-ui`](../../topics/chatbot-ui.md) [`chatbox`](../../topics/chatbox.md) [`chatgpt`](../../topics/chatgpt.md) [`deepseek`](../../topics/deepseek.md) [`gemini`](../../topics/gemini.md) [`jetpack-compose`](../../topics/jetpack-compose.md) [`llm-ui`](../../topics/llm-ui.md) [`mcp`](../../topics/mcp.md) [`openrouter`](../../topics/openrouter.md) [`web-ui`](../../topics/web-ui.md) 
+[`agent`](../../topics/agent.md) [`android`](../../topics/android.md) [`app`](../../topics/app.md) [`chatgpt`](../../topics/chatgpt.md) [`deepseek`](../../topics/deepseek.md) [`gemini`](../../topics/gemini.md) [`jetpack-compose`](../../topics/jetpack-compose.md) [`llm-ui`](../../topics/llm-ui.md) [`mcp`](../../topics/mcp.md) [`openrouter`](../../topics/openrouter.md) 
 
 ### Curated Categories
-`Large Language Models` `Web Development` `Frontend Development` `Mobile Development` `Systems Programming` `Automation` 
+`Large Language Models` `Frontend Development` `Mobile Development` `Systems Programming` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-18T21:01:52.382Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-10-19T21:02:08.948Z*  
+*Data from 11 trending reports*

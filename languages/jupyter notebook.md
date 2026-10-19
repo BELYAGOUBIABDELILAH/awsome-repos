@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [higgsfield-ai/higgsfield](../repos/higgsfield-ai/higgsfield.md) | ⭐ 5,320 | 2026-09-19 | Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for ... |
 
+*No new Jupyter Notebook repositories in the last 30 days*
 
 ---
 
@@ -56,4 +54,4 @@
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.679Z*
+*Last updated: 2026-10-19T21:01:54.971Z*

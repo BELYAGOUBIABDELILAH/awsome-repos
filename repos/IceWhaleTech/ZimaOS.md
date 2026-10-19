@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | Not specified |
-| **Stars** | ⭐ 3,043 |
+| **Stars** | ⭐ 3,047 |
 | **Forks** | 🍴 129 |
-| **Trending Days** | 2 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 16, 2026 |
-| **Last Seen** | Oct 18, 2026 |
+| **Last Seen** | Oct 19, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
-- **Longest Streak**: 1 days
+- **Trending Days**: 3
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 55&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-18T21:01:55.029Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-10-19T21:02:13.250Z*  
+*Data from 3 trending reports*

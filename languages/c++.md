@@ -16,43 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,620 | 2026-08-01 | 31 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 118,702 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [luau-lang/luau](../repos/luau-lang/luau.md) | ⭐ 5,997 | 2026-08-03 | 4 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,441 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,718 | 2026-08-08 | 16 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,737 | 2026-08-08 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [juce-framework/JUCE](../repos/juce-framework/JUCE.md) | ⭐ 9,009 | 2026-08-09 | 8 |
+| [juce-framework/JUCE](../repos/juce-framework/JUCE.md) | ⭐ 9,024 | 2026-08-09 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mozilla-ai/llamafile](../repos/mozilla-ai/llamafile.md) | ⭐ 26,422 | 2026-08-09 | 10 |
+| [geode-sdk/geode](../repos/geode-sdk/geode.md) | ⭐ 3,013 | 2026-09-28 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mamedev/mame](../repos/mamedev/mame.md) | ⭐ 10,639 | 2026-09-07 | 3 |
+| [MAZHARMIK/Interview_DS_Algo](../repos/MAZHARMIK/Interview_DS_Algo.md) | ⭐ 5,231 | 2026-10-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Atmosphere-NX/Atmosphere](../repos/Atmosphere-NX/Atmosphere.md) | ⭐ 20,146 | 2026-09-12 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [geode-sdk/geode](../repos/geode-sdk/geode.md) | ⭐ 3,003 | 2026-09-28 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [zeldaret/botw](../repos/zeldaret/botw.md) | ⭐ 2,272 | 2026-10-16 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [mzzvxm/LARecomp](../repos/mzzvxm/LARecomp.md) | ⭐ 161 | 2026-10-18 | 1 |
+| [mzzvxm/LARecomp](../repos/mzzvxm/LARecomp.md) | ⭐ 172 | 2026-10-18 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [flameshot-org/flameshot](../repos/flameshot-org/flameshot.md) | ⭐ 31,014 | 2026-09-19 | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mumble-voip/mumble](../repos/mumble-voip/mumble.md) | ⭐ 8,292 | 2026-09-20 | Mumble is an open-source, low-latency, high quality voice chat software. |
@@ -80,6 +68,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Fable2Recomp/Fable2Recomp](../repos/Fable2Recomp/Fable2Recomp.md) | ⭐ 332 | 2026-09-24 | A Fable 2 Recomp |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [AlexandreRouma/SDRPlusPlus](../repos/AlexandreRouma/SDRPlusPlus.md) | ⭐ 6,416 | 2026-09-25 | Cross-Platform SDR Software |
 
 
 ---
@@ -92,10 +83,10 @@
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,620 | 2026-08-01 | 31 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,659 | 2026-08-04 | 5 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 117,022 | 2026-08-01 | 9 |
+| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 118,702 | 2026-08-01 | 10 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,066 | 2026-08-06 | 7 |
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,421 | 2026-08-02 | 9 |
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,718 | 2026-08-08 | 16 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,441 | 2026-08-02 | 10 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,737 | 2026-08-08 | 17 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,568 | 2026-08-12 | 6 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,114 | 2026-08-01 | 16 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
@@ -120,9 +111,9 @@
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 26 | ⭐ 201,084 | 2026-07-30 | 2026-10-17 |
 | [google/googletest](../repos/google/googletest.md) | 21 | ⭐ 39,653 | 2026-08-04 | 2026-10-17 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 17 | ⭐ 535 | 2026-08-01 | 2026-10-15 |
+| [ocornut/imgui](../repos/ocornut/imgui.md) | 17 | ⭐ 76,737 | 2026-08-08 | 2026-10-19 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 16 | ⭐ 72,114 | 2026-08-01 | 2026-10-16 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 16 | ⭐ 31,282 | 2026-08-03 | 2026-10-16 |
-| [ocornut/imgui](../repos/ocornut/imgui.md) | 16 | ⭐ 76,718 | 2026-08-08 | 2026-10-18 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 14 | ⭐ 11,716 | 2026-08-02 | 2026-10-12 |
 
@@ -233,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.637Z*
+*Last updated: 2026-10-19T21:01:54.932Z*

@@ -14,11 +14,11 @@
 | **License** | LGPL-3.0 |
 | **Stars** | ⭐ 559 |
 | **Forks** | 🍴 174 |
-| **Trending Days** | 5 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 11, 2026 |
-| **Last Seen** | Oct 17, 2026 |
+| **Last Seen** | Oct 19, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 2 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 85&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-18T21:01:54.937Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-10-19T21:02:13.144Z*  
+*Data from 6 trending reports*

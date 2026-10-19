@@ -16,46 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 32,308 | 2026-08-02 | 32 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,091 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) | ⭐ 14,248 | 2026-08-02 | 6 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,627 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | ⭐ 17,291 | 2026-08-03 | 19 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 32,410 | 2026-08-02 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TechnitiumSoftware/DnsServer](../repos/TechnitiumSoftware/DnsServer.md) | ⭐ 10,151 | 2026-08-12 | 12 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,265 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [luolangaga/tubatools](../repos/luolangaga/tubatools.md) | ⭐ 5,528 | 2026-08-12 | 9 |
+| [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) | ⭐ 14,273 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Revolutionary-Games/Thrive](../repos/Revolutionary-Games/Thrive.md) | ⭐ 3,761 | 2026-08-19 | 2 |
+| [Tichau/FileConverter](../repos/Tichau/FileConverter.md) | ⭐ 15,419 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SirDiabo/GithubLauncher](../repos/SirDiabo/GithubLauncher.md) | ⭐ 1,882 | 2026-08-27 | 6 |
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,217 | 2026-08-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RankFTW/RHI](../repos/RankFTW/RHI.md) | ⭐ 2,223 | 2026-09-20 | 7 |
+| [SirDiabo/GithubLauncher](../repos/SirDiabo/GithubLauncher.md) | ⭐ 1,906 | 2026-08-27 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 2,345 | 2026-09-24 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ggml-org/Llama-Windows](../repos/ggml-org/Llama-Windows.md) | ⭐ 234 | 2026-10-07 | 7 |
+| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 2,474 | 2026-09-24 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Taiizor/ReaLTaiizor](../repos/Taiizor/ReaLTaiizor.md) | ⭐ 2,342 | 2026-09-19 | ReaLTaiizor is a .NET WinForms control library that offers a wide range of components and is user... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bbepis/XUnity.AutoTranslator](../repos/bbepis/XUnity.AutoTranslator.md) | ⭐ 3,433 | 2026-09-19 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [RankFTW/RHI](../repos/RankFTW/RHI.md) | ⭐ 2,223 | 2026-09-20 | ReShade HDR Installer |
@@ -80,6 +71,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [NethermindEth/nethermind](../repos/NethermindEth/nethermind.md) | ⭐ 1,609 | 2026-09-24 | A robust, high-performance execution client for Ethereum node operators. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [RayrenSX/iPhoneMirror](../repos/RayrenSX/iPhoneMirror.md) | ⭐ 928 | 2026-09-24 | Local Windows iPhone&#x2F;iPad mirroring over USB and AirPlay with D3D11 preview, multi-device session... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [marcussacana/DirectPackageInstaller](../repos/marcussacana/DirectPackageInstaller.md) | ⭐ 475 | 2026-09-24 | Send Direct PKG URLs to your PS4 |
 
 
 ---
@@ -89,13 +86,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 118,208 | 2026-08-02 | 30 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 57,879 | 2026-08-02 | 19 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,265 | 2026-08-02 | 20 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,800 | 2026-08-06 | 17 |
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,019 | 2026-08-01 | 14 |
-| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 39,793 | 2026-08-14 | 4 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,091 | 2026-08-01 | 15 |
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,217 | 2026-08-14 | 5 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,965 | 2026-08-03 | 12 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,474 | 2026-08-01 | 18 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 32,308 | 2026-08-02 | 32 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 32,410 | 2026-08-02 | 33 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,047 | 2026-08-01 | 19 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,062 | 2026-08-28 | 3 |
@@ -115,16 +112,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 32 | ⭐ 32,308 | 2026-08-02 | 2026-10-18 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 33 | ⭐ 32,410 | 2026-08-02 | 2026-10-19 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 31 | ⭐ 5,653 | 2026-08-03 | 2026-10-16 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 30 | ⭐ 118,208 | 2026-08-02 | 2026-10-14 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 20 | ⭐ 58,265 | 2026-08-02 | 2026-10-19 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 19 | ⭐ 32,047 | 2026-08-01 | 2026-10-15 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 19 | ⭐ 57,879 | 2026-08-02 | 2026-10-07 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 19 | ⭐ 16,177 | 2026-08-02 | 2026-10-14 |
 | [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | 19 | ⭐ 17,291 | 2026-08-03 | 2026-10-18 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 18 | ⭐ 3,774 | 2026-08-01 | 2026-10-14 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 18 | ⭐ 38,474 | 2026-08-01 | 2026-10-17 |
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 17 | ⭐ 14,583 | 2026-08-01 | 2026-10-16 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 18 | ⭐ 14,627 | 2026-08-01 | 2026-10-19 |
 
 ---
 
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.632Z*
+*Last updated: 2026-10-19T21:01:54.929Z*

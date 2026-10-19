@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 424
+**Gems Found**: 420
 
 ---
 
@@ -111,27 +111,7 @@
 
 ---
 
-### 6. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
-
-**Source control for agents. Use multiple coding agents, track their changes and query them in one place**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 8,197 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 14, 2026 |
-
-**Why it's a gem**: High growth velocity (+571 stars&#x2F;day) • Trending 8 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/pacifio/atlas.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas)
-
----
-
-### 7. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+### 6. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
 
 **A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
 
@@ -151,7 +131,7 @@
 
 ---
 
-### 8. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 7. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
 **Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
@@ -171,27 +151,27 @@
 
 ---
 
-### 9. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+### 8. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
-**Native GUI for Homebrew Casks**
+**Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,131 |
-| 💻 **Language** | Swift |
+| ⭐ **Stars** | 8,197 |
+| 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 88/100 |
 | 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 10, 2026 |
+| 📅 **First Seen** | Aug 14, 2026 |
 
-**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+571 stars&#x2F;day) • Trending 8 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
+[View Passport](../../repos/pacifio/atlas.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas)
 
 ---
 
-### 10. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+### 9. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
 
 **Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
 
@@ -211,7 +191,7 @@
 
 ---
 
-### 11. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+### 10. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
 
 **Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
 
@@ -228,6 +208,26 @@
 **Best for**: 
 
 [View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
+
+---
+
+### 11. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+
+**Native GUI for Homebrew Casks**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,131 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 87/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
 
 ---
 
@@ -351,27 +351,7 @@
 
 ---
 
-### 18. [arcboxlabs&#x2F;arcbox](../../repos/arcboxlabs/arcbox.md)
-
-**Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,363 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 85/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Sep 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+494 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/arcboxlabs/arcbox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;arcboxlabs&#x2F;arcbox)
-
----
-
-### 19. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
+### 18. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
 
 **Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode&#x2F;Homebrew&#x2F;system cache cleanup. MIT licensed.**
 
@@ -391,23 +371,43 @@
 
 ---
 
-### 20. [shiaho777&#x2F;web-to-app](../../repos/shiaho777/web-to-app.md)
+### 19. [arcboxlabs&#x2F;arcbox](../../repos/arcboxlabs/arcbox.md)
 
-**The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone**
+**Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,579 |
-| 💻 **Language** | Kotlin |
+| ⭐ **Stars** | 3,363 |
+| 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 84/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 16, 2026 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Sep 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+43 stars&#x2F;day) • Trending 6 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+494 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/shiaho777/web-to-app.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;shiaho777&#x2F;web-to-app)
+[View Passport](../../repos/arcboxlabs/arcbox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;arcboxlabs&#x2F;arcbox)
+
+---
+
+### 20. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
+
+**🧱 Easy fast local-first microVM runtime and library**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 8,229 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 83/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+45 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/superradcompany/microsandbox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superradcompany&#x2F;microsandbox)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-18T21:01:55.226Z*  
+*Generated: 2026-10-19T21:02:13.523Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

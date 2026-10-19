@@ -16,55 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,007 | 2026-08-01 | 9 |
+| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,013 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 2,942 | 2026-08-02 | 10 |
+| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,639 | 2026-08-11 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 3,099 | 2026-08-05 | 14 |
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,455 | 2026-08-19 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) | ⭐ 4,915 | 2026-08-09 | 6 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,244 | 2026-08-29 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [linux-surface/linux-surface](../repos/linux-surface/linux-surface.md) | ⭐ 7,806 | 2026-08-10 | 5 |
+| [pystardust/ani-cli](../repos/pystardust/ani-cli.md) | ⭐ 14,010 | 2026-09-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Sergeydigl3/zapret-discord-youtube-linux](../repos/Sergeydigl3/zapret-discord-youtube-linux.md) | ⭐ 2,098 | 2026-08-16 | 5 |
+| [sabamdarif/termux-desktop](../repos/sabamdarif/termux-desktop.md) | ⭐ 2,323 | 2026-09-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pystardust/ani-cli](../repos/pystardust/ani-cli.md) | ⭐ 14,001 | 2026-09-06 | 3 |
+| [CachyOS/linux-cachyos](../repos/CachyOS/linux-cachyos.md) | ⭐ 4,646 | 2026-09-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,995 | 2026-09-08 | 3 |
+| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,283 | 2026-10-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CachyOS/linux-cachyos](../repos/CachyOS/linux-cachyos.md) | ⭐ 4,638 | 2026-09-14 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [IceWhaleTech/ZimaOS](../repos/IceWhaleTech/ZimaOS.md) | ⭐ 3,043 | 2026-10-16 | 2 |
+| [IceWhaleTech/ZimaOS](../repos/IceWhaleTech/ZimaOS.md) | ⭐ 3,047 | 2026-10-16 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [higgsfield-ai/cli](../repos/higgsfield-ai/cli.md) | ⭐ 610 | 2026-09-19 | Higgsfield CLI |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [akitaonrails/distrobox-gaming](../repos/akitaonrails/distrobox-gaming.md) | ⭐ 303 | 2026-09-19 | Script to create a gaming focused Distrobox with all emulators pre-configured |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [truenas/truenas-proxmox-plugin](../repos/truenas/truenas-proxmox-plugin.md) | ⭐ 313 | 2026-09-19 | For providing seamless block storage to PVE |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Euro-Office/DocumentServer](../repos/Euro-Office/DocumentServer.md) | ⭐ 1,804 | 2026-09-19 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zabbix/community-templates](../repos/zabbix/community-templates.md) | ⭐ 1,997 | 2026-09-19 | Zabbix Community Templates repository |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Mr-MIBonk/M.I.B._More-Incredible-Bash](../repos/Mr-MIBonk/M.I.B._More-Incredible-Bash.md) | ⭐ 1,140 | 2026-09-20 | M.I.B. - More Incredible Bash - The Army knife for Harman MIB 2.x aka MHI2(Q) units |
@@ -80,6 +62,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [iamj0ker/bypass-403](../repos/iamj0ker/bypass-403.md) | ⭐ 2,257 | 2026-09-22 | A simple script just made for self use for bypassing 403 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kejilion/sh](../repos/kejilion/sh.md) | ⭐ 3,409 | 2026-09-22 | KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script! |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [angristan/openvpn-install](../repos/angristan/openvpn-install.md) | ⭐ 16,144 | 2026-09-24 | Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [addyosmani/web-quality-skills](../repos/addyosmani/web-quality-skills.md) | ⭐ 2,833 | 2026-09-24 | Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ZeroLu/awesome-seedance](../repos/ZeroLu/awesome-seedance.md) | ⭐ 2,560 | 2026-09-24 | The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [angristan/wireguard-install](../repos/angristan/wireguard-install.md) | ⭐ 11,296 | 2026-09-24 | WireGuard VPN installer for Linux servers |
 
 
 ---
@@ -94,7 +91,7 @@
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,831 | 2026-08-04 | 12 |
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 44,635 | 2026-08-29 | 5 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,244 | 2026-08-29 | 6 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,676 | 2026-08-20 | 11 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.716Z*
+*Last updated: 2026-10-19T21:01:55.011Z*

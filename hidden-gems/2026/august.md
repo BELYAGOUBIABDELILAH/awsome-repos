@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 307
+**Gems Found**: 303
 
 ---
 
@@ -71,27 +71,7 @@
 
 ---
 
-### 4. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
-
-**Open-source framework for the research and development of foundation models.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,876 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 82/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 24, 2026 |
-
-**Why it's a gem**: High growth velocity (+529 stars&#x2F;day) • Trending 5 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/marin-community/marin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;marin-community&#x2F;marin)
-
----
-
-### 5. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
+### 4. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
 
 **GitHub Stacked PRs**
 
@@ -111,7 +91,7 @@
 
 ---
 
-### 6. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+### 5. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
 
 **OCTO Android Client — Open-source enterprise IM**
 
@@ -128,6 +108,26 @@
 **Best for**: 
 
 [View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
+
+---
+
+### 6. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
+
+**Open-source framework for the research and development of foundation models.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,876 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 81/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 24, 2026 |
+
+**Why it's a gem**: High growth velocity (+529 stars&#x2F;day) • Trending 5 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/marin-community/marin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;marin-community&#x2F;marin)
 
 ---
 
@@ -151,27 +151,7 @@
 
 ---
 
-### 8. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
-
-**A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 423 |
-| 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 80/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+77 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/h3nock/remux.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;h3nock&#x2F;remux)
-
----
-
-### 9. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
+### 8. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
 
 **BookOrbit: Your Reading Space**
 
@@ -188,6 +168,26 @@
 **Best for**: 
 
 [View Passport](../../repos/bookorbit/bookorbit.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;bookorbit&#x2F;bookorbit)
+
+---
+
+### 9. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
+
+**A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 423 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 79/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+77 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/h3nock/remux.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;h3nock&#x2F;remux)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-18T21:01:55.228Z*  
+*Generated: 2026-10-19T21:02:13.525Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

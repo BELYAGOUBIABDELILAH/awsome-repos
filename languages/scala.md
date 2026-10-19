@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,580 | 2026-08-01 | 54 |
+| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,323 | 2026-08-01 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,281 | 2026-08-01 | 27 |
+| [scala/scala](../repos/scala/scala.md) | ⭐ 14,568 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,955 | 2026-08-01 | 37 |
+| [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,742 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,240 | 2026-08-01 | 64 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,862 | 2026-08-02 | 54 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [scala/scala](../repos/scala/scala.md) | ⭐ 14,567 | 2026-08-01 | 31 |
+| [zio/zio](../repos/zio/zio.md) | ⭐ 4,428 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,742 | 2026-08-01 | 27 |
+| [sbt/sbt](../repos/sbt/sbt.md) | ⭐ 4,954 | 2026-08-04 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,858 | 2026-08-02 | 53 |
+| [scalameta/metals](../repos/scalameta/metals.md) | ⭐ 2,335 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | ⭐ 1,293 | 2026-08-02 | 44 |
+| [ucb-bar/gemmini](../repos/ucb-bar/gemmini.md) | ⭐ 1,521 | 2026-08-19 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zio/zio](../repos/zio/zio.md) | ⭐ 4,428 | 2026-08-02 | 21 |
+| [ergoplatform/ergo](../repos/ergoplatform/ergo.md) | ⭐ 518 | 2026-09-13 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ucb-bar/chipyard](../repos/ucb-bar/chipyard.md) | ⭐ 2,424 | 2026-08-03 | 19 |
+| [orbeon/orbeon-forms](../repos/orbeon/orbeon-forms.md) | ⭐ 545 | 2026-09-19 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [starlake-ai/quack-on-demand](../repos/starlake-ai/quack-on-demand.md) | ⭐ 135 | 2026-09-19 | Production-grade SQL gateway in front of DuckDB Quack + DuckLake + Iceberg. Multi-tenant pools, p... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [orbeon/orbeon-forms](../repos/orbeon/orbeon-forms.md) | ⭐ 545 | 2026-09-19 | Orbeon Forms - Build, run, and manage web forms on-premises or in the cloud. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [com-lihaoyi/mill](../repos/com-lihaoyi/mill.md) | ⭐ 2,798 | 2026-09-20 | A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x... |
@@ -84,8 +78,8 @@
 |------------|-------|------------|---------------|
 | [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,975 | 2026-08-01 | 47 |
 | [apache/spark](../repos/apache/spark.md) | ⭐ 44,240 | 2026-08-01 | 64 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,858 | 2026-08-02 | 53 |
-| [scala/scala](../repos/scala/scala.md) | ⭐ 14,567 | 2026-08-01 | 31 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,862 | 2026-08-02 | 54 |
+| [scala/scala](../repos/scala/scala.md) | ⭐ 14,568 | 2026-08-01 | 32 |
 | [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,281 | 2026-08-01 | 27 |
 | [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,515 | 2026-09-02 | 8 |
 | [yahoo/CMAK](../repos/yahoo/CMAK.md) | ⭐ 11,924 | 2026-09-07 | 1 |
@@ -96,11 +90,11 @@
 | [snowplow/snowplow](../repos/snowplow/snowplow.md) | ⭐ 7,041 | 2026-08-11 | 9 |
 | [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,955 | 2026-08-01 | 37 |
 | [apache/openwhisk](../repos/apache/openwhisk.md) | ⭐ 6,802 | 2026-08-05 | 7 |
-| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,319 | 2026-08-01 | 33 |
+| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,323 | 2026-08-01 | 34 |
 | [guardian/frontend](../repos/guardian/frontend.md) | ⭐ 5,899 | 2026-08-03 | 28 |
 | [fpinscala/fpinscala](../repos/fpinscala/fpinscala.md) | ⭐ 5,860 | 2026-09-03 | 3 |
 | [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,245 | 2026-08-01 | 12 |
-| [sbt/sbt](../repos/sbt/sbt.md) | ⭐ 4,954 | 2026-08-04 | 29 |
+| [sbt/sbt](../repos/sbt/sbt.md) | ⭐ 4,954 | 2026-08-04 | 30 |
 | [chipsalliance/chisel](../repos/chipsalliance/chisel.md) | ⭐ 4,807 | 2026-08-05 | 13 |
 
 ---
@@ -112,7 +106,7 @@
 | [apache/spark](../repos/apache/spark.md) | 64 | ⭐ 44,240 | 2026-08-01 | 2026-10-18 |
 | [joernio/joern](../repos/joernio/joern.md) | 54 | ⭐ 3,580 | 2026-08-01 | 2026-10-18 |
 | [delta-io/delta](../repos/delta-io/delta.md) | 54 | ⭐ 9,047 | 2026-08-01 | 2026-10-17 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | 53 | ⭐ 18,858 | 2026-08-02 | 2026-10-18 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | 54 | ⭐ 18,862 | 2026-08-02 | 2026-10-19 |
 | [apache/gluten](../repos/apache/gluten.md) | 50 | ⭐ 1,605 | 2026-08-01 | 2026-10-17 |
 | [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 49 | ⭐ 7,317 | 2026-08-01 | 2026-10-17 |
 | [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 47 | ⭐ 73,975 | 2026-08-01 | 2026-10-16 |
@@ -194,4 +188,4 @@
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.713Z*
+*Last updated: 2026-10-19T21:01:55.007Z*

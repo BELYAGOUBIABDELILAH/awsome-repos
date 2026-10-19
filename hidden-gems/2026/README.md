@@ -7,11 +7,31 @@
 ## 2026
 
 **Period**: 2026-01-01 to 2026-12-31  
-**Gems Found**: 1219
+**Gems Found**: 1226
 
 ---
 
-### 1. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
+### 1. [ashhart&#x2F;TensorFold](../../repos/ashhart/TensorFold.md)
+
+**LLM Inference Engine for Metal and CUDA.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,393 |
+| 💻 **Language** | Zig |
+| 🏆 **Gem Score** | 99/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Sep 28, 2026 |
+
+**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/ashhart/TensorFold.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ashhart&#x2F;TensorFold)
+
+---
+
+### 2. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
 
 **AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing**
 
@@ -31,27 +51,27 @@
 
 ---
 
-### 2. [ashhart&#x2F;TensorFold](../../repos/ashhart/TensorFold.md)
+### 3. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
 
-**LLM Inference Engine for Metal, CUDA and Vulkan.**
+**Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,305 |
-| 💻 **Language** | TypeScript |
+| ⭐ **Stars** | 2,389 |
+| 💻 **Language** | JavaScript |
 | 🏆 **Gem Score** | 98/100 |
 | 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 28, 2026 |
+| 📅 **First Seen** | Sep 14, 2026 |
 
-**Why it's a gem**: High growth velocity (+65 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+122 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/ashhart/TensorFold.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ashhart&#x2F;TensorFold)
+[View Passport](../../repos/plugin87/ux-ui-agent-skills.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;plugin87&#x2F;ux-ui-agent-skills)
 
 ---
 
-### 3. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
+### 4. [PimpinPumpkin&#x2F;Vela](../../repos/PimpinPumpkin/Vela.md)
 
 **Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras**
 
@@ -71,7 +91,7 @@
 
 ---
 
-### 4. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
+### 5. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
 
 **An offline-first photo manager for large local libraries**
 
@@ -91,7 +111,7 @@
 
 ---
 
-### 5. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
+### 6. [PrismML-Eng&#x2F;Bonsai-demo](../../repos/PrismML-Eng/Bonsai-demo.md)
 
 **Bonsai Demo**
 
@@ -111,7 +131,7 @@
 
 ---
 
-### 6. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
+### 7. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
 
 **A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
 
@@ -131,7 +151,7 @@
 
 ---
 
-### 7. [harry7557558&#x2F;spirula-studio](../../repos/harry7557558/spirula-studio.md)
+### 8. [harry7557558&#x2F;spirula-studio](../../repos/harry7557558/spirula-studio.md)
 
 **Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.**
 
@@ -151,7 +171,7 @@
 
 ---
 
-### 8. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
+### 9. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
 
 **UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.**
 
@@ -171,7 +191,7 @@
 
 ---
 
-### 9. [apache&#x2F;maka](../../repos/apache/maka.md)
+### 10. [apache&#x2F;maka](../../repos/apache/maka.md)
 
 **Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
 
@@ -191,7 +211,7 @@
 
 ---
 
-### 10. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
+### 11. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
 
 **Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
 
@@ -211,7 +231,7 @@
 
 ---
 
-### 11. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
+### 12. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
 
 **OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
 
@@ -231,7 +251,7 @@
 
 ---
 
-### 12. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
+### 13. [vivizzz007&#x2F;vivi-music](../../repos/vivizzz007/vivi-music.md)
 
 **Vivi-Music is an expressive Material 3–based YouTube Music client for Android.**
 
@@ -248,26 +268,6 @@
 **Best for**: 
 
 [View Passport](../../repos/vivizzz007/vivi-music.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;vivizzz007&#x2F;vivi-music)
-
----
-
-### 13. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
-
-**Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,033 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Sep 14, 2026 |
-
-**Why it's a gem**: High growth velocity (+90 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/plugin87/ux-ui-agent-skills.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;plugin87&#x2F;ux-ui-agent-skills)
 
 ---
 
@@ -311,7 +311,27 @@
 
 ---
 
-### 16. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 16. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
+
+**Open source factory for one-shot engineering**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 8,041 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 11 |
+| 📅 **First Seen** | Aug 2, 2026 |
+
+**Why it's a gem**: High growth velocity (+130 stars&#x2F;day) • Trending 11 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/superplanehq/superplane.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superplanehq&#x2F;superplane)
+
+---
+
+### 17. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
 **ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
@@ -331,7 +351,7 @@
 
 ---
 
-### 17. [melgarafael&#x2F;DeskcommCRM](../../repos/melgarafael/DeskcommCRM.md)
+### 18. [melgarafael&#x2F;DeskcommCRM](../../repos/melgarafael/DeskcommCRM.md)
 
 **Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.**
 
@@ -351,7 +371,7 @@
 
 ---
 
-### 18. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
+### 19. [macro-inc&#x2F;macro](../../repos/macro-inc/macro.md)
 
 **Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.**
 
@@ -371,7 +391,7 @@
 
 ---
 
-### 19. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
+### 20. [darkzOGx&#x2F;youtube-automation-agent](../../repos/darkzOGx/youtube-automation-agent.md)
 
 **🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24&#x2F;7. Works with FREE Gemini API or OpenAI. No coding required!**
 
@@ -388,26 +408,6 @@
 **Best for**: 
 
 [View Passport](../../repos/darkzOGx/youtube-automation-agent.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;darkzOGx&#x2F;youtube-automation-agent)
-
----
-
-### 20. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
-
-**Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,961 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 25, 2026 |
-
-**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Armur-Ai/Pentest-Swarm-AI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Armur-Ai&#x2F;Pentest-Swarm-AI)
 
 ---
 
@@ -471,27 +471,7 @@
 
 ---
 
-### 24. [xerj-org&#x2F;xerj](../../repos/xerj-org/xerj.md)
-
-**XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 8,322 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Oct 7, 2026 |
-
-**Why it's a gem**: High growth velocity (+1595 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/xerj-org/xerj.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;xerj-org&#x2F;xerj)
-
----
-
-### 25. [wuwangzhang1216&#x2F;ChinaTextbookStudyFree](../../repos/wuwangzhang1216/ChinaTextbookStudyFree.md)
+### 24. [wuwangzhang1216&#x2F;ChinaTextbookStudyFree](../../repos/wuwangzhang1216/ChinaTextbookStudyFree.md)
 
 **给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。**
 
@@ -511,47 +491,27 @@
 
 ---
 
-### 26. [EricTechPro&#x2F;super-board](../../repos/EricTechPro/super-board.md)
+### 25. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
 
-**Autonomous GitHub Project build → QA → review loop for Claude Code. One-line install.**
+**Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 380 |
-| 💻 **Language** | HTML |
+| ⭐ **Stars** | 2,961 |
+| 💻 **Language** | Go |
 | 🏆 **Gem Score** | 91/100 |
 | 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Oct 9, 2026 |
+| 📅 **First Seen** | Aug 25, 2026 |
 
-**Why it's a gem**: Trending 6 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/EricTechPro/super-board.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;EricTechPro&#x2F;super-board)
-
----
-
-### 27. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
-
-**Open source factory for one-shot engineering**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 7,705 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 10 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+133 stars&#x2F;day) • Trending 10 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/superplanehq/superplane.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superplanehq&#x2F;superplane)
+[View Passport](../../repos/Armur-Ai/Pentest-Swarm-AI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Armur-Ai&#x2F;Pentest-Swarm-AI)
 
 ---
 
-### 28. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
+### 26. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
 
 **Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.**
 
@@ -571,7 +531,7 @@
 
 ---
 
-### 29. [google&#x2F;sam](../../repos/google/sam.md)
+### 27. [google&#x2F;sam](../../repos/google/sam.md)
 
 **SAM Sovereign Agent Mesh**
 
@@ -591,7 +551,7 @@
 
 ---
 
-### 30. [p1neappleXpress&#x2F;OpenFlux](../../repos/p1neappleXpress/OpenFlux.md)
+### 28. [p1neappleXpress&#x2F;OpenFlux](../../repos/p1neappleXpress/OpenFlux.md)
 
 **Network stack research tool. TCP tunnel with pluggable transports.**
 
@@ -611,7 +571,7 @@
 
 ---
 
-### 31. [guohuiyuan&#x2F;go-music-dl](../../repos/guohuiyuan/go-music-dl.md)
+### 29. [guohuiyuan&#x2F;go-music-dl](../../repos/guohuiyuan/go-music-dl.md)
 
 **一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923**
 
@@ -631,19 +591,19 @@
 
 ---
 
-### 32. [tgeorgiadis&#x2F;quiver-launcher](../../repos/tgeorgiadis/quiver-launcher.md)
+### 30. [tgeorgiadis&#x2F;quiver-launcher](../../repos/tgeorgiadis/quiver-launcher.md)
 
 **A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,345 |
+| ⭐ **Stars** | 2,474 |
 | 💻 **Language** | C# |
 | 🏆 **Gem Score** | 90/100 |
-| 📈 **Trending Days** | 7 |
+| 📈 **Trending Days** | 8 |
 | 📅 **First Seen** | Sep 24, 2026 |
 
-**Why it's a gem**: High growth velocity (+131 stars&#x2F;day) • Trending 7 times • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+129 stars&#x2F;day) • Trending 8 times • Very active development • Underrated project
 
 **Best for**: 
 
@@ -651,7 +611,27 @@
 
 ---
 
-### 33. [YuKongA&#x2F;ghostlock-app](../../repos/YuKongA/ghostlock-app.md)
+### 31. [CyrilPeng&#x2F;Venera-Next](../../repos/CyrilPeng/Venera-Next.md)
+
+**VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,642 |
+| 💻 **Language** | Dart |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Sep 25, 2026 |
+
+**Why it's a gem**: Trending 7 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/CyrilPeng/Venera-Next.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;CyrilPeng&#x2F;Venera-Next)
+
+---
+
+### 32. [YuKongA&#x2F;ghostlock-app](../../repos/YuKongA/ghostlock-app.md)
 
 **GhostLock One-Tap Execution App (CVE-2026-43499)**
 
@@ -671,7 +651,47 @@
 
 ---
 
-### 34. [microsoft&#x2F;mxc](../../repos/microsoft/mxc.md)
+### 33. [xerj-org&#x2F;xerj](../../repos/xerj-org/xerj.md)
+
+**XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 10,443 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Oct 7, 2026 |
+
+**Why it's a gem**: High growth velocity (+1442 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/xerj-org/xerj.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;xerj-org&#x2F;xerj)
+
+---
+
+### 34. [EricTechPro&#x2F;super-board](../../repos/EricTechPro/super-board.md)
+
+**Autonomous GitHub Project build → QA → review loop for Claude Code. One-line install.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 380 |
+| 💻 **Language** | HTML |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Oct 9, 2026 |
+
+**Why it's a gem**: Trending 6 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/EricTechPro/super-board.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;EricTechPro&#x2F;super-board)
+
+---
+
+### 35. [microsoft&#x2F;mxc](../../repos/microsoft/mxc.md)
 
 **Policy-driven, layered isolation and containment **
 
@@ -691,7 +711,7 @@
 
 ---
 
-### 35. [zzet&#x2F;gortex](../../repos/zzet/gortex.md)
+### 36. [zzet&#x2F;gortex](../../repos/zzet/gortex.md)
 
 **High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https:&#x2F;&#x2F;discord.gg&#x2F;39MFHu3J5d**
 
@@ -711,7 +731,7 @@
 
 ---
 
-### 36. [mnfst&#x2F;awesome-free-llm-apis](../../repos/mnfst/awesome-free-llm-apis.md)
+### 37. [mnfst&#x2F;awesome-free-llm-apis](../../repos/mnfst/awesome-free-llm-apis.md)
 
 **List of Permanent Free LLM API  (API Keys)**
 
@@ -731,43 +751,23 @@
 
 ---
 
-### 37. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
+### 38. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
 
 **ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,156 |
+| ⭐ **Stars** | 6,193 |
 | 💻 **Language** | CSS |
 | 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 21 |
+| 📈 **Trending Days** | 22 |
 | 📅 **First Seen** | Aug 10, 2026 |
 
-**Why it's a gem**: High growth velocity (+68 stars&#x2F;day) • Trending 21 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+66 stars&#x2F;day) • Trending 22 times • Very active development • Strong community engagement
 
 **Best for**: 
 
 [View Passport](../../repos/XiaomingX/ai-money-maker-handbook.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;XiaomingX&#x2F;ai-money-maker-handbook)
-
----
-
-### 38. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
-
-**Source control for agents. Use multiple coding agents, track their changes and query them in one place**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 8,197 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 14, 2026 |
-
-**Why it's a gem**: High growth velocity (+571 stars&#x2F;day) • Trending 8 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/pacifio/atlas.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas)
 
 ---
 
@@ -791,59 +791,19 @@
 
 ---
 
-### 40. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
-
-**Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,397 |
-| 💻 **Language** | C |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 10 |
-| 📅 **First Seen** | Sep 9, 2026 |
-
-**Why it's a gem**: High growth velocity (+142 stars&#x2F;day) • Trending 10 times • Very active development • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/willfaust/Madeira.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;willfaust&#x2F;Madeira)
-
----
-
-### 41. [CyrilPeng&#x2F;Venera-Next](../../repos/CyrilPeng/Venera-Next.md)
-
-**VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,598 |
-| 💻 **Language** | Dart |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Sep 25, 2026 |
-
-**Why it's a gem**: Trending 6 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/CyrilPeng/Venera-Next.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;CyrilPeng&#x2F;Venera-Next)
-
----
-
-### 42. [kushagrasinghx&#x2F;BitChord](../../repos/kushagrasinghx/BitChord.md)
+### 40. [kushagrasinghx&#x2F;BitChord](../../repos/kushagrasinghx/BitChord.md)
 
 **BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,549 |
+| ⭐ **Stars** | 3,678 |
 | 💻 **Language** | Kotlin |
 | 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 6 |
+| 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Oct 12, 2026 |
 
-**Why it's a gem**: High growth velocity (+94 stars&#x2F;day) • Trending 6 times • Very active development • Underrated project
+**Why it's a gem**: High growth velocity (+97 stars&#x2F;day) • Trending 7 times • Very active development • Underrated project
 
 **Best for**: 
 
@@ -851,7 +811,27 @@
 
 ---
 
-### 43. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+### 41. [michael-denyer&#x2F;pstack-claude](../../repos/michael-denyer/pstack-claude.md)
+
+**Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto&#39;s pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,065 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Oct 16, 2026 |
+
+**Why it's a gem**: High growth velocity (+249 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/michael-denyer/pstack-claude.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;michael-denyer&#x2F;pstack-claude)
+
+---
+
+### 42. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
 
 **A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
 
@@ -871,27 +851,7 @@
 
 ---
 
-### 44. [agent-substrate&#x2F;substrate](../../repos/agent-substrate/substrate.md)
-
-**Agent Substrate: the core system**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,489 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 18 |
-| 📅 **First Seen** | Aug 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+152 stars&#x2F;day) • Trending 18 times • Very active development
-
-**Best for**: 
-
-[View Passport](../../repos/agent-substrate/substrate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;agent-substrate&#x2F;substrate)
-
----
-
-### 45. [itsfatduck&#x2F;optimizerDuck](../../repos/itsfatduck/optimizerDuck.md)
+### 43. [itsfatduck&#x2F;optimizerDuck](../../repos/itsfatduck/optimizerDuck.md)
 
 **Free, open-source Windows optimization tool for performance, privacy, and simplicity.**
 
@@ -911,7 +871,7 @@
 
 ---
 
-### 46. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 44. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
 **Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
@@ -931,39 +891,39 @@
 
 ---
 
-### 47. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+### 45. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
-**Native GUI for Homebrew Casks**
+**Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,131 |
-| 💻 **Language** | Swift |
+| ⭐ **Stars** | 8,197 |
+| 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 88/100 |
 | 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 10, 2026 |
+| 📅 **First Seen** | Aug 14, 2026 |
 
-**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+571 stars&#x2F;day) • Trending 8 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
+[View Passport](../../repos/pacifio/atlas.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas)
 
 ---
 
-### 48. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
+### 46. [rawfilejson&#x2F;awesome-osint-arsenal](../../repos/rawfilejson/awesome-osint-arsenal.md)
 
 **OSINT &amp; recon toolkit &#x2F;&#x2F; 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,204 |
+| ⭐ **Stars** | 3,455 |
 | 💻 **Language** | Shell |
 | 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 8 |
+| 📈 **Trending Days** | 9 |
 | 📅 **First Seen** | Aug 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+109 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+115 stars&#x2F;day) • Trending 9 times • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -971,7 +931,7 @@
 
 ---
 
-### 49. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+### 47. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
 
 **Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
 
@@ -991,23 +951,63 @@
 
 ---
 
-### 50. [xtool-org&#x2F;xtool](../../repos/xtool-org/xtool.md)
+### 48. [willfaust&#x2F;Madeira](../../repos/willfaust/Madeira.md)
 
-**Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.**
+**Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11,909 |
-| 💻 **Language** | Swift |
+| ⭐ **Stars** | 2,397 |
+| 💻 **Language** | C |
 | 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 9 |
-| 📅 **First Seen** | Sep 21, 2026 |
+| 📈 **Trending Days** | 10 |
+| 📅 **First Seen** | Sep 9, 2026 |
 
-**Why it's a gem**: High growth velocity (+934 stars&#x2F;day) • Trending 9 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+142 stars&#x2F;day) • Trending 10 times • Very active development • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/xtool-org/xtool.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;xtool-org&#x2F;xtool)
+[View Passport](../../repos/willfaust/Madeira.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;willfaust&#x2F;Madeira)
+
+---
+
+### 49. [thesysdev&#x2F;openui](../../repos/thesysdev/openui.md)
+
+**The Open Standard for Generative UI**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 12,173 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 13, 2026 |
+
+**Why it's a gem**: High growth velocity (+263 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/thesysdev/openui.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;thesysdev&#x2F;openui)
+
+---
+
+### 50. [Tianyu199509&#x2F;DeskBox](../../repos/Tianyu199509/DeskBox.md)
+
+**A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6,559 |
+| 💻 **Language** | C# |
+| 🏆 **Gem Score** | 88/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Sep 27, 2026 |
+
+**Why it's a gem**: High growth velocity (+132 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/Tianyu199509/DeskBox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tianyu199509&#x2F;DeskBox)
 
 ---
 
@@ -1027,5 +1027,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-18T21:01:55.239Z*  
+*Generated: 2026-10-19T21:02:13.537Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

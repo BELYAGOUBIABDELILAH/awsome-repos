@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 215
+- **Total Repositories**: 219
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-14
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [googleworkspace/cli](../repos/googleworkspace/cli.md) | ⭐ 31,652 | 2026-08-01 | 5 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 83,156 | 2026-08-05 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 16,699 | 2026-08-10 | 11 |
+| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 16,769 | 2026-08-10 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 10,400 | 2026-08-17 | 12 |
+| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,300 | 2026-08-11 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mixelpixx/Konnect](../repos/mixelpixx/Konnect.md) | ⭐ 1,282 | 2026-09-06 | 6 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 11,242 | 2026-08-17 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rubys/roundhouse](../repos/rubys/roundhouse.md) | ⭐ 481 | 2026-10-03 | 3 |
+| [confeden/Antigravity](../repos/confeden/Antigravity.md) | ⭐ 926 | 2026-08-25 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xerj-org/xerj](../repos/xerj-org/xerj.md) | ⭐ 8,322 | 2026-10-07 | 5 |
+| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 4,499 | 2026-09-13 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pollen-robotics/microduck](../repos/pollen-robotics/microduck.md) | ⭐ 9,562 | 2026-10-16 | 2 |
+| [xerj-org/xerj](../repos/xerj-org/xerj.md) | ⭐ 10,443 | 2026-10-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [GCWing/OpenBitFun](../repos/GCWing/OpenBitFun.md) | ⭐ 2,852 | 2026-10-17 | 2 |
+| [smg-project/smg](../repos/smg-project/smg.md) | ⭐ 636 | 2026-10-19 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [leepokai/Codync](../repos/leepokai/Codync.md) | ⭐ 606 | 2026-10-19 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [fish-shell/fish-shell](../repos/fish-shell/fish-shell.md) | ⭐ 34,332 | 2026-10-19 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [yynxxxxx/Codex-X](../repos/yynxxxxx/Codex-X.md) | ⭐ 3,851 | 2026-09-19 | OpenAI Codex 桌面端&#x2F;CLI 的可视化管理工具，具有Provider&#x2F;API 切换、会话同步、提示词注入、Skills&#x2F;MCP 管理、TOML 配置可视化的跨平台工具。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [yyjeqhc/webcodex](../repos/yyjeqhc/webcodex.md) | ⭐ 1,627 | 2026-09-19 | Give cloud AI agents a real development environment on your own machines. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [EpicGames/lore](../repos/EpicGames/lore.md) | ⭐ 8,701 | 2026-09-19 | Lore is a next-generation, open source version control system |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [EricLBuehler/mistral.rs](../repos/EricLBuehler/mistral.rs.md) | ⭐ 7,703 | 2026-09-19 | Fast, flexible LLM inference |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pandorafuture/wx-cli](../repos/pandorafuture/wx-cli.md) | ⭐ 805 | 2026-09-20 | WeChat macOS database decryption and query tool |
@@ -74,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Nasiko-Labs/nasiko](../repos/Nasiko-Labs/nasiko.md) | ⭐ 8,872 | 2026-09-22 | Developer Control Plane for your AI Agents |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [huggingface/tokenizers](../repos/huggingface/tokenizers.md) | ⭐ 11,086 | 2026-09-22 | 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [a2x/cs2-dumper](../repos/a2x/cs2-dumper.md) | ⭐ 2,392 | 2026-09-24 | Counter-Strike: 2 Offset Dumper |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Mesh-LLM/mesh-llm](../repos/Mesh-LLM/mesh-llm.md) | ⭐ 3,451 | 2026-09-24 | Distributed AI&#x2F;LLM for the people. Share compute privately or publicly to power your agents and c... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kvcache-ai/AgentENV](../repos/kvcache-ai/AgentENV.md) | ⭐ 3,535 | 2026-09-24 | AgentENV (AENV) is a distributed platform for running agent environments at scale. |
 
 
 ---
@@ -86,8 +92,9 @@
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,946 | 2026-07-30 | 11 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 98,335 | 2026-08-09 | 17 |
-| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,064 | 2026-08-11 | 8 |
+| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,300 | 2026-08-11 | 9 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 90,775 | 2026-07-31 | 5 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 83,156 | 2026-08-05 | 19 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,345 | 2026-08-20 | 5 |
@@ -101,7 +108,6 @@
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,253 | 2026-08-05 | 10 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 44,035 | 2026-08-02 | 11 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 41,568 | 2026-08-10 | 15 |
-| [sxyazi/yazi](../repos/sxyazi/yazi.md) | ⭐ 41,430 | 2026-08-16 | 2 |
 
 ---
 
@@ -110,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 21 | ⭐ 23,670 | 2026-08-08 | 2026-09-28 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 19 | ⭐ 83,156 | 2026-08-05 | 2026-10-19 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 17 | ⭐ 98,335 | 2026-08-09 | 2026-10-16 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 15 | ⭐ 41,568 | 2026-08-10 | 2026-10-07 |
 | [openai/codex](../repos/openai/codex.md) | 14 | ⭐ 129,224 | 2026-08-01 | 2026-10-14 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 14 | ⭐ 26,668 | 2026-08-01 | 2026-10-14 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 13 | ⭐ 30,255 | 2026-08-03 | 2026-10-17 |
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 12 | ⭐ 10,400 | 2026-08-17 | 2026-10-18 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 13 | ⭐ 11,242 | 2026-08-17 | 2026-10-19 |
+| [Automattic/harper](../repos/Automattic/harper.md) | 12 | ⭐ 16,769 | 2026-08-10 | 2026-10-19 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | 11 | ⭐ 119,946 | 2026-07-30 | 2026-10-14 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 11 | ⭐ 44,035 | 2026-08-02 | 2026-10-15 |
-| [Pumpkin-MC/Pumpkin](../repos/Pumpkin-MC/Pumpkin.md) | 11 | ⭐ 11,824 | 2026-08-09 | 2026-10-01 |
 
 ---
 
@@ -174,6 +180,7 @@
 - [PyO3/pyo3](../repos/PyO3/pyo3.md) - Rust bindings for the Python interpreter
 - [rerun-io/rerun](../repos/rerun-io/rerun.md) - Visualize, query, and stream to train on multimodal robotics data.
 - [zellij-org/zellij](../repos/zellij-org/zellij.md) - A terminal workspace with batteries included
+- [pbakaus/impeccable](../repos/pbakaus/impeccable.md) - The design language that makes your AI harness better at design.
 - [ovexro/dockpanel](../repos/ovexro/dockpanel.md) - Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git depl...
 - [juspay/hyperswitch](../repos/juspay/hyperswitch.md) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables ...
 - [pola-rs/polars](../repos/pola-rs/polars.md) - Extremely fast Query Engine for DataFrames, written in Rust
@@ -223,8 +230,7 @@
 - [astral-sh/ruff](../repos/astral-sh/ruff.md) - An extremely fast Python linter and code formatter, written in Rust.
 - [tonhowtf/omniget](../repos/tonhowtf/omniget.md) - Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. ...
 - [pacifio/atlas](../repos/pacifio/atlas.md) - Source control for agents. Use multiple coding agents, track their changes and query them in one ...
-- [jlcodes99/cockpit-tools](../repos/jlcodes99/cockpit-tools.md) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity &#x2F; Codex &#x2F; GitHub Copilot &#x2F; Windsurf &#x2F; Kiro &#x2F; Cursor &#x2F; Gemini-...
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.712Z*
+*Last updated: 2026-10-19T21:01:55.005Z*

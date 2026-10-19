@@ -16,40 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 9,967 | 2026-08-01 | 14 |
+| [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,967 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/fonts](../repos/google/fonts.md) | ⭐ 20,644 | 2026-08-03 | 7 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,050 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,237 | 2026-08-05 | 11 |
+| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 17,044 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 30,193 | 2026-08-09 | 15 |
+| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,401 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 16,782 | 2026-09-14 | 5 |
+| [github/training-kit](../repos/github/training-kit.md) | ⭐ 5,119 | 2026-08-15 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,190 | 2026-09-19 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [EricTechPro/super-board](../repos/EricTechPro/super-board.md) | ⭐ 380 | 2026-10-09 | 6 |
+| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,207 | 2026-09-19 | 6 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,449 | 2026-09-19 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [github/opensource.guide](../repos/github/opensource.guide.md) | ⭐ 15,706 | 2026-09-19 | 📚 Community guides for open source creators |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,190 | 2026-09-19 | Crack Interface lockscreen, Metasploit and More Android&#x2F;IOS Hacking |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [TandoorRecipes/recipes](../repos/TandoorRecipes/recipes.md) | ⭐ 8,616 | 2026-09-20 | Application for managing recipes, planning meals, building shopping lists and much much more! |
@@ -71,6 +59,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [FinMind/FinMind](../repos/FinMind/FinMind.md) | ⭐ 2,820 | 2026-09-28 | Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https:&#x2F;&#x2F;finmind.github.io&#x2F; |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CoolDude2349/Offline-HTML-Games-Pack](../repos/CoolDude2349/Offline-HTML-Games-Pack.md) | ⭐ 206 | 2026-09-29 | 352 offline HTML games, each on a single file |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LingDong-/shan-shui-inf](../repos/LingDong-/shan-shui-inf.md) | ⭐ 6,137 | 2026-10-02 | Procedurally generated Chinese landscape painting. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [phishdestroy/destroylist](../repos/phishdestroy/destroylist.md) | ⭐ 1,904 | 2026-10-02 | Real-time phishing &amp; scam domain blocklist - 205k+ curated threats, 1M+ community, free API, mult... |
 
 
 ---
@@ -95,7 +92,7 @@
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 24,855 | 2026-10-09 | 3 |
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 22,554 | 2026-08-01 | 7 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,050 | 2026-08-01 | 8 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,644 | 2026-08-03 | 7 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
 | [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | 1 |
@@ -224,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.667Z*
+*Last updated: 2026-10-19T21:01:54.960Z*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 48
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-18
+- **Last Updated**: 2026-10-19
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,999 | 2026-08-01 | 40 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,998 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 453 | 2026-08-01 | 51 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | ⭐ 453 | 2026-08-01 | 52 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,732 | 2026-08-01 | 46 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,733 | 2026-08-01 | 47 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,237 | 2026-08-01 | 38 |
+| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,837 | 2026-08-01 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,831 | 2026-08-01 | 45 |
+| [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,534 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,532 | 2026-08-01 | 29 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,675 | 2026-08-01 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,674 | 2026-08-01 | 43 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,484 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,482 | 2026-08-01 | 44 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,042 | 2026-08-04 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cRz-Shadows/Pokemon_Yellow_Legacy](../repos/cRz-Shadows/Pokemon_Yellow_Legacy.md) | ⭐ 306 | 2026-08-02 | 11 |
+| [cemu-project/cemu_graphic_packs](../repos/cemu-project/cemu_graphic_packs.md) | ⭐ 1,470 | 2026-08-04 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SheerSt/pokewilds](../repos/SheerSt/pokewilds.md) | ⭐ 2,917 | 2026-08-03 | 16 |
+| [z88dk/z88dk](../repos/z88dk/z88dk.md) | ⭐ 1,147 | 2026-08-06 | 9 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openhwfoundation/cva6](../repos/openhwfoundation/cva6.md) | ⭐ 3,162 | 2026-09-19 | The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded a... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SpinalHDL/VexRiscv](../repos/SpinalHDL/VexRiscv.md) | ⭐ 3,265 | 2026-09-19 | A FPGA friendly 32 bit RISC-V CPU implementation |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [jmechner/Prince-of-Persia-Apple-II](../repos/jmechner/Prince-of-Persia-Apple-II.md) | ⭐ 6,906 | 2026-09-28 | A running-jumping-swordfighting game I made on the Apple II from 1985-89 |
@@ -70,26 +64,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,831 | 2026-08-01 | 45 |
+| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | ⭐ 18,837 | 2026-08-01 | 46 |
 | [leachim6/hello-world](../repos/leachim6/hello-world.md) | ⭐ 11,998 | 2026-08-02 | 34 |
 | [kanaka/mal](../repos/kanaka/mal.md) | ⭐ 10,742 | 2026-08-11 | 14 |
 | [jmechner/Prince-of-Persia-Apple-II](../repos/jmechner/Prince-of-Persia-Apple-II.md) | ⭐ 6,906 | 2026-09-28 | 3 |
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,482 | 2026-08-01 | 44 |
-| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,999 | 2026-08-01 | 40 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | ⭐ 6,484 | 2026-08-01 | 45 |
+| [pret/pokered](../repos/pret/pokered.md) | ⭐ 4,998 | 2026-08-01 | 41 |
 | [below/HelloSilicon](../repos/below/HelloSilicon.md) | ⭐ 4,994 | 2026-09-02 | 2 |
 | [briansmith/ring](../repos/briansmith/ring.md) | ⭐ 4,107 | 2026-08-01 | 12 |
-| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,041 | 2026-08-04 | 40 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | ⭐ 4,042 | 2026-08-04 | 41 |
 | [netwide-assembler/nasm](../repos/netwide-assembler/nasm.md) | ⭐ 3,322 | 2026-09-01 | 8 |
 | [virtualagc/virtualagc](../repos/virtualagc/virtualagc.md) | ⭐ 3,297 | 2026-08-01 | 5 |
 | [SpinalHDL/VexRiscv](../repos/SpinalHDL/VexRiscv.md) | ⭐ 3,265 | 2026-09-19 | 1 |
 | [openhwfoundation/cva6](../repos/openhwfoundation/cva6.md) | ⭐ 3,162 | 2026-09-19 | 19 |
 | [openhwgroup/cva6](../repos/openhwgroup/cva6.md) | ⭐ 3,111 | 2026-08-01 | 34 |
 | [SheerSt/pokewilds](../repos/SheerSt/pokewilds.md) | ⭐ 2,917 | 2026-08-03 | 16 |
-| [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,532 | 2026-08-01 | 29 |
+| [pret/pokecrystal](../repos/pret/pokecrystal.md) | ⭐ 2,534 | 2026-08-01 | 30 |
 | [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | ⭐ 2,237 | 2026-08-01 | 38 |
 | [PlummersSoftwareLLC/TinyRetroPad](../repos/PlummersSoftwareLLC/TinyRetroPad.md) | ⭐ 1,750 | 2026-08-04 | 15 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,732 | 2026-08-01 | 46 |
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,674 | 2026-08-01 | 43 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,733 | 2026-08-01 | 47 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | ⭐ 1,675 | 2026-08-01 | 44 |
 
 ---
 
@@ -97,14 +91,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 51 | ⭐ 453 | 2026-08-01 | 2026-10-18 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 46 | ⭐ 1,732 | 2026-08-01 | 2026-10-18 |
-| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | 45 | ⭐ 18,831 | 2026-08-01 | 2026-10-18 |
-| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | 44 | ⭐ 6,482 | 2026-08-01 | 2026-10-18 |
+| [ROCm/rocm-libraries](../repos/ROCm/rocm-libraries.md) | 52 | ⭐ 453 | 2026-08-01 | 2026-10-19 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 47 | ⭐ 1,733 | 2026-08-01 | 2026-10-19 |
+| [vxunderground/MalwareSourceCode](../repos/vxunderground/MalwareSourceCode.md) | 46 | ⭐ 18,837 | 2026-08-01 | 2026-10-19 |
+| [BLAKE3-team/BLAKE3](../repos/BLAKE3-team/BLAKE3.md) | 45 | ⭐ 6,484 | 2026-08-01 | 2026-10-19 |
+| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 44 | ⭐ 1,675 | 2026-08-01 | 2026-10-19 |
 | [aws/aws-lc](../repos/aws/aws-lc.md) | 43 | ⭐ 840 | 2026-08-01 | 2026-10-12 |
-| [Rangi42/polishedcrystal](../repos/Rangi42/polishedcrystal.md) | 43 | ⭐ 1,674 | 2026-08-01 | 2026-10-18 |
-| [pret/pokered](../repos/pret/pokered.md) | 40 | ⭐ 4,999 | 2026-08-01 | 2026-10-18 |
-| [ebitengine/purego](../repos/ebitengine/purego.md) | 40 | ⭐ 4,041 | 2026-08-04 | 2026-10-18 |
+| [pret/pokered](../repos/pret/pokered.md) | 41 | ⭐ 4,998 | 2026-08-01 | 2026-10-19 |
+| [ebitengine/purego](../repos/ebitengine/purego.md) | 41 | ⭐ 4,042 | 2026-08-04 | 2026-10-19 |
 | [bitdump/BLHeli](../repos/bitdump/BLHeli.md) | 38 | ⭐ 2,237 | 2026-08-01 | 2026-10-18 |
 | [riscv/riscv-arch-test](../repos/riscv/riscv-arch-test.md) | 36 | ⭐ 800 | 2026-08-02 | 2026-10-17 |
 
@@ -163,4 +157,4 @@
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.618Z*
+*Last updated: 2026-10-19T21:01:54.914Z*

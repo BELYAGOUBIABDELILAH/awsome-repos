@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | ODbL-1.0 |
-| **Stars** | ⭐ 5,708 |
-| **Forks** | 🍴 960 |
-| **Trending Days** | 3 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 6,062 |
+| **Forks** | 🍴 996 |
+| **Trending Days** | 4 |
+| **Peak Rank** | #8 |
 
 | **First Seen** | Sep 12, 2026 |
-| **Last Seen** | Oct 18, 2026 |
+| **Last Seen** | Oct 19, 2026 |
 
 
 ---
@@ -43,12 +43,13 @@
 
 ## Trending Timeline
 
+**Oct 19, 2026** — Rank #8 (+301 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
-- **Longest Streak**: 2 days
+- **Peak Rank**: #8
+- **Trending Days**: 4
+- **Longest Streak**: 3 days
 
 ---
 
@@ -72,7 +73,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 55&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 75&#x2F;100
+- **Historical Rank**: Top 10 (Peak: #8)
 
 
 ---
 
-*Last updated: 2026-10-18T21:01:54.444Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-10-19T21:02:12.580Z*  
+*Data from 4 trending reports*

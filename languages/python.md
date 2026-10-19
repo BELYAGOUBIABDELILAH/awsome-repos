@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 292
+- **Total Repositories**: 294
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-12
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | ⭐ 52,636 | 2026-08-03 | 16 |
+| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 41,568 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 128,343 | 2026-08-03 | 6 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 129,081 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 138,529 | 2026-08-05 | 9 |
+| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 70,028 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 42,581 | 2026-08-07 | 13 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 139,582 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 111,892 | 2026-08-08 | 11 |
+| [666ghj/MiroFish](../repos/666ghj/MiroFish.md) | ⭐ 80,629 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 54,528 | 2026-08-15 | 11 |
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 43,153 | 2026-08-07 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k2-fsa/OmniVoice](../repos/k2-fsa/OmniVoice.md) | ⭐ 14,749 | 2026-09-05 | 5 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 55,161 | 2026-08-15 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Free-TV/IPTV](../repos/Free-TV/IPTV.md) | ⭐ 21,195 | 2026-09-07 | 3 |
+| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 52,974 | 2026-09-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 5,749 | 2026-09-22 | 6 |
+| [Friedrich-M/UniMate](../repos/Friedrich-M/UniMate.md) | ⭐ 2,011 | 2026-10-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kruk2/jasna](../repos/Kruk2/jasna.md) | ⭐ 2,356 | 2026-10-18 | 1 |
+| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 76,174 | 2026-10-09 | 2 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 29,194 | 2026-09-19 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [virattt/ai-hedge-fund](../repos/virattt/ai-hedge-fund.md) | ⭐ 63,523 | 2026-09-19 | An AI Hedge Fund Team |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NVIDIA/TensorRT-LLM](../repos/NVIDIA/TensorRT-LLM.md) | ⭐ 14,663 | 2026-09-19 | TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs)... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openai/openai-python](../repos/openai/openai-python.md) | ⭐ 31,661 | 2026-09-19 | The official Python library for the OpenAI API |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PenglongHuang/chinese-novelist-skill](../repos/PenglongHuang/chinese-novelist-skill.md) | ⭐ 3,100 | 2026-09-19 | 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜AI novel w... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [TencentCloud/Octop](../repos/TencentCloud/Octop.md) | ⭐ 6,227 | 2026-09-19 | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mcncarl/yichen-skills](../repos/mcncarl/yichen-skills.md) | ⭐ 3,838 | 2026-09-19 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [opendatalab/MinerU](../repos/opendatalab/MinerU.md) | ⭐ 80,238 | 2026-09-19 | Transforms complex documents like PDFs and Office docs into LLM-ready markdown&#x2F;JSON for your Agen... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mem0ai/mem0](../repos/mem0ai/mem0.md) | ⭐ 66,321 | 2026-09-19 | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context th... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [anthropics/financial-services](../repos/anthropics/financial-services.md) | ⭐ 37,528 | 2026-09-20 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [paperless-ngx/paperless-ngx](../repos/paperless-ngx/paperless-ngx.md) | ⭐ 45,828 | 2026-09-20 | A community-supported supercharged document management system: scan, index and archive all your d... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mihail911/modern-software-dev-assignments](../repos/mihail911/modern-software-dev-assignments.md) | ⭐ 4,521 | 2026-09-20 | Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026&#x2F;2025) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [FareedKhan-dev/train-llm-from-scratch](../repos/FareedKhan-dev/train-llm-from-scratch.md) | ⭐ 10,814 | 2026-09-20 | A straightforward method for training your LLM, from downloading data to generating text. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 8,703 | 2026-09-20 | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bbfamily/abu](../repos/bbfamily/abu.md) | ⭐ 18,664 | 2026-09-20 | 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mvt-project/mvt](../repos/mvt-project/mvt.md) | ⭐ 15,183 | 2026-09-21 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to f... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cv-cat/DouYin_Spider](../repos/cv-cat/DouYin_Spider.md) | ⭐ 3,111 | 2026-09-21 | 抖音逆向，抖音爬虫，抖音全部api、私信、直播间监听 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [TNT-Likely/PanWatch](../repos/TNT-Likely/PanWatch.md) | ⭐ 1,761 | 2026-09-21 | 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股&#x2F;港股&#x2F;美股实时监控、持仓管理、智能分析、全渠道推送 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [owainlewis/awesome-artificial-intelligence](../repos/owainlewis/awesome-artificial-intelligence.md) | ⭐ 16,531 | 2026-09-21 | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. |
 
 
 ---
@@ -99,15 +99,15 @@
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 141,347 | 2026-08-04 | 7 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 138,529 | 2026-08-05 | 9 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 139,582 | 2026-08-05 | 10 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 132,098 | 2026-08-01 | 17 |
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 128,343 | 2026-08-03 | 6 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 129,081 | 2026-08-03 | 7 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 111,892 | 2026-08-08 | 11 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 104,706 | 2026-07-30 | 6 |
-| [3b1b/manim](../repos/3b1b/manim.md) | ⭐ 92,978 | 2026-08-10 | 6 |
+| [fastapi/fastapi](../repos/fastapi/fastapi.md) | ⭐ 103,257 | 2026-10-19 | 1 |
 
 ---
 
@@ -120,11 +120,11 @@
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 17 | ⭐ 65,960 | 2026-08-22 | 2026-10-14 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 16 | ⭐ 52,636 | 2026-08-03 | 2026-10-18 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
+| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 14 | ⭐ 43,153 | 2026-08-07 | 2026-10-19 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 13 | ⭐ 60,537 | 2026-08-03 | 2026-10-14 |
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 13 | ⭐ 42,581 | 2026-08-07 | 2026-10-18 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 12 | ⭐ 55,161 | 2026-08-15 | 2026-10-19 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 11 | ⭐ 92,571 | 2026-08-01 | 2026-10-06 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 11 | ⭐ 40,107 | 2026-08-03 | 2026-10-02 |
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 11 | ⭐ 111,892 | 2026-08-08 | 2026-10-18 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.705Z*
+*Last updated: 2026-10-19T21:01:54.996Z*

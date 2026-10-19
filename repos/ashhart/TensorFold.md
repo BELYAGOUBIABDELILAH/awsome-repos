@@ -1,6 +1,6 @@
 # ashhart&#x2F;TensorFold
 
-> LLM Inference Engine for Metal, CUDA and Vulkan.
+> LLM Inference Engine for Metal and CUDA.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;ashhart&#x2F;TensorFold) 
 
@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | TypeScript |
+| **Language** | Zig |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 1,305 |
-| **Forks** | 🍴 237 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 1,393 |
+| **Forks** | 🍴 266 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 28, 2026 |
-| **Last Seen** | Oct 13, 2026 |
+| **Last Seen** | Oct 19, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in TypeScript or ai*
+*Similar: Check repositories in Zig or ai*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 3 days
 
 ---
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in TypeScript
+- Check similar projects in Zig
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 90&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-18T21:01:54.717Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-10-19T21:02:12.901Z*  
+*Data from 6 trending reports*

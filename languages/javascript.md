@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 166
+- **Total Repositories**: 168
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-15
 
@@ -16,34 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 108,158 | 2026-08-05 | 29 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 85,816 | 2026-08-04 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | ⭐ 10,609 | 2026-08-10 | 12 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 26,028 | 2026-08-16 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 24,863 | 2026-08-16 | 8 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 32,362 | 2026-08-28 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 31,084 | 2026-08-28 | 8 |
+| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 6,062 | 2026-09-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 5,708 | 2026-09-12 | 3 |
+| [plugin87/ux-ui-agent-skills](../repos/plugin87/ux-ui-agent-skills.md) | ⭐ 2,389 | 2026-09-14 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laoma528/awesome-zhuiju-free](../repos/laoma528/awesome-zhuiju-free.md) | ⭐ 12,592 | 2026-10-15 | 3 |
+| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 3,065 | 2026-10-16 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [guoyue2010/lxmusic-](../repos/guoyue2010/lxmusic-.md) | ⭐ 6,466 | 2026-10-18 | 1 |
+| [YuJunZhiXue/dsh-purge](../repos/YuJunZhiXue/dsh-purge.md) | ⭐ 8,625 | 2026-10-19 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [datawhalechina/easy-vibe](../repos/datawhalechina/easy-vibe.md) | ⭐ 20,026 | 2026-10-19 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [flizzywine/dsh-tavern](../repos/flizzywine/dsh-tavern.md) | ⭐ 1,128 | 2026-10-19 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mindcraft-bots/mindcraft](../repos/mindcraft-bots/mindcraft.md) | ⭐ 5,768 | 2026-09-19 | Minecraft AI with LLMs+Mineflayer |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [BuilderIO/skills](../repos/BuilderIO/skills.md) | ⭐ 4,511 | 2026-09-20 | Skills for agents |
@@ -71,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [huilang-me/CF-Server-Monitor](../repos/huilang-me/CF-Server-Monitor.md) | ⭐ 2,302 | 2026-09-28 | 一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [QwenAudio/qwen-audio-agent](../repos/QwenAudio/qwen-audio-agent.md) | ⭐ 2,819 | 2026-09-29 | A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtim... |
 
 
 ---
@@ -88,8 +94,7 @@
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 81,136 | 2026-08-04 | 19 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 77,610 | 2026-08-05 | 18 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 85,816 | 2026-08-04 | 20 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,592 | 2026-08-04 | 3 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 66,612 | 2026-08-01 | 18 |
@@ -99,6 +104,7 @@
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 56,874 | 2026-08-27 | 13 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,701 | 2026-08-08 | 5 |
+| [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
 
 ---
 
@@ -107,15 +113,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 29 | ⭐ 108,158 | 2026-08-05 | 2026-10-18 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 19 | ⭐ 81,136 | 2026-08-04 | 2026-10-09 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 20 | ⭐ 85,816 | 2026-08-04 | 2026-10-19 |
 | [byoungd/up](../repos/byoungd/up.md) | 18 | ⭐ 66,612 | 2026-08-01 | 2026-10-01 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 18 | ⭐ 77,610 | 2026-08-05 | 2026-10-06 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 13 | ⭐ 3,954 | 2026-08-07 | 2026-10-03 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 13 | ⭐ 56,874 | 2026-08-27 | 2026-10-15 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 12 | ⭐ 143,053 | 2026-07-30 | 2026-10-17 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 12 | ⭐ 27,764 | 2026-08-03 | 2026-10-12 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 12 | ⭐ 30,461 | 2026-08-08 | 2026-10-15 |
+| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | 12 | ⭐ 10,609 | 2026-08-10 | 2026-10-18 |
 
 ---
 
@@ -155,7 +161,6 @@
 - [Dailin521/codex-provider-sync](../repos/Dailin521/codex-provider-sync.md) - Synchronize Codex session provider metadata across rollout files and SQLite state.
 - [tt-a1i/archify](../repos/tt-a1i/archify.md) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude ...
 - [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) - Production-grade engineering skills for AI coding agents.
-- [pbakaus/impeccable](../repos/pbakaus/impeccable.md) - The design language that makes your AI harness better at design.
 - [eze-is/web-access](../repos/eze-is/web-access.md) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
 - [xuanyustudio/LocalMiniDrama](../repos/xuanyustudio/LocalMiniDrama.md) - 🎬 seedance2接入  开源本地 AI 短剧 &amp; 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-sou...
 - [atlassian/atlassian-mcp-server](../repos/atlassian/atlassian-mcp-server.md) - Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Managem...
@@ -221,7 +226,8 @@
 - [FB208/OpenBidKit_Yibiao](../repos/FB208/OpenBidKit_Yibiao.md) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
 - [fmhy/edit](../repos/fmhy/edit.md) - Make changes to FMHY
 - [nasa-gibs/worldview](../repos/nasa-gibs/worldview.md) - Interactive interface for browsing global, full-resolution satellite imagery
+- [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) - ⭐️  Companies that don&#39;t have a broken hiring process
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.675Z*
+*Last updated: 2026-10-19T21:01:54.967Z*

@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 477
+- **Total Repositories**: 480
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-09-06
-- **Average Stars**: 21880
+- **Average Stars**: 21995
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,959 | PHP |  |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,781 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,780 | Ruby |  |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,050 | HTML |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,580 | Scala |  |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,821 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,281 | Scala |  |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,408 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,240 | Scala |  |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,611 | Objective-C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,813 | Vue |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,150 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,144 | Vue |  |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,029 | V |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,609 | Objective-C |  |
+| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 8,041 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,023 | V |  |
+| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,704 | R |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,818 | CoffeeScript |  |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,682 | Vue |  |
 
 
 ---
@@ -91,7 +91,7 @@
 | [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 6,015 | Ruby | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,780 | Ruby | 2 |
+| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,781 | Ruby | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,453 | Ruby | 2 |
@@ -103,21 +103,6 @@
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [Open-Dev-Society/OpenStock](../repos/Open-Dev-Society/OpenStock.md) | ⭐ 18,327 | TypeScript | 2026-09-19 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [PenglongHuang/chinese-novelist-skill](../repos/PenglongHuang/chinese-novelist-skill.md) | ⭐ 3,100 | Python | 2026-09-19 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,190 | HTML | 2026-09-19 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [pinterest/PINRemoteImage](../repos/pinterest/PINRemoteImage.md) | ⭐ 4,024 | Objective-C | 2026-09-19 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [MoeKoeMusic/MoeKoeMusic](../repos/MoeKoeMusic/MoeKoeMusic.md) | ⭐ 6,804 | Vue | 2026-09-19 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [paperless-ngx/paperless-ngx](../repos/paperless-ngx/paperless-ngx.md) | ⭐ 45,828 | Python | 2026-09-20 |
@@ -133,10 +118,29 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 720 | C | 2026-09-20 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [crivion/laranode](../repos/crivion/laranode.md) | ⭐ 1,493 | PHP | 2026-09-20 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [henryzt/Rhythm-Plus-Music-Game](../repos/henryzt/Rhythm-Plus-Music-Game.md) | ⭐ 285 | Vue | 2026-09-20 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [AminMGMT/BackPack](../repos/AminMGMT/BackPack.md) | ⭐ 407 | Go | 2026-09-21 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [vladelaina/Catime](../repos/vladelaina/Catime.md) | ⭐ 4,837 | C | 2026-09-21 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [TheAlgorithms/C](../repos/TheAlgorithms/C.md) | ⭐ 22,460 | C | 2026-09-21 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-10-19](../archive/2026/10/2026-10-19.md)
+- 32 repositories trending
+- Top: fastapi&#x2F;fastapi
 
 ### [2026-10-18](../archive/2026/10/2026-10-18.md)
 - 46 repositories trending
@@ -162,10 +166,6 @@
 - 43 repositories trending
 - Top: morluto&#x2F;rea
 
-### [2026-10-12](../archive/2026/10/2026-10-12.md)
-- 54 repositories trending
-- Top: morluto&#x2F;rea
-
 
 ---
 
@@ -176,12 +176,12 @@
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
 | [apache/spark](../repos/apache/spark.md) | 64 days | 2026-08-01 | 2026-10-18 |
-| [vlang/v](../repos/vlang/v.md) | 58 days | 2026-08-01 | 2026-10-18 |
+| [vlang/v](../repos/vlang/v.md) | 59 days | 2026-08-01 | 2026-10-19 |
 | [joernio/joern](../repos/joernio/joern.md) | 54 days | 2026-08-01 | 2026-10-18 |
-| [vim/vim](../repos/vim/vim.md) | 51 days | 2026-08-01 | 2026-10-16 |
+| [vim/vim](../repos/vim/vim.md) | 52 days | 2026-08-01 | 2026-10-19 |
 | [flutter/flutter](../repos/flutter/flutter.md) | 44 days | 2026-08-01 | 2026-10-17 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 43 days | 2026-08-01 | 2026-10-18 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 42 days | 2026-08-03 | 2026-10-17 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 44 days | 2026-08-01 | 2026-10-19 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 43 days | 2026-08-03 | 2026-10-19 |
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 38 days | 2026-08-01 | 2026-10-16 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 days | 2026-08-01 | 2026-10-01 |
 | [facebook/infer](../repos/facebook/infer.md) | 38 days | 2026-08-02 | 2026-10-17 |
@@ -192,15 +192,15 @@
 
 ### Language Breakdown
 - **TypeScript**: 76 repositories (16%)
-- **Vue**: 51 repositories (11%)
-- **JavaScript**: 44 repositories (9%)
+- **Vue**: 52 repositories (11%)
+- **JavaScript**: 45 repositories (9%)
 - **C**: 39 repositories (8%)
 - **Go**: 35 repositories (7%)
 
 ### Trending Frequency
-- **Daily Average**: 44.4 repositories
+- **Daily Average**: 44 repositories
 - **Peak Day**: 2026-08-04 (67 repositories)
-- **Growth Rate**: 17% this month
+- **Growth Rate**: 16% this month
 
 ---
 
@@ -284,7 +284,6 @@
 - [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) - A free, self-hostable news aggregator…
 - [opencart/opencart](../repos/opencart/opencart.md) - A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
 - [docusealco/docuseal](../repos/docusealco/docuseal.md) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-- [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) - RikkaHub is an Android APP that supports for multiple LLM providers.
 - [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) - Vivi-Music is an expressive Material 3–based YouTube Music client for Android.
 - [kodify-js/MovieDex](../repos/kodify-js/MovieDex.md) - MovieDex is an open-source Flutter application that allows users to explore and discover movies e...
 - [rstudio/shiny](../repos/rstudio/shiny.md) - Easy interactive web applications with R
@@ -311,7 +310,8 @@
 - [bytecodealliance/wasmtime](../repos/bytecodealliance/wasmtime.md) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [gfx-rs/wgpu](../repos/gfx-rs/wgpu.md) - A cross-platform, safe, pure-Rust graphics API.
 - [authelia/authelia](../repos/authelia/authelia.md) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptogra...
+- [chaitin/SafeLine](../repos/chaitin/SafeLine.md) - SafeLine is a self-hosted WAF(Web Application Firewall) &#x2F; reverse proxy to protect your web apps ...
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.444Z*
+*Last updated: 2026-10-19T21:01:54.688Z*

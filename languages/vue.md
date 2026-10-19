@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 96
+- **Total Repositories**: 97
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-18
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,442 | 2026-08-01 | 26 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,450 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,813 | 2026-08-01 | 31 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,821 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,144 | 2026-08-01 | 15 |
+| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 256 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 255 | 2026-08-01 | 13 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,408 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,079 | 2026-08-01 | 30 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,093 | 2026-08-01 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 466 | 2026-08-02 | 34 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 468 | 2026-08-02 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,029 | 2026-08-02 | 32 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,039 | 2026-08-02 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,684 | 2026-08-02 | 16 |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,682 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Virtual-Browser/VirtualBrowser](../repos/Virtual-Browser/VirtualBrowser.md) | ⭐ 3,194 | 2026-08-02 | 5 |
+| [ljxi/Cloudflare-R2-oss](../repos/ljxi/Cloudflare-R2-oss.md) | ⭐ 524 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [julyx10/lap](../repos/julyx10/lap.md) | ⭐ 3,950 | 2026-08-02 | 29 |
+| [Rule-34/App](../repos/Rule-34/App.md) | ⭐ 384 | 2026-08-16 | 10 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MoeKoeMusic/MoeKoeMusic](../repos/MoeKoeMusic/MoeKoeMusic.md) | ⭐ 6,804 | 2026-09-19 | 一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuG... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [henryzt/Rhythm-Plus-Music-Game](../repos/henryzt/Rhythm-Plus-Music-Game.md) | ⭐ 285 | 2026-09-20 | Community-based vertical scrolling rhythm game (VSRG) made with Vue.js and canvas (WIP) |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Tools-cx-app/meta-magic_mount-rs](../repos/Tools-cx-app/meta-magic_mount-rs.md) | ⭐ 561 | 2026-10-11 | An implementation of a metamodule using Magic Mount, Based on MKSU, Template is from meta-overlay. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [gcpaas/DataRoom](../repos/gcpaas/DataRoom.md) | ⭐ 866 | 2026-10-11 | 🔥AI对话式生成大屏、页面，采用前后端一体化解决方案，几十种炫酷图表，支持20+数据来源接入，适用于大屏、低代码、BI场景，使用简单，代码完全开源。 |
 
 
 ---
@@ -91,14 +91,14 @@
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,144 | 2026-08-01 | 15 |
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,045 | 2026-08-01 | 9 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,587 | 2026-08-01 | 35 |
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,396 | 2026-08-01 | 24 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,408 | 2026-08-01 | 25 |
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 29,036 | 2026-08-01 | 35 |
 | [docmirror/dev-sidecar](../repos/docmirror/dev-sidecar.md) | ⭐ 24,560 | 2026-10-06 | 5 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,079 | 2026-08-01 | 30 |
-| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,684 | 2026-08-02 | 16 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,093 | 2026-08-01 | 31 |
+| [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,682 | 2026-08-02 | 17 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,029 | 2026-08-02 | 32 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,039 | 2026-08-02 | 33 |
 | [Hunlongyu/ZY-Player](../repos/Hunlongyu/ZY-Player.md) | ⭐ 14,511 | 2026-10-12 | 1 |
 | [primefaces/primevue](../repos/primefaces/primevue.md) | ⭐ 14,446 | 2026-08-05 | 14 |
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,119 | 2026-08-20 | 4 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [requarks/wiki](../repos/requarks/wiki.md) | 35 | ⭐ 29,036 | 2026-08-01 | 2026-10-12 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 35 | ⭐ 33,587 | 2026-08-01 | 2026-10-12 |
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 34 | ⭐ 466 | 2026-08-02 | 2026-10-18 |
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 32 | ⭐ 17,029 | 2026-08-02 | 2026-10-18 |
-| [frappe/crm](../repos/frappe/crm.md) | 31 | ⭐ 3,813 | 2026-08-01 | 2026-10-18 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 30 | ⭐ 22,079 | 2026-08-01 | 2026-10-18 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 35 | ⭐ 468 | 2026-08-02 | 2026-10-19 |
+| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 33 | ⭐ 17,039 | 2026-08-02 | 2026-10-19 |
+| [frappe/crm](../repos/frappe/crm.md) | 32 | ⭐ 3,821 | 2026-08-01 | 2026-10-19 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 31 | ⭐ 22,093 | 2026-08-01 | 2026-10-19 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 29 | ⭐ 3,950 | 2026-08-02 | 2026-10-18 |
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 26 | ⭐ 4,442 | 2026-08-01 | 2026-10-18 |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 27 | ⭐ 4,450 | 2026-08-01 | 2026-10-19 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 25 | ⭐ 33,408 | 2026-08-01 | 2026-10-19 |
 | [yuhonas/free-exercise-db](../repos/yuhonas/free-exercise-db.md) | 25 | ⭐ 2,011 | 2026-08-02 | 2026-10-17 |
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | 25 | ⭐ 6,883 | 2026-08-02 | 2026-10-16 |
 
 ---
 
@@ -226,7 +226,8 @@
 - [Bootstrap-Academy/frontend](../repos/Bootstrap-Academy/frontend.md) - The official frontend of Bootstrap Academy - Learn Computer Science Online
 - [Hacker233/resume-design](../repos/Hacker233/resume-design.md) - 猫步简历 – 一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据、Markdown格式等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度...
 - [dicebear/dicebear](../repos/dicebear/dicebear.md) - DiceBear is an avatar library for designers and developers. 🌍
+- [weidong-repo/AIResume](../repos/weidong-repo/AIResume.md) - AI简历平台-在线简历编辑-模板丰富-结合大模型帮您快速构建您的简历-支持导出pdf等
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.735Z*
+*Last updated: 2026-10-19T21:01:55.032Z*

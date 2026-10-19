@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 120
+- **Total Repositories**: 121
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 30,409 | 2026-08-01 | 38 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 30,445 | 2026-08-01 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | ⭐ 1,103 | 2026-08-01 | 28 |
+| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | ⭐ 1,108 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stevearc/conform.nvim](../repos/stevearc/conform.nvim.md) | ⭐ 5,387 | 2026-08-01 | 6 |
+| [overextended/ox_inventory](../repos/overextended/ox_inventory.md) | ⭐ 561 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 298 | 2026-08-01 | 44 |
+| [id577/FS25_AdvancedDamageSystem](../repos/id577/FS25_AdvancedDamageSystem.md) | ⭐ 298 | 2026-08-02 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Stephan-S/FS25_AutoDrive](../repos/Stephan-S/FS25_AutoDrive.md) | ⭐ 676 | 2026-08-02 | 11 |
+| [ibhagwan/fzf-lua](../repos/ibhagwan/fzf-lua.md) | ⭐ 4,470 | 2026-08-06 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,588 | 2026-08-04 | 35 |
+| [rittermod/FS25_RealisticLivestockRM](../repos/rittermod/FS25_RealisticLivestockRM.md) | ⭐ 182 | 2026-09-09 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LandSandBoat/server](../repos/LandSandBoat/server.md) | ⭐ 515 | 2026-08-04 | 13 |
+| [bryanthaboi/gen1recomp](../repos/bryanthaboi/gen1recomp.md) | ⭐ 3,983 | 2026-09-20 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rittermod/FS25_RealisticLivestockRM](../repos/rittermod/FS25_RealisticLivestockRM.md) | ⭐ 182 | 2026-09-09 | 10 |
+| [RestedXP/RXPGuides](../repos/RestedXP/RXPGuides.md) | ⭐ 168 | 2026-09-20 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bryanthaboi/gen1recomp](../repos/bryanthaboi/gen1recomp.md) | ⭐ 3,972 | 2026-09-20 | 14 |
+| [UNDERdecoded/Gen2Recomped](../repos/UNDERdecoded/Gen2Recomped.md) | ⭐ 395 | 2026-10-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Grokitach/Stalker_GAMMA](../repos/Grokitach/Stalker_GAMMA.md) | ⭐ 1,317 | 2026-10-17 | 2 |
+| [teal-language/tl](../repos/teal-language/tl.md) | ⭐ 2,949 | 2026-10-18 | 2 |
 
 
 ---
@@ -52,19 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nvim-tree/nvim-web-devicons](../repos/nvim-tree/nvim-web-devicons.md) | ⭐ 2,725 | 2026-09-19 | Provides Nerd Font icons (glyphs) for use by neovim plugins |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Questie/Questie](../repos/Questie/Questie.md) | ⭐ 1,095 | 2026-09-19 | Questie: The WoW Classic quest helper |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bryanthaboi/gen1recomp](../repos/bryanthaboi/gen1recomp.md) | ⭐ 3,972 | 2026-09-20 | Gen1Recomp - A native Lua &#x2F; LÖVE2D recreation of Gen 1, 2, and 3 Poke |
+| [bryanthaboi/gen1recomp](../repos/bryanthaboi/gen1recomp.md) | ⭐ 3,983 | 2026-09-20 | Gen1Recomp - A native Lua &#x2F; LÖVE2D recreation of Gen 1, 2, and 3 Poke |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [sphamba/smear-cursor.nvim](../repos/sphamba/smear-cursor.nvim.md) | ⭐ 2,045 | 2026-09-20 | 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [RestedXP/RXPGuides](../repos/RestedXP/RXPGuides.md) | ⭐ 157 | 2026-09-20 | RXPGuides is a platform to write in-game leveling guides for WoW Classic |
+| [RestedXP/RXPGuides](../repos/RestedXP/RXPGuides.md) | ⭐ 168 | 2026-09-20 | RXPGuides is a platform to write in-game leveling guides for WoW Classic |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [gbprod/yanky.nvim](../repos/gbprod/yanky.nvim.md) | ⭐ 1,287 | 2026-09-22 | Improved Yank and Put functionalities for Neovim |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SpectralPack/Cryptid](../repos/SpectralPack/Cryptid.md) | ⭐ 627 | 2026-09-27 | An unbalanced Balatro mod |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HDoujinDownloader/HDoujinDownloader](../repos/HDoujinDownloader/HDoujinDownloader.md) | ⭐ 847 | 2026-09-29 | A general-purpose doujinshi and image gallery downloader |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NvChad/NvChad](../repos/NvChad/NvChad.md) | ⭐ 28,507 | 2026-10-01 | Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim ... |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,255 | 2026-08-01 | 26 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,588 | 2026-08-04 | 35 |
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 30,409 | 2026-08-01 | 38 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 30,445 | 2026-08-01 | 39 |
 | [NvChad/NvChad](../repos/NvChad/NvChad.md) | ⭐ 28,507 | 2026-10-01 | 2 |
 | [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) | ⭐ 28,218 | 2026-08-01 | 2 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,682 | 2026-08-04 | 27 |
@@ -116,9 +116,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 44 | ⭐ 298 | 2026-08-01 | 2026-10-18 |
-| [koreader/koreader](../repos/koreader/koreader.md) | 38 | ⭐ 30,409 | 2026-08-01 | 2026-10-18 |
+| [koreader/koreader](../repos/koreader/koreader.md) | 39 | ⭐ 30,445 | 2026-08-01 | 2026-10-19 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 35 | ⭐ 31,588 | 2026-08-04 | 2026-10-18 |
-| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 28 | ⭐ 1,103 | 2026-08-01 | 2026-10-18 |
+| [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 29 | ⭐ 1,108 | 2026-08-01 | 2026-10-19 |
 | [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | 27 | ⭐ 27,682 | 2026-08-04 | 2026-10-17 |
 | [Kong/kong](../repos/Kong/kong.md) | 26 | ⭐ 44,255 | 2026-08-01 | 2026-10-09 |
 | [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 23 | ⭐ 19,730 | 2026-08-03 | 2026-10-12 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.683Z*
+*Last updated: 2026-10-19T21:01:54.975Z*

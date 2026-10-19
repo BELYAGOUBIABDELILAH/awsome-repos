@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 3
+- **Total Repositories**: 4
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-17
 
@@ -14,8 +14,10 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [amberframework/amber](../repos/amberframework/amber.md) | ⭐ 2,607 | 2026-10-19 | 1 |
 
-*No Crystal repositories trending today*
 
 ---
 
@@ -24,6 +26,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,030 | 2026-10-02 | Ultra quick message queue and streaming server |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [amberframework/amber](../repos/amberframework/amber.md) | ⭐ 2,607 | 2026-10-19 | A Crystal web framework that makes building applications fast, simple, and enjoyable. Get started... |
 
 
 ---
@@ -33,6 +38,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 25,509 | 2026-08-01 | 42 |
+| [amberframework/amber](../repos/amberframework/amber.md) | ⭐ 2,607 | 2026-10-19 | 1 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | ⭐ 1,456 | 2026-08-06 | 11 |
 | [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | ⭐ 1,030 | 2026-10-02 | 8 |
 
@@ -45,6 +51,7 @@
 | [iv-org/invidious](../repos/iv-org/invidious.md) | 42 | ⭐ 25,509 | 2026-08-01 | 2026-10-17 |
 | [owasp-noir/noir](../repos/owasp-noir/noir.md) | 11 | ⭐ 1,456 | 2026-08-06 | 2026-10-14 |
 | [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) | 8 | ⭐ 1,030 | 2026-10-02 | 2026-10-13 |
+| [amberframework/amber](../repos/amberframework/amber.md) | 1 | ⭐ 2,607 | 2026-10-19 | 2026-10-19 |
 
 ---
 
@@ -53,7 +60,8 @@
 - [iv-org/invidious](../repos/iv-org/invidious.md) - Invidious is an alternative front-end to YouTube
 - [owasp-noir/noir](../repos/owasp-noir/noir.md) - Hunt every Endpoint in your code, expose Shadow APIs, map the Attack Surface.
 - [cloudamqp/lavinmq](../repos/cloudamqp/lavinmq.md) - Ultra quick message queue and streaming server
+- [amberframework/amber](../repos/amberframework/amber.md) - A Crystal web framework that makes building applications fast, simple, and enjoyable. Get started...
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.647Z*
+*Last updated: 2026-10-19T21:01:54.940Z*

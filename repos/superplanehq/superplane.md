@@ -11,14 +11,14 @@
 | | |
 |---|---|
 | **Language** | Go |
-| **License** | Apache-2.0 |
-| **Stars** | ⭐ 7,705 |
-| **Forks** | 🍴 650 |
-| **Trending Days** | 10 |
+| **License** | Other |
+| **Stars** | ⭐ 8,041 |
+| **Forks** | 🍴 658 |
+| **Trending Days** | 11 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 3, 2026 |
+| **Last Seen** | Oct 19, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Go or automation*
+*Similar: Check repositories in Go or agent-orchestration*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 10
+- **Trending Days**: 11
 - **Longest Streak**: 4 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`automation`](../../topics/automation.md) [`control-plane`](../../topics/control-plane.md) [`devops`](../../topics/devops.md) [`event-driven`](../../topics/event-driven.md) [`go`](../../topics/go.md) [`kubernetes`](../../topics/kubernetes.md) [`platform-engineering`](../../topics/platform-engineering.md) [`react`](../../topics/react.md) [`release-automation`](../../topics/release-automation.md) [`self-hosted`](../../topics/self-hosted.md) [`workflow-automation`](../../topics/workflow-automation.md) 
+[`agent-orchestration`](../../topics/agent-orchestration.md) [`agentic-workflows`](../../topics/agentic-workflows.md) [`ai-agents`](../../topics/ai-agents.md) [`ai-coding`](../../topics/ai-coding.md) [`ai-software-engineering`](../../topics/ai-software-engineering.md) [`developer-tools`](../../topics/developer-tools.md) [`go`](../../topics/go.md) [`react`](../../topics/react.md) [`self-hosted`](../../topics/self-hosted.md) [`software-factory`](../../topics/software-factory.md) [`workflow-automation`](../../topics/workflow-automation.md) 
 
 ### Curated Categories
-`Web Development` `DevOps &amp; CI&#x2F;CD` `Containers &amp; Orchestration` `Systems Programming` `Automation` 
+`Artificial Intelligence` `Web Development` `DevOps &amp; CI&#x2F;CD` `Containers &amp; Orchestration` `Systems Programming` `Developer Tools` `Automation` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-18T21:01:52.305Z*  
-*Data from 10 trending reports*
+*Last updated: 2026-10-19T21:02:08.855Z*  
+*Data from 11 trending reports*

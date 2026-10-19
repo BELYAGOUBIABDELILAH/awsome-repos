@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Swift |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 50,393 |
-| **Forks** | 🍴 1,806 |
-| **Trending Days** | 16 |
+| **Stars** | ⭐ 50,809 |
+| **Forks** | 🍴 1,835 |
+| **Trending Days** | 17 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Sep 29, 2026 |
+| **Last Seen** | Oct 19, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 16
+- **Trending Days**: 17
 - **Longest Streak**: 3 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-18T21:01:52.058Z*  
-*Data from 16 trending reports*
+*Last updated: 2026-10-19T21:02:08.575Z*  
+*Data from 17 trending reports*

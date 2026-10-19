@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 224
+- **Total Repositories**: 225
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
 
@@ -16,31 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,826 | 2026-08-01 | 10 |
+| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,834 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tr4m0ryp/tr4mpass](../repos/tr4m0ryp/tr4mpass.md) | ⭐ 1,260 | 2026-08-02 | 11 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,826 | 2026-08-09 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 27,880 | 2026-08-02 | 8 |
+| [libarchive/libarchive](../repos/libarchive/libarchive.md) | ⭐ 3,645 | 2026-09-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 46,855 | 2026-08-07 | 23 |
+| [luka-dev/mib2q-carplay-rgi](../repos/luka-dev/mib2q-carplay-rgi.md) | ⭐ 356 | 2026-09-20 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KernelSU-Next/KernelSU-Next](../repos/KernelSU-Next/KernelSU-Next.md) | ⭐ 4,522 | 2026-08-09 | 12 |
+| [sp00nznet/ps3recomp](../repos/sp00nznet/ps3recomp.md) | ⭐ 518 | 2026-10-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nmap/nmap](../repos/nmap/nmap.md) | ⭐ 13,813 | 2026-08-19 | 4 |
+| [Zelda64Recomp/Zelda64Recomp](../repos/Zelda64Recomp/Zelda64Recomp.md) | ⭐ 7,477 | 2026-10-13 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA-RTX/Streamline](../repos/NVIDIA-RTX/Streamline.md) | ⭐ 1,256 | 2026-09-03 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 720 | 2026-09-20 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [sp00nznet/ps3recomp](../repos/sp00nznet/ps3recomp.md) | ⭐ 498 | 2026-10-11 | 6 |
+| [V4bel/dirtyfrag](../repos/V4bel/dirtyfrag.md) | ⭐ 5,093 | 2026-10-19 | 1 |
 
 
 ---
@@ -49,19 +43,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [HarbourMasters/PaperBoat](../repos/HarbourMasters/PaperBoat.md) | ⭐ 468 | 2026-09-19 | Paper Mario 64 port based on the Paper Mario DX decompilation |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [foobnix/LibreraReader](../repos/foobnix/LibreraReader.md) | ⭐ 4,823 | 2026-09-19 | Book Reader for Android |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Rainchus/Donkey-Kong-64-Recompiled](../repos/Rainchus/Donkey-Kong-64-Recompiled.md) | ⭐ 435 | 2026-09-19 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [checkpoint-restore/criu](../repos/checkpoint-restore/criu.md) | ⭐ 3,997 | 2026-09-19 | Checkpoint&#x2F;Restore tool |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [luka-dev/mib2q-carplay-rgi](../repos/luka-dev/mib2q-carplay-rgi.md) | ⭐ 339 | 2026-09-20 | Better CarPlay for MHI2Q! Cluster Map, HUD Projection, Spatial Audio and more |
+| [luka-dev/mib2q-carplay-rgi](../repos/luka-dev/mib2q-carplay-rgi.md) | ⭐ 356 | 2026-09-20 | Better CarPlay for MHI2Q! Cluster Map, HUD Projection, Spatial Audio and more |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PlatformLab/HomaModule](../repos/PlatformLab/HomaModule.md) | ⭐ 361 | 2026-09-20 | A Linux kernel module that implements the Homa transport protocol. |
@@ -77,6 +59,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [oerg866/win98-quickinstall](../repos/oerg866/win98-quickinstall.md) | ⭐ 1,730 | 2026-09-21 | A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a moder... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [TheAlgorithms/C](../repos/TheAlgorithms/C.md) | ⭐ 22,460 | 2026-09-21 | Collection of various algorithms in mathematics, machine learning, computer science, physics, etc... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [snesrev/zelda3](../repos/snesrev/zelda3.md) | ⭐ 4,800 | 2026-09-22 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apache/age](../repos/apache/age.md) | ⭐ 4,842 | 2026-09-22 | Graph database optimized for fast analysis and real-time data processing. It is provided as an ex... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mit-pdos/xv6-public](../repos/mit-pdos/xv6-public.md) | ⭐ 9,648 | 2026-09-22 | xv6 OS |
 
 
 ---
@@ -104,7 +98,7 @@
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 31,960 | 2026-08-17 | 2 |
 | [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,695 | 2026-08-02 | 6 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,787 | 2026-08-09 | 11 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,826 | 2026-08-09 | 12 |
 
 ---
 
@@ -230,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.629Z*
+*Last updated: 2026-10-19T21:01:54.925Z*

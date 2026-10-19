@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,818 | 2026-08-01 | 9 |
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,161 | 2026-08-06 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | ⭐ 385 | 2026-10-13 | 2 |
 
 
 ---
@@ -25,7 +28,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | ⭐ 382 | 2026-10-13 |  |
+| [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | ⭐ 385 | 2026-10-13 |  |
 
 
 ---
@@ -38,8 +41,8 @@
 | [mojs/mojs](../repos/mojs/mojs.md) | ⭐ 18,818 | 2026-08-01 | 9 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | ⭐ 16,594 | 2026-08-09 | 7 |
 | [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | ⭐ 16,069 | 2026-08-01 | 40 |
-| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,160 | 2026-08-06 | 10 |
-| [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | ⭐ 382 | 2026-10-13 | 1 |
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | ⭐ 1,161 | 2026-08-06 | 11 |
+| [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | ⭐ 385 | 2026-10-13 | 2 |
 
 ---
 
@@ -49,10 +52,10 @@
 |------------|---------------|-------|------------|-----------|
 | [dropbox/zxcvbn](../repos/dropbox/zxcvbn.md) | 40 | ⭐ 16,069 | 2026-08-01 | 2026-10-17 |
 | [FelisCatus/SwitchyOmega](../repos/FelisCatus/SwitchyOmega.md) | 24 | ⭐ 22,603 | 2026-08-01 | 2026-10-14 |
-| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 10 | ⭐ 1,160 | 2026-08-06 | 2026-10-17 |
+| [ccd0/4chan-x](../repos/ccd0/4chan-x.md) | 11 | ⭐ 1,161 | 2026-08-06 | 2026-10-19 |
 | [mojs/mojs](../repos/mojs/mojs.md) | 9 | ⭐ 18,818 | 2026-08-01 | 2026-10-18 |
 | [jashkenas/coffeescript](../repos/jashkenas/coffeescript.md) | 7 | ⭐ 16,594 | 2026-08-09 | 2026-10-12 |
-| [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | 1 | ⭐ 382 | 2026-10-13 | 2026-10-13 |
+| [taigaio/taiga-front](../repos/taigaio/taiga-front.md) | 2 | ⭐ 385 | 2026-10-13 | 2026-10-19 |
 
 ---
 
@@ -67,4 +70,4 @@
 
 ---
 
-*Last updated: 2026-10-18T21:01:50.644Z*
+*Last updated: 2026-10-19T21:01:54.937Z*

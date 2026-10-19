@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | JavaScript |
+| **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 77,610 |
-| **Forks** | 🍴 4,622 |
-| **Trending Days** | 18 |
+| **Stars** | ⭐ 83,156 |
+| **Forks** | 🍴 5,028 |
+| **Trending Days** | 19 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Oct 6, 2026 |
+| **Last Seen** | Oct 19, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in JavaScript or similar-topics*
+*Similar: Check repositories in Rust or similar-topics*
 
 ---
 
@@ -52,7 +52,7 @@
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 18
+- **Trending Days**: 19
 - **Longest Streak**: 4 days
 
 ---
@@ -73,12 +73,12 @@
 
 | Aspect | Rating | Details |
 |--------|--------|---------|
-| **Difficulty** | Intermediate | Well-documented but extensive API |
+| **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
 - General purpose
@@ -86,7 +86,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in JavaScript
+- Check similar projects in Rust
 
 #### Metrics
 - **Hidden Gem**: ✗ No
@@ -96,5 +96,5 @@
 
 ---
 
-*Last updated: 2026-10-18T21:01:52.823Z*  
-*Data from 18 trending reports*
+*Last updated: 2026-10-19T21:02:09.447Z*  
+*Data from 19 trending reports*
