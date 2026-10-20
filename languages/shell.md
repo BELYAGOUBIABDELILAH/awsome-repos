@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 140
+- **Total Repositories**: 141
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,40 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,013 | 2026-08-01 | 10 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,593 | 2026-08-01 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [awesome-jellyfin/awesome-jellyfin](../repos/awesome-jellyfin/awesome-jellyfin.md) | ⭐ 9,639 | 2026-08-11 | 12 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,282 | 2026-08-04 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,455 | 2026-08-19 | 9 |
+| [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) | ⭐ 4,956 | 2026-08-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,244 | 2026-08-29 | 6 |
+| [linux-surface/linux-surface](../repos/linux-surface/linux-surface.md) | ⭐ 7,820 | 2026-08-10 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pystardust/ani-cli](../repos/pystardust/ani-cli.md) | ⭐ 14,010 | 2026-09-06 | 4 |
+| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,468 | 2026-08-19 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sabamdarif/termux-desktop](../repos/sabamdarif/termux-desktop.md) | ⭐ 2,323 | 2026-09-06 | 5 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,735 | 2026-08-20 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CachyOS/linux-cachyos](../repos/CachyOS/linux-cachyos.md) | ⭐ 4,646 | 2026-09-14 | 3 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,324 | 2026-08-29 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,283 | 2026-10-11 | 3 |
+| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,461 | 2026-10-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [IceWhaleTech/ZimaOS](../repos/IceWhaleTech/ZimaOS.md) | ⭐ 3,047 | 2026-10-16 | 3 |
+| [sorin-ionescu/prezto](../repos/sorin-ionescu/prezto.md) | ⭐ 14,576 | 2026-10-20 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Mr-MIBonk/M.I.B._More-Incredible-Bash](../repos/Mr-MIBonk/M.I.B._More-Incredible-Bash.md) | ⭐ 1,140 | 2026-09-20 | M.I.B. - More Incredible Bash - The Army knife for Harman MIB 2.x aka MHI2(Q) units |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [fscarmen/sing-box](../repos/fscarmen/sing-box.md) | ⭐ 5,788 | 2026-09-21 | Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vm... |
@@ -77,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [angristan/wireguard-install](../repos/angristan/wireguard-install.md) | ⭐ 11,296 | 2026-09-24 | WireGuard VPN installer for Linux servers |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ONLYOFFICE/DocumentServer](../repos/ONLYOFFICE/DocumentServer.md) | ⭐ 7,030 | 2026-09-25 | ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for te... |
 
 
 ---
@@ -86,14 +86,14 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,560 | 2026-08-01 | 38 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,593 | 2026-08-01 | 39 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,666 | 2026-08-04 | 8 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,831 | 2026-08-04 | 12 |
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,244 | 2026-08-29 | 6 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,324 | 2026-08-29 | 7 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,676 | 2026-08-20 | 11 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,735 | 2026-08-20 | 12 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,703 | 2026-09-02 | 3 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
@@ -112,10 +112,10 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 38 | ⭐ 95,560 | 2026-08-01 | 2026-10-16 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 39 | ⭐ 95,593 | 2026-08-01 | 2026-10-20 |
 | [expo/skills](../repos/expo/skills.md) | 30 | ⭐ 2,850 | 2026-08-07 | 2026-10-14 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [github/copilot-cli](../repos/github/copilot-cli.md) | 20 | ⭐ 11,261 | 2026-08-04 | 2026-10-16 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | 21 | ⭐ 11,282 | 2026-08-04 | 2026-10-20 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 19 | ⭐ 8,002 | 2026-08-12 | 2026-10-16 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 14 | ⭐ 3,099 | 2026-08-05 | 2026-10-18 |
 | [dockur/windows](../repos/dockur/windows.md) | 13 | ⭐ 53,550 | 2026-08-06 | 2026-10-07 |
@@ -230,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-19T21:01:55.011Z*
+*Last updated: 2026-10-20T21:02:10.984Z*

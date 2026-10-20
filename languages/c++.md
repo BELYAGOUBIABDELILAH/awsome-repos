@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 278
+- **Total Repositories**: 281
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-17
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 118,702 | 2026-08-01 | 10 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,126 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,441 | 2026-08-02 | 10 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,506 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,737 | 2026-08-08 | 17 |
+| [catchorg/Catch2](../repos/catchorg/Catch2.md) | ⭐ 21,529 | 2026-08-04 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [juce-framework/JUCE](../repos/juce-framework/JUCE.md) | ⭐ 9,024 | 2026-08-09 | 9 |
+| [geode-sdk/geode](../repos/geode-sdk/geode.md) | ⭐ 3,023 | 2026-09-28 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/geode](../repos/geode-sdk/geode.md) | ⭐ 3,013 | 2026-09-28 | 5 |
+| [0x23/MicroManipulatorStepper](../repos/0x23/MicroManipulatorStepper.md) | ⭐ 2,183 | 2026-10-20 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MAZHARMIK/Interview_DS_Algo](../repos/MAZHARMIK/Interview_DS_Algo.md) | ⭐ 5,231 | 2026-10-07 | 3 |
+| [iliasHDZ/Bismuth](../repos/iliasHDZ/Bismuth.md) | ⭐ 87 | 2026-10-20 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mzzvxm/LARecomp](../repos/mzzvxm/LARecomp.md) | ⭐ 172 | 2026-10-18 | 2 |
+| [zufuliu/notepad4](../repos/zufuliu/notepad4.md) | ⭐ 5,054 | 2026-10-20 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mumble-voip/mumble](../repos/mumble-voip/mumble.md) | ⭐ 8,292 | 2026-09-20 | Mumble is an open-source, low-latency, high quality voice chat software. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [f4exb/sdrangel](../repos/f4exb/sdrangel.md) | ⭐ 4,057 | 2026-09-21 | SDR Rx&#x2F;Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay a... |
@@ -71,6 +68,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AlexandreRouma/SDRPlusPlus](../repos/AlexandreRouma/SDRPlusPlus.md) | ⭐ 6,416 | 2026-09-25 | Cross-Platform SDR Software |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lammps/lammps](../repos/lammps/lammps.md) | ⭐ 3,070 | 2026-09-25 | Public development project of the LAMMPS MD software package   |
 
 
 ---
@@ -88,10 +88,10 @@
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,441 | 2026-08-02 | 10 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,737 | 2026-08-08 | 17 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,568 | 2026-08-12 | 6 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,114 | 2026-08-01 | 16 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,126 | 2026-08-01 | 17 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,435 | 2026-08-03 | 10 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,506 | 2026-08-03 | 11 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,360 | 2026-08-02 | 8 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
@@ -111,8 +111,8 @@
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 26 | ⭐ 201,084 | 2026-07-30 | 2026-10-17 |
 | [google/googletest](../repos/google/googletest.md) | 21 | ⭐ 39,653 | 2026-08-04 | 2026-10-17 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 17 | ⭐ 535 | 2026-08-01 | 2026-10-15 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 17 | ⭐ 72,126 | 2026-08-01 | 2026-10-20 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 17 | ⭐ 76,737 | 2026-08-08 | 2026-10-19 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 16 | ⭐ 72,114 | 2026-08-01 | 2026-10-16 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 16 | ⭐ 31,282 | 2026-08-03 | 2026-10-16 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 14 | ⭐ 11,716 | 2026-08-02 | 2026-10-12 |
@@ -224,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-19T21:01:54.932Z*
+*Last updated: 2026-10-20T21:02:10.865Z*

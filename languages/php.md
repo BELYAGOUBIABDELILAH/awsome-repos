@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 115
+- **Total Repositories**: 116
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-27
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,965 | 2026-08-01 | 32 |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,053 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,193 | 2026-08-01 | 12 |
+| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,967 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | ⭐ 3,488 | 2026-08-01 | 27 |
+| [WordPress/mcp-adapter](../repos/WordPress/mcp-adapter.md) | ⭐ 1,864 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,505 | 2026-08-04 | 21 |
+| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,608 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espocrm/espocrm](../repos/espocrm/espocrm.md) | ⭐ 3,498 | 2026-08-06 | 19 |
+| [cedar2025/Xboard](../repos/cedar2025/Xboard.md) | ⭐ 4,787 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,027 | 2026-08-07 | 19 |
+| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,339 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PrivateBin/PrivateBin](../repos/PrivateBin/PrivateBin.md) | ⭐ 8,685 | 2026-08-16 | 7 |
+| [RSS-Bridge/rss-bridge](../repos/RSS-Bridge/rss-bridge.md) | ⭐ 9,299 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kanboard/kanboard](../repos/kanboard/kanboard.md) | ⭐ 9,913 | 2026-08-20 | 9 |
+| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,034 | 2026-08-07 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [danog/MadelineProto](../repos/danog/MadelineProto.md) | ⭐ 3,537 | 2026-09-08 | 3 |
+| [elabftw/elabftw](../repos/elabftw/elabftw.md) | ⭐ 1,458 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bobthecow/psysh](../repos/bobthecow/psysh.md) | ⭐ 9,829 | 2026-10-19 | 1 |
+| [PrivateBin/PrivateBin](../repos/PrivateBin/PrivateBin.md) | ⭐ 8,690 | 2026-08-16 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [crivion/laranode](../repos/crivion/laranode.md) | ⭐ 1,493 | 2026-09-20 | Free Hosting Panel - Easily manage your VPS&#x2F;dedicated machine with Laranode (a cPanel&#x2F;Plesk alter... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Euro-Office/eurooffice-nextcloud](../repos/Euro-Office/eurooffice-nextcloud.md) | ⭐ 253 | 2026-09-20 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [silverstripe/silverstripe-framework](../repos/silverstripe/silverstripe-framework.md) | ⭐ 724 | 2026-09-22 | Silverstripe Framework, the MVC framework that powers Silverstripe CMS |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rhubarbgroup/redis-cache](../repos/rhubarbgroup/redis-cache.md) | ⭐ 540 | 2026-10-09 | A persistent object cache backend for WordPress powered by Redis. Supports Predis, PhpRedis, Rela... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [civicrm/civicrm-core](../repos/civicrm/civicrm-core.md) | ⭐ 783 | 2026-10-09 | CiviCRM (Core Application and Framework) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [femiwiki/docker-mediawiki](../repos/femiwiki/docker-mediawiki.md) | ⭐ 33 | 2026-10-11 | :whale: Dockerized Femiwiki&#39;s mediawiki server |
 
 
 ---
@@ -90,24 +90,24 @@
 |------------|-------|------------|---------------|
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 57,493 | 2026-08-01 | 3 |
 | [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,171 | 2026-08-02 | 32 |
-| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,965 | 2026-08-01 | 32 |
+| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,967 | 2026-08-01 | 33 |
 | [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,295 | 2026-08-02 | 22 |
 | [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,191 | 2026-08-02 | 31 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,254 | 2026-08-01 | 25 |
 | [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,505 | 2026-08-04 | 21 |
-| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,027 | 2026-08-07 | 19 |
+| [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,034 | 2026-08-07 | 20 |
+| [guzzle/guzzle](../repos/guzzle/guzzle.md) | ⭐ 23,445 | 2026-10-20 | 1 |
 | [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,304 | 2026-08-01 | 10 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,959 | 2026-08-01 | 27 |
 | [koel/koel](../repos/koel/koel.md) | ⭐ 17,277 | 2026-09-28 | 2 |
 | [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,886 | 2026-08-04 | 8 |
-| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,317 | 2026-08-02 | 21 |
+| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,339 | 2026-08-02 | 22 |
 | [getgrav/grav](../repos/getgrav/grav.md) | ⭐ 15,672 | 2026-08-12 | 7 |
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,040 | 2026-08-01 | 27 |
-| [PHPOffice/PhpSpreadsheet](../repos/PHPOffice/PhpSpreadsheet.md) | ⭐ 13,990 | 2026-08-19 | 4 |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | ⭐ 15,053 | 2026-08-01 | 28 |
+| [PHPOffice/PhpSpreadsheet](../repos/PHPOffice/PhpSpreadsheet.md) | ⭐ 13,997 | 2026-08-19 | 5 |
 | [PHP-CS-Fixer/PHP-CS-Fixer](../repos/PHP-CS-Fixer/PHP-CS-Fixer.md) | ⭐ 13,565 | 2026-08-04 | 5 |
 | [wallabag/wallabag](../repos/wallabag/wallabag.md) | ⭐ 12,972 | 2026-08-05 | 3 |
 | [SpartnerNL/Laravel-Excel](../repos/SpartnerNL/Laravel-Excel.md) | ⭐ 12,699 | 2026-08-09 | 1 |
-| [typecho/typecho](../repos/typecho/typecho.md) | ⭐ 12,417 | 2026-08-02 | 1 |
 
 ---
 
@@ -116,11 +116,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [glpi-project/glpi](../repos/glpi-project/glpi.md) | 35 | ⭐ 6,470 | 2026-08-01 | 2026-10-17 |
-| [laravel/framework](../repos/laravel/framework.md) | 32 | ⭐ 34,965 | 2026-08-01 | 2026-10-19 |
+| [laravel/framework](../repos/laravel/framework.md) | 33 | ⭐ 34,967 | 2026-08-01 | 2026-10-20 |
 | [nextcloud/server](../repos/nextcloud/server.md) | 32 | ⭐ 37,171 | 2026-08-02 | 2026-10-18 |
 | [symfony/symfony](../repos/symfony/symfony.md) | 31 | ⭐ 31,191 | 2026-08-02 | 2026-10-18 |
 | [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 29 | ⭐ 10,594 | 2026-08-09 | 2026-10-16 |
-| [grokability/snipe-it](../repos/grokability/snipe-it.md) | 27 | ⭐ 15,040 | 2026-08-01 | 2026-10-16 |
+| [grokability/snipe-it](../repos/grokability/snipe-it.md) | 28 | ⭐ 15,053 | 2026-08-01 | 2026-10-20 |
 | [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 27 | ⭐ 3,488 | 2026-08-01 | 2026-10-19 |
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | 27 | ⭐ 21,959 | 2026-08-01 | 2026-10-18 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | 25 | ⭐ 28,254 | 2026-08-01 | 2026-10-18 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-19T21:01:54.989Z*
+*Last updated: 2026-10-20T21:02:10.949Z*

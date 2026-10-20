@@ -16,43 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libsdl-org/SDL](../repos/libsdl-org/SDL.md) | ⭐ 16,834 | 2026-08-01 | 11 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,446 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,826 | 2026-08-09 | 12 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,916 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [libarchive/libarchive](../repos/libarchive/libarchive.md) | ⭐ 3,645 | 2026-09-06 | 3 |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 77,042 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [luka-dev/mib2q-carplay-rgi](../repos/luka-dev/mib2q-carplay-rgi.md) | ⭐ 356 | 2026-09-20 | 4 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,843 | 2026-08-06 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sp00nznet/ps3recomp](../repos/sp00nznet/ps3recomp.md) | ⭐ 518 | 2026-10-11 | 7 |
+| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,158 | 2026-08-07 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Zelda64Recomp/Zelda64Recomp](../repos/Zelda64Recomp/Zelda64Recomp.md) | ⭐ 7,477 | 2026-10-13 | 2 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,021 | 2026-08-07 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [V4bel/dirtyfrag](../repos/V4bel/dirtyfrag.md) | ⭐ 5,093 | 2026-10-19 | 1 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,839 | 2026-08-09 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [eclipse-mosquitto/mosquitto](../repos/eclipse-mosquitto/mosquitto.md) | ⭐ 11,286 | 2026-08-14 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [tarwin/tinyjsapp](../repos/tarwin/tinyjsapp.md) | ⭐ 1,278 | 2026-10-11 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [luka-dev/mib2q-carplay-rgi](../repos/luka-dev/mib2q-carplay-rgi.md) | ⭐ 356 | 2026-09-20 | Better CarPlay for MHI2Q! Cluster Map, HUD Projection, Spatial Audio and more |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PlatformLab/HomaModule](../repos/PlatformLab/HomaModule.md) | ⭐ 361 | 2026-09-20 | A Linux kernel module that implements the Homa transport protocol. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [henrypp/simplewall](../repos/henrypp/simplewall.md) | ⭐ 9,015 | 2026-09-20 | Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SlickAmogus/silent-hill-decomp](../repos/SlickAmogus/silent-hill-decomp.md) | ⭐ 720 | 2026-09-20 | Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [vladelaina/Catime](../repos/vladelaina/Catime.md) | ⭐ 4,837 | 2026-09-21 | 💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, ... |
@@ -71,6 +65,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mit-pdos/xv6-public](../repos/mit-pdos/xv6-public.md) | ⭐ 9,648 | 2026-09-22 | xv6 OS |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [EchoStretch/kstuff-lite](../repos/EchoStretch/kstuff-lite.md) | ⭐ 578 | 2026-09-22 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lyssadev/Spotilol](../repos/lyssadev/Spotilol.md) | ⭐ 535 | 2026-09-22 | A android app that wraps Spotify&#39;s web player with built-in adblocker |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [xCuri0/ReBarUEFI](../repos/xCuri0/ReBarUEFI.md) | ⭐ 2,520 | 2026-09-24 | Resizable BAR for (almost) any UEFI system |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google/security-research](../repos/google/security-research.md) | ⭐ 4,653 | 2026-09-24 | This project hosts security advisories and their accompanying proof-of-concepts related to resear... |
 
 
 ---
@@ -83,12 +89,12 @@
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,429 | 2026-08-01 | 21 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 77,200 | 2026-08-02 | 16 |
-| [redis/redis](../repos/redis/redis.md) | ⭐ 76,813 | 2026-08-04 | 6 |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 77,042 | 2026-08-04 | 7 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 74,191 | 2026-08-01 | 23 |
 | [git/git](../repos/git/git.md) | ⭐ 63,813 | 2026-08-05 | 8 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 46,855 | 2026-08-07 | 23 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,021 | 2026-08-07 | 24 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 42,587 | 2026-09-01 | 16 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 40,420 | 2026-08-01 | 8 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,446 | 2026-08-01 | 9 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
@@ -96,9 +102,9 @@
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,863 | 2026-09-06 | 3 |
 | [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,364 | 2026-08-01 | 5 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 31,960 | 2026-08-17 | 2 |
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,695 | 2026-08-02 | 6 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,916 | 2026-08-02 | 7 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,826 | 2026-08-09 | 12 |
+| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,839 | 2026-08-09 | 13 |
 
 ---
 
@@ -107,9 +113,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 | ⭐ 16,829 | 2026-08-01 | 2026-10-01 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 24 | ⭐ 16,815 | 2026-08-06 | 2026-10-17 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 25 | ⭐ 16,843 | 2026-08-06 | 2026-10-20 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 24 | ⭐ 47,021 | 2026-08-07 | 2026-10-20 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 23 | ⭐ 74,191 | 2026-08-01 | 2026-10-15 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 23 | ⭐ 46,855 | 2026-08-07 | 2026-10-18 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 21 | ⭐ 139,429 | 2026-08-01 | 2026-10-17 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 20 | ⭐ 28,021 | 2026-08-07 | 2026-10-14 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 17 | ⭐ 6,981 | 2026-08-04 | 2026-10-03 |
@@ -183,7 +189,7 @@
 - [timescale/timescaledb](../repos/timescale/timescaledb.md) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [madler/zlib](../repos/madler/zlib.md) - A massively spiffy yet delicately unobtrusive compression library.
 - [quickjs-ng/quickjs](../repos/quickjs-ng/quickjs.md) - QuickJS, the Next Generation: a mighty JavaScript engine
-- [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge grap...
+- [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) - Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a ...
 - [zmkfirmware/zmk](../repos/zmkfirmware/zmk.md) - ZMK Firmware Repository
 - [asterisk/asterisk](../repos/asterisk/asterisk.md) - The official Asterisk Project repository.
 - [wolfSSL/wolfssl](../repos/wolfSSL/wolfssl.md) - The wolfSSL library is a small, fast, portable implementation of TLS&#x2F;SSL for embedded devices to ...
@@ -224,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-19T21:01:54.925Z*
+*Last updated: 2026-10-20T21:02:10.856Z*

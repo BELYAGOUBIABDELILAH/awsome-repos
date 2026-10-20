@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,091 | 2026-08-01 | 15 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,789 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,627 | 2026-08-01 | 18 |
+| [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) | ⭐ 14,289 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 32,410 | 2026-08-02 | 33 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,686 | 2026-08-03 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,265 | 2026-08-02 | 20 |
+| [btcpayserver/btcpayserver](../repos/btcpayserver/btcpayserver.md) | ⭐ 7,811 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) | ⭐ 14,273 | 2026-08-02 | 7 |
+| [Tichau/FileConverter](../repos/Tichau/FileConverter.md) | ⭐ 15,442 | 2026-08-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tichau/FileConverter](../repos/Tichau/FileConverter.md) | ⭐ 15,419 | 2026-08-11 | 6 |
+| [luolangaga/tubatools](../repos/luolangaga/tubatools.md) | ⭐ 5,616 | 2026-08-12 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,217 | 2026-08-14 | 5 |
+| [MUnique/OpenMU](../repos/MUnique/OpenMU.md) | ⭐ 1,229 | 2026-09-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SirDiabo/GithubLauncher](../repos/SirDiabo/GithubLauncher.md) | ⭐ 1,906 | 2026-08-27 | 7 |
+| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 2,622 | 2026-09-24 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 2,474 | 2026-09-24 | 8 |
+| [greenshot/greenshot](../repos/greenshot/greenshot.md) | ⭐ 5,199 | 2026-09-25 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [RayWangQvQ/BiliBiliToolPro](../repos/RayWangQvQ/BiliBiliToolPro.md) | ⭐ 9,053 | 2026-09-27 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [RankFTW/RHI](../repos/RankFTW/RHI.md) | ⭐ 2,223 | 2026-09-20 | ReShade HDR Installer |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [UnderminersTeam/UndertaleModTool](../repos/UnderminersTeam/UndertaleModTool.md) | ⭐ 2,056 | 2026-09-20 | The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mcneel/RhinoAI](../repos/mcneel/RhinoAI.md) | ⭐ 335 | 2026-09-21 | AI features for Rhino |
@@ -77,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [marcussacana/DirectPackageInstaller](../repos/marcussacana/DirectPackageInstaller.md) | ⭐ 475 | 2026-09-24 | Send Direct PKG URLs to your PS4 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 2,622 | 2026-09-24 | A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [open-telemetry/opentelemetry-dotnet-contrib](../repos/open-telemetry/opentelemetry-dotnet-contrib.md) | ⭐ 676 | 2026-09-25 | This repository contains set of components extending functionality of the OpenTelemetry .NET SDK.... |
 
 
 ---
@@ -113,13 +116,13 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 33 | ⭐ 32,410 | 2026-08-02 | 2026-10-19 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 31 | ⭐ 5,653 | 2026-08-03 | 2026-10-16 |
+| [dotnet/skills](../repos/dotnet/skills.md) | 32 | ⭐ 5,686 | 2026-08-03 | 2026-10-20 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 30 | ⭐ 118,208 | 2026-08-02 | 2026-10-14 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 20 | ⭐ 58,265 | 2026-08-02 | 2026-10-19 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 19 | ⭐ 32,047 | 2026-08-01 | 2026-10-15 |
+| [microsoft/mcp](../repos/microsoft/mcp.md) | 19 | ⭐ 3,789 | 2026-08-01 | 2026-10-20 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 19 | ⭐ 16,177 | 2026-08-02 | 2026-10-14 |
 | [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | 19 | ⭐ 17,291 | 2026-08-03 | 2026-10-18 |
-| [microsoft/mcp](../repos/microsoft/mcp.md) | 18 | ⭐ 3,774 | 2026-08-01 | 2026-10-14 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 18 | ⭐ 38,474 | 2026-08-01 | 2026-10-17 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 18 | ⭐ 14,627 | 2026-08-01 | 2026-10-19 |
 
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-19T21:01:54.929Z*
+*Last updated: 2026-10-20T21:02:10.861Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 219
+- **Total Repositories**: 221
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-14
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 83,156 | 2026-08-05 | 19 |
+| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,430 | 2026-08-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Automattic/harper](../repos/Automattic/harper.md) | ⭐ 16,769 | 2026-08-10 | 12 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 83,756 | 2026-08-05 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,300 | 2026-08-11 | 9 |
+| [macro-inc/macro](../repos/macro-inc/macro.md) | ⭐ 4,777 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 11,242 | 2026-08-17 | 13 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 11,879 | 2026-08-17 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [confeden/Antigravity](../repos/confeden/Antigravity.md) | ⭐ 926 | 2026-08-25 | 3 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 9,337 | 2026-08-26 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [martin-olivier/airgorah](../repos/martin-olivier/airgorah.md) | ⭐ 4,499 | 2026-09-13 | 8 |
+| [longbridge/gpui-kit](../repos/longbridge/gpui-kit.md) | ⭐ 18,418 | 2026-09-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xerj-org/xerj](../repos/xerj-org/xerj.md) | ⭐ 10,443 | 2026-10-07 | 6 |
+| [harry0703/MangoDisk](../repos/harry0703/MangoDisk.md) | ⭐ 4,385 | 2026-10-07 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [smg-project/smg](../repos/smg-project/smg.md) | ⭐ 636 | 2026-10-19 | 1 |
+| [xerj-org/xerj](../repos/xerj-org/xerj.md) | ⭐ 12,390 | 2026-10-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [leepokai/Codync](../repos/leepokai/Codync.md) | ⭐ 606 | 2026-10-19 | 1 |
+| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 1,531 | 2026-10-20 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fish-shell/fish-shell](../repos/fish-shell/fish-shell.md) | ⭐ 34,332 | 2026-10-19 | 1 |
+| [Jamailar/Beav](../repos/Jamailar/Beav.md) | ⭐ 2,089 | 2026-10-20 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pandorafuture/wx-cli](../repos/pandorafuture/wx-cli.md) | ⭐ 805 | 2026-09-20 | WeChat macOS database decryption and query tool |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [HelixDB/helix-db](../repos/HelixDB/helix-db.md) | ⭐ 6,077 | 2026-09-20 | HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [smol-machines/smolvm](../repos/smol-machines/smolvm.md) | ⭐ 6,273 | 2026-09-20 | An embeddable, portable, branchable virtual machine to safely run Agents locally. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mesamirh/MovieBox-Tui](../repos/mesamirh/MovieBox-Tui.md) | ⭐ 2,169 | 2026-09-21 | Terminal interface to find, download, and stream movies, TV shows, and live TV using local media ... |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kvcache-ai/AgentENV](../repos/kvcache-ai/AgentENV.md) | ⭐ 3,535 | 2026-09-24 | AgentENV (AENV) is a distributed platform for running agent environments at scale. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bootandy/dust](../repos/bootandy/dust.md) | ⭐ 12,355 | 2026-09-25 | A more intuitive version of du in rust |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [denisidoro/navi](../repos/denisidoro/navi.md) | ⭐ 17,680 | 2026-09-27 | An interactive cheatsheet tool for the command-line |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [timhartmann7/omnyssh](../repos/timhartmann7/omnyssh.md) | ⭐ 1,068 | 2026-09-29 | Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and ter... |
 
 
 ---
@@ -94,7 +94,7 @@
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 98,335 | 2026-08-09 | 17 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,300 | 2026-08-11 | 9 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 90,775 | 2026-07-31 | 5 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 83,156 | 2026-08-05 | 19 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 83,756 | 2026-08-05 | 20 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,345 | 2026-08-20 | 5 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 21 | ⭐ 23,670 | 2026-08-08 | 2026-09-28 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 19 | ⭐ 83,156 | 2026-08-05 | 2026-10-19 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 20 | ⭐ 83,756 | 2026-08-05 | 2026-10-20 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 17 | ⭐ 98,335 | 2026-08-09 | 2026-10-16 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 15 | ⭐ 41,568 | 2026-08-10 | 2026-10-07 |
 | [openai/codex](../repos/openai/codex.md) | 14 | ⭐ 129,224 | 2026-08-01 | 2026-10-14 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 14 | ⭐ 26,668 | 2026-08-01 | 2026-10-14 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 14 | ⭐ 11,879 | 2026-08-17 | 2026-10-20 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 13 | ⭐ 30,255 | 2026-08-03 | 2026-10-17 |
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 13 | ⭐ 11,242 | 2026-08-17 | 2026-10-19 |
 | [Automattic/harper](../repos/Automattic/harper.md) | 12 | ⭐ 16,769 | 2026-08-10 | 2026-10-19 |
-| [rust-lang/rust](../repos/rust-lang/rust.md) | 11 | ⭐ 119,946 | 2026-07-30 | 2026-10-14 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 12 | ⭐ 9,337 | 2026-08-26 | 2026-10-20 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-19T21:01:55.005Z*
+*Last updated: 2026-10-20T21:02:10.975Z*

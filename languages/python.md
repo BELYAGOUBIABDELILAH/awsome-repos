@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 41,568 | 2026-08-03 | 5 |
+| [abus-aikorea/voice-pro](../repos/abus-aikorea/voice-pro.md) | ⭐ 13,279 | 2026-08-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 129,081 | 2026-08-03 | 7 |
+| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 42,286 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 70,028 | 2026-08-04 | 10 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 130,070 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 139,582 | 2026-08-05 | 10 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 140,671 | 2026-08-05 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [666ghj/MiroFish](../repos/666ghj/MiroFish.md) | ⭐ 80,629 | 2026-08-07 | 5 |
+| [AgriciDaniel/claude-seo](../repos/AgriciDaniel/claude-seo.md) | ⭐ 19,465 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | ⭐ 43,153 | 2026-08-07 | 14 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 55,640 | 2026-08-15 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 55,161 | 2026-08-15 | 12 |
+| [shy3130/tick-stock-panel](../repos/shy3130/tick-stock-panel.md) | ⭐ 6,188 | 2026-08-23 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Imbad0202/academic-research-skills](../repos/Imbad0202/academic-research-skills.md) | ⭐ 52,974 | 2026-09-01 | 6 |
+| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 30,751 | 2026-09-19 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Friedrich-M/UniMate](../repos/Friedrich-M/UniMate.md) | ⭐ 2,011 | 2026-10-01 | 3 |
+| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 76,686 | 2026-10-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 76,174 | 2026-10-09 | 2 |
+| [google/artemis](../repos/google/artemis.md) | ⭐ 13,244 | 2026-10-16 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [anthropics/financial-services](../repos/anthropics/financial-services.md) | ⭐ 37,528 | 2026-09-20 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [paperless-ngx/paperless-ngx](../repos/paperless-ngx/paperless-ngx.md) | ⭐ 45,828 | 2026-09-20 | A community-supported supercharged document management system: scan, index and archive all your d... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mihail911/modern-software-dev-assignments](../repos/mihail911/modern-software-dev-assignments.md) | ⭐ 4,521 | 2026-09-20 | Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026&#x2F;2025) |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [FareedKhan-dev/train-llm-from-scratch](../repos/FareedKhan-dev/train-llm-from-scratch.md) | ⭐ 10,814 | 2026-09-20 | A straightforward method for training your LLM, from downloading data to generating text. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zhouxiaoka/autoclip](../repos/zhouxiaoka/autoclip.md) | ⭐ 8,703 | 2026-09-20 | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bbfamily/abu](../repos/bbfamily/abu.md) | ⭐ 18,664 | 2026-09-20 | 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mvt-project/mvt](../repos/mvt-project/mvt.md) | ⭐ 15,183 | 2026-09-21 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to f... |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [owainlewis/awesome-artificial-intelligence](../repos/owainlewis/awesome-artificial-intelligence.md) | ⭐ 16,531 | 2026-09-21 | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 5,749 | 2026-09-22 | OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [NVIDIA/Model-Optimizer](../repos/NVIDIA/Model-Optimizer.md) | ⭐ 4,925 | 2026-09-24 | A unified library of SOTA model optimization techniques like quantization, distillation, pruning,... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [strands-agents/harness-sdk](../repos/strands-agents/harness-sdk.md) | ⭐ 8,414 | 2026-09-24 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Pyt... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [op7418/Humanizer-zh](../repos/op7418/Humanizer-zh.md) | ⭐ 18,393 | 2026-09-24 | Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [aayushch/laya](../repos/aayushch/laya.md) | ⭐ 275 | 2026-09-24 | Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [derv82/wifit3](../repos/derv82/wifit3.md) | ⭐ 1,401 | 2026-09-25 | Wifite but USB-only &amp; cross-platform. |
 
 
 ---
@@ -99,10 +99,10 @@
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 141,347 | 2026-08-04 | 7 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 139,582 | 2026-08-05 | 10 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 140,671 | 2026-08-05 | 11 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 132,098 | 2026-08-01 | 17 |
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 129,081 | 2026-08-03 | 7 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 130,070 | 2026-08-03 | 8 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 111,892 | 2026-08-08 | 11 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
@@ -122,7 +122,7 @@
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
 | [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 14 | ⭐ 43,153 | 2026-08-07 | 2026-10-19 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 13 | ⭐ 60,537 | 2026-08-03 | 2026-10-14 |
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 12 | ⭐ 55,161 | 2026-08-15 | 2026-10-19 |
+| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 13 | ⭐ 55,640 | 2026-08-15 | 2026-10-20 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 11 | ⭐ 92,571 | 2026-08-01 | 2026-10-06 |
 | [PostHog/posthog](../repos/PostHog/posthog.md) | 11 | ⭐ 40,107 | 2026-08-03 | 2026-10-02 |
 
@@ -212,7 +212,7 @@
 - [harveyai/harvey-labs](../repos/harveyai/harvey-labs.md) - A benchmark built to evaluate and improve agent capabilities for supporting legal work.
 - [microsoft/agent-governance-toolkit](../repos/microsoft/agent-governance-toolkit.md) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and ...
 - [anthropics/claude-code-security-review](../repos/anthropics/claude-code-security-review.md) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vul...
-- [AgriciDaniel/claude-seo](../repos/AgriciDaniel/claude-seo.md) - Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-...
+- [AgriciDaniel/claude-seo](../repos/AgriciDaniel/claude-seo.md) - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-...
 - [Universal-Commerce-Protocol/ucp](../repos/Universal-Commerce-Protocol/ucp.md) - Specification and documentation for the Universal Commerce Protocol (UCP)
 - [ZhuLinsen/daily_stock_analysis](../repos/ZhuLinsen/daily_stock_analysis.md) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...
 - [funstory-ai/BabelDOC](../repos/funstory-ai/BabelDOC.md) - Yet Another Document Translator
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-19T21:01:54.996Z*
+*Last updated: 2026-10-20T21:02:10.961Z*

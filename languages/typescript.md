@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 273
+- **Total Repositories**: 275
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 13,024 | 2026-08-01 | 23 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 28,834 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 28,612 | 2026-08-01 | 12 |
+| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,694 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 152,587 | 2026-08-07 | 19 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 152,634 | 2026-08-07 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 77,101 | 2026-08-10 | 18 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 77,747 | 2026-08-10 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 98,097 | 2026-08-11 | 19 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 99,592 | 2026-08-11 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-quickstarts](../repos/anthropics/claude-quickstarts.md) | ⭐ 18,836 | 2026-08-22 | 3 |
+| [rmyndharis/OpenWA](../repos/rmyndharis/OpenWA.md) | ⭐ 15,972 | 2026-08-19 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 88,840 | 2026-08-28 | 4 |
+| [thesysdev/openui](../repos/thesysdev/openui.md) | ⭐ 12,606 | 2026-09-13 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/claude-code-action](../repos/anthropics/claude-code-action.md) | ⭐ 9,578 | 2026-08-29 | 2 |
+| [elie222/rakazo](../repos/elie222/rakazo.md) | ⭐ 4,916 | 2026-10-17 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thesysdev/openui](../repos/thesysdev/openui.md) | ⭐ 12,173 | 2026-09-13 | 5 |
+| [croffasia/itsaplan](../repos/croffasia/itsaplan.md) | ⭐ 1,612 | 2026-10-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DmNote-App/DmNote](../repos/DmNote-App/DmNote.md) | ⭐ 5,160 | 2026-10-08 | 3 |
+| [emdash-cms/emdash](../repos/emdash-cms/emdash.md) | ⭐ 13,825 | 2026-10-20 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cloudflare/mcp-server-cloudflare](../repos/cloudflare/mcp-server-cloudflare.md) | ⭐ 4,269 | 2026-09-20 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [browserbase/stagehand](../repos/browserbase/stagehand.md) | ⭐ 24,641 | 2026-09-20 | The SDK to extract data and interact with any site on the web. Get started with Claude Code, Code... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [krillinai/OpenCreator](../repos/krillinai/OpenCreator.md) | ⭐ 13,619 | 2026-09-20 | Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, pow... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [diffusionstudio/editor](../repos/diffusionstudio/editor.md) | ⭐ 2,979 | 2026-09-20 | An open-source video editor built for agents. Edits become code, code becomes video. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Jakubantalik/thinking-orbs](../repos/Jakubantalik/thinking-orbs.md) | ⭐ 3,174 | 2026-09-21 | Dotted thought-orb loading indicators for AI &amp; agent UIs, 9 tuned types, two sizes, auto dark&#x2F;light |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [NginxProxyManager/nginx-proxy-manager](../repos/NginxProxyManager/nginx-proxy-manager.md) | ⭐ 34,234 | 2026-09-25 | Docker container for managing Nginx proxy hosts with a simple, powerful interface |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mvschwarz/openrig](../repos/mvschwarz/openrig.md) | ⭐ 4,646 | 2026-09-25 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, sha... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vega-org/vega-app](../repos/vega-org/vega-app.md) | ⭐ 1,425 | 2026-09-25 | A media streaming app for android. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zhukunpenglinyutong/desktop-cc-gui](../repos/zhukunpenglinyutong/desktop-cc-gui.md) | ⭐ 4,381 | 2026-09-25 | Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Har... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [vercel-labs/scriptc](../repos/vercel-labs/scriptc.md) | ⭐ 6,225 | 2026-09-27 | TypeScript-to-Native Compiler |
 
 
 ---
@@ -94,8 +94,8 @@
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 193,792 | 2026-07-30 | 7 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 152,587 | 2026-08-07 | 19 |
-| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,316 | 2026-08-02 | 6 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 152,634 | 2026-08-07 | 20 |
+| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,694 | 2026-08-02 | 7 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 135,527 | 2026-08-02 | 13 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
@@ -103,7 +103,7 @@
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 102,669 | 2026-08-02 | 10 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 98,097 | 2026-08-11 | 19 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 99,592 | 2026-08-11 | 20 |
 | [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 97,789 | 2026-10-15 | 1 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [cursor/plugins](../repos/cursor/plugins.md) | 23 | ⭐ 13,024 | 2026-08-01 | 2026-10-19 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 21 | ⭐ 65,234 | 2026-08-08 | 2026-10-16 |
-| [anthropics/claude-code](../repos/anthropics/claude-code.md) | 19 | ⭐ 152,587 | 2026-08-07 | 2026-10-19 |
-| [stablyai/orca](../repos/stablyai/orca.md) | 19 | ⭐ 98,097 | 2026-08-11 | 2026-10-19 |
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 18 | ⭐ 77,101 | 2026-08-10 | 2026-10-19 |
+| [anthropics/claude-code](../repos/anthropics/claude-code.md) | 20 | ⭐ 152,634 | 2026-08-07 | 2026-10-20 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 20 | ⭐ 99,592 | 2026-08-11 | 2026-10-20 |
+| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 19 | ⭐ 77,747 | 2026-08-10 | 2026-10-20 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 16 | ⭐ 35,725 | 2026-08-07 | 2026-10-15 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 13 | ⭐ 28,834 | 2026-08-01 | 2026-10-20 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 13 | ⭐ 135,527 | 2026-08-02 | 2026-10-06 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 12 | ⭐ 53,536 | 2026-08-01 | 2026-10-14 |
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 12 | ⭐ 28,612 | 2026-08-01 | 2026-10-19 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-19T21:01:55.019Z*
+*Last updated: 2026-10-20T21:02:10.998Z*

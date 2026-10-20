@@ -1,6 +1,6 @@
 # DeusData&#x2F;codebase-memory-mcp
 
-> High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+> Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;DeusData&#x2F;codebase-memory-mcp) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | MIT |
-| **Stars** | ⭐ 46,855 |
-| **Forks** | 🍴 3,869 |
-| **Trending Days** | 23 |
+| **Stars** | ⭐ 47,021 |
+| **Forks** | 🍴 3,866 |
+| **Trending Days** | 24 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Oct 18, 2026 |
+| **Last Seen** | Oct 20, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 23
+- **Trending Days**: 24
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-19T21:02:09.733Z*  
-*Data from 23 trending reports*
+*Last updated: 2026-10-20T21:02:15.064Z*  
+*Data from 24 trending reports*

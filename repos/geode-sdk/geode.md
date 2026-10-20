@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | BSL-1.0 |
-| **Stars** | ⭐ 3,013 |
-| **Forks** | 🍴 593 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 3,023 |
+| **Forks** | 🍴 600 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 28, 2026 |
-| **Last Seen** | Oct 19, 2026 |
+| **Last Seen** | Oct 20, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
-- **Longest Streak**: 3 days
+- **Trending Days**: 6
+- **Longest Streak**: 4 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 90&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-19T21:02:12.912Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-10-20T21:02:17.313Z*  
+*Data from 6 trending reports*

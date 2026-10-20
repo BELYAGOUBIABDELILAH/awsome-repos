@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 76
+- **Total Repositories**: 77
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-16
+- **Last Updated**: 2026-10-20
 
 ---
 
@@ -16,22 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | ⭐ 920 | 2026-08-01 | 37 |
+| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,503 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,428 | 2026-08-01 | 26 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | ⭐ 1,429 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 30,391 | 2026-08-02 | 32 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 30,444 | 2026-08-02 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/google-api-javascript-client](../repos/google/google-api-javascript-client.md) | ⭐ 3,528 | 2026-08-10 | 6 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,394 | 2026-08-04 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 6,193 | 2026-08-10 | 22 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,896 | 2026-08-06 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,726 | 2026-10-16 | 4 |
+| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,716 | 2026-08-06 | 14 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [progit/progit2](../repos/progit/progit2.md) | ⭐ 6,612 | 2026-08-06 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,726 | 2026-10-16 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [wso2/docs-is](../repos/wso2/docs-is.md) | ⭐ 81 | 2026-10-20 | 1 |
 
 
 ---
@@ -76,10 +85,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,875 | 2026-08-06 | 20 |
-| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,510 | 2026-08-01 | 12 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,386 | 2026-08-04 | 26 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 30,391 | 2026-08-02 | 32 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,896 | 2026-08-06 | 21 |
+| [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,503 | 2026-08-01 | 13 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,394 | 2026-08-04 | 27 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 30,444 | 2026-08-02 | 33 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
@@ -87,8 +96,8 @@
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | ⭐ 12,918 | 2026-08-02 | 26 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | ⭐ 12,511 | 2026-08-01 | 23 |
 | [devicons/devicon](../repos/devicons/devicon.md) | ⭐ 11,837 | 2026-08-04 | 7 |
-| [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,726 | 2026-10-16 | 4 |
-| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,695 | 2026-08-06 | 13 |
+| [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,726 | 2026-10-16 | 5 |
+| [IBM/plex](../repos/IBM/plex.md) | ⭐ 11,716 | 2026-08-06 | 14 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,481 | 2026-08-09 | 2 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,584 | 2026-08-05 | 18 |
@@ -105,13 +114,13 @@
 |------------|---------------|-------|------------|-----------|
 | [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 51 | ⭐ 1,469 | 2026-08-01 | 2026-10-17 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 37 | ⭐ 920 | 2026-08-01 | 2026-10-19 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 32 | ⭐ 30,391 | 2026-08-02 | 2026-10-19 |
-| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 26 | ⭐ 1,428 | 2026-08-01 | 2026-10-19 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 33 | ⭐ 30,444 | 2026-08-02 | 2026-10-20 |
+| [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 27 | ⭐ 1,429 | 2026-08-01 | 2026-10-20 |
+| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 27 | ⭐ 45,394 | 2026-08-04 | 2026-10-20 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 26 | ⭐ 12,918 | 2026-08-02 | 2026-10-15 |
-| [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 26 | ⭐ 45,386 | 2026-08-04 | 2026-10-17 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 23 | ⭐ 12,511 | 2026-08-01 | 2026-10-09 |
 | [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 22 | ⭐ 6,193 | 2026-08-10 | 2026-10-19 |
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 20 | ⭐ 82,875 | 2026-08-06 | 2026-10-16 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 21 | ⭐ 82,896 | 2026-08-06 | 2026-10-20 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 18 | ⭐ 9,584 | 2026-08-05 | 2026-10-16 |
 
 ---
@@ -194,7 +203,8 @@
 - [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) - Functional css for humans
 - [jerrykuku/luci-theme-argon](../repos/jerrykuku/luci-theme-argon.md) - Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface...
 - [prakhar1989/docker-curriculum](../repos/prakhar1989/docker-curriculum.md) - :dolphin: A comprehensive tutorial on getting started with Docker!
+- [wso2/docs-is](../repos/wso2/docs-is.md) - 
 
 ---
 
-*Last updated: 2026-10-19T21:01:54.934Z*
+*Last updated: 2026-10-20T21:02:10.867Z*

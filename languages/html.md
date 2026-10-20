@@ -16,31 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cipher387/osint_stuff_tool_collection](../repos/cipher387/osint_stuff_tool_collection.md) | ⭐ 8,967 | 2026-08-01 | 6 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,085 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,050 | 2026-08-01 | 8 |
+| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 16,809 | 2026-09-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [htr-tech/zphisher](../repos/htr-tech/zphisher.md) | ⭐ 17,044 | 2026-08-02 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,401 | 2026-08-02 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [github/training-kit](../repos/github/training-kit.md) | ⭐ 5,119 | 2026-08-15 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,207 | 2026-09-19 | 6 |
+| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,216 | 2026-09-19 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [TandoorRecipes/recipes](../repos/TandoorRecipes/recipes.md) | ⭐ 8,616 | 2026-09-20 | Application for managing recipes, planning meals, building shopping lists and much much more! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chiphuyen/machine-learning-systems-design](../repos/chiphuyen/machine-learning-systems-design.md) | ⭐ 10,658 | 2026-09-21 | A booklet on machine learning systems design with exercises. NOT the repo for the book &quot;Designing... |
@@ -68,6 +56,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [phishdestroy/destroylist](../repos/phishdestroy/destroylist.md) | ⭐ 1,904 | 2026-10-02 | Real-time phishing &amp; scam domain blocklist - 205k+ curated threats, 1M+ community, free API, mult... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dequelabs/axe-core](../repos/dequelabs/axe-core.md) | ⭐ 7,640 | 2026-10-03 | Accessibility engine for automated Web UI testing |
 
 
 ---
@@ -92,7 +83,7 @@
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 24,855 | 2026-10-09 | 3 |
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,050 | 2026-08-01 | 8 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,085 | 2026-08-01 | 9 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,644 | 2026-08-03 | 7 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
 | [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | 1 |
@@ -221,4 +212,4 @@
 
 ---
 
-*Last updated: 2026-10-19T21:01:54.960Z*
+*Last updated: 2026-10-20T21:02:10.902Z*

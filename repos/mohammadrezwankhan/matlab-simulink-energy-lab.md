@@ -1,6 +1,6 @@
 # mohammadrezwankhan&#x2F;matlab-simulink-energy-lab
 
-> Open, runnable MATLAB &amp; Simulink reference models for lithium-ion batteries, SOC EKF, thermal management, power converters, and grid-forming&#x2F;grid-following BESS control—with reproducible checks.
+> Run reduced-order battery, thermal, converter and BESS control models with transparent equations and repeatable testing.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;mohammadrezwankhan&#x2F;matlab-simulink-energy-lab) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | MATLAB |
 | **License** | MIT |
-| **Stars** | ⭐ 245 |
-| **Forks** | 🍴 16 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 260 |
+| **Forks** | 🍴 17 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 18, 2026 |
-| **Last Seen** | Oct 18, 2026 |
+| **Last Seen** | Oct 20, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in MATLAB or battery*
+*Similar: Check repositories in MATLAB or battery-modeling*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`battery`](../../topics/battery.md) [`battery-management-system`](../../topics/battery-management-system.md) [`battery-modeling`](../../topics/battery-modeling.md) [`battery-thermal-management`](../../topics/battery-thermal-management.md) [`bess`](../../topics/bess.md) [`control-systems`](../../topics/control-systems.md) [`dc-dc-converter`](../../topics/dc-dc-converter.md) [`electro-thermal-modeling`](../../topics/electro-thermal-modeling.md) [`engineering-education`](../../topics/engineering-education.md) [`extended-kalman-filter`](../../topics/extended-kalman-filter.md) [`grid-following`](../../topics/grid-following.md) [`grid-forming`](../../topics/grid-forming.md) [`lithium-ion-battery`](../../topics/lithium-ion-battery.md) [`matlab`](../../topics/matlab.md) [`microgrid`](../../topics/microgrid.md) [`model-based-design`](../../topics/model-based-design.md) [`power-electronics`](../../topics/power-electronics.md) [`renewable-energy`](../../topics/renewable-energy.md) [`simulink`](../../topics/simulink.md) [`state-of-charge`](../../topics/state-of-charge.md) 
+[`battery-modeling`](../../topics/battery-modeling.md) [`battery-thermal-management`](../../topics/battery-thermal-management.md) [`bess`](../../topics/bess.md) [`control-systems`](../../topics/control-systems.md) [`dc-dc-converter`](../../topics/dc-dc-converter.md) [`engineering-education`](../../topics/engineering-education.md) [`extended-kalman-filter`](../../topics/extended-kalman-filter.md) [`grid-following`](../../topics/grid-following.md) [`grid-forming`](../../topics/grid-forming.md) [`interactive-dashboard`](../../topics/interactive-dashboard.md) [`matlab`](../../topics/matlab.md) [`model-based-design`](../../topics/model-based-design.md) [`power-electronics`](../../topics/power-electronics.md) [`simulation`](../../topics/simulation.md) [`simulink`](../../topics/simulink.md) [`state-of-charge`](../../topics/state-of-charge.md) 
 
 ### Curated Categories
-`Systems Programming` `Education &amp; Learning` 
+`Systems Programming` `Robotics` `Education &amp; Learning` 
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-19T21:02:13.285Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-20T21:02:17.778Z*  
+*Data from 2 trending reports*

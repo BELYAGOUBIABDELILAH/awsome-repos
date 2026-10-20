@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-19T21:02:13.687Z",
-  "total_repositories": 4114,
-  "trending_today": 301,
-  "new_this_month": 689,
+  "generated_at": "2026-10-20T21:02:18.286Z",
+  "total_repositories": 4130,
+  "trending_today": 347,
+  "new_this_month": 658,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-10-19",
+  "last_collection": "2026-10-20",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 64,
+    "trending_days": 65,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "bobeff/open-source-games",
-    "stars": 16571,
-    "first_seen": "2026-10-19"
+    "full_name": "emdash-cms/emdash",
+    "stars": 13825,
+    "first_seen": "2026-10-20"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 55618504,
-  "avg_stars": 13519,
-  "avg_trending_days": 6.1,
+  "total_stars": 55795123,
+  "avg_stars": 13510,
+  "avg_trending_days": 6.2,
   "language_count": 60,
-  "topic_count": 10410,
+  "topic_count": 10435,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

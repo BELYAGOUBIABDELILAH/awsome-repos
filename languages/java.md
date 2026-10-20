@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MojoLauncher/MojoLauncher](../repos/MojoLauncher/MojoLauncher.md) | ⭐ 1,044 | 2026-08-02 | 10 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,325 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,318 | 2026-08-02 | 18 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 29,909 | 2026-08-04 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku-API](../repos/RikkaApps/Shizuku-API.md) | ⭐ 2,668 | 2026-08-02 | 7 |
+| [apache/cassandra](../repos/apache/cassandra.md) | ⭐ 10,116 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cabaletta/baritone](../repos/cabaletta/baritone.md) | ⭐ 9,316 | 2026-08-03 | 10 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,150 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 29,890 | 2026-08-04 | 22 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,773 | 2026-08-04 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,139 | 2026-08-04 | 12 |
+| [apache/flink](../repos/apache/flink.md) | ⭐ 26,415 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 14,934 | 2026-08-06 | 15 |
+| [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) | ⭐ 13,266 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ReChronoRain/HyperCeiler](../repos/ReChronoRain/HyperCeiler.md) | ⭐ 5,537 | 2026-08-10 | 8 |
+| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,259 | 2026-08-07 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [freeok/so-novel](../repos/freeok/so-novel.md) | ⭐ 8,686 | 2026-08-11 | 8 |
+| [apache/kafka](../repos/apache/kafka.md) | ⭐ 34,110 | 2026-08-12 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Card-Forge/forge](../repos/Card-Forge/forge.md) | ⭐ 2,815 | 2026-08-16 | 9 |
+| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | ⭐ 7,149 | 2026-08-14 | 16 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [niedev/RTranslator](../repos/niedev/RTranslator.md) | ⭐ 10,435 | 2026-09-20 | Open source real-time translation app for Android that runs locally |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [anonfaded/FadCam](../repos/anonfaded/FadCam.md) | ⭐ 2,789 | 2026-09-20 | Open-source, ad-free Android multimedia recorder with background video recording, screen recordin... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Katana-Official/SPatch-Update](../repos/Katana-Official/SPatch-Update.md) | ⭐ 2,303 | 2026-09-21 | Update for SPatch nightly |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [antlr/antlr4](../repos/antlr/antlr4.md) | ⭐ 19,018 | 2026-09-28 | ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, process... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zed-0xff/ZombieBuddy](../repos/zed-0xff/ZombieBuddy.md) | ⭐ 250 | 2026-09-29 | Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Azure/azure-sdk-for-java](../repos/Azure/azure-sdk-for-java.md) | ⭐ 2,563 | 2026-10-01 | This repository is for active development of the Azure SDK for Java. For consumers of the SDK we ... |
 
 
 ---
@@ -90,17 +90,17 @@
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,826 | 2026-08-04 | 12 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 90,182 | 2026-08-03 | 27 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,704 | 2026-08-04 | 18 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,318 | 2026-08-02 | 18 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,773 | 2026-08-04 | 19 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,325 | 2026-08-02 | 19 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,331 | 2026-08-04 | 7 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
 | [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,293 | 2026-08-08 | 9 |
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,139 | 2026-08-04 | 12 |
+| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,150 | 2026-08-04 | 13 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,912 | 2026-08-02 | 12 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,037 | 2026-08-12 | 10 |
+| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,259 | 2026-08-07 | 10 |
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
-| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,186 | 2026-08-07 | 9 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 42,547 | 2026-08-05 | 19 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,100 | 2026-08-02 | 10 |
 | [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,819 | 2026-08-06 | 12 |
@@ -117,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 27 | ⭐ 90,182 | 2026-08-03 | 2026-10-17 |
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 26 | ⭐ 5,996 | 2026-08-05 | 2026-10-15 |
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 22 | ⭐ 29,890 | 2026-08-04 | 2026-10-19 |
+| [kestra-io/kestra](../repos/kestra-io/kestra.md) | 23 | ⭐ 29,909 | 2026-08-04 | 2026-10-20 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 19 | ⭐ 27,448 | 2026-08-02 | 2026-10-18 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 19 | ⭐ 78,325 | 2026-08-02 | 2026-10-20 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 19 | ⭐ 81,773 | 2026-08-04 | 2026-10-20 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 19 | ⭐ 42,547 | 2026-08-05 | 2026-10-18 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 18 | ⭐ 78,318 | 2026-08-02 | 2026-10-19 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 18 | ⭐ 81,704 | 2026-08-04 | 2026-10-17 |
+| [apache/kafka](../repos/apache/kafka.md) | 16 | ⭐ 34,110 | 2026-08-12 | 2026-10-20 |
+| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 16 | ⭐ 7,149 | 2026-08-14 | 2026-10-20 |
 | [iflytek/skillhub](../repos/iflytek/skillhub.md) | 15 | ⭐ 5,234 | 2026-08-04 | 2026-10-16 |
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 15 | ⭐ 35,126 | 2026-08-04 | 2026-10-18 |
-| [microg/GmsCore](../repos/microg/GmsCore.md) | 15 | ⭐ 14,934 | 2026-08-06 | 2026-10-19 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-19T21:01:54.964Z*
+*Last updated: 2026-10-20T21:02:10.910Z*

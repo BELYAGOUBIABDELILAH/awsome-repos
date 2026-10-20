@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,873 | 2026-08-01 | 25 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,875 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 42 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 43 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 44 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 44 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 43 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,065 | 2026-08-01 | 25 |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,064 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,611 | 2026-08-01 | 44 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,611 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,389 | 2026-08-02 | 30 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,317 | 2026-08-04 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | ⭐ 4,500 | 2026-08-05 | 28 |
+| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | ⭐ 4,500 | 2026-08-05 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | ⭐ 2,034 | 2026-08-08 | 36 |
+| [facebookincubator/SocketRocket](../repos/facebookincubator/SocketRocket.md) | ⭐ 9,594 | 2026-08-08 | 25 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [skyhua0224/moonlight-macos-enhanced](../repos/skyhua0224/moonlight-macos-enhanced.md) | ⭐ 204 | 2026-09-20 | Moonlight macOS Enhanced - native Moonlight for macOS client for Sunshine and Foundation Sunshine... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pilotmoon/Scroll-Reverser](../repos/pilotmoon/Scroll-Reverser.md) | ⭐ 3,609 | 2026-09-20 | Per-device scrolling prefs on macOS. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [googlemaps/google-maps-ios-utils](../repos/googlemaps/google-maps-ios-utils.md) | ⭐ 775 | 2026-09-21 | Google Maps SDK for iOS Utility Library |
@@ -73,7 +67,7 @@
 | [seanhenry/SwiftMockGeneratorForXcode](../repos/seanhenry/SwiftMockGeneratorForXcode.md) | ⭐ 758 | 2026-09-28 | An Xcode extension (plugin) to generate Swift test doubles automatically. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nfzerox/VirtualMacOniPad](../repos/nfzerox/VirtualMacOniPad.md) | ⭐ 1,928 | 2026-10-03 | People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true... |
+| [nfzerox/VirtualMacOniPad](../repos/nfzerox/VirtualMacOniPad.md) | ⭐ 1,934 | 2026-10-03 | People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [orionblur/NeoFreeBird](../repos/orionblur/NeoFreeBird.md) | ⭐ 521 | 2026-10-06 | A tweak for Twitter that reverts branding to pre-2023, blocks ads, unlocks Twitter Blue features,... |
@@ -90,7 +84,7 @@
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,371 | 2026-08-02 | 7 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,611 | 2026-08-01 | 44 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,611 | 2026-08-01 | 45 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,389 | 2026-08-02 | 30 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,600 | 2026-08-04 | 29 |
@@ -103,7 +97,7 @@
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
 | [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
 | [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,586 | 2026-08-03 | 21 |
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,317 | 2026-08-04 | 23 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,317 | 2026-08-04 | 24 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,438 | 2026-08-06 | 4 |
 | [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,135 | 2026-08-07 | 14 |
@@ -115,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 44 | ⭐ 136 | 2026-08-01 | 2026-10-19 |
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 44 | ⭐ 60 | 2026-08-01 | 2026-10-19 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 44 | ⭐ 25,611 | 2026-08-01 | 2026-10-19 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 43 | ⭐ 291 | 2026-08-01 | 2026-10-19 |
-| [google/promises](../repos/google/promises.md) | 42 | ⭐ 3,828 | 2026-08-01 | 2026-10-19 |
-| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 36 | ⭐ 2,034 | 2026-08-08 | 2026-10-19 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 45 | ⭐ 136 | 2026-08-01 | 2026-10-20 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 45 | ⭐ 60 | 2026-08-01 | 2026-10-20 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 45 | ⭐ 25,611 | 2026-08-01 | 2026-10-20 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 44 | ⭐ 291 | 2026-08-01 | 2026-10-20 |
+| [google/promises](../repos/google/promises.md) | 43 | ⭐ 3,828 | 2026-08-01 | 2026-10-20 |
+| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 37 | ⭐ 2,034 | 2026-08-08 | 2026-10-20 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 31 | ⭐ 675 | 2026-08-04 | 2026-10-17 |
 | [opa334/TrollStore](../repos/opa334/TrollStore.md) | 30 | ⭐ 22,389 | 2026-08-02 | 2026-10-19 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 29 | ⭐ 16,600 | 2026-08-04 | 2026-10-17 |
-| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 28 | ⭐ 4,500 | 2026-08-05 | 2026-10-19 |
+| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 29 | ⭐ 4,500 | 2026-08-05 | 2026-10-20 |
 
 ---
 
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-19T21:01:54.987Z*
+*Last updated: 2026-10-20T21:02:10.946Z*

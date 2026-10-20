@@ -16,43 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 85,816 | 2026-08-04 | 20 |
+| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 5,119 | 2026-08-07 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 26,028 | 2026-08-16 | 9 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 26,494 | 2026-08-16 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 32,362 | 2026-08-28 | 9 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 33,893 | 2026-08-28 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 6,062 | 2026-09-12 | 4 |
+| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 6,603 | 2026-09-12 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [plugin87/ux-ui-agent-skills](../repos/plugin87/ux-ui-agent-skills.md) | ⭐ 2,389 | 2026-09-14 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [michael-denyer/pstack-claude](../repos/michael-denyer/pstack-claude.md) | ⭐ 3,065 | 2026-10-16 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [YuJunZhiXue/dsh-purge](../repos/YuJunZhiXue/dsh-purge.md) | ⭐ 8,625 | 2026-10-19 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [datawhalechina/easy-vibe](../repos/datawhalechina/easy-vibe.md) | ⭐ 20,026 | 2026-10-19 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [flizzywine/dsh-tavern](../repos/flizzywine/dsh-tavern.md) | ⭐ 1,128 | 2026-10-19 | 1 |
+| [datawhalechina/easy-vibe](../repos/datawhalechina/easy-vibe.md) | ⭐ 20,059 | 2026-10-19 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [BuilderIO/skills](../repos/BuilderIO/skills.md) | ⭐ 4,511 | 2026-09-20 | Skills for agents |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fspecii/ace-step-ui](../repos/fspecii/ace-step-ui.md) | ⭐ 4,961 | 2026-09-20 | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generati... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [androoAGI/starnet](../repos/androoAGI/starnet.md) | ⭐ 1,011 | 2026-09-24 | A living pixel-art station where real AI agents do real work. Local-first desktop agent harness -... |
@@ -77,6 +59,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [QwenAudio/qwen-audio-agent](../repos/QwenAudio/qwen-audio-agent.md) | ⭐ 2,819 | 2026-09-29 | A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtim... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tiagozip/cap](../repos/tiagozip/cap.md) | ⭐ 7,896 | 2026-09-29 | Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [WesselKroos/youtube-ambilight](../repos/WesselKroos/youtube-ambilight.md) | ⭐ 294 | 2026-10-01 | This browser extension adds ambient light to YouTube videos |
 
 
 ---
@@ -116,7 +104,7 @@
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 20 | ⭐ 85,816 | 2026-08-04 | 2026-10-19 |
 | [byoungd/up](../repos/byoungd/up.md) | 18 | ⭐ 66,612 | 2026-08-01 | 2026-10-01 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 13 | ⭐ 3,954 | 2026-08-07 | 2026-10-03 |
+| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 14 | ⭐ 5,119 | 2026-08-07 | 2026-10-20 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 13 | ⭐ 56,874 | 2026-08-27 | 2026-10-15 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 12 | ⭐ 143,053 | 2026-07-30 | 2026-10-17 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 12 | ⭐ 27,764 | 2026-08-03 | 2026-10-12 |
@@ -230,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-10-19T21:01:54.967Z*
+*Last updated: 2026-10-20T21:02:10.914Z*

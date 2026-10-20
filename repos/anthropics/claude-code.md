@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Not specified |
-| **Stars** | ⭐ 152,587 |
-| **Forks** | 🍴 27,133 |
-| **Trending Days** | 19 |
+| **Stars** | ⭐ 152,634 |
+| **Forks** | 🍴 26,682 |
+| **Trending Days** | 20 |
 | **Peak Rank** | #5 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Oct 19, 2026 |
+| **Last Seen** | Oct 20, 2026 |
 
 
 ---
@@ -53,7 +53,7 @@
 ### Highlights
 
 - **Peak Rank**: #5
-- **Trending Days**: 19
+- **Trending Days**: 20
 - **Longest Streak**: 6 days
 
 ---
@@ -76,7 +76,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 152,587+ stars, strong contributor base |
+| **Community** | Very Active | 152,634+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
@@ -97,5 +97,5 @@
 
 ---
 
-*Last updated: 2026-10-19T21:02:09.691Z*  
-*Data from 19 trending reports*
+*Last updated: 2026-10-20T21:02:15.013Z*  
+*Data from 20 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 310
+- **Total Repositories**: 312
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-10-19
 
@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,520 | 2026-08-01 | 19 |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,383 | 2026-07-31 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 183,858 | 2026-08-01 | 23 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 50,334 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 8,041 | 2026-08-02 | 11 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,460 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moby/moby](../repos/moby/moby.md) | ⭐ 72,207 | 2026-08-04 | 5 |
+| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,432 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [livekit/livekit](../repos/livekit/livekit.md) | ⭐ 21,658 | 2026-08-07 | 8 |
+| [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,394 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [strelov1/freehire](../repos/strelov1/freehire.md) | ⭐ 1,426 | 2026-08-17 | 2 |
+| [DataDog/datadog-agent](../repos/DataDog/datadog-agent.md) | ⭐ 3,769 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,401 | 2026-08-22 | 5 |
+| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 17,747 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [urfave/cli](../repos/urfave/cli.md) | ⭐ 24,293 | 2026-10-03 | 2 |
+| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 81,063 | 2026-08-12 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [helm/helm](../repos/helm/helm.md) | ⭐ 30,341 | 2026-10-06 | 2 |
+| [knadh/listmonk](../repos/knadh/listmonk.md) | ⭐ 23,882 | 2026-08-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mag1cFall/AIStudio2API](../repos/Mag1cFall/AIStudio2API.md) | ⭐ 379 | 2026-10-18 | 2 |
+| [kenn-io/agentsview](../repos/kenn-io/agentsview.md) | ⭐ 6,213 | 2026-08-15 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [guohuiyuan/go-music-dl](../repos/guohuiyuan/go-music-dl.md) | ⭐ 5,459 | 2026-09-20 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [dagger/dagger](../repos/dagger/dagger.md) | ⭐ 16,278 | 2026-09-20 | Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the c... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [screego/server](../repos/screego/server.md) | ⭐ 10,670 | 2026-09-20 | screen sharing for developers https:&#x2F;&#x2F;screego.net&#x2F; |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vshulcz/deja-vu](../repos/vshulcz/deja-vu.md) | ⭐ 1,235 | 2026-09-20 | Coding agent memory for Claude Code, Codex, Cursor and 39 more, built from the session history al... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [superdurable/dex](../repos/superdurable/dex.md) | ⭐ 118 | 2026-09-20 | Durable Execution (D-EX) framework built on Temporal&#x2F;Cadence |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AminMGMT/BackPack](../repos/AminMGMT/BackPack.md) | ⭐ 407 | 2026-09-21 | High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openbkn-ai/bkn-foundry](../repos/openbkn-ai/bkn-foundry.md) | ⭐ 535 | 2026-09-22 | BKN Foundry is the Ontology back-end foundation of OpenBKN. It transforms ontology-driven busines... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [skyhook-io/radar](../repos/skyhook-io/radar.md) | ⭐ 3,824 | 2026-09-22 | The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what&#39;s broken... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [fullsend-ai/fullsend](../repos/fullsend-ai/fullsend.md) | ⭐ 135 | 2026-09-22 | On the path to fully autonomous agentic engineering |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [flexprice/flexprice](../repos/flexprice/flexprice.md) | ⭐ 6,938 | 2026-09-24 | Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ArvinLovegood/go-stock](../repos/ArvinLovegood/go-stock.md) | ⭐ 7,708 | 2026-09-24 | 🦄🦄🦄AI赋能股票分析：AI加持的股票分析&#x2F;选股工具。股票行情获取，AI热点资讯分析，AI资金&#x2F;财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体&#x2F;个股情绪分析，AI辅助选股等。数... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [autobrr/autobrr](../repos/autobrr/autobrr.md) | ⭐ 3,085 | 2026-09-24 | Modern, easy to use download automation for torrents and usenet. |
 
 
 ---
@@ -89,13 +89,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 183,858 | 2026-08-01 | 23 |
-| [golang/go](../repos/golang/go.md) | ⭐ 139,169 | 2026-07-31 | 14 |
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,332 | 2026-08-04 | 9 |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,383 | 2026-07-31 | 15 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,460 | 2026-08-04 | 10 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,512 | 2026-08-15 | 11 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,914 | 2026-08-06 | 12 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
-| [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,294 | 2026-08-05 | 2 |
-| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 80,506 | 2026-08-12 | 7 |
+| [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,394 | 2026-08-05 | 3 |
+| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 81,063 | 2026-08-12 | 8 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 77,476 | 2026-08-03 | 8 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 72,207 | 2026-08-04 | 5 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | 2026-08-07 | 2 |
@@ -105,9 +105,9 @@
 | [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 52,913 | 2026-08-01 | 18 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,401 | 2026-08-22 | 5 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 50,334 | 2026-08-01 | 20 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,972 | 2026-08-06 | 10 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 49,872 | 2026-08-01 | 19 |
 
 ---
 
@@ -117,13 +117,13 @@
 |------------|---------------|-------|------------|-----------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 24 | ⭐ 34,389 | 2026-08-01 | 2026-10-16 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 23 | ⭐ 183,858 | 2026-08-01 | 2026-10-19 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 19 | ⭐ 49,872 | 2026-08-01 | 2026-10-13 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 20 | ⭐ 50,334 | 2026-08-01 | 2026-10-20 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 19 | ⭐ 38,520 | 2026-08-01 | 2026-10-19 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 19 | ⭐ 44,261 | 2026-08-07 | 2026-10-17 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 18 | ⭐ 52,913 | 2026-08-01 | 2026-10-15 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 18 | ⭐ 5,489 | 2026-08-02 | 2026-10-18 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 16 | ⭐ 762 | 2026-08-01 | 2026-10-07 |
-| [golang/go](../repos/golang/go.md) | 14 | ⭐ 139,169 | 2026-07-31 | 2026-10-14 |
+| [golang/go](../repos/golang/go.md) | 15 | ⭐ 139,383 | 2026-07-31 | 2026-10-20 |
 | [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 14 | ⭐ 30,725 | 2026-08-06 | 2026-10-16 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-19T21:01:54.954Z*
+*Last updated: 2026-10-20T21:02:10.894Z*

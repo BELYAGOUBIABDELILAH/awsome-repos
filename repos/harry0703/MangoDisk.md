@@ -1,6 +1,6 @@
 # harry0703&#x2F;MangoDisk
 
-> Safety-first disk cleaner and space analyzer for macOS and Windows, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
+> Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;harry0703&#x2F;MangoDisk) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 3,803 |
-| **Forks** | 🍴 269 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 4,385 |
+| **Forks** | 🍴 295 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 7, 2026 |
-| **Last Seen** | Oct 7, 2026 |
+| **Last Seen** | Oct 20, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`app-uninstaller`](../../topics/app-uninstaller.md) [`cache-cleaner`](../../topics/cache-cleaner.md) [`cross-platform`](../../topics/cross-platform.md) [`desktop-app`](../../topics/desktop-app.md) [`disk-cleaner`](../../topics/disk-cleaner.md) [`disk-cleanup`](../../topics/disk-cleanup.md) [`disk-space-analyzer`](../../topics/disk-space-analyzer.md) [`duplicate-files`](../../topics/duplicate-files.md) [`duplicate-finder`](../../topics/duplicate-finder.md) [`large-files`](../../topics/large-files.md) [`macos`](../../topics/macos.md) [`rust`](../../topics/rust.md) [`startup-manager`](../../topics/startup-manager.md) [`system-cleaner`](../../topics/system-cleaner.md) [`system-maintenance`](../../topics/system-maintenance.md) [`system-optimization`](../../topics/system-optimization.md) [`tauri`](../../topics/tauri.md) [`treemap`](../../topics/treemap.md) [`uninstaller`](../../topics/uninstaller.md) [`windows`](../../topics/windows.md) 
+[`app-uninstaller`](../../topics/app-uninstaller.md) [`cache-cleaner`](../../topics/cache-cleaner.md) [`cross-platform`](../../topics/cross-platform.md) [`desktop-app`](../../topics/desktop-app.md) [`disk-cleaner`](../../topics/disk-cleaner.md) [`disk-cleanup`](../../topics/disk-cleanup.md) [`disk-space-analyzer`](../../topics/disk-space-analyzer.md) [`duplicate-files`](../../topics/duplicate-files.md) [`duplicate-finder`](../../topics/duplicate-finder.md) [`large-files`](../../topics/large-files.md) [`linux`](../../topics/linux.md) [`macos`](../../topics/macos.md) [`rust`](../../topics/rust.md) [`startup-manager`](../../topics/startup-manager.md) [`system-cleaner`](../../topics/system-cleaner.md) [`system-optimization`](../../topics/system-optimization.md) [`tauri`](../../topics/tauri.md) [`treemap`](../../topics/treemap.md) [`uninstaller`](../../topics/uninstaller.md) [`windows`](../../topics/windows.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Systems Programming` `Robotics` 
+`Systems Programming` `Robotics` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-19T21:02:13.055Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-20T21:02:17.499Z*  
+*Data from 2 trending reports*
