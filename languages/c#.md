@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,789 | 2026-08-01 | 19 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 16,397 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JosefNemec/Playnite](../repos/JosefNemec/Playnite.md) | ⭐ 14,289 | 2026-08-02 | 8 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,896 | 2026-08-06 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,686 | 2026-08-03 | 32 |
+| [Tichau/FileConverter](../repos/Tichau/FileConverter.md) | ⭐ 15,452 | 2026-08-11 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [btcpayserver/btcpayserver](../repos/btcpayserver/btcpayserver.md) | ⭐ 7,811 | 2026-08-08 | 4 |
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,291 | 2026-08-14 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tichau/FileConverter](../repos/Tichau/FileConverter.md) | ⭐ 15,442 | 2026-08-11 | 7 |
+| [sourcegit-scm/sourcegit](../repos/sourcegit-scm/sourcegit.md) | ⭐ 6,210 | 2026-08-19 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [luolangaga/tubatools](../repos/luolangaga/tubatools.md) | ⭐ 5,616 | 2026-08-12 | 10 |
+| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,445 | 2026-08-27 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MUnique/OpenMU](../repos/MUnique/OpenMU.md) | ⭐ 1,229 | 2026-09-05 | 4 |
+| [PCL-Community/PCL-CE](../repos/PCL-Community/PCL-CE.md) | ⭐ 4,720 | 2026-09-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 2,622 | 2026-09-24 | 9 |
+| [NethermindEth/nethermind](../repos/NethermindEth/nethermind.md) | ⭐ 1,622 | 2026-09-24 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [greenshot/greenshot](../repos/greenshot/greenshot.md) | ⭐ 5,199 | 2026-09-25 | 2 |
+| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 2,722 | 2026-09-24 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RayWangQvQ/BiliBiliToolPro](../repos/RayWangQvQ/BiliBiliToolPro.md) | ⭐ 9,053 | 2026-09-27 | 5 |
+| [empira/PDFsharp](../repos/empira/PDFsharp.md) | ⭐ 1,005 | 2026-10-15 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mcneel/RhinoAI](../repos/mcneel/RhinoAI.md) | ⭐ 335 | 2026-09-21 | AI features for Rhino |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [0x90d/videoduplicatefinder](../repos/0x90d/videoduplicatefinder.md) | ⭐ 3,707 | 2026-09-22 | Video Duplicate Finder - Crossplatform |
@@ -67,7 +64,7 @@
 | [Humanizr/Humanizer](../repos/Humanizr/Humanizer.md) | ⭐ 9,891 | 2026-09-22 | Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times,... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [NethermindEth/nethermind](../repos/NethermindEth/nethermind.md) | ⭐ 1,609 | 2026-09-24 | A robust, high-performance execution client for Ethereum node operators. |
+| [NethermindEth/nethermind](../repos/NethermindEth/nethermind.md) | ⭐ 1,622 | 2026-09-24 | A robust, high-performance execution client for Ethereum node operators. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [RayrenSX/iPhoneMirror](../repos/RayrenSX/iPhoneMirror.md) | ⭐ 928 | 2026-09-24 | Local Windows iPhone&#x2F;iPad mirroring over USB and AirPlay with D3D11 preview, multi-device session... |
@@ -76,10 +73,13 @@
 | [marcussacana/DirectPackageInstaller](../repos/marcussacana/DirectPackageInstaller.md) | ⭐ 475 | 2026-09-24 | Send Direct PKG URLs to your PS4 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 2,622 | 2026-09-24 | A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. ... |
+| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 2,722 | 2026-09-24 | A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [open-telemetry/opentelemetry-dotnet-contrib](../repos/open-telemetry/opentelemetry-dotnet-contrib.md) | ⭐ 676 | 2026-09-25 | This repository contains set of components extending functionality of the OpenTelemetry .NET SDK.... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [greenshot/greenshot](../repos/greenshot/greenshot.md) | ⭐ 5,199 | 2026-09-25 | Greenshot for Windows - for more information look here: |
 
 
 ---
@@ -90,9 +90,9 @@
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 118,208 | 2026-08-02 | 30 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,265 | 2026-08-02 | 20 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,800 | 2026-08-06 | 17 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,896 | 2026-08-06 | 18 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,091 | 2026-08-01 | 15 |
-| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,217 | 2026-08-14 | 5 |
+| [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,291 | 2026-08-14 | 6 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,965 | 2026-08-03 | 12 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,474 | 2026-08-01 | 18 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 32,410 | 2026-08-02 | 33 |
@@ -104,7 +104,7 @@
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,124 | 2026-08-10 | 7 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,527 | 2026-08-02 | 9 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,440 | 2026-08-01 | 9 |
-| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,231 | 2026-08-27 | 8 |
+| [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,445 | 2026-08-27 | 9 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
 | [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,700 | 2026-08-01 | 10 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,395 | 2026-08-01 | 13 |
@@ -119,9 +119,9 @@
 | [dotnet/skills](../repos/dotnet/skills.md) | 32 | ⭐ 5,686 | 2026-08-03 | 2026-10-20 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 30 | ⭐ 118,208 | 2026-08-02 | 2026-10-14 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 20 | ⭐ 58,265 | 2026-08-02 | 2026-10-19 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 20 | ⭐ 16,397 | 2026-08-02 | 2026-10-21 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 19 | ⭐ 32,047 | 2026-08-01 | 2026-10-15 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 19 | ⭐ 3,789 | 2026-08-01 | 2026-10-20 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 19 | ⭐ 16,177 | 2026-08-02 | 2026-10-14 |
 | [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | 19 | ⭐ 17,291 | 2026-08-03 | 2026-10-18 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 18 | ⭐ 38,474 | 2026-08-01 | 2026-10-17 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 18 | ⭐ 14,627 | 2026-08-01 | 2026-10-19 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.861Z*
+*Last updated: 2026-10-21T21:02:00.098Z*

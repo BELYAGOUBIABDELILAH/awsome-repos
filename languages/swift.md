@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 135
+- **Total Repositories**: 136
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-02
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | ⭐ 13,231 | 2026-08-01 | 29 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 9,324 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,302 | 2026-08-01 | 21 |
+| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,538 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 9,319 | 2026-08-02 | 15 |
+| [swiftlang/swift-syntax](../repos/swiftlang/swift-syntax.md) | ⭐ 3,712 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,976 | 2026-08-04 | 19 |
+| [rileytestut/Delta](../repos/rileytestut/Delta.md) | ⭐ 6,184 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,904 | 2026-08-04 | 14 |
+| [stripe/stripe-ios](../repos/stripe/stripe-ios.md) | ⭐ 2,578 | 2026-08-15 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getsentry/sentry-cocoa](../repos/getsentry/sentry-cocoa.md) | ⭐ 1,129 | 2026-08-07 | 5 |
+| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,933 | 2026-09-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,348 | 2026-08-11 | 9 |
+| [apple/swift-argument-parser](../repos/apple/swift-argument-parser.md) | ⭐ 3,793 | 2026-10-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 22,006 | 2026-08-12 | 9 |
+| [iFurySt/open-computer-use](../repos/iFurySt/open-computer-use.md) | ⭐ 2,606 | 2026-10-18 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,661 | 2026-08-12 | 11 |
+| [lycorp-jp/sim-use](../repos/lycorp-jp/sim-use.md) | ⭐ 1,469 | 2026-10-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [facebook/facebook-ios-sdk](../repos/facebook/facebook-ios-sdk.md) | ⭐ 8,110 | 2026-08-15 | 2 |
+| [scosman/Biscotti](../repos/scosman/Biscotti.md) | ⭐ 385 | 2026-10-21 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/ZoomitForMac](../repos/microsoft/ZoomitForMac.md) | ⭐ 1,045 | 2026-09-21 | Sysinternals ZoomIt for MacOS |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ZingerLittleBee/Heeler](../repos/ZingerLittleBee/Heeler.md) | ⭐ 516 | 2026-09-21 | Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH,... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [xtool-org/xtool](../repos/xtool-org/xtool.md) | ⭐ 11,909 | 2026-09-21 | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [chenqi92/primuse](../repos/chenqi92/primuse.md) | ⭐ 144 | 2026-09-24 | IOS、MacOS、AppleTV端音乐app，添加群晖等nas源、飞牛音乐等音乐服务源、百度网盘等各类网盘源、webdav等网络文件源。apple music集成播放，自带刮削功能、CarPl... |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kaishi00/hermes-conduit](../repos/kaishi00/hermes-conduit.md) | ⭐ 154 | 2026-09-29 | Conduit — native SwiftUI iOS client for Hermes Agent |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [grishka/NearDrop](../repos/grishka/NearDrop.md) | ⭐ 6,285 | 2026-10-01 | An unofficial Google Nearby Share&#x2F;Quick Share app for macOS |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apple/swift-collections](../repos/apple/swift-collections.md) | ⭐ 4,513 | 2026-10-01 | Commonly used data structures for Swift |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apple/swift-numerics](../repos/apple/swift-numerics.md) | ⭐ 1,875 | 2026-10-02 | Advanced mathematical types and functions for Swift |
 
 
 ---
@@ -119,11 +119,11 @@
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 21 | ⭐ 28,302 | 2026-08-01 | 2026-10-20 |
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 19 | ⭐ 14,976 | 2026-08-04 | 2026-10-20 |
 | [apple/container](../repos/apple/container.md) | 17 | ⭐ 50,809 | 2026-08-01 | 2026-10-19 |
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 15 | ⭐ 9,319 | 2026-08-02 | 2026-10-20 |
+| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 16 | ⭐ 9,324 | 2026-08-02 | 2026-10-21 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 15 | ⭐ 70,451 | 2026-08-05 | 2026-10-02 |
+| [apple/swift-nio](../repos/apple/swift-nio.md) | 14 | ⭐ 8,538 | 2026-08-04 | 2026-10-21 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 14 | ⭐ 26,904 | 2026-08-04 | 2026-10-20 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | 14 | ⭐ 14,686 | 2026-08-17 | 2026-10-19 |
-| [apple/swift-nio](../repos/apple/swift-nio.md) | 13 | ⭐ 8,538 | 2026-08-04 | 2026-10-14 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 12 | ⭐ 3,687 | 2026-08-01 | 2026-10-06 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.991Z*
+*Last updated: 2026-10-21T21:02:00.243Z*

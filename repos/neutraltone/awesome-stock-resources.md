@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Ruby |
 | **License** | CC0-1.0 |
-| **Stars** | ⭐ 14,622 |
-| **Forks** | 🍴 846 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 14,624 |
+| **Forks** | 🍴 825 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 4, 2026 |
-| **Last Seen** | Oct 20, 2026 |
+| **Last Seen** | Oct 21, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
-- **Longest Streak**: 4 days
+- **Trending Days**: 8
+- **Longest Streak**: 5 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:16.643Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-10-21T21:02:05.418Z*  
+*Data from 8 trending reports*

@@ -16,13 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,382 | 2026-08-01 | 17 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,211 | 2026-08-01 | 56 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,930 | 2026-08-01 | 35 |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,128 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,606 | 2026-08-01 | 51 |
+| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,931 | 2026-08-01 | 36 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,603 | 2026-08-01 | 52 |
 
 
 ---
@@ -46,15 +49,15 @@
 | [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,725 | 2026-08-02 | 38 |
 | [rescript-lang/rescript](../repos/rescript-lang/rescript.md) | ⭐ 7,466 | 2026-10-03 | 2 |
 | [facebook/pyre-check](../repos/facebook/pyre-check.md) | ⭐ 7,171 | 2026-09-02 | 2 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,606 | 2026-08-01 | 51 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,603 | 2026-08-01 | 52 |
 | [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,265 | 2026-08-05 | 7 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,607 | 2026-08-01 | 33 |
 | [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,535 | 2026-08-07 | 24 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,196 | 2026-08-01 | 55 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,211 | 2026-08-01 | 56 |
 | [mirage/mirage](../repos/mirage/mirage.md) | ⭐ 3,006 | 2026-10-07 | 1 |
 | [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,418 | 2026-08-02 | 4 |
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,126 | 2026-08-01 | 29 |
-| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,930 | 2026-08-01 | 35 |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,128 | 2026-08-01 | 30 |
+| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,931 | 2026-08-01 | 36 |
 | [savonet/liquidsoap](../repos/savonet/liquidsoap.md) | ⭐ 1,722 | 2026-08-10 | 2 |
 | [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,382 | 2026-08-01 | 17 |
 | [janestreet/bonsai](../repos/janestreet/bonsai.md) | ⭐ 1,381 | 2026-08-05 | 3 |
@@ -70,13 +73,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 55 | ⭐ 3,196 | 2026-08-01 | 2026-10-17 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 51 | ⭐ 6,606 | 2026-08-01 | 2026-10-20 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 56 | ⭐ 3,211 | 2026-08-01 | 2026-10-21 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 52 | ⭐ 6,603 | 2026-08-01 | 2026-10-21 |
 | [facebook/infer](../repos/facebook/infer.md) | 38 | ⭐ 15,725 | 2026-08-02 | 2026-10-17 |
+| [ocaml/dune](../repos/ocaml/dune.md) | 36 | ⭐ 1,931 | 2026-08-01 | 2026-10-21 |
 | [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 36 | ⭐ 1,071 | 2026-08-01 | 2026-10-19 |
-| [ocaml/dune](../repos/ocaml/dune.md) | 35 | ⭐ 1,930 | 2026-08-01 | 2026-10-20 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 33 | ⭐ 5,607 | 2026-08-01 | 2026-10-19 |
-| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 29 | ⭐ 2,126 | 2026-08-01 | 2026-10-19 |
+| [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 30 | ⭐ 2,128 | 2026-08-01 | 2026-10-21 |
 | [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | 24 | ⭐ 59 | 2026-08-01 | 2026-08-29 |
 | [bcpierce00/unison](../repos/bcpierce00/unison.md) | 24 | ⭐ 5,535 | 2026-08-07 | 2026-10-17 |
 | [ocaml/opam](../repos/ocaml/opam.md) | 17 | ⭐ 1,382 | 2026-08-01 | 2026-10-20 |
@@ -111,4 +114,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.943Z*
+*Last updated: 2026-10-21T21:02:00.189Z*

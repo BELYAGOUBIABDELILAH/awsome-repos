@@ -16,22 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,204 | 2026-08-01 | 60 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,078 | 2026-08-05 | 15 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | ⭐ 4,778 | 2026-09-29 | 13 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,728 | 2026-08-01 | 57 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [qualcomm/QAIC](../repos/qualcomm/QAIC.md) | ⭐ 25 | 2026-09-21 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [channable/icepeak](../repos/channable/icepeak.md) | ⭐ 135 | 2026-09-25 | Icepeak is a fast JSON document store with push notification support. |
@@ -56,7 +47,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,204 | 2026-08-01 | 60 |
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,722 | 2026-08-01 | 56 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,728 | 2026-08-01 | 57 |
 | [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,914 | 2026-08-08 | 4 |
 | [elm/compiler](../repos/elm/compiler.md) | ⭐ 7,907 | 2026-08-09 | 5 |
 | [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,765 | 2026-08-06 | 10 |
@@ -83,7 +74,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 60 | ⭐ 40,204 | 2026-08-01 | 2026-10-20 |
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 56 | ⭐ 27,722 | 2026-08-01 | 2026-10-18 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 57 | ⭐ 27,728 | 2026-08-01 | 2026-10-21 |
 | [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 46 | ⭐ 1,969 | 2026-08-01 | 2026-10-19 |
 | [mtolly/onyx](../repos/mtolly/onyx.md) | 32 | ⭐ 306 | 2026-08-08 | 2026-10-19 |
 | [agda/agda](../repos/agda/agda.md) | 29 | ⭐ 2,944 | 2026-08-03 | 2026-10-19 |
@@ -135,4 +126,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.906Z*
+*Last updated: 2026-10-21T21:02:00.150Z*

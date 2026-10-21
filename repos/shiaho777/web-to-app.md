@@ -1,6 +1,6 @@
 # shiaho777&#x2F;web-to-app
 
-> The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone
+> The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone    Ca: H2mNeSJV75VuQpGA9C11FwWoT9DU7sMCYUNVaMyQpump
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;shiaho777&#x2F;web-to-app) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | Unlicense |
-| **Stars** | ⭐ 6,925 |
-| **Forks** | 🍴 1,067 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 6,956 |
+| **Forks** | 🍴 1,073 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 16, 2026 |
-| **Last Seen** | Oct 20, 2026 |
+| **Last Seen** | Oct 21, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:15.827Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-10-21T21:02:04.642Z*  
+*Data from 8 trending reports*

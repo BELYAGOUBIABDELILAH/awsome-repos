@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,325 | 2026-08-02 | 19 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,893 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kestra-io/kestra](../repos/kestra-io/kestra.md) | ⭐ 29,909 | 2026-08-04 | 23 |
+| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 5,254 | 2026-08-04 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/cassandra](../repos/apache/cassandra.md) | ⭐ 10,116 | 2026-08-04 | 7 |
+| [apache/doris](../repos/apache/doris.md) | ⭐ 16,113 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,150 | 2026-08-04 | 13 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 6,073 | 2026-08-05 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,773 | 2026-08-04 | 19 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 15,021 | 2026-08-06 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/flink](../repos/apache/flink.md) | ⭐ 26,415 | 2026-08-04 | 10 |
+| [conductor-oss/conductor](../repos/conductor-oss/conductor.md) | ⭐ 32,360 | 2026-08-09 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [langchain4j/langchain4j](../repos/langchain4j/langchain4j.md) | ⭐ 13,266 | 2026-08-05 | 12 |
+| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | ⭐ 7,179 | 2026-08-14 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,259 | 2026-08-07 | 10 |
+| [ReSo7200/InstaEclipse](../repos/ReSo7200/InstaEclipse.md) | ⭐ 1,604 | 2026-08-16 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/kafka](../repos/apache/kafka.md) | ⭐ 34,110 | 2026-08-12 | 16 |
+| [FCL-Team/FoldCraftLauncher](../repos/FCL-Team/FoldCraftLauncher.md) | ⭐ 5,008 | 2026-08-17 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | ⭐ 7,149 | 2026-08-14 | 16 |
+| [HMCL-dev/HMCL](../repos/HMCL-dev/HMCL.md) | ⭐ 10,535 | 2026-08-23 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Katana-Official/SPatch-Update](../repos/Katana-Official/SPatch-Update.md) | ⭐ 2,303 | 2026-09-21 | Update for SPatch nightly |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kknifer7/FreeBox](../repos/kknifer7/FreeBox.md) | ⭐ 1,955 | 2026-09-21 | TVBox电脑版&#x2F;姊妹软件，致力于TVBox功能和生态的跨平台扩展 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [PhilJay/MPAndroidChart](../repos/PhilJay/MPAndroidChart.md) | ⭐ 38,169 | 2026-09-21 | A powerful 🚀 Android chart view &#x2F; graph view library, supporting line- bar- pie- radar- bubble- ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Stonewuu/ai-fusion-video](../repos/Stonewuu/ai-fusion-video.md) | ⭐ 1,517 | 2026-09-22 | 【融光】 - 基于 Agent 的全流程AI短剧&#x2F;漫剧&#x2F;视频创作平台 - Java &amp; agentscope2.0 | Agent-based end-to-end AI creation pl... |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Azure/azure-sdk-for-java](../repos/Azure/azure-sdk-for-java.md) | ⭐ 2,563 | 2026-10-01 | This repository is for active development of the Azure SDK for Java. For consumers of the SDK we ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [aleixrodriala/newtube](../repos/aleixrodriala/newtube.md) | ⭐ 286 | 2026-10-03 | SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [bisq-network/bisq](../repos/bisq-network/bisq.md) | ⭐ 5,139 | 2026-10-03 | A decentralized bitcoin exchange network |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [besu-eth/besu](../repos/besu-eth/besu.md) | ⭐ 1,846 | 2026-10-03 | An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https:&#x2F;&#x2F;github.com&#x2F;besu-eth&#x2F;b... |
 
 
 ---
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 27 | ⭐ 90,182 | 2026-08-03 | 2026-10-17 |
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 26 | ⭐ 5,996 | 2026-08-05 | 2026-10-15 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 27 | ⭐ 6,073 | 2026-08-05 | 2026-10-21 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 23 | ⭐ 29,909 | 2026-08-04 | 2026-10-20 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 19 | ⭐ 27,448 | 2026-08-02 | 2026-10-18 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 19 | ⭐ 78,325 | 2026-08-02 | 2026-10-20 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 19 | ⭐ 81,773 | 2026-08-04 | 2026-10-20 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 19 | ⭐ 42,547 | 2026-08-05 | 2026-10-18 |
-| [apache/kafka](../repos/apache/kafka.md) | 16 | ⭐ 34,110 | 2026-08-12 | 2026-10-20 |
-| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 16 | ⭐ 7,149 | 2026-08-14 | 2026-10-20 |
-| [iflytek/skillhub](../repos/iflytek/skillhub.md) | 15 | ⭐ 5,234 | 2026-08-04 | 2026-10-16 |
+| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 17 | ⭐ 7,179 | 2026-08-14 | 2026-10-21 |
+| [iflytek/skillhub](../repos/iflytek/skillhub.md) | 16 | ⭐ 5,254 | 2026-08-04 | 2026-10-21 |
+| [microg/GmsCore](../repos/microg/GmsCore.md) | 16 | ⭐ 15,021 | 2026-08-06 | 2026-10-21 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.910Z*
+*Last updated: 2026-10-21T21:02:00.154Z*

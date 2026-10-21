@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 141
+- **Total Repositories**: 142
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,43 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,593 | 2026-08-01 | 39 |
+| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,182 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,282 | 2026-08-04 | 21 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,855 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) | ⭐ 4,956 | 2026-08-09 | 7 |
+| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,764 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [linux-surface/linux-surface](../repos/linux-surface/linux-surface.md) | ⭐ 7,820 | 2026-08-10 | 6 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,973 | 2026-08-07 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rawfilejson/awesome-osint-arsenal](../repos/rawfilejson/awesome-osint-arsenal.md) | ⭐ 3,468 | 2026-08-19 | 10 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,419 | 2026-08-29 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,735 | 2026-08-20 | 12 |
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,945 | 2026-09-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,324 | 2026-08-29 | 7 |
+| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,547 | 2026-10-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,461 | 2026-10-11 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [sorin-ionescu/prezto](../repos/sorin-ionescu/prezto.md) | ⭐ 14,576 | 2026-10-20 | 1 |
+| [auscaster/frantic-board](../repos/auscaster/frantic-board.md) | ⭐ 642 | 2026-10-21 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fscarmen/sing-box](../repos/fscarmen/sing-box.md) | ⭐ 5,788 | 2026-09-21 | Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vm... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [wlzh/dji-4g-vohive-mac](../repos/wlzh/dji-4g-vohive-mac.md) | ⭐ 1,062 | 2026-09-21 | 在 Mac（Apple Silicon &#x2F; Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Bash-it/bash-it](../repos/Bash-it/bash-it.md) | ⭐ 15,235 | 2026-09-22 | A community Bash framework. |
@@ -77,6 +68,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ONLYOFFICE/DocumentServer](../repos/ONLYOFFICE/DocumentServer.md) | ⭐ 7,030 | 2026-09-25 | ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for te... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [espressif/esp-csi](../repos/espressif/esp-csi.md) | ⭐ 1,627 | 2026-09-25 | Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human de... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BlackArch/blackarch](../repos/BlackArch/blackarch.md) | ⭐ 3,514 | 2026-09-27 | An ArchLinux based distribution for penetration testers and security researchers. |
 
 
 ---
@@ -90,8 +87,8 @@
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,666 | 2026-08-04 | 8 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,831 | 2026-08-04 | 12 |
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,324 | 2026-08-29 | 7 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,855 | 2026-08-04 | 13 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,419 | 2026-08-29 | 8 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,735 | 2026-08-20 | 12 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
@@ -113,14 +110,14 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 39 | ⭐ 95,593 | 2026-08-01 | 2026-10-20 |
-| [expo/skills](../repos/expo/skills.md) | 30 | ⭐ 2,850 | 2026-08-07 | 2026-10-14 |
+| [expo/skills](../repos/expo/skills.md) | 31 | ⭐ 2,973 | 2026-08-07 | 2026-10-21 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 21 | ⭐ 11,282 | 2026-08-04 | 2026-10-20 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 19 | ⭐ 8,002 | 2026-08-12 | 2026-10-16 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 14 | ⭐ 3,099 | 2026-08-05 | 2026-10-18 |
+| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 13 | ⭐ 47,855 | 2026-08-04 | 2026-10-21 |
 | [dockur/windows](../repos/dockur/windows.md) | 13 | ⭐ 53,550 | 2026-08-06 | 2026-10-07 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 12 | ⭐ 2,316 | 2026-08-02 | 2026-09-25 |
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 12 | ⭐ 47,831 | 2026-08-04 | 2026-10-17 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 12 | ⭐ 26,137 | 2026-08-04 | 2026-10-13 |
 
 ---
@@ -230,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.984Z*
+*Last updated: 2026-10-21T21:02:00.237Z*

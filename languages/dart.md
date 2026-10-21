@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 105
+- **Total Repositories**: 107
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-20
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/flutter](../repos/flutter/flutter.md) | ⭐ 180,310 | 2026-08-01 | 45 |
+| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,312 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,313 | 2026-08-01 | 21 |
+| [UnboundTechCo/defyxVPN](../repos/UnboundTechCo/defyxVPN.md) | ⭐ 870 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [flutter/packages](../repos/flutter/packages.md) | ⭐ 5,324 | 2026-08-01 | 21 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,349 | 2026-08-02 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [UnboundTechCo/defyxVPN](../repos/UnboundTechCo/defyxVPN.md) | ⭐ 866 | 2026-08-01 | 7 |
+| [Anxcye/anx-reader](../repos/Anxcye/anx-reader.md) | ⭐ 8,988 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 57,073 | 2026-08-02 | 37 |
+| [Spyou/Zangetsu](../repos/Spyou/Zangetsu.md) | ⭐ 434 | 2026-08-12 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [localsend/localsend](../repos/localsend/localsend.md) | ⭐ 95,048 | 2026-08-02 | 30 |
+| [InlitX/streak](../repos/InlitX/streak.md) | ⭐ 925 | 2026-08-23 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TNT-Likely/BeeCount](../repos/TNT-Likely/BeeCount.md) | ⭐ 2,597 | 2026-08-06 | 19 |
+| [CyrilPeng/Venera-Next](../repos/CyrilPeng/Venera-Next.md) | ⭐ 1,743 | 2026-09-25 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [InlitX/streak](../repos/InlitX/streak.md) | ⭐ 912 | 2026-08-23 | 11 |
+| [AneryCoft/course_helper](../repos/AneryCoft/course_helper.md) | ⭐ 308 | 2026-10-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CyrilPeng/Venera-Next](../repos/CyrilPeng/Venera-Next.md) | ⭐ 1,705 | 2026-09-25 | 8 |
+| [Aglglg/No-Reload-Mod-Manager](../repos/Aglglg/No-Reload-Mod-Manager.md) | ⭐ 115 | 2026-10-21 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [InlitX/GymMane](../repos/InlitX/GymMane.md) | ⭐ 997 | 2026-10-13 | 3 |
+| [GhostenEditor/Ghosten-Player](../repos/GhostenEditor/Ghosten-Player.md) | ⭐ 3,361 | 2026-10-21 | 1 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [CyrilPeng/Venera-Next](../repos/CyrilPeng/Venera-Next.md) | ⭐ 1,705 | 2026-09-25 | VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。 |
+| [CyrilPeng/Venera-Next](../repos/CyrilPeng/Venera-Next.md) | ⭐ 1,743 | 2026-09-25 | VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [RyanYuuki/AnymeX](../repos/RyanYuuki/AnymeX.md) | ⭐ 1,247 | 2026-09-28 | An Open Source app for Tracking Multi Service (AL, MAL, SIMKL) |
@@ -94,7 +94,7 @@
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | ⭐ 57,073 | 2026-08-02 | 37 |
 | [KRTirtho/spotube](../repos/KRTirtho/spotube.md) | ⭐ 49,303 | 2026-08-04 | 20 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | ⭐ 35,614 | 2026-08-01 | 38 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,308 | 2026-08-02 | 35 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | ⭐ 33,349 | 2026-08-02 | 36 |
 | [GopeedLab/gopeed](../repos/GopeedLab/gopeed.md) | ⭐ 26,912 | 2026-09-06 | 14 |
 | [mitesh77/Best-Flutter-UI-Templates](../repos/mitesh77/Best-Flutter-UI-Templates.md) | ⭐ 22,819 | 2026-08-01 | 2 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | ⭐ 19,601 | 2026-08-02 | 35 |
@@ -105,7 +105,7 @@
 | [guozhigq/pilipala](../repos/guozhigq/pilipala.md) | ⭐ 13,848 | 2026-08-20 | 2 |
 | [Notsfsssf/pixez-flutter](../repos/Notsfsssf/pixez-flutter.md) | ⭐ 13,138 | 2026-08-09 | 18 |
 | [cfug/dio](../repos/cfug/dio.md) | ⭐ 12,840 | 2026-09-05 | 1 |
-| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,313 | 2026-08-01 | 21 |
+| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,312 | 2026-08-01 | 22 |
 | [venera-app/venera](../repos/venera-app/venera.md) | ⭐ 11,226 | 2026-08-02 | 23 |
 | [flame-engine/flame](../repos/flame-engine/flame.md) | ⭐ 10,779 | 2026-08-02 | 4 |
 
@@ -118,8 +118,8 @@
 | [flutter/flutter](../repos/flutter/flutter.md) | 45 | ⭐ 180,310 | 2026-08-01 | 2026-10-20 |
 | [Predidit/Kazumi](../repos/Predidit/Kazumi.md) | 38 | ⭐ 35,614 | 2026-08-01 | 2026-10-12 |
 | [chen08209/FlClash](../repos/chen08209/FlClash.md) | 37 | ⭐ 57,073 | 2026-08-02 | 2026-10-20 |
+| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 36 | ⭐ 33,349 | 2026-08-02 | 2026-10-21 |
 | [bggRGjQaUbCoE/PiliPlus](../repos/bggRGjQaUbCoE/PiliPlus.md) | 35 | ⭐ 19,601 | 2026-08-02 | 2026-10-18 |
-| [hiddify/hiddify-app](../repos/hiddify/hiddify-app.md) | 35 | ⭐ 33,308 | 2026-08-02 | 2026-10-19 |
 | [KaringX/karing](../repos/KaringX/karing.md) | 33 | ⭐ 15,522 | 2026-08-02 | 2026-10-13 |
 | [localsend/localsend](../repos/localsend/localsend.md) | 30 | ⭐ 95,048 | 2026-08-02 | 2026-10-20 |
 | [AppFlowy-IO/AppFlowy](../repos/AppFlowy-IO/AppFlowy.md) | 24 | ⭐ 77,514 | 2026-08-01 | 2026-10-17 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.880Z*
+*Last updated: 2026-10-21T21:02:00.123Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | MIT |
-| **Stars** | ⭐ 99,592 |
-| **Forks** | 🍴 6,311 |
-| **Trending Days** | 20 |
+| **Stars** | ⭐ 101,082 |
+| **Forks** | 🍴 6,394 |
+| **Trending Days** | 21 |
 | **Peak Rank** | #3 |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Oct 20, 2026 |
+| **Last Seen** | Oct 21, 2026 |
 
 
 ---
@@ -48,12 +48,13 @@
 **Oct 18, 2026** — Rank #7 (+1146 ⭐)  
 **Oct 19, 2026** — Rank #6 (+1591 ⭐)  
 **Oct 20, 2026** — Rank #3 (+1559 ⭐)  
+**Oct 21, 2026** — Rank #3 (+1543 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #3
-- **Trending Days**: 20
-- **Longest Streak**: 7 days
+- **Trending Days**: 21
+- **Longest Streak**: 8 days
 
 ---
 
@@ -74,8 +75,8 @@
 | Aspect | Rating | Details |
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
-| **Documentation** | Good | Well-maintained documentation |
-| **Community** | Active | Regular contributions and discussions |
+| **Documentation** | Excellent | Comprehensive guides and examples |
+| **Community** | Very Active | 101,082+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
@@ -96,5 +97,5 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:15.440Z*  
-*Data from 20 trending reports*
+*Last updated: 2026-10-21T21:02:04.269Z*  
+*Data from 21 trending reports*

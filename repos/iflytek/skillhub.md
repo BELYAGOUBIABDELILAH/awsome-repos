@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Java |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 5,234 |
-| **Forks** | 🍴 848 |
-| **Trending Days** | 15 |
+| **Stars** | ⭐ 5,254 |
+| **Forks** | 🍴 802 |
+| **Trending Days** | 16 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Oct 16, 2026 |
+| **Last Seen** | Oct 21, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 15
+- **Trending Days**: 16
 - **Longest Streak**: 4 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`agent-framework`](../../topics/agent-framework.md) [`ai-agent`](../../topics/ai-agent.md) [`ai-governance`](../../topics/ai-governance.md) [`ai-infrastructure`](../../topics/ai-infrastructure.md) [`ai-orchestration`](../../topics/ai-orchestration.md) [`audit-log`](../../topics/audit-log.md) [`enterprise-ai`](../../topics/enterprise-ai.md) [`iflytek-astron`](../../topics/iflytek-astron.md) [`openclaw`](../../topics/openclaw.md) [`openclaw-skills`](../../topics/openclaw-skills.md) [`rbac`](../../topics/rbac.md) [`skill`](../../topics/skill.md) [`skill-hub`](../../topics/skill-hub.md) [`skill-management`](../../topics/skill-management.md) [`skill-manager`](../../topics/skill-manager.md) [`skill-registry`](../../topics/skill-registry.md) [`skills`](../../topics/skills.md) [`version-control`](../../topics/version-control.md) 
+[`agent-framework`](../../topics/agent-framework.md) [`ai-agent`](../../topics/ai-agent.md) [`ai-governance`](../../topics/ai-governance.md) [`ai-infrastructure`](../../topics/ai-infrastructure.md) [`ai-orchestration`](../../topics/ai-orchestration.md) [`audit-log`](../../topics/audit-log.md) [`dsh-plugin`](../../topics/dsh-plugin.md) [`enterprise-ai`](../../topics/enterprise-ai.md) [`iflytek-astron`](../../topics/iflytek-astron.md) [`openclaw`](../../topics/openclaw.md) [`openclaw-skills`](../../topics/openclaw-skills.md) [`rbac`](../../topics/rbac.md) [`skill`](../../topics/skill.md) [`skill-hub`](../../topics/skill-hub.md) [`skill-management`](../../topics/skill-management.md) [`skill-manager`](../../topics/skill-manager.md) [`skill-registry`](../../topics/skill-registry.md) [`skills`](../../topics/skills.md) [`version-control`](../../topics/version-control.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Cloud &amp; Infrastructure` `Containers &amp; Orchestration` `Systems Programming` 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:14.534Z*  
-*Data from 15 trending reports*
+*Last updated: 2026-10-21T21:02:03.425Z*  
+*Data from 16 trending reports*

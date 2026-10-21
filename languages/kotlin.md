@@ -16,43 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 8,340 | 2026-08-02 | 12 |
+| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 8,363 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | ⭐ 11,766 | 2026-08-02 | 14 |
+| [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) | ⭐ 3,810 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) | ⭐ 3,783 | 2026-08-02 | 9 |
+| [jqssun/android-airplay-server](../repos/jqssun/android-airplay-server.md) | ⭐ 735 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 6,579 | 2026-08-02 | 11 |
+| [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) | ⭐ 6,956 | 2026-08-16 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,495 | 2026-08-04 | 12 |
+| [streetcomplete/StreetComplete](../repos/streetcomplete/StreetComplete.md) | ⭐ 5,084 | 2026-09-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 55,659 | 2026-08-06 | 15 |
+| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 440 | 2026-09-29 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [android/skills](../repos/android/skills.md) | ⭐ 9,044 | 2026-08-07 | 7 |
+| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 4,009 | 2026-10-12 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqssun/android-airplay-server](../repos/jqssun/android-airplay-server.md) | ⭐ 704 | 2026-08-07 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) | ⭐ 6,925 | 2026-08-16 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [IacobIonut01/ReFra](../repos/IacobIonut01/ReFra.md) | ⭐ 2,928 | 2026-09-08 | 3 |
+| [MuwMx/YumaPlayer](../repos/MuwMx/YumaPlayer.md) | ⭐ 937 | 2026-10-13 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zacharee/InstallWithOptions](../repos/zacharee/InstallWithOptions.md) | ⭐ 3,266 | 2026-09-21 | Simple-ish app using Shizuku to install APKs on-device with advanced options |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [aquamarine5/ChaoxingSignFaker](../repos/aquamarine5/ChaoxingSignFaker.md) | ⭐ 761 | 2026-09-24 | 伪造学习通的签到活动🙋学习通签到神器。支持滑动验证码签到、签退、人脸识别功能，支持自定义位置签到、动态二维码签到、自选照片进行拍照签到等全部签到形式以及给其他用户无限代签的功能 Falsify... |
@@ -64,7 +55,7 @@
 | [Codename-11/hermes-relay](../repos/Codename-11/hermes-relay.md) | ⭐ 281 | 2026-09-28 | Hermes-Relay — Your Hermes AI agent, in your pocket — chat, voice, and control. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 258 | 2026-09-29 | Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE&#x2F;AmneziaWG, and the MLM... |
+| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 440 | 2026-09-29 | Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE&#x2F;AmneziaWG, and the MLM... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 1,825 | 2026-10-01 | GhostLock One-Tap Execution App (CVE-2026-43499) |
@@ -80,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [agupta07505/SmartIsland](../repos/agupta07505/SmartIsland.md) | ⭐ 253 | 2026-10-02 | Smart Island is a modern, open-source implementation of Android&#39;s Dynamic Island experience. It t... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 1,932 | 2026-10-06 | Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map d... |
 
 
 ---
@@ -123,8 +117,8 @@
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 14 | ⭐ 11,766 | 2026-08-02 | 2026-10-20 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 14 | ⭐ 63,310 | 2026-08-03 | 2026-10-16 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 14 | ⭐ 43,066 | 2026-08-03 | 2026-10-19 |
+| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 13 | ⭐ 8,363 | 2026-08-02 | 2026-10-21 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 13 | ⭐ 10,935 | 2026-08-03 | 2026-10-12 |
-| [thejaustin/ShizukuPlus](../repos/thejaustin/ShizukuPlus.md) | 12 | ⭐ 1,431 | 2026-08-02 | 2026-10-14 |
 
 ---
 
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.923Z*
+*Last updated: 2026-10-21T21:02:00.170Z*

@@ -16,13 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,085 | 2026-08-01 | 9 |
+| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,414 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 16,809 | 2026-09-14 | 6 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,249 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tegal1337/CiLocks](../repos/tegal1337/CiLocks.md) | ⭐ 3,216 | 2026-09-19 | 7 |
+| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 16,826 | 2026-09-14 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [rajhodedara/live-sport-plugin](../repos/rajhodedara/live-sport-plugin.md) | ⭐ 244 | 2026-09-25 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [alchaincyf/darwin-skill](../repos/alchaincyf/darwin-skill.md) | ⭐ 6,497 | 2026-10-08 | 2 |
 
 
 ---
@@ -31,13 +37,10 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [chiphuyen/machine-learning-systems-design](../repos/chiphuyen/machine-learning-systems-design.md) | ⭐ 10,658 | 2026-09-21 | A booklet on machine learning systems design with exercises. NOT the repo for the book &quot;Designing... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [zouzhekang/YJYpaper](../repos/zouzhekang/YJYpaper.md) | ⭐ 3,638 | 2026-09-22 | 一个用来记录武汉大学杨景媛论文问题的仓库 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [rajhodedara/live-sport-plugin](../repos/rajhodedara/live-sport-plugin.md) | ⭐ 190 | 2026-09-25 | A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-ti... |
+| [rajhodedara/live-sport-plugin](../repos/rajhodedara/live-sport-plugin.md) | ⭐ 244 | 2026-09-25 | A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-ti... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | A UI library by WeChat official design team, includes the most useful widgets&#x2F;modules in mobile w... |
@@ -59,6 +62,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [dequelabs/axe-core](../repos/dequelabs/axe-core.md) | ⭐ 7,640 | 2026-10-03 | Accessibility engine for automated Web UI testing |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [gn-math/html](../repos/gn-math/html.md) | ⭐ 25 | 2026-10-03 | used for statistics https:&#x2F;&#x2F;data.jsdelivr.com&#x2F;v1&#x2F;stats&#x2F;packages&#x2F;gh&#x2F;gn-math&#x2F;html@main&#x2F;files?period... |
 
 
 ---
@@ -103,7 +109,7 @@
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 14 | ⭐ 138,503 | 2026-08-08 | 2026-09-25 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 13 | ⭐ 16,604 | 2026-08-04 | 2026-10-16 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 13 | ⭐ 43,224 | 2026-08-12 | 2026-10-03 |
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 12 | ⭐ 5,350 | 2026-08-11 | 2026-10-15 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 12 | ⭐ 6,249 | 2026-08-05 | 2026-10-21 |
 
 ---
 
@@ -212,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.902Z*
+*Last updated: 2026-10-21T21:02:00.146Z*

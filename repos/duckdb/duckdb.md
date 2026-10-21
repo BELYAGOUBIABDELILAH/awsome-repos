@@ -1,6 +1,6 @@
 # duckdb&#x2F;duckdb
 
-> DuckDB is an analytical in-process SQL database management system
+> DuckDB is a high-performance analytical database system
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;duckdb&#x2F;duckdb) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | MIT |
-| **Stars** | ⭐ 42,205 |
-| **Forks** | 🍴 3,947 |
-| **Trending Days** | 11 |
+| **Stars** | ⭐ 42,356 |
+| **Forks** | 🍴 4,008 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 19, 2026 |
-| **Last Seen** | Oct 16, 2026 |
+| **Last Seen** | Oct 21, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 11
+- **Trending Days**: 12
 - **Longest Streak**: 3 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:15.976Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-10-21T21:02:04.776Z*  
+*Data from 12 trending reports*

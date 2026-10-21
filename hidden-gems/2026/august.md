@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 298
+**Gems Found**: 293
 
 ---
 
@@ -39,7 +39,7 @@
 |---|---|
 | ⭐ **Stars** | 1,427 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 89/100 |
+| 🏆 **Gem Score** | 88/100 |
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 4, 2026 |
 
@@ -59,7 +59,7 @@
 |---|---|
 | ⭐ **Stars** | 3,374 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 83/100 |
+| 🏆 **Gem Score** | 82/100 |
 | 📈 **Trending Days** | 4 |
 | 📅 **First Seen** | Aug 16, 2026 |
 
@@ -199,7 +199,7 @@
 |---|---|
 | ⭐ **Stars** | 477 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 79/100 |
+| 🏆 **Gem Score** | 78/100 |
 | 📈 **Trending Days** | 2 |
 | 📅 **First Seen** | Aug 26, 2026 |
 
@@ -211,27 +211,7 @@
 
 ---
 
-### 11. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
-
-**BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 971 |
-| 💻 **Language** | Java |
-| 🏆 **Gem Score** | 78/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 8, 2026 |
-
-**Why it's a gem**: Trending 4 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/booklore-app/booklore.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;booklore-app&#x2F;booklore)
-
----
-
-### 12. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
+### 11. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
 
 **BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
 
@@ -248,6 +228,26 @@
 **Best for**: 
 
 [View Passport](../../repos/GCWing/BitFun.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;GCWing&#x2F;BitFun)
+
+---
+
+### 12. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
+
+**BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 971 |
+| 💻 **Language** | Java |
+| 🏆 **Gem Score** | 77/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 8, 2026 |
+
+**Why it's a gem**: Trending 4 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/booklore-app/booklore.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;booklore-app&#x2F;booklore)
 
 ---
 
@@ -271,27 +271,7 @@
 
 ---
 
-### 14. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
-
-**Visualize your year in travel using your Google Location History (Timeline) data**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,684 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 77/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+1084 stars&#x2F;day) • Trending 4 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/mahlernim/google-timeline-visualizer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mahlernim&#x2F;google-timeline-visualizer)
-
----
-
-### 15. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+### 14. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
 
 **Portable Tool for an Ideal Windows Setup**
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [workweave&#x2F;router](../../repos/workweave/router.md)
+### 15. [workweave&#x2F;router](../../repos/workweave/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -331,7 +311,7 @@
 
 ---
 
-### 17. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
+### 16. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
 
 **Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
 
@@ -351,7 +331,7 @@
 
 ---
 
-### 18. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
+### 17. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
 
 **The coding agent that answers to you, your model, your machine, your rules.**
 
@@ -368,6 +348,26 @@
 **Best for**: 
 
 [View Passport](../../repos/Gitlawb/zero.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Gitlawb&#x2F;zero)
+
+---
+
+### 18. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+
+**Visualize your year in travel using your Google Location History (Timeline) data**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,684 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 76/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+1084 stars&#x2F;day) • Trending 4 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/mahlernim/google-timeline-visualizer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mahlernim&#x2F;google-timeline-visualizer)
 
 ---
 
@@ -391,23 +391,23 @@
 
 ---
 
-### 20. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
+### 20. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
 
-**Where people and agents build in tune.**
+**Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,575 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 76/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 27, 2026 |
+| ⭐ **Stars** | 13,249 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 75/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 1, 2026 |
 
-**Why it's a gem**: High growth velocity (+62 stars&#x2F;day) • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 6 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/tutti-os/tutti.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tutti-os&#x2F;tutti)
+[View Passport](../../repos/longbridge/gpui-component.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;longbridge&#x2F;gpui-component)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-20T21:02:18.098Z*  
+*Generated: 2026-10-21T21:02:06.772Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

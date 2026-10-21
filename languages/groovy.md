@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 13
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-19
+- **Last Updated**: 2026-10-21
 
 ---
 
@@ -16,10 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,344 | 2026-08-02 | 42 |
+| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 70 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/bigtop](../repos/apache/bigtop.md) | ⭐ 682 | 2026-10-03 | 7 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,886 | 2026-08-01 | 60 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,514 | 2026-08-02 | 34 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,938 | 2026-08-03 | 33 |
 
 
 ---
@@ -43,17 +49,17 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,898 | 2026-08-01 | 59 |
+| [gradle/gradle](../repos/gradle/gradle.md) | ⭐ 18,886 | 2026-08-01 | 60 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | ⭐ 6,344 | 2026-08-02 | 42 |
 | [apache/groovy](../repos/apache/groovy.md) | ⭐ 5,474 | 2026-09-13 | 10 |
 | [ben-manes/gradle-versions-plugin](../repos/ben-manes/gradle-versions-plugin.md) | ⭐ 4,078 | 2026-08-10 | 1 |
-| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,513 | 2026-08-02 | 33 |
-| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,937 | 2026-08-03 | 32 |
+| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | ⭐ 3,514 | 2026-08-02 | 34 |
+| [apache/grails-core](../repos/apache/grails-core.md) | ⭐ 2,938 | 2026-08-03 | 33 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | ⭐ 913 | 2026-08-01 | 9 |
 | [NationalSecurityAgency/skills-service](../repos/NationalSecurityAgency/skills-service.md) | ⭐ 682 | 2026-08-27 | 2 |
 | [apache/bigtop](../repos/apache/bigtop.md) | ⭐ 682 | 2026-10-03 | 7 |
 | [okta/okta-jwt-verifier-java](../repos/okta/okta-jwt-verifier-java.md) | ⭐ 96 | 2026-08-06 | 1 |
-| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 70 | 2026-08-01 | 13 |
+| [gravitee-io/issues](../repos/gravitee-io/issues.md) | ⭐ 70 | 2026-08-01 | 14 |
 | [openshift-eng/aos-cd-jobs](../repos/openshift-eng/aos-cd-jobs.md) | ⭐ 50 | 2026-10-11 | 3 |
 | [Percona-Lab/jenkins-pipelines](../repos/Percona-Lab/jenkins-pipelines.md) | ⭐ 27 | 2026-09-25 | 2 |
 
@@ -63,11 +69,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [gradle/gradle](../repos/gradle/gradle.md) | 59 | ⭐ 18,898 | 2026-08-01 | 2026-10-19 |
+| [gradle/gradle](../repos/gradle/gradle.md) | 60 | ⭐ 18,886 | 2026-08-01 | 2026-10-21 |
 | [rundeck/rundeck](../repos/rundeck/rundeck.md) | 42 | ⭐ 6,344 | 2026-08-02 | 2026-10-20 |
-| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 33 | ⭐ 3,513 | 2026-08-02 | 2026-10-19 |
-| [apache/grails-core](../repos/apache/grails-core.md) | 32 | ⭐ 2,937 | 2026-08-03 | 2026-10-15 |
-| [gravitee-io/issues](../repos/gravitee-io/issues.md) | 13 | ⭐ 70 | 2026-08-01 | 2026-10-08 |
+| [nextflow-io/nextflow](../repos/nextflow-io/nextflow.md) | 34 | ⭐ 3,514 | 2026-08-02 | 2026-10-21 |
+| [apache/grails-core](../repos/apache/grails-core.md) | 33 | ⭐ 2,938 | 2026-08-03 | 2026-10-21 |
+| [gravitee-io/issues](../repos/gravitee-io/issues.md) | 14 | ⭐ 70 | 2026-08-01 | 2026-10-21 |
 | [apache/groovy](../repos/apache/groovy.md) | 10 | ⭐ 5,474 | 2026-09-13 | 2026-10-18 |
 | [openboxes/openboxes](../repos/openboxes/openboxes.md) | 9 | ⭐ 913 | 2026-08-01 | 2026-10-09 |
 | [apache/bigtop](../repos/apache/bigtop.md) | 7 | ⭐ 682 | 2026-10-03 | 2026-10-20 |
@@ -94,4 +100,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.896Z*
+*Last updated: 2026-10-21T21:02:00.141Z*

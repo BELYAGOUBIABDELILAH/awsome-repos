@@ -16,43 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,126 | 2026-08-01 | 17 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,939 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,506 | 2026-08-03 | 11 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 539 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [catchorg/Catch2](../repos/catchorg/Catch2.md) | ⭐ 21,529 | 2026-08-04 | 5 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,123 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [geode-sdk/geode](../repos/geode-sdk/geode.md) | ⭐ 3,023 | 2026-09-28 | 6 |
+| [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | ⭐ 16,156 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [0x23/MicroManipulatorStepper](../repos/0x23/MicroManipulatorStepper.md) | ⭐ 2,183 | 2026-10-20 | 1 |
+| [deepseek-ai/FlashMLA](../repos/deepseek-ai/FlashMLA.md) | ⭐ 13,148 | 2026-08-04 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iliasHDZ/Bismuth](../repos/iliasHDZ/Bismuth.md) | ⭐ 87 | 2026-10-20 | 1 |
+| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,211 | 2026-08-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zufuliu/notepad4](../repos/zufuliu/notepad4.md) | ⭐ 5,054 | 2026-10-20 | 1 |
+| [kvcache-ai/Mooncake](../repos/kvcache-ai/Mooncake.md) | ⭐ 6,856 | 2026-08-15 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,356 | 2026-08-19 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [iliasHDZ/Bismuth](../repos/iliasHDZ/Bismuth.md) | ⭐ 94 | 2026-10-20 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [f4exb/sdrangel](../repos/f4exb/sdrangel.md) | ⭐ 4,057 | 2026-09-21 | SDR Rx&#x2F;Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay a... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [TranslucentTB/TranslucentTB](../repos/TranslucentTB/TranslucentTB.md) | ⭐ 20,394 | 2026-09-21 | A lightweight utility that makes the Windows taskbar translucent&#x2F;transparent. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mg-chao/snow-apps](../repos/mg-chao/snow-apps.md) | ⭐ 5,767 | 2026-09-21 | Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Codensity30/Strivers-A2Z-DSA-Sheet](../repos/Codensity30/Strivers-A2Z-DSA-Sheet.md) | ⭐ 898 | 2026-09-21 | Contains everything related to Stiver&#39;s A2Z sheet along with question, approach and code. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [falcosecurity/falco](../repos/falcosecurity/falco.md) | ⭐ 9,454 | 2026-09-22 | Cloud Native Runtime Security |
@@ -71,6 +65,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lammps/lammps](../repos/lammps/lammps.md) | ⭐ 3,070 | 2026-09-25 | Public development project of the LAMMPS MD software package   |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [The412Banner/winlator-contents](../repos/The412Banner/winlator-contents.md) | ⭐ 112 | 2026-09-27 | Component catalog index for BannerHub &#x2F; Winlator clients. Hosts contents.json (mirror of nightlie... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cataclysmbn/Cataclysm-BN](../repos/cataclysmbn/Cataclysm-BN.md) | ⭐ 1,245 | 2026-09-27 | Cataclysm: Bright Nights: A fork&#x2F;variant of Cataclysm:DDA by CleverRaven with a mod registry at h... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [gta-reversed/gta-reversed](../repos/gta-reversed/gta-reversed.md) | ⭐ 1,036 | 2026-09-27 | Reimplementation of GTA:SA 1.0 US |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ammaarreshi/Generals-Mac-iOS-iPad](../repos/ammaarreshi/Generals-Mac-iOS-iPad.md) | ⭐ 1,640 | 2026-09-28 | Command &amp; Conquer Generals: Zero Hour running natively on macOS, iPhone &amp; iPad — real engine (EA ... |
 
 
 ---
@@ -80,22 +86,22 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,084 | 2026-07-30 | 26 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,620 | 2026-08-01 | 31 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,939 | 2026-08-01 | 32 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,659 | 2026-08-04 | 5 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 118,702 | 2026-08-01 | 10 |
-| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,066 | 2026-08-06 | 7 |
+| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,211 | 2026-08-06 | 8 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,441 | 2026-08-02 | 10 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,737 | 2026-08-08 | 17 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,568 | 2026-08-12 | 6 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,126 | 2026-08-01 | 17 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,123 | 2026-08-01 | 18 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,506 | 2026-08-03 | 11 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,360 | 2026-08-02 | 8 |
+| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,356 | 2026-08-19 | 12 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
-| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,205 | 2026-08-19 | 11 |
 | [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,156 | 2026-08-09 | 12 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 40,494 | 2026-08-02 | 7 |
@@ -107,11 +113,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 31 | ⭐ 131,620 | 2026-08-01 | 2026-10-18 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 32 | ⭐ 131,939 | 2026-08-01 | 2026-10-21 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 26 | ⭐ 201,084 | 2026-07-30 | 2026-10-17 |
 | [google/googletest](../repos/google/googletest.md) | 21 | ⭐ 39,653 | 2026-08-04 | 2026-10-17 |
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 17 | ⭐ 535 | 2026-08-01 | 2026-10-15 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 17 | ⭐ 72,126 | 2026-08-01 | 2026-10-20 |
+| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 18 | ⭐ 539 | 2026-08-01 | 2026-10-21 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 18 | ⭐ 72,123 | 2026-08-01 | 2026-10-21 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 17 | ⭐ 76,737 | 2026-08-08 | 2026-10-19 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 16 | ⭐ 31,282 | 2026-08-03 | 2026-10-16 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
@@ -224,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.865Z*
+*Last updated: 2026-10-21T21:02:00.103Z*

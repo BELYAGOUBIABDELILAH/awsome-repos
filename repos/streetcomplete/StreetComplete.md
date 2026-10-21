@@ -1,6 +1,6 @@
 # streetcomplete&#x2F;StreetComplete
 
-> Easy to use OpenStreetMap editor for Android
+> Easy to use OpenStreetMap editor for Android and iOS
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;streetcomplete&#x2F;StreetComplete) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 5,014 |
-| **Forks** | 🍴 460 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 5,084 |
+| **Forks** | 🍴 472 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 2, 2026 |
-| **Last Seen** | Oct 3, 2026 |
+| **Last Seen** | Oct 21, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Kotlin or android*
+*Similar: Check repositories in Kotlin or android-app*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`android`](../../topics/android.md) [`editor`](../../topics/editor.md) [`mapping`](../../topics/mapping.md) [`openstreetmap`](../../topics/openstreetmap.md) [`osm`](../../topics/osm.md) [`survey`](../../topics/survey.md) 
+[`android-app`](../../topics/android-app.md) [`editor`](../../topics/editor.md) [`ios-app`](../../topics/ios-app.md) [`kmp-app`](../../topics/kmp-app.md) [`mapping`](../../topics/mapping.md) [`openstreetmap`](../../topics/openstreetmap.md) [`osm`](../../topics/osm.md) [`survey`](../../topics/survey.md) 
 
 ### Curated Categories
 `Mobile Development` `Systems Programming` `Developer Tools` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-20T21:02:16.547Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-10-21T21:02:05.318Z*  
+*Data from 3 trending reports*

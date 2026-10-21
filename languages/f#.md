@@ -14,13 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,088 | 2026-08-09 | 12 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | ⭐ 3,152 | 2026-10-07 | 7 |
 
+*No F# repositories trending today*
 
 ---
 
@@ -64,4 +59,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.887Z*
+*Last updated: 2026-10-21T21:02:00.129Z*

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-20T21:02:18.286Z",
-  "total_repositories": 4130,
-  "trending_today": 347,
-  "new_this_month": 658,
+  "generated_at": "2026-10-21T21:02:06.978Z",
+  "total_repositories": 4142,
+  "trending_today": 310,
+  "new_this_month": 638,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-10-20",
+  "last_collection": "2026-10-21",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 65,
+    "trending_days": 66,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "emdash-cms/emdash",
-    "stars": 13825,
-    "first_seen": "2026-10-20"
+    "full_name": "NomaDamas/CozyClay",
+    "stars": 886,
+    "first_seen": "2026-10-21"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 55795123,
-  "avg_stars": 13510,
+  "total_stars": 55861618,
+  "avg_stars": 13487,
   "avg_trending_days": 6.2,
   "language_count": 60,
-  "topic_count": 10435,
+  "topic_count": 10458,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

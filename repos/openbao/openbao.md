@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | MPL-2.0 |
-| **Stars** | ⭐ 8,175 |
-| **Forks** | 🍴 597 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 8,629 |
+| **Forks** | 🍴 639 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #16 |
 
 | **First Seen** | Aug 7, 2026 |
-| **Last Seen** | Sep 28, 2026 |
+| **Last Seen** | Oct 21, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #16
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 2 days
 
 ---
@@ -73,7 +73,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -86,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 70&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: Peak: #16
 
 
 ---
 
-*Last updated: 2026-10-20T21:02:15.035Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-10-21T21:02:03.900Z*  
+*Data from 5 trending reports*

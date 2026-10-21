@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [abus-aikorea/voice-pro](../repos/abus-aikorea/voice-pro.md) | ⭐ 13,279 | 2026-08-02 | 3 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 100,611 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 42,286 | 2026-08-03 | 6 |
+| [Emily2040/seedance-2.0](../repos/Emily2040/seedance-2.0.md) | ⭐ 7,881 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 130,070 | 2026-08-03 | 8 |
+| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 42,763 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 140,671 | 2026-08-05 | 11 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 131,472 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AgriciDaniel/claude-seo](../repos/AgriciDaniel/claude-seo.md) | ⭐ 19,465 | 2026-08-08 | 3 |
+| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 70,781 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | ⭐ 55,640 | 2026-08-15 | 13 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,430 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shy3130/tick-stock-panel](../repos/shy3130/tick-stock-panel.md) | ⭐ 6,188 | 2026-08-23 | 4 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 142,295 | 2026-08-14 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 30,751 | 2026-09-19 | 8 |
+| [k2-fsa/OmniVoice](../repos/k2-fsa/OmniVoice.md) | ⭐ 15,431 | 2026-09-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 76,686 | 2026-10-09 | 3 |
+| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 31,153 | 2026-09-19 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/artemis](../repos/google/artemis.md) | ⭐ 13,244 | 2026-10-16 | 4 |
+| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 77,188 | 2026-10-09 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mvt-project/mvt](../repos/mvt-project/mvt.md) | ⭐ 15,183 | 2026-09-21 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to f... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cv-cat/DouYin_Spider](../repos/cv-cat/DouYin_Spider.md) | ⭐ 3,111 | 2026-09-21 | 抖音逆向，抖音爬虫，抖音全部api、私信、直播间监听 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [TNT-Likely/PanWatch](../repos/TNT-Likely/PanWatch.md) | ⭐ 1,761 | 2026-09-21 | 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股&#x2F;港股&#x2F;美股实时监控、持仓管理、智能分析、全渠道推送 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [owainlewis/awesome-artificial-intelligence](../repos/owainlewis/awesome-artificial-intelligence.md) | ⭐ 16,531 | 2026-09-21 | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 5,749 | 2026-09-22 | OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [derv82/wifit3](../repos/derv82/wifit3.md) | ⭐ 1,401 | 2026-09-25 | Wifite but USB-only &amp; cross-platform. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google/langextract](../repos/google/langextract.md) | ⭐ 38,864 | 2026-09-25 | A Python library for extracting structured information from unstructured text using LLMs with pre... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Alban1911/Rose](../repos/Alban1911/Rose.md) | ⭐ 583 | 2026-09-25 | League, unlocked. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/data-formulator](../repos/microsoft/data-formulator.md) | ⭐ 17,425 | 2026-09-27 | 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, ex... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [microsoft/SkillOpt](../repos/microsoft/SkillOpt.md) | ⭐ 17,869 | 2026-09-28 | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM ag... |
 
 
 ---
@@ -98,11 +98,11 @@
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,465 | 2026-08-06 | 8 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 142,295 | 2026-08-14 | 8 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,430 | 2026-08-05 | 12 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 141,347 | 2026-08-04 | 7 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 140,671 | 2026-08-05 | 11 |
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 136,025 | 2026-08-14 | 7 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 132,098 | 2026-08-01 | 17 |
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 130,070 | 2026-08-03 | 8 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 131,472 | 2026-08-03 | 9 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 111,892 | 2026-08-08 | 11 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
@@ -123,8 +123,8 @@
 | [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 14 | ⭐ 43,153 | 2026-08-07 | 2026-10-19 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 13 | ⭐ 60,537 | 2026-08-03 | 2026-10-14 |
 | [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 13 | ⭐ 55,640 | 2026-08-15 | 2026-10-20 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 11 | ⭐ 92,571 | 2026-08-01 | 2026-10-06 |
-| [PostHog/posthog](../repos/PostHog/posthog.md) | 11 | ⭐ 40,107 | 2026-08-03 | 2026-10-02 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 12 | ⭐ 100,611 | 2026-08-01 | 2026-10-21 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 12 | ⭐ 141,430 | 2026-08-05 | 2026-10-21 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.961Z*
+*Last updated: 2026-10-21T21:02:00.210Z*

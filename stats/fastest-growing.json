@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:02:18.321Z",
+  "generated_at": "2026-10-21T21:02:07.014Z",
   "total_count": 100,
   "repositories": [
     {
@@ -1200,19 +1200,6 @@
     },
     {
       "rank": 93,
-      "full_name": "MewX/light-novel-library_Wenku8_Android",
-      "owner": "MewX",
-      "name": "light-novel-library_Wenku8_Android",
-      "stars": 3176,
-      "estimated_initial_stars": 3076,
-      "growth": 100,
-      "growth_rate": 100,
-      "language": "Java",
-      "first_seen": "2026-10-19",
-      "trending_days": 2
-    },
-    {
-      "rank": 94,
       "full_name": "Jakubantalik/thinking-orbs",
       "owner": "Jakubantalik",
       "name": "thinking-orbs",
@@ -1225,7 +1212,7 @@
       "trending_days": 2
     },
     {
-      "rank": 95,
+      "rank": 94,
       "full_name": "SegFault42/HeliosGen",
       "owner": "SegFault42",
       "name": "HeliosGen",
@@ -1238,7 +1225,7 @@
       "trending_days": 2
     },
     {
-      "rank": 96,
+      "rank": 95,
       "full_name": "cs341-illinois/coursebook",
       "owner": "cs341-illinois",
       "name": "coursebook",
@@ -1251,7 +1238,7 @@
       "trending_days": 2
     },
     {
-      "rank": 97,
+      "rank": 96,
       "full_name": "WecomTeam/wecom-cli",
       "owner": "WecomTeam",
       "name": "wecom-cli",
@@ -1264,7 +1251,7 @@
       "trending_days": 2
     },
     {
-      "rank": 98,
+      "rank": 97,
       "full_name": "GCWing/OpenBitFun",
       "owner": "GCWing",
       "name": "OpenBitFun",
@@ -1277,7 +1264,7 @@
       "trending_days": 2
     },
     {
-      "rank": 99,
+      "rank": 98,
       "full_name": "rafamadriz/friendly-snippets",
       "owner": "rafamadriz",
       "name": "friendly-snippets",
@@ -1290,7 +1277,7 @@
       "trending_days": 2
     },
     {
-      "rank": 100,
+      "rank": 99,
       "full_name": "authpass/authpass",
       "owner": "authpass",
       "name": "authpass",
@@ -1300,6 +1287,19 @@
       "growth_rate": 100,
       "language": "Dart",
       "first_seen": "2026-08-03",
+      "trending_days": 2
+    },
+    {
+      "rank": 100,
+      "full_name": "workweave/router",
+      "owner": "workweave",
+      "name": "router",
+      "stars": 2635,
+      "estimated_initial_stars": 2535,
+      "growth": 100,
+      "growth_rate": 100,
+      "language": "Go",
+      "first_seen": "2026-08-28",
       "trending_days": 2
     }
   ]

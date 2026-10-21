@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 168
+- **Total Repositories**: 171
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-15
 
@@ -16,19 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | ⭐ 5,119 | 2026-08-07 | 14 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 87,022 | 2026-08-04 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 26,494 | 2026-08-16 | 10 |
+| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 18,506 | 2026-08-14 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 33,893 | 2026-08-28 | 10 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 35,912 | 2026-08-28 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 6,603 | 2026-09-12 | 5 |
+| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 7,017 | 2026-09-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [datawhalechina/easy-vibe](../repos/datawhalechina/easy-vibe.md) | ⭐ 20,059 | 2026-10-19 | 2 |
+| [NomaDamas/CozyClay](../repos/NomaDamas/CozyClay.md) | ⭐ 886 | 2026-10-21 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [xmanrui/dsh-im](../repos/xmanrui/dsh-im.md) | ⭐ 2,272 | 2026-10-21 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [shaobeichen/dsh-pocket](../repos/shaobeichen/dsh-pocket.md) | ⭐ 2,180 | 2026-10-21 | 1 |
 
 
 ---
@@ -82,7 +88,7 @@
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 85,816 | 2026-08-04 | 20 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 87,022 | 2026-08-04 | 21 |
 | [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,592 | 2026-08-04 | 3 |
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 66,612 | 2026-08-01 | 18 |
@@ -101,7 +107,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 29 | ⭐ 108,158 | 2026-08-05 | 2026-10-18 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 20 | ⭐ 85,816 | 2026-08-04 | 2026-10-19 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 21 | ⭐ 87,022 | 2026-08-04 | 2026-10-21 |
 | [byoungd/up](../repos/byoungd/up.md) | 18 | ⭐ 66,612 | 2026-08-01 | 2026-10-01 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 14 | ⭐ 5,119 | 2026-08-07 | 2026-10-20 |
@@ -218,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.914Z*
+*Last updated: 2026-10-21T21:02:00.158Z*

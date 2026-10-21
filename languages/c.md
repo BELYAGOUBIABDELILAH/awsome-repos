@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 225
+- **Total Repositories**: 226
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
 
@@ -16,46 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [php/php-src](../repos/php/php-src.md) | ⭐ 40,446 | 2026-08-01 | 9 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,593 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,916 | 2026-08-02 | 7 |
+| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,882 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [redis/redis](../repos/redis/redis.md) | ⭐ 77,042 | 2026-08-04 | 7 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,857 | 2026-08-06 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,843 | 2026-08-06 | 25 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,111 | 2026-08-07 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,158 | 2026-08-07 | 11 |
+| [opa334/Dopamine](../repos/opa334/Dopamine.md) | ⭐ 7,011 | 2026-08-08 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,021 | 2026-08-07 | 24 |
+| [reactos/reactos](../repos/reactos/reactos.md) | ⭐ 18,313 | 2026-08-16 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,839 | 2026-08-09 | 13 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [eclipse-mosquitto/mosquitto](../repos/eclipse-mosquitto/mosquitto.md) | ⭐ 11,286 | 2026-08-14 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tarwin/tinyjsapp](../repos/tarwin/tinyjsapp.md) | ⭐ 1,278 | 2026-10-11 | 4 |
+| [c-ares/c-ares](../repos/c-ares/c-ares.md) | ⭐ 2,196 | 2026-10-21 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vladelaina/Catime](../repos/vladelaina/Catime.md) | ⭐ 4,837 | 2026-09-21 | 💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [oerg866/win98-quickinstall](../repos/oerg866/win98-quickinstall.md) | ⭐ 1,730 | 2026-09-21 | A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a moder... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [TheAlgorithms/C](../repos/TheAlgorithms/C.md) | ⭐ 22,460 | 2026-09-21 | Collection of various algorithms in mathematics, machine learning, computer science, physics, etc... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [snesrev/zelda3](../repos/snesrev/zelda3.md) | ⭐ 4,800 | 2026-09-22 |  |
@@ -77,6 +62,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google/security-research](../repos/google/security-research.md) | ⭐ 4,653 | 2026-09-24 | This project hosts security advisories and their accompanying proof-of-concepts related to resear... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [joncampbell123/dosbox-x](../repos/joncampbell123/dosbox-x.md) | ⭐ 3,742 | 2026-09-27 | DOSBox-X fork of the DOSBox project |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rusefi/rusefi](../repos/rusefi/rusefi.md) | ⭐ 1,174 | 2026-09-27 | rusefi - GPL internal combustion engine control unit |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [arkime/arkime](../repos/arkime/arkime.md) | ⭐ 7,509 | 2026-09-27 | Arkime is an open source, large scale, full packet capturing, indexing, and database system. |
 
 
 ---
@@ -92,9 +86,9 @@
 | [redis/redis](../repos/redis/redis.md) | ⭐ 77,042 | 2026-08-04 | 7 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 74,191 | 2026-08-01 | 23 |
 | [git/git](../repos/git/git.md) | ⭐ 63,813 | 2026-08-05 | 8 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,021 | 2026-08-07 | 24 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,111 | 2026-08-07 | 25 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 42,587 | 2026-09-01 | 16 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 40,446 | 2026-08-01 | 9 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 40,593 | 2026-08-01 | 10 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
@@ -113,8 +107,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 | ⭐ 16,829 | 2026-08-01 | 2026-10-01 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 25 | ⭐ 16,843 | 2026-08-06 | 2026-10-20 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 24 | ⭐ 47,021 | 2026-08-07 | 2026-10-20 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 26 | ⭐ 16,857 | 2026-08-06 | 2026-10-21 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 25 | ⭐ 47,111 | 2026-08-07 | 2026-10-21 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 23 | ⭐ 74,191 | 2026-08-01 | 2026-10-15 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 21 | ⭐ 139,429 | 2026-08-01 | 2026-10-17 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 20 | ⭐ 28,021 | 2026-08-07 | 2026-10-14 |
@@ -230,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.856Z*
+*Last updated: 2026-10-21T21:02:00.091Z*

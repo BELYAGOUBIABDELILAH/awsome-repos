@@ -1,6 +1,6 @@
 # github&#x2F;spec-kit
 
-> 💫 Toolkit to help you get started with Spec-Driven Development
+> 💫 Toolkit to help you get started with SDD or any other process!
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;github&#x2F;spec-kit) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 136,025 |
-| **Forks** | 🍴 12,220 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 142,295 |
+| **Forks** | 🍴 12,743 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #8 |
 
 | **First Seen** | Aug 14, 2026 |
-| **Last Seen** | Sep 12, 2026 |
+| **Last Seen** | Oct 21, 2026 |
 
 
 ---
@@ -48,7 +48,7 @@
 ### Highlights
 
 - **Peak Rank**: #8
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 2 days
 
 ---
@@ -71,9 +71,9 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 136,025+ stars, strong contributor base |
+| **Community** | Very Active | 142,295+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:15.625Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-10-21T21:02:04.442Z*  
+*Data from 8 trending reports*

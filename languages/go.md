@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 312
+- **Total Repositories**: 314
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-10-19
+- **Last Updated**: 2026-10-21
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,383 | 2026-07-31 | 15 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 53,442 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 50,334 | 2026-08-01 | 20 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 184,188 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,460 | 2026-08-04 | 10 |
+| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | ⭐ 880 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,432 | 2026-08-04 | 8 |
+| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,443 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,394 | 2026-08-05 | 3 |
+| [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,404 | 2026-08-05 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DataDog/datadog-agent](../repos/DataDog/datadog-agent.md) | ⭐ 3,769 | 2026-08-06 | 5 |
+| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 17,763 | 2026-08-06 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 17,747 | 2026-08-06 | 9 |
+| [harness/harness](../repos/harness/harness.md) | ⭐ 38,649 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 81,063 | 2026-08-12 | 8 |
+| [openbao/openbao](../repos/openbao/openbao.md) | ⭐ 8,629 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [knadh/listmonk](../repos/knadh/listmonk.md) | ⭐ 23,882 | 2026-08-14 | 4 |
+| [hashicorp/vault](../repos/hashicorp/vault.md) | ⭐ 36,415 | 2026-08-26 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kenn-io/agentsview](../repos/kenn-io/agentsview.md) | ⭐ 6,213 | 2026-08-15 | 3 |
+| [cloudwego/eino](../repos/cloudwego/eino.md) | ⭐ 13,381 | 2026-08-27 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AminMGMT/BackPack](../repos/AminMGMT/BackPack.md) | ⭐ 407 | 2026-09-21 | High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zhoushoujianwork/easyeda-agent](../repos/zhoushoujianwork/easyeda-agent.md) | ⭐ 515 | 2026-09-21 | 嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图&#x2F;PCB 动作，CLI &#x2F; Agent Skill &#x2F; stdio M... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [google/ax](../repos/google/ax.md) | ⭐ 13,932 | 2026-09-22 | Agent Executor (AX) is Google&#39;s open agentic orchestration runtime |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [autobrr/autobrr](../repos/autobrr/autobrr.md) | ⭐ 3,085 | 2026-09-24 | Modern, easy to use download automation for torrents and usenet. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [getprobo/probo](../repos/getprobo/probo.md) | ⭐ 1,436 | 2026-09-24 | Open source solutions for SOC2, GDPR, and ISO27001 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [go-vikunja/vikunja](../repos/go-vikunja/vikunja.md) | ⭐ 5,500 | 2026-09-24 | The task manager you actually own. |
 
 
 ---
@@ -88,13 +88,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 183,858 | 2026-08-01 | 23 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 184,188 | 2026-08-01 | 24 |
 | [golang/go](../repos/golang/go.md) | ⭐ 139,383 | 2026-07-31 | 15 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,460 | 2026-08-04 | 10 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,512 | 2026-08-15 | 11 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,914 | 2026-08-06 | 12 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
-| [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,394 | 2026-08-05 | 3 |
+| [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,404 | 2026-08-05 | 4 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 81,063 | 2026-08-12 | 8 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 77,476 | 2026-08-03 | 8 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 72,207 | 2026-08-04 | 5 |
@@ -102,7 +102,7 @@
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,012 | 2026-08-11 | 5 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 52,913 | 2026-08-01 | 18 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 53,442 | 2026-08-01 | 19 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,401 | 2026-08-22 | 5 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 50,334 | 2026-08-01 | 20 |
@@ -116,13 +116,13 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 24 | ⭐ 34,389 | 2026-08-01 | 2026-10-16 |
-| [ollama/ollama](../repos/ollama/ollama.md) | 23 | ⭐ 183,858 | 2026-08-01 | 2026-10-19 |
+| [ollama/ollama](../repos/ollama/ollama.md) | 24 | ⭐ 184,188 | 2026-08-01 | 2026-10-21 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 20 | ⭐ 50,334 | 2026-08-01 | 2026-10-20 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 19 | ⭐ 53,442 | 2026-08-01 | 2026-10-21 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 19 | ⭐ 38,520 | 2026-08-01 | 2026-10-19 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 19 | ⭐ 44,261 | 2026-08-07 | 2026-10-17 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 18 | ⭐ 52,913 | 2026-08-01 | 2026-10-15 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 18 | ⭐ 5,489 | 2026-08-02 | 2026-10-18 |
-| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 16 | ⭐ 762 | 2026-08-01 | 2026-10-07 |
+| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 17 | ⭐ 880 | 2026-08-01 | 2026-10-21 |
 | [golang/go](../repos/golang/go.md) | 15 | ⭐ 139,383 | 2026-07-31 | 2026-10-20 |
 | [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 14 | ⭐ 30,725 | 2026-08-06 | 2026-10-16 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-20T21:02:10.894Z*
+*Last updated: 2026-10-21T21:02:00.139Z*
