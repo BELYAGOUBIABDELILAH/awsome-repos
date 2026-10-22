@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,893 | 2026-08-01 | 14 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,343 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 5,254 | 2026-08-04 | 16 |
+| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,361 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/doris](../repos/apache/doris.md) | ⭐ 16,113 | 2026-08-05 | 9 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 35,352 | 2026-08-04 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 6,073 | 2026-08-05 | 27 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,760 | 2026-08-04 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microg/GmsCore](../repos/microg/GmsCore.md) | ⭐ 15,021 | 2026-08-06 | 16 |
+| [questdb/questdb](../repos/questdb/questdb.md) | ⭐ 17,462 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [conductor-oss/conductor](../repos/conductor-oss/conductor.md) | ⭐ 32,360 | 2026-08-09 | 8 |
+| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,988 | 2026-08-06 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | ⭐ 7,179 | 2026-08-14 | 17 |
+| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,295 | 2026-08-08 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ReSo7200/InstaEclipse](../repos/ReSo7200/InstaEclipse.md) | ⭐ 1,604 | 2026-08-16 | 3 |
+| [648540858/wvp-GB28181-pro](../repos/648540858/wvp-GB28181-pro.md) | ⭐ 7,377 | 2026-08-15 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FCL-Team/FoldCraftLauncher](../repos/FCL-Team/FoldCraftLauncher.md) | ⭐ 5,008 | 2026-08-17 | 10 |
+| [Card-Forge/forge](../repos/Card-Forge/forge.md) | ⭐ 2,835 | 2026-08-16 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HMCL-dev/HMCL](../repos/HMCL-dev/HMCL.md) | ⭐ 10,535 | 2026-08-23 | 7 |
+| [HMCL-dev/HMCL](../repos/HMCL-dev/HMCL.md) | ⭐ 10,584 | 2026-08-23 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Stonewuu/ai-fusion-video](../repos/Stonewuu/ai-fusion-video.md) | ⭐ 1,517 | 2026-09-22 | 【融光】 - 基于 Agent 的全流程AI短剧&#x2F;漫剧&#x2F;视频创作平台 - Java &amp; agentscope2.0 | Agent-based end-to-end AI creation pl... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [FasterXML/jackson-core](../repos/FasterXML/jackson-core.md) | ⭐ 2,379 | 2026-09-24 | Core part of Jackson that defines Streaming API as well as basic shared abstractions |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [besu-eth/besu](../repos/besu-eth/besu.md) | ⭐ 1,846 | 2026-10-03 | An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https:&#x2F;&#x2F;github.com&#x2F;besu-eth&#x2F;b... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lishuangqiang/AI-Meeting](../repos/lishuangqiang/AI-Meeting.md) | ⭐ 1,056 | 2026-10-06 | 基于 Spring Boot 3 + Java 17 + Spring AI + MySQL + MongoDB + Redis + SSE&#x2F;WebSocket，实现 AI 对话、智能体会话、A... |
 
 
 ---
@@ -90,12 +90,12 @@
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,826 | 2026-08-04 | 12 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 90,182 | 2026-08-03 | 27 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,773 | 2026-08-04 | 19 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,325 | 2026-08-02 | 19 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,760 | 2026-08-04 | 20 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,343 | 2026-08-02 | 20 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,331 | 2026-08-04 | 7 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,293 | 2026-08-08 | 9 |
+| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,295 | 2026-08-08 | 10 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,150 | 2026-08-04 | 13 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,912 | 2026-08-02 | 12 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,037 | 2026-08-12 | 10 |
@@ -103,7 +103,7 @@
 | [ReactiveX/RxJava](../repos/ReactiveX/RxJava.md) | ⭐ 48,208 | 2026-08-28 | 1 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | ⭐ 42,547 | 2026-08-05 | 19 |
 | [TeamNewPipe/NewPipe](../repos/TeamNewPipe/NewPipe.md) | ⭐ 40,100 | 2026-08-02 | 10 |
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,819 | 2026-08-06 | 12 |
+| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,988 | 2026-08-06 | 13 |
 | [halo-dev/halo](../repos/halo-dev/halo.md) | ⭐ 39,576 | 2026-08-22 | 3 |
 | [PhilJay/MPAndroidChart](../repos/PhilJay/MPAndroidChart.md) | ⭐ 38,169 | 2026-09-21 | 1 |
 | [alibaba/arthas](../repos/alibaba/arthas.md) | ⭐ 37,526 | 2026-08-28 | 2 |
@@ -118,13 +118,13 @@
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 27 | ⭐ 90,182 | 2026-08-03 | 2026-10-17 |
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 27 | ⭐ 6,073 | 2026-08-05 | 2026-10-21 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 23 | ⭐ 29,909 | 2026-08-04 | 2026-10-20 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 20 | ⭐ 78,343 | 2026-08-02 | 2026-10-22 |
+| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 20 | ⭐ 81,760 | 2026-08-04 | 2026-10-22 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 19 | ⭐ 27,448 | 2026-08-02 | 2026-10-18 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 19 | ⭐ 78,325 | 2026-08-02 | 2026-10-20 |
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 19 | ⭐ 81,773 | 2026-08-04 | 2026-10-20 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 19 | ⭐ 42,547 | 2026-08-05 | 2026-10-18 |
 | [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 17 | ⭐ 7,179 | 2026-08-14 | 2026-10-21 |
 | [iflytek/skillhub](../repos/iflytek/skillhub.md) | 16 | ⭐ 5,254 | 2026-08-04 | 2026-10-21 |
-| [microg/GmsCore](../repos/microg/GmsCore.md) | 16 | ⭐ 15,021 | 2026-08-06 | 2026-10-21 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 16 | ⭐ 35,352 | 2026-08-04 | 2026-10-22 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.154Z*
+*Last updated: 2026-10-22T21:01:54.321Z*

@@ -71,7 +71,7 @@
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
-| **Maturity** | Experimental | New project, evolving rapidly |
+| **Maturity** | Stable | Established project |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:05.945Z*  
+*Last updated: 2026-10-22T21:02:00.775Z*  
 *Data from 1 trending reports*

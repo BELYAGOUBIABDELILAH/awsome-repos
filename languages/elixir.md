@@ -16,31 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,691 | 2026-08-01 | 56 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,691 | 2026-08-01 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,414 | 2026-08-01 | 48 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,414 | 2026-08-01 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,154 | 2026-08-02 | 54 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,162 | 2026-08-02 | 55 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,189 | 2026-08-03 | 45 |
+| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,123 | 2026-08-02 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,538 | 2026-09-01 | 18 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,192 | 2026-08-03 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elixirs/faker](../repos/elixirs/faker.md) | ⭐ 1,199 | 2026-10-18 | 3 |
+| [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,498 | 2026-08-06 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [OpenFn/lightning](../repos/OpenFn/lightning.md) | ⭐ 319 | 2026-08-23 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [agentjido/req_llm](../repos/agentjido/req_llm.md) | ⭐ 589 | 2026-09-22 | Composable Elixir library for LLM interactions built on Req and Finch |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [deepfates/imp](../repos/deepfates/imp.md) | ⭐ 233 | 2026-09-29 | declarative self-improving language-model programs for Elixir 😇 |
@@ -60,16 +60,16 @@
 |------------|-------|------------|---------------|
 | [anoma/anoma](../repos/anoma/anoma.md) | ⭐ 33,620 | 2026-09-04 | 4 |
 | [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,756 | 2026-08-01 | 57 |
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,691 | 2026-08-01 | 56 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,189 | 2026-08-03 | 45 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,691 | 2026-08-01 | 57 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,192 | 2026-08-03 | 46 |
 | [h4cc/awesome-elixir](../repos/h4cc/awesome-elixir.md) | ⭐ 13,166 | 2026-09-08 | 1 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,154 | 2026-08-02 | 54 |
-| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,121 | 2026-08-02 | 43 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,162 | 2026-08-02 | 55 |
+| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,123 | 2026-08-02 | 44 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,832 | 2026-08-01 | 22 |
-| [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,498 | 2026-08-06 | 3 |
+| [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,498 | 2026-08-06 | 4 |
 | [papercups-io/papercups](../repos/papercups-io/papercups.md) | ⭐ 6,113 | 2026-09-21 | 2 |
 | [livebook-dev/livebook](../repos/livebook-dev/livebook.md) | ⭐ 5,887 | 2026-08-05 | 8 |
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,414 | 2026-08-01 | 48 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,414 | 2026-08-01 | 49 |
 | [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,538 | 2026-09-01 | 18 |
 | [expert-lsp/expert](../repos/expert-lsp/expert.md) | ⭐ 2,048 | 2026-08-01 | 6 |
 | [mtrudel/bandit](../repos/mtrudel/bandit.md) | ⭐ 1,922 | 2026-08-22 | 4 |
@@ -86,11 +86,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [openai/symphony](../repos/openai/symphony.md) | 57 | ⭐ 27,756 | 2026-08-01 | 2026-10-20 |
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 56 | ⭐ 26,691 | 2026-08-01 | 2026-10-21 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 54 | ⭐ 9,154 | 2026-08-02 | 2026-10-21 |
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 48 | ⭐ 5,414 | 2026-08-01 | 2026-10-21 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 45 | ⭐ 23,189 | 2026-08-03 | 2026-10-21 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 43 | ⭐ 9,121 | 2026-08-02 | 2026-10-20 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 57 | ⭐ 26,691 | 2026-08-01 | 2026-10-22 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 55 | ⭐ 9,162 | 2026-08-02 | 2026-10-22 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 49 | ⭐ 5,414 | 2026-08-01 | 2026-10-22 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 46 | ⭐ 23,192 | 2026-08-03 | 2026-10-22 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 44 | ⭐ 9,123 | 2026-08-02 | 2026-10-22 |
 | [open-telemetry/opentelemetry-erlang-contrib](../repos/open-telemetry/opentelemetry-erlang-contrib.md) | 25 | ⭐ 219 | 2026-08-01 | 2026-09-09 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | 22 | ⭐ 6,832 | 2026-08-01 | 2026-10-09 |
 | [ash-project/ash](../repos/ash-project/ash.md) | 18 | ⭐ 2,538 | 2026-09-01 | 2026-10-21 |
@@ -150,4 +150,4 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.125Z*
+*Last updated: 2026-10-22T21:01:54.306Z*

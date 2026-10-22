@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Erlang |
 | **License** | Other |
-| **Stars** | ⭐ 16,851 |
+| **Stars** | ⭐ 16,852 |
 | **Forks** | 🍴 2,567 |
-| **Trending Days** | 56 |
+| **Trending Days** | 57 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 21, 2026 |
+| **Last Seen** | Oct 22, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 56
+- **Trending Days**: 57
 - **Longest Streak**: 7 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:02.724Z*  
-*Data from 56 trending reports*
+*Last updated: 2026-10-22T21:01:55.719Z*  
+*Data from 57 trending reports*

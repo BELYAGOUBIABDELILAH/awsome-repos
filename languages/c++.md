@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 281
+- **Total Repositories**: 282
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-17
+- **Last Updated**: 2026-10-22
 
 ---
 
@@ -16,40 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,939 | 2026-08-01 | 32 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,180 | 2026-07-30 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | ⭐ 539 | 2026-08-01 | 18 |
+| [electron/electron](../repos/electron/electron.md) | ⭐ 123,480 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,123 | 2026-08-01 | 18 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | ⭐ 11,986 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | ⭐ 16,156 | 2026-08-02 | 8 |
+| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 41,019 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [deepseek-ai/FlashMLA](../repos/deepseek-ai/FlashMLA.md) | ⭐ 13,148 | 2026-08-04 | 2 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,543 | 2026-08-03 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,211 | 2026-08-06 | 8 |
+| [deepseek-ai/FlashMLA](../repos/deepseek-ai/FlashMLA.md) | ⭐ 13,159 | 2026-08-04 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kvcache-ai/Mooncake](../repos/kvcache-ai/Mooncake.md) | ⭐ 6,856 | 2026-08-15 | 6 |
+| [NVIDIA/nccl](../repos/NVIDIA/nccl.md) | ⭐ 5,179 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,356 | 2026-08-19 | 12 |
+| [google/perfetto](../repos/google/perfetto.md) | ⭐ 6,688 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iliasHDZ/Bismuth](../repos/iliasHDZ/Bismuth.md) | ⭐ 94 | 2026-10-20 | 2 |
+| [deepseek-ai/3FS](../repos/deepseek-ai/3FS.md) | ⭐ 10,350 | 2026-08-15 | 3 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [esphome/esphome](../repos/esphome/esphome.md) | ⭐ 11,944 | 2026-08-17 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [falcosecurity/falco](../repos/falcosecurity/falco.md) | ⭐ 9,454 | 2026-09-22 | Cloud Native Runtime Security |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [openxla/xla](../repos/openxla/xla.md) | ⭐ 4,557 | 2026-09-24 | A machine learning compiler for GPUs, CPUs, and ML accelerators |
@@ -77,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ammaarreshi/Generals-Mac-iOS-iPad](../repos/ammaarreshi/Generals-Mac-iOS-iPad.md) | ⭐ 1,640 | 2026-09-28 | Command &amp; Conquer Generals: Zero Hour running natively on macOS, iPhone &amp; iPad — real engine (EA ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Detanup01/gbe_fork](../repos/Detanup01/gbe_fork.md) | ⭐ 2,680 | 2026-09-28 | Fork of https:&#x2F;&#x2F;gitlab.com&#x2F;Mr_Goldberg&#x2F;goldberg_emulator |
 
 
 ---
@@ -85,10 +88,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,084 | 2026-07-30 | 26 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,180 | 2026-07-30 | 27 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,939 | 2026-08-01 | 32 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,659 | 2026-08-04 | 5 |
-| [electron/electron](../repos/electron/electron.md) | ⭐ 122,898 | 2026-08-01 | 5 |
+| [electron/electron](../repos/electron/electron.md) | ⭐ 123,480 | 2026-08-01 | 6 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 118,702 | 2026-08-01 | 10 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,211 | 2026-08-06 | 8 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,441 | 2026-08-02 | 10 |
@@ -97,14 +100,14 @@
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,123 | 2026-08-01 | 18 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,104 | 2026-08-05 | 9 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
-| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,506 | 2026-08-03 | 11 |
+| [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,543 | 2026-08-03 | 12 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,360 | 2026-08-02 | 8 |
-| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,356 | 2026-08-19 | 12 |
+| [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,408 | 2026-08-19 | 13 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
 | [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,156 | 2026-08-09 | 12 |
+| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 41,019 | 2026-08-02 | 8 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
-| [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 40,494 | 2026-08-02 | 7 |
 
 ---
 
@@ -114,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 32 | ⭐ 131,939 | 2026-08-01 | 2026-10-21 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 26 | ⭐ 201,084 | 2026-07-30 | 2026-10-17 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 27 | ⭐ 201,180 | 2026-07-30 | 2026-10-22 |
 | [google/googletest](../repos/google/googletest.md) | 21 | ⭐ 39,653 | 2026-08-04 | 2026-10-17 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 18 | ⭐ 539 | 2026-08-01 | 2026-10-21 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 18 | ⭐ 72,123 | 2026-08-01 | 2026-10-21 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 17 | ⭐ 76,737 | 2026-08-08 | 2026-10-19 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 16 | ⭐ 31,282 | 2026-08-03 | 2026-10-16 |
+| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 15 | ⭐ 11,986 | 2026-08-02 | 2026-10-22 |
 | [gabime/spdlog](../repos/gabime/spdlog.md) | 14 | ⭐ 29,673 | 2026-08-01 | 2026-10-07 |
-| [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 14 | ⭐ 11,716 | 2026-08-02 | 2026-10-12 |
 
 ---
 
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.103Z*
+*Last updated: 2026-10-22T21:01:54.293Z*

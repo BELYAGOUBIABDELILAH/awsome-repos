@@ -73,7 +73,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Very Active | Updated within last week |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:02.531Z*  
+*Last updated: 2026-10-22T21:01:55.582Z*  
 *Data from 23 trending reports*

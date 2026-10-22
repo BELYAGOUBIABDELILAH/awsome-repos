@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 108
+- **Total Repositories**: 109
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-06
 
@@ -16,19 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iptv-org/epg](../repos/iptv-org/epg.md) | ⭐ 3,414 | 2026-08-02 | 8 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,284 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,249 | 2026-08-05 | 12 |
+| [rajhodedara/live-sport-plugin](../repos/rajhodedara/live-sport-plugin.md) | ⭐ 245 | 2026-09-25 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xbtlin/ai-berkshire](../repos/xbtlin/ai-berkshire.md) | ⭐ 16,826 | 2026-09-14 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [rajhodedara/live-sport-plugin](../repos/rajhodedara/live-sport-plugin.md) | ⭐ 244 | 2026-09-25 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [alchaincyf/darwin-skill](../repos/alchaincyf/darwin-skill.md) | ⭐ 6,497 | 2026-10-08 | 2 |
+| [MengTo/threeui](../repos/MengTo/threeui.md) | ⭐ 6,787 | 2026-10-22 | 1 |
 
 
 ---
@@ -37,10 +31,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [zouzhekang/YJYpaper](../repos/zouzhekang/YJYpaper.md) | ⭐ 3,638 | 2026-09-22 | 一个用来记录武汉大学杨景媛论文问题的仓库 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rajhodedara/live-sport-plugin](../repos/rajhodedara/live-sport-plugin.md) | ⭐ 244 | 2026-09-25 | A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-ti... |
+| [rajhodedara/live-sport-plugin](../repos/rajhodedara/live-sport-plugin.md) | ⭐ 245 | 2026-09-25 | A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-ti... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | A UI library by WeChat official design team, includes the most useful widgets&#x2F;modules in mobile w... |
@@ -65,6 +56,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [gn-math/html](../repos/gn-math/html.md) | ⭐ 25 | 2026-10-03 | used for statistics https:&#x2F;&#x2F;data.jsdelivr.com&#x2F;v1&#x2F;stats&#x2F;packages&#x2F;gh&#x2F;gn-math&#x2F;html@main&#x2F;files?period... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pedrohcgs/claude-code-my-workflow](../repos/pedrohcgs/claude-code-my-workflow.md) | ⭐ 1,644 | 2026-10-07 | A ready-to-fork Claude Code template for academics using LaTeX&#x2F;Beamer + R. Multi-agent review, qu... |
 
 
 ---
@@ -108,8 +102,8 @@
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 14 | ⭐ 9,967 | 2026-08-01 | 2026-10-18 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 14 | ⭐ 138,503 | 2026-08-08 | 2026-09-25 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 13 | ⭐ 16,604 | 2026-08-04 | 2026-10-16 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 13 | ⭐ 6,284 | 2026-08-05 | 2026-10-22 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 13 | ⭐ 43,224 | 2026-08-12 | 2026-10-03 |
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 12 | ⭐ 6,249 | 2026-08-05 | 2026-10-21 |
 
 ---
 
@@ -218,4 +212,4 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.146Z*
+*Last updated: 2026-10-22T21:01:54.318Z*

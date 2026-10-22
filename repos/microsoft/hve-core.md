@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Python |
+| **Language** | PowerShell |
 | **License** | MIT |
-| **Stars** | ⭐ 1,384 |
-| **Forks** | 🍴 275 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 1,560 |
+| **Forks** | 🍴 339 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Aug 28, 2026 |
+| **Last Seen** | Oct 22, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Python or similar-topics*
+*Similar: Check repositories in PowerShell or similar-topics*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 4 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Small | Niche but dedicated community |
+| **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,7 +81,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Python
+- Check similar projects in PowerShell
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:02.816Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-10-22T21:01:55.787Z*  
+*Data from 10 trending reports*

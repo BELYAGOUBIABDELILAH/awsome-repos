@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 9,324 | 2026-08-02 | 16 |
+| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 3,165 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,538 | 2026-08-04 | 14 |
+| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,538 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift-syntax](../repos/swiftlang/swift-syntax.md) | ⭐ 3,712 | 2026-08-04 | 8 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,912 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rileytestut/Delta](../repos/rileytestut/Delta.md) | ⭐ 6,184 | 2026-08-12 | 3 |
+| [rime/squirrel](../repos/rime/squirrel.md) | ⭐ 6,464 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stripe/stripe-ios](../repos/stripe/stripe-ios.md) | ⭐ 2,578 | 2026-08-15 | 7 |
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 22,032 | 2026-08-12 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,933 | 2026-09-06 | 7 |
+| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,944 | 2026-09-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-argument-parser](../repos/apple/swift-argument-parser.md) | ⭐ 3,793 | 2026-10-08 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [iFurySt/open-computer-use](../repos/iFurySt/open-computer-use.md) | ⭐ 2,606 | 2026-10-18 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [lycorp-jp/sim-use](../repos/lycorp-jp/sim-use.md) | ⭐ 1,469 | 2026-10-20 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [scosman/Biscotti](../repos/scosman/Biscotti.md) | ⭐ 385 | 2026-10-21 | 1 |
+| [kaishi00/hermes-conduit](../repos/kaishi00/hermes-conduit.md) | ⭐ 399 | 2026-09-29 | 2 |
 
 
 ---
@@ -70,7 +61,7 @@
 | [antigluten/amgi](../repos/antigluten/amgi.md) | ⭐ 259 | 2026-09-28 | An open-source, offline-first Anki-compatible iOS flashcard client with sync server support, powe... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [kaishi00/hermes-conduit](../repos/kaishi00/hermes-conduit.md) | ⭐ 154 | 2026-09-29 | Conduit — native SwiftUI iOS client for Hermes Agent |
+| [kaishi00/hermes-conduit](../repos/kaishi00/hermes-conduit.md) | ⭐ 399 | 2026-09-29 | Conduit — native SwiftUI iOS client for Hermes Agent |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [grishka/NearDrop](../repos/grishka/NearDrop.md) | ⭐ 6,285 | 2026-10-01 | An unofficial Google Nearby Share&#x2F;Quick Share app for macOS |
@@ -95,9 +86,9 @@
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,302 | 2026-08-01 | 21 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 27,997 | 2026-08-04 | 4 |
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,904 | 2026-08-04 | 14 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,912 | 2026-08-04 | 15 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
-| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 22,006 | 2026-08-12 | 9 |
+| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 22,032 | 2026-08-12 | 10 |
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
@@ -120,9 +111,9 @@
 | [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 19 | ⭐ 14,976 | 2026-08-04 | 2026-10-20 |
 | [apple/container](../repos/apple/container.md) | 17 | ⭐ 50,809 | 2026-08-01 | 2026-10-19 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 16 | ⭐ 9,324 | 2026-08-02 | 2026-10-21 |
+| [apple/swift-nio](../repos/apple/swift-nio.md) | 15 | ⭐ 8,538 | 2026-08-04 | 2026-10-22 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 15 | ⭐ 26,912 | 2026-08-04 | 2026-10-22 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 15 | ⭐ 70,451 | 2026-08-05 | 2026-10-02 |
-| [apple/swift-nio](../repos/apple/swift-nio.md) | 14 | ⭐ 8,538 | 2026-08-04 | 2026-10-21 |
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 14 | ⭐ 26,904 | 2026-08-04 | 2026-10-20 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | 14 | ⭐ 14,686 | 2026-08-17 | 2026-10-19 |
 | [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 12 | ⭐ 3,687 | 2026-08-01 | 2026-10-06 |
 
@@ -233,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.243Z*
+*Last updated: 2026-10-22T21:01:54.357Z*

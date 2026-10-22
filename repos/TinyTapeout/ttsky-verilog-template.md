@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Verilog |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 61 |
-| **Forks** | 🍴 519 |
-| **Trending Days** | 13 |
+| **Stars** | ⭐ 64 |
+| **Forks** | 🍴 525 |
+| **Trending Days** | 14 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 14, 2026 |
-| **Last Seen** | Oct 17, 2026 |
+| **Last Seen** | Oct 22, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 13
+- **Trending Days**: 14
 - **Longest Streak**: 3 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 61+ stars, strong contributor base |
+| **Community** | Very Active | 64+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:04.521Z*  
-*Data from 13 trending reports*
+*Last updated: 2026-10-22T21:01:59.784Z*  
+*Data from 14 trending reports*

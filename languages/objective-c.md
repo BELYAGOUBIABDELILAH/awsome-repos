@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,879 | 2026-08-01 | 27 |
+| [BranchMetrics/ios-branch-sdk-spm](../repos/BranchMetrics/ios-branch-sdk-spm.md) | ⭐ 27 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 44 |
+| [google/promises](../repos/google/promises.md) | ⭐ 3,828 | 2026-08-01 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 46 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | ⭐ 136 | 2026-08-01 | 47 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 46 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | ⭐ 60 | 2026-08-01 | 47 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 45 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | ⭐ 291 | 2026-08-01 | 46 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,064 | 2026-08-01 | 27 |
+| [AliSoftware/OHHTTPStubs](../repos/AliSoftware/OHHTTPStubs.md) | ⭐ 5,064 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,612 | 2026-08-01 | 46 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,613 | 2026-08-01 | 47 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 6,002 | 2026-08-02 | 17 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,413 | 2026-08-02 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,601 | 2026-08-04 | 30 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,600 | 2026-08-04 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,317 | 2026-08-04 | 25 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,318 | 2026-08-04 | 26 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SelfControlApp/selfcontrol](../repos/SelfControlApp/selfcontrol.md) | ⭐ 4,401 | 2026-09-22 | :skull: Mac app to block your own access to distracting websites etc for a predetermined period o... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [seanhenry/SwiftMockGeneratorForXcode](../repos/seanhenry/SwiftMockGeneratorForXcode.md) | ⭐ 758 | 2026-09-28 | An Xcode extension (plugin) to generate Swift test doubles automatically. |
@@ -75,10 +72,10 @@
 |------------|-------|------------|---------------|
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,371 | 2026-08-02 | 7 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,612 | 2026-08-01 | 46 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,389 | 2026-08-02 | 30 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,613 | 2026-08-01 | 47 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,413 | 2026-08-02 | 31 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,601 | 2026-08-04 | 30 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,600 | 2026-08-04 | 31 |
 | [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,215 | 2026-08-04 | 18 |
 | [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,923 | 2026-08-04 | 9 |
 | [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,143 | 2026-08-01 | 12 |
@@ -88,7 +85,7 @@
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
 | [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
 | [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,586 | 2026-08-03 | 21 |
-| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,317 | 2026-08-04 | 25 |
+| [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,318 | 2026-08-04 | 26 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
 | [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,438 | 2026-08-06 | 4 |
 | [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,135 | 2026-08-07 | 14 |
@@ -100,16 +97,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 46 | ⭐ 136 | 2026-08-01 | 2026-10-21 |
-| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 46 | ⭐ 60 | 2026-08-01 | 2026-10-21 |
-| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 46 | ⭐ 25,612 | 2026-08-01 | 2026-10-21 |
-| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 45 | ⭐ 291 | 2026-08-01 | 2026-10-21 |
-| [google/promises](../repos/google/promises.md) | 44 | ⭐ 3,828 | 2026-08-01 | 2026-10-21 |
-| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 38 | ⭐ 2,033 | 2026-08-08 | 2026-10-21 |
+| [google/GoogleUtilities](../repos/google/GoogleUtilities.md) | 47 | ⭐ 136 | 2026-08-01 | 2026-10-22 |
+| [google/GoogleDataTransport](../repos/google/GoogleDataTransport.md) | 47 | ⭐ 60 | 2026-08-01 | 2026-10-22 |
+| [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | 47 | ⭐ 25,613 | 2026-08-01 | 2026-10-22 |
+| [google/gtm-session-fetcher](../repos/google/gtm-session-fetcher.md) | 46 | ⭐ 291 | 2026-08-01 | 2026-10-22 |
+| [google/promises](../repos/google/promises.md) | 45 | ⭐ 3,828 | 2026-08-01 | 2026-10-22 |
+| [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 39 | ⭐ 2,034 | 2026-08-08 | 2026-10-22 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 32 | ⭐ 675 | 2026-08-04 | 2026-10-21 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 30 | ⭐ 22,389 | 2026-08-02 | 2026-10-19 |
-| [realm/realm-swift](../repos/realm/realm-swift.md) | 30 | ⭐ 16,601 | 2026-08-04 | 2026-10-21 |
-| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 30 | ⭐ 4,500 | 2026-08-05 | 2026-10-21 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 31 | ⭐ 22,413 | 2026-08-02 | 2026-10-22 |
+| [realm/realm-swift](../repos/realm/realm-swift.md) | 31 | ⭐ 16,600 | 2026-08-04 | 2026-10-22 |
+| [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 31 | ⭐ 4,502 | 2026-08-05 | 2026-10-22 |
 
 ---
 
@@ -218,4 +215,4 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.193Z*
+*Last updated: 2026-10-22T21:01:54.336Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C# |
 | **License** | Other |
-| **Stars** | ⭐ 4,774 |
-| **Forks** | 🍴 4,240 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 4,811 |
+| **Forks** | 🍴 4,276 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Aug 26, 2026 |
+| **Last Seen** | Oct 22, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 4,774+ stars, strong contributor base |
+| **Community** | Very Active | 4,811+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-21T21:02:03.802Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-10-22T21:01:56.800Z*  
+*Data from 3 trending reports*

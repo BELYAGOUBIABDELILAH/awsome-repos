@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 56
+- **Total Repositories**: 57
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,37 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,513 | 2026-08-01 | 51 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,514 | 2026-08-01 | 52 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,524 | 2026-08-01 | 29 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,528 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 930 | 2026-08-01 | 41 |
+| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,560 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/AL](../repos/microsoft/AL.md) | ⭐ 887 | 2026-08-01 | 9 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,209 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,549 | 2026-08-01 | 21 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 930 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,184 | 2026-08-19 | 13 |
+| [microsoft/AL](../repos/microsoft/AL.md) | ⭐ 889 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [secretGeek/AwesomeCSV](../repos/secretGeek/AwesomeCSV.md) | ⭐ 956 | 2026-09-24 | 4 |
+| [actions/python-versions](../repos/actions/python-versions.md) | ⭐ 243 | 2026-08-03 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [microsoftgraph/microsoft-graph-docs-contrib](../repos/microsoftgraph/microsoft-graph-docs-contrib.md) | ⭐ 151 | 2026-08-05 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [SharePoint/sp-dev-docs](../repos/SharePoint/sp-dev-docs.md) | ⭐ 1,386 | 2026-08-15 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,184 | 2026-08-19 | 14 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/sre-agent](../repos/microsoft/sre-agent.md) | ⭐ 169 | 2026-09-22 | Azure SRE Agent is an AI-powered reliability assistant that helps teams diagnose and resolve prod... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [CyberDrain/CIPP](../repos/CyberDrain/CIPP.md) | ⭐ 85 | 2026-09-22 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [secretGeek/AwesomeCSV](../repos/secretGeek/AwesomeCSV.md) | ⭐ 956 | 2026-09-24 | 🕶️A curated list of awesome tools for dealing with CSV. |
@@ -70,22 +73,22 @@
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,045 | 2026-08-02 | 13 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,513 | 2026-08-01 | 51 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,514 | 2026-08-01 | 52 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,073 | 2026-08-04 | 5 |
 | [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,259 | 2026-09-02 | 14 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,136 | 2026-08-03 | 11 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,149 | 2026-08-06 | 18 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,524 | 2026-08-01 | 29 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,528 | 2026-08-01 | 30 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
 | [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,111 | 2026-08-01 | 23 |
 | [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,590 | 2026-09-06 | 3 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,153 | 2026-08-01 | 24 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,209 | 2026-08-01 | 25 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,838 | 2026-08-04 | 3 |
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,732 | 2026-08-11 | 18 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,559 | 2026-08-04 | 8 |
-| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,184 | 2026-08-19 | 13 |
+| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,184 | 2026-08-19 | 14 |
 | [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,096 | 2026-08-07 | 10 |
 
 ---
@@ -94,11 +97,11 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 51 | ⭐ 13,513 | 2026-08-01 | 2026-10-21 |
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 41 | ⭐ 930 | 2026-08-01 | 2026-10-21 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 52 | ⭐ 13,514 | 2026-08-01 | 2026-10-22 |
+| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 42 | ⭐ 930 | 2026-08-01 | 2026-10-22 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 31 | ⭐ 1,679 | 2026-08-03 | 2026-10-19 |
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 29 | ⭐ 8,524 | 2026-08-01 | 2026-10-21 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 24 | ⭐ 3,153 | 2026-08-01 | 2026-10-14 |
+| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 30 | ⭐ 8,528 | 2026-08-01 | 2026-10-22 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 25 | ⭐ 3,209 | 2026-08-01 | 2026-10-22 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 23 | ⭐ 6,111 | 2026-08-01 | 2026-10-13 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 21 | ⭐ 1,549 | 2026-08-01 | 2026-10-21 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 20 | ⭐ 36,799 | 2026-08-01 | 2026-09-21 |
@@ -112,6 +115,7 @@
 - [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) - Reverse Engineering &#x2F; Authorized Penetration Testing &#x2F; Security Research Skill Router Pack AI-pow...
 - [actions/runner-images](../repos/actions/runner-images.md) - GitHub Actions runner images
 - [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) - game of active directory
+- [microsoft/hve-core](../repos/microsoft/hve-core.md) - A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and ...
 - [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) - Automate the setup and configuration of your Windows development environment.
 - [Euro-Office/DesktopEditors](../repos/Euro-Office/DesktopEditors.md) - 
 - [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) - The Official USB Rubber Ducky Payload Repository
@@ -168,4 +172,4 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.205Z*
+*Last updated: 2026-10-22T21:01:54.341Z*

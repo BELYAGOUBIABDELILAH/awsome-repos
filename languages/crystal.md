@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [iv-org/invidious](../repos/iv-org/invidious.md) | ⭐ 25,582 | 2026-08-01 | 43 |
 
+*No Crystal repositories trending today*
 
 ---
 
@@ -64,4 +62,4 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.117Z*
+*Last updated: 2026-10-22T21:01:54.300Z*

@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 411
+**Gems Found**: 403
 
 ---
 
@@ -19,7 +19,7 @@
 |---|---|
 | ⭐ **Stars** | 1,024 |
 | 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 95/100 |
+| 🏆 **Gem Score** | 94/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Sep 3, 2026 |
 
@@ -71,27 +71,7 @@
 
 ---
 
-### 4. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
-
-**A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,808 |
-| 💻 **Language** | C++ |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+61 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/geo-tp/ESP32-Bit-Pirate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;geo-tp&#x2F;ESP32-Bit-Pirate)
-
----
-
-### 5. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
+### 4. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
 **Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
@@ -111,27 +91,27 @@
 
 ---
 
-### 6. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+### 5. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
 
-**Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
+**A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,605 |
-| 💻 **Language** | Python |
+| ⭐ **Stars** | 5,808 |
+| 💻 **Language** | C++ |
 | 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 4, 2026 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 1, 2026 |
 
-**Why it's a gem**: High growth velocity (+658 stars&#x2F;day) • Trending 6 times • Strong community engagement
+**Why it's a gem**: High growth velocity (+61 stars&#x2F;day) • Trending 5 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
+[View Passport](../../repos/geo-tp/ESP32-Bit-Pirate.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;geo-tp&#x2F;ESP32-Bit-Pirate)
 
 ---
 
-### 7. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 6. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
 **Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
@@ -151,7 +131,7 @@
 
 ---
 
-### 8. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+### 7. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
 
 **Native GUI for Homebrew Casks**
 
@@ -171,7 +151,7 @@
 
 ---
 
-### 9. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+### 8. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
 
 **Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
 
@@ -188,6 +168,26 @@
 **Best for**: 
 
 [View Passport](../../repos/OpenWhispr/openwhispr.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;OpenWhispr&#x2F;openwhispr)
+
+---
+
+### 9. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+
+**Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,605 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 86/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+658 stars&#x2F;day) • Trending 6 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
 
 ---
 
@@ -251,27 +251,7 @@
 
 ---
 
-### 13. [chuspeeism&#x2F;dashi-ppt-skill](../../repos/chuspeeism/dashi-ppt-skill.md)
-
-**An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 8,880 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 85/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+125 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/chuspeeism/dashi-ppt-skill.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chuspeeism&#x2F;dashi-ppt-skill)
-
----
-
-### 14. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
+### 13. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
 
 **Give cloud AI agents a real development environment on your own machines.**
 
@@ -291,7 +271,7 @@
 
 ---
 
-### 15. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
+### 14. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
 
 **The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.**
 
@@ -311,7 +291,7 @@
 
 ---
 
-### 16. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
+### 15. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
 
 **Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode&#x2F;Homebrew&#x2F;system cache cleanup. MIT licensed.**
 
@@ -328,6 +308,26 @@
 **Best for**: 
 
 [View Passport](../../repos/momenbasel/PureMac.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;momenbasel&#x2F;PureMac)
+
+---
+
+### 16. [chuspeeism&#x2F;dashi-ppt-skill](../../repos/chuspeeism/dashi-ppt-skill.md)
+
+**An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 8,880 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 84/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+125 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/chuspeeism/dashi-ppt-skill.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chuspeeism&#x2F;dashi-ppt-skill)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-21T21:02:06.769Z*  
+*Generated: 2026-10-22T21:02:01.349Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

@@ -13,12 +13,12 @@
 | **Language** | R |
 | **License** | Other |
 | **Stars** | ⭐ 5,704 |
-| **Forks** | 🍴 1,890 |
-| **Trending Days** | 27 |
+| **Forks** | 🍴 1,889 |
+| **Trending Days** | 28 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 20, 2026 |
+| **Last Seen** | Oct 22, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 27
+- **Trending Days**: 28
 - **Longest Streak**: 6 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:03.076Z*  
-*Data from 27 trending reports*
+*Last updated: 2026-10-22T21:01:55.977Z*  
+*Data from 28 trending reports*

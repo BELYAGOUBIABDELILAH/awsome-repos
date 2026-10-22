@@ -13,12 +13,12 @@
 | **Language** | VHDL |
 | **License** | GPL-2.0 |
 | **Stars** | ⭐ 2,910 |
-| **Forks** | 🍴 428 |
-| **Trending Days** | 36 |
+| **Forks** | 🍴 429 |
+| **Trending Days** | 37 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 21, 2026 |
+| **Last Seen** | Oct 22, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 36
-- **Longest Streak**: 7 days
+- **Trending Days**: 37
+- **Longest Streak**: 8 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:02.872Z*  
-*Data from 36 trending reports*
+*Last updated: 2026-10-22T21:01:55.826Z*  
+*Data from 37 trending reports*

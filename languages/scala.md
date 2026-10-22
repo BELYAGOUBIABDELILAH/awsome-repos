@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 69
+- **Total Repositories**: 70
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-21
+- **Last Updated**: 2026-10-22
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,585 | 2026-08-01 | 56 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,589 | 2026-08-01 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,052 | 2026-08-01 | 55 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,052 | 2026-08-01 | 56 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | ⭐ 1,012 | 2026-08-01 | 41 |
+| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | ⭐ 1,012 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,609 | 2026-08-01 | 52 |
+| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,609 | 2026-08-01 | 53 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,977 | 2026-08-01 | 49 |
+| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,280 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,331 | 2026-08-01 | 51 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,977 | 2026-08-01 | 50 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [canton-network/splice](../repos/canton-network/splice.md) | ⭐ 120 | 2026-08-01 | 27 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,332 | 2026-08-01 | 52 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,953 | 2026-08-01 | 39 |
+| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,325 | 2026-08-01 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,406 | 2026-08-01 | 34 |
+| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,954 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chipsalliance/rocket-chip](../repos/chipsalliance/rocket-chip.md) | ⭐ 3,890 | 2026-08-01 | 15 |
+| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,409 | 2026-08-01 | 35 |
 
 
 ---
@@ -64,13 +64,16 @@
 | [llm4s/llm4s](../repos/llm4s/llm4s.md) | ⭐ 268 | 2026-10-12 | Agentic  and LLM Programming in Scala |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apache/carbondata](../repos/apache/carbondata.md) | ⭐ 1,451 | 2026-10-15 | High performance data store solution |
+| [apache/carbondata](../repos/apache/carbondata.md) | ⭐ 1,452 | 2026-10-15 | High performance data store solution |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [slick/slick](../repos/slick/slick.md) | ⭐ 2,666 | 2026-10-20 | Slick (Scala Language Integrated Connection Kit) is a modern database query and access library fo... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [UdashFramework/udash-core](../repos/UdashFramework/udash-core.md) | ⭐ 452 | 2026-10-20 | Scala framework for building beautiful and maintainable web applications. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ShiftLeftSecurity/codepropertygraph](../repos/ShiftLeftSecurity/codepropertygraph.md) | ⭐ 638 | 2026-10-22 | Code Property Graph: specification, query language, and utilities |
 
 
 ---
@@ -79,25 +82,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,977 | 2026-08-01 | 49 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,264 | 2026-08-01 | 66 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,874 | 2026-08-02 | 56 |
-| [scala/scala](../repos/scala/scala.md) | ⭐ 14,535 | 2026-08-01 | 34 |
-| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,281 | 2026-08-01 | 27 |
-| [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,518 | 2026-09-02 | 9 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,977 | 2026-08-01 | 50 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,282 | 2026-08-01 | 67 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,874 | 2026-08-02 | 57 |
+| [scala/scala](../repos/scala/scala.md) | ⭐ 14,535 | 2026-08-01 | 35 |
+| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,280 | 2026-08-01 | 28 |
+| [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,519 | 2026-09-02 | 10 |
 | [yahoo/CMAK](../repos/yahoo/CMAK.md) | ⭐ 11,924 | 2026-09-07 | 1 |
-| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,406 | 2026-08-01 | 34 |
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,052 | 2026-08-01 | 55 |
-| [twitter/finagle](../repos/twitter/finagle.md) | ⭐ 8,865 | 2026-08-20 | 4 |
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,331 | 2026-08-01 | 51 |
+| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,409 | 2026-08-01 | 35 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,052 | 2026-08-01 | 56 |
+| [twitter/finagle](../repos/twitter/finagle.md) | ⭐ 8,867 | 2026-08-20 | 5 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,332 | 2026-08-01 | 52 |
 | [snowplow/snowplow](../repos/snowplow/snowplow.md) | ⭐ 7,041 | 2026-08-11 | 9 |
-| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,953 | 2026-08-01 | 39 |
+| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,954 | 2026-08-01 | 40 |
 | [apache/openwhisk](../repos/apache/openwhisk.md) | ⭐ 6,802 | 2026-08-05 | 7 |
-| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,323 | 2026-08-01 | 34 |
-| [guardian/frontend](../repos/guardian/frontend.md) | ⭐ 5,899 | 2026-08-03 | 29 |
+| [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,325 | 2026-08-01 | 35 |
+| [guardian/frontend](../repos/guardian/frontend.md) | ⭐ 5,897 | 2026-08-03 | 30 |
 | [fpinscala/fpinscala](../repos/fpinscala/fpinscala.md) | ⭐ 5,860 | 2026-09-03 | 3 |
 | [microsoft/SynapseML](../repos/microsoft/SynapseML.md) | ⭐ 5,245 | 2026-08-01 | 12 |
-| [sbt/sbt](../repos/sbt/sbt.md) | ⭐ 4,954 | 2026-08-04 | 30 |
+| [sbt/sbt](../repos/sbt/sbt.md) | ⭐ 4,954 | 2026-08-04 | 31 |
 | [chipsalliance/chisel](../repos/chipsalliance/chisel.md) | ⭐ 4,807 | 2026-08-05 | 13 |
 
 ---
@@ -106,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [apache/spark](../repos/apache/spark.md) | 66 | ⭐ 44,264 | 2026-08-01 | 2026-10-21 |
-| [joernio/joern](../repos/joernio/joern.md) | 56 | ⭐ 3,585 | 2026-08-01 | 2026-10-21 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | 56 | ⭐ 18,874 | 2026-08-02 | 2026-10-21 |
-| [delta-io/delta](../repos/delta-io/delta.md) | 55 | ⭐ 9,052 | 2026-08-01 | 2026-10-21 |
-| [apache/gluten](../repos/apache/gluten.md) | 52 | ⭐ 1,609 | 2026-08-01 | 2026-10-21 |
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 51 | ⭐ 7,331 | 2026-08-01 | 2026-10-21 |
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 49 | ⭐ 73,977 | 2026-08-01 | 2026-10-21 |
+| [apache/spark](../repos/apache/spark.md) | 67 | ⭐ 44,282 | 2026-08-01 | 2026-10-22 |
+| [joernio/joern](../repos/joernio/joern.md) | 57 | ⭐ 3,589 | 2026-08-01 | 2026-10-22 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | 57 | ⭐ 18,874 | 2026-08-02 | 2026-10-22 |
+| [delta-io/delta](../repos/delta-io/delta.md) | 56 | ⭐ 9,052 | 2026-08-01 | 2026-10-22 |
+| [apache/gluten](../repos/apache/gluten.md) | 53 | ⭐ 1,609 | 2026-08-01 | 2026-10-22 |
+| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 52 | ⭐ 7,332 | 2026-08-01 | 2026-10-22 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 50 | ⭐ 73,977 | 2026-08-01 | 2026-10-22 |
 | [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | 45 | ⭐ 1,295 | 2026-08-02 | 2026-10-20 |
-| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 41 | ⭐ 1,012 | 2026-08-01 | 2026-10-21 |
-| [gatling/gatling](../repos/gatling/gatling.md) | 39 | ⭐ 6,953 | 2026-08-01 | 2026-10-21 |
+| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 42 | ⭐ 1,012 | 2026-08-01 | 2026-10-22 |
+| [gatling/gatling](../repos/gatling/gatling.md) | 40 | ⭐ 6,954 | 2026-08-01 | 2026-10-22 |
 
 ---
 
@@ -190,7 +193,8 @@
 - [apache/carbondata](../repos/apache/carbondata.md) - High performance data store solution
 - [slick/slick](../repos/slick/slick.md) - Slick (Scala Language Integrated Connection Kit) is a modern database query and access library fo...
 - [UdashFramework/udash-core](../repos/UdashFramework/udash-core.md) - Scala framework for building beautiful and maintainable web applications.
+- [ShiftLeftSecurity/codepropertygraph](../repos/ShiftLeftSecurity/codepropertygraph.md) - Code Property Graph: specification, query language, and utilities
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.230Z*
+*Last updated: 2026-10-22T21:01:54.352Z*

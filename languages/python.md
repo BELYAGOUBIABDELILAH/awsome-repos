@@ -16,43 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 100,611 | 2026-08-01 | 12 |
+| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 43,192 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Emily2040/seedance-2.0](../repos/Emily2040/seedance-2.0.md) | ⭐ 7,881 | 2026-08-02 | 2 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 132,816 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 42,763 | 2026-08-03 | 7 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 131,472 | 2026-08-03 | 9 |
+| [HKUDS/Vibe-Trading](../repos/HKUDS/Vibe-Trading.md) | ⭐ 36,321 | 2026-08-24 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [usestrix/strix](../repos/usestrix/strix.md) | ⭐ 70,781 | 2026-08-04 | 11 |
+| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 31,515 | 2026-09-19 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,430 | 2026-08-05 | 12 |
+| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 77,547 | 2026-10-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 142,295 | 2026-08-14 | 8 |
+| [fastapi/fastapi](../repos/fastapi/fastapi.md) | ⭐ 103,660 | 2026-10-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k2-fsa/OmniVoice](../repos/k2-fsa/OmniVoice.md) | ⭐ 15,431 | 2026-09-05 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 31,153 | 2026-09-19 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 77,188 | 2026-10-09 | 4 |
+| [onyx-dot-app/onyx](../repos/onyx-dot-app/onyx.md) | ⭐ 32,853 | 2026-10-22 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 5,749 | 2026-09-22 | OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [NVIDIA/Model-Optimizer](../repos/NVIDIA/Model-Optimizer.md) | ⭐ 4,925 | 2026-09-24 | A unified library of SOTA model optimization techniques like quantization, distillation, pruning,... |
@@ -80,6 +71,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/SkillOpt](../repos/microsoft/SkillOpt.md) | ⭐ 17,869 | 2026-09-28 | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM ag... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [samugit83/redamon](../repos/samugit83/redamon.md) | ⭐ 2,745 | 2026-09-28 | An AI-powered agentic red team framework that automates offensive security operations, from recon... |
 
 
 ---
@@ -99,15 +93,15 @@
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 142,295 | 2026-08-14 | 8 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,430 | 2026-08-05 | 12 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 141,347 | 2026-08-04 | 7 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 132,816 | 2026-08-03 | 10 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 132,098 | 2026-08-01 | 17 |
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 131,472 | 2026-08-03 | 9 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
 | [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 111,892 | 2026-08-08 | 11 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 104,706 | 2026-07-30 | 6 |
-| [fastapi/fastapi](../repos/fastapi/fastapi.md) | ⭐ 103,257 | 2026-10-19 | 1 |
+| [fastapi/fastapi](../repos/fastapi/fastapi.md) | ⭐ 103,660 | 2026-10-19 | 2 |
 
 ---
 
@@ -122,9 +116,9 @@
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
 | [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 14 | ⭐ 43,153 | 2026-08-07 | 2026-10-19 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 13 | ⭐ 60,537 | 2026-08-03 | 2026-10-14 |
+| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 13 | ⭐ 141,991 | 2026-08-05 | 2026-10-22 |
 | [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 13 | ⭐ 55,640 | 2026-08-15 | 2026-10-20 |
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 12 | ⭐ 100,611 | 2026-08-01 | 2026-10-21 |
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 12 | ⭐ 141,430 | 2026-08-05 | 2026-10-21 |
 
 ---
 
@@ -151,7 +145,6 @@
 - [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHu...
 - [langchain-ai/deepagents](../repos/langchain-ai/deepagents.md) - The batteries-included agent harness.
 - [llm-d/llm-d](../repos/llm-d/llm-d.md) - Achieve state of the art inference performance with modern accelerators on Kubernetes
-- [microsoft/hve-core](../repos/microsoft/hve-core.md) - A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and ...
 - [abus-aikorea/voice-pro](../repos/abus-aikorea/voice-pro.md) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voic...
 - [Huanshere/VideoLingo](../repos/Huanshere/VideoLingo.md) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automa...
 - [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) - Summer 2027 software engineering, data science, AI, quant, product management, and hardware inter...
@@ -230,7 +223,8 @@
 - [AWeirdDev/flights](../repos/AWeirdDev/flights.md) - Fast, robust Google Flights scraper (API) for Python. (Probably)
 - [cactus-compute/needle](../repos/cactus-compute/needle.md) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction a...
 - [NVlabs/GR00T-WholeBodyControl](../repos/NVlabs/GR00T-WholeBodyControl.md) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deployin...
+- [AgriciDaniel/claude-obsidian](../repos/AgriciDaniel/claude-obsidian.md) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, lin...
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.210Z*
+*Last updated: 2026-10-22T21:01:54.343Z*

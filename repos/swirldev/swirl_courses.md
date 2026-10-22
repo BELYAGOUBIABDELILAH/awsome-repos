@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | R |
 | **License** | Other |
-| **Stars** | ⭐ 4,622 |
-| **Forks** | 🍴 7,191 |
-| **Trending Days** | 40 |
+| **Stars** | ⭐ 4,621 |
+| **Forks** | 🍴 7,192 |
+| **Trending Days** | 41 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 15, 2026 |
+| **Last Seen** | Oct 22, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 40
+- **Trending Days**: 41
 - **Longest Streak**: 6 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 4,622+ stars, strong contributor base |
+| **Community** | Very Active | 4,621+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Inactive | No recent updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:02.670Z*  
-*Data from 40 trending reports*
+*Last updated: 2026-10-22T21:01:55.682Z*  
+*Data from 41 trending reports*

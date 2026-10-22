@@ -16,55 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 53,442 | 2026-08-01 | 19 |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,476 | 2026-07-31 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 184,188 | 2026-08-01 | 24 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 53,578 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | ⭐ 880 | 2026-08-01 | 17 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,623 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [argoproj/argo-cd](../repos/argoproj/argo-cd.md) | ⭐ 24,443 | 2026-08-04 | 9 |
+| [tailscale/tailscale](../repos/tailscale/tailscale.md) | ⭐ 37,953 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,404 | 2026-08-05 | 4 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,554 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 17,763 | 2026-08-06 | 10 |
+| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 17,789 | 2026-08-06 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harness/harness](../repos/harness/harness.md) | ⭐ 38,649 | 2026-08-06 | 5 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,572 | 2026-08-15 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openbao/openbao](../repos/openbao/openbao.md) | ⭐ 8,629 | 2026-08-07 | 5 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 48,056 | 2026-08-20 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hashicorp/vault](../repos/hashicorp/vault.md) | ⭐ 36,415 | 2026-08-26 | 5 |
+| [grafana/alloy](../repos/grafana/alloy.md) | ⭐ 3,633 | 2026-08-25 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudwego/eino](../repos/cloudwego/eino.md) | ⭐ 13,381 | 2026-08-27 | 3 |
+| [open-telemetry/opentelemetry-collector-contrib](../repos/open-telemetry/opentelemetry-collector-contrib.md) | ⭐ 5,013 | 2026-08-26 | 7 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/ax](../repos/google/ax.md) | ⭐ 13,932 | 2026-09-22 | Agent Executor (AX) is Google&#39;s open agentic orchestration runtime |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [flipped-aurora/gin-vue-admin](../repos/flipped-aurora/gin-vue-admin.md) | ⭐ 25,040 | 2026-09-22 | 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openbkn-ai/bkn-foundry](../repos/openbkn-ai/bkn-foundry.md) | ⭐ 535 | 2026-09-22 | BKN Foundry is the Ontology back-end foundation of OpenBKN. It transforms ontology-driven busines... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [skyhook-io/radar](../repos/skyhook-io/radar.md) | ⭐ 3,824 | 2026-09-22 | The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what&#39;s broken... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [fullsend-ai/fullsend](../repos/fullsend-ai/fullsend.md) | ⭐ 135 | 2026-09-22 | On the path to fully autonomous agentic engineering |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [flexprice/flexprice](../repos/flexprice/flexprice.md) | ⭐ 6,938 | 2026-09-24 | Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime ... |
@@ -80,6 +65,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [go-vikunja/vikunja](../repos/go-vikunja/vikunja.md) | ⭐ 5,500 | 2026-09-24 | The task manager you actually own. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [GoogleCloudPlatform/microservices-demo](../repos/GoogleCloudPlatform/microservices-demo.md) | ⭐ 21,000 | 2026-09-25 | Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [git-bug/git-bug](../repos/git-bug/git-bug.md) | ⭐ 10,608 | 2026-09-27 | Distributed, offline-first bug tracker integrated in git |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [daeuniverse/dae](../repos/daeuniverse/dae.md) | ⭐ 6,255 | 2026-09-27 | eBPF-based Linux high-performance transparent proxy solution. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cockroachdb/cockroach](../repos/cockroachdb/cockroach.md) | ⭐ 32,517 | 2026-09-27 | CockroachDB — the cloud native, distributed SQL database designed for high availability, effortle... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Billionmail/BillionMail](../repos/Billionmail/BillionMail.md) | ⭐ 15,763 | 2026-09-27 | BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, d... |
 
 
 ---
@@ -89,9 +89,9 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 184,188 | 2026-08-01 | 24 |
-| [golang/go](../repos/golang/go.md) | ⭐ 139,383 | 2026-07-31 | 15 |
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,460 | 2026-08-04 | 10 |
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,512 | 2026-08-15 | 11 |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,476 | 2026-07-31 | 16 |
+| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,554 | 2026-08-04 | 11 |
+| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,572 | 2026-08-15 | 12 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,914 | 2026-08-06 | 12 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,404 | 2026-08-05 | 4 |
@@ -102,7 +102,7 @@
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,012 | 2026-08-11 | 5 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 53,442 | 2026-08-01 | 19 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 53,578 | 2026-08-01 | 20 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,401 | 2026-08-22 | 5 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 50,334 | 2026-08-01 | 20 |
@@ -118,13 +118,13 @@
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 24 | ⭐ 34,389 | 2026-08-01 | 2026-10-16 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 24 | ⭐ 184,188 | 2026-08-01 | 2026-10-21 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 20 | ⭐ 50,334 | 2026-08-01 | 2026-10-20 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 19 | ⭐ 53,442 | 2026-08-01 | 2026-10-21 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 19 | ⭐ 38,520 | 2026-08-01 | 2026-10-19 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 20 | ⭐ 53,578 | 2026-08-01 | 2026-10-22 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 20 | ⭐ 38,623 | 2026-08-01 | 2026-10-22 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 19 | ⭐ 44,261 | 2026-08-07 | 2026-10-17 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 18 | ⭐ 5,489 | 2026-08-02 | 2026-10-18 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 17 | ⭐ 880 | 2026-08-01 | 2026-10-21 |
-| [golang/go](../repos/golang/go.md) | 15 | ⭐ 139,383 | 2026-07-31 | 2026-10-20 |
-| [vxcontrol/pentagi](../repos/vxcontrol/pentagi.md) | 14 | ⭐ 30,725 | 2026-08-06 | 2026-10-16 |
+| [golang/go](../repos/golang/go.md) | 16 | ⭐ 139,476 | 2026-07-31 | 2026-10-22 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 15 | ⭐ 48,056 | 2026-08-20 | 2026-10-22 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.139Z*
+*Last updated: 2026-10-22T21:01:54.314Z*

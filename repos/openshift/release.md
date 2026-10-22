@@ -13,12 +13,12 @@
 | **Language** | Shell |
 | **License** | Apache-2.0 |
 | **Stars** | ⭐ 330 |
-| **Forks** | 🍴 2,402 |
-| **Trending Days** | 6 |
+| **Forks** | 🍴 2,421 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Oct 8, 2026 |
+| **Last Seen** | Oct 22, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Very Active | 330+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:03.512Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-10-22T21:01:56.591Z*  
+*Data from 7 trending reports*

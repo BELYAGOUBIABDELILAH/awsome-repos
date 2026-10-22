@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 142
+- **Total Repositories**: 143
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-22
 
@@ -16,43 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ophub/amlogic-s9xxx-armbian](../repos/ophub/amlogic-s9xxx-armbian.md) | ⭐ 10,182 | 2026-08-03 | 10 |
+| [openshift/release](../repos/openshift/release.md) | ⭐ 330 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,855 | 2026-08-04 | 13 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,292 | 2026-08-04 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,764 | 2026-08-04 | 7 |
+| [hestiacp/hestiacp](../repos/hestiacp/hestiacp.md) | ⭐ 4,542 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,973 | 2026-08-07 | 31 |
+| [bitnami/containers](../repos/bitnami/containers.md) | ⭐ 4,468 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,419 | 2026-08-29 | 8 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 2,985 | 2026-08-07 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,945 | 2026-09-01 | 9 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,484 | 2026-08-29 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,547 | 2026-10-11 | 5 |
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,966 | 2026-09-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [auscaster/frantic-board](../repos/auscaster/frantic-board.md) | ⭐ 642 | 2026-10-21 | 1 |
+| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,775 | 2026-09-02 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,280 | 2026-10-22 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Bash-it/bash-it](../repos/Bash-it/bash-it.md) | ⭐ 15,235 | 2026-09-22 | A community Bash framework. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [iamj0ker/bypass-403](../repos/iamj0ker/bypass-403.md) | ⭐ 2,257 | 2026-09-22 | A simple script just made for self use for bypassing 403 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kejilion/sh](../repos/kejilion/sh.md) | ⭐ 3,409 | 2026-09-22 | KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script! |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [angristan/openvpn-install](../repos/angristan/openvpn-install.md) | ⭐ 16,144 | 2026-09-24 | Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more |
@@ -74,6 +68,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [BlackArch/blackarch](../repos/BlackArch/blackarch.md) | ⭐ 3,514 | 2026-09-27 | An ArchLinux based distribution for penetration testers and security researchers. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [AppImage/appimage.github.io](../repos/AppImage/appimage.github.io.md) | ⭐ 411 | 2026-10-01 | Given an URL to an AppImage, the GitHub action in this project inspects the AppImage and puts it ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [liuzq2002/Adguard-Home-For-Magisk-Mod](../repos/liuzq2002/Adguard-Home-For-Magisk-Mod.md) | ⭐ 1,601 | 2026-10-01 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [caido/caido](../repos/caido/caido.md) | ⭐ 2,658 | 2026-10-06 | 🚀 Caido releases, wiki and roadmap |
 
 
 ---
@@ -88,11 +91,11 @@
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,855 | 2026-08-04 | 13 |
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,419 | 2026-08-29 | 8 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,484 | 2026-08-29 | 9 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,735 | 2026-08-20 | 12 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,703 | 2026-09-02 | 3 |
+| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,775 | 2026-09-02 | 4 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,137 | 2026-08-04 | 12 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,031 | 2026-08-07 | 6 |
@@ -110,9 +113,9 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 39 | ⭐ 95,593 | 2026-08-01 | 2026-10-20 |
-| [expo/skills](../repos/expo/skills.md) | 31 | ⭐ 2,973 | 2026-08-07 | 2026-10-21 |
+| [expo/skills](../repos/expo/skills.md) | 32 | ⭐ 2,985 | 2026-08-07 | 2026-10-22 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [github/copilot-cli](../repos/github/copilot-cli.md) | 21 | ⭐ 11,282 | 2026-08-04 | 2026-10-20 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | 22 | ⭐ 11,292 | 2026-08-04 | 2026-10-22 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 19 | ⭐ 8,002 | 2026-08-12 | 2026-10-16 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 14 | ⭐ 3,099 | 2026-08-05 | 2026-10-18 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 13 | ⭐ 47,855 | 2026-08-04 | 2026-10-21 |
@@ -227,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.237Z*
+*Last updated: 2026-10-22T21:01:54.354Z*

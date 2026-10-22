@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | JavaScript |
 | **License** | ODbL-1.0 |
-| **Stars** | ⭐ 7,017 |
-| **Forks** | 🍴 1,137 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 7,207 |
+| **Forks** | 🍴 1,158 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #8 |
 
 | **First Seen** | Sep 12, 2026 |
-| **Last Seen** | Oct 21, 2026 |
+| **Last Seen** | Oct 22, 2026 |
 
 
 ---
@@ -48,8 +48,8 @@
 ### Highlights
 
 - **Peak Rank**: #8
-- **Trending Days**: 6
-- **Longest Streak**: 5 days
+- **Trending Days**: 7
+- **Longest Streak**: 6 days
 
 ---
 
@@ -92,5 +92,5 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:05.692Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-10-22T21:02:00.589Z*  
+*Data from 7 trending reports*

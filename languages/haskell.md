@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 35
+- **Total Repositories**: 36
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-20
+- **Last Updated**: 2026-10-22
 
 ---
 
@@ -16,7 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,728 | 2026-08-01 | 57 |
+| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,964 | 2026-08-01 | 20 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,727 | 2026-08-01 | 58 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,747 | 2026-08-01 | 26 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,217 | 2026-08-01 | 61 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,175 | 2026-08-01 | 27 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [agda/agda](../repos/agda/agda.md) | ⭐ 2,947 | 2026-08-03 | 30 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,079 | 2026-08-05 | 16 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,770 | 2026-08-06 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [mtolly/onyx](../repos/mtolly/onyx.md) | ⭐ 306 | 2026-08-08 | 33 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | ⭐ 4,781 | 2026-09-29 | 14 |
 
 
 ---
@@ -34,10 +61,13 @@
 | [iijlab/dnsext](../repos/iijlab/dnsext.md) | ⭐ 80 | 2026-09-28 | A DNS full resolver and a stub command |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | ⭐ 4,778 | 2026-09-29 | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. |
+| [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | ⭐ 4,781 | 2026-09-29 | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [actonlang/acton](../repos/actonlang/acton.md) | ⭐ 189 | 2026-09-29 | Actor-based, safely typed, fast programming language. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ghc/ghc](../repos/ghc/ghc.md) | ⭐ 3,274 | 2026-10-22 | Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC&#39;s Gitlab instance... |
 
 
 ---
@@ -46,26 +76,26 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,204 | 2026-08-01 | 60 |
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,728 | 2026-08-01 | 57 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | ⭐ 40,217 | 2026-08-01 | 61 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | ⭐ 27,727 | 2026-08-01 | 58 |
 | [purescript/purescript](../repos/purescript/purescript.md) | ⭐ 8,914 | 2026-08-08 | 4 |
 | [elm/compiler](../repos/elm/compiler.md) | ⭐ 7,907 | 2026-08-09 | 5 |
-| [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,765 | 2026-08-06 | 10 |
+| [unisonweb/unison](../repos/unisonweb/unison.md) | ⭐ 6,770 | 2026-08-06 | 11 |
 | [carp-lang/Carp](../repos/carp-lang/Carp.md) | ⭐ 6,030 | 2026-09-04 | 1 |
 | [digitallyinduced/ihp](../repos/digitallyinduced/ihp.md) | ⭐ 5,330 | 2026-08-02 | 1 |
-| [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | ⭐ 4,778 | 2026-09-29 | 13 |
-| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,078 | 2026-08-05 | 15 |
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,174 | 2026-08-01 | 26 |
-| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,963 | 2026-08-01 | 19 |
-| [agda/agda](../repos/agda/agda.md) | ⭐ 2,944 | 2026-08-03 | 29 |
+| [hledgerorg/hledger](../repos/hledgerorg/hledger.md) | ⭐ 4,781 | 2026-09-29 | 14 |
+| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | ⭐ 4,079 | 2026-08-05 | 16 |
+| [ghc/ghc](../repos/ghc/ghc.md) | ⭐ 3,274 | 2026-10-22 | 1 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | ⭐ 3,175 | 2026-08-01 | 27 |
+| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | ⭐ 2,964 | 2026-08-01 | 20 |
+| [agda/agda](../repos/agda/agda.md) | ⭐ 2,947 | 2026-08-03 | 30 |
 | [wireapp/wire-server](../repos/wireapp/wire-server.md) | ⭐ 2,783 | 2026-08-04 | 2 |
 | [diku-dk/futhark](../repos/diku-dk/futhark.md) | ⭐ 2,778 | 2026-08-02 | 1 |
 | [nammayatri/nammayatri](../repos/nammayatri/nammayatri.md) | ⭐ 2,565 | 2026-08-03 | 14 |
 | [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | ⭐ 1,969 | 2026-08-01 | 46 |
 | [haskell-servant/servant](../repos/haskell-servant/servant.md) | ⭐ 1,967 | 2026-09-02 | 1 |
-| [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,746 | 2026-08-01 | 25 |
+| [haskell/cabal](../repos/haskell/cabal.md) | ⭐ 1,747 | 2026-08-01 | 26 |
 | [IntersectMBO/plutus](../repos/IntersectMBO/plutus.md) | ⭐ 1,635 | 2026-08-05 | 2 |
-| [digital-asset/daml](../repos/digital-asset/daml.md) | ⭐ 916 | 2026-08-01 | 16 |
 
 ---
 
@@ -73,16 +103,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 60 | ⭐ 40,204 | 2026-08-01 | 2026-10-20 |
-| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 57 | ⭐ 27,728 | 2026-08-01 | 2026-10-21 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 61 | ⭐ 40,217 | 2026-08-01 | 2026-10-22 |
+| [PostgREST/postgrest](../repos/PostgREST/postgrest.md) | 58 | ⭐ 27,727 | 2026-08-01 | 2026-10-22 |
 | [monoscope-tech/monoscope](../repos/monoscope-tech/monoscope.md) | 46 | ⭐ 1,969 | 2026-08-01 | 2026-10-19 |
-| [mtolly/onyx](../repos/mtolly/onyx.md) | 32 | ⭐ 306 | 2026-08-08 | 2026-10-19 |
-| [agda/agda](../repos/agda/agda.md) | 29 | ⭐ 2,944 | 2026-08-03 | 2026-10-19 |
-| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 26 | ⭐ 3,174 | 2026-08-01 | 2026-10-17 |
-| [haskell/cabal](../repos/haskell/cabal.md) | 25 | ⭐ 1,746 | 2026-08-01 | 2026-10-19 |
-| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 19 | ⭐ 2,963 | 2026-08-01 | 2026-10-12 |
+| [mtolly/onyx](../repos/mtolly/onyx.md) | 33 | ⭐ 306 | 2026-08-08 | 2026-10-22 |
+| [agda/agda](../repos/agda/agda.md) | 30 | ⭐ 2,947 | 2026-08-03 | 2026-10-22 |
+| [IntersectMBO/cardano-node](../repos/IntersectMBO/cardano-node.md) | 27 | ⭐ 3,175 | 2026-08-01 | 2026-10-22 |
+| [haskell/cabal](../repos/haskell/cabal.md) | 26 | ⭐ 1,747 | 2026-08-01 | 2026-10-22 |
+| [haskell/haskell-language-server](../repos/haskell/haskell-language-server.md) | 20 | ⭐ 2,964 | 2026-08-01 | 2026-10-22 |
 | [digital-asset/daml](../repos/digital-asset/daml.md) | 16 | ⭐ 916 | 2026-08-01 | 2026-10-07 |
-| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | 15 | ⭐ 4,078 | 2026-08-05 | 2026-10-20 |
+| [commercialhaskell/stack](../repos/commercialhaskell/stack.md) | 16 | ⭐ 4,079 | 2026-08-05 | 2026-10-22 |
 
 ---
 
@@ -123,7 +153,8 @@
 - [iijlab/dnsext](../repos/iijlab/dnsext.md) - A DNS full resolver and a stub command
 - [hledgerorg/hledger](../repos/hledgerorg/hledger.md) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [actonlang/acton](../repos/actonlang/acton.md) - Actor-based, safely typed, fast programming language.
+- [ghc/ghc](../repos/ghc/ghc.md) - Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC&#39;s Gitlab instance...
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.150Z*
+*Last updated: 2026-10-22T21:01:54.319Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PowerShell |
 | **License** | CC-BY-4.0 |
-| **Stars** | ⭐ 522 |
-| **Forks** | 🍴 705 |
-| **Trending Days** | 4 |
+| **Stars** | ⭐ 524 |
+| **Forks** | 🍴 707 |
+| **Trending Days** | 5 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 4, 2026 |
-| **Last Seen** | Oct 7, 2026 |
+| **Last Seen** | Oct 22, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 4
+- **Trending Days**: 5
 - **Longest Streak**: 1 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 522+ stars, strong contributor base |
+| **Community** | Very Active | 524+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 65&#x2F;100
+- **Trending Score**: 80&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-21T21:02:05.442Z*  
-*Data from 4 trending reports*
+*Last updated: 2026-10-22T21:02:00.415Z*  
+*Data from 5 trending reports*

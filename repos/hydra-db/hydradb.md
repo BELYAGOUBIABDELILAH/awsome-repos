@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Very Active | 13,043+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Very Active | Updated within last week |
+| **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:05.913Z*  
+*Last updated: 2026-10-22T21:02:00.747Z*  
 *Data from 7 trending reports*

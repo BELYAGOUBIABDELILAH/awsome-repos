@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 171
+- **Total Repositories**: 172
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-15
 
@@ -16,25 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 87,022 | 2026-08-04 | 21 |
+| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 18,788 | 2026-08-14 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 18,506 | 2026-08-14 | 8 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 39,234 | 2026-08-28 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 35,912 | 2026-08-28 | 11 |
+| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 7,207 | 2026-09-12 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 7,017 | 2026-09-12 | 6 |
+| [shaobeichen/dsh-pocket](../repos/shaobeichen/dsh-pocket.md) | ⭐ 2,244 | 2026-10-21 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NomaDamas/CozyClay](../repos/NomaDamas/CozyClay.md) | ⭐ 886 | 2026-10-21 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [xmanrui/dsh-im](../repos/xmanrui/dsh-im.md) | ⭐ 2,272 | 2026-10-21 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [shaobeichen/dsh-pocket](../repos/shaobeichen/dsh-pocket.md) | ⭐ 2,180 | 2026-10-21 | 1 |
+| [adobe/skills](../repos/adobe/skills.md) | ⭐ 295 | 2026-10-22 | 1 |
 
 
 ---
@@ -224,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.158Z*
+*Last updated: 2026-10-22T21:01:54.322Z*

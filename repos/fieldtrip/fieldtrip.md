@@ -14,11 +14,11 @@
 | **License** | GPL-3.0 |
 | **Stars** | ⭐ 992 |
 | **Forks** | 🍴 769 |
-| **Trending Days** | 25 |
+| **Trending Days** | 26 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 21, 2026 |
+| **Last Seen** | Oct 22, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 25
+- **Trending Days**: 26
 - **Longest Streak**: 8 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Very Active | 992+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:02.878Z*  
-*Data from 25 trending reports*
+*Last updated: 2026-10-22T21:01:55.831Z*  
+*Data from 26 trending reports*

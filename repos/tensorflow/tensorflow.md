@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 201,084 |
-| **Forks** | 🍴 79,639 |
-| **Trending Days** | 26 |
+| **Stars** | ⭐ 201,180 |
+| **Forks** | 🍴 79,381 |
+| **Trending Days** | 27 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Jul 30, 2026 |
-| **Last Seen** | Oct 17, 2026 |
+| **Last Seen** | Oct 22, 2026 |
 
 
 ---
@@ -52,7 +52,7 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 26
+- **Trending Days**: 27
 - **Longest Streak**: 6 days
 
 ---
@@ -75,7 +75,7 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 201,084+ stars, strong contributor base |
+| **Community** | Very Active | 201,180+ stars, strong contributor base |
 | **Maturity** | Production Ready | Battle-tested and stable |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
@@ -102,5 +102,5 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:02.356Z*  
-*Data from 26 trending reports*
+*Last updated: 2026-10-22T21:01:55.462Z*  
+*Data from 27 trending reports*

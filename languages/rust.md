@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 222
+- **Total Repositories**: 223
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-21
+- **Last Updated**: 2026-10-22
 
 ---
 
@@ -16,46 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 130,304 | 2026-08-01 | 15 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,034 | 2026-07-31 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tursodatabase/turso](../repos/tursodatabase/turso.md) | ⭐ 24,934 | 2026-08-01 | 3 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 130,468 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 84,387 | 2026-08-05 | 21 |
+| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,498 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 12,257 | 2026-08-17 | 15 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 30,604 | 2026-08-03 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EasyTier/EasyTier](../repos/EasyTier/EasyTier.md) | ⭐ 14,199 | 2026-10-01 | 2 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 84,925 | 2026-08-05 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [harry0703/MangoDisk](../repos/harry0703/MangoDisk.md) | ⭐ 4,484 | 2026-10-07 | 3 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 9,396 | 2026-08-26 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xerj-org/xerj](../repos/xerj-org/xerj.md) | ⭐ 12,755 | 2026-10-07 | 8 |
+| [apache/iggy](../repos/apache/iggy.md) | ⭐ 5,167 | 2026-09-01 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ModernRelay/omnigraph](../repos/ModernRelay/omnigraph.md) | ⭐ 1,599 | 2026-10-20 | 2 |
+| [NVIDIA/OpenShell](../repos/NVIDIA/OpenShell.md) | ⭐ 17,504 | 2026-09-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trymirai/uzu](../repos/trymirai/uzu.md) | ⭐ 2,477 | 2026-10-21 | 1 |
+| [redlib-org/redlib](../repos/redlib-org/redlib.md) | ⭐ 3,879 | 2026-10-22 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [hydra-db/hydradb](../repos/hydra-db/hydradb.md) | ⭐ 13,043 | 2026-09-22 | HydraDB - fast graph database on object storage |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Nasiko-Labs/nasiko](../repos/Nasiko-Labs/nasiko.md) | ⭐ 8,872 | 2026-09-22 | Developer Control Plane for your AI Agents |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [huggingface/tokenizers](../repos/huggingface/tokenizers.md) | ⭐ 11,086 | 2026-09-22 | 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [a2x/cs2-dumper](../repos/a2x/cs2-dumper.md) | ⭐ 2,392 | 2026-09-24 | Counter-Strike: 2 Offset Dumper |
@@ -77,6 +68,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ccfddl/ccf-deadlines](../repos/ccfddl/ccf-deadlines.md) | ⭐ 9,386 | 2026-09-29 | ⏰ Agenticly track ccf-ranked &amp; worldwide conference deadlines (Website, Python Cli, Wechat Applet) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [JayWebtech/autoshorts](../repos/JayWebtech/autoshorts.md) | ⭐ 1,120 | 2026-10-01 | AutoShorts is a local-first desktop application for turning long-form video or audio recordings i... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [EasyTier/EasyTier](../repos/EasyTier/EasyTier.md) | ⭐ 14,199 | 2026-10-01 | A simple, decentralized mesh VPN with WireGuard support. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zerx-lab/FluxDown](../repos/zerx-lab/FluxDown.md) | ⭐ 3,362 | 2026-10-02 | Rust 驱动的多协议下载管理器，支持 HTTP&#x2F;FTP&#x2F;BitTorrent 磁力链接及 HLS&#x2F;DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。 |
 
 
 ---
@@ -85,13 +85,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 130,304 | 2026-08-01 | 15 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 130,468 | 2026-08-01 | 16 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,946 | 2026-07-30 | 11 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 98,335 | 2026-08-09 | 17 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,300 | 2026-08-11 | 9 |
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 90,775 | 2026-07-31 | 5 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 84,387 | 2026-08-05 | 21 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,034 | 2026-07-31 | 6 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 84,925 | 2026-08-05 | 22 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,345 | 2026-08-20 | 5 |
@@ -112,16 +112,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 21 | ⭐ 84,387 | 2026-08-05 | 2026-10-21 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 22 | ⭐ 84,925 | 2026-08-05 | 2026-10-22 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 21 | ⭐ 23,670 | 2026-08-08 | 2026-09-28 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 17 | ⭐ 98,335 | 2026-08-09 | 2026-10-16 |
-| [openai/codex](../repos/openai/codex.md) | 15 | ⭐ 130,304 | 2026-08-01 | 2026-10-21 |
+| [openai/codex](../repos/openai/codex.md) | 16 | ⭐ 130,468 | 2026-08-01 | 2026-10-22 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 15 | ⭐ 41,568 | 2026-08-10 | 2026-10-07 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 15 | ⭐ 12,257 | 2026-08-17 | 2026-10-21 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 14 | ⭐ 26,668 | 2026-08-01 | 2026-10-14 |
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 13 | ⭐ 30,255 | 2026-08-03 | 2026-10-17 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 14 | ⭐ 30,604 | 2026-08-03 | 2026-10-22 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 13 | ⭐ 9,396 | 2026-08-26 | 2026-10-22 |
 | [Automattic/harper](../repos/Automattic/harper.md) | 12 | ⭐ 16,769 | 2026-08-10 | 2026-10-19 |
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 12 | ⭐ 9,337 | 2026-08-26 | 2026-10-20 |
 
 ---
 
@@ -230,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.227Z*
+*Last updated: 2026-10-22T21:01:54.350Z*

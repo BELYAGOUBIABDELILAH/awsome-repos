@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 169
+- **Total Repositories**: 170
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-18
 
@@ -16,28 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | ⭐ 8,363 | 2026-08-02 | 13 |
+| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,951 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vivizzz007/vivi-music](../repos/vivizzz007/vivi-music.md) | ⭐ 3,810 | 2026-08-02 | 10 |
+| [tailscale/tailscale-android](../repos/tailscale/tailscale-android.md) | ⭐ 2,709 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqssun/android-airplay-server](../repos/jqssun/android-airplay-server.md) | ⭐ 735 | 2026-08-07 | 6 |
+| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 6,601 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) | ⭐ 6,956 | 2026-08-16 | 8 |
+| [jqssun/android-airplay-server](../repos/jqssun/android-airplay-server.md) | ⭐ 756 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [streetcomplete/StreetComplete](../repos/streetcomplete/StreetComplete.md) | ⭐ 5,084 | 2026-09-02 | 3 |
+| [google/private-compute-services](../repos/google/private-compute-services.md) | ⭐ 894 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 440 | 2026-09-29 | 3 |
+| [celzero/rethink-app](../repos/celzero/rethink-app.md) | ⭐ 5,721 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 4,009 | 2026-10-12 | 9 |
+| [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) | ⭐ 7,010 | 2026-08-16 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MuwMx/YumaPlayer](../repos/MuwMx/YumaPlayer.md) | ⭐ 937 | 2026-10-13 | 4 |
+| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 4,105 | 2026-10-12 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [jieapi/AiCode](../repos/jieapi/AiCode.md) | ⭐ 311 | 2026-10-22 | 1 |
 
 
 ---
@@ -95,7 +98,7 @@
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,402 | 2026-08-01 | 17 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 23,173 | 2026-08-02 | 6 |
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,852 | 2026-08-01 | 7 |
+| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,951 | 2026-08-01 | 8 |
 | [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,731 | 2026-09-07 | 10 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,495 | 2026-08-17 | 7 |
@@ -227,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.170Z*
+*Last updated: 2026-10-22T21:01:54.326Z*

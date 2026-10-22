@@ -13,12 +13,12 @@
 | **Language** | Scala |
 | **License** | AGPL-3.0 |
 | **Stars** | ⭐ 18,874 |
-| **Forks** | 🍴 2,840 |
-| **Trending Days** | 56 |
+| **Forks** | 🍴 2,787 |
+| **Trending Days** | 57 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 21, 2026 |
+| **Last Seen** | Oct 22, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 56
-- **Longest Streak**: 8 days
+- **Trending Days**: 57
+- **Longest Streak**: 9 days
 
 ---
 
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:03.047Z*  
-*Data from 56 trending reports*
+*Last updated: 2026-10-22T21:01:55.951Z*  
+*Data from 57 trending reports*

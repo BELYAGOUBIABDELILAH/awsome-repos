@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Perl |
 | **License** | Other |
-| **Stars** | ⭐ 2,347 |
-| **Forks** | 🍴 647 |
-| **Trending Days** | 29 |
+| **Stars** | ⭐ 2,349 |
+| **Forks** | 🍴 649 |
+| **Trending Days** | 30 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Oct 19, 2026 |
+| **Last Seen** | Oct 22, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 29
+- **Trending Days**: 30
 - **Longest Streak**: 6 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:03.337Z*  
-*Data from 29 trending reports*
+*Last updated: 2026-10-22T21:01:56.459Z*  
+*Data from 30 trending reports*

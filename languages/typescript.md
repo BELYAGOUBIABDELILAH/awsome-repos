@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 275
+- **Total Repositories**: 278
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 29,124 | 2026-08-01 | 14 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 29,418 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,850 | 2026-08-02 | 8 |
+| [EveryInc/compound-engineering-plugin](../repos/EveryInc/compound-engineering-plugin.md) | ⭐ 25,658 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 38,902 | 2026-08-07 | 17 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 39,521 | 2026-08-07 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | ⭐ 78,178 | 2026-08-10 | 20 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 194,253 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 101,082 | 2026-08-11 | 21 |
+| [github/docs](../repos/github/docs.md) | ⭐ 21,078 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 59,069 | 2026-08-12 | 6 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 102,646 | 2026-08-11 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rmyndharis/OpenWA](../repos/rmyndharis/OpenWA.md) | ⭐ 16,075 | 2026-08-19 | 8 |
+| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 59,524 | 2026-08-12 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cline/cline](../repos/cline/cline.md) | ⭐ 70,727 | 2026-08-20 | 4 |
+| [remotion-dev/remotion](../repos/remotion-dev/remotion.md) | ⭐ 66,345 | 2026-08-16 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ItzCrazyKns/Vane](../repos/ItzCrazyKns/Vane.md) | ⭐ 37,601 | 2026-08-22 | 4 |
+| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 89,218 | 2026-08-28 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 89,083 | 2026-08-28 | 5 |
+| [Open-Dev-Society/OpenStock](../repos/Open-Dev-Society/OpenStock.md) | ⭐ 20,789 | 2026-09-19 | 5 |
 
 
 ---
@@ -91,8 +91,8 @@
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 289,610 | 2026-10-06 | 10 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 206,509 | 2026-08-11 | 6 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 194,253 | 2026-08-07 | 6 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 193,792 | 2026-07-30 | 7 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 166,401 | 2026-08-07 | 5 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 152,634 | 2026-08-07 | 20 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,850 | 2026-08-02 | 8 |
@@ -102,7 +102,7 @@
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 102,669 | 2026-08-02 | 10 |
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 101,082 | 2026-08-11 | 21 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 102,646 | 2026-08-11 | 22 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
 | [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 97,789 | 2026-10-15 | 1 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
@@ -116,12 +116,12 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [cursor/plugins](../repos/cursor/plugins.md) | 23 | ⭐ 13,024 | 2026-08-01 | 2026-10-19 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 22 | ⭐ 102,646 | 2026-08-11 | 2026-10-22 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 21 | ⭐ 65,234 | 2026-08-08 | 2026-10-16 |
-| [stablyai/orca](../repos/stablyai/orca.md) | 21 | ⭐ 101,082 | 2026-08-11 | 2026-10-21 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 20 | ⭐ 152,634 | 2026-08-07 | 2026-10-20 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 17 | ⭐ 38,902 | 2026-08-07 | 2026-10-21 |
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 14 | ⭐ 29,124 | 2026-08-01 | 2026-10-21 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 18 | ⭐ 39,521 | 2026-08-07 | 2026-10-22 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 15 | ⭐ 29,418 | 2026-08-01 | 2026-10-22 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 13 | ⭐ 135,527 | 2026-08-02 | 2026-10-06 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 12 | ⭐ 53,536 | 2026-08-01 | 2026-10-14 |
@@ -190,7 +190,7 @@
 - [open-mercato/open-mercato](../repos/open-mercato/open-mercato.md) - AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural ...
 - [payloadcms/payload](../repos/payloadcms/payload.md) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. ...
 - [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) - The free coding agent
-- [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) - Supercharge your AI agents with data from the web and beyond. Building the library for superintel...
 - [CopilotKit/CopilotKit](../repos/CopilotKit/CopilotKit.md) - The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more.  Makers o...
 - [earendil-works/pi](../repos/earendil-works/pi.md) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [deepcoldy/botmux](../repos/deepcoldy/botmux.md) - Bridge Feishu&#x2F;Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or t...
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-21T21:02:00.250Z*
+*Last updated: 2026-10-22T21:01:54.359Z*
