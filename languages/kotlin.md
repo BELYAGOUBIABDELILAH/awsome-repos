@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 170
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-18
+- **Last Updated**: 2026-10-23
 
 ---
 
@@ -16,31 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [android/nowinandroid](../repos/android/nowinandroid.md) | ⭐ 21,951 | 2026-08-01 | 8 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 64,546 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailscale/tailscale-android](../repos/tailscale/tailscale-android.md) | ⭐ 2,709 | 2026-08-02 | 4 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,968 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HapeLee/legado-with-MD3](../repos/HapeLee/legado-with-MD3.md) | ⭐ 6,601 | 2026-08-02 | 12 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,269 | 2026-08-03 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqssun/android-airplay-server](../repos/jqssun/android-airplay-server.md) | ⭐ 756 | 2026-08-07 | 7 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,504 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/private-compute-services](../repos/google/private-compute-services.md) | ⭐ 894 | 2026-08-09 | 2 |
+| [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) | ⭐ 7,860 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [celzero/rethink-app](../repos/celzero/rethink-app.md) | ⭐ 5,721 | 2026-08-10 | 4 |
+| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 507 | 2026-09-29 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) | ⭐ 7,010 | 2026-08-16 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [kushagrasinghx/BitChord](../repos/kushagrasinghx/BitChord.md) | ⭐ 4,105 | 2026-10-12 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [jieapi/AiCode](../repos/jieapi/AiCode.md) | ⭐ 311 | 2026-10-22 | 1 |
+| [home-assistant/android](../repos/home-assistant/android.md) | ⭐ 3,992 | 2026-10-02 | 2 |
 
 
 ---
@@ -58,7 +52,7 @@
 | [Codename-11/hermes-relay](../repos/Codename-11/hermes-relay.md) | ⭐ 281 | 2026-09-28 | Hermes-Relay — Your Hermes AI agent, in your pocket — chat, voice, and control. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 440 | 2026-09-29 | Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE&#x2F;AmneziaWG, and the MLM... |
+| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 507 | 2026-09-29 | Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE&#x2F;AmneziaWG, and the MLM... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 1,825 | 2026-10-01 | GhostLock One-Tap Execution App (CVE-2026-43499) |
@@ -67,7 +61,7 @@
 | [ReSukiSU/ReSukiSU](../repos/ReSukiSU/ReSukiSU.md) | ⭐ 1,677 | 2026-10-02 | A KernelSU based root solution for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [home-assistant/android](../repos/home-assistant/android.md) | ⭐ 3,945 | 2026-10-02 | Home Assistant Companion for Android |
+| [home-assistant/android](../repos/home-assistant/android.md) | ⭐ 3,992 | 2026-10-02 | Home Assistant Companion for Android |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [GrapheneOS/Messaging](../repos/GrapheneOS/Messaging.md) | ⭐ 221 | 2026-10-02 | Messaging app |
@@ -85,12 +79,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 64,224 | 2026-08-02 | 19 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 64,546 | 2026-08-02 | 20 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,310 | 2026-08-03 | 14 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 55,659 | 2026-08-06 | 15 |
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,495 | 2026-08-04 | 12 |
+| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,504 | 2026-08-04 | 13 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | 2 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,066 | 2026-08-03 | 14 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,269 | 2026-08-03 | 15 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 31,747 | 2026-08-08 | 18 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,447 | 2026-08-05 | 7 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,342 | 2026-08-11 | 5 |
@@ -112,14 +106,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 19 | ⭐ 64,224 | 2026-08-02 | 2026-10-18 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 20 | ⭐ 64,546 | 2026-08-02 | 2026-10-23 |
+| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 18 | ⭐ 2,968 | 2026-08-02 | 2026-10-23 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 18 | ⭐ 31,747 | 2026-08-08 | 2026-10-18 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 17 | ⭐ 24,402 | 2026-08-01 | 2026-10-15 |
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 17 | ⭐ 2,826 | 2026-08-02 | 2026-10-15 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 15 | ⭐ 43,269 | 2026-08-03 | 2026-10-23 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 15 | ⭐ 55,659 | 2026-08-06 | 2026-10-20 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 14 | ⭐ 11,766 | 2026-08-02 | 2026-10-20 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 14 | ⭐ 63,310 | 2026-08-03 | 2026-10-16 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 14 | ⭐ 43,066 | 2026-08-03 | 2026-10-19 |
 | [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 13 | ⭐ 8,363 | 2026-08-02 | 2026-10-21 |
 | [recloudstream/cloudstream](../repos/recloudstream/cloudstream.md) | 13 | ⭐ 10,935 | 2026-08-03 | 2026-10-12 |
 
@@ -230,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.326Z*
+*Last updated: 2026-10-23T21:01:36.821Z*

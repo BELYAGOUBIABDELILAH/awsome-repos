@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 217
+- **Total Repositories**: 218
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-17
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,343 | 2026-08-02 | 20 |
+| [apache/maven](../repos/apache/maven.md) | ⭐ 5,372 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,361 | 2026-08-04 | 10 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,347 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 35,352 | 2026-08-04 | 16 |
+| [bazelbuild/bazel](../repos/bazelbuild/bazel.md) | ⭐ 25,982 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,760 | 2026-08-04 | 20 |
+| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 29,978 | 2026-08-03 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [questdb/questdb](../repos/questdb/questdb.md) | ⭐ 17,462 | 2026-08-05 | 7 |
+| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 5,277 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YunaiV/ruoyi-vue-pro](../repos/YunaiV/ruoyi-vue-pro.md) | ⭐ 39,988 | 2026-08-06 | 13 |
+| [apache/doris](../repos/apache/doris.md) | ⭐ 16,133 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,295 | 2026-08-08 | 10 |
+| [thingsboard/thingsboard](../repos/thingsboard/thingsboard.md) | ⭐ 22,599 | 2026-08-08 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [648540858/wvp-GB28181-pro](../repos/648540858/wvp-GB28181-pro.md) | ⭐ 7,377 | 2026-08-15 | 7 |
+| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | ⭐ 7,231 | 2026-08-14 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Card-Forge/forge](../repos/Card-Forge/forge.md) | ⭐ 2,835 | 2026-08-16 | 10 |
+| [kekingcn/kkFileView](../repos/kekingcn/kkFileView.md) | ⭐ 14,796 | 2026-08-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HMCL-dev/HMCL](../repos/HMCL-dev/HMCL.md) | ⭐ 10,584 | 2026-08-23 | 8 |
+| [apache/nifi](../repos/apache/nifi.md) | ⭐ 6,273 | 2026-10-23 | 1 |
 
 
 ---
@@ -91,7 +91,7 @@
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,826 | 2026-08-04 | 12 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 90,182 | 2026-08-03 | 27 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,760 | 2026-08-04 | 20 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,343 | 2026-08-02 | 20 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,347 | 2026-08-02 | 21 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,331 | 2026-08-04 | 7 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,229 | 2026-08-08 | 2 |
@@ -118,12 +118,12 @@
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 27 | ⭐ 90,182 | 2026-08-03 | 2026-10-17 |
 | [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 27 | ⭐ 6,073 | 2026-08-05 | 2026-10-21 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 23 | ⭐ 29,909 | 2026-08-04 | 2026-10-20 |
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 20 | ⭐ 78,343 | 2026-08-02 | 2026-10-22 |
+| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 21 | ⭐ 78,347 | 2026-08-02 | 2026-10-23 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 20 | ⭐ 81,760 | 2026-08-04 | 2026-10-22 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 19 | ⭐ 27,448 | 2026-08-02 | 2026-10-18 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 19 | ⭐ 42,547 | 2026-08-05 | 2026-10-18 |
-| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 17 | ⭐ 7,179 | 2026-08-14 | 2026-10-21 |
-| [iflytek/skillhub](../repos/iflytek/skillhub.md) | 16 | ⭐ 5,254 | 2026-08-04 | 2026-10-21 |
+| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 18 | ⭐ 7,231 | 2026-08-14 | 2026-10-23 |
+| [iflytek/skillhub](../repos/iflytek/skillhub.md) | 17 | ⭐ 5,277 | 2026-08-04 | 2026-10-23 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 16 | ⭐ 35,352 | 2026-08-04 | 2026-10-22 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.321Z*
+*Last updated: 2026-10-23T21:01:36.816Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | CoffeeScript |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 22,608 |
-| **Forks** | 🍴 3,631 |
-| **Trending Days** | 27 |
+| **Stars** | ⭐ 22,606 |
+| **Forks** | 🍴 3,632 |
+| **Trending Days** | 28 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 22, 2026 |
+| **Last Seen** | Oct 23, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 27
+- **Trending Days**: 28
 - **Longest Streak**: 4 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:55.815Z*  
-*Data from 27 trending reports*
+*Last updated: 2026-10-23T21:01:38.306Z*  
+*Data from 28 trending reports*

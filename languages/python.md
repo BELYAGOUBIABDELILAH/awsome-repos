@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 294
+- **Total Repositories**: 295
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-12
 
@@ -16,28 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shiyu-coder/Kronos](../repos/shiyu-coder/Kronos.md) | ⭐ 43,192 | 2026-08-03 | 8 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 133,846 | 2026-08-03 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 132,816 | 2026-08-03 | 10 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 113,359 | 2026-08-08 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
+| [SnailSploit/Claude-Red](../repos/SnailSploit/Claude-Red.md) | ⭐ 8,362 | 2026-09-12 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/Vibe-Trading](../repos/HKUDS/Vibe-Trading.md) | ⭐ 36,321 | 2026-08-24 | 4 |
+| [OpenBMB/VoxCPM](../repos/OpenBMB/VoxCPM.md) | ⭐ 40,198 | 2026-09-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 31,515 | 2026-09-19 | 10 |
+| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 32,152 | 2026-09-19 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [headroomlabs-ai/headroom](../repos/headroomlabs-ai/headroom.md) | ⭐ 77,547 | 2026-10-09 | 5 |
+| [baidu/Unlimited-OCR](../repos/baidu/Unlimited-OCR.md) | ⭐ 28,280 | 2026-10-13 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fastapi/fastapi](../repos/fastapi/fastapi.md) | ⭐ 103,660 | 2026-10-19 | 2 |
+| [onyx-dot-app/onyx](../repos/onyx-dot-app/onyx.md) | ⭐ 32,925 | 2026-10-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [onyx-dot-app/onyx](../repos/onyx-dot-app/onyx.md) | ⭐ 32,853 | 2026-10-22 | 1 |
+| [Mailu/Mailu](../repos/Mailu/Mailu.md) | ⭐ 7,583 | 2026-10-23 | 1 |
 
 
 ---
@@ -95,10 +95,10 @@
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 142,295 | 2026-08-14 | 8 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 141,347 | 2026-08-04 | 7 |
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 132,816 | 2026-08-03 | 10 |
+| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 133,846 | 2026-08-03 | 11 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 132,098 | 2026-08-01 | 17 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 111,892 | 2026-08-08 | 11 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 113,359 | 2026-08-08 | 12 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 104,706 | 2026-07-30 | 6 |
 | [fastapi/fastapi](../repos/fastapi/fastapi.md) | ⭐ 103,660 | 2026-10-19 | 2 |
@@ -227,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.343Z*
+*Last updated: 2026-10-23T21:01:36.838Z*

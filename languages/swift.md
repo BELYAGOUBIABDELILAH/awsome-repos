@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 136
+- **Total Repositories**: 137
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-02
 
@@ -16,25 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FluidInference/FluidAudio](../repos/FluidInference/FluidAudio.md) | ⭐ 3,165 | 2026-08-01 | 9 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,889 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apple/swift-nio](../repos/apple/swift-nio.md) | ⭐ 8,538 | 2026-08-04 | 15 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,984 | 2026-08-04 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,912 | 2026-08-04 | 15 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,918 | 2026-08-04 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rime/squirrel](../repos/rime/squirrel.md) | ⭐ 6,464 | 2026-08-09 | 4 |
+| [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,301 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 22,032 | 2026-08-12 | 10 |
+| [getsentry/sentry-cocoa](../repos/getsentry/sentry-cocoa.md) | ⭐ 1,131 | 2026-08-07 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iliyami/MacSai](../repos/iliyami/MacSai.md) | ⭐ 1,944 | 2026-09-06 | 8 |
+| [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,944 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kaishi00/hermes-conduit](../repos/kaishi00/hermes-conduit.md) | ⭐ 399 | 2026-09-29 | 2 |
+| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 2,210 | 2026-08-12 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,734 | 2026-08-12 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ProxymanApp/TCPViewer](../repos/ProxymanApp/TCPViewer.md) | ⭐ 562 | 2026-09-03 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [JohnCoates/Aerial](../repos/JohnCoates/Aerial.md) | ⭐ 21,032 | 2026-10-23 | 1 |
 
 
 ---
@@ -82,23 +91,23 @@
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,451 | 2026-08-05 | 15 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,673 | 2026-09-04 | 5 |
 | [apple/container](../repos/apple/container.md) | ⭐ 50,809 | 2026-08-01 | 17 |
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,661 | 2026-08-12 | 11 |
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,734 | 2026-08-12 | 12 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,302 | 2026-08-01 | 21 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 27,997 | 2026-08-04 | 4 |
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,912 | 2026-08-04 | 15 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,918 | 2026-08-04 | 16 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
 | [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 22,032 | 2026-08-12 | 10 |
+| [JohnCoates/Aerial](../repos/JohnCoates/Aerial.md) | ⭐ 21,032 | 2026-10-23 | 1 |
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,130 | 2026-08-03 | 4 |
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,987 | 2026-08-24 | 12 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,976 | 2026-08-04 | 19 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,984 | 2026-08-04 | 20 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,686 | 2026-08-17 | 14 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,482 | 2026-08-08 | 8 |
-| [supertone-inc/supertonic](../repos/supertone-inc/supertonic.md) | ⭐ 13,776 | 2026-08-01 | 3 |
 
 ---
 
@@ -108,14 +117,14 @@
 |------------|---------------|-------|------------|-----------|
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 29 | ⭐ 13,231 | 2026-08-01 | 2026-10-20 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 21 | ⭐ 28,302 | 2026-08-01 | 2026-10-20 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 19 | ⭐ 14,976 | 2026-08-04 | 2026-10-20 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 20 | ⭐ 14,984 | 2026-08-04 | 2026-10-23 |
 | [apple/container](../repos/apple/container.md) | 17 | ⭐ 50,809 | 2026-08-01 | 2026-10-19 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 16 | ⭐ 9,324 | 2026-08-02 | 2026-10-21 |
+| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 16 | ⭐ 26,918 | 2026-08-04 | 2026-10-23 |
 | [apple/swift-nio](../repos/apple/swift-nio.md) | 15 | ⭐ 8,538 | 2026-08-04 | 2026-10-22 |
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 15 | ⭐ 26,912 | 2026-08-04 | 2026-10-22 |
 | [swiftlang/swift](../repos/swiftlang/swift.md) | 15 | ⭐ 70,451 | 2026-08-05 | 2026-10-02 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | 14 | ⭐ 14,686 | 2026-08-17 | 2026-10-19 |
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 12 | ⭐ 3,687 | 2026-08-01 | 2026-10-06 |
+| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | 13 | ⭐ 3,889 | 2026-08-01 | 2026-10-23 |
 
 ---
 
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.357Z*
+*Last updated: 2026-10-23T21:01:36.851Z*

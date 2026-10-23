@@ -13,12 +13,12 @@
 | **Language** | R |
 | **License** | MPL-2.0 |
 | **Stars** | ⭐ 3,928 |
-| **Forks** | 🍴 1,060 |
-| **Trending Days** | 28 |
+| **Forks** | 🍴 1,059 |
+| **Trending Days** | 29 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Oct 22, 2026 |
+| **Last Seen** | Oct 23, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 28
+- **Trending Days**: 29
 - **Longest Streak**: 6 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:56.604Z*  
-*Data from 28 trending reports*
+*Last updated: 2026-10-23T21:01:38.810Z*  
+*Data from 29 trending reports*

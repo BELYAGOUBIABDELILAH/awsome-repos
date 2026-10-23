@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Fortran |
 | **License** | Other |
-| **Stars** | ⭐ 449 |
-| **Forks** | 🍴 487 |
-| **Trending Days** | 54 |
+| **Stars** | ⭐ 448 |
+| **Forks** | 🍴 486 |
+| **Trending Days** | 55 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 22, 2026 |
+| **Last Seen** | Oct 23, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 54
+- **Trending Days**: 55
 - **Longest Streak**: 11 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`e3sm`](../../topics/e3sm.md) [`earth-science`](../../topics/earth-science.md) [`fortran`](../../topics/fortran.md) [`snl-applications`](../../topics/snl-applications.md) 
+[`e3sm`](../../topics/e3sm.md) [`earth-science`](../../topics/earth-science.md) [`fortran`](../../topics/fortran.md) [`high-performance-computing`](../../topics/high-performance-computing.md) [`scientific-computing`](../../topics/scientific-computing.md) [`snl-applications`](../../topics/snl-applications.md) 
 
 ### Curated Categories
 `Systems Programming` 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 449+ stars, strong contributor base |
+| **Community** | Very Active | 448+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:55.808Z*  
-*Data from 54 trending reports*
+*Last updated: 2026-10-23T21:01:38.297Z*  
+*Data from 55 trending reports*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 109
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-06
+- **Last Updated**: 2026-10-23
 
 ---
 
@@ -16,13 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,284 | 2026-08-05 | 13 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,268 | 2026-08-03 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rajhodedara/live-sport-plugin](../repos/rajhodedara/live-sport-plugin.md) | ⭐ 245 | 2026-09-25 | 3 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | ⭐ 6,282 | 2026-08-05 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MengTo/threeui](../repos/MengTo/threeui.md) | ⭐ 6,787 | 2026-10-22 | 1 |
+| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,603 | 2026-08-05 | 9 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [cotes2020/jekyll-theme-chirpy](../repos/cotes2020/jekyll-theme-chirpy.md) | ⭐ 10,307 | 2026-08-05 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,722 | 2026-08-07 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 5,605 | 2026-08-11 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [isjiamu/gzh-design-skill](../repos/isjiamu/gzh-design-skill.md) | ⭐ 4,130 | 2026-09-01 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Hisn00w/ASu-skills](../repos/Hisn00w/ASu-skills.md) | ⭐ 5,942 | 2026-10-12 | 2 |
 
 
 ---
@@ -67,14 +82,14 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 209,914 | 2026-08-03 | 17 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,268 | 2026-08-03 | 18 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 138,503 | 2026-08-08 | 14 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,193 | 2026-08-19 | 8 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 67,007 | 2026-08-01 | 17 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,544 | 2026-08-01 | 8 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,233 | 2026-09-03 | 4 |
-| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,676 | 2026-08-07 | 6 |
+| [google/styleguide](../repos/google/styleguide.md) | ⭐ 39,722 | 2026-08-07 | 7 |
 | [fengdu78/Coursera-ML-AndrewNg-Notes](../repos/fengdu78/Coursera-ML-AndrewNg-Notes.md) | ⭐ 37,699 | 2026-09-06 | 1 |
 | [alpinejs/alpine](../repos/alpinejs/alpine.md) | ⭐ 31,980 | 2026-08-12 | 2 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | ⭐ 30,193 | 2026-08-09 | 15 |
@@ -94,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [ossu/computer-science](../repos/ossu/computer-science.md) | 18 | ⭐ 210,268 | 2026-08-03 | 2026-10-23 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 17 | ⭐ 67,007 | 2026-08-01 | 2026-10-02 |
-| [ossu/computer-science](../repos/ossu/computer-science.md) | 17 | ⭐ 209,914 | 2026-08-03 | 2026-10-06 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 16 | ⭐ 28,016 | 2026-08-04 | 2026-10-15 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 15 | ⭐ 10,572 | 2026-08-03 | 2026-10-01 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 15 | ⭐ 30,193 | 2026-08-09 | 2026-10-18 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 14 | ⭐ 9,967 | 2026-08-01 | 2026-10-18 |
+| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 14 | ⭐ 6,282 | 2026-08-05 | 2026-10-23 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 14 | ⭐ 138,503 | 2026-08-08 | 2026-09-25 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 13 | ⭐ 16,604 | 2026-08-04 | 2026-10-16 |
-| [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 13 | ⭐ 6,284 | 2026-08-05 | 2026-10-22 |
-| [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | 13 | ⭐ 43,224 | 2026-08-12 | 2026-10-03 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 13 | ⭐ 5,605 | 2026-08-11 | 2026-10-23 |
 
 ---
 
@@ -212,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.318Z*
+*Last updated: 2026-10-23T21:01:36.813Z*

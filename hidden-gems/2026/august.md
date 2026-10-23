@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 291
+**Gems Found**: 286
 
 ---
 
@@ -91,27 +91,7 @@
 
 ---
 
-### 5. [github&#x2F;gh-stack](../../repos/github/gh-stack.md)
-
-**GitHub Stacked PRs**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,047 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 80/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+100 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/github/gh-stack.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;github&#x2F;gh-stack)
-
----
-
-### 6. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+### 5. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
 
 **OCTO Android Client — Open-source enterprise IM**
 
@@ -131,7 +111,7 @@
 
 ---
 
-### 7. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
+### 6. [JetBrains&#x2F;go-modern-guidelines](../../repos/JetBrains/go-modern-guidelines.md)
 
 **Help AI coding agents write modern Go**
 
@@ -151,7 +131,7 @@
 
 ---
 
-### 8. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
+### 7. [h3nock&#x2F;remux](../../repos/h3nock/remux.md)
 
 **A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.**
 
@@ -171,7 +151,7 @@
 
 ---
 
-### 9. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
+### 8. [bookorbit&#x2F;bookorbit](../../repos/bookorbit/bookorbit.md)
 
 **BookOrbit: Your Reading Space**
 
@@ -191,7 +171,7 @@
 
 ---
 
-### 10. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
+### 9. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
 
 **Mission control for your AI agents**
 
@@ -211,7 +191,7 @@
 
 ---
 
-### 11. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
+### 10. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
 
 **BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
 
@@ -231,27 +211,7 @@
 
 ---
 
-### 12. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
-
-**Portable Tool for an Ideal Windows Setup**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,621 |
-| 💻 **Language** | C# |
-| 🏆 **Gem Score** | 77/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 24, 2026 |
-
-**Why it's a gem**: High growth velocity (+52 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Greedeks/GTweak.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Greedeks&#x2F;GTweak)
-
----
-
-### 13. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
+### 11. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
 
 **BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
 
@@ -271,27 +231,7 @@
 
 ---
 
-### 14. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
-
-**Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 4,568 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 76/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 8, 2026 |
-
-**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/malisper/pgrust.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;malisper&#x2F;pgrust)
-
----
-
-### 15. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
+### 12. [AgriciDaniel&#x2F;claude-obsidian](../../repos/AgriciDaniel/claude-obsidian.md)
 
 **Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy&#39;s LLM Wiki pattern.**
 
@@ -311,27 +251,7 @@
 
 ---
 
-### 16. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
-
-**The coding agent that answers to you, your model, your machine, your rules.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,544 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 76/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 16, 2026 |
-
-**Why it's a gem**: High growth velocity (+99 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Gitlawb/zero.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Gitlawb&#x2F;zero)
-
----
-
-### 17. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+### 13. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
 
 **Visualize your year in travel using your Google Location History (Timeline) data**
 
@@ -351,7 +271,7 @@
 
 ---
 
-### 18. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
+### 14. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
 
 **A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.**
 
@@ -371,7 +291,27 @@
 
 ---
 
-### 19. [workweave&#x2F;router](../../repos/workweave/router.md)
+### 15. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+
+**Portable Tool for an Ideal Windows Setup**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,621 |
+| 💻 **Language** | C# |
+| 🏆 **Gem Score** | 76/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 24, 2026 |
+
+**Why it's a gem**: High growth velocity (+52 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Greedeks/GTweak.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Greedeks&#x2F;GTweak)
+
+---
+
+### 16. [workweave&#x2F;router](../../repos/workweave/router.md)
 
 **Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
@@ -391,7 +331,7 @@
 
 ---
 
-### 20. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
+### 17. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
 
 **Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
 
@@ -411,6 +351,66 @@
 
 ---
 
+### 18. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
+
+**Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,568 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 75/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Aug 8, 2026 |
+
+**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/malisper/pgrust.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;malisper&#x2F;pgrust)
+
+---
+
+### 19. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
+
+**The coding agent that answers to you, your model, your machine, your rules.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,544 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 75/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 16, 2026 |
+
+**Why it's a gem**: High growth velocity (+99 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Gitlawb/zero.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Gitlawb&#x2F;zero)
+
+---
+
+### 20. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
+
+**Where people and agents build in tune.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,575 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 75/100 |
+| 📈 **Trending Days** | 2 |
+| 📅 **First Seen** | Aug 27, 2026 |
+
+**Why it's a gem**: High growth velocity (+62 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/tutti-os/tutti.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tutti-os&#x2F;tutti)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-22T21:02:01.350Z*  
+*Generated: 2026-10-23T21:01:41.298Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

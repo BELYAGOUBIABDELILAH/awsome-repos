@@ -16,19 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 18,788 | 2026-08-14 | 9 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,211 | 2026-07-30 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 39,234 | 2026-08-28 | 12 |
+| [projectdiscovery/nuclei-templates](../repos/projectdiscovery/nuclei-templates.md) | ⭐ 13,197 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [withmarbleapp/os-taxonomy](../repos/withmarbleapp/os-taxonomy.md) | ⭐ 7,207 | 2026-09-12 | 7 |
+| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 19,012 | 2026-08-14 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shaobeichen/dsh-pocket](../repos/shaobeichen/dsh-pocket.md) | ⭐ 2,244 | 2026-10-21 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [adobe/skills](../repos/adobe/skills.md) | ⭐ 295 | 2026-10-22 | 1 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 41,892 | 2026-08-28 | 13 |
 
 
 ---
@@ -77,7 +74,7 @@
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | 2026-07-30 | 3 |
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,053 | 2026-07-30 | 12 |
+| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,211 | 2026-07-30 | 13 |
 | [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 108,158 | 2026-08-05 | 29 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
@@ -105,11 +102,11 @@
 | [byoungd/up](../repos/byoungd/up.md) | 18 | ⭐ 66,612 | 2026-08-01 | 2026-10-01 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 14 | ⭐ 5,119 | 2026-08-07 | 2026-10-20 |
+| [vercel/next.js](../repos/vercel/next.js.md) | 13 | ⭐ 143,211 | 2026-07-30 | 2026-10-23 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 13 | ⭐ 56,874 | 2026-08-27 | 2026-10-15 |
-| [vercel/next.js](../repos/vercel/next.js.md) | 12 | ⭐ 143,053 | 2026-07-30 | 2026-10-17 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 13 | ⭐ 41,892 | 2026-08-28 | 2026-10-23 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 12 | ⭐ 27,764 | 2026-08-03 | 2026-10-12 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 12 | ⭐ 30,461 | 2026-08-08 | 2026-10-15 |
-| [mnfst/awesome-free-llm-apis](../repos/mnfst/awesome-free-llm-apis.md) | 12 | ⭐ 10,609 | 2026-08-10 | 2026-10-18 |
 
 ---
 
@@ -218,4 +215,4 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.322Z*
+*Last updated: 2026-10-23T21:01:36.818Z*

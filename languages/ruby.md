@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 106
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-22
+- **Last Updated**: 2026-10-23
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,994 | 2026-08-01 | 44 |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,110 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 6,026 | 2026-08-01 | 26 |
+| [zammad/zammad](../repos/zammad/zammad.md) | ⭐ 6,027 | 2026-08-01 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,790 | 2026-08-01 | 37 |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,590 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,566 | 2026-08-01 | 40 |
+| [instructure/canvas-lms](../repos/instructure/canvas-lms.md) | ⭐ 6,886 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [spree/spree](../repos/spree/spree.md) | ⭐ 15,772 | 2026-08-01 | 29 |
+| [github-linguist/linguist](../repos/github-linguist/linguist.md) | ⭐ 13,745 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [instructure/canvas-lms](../repos/instructure/canvas-lms.md) | ⭐ 6,883 | 2026-08-01 | 15 |
+| [rubocop/rubocop](../repos/rubocop/rubocop.md) | ⭐ 12,915 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | ⭐ 5,809 | 2026-08-01 | 30 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 58,851 | 2026-08-02 | 45 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 39,206 | 2026-08-01 | 36 |
+| [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,732 | 2026-08-03 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,076 | 2026-08-01 | 33 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,290 | 2026-08-04 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rails/rails](../repos/rails/rails.md) | ⭐ 58,847 | 2026-08-02 | 44 |
+| [puma/puma](../repos/puma/puma.md) | ⭐ 7,920 | 2026-08-04 | 3 |
 
 
 ---
@@ -52,7 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pglombardo/PasswordPusher](../repos/pglombardo/PasswordPusher.md) | ⭐ 3,230 | 2026-09-24 | 🔐   Securely share sensitive information with automatic expiration &amp; deletion after a set number... |
+| [pglombardo/PasswordPusher](../repos/pglombardo/PasswordPusher.md) | ⭐ 3,232 | 2026-09-24 | 🔐   Securely share sensitive information with automatic expiration &amp; deletion after a set number... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [matteocrippa/awesome-swift](../repos/matteocrippa/awesome-swift.md) | ⭐ 26,334 | 2026-09-27 | A collaborative list of awesome Swift libraries and resources. Feel free to contribute! |
@@ -88,24 +88,24 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rails/rails](../repos/rails/rails.md) | ⭐ 58,847 | 2026-08-02 | 44 |
-| [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,714 | 2026-08-03 | 20 |
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,083 | 2026-08-01 | 27 |
+| [rails/rails](../repos/rails/rails.md) | ⭐ 58,851 | 2026-08-02 | 45 |
+| [jekyll/jekyll](../repos/jekyll/jekyll.md) | ⭐ 51,732 | 2026-08-03 | 21 |
+| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,110 | 2026-08-01 | 28 |
 | [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 47,994 | 2026-08-01 | 44 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,283 | 2026-08-04 | 35 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | ⭐ 42,290 | 2026-08-04 | 36 |
 | [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | ⭐ 39,206 | 2026-08-01 | 36 |
-| [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,217 | 2026-08-05 | 9 |
+| [hashicorp/vagrant](../repos/hashicorp/vagrant.md) | ⭐ 27,215 | 2026-08-05 | 10 |
 | [matteocrippa/awesome-swift](../repos/matteocrippa/awesome-swift.md) | ⭐ 26,334 | 2026-09-27 | 7 |
 | [gitlabhq/gitlabhq](../repos/gitlabhq/gitlabhq.md) | ⭐ 24,533 | 2026-08-01 | 16 |
-| [heartcombo/devise](../repos/heartcombo/devise.md) | ⭐ 24,354 | 2026-09-08 | 4 |
+| [heartcombo/devise](../repos/heartcombo/devise.md) | ⭐ 24,355 | 2026-09-08 | 5 |
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,790 | 2026-08-01 | 37 |
-| [forem/forem](../repos/forem/forem.md) | ⭐ 22,803 | 2026-08-04 | 13 |
+| [forem/forem](../repos/forem/forem.md) | ⭐ 22,807 | 2026-08-04 | 14 |
 | [docusealco/docuseal](../repos/docusealco/docuseal.md) | ⭐ 18,773 | 2026-08-02 | 28 |
-| [postalserver/postal](../repos/postalserver/postal.md) | ⭐ 16,875 | 2026-08-04 | 18 |
-| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,566 | 2026-08-01 | 40 |
+| [postalserver/postal](../repos/postalserver/postal.md) | ⭐ 16,888 | 2026-08-04 | 19 |
+| [opf/openproject](../repos/opf/openproject.md) | ⭐ 16,590 | 2026-08-01 | 41 |
 | [spree/spree](../repos/spree/spree.md) | ⭐ 15,772 | 2026-08-01 | 29 |
 | [CocoaPods/CocoaPods](../repos/CocoaPods/CocoaPods.md) | ⭐ 14,833 | 2026-09-02 | 3 |
-| [basecamp/kamal](../repos/basecamp/kamal.md) | ⭐ 14,676 | 2026-08-12 | 13 |
+| [basecamp/kamal](../repos/basecamp/kamal.md) | ⭐ 14,680 | 2026-08-12 | 14 |
 | [neutraltone/awesome-stock-resources](../repos/neutraltone/awesome-stock-resources.md) | ⭐ 14,624 | 2026-09-04 | 8 |
 | [gollum/gollum](../repos/gollum/gollum.md) | ⭐ 14,323 | 2026-09-08 | 1 |
 
@@ -115,12 +115,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [rails/rails](../repos/rails/rails.md) | 45 | ⭐ 58,851 | 2026-08-02 | 2026-10-23 |
 | [discourse/discourse](../repos/discourse/discourse.md) | 44 | ⭐ 47,994 | 2026-08-01 | 2026-10-22 |
-| [rails/rails](../repos/rails/rails.md) | 44 | ⭐ 58,847 | 2026-08-02 | 2026-10-22 |
-| [opf/openproject](../repos/opf/openproject.md) | 40 | ⭐ 16,566 | 2026-08-01 | 2026-10-22 |
+| [opf/openproject](../repos/opf/openproject.md) | 41 | ⭐ 16,590 | 2026-08-01 | 2026-10-23 |
 | [ruby/ruby](../repos/ruby/ruby.md) | 37 | ⭐ 23,790 | 2026-08-01 | 2026-10-22 |
 | [rapid7/metasploit-framework](../repos/rapid7/metasploit-framework.md) | 36 | ⭐ 39,206 | 2026-08-01 | 2026-10-22 |
-| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 35 | ⭐ 42,283 | 2026-08-04 | 2026-10-22 |
+| [fastlane/fastlane](../repos/fastlane/fastlane.md) | 36 | ⭐ 42,290 | 2026-08-04 | 2026-10-23 |
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | 33 | ⭐ 1,076 | 2026-08-01 | 2026-10-22 |
 | [we-promise/sure](../repos/we-promise/sure.md) | 32 | ⭐ 10,599 | 2026-08-02 | 2026-10-20 |
 | [dependabot/dependabot-core](../repos/dependabot/dependabot-core.md) | 30 | ⭐ 5,809 | 2026-08-01 | 2026-10-22 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.348Z*
+*Last updated: 2026-10-23T21:01:36.843Z*

@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/eShop](../repos/dotnet/eShop.md) | ⭐ 10,976 | 2026-08-01 | 5 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,367 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kgrzybek/modular-monolith-with-ddd](../repos/kgrzybek/modular-monolith-with-ddd.md) | ⭐ 14,092 | 2026-08-01 | 2 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,489 | 2026-08-01 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,480 | 2026-08-01 | 19 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,462 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,702 | 2026-08-03 | 33 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,714 | 2026-08-03 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,375 | 2026-08-04 | 16 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,380 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DataDog/dd-trace-dotnet](../repos/DataDog/dd-trace-dotnet.md) | ⭐ 573 | 2026-08-04 | 5 |
+| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,383 | 2026-08-05 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,382 | 2026-08-05 | 17 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,696 | 2026-08-05 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Azure/azure-powershell](../repos/Azure/azure-powershell.md) | ⭐ 4,811 | 2026-08-06 | 3 |
+| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,100 | 2026-08-22 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PCL-Community/PCL-CE](../repos/PCL-Community/PCL-CE.md) | ⭐ 4,745 | 2026-09-14 | 3 |
+| [stride3d/stride](../repos/stride3d/stride.md) | ⭐ 7,912 | 2026-09-03 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [STranslate/STranslate](../repos/STranslate/STranslate.md) | ⭐ 8,372 | 2026-09-08 | 3 |
 
 
 ---
@@ -58,7 +61,7 @@
 | [marcussacana/DirectPackageInstaller](../repos/marcussacana/DirectPackageInstaller.md) | ⭐ 475 | 2026-09-24 | Send Direct PKG URLs to your PS4 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 2,722 | 2026-09-24 | A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. ... |
+| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 2,896 | 2026-09-24 | A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [open-telemetry/opentelemetry-dotnet-contrib](../repos/open-telemetry/opentelemetry-dotnet-contrib.md) | ⭐ 676 | 2026-09-25 | This repository contains set of components extending functionality of the OpenTelemetry .NET SDK.... |
@@ -70,7 +73,7 @@
 | [roflmuffin/CounterStrikeSharp](../repos/roflmuffin/CounterStrikeSharp.md) | ⭐ 1,361 | 2026-09-25 | CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2&#x2F;Source2&#x2F;CS2 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [Tianyu199509/DeskBox](../repos/Tianyu199509/DeskBox.md) | ⭐ 6,559 | 2026-09-27 | A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets. |
+| [Tianyu199509/DeskBox](../repos/Tianyu199509/DeskBox.md) | ⭐ 7,465 | 2026-09-27 | A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [RayWangQvQ/BiliBiliToolPro](../repos/RayWangQvQ/BiliBiliToolPro.md) | ⭐ 9,053 | 2026-09-27 | B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。 |
@@ -86,18 +89,18 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 118,208 | 2026-08-02 | 30 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,265 | 2026-08-02 | 20 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,462 | 2026-08-02 | 21 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,896 | 2026-08-06 | 18 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,091 | 2026-08-01 | 15 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,291 | 2026-08-14 | 6 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,965 | 2026-08-03 | 12 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,480 | 2026-08-01 | 19 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,489 | 2026-08-01 | 20 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 32,410 | 2026-08-02 | 33 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,047 | 2026-08-01 | 19 |
-| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 31,956 | 2026-08-22 | 4 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,367 | 2026-08-01 | 20 |
+| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,100 | 2026-08-22 | 5 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,062 | 2026-08-28 | 3 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,603 | 2026-08-05 | 11 |
+| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,696 | 2026-08-05 | 12 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,124 | 2026-08-10 | 7 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,527 | 2026-08-02 | 9 |
 | [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,440 | 2026-08-01 | 9 |
@@ -112,14 +115,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [dotnet/skills](../repos/dotnet/skills.md) | 34 | ⭐ 5,714 | 2026-08-03 | 2026-10-23 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 33 | ⭐ 32,410 | 2026-08-02 | 2026-10-19 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 33 | ⭐ 5,702 | 2026-08-03 | 2026-10-22 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 30 | ⭐ 118,208 | 2026-08-02 | 2026-10-14 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 20 | ⭐ 58,265 | 2026-08-02 | 2026-10-19 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 21 | ⭐ 58,462 | 2026-08-02 | 2026-10-23 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 20 | ⭐ 32,367 | 2026-08-01 | 2026-10-23 |
+| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 20 | ⭐ 38,489 | 2026-08-01 | 2026-10-23 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 20 | ⭐ 16,397 | 2026-08-02 | 2026-10-21 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 19 | ⭐ 32,047 | 2026-08-01 | 2026-10-15 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 19 | ⭐ 3,789 | 2026-08-01 | 2026-10-20 |
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 19 | ⭐ 38,480 | 2026-08-01 | 2026-10-22 |
 | [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | 19 | ⭐ 17,291 | 2026-08-03 | 2026-10-18 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 18 | ⭐ 14,627 | 2026-08-01 | 2026-10-19 |
 
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.290Z*
+*Last updated: 2026-10-23T21:01:36.787Z*

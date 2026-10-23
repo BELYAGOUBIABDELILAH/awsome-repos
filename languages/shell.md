@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 143
+- **Total Repositories**: 145
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-08-22
+- **Last Updated**: 2026-10-23
 
 ---
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openshift/release](../repos/openshift/release.md) | ⭐ 330 | 2026-08-04 | 7 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,638 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,292 | 2026-08-04 | 22 |
+| [void-linux/void-packages](../repos/void-linux/void-packages.md) | ⭐ 3,474 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hestiacp/hestiacp](../repos/hestiacp/hestiacp.md) | ⭐ 4,542 | 2026-08-06 | 5 |
+| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 8,275 | 2026-08-04 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitnami/containers](../repos/bitnami/containers.md) | ⭐ 4,468 | 2026-08-06 | 2 |
+| [bitnami/containers](../repos/bitnami/containers.md) | ⭐ 4,470 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 2,985 | 2026-08-07 | 32 |
+| [d3/d3](../repos/d3/d3.md) | ⭐ 113,793 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,484 | 2026-08-29 | 9 |
+| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,670 | 2026-08-08 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 4,966 | 2026-09-01 | 10 |
+| [MichaIng/DietPi](../repos/MichaIng/DietPi.md) | ⭐ 6,349 | 2026-09-13 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,775 | 2026-09-02 | 4 |
+| [kejilion/sh](../repos/kejilion/sh.md) | ⭐ 3,481 | 2026-09-22 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,280 | 2026-10-22 | 1 |
+| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,301 | 2026-10-22 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [nextcloud/docker](../repos/nextcloud/docker.md) | ⭐ 7,406 | 2026-10-23 | 1 |
 
 
 ---
@@ -85,8 +88,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [d3/d3](../repos/d3/d3.md) | ⭐ 113,527 | 2026-08-07 | 2 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,593 | 2026-08-01 | 39 |
+| [d3/d3](../repos/d3/d3.md) | ⭐ 113,793 | 2026-08-07 | 3 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,638 | 2026-08-01 | 40 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,666 | 2026-08-04 | 8 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
@@ -112,7 +115,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 39 | ⭐ 95,593 | 2026-08-01 | 2026-10-20 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 40 | ⭐ 95,638 | 2026-08-01 | 2026-10-23 |
 | [expo/skills](../repos/expo/skills.md) | 32 | ⭐ 2,985 | 2026-08-07 | 2026-10-22 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 22 | ⭐ 11,292 | 2026-08-04 | 2026-10-22 |
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.354Z*
+*Last updated: 2026-10-23T21:01:36.849Z*

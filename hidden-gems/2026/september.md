@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 403
+**Gems Found**: 397
 
 ---
 
@@ -59,7 +59,7 @@
 |---|---|
 | ⭐ **Stars** | 3,873 |
 | 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 92/100 |
+| 🏆 **Gem Score** | 91/100 |
 | 📈 **Trending Days** | 8 |
 | 📅 **First Seen** | Aug 14, 2026 |
 
@@ -111,27 +111,7 @@
 
 ---
 
-### 6. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
-
-**Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 7,722 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 87/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Aug 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+69 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/chenyme/grok2api.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chenyme&#x2F;grok2api)
-
----
-
-### 7. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+### 6. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
 
 **Native GUI for Homebrew Casks**
 
@@ -151,7 +131,7 @@
 
 ---
 
-### 8. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+### 7. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
 
 **Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
 
@@ -171,7 +151,7 @@
 
 ---
 
-### 9. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+### 8. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
 
 **Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
 
@@ -191,7 +171,7 @@
 
 ---
 
-### 10. [feigeCode&#x2F;navop](../../repos/feigeCode/navop.md)
+### 9. [feigeCode&#x2F;navop](../../repos/feigeCode/navop.md)
 
 **A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.**
 
@@ -211,27 +191,7 @@
 
 ---
 
-### 11. [TNT-Likely&#x2F;PanWatch](../../repos/TNT-Likely/PanWatch.md)
-
-**盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股&#x2F;港股&#x2F;美股实时监控、持仓管理、智能分析、全渠道推送**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,761 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 86/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Sep 21, 2026 |
-
-**Why it's a gem**: High growth velocity (+202 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/TNT-Likely/PanWatch.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;TNT-Likely&#x2F;PanWatch)
-
----
-
-### 12. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
+### 10. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
 
 **The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
 
@@ -251,7 +211,7 @@
 
 ---
 
-### 13. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
+### 11. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
 
 **Give cloud AI agents a real development environment on your own machines.**
 
@@ -271,7 +231,27 @@
 
 ---
 
-### 14. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
+### 12. [TNT-Likely&#x2F;PanWatch](../../repos/TNT-Likely/PanWatch.md)
+
+**盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股&#x2F;港股&#x2F;美股实时监控、持仓管理、智能分析、全渠道推送**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,761 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 85/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 21, 2026 |
+
+**Why it's a gem**: High growth velocity (+202 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/TNT-Likely/PanWatch.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;TNT-Likely&#x2F;PanWatch)
+
+---
+
+### 13. [Ed1s0nZ&#x2F;CyberStrikeAI](../../repos/Ed1s0nZ/CyberStrikeAI.md)
 
 **The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.**
 
@@ -291,27 +271,7 @@
 
 ---
 
-### 15. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
-
-**Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode&#x2F;Homebrew&#x2F;system cache cleanup. MIT licensed.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 6,761 |
-| 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 84/100 |
-| 📈 **Trending Days** | 10 |
-| 📅 **First Seen** | Aug 4, 2026 |
-
-**Why it's a gem**: High growth velocity (+40 stars&#x2F;day) • Trending 10 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/momenbasel/PureMac.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;momenbasel&#x2F;PureMac)
-
----
-
-### 16. [chuspeeism&#x2F;dashi-ppt-skill](../../repos/chuspeeism/dashi-ppt-skill.md)
+### 14. [chuspeeism&#x2F;dashi-ppt-skill](../../repos/chuspeeism/dashi-ppt-skill.md)
 
 **An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.**
 
@@ -331,7 +291,7 @@
 
 ---
 
-### 17. [arcboxlabs&#x2F;arcbox](../../repos/arcboxlabs/arcbox.md)
+### 15. [arcboxlabs&#x2F;arcbox](../../repos/arcboxlabs/arcbox.md)
 
 **Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.**
 
@@ -351,7 +311,27 @@
 
 ---
 
-### 18. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
+### 16. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
+
+**Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode&#x2F;Homebrew&#x2F;system cache cleanup. MIT licensed.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6,761 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 83/100 |
+| 📈 **Trending Days** | 10 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+40 stars&#x2F;day) • Trending 10 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/momenbasel/PureMac.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;momenbasel&#x2F;PureMac)
+
+---
+
+### 17. [superradcompany&#x2F;microsandbox](../../repos/superradcompany/microsandbox.md)
 
 **🧱 Easy fast local-first microVM runtime and library**
 
@@ -359,7 +339,7 @@
 |---|---|
 | ⭐ **Stars** | 8,229 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 83/100 |
+| 🏆 **Gem Score** | 82/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 1, 2026 |
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
+### 18. [cactus-compute&#x2F;needle](../../repos/cactus-compute/needle.md)
 
 **Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.**
 
@@ -379,7 +359,7 @@
 |---|---|
 | ⭐ **Stars** | 12,523 |
 | 💻 **Language** | Python |
-| 🏆 **Gem Score** | 83/100 |
+| 🏆 **Gem Score** | 82/100 |
 | 📈 **Trending Days** | 10 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
@@ -391,7 +371,7 @@
 
 ---
 
-### 20. [tonhowtf&#x2F;omniget](../../repos/tonhowtf/omniget.md)
+### 19. [tonhowtf&#x2F;omniget](../../repos/tonhowtf/omniget.md)
 
 **Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF&#x2F;EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.**
 
@@ -399,7 +379,7 @@
 |---|---|
 | ⭐ **Stars** | 9,651 |
 | 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 83/100 |
+| 🏆 **Gem Score** | 82/100 |
 | 📈 **Trending Days** | 5 |
 | 📅 **First Seen** | Aug 12, 2026 |
 
@@ -408,6 +388,26 @@
 **Best for**: 
 
 [View Passport](../../repos/tonhowtf/omniget.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tonhowtf&#x2F;omniget)
+
+---
+
+### 20. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
+
+**The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python&#x2F;R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,884 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 82/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+158 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/aipoch/open-science.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;aipoch&#x2F;open-science)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-22T21:02:01.349Z*  
+*Generated: 2026-10-23T21:01:41.296Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

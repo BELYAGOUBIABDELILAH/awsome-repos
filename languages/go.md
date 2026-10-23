@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 314
+- **Total Repositories**: 316
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-10-21
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,476 | 2026-07-31 | 16 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 50,580 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 53,578 | 2026-08-01 | 20 |
+| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,718 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,623 | 2026-08-01 | 20 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 53,668 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tailscale/tailscale](../repos/tailscale/tailscale.md) | ⭐ 37,953 | 2026-08-02 | 7 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,671 | 2026-08-01 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,554 | 2026-08-04 | 11 |
+| [chaitin/SafeLine](../repos/chaitin/SafeLine.md) | ⭐ 22,922 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [larksuite/cli](../repos/larksuite/cli.md) | ⭐ 17,789 | 2026-08-06 | 11 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 92,755 | 2026-08-06 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,572 | 2026-08-15 | 12 |
+| [chenyme/grok2api](../repos/chenyme/grok2api.md) | ⭐ 7,848 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 48,056 | 2026-08-20 | 15 |
+| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,720 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grafana/alloy](../repos/grafana/alloy.md) | ⭐ 3,633 | 2026-08-25 | 4 |
+| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 13,024 | 2026-08-19 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-telemetry/opentelemetry-collector-contrib](../repos/open-telemetry/opentelemetry-collector-contrib.md) | ⭐ 5,013 | 2026-08-26 | 7 |
+| [ltaoo/wx_channels_download](../repos/ltaoo/wx_channels_download.md) | ⭐ 10,067 | 2026-10-08 | 3 |
 
 
 ---
@@ -92,20 +92,20 @@
 | [golang/go](../repos/golang/go.md) | ⭐ 139,476 | 2026-07-31 | 16 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,554 | 2026-08-04 | 11 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,572 | 2026-08-15 | 12 |
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 91,914 | 2026-08-06 | 12 |
+| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 92,755 | 2026-08-06 | 13 |
 | [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,404 | 2026-08-05 | 4 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 81,063 | 2026-08-12 | 8 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 77,476 | 2026-08-03 | 8 |
 | [moby/moby](../repos/moby/moby.md) | ⭐ 72,207 | 2026-08-04 | 5 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | 2026-08-07 | 2 |
-| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,012 | 2026-08-11 | 5 |
+| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,720 | 2026-08-11 | 6 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 53,578 | 2026-08-01 | 20 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 53,668 | 2026-08-01 | 21 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,401 | 2026-08-22 | 5 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 50,334 | 2026-08-01 | 20 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 50,580 | 2026-08-01 | 21 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
 | [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,972 | 2026-08-06 | 10 |
 
@@ -117,9 +117,9 @@
 |------------|---------------|-------|------------|-----------|
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 24 | ⭐ 34,389 | 2026-08-01 | 2026-10-16 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 24 | ⭐ 184,188 | 2026-08-01 | 2026-10-21 |
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 20 | ⭐ 50,334 | 2026-08-01 | 2026-10-20 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 20 | ⭐ 53,578 | 2026-08-01 | 2026-10-22 |
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 20 | ⭐ 38,623 | 2026-08-01 | 2026-10-22 |
+| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 21 | ⭐ 50,580 | 2026-08-01 | 2026-10-23 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 21 | ⭐ 53,668 | 2026-08-01 | 2026-10-23 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 21 | ⭐ 38,671 | 2026-08-01 | 2026-10-23 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 19 | ⭐ 44,261 | 2026-08-07 | 2026-10-17 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 18 | ⭐ 5,489 | 2026-08-02 | 2026-10-18 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 17 | ⭐ 880 | 2026-08-01 | 2026-10-21 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.314Z*
+*Last updated: 2026-10-23T21:01:36.810Z*

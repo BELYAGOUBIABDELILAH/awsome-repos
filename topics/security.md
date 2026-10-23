@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 278
+- **Total Repositories**: 279
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
-- **Average Stars**: 14231
+- **Average Stars**: 14220
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,623 | Go |  |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,671 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,790 | Ruby |  |
+| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,619 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,076 | Ruby |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,590 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,589 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,290 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,282 | Scala |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,823 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,795 | Clojure |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,348 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,335 | Clojure |  |
+| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,472 | Vue |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | ⭐ 4,465 | Vue |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,160 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,153 | Vim Script |  |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,553 | PowerShell |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,733 | Assembly |  |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,734 | Assembly |  |
 
 
 ---
@@ -70,7 +70,7 @@
 
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,623 | Go | 1 |
+| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,671 | Go | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,310 | Java | 2 |
@@ -79,7 +79,7 @@
 | [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,959 | PHP | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,608 | PHP | 1 |
+| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,619 | PHP | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,790 | Ruby | 6 |
@@ -88,16 +88,16 @@
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,076 | Ruby | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [pointfreeco/swift-snapshot-testing](../repos/pointfreeco/swift-snapshot-testing.md) | ⭐ 4,372 | Swift | 1 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,590 | Scala | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,589 | Scala | 3 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,290 | Scala | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,282 | Scala | 3 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,823 | Clojure | 9 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,795 | Clojure | 8 |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,348 | Clojure | 13 |
 
 ---
 
@@ -105,7 +105,7 @@
 
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [pglombardo/PasswordPusher](../repos/pglombardo/PasswordPusher.md) | ⭐ 3,230 | Ruby | 2026-09-24 |
+| [pglombardo/PasswordPusher](../repos/pglombardo/PasswordPusher.md) | ⭐ 3,232 | Ruby | 2026-09-24 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [angristan/openvpn-install](../repos/angristan/openvpn-install.md) | ⭐ 16,144 | Shell | 2026-09-24 |
@@ -138,6 +138,10 @@
 
 ## 📅 Recent History
 
+### [2026-10-23](../archive/2026/10/2026-10-23.md)
+- 31 repositories trending
+- Top: metabase&#x2F;metabase
+
 ### [2026-10-22](../archive/2026/10/2026-10-22.md)
 - 31 repositories trending
 - Top: obsproject&#x2F;obs-studio
@@ -162,10 +166,6 @@
 - 29 repositories trending
 - Top: bitcoin&#x2F;bitcoin
 
-### [2026-10-16](../archive/2026/10/2026-10-16.md)
-- 29 repositories trending
-- Top: ruvnet&#x2F;RuView
-
 
 ---
 
@@ -175,16 +175,16 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 67 days | 2026-08-01 | 2026-10-22 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 67 days | 2026-08-01 | 2026-10-22 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 64 days | 2026-08-01 | 2026-10-22 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 63 days | 2026-08-01 | 2026-10-22 |
-| [vlang/v](../repos/vlang/v.md) | 62 days | 2026-08-01 | 2026-10-22 |
-| [joernio/joern](../repos/joernio/joern.md) | 57 days | 2026-08-01 | 2026-10-22 |
-| [vim/vim](../repos/vim/vim.md) | 55 days | 2026-08-01 | 2026-10-22 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 50 days | 2026-08-01 | 2026-10-22 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 44 days | 2026-08-02 | 2026-10-22 |
-| [facebook/infer](../repos/facebook/infer.md) | 39 days | 2026-08-02 | 2026-10-22 |
+| [apache/spark](../repos/apache/spark.md) | 68 days | 2026-08-01 | 2026-10-23 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 68 days | 2026-08-01 | 2026-10-23 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 65 days | 2026-08-01 | 2026-10-23 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 64 days | 2026-08-01 | 2026-10-23 |
+| [vlang/v](../repos/vlang/v.md) | 63 days | 2026-08-01 | 2026-10-23 |
+| [joernio/joern](../repos/joernio/joern.md) | 58 days | 2026-08-01 | 2026-10-23 |
+| [vim/vim](../repos/vim/vim.md) | 56 days | 2026-08-01 | 2026-10-23 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 51 days | 2026-08-01 | 2026-10-23 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 45 days | 2026-08-02 | 2026-10-23 |
+| [facebook/infer](../repos/facebook/infer.md) | 40 days | 2026-08-02 | 2026-10-23 |
 
 ---
 
@@ -192,7 +192,7 @@
 
 ### Language Breakdown
 - **C**: 52 repositories (19%)
-- **Go**: 40 repositories (14%)
+- **Go**: 41 repositories (15%)
 - **Python**: 21 repositories (8%)
 - **Java**: 15 repositories (5%)
 - **C++**: 15 repositories (5%)
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.136Z*
+*Last updated: 2026-10-23T21:01:36.651Z*

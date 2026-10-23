@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 57
+- **Total Repositories**: 59
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,34 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,514 | 2026-08-01 | 52 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,520 | 2026-08-01 | 53 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,528 | 2026-08-01 | 30 |
+| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,565 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,560 | 2026-08-01 | 10 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,215 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,209 | 2026-08-01 | 25 |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,553 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | ⭐ 930 | 2026-08-01 | 42 |
+| [actions/python-versions](../repos/actions/python-versions.md) | ⭐ 243 | 2026-08-03 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/AL](../repos/microsoft/AL.md) | ⭐ 889 | 2026-08-01 | 10 |
+| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,674 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/python-versions](../repos/actions/python-versions.md) | ⭐ 243 | 2026-08-03 | 12 |
+| [microsoft/sre-agent](../repos/microsoft/sre-agent.md) | ⭐ 179 | 2026-09-22 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoftgraph/microsoft-graph-docs-contrib](../repos/microsoftgraph/microsoft-graph-docs-contrib.md) | ⭐ 151 | 2026-08-05 | 13 |
+| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 7,884 | 2026-10-23 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SharePoint/sp-dev-docs](../repos/SharePoint/sp-dev-docs.md) | ⭐ 1,386 | 2026-08-15 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,184 | 2026-08-19 | 14 |
+| [Azure/Azure-Functions](../repos/Azure/Azure-Functions.md) | ⭐ 1,125 | 2026-10-23 | 1 |
 
 
 ---
@@ -62,6 +59,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/Windows-Sandbox](../repos/microsoft/Windows-Sandbox.md) | ⭐ 577 | 2026-10-17 | Disposable, secure and lightweight Windows Desktop Environment |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 7,884 | 2026-10-23 | Claude Desktop Chinese Patch (macOS &amp; Windows &amp; Linux) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Azure/Azure-Functions](../repos/Azure/Azure-Functions.md) | ⭐ 1,125 | 2026-10-23 |  |
 
 
 ---
@@ -73,23 +76,23 @@
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
 | [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,045 | 2026-08-02 | 13 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,514 | 2026-08-01 | 52 |
+| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,520 | 2026-08-01 | 53 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,073 | 2026-08-04 | 5 |
 | [microsoft/sql-server-samples](../repos/microsoft/sql-server-samples.md) | ⭐ 11,259 | 2026-09-02 | 14 |
 | [SpecterOps/BloodHound-Legacy](../repos/SpecterOps/BloodHound-Legacy.md) | ⭐ 10,597 | 2026-08-06 | 1 |
 | [samratashok/nishang](../repos/samratashok/nishang.md) | ⭐ 10,136 | 2026-08-03 | 11 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | ⭐ 9,149 | 2026-08-06 | 18 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | ⭐ 8,528 | 2026-08-01 | 30 |
+| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 7,884 | 2026-10-23 | 1 |
 | [mandiant/commando-vm](../repos/mandiant/commando-vm.md) | ⭐ 7,779 | 2026-08-12 | 1 |
-| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,617 | 2026-08-07 | 6 |
+| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,674 | 2026-08-07 | 7 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | ⭐ 6,111 | 2026-08-01 | 23 |
 | [jamesstringer90/Easy-GPU-PV](../repos/jamesstringer90/Easy-GPU-PV.md) | ⭐ 5,590 | 2026-09-06 | 3 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,209 | 2026-08-01 | 25 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,215 | 2026-08-01 | 26 |
 | [dataplat/dbatools](../repos/dataplat/dbatools.md) | ⭐ 2,838 | 2026-08-04 | 3 |
 | [cisagov/ScubaGear](../repos/cisagov/ScubaGear.md) | ⭐ 2,732 | 2026-08-11 | 18 |
 | [MicrosoftDocs/PowerShell-Docs](../repos/MicrosoftDocs/PowerShell-Docs.md) | ⭐ 2,559 | 2026-08-04 | 8 |
 | [pnp/List-Formatting](../repos/pnp/List-Formatting.md) | ⭐ 2,184 | 2026-08-19 | 14 |
-| [Micke-K/IntuneManagement](../repos/Micke-K/IntuneManagement.md) | ⭐ 2,096 | 2026-08-07 | 10 |
 
 ---
 
@@ -97,13 +100,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [actions/runner-images](../repos/actions/runner-images.md) | 52 | ⭐ 13,514 | 2026-08-01 | 2026-10-22 |
+| [actions/runner-images](../repos/actions/runner-images.md) | 53 | ⭐ 13,520 | 2026-08-01 | 2026-10-23 |
 | [microsoft/fabric-toolbox](../repos/microsoft/fabric-toolbox.md) | 42 | ⭐ 930 | 2026-08-01 | 2026-10-22 |
 | [dartraiden/NVIDIA-patcher](../repos/dartraiden/NVIDIA-patcher.md) | 31 | ⭐ 1,679 | 2026-08-03 | 2026-10-19 |
 | [Orange-Cyberdefense/GOAD](../repos/Orange-Cyberdefense/GOAD.md) | 30 | ⭐ 8,528 | 2026-08-01 | 2026-10-22 |
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 25 | ⭐ 3,209 | 2026-08-01 | 2026-10-22 |
+| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | 26 | ⭐ 3,215 | 2026-08-01 | 2026-10-23 |
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 23 | ⭐ 6,111 | 2026-08-01 | 2026-10-13 |
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 21 | ⭐ 1,549 | 2026-08-01 | 2026-10-21 |
+| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 22 | ⭐ 1,553 | 2026-08-01 | 2026-10-23 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 20 | ⭐ 36,799 | 2026-08-01 | 2026-09-21 |
 | [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 19 | ⭐ 486 | 2026-08-04 | 2026-10-13 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | 18 | ⭐ 9,149 | 2026-08-06 | 2026-10-16 |
@@ -169,7 +172,9 @@
 - [microsoft/ARI](../repos/microsoft/ARI.md) - Azure Resource Inventory - It&#39;s a Powerful tool to create EXCEL inventory from Azure Resources wi...
 - [Kiterlin/anti-defensive-writing](../repos/Kiterlin/anti-defensive-writing.md) - Codex skill for removing defensive writing and strengthening prose.
 - [microsoft/Windows-Sandbox](../repos/microsoft/Windows-Sandbox.md) - Disposable, secure and lightweight Windows Desktop Environment
+- [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) - Claude Desktop Chinese Patch (macOS &amp; Windows &amp; Linux)
+- [Azure/Azure-Functions](../repos/Azure/Azure-Functions.md) - 
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.341Z*
+*Last updated: 2026-10-23T21:01:36.836Z*

@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DaveGamble/cJSON](../repos/DaveGamble/cJSON.md) | ⭐ 13,049 | 2026-08-01 | 13 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,063 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [php/php-src](../repos/php/php-src.md) | ⭐ 41,087 | 2026-08-01 | 11 |
+| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,509 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 28,058 | 2026-08-02 | 9 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 41,534 | 2026-08-01 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,935 | 2026-08-02 | 8 |
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 28,123 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 77,941 | 2026-08-02 | 17 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,952 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 7,014 | 2026-08-04 | 18 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 7,021 | 2026-08-04 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,777 | 2026-08-04 | 7 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,878 | 2026-08-06 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [redis/redis](../repos/redis/redis.md) | ⭐ 77,050 | 2026-08-04 | 8 |
+| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,166 | 2026-08-07 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,877 | 2026-08-09 | 14 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ExpressLRS/ExpressLRS](../repos/ExpressLRS/ExpressLRS.md) | ⭐ 5,432 | 2026-08-10 | 3 |
+| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 28,089 | 2026-08-07 | 21 |
 
 
 ---
@@ -70,7 +70,7 @@
 | [Syllo/nvtop](../repos/Syllo/nvtop.md) | ⭐ 11,034 | 2026-09-29 | GPU &amp; Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [FoloToy/ai-passport](../repos/FoloToy/ai-passport.md) | ⭐ 511 | 2026-10-01 | FOLOTOY AI Passport develop resources for Agent |
+| [FoloToy/ai-passport](../repos/FoloToy/ai-passport.md) | ⭐ 710 | 2026-10-01 | FOLOTOY AI Passport develop resources for Agent |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [martanne/vis](../repos/martanne/vis.md) | ⭐ 4,976 | 2026-10-02 | A vi-like editor based on Plan 9&#39;s structural regular expressions |
@@ -93,19 +93,19 @@
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 77,941 | 2026-08-02 | 17 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 77,050 | 2026-08-04 | 8 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 74,191 | 2026-08-01 | 23 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,063 | 2026-08-01 | 24 |
 | [git/git](../repos/git/git.md) | ⭐ 63,813 | 2026-08-05 | 8 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,111 | 2026-08-07 | 25 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 42,587 | 2026-09-01 | 16 |
-| [php/php-src](../repos/php/php-src.md) | ⭐ 41,087 | 2026-08-01 | 11 |
+| [php/php-src](../repos/php/php-src.md) | ⭐ 41,534 | 2026-08-01 | 12 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
 | [jqlang/jq](../repos/jqlang/jq.md) | ⭐ 35,813 | 2026-08-04 | 10 |
 | [nothings/stb](../repos/nothings/stb.md) | ⭐ 34,756 | 2026-08-03 | 7 |
 | [valinet/ExplorerPatcher](../repos/valinet/ExplorerPatcher.md) | ⭐ 33,863 | 2026-09-06 | 3 |
-| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,364 | 2026-08-01 | 5 |
+| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,509 | 2026-08-01 | 6 |
 | [lizongying/my-tv](../repos/lizongying/my-tv.md) | ⭐ 31,960 | 2026-08-17 | 2 |
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,935 | 2026-08-02 | 8 |
+| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,952 | 2026-08-02 | 9 |
 | [coolsnowwolf/lede](../repos/coolsnowwolf/lede.md) | ⭐ 31,582 | 2026-08-16 | 2 |
 | [openwrt/openwrt](../repos/openwrt/openwrt.md) | ⭐ 28,877 | 2026-08-09 | 14 |
 
@@ -116,12 +116,12 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 | ⭐ 16,829 | 2026-08-01 | 2026-10-01 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 26 | ⭐ 16,857 | 2026-08-06 | 2026-10-21 |
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 25 | ⭐ 47,111 | 2026-08-07 | 2026-10-21 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 23 | ⭐ 74,191 | 2026-08-01 | 2026-10-15 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 27 | ⭐ 16,878 | 2026-08-06 | 2026-10-23 |
+| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 26 | ⭐ 47,337 | 2026-08-07 | 2026-10-23 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 24 | ⭐ 75,063 | 2026-08-01 | 2026-10-23 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 21 | ⭐ 139,429 | 2026-08-01 | 2026-10-17 |
-| [facebook/zstd](../repos/facebook/zstd.md) | 20 | ⭐ 28,021 | 2026-08-07 | 2026-10-14 |
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 18 | ⭐ 7,014 | 2026-08-04 | 2026-10-22 |
+| [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
+| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 19 | ⭐ 7,021 | 2026-08-04 | 2026-10-23 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 17 | ⭐ 77,941 | 2026-08-02 | 2026-10-22 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 17 | ⭐ 151,696 | 2026-08-07 | 2026-10-09 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | 16 | ⭐ 42,587 | 2026-09-01 | 2026-10-17 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.285Z*
+*Last updated: 2026-10-23T21:01:36.785Z*

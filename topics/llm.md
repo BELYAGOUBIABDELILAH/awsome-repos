@@ -9,7 +9,7 @@
 - **Total Repositories**: 517
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
-- **Average Stars**: 21775
+- **Average Stars**: 21800
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,476 | Go |  |
+| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,528 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,498 | Rust |  |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,367 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,790 | Ruby |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,590 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,589 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,290 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,282 | Scala |  |
+| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,313 | Dart |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,743 | Scala |  |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,297 | Lua |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,314 | Dart |  |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,539 | Perl |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | ⭐ 1,537 | Perl |  |
+| [zml/zml](../repos/zml/zml.md) | ⭐ 4,198 | Zig |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,153 | Vim Script |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,160 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [microsoft/AL](../repos/microsoft/AL.md) | ⭐ 889 | PowerShell |  |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,282 | Nim |  |
 
 
 ---
@@ -56,7 +56,7 @@
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 289,610 | TypeScript | 2026-10-06 | 10 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | Python | 2026-08-01 | 17 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 206,509 | TypeScript | 2026-08-11 | 6 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 194,253 | TypeScript | 2026-08-07 | 6 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 194,647 | TypeScript | 2026-08-07 | 7 |
 | [microsoft/markitdown](../repos/microsoft/markitdown.md) | ⭐ 189,013 | Python | 2026-09-07 | 3 |
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,465 | Python | 2026-08-06 | 8 |
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 184,188 | Go | 2026-08-01 | 24 |
@@ -73,31 +73,31 @@
 | [golang/go](../repos/golang/go.md) | ⭐ 139,476 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 132,098 | Python | 2 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
 | [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 100,611 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,498 | Rust | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 34,389 | Go | 6 |
+| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,528 | Rust | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 184,188 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,367 | C# | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,790 | Ruby | 6 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,589 | Scala | 3 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,590 | Scala | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,282 | Scala | 3 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,290 | Scala | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,743 | Scala | 6 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [dart-lang/sdk](../repos/dart-lang/sdk.md) | ⭐ 11,313 | Dart | 5 |
 
 ---
 
@@ -132,11 +132,15 @@
 | [google/langextract](../repos/google/langextract.md) | ⭐ 38,864 | Python | 2026-09-25 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [if-not-nil/revo](../repos/if-not-nil/revo.md) | ⭐ 558 | Zig | 2026-09-25 |
+| [if-not-nil/revo](../repos/if-not-nil/revo.md) | ⭐ 572 | Zig | 2026-09-25 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-10-23](../archive/2026/10/2026-10-23.md)
+- 41 repositories trending
+- Top: firecrawl&#x2F;firecrawl
 
 ### [2026-10-22](../archive/2026/10/2026-10-22.md)
 - 39 repositories trending
@@ -162,10 +166,6 @@
 - 46 repositories trending
 - Top: ollama&#x2F;ollama
 
-### [2026-10-16](../archive/2026/10/2026-10-16.md)
-- 35 repositories trending
-- Top: morluto&#x2F;rea
-
 
 ---
 
@@ -175,14 +175,14 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 67 days | 2026-08-01 | 2026-10-22 |
-| [vlang/v](../repos/vlang/v.md) | 62 days | 2026-08-01 | 2026-10-22 |
-| [joernio/joern](../repos/joernio/joern.md) | 57 days | 2026-08-01 | 2026-10-22 |
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 56 days | 2026-08-01 | 2026-10-22 |
-| [vim/vim](../repos/vim/vim.md) | 55 days | 2026-08-01 | 2026-10-22 |
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 48 days | 2026-08-04 | 2026-10-22 |
-| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 39 days | 2026-08-01 | 2026-10-22 |
-| [facebook/infer](../repos/facebook/infer.md) | 39 days | 2026-08-02 | 2026-10-22 |
+| [apache/spark](../repos/apache/spark.md) | 68 days | 2026-08-01 | 2026-10-23 |
+| [vlang/v](../repos/vlang/v.md) | 63 days | 2026-08-01 | 2026-10-23 |
+| [joernio/joern](../repos/joernio/joern.md) | 58 days | 2026-08-01 | 2026-10-23 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 57 days | 2026-08-01 | 2026-10-23 |
+| [vim/vim](../repos/vim/vim.md) | 56 days | 2026-08-01 | 2026-10-23 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 49 days | 2026-08-04 | 2026-10-23 |
+| [OpenKore/openkore](../repos/OpenKore/openkore.md) | 40 days | 2026-08-01 | 2026-10-23 |
+| [facebook/infer](../repos/facebook/infer.md) | 40 days | 2026-08-02 | 2026-10-23 |
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 days | 2026-08-01 | 2026-10-01 |
 | [ruby/ruby](../repos/ruby/ruby.md) | 37 days | 2026-08-01 | 2026-10-22 |
 
@@ -314,4 +314,4 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.056Z*
+*Last updated: 2026-10-23T21:01:36.582Z*

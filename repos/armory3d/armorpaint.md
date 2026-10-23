@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C |
 | **License** | Other |
-| **Stars** | ⭐ 5,265 |
-| **Forks** | 🍴 597 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 5,408 |
+| **Forks** | 🍴 639 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #10 |
 
 | **First Seen** | Sep 8, 2026 |
-| **Last Seen** | Sep 29, 2026 |
+| **Last Seen** | Oct 23, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #10
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 3 days
 
 ---
@@ -57,10 +57,10 @@
 ## Categories
 
 ### Topics
-[`3d`](../../topics/3d.md) [`armorpaint`](../../topics/armorpaint.md) [`painting`](../../topics/painting.md) [`texturing`](../../topics/texturing.md) [`tool`](../../topics/tool.md) 
+[`3d`](../../topics/3d.md) [`animation`](../../topics/animation.md) [`armorpaint`](../../topics/armorpaint.md) [`modeling`](../../topics/modeling.md) [`painting`](../../topics/painting.md) [`pbr`](../../topics/pbr.md) [`sculpting`](../../topics/sculpting.md) [`texturing`](../../topics/texturing.md) [`tool`](../../topics/tool.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Game Development` `Automation` 
+`Artificial Intelligence` `Game Development` `Systems Programming` `Automation` 
 
 ---
 
@@ -74,7 +74,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -87,11 +87,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 95&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: Top 10 (Peak: #10)
 
 
 ---
 
-*Last updated: 2026-10-22T21:02:00.509Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-10-23T21:01:40.344Z*  
+*Data from 7 trending reports*

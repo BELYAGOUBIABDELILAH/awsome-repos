@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 278
+- **Total Repositories**: 281
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 29,418 | 2026-08-01 | 15 |
+| [expo/expo](../repos/expo/expo.md) | ⭐ 53,037 | 2026-08-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [EveryInc/compound-engineering-plugin](../repos/EveryInc/compound-engineering-plugin.md) | ⭐ 25,658 | 2026-08-04 | 7 |
+| [promptfoo/promptfoo](../repos/promptfoo/promptfoo.md) | ⭐ 26,348 | 2026-08-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 39,521 | 2026-08-07 | 18 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 194,647 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 194,253 | 2026-08-07 | 6 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 103,697 | 2026-08-11 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/docs](../repos/github/docs.md) | ⭐ 21,078 | 2026-08-09 | 3 |
+| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 59,601 | 2026-08-12 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 102,646 | 2026-08-11 | 22 |
+| [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 91,672 | 2026-08-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 59,524 | 2026-08-12 | 7 |
+| [genlayerlabs/genlayer-project-boilerplate](../repos/genlayerlabs/genlayer-project-boilerplate.md) | ⭐ 19,154 | 2026-08-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [remotion-dev/remotion](../repos/remotion-dev/remotion.md) | ⭐ 66,345 | 2026-08-16 | 3 |
+| [Vincentwei1021/video-shotcraft](../repos/Vincentwei1021/video-shotcraft.md) | ⭐ 13,220 | 2026-10-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [koala73/worldmonitor](../repos/koala73/worldmonitor.md) | ⭐ 89,218 | 2026-08-28 | 6 |
+| [genspark-ai/genoffice](../repos/genspark-ai/genoffice.md) | ⭐ 10,649 | 2026-10-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Open-Dev-Society/OpenStock](../repos/Open-Dev-Society/OpenStock.md) | ⭐ 20,789 | 2026-09-19 | 5 |
+| [bowenliang123/dsh-context](../repos/bowenliang123/dsh-context.md) | ⭐ 3,474 | 2026-10-22 | 2 |
 
 
 ---
@@ -91,7 +91,7 @@
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 289,610 | 2026-10-06 | 10 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 206,509 | 2026-08-11 | 6 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 194,253 | 2026-08-07 | 6 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 194,647 | 2026-08-07 | 7 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 193,792 | 2026-07-30 | 7 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 152,634 | 2026-08-07 | 20 |
@@ -101,13 +101,13 @@
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
 | [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
+| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 103,697 | 2026-08-11 | 23 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 102,669 | 2026-08-02 | 10 |
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 102,646 | 2026-08-11 | 22 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
 | [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 97,789 | 2026-10-15 | 1 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
-| [modelcontextprotocol/servers](../repos/modelcontextprotocol/servers.md) | ⭐ 90,957 | 2026-08-22 | 3 |
+| [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 91,672 | 2026-08-14 | 4 |
 
 ---
 
@@ -116,7 +116,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [cursor/plugins](../repos/cursor/plugins.md) | 23 | ⭐ 13,024 | 2026-08-01 | 2026-10-19 |
-| [stablyai/orca](../repos/stablyai/orca.md) | 22 | ⭐ 102,646 | 2026-08-11 | 2026-10-22 |
+| [stablyai/orca](../repos/stablyai/orca.md) | 23 | ⭐ 103,697 | 2026-08-11 | 2026-10-23 |
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 21 | ⭐ 65,234 | 2026-08-08 | 2026-10-16 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 20 | ⭐ 152,634 | 2026-08-07 | 2026-10-20 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.359Z*
+*Last updated: 2026-10-23T21:01:36.854Z*

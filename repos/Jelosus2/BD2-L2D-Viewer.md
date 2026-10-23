@@ -1,6 +1,6 @@
 # Jelosus2&#x2F;BD2-L2D-Viewer
 
-> Brown Dust 2 Live 2D Viewer
+> Web-based interactive Live2D and Spine animation viewer for the Brown Dust 2 game.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Jelosus2&#x2F;BD2-L2D-Viewer) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Vue |
 | **License** | MIT |
-| **Stars** | ⭐ 475 |
-| **Forks** | 🍴 85 |
-| **Trending Days** | 5 |
+| **Stars** | ⭐ 554 |
+| **Forks** | 🍴 101 |
+| **Trending Days** | 6 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 29, 2026 |
-| **Last Seen** | Sep 12, 2026 |
+| **Last Seen** | Oct 23, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 5
+- **Trending Days**: 6
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 80&#x2F;100
+- **Trending Score**: 95&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-22T21:02:00.279Z*  
-*Data from 5 trending reports*
+*Last updated: 2026-10-23T21:01:40.099Z*  
+*Data from 6 trending reports*

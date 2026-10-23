@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 223
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-22
+- **Last Updated**: 2026-10-23
 
 ---
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,034 | 2026-07-31 | 6 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,084 | 2026-07-31 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 130,468 | 2026-08-01 | 16 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 130,630 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,498 | 2026-08-01 | 8 |
+| [tursodatabase/turso](../repos/tursodatabase/turso.md) | ⭐ 24,986 | 2026-08-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 30,604 | 2026-08-03 | 14 |
+| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,528 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 84,925 | 2026-08-05 | 22 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 85,473 | 2026-08-05 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 9,396 | 2026-08-26 | 13 |
+| [macro-inc/macro](../repos/macro-inc/macro.md) | ⭐ 4,878 | 2026-08-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/iggy](../repos/apache/iggy.md) | ⭐ 5,167 | 2026-09-01 | 2 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 12,999 | 2026-08-17 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/OpenShell](../repos/NVIDIA/OpenShell.md) | ⭐ 17,504 | 2026-09-01 | 5 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 9,424 | 2026-08-26 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [redlib-org/redlib](../repos/redlib-org/redlib.md) | ⭐ 3,879 | 2026-10-22 | 1 |
+| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 8,375 | 2026-08-27 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [NVIDIA/OpenShell](../repos/NVIDIA/OpenShell.md) | ⭐ 18,695 | 2026-09-01 | 6 |
 
 
 ---
@@ -85,13 +88,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 130,468 | 2026-08-01 | 16 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 130,630 | 2026-08-01 | 17 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,946 | 2026-07-30 | 11 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 98,335 | 2026-08-09 | 17 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,300 | 2026-08-11 | 9 |
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,034 | 2026-07-31 | 6 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 84,925 | 2026-08-05 | 22 |
+| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,084 | 2026-07-31 | 7 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 85,473 | 2026-08-05 | 23 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,345 | 2026-08-20 | 5 |
@@ -112,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 22 | ⭐ 84,925 | 2026-08-05 | 2026-10-22 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 23 | ⭐ 85,473 | 2026-08-05 | 2026-10-23 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 21 | ⭐ 23,670 | 2026-08-08 | 2026-09-28 |
+| [openai/codex](../repos/openai/codex.md) | 17 | ⭐ 130,630 | 2026-08-01 | 2026-10-23 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 17 | ⭐ 98,335 | 2026-08-09 | 2026-10-16 |
-| [openai/codex](../repos/openai/codex.md) | 16 | ⭐ 130,468 | 2026-08-01 | 2026-10-22 |
+| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 15 | ⭐ 41,568 | 2026-08-10 | 2026-10-07 |
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 15 | ⭐ 12,257 | 2026-08-17 | 2026-10-21 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 14 | ⭐ 26,668 | 2026-08-01 | 2026-10-14 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 14 | ⭐ 30,604 | 2026-08-03 | 2026-10-22 |
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 13 | ⭐ 9,396 | 2026-08-26 | 2026-10-22 |
+| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 14 | ⭐ 9,424 | 2026-08-26 | 2026-10-23 |
 | [Automattic/harper](../repos/Automattic/harper.md) | 12 | ⭐ 16,769 | 2026-08-10 | 2026-10-19 |
 
 ---
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-22T21:01:54.350Z*
+*Last updated: 2026-10-23T21:01:36.845Z*
