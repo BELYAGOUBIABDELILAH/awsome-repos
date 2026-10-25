@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 281
+- **Total Repositories**: 288
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/expo](../repos/expo/expo.md) | ⭐ 53,037 | 2026-08-06 | 5 |
+| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 50,710 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [promptfoo/promptfoo](../repos/promptfoo/promptfoo.md) | ⭐ 26,348 | 2026-08-06 | 2 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 137,688 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 194,647 | 2026-08-07 | 7 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 41,516 | 2026-08-07 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 103,697 | 2026-08-11 | 23 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 195,293 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twentyhq/twenty](../repos/twentyhq/twenty.md) | ⭐ 59,601 | 2026-08-12 | 8 |
+| [garrytan/gbrain](../repos/garrytan/gbrain.md) | ⭐ 31,204 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 91,672 | 2026-08-14 | 4 |
+| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 24,947 | 2026-08-14 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [genlayerlabs/genlayer-project-boilerplate](../repos/genlayerlabs/genlayer-project-boilerplate.md) | ⭐ 19,154 | 2026-08-19 | 2 |
+| [remotion-dev/remotion](../repos/remotion-dev/remotion.md) | ⭐ 67,401 | 2026-08-16 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Vincentwei1021/video-shotcraft](../repos/Vincentwei1021/video-shotcraft.md) | ⭐ 13,220 | 2026-10-08 | 3 |
+| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 8,589 | 2026-08-22 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [genspark-ai/genoffice](../repos/genspark-ai/genoffice.md) | ⭐ 10,649 | 2026-10-22 | 2 |
+| [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 108,379 | 2026-08-23 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bowenliang123/dsh-context](../repos/bowenliang123/dsh-context.md) | ⭐ 3,474 | 2026-10-22 | 2 |
+| [makecindy/cindy](../repos/makecindy/cindy.md) | ⭐ 4,759 | 2026-10-09 | 2 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [FxEmbed/FxEmbed](../repos/FxEmbed/FxEmbed.md) | ⭐ 5,449 | 2026-09-24 | Fix X&#x2F;Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Di... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [atomicstrata/llm-wiki-compiler](../repos/atomicstrata/llm-wiki-compiler.md) | ⭐ 2,111 | 2026-09-24 | The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy&#39;s LLM Wiki pat... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [stepfun-ai/Step-Code](../repos/stepfun-ai/Step-Code.md) | ⭐ 391 | 2026-09-24 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [alchemy-run/alchemy](../repos/alchemy-run/alchemy.md) | ⭐ 1,361 | 2026-09-24 | Infrastructure as Effects |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NginxProxyManager/nginx-proxy-manager](../repos/NginxProxyManager/nginx-proxy-manager.md) | ⭐ 34,234 | 2026-09-25 | Docker container for managing Nginx proxy hosts with a simple, powerful interface |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mvschwarz/openrig](../repos/mvschwarz/openrig.md) | ⭐ 4,646 | 2026-09-25 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, sha... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [vega-org/vega-app](../repos/vega-org/vega-app.md) | ⭐ 1,425 | 2026-09-25 | A media streaming app for android. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zhukunpenglinyutong/desktop-cc-gui](../repos/zhukunpenglinyutong/desktop-cc-gui.md) | ⭐ 4,381 | 2026-09-25 | Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Har... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [vercel-labs/scriptc](../repos/vercel-labs/scriptc.md) | ⭐ 6,225 | 2026-09-27 | TypeScript-to-Native Compiler |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mobile-next/mobile-mcp](../repos/mobile-next/mobile-mcp.md) | ⭐ 8,403 | 2026-09-27 | Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simula... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SinaXhpm/Submarine](../repos/SinaXhpm/Submarine.md) | ⭐ 366 | 2026-09-27 | Modern SSH &amp; SFTP client — terminal, SFTP, port forwarding, folder mirror, encrypted sync. Window... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [freemocap/freemocap](../repos/freemocap/freemocap.md) | ⭐ 10,329 | 2026-09-27 | Free Motion Capture for Everyone 💀✨ |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [cloudflare/vinext](../repos/cloudflare/vinext.md) | ⭐ 9,057 | 2026-09-29 | Vite plugin that reimplements the Next.js API surface — deploy anywhere |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [OpenCTI-Platform/opencti](../repos/OpenCTI-Platform/opencti.md) | ⭐ 10,067 | 2026-09-29 | Open Cyber Threat Intelligence Platform |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pablostanley/yoinks](../repos/pablostanley/yoinks.md) | ⭐ 3,805 | 2026-10-01 | yoink any video from your terminal. no shady ads. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nyakang/nyaterm](../repos/nyakang/nyaterm.md) | ⭐ 1,722 | 2026-10-01 | A modern remote terminal workspace |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ag-ui-protocol/ag-ui](../repos/ag-ui-protocol/ag-ui.md) | ⭐ 16,207 | 2026-10-01 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Effect-TS/effect](../repos/Effect-TS/effect.md) | ⭐ 16,783 | 2026-10-02 | Build production-ready applications in TypeScript |
 
 
 ---
@@ -91,16 +91,16 @@
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 289,610 | 2026-10-06 | 10 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
 | [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 206,509 | 2026-08-11 | 6 |
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 194,647 | 2026-08-07 | 7 |
+| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 195,293 | 2026-08-07 | 8 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 193,792 | 2026-07-30 | 7 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 152,634 | 2026-08-07 | 20 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,850 | 2026-08-02 | 8 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 135,527 | 2026-08-02 | 13 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 137,688 | 2026-08-02 | 14 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
-| [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 106,634 | 2026-08-23 | 1 |
+| [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 108,379 | 2026-08-23 | 2 |
 | [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 103,697 | 2026-08-11 | 23 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 102,669 | 2026-08-02 | 10 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
@@ -120,10 +120,10 @@
 | [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 21 | ⭐ 65,234 | 2026-08-08 | 2026-10-16 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 20 | ⭐ 152,634 | 2026-08-07 | 2026-10-20 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 18 | ⭐ 39,521 | 2026-08-07 | 2026-10-22 |
+| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 19 | ⭐ 41,516 | 2026-08-07 | 2026-10-25 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 15 | ⭐ 29,418 | 2026-08-01 | 2026-10-22 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | 14 | ⭐ 137,688 | 2026-08-02 | 2026-10-25 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 13 | ⭐ 135,527 | 2026-08-02 | 2026-10-06 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 12 | ⭐ 53,536 | 2026-08-01 | 2026-10-14 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.854Z*
+*Last updated: 2026-10-25T21:01:49.138Z*

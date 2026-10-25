@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 295
+- **Total Repositories**: 296
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-12
 
@@ -16,55 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 133,846 | 2026-08-03 | 11 |
+| [browser-use/video-use](../repos/browser-use/video-use.md) | ⭐ 29,816 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 113,359 | 2026-08-08 | 12 |
+| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SnailSploit/Claude-Red](../repos/SnailSploit/Claude-Red.md) | ⭐ 8,362 | 2026-09-12 | 4 |
+| [aws/agent-toolkit-for-aws](../repos/aws/agent-toolkit-for-aws.md) | ⭐ 3,271 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenBMB/VoxCPM](../repos/OpenBMB/VoxCPM.md) | ⭐ 40,198 | 2026-09-14 | 3 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 114,432 | 2026-08-08 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anthropics/knowledge-work-plugins](../repos/anthropics/knowledge-work-plugins.md) | ⭐ 32,152 | 2026-09-19 | 11 |
+| [AgriciDaniel/claude-seo](../repos/AgriciDaniel/claude-seo.md) | ⭐ 20,703 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [baidu/Unlimited-OCR](../repos/baidu/Unlimited-OCR.md) | ⭐ 28,280 | 2026-10-13 | 2 |
+| [HKUDS/DeepTutor](../repos/HKUDS/DeepTutor.md) | ⭐ 42,668 | 2026-08-11 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [onyx-dot-app/onyx](../repos/onyx-dot-app/onyx.md) | ⭐ 32,925 | 2026-10-22 | 2 |
+| [experientiallabs/experiential](../repos/experientiallabs/experiential.md) | ⭐ 12,770 | 2026-09-06 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mailu/Mailu](../repos/Mailu/Mailu.md) | ⭐ 7,583 | 2026-10-23 | 1 |
+| [SnailSploit/Claude-Red](../repos/SnailSploit/Claude-Red.md) | ⭐ 9,042 | 2026-09-12 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [AstrBotDevs/AstrBot](../repos/AstrBotDevs/AstrBot.md) | ⭐ 43,420 | 2026-10-25 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [NVIDIA/Model-Optimizer](../repos/NVIDIA/Model-Optimizer.md) | ⭐ 4,925 | 2026-09-24 | A unified library of SOTA model optimization techniques like quantization, distillation, pruning,... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [strands-agents/harness-sdk](../repos/strands-agents/harness-sdk.md) | ⭐ 8,414 | 2026-09-24 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Pyt... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [op7418/Humanizer-zh](../repos/op7418/Humanizer-zh.md) | ⭐ 18,393 | 2026-09-24 | Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [aayushch/laya](../repos/aayushch/laya.md) | ⭐ 275 | 2026-09-24 | Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [derv82/wifit3](../repos/derv82/wifit3.md) | ⭐ 1,401 | 2026-09-25 | Wifite but USB-only &amp; cross-platform. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/langextract](../repos/google/langextract.md) | ⭐ 38,864 | 2026-09-25 | A Python library for extracting structured information from unstructured text using LLMs with pre... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Alban1911/Rose](../repos/Alban1911/Rose.md) | ⭐ 583 | 2026-09-25 | League, unlocked. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/data-formulator](../repos/microsoft/data-formulator.md) | ⭐ 17,425 | 2026-09-27 | 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, ex... |
@@ -74,6 +56,27 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [samugit83/redamon](../repos/samugit83/redamon.md) | ⭐ 2,745 | 2026-09-28 | An AI-powered agentic red team framework that automates offensive security operations, from recon... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Rizzo-AI-Academy/rizzo-pii](../repos/Rizzo-AI-Academy/rizzo-pii.md) | ⭐ 1,097 | 2026-09-28 | Local-first privacy guard: anonymize your documents before sharing with LLMs. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mealie-recipes/mealie](../repos/mealie-recipes/mealie.md) | ⭐ 13,365 | 2026-09-28 | Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive fro... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SemiAnalysisAI/InferenceX](../repos/SemiAnalysisAI/InferenceX.md) | ⭐ 1,785 | 2026-09-29 | Open Source Inference Research Platform Standard &#x2F; 开源推理研究平台 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tile-ai/tilelang](../repos/tile-ai/tilelang.md) | ⭐ 8,237 | 2026-10-01 |  Domain-specific language designed to streamline the development of high-performance GPU&#x2F;CPU&#x2F;Acce... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HunxByts/GhostTrack](../repos/HunxByts/GhostTrack.md) | ⭐ 18,332 | 2026-10-01 | Useful tool to track location or mobile number |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Friedrich-M/UniMate](../repos/Friedrich-M/UniMate.md) | ⭐ 2,011 | 2026-10-01 | [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ifixai-ai/iFixAi](../repos/ifixai-ai/iFixAi.md) | ⭐ 28,720 | 2026-10-01 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial q... |
 
 
 ---
@@ -92,13 +95,13 @@
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,465 | 2026-08-06 | 8 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
+| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
 | [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 142,295 | 2026-08-14 | 8 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
-| [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 141,347 | 2026-08-04 | 7 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 133,846 | 2026-08-03 | 11 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 132,098 | 2026-08-01 | 17 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 113,359 | 2026-08-08 | 12 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 114,432 | 2026-08-08 | 13 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 104,706 | 2026-07-30 | 6 |
 | [fastapi/fastapi](../repos/fastapi/fastapi.md) | ⭐ 103,660 | 2026-10-19 | 2 |
@@ -117,8 +120,8 @@
 | [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 14 | ⭐ 43,153 | 2026-08-07 | 2026-10-19 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 13 | ⭐ 60,537 | 2026-08-03 | 2026-10-14 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 13 | ⭐ 141,991 | 2026-08-05 | 2026-10-22 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 13 | ⭐ 114,432 | 2026-08-08 | 2026-10-25 |
 | [HKUDS/CLI-Anything](../repos/HKUDS/CLI-Anything.md) | 13 | ⭐ 55,640 | 2026-08-15 | 2026-10-20 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 12 | ⭐ 100,611 | 2026-08-01 | 2026-10-21 |
 
 ---
 
@@ -227,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.838Z*
+*Last updated: 2026-10-25T21:01:49.102Z*

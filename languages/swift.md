@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 137
+- **Total Repositories**: 138
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-02
 
@@ -16,43 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sw33tLie/macshot](../repos/sw33tLie/macshot.md) | ⭐ 3,889 | 2026-08-01 | 13 |
+| [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | ⭐ 2,972 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,984 | 2026-08-04 | 20 |
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,827 | 2026-08-12 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,918 | 2026-08-04 | 16 |
+| [FrizzleM/SideInstaller](../repos/FrizzleM/SideInstaller.md) | ⭐ 1,197 | 2026-09-13 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [signalapp/Signal-iOS](../repos/signalapp/Signal-iOS.md) | ⭐ 12,301 | 2026-08-06 | 5 |
+| [JohnCoates/Aerial](../repos/JohnCoates/Aerial.md) | ⭐ 21,082 | 2026-10-23 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getsentry/sentry-cocoa](../repos/getsentry/sentry-cocoa.md) | ⭐ 1,131 | 2026-08-07 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nicklockwood/SwiftFormat](../repos/nicklockwood/SwiftFormat.md) | ⭐ 8,944 | 2026-08-11 | 5 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [apple/coreai-models](../repos/apple/coreai-models.md) | ⭐ 2,210 | 2026-08-12 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,734 | 2026-08-12 | 12 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ProxymanApp/TCPViewer](../repos/ProxymanApp/TCPViewer.md) | ⭐ 562 | 2026-09-03 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [JohnCoates/Aerial](../repos/JohnCoates/Aerial.md) | ⭐ 21,032 | 2026-10-23 | 1 |
+| [YangJiiii/3105](../repos/YangJiiii/3105.md) | ⭐ 939 | 2026-10-25 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [chenqi92/primuse](../repos/chenqi92/primuse.md) | ⭐ 144 | 2026-09-24 | IOS、MacOS、AppleTV端音乐app，添加群晖等nas源、飞牛音乐等音乐服务源、百度网盘等各类网盘源、webdav等网络文件源。apple music集成播放，自带刮削功能、CarPl... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ChrisMack32/Locus](../repos/ChrisMack32/Locus.md) | ⭐ 511 | 2026-09-27 | Free open-source iPhone location teleport (MIT) |
@@ -80,6 +62,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [apple/swift-numerics](../repos/apple/swift-numerics.md) | ⭐ 1,875 | 2026-10-02 | Advanced mathematical types and functions for Swift |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lab421/forel](../repos/lab421/forel.md) | ⭐ 707 | 2026-10-06 | File automation for macOS. The open source Hazel alternative for macOS. |
 
 
 ---
@@ -91,14 +76,14 @@
 | [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,451 | 2026-08-05 | 15 |
 | [vsouza/awesome-ios](../repos/vsouza/awesome-ios.md) | ⭐ 53,673 | 2026-09-04 | 5 |
 | [apple/container](../repos/apple/container.md) | ⭐ 50,809 | 2026-08-01 | 17 |
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,734 | 2026-08-12 | 12 |
+| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,827 | 2026-08-12 | 13 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
 | [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,302 | 2026-08-01 | 21 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 27,997 | 2026-08-04 | 4 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,918 | 2026-08-04 | 16 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
 | [p0deje/Maccy](../repos/p0deje/Maccy.md) | ⭐ 22,032 | 2026-08-12 | 10 |
-| [JohnCoates/Aerial](../repos/JohnCoates/Aerial.md) | ⭐ 21,032 | 2026-10-23 | 1 |
+| [JohnCoates/Aerial](../repos/JohnCoates/Aerial.md) | ⭐ 21,082 | 2026-10-23 | 2 |
 | [SnapKit/SnapKit](../repos/SnapKit/SnapKit.md) | ⭐ 20,344 | 2026-08-14 | 1 |
 | [realm/SwiftLint](../repos/realm/SwiftLint.md) | ⭐ 19,685 | 2026-08-01 | 4 |
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
@@ -233,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.851Z*
+*Last updated: 2026-10-25T21:01:49.133Z*

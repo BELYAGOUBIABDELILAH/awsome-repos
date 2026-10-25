@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Clojure |
 | **License** | MIT |
-| **Stars** | ⭐ 200 |
+| **Stars** | ⭐ 201 |
 | **Forks** | 🍴 94 |
-| **Trending Days** | 8 |
+| **Trending Days** | 9 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 25, 2026 |
-| **Last Seen** | Oct 20, 2026 |
+| **Last Seen** | Oct 25, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 8
+- **Trending Days**: 9
 - **Longest Streak**: 3 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 200+ stars, strong contributor base |
+| **Community** | Very Active | 201+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:40.738Z*  
-*Data from 8 trending reports*
+*Last updated: 2026-10-25T21:01:56.122Z*  
+*Data from 9 trending reports*

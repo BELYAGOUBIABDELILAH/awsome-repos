@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 189
+- **Total Repositories**: 191
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-14
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,367 | 2026-08-01 | 20 |
+| [openutau/OpenUtau](../repos/openutau/OpenUtau.md) | ⭐ 4,473 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,489 | 2026-08-01 | 20 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 32,979 | 2026-08-02 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,462 | 2026-08-02 | 21 |
+| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 16,261 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,714 | 2026-08-03 | 34 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,588 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,380 | 2026-08-04 | 17 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 16,779 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/aspire](../repos/microsoft/aspire.md) | ⭐ 6,383 | 2026-08-05 | 18 |
+| [space-wizards/space-station-14](../repos/space-wizards/space-station-14.md) | ⭐ 3,885 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,696 | 2026-08-05 | 12 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,389 | 2026-08-04 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,100 | 2026-08-22 | 5 |
+| [LorisYounger/VPet](../repos/LorisYounger/VPet.md) | ⭐ 7,038 | 2026-08-08 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [stride3d/stride](../repos/stride3d/stride.md) | ⭐ 7,912 | 2026-09-03 | 6 |
+| [Goob-Station/Goob-Station](../repos/Goob-Station/Goob-Station.md) | ⭐ 243 | 2026-08-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [STranslate/STranslate](../repos/STranslate/STranslate.md) | ⭐ 8,372 | 2026-09-08 | 3 |
+| [Revolutionary-Games/Thrive](../repos/Revolutionary-Games/Thrive.md) | ⭐ 3,788 | 2026-08-19 | 3 |
 
 
 ---
@@ -52,34 +52,34 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [NethermindEth/nethermind](../repos/NethermindEth/nethermind.md) | ⭐ 1,622 | 2026-09-24 | A robust, high-performance execution client for Ethereum node operators. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [RayrenSX/iPhoneMirror](../repos/RayrenSX/iPhoneMirror.md) | ⭐ 928 | 2026-09-24 | Local Windows iPhone&#x2F;iPad mirroring over USB and AirPlay with D3D11 preview, multi-device session... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [marcussacana/DirectPackageInstaller](../repos/marcussacana/DirectPackageInstaller.md) | ⭐ 475 | 2026-09-24 | Send Direct PKG URLs to your PS4 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tgeorgiadis/quiver-launcher](../repos/tgeorgiadis/quiver-launcher.md) | ⭐ 2,896 | 2026-09-24 | A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [open-telemetry/opentelemetry-dotnet-contrib](../repos/open-telemetry/opentelemetry-dotnet-contrib.md) | ⭐ 676 | 2026-09-25 | This repository contains set of components extending functionality of the OpenTelemetry .NET SDK.... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [greenshot/greenshot](../repos/greenshot/greenshot.md) | ⭐ 5,199 | 2026-09-25 | Greenshot for Windows - for more information look here: |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [roflmuffin/CounterStrikeSharp](../repos/roflmuffin/CounterStrikeSharp.md) | ⭐ 1,361 | 2026-09-25 | CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2&#x2F;Source2&#x2F;CS2 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Tianyu199509/DeskBox](../repos/Tianyu199509/DeskBox.md) | ⭐ 7,465 | 2026-09-27 | A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets. |
+| [Tianyu199509/DeskBox](../repos/Tianyu199509/DeskBox.md) | ⭐ 7,600 | 2026-09-27 | A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [RayWangQvQ/BiliBiliToolPro](../repos/RayWangQvQ/BiliBiliToolPro.md) | ⭐ 9,053 | 2026-09-27 | B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [smartstore/Smartstore](../repos/smartstore/Smartstore.md) | ⭐ 1,712 | 2026-09-28 | A modular, scalable and ultra-fast open-source all-in-one eCommerce platform built on ASP.NET Cor... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MikuLeaks/MikuSB](../repos/MikuLeaks/MikuSB.md) | ⭐ 729 | 2026-09-29 | Open-source C#&#x2F;.NET research server emulator for local protocol and networking experimentation. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SteamRE/DepotDownloader](../repos/SteamRE/DepotDownloader.md) | ⭐ 3,462 | 2026-10-01 | Steam depot downloader utilizing the SteamKit2 library. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SafeExamBrowser/seb-win-refactoring](../repos/SafeExamBrowser/seb-win-refactoring.md) | ⭐ 350 | 2026-10-02 | Safe Exam Browser for Windows. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [andrewmd5/Borderless-Gaming](../repos/andrewmd5/Borderless-Gaming.md) | ⭐ 6,602 | 2026-10-02 | Play your favorite games in a borderless window; no more time consuming alt-tabs.  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [open-telemetry/opentelemetry-dotnet](../repos/open-telemetry/opentelemetry-dotnet.md) | ⭐ 3,761 | 2026-10-02 | The OpenTelemetry .NET Client |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mcp-servers-for-revit/mcp-servers-for-revit](../repos/mcp-servers-for-revit/mcp-servers-for-revit.md) | ⭐ 366 | 2026-10-07 | 🔥💧🤖 Sparx fork of the mcp-servers-for-revit&#x2F;revit-mcp project |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ggml-org/Llama-Windows](../repos/ggml-org/Llama-Windows.md) | ⭐ 234 | 2026-10-07 | Windows Llama App Companion |
 
 
 ---
@@ -89,13 +89,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 118,208 | 2026-08-02 | 30 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,462 | 2026-08-02 | 21 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,588 | 2026-08-02 | 22 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,896 | 2026-08-06 | 18 |
 | [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,091 | 2026-08-01 | 15 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,291 | 2026-08-14 | 6 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,965 | 2026-08-03 | 12 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,489 | 2026-08-01 | 20 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 32,410 | 2026-08-02 | 33 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 32,979 | 2026-08-02 | 34 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,367 | 2026-08-01 | 20 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,100 | 2026-08-22 | 5 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,062 | 2026-08-28 | 3 |
@@ -115,13 +115,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 34 | ⭐ 32,979 | 2026-08-02 | 2026-10-25 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 34 | ⭐ 5,714 | 2026-08-03 | 2026-10-23 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 33 | ⭐ 32,410 | 2026-08-02 | 2026-10-19 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 30 | ⭐ 118,208 | 2026-08-02 | 2026-10-14 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 21 | ⭐ 58,462 | 2026-08-02 | 2026-10-23 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 22 | ⭐ 58,588 | 2026-08-02 | 2026-10-25 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 21 | ⭐ 16,779 | 2026-08-02 | 2026-10-25 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 20 | ⭐ 32,367 | 2026-08-01 | 2026-10-23 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 20 | ⭐ 38,489 | 2026-08-01 | 2026-10-23 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 20 | ⭐ 16,397 | 2026-08-02 | 2026-10-21 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 19 | ⭐ 3,789 | 2026-08-01 | 2026-10-20 |
 | [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | 19 | ⭐ 17,291 | 2026-08-03 | 2026-10-18 |
 | [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 18 | ⭐ 14,627 | 2026-08-01 | 2026-10-19 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.787Z*
+*Last updated: 2026-10-25T21:01:49.011Z*

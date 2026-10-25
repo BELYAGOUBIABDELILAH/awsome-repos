@@ -1,6 +1,6 @@
 # tinyhumansai&#x2F;openhuman
 
-> OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
+> The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;tinyhumansai&#x2F;openhuman) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 41,568 |
-| **Forks** | 🍴 4,094 |
-| **Trending Days** | 15 |
+| **Stars** | ⭐ 42,335 |
+| **Forks** | 🍴 4,184 |
+| **Trending Days** | 16 |
 | **Peak Rank** | #8 |
 
 | **First Seen** | Aug 10, 2026 |
-| **Last Seen** | Oct 7, 2026 |
+| **Last Seen** | Oct 25, 2026 |
 
 
 ---
@@ -51,7 +51,7 @@
 ### Highlights
 
 - **Peak Rank**: #8
-- **Trending Days**: 15
+- **Trending Days**: 16
 - **Longest Streak**: 7 days
 
 ---
@@ -76,7 +76,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:39.336Z*  
-*Data from 15 trending reports*
+*Last updated: 2026-10-25T21:01:54.050Z*  
+*Data from 16 trending reports*

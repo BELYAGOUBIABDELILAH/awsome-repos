@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Objective-C |
+| **Language** | Logos |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 1,803 |
-| **Forks** | 🍴 144 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 1,852 |
+| **Forks** | 🍴 161 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 13, 2026 |
-| **Last Seen** | Oct 18, 2026 |
+| **Last Seen** | Oct 25, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Objective-C or freebird*
+*Similar: Check repositories in Logos or freebird*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Objective-C
+- Check similar projects in Logos
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 55&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-23T21:01:41.006Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-10-25T21:01:56.531Z*  
+*Data from 4 trending reports*

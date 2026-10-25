@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Zig |
 | **License** | MIT |
-| **Stars** | ⭐ 62,551 |
-| **Forks** | 🍴 3,695 |
-| **Trending Days** | 68 |
+| **Stars** | ⭐ 62,591 |
+| **Forks** | 🍴 3,722 |
+| **Trending Days** | 69 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 23, 2026 |
+| **Last Seen** | Oct 25, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 68
+- **Trending Days**: 69
 - **Longest Streak**: 12 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:38.254Z*  
-*Data from 68 trending reports*
+*Last updated: 2026-10-25T21:01:52.446Z*  
+*Data from 69 trending reports*

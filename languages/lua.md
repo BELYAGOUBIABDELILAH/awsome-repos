@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 123
+- **Total Repositories**: 125
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-23
 
@@ -16,49 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,251 | 2026-08-01 | 21 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 30,603 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,297 | 2026-08-01 | 28 |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | ⭐ 301 | 2026-08-01 | 47 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) | ⭐ 4,997 | 2026-08-01 | 21 |
+| [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) | ⭐ 261 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jitsi/docker-jitsi-meet](../repos/jitsi/docker-jitsi-meet.md) | ⭐ 3,619 | 2026-08-06 | 3 |
+| [id577/FS25_AdvancedDamageSystem](../repos/id577/FS25_AdvancedDamageSystem.md) | ⭐ 306 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | ⭐ 8,165 | 2026-08-08 | 22 |
+| [coder/claudecode.nvim](../repos/coder/claudecode.nvim.md) | ⭐ 3,134 | 2026-08-03 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mason-org/mason-lspconfig.nvim](../repos/mason-org/mason-lspconfig.nvim.md) | ⭐ 3,952 | 2026-08-17 | 9 |
+| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,722 | 2026-08-04 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gaboolic/rime-frost](../repos/gaboolic/rime-frost.md) | ⭐ 3,769 | 2026-08-19 | 4 |
+| [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,272 | 2026-08-04 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xhcherry/GTA5-Stand-LuaAIO](../repos/xhcherry/GTA5-Stand-LuaAIO.md) | ⭐ 799 | 2026-08-28 | 6 |
+| [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,677 | 2026-08-06 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PortsMaster/PortMaster-New](../repos/PortsMaster/PortMaster-New.md) | ⭐ 384 | 2026-08-29 | 6 |
+| [finlater/weread.koplugin](../repos/finlater/weread.koplugin.md) | ⭐ 970 | 2026-08-07 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alpinelinux/docker-alpine](../repos/alpinelinux/docker-alpine.md) | ⭐ 1,306 | 2026-10-22 | 2 |
+| [miscusi-peek/cheatengine-mcp-bridge](../repos/miscusi-peek/cheatengine-mcp-bridge.md) | ⭐ 1,700 | 2026-08-09 | 8 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [antosha417/nvim-lsp-file-operations](../repos/antosha417/nvim-lsp-file-operations.md) | ⭐ 429 | 2026-09-24 | Neovim plugin that adds support for file operations using built-in LSP |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Facepunch/garrysmod](../repos/Facepunch/garrysmod.md) | ⭐ 1,313 | 2026-09-24 | Sandbox mod for the Source Engine |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Steamodded/smods](../repos/Steamodded/smods.md) | ⭐ 977 | 2026-09-25 | A Balatro Modding Framework |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SpectralPack/Cryptid](../repos/SpectralPack/Cryptid.md) | ⭐ 627 | 2026-09-27 | An unbalanced Balatro mod |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ZeroK-RTS/Zero-K](../repos/ZeroK-RTS/Zero-K.md) | ⭐ 870 | 2026-10-08 | Open source RTS game running on the Spring&#x2F;Recoil engine |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [UNDERdecoded/Gen2Recomped](../repos/UNDERdecoded/Gen2Recomped.md) | ⭐ 404 | 2026-10-11 | Generation 2 Pokemon Recomp forked from Gen1Recomp and modified  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zbirenbaum/copilot.lua](../repos/zbirenbaum/copilot.lua.md) | ⭐ 4,099 | 2026-10-11 | Fully featured &amp; enhanced replacement for copilot.vim complete with API for interacting with Gith... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [BurndiL/BalatroAP](../repos/BurndiL/BalatroAP.md) | ⭐ 46 | 2026-10-11 | A mod for the game Balatro that allows it to connect to an Archipelago server |
 
 
 ---
@@ -90,17 +90,17 @@
 |------------|-------|------------|---------------|
 | [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,297 | 2026-08-01 | 28 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | ⭐ 31,588 | 2026-08-04 | 35 |
-| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 30,445 | 2026-08-01 | 39 |
+| [koreader/koreader](../repos/koreader/koreader.md) | ⭐ 30,603 | 2026-08-01 | 40 |
 | [NvChad/NvChad](../repos/NvChad/NvChad.md) | ⭐ 28,507 | 2026-10-01 | 2 |
 | [nagadomi/waifu2x](../repos/nagadomi/waifu2x.md) | ⭐ 28,218 | 2026-08-01 | 2 |
-| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,682 | 2026-08-04 | 27 |
-| [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,602 | 2026-08-06 | 8 |
+| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | ⭐ 27,722 | 2026-08-04 | 28 |
+| [folke/lazy.nvim](../repos/folke/lazy.nvim.md) | ⭐ 21,677 | 2026-08-06 | 9 |
 | [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | ⭐ 19,862 | 2026-08-03 | 24 |
 | [nvim-telescope/telescope.nvim](../repos/nvim-telescope/telescope.nvim.md) | ⭐ 19,811 | 2026-08-11 | 15 |
 | [LunarVim/LunarVim](../repos/LunarVim/LunarVim.md) | ⭐ 19,254 | 2026-10-23 | 1 |
 | [yetone/avante.nvim](../repos/yetone/avante.nvim.md) | ⭐ 18,120 | 2026-08-03 | 5 |
 | [apache/apisix](../repos/apache/apisix.md) | ⭐ 17,251 | 2026-08-01 | 21 |
-| [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,262 | 2026-08-04 | 15 |
+| [xmake-io/xmake](../repos/xmake-io/xmake.md) | ⭐ 12,272 | 2026-08-04 | 16 |
 | [mason-org/mason.nvim](../repos/mason-org/mason.nvim.md) | ⭐ 10,476 | 2026-08-04 | 7 |
 | [nvim-mini/mini.nvim](../repos/nvim-mini/mini.nvim.md) | ⭐ 9,598 | 2026-08-26 | 15 |
 | [nvim-tree/nvim-tree.lua](../repos/nvim-tree/nvim-tree.lua.md) | ⭐ 8,666 | 2026-08-05 | 8 |
@@ -115,12 +115,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 46 | ⭐ 299 | 2026-08-01 | 2026-10-21 |
-| [koreader/koreader](../repos/koreader/koreader.md) | 39 | ⭐ 30,445 | 2026-08-01 | 2026-10-19 |
+| [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) | 47 | ⭐ 301 | 2026-08-01 | 2026-10-25 |
+| [koreader/koreader](../repos/koreader/koreader.md) | 40 | ⭐ 30,603 | 2026-08-01 | 2026-10-25 |
 | [nvim-lua/kickstart.nvim](../repos/nvim-lua/kickstart.nvim.md) | 35 | ⭐ 31,588 | 2026-08-04 | 2026-10-18 |
 | [AndyHazz/bookshelf.koplugin](../repos/AndyHazz/bookshelf.koplugin.md) | 29 | ⭐ 1,108 | 2026-08-01 | 2026-10-19 |
 | [Kong/kong](../repos/Kong/kong.md) | 28 | ⭐ 44,297 | 2026-08-01 | 2026-10-23 |
-| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | 27 | ⭐ 27,682 | 2026-08-04 | 2026-10-17 |
+| [LazyVim/LazyVim](../repos/LazyVim/LazyVim.md) | 28 | ⭐ 27,722 | 2026-08-04 | 2026-10-25 |
 | [iDvel/rime-ice](../repos/iDvel/rime-ice.md) | 24 | ⭐ 19,862 | 2026-08-03 | 2026-10-22 |
 | [beyond-all-reason/Beyond-All-Reason](../repos/beyond-all-reason/Beyond-All-Reason.md) | 22 | ⭐ 4,297 | 2026-08-03 | 2026-10-13 |
 | [folke/snacks.nvim](../repos/folke/snacks.nvim.md) | 22 | ⭐ 8,165 | 2026-08-08 | 2026-10-23 |
@@ -140,6 +140,7 @@
 - [stevearc/conform.nvim](../repos/stevearc/conform.nvim.md) - Lightweight yet powerful formatter plugin for Neovim
 - [forest0xia/dota2bot-OpenHyperAI](../repos/forest0xia/dota2bot-OpenHyperAI.md) - A beta Dota2 Bot Script aims to provide better bot game experience
 - [amzxyz/rime-wanxiang](../repos/amzxyz/rime-wanxiang.md) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。
+- [RLS-Modding/rls_career_overhaul](../repos/RLS-Modding/rls_career_overhaul.md) - A Career Overhaul mod for BeamNG.drive! Enhances various aspects of the game, including freeroam ...
 - [overextended/ox_inventory](../repos/overextended/ox_inventory.md) - Slot-based inventory with metadata.
 - [ntop/ntopng](../repos/ntop/ntopng.md) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
 - [folke/sidekick.nvim](../repos/folke/sidekick.nvim.md) - Your Neovim AI sidekick
@@ -175,7 +176,7 @@
 - [finlater/weread.koplugin](../repos/finlater/weread.koplugin.md) - 微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kob...
 - [folke/snacks.nvim](../repos/folke/snacks.nvim.md) - 🍿 A collection of QoL plugins for Neovim
 - [overextended/ox_lib](../repos/overextended/ox_lib.md) - A FiveM resource and script library for Lua and JS.
-- [miscusi-peek/cheatengine-mcp-bridge](../repos/miscusi-peek/cheatengine-mcp-bridge.md) - Connect Cursor, Copilot &amp; Claude AI directly to Cheat Engine via MCP. Automate reverse engineerin...
+- [miscusi-peek/cheatengine-mcp-bridge](../repos/miscusi-peek/cheatengine-mcp-bridge.md) - Connect your favorite AI agents directly to Cheat Engine via MCP. Automate reverse engineering, p...
 - [PathOfBuildingCommunity/PathOfBuilding](../repos/PathOfBuildingCommunity/PathOfBuilding.md) - Offline build planner for Path of Exile.
 - [Qbox-project/qbx_core](../repos/Qbox-project/qbx_core.md) - 
 - [CorsixTH/CorsixTH](../repos/CorsixTH/CorsixTH.md) - Open source clone of Theme Hospital
@@ -229,8 +230,7 @@
 - [loki79uk/FS25_UniversalAutoload](../repos/loki79uk/FS25_UniversalAutoload.md) - Mod for FS25. Please download latest release below.
 - [nvim-tree/nvim-web-devicons](../repos/nvim-tree/nvim-web-devicons.md) - Provides Nerd Font icons (glyphs) for use by neovim plugins
 - [Questie/Questie](../repos/Questie/Questie.md) - Questie: The WoW Classic quest helper
-- [bryanthaboi/gen1recomp](../repos/bryanthaboi/gen1recomp.md) - Gen1Recomp - A native Lua &#x2F; LÖVE2D recreation of Gen 1, 2, and 3 Poke
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.823Z*
+*Last updated: 2026-10-25T21:01:49.074Z*

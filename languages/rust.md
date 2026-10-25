@@ -16,52 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,084 | 2026-07-31 | 7 |
+| [bytecodealliance/wasmtime](../repos/bytecodealliance/wasmtime.md) | ⭐ 18,768 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 130,630 | 2026-08-01 | 17 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 87,533 | 2026-08-05 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tursodatabase/turso](../repos/tursodatabase/turso.md) | ⭐ 24,986 | 2026-08-01 | 4 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 24,202 | 2026-08-08 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,528 | 2026-08-01 | 9 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 42,335 | 2026-08-10 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 85,473 | 2026-08-05 | 23 |
+| [block/buzz](../repos/block/buzz.md) | ⭐ 36,450 | 2026-08-19 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [macro-inc/macro](../repos/macro-inc/macro.md) | ⭐ 4,878 | 2026-08-11 | 7 |
+| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 55,699 | 2026-08-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | ⭐ 12,999 | 2026-08-17 | 16 |
+| [gitbutlerapp/gitbutler](../repos/gitbutlerapp/gitbutler.md) | ⭐ 21,851 | 2026-08-23 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | ⭐ 9,424 | 2026-08-26 | 14 |
+| [NVIDIA/OpenShell](../repos/NVIDIA/OpenShell.md) | ⭐ 19,839 | 2026-09-01 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ai-dynamo/dynamo](../repos/ai-dynamo/dynamo.md) | ⭐ 8,375 | 2026-08-27 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [NVIDIA/OpenShell](../repos/NVIDIA/OpenShell.md) | ⭐ 18,695 | 2026-09-01 | 6 |
+| [pollen-robotics/microduck](../repos/pollen-robotics/microduck.md) | ⭐ 11,560 | 2026-10-16 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [a2x/cs2-dumper](../repos/a2x/cs2-dumper.md) | ⭐ 2,392 | 2026-09-24 | Counter-Strike: 2 Offset Dumper |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Mesh-LLM/mesh-llm](../repos/Mesh-LLM/mesh-llm.md) | ⭐ 3,451 | 2026-09-24 | Distributed AI&#x2F;LLM for the people. Share compute privately or publicly to power your agents and c... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [kvcache-ai/AgentENV](../repos/kvcache-ai/AgentENV.md) | ⭐ 3,535 | 2026-09-24 | AgentENV (AENV) is a distributed platform for running agent environments at scale. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [bootandy/dust](../repos/bootandy/dust.md) | ⭐ 12,355 | 2026-09-25 | A more intuitive version of du in rust |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [denisidoro/navi](../repos/denisidoro/navi.md) | ⭐ 17,680 | 2026-09-27 | An interactive cheatsheet tool for the command-line |
@@ -80,6 +65,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [zerx-lab/FluxDown](../repos/zerx-lab/FluxDown.md) | ⭐ 3,362 | 2026-10-02 | Rust 驱动的多协议下载管理器，支持 HTTP&#x2F;FTP&#x2F;BitTorrent 磁力链接及 HLS&#x2F;DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [touchHLE/touchHLE](../repos/touchHLE/touchHLE.md) | ⭐ 3,958 | 2026-10-02 | High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit pat... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rubys/roundhouse](../repos/rubys/roundhouse.md) | ⭐ 481 | 2026-10-03 | Rails as a specification; the deployment target is a build flag |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [storytold/artcraft](../repos/storytold/artcraft.md) | ⭐ 27,737 | 2026-10-06 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [eolix/photosuite](../repos/eolix/photosuite.md) | ⭐ 886 | 2026-10-07 | A desktop image editor, faithful to classic Adobe Photoshop, with native PSD&#x2F;PSB compatibility |
 
 
 ---
@@ -94,20 +91,20 @@
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 98,335 | 2026-08-09 | 17 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,300 | 2026-08-11 | 9 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,084 | 2026-07-31 | 7 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 85,473 | 2026-08-05 | 23 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 87,533 | 2026-08-05 | 24 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,345 | 2026-08-20 | 5 |
 | [alacritty/alacritty](../repos/alacritty/alacritty.md) | ⭐ 65,327 | 2026-08-11 | 1 |
 | [rust-lang/rustlings](../repos/rust-lang/rustlings.md) | ⭐ 64,099 | 2026-08-03 | 2 |
 | [rust-unofficial/awesome-rust](../repos/rust-unofficial/awesome-rust.md) | ⭐ 59,459 | 2026-09-03 | 3 |
-| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 53,385 | 2026-08-19 | 5 |
+| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 55,699 | 2026-08-19 | 6 |
 | [astral-sh/ruff](../repos/astral-sh/ruff.md) | ⭐ 50,085 | 2026-08-12 | 4 |
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,253 | 2026-08-05 | 10 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 44,035 | 2026-08-02 | 11 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 41,568 | 2026-08-10 | 15 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 42,335 | 2026-08-10 | 16 |
 
 ---
 
@@ -115,12 +112,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 23 | ⭐ 85,473 | 2026-08-05 | 2026-10-23 |
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 21 | ⭐ 23,670 | 2026-08-08 | 2026-09-28 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 24 | ⭐ 87,533 | 2026-08-05 | 2026-10-25 |
+| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
 | [openai/codex](../repos/openai/codex.md) | 17 | ⭐ 130,630 | 2026-08-01 | 2026-10-23 |
 | [ruvnet/RuView](../repos/ruvnet/RuView.md) | 17 | ⭐ 98,335 | 2026-08-09 | 2026-10-16 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 16 | ⭐ 42,335 | 2026-08-10 | 2026-10-25 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 15 | ⭐ 41,568 | 2026-08-10 | 2026-10-07 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 14 | ⭐ 26,668 | 2026-08-01 | 2026-10-14 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 14 | ⭐ 30,604 | 2026-08-03 | 2026-10-22 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 14 | ⭐ 9,424 | 2026-08-26 | 2026-10-23 |
@@ -217,7 +214,7 @@
 - [Automattic/harper](../repos/Automattic/harper.md) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [apache/datafusion](../repos/apache/datafusion.md) - Apache DataFusion SQL Query Engine
 - [screenpipe/screenpipe](../repos/screenpipe/screenpipe.md) - YC (S26) | Record your screen 24&#x2F;7 and plug into your agents. Local, private, secure. Connect to ...
-- [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
+- [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $1...
 - [mufeedvh/code2prompt](../repos/mufeedvh/code2prompt.md) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating,...
 - [macro-inc/macro](../repos/macro-inc/macro.md) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-link...
 - [alacritty/alacritty](../repos/alacritty/alacritty.md) - A cross-platform, OpenGL terminal emulator.
@@ -233,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.845Z*
+*Last updated: 2026-10-25T21:01:49.119Z*

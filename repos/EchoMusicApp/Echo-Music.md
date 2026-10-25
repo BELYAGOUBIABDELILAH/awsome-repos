@@ -1,6 +1,6 @@
 # EchoMusicApp&#x2F;Echo-Music
 
-> A modern Android music app with ad-free streaming, synced lyrics, offline playback, and an intuitive user experience.
+> An YouTube Music Client
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;EchoMusicApp&#x2F;Echo-Music) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 3,343 |
-| **Forks** | 🍴 204 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 2,076 |
+| **Forks** | 🍴 203 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Aug 10, 2026 |
+| **Last Seen** | Oct 25, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Kotlin or adfree*
+*Similar: Check repositories in Kotlin or youtube-music*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 2 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`adfree`](../../topics/adfree.md) [`foss`](../../topics/foss.md) [`kotlin`](../../topics/kotlin.md) [`kotlin-android`](../../topics/kotlin-android.md) [`material-design`](../../topics/material-design.md) [`material-ui`](../../topics/material-ui.md) [`material3`](../../topics/material3.md) [`music`](../../topics/music.md) [`musicstreaming`](../../topics/musicstreaming.md) [`newpipe`](../../topics/newpipe.md) [`saavn`](../../topics/saavn.md) [`saavn-client`](../../topics/saavn-client.md) [`streaming`](../../topics/streaming.md) [`streaming-apps`](../../topics/streaming-apps.md) [`streaming-audio`](../../topics/streaming-audio.md) [`youtube-music`](../../topics/youtube-music.md) [`youtube-music-client`](../../topics/youtube-music-client.md) [`youtubemusic`](../../topics/youtubemusic.md) [`youtubemusicalternative`](../../topics/youtubemusicalternative.md) [`ytmusic`](../../topics/ytmusic.md) 
+[`youtube-music`](../../topics/youtube-music.md) [`youtubemusic`](../../topics/youtubemusic.md) [`youtubemusicalternative`](../../topics/youtubemusicalternative.md) [`ytmusic`](../../topics/ytmusic.md) 
 
 ### Curated Categories
-`Data Engineering` `Frontend Development` `Mobile Development` `Systems Programming` `Developer Tools` 
+`Systems Programming` 
 
 ---
 
@@ -71,8 +71,8 @@
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
-| **Maturity** | Stable | Established project |
-| **Maintenance** | Slow | Occasional updates |
+| **Maturity** | Experimental | New project, evolving rapidly |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-23T21:01:39.292Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-10-25T21:01:53.989Z*  
+*Data from 3 trending reports*

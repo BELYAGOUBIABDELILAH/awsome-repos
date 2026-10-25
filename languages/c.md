@@ -16,46 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,063 | 2026-08-01 | 24 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,299 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kingToolbox/WindTerm](../repos/kingToolbox/WindTerm.md) | ⭐ 32,509 | 2026-08-01 | 6 |
+| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,372 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [php/php-src](../repos/php/php-src.md) | ⭐ 41,534 | 2026-08-01 | 12 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,267 | 2026-08-01 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 28,123 | 2026-08-02 | 10 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 78,208 | 2026-08-02 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nginx/nginx](../repos/nginx/nginx.md) | ⭐ 31,952 | 2026-08-02 | 9 |
+| [immortalwrt/immortalwrt](../repos/immortalwrt/immortalwrt.md) | ⭐ 11,793 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | ⭐ 7,021 | 2026-08-04 | 19 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,878 | 2026-08-06 | 27 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,166 | 2026-08-07 | 12 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [facebook/zstd](../repos/facebook/zstd.md) | ⭐ 28,089 | 2026-08-07 | 21 |
+| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,925 | 2026-08-03 | 9 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [xCuri0/ReBarUEFI](../repos/xCuri0/ReBarUEFI.md) | ⭐ 2,520 | 2026-09-24 | Resizable BAR for (almost) any UEFI system |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [google/security-research](../repos/google/security-research.md) | ⭐ 4,653 | 2026-09-24 | This project hosts security advisories and their accompanying proof-of-concepts related to resear... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [joncampbell123/dosbox-x](../repos/joncampbell123/dosbox-x.md) | ⭐ 3,742 | 2026-09-27 | DOSBox-X fork of the DOSBox project |
@@ -80,6 +62,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ValdikSS/GoodbyeDPI](../repos/ValdikSS/GoodbyeDPI.md) | ⭐ 28,712 | 2026-10-03 | GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [n64decomp/sm64](../repos/n64decomp/sm64.md) | ⭐ 8,823 | 2026-10-06 | A Super Mario 64 decompilation, brought to you by a bunch of clever folks. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LongSoft/UEFITool](../repos/LongSoft/UEFITool.md) | ⭐ 5,729 | 2026-10-06 | UEFI firmware image viewer and editor |
 
 
 ---
@@ -91,9 +79,9 @@
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,696 | 2026-08-07 | 17 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,429 | 2026-08-01 | 21 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 77,941 | 2026-08-02 | 17 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 78,208 | 2026-08-02 | 18 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 77,050 | 2026-08-04 | 8 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,063 | 2026-08-01 | 24 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,299 | 2026-08-01 | 25 |
 | [git/git](../repos/git/git.md) | ⭐ 63,813 | 2026-08-05 | 8 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 42,587 | 2026-09-01 | 16 |
@@ -115,14 +103,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 38 | ⭐ 16,829 | 2026-08-01 | 2026-10-01 |
+| [semgrep/semgrep](../repos/semgrep/semgrep.md) | 39 | ⭐ 17,267 | 2026-08-01 | 2026-10-25 |
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 27 | ⭐ 16,878 | 2026-08-06 | 2026-10-23 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 26 | ⭐ 47,337 | 2026-08-07 | 2026-10-23 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 24 | ⭐ 75,063 | 2026-08-01 | 2026-10-23 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 25 | ⭐ 75,299 | 2026-08-01 | 2026-10-25 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 21 | ⭐ 139,429 | 2026-08-01 | 2026-10-17 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 19 | ⭐ 7,021 | 2026-08-04 | 2026-10-23 |
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 17 | ⭐ 77,941 | 2026-08-02 | 2026-10-22 |
+| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 18 | ⭐ 78,208 | 2026-08-02 | 2026-10-25 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 17 | ⭐ 151,696 | 2026-08-07 | 2026-10-09 |
 | [JustVugg/colibri](../repos/JustVugg/colibri.md) | 16 | ⭐ 42,587 | 2026-09-01 | 2026-10-17 |
 
@@ -233,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.785Z*
+*Last updated: 2026-10-25T21:01:49.005Z*

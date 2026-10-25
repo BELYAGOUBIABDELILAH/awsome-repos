@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 21
+- **Total Repositories**: 22
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-12
 
@@ -16,10 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 738 | 2026-08-01 | 47 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 738 | 2026-08-01 | 48 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,442 | 2026-08-02 | 33 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,442 | 2026-08-02 | 34 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [aviatesk/JETLS.jl](../repos/aviatesk/JETLS.jl.md) | ⭐ 317 | 2026-10-25 | 1 |
 
 
 ---
@@ -32,6 +35,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [JuliaGPU/KernelAbstractions.jl](../repos/JuliaGPU/KernelAbstractions.jl.md) | ⭐ 529 | 2026-10-11 | Heterogeneous programming in Julia |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [aviatesk/JETLS.jl](../repos/aviatesk/JETLS.jl.md) | ⭐ 317 | 2026-10-25 | A new language server for Julia, enabling modern, compiler-powered tooling. |
 
 
 ---
@@ -43,15 +49,16 @@
 | [jump-dev/JuMP.jl](../repos/jump-dev/JuMP.jl.md) | ⭐ 2,462 | 2026-08-12 | 1 |
 | [TuringLang/Turing.jl](../repos/TuringLang/Turing.jl.md) | ⭐ 2,246 | 2026-08-12 | 1 |
 | [FluxML/Zygote.jl](../repos/FluxML/Zygote.jl.md) | ⭐ 1,568 | 2026-08-12 | 1 |
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,442 | 2026-08-02 | 33 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,442 | 2026-08-02 | 34 |
 | [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
 | [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 738 | 2026-08-01 | 47 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 738 | 2026-08-01 | 48 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 736 | 2026-08-07 | 3 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | 2 |
 | [JuliaGPU/KernelAbstractions.jl](../repos/JuliaGPU/KernelAbstractions.jl.md) | ⭐ 529 | 2026-10-11 | 4 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | 3 |
+| [aviatesk/JETLS.jl](../repos/aviatesk/JETLS.jl.md) | ⭐ 317 | 2026-10-25 | 1 |
 | [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) | ⭐ 200 | 2026-09-02 | 1 |
 | [JuliaLLVM/LLVM.jl](../repos/JuliaLLVM/LLVM.jl.md) | ⭐ 145 | 2026-10-02 | 2 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 126 | 2026-08-01 | 14 |
@@ -59,7 +66,6 @@
 | [davidanthoff/Electron.jl](../repos/davidanthoff/Electron.jl.md) | ⭐ 96 | 2026-08-14 | 2 |
 | [CliMA/ClimaLand.jl](../repos/CliMA/ClimaLand.jl.md) | ⭐ 73 | 2026-08-01 | 8 |
 | [NumericalEarth/NumericalEarth.jl](../repos/NumericalEarth/NumericalEarth.jl.md) | ⭐ 47 | 2026-08-24 | 2 |
-| [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | ⭐ 46 | 2026-08-02 | 15 |
 
 ---
 
@@ -67,8 +73,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 47 | ⭐ 738 | 2026-08-01 | 2026-10-23 |
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 33 | ⭐ 1,442 | 2026-08-02 | 2026-10-23 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 48 | ⭐ 738 | 2026-08-01 | 2026-10-25 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 34 | ⭐ 1,442 | 2026-08-02 | 2026-10-25 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 15 | ⭐ 46 | 2026-08-02 | 2026-08-25 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 14 | ⭐ 126 | 2026-08-01 | 2026-09-12 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 12 | ⭐ 117 | 2026-08-01 | 2026-09-12 |
@@ -103,7 +109,8 @@
 - [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) - Julia bindings for the Enzyme automatic differentiator
 - [JuliaLLVM/LLVM.jl](../repos/JuliaLLVM/LLVM.jl.md) - Julia wrapper for the LLVM C API
 - [JuliaGPU/KernelAbstractions.jl](../repos/JuliaGPU/KernelAbstractions.jl.md) - Heterogeneous programming in Julia
+- [aviatesk/JETLS.jl](../repos/aviatesk/JETLS.jl.md) - A new language server for Julia, enabling modern, compiler-powered tooling.
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.819Z*
+*Last updated: 2026-10-25T21:01:49.065Z*

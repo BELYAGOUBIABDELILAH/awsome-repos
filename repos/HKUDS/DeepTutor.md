@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 38,256 |
-| **Forks** | 🍴 4,811 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 42,668 |
+| **Forks** | 🍴 5,414 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Sep 1, 2026 |
+| **Last Seen** | Oct 25, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-[`ai-agents`](../../topics/ai-agents.md) [`ai-tutor`](../../topics/ai-tutor.md) [`clawdbot`](../../topics/clawdbot.md) [`cli-tool`](../../topics/cli-tool.md) [`deepresearch`](../../topics/deepresearch.md) [`interactive-learning`](../../topics/interactive-learning.md) [`large-language-models`](../../topics/large-language-models.md) [`multi-agent-systems`](../../topics/multi-agent-systems.md) [`rag`](../../topics/rag.md) 
+[`ai-agents`](../../topics/ai-agents.md) [`ai-tutor`](../../topics/ai-tutor.md) [`clawbot`](../../topics/clawbot.md) [`cli-tool`](../../topics/cli-tool.md) [`deepresearch`](../../topics/deepresearch.md) [`interactive-learning`](../../topics/interactive-learning.md) [`learning`](../../topics/learning.md) [`multi-agent-systems`](../../topics/multi-agent-systems.md) [`rag`](../../topics/rag.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Large Language Models` `Systems Programming` `Developer Tools` `Automation` `Education &amp; Learning` 
+`Artificial Intelligence` `Systems Programming` `Developer Tools` `Automation` `Education &amp; Learning` 
 
 ---
 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: Top 10 (Peak: #9)
 
 
 ---
 
-*Last updated: 2026-10-23T21:01:39.395Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-10-25T21:01:54.120Z*  
+*Data from 4 trending reports*

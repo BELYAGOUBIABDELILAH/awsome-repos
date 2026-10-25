@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | Vue |
-| **License** | Not specified |
-| **Stars** | ⭐ 259 |
+| **Language** | Lua |
+| **License** | AGPL-3.0 |
+| **Stars** | ⭐ 261 |
 | **Forks** | 🍴 32 |
-| **Trending Days** | 18 |
+| **Trending Days** | 19 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 23, 2026 |
+| **Last Seen** | Oct 25, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Vue or similar-topics*
+*Similar: Check repositories in Lua or similar-topics*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 18
+- **Trending Days**: 19
 - **Longest Streak**: 6 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Inactive | No recent updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,7 +81,7 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in Vue
+- Check similar projects in Lua
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:38.235Z*  
-*Data from 18 trending reports*
+*Last updated: 2026-10-25T21:01:52.417Z*  
+*Data from 19 trending reports*

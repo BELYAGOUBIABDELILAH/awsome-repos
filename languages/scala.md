@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 70
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-23
+- **Last Updated**: 2026-10-25
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,590 | 2026-08-01 | 58 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,593 | 2026-08-01 | 59 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,053 | 2026-08-01 | 57 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,055 | 2026-08-01 | 58 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | ⭐ 1,012 | 2026-08-01 | 43 |
+| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | ⭐ 1,013 | 2026-08-01 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,610 | 2026-08-01 | 54 |
+| [apache/gluten](../repos/apache/gluten.md) | ⭐ 1,611 | 2026-08-01 | 55 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,280 | 2026-08-01 | 29 |
+| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,281 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,978 | 2026-08-01 | 51 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,984 | 2026-08-01 | 52 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,340 | 2026-08-01 | 53 |
+| [canton-network/splice](../repos/canton-network/splice.md) | ⭐ 120 | 2026-08-01 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,954 | 2026-08-01 | 41 |
+| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,955 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,411 | 2026-08-01 | 36 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,307 | 2026-08-01 | 69 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,290 | 2026-08-01 | 68 |
+| [scala/scala](../repos/scala/scala.md) | ⭐ 14,536 | 2026-08-01 | 37 |
 
 
 ---
@@ -64,7 +64,7 @@
 | [llm4s/llm4s](../repos/llm4s/llm4s.md) | ⭐ 268 | 2026-10-12 | Agentic  and LLM Programming in Scala |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [apache/carbondata](../repos/apache/carbondata.md) | ⭐ 1,452 | 2026-10-15 | High performance data store solution |
+| [apache/carbondata](../repos/apache/carbondata.md) | ⭐ 1,453 | 2026-10-15 | High performance data store solution |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [slick/slick](../repos/slick/slick.md) | ⭐ 2,666 | 2026-10-20 | Slick (Scala Language Integrated Connection Kit) is a modern database query and access library fo... |
@@ -82,19 +82,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,978 | 2026-08-01 | 51 |
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,290 | 2026-08-01 | 68 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,874 | 2026-08-02 | 57 |
-| [scala/scala](../repos/scala/scala.md) | ⭐ 14,534 | 2026-08-01 | 36 |
-| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,280 | 2026-08-01 | 29 |
-| [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,519 | 2026-09-02 | 11 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | ⭐ 73,984 | 2026-08-01 | 52 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,307 | 2026-08-01 | 69 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | ⭐ 18,893 | 2026-08-02 | 58 |
+| [scala/scala](../repos/scala/scala.md) | ⭐ 14,536 | 2026-08-01 | 37 |
+| [akka/akka-core](../repos/akka/akka-core.md) | ⭐ 13,281 | 2026-08-01 | 30 |
+| [apache/predictionio](../repos/apache/predictionio.md) | ⭐ 12,519 | 2026-09-02 | 12 |
 | [yahoo/CMAK](../repos/yahoo/CMAK.md) | ⭐ 11,924 | 2026-09-07 | 1 |
 | [gitbucket/gitbucket](../repos/gitbucket/gitbucket.md) | ⭐ 9,411 | 2026-08-01 | 36 |
-| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,053 | 2026-08-01 | 57 |
-| [twitter/finagle](../repos/twitter/finagle.md) | ⭐ 8,867 | 2026-08-20 | 6 |
+| [delta-io/delta](../repos/delta-io/delta.md) | ⭐ 9,055 | 2026-08-01 | 58 |
+| [twitter/finagle](../repos/twitter/finagle.md) | ⭐ 8,869 | 2026-08-20 | 7 |
 | [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | ⭐ 7,340 | 2026-08-01 | 53 |
 | [snowplow/snowplow](../repos/snowplow/snowplow.md) | ⭐ 7,041 | 2026-08-11 | 9 |
-| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,954 | 2026-08-01 | 41 |
+| [gatling/gatling](../repos/gatling/gatling.md) | ⭐ 6,955 | 2026-08-01 | 42 |
 | [apache/openwhisk](../repos/apache/openwhisk.md) | ⭐ 6,802 | 2026-08-05 | 7 |
 | [scala/scala3](../repos/scala/scala3.md) | ⭐ 6,325 | 2026-08-01 | 35 |
 | [guardian/frontend](../repos/guardian/frontend.md) | ⭐ 5,897 | 2026-08-03 | 30 |
@@ -109,16 +109,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [apache/spark](../repos/apache/spark.md) | 68 | ⭐ 44,290 | 2026-08-01 | 2026-10-23 |
-| [joernio/joern](../repos/joernio/joern.md) | 58 | ⭐ 3,590 | 2026-08-01 | 2026-10-23 |
-| [delta-io/delta](../repos/delta-io/delta.md) | 57 | ⭐ 9,053 | 2026-08-01 | 2026-10-23 |
-| [lichess-org/lila](../repos/lichess-org/lila.md) | 57 | ⭐ 18,874 | 2026-08-02 | 2026-10-22 |
-| [apache/gluten](../repos/apache/gluten.md) | 54 | ⭐ 1,610 | 2026-08-01 | 2026-10-23 |
+| [apache/spark](../repos/apache/spark.md) | 69 | ⭐ 44,307 | 2026-08-01 | 2026-10-25 |
+| [joernio/joern](../repos/joernio/joern.md) | 59 | ⭐ 3,593 | 2026-08-01 | 2026-10-25 |
+| [delta-io/delta](../repos/delta-io/delta.md) | 58 | ⭐ 9,055 | 2026-08-01 | 2026-10-25 |
+| [lichess-org/lila](../repos/lichess-org/lila.md) | 58 | ⭐ 18,893 | 2026-08-02 | 2026-10-25 |
+| [apache/gluten](../repos/apache/gluten.md) | 55 | ⭐ 1,611 | 2026-08-01 | 2026-10-25 |
 | [OpenXiangShan/XiangShan](../repos/OpenXiangShan/XiangShan.md) | 53 | ⭐ 7,340 | 2026-08-01 | 2026-10-23 |
-| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 51 | ⭐ 73,978 | 2026-08-01 | 2026-10-23 |
-| [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | 46 | ⭐ 1,297 | 2026-08-02 | 2026-10-23 |
-| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 43 | ⭐ 1,012 | 2026-08-01 | 2026-10-23 |
-| [gatling/gatling](../repos/gatling/gatling.md) | 41 | ⭐ 6,954 | 2026-08-01 | 2026-10-23 |
+| [twitter/the-algorithm](../repos/twitter/the-algorithm.md) | 52 | ⭐ 73,984 | 2026-08-01 | 2026-10-25 |
+| [apache/datafusion-comet](../repos/apache/datafusion-comet.md) | 47 | ⭐ 1,303 | 2026-08-02 | 2026-10-25 |
+| [NVIDIA/cudf-spark](../repos/NVIDIA/cudf-spark.md) | 44 | ⭐ 1,013 | 2026-08-01 | 2026-10-25 |
+| [gatling/gatling](../repos/gatling/gatling.md) | 42 | ⭐ 6,955 | 2026-08-01 | 2026-10-25 |
 
 ---
 
@@ -197,4 +197,4 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.846Z*
+*Last updated: 2026-10-25T21:01:49.123Z*

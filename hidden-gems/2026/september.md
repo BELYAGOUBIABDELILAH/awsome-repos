@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 397
+**Gems Found**: 383
 
 ---
 
@@ -39,7 +39,7 @@
 |---|---|
 | ⭐ **Stars** | 4,130 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 92/100 |
+| 🏆 **Gem Score** | 91/100 |
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 5, 2026 |
 
@@ -71,27 +71,7 @@
 
 ---
 
-### 4. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
-
-**Source control for agents. Use multiple coding agents, track their changes and query them in one place**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 8,197 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 88/100 |
-| 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 14, 2026 |
-
-**Why it's a gem**: High growth velocity (+571 stars&#x2F;day) • Trending 8 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/pacifio/atlas.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas)
-
----
-
-### 5. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
+### 4. [geo-tp&#x2F;ESP32-Bit-Pirate](../../repos/geo-tp/ESP32-Bit-Pirate.md)
 
 **A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol **
 
@@ -111,27 +91,27 @@
 
 ---
 
-### 6. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+### 5. [pacifio&#x2F;atlas](../../repos/pacifio/atlas.md)
 
-**Native GUI for Homebrew Casks**
+**Source control for agents. Use multiple coding agents, track their changes and query them in one place**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,131 |
-| 💻 **Language** | Swift |
+| ⭐ **Stars** | 8,197 |
+| 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 87/100 |
 | 📈 **Trending Days** | 8 |
-| 📅 **First Seen** | Aug 10, 2026 |
+| 📅 **First Seen** | Aug 14, 2026 |
 
-**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+571 stars&#x2F;day) • Trending 8 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
+[View Passport](../../repos/pacifio/atlas.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;pacifio&#x2F;atlas)
 
 ---
 
-### 7. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+### 6. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
 
 **Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
 
@@ -151,7 +131,7 @@
 
 ---
 
-### 8. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
+### 7. [huangruiteng&#x2F;loopx](../../repos/huangruiteng/loopx.md)
 
 **Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.**
 
@@ -168,6 +148,26 @@
 **Best for**: 
 
 [View Passport](../../repos/huangruiteng/loopx.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huangruiteng&#x2F;loopx)
+
+---
+
+### 8. [alielsokary&#x2F;CaskHub](../../repos/alielsokary/CaskHub.md)
+
+**Native GUI for Homebrew Casks**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,131 |
+| 💻 **Language** | Swift |
+| 🏆 **Gem Score** | 86/100 |
+| 📈 **Trending Days** | 8 |
+| 📅 **First Seen** | Aug 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 8 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/alielsokary/CaskHub.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alielsokary&#x2F;CaskHub)
 
 ---
 
@@ -291,27 +291,7 @@
 
 ---
 
-### 15. [arcboxlabs&#x2F;arcbox](../../repos/arcboxlabs/arcbox.md)
-
-**Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 3,363 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 84/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Sep 2, 2026 |
-
-**Why it's a gem**: High growth velocity (+494 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/arcboxlabs/arcbox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;arcboxlabs&#x2F;arcbox)
-
----
-
-### 16. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
+### 15. [momenbasel&#x2F;PureMac](../../repos/momenbasel/PureMac.md)
 
 **Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode&#x2F;Homebrew&#x2F;system cache cleanup. MIT licensed.**
 
@@ -328,6 +308,26 @@
 **Best for**: 
 
 [View Passport](../../repos/momenbasel/PureMac.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;momenbasel&#x2F;PureMac)
+
+---
+
+### 16. [arcboxlabs&#x2F;arcbox](../../repos/arcboxlabs/arcbox.md)
+
+**Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3,363 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 83/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Sep 2, 2026 |
+
+**Why it's a gem**: High growth velocity (+494 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/arcboxlabs/arcbox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;arcboxlabs&#x2F;arcbox)
 
 ---
 
@@ -391,23 +391,23 @@
 
 ---
 
-### 20. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
+### 20. [huggingface&#x2F;funes](../../repos/huggingface/funes.md)
 
-**The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python&#x2F;R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.**
+**Durable, searchable memory of your past agent sessions.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4,884 |
-| 💻 **Language** | TypeScript |
+| ⭐ **Stars** | 342 |
+| 💻 **Language** | Rust |
 | 🏆 **Gem Score** | 82/100 |
 | 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Sep 6, 2026 |
+| 📅 **First Seen** | Sep 7, 2026 |
 
-**Why it's a gem**: High growth velocity (+158 stars&#x2F;day) • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+46 stars&#x2F;day) • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/aipoch/open-science.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;aipoch&#x2F;open-science)
+[View Passport](../../repos/huggingface/funes.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;huggingface&#x2F;funes)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-23T21:01:41.296Z*  
+*Generated: 2026-10-25T21:01:57.081Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

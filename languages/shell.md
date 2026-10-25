@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 145
+- **Total Repositories**: 146
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-23
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,638 | 2026-08-01 | 40 |
+| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 3,032 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [void-linux/void-packages](../repos/void-linux/void-packages.md) | ⭐ 3,474 | 2026-08-01 | 3 |
+| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,797 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SimoneAvogadro/android-reverse-engineering-skill](../repos/SimoneAvogadro/android-reverse-engineering-skill.md) | ⭐ 8,275 | 2026-08-04 | 11 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 3,172 | 2026-08-05 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitnami/containers](../repos/bitnami/containers.md) | ⭐ 4,470 | 2026-08-06 | 3 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,679 | 2026-08-06 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [d3/d3](../repos/d3/d3.md) | ⭐ 113,793 | 2026-08-07 | 3 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 3,017 | 2026-08-07 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RROrg/rr](../repos/RROrg/rr.md) | ⭐ 8,670 | 2026-08-08 | 10 |
+| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 19,680 | 2026-08-08 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MichaIng/DietPi](../repos/MichaIng/DietPi.md) | ⭐ 6,349 | 2026-09-13 | 2 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,683 | 2026-08-29 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kejilion/sh](../repos/kejilion/sh.md) | ⭐ 3,481 | 2026-09-22 | 4 |
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 5,030 | 2026-09-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [liandu2024/Open-Box](../repos/liandu2024/Open-Box.md) | ⭐ 2,301 | 2026-10-22 | 2 |
+| [aditya-shri/VPN](../repos/aditya-shri/VPN.md) | ⭐ 2,352 | 2026-09-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/docker](../repos/nextcloud/docker.md) | ⭐ 7,406 | 2026-10-23 | 1 |
+| [kharmanskyi/open-steps](../repos/kharmanskyi/open-steps.md) | ⭐ 1,232 | 2026-10-25 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [angristan/openvpn-install](../repos/angristan/openvpn-install.md) | ⭐ 16,144 | 2026-09-24 | Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [addyosmani/web-quality-skills](../repos/addyosmani/web-quality-skills.md) | ⭐ 2,833 | 2026-09-24 | Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ZeroLu/awesome-seedance](../repos/ZeroLu/awesome-seedance.md) | ⭐ 2,560 | 2026-09-24 | The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [angristan/wireguard-install](../repos/angristan/wireguard-install.md) | ⭐ 11,296 | 2026-09-24 | WireGuard VPN installer for Linux servers |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ONLYOFFICE/DocumentServer](../repos/ONLYOFFICE/DocumentServer.md) | ⭐ 7,030 | 2026-09-25 | ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for te... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [espressif/esp-csi](../repos/espressif/esp-csi.md) | ⭐ 1,627 | 2026-09-25 | Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human de... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [BlackArch/blackarch](../repos/BlackArch/blackarch.md) | ⭐ 3,514 | 2026-09-27 | An ArchLinux based distribution for penetration testers and security researchers. |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [caido/caido](../repos/caido/caido.md) | ⭐ 2,658 | 2026-10-06 | 🚀 Caido releases, wiki and roadmap |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [aquasecurity/trivy-action](../repos/aquasecurity/trivy-action.md) | ⭐ 1,435 | 2026-10-06 | Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ClickHouse/ClickBench](../repos/ClickHouse/ClickBench.md) | ⭐ 1,126 | 2026-10-08 | ClickBench: a Benchmark For Analytical Databases |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [conda-forge/miniforge](../repos/conda-forge/miniforge.md) | ⭐ 10,253 | 2026-10-09 | A conda-forge distribution. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [EpicGames/unreal-engine-skills-for-claude-code-plugin](../repos/EpicGames/unreal-engine-skills-for-claude-code-plugin.md) | ⭐ 1,547 | 2026-10-11 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [sailor-sh/CK-X](../repos/sailor-sh/CK-X.md) | ⭐ 1,226 | 2026-10-12 | A mock exams for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configure... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 444 | 2026-10-15 |  |
 
 
 ---
@@ -92,9 +92,9 @@
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,638 | 2026-08-01 | 40 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,666 | 2026-08-04 | 8 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,550 | 2026-08-06 | 13 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,679 | 2026-08-06 | 14 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,855 | 2026-08-04 | 13 |
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,484 | 2026-08-29 | 9 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,683 | 2026-08-29 | 10 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
 | [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,735 | 2026-08-20 | 12 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
@@ -105,7 +105,7 @@
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 6 |
-| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 19,479 | 2026-08-08 | 7 |
+| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 19,680 | 2026-08-08 | 8 |
 | [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,995 | 2026-09-08 | 3 |
 | [CISOfy/lynis](../repos/CISOfy/lynis.md) | ⭐ 16,492 | 2026-08-24 | 2 |
 
@@ -116,13 +116,13 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 40 | ⭐ 95,638 | 2026-08-01 | 2026-10-23 |
-| [expo/skills](../repos/expo/skills.md) | 32 | ⭐ 2,985 | 2026-08-07 | 2026-10-22 |
+| [expo/skills](../repos/expo/skills.md) | 33 | ⭐ 3,017 | 2026-08-07 | 2026-10-25 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 22 | ⭐ 11,292 | 2026-08-04 | 2026-10-22 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 19 | ⭐ 8,002 | 2026-08-12 | 2026-10-16 |
-| [cloudflare/skills](../repos/cloudflare/skills.md) | 14 | ⭐ 3,099 | 2026-08-05 | 2026-10-18 |
+| [cloudflare/skills](../repos/cloudflare/skills.md) | 15 | ⭐ 3,172 | 2026-08-05 | 2026-10-25 |
+| [dockur/windows](../repos/dockur/windows.md) | 14 | ⭐ 53,679 | 2026-08-06 | 2026-10-25 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 13 | ⭐ 47,855 | 2026-08-04 | 2026-10-21 |
-| [dockur/windows](../repos/dockur/windows.md) | 13 | ⭐ 53,550 | 2026-08-06 | 2026-10-07 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 12 | ⭐ 2,316 | 2026-08-02 | 2026-09-25 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 12 | ⭐ 26,137 | 2026-08-04 | 2026-10-13 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.849Z*
+*Last updated: 2026-10-25T21:01:49.127Z*

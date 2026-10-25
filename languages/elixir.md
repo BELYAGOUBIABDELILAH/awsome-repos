@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 47
+- **Total Repositories**: 48
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-09
 
@@ -16,19 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,691 | 2026-08-01 | 58 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,696 | 2026-08-01 | 59 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,169 | 2026-08-02 | 56 |
+| [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,832 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,122 | 2026-08-02 | 45 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,421 | 2026-08-01 | 50 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,196 | 2026-08-03 | 47 |
+| [operately/operately](../repos/operately/operately.md) | ⭐ 593 | 2026-08-02 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,498 | 2026-08-06 | 5 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,180 | 2026-08-02 | 57 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,126 | 2026-08-02 | 46 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,201 | 2026-08-03 | 48 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,500 | 2026-08-06 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ash-project/ash_postgres](../repos/ash-project/ash_postgres.md) | ⭐ 190 | 2026-10-25 | 1 |
 
 
 ---
@@ -44,6 +56,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [elixirs/faker](../repos/elixirs/faker.md) | ⭐ 1,199 | 2026-10-18 | Faker is a pure Elixir library for generating fake data. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ash-project/ash_postgres](../repos/ash-project/ash_postgres.md) | ⭐ 190 | 2026-10-25 | The PostgreSQL data layer for Ash Framework |
 
 
 ---
@@ -54,16 +69,16 @@
 |------------|-------|------------|---------------|
 | [anoma/anoma](../repos/anoma/anoma.md) | ⭐ 33,620 | 2026-09-04 | 4 |
 | [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,756 | 2026-08-01 | 57 |
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,691 | 2026-08-01 | 58 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,196 | 2026-08-03 | 47 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,696 | 2026-08-01 | 59 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,201 | 2026-08-03 | 48 |
 | [h4cc/awesome-elixir](../repos/h4cc/awesome-elixir.md) | ⭐ 13,166 | 2026-09-08 | 1 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,169 | 2026-08-02 | 56 |
-| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,122 | 2026-08-02 | 45 |
-| [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,832 | 2026-08-01 | 22 |
-| [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,498 | 2026-08-06 | 5 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,180 | 2026-08-02 | 57 |
+| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,126 | 2026-08-02 | 46 |
+| [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,832 | 2026-08-01 | 23 |
+| [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,500 | 2026-08-06 | 6 |
 | [papercups-io/papercups](../repos/papercups-io/papercups.md) | ⭐ 6,113 | 2026-09-21 | 2 |
 | [livebook-dev/livebook](../repos/livebook-dev/livebook.md) | ⭐ 5,887 | 2026-08-05 | 8 |
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,414 | 2026-08-01 | 49 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,421 | 2026-08-01 | 50 |
 | [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,538 | 2026-09-01 | 18 |
 | [expert-lsp/expert](../repos/expert-lsp/expert.md) | ⭐ 2,048 | 2026-08-01 | 6 |
 | [mtrudel/bandit](../repos/mtrudel/bandit.md) | ⭐ 1,922 | 2026-08-22 | 4 |
@@ -79,16 +94,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 58 | ⭐ 26,691 | 2026-08-01 | 2026-10-23 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 59 | ⭐ 26,696 | 2026-08-01 | 2026-10-25 |
 | [openai/symphony](../repos/openai/symphony.md) | 57 | ⭐ 27,756 | 2026-08-01 | 2026-10-20 |
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 56 | ⭐ 9,169 | 2026-08-02 | 2026-10-23 |
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 49 | ⭐ 5,414 | 2026-08-01 | 2026-10-22 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 47 | ⭐ 23,196 | 2026-08-03 | 2026-10-23 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 45 | ⭐ 9,122 | 2026-08-02 | 2026-10-23 |
+| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 57 | ⭐ 9,180 | 2026-08-02 | 2026-10-25 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 50 | ⭐ 5,421 | 2026-08-01 | 2026-10-25 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 48 | ⭐ 23,201 | 2026-08-03 | 2026-10-25 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 46 | ⭐ 9,126 | 2026-08-02 | 2026-10-25 |
 | [open-telemetry/opentelemetry-erlang-contrib](../repos/open-telemetry/opentelemetry-erlang-contrib.md) | 25 | ⭐ 219 | 2026-08-01 | 2026-09-09 |
-| [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | 22 | ⭐ 6,832 | 2026-08-01 | 2026-10-09 |
+| [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | 23 | ⭐ 6,832 | 2026-08-01 | 2026-10-25 |
 | [ash-project/ash](../repos/ash-project/ash.md) | 18 | ⭐ 2,538 | 2026-09-01 | 2026-10-21 |
-| [operately/operately](../repos/operately/operately.md) | 9 | ⭐ 580 | 2026-08-02 | 2026-10-12 |
+| [operately/operately](../repos/operately/operately.md) | 10 | ⭐ 593 | 2026-08-02 | 2026-10-25 |
 
 ---
 
@@ -141,7 +156,8 @@
 - [deepfates/imp](../repos/deepfates/imp.md) - declarative self-improving language-model programs for Elixir 😇
 - [nerves-hub/nerves_hub_web](../repos/nerves-hub/nerves_hub_web.md) - Manage your Nerves device fleet, including firmware updates, health reports, and interactive devi...
 - [elixirs/faker](../repos/elixirs/faker.md) - Faker is a pure Elixir library for generating fake data.
+- [ash-project/ash_postgres](../repos/ash-project/ash_postgres.md) - The PostgreSQL data layer for Ash Framework
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.802Z*
+*Last updated: 2026-10-25T21:01:49.035Z*

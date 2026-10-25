@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 316
+- **Total Repositories**: 317
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-10-21
+- **Last Updated**: 2026-10-25
 
 ---
 
@@ -16,58 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 50,580 | 2026-08-01 | 21 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 184,741 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,718 | 2026-08-01 | 5 |
+| [charmbracelet/crush](../repos/charmbracelet/crush.md) | ⭐ 28,807 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 53,668 | 2026-08-01 | 21 |
+| [OpenListTeam/OpenList](../repos/OpenListTeam/OpenList.md) | ⭐ 25,273 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,671 | 2026-08-01 | 21 |
+| [github/gh-aw](../repos/github/gh-aw.md) | ⭐ 5,468 | 2026-08-10 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chaitin/SafeLine](../repos/chaitin/SafeLine.md) | ⭐ 22,922 | 2026-08-03 | 5 |
+| [kdlbs/kandev](../repos/kdlbs/kandev.md) | ⭐ 1,013 | 2026-08-10 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 92,755 | 2026-08-06 | 13 |
+| [Gaurav-Gosain/tuios](../repos/Gaurav-Gosain/tuios.md) | ⭐ 5,958 | 2026-08-19 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chenyme/grok2api](../repos/chenyme/grok2api.md) | ⭐ 7,848 | 2026-08-06 | 6 |
+| [kunchenguid/no-mistakes](../repos/kunchenguid/no-mistakes.md) | ⭐ 8,957 | 2026-09-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,720 | 2026-08-11 | 6 |
+| [dagger/dagger](../repos/dagger/dagger.md) | ⭐ 16,500 | 2026-09-20 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TencentCloud/CubeSandbox](../repos/TencentCloud/CubeSandbox.md) | ⭐ 13,024 | 2026-08-19 | 11 |
+| [slavakurilyak/awesome-ai-agents](../repos/slavakurilyak/awesome-ai-agents.md) | ⭐ 2,700 | 2026-10-06 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ltaoo/wx_channels_download](../repos/ltaoo/wx_channels_download.md) | ⭐ 10,067 | 2026-10-08 | 3 |
+| [encoredev/encore](../repos/encoredev/encore.md) | ⭐ 12,575 | 2026-10-25 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [flexprice/flexprice](../repos/flexprice/flexprice.md) | ⭐ 6,938 | 2026-09-24 | Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ArvinLovegood/go-stock](../repos/ArvinLovegood/go-stock.md) | ⭐ 7,708 | 2026-09-24 | 🦄🦄🦄AI赋能股票分析：AI加持的股票分析&#x2F;选股工具。股票行情获取，AI热点资讯分析，AI资金&#x2F;财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体&#x2F;个股情绪分析，AI辅助选股等。数... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [autobrr/autobrr](../repos/autobrr/autobrr.md) | ⭐ 3,085 | 2026-09-24 | Modern, easy to use download automation for torrents and usenet. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [getprobo/probo](../repos/getprobo/probo.md) | ⭐ 1,436 | 2026-09-24 | Open source solutions for SOC2, GDPR, and ISO27001 |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [go-vikunja/vikunja](../repos/go-vikunja/vikunja.md) | ⭐ 5,500 | 2026-09-24 | The task manager you actually own. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [GoogleCloudPlatform/microservices-demo](../repos/GoogleCloudPlatform/microservices-demo.md) | ⭐ 21,000 | 2026-09-25 | Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [git-bug/git-bug](../repos/git-bug/git-bug.md) | ⭐ 10,608 | 2026-09-27 | Distributed, offline-first bug tracker integrated in git |
@@ -80,6 +62,24 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Billionmail/BillionMail](../repos/Billionmail/BillionMail.md) | ⭐ 15,763 | 2026-09-27 | BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, d... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [londek/ipadecrypt](../repos/londek/ipadecrypt.md) | ⭐ 606 | 2026-09-28 | 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa&#39;s with minimal... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ffuf/ffuf](../repos/ffuf/ffuf.md) | ⭐ 16,778 | 2026-09-28 | Fast web fuzzer written in Go |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [grafana/k6](../repos/grafana/k6.md) | ⭐ 31,695 | 2026-09-28 | A modern load testing tool, using Go and JavaScript |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pingcap/tidb](../repos/pingcap/tidb.md) | ⭐ 40,600 | 2026-09-28 | TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native supp... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rakyll/hey](../repos/rakyll/hey.md) | ⭐ 20,614 | 2026-09-29 | HTTP load generator, ApacheBench (ab) replacement |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [felinics/Memoh](../repos/felinics/Memoh.md) | ⭐ 2,590 | 2026-09-29 | ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and ... |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 184,188 | 2026-08-01 | 24 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 184,741 | 2026-08-01 | 25 |
 | [golang/go](../repos/golang/go.md) | ⭐ 139,476 | 2026-07-31 | 16 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,554 | 2026-08-04 | 11 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,572 | 2026-08-15 | 12 |
@@ -115,8 +115,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [ollama/ollama](../repos/ollama/ollama.md) | 25 | ⭐ 184,741 | 2026-08-01 | 2026-10-25 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 24 | ⭐ 34,389 | 2026-08-01 | 2026-10-16 |
-| [ollama/ollama](../repos/ollama/ollama.md) | 24 | ⭐ 184,188 | 2026-08-01 | 2026-10-21 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 21 | ⭐ 50,580 | 2026-08-01 | 2026-10-23 |
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 21 | ⭐ 53,668 | 2026-08-01 | 2026-10-23 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 21 | ⭐ 38,671 | 2026-08-01 | 2026-10-23 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.810Z*
+*Last updated: 2026-10-25T21:01:49.048Z*

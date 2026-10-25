@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 172
+- **Total Repositories**: 173
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-15
 
@@ -16,34 +16,25 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,211 | 2026-07-30 | 13 |
+| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 6,941 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [projectdiscovery/nuclei-templates](../repos/projectdiscovery/nuclei-templates.md) | ⭐ 13,197 | 2026-08-04 | 6 |
+| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 11,640 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 19,012 | 2026-08-14 | 10 |
+| [WebKit/WebKit](../repos/WebKit/WebKit.md) | ⭐ 10,276 | 2026-08-14 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 41,892 | 2026-08-28 | 13 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 46,627 | 2026-08-28 | 14 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [maboloshi/github-chinese](../repos/maboloshi/github-chinese.md) | ⭐ 36,643 | 2026-10-25 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [androoAGI/starnet](../repos/androoAGI/starnet.md) | ⭐ 1,011 | 2026-09-24 | A living pixel-art station where real AI agents do real work. Local-first desktop agent harness -... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [elidickinson/pi-claude-bridge](../repos/elidickinson/pi-claude-bridge.md) | ⭐ 448 | 2026-09-24 | Claude Code inference provider for Pi. Allows the use of Claude Code of Pro&#x2F;Max subscriptions fro... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [copy/v86](../repos/copy/v86.md) | ⭐ 23,527 | 2026-09-25 | x86 PC emulator and x86-to-wasm JIT, running in the browser |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pashov/skills](../repos/pashov/skills.md) | ⭐ 1,205 | 2026-09-25 | Pashov Audit Group Skills |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mlmvpn/mlmvpn_windows](../repos/mlmvpn/mlmvpn_windows.md) | ⭐ 159 | 2026-09-27 | MLMVPN - Ultimate Anti-Filter &amp; IP Scanner |
@@ -62,6 +53,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [WesselKroos/youtube-ambilight](../repos/WesselKroos/youtube-ambilight.md) | ⭐ 294 | 2026-10-01 | This browser extension adds ambient light to YouTube videos |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [libnoname/noname](../repos/libnoname/noname.md) | ⭐ 5,083 | 2026-10-02 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tabler/tabler-icons](../repos/tabler/tabler-icons.md) | ⭐ 22,093 | 2026-10-02 | A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Joooook/12306-mcp](../repos/Joooook/12306-mcp.md) | ⭐ 2,289 | 2026-10-06 | This is a 12306 ticket search server based on the Model Context Protocol (MCP). |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kanoqwq/UFI-TOOLS](../repos/kanoqwq/UFI-TOOLS.md) | ⭐ 2,577 | 2026-10-06 | A functional tools for z*e devices (F50 | U30 Air) |
 
 
 ---
@@ -89,7 +92,7 @@
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 56,874 | 2026-08-27 | 13 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,701 | 2026-08-08 | 5 |
-| [microsoft/monaco-editor](../repos/microsoft/monaco-editor.md) | ⭐ 46,525 | 2026-08-08 | 2 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 46,627 | 2026-08-28 | 14 |
 
 ---
 
@@ -102,9 +105,9 @@
 | [byoungd/up](../repos/byoungd/up.md) | 18 | ⭐ 66,612 | 2026-08-01 | 2026-10-01 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 14 | ⭐ 5,119 | 2026-08-07 | 2026-10-20 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 14 | ⭐ 46,627 | 2026-08-28 | 2026-10-25 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 13 | ⭐ 143,211 | 2026-07-30 | 2026-10-23 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 13 | ⭐ 56,874 | 2026-08-27 | 2026-10-15 |
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 13 | ⭐ 41,892 | 2026-08-28 | 2026-10-23 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 12 | ⭐ 27,764 | 2026-08-03 | 2026-10-12 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 12 | ⭐ 30,461 | 2026-08-08 | 2026-10-15 |
 
@@ -215,4 +218,4 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.818Z*
+*Last updated: 2026-10-25T21:01:49.062Z*

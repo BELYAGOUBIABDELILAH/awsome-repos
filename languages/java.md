@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 218
+- **Total Repositories**: 219
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-17
+- **Last Updated**: 2026-10-25
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/maven](../repos/apache/maven.md) | ⭐ 5,372 | 2026-08-01 | 6 |
+| [DrKLO/Telegram](../repos/DrKLO/Telegram.md) | ⭐ 30,161 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,347 | 2026-08-02 | 21 |
+| [AntennaPod/AntennaPod](../repos/AntennaPod/AntennaPod.md) | ⭐ 8,248 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bazelbuild/bazel](../repos/bazelbuild/bazel.md) | ⭐ 25,982 | 2026-08-02 | 7 |
+| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 131,182 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opendataloader-project/opendataloader-pdf](../repos/opendataloader-project/opendataloader-pdf.md) | ⭐ 29,978 | 2026-08-03 | 14 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | ⭐ 35,528 | 2026-08-04 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iflytek/skillhub](../repos/iflytek/skillhub.md) | ⭐ 5,277 | 2026-08-04 | 17 |
+| [apache/camel](../repos/apache/camel.md) | ⭐ 6,379 | 2026-08-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/doris](../repos/apache/doris.md) | ⭐ 16,133 | 2026-08-05 | 10 |
+| [checkstyle/checkstyle](../repos/checkstyle/checkstyle.md) | ⭐ 9,620 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thingsboard/thingsboard](../repos/thingsboard/thingsboard.md) | ⭐ 22,599 | 2026-08-08 | 9 |
+| [Card-Forge/forge](../repos/Card-Forge/forge.md) | ⭐ 2,848 | 2026-08-16 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | ⭐ 7,231 | 2026-08-14 | 18 |
+| [JetBrains/intellij-community](../repos/JetBrains/intellij-community.md) | ⭐ 20,660 | 2026-08-25 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kekingcn/kkFileView](../repos/kekingcn/kkFileView.md) | ⭐ 14,796 | 2026-08-19 | 4 |
+| [AbdurazaaqMohammed/MP-Manager](../repos/AbdurazaaqMohammed/MP-Manager.md) | ⭐ 394 | 2026-09-27 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/nifi](../repos/apache/nifi.md) | ⭐ 6,273 | 2026-10-23 | 1 |
+| [apache/pulsar](../repos/apache/pulsar.md) | ⭐ 15,354 | 2026-10-25 | 1 |
 
 
 ---
@@ -52,10 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [FasterXML/jackson-core](../repos/FasterXML/jackson-core.md) | ⭐ 2,379 | 2026-09-24 | Core part of Jackson that defines Streaming API as well as basic shared abstractions |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AbdurazaaqMohammed/MP-Manager](../repos/AbdurazaaqMohammed/MP-Manager.md) | ⭐ 300 | 2026-09-27 | Dual pane Android file manager with focus on APKs |
+| [AbdurazaaqMohammed/MP-Manager](../repos/AbdurazaaqMohammed/MP-Manager.md) | ⭐ 394 | 2026-09-27 | Dual pane Android file manager with focus on APKs |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AndroidCSOfficial/android-code-studio](../repos/AndroidCSOfficial/android-code-studio.md) | ⭐ 1,300 | 2026-09-28 | Android Code Studio is an IDE for Android to develop full featured Android apps. |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [lishuangqiang/AI-Meeting](../repos/lishuangqiang/AI-Meeting.md) | ⭐ 1,056 | 2026-10-06 | 基于 Spring Boot 3 + Java 17 + Spring AI + MySQL + MongoDB + Redis + SSE&#x2F;WebSocket，实现 AI 对话、智能体会话、A... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [spring-projects/spring-kafka](../repos/spring-projects/spring-kafka.md) | ⭐ 2,513 | 2026-10-06 | Provides Familiar Spring Abstractions for Apache Kafka |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 130,826 | 2026-08-04 | 12 |
+| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 131,182 | 2026-08-04 | 13 |
 | [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 90,182 | 2026-08-03 | 27 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,760 | 2026-08-04 | 20 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,347 | 2026-08-02 | 21 |
@@ -124,7 +124,7 @@
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 19 | ⭐ 42,547 | 2026-08-05 | 2026-10-18 |
 | [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 18 | ⭐ 7,231 | 2026-08-14 | 2026-10-23 |
 | [iflytek/skillhub](../repos/iflytek/skillhub.md) | 17 | ⭐ 5,277 | 2026-08-04 | 2026-10-23 |
-| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 16 | ⭐ 35,352 | 2026-08-04 | 2026-10-22 |
+| [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 17 | ⭐ 35,528 | 2026-08-04 | 2026-10-25 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.816Z*
+*Last updated: 2026-10-25T21:01:49.059Z*

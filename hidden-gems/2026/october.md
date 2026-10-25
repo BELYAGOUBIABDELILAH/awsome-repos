@@ -7,7 +7,7 @@
 ## October 2026
 
 **Period**: 2026-10-01 to 2026-10-28  
-**Gems Found**: 561
+**Gems Found**: 586
 
 ---
 
@@ -31,27 +31,7 @@
 
 ---
 
-### 2. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
-
-**AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,282 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 97/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Sep 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+73 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/mixelpixx/Konnect.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mixelpixx&#x2F;Konnect)
-
----
-
-### 3. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
+### 2. [plugin87&#x2F;ux-ui-agent-skills](../../repos/plugin87/ux-ui-agent-skills.md)
 
 **Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.**
 
@@ -71,23 +51,43 @@
 
 ---
 
-### 4. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
+### 3. [julyx10&#x2F;lap](../../repos/julyx10/lap.md)
 
 **An offline-first photo manager for large local libraries**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,993 |
+| ⭐ **Stars** | 4,070 |
 | 💻 **Language** | Vue |
 | 🏆 **Gem Score** | 96/100 |
-| 📈 **Trending Days** | 30 |
+| 📈 **Trending Days** | 31 |
 | 📅 **First Seen** | Aug 2, 2026 |
 
-**Why it's a gem**: High growth velocity (+57 stars&#x2F;day) • Trending 30 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+56 stars&#x2F;day) • Trending 31 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
 [View Passport](../../repos/julyx10/lap.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;julyx10&#x2F;lap)
+
+---
+
+### 4. [mixelpixx&#x2F;Konnect](../../repos/mixelpixx/Konnect.md)
+
+**AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,282 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 96/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Sep 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+73 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/mixelpixx/Konnect.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mixelpixx&#x2F;Konnect)
 
 ---
 
@@ -171,59 +171,19 @@
 
 ---
 
-### 9. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
-
-**A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,011 |
-| 💻 **Language** | JavaScript |
-| 🏆 **Gem Score** | 95/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 24, 2026 |
-
-**Why it's a gem**: High growth velocity (+117 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/androoAGI/starnet.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;androoAGI&#x2F;starnet)
-
----
-
-### 10. [ashhart&#x2F;TensorFold](../../repos/ashhart/TensorFold.md)
-
-**LLM Inference Engine for Metal and CUDA.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,457 |
-| 💻 **Language** | Zig |
-| 🏆 **Gem Score** | 95/100 |
-| 📈 **Trending Days** | 10 |
-| 📅 **First Seen** | Sep 28, 2026 |
-
-**Why it's a gem**: High growth velocity (+42 stars&#x2F;day) • Trending 10 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/ashhart/TensorFold.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ashhart&#x2F;TensorFold)
-
----
-
-### 11. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
+### 9. [Jakubantalik&#x2F;transitions.dev](../../repos/Jakubantalik/transitions.dev.md)
 
 **UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,605 |
+| ⭐ **Stars** | 5,730 |
 | 💻 **Language** | HTML |
 | 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 13 |
+| 📈 **Trending Days** | 14 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
-**Why it's a gem**: High growth velocity (+99 stars&#x2F;day) • Trending 13 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+96 stars&#x2F;day) • Trending 14 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -231,27 +191,7 @@
 
 ---
 
-### 12. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
-
-**Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,944 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 10, 2026 |
-
-**Why it's a gem**: High growth velocity (+345 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/alsk1992/CloddsBot.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alsk1992&#x2F;CloddsBot)
-
----
-
-### 13. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
+### 10. [mg-chao&#x2F;snow-apps](../../repos/mg-chao/snow-apps.md)
 
 **Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.**
 
@@ -271,7 +211,27 @@
 
 ---
 
-### 14. [apache&#x2F;maka](../../repos/apache/maka.md)
+### 11. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
+
+**A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,011 |
+| 💻 **Language** | JavaScript |
+| 🏆 **Gem Score** | 94/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 24, 2026 |
+
+**Why it's a gem**: High growth velocity (+117 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/androoAGI/starnet.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;androoAGI&#x2F;starnet)
+
+---
+
+### 12. [apache&#x2F;maka](../../repos/apache/maka.md)
 
 **Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
 
@@ -291,7 +251,27 @@
 
 ---
 
-### 15. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
+### 13. [alsk1992&#x2F;CloddsBot](../../repos/alsk1992/CloddsBot.md)
+
+**Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,944 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 93/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 10, 2026 |
+
+**Why it's a gem**: High growth velocity (+345 stars&#x2F;day) • Trending 5 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/alsk1992/CloddsBot.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;alsk1992&#x2F;CloddsBot)
+
+---
+
+### 14. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
 
 **OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
 
@@ -311,27 +291,27 @@
 
 ---
 
-### 16. [Tianyu199509&#x2F;DeskBox](../../repos/Tianyu199509/DeskBox.md)
+### 15. [ashhart&#x2F;TensorFold](../../repos/ashhart/TensorFold.md)
 
-**A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.**
+**LLM Inference Engine for Metal and CUDA.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7,465 |
-| 💻 **Language** | C# |
+| ⭐ **Stars** | 1,476 |
+| 💻 **Language** | Zig |
 | 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 27, 2026 |
+| 📈 **Trending Days** | 11 |
+| 📅 **First Seen** | Sep 28, 2026 |
 
-**Why it's a gem**: High growth velocity (+124 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+39 stars&#x2F;day) • Trending 11 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/Tianyu199509/DeskBox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tianyu199509&#x2F;DeskBox)
+[View Passport](../../repos/ashhart/TensorFold.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ashhart&#x2F;TensorFold)
 
 ---
 
-### 17. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 16. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
 **Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
@@ -351,27 +331,7 @@
 
 ---
 
-### 18. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
-
-**Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 7,140 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 3, 2026 |
-
-**Why it's a gem**: High growth velocity (+51 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/tbphp/gpt-load.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tbphp&#x2F;gpt-load)
-
----
-
-### 19. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
+### 17. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
 
 **Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
 
@@ -391,23 +351,63 @@
 
 ---
 
-### 20. [CyrilPeng&#x2F;Venera-Next](../../repos/CyrilPeng/Venera-Next.md)
+### 18. [Tianyu199509&#x2F;DeskBox](../../repos/Tianyu199509/DeskBox.md)
 
-**VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。**
+**A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,743 |
-| 💻 **Language** | Dart |
+| ⭐ **Stars** | 7,600 |
+| 💻 **Language** | C# |
 | 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 9 |
-| 📅 **First Seen** | Sep 25, 2026 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Sep 27, 2026 |
 
-**Why it's a gem**: High growth velocity (+38 stars&#x2F;day) • Trending 9 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+114 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/CyrilPeng/Venera-Next.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;CyrilPeng&#x2F;Venera-Next)
+[View Passport](../../repos/Tianyu199509/DeskBox.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Tianyu199509&#x2F;DeskBox)
+
+---
+
+### 19. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
+
+**Open source factory for one-shot engineering**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 8,041 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 11 |
+| 📅 **First Seen** | Aug 2, 2026 |
+
+**Why it's a gem**: High growth velocity (+130 stars&#x2F;day) • Trending 11 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/superplanehq/superplane.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superplanehq&#x2F;superplane)
+
+---
+
+### 20. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+
+**ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,893 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 4, 2026 |
+
+**Why it's a gem**: High growth velocity (+336 stars&#x2F;day) • Trending 4 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/uber/ADR.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;uber&#x2F;ADR)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-23T21:01:41.289Z*  
+*Generated: 2026-10-25T21:01:57.075Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

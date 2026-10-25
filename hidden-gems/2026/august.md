@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 286
+**Gems Found**: 277
 
 ---
 
@@ -139,7 +139,7 @@
 |---|---|
 | ⭐ **Stars** | 423 |
 | 💻 **Language** | Swift |
-| 🏆 **Gem Score** | 79/100 |
+| 🏆 **Gem Score** | 78/100 |
 | 📈 **Trending Days** | 3 |
 | 📅 **First Seen** | Aug 6, 2026 |
 
@@ -159,7 +159,7 @@
 |---|---|
 | ⭐ **Stars** | 3,033 |
 | 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 79/100 |
+| 🏆 **Gem Score** | 78/100 |
 | 📈 **Trending Days** | 3 |
 | 📅 **First Seen** | Aug 20, 2026 |
 
@@ -331,27 +331,7 @@
 
 ---
 
-### 17. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
-
-**Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 13,249 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 75/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 1, 2026 |
-
-**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 6 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/longbridge/gpui-component.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;longbridge&#x2F;gpui-component)
-
----
-
-### 18. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
+### 17. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
 
 **Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
 
@@ -371,7 +351,7 @@
 
 ---
 
-### 19. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
+### 18. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
 
 **The coding agent that answers to you, your model, your machine, your rules.**
 
@@ -391,7 +371,7 @@
 
 ---
 
-### 20. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
+### 19. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
 
 **Where people and agents build in tune.**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
+
+**Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 13,249 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 74/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 1, 2026 |
+
+**Why it's a gem**: High growth velocity (+58 stars&#x2F;day) • Trending 6 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/longbridge/gpui-component.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;longbridge&#x2F;gpui-component)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-23T21:01:41.298Z*  
+*Generated: 2026-10-25T21:01:57.084Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

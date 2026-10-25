@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 170
+- **Total Repositories**: 173
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-23
 
@@ -16,25 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 64,546 | 2026-08-02 | 20 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 32,144 | 2026-08-08 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 2,968 | 2026-08-02 | 18 |
+| [EchoMusicApp/Echo-Music](../repos/EchoMusicApp/Echo-Music.md) | ⭐ 2,076 | 2026-08-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,269 | 2026-08-03 | 15 |
+| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | ⭐ 6,674 | 2026-08-09 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,504 | 2026-08-04 | 13 |
+| [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) | ⭐ 7,882 | 2026-08-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) | ⭐ 7,860 | 2026-08-11 | 6 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 25,103 | 2026-08-12 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 507 | 2026-09-29 | 4 |
+| [Davidona/StreamVault-IPTV](../repos/Davidona/StreamVault-IPTV.md) | ⭐ 870 | 2026-08-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/android](../repos/home-assistant/android.md) | ⭐ 3,992 | 2026-10-02 | 2 |
+| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 551 | 2026-09-29 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 5,551 | 2026-10-06 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [Lelonio/Square](../repos/Lelonio/Square.md) | ⭐ 380 | 2026-10-08 | 2 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [theothernt/AerialViews](../repos/theothernt/AerialViews.md) | ⭐ 1,120 | 2026-10-25 | 1 |
 
 
 ---
@@ -43,16 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [aquamarine5/ChaoxingSignFaker](../repos/aquamarine5/ChaoxingSignFaker.md) | ⭐ 761 | 2026-09-24 | 伪造学习通的签到活动🙋学习通签到神器。支持滑动验证码签到、签退、人脸识别功能，支持自定义位置签到、动态二维码签到、自选照片进行拍照签到等全部签到形式以及给其他用户无限代签的功能 Falsify... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [tasks/tasks](../repos/tasks/tasks.md) | ⭐ 5,609 | 2026-09-27 | Bringing Astrid Tasks back from the dead |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Codename-11/hermes-relay](../repos/Codename-11/hermes-relay.md) | ⭐ 281 | 2026-09-28 | Hermes-Relay — Your Hermes AI agent, in your pocket — chat, voice, and control. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 507 | 2026-09-29 | Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE&#x2F;AmneziaWG, and the MLM... |
+| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 551 | 2026-09-29 | Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE&#x2F;AmneziaWG, and the MLM... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 1,825 | 2026-10-01 | GhostLock One-Tap Execution App (CVE-2026-43499) |
@@ -71,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 1,932 | 2026-10-06 | Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map d... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 5,551 | 2026-10-06 | ✨一个安卓网盘解析下载app✨ |
 
 
 ---
@@ -85,10 +94,10 @@
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,504 | 2026-08-04 | 13 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | 2 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,269 | 2026-08-03 | 15 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 31,747 | 2026-08-08 | 18 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 32,144 | 2026-08-08 | 19 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,447 | 2026-08-05 | 7 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,342 | 2026-08-11 | 5 |
-| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 24,879 | 2026-08-12 | 9 |
+| [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 25,103 | 2026-08-12 | 10 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,402 | 2026-08-01 | 17 |
 | [android/compose-samples](../repos/android/compose-samples.md) | ⭐ 23,479 | 2026-08-05 | 6 |
 | [MatsuriDayo/NekoBoxForAndroid](../repos/MatsuriDayo/NekoBoxForAndroid.md) | ⭐ 23,173 | 2026-08-02 | 6 |
@@ -107,8 +116,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 20 | ⭐ 64,546 | 2026-08-02 | 2026-10-23 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 19 | ⭐ 32,144 | 2026-08-08 | 2026-10-25 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 18 | ⭐ 2,968 | 2026-08-02 | 2026-10-23 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 18 | ⭐ 31,747 | 2026-08-08 | 2026-10-18 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 17 | ⭐ 24,402 | 2026-08-01 | 2026-10-15 |
 | [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 15 | ⭐ 43,269 | 2026-08-03 | 2026-10-23 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 15 | ⭐ 55,659 | 2026-08-06 | 2026-10-20 |
@@ -189,7 +198,7 @@
 - [WinNative-Emu/WinNative](../repos/WinNative-Emu/WinNative.md) - An Android app for playing Windows games from Steam, Epic Games, GOG, and more on your device.
 - [Kyant0/AndroidLiquidGlass](../repos/Kyant0/AndroidLiquidGlass.md) - Compose Multiplatform Liquid Glass effect
 - [newo-ether/Agora](../repos/newo-ether/Agora.md) - Android BYOK LLM client with multi-provider access, agentic workflows, and remote device control.
-- [EchoMusicApp/Echo-Music](../repos/EchoMusicApp/Echo-Music.md) - A modern Android music app with ad-free streaming, synced lyrics, offline playback, and an intuit...
+- [EchoMusicApp/Echo-Music](../repos/EchoMusicApp/Echo-Music.md) - An YouTube Music Client
 - [google/private-compute-services](../repos/google/private-compute-services.md) - 
 - [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) - Kernel-based Android Root Solution &amp; KPM
 - [celzero/rethink-app](../repos/celzero/rethink-app.md) - DNS over HTTPS &#x2F; DNS over Tor &#x2F; DNSCrypt client, WireGuard proxifier, firewall, and connection tr...
@@ -224,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.821Z*
+*Last updated: 2026-10-25T21:01:49.070Z*

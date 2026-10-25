@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 59
+- **Total Repositories**: 60
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-21
 
@@ -16,40 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,520 | 2026-08-01 | 53 |
+| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,053 | 2026-08-02 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/hve-core](../repos/microsoft/hve-core.md) | ⭐ 1,565 | 2026-08-01 | 11 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | ⭐ 500 | 2026-08-04 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/WindowsDeveloperConfig](../repos/microsoft/WindowsDeveloperConfig.md) | ⭐ 3,215 | 2026-08-01 | 26 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | ⭐ 1,553 | 2026-08-01 | 22 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [actions/python-versions](../repos/actions/python-versions.md) | ⭐ 243 | 2026-08-03 | 13 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [jenkinsci/docker](../repos/jenkinsci/docker.md) | ⭐ 7,674 | 2026-08-07 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [microsoft/sre-agent](../repos/microsoft/sre-agent.md) | ⭐ 179 | 2026-09-22 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) | ⭐ 7,884 | 2026-10-23 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Azure/Azure-Functions](../repos/Azure/Azure-Functions.md) | ⭐ 1,125 | 2026-10-23 | 1 |
+| [Azure/azure-sdk](../repos/Azure/azure-sdk.md) | ⭐ 599 | 2026-10-25 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [secretGeek/AwesomeCSV](../repos/secretGeek/AwesomeCSV.md) | ⭐ 956 | 2026-09-24 | 🕶️A curated list of awesome tools for dealing with CSV. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/ARI](../repos/microsoft/ARI.md) | ⭐ 1,705 | 2026-10-07 | Azure Resource Inventory - It&#39;s a Powerful tool to create EXCEL inventory from Azure Resources wi... |
@@ -65,6 +44,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Azure/Azure-Functions](../repos/Azure/Azure-Functions.md) | ⭐ 1,125 | 2026-10-23 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Azure/azure-sdk](../repos/Azure/azure-sdk.md) | ⭐ 599 | 2026-10-25 | This is the Azure SDK parent repository and mostly contains documentation around guidelines and p... |
 
 
 ---
@@ -74,7 +56,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | ⭐ 36,799 | 2026-08-01 | 20 |
-| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,045 | 2026-08-02 | 13 |
+| [dotnet/core](../repos/dotnet/core.md) | ⭐ 22,053 | 2026-08-02 | 14 |
 | [Sycnex/Windows10Debloater](../repos/Sycnex/Windows10Debloater.md) | ⭐ 18,844 | 2026-08-09 | 1 |
 | [actions/runner-images](../repos/actions/runner-images.md) | ⭐ 13,520 | 2026-08-01 | 53 |
 | [PowerShellMafia/PowerSploit](../repos/PowerShellMafia/PowerSploit.md) | ⭐ 13,073 | 2026-08-04 | 5 |
@@ -108,7 +90,7 @@
 | [hak5/usbrubberducky-payloads](../repos/hak5/usbrubberducky-payloads.md) | 23 | ⭐ 6,111 | 2026-08-01 | 2026-10-13 |
 | [SkipToTheEndpoint/OpenIntuneBaseline](../repos/SkipToTheEndpoint/OpenIntuneBaseline.md) | 22 | ⭐ 1,553 | 2026-08-01 | 2026-10-23 |
 | [zhaoxuya520/reverse-skill](../repos/zhaoxuya520/reverse-skill.md) | 20 | ⭐ 36,799 | 2026-08-01 | 2026-09-21 |
-| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 19 | ⭐ 486 | 2026-08-04 | 2026-10-13 |
+| [comol/ai_rules_1c](../repos/comol/ai_rules_1c.md) | 20 | ⭐ 500 | 2026-08-04 | 2026-10-25 |
 | [mandiant/flare-vm](../repos/mandiant/flare-vm.md) | 18 | ⭐ 9,149 | 2026-08-06 | 2026-10-16 |
 
 ---
@@ -174,7 +156,8 @@
 - [microsoft/Windows-Sandbox](../repos/microsoft/Windows-Sandbox.md) - Disposable, secure and lightweight Windows Desktop Environment
 - [javaht/claude-desktop-zh-cn](../repos/javaht/claude-desktop-zh-cn.md) - Claude Desktop Chinese Patch (macOS &amp; Windows &amp; Linux)
 - [Azure/Azure-Functions](../repos/Azure/Azure-Functions.md) - 
+- [Azure/azure-sdk](../repos/Azure/azure-sdk.md) - This is the Azure SDK parent repository and mostly contains documentation around guidelines and p...
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.836Z*
+*Last updated: 2026-10-25T21:01:49.098Z*

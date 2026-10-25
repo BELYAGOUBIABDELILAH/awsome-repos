@@ -1,6 +1,6 @@
 # Gaurav-Gosain&#x2F;tuios
 
-> A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+> A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X&#x2F;Twitter account.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;Gaurav-Gosain&#x2F;tuios) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | MIT |
-| **Stars** | ⭐ 4,454 |
-| **Forks** | 🍴 197 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 5,958 |
+| **Forks** | 🍴 276 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 19, 2026 |
-| **Last Seen** | Oct 1, 2026 |
+| **Last Seen** | Oct 25, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`ai-agents`](../../topics/ai-agents.md) [`bubbletea`](../../topics/bubbletea.md) [`charm`](../../topics/charm.md) [`claude-code`](../../topics/claude-code.md) [`cli`](../../topics/cli.md) [`codex`](../../topics/codex.md) [`coding-agents`](../../topics/coding-agents.md) [`developer-tools`](../../topics/developer-tools.md) [`go`](../../topics/go.md) [`golang`](../../topics/golang.md) [`multiplexer`](../../topics/multiplexer.md) [`pty`](../../topics/pty.md) [`ssh`](../../topics/ssh.md) [`terminal`](../../topics/terminal.md) [`terminal-emulator`](../../topics/terminal-emulator.md) [`terminal-multiplexer`](../../topics/terminal-multiplexer.md) [`tiling-window-manager`](../../topics/tiling-window-manager.md) [`tmux-alternative`](../../topics/tmux-alternative.md) [`tui`](../../topics/tui.md) [`window-manager`](../../topics/window-manager.md) 
+[`ai-agents`](../../topics/ai-agents.md) [`bubbletea`](../../topics/bubbletea.md) [`charm`](../../topics/charm.md) [`claude-code`](../../topics/claude-code.md) [`codex`](../../topics/codex.md) [`coding-agents`](../../topics/coding-agents.md) [`developer-tools`](../../topics/developer-tools.md) [`go`](../../topics/go.md) [`golang`](../../topics/golang.md) [`multiplexer`](../../topics/multiplexer.md) [`omarchy`](../../topics/omarchy.md) [`ssh`](../../topics/ssh.md) [`terminal`](../../topics/terminal.md) [`terminal-emulator`](../../topics/terminal-emulator.md) [`terminal-multiplexer`](../../topics/terminal-multiplexer.md) [`tiling-window-manager`](../../topics/tiling-window-manager.md) [`tmux-alternative`](../../topics/tmux-alternative.md) [`tui`](../../topics/tui.md) [`window-manager`](../../topics/window-manager.md) [`zellij-alternative`](../../topics/zellij-alternative.md) 
 
 ### Curated Categories
 `Artificial Intelligence` `Large Language Models` `Frontend Development` `Systems Programming` `Developer Tools` 
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-23T21:01:39.718Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-10-25T21:01:54.634Z*  
+*Data from 4 trending reports*

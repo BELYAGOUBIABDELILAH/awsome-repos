@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 283
+- **Total Repositories**: 286
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-22
+- **Last Updated**: 2026-10-25
 
 ---
 
@@ -16,55 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 118,967 | 2026-08-01 | 11 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,245 | 2026-07-30 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,400 | 2026-08-02 | 9 |
+| [imputnet/helium](../repos/imputnet/helium.md) | ⭐ 21,985 | 2026-08-03 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ArduPilot/ardupilot](../repos/ArduPilot/ardupilot.md) | ⭐ 16,193 | 2026-08-02 | 9 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,676 | 2026-08-05 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/googletest](../repos/google/googletest.md) | ⭐ 39,663 | 2026-08-04 | 22 |
+| [YosysHQ/yosys](../repos/YosysHQ/yosys.md) | ⭐ 4,842 | 2026-08-15 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react-native](../repos/react/react-native.md) | ⭐ 126,773 | 2026-08-04 | 6 |
+| [wopss/RED4ext](../repos/wopss/RED4ext.md) | ⭐ 501 | 2026-10-25 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,644 | 2026-08-05 | 10 |
+| [socquique/TamaPoke](../repos/socquique/TamaPoke.md) | ⭐ 223 | 2026-10-25 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MariaDB/server](../repos/MariaDB/server.md) | ⭐ 8,432 | 2026-08-05 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [microsoft/onnxruntime](../repos/microsoft/onnxruntime.md) | ⭐ 22,153 | 2026-08-06 | 12 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [microsoft/WSL](../repos/microsoft/WSL.md) | ⭐ 34,187 | 2026-08-08 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [keepassxreboot/keepassxc](../repos/keepassxreboot/keepassxc.md) | ⭐ 29,421 | 2026-08-12 | 4 |
+| [psiberx/cp2077-archive-xl](../repos/psiberx/cp2077-archive-xl.md) | ⭐ 138 | 2026-10-25 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [openxla/xla](../repos/openxla/xla.md) | ⭐ 4,557 | 2026-09-24 | A machine learning compiler for GPUs, CPUs, and ML accelerators |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Themaister/pyrowave](../repos/Themaister/pyrowave.md) | ⭐ 544 | 2026-09-24 |  |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Fable2Recomp/Fable2Recomp](../repos/Fable2Recomp/Fable2Recomp.md) | ⭐ 332 | 2026-09-24 | A Fable 2 Recomp |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [AlexandreRouma/SDRPlusPlus](../repos/AlexandreRouma/SDRPlusPlus.md) | ⭐ 6,416 | 2026-09-25 | Cross-Platform SDR Software |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [lammps/lammps](../repos/lammps/lammps.md) | ⭐ 3,070 | 2026-09-25 | Public development project of the LAMMPS MD software package   |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [The412Banner/winlator-contents](../repos/The412Banner/winlator-contents.md) | ⭐ 112 | 2026-09-27 | Component catalog index for BannerHub &#x2F; Winlator clients. Hosts contents.json (mirror of nightlie... |
@@ -80,6 +56,21 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Detanup01/gbe_fork](../repos/Detanup01/gbe_fork.md) | ⭐ 2,680 | 2026-09-28 | Fork of https:&#x2F;&#x2F;gitlab.com&#x2F;Mr_Goldberg&#x2F;goldberg_emulator |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [geode-sdk/geode](../repos/geode-sdk/geode.md) | ⭐ 3,023 | 2026-09-28 | The ultimate Geometry Dash modding framework |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [SerenityOS/serenity](../repos/SerenityOS/serenity.md) | ⭐ 33,875 | 2026-09-28 | The Serenity Operating System 🐞 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [YesterMester/TheSimpsonsGameRecomp](../repos/YesterMester/TheSimpsonsGameRecomp.md) | ⭐ 280 | 2026-10-01 | A work in progress recomp of the The Simpsons Game 2007 from the Xbox 360 using the RexXGlue reco... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [kth-competitive-programming/kactl](../repos/kth-competitive-programming/kactl.md) | ⭐ 3,547 | 2026-10-03 | KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hedge-dev/UnleashedRecomp](../repos/hedge-dev/UnleashedRecomp.md) | ⭐ 5,111 | 2026-10-03 | An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of s... |
 
 
 ---
@@ -88,7 +79,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,180 | 2026-07-30 | 27 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,245 | 2026-07-30 | 28 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,939 | 2026-08-01 | 32 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,773 | 2026-08-04 | 6 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,480 | 2026-08-01 | 6 |
@@ -98,7 +89,7 @@
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,737 | 2026-08-08 | 17 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,568 | 2026-08-12 | 6 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,123 | 2026-08-01 | 18 |
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,644 | 2026-08-05 | 10 |
+| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,676 | 2026-08-05 | 11 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,543 | 2026-08-03 | 12 |
 | [zhongyang219/TrafficMonitor](../repos/zhongyang219/TrafficMonitor.md) | ⭐ 46,454 | 2026-09-01 | 3 |
@@ -117,7 +108,7 @@
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 32 | ⭐ 131,939 | 2026-08-01 | 2026-10-21 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 27 | ⭐ 201,180 | 2026-07-30 | 2026-10-22 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 28 | ⭐ 201,245 | 2026-07-30 | 2026-10-25 |
 | [google/googletest](../repos/google/googletest.md) | 22 | ⭐ 39,663 | 2026-08-04 | 2026-10-23 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 18 | ⭐ 539 | 2026-08-01 | 2026-10-21 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 18 | ⭐ 72,123 | 2026-08-01 | 2026-10-21 |
@@ -233,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-23T21:01:36.790Z*
+*Last updated: 2026-10-25T21:01:49.016Z*

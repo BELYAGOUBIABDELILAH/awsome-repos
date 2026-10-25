@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | MATLAB |
 | **License** | MIT |
-| **Stars** | ⭐ 260 |
-| **Forks** | 🍴 17 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 334 |
+| **Forks** | 🍴 18 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 18, 2026 |
-| **Last Seen** | Oct 20, 2026 |
+| **Last Seen** | Oct 25, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-23T21:01:41.079Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-10-25T21:01:56.670Z*  
+*Data from 3 trending reports*
