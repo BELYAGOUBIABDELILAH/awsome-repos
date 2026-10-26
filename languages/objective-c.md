@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,900 | 2026-08-01 | 29 |
+| [sparkle-project/Sparkle](../repos/sparkle-project/Sparkle.md) | ⭐ 9,907 | 2026-08-01 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,704 | 2026-08-01 | 12 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,174 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 6,038 | 2026-08-02 | 19 |
+| [aws-amplify/aws-sdk-ios](../repos/aws-amplify/aws-sdk-ios.md) | ⭐ 1,704 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Flipboard/FLAnimatedImage](../repos/Flipboard/FLAnimatedImage.md) | ⭐ 7,938 | 2026-08-02 | 5 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,443 | 2026-08-02 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,601 | 2026-08-04 | 33 |
+| [iodefog/VipVideo](../repos/iodefog/VipVideo.md) | ⭐ 6,044 | 2026-08-02 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zendesk/support_sdk_ios](../repos/zendesk/support_sdk_ios.md) | ⭐ 55 | 2026-08-05 | 8 |
+| [newmarcel/KeepingYouAwake](../repos/newmarcel/KeepingYouAwake.md) | ⭐ 7,014 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,432 | 2026-08-06 | 5 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,650 | 2026-08-03 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bugsnag/bugsnag-cocoa](../repos/bugsnag/bugsnag-cocoa.md) | ⭐ 260 | 2026-08-06 | 18 |
+| [erikdoe/ocmock](../repos/erikdoe/ocmock.md) | ⭐ 2,163 | 2026-08-03 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,146 | 2026-08-07 | 15 |
+| [danveloper/flash-moe](../repos/danveloper/flash-moe.md) | ⭐ 4,290 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/cordova-plugin-camera](../repos/apache/cordova-plugin-camera.md) | ⭐ 979 | 2026-10-25 | 1 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,328 | 2026-08-04 | 19 |
 
 
 ---
@@ -79,21 +79,21 @@
 | [dcloudio/uni-app](../repos/dcloudio/uni-app.md) | ⭐ 41,600 | 2026-08-12 | 1 |
 | [AFNetworking/AFNetworking](../repos/AFNetworking/AFNetworking.md) | ⭐ 33,371 | 2026-08-02 | 7 |
 | [SDWebImage/SDWebImage](../repos/SDWebImage/SDWebImage.md) | ⭐ 25,611 | 2026-08-01 | 48 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,413 | 2026-08-02 | 31 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | ⭐ 22,443 | 2026-08-02 | 32 |
 | [SnapKit/Masonry](../repos/SnapKit/Masonry.md) | ⭐ 18,130 | 2026-09-02 | 1 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | ⭐ 16,601 | 2026-08-04 | 33 |
-| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,215 | 2026-08-04 | 18 |
-| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,923 | 2026-08-04 | 9 |
-| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,143 | 2026-08-01 | 12 |
+| [Hammerspoon/hammerspoon](../repos/Hammerspoon/hammerspoon.md) | ⭐ 16,328 | 2026-08-04 | 19 |
+| [jdg/MBProgressHUD](../repos/jdg/MBProgressHUD.md) | ⭐ 15,898 | 2026-08-04 | 10 |
+| [keycastr/keycastr](../repos/keycastr/keycastr.md) | ⭐ 15,174 | 2026-08-01 | 13 |
 | [FLEXTool/FLEX](../repos/FLEXTool/FLEX.md) | ⭐ 14,642 | 2026-08-04 | 5 |
 | [marcuswestin/WebViewJavascriptBridge](../repos/marcuswestin/WebViewJavascriptBridge.md) | ⭐ 14,308 | 2026-09-13 | 1 |
 | [ccgus/fmdb](../repos/ccgus/fmdb.md) | ⭐ 13,828 | 2026-08-28 | 2 |
 | [CoderMJLee/MJRefresh](../repos/CoderMJLee/MJRefresh.md) | ⭐ 13,810 | 2026-09-01 | 1 |
+| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,650 | 2026-08-03 | 22 |
 | [eczarny/spectacle](../repos/eczarny/spectacle.md) | ⭐ 13,632 | 2026-09-19 | 1 |
-| [darlinghq/darling](../repos/darlinghq/darling.md) | ⭐ 13,586 | 2026-08-03 | 21 |
 | [CocoaLumberjack/CocoaLumberjack](../repos/CocoaLumberjack/CocoaLumberjack.md) | ⭐ 13,318 | 2026-08-04 | 26 |
 | [Instagram/IGListKit](../repos/Instagram/IGListKit.md) | ⭐ 13,067 | 2026-08-02 | 2 |
-| [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,432 | 2026-08-06 | 5 |
+| [SVProgressHUD/SVProgressHUD](../repos/SVProgressHUD/SVProgressHUD.md) | ⭐ 12,431 | 2026-08-06 | 6 |
 | [git-up/GitUp](../repos/git-up/GitUp.md) | ⭐ 12,146 | 2026-08-07 | 15 |
 | [dzenbot/DZNEmptyDataSet](../repos/dzenbot/DZNEmptyDataSet.md) | ⭐ 12,015 | 2026-08-02 | 4 |
 
@@ -110,9 +110,9 @@
 | [google/promises](../repos/google/promises.md) | 46 | ⭐ 3,828 | 2026-08-01 | 2026-10-23 |
 | [openid/AppAuth-iOS](../repos/openid/AppAuth-iOS.md) | 40 | ⭐ 2,035 | 2026-08-08 | 2026-10-23 |
 | [realm/realm-swift](../repos/realm/realm-swift.md) | 33 | ⭐ 16,601 | 2026-08-04 | 2026-10-25 |
+| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 32 | ⭐ 22,443 | 2026-08-02 | 2026-10-26 |
 | [adjust/ios_sdk](../repos/adjust/ios_sdk.md) | 32 | ⭐ 675 | 2026-08-04 | 2026-10-21 |
 | [kstenerud/KSCrash](../repos/kstenerud/KSCrash.md) | 32 | ⭐ 4,502 | 2026-08-05 | 2026-10-23 |
-| [opa334/TrollStore](../repos/opa334/TrollStore.md) | 31 | ⭐ 22,413 | 2026-08-02 | 2026-10-22 |
 
 ---
 
@@ -221,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:49.088Z*
+*Last updated: 2026-10-26T21:01:57.782Z*

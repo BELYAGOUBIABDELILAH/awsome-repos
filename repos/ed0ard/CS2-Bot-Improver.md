@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | C# |
+| **Language** | TypeScript |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 1,179 |
-| **Forks** | 🍴 55 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 1,313 |
+| **Forks** | 🍴 63 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 5, 2026 |
-| **Last Seen** | Sep 27, 2026 |
+| **Last Seen** | Oct 26, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in C# or similar-topics*
+*Similar: Check repositories in TypeScript or similar-topics*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 3 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in C#
+- Check similar projects in TypeScript
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 95&#x2F;100
+- **Trending Score**: 100&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-25T21:01:55.510Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-10-26T21:02:05.057Z*  
+*Data from 7 trending reports*

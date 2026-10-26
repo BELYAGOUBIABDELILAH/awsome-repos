@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Lua |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 27,722 |
-| **Forks** | 🍴 1,832 |
-| **Trending Days** | 28 |
+| **Stars** | ⭐ 27,725 |
+| **Forks** | 🍴 1,834 |
+| **Trending Days** | 29 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 4, 2026 |
-| **Last Seen** | Oct 25, 2026 |
+| **Last Seen** | Oct 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 28
+- **Trending Days**: 29
 - **Longest Streak**: 5 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:53.316Z*  
-*Data from 28 trending reports*
+*Last updated: 2026-10-26T21:02:02.791Z*  
+*Data from 29 trending reports*

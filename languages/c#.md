@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 191
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-14
+- **Last Updated**: 2026-10-26
 
 ---
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openutau/OpenUtau](../repos/openutau/OpenUtau.md) | ⭐ 4,473 | 2026-08-01 | 6 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,229 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 32,979 | 2026-08-02 | 34 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | ⭐ 14,736 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jackett/Jackett](../repos/Jackett/Jackett.md) | ⭐ 16,261 | 2026-08-02 | 10 |
+| [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,663 | 2026-08-01 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,588 | 2026-08-02 | 22 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 119,161 | 2026-08-02 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 16,779 | 2026-08-02 | 21 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,051 | 2026-08-02 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [space-wizards/space-station-14](../repos/space-wizards/space-station-14.md) | ⭐ 3,885 | 2026-08-04 | 6 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,646 | 2026-08-02 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,389 | 2026-08-04 | 18 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 17,001 | 2026-08-02 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LorisYounger/VPet](../repos/LorisYounger/VPet.md) | ⭐ 7,038 | 2026-08-08 | 8 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,392 | 2026-08-04 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Goob-Station/Goob-Station](../repos/Goob-Station/Goob-Station.md) | ⭐ 243 | 2026-08-08 | 3 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,989 | 2026-08-06 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Revolutionary-Games/Thrive](../repos/Revolutionary-Games/Thrive.md) | ⭐ 3,788 | 2026-08-19 | 3 |
+| [btcpayserver/btcpayserver](../repos/btcpayserver/btcpayserver.md) | ⭐ 7,857 | 2026-08-08 | 5 |
 
 
 ---
@@ -88,17 +88,17 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 118,208 | 2026-08-02 | 30 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,588 | 2026-08-02 | 22 |
-| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,896 | 2026-08-06 | 18 |
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,091 | 2026-08-01 | 15 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 119,161 | 2026-08-02 | 31 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,646 | 2026-08-02 | 23 |
+| [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 55,989 | 2026-08-06 | 19 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,229 | 2026-08-01 | 16 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,291 | 2026-08-14 | 6 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,965 | 2026-08-03 | 12 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,489 | 2026-08-01 | 20 |
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 32,979 | 2026-08-02 | 34 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,051 | 2026-08-02 | 35 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,367 | 2026-08-01 | 20 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,100 | 2026-08-22 | 5 |
-| [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,062 | 2026-08-28 | 3 |
+| [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,082 | 2026-08-28 | 4 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,696 | 2026-08-05 | 12 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,124 | 2026-08-10 | 7 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 34 | ⭐ 32,979 | 2026-08-02 | 2026-10-25 |
+| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 35 | ⭐ 33,051 | 2026-08-02 | 2026-10-26 |
 | [dotnet/skills](../repos/dotnet/skills.md) | 34 | ⭐ 5,714 | 2026-08-03 | 2026-10-23 |
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 30 | ⭐ 118,208 | 2026-08-02 | 2026-10-14 |
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 22 | ⭐ 58,588 | 2026-08-02 | 2026-10-25 |
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 21 | ⭐ 16,779 | 2026-08-02 | 2026-10-25 |
+| [2dust/v2rayN](../repos/2dust/v2rayN.md) | 31 | ⭐ 119,161 | 2026-08-02 | 2026-10-26 |
+| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 23 | ⭐ 58,646 | 2026-08-02 | 2026-10-26 |
+| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 22 | ⭐ 17,001 | 2026-08-02 | 2026-10-26 |
 | [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 20 | ⭐ 32,367 | 2026-08-01 | 2026-10-23 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 20 | ⭐ 38,489 | 2026-08-01 | 2026-10-23 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 19 | ⭐ 3,789 | 2026-08-01 | 2026-10-20 |
+| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 19 | ⭐ 14,736 | 2026-08-01 | 2026-10-26 |
 | [Sonarr/Sonarr](../repos/Sonarr/Sonarr.md) | 19 | ⭐ 17,291 | 2026-08-03 | 2026-10-18 |
-| [SubtitleEdit/subtitleedit](../repos/SubtitleEdit/subtitleedit.md) | 18 | ⭐ 14,627 | 2026-08-01 | 2026-10-19 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:49.011Z*
+*Last updated: 2026-10-26T21:01:57.706Z*

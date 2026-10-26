@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 226
+- **Total Repositories**: 227
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
 
@@ -16,22 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,299 | 2026-08-01 | 25 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,988 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,372 | 2026-08-01 | 5 |
+| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,374 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [semgrep/semgrep](../repos/semgrep/semgrep.md) | ⭐ 17,267 | 2026-08-01 | 39 |
+| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 28,278 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 78,208 | 2026-08-02 | 18 |
+| [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,782 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [immortalwrt/immortalwrt](../repos/immortalwrt/immortalwrt.md) | ⭐ 11,793 | 2026-08-03 | 4 |
+| [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 25,162 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [systemd/systemd](../repos/systemd/systemd.md) | ⭐ 16,925 | 2026-08-03 | 9 |
+| [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 27,144 | 2026-08-06 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [reactos/reactos](../repos/reactos/reactos.md) | ⭐ 18,366 | 2026-08-16 | 10 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [yugabyte/yugabyte-db](../repos/yugabyte/yugabyte-db.md) | ⭐ 10,630 | 2026-08-20 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,048 | 2026-09-01 | 17 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [fifthBro/mh2p-cluster](../repos/fifthBro/mh2p-cluster.md) | ⭐ 118 | 2026-10-26 | 1 |
 
 
 ---
@@ -77,14 +89,14 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,696 | 2026-08-07 | 17 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,429 | 2026-08-01 | 21 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,988 | 2026-08-01 | 22 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 78,208 | 2026-08-02 | 18 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 77,050 | 2026-08-04 | 8 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,299 | 2026-08-01 | 25 |
 | [git/git](../repos/git/git.md) | ⭐ 63,813 | 2026-08-05 | 8 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 42,587 | 2026-09-01 | 16 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,048 | 2026-09-01 | 17 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 41,534 | 2026-08-01 | 12 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
@@ -107,12 +119,12 @@
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 27 | ⭐ 16,878 | 2026-08-06 | 2026-10-23 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 26 | ⭐ 47,337 | 2026-08-07 | 2026-10-23 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 25 | ⭐ 75,299 | 2026-08-01 | 2026-10-25 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 21 | ⭐ 139,429 | 2026-08-01 | 2026-10-17 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 22 | ⭐ 139,988 | 2026-08-01 | 2026-10-26 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 19 | ⭐ 7,021 | 2026-08-04 | 2026-10-23 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 18 | ⭐ 78,208 | 2026-08-02 | 2026-10-25 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 17 | ⭐ 151,696 | 2026-08-07 | 2026-10-09 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 16 | ⭐ 42,587 | 2026-09-01 | 2026-10-17 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 17 | ⭐ 44,048 | 2026-09-01 | 2026-10-26 |
 
 ---
 
@@ -221,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:49.005Z*
+*Last updated: 2026-10-26T21:01:57.702Z*

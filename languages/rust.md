@@ -16,31 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bytecodealliance/wasmtime](../repos/bytecodealliance/wasmtime.md) | ⭐ 18,768 | 2026-08-03 | 4 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 30,895 | 2026-08-03 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 87,533 | 2026-08-05 | 24 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 89,023 | 2026-08-05 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | ⭐ 24,202 | 2026-08-08 | 22 |
+| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 5,543 | 2026-08-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 42,335 | 2026-08-10 | 16 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 99,736 | 2026-08-09 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [block/buzz](../repos/block/buzz.md) | ⭐ 36,450 | 2026-08-19 | 10 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 42,354 | 2026-08-10 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aaif-goose/goose](../repos/aaif-goose/goose.md) | ⭐ 55,699 | 2026-08-19 | 6 |
+| [mesamirh/MovieBox-Tui](../repos/mesamirh/MovieBox-Tui.md) | ⭐ 2,645 | 2026-09-21 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitbutlerapp/gitbutler](../repos/gitbutlerapp/gitbutler.md) | ⭐ 21,851 | 2026-08-23 | 2 |
+| [JayWebtech/autoshorts](../repos/JayWebtech/autoshorts.md) | ⭐ 1,338 | 2026-10-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/OpenShell](../repos/NVIDIA/OpenShell.md) | ⭐ 19,839 | 2026-09-01 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [pollen-robotics/microduck](../repos/pollen-robotics/microduck.md) | ⭐ 11,560 | 2026-10-16 | 4 |
+| [pollen-robotics/microduck](../repos/pollen-robotics/microduck.md) | ⭐ 12,339 | 2026-10-16 | 5 |
 
 
 ---
@@ -58,7 +55,7 @@
 | [ccfddl/ccf-deadlines](../repos/ccfddl/ccf-deadlines.md) | ⭐ 9,386 | 2026-09-29 | ⏰ Agenticly track ccf-ranked &amp; worldwide conference deadlines (Website, Python Cli, Wechat Applet) |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [JayWebtech/autoshorts](../repos/JayWebtech/autoshorts.md) | ⭐ 1,120 | 2026-10-01 | AutoShorts is a local-first desktop application for turning long-form video or audio recordings i... |
+| [JayWebtech/autoshorts](../repos/JayWebtech/autoshorts.md) | ⭐ 1,338 | 2026-10-01 | AutoShorts is a local-first desktop application for turning long-form video or audio recordings i... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [EasyTier/EasyTier](../repos/EasyTier/EasyTier.md) | ⭐ 14,199 | 2026-10-01 | A simple, decentralized mesh VPN with WireGuard support. |
@@ -88,10 +85,10 @@
 | [openai/codex](../repos/openai/codex.md) | ⭐ 130,630 | 2026-08-01 | 17 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,946 | 2026-07-30 | 11 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 98,335 | 2026-08-09 | 17 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 99,736 | 2026-08-09 | 18 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,300 | 2026-08-11 | 9 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,084 | 2026-07-31 | 7 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 87,533 | 2026-08-05 | 24 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 89,023 | 2026-08-05 | 25 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,345 | 2026-08-20 | 5 |
@@ -104,7 +101,7 @@
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,253 | 2026-08-05 | 10 |
 | [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 44,035 | 2026-08-02 | 11 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 42,335 | 2026-08-10 | 16 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 42,354 | 2026-08-10 | 17 |
 
 ---
 
@@ -112,14 +109,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 24 | ⭐ 87,533 | 2026-08-05 | 2026-10-25 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 25 | ⭐ 89,023 | 2026-08-05 | 2026-10-26 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 18 | ⭐ 99,736 | 2026-08-09 | 2026-10-26 |
 | [openai/codex](../repos/openai/codex.md) | 17 | ⭐ 130,630 | 2026-08-01 | 2026-10-23 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 17 | ⭐ 98,335 | 2026-08-09 | 2026-10-16 |
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 16 | ⭐ 42,335 | 2026-08-10 | 2026-10-25 |
+| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
+| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 15 | ⭐ 30,895 | 2026-08-03 | 2026-10-26 |
 | [t8y2/dbx](../repos/t8y2/dbx.md) | 14 | ⭐ 26,668 | 2026-08-01 | 2026-10-14 |
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 14 | ⭐ 30,604 | 2026-08-03 | 2026-10-22 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 14 | ⭐ 9,424 | 2026-08-26 | 2026-10-23 |
 | [Automattic/harper](../repos/Automattic/harper.md) | 12 | ⭐ 16,769 | 2026-08-10 | 2026-10-19 |
 
@@ -230,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:49.119Z*
+*Last updated: 2026-10-26T21:01:57.809Z*

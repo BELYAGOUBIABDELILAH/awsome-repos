@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [NeoFreeBird/app](../repos/NeoFreeBird/app.md) | ⭐ 1,852 | 2026-10-13 | 4 |
 
+*No Logos repositories trending today*
 
 ---
 
@@ -52,4 +50,4 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:49.072Z*
+*Last updated: 2026-10-26T21:01:57.764Z*

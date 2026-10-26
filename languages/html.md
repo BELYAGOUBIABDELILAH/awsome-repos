@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 110
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-23
+- **Last Updated**: 2026-10-26
 
 ---
 
@@ -16,31 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 13,857 | 2026-08-01 | 8 |
+| [uiverse-io/galaxy](../repos/uiverse-io/galaxy.md) | ⭐ 14,014 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,062 | 2026-08-01 | 18 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,165 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Unstructured-IO/unstructured](../repos/Unstructured-IO/unstructured.md) | ⭐ 15,623 | 2026-08-05 | 10 |
+| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 10,880 | 2026-08-03 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 5,730 | 2026-08-11 | 14 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,377 | 2026-08-03 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 7,016 | 2026-08-19 | 9 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | ⭐ 5,799 | 2026-08-11 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,954 | 2026-08-19 | 10 |
+| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 7,043 | 2026-08-19 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TandoorRecipes/recipes](../repos/TandoorRecipes/recipes.md) | ⭐ 8,688 | 2026-09-20 | 2 |
+| [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 26,676 | 2026-10-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 26,255 | 2026-10-09 | 4 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [faroukbmiled/RyukGram](../repos/faroukbmiled/RyukGram.md) | ⭐ 737 | 2026-10-25 | 1 |
+| [faroukbmiled/RyukGram](../repos/faroukbmiled/RyukGram.md) | ⭐ 740 | 2026-10-25 | 2 |
 
 
 ---
@@ -76,7 +73,7 @@
 | [alchaincyf/darwin-skill](../repos/alchaincyf/darwin-skill.md) | ⭐ 6,497 | 2026-10-08 | 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimizati... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 26,255 | 2026-10-09 | Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 &#x2F; App 原型 &#x2F; 可编辑 PPTX &#x2F; 动画 &#x2F; 信息图 · 六个候选挑三个方向 · 84 种带样... |
+| [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 26,676 | 2026-10-09 | Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 &#x2F; App 原型 &#x2F; 可编辑 PPTX &#x2F; 动画 &#x2F; 信息图 · 六个候选挑三个方向 · 84 种带样... |
 
 
 ---
@@ -85,10 +82,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,268 | 2026-08-03 | 18 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,377 | 2026-08-03 | 19 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 138,503 | 2026-08-08 | 14 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,193 | 2026-08-19 | 8 |
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,062 | 2026-08-01 | 18 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,165 | 2026-08-01 | 19 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,544 | 2026-08-01 | 8 |
 | [cathrynlavery/diagram-design](../repos/cathrynlavery/diagram-design.md) | ⭐ 43,224 | 2026-08-12 | 13 |
 | [QSCTech/zju-icicles](../repos/QSCTech/zju-icicles.md) | ⭐ 41,233 | 2026-09-03 | 4 |
@@ -99,7 +96,7 @@
 | [aishwaryanr/awesome-generative-ai-guide](../repos/aishwaryanr/awesome-generative-ai-guide.md) | ⭐ 29,954 | 2026-08-19 | 10 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | ⭐ 28,016 | 2026-08-04 | 16 |
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
-| [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 26,255 | 2026-10-09 | 4 |
+| [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 26,676 | 2026-10-09 | 5 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
 | [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,085 | 2026-08-01 | 9 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,644 | 2026-08-03 | 7 |
@@ -112,15 +109,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 18 | ⭐ 68,062 | 2026-08-01 | 2026-10-25 |
-| [ossu/computer-science](../repos/ossu/computer-science.md) | 18 | ⭐ 210,268 | 2026-08-03 | 2026-10-23 |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 19 | ⭐ 68,165 | 2026-08-01 | 2026-10-26 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | 19 | ⭐ 210,377 | 2026-08-03 | 2026-10-26 |
+| [averygan/reclip](../repos/averygan/reclip.md) | 16 | ⭐ 10,880 | 2026-08-03 | 2026-10-26 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 16 | ⭐ 28,016 | 2026-08-04 | 2026-10-15 |
-| [averygan/reclip](../repos/averygan/reclip.md) | 15 | ⭐ 10,572 | 2026-08-03 | 2026-10-01 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 15 | ⭐ 30,193 | 2026-08-09 | 2026-10-18 |
+| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 15 | ⭐ 5,799 | 2026-08-11 | 2026-10-26 |
 | [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 14 | ⭐ 9,967 | 2026-08-01 | 2026-10-18 |
 | [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 14 | ⭐ 6,282 | 2026-08-05 | 2026-10-23 |
 | [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 14 | ⭐ 138,503 | 2026-08-08 | 2026-09-25 |
-| [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 14 | ⭐ 5,730 | 2026-08-11 | 2026-10-25 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 13 | ⭐ 16,604 | 2026-08-04 | 2026-10-16 |
 
 ---
@@ -230,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:49.054Z*
+*Last updated: 2026-10-26T21:01:57.748Z*

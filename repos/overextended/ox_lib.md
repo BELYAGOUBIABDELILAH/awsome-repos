@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Lua |
 | **License** | LGPL-3.0 |
-| **Stars** | ⭐ 419 |
-| **Forks** | 🍴 752 |
-| **Trending Days** | 6 |
+| **Stars** | ⭐ 423 |
+| **Forks** | 🍴 755 |
+| **Trending Days** | 7 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Oct 17, 2026 |
+| **Last Seen** | Oct 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 6
+- **Trending Days**: 7
 - **Longest Streak**: 3 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 419+ stars, strong contributor base |
+| **Community** | Very Active | 423+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:53.997Z*  
-*Data from 6 trending reports*
+*Last updated: 2026-10-26T21:02:03.535Z*  
+*Data from 7 trending reports*

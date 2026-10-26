@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 27
+- **Total Repositories**: 28
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-25
 
@@ -16,34 +16,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 893 | 2026-08-01 | 39 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 894 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,706 | 2026-08-02 | 29 |
+| [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,454 | 2026-08-04 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tidyverse/dplyr](../repos/tidyverse/dplyr.md) | ⭐ 5,080 | 2026-08-04 | 28 |
+| [ben-domingue/irw](../repos/ben-domingue/irw.md) | ⭐ 66 | 2026-10-25 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | ⭐ 3,927 | 2026-08-04 | 30 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | ⭐ 7,018 | 2026-08-04 | 32 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [hadley/r4ds](../repos/hadley/r4ds.md) | ⭐ 5,187 | 2026-08-04 | 23 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,452 | 2026-08-04 | 14 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,067 | 2026-08-08 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [benjjneb/dada2](../repos/benjjneb/dada2.md) | ⭐ 560 | 2026-10-11 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ben-domingue/irw](../repos/ben-domingue/irw.md) | ⭐ 66 | 2026-10-25 | 1 |
+| [lmu-osc/Collaborative-RStudio-GitHub](../repos/lmu-osc/Collaborative-RStudio-GitHub.md) | ⭐ 23 | 2026-10-26 | 1 |
 
 
 ---
@@ -68,6 +50,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ben-domingue/irw](../repos/ben-domingue/irw.md) | ⭐ 66 | 2026-10-25 | Code related to data for the Item Response Warehouse |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [lmu-osc/Collaborative-RStudio-GitHub](../repos/lmu-osc/Collaborative-RStudio-GitHub.md) | ⭐ 23 | 2026-10-26 |  |
 
 
 ---
@@ -86,11 +71,11 @@
 | [rstudio/rmarkdown](../repos/rstudio/rmarkdown.md) | ⭐ 3,067 | 2026-08-08 | 9 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | ⭐ 2,807 | 2026-08-01 | 44 |
 | [jokergoo/ComplexHeatmap](../repos/jokergoo/ComplexHeatmap.md) | ⭐ 1,554 | 2026-09-01 | 1 |
-| [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,452 | 2026-08-04 | 14 |
+| [r-spatial/sf](../repos/r-spatial/sf.md) | ⭐ 1,454 | 2026-08-04 | 15 |
 | [rstudio/renv](../repos/rstudio/renv.md) | ⭐ 1,160 | 2026-08-06 | 1 |
 | [allisonhorst/palmerpenguins](../repos/allisonhorst/palmerpenguins.md) | ⭐ 1,020 | 2026-10-06 | 3 |
 | [r-lib/usethis](../repos/r-lib/usethis.md) | ⭐ 922 | 2026-09-24 | 1 |
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 893 | 2026-08-01 | 39 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | ⭐ 894 | 2026-08-01 | 40 |
 | [jinworks/CellChat](../repos/jinworks/CellChat.md) | ⭐ 685 | 2026-08-01 | 48 |
 | [benjjneb/dada2](../repos/benjjneb/dada2.md) | ⭐ 560 | 2026-10-11 | 11 |
 | [posit-dev/skills](../repos/posit-dev/skills.md) | ⭐ 486 | 2026-08-03 | 8 |
@@ -107,7 +92,7 @@
 | [nflverse/nflverse-data](../repos/nflverse/nflverse-data.md) | 46 | ⭐ 436 | 2026-08-08 | 2026-10-23 |
 | [satijalab/seurat](../repos/satijalab/seurat.md) | 44 | ⭐ 2,807 | 2026-08-01 | 2026-10-23 |
 | [swirldev/swirl_courses](../repos/swirldev/swirl_courses.md) | 41 | ⭐ 4,621 | 2026-08-01 | 2026-10-22 |
-| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 39 | ⭐ 893 | 2026-08-01 | 2026-10-25 |
+| [rdpeng/ProgrammingAssignment2](../repos/rdpeng/ProgrammingAssignment2.md) | 40 | ⭐ 894 | 2026-08-01 | 2026-10-26 |
 | [tidyverse/ggplot2](../repos/tidyverse/ggplot2.md) | 32 | ⭐ 7,018 | 2026-08-04 | 2026-10-25 |
 | [Rdatatable/data.table](../repos/Rdatatable/data.table.md) | 30 | ⭐ 3,927 | 2026-08-04 | 2026-10-25 |
 | [rstudio/shiny](../repos/rstudio/shiny.md) | 29 | ⭐ 5,706 | 2026-08-02 | 2026-10-25 |
@@ -145,7 +130,8 @@
 - [nflverse/nfldata](../repos/nflverse/nfldata.md) - NFL Data (by Lee Sharpe)
 - [briatte/awesome-network-analysis](../repos/briatte/awesome-network-analysis.md) - A curated list of awesome network analysis resources.
 - [ben-domingue/irw](../repos/ben-domingue/irw.md) - Code related to data for the Item Response Warehouse
+- [lmu-osc/Collaborative-RStudio-GitHub](../repos/lmu-osc/Collaborative-RStudio-GitHub.md) - 
 
 ---
 
-*Last updated: 2026-10-25T21:01:49.109Z*
+*Last updated: 2026-10-26T21:01:57.800Z*

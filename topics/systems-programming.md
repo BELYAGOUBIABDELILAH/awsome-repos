@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 2676
+- **Total Repositories**: 2683
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-08-02
-- **Average Stars**: 15921
+- **Average Stars**: 15913
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,245 | C++ |  |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 65,575 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 50,710 | TypeScript |  |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 103,394 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,372 | C |  |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,988 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [openutau/OpenUtau](../repos/openutau/OpenUtau.md) | ⭐ 4,473 | C# |  |
+| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,374 | C |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,212 | PHP |  |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,229 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,981 | PHP |  |
+| [OpenRA/OpenRA](../repos/OpenRA/OpenRA.md) | ⭐ 17,663 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 48,009 | Ruby |  |
+| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,218 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [huginn/huginn](../repos/huginn/huginn.md) | ⭐ 50,136 | Ruby |  |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,984 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,795 | Ruby |  |
+| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,620 | PHP |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ubicloud/ubicloud](../repos/ubicloud/ubicloud.md) | ⭐ 12,345 | Ruby |  |
+| [discourse/discourse](../repos/discourse/discourse.md) | ⭐ 48,015 | Ruby |  |
 
 
 ---
@@ -61,7 +61,7 @@
 | [react/react](../repos/react/react.md) | ⭐ 251,068 | JavaScript | 2026-08-04 | 4 |
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | ⭐ 243,012 | Python | 2026-08-01 | 17 |
 | [facebook/react](../repos/facebook/react.md) | ⭐ 219,500 | JavaScript | 2026-07-30 | 3 |
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,268 | HTML | 2026-08-03 | 18 |
+| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,377 | HTML | 2026-08-03 | 19 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | TypeScript | 2026-08-04 | 1 |
 
 ---
@@ -79,7 +79,10 @@
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,084 | Rust | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 100,611 | Python | 1 |
+| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 65,575 | Python | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 103,394 | Python | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 50,710 | TypeScript | 1 |
@@ -95,9 +98,6 @@
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,718 | Go | 1 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,671 | Go | 2 |
 
 ---
 
@@ -120,7 +120,7 @@
 | [daeuniverse/dae](../repos/daeuniverse/dae.md) | ⭐ 6,255 | Go | 2026-09-27 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [cockroachdb/cockroach](../repos/cockroachdb/cockroach.md) | ⭐ 32,517 | Go | 2026-09-27 |
+| [cockroachdb/cockroach](../repos/cockroachdb/cockroach.md) | ⭐ 32,585 | Go | 2026-09-27 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [Billionmail/BillionMail](../repos/Billionmail/BillionMail.md) | ⭐ 15,763 | Go | 2026-09-27 |
@@ -137,6 +137,10 @@
 ---
 
 ## 📅 Recent History
+
+### [2026-10-26](../archive/2026/10/2026-10-26.md)
+- 221 repositories trending
+- Top: ossu&#x2F;computer-science
 
 ### [2026-10-25](../archive/2026/10/2026-10-25.md)
 - 229 repositories trending
@@ -158,10 +162,6 @@
 - 229 repositories trending
 - Top: flutter&#x2F;flutter
 
-### [2026-10-19](../archive/2026/10/2026-10-19.md)
-- 182 repositories trending
-- Top: Comfy-Org&#x2F;ComfyUI
-
 
 ---
 
@@ -171,30 +171,30 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 69 days | 2026-08-01 | 2026-10-25 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 69 days | 2026-08-01 | 2026-10-25 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 66 days | 2026-08-01 | 2026-10-25 |
-| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 66 days | 2026-08-01 | 2026-10-25 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 65 days | 2026-08-01 | 2026-10-25 |
-| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 65 days | 2026-08-01 | 2026-10-25 |
-| [vlang/v](../repos/vlang/v.md) | 64 days | 2026-08-01 | 2026-10-25 |
-| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 63 days | 2026-08-01 | 2026-10-25 |
-| [penpot/penpot](../repos/penpot/penpot.md) | 60 days | 2026-08-01 | 2026-10-25 |
-| [joernio/joern](../repos/joernio/joern.md) | 59 days | 2026-08-01 | 2026-10-25 |
+| [apache/spark](../repos/apache/spark.md) | 70 days | 2026-08-01 | 2026-10-26 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 70 days | 2026-08-01 | 2026-10-26 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 67 days | 2026-08-01 | 2026-10-26 |
+| [The-OpenROAD-Project/OpenROAD](../repos/The-OpenROAD-Project/OpenROAD.md) | 67 days | 2026-08-01 | 2026-10-26 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 66 days | 2026-08-01 | 2026-10-26 |
+| [foundry-rs/forge-std](../repos/foundry-rs/forge-std.md) | 66 days | 2026-08-01 | 2026-10-26 |
+| [vlang/v](../repos/vlang/v.md) | 65 days | 2026-08-01 | 2026-10-26 |
+| [koalaman/shellcheck](../repos/koalaman/shellcheck.md) | 64 days | 2026-08-01 | 2026-10-26 |
+| [penpot/penpot](../repos/penpot/penpot.md) | 61 days | 2026-08-01 | 2026-10-26 |
+| [joernio/joern](../repos/joernio/joern.md) | 60 days | 2026-08-01 | 2026-10-26 |
 
 ---
 
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Go**: 255 repositories (10%)
-- **TypeScript**: 195 repositories (7%)
-- **Python**: 192 repositories (7%)
+- **Go**: 257 repositories (10%)
+- **TypeScript**: 196 repositories (7%)
+- **Python**: 194 repositories (7%)
 - **C++**: 188 repositories (7%)
 - **Rust**: 172 repositories (6%)
 
 ### Trending Frequency
-- **Daily Average**: 235.3 repositories
+- **Daily Average**: 235.1 repositories
 - **Peak Day**: 2026-08-19 (382 repositories)
 - **Growth Rate**: 14% this month
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:48.835Z*
+*Last updated: 2026-10-26T21:01:57.530Z*

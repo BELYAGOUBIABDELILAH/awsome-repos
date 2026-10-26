@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 35,086 |
-| **Forks** | 🍴 6,640 |
-| **Trending Days** | 3 |
-| **Peak Rank** | #N&#x2F;A |
+| **Stars** | ⭐ 38,340 |
+| **Forks** | 🍴 7,446 |
+| **Trending Days** | 4 |
+| **Peak Rank** | #12 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Aug 24, 2026 |
+| **Last Seen** | Oct 26, 2026 |
 
 
 ---
@@ -43,11 +43,12 @@
 
 ## Trending Timeline
 
+**Oct 26, 2026** — Rank #12 (+146 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Peak Rank**: #12
+- **Trending Days**: 4
 - **Longest Streak**: 2 days
 
 ---
@@ -55,10 +56,10 @@
 ## Categories
 
 ### Topics
-[`nextjs`](../../topics/nextjs.md) [`open-source`](../../topics/open-source.md) [`open-source-social-media-scheduling-tool`](../../topics/open-source-social-media-scheduling-tool.md) [`oss`](../../topics/oss.md) [`redis`](../../topics/redis.md) [`scheduling-tool`](../../topics/scheduling-tool.md) [`social-media-scheduling-tool`](../../topics/social-media-scheduling-tool.md) [`typescript`](../../topics/typescript.md) 
+[`nextjs`](../../topics/nextjs.md) [`open-source`](../../topics/open-source.md) [`open-source-social-media-scheduling-tool`](../../topics/open-source-social-media-scheduling-tool.md) [`oss`](../../topics/oss.md) [`postiz-cloud`](../../topics/postiz-cloud.md) [`postiz-hosted`](../../topics/postiz-hosted.md) [`redis`](../../topics/redis.md) [`scheduling-tool`](../../topics/scheduling-tool.md) [`social-media-scheduling-tool`](../../topics/social-media-scheduling-tool.md) [`typescript`](../../topics/typescript.md) 
 
 ### Curated Categories
-`Web Development` `Databases` `Systems Programming` 
+`Web Development` `Cloud &amp; Infrastructure` `Databases` `Systems Programming` 
 
 ---
 
@@ -72,7 +73,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 50&#x2F;100
-- **Historical Rank**: No ranking data
+- **Trending Score**: 65&#x2F;100
+- **Historical Rank**: Peak: #12
 
 
 ---
 
-*Last updated: 2026-10-25T21:01:52.599Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-10-26T21:02:02.080Z*  
+*Data from 4 trending reports*

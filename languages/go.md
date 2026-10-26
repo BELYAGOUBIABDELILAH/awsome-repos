@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 317
+- **Total Repositories**: 319
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-10-25
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 184,741 | 2026-08-01 | 25 |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,616 | 2026-07-31 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [charmbracelet/crush](../repos/charmbracelet/crush.md) | ⭐ 28,807 | 2026-08-08 | 7 |
+| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 90,245 | 2026-08-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenListTeam/OpenList](../repos/OpenListTeam/OpenList.md) | ⭐ 25,273 | 2026-08-09 | 3 |
+| [YouROK/TorrServer](../repos/YouROK/TorrServer.md) | ⭐ 3,161 | 2026-08-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/gh-aw](../repos/github/gh-aw.md) | ⭐ 5,468 | 2026-08-10 | 8 |
+| [github/gh-aw](../repos/github/gh-aw.md) | ⭐ 5,475 | 2026-08-10 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kdlbs/kandev](../repos/kdlbs/kandev.md) | ⭐ 1,013 | 2026-08-10 | 2 |
+| [kedacore/keda](../repos/kedacore/keda.md) | ⭐ 10,670 | 2026-08-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Gaurav-Gosain/tuios](../repos/Gaurav-Gosain/tuios.md) | ⭐ 5,958 | 2026-08-19 | 4 |
+| [Gaurav-Gosain/tuios](../repos/Gaurav-Gosain/tuios.md) | ⭐ 6,099 | 2026-08-19 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/no-mistakes](../repos/kunchenguid/no-mistakes.md) | ⭐ 8,957 | 2026-09-01 | 3 |
+| [kunchenguid/no-mistakes](../repos/kunchenguid/no-mistakes.md) | ⭐ 8,976 | 2026-09-01 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dagger/dagger](../repos/dagger/dagger.md) | ⭐ 16,500 | 2026-09-20 | 2 |
+| [cockroachdb/cockroach](../repos/cockroachdb/cockroach.md) | ⭐ 32,585 | 2026-09-27 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [slavakurilyak/awesome-ai-agents](../repos/slavakurilyak/awesome-ai-agents.md) | ⭐ 2,700 | 2026-10-06 | 2 |
+| [slavakurilyak/awesome-ai-agents](../repos/slavakurilyak/awesome-ai-agents.md) | ⭐ 2,723 | 2026-10-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [encoredev/encore](../repos/encoredev/encore.md) | ⭐ 12,575 | 2026-10-25 | 1 |
+| [go-git/go-git](../repos/go-git/go-git.md) | ⭐ 7,830 | 2026-10-26 | 1 |
 
 
 ---
@@ -58,7 +58,7 @@
 | [daeuniverse/dae](../repos/daeuniverse/dae.md) | ⭐ 6,255 | 2026-09-27 | eBPF-based Linux high-performance transparent proxy solution. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cockroachdb/cockroach](../repos/cockroachdb/cockroach.md) | ⭐ 32,517 | 2026-09-27 | CockroachDB — the cloud native, distributed SQL database designed for high availability, effortle... |
+| [cockroachdb/cockroach](../repos/cockroachdb/cockroach.md) | ⭐ 32,585 | 2026-09-27 | CockroachDB — the cloud native, distributed SQL database designed for high availability, effortle... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Billionmail/BillionMail](../repos/Billionmail/BillionMail.md) | ⭐ 15,763 | 2026-09-27 | BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, d... |
@@ -89,11 +89,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 184,741 | 2026-08-01 | 25 |
-| [golang/go](../repos/golang/go.md) | ⭐ 139,476 | 2026-07-31 | 16 |
+| [golang/go](../repos/golang/go.md) | ⭐ 139,616 | 2026-07-31 | 17 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,554 | 2026-08-04 | 11 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,572 | 2026-08-15 | 12 |
 | [infiniflow/ragflow](../repos/infiniflow/ragflow.md) | ⭐ 92,755 | 2026-08-06 | 13 |
-| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 89,545 | 2026-08-03 | 3 |
+| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 90,245 | 2026-08-03 | 4 |
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,404 | 2026-08-05 | 4 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 81,063 | 2026-08-12 | 8 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 77,476 | 2026-08-03 | 8 |
@@ -122,8 +122,8 @@
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 21 | ⭐ 38,671 | 2026-08-01 | 2026-10-23 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 19 | ⭐ 44,261 | 2026-08-07 | 2026-10-17 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 18 | ⭐ 5,489 | 2026-08-02 | 2026-10-18 |
+| [golang/go](../repos/golang/go.md) | 17 | ⭐ 139,616 | 2026-07-31 | 2026-10-26 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 17 | ⭐ 880 | 2026-08-01 | 2026-10-21 |
-| [golang/go](../repos/golang/go.md) | 16 | ⭐ 139,476 | 2026-07-31 | 2026-10-22 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 15 | ⭐ 48,056 | 2026-08-20 | 2026-10-22 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:49.048Z*
+*Last updated: 2026-10-26T21:01:57.742Z*

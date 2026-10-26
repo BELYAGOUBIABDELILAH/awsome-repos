@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 119
+- **Total Repositories**: 120
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-09-27
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,212 | 2026-08-01 | 13 |
+| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,982 | 2026-08-01 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,981 | 2026-08-01 | 28 |
+| [akaunting/akaunting](../repos/akaunting/akaunting.md) | ⭐ 10,218 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,420 | 2026-08-02 | 26 |
+| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | ⭐ 3,492 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,295 | 2026-08-02 | 35 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,984 | 2026-08-01 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [magento/magento2](../repos/magento/magento2.md) | ⭐ 12,211 | 2026-08-04 | 15 |
+| [MISP/MISP](../repos/MISP/MISP.md) | ⭐ 6,620 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [laravel/boost](../repos/laravel/boost.md) | ⭐ 3,664 | 2026-08-06 | 9 |
+| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,208 | 2026-08-02 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [espocrm/espocrm](../repos/espocrm/espocrm.md) | ⭐ 3,520 | 2026-08-06 | 20 |
+| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,301 | 2026-08-02 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alextselegidis/easyappointments](../repos/alextselegidis/easyappointments.md) | ⭐ 4,458 | 2026-08-11 | 12 |
+| [SuiteCRM/SuiteCRM](../repos/SuiteCRM/SuiteCRM.md) | ⭐ 5,811 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aureuserp/aureuserp](../repos/aureuserp/aureuserp.md) | ⭐ 12,113 | 2026-08-11 | 19 |
+| [4jean/lav_sms](../repos/4jean/lav_sms.md) | ⭐ 1,137 | 2026-09-05 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openmediavault/openmediavault](../repos/openmediavault/openmediavault.md) | ⭐ 7,023 | 2026-09-01 | 3 |
+| [metadist/synaplan](../repos/metadist/synaplan.md) | ⭐ 276 | 2026-09-09 | 7 |
 
 
 ---
@@ -89,16 +89,16 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [appwrite/appwrite](../repos/appwrite/appwrite.md) | ⭐ 57,493 | 2026-08-01 | 3 |
-| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,295 | 2026-08-02 | 35 |
-| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,974 | 2026-08-01 | 36 |
+| [nextcloud/server](../repos/nextcloud/server.md) | ⭐ 37,301 | 2026-08-02 | 36 |
+| [laravel/framework](../repos/laravel/framework.md) | ⭐ 34,982 | 2026-08-01 | 37 |
 | [filamentphp/filament](../repos/filamentphp/filament.md) | ⭐ 32,330 | 2026-08-02 | 24 |
-| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,199 | 2026-08-02 | 32 |
+| [symfony/symfony](../repos/symfony/symfony.md) | ⭐ 31,208 | 2026-08-02 | 33 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | ⭐ 28,268 | 2026-08-01 | 26 |
 | [monicahq/monica](../repos/monicahq/monica.md) | ⭐ 25,505 | 2026-08-04 | 21 |
 | [krayin/laravel-crm](../repos/krayin/laravel-crm.md) | ⭐ 24,041 | 2026-08-07 | 21 |
 | [guzzle/guzzle](../repos/guzzle/guzzle.md) | ⭐ 23,445 | 2026-10-20 | 1 |
 | [PHPMailer/PHPMailer](../repos/PHPMailer/PHPMailer.md) | ⭐ 22,327 | 2026-08-01 | 12 |
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,981 | 2026-08-01 | 28 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | ⭐ 21,984 | 2026-08-01 | 29 |
 | [koel/koel](../repos/koel/koel.md) | ⭐ 17,314 | 2026-09-28 | 3 |
 | [easychen/opc-methodology](../repos/easychen/opc-methodology.md) | ⭐ 16,886 | 2026-08-04 | 8 |
 | [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | ⭐ 16,420 | 2026-08-02 | 26 |
@@ -116,13 +116,13 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [glpi-project/glpi](../repos/glpi-project/glpi.md) | 38 | ⭐ 6,497 | 2026-08-01 | 2026-10-23 |
-| [laravel/framework](../repos/laravel/framework.md) | 36 | ⭐ 34,974 | 2026-08-01 | 2026-10-23 |
-| [nextcloud/server](../repos/nextcloud/server.md) | 35 | ⭐ 37,295 | 2026-08-02 | 2026-10-25 |
-| [symfony/symfony](../repos/symfony/symfony.md) | 32 | ⭐ 31,199 | 2026-08-02 | 2026-10-22 |
+| [laravel/framework](../repos/laravel/framework.md) | 37 | ⭐ 34,982 | 2026-08-01 | 2026-10-26 |
+| [nextcloud/server](../repos/nextcloud/server.md) | 36 | ⭐ 37,301 | 2026-08-02 | 2026-10-26 |
+| [symfony/symfony](../repos/symfony/symfony.md) | 33 | ⭐ 31,208 | 2026-08-02 | 2026-10-26 |
 | [nextcloud/all-in-one](../repos/nextcloud/all-in-one.md) | 32 | ⭐ 10,704 | 2026-08-09 | 2026-10-23 |
 | [grokability/snipe-it](../repos/grokability/snipe-it.md) | 30 | ⭐ 15,073 | 2026-08-01 | 2026-10-23 |
-| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 28 | ⭐ 3,488 | 2026-08-01 | 2026-10-21 |
-| [matomo-org/matomo](../repos/matomo-org/matomo.md) | 28 | ⭐ 21,981 | 2026-08-01 | 2026-10-25 |
+| [WordPress/wordpress-develop](../repos/WordPress/wordpress-develop.md) | 29 | ⭐ 3,492 | 2026-08-01 | 2026-10-26 |
+| [matomo-org/matomo](../repos/matomo-org/matomo.md) | 29 | ⭐ 21,984 | 2026-08-01 | 2026-10-26 |
 | [bagisto/bagisto](../repos/bagisto/bagisto.md) | 26 | ⭐ 28,268 | 2026-08-01 | 2026-10-22 |
 | [FreshRSS/FreshRSS](../repos/FreshRSS/FreshRSS.md) | 26 | ⭐ 16,420 | 2026-08-02 | 2026-10-25 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:49.091Z*
+*Last updated: 2026-10-26T21:01:57.785Z*

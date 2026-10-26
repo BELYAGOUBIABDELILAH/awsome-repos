@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | C++ |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 23,734 |
-| **Forks** | 🍴 2,871 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 24,008 |
+| **Forks** | 🍴 2,901 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 13, 2026 |
+| **Last Seen** | Oct 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 2 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:52.668Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-10-26T21:02:02.139Z*  
+*Data from 8 trending reports*

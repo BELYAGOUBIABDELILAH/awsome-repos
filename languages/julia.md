@@ -16,13 +16,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 738 | 2026-08-01 | 48 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 738 | 2026-08-01 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,442 | 2026-08-02 | 34 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,443 | 2026-08-02 | 35 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aviatesk/JETLS.jl](../repos/aviatesk/JETLS.jl.md) | ⭐ 317 | 2026-10-25 | 1 |
+| [aviatesk/JETLS.jl](../repos/aviatesk/JETLS.jl.md) | ⭐ 317 | 2026-10-25 | 2 |
 
 
 ---
@@ -49,16 +49,16 @@
 | [jump-dev/JuMP.jl](../repos/jump-dev/JuMP.jl.md) | ⭐ 2,462 | 2026-08-12 | 1 |
 | [TuringLang/Turing.jl](../repos/TuringLang/Turing.jl.md) | ⭐ 2,246 | 2026-08-12 | 1 |
 | [FluxML/Zygote.jl](../repos/FluxML/Zygote.jl.md) | ⭐ 1,568 | 2026-08-12 | 1 |
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,442 | 2026-08-02 | 34 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | ⭐ 1,443 | 2026-08-02 | 35 |
 | [JuliaGPU/CUDA.jl](../repos/JuliaGPU/CUDA.jl.md) | ⭐ 1,419 | 2026-08-12 | 1 |
 | [JuliaStats/Distributions.jl](../repos/JuliaStats/Distributions.jl.md) | ⭐ 1,196 | 2026-08-12 | 1 |
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 738 | 2026-08-01 | 48 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | ⭐ 738 | 2026-08-01 | 49 |
 | [trixi-framework/Trixi.jl](../repos/trixi-framework/Trixi.jl.md) | ⭐ 736 | 2026-08-07 | 3 |
 | [LuxDL/Lux.jl](../repos/LuxDL/Lux.jl.md) | ⭐ 721 | 2026-08-12 | 1 |
 | [EnzymeAD/Enzyme.jl](../repos/EnzymeAD/Enzyme.jl.md) | ⭐ 586 | 2026-09-09 | 2 |
 | [JuliaGPU/KernelAbstractions.jl](../repos/JuliaGPU/KernelAbstractions.jl.md) | ⭐ 529 | 2026-10-11 | 4 |
 | [EnzymeAD/Reactant.jl](../repos/EnzymeAD/Reactant.jl.md) | ⭐ 355 | 2026-08-07 | 3 |
-| [aviatesk/JETLS.jl](../repos/aviatesk/JETLS.jl.md) | ⭐ 317 | 2026-10-25 | 1 |
+| [aviatesk/JETLS.jl](../repos/aviatesk/JETLS.jl.md) | ⭐ 317 | 2026-10-25 | 2 |
 | [Evovest/EvoTrees.jl](../repos/Evovest/EvoTrees.jl.md) | ⭐ 200 | 2026-09-02 | 1 |
 | [JuliaLLVM/LLVM.jl](../repos/JuliaLLVM/LLVM.jl.md) | ⭐ 145 | 2026-10-02 | 2 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | ⭐ 126 | 2026-08-01 | 14 |
@@ -73,8 +73,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 48 | ⭐ 738 | 2026-08-01 | 2026-10-25 |
-| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 34 | ⭐ 1,442 | 2026-08-02 | 2026-10-25 |
+| [JuliaRegistries/General](../repos/JuliaRegistries/General.md) | 49 | ⭐ 738 | 2026-08-01 | 2026-10-26 |
+| [CliMA/Oceananigans.jl](../repos/CliMA/Oceananigans.jl.md) | 35 | ⭐ 1,443 | 2026-08-02 | 2026-10-26 |
 | [CliMA/ClimaCoupler.jl](../repos/CliMA/ClimaCoupler.jl.md) | 15 | ⭐ 46 | 2026-08-02 | 2026-08-25 |
 | [CliMA/ClimaAtmos.jl](../repos/CliMA/ClimaAtmos.jl.md) | 14 | ⭐ 126 | 2026-08-01 | 2026-09-12 |
 | [CliMA/ClimaCore.jl](../repos/CliMA/ClimaCore.jl.md) | 12 | ⭐ 117 | 2026-08-01 | 2026-09-12 |
@@ -113,4 +113,4 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:49.065Z*
+*Last updated: 2026-10-26T21:01:57.757Z*

@@ -1,6 +1,6 @@
 # 1N3&#x2F;Sn1per
 
-> Automated penetration testing &amp; attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.
+> Automated penetration testing &amp; attack surface management platform. Recon, scan, exploit, report - 600+ exploits, 90+ integrations, 10K+ detections.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;1N3&#x2F;Sn1per) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Shell |
 | **License** | Other |
-| **Stars** | ⭐ 11,304 |
-| **Forks** | 🍴 2,198 |
-| **Trending Days** | 7 |
+| **Stars** | ⭐ 11,486 |
+| **Forks** | 🍴 2,212 |
+| **Trending Days** | 8 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 6, 2026 |
-| **Last Seen** | Oct 3, 2026 |
+| **Last Seen** | Oct 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 7
+- **Trending Days**: 8
 - **Longest Streak**: 4 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:53.622Z*  
-*Data from 7 trending reports*
+*Last updated: 2026-10-26T21:02:03.138Z*  
+*Data from 8 trending reports*

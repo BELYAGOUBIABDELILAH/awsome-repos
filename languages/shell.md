@@ -16,34 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jqssun/android-titanium-browser](../repos/jqssun/android-titanium-browser.md) | ⭐ 3,032 | 2026-08-02 | 11 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,669 | 2026-08-01 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google/oss-fuzz](../repos/google/oss-fuzz.md) | ⭐ 12,797 | 2026-08-04 | 8 |
+| [1N3/Sn1per](../repos/1N3/Sn1per.md) | ⭐ 11,486 | 2026-08-06 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/skills](../repos/cloudflare/skills.md) | ⭐ 3,172 | 2026-08-05 | 15 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,184 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,679 | 2026-08-06 | 14 |
+| [WhatsApp/proxy](../repos/WhatsApp/proxy.md) | ⭐ 2,390 | 2026-09-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 3,017 | 2026-08-07 | 33 |
+| [aditya-shri/VPN](../repos/aditya-shri/VPN.md) | ⭐ 2,354 | 2026-09-06 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 19,680 | 2026-08-08 | 8 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,683 | 2026-08-29 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 5,030 | 2026-09-01 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [aditya-shri/VPN](../repos/aditya-shri/VPN.md) | ⭐ 2,352 | 2026-09-06 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [kharmanskyi/open-steps](../repos/kharmanskyi/open-steps.md) | ⭐ 1,232 | 2026-10-25 | 1 |
+| [kharmanskyi/open-steps](../repos/kharmanskyi/open-steps.md) | ⭐ 1,236 | 2026-10-25 | 2 |
 
 
 ---
@@ -89,7 +77,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,793 | 2026-08-07 | 3 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,638 | 2026-08-01 | 40 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,669 | 2026-08-01 | 41 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,666 | 2026-08-04 | 8 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,679 | 2026-08-06 | 14 |
@@ -101,7 +89,7 @@
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,775 | 2026-09-02 | 4 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,137 | 2026-08-04 | 12 |
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,031 | 2026-08-07 | 6 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,184 | 2026-08-07 | 7 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 6 |
@@ -115,7 +103,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 40 | ⭐ 95,638 | 2026-08-01 | 2026-10-23 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 41 | ⭐ 95,669 | 2026-08-01 | 2026-10-26 |
 | [expo/skills](../repos/expo/skills.md) | 33 | ⭐ 3,017 | 2026-08-07 | 2026-10-25 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 22 | ⭐ 11,292 | 2026-08-04 | 2026-10-22 |
@@ -233,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:49.127Z*
+*Last updated: 2026-10-26T21:01:57.816Z*

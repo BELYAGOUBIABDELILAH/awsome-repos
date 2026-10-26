@@ -1,6 +1,6 @@
 # ashhart&#x2F;TensorFold
 
-> LLM Inference Engine for Metal and CUDA.
+> LLM Inference Engine for Metal, CUDA and Vulkan.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;ashhart&#x2F;TensorFold) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Zig |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 1,476 |
-| **Forks** | 🍴 299 |
-| **Trending Days** | 11 |
+| **Stars** | ⭐ 1,490 |
+| **Forks** | 🍴 307 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 28, 2026 |
-| **Last Seen** | Oct 25, 2026 |
+| **Last Seen** | Oct 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 11
+- **Trending Days**: 12
 - **Longest Streak**: 5 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:56.159Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-10-26T21:02:05.718Z*  
+*Data from 12 trending reports*

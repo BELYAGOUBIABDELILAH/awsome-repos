@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Other |
-| **Stars** | ⭐ 32,517 |
-| **Forks** | 🍴 4,118 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 32,585 |
+| **Forks** | 🍴 4,167 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 27, 2026 |
-| **Last Seen** | Sep 27, 2026 |
+| **Last Seen** | Oct 26, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`cockroachdb`](../../topics/cockroachdb.md) [`database`](../../topics/database.md) [`distributed-database`](../../topics/distributed-database.md) [`go`](../../topics/go.md) [`hacktoberfest`](../../topics/hacktoberfest.md) [`sql`](../../topics/sql.md) 
+[`cockroachdb`](../../topics/cockroachdb.md) [`database`](../../topics/database.md) [`distributed-database`](../../topics/distributed-database.md) [`go`](../../topics/go.md) [`sql`](../../topics/sql.md) 
 
 ### Curated Categories
 `Databases` `Systems Programming` 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-25T21:01:56.139Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-26T21:02:05.697Z*  
+*Data from 2 trending reports*

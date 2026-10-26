@@ -16,19 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tradesdontlie/tradingview-mcp](../repos/tradesdontlie/tradingview-mcp.md) | ⭐ 6,941 | 2026-08-02 | 9 |
+| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 11,646 | 2026-08-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 11,640 | 2026-08-03 | 7 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 110,768 | 2026-08-05 | 30 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WebKit/WebKit](../repos/WebKit/WebKit.md) | ⭐ 10,276 | 2026-08-14 | 3 |
+| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 4,688 | 2026-08-14 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 46,627 | 2026-08-28 | 14 |
+| [babalae/bettergi-scripts-list](../repos/babalae/bettergi-scripts-list.md) | ⭐ 655 | 2026-08-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [maboloshi/github-chinese](../repos/maboloshi/github-chinese.md) | ⭐ 36,643 | 2026-10-25 | 1 |
+| [chuspeeism/dashi-ppt-skill](../repos/chuspeeism/dashi-ppt-skill.md) | ⭐ 10,051 | 2026-08-20 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 60,381 | 2026-08-27 | 14 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 48,379 | 2026-08-28 | 15 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 10,050 | 2026-08-29 | 9 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [xmanrui/dsh-im](../repos/xmanrui/dsh-im.md) | ⭐ 2,615 | 2026-10-21 | 2 |
 
 
 ---
@@ -78,7 +90,7 @@
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,211 | 2026-07-30 | 13 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 108,158 | 2026-08-05 | 29 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 110,768 | 2026-08-05 | 30 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
@@ -88,11 +100,11 @@
 | [byoungd/up](../repos/byoungd/up.md) | ⭐ 66,612 | 2026-08-01 | 18 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 60,381 | 2026-08-27 | 14 |
 | [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 56,874 | 2026-08-27 | 13 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 48,379 | 2026-08-28 | 15 |
 | [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,701 | 2026-08-08 | 5 |
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 46,627 | 2026-08-28 | 14 |
 
 ---
 
@@ -100,14 +112,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 29 | ⭐ 108,158 | 2026-08-05 | 2026-10-18 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 30 | ⭐ 110,768 | 2026-08-05 | 2026-10-26 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 21 | ⭐ 87,022 | 2026-08-04 | 2026-10-21 |
 | [byoungd/up](../repos/byoungd/up.md) | 18 | ⭐ 66,612 | 2026-08-01 | 2026-10-01 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
+| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 15 | ⭐ 48,379 | 2026-08-28 | 2026-10-26 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 14 | ⭐ 5,119 | 2026-08-07 | 2026-10-20 |
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 14 | ⭐ 46,627 | 2026-08-28 | 2026-10-25 |
+| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 14 | ⭐ 60,381 | 2026-08-27 | 2026-10-26 |
 | [vercel/next.js](../repos/vercel/next.js.md) | 13 | ⭐ 143,211 | 2026-07-30 | 2026-10-23 |
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | 13 | ⭐ 56,874 | 2026-08-27 | 2026-10-15 |
 | [vernesong/OpenClash](../repos/vernesong/OpenClash.md) | 12 | ⭐ 27,764 | 2026-08-03 | 2026-10-12 |
 | [Anil-matcha/Open-Generative-AI](../repos/Anil-matcha/Open-Generative-AI.md) | 12 | ⭐ 30,461 | 2026-08-08 | 2026-10-15 |
 
@@ -184,7 +196,7 @@
 - [zarazhangrui/frontend-slides](../repos/zarazhangrui/frontend-slides.md) - Create beautiful slides on the web using a coding agent&#39;s frontend skills
 - [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in bro...
 - [github/awesome-copilot](../repos/github/awesome-copilot.md) - Community-contributed instructions, agents, skills, and configurations to help you make the most ...
-- [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) - 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes vide...
+- [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) - 🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, w...
 - [laoma2053/awesome-zhuiju-free](../repos/laoma2053/awesome-zhuiju-free.md) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox &#x2F; 影视仓空壳软件&#x2F;配置地址、IPTV直播源、会员拼团、影视相关开源项...
 - [dataease/SQLBot](../repos/dataease/SQLBot.md) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 - [WebKit/WebKit](../repos/WebKit/WebKit.md) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other app...
@@ -218,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:49.062Z*
+*Last updated: 2026-10-26T21:01:57.755Z*

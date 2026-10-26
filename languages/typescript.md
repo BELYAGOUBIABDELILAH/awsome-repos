@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 288
+- **Total Repositories**: 291
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moeru-ai/airi](../repos/moeru-ai/airi.md) | ⭐ 50,710 | 2026-08-01 | 6 |
+| [Narcooo/inkos](../repos/Narcooo/inkos.md) | ⭐ 10,840 | 2026-08-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 137,688 | 2026-08-02 | 14 |
+| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 38,340 | 2026-08-02 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | ⭐ 41,516 | 2026-08-07 | 19 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 137,822 | 2026-08-02 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 195,293 | 2026-08-07 | 8 |
+| [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) | ⭐ 13,781 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gbrain](../repos/garrytan/gbrain.md) | ⭐ 31,204 | 2026-08-11 | 3 |
+| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 25,096 | 2026-08-14 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 24,947 | 2026-08-14 | 8 |
+| [calcom/cal.diy](../repos/calcom/cal.diy.md) | ⭐ 49,402 | 2026-08-15 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [remotion-dev/remotion](../repos/remotion-dev/remotion.md) | ⭐ 67,401 | 2026-08-16 | 4 |
+| [ed0ard/CS2-Bot-Improver](../repos/ed0ard/CS2-Bot-Improver.md) | ⭐ 1,313 | 2026-09-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-labs-code/stitch-skills](../repos/google-labs-code/stitch-skills.md) | ⭐ 8,589 | 2026-08-22 | 4 |
+| [thesysdev/openui](../repos/thesysdev/openui.md) | ⭐ 14,173 | 2026-09-13 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [google-gemini/gemini-cli](../repos/google-gemini/gemini-cli.md) | ⭐ 108,379 | 2026-08-23 | 2 |
+| [makecindy/cindy](../repos/makecindy/cindy.md) | ⭐ 6,315 | 2026-10-09 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [makecindy/cindy](../repos/makecindy/cindy.md) | ⭐ 4,759 | 2026-10-09 | 2 |
+| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 2,953 | 2026-10-12 | 5 |
 
 
 ---
@@ -96,7 +96,7 @@
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 152,634 | 2026-08-07 | 20 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,850 | 2026-08-02 | 8 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 137,688 | 2026-08-02 | 14 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 137,822 | 2026-08-02 | 15 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
@@ -122,7 +122,7 @@
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 19 | ⭐ 41,516 | 2026-08-07 | 2026-10-25 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 15 | ⭐ 29,418 | 2026-08-01 | 2026-10-22 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 14 | ⭐ 137,688 | 2026-08-02 | 2026-10-25 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | 15 | ⭐ 137,822 | 2026-08-02 | 2026-10-26 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
 | [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 12 | ⭐ 53,536 | 2026-08-01 | 2026-10-14 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:49.138Z*
+*Last updated: 2026-10-26T21:01:57.826Z*

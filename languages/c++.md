@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 286
+- **Total Repositories**: 287
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-25
 
@@ -16,25 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,245 | 2026-07-30 | 28 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 132,446 | 2026-08-01 | 33 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [imputnet/helium](../repos/imputnet/helium.md) | ⭐ 21,985 | 2026-08-03 | 5 |
+| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 24,008 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,676 | 2026-08-05 | 11 |
+| [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) | ⭐ 9,102 | 2026-08-03 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YosysHQ/yosys](../repos/YosysHQ/yosys.md) | ⭐ 4,842 | 2026-08-15 | 3 |
+| [aseprite/aseprite](../repos/aseprite/aseprite.md) | ⭐ 40,405 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wopss/RED4ext](../repos/wopss/RED4ext.md) | ⭐ 501 | 2026-10-25 | 1 |
+| [xbmc/xbmc](../repos/xbmc/xbmc.md) | ⭐ 21,388 | 2026-08-10 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [socquique/TamaPoke](../repos/socquique/TamaPoke.md) | ⭐ 223 | 2026-10-25 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [psiberx/cp2077-archive-xl](../repos/psiberx/cp2077-archive-xl.md) | ⭐ 138 | 2026-10-25 | 1 |
+| [Z3Prover/z3](../repos/Z3Prover/z3.md) | ⭐ 12,842 | 2026-10-26 | 1 |
 
 
 ---
@@ -80,7 +77,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,245 | 2026-07-30 | 28 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 131,939 | 2026-08-01 | 32 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 132,446 | 2026-08-01 | 33 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,773 | 2026-08-04 | 6 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,480 | 2026-08-01 | 6 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 118,967 | 2026-08-01 | 11 |
@@ -107,7 +104,7 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 32 | ⭐ 131,939 | 2026-08-01 | 2026-10-21 |
+| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 33 | ⭐ 132,446 | 2026-08-01 | 2026-10-26 |
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 28 | ⭐ 201,245 | 2026-07-30 | 2026-10-25 |
 | [google/googletest](../repos/google/googletest.md) | 22 | ⭐ 39,663 | 2026-08-04 | 2026-10-23 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 18 | ⭐ 539 | 2026-08-01 | 2026-10-21 |
@@ -224,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-10-25T21:01:49.016Z*
+*Last updated: 2026-10-26T21:01:57.710Z*
