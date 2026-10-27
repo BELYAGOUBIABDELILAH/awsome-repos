@@ -8,14 +8,16 @@
 
 - **Total Repositories**: 1
 - **First Seen**: 2026-10-13
-- **Last Updated**: 2026-10-25
+- **Last Updated**: 2026-10-27
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [NeoFreeBird/app](../repos/NeoFreeBird/app.md) | ⭐ 1,863 | 2026-10-13 | 5 |
 
-*No Logos repositories trending today*
 
 ---
 
@@ -23,7 +25,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [NeoFreeBird/app](../repos/NeoFreeBird/app.md) | ⭐ 1,852 | 2026-10-13 | A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications. |
+| [NeoFreeBird/app](../repos/NeoFreeBird/app.md) | ⭐ 1,863 | 2026-10-13 | A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications. |
 
 
 ---
@@ -32,7 +34,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NeoFreeBird/app](../repos/NeoFreeBird/app.md) | ⭐ 1,852 | 2026-10-13 | 4 |
+| [NeoFreeBird/app](../repos/NeoFreeBird/app.md) | ⭐ 1,863 | 2026-10-13 | 5 |
 
 ---
 
@@ -40,7 +42,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [NeoFreeBird/app](../repos/NeoFreeBird/app.md) | 4 | ⭐ 1,852 | 2026-10-13 | 2026-10-25 |
+| [NeoFreeBird/app](../repos/NeoFreeBird/app.md) | 5 | ⭐ 1,863 | 2026-10-13 | 2026-10-27 |
 
 ---
 
@@ -50,4 +52,4 @@
 
 ---
 
-*Last updated: 2026-10-26T21:01:57.764Z*
+*Last updated: 2026-10-27T21:01:40.552Z*

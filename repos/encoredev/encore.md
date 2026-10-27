@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | MPL-2.0 |
-| **Stars** | ⭐ 12,575 |
-| **Forks** | 🍴 645 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 12,624 |
+| **Forks** | 🍴 651 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 25, 2026 |
-| **Last Seen** | Oct 25, 2026 |
+| **Last Seen** | Oct 27, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-26T21:02:06.353Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-27T21:01:45.676Z*  
+*Data from 2 trending reports*

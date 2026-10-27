@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Elixir |
 | **License** | Not specified |
-| **Stars** | ⭐ 190 |
-| **Forks** | 🍴 181 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 191 |
+| **Forks** | 🍴 182 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 25, 2026 |
-| **Last Seen** | Oct 25, 2026 |
+| **Last Seen** | Oct 27, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 190+ stars, strong contributor base |
+| **Community** | Very Active | 191+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-26T21:02:06.369Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-27T21:01:45.690Z*  
+*Data from 2 trending reports*

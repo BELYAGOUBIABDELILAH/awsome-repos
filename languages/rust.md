@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 223
+- **Total Repositories**: 224
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-23
 
@@ -16,37 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | ⭐ 30,895 | 2026-08-03 | 15 |
+| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,681 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 89,023 | 2026-08-05 | 25 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 90,367 | 2026-08-05 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [malisper/pgrust](../repos/malisper/pgrust.md) | ⭐ 5,543 | 2026-08-08 | 4 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 100,266 | 2026-08-09 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 99,736 | 2026-08-09 | 18 |
+| [xai-org/x-algorithm](../repos/xai-org/x-algorithm.md) | ⭐ 33,833 | 2026-09-03 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 42,354 | 2026-08-10 | 17 |
+| [pollen-robotics/microduck](../repos/pollen-robotics/microduck.md) | ⭐ 12,745 | 2026-10-16 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mesamirh/MovieBox-Tui](../repos/mesamirh/MovieBox-Tui.md) | ⭐ 2,645 | 2026-09-21 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [JayWebtech/autoshorts](../repos/JayWebtech/autoshorts.md) | ⭐ 1,338 | 2026-10-01 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [pollen-robotics/microduck](../repos/pollen-robotics/microduck.md) | ⭐ 12,339 | 2026-10-16 | 5 |
+| [ShayanAbbas1/dbdelve](../repos/ShayanAbbas1/dbdelve.md) | ⭐ 566 | 2026-10-27 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [denisidoro/navi](../repos/denisidoro/navi.md) | ⭐ 17,680 | 2026-09-27 | An interactive cheatsheet tool for the command-line |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [timhartmann7/omnyssh](../repos/timhartmann7/omnyssh.md) | ⭐ 1,068 | 2026-09-29 | Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and ter... |
@@ -74,6 +65,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [eolix/photosuite](../repos/eolix/photosuite.md) | ⭐ 886 | 2026-10-07 | A desktop image editor, faithful to classic Adobe Photoshop, with native PSD&#x2F;PSB compatibility |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [harry0703/MangoDisk](../repos/harry0703/MangoDisk.md) | ⭐ 4,599 | 2026-10-07 | Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup... |
 
 
 ---
@@ -85,10 +79,10 @@
 | [openai/codex](../repos/openai/codex.md) | ⭐ 130,630 | 2026-08-01 | 17 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,946 | 2026-07-30 | 11 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 99,736 | 2026-08-09 | 18 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 100,266 | 2026-08-09 | 19 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,300 | 2026-08-11 | 9 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,084 | 2026-07-31 | 7 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 89,023 | 2026-08-05 | 25 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 90,367 | 2026-08-05 | 26 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,345 | 2026-08-20 | 5 |
@@ -109,9 +103,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 25 | ⭐ 89,023 | 2026-08-05 | 2026-10-26 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 26 | ⭐ 90,367 | 2026-08-05 | 2026-10-27 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 18 | ⭐ 99,736 | 2026-08-09 | 2026-10-26 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 19 | ⭐ 100,266 | 2026-08-09 | 2026-10-27 |
 | [openai/codex](../repos/openai/codex.md) | 17 | ⭐ 130,630 | 2026-08-01 | 2026-10-23 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
@@ -227,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-10-26T21:01:57.809Z*
+*Last updated: 2026-10-27T21:01:40.581Z*

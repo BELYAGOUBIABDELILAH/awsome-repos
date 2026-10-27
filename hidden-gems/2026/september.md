@@ -7,7 +7,7 @@
 ## September 2026
 
 **Period**: 2026-09-01 to 2026-09-28  
-**Gems Found**: 376
+**Gems Found**: 374
 
 ---
 
@@ -131,27 +131,7 @@
 
 ---
 
-### 7. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
-
-**The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,346 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 85/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 6, 2026 |
-
-**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 4 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/KnockOutEZ/wigolo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;KnockOutEZ&#x2F;wigolo)
-
----
-
-### 8. [feigeCode&#x2F;navop](../../repos/feigeCode/navop.md)
+### 7. [feigeCode&#x2F;navop](../../repos/feigeCode/navop.md)
 
 **A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.**
 
@@ -171,27 +151,7 @@
 
 ---
 
-### 9. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
-
-**Give cloud AI agents a real development environment on your own machines.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,627 |
-| 💻 **Language** | Rust |
-| 🏆 **Gem Score** | 85/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Sep 19, 2026 |
-
-**Why it's a gem**: High growth velocity (+137 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/yyjeqhc/webcodex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;yyjeqhc&#x2F;webcodex)
-
----
-
-### 10. [TNT-Likely&#x2F;PanWatch](../../repos/TNT-Likely/PanWatch.md)
+### 8. [TNT-Likely&#x2F;PanWatch](../../repos/TNT-Likely/PanWatch.md)
 
 **盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股&#x2F;港股&#x2F;美股实时监控、持仓管理、智能分析、全渠道推送**
 
@@ -208,6 +168,46 @@
 **Best for**: 
 
 [View Passport](../../repos/TNT-Likely/PanWatch.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;TNT-Likely&#x2F;PanWatch)
+
+---
+
+### 9. [KnockOutEZ&#x2F;wigolo](../../repos/KnockOutEZ/wigolo.md)
+
+**The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0&#x2F;query. Public beta.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,346 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 84/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+63 stars&#x2F;day) • Trending 4 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/KnockOutEZ/wigolo.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;KnockOutEZ&#x2F;wigolo)
+
+---
+
+### 10. [yyjeqhc&#x2F;webcodex](../../repos/yyjeqhc/webcodex.md)
+
+**Give cloud AI agents a real development environment on your own machines.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,627 |
+| 💻 **Language** | Rust |
+| 🏆 **Gem Score** | 84/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 19, 2026 |
+
+**Why it's a gem**: High growth velocity (+137 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/yyjeqhc/webcodex.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;yyjeqhc&#x2F;webcodex)
 
 ---
 
@@ -351,27 +351,7 @@
 
 ---
 
-### 18. [derv82&#x2F;wifit3](../../repos/derv82/wifit3.md)
-
-**Wifite but USB-only &amp; cross-platform.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,401 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 82/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Sep 25, 2026 |
-
-**Why it's a gem**: High growth velocity (+295 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/derv82/wifit3.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;derv82&#x2F;wifit3)
-
----
-
-### 19. [OpenAEC-Foundation&#x2F;open-pdf-studio](../../repos/OpenAEC-Foundation/open-pdf-studio.md)
+### 18. [OpenAEC-Foundation&#x2F;open-pdf-studio](../../repos/OpenAEC-Foundation/open-pdf-studio.md)
 
 **An open source PDF viewer&#x2F;editor with it&#39;s own blazing fast rust engine**
 
@@ -391,23 +371,43 @@
 
 ---
 
-### 20. [AdventDevInc&#x2F;kudu](../../repos/AdventDevInc/kudu.md)
+### 19. [Osmantic&#x2F;ODS](../../repos/Osmantic/ODS.md)
 
-**Free Windows, Mac and Linux cleaner, scanner, and more.**
+**Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,297 |
-| 💻 **Language** | TypeScript |
+| ⭐ **Stars** | 5,807 |
+| 💻 **Language** | Python |
 | 🏆 **Gem Score** | 81/100 |
-| 📈 **Trending Days** | 3 |
-| 📅 **First Seen** | Aug 6, 2026 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 20, 2026 |
 
-**Why it's a gem**: High growth velocity (+188 stars&#x2F;day) • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+213 stars&#x2F;day) • Trending 4 times • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/AdventDevInc/kudu.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;AdventDevInc&#x2F;kudu)
+[View Passport](../../repos/Osmantic/ODS.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Osmantic&#x2F;ODS)
+
+---
+
+### 20. [aipoch&#x2F;open-science](../../repos/aipoch/open-science.md)
+
+**The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python&#x2F;R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4,884 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 81/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Sep 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+158 stars&#x2F;day) • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/aipoch/open-science.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;aipoch&#x2F;open-science)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-26T21:02:06.713Z*  
+*Generated: 2026-10-27T21:01:45.949Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

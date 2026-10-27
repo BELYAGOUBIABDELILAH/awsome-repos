@@ -7,7 +7,7 @@
 ## August 2026
 
 **Period**: 2026-08-01 to 2026-08-28  
-**Gems Found**: 271
+**Gems Found**: 262
 
 ---
 
@@ -39,7 +39,7 @@
 |---|---|
 | ⭐ **Stars** | 1,427 |
 | 💻 **Language** | Go |
-| 🏆 **Gem Score** | 88/100 |
+| 🏆 **Gem Score** | 87/100 |
 | 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 4, 2026 |
 
@@ -71,27 +71,7 @@
 
 ---
 
-### 4. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
-
-**OCTO Android Client — Open-source enterprise IM**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 613 |
-| 💻 **Language** | Java |
-| 🏆 **Gem Score** | 80/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Aug 7, 2026 |
-
-**Why it's a gem**: High growth velocity (+45 stars&#x2F;day) • Trending 6 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
-
----
-
-### 5. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
+### 4. [marin-community&#x2F;marin](../../repos/marin-community/marin.md)
 
 **Open-source framework for the research and development of foundation models.**
 
@@ -108,6 +88,26 @@
 **Best for**: 
 
 [View Passport](../../repos/marin-community/marin.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;marin-community&#x2F;marin)
+
+---
+
+### 5. [Mininglamp-OSS&#x2F;octo-android](../../repos/Mininglamp-OSS/octo-android.md)
+
+**OCTO Android Client — Open-source enterprise IM**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 613 |
+| 💻 **Language** | Java |
+| 🏆 **Gem Score** | 79/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 7, 2026 |
+
+**Why it's a gem**: High growth velocity (+45 stars&#x2F;day) • Trending 6 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/Mininglamp-OSS/octo-android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;Mininglamp-OSS&#x2F;octo-android)
 
 ---
 
@@ -171,27 +171,7 @@
 
 ---
 
-### 9. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
-
-**BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 971 |
-| 💻 **Language** | Java |
-| 🏆 **Gem Score** | 77/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 8, 2026 |
-
-**Why it's a gem**: Trending 4 times • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/booklore-app/booklore.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;booklore-app&#x2F;booklore)
-
----
-
-### 10. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
+### 9. [RizRiyz&#x2F;luvus](../../repos/RizRiyz/luvus.md)
 
 **Mission control for your AI agents**
 
@@ -211,7 +191,7 @@
 
 ---
 
-### 11. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
+### 10. [GCWing&#x2F;BitFun](../../repos/GCWing/BitFun.md)
 
 **BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.**
 
@@ -228,6 +208,26 @@
 **Best for**: 
 
 [View Passport](../../repos/GCWing/BitFun.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;GCWing&#x2F;BitFun)
+
+---
+
+### 11. [booklore-app&#x2F;booklore](../../repos/booklore-app/booklore.md)
+
+**BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 971 |
+| 💻 **Language** | Java |
+| 🏆 **Gem Score** | 76/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 8, 2026 |
+
+**Why it's a gem**: Trending 4 times • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/booklore-app/booklore.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;booklore-app&#x2F;booklore)
 
 ---
 
@@ -251,27 +251,7 @@
 
 ---
 
-### 13. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
-
-**Visualize your year in travel using your Google Location History (Timeline) data**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,684 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 76/100 |
-| 📈 **Trending Days** | 4 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+1084 stars&#x2F;day) • Trending 4 times • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/mahlernim/google-timeline-visualizer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mahlernim&#x2F;google-timeline-visualizer)
-
----
-
-### 14. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
+### 13. [Greedeks&#x2F;GTweak](../../repos/Greedeks/GTweak.md)
 
 **Portable Tool for an Ideal Windows Setup**
 
@@ -291,27 +271,7 @@
 
 ---
 
-### 15. [workweave&#x2F;router](../../repos/workweave/router.md)
-
-**Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 2,635 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 76/100 |
-| 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 28, 2026 |
-
-**Why it's a gem**: High growth velocity (+640 stars&#x2F;day) • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/workweave/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;workweave&#x2F;router)
-
----
-
-### 16. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
+### 14. [Gitlawb&#x2F;zero](../../repos/Gitlawb/zero.md)
 
 **The coding agent that answers to you, your model, your machine, your rules.**
 
@@ -331,7 +291,27 @@
 
 ---
 
-### 17. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
+### 15. [mahlernim&#x2F;google-timeline-visualizer](../../repos/mahlernim/google-timeline-visualizer.md)
+
+**Visualize your year in travel using your Google Location History (Timeline) data**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,684 |
+| 💻 **Language** | Kotlin |
+| 🏆 **Gem Score** | 75/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 20, 2026 |
+
+**Why it's a gem**: High growth velocity (+1084 stars&#x2F;day) • Trending 4 times • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/mahlernim/google-timeline-visualizer.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mahlernim&#x2F;google-timeline-visualizer)
+
+---
+
+### 16. [Tencent&#x2F;AI-Infra-Guard](../../repos/Tencent/AI-Infra-Guard.md)
 
 **A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.**
 
@@ -351,27 +331,27 @@
 
 ---
 
-### 18. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
+### 17. [workweave&#x2F;router](../../repos/workweave/router.md)
 
-**Where people and agents build in tune.**
+**Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3,575 |
-| 💻 **Language** | TypeScript |
+| ⭐ **Stars** | 2,635 |
+| 💻 **Language** | Go |
 | 🏆 **Gem Score** | 75/100 |
 | 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 27, 2026 |
+| 📅 **First Seen** | Aug 28, 2026 |
 
-**Why it's a gem**: High growth velocity (+62 stars&#x2F;day) • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+640 stars&#x2F;day) • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/tutti-os/tutti.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tutti-os&#x2F;tutti)
+[View Passport](../../repos/workweave/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;workweave&#x2F;router)
 
 ---
 
-### 19. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
+### 18. [longbridge&#x2F;gpui-component](../../repos/longbridge/gpui-component.md)
 
 **Rust GUI components for building fantastic cross-platform desktop application by using GPUI.**
 
@@ -391,23 +371,43 @@
 
 ---
 
-### 20. [liustack&#x2F;modlens](../../repos/liustack/modlens.md)
+### 19. [tutti-os&#x2F;tutti](../../repos/tutti-os/tutti.md)
 
-**The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。**
+**Where people and agents build in tune.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2,781 |
+| ⭐ **Stars** | 3,575 |
 | 💻 **Language** | TypeScript |
 | 🏆 **Gem Score** | 74/100 |
 | 📈 **Trending Days** | 2 |
-| 📅 **First Seen** | Aug 15, 2026 |
+| 📅 **First Seen** | Aug 27, 2026 |
 
-**Why it's a gem**: High growth velocity (+527 stars&#x2F;day) • Strong community engagement • Underrated project
+**Why it's a gem**: High growth velocity (+62 stars&#x2F;day) • Strong community engagement • Underrated project
 
 **Best for**: 
 
-[View Passport](../../repos/liustack/modlens.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;liustack&#x2F;modlens)
+[View Passport](../../repos/tutti-os/tutti.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;tutti-os&#x2F;tutti)
+
+---
+
+### 20. [krillinai&#x2F;KrillinAI](../../repos/krillinai/KrillinAI.md)
+
+**AI video translation &amp; dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 11,134 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 73/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Aug 3, 2026 |
+
+**Why it's a gem**: High growth velocity (+84 stars&#x2F;day) • Trending 4 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/krillinai/KrillinAI.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;krillinai&#x2F;KrillinAI)
 
 ---
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-26T21:02:06.717Z*  
+*Generated: 2026-10-27T21:01:45.951Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

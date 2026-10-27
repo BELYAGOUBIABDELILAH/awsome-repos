@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 227
+- **Total Repositories**: 228
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,988 | 2026-08-01 | 22 |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 77,133 | 2026-08-04 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,374 | 2026-08-01 | 6 |
+| [git/git](../repos/git/git.md) | ⭐ 64,051 | 2026-08-05 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xiaojieonly/Ehviewer_CN_SXJ](../repos/xiaojieonly/Ehviewer_CN_SXJ.md) | ⭐ 28,278 | 2026-08-02 | 11 |
+| [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 25,177 | 2026-08-05 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qmk/qmk_firmware](../repos/qmk/qmk_firmware.md) | ⭐ 20,782 | 2026-08-04 | 8 |
+| [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 27,156 | 2026-08-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 25,162 | 2026-08-05 | 5 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,924 | 2026-08-06 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 27,144 | 2026-08-06 | 5 |
+| [veracrypt/VeraCrypt](../repos/veracrypt/VeraCrypt.md) | ⭐ 11,980 | 2026-08-09 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [reactos/reactos](../repos/reactos/reactos.md) | ⭐ 18,366 | 2026-08-16 | 10 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,207 | 2026-09-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yugabyte/yugabyte-db](../repos/yugabyte/yugabyte-db.md) | ⭐ 10,630 | 2026-08-20 | 5 |
+| [snesrev/zelda3](../repos/snesrev/zelda3.md) | ⭐ 4,926 | 2026-09-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,048 | 2026-09-01 | 17 |
+| [martanne/vis](../repos/martanne/vis.md) | ⭐ 5,220 | 2026-10-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fifthBro/mh2p-cluster](../repos/fifthBro/mh2p-cluster.md) | ⭐ 118 | 2026-10-26 | 1 |
+| [DualCoder/vgpu_unlock](../repos/DualCoder/vgpu_unlock.md) | ⭐ 5,368 | 2026-10-27 | 1 |
 
 
 ---
@@ -52,22 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [joncampbell123/dosbox-x](../repos/joncampbell123/dosbox-x.md) | ⭐ 3,742 | 2026-09-27 | DOSBox-X fork of the DOSBox project |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rusefi/rusefi](../repos/rusefi/rusefi.md) | ⭐ 1,174 | 2026-09-27 | rusefi - GPL internal combustion engine control unit |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [arkime/arkime](../repos/arkime/arkime.md) | ⭐ 7,509 | 2026-09-27 | Arkime is an open source, large scale, full packet capturing, indexing, and database system. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [Syllo/nvtop](../repos/Syllo/nvtop.md) | ⭐ 11,034 | 2026-09-29 | GPU &amp; Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [FoloToy/ai-passport](../repos/FoloToy/ai-passport.md) | ⭐ 710 | 2026-10-01 | FOLOTOY AI Passport develop resources for Agent |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [martanne/vis](../repos/martanne/vis.md) | ⭐ 4,976 | 2026-10-02 | A vi-like editor based on Plan 9&#39;s structural regular expressions |
+| [martanne/vis](../repos/martanne/vis.md) | ⭐ 5,220 | 2026-10-02 | A vi-like editor based on Plan 9&#39;s structural regular expressions |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [etaHEN/etaHEN](../repos/etaHEN/etaHEN.md) | ⭐ 724 | 2026-10-02 | AIO HEN payload |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [LongSoft/UEFITool](../repos/LongSoft/UEFITool.md) | ⭐ 5,729 | 2026-10-06 | UEFI firmware image viewer and editor |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [am32-firmware/AM32](../repos/am32-firmware/AM32.md) | ⭐ 983 | 2026-10-07 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [WeebLabs/DSPi](../repos/WeebLabs/DSPi.md) | ⭐ 1,329 | 2026-10-08 | A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350).  Offi... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [pnggroup/libpng](../repos/pnggroup/libpng.md) | ⭐ 1,662 | 2026-10-09 | LIBPNG: Portable Network Graphics support, official libpng repository |
 
 
 ---
@@ -92,11 +92,11 @@
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,988 | 2026-08-01 | 22 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 78,208 | 2026-08-02 | 18 |
-| [redis/redis](../repos/redis/redis.md) | ⭐ 77,050 | 2026-08-04 | 8 |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 77,133 | 2026-08-04 | 9 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,299 | 2026-08-01 | 25 |
-| [git/git](../repos/git/git.md) | ⭐ 63,813 | 2026-08-05 | 8 |
+| [git/git](../repos/git/git.md) | ⭐ 64,051 | 2026-08-05 | 9 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,048 | 2026-09-01 | 17 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,207 | 2026-09-01 | 18 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 41,534 | 2026-08-01 | 12 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 39 | ⭐ 17,267 | 2026-08-01 | 2026-10-25 |
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 27 | ⭐ 16,878 | 2026-08-06 | 2026-10-23 |
+| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 28 | ⭐ 16,924 | 2026-08-06 | 2026-10-27 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 26 | ⭐ 47,337 | 2026-08-07 | 2026-10-23 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 25 | ⭐ 75,299 | 2026-08-01 | 2026-10-25 |
 | [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 22 | ⭐ 139,988 | 2026-08-01 | 2026-10-26 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 19 | ⭐ 7,021 | 2026-08-04 | 2026-10-23 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 18 | ⭐ 78,208 | 2026-08-02 | 2026-10-25 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 18 | ⭐ 44,207 | 2026-09-01 | 2026-10-27 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 17 | ⭐ 151,696 | 2026-08-07 | 2026-10-09 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 17 | ⭐ 44,048 | 2026-09-01 | 2026-10-26 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-26T21:01:57.702Z*
+*Last updated: 2026-10-27T21:01:40.503Z*

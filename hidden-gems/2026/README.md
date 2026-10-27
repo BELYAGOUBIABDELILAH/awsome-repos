@@ -7,7 +7,7 @@
 ## 2026
 
 **Period**: 2026-01-01 to 2026-12-31  
-**Gems Found**: 1251
+**Gems Found**: 1252
 
 ---
 
@@ -177,13 +177,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,799 |
+| ⭐ **Stars** | 5,826 |
 | 💻 **Language** | HTML |
 | 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 15 |
+| 📈 **Trending Days** | 16 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
-**Why it's a gem**: High growth velocity (+94 stars&#x2F;day) • Trending 15 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+90 stars&#x2F;day) • Trending 16 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -217,13 +217,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,099 |
+| ⭐ **Stars** | 6,145 |
 | 💻 **Language** | Go |
 | 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 5 |
+| 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+151 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+134 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -251,7 +251,27 @@
 
 ---
 
-### 13. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
+### 13. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
+
+**OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6,379 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 94/100 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Sep 22, 2026 |
+
+**Why it's a gem**: High growth velocity (+365 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/superdesigndev/treg.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superdesigndev&#x2F;treg)
+
+---
+
+### 14. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
 
 **A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
 
@@ -268,26 +288,6 @@
 **Best for**: 
 
 [View Passport](../../repos/androoAGI/starnet.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;androoAGI&#x2F;starnet)
-
----
-
-### 14. [apache&#x2F;maka](../../repos/apache/maka.md)
-
-**Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,811 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 9 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+363 stars&#x2F;day) • Trending 9 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/apache/maka.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;apache&#x2F;maka)
 
 ---
 
@@ -331,23 +331,23 @@
 
 ---
 
-### 17. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
+### 17. [apache&#x2F;maka](../../repos/apache/maka.md)
 
-**OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
+**Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,749 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Sep 22, 2026 |
+| ⭐ **Stars** | 5,811 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 9 |
+| 📅 **First Seen** | Aug 20, 2026 |
 
-**Why it's a gem**: High growth velocity (+382 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+363 stars&#x2F;day) • Trending 9 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/superdesigndev/treg.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superdesigndev&#x2F;treg)
+[View Passport](../../repos/apache/maka.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;apache&#x2F;maka)
 
 ---
 
@@ -371,27 +371,7 @@
 
 ---
 
-### 19. [ashhart&#x2F;TensorFold](../../repos/ashhart/TensorFold.md)
-
-**LLM Inference Engine for Metal, CUDA and Vulkan.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,490 |
-| 💻 **Language** | Zig |
-| 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 12 |
-| 📅 **First Seen** | Sep 28, 2026 |
-
-**Why it's a gem**: High growth velocity (+37 stars&#x2F;day) • Trending 12 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/ashhart/TensorFold.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ashhart&#x2F;TensorFold)
-
----
-
-### 20. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
+### 19. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
 
 **Open source factory for one-shot engineering**
 
@@ -411,7 +391,7 @@
 
 ---
 
-### 21. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 20. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
 **ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
@@ -431,7 +411,7 @@
 
 ---
 
-### 22. [melgarafael&#x2F;DeskcommCRM](../../repos/melgarafael/DeskcommCRM.md)
+### 21. [melgarafael&#x2F;DeskcommCRM](../../repos/melgarafael/DeskcommCRM.md)
 
 **Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.**
 
@@ -451,7 +431,7 @@
 
 ---
 
-### 23. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+### 22. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
 
 **Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
 
@@ -471,7 +451,7 @@
 
 ---
 
-### 24. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
+### 23. [tbphp&#x2F;gpt-load](../../repos/tbphp/gpt-load.md)
 
 **Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。**
 
@@ -491,7 +471,7 @@
 
 ---
 
-### 25. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
+### 24. [BuilderIO&#x2F;agent-native](../../repos/BuilderIO/agent-native.md)
 
 **A framework for building agentic apps**
 
@@ -511,7 +491,7 @@
 
 ---
 
-### 26. [PCL-Community&#x2F;PCL-CE](../../repos/PCL-Community/PCL-CE.md)
+### 25. [PCL-Community&#x2F;PCL-CE](../../repos/PCL-Community/PCL-CE.md)
 
 **PCL 社区版 由社区开发者维护与管理**
 
@@ -531,27 +511,7 @@
 
 ---
 
-### 27. [weave-os&#x2F;router](../../repos/weave-os/router.md)
-
-**Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,557 |
-| 💻 **Language** | Go |
-| 🏆 **Gem Score** | 91/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 19, 2026 |
-
-**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Trending 5 times • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/weave-os/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;weave-os&#x2F;router)
-
----
-
-### 28. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
+### 26. [mvschwarz&#x2F;openrig](../../repos/mvschwarz/openrig.md)
 
 **Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.**
 
@@ -571,7 +531,7 @@
 
 ---
 
-### 29. [CyrilPeng&#x2F;Venera-Next](../../repos/CyrilPeng/Venera-Next.md)
+### 27. [CyrilPeng&#x2F;Venera-Next](../../repos/CyrilPeng/Venera-Next.md)
 
 **VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。**
 
@@ -591,7 +551,27 @@
 
 ---
 
-### 30. [harry0703&#x2F;MangoDisk](../../repos/harry0703/MangoDisk.md)
+### 28. [ashhart&#x2F;TensorFold](../../repos/ashhart/TensorFold.md)
+
+**LLM Inference Engine for Metal, CUDA and Vulkan.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1,503 |
+| 💻 **Language** | Zig |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 13 |
+| 📅 **First Seen** | Sep 28, 2026 |
+
+**Why it's a gem**: High growth velocity (+35 stars&#x2F;day) • Trending 13 times • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/ashhart/TensorFold.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ashhart&#x2F;TensorFold)
+
+---
+
+### 29. [harry0703&#x2F;MangoDisk](../../repos/harry0703/MangoDisk.md)
 
 **Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.**
 
@@ -611,7 +591,7 @@
 
 ---
 
-### 31. [ranxianglei&#x2F;billion-context](../../repos/ranxianglei/billion-context.md)
+### 30. [ranxianglei&#x2F;billion-context](../../repos/ranxianglei/billion-context.md)
 
 **A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need**
 
@@ -631,7 +611,7 @@
 
 ---
 
-### 32. [wuwangzhang1216&#x2F;ChinaTextbookStudyFree](../../repos/wuwangzhang1216/ChinaTextbookStudyFree.md)
+### 31. [wuwangzhang1216&#x2F;ChinaTextbookStudyFree](../../repos/wuwangzhang1216/ChinaTextbookStudyFree.md)
 
 **给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。**
 
@@ -651,7 +631,7 @@
 
 ---
 
-### 33. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
+### 32. [malisper&#x2F;pgrust](../../repos/malisper/pgrust.md)
 
 **Postgres rewritten in Rust, now faster than Postgres and Clickhouse**
 
@@ -671,7 +651,7 @@
 
 ---
 
-### 34. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
+### 33. [Armur-Ai&#x2F;Pentest-Swarm-AI](../../repos/Armur-Ai/Pentest-Swarm-AI.md)
 
 **Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.**
 
@@ -691,7 +671,7 @@
 
 ---
 
-### 35. [max-sixty&#x2F;worktrunk](../../repos/max-sixty/worktrunk.md)
+### 34. [max-sixty&#x2F;worktrunk](../../repos/max-sixty/worktrunk.md)
 
 **Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows**
 
@@ -711,7 +691,7 @@
 
 ---
 
-### 36. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
+### 35. [OpenWhispr&#x2F;openwhispr](../../repos/OpenWhispr/openwhispr.md)
 
 **Voice-to-text dictation app with local (Nvidia Parakeet&#x2F;Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.**
 
@@ -731,19 +711,59 @@
 
 ---
 
-### 37. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
+### 36. [weave-os&#x2F;router](../../repos/weave-os/router.md)
+
+**Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5,557 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 5 |
+| 📅 **First Seen** | Sep 19, 2026 |
+
+**Why it's a gem**: High growth velocity (+83 stars&#x2F;day) • Trending 5 times • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/weave-os/router.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;weave-os&#x2F;router)
+
+---
+
+### 37. [nightly-labs&#x2F;openbot](../../repos/nightly-labs/openbot.md)
+
+**A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2,319 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 90/100 |
+| 📈 **Trending Days** | 3 |
+| 📅 **First Seen** | Oct 25, 2026 |
+
+**Why it's a gem**: High growth velocity (+764 stars&#x2F;day) • Very active development • Strong community engagement • Underrated project
+
+**Best for**: 
+
+[View Passport](../../repos/nightly-labs/openbot.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;nightly-labs&#x2F;openbot)
+
+---
+
+### 38. [XiaomingX&#x2F;ai-money-maker-handbook](../../repos/XiaomingX/ai-money-maker-handbook.md)
 
 **ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,327 |
+| ⭐ **Stars** | 6,563 |
 | 💻 **Language** | CSS |
 | 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 23 |
+| 📈 **Trending Days** | 24 |
 | 📅 **First Seen** | Aug 10, 2026 |
 
-**Why it's a gem**: High growth velocity (+65 stars&#x2F;day) • Trending 23 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+66 stars&#x2F;day) • Trending 24 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -751,7 +771,7 @@
 
 ---
 
-### 38. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
+### 39. [MakazhanAlpamys&#x2F;Soup](../../repos/MakazhanAlpamys/Soup.md)
 
 **Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.**
 
@@ -771,7 +791,7 @@
 
 ---
 
-### 39. [google&#x2F;sam](../../repos/google/sam.md)
+### 40. [google&#x2F;sam](../../repos/google/sam.md)
 
 **SAM Sovereign Agent Mesh**
 
@@ -791,7 +811,7 @@
 
 ---
 
-### 40. [shy3130&#x2F;tick-stock-panel](../../repos/shy3130/tick-stock-panel.md)
+### 41. [shy3130&#x2F;tick-stock-panel](../../repos/shy3130/tick-stock-panel.md)
 
 **TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源**
 
@@ -811,7 +831,7 @@
 
 ---
 
-### 41. [p1neappleXpress&#x2F;OpenFlux](../../repos/p1neappleXpress/OpenFlux.md)
+### 42. [p1neappleXpress&#x2F;OpenFlux](../../repos/p1neappleXpress/OpenFlux.md)
 
 **Network stack research tool. TCP tunnel with pluggable transports.**
 
@@ -828,26 +848,6 @@
 **Best for**: 
 
 [View Passport](../../repos/p1neappleXpress/OpenFlux.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;p1neappleXpress&#x2F;OpenFlux)
-
----
-
-### 42. [SnailSploit&#x2F;Claude-Red](../../repos/SnailSploit/Claude-Red.md)
-
-**claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 9,042 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 12, 2026 |
-
-**Why it's a gem**: High growth velocity (+606 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/SnailSploit/Claude-Red.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;SnailSploit&#x2F;Claude-Red)
 
 ---
 
@@ -891,27 +891,7 @@
 
 ---
 
-### 45. [mlmvpn&#x2F;mlmvpn_android](../../repos/mlmvpn/mlmvpn_android.md)
-
-**Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE&#x2F;AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 551 |
-| 💻 **Language** | Kotlin |
-| 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 5 |
-| 📅 **First Seen** | Sep 29, 2026 |
-
-**Why it's a gem**: Trending 5 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/mlmvpn/mlmvpn_android.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;mlmvpn&#x2F;mlmvpn_android)
-
----
-
-### 46. [YuKongA&#x2F;ghostlock-app](../../repos/YuKongA/ghostlock-app.md)
+### 45. [YuKongA&#x2F;ghostlock-app](../../repos/YuKongA/ghostlock-app.md)
 
 **GhostLock One-Tap Execution App (CVE-2026-43499)**
 
@@ -928,6 +908,26 @@
 **Best for**: 
 
 [View Passport](../../repos/YuKongA/ghostlock-app.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;YuKongA&#x2F;ghostlock-app)
+
+---
+
+### 46. [makecindy&#x2F;cindy](../../repos/makecindy/cindy.md)
+
+**Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,391 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 89/100 |
+| 📈 **Trending Days** | 4 |
+| 📅 **First Seen** | Oct 9, 2026 |
+
+**Why it's a gem**: High growth velocity (+1702 stars&#x2F;day) • Trending 4 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/makecindy/cindy.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;makecindy&#x2F;cindy)
 
 ---
 
@@ -957,13 +957,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1,174 |
+| ⭐ **Stars** | 1,202 |
 | 💻 **Language** | Dart |
 | 🏆 **Gem Score** | 89/100 |
-| 📈 **Trending Days** | 6 |
+| 📈 **Trending Days** | 7 |
 | 📅 **First Seen** | Oct 13, 2026 |
 
-**Why it's a gem**: Trending 6 times • Very active development • Strong community engagement • Underrated project
+**Why it's a gem**: Trending 7 times • Very active development • Strong community engagement • Underrated project
 
 **Best for**: 
 
@@ -1027,5 +1027,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-26T21:02:06.747Z*  
+*Generated: 2026-10-27T21:01:45.963Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

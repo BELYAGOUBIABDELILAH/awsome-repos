@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 173
+- **Total Repositories**: 176
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-15
 
@@ -16,40 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [is-a-dev/register](../repos/is-a-dev/register.md) | ⭐ 11,646 | 2026-08-03 | 8 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 69,556 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 110,768 | 2026-08-05 | 30 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 90,383 | 2026-08-04 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [darkzOGx/youtube-automation-agent](../repos/darkzOGx/youtube-automation-agent.md) | ⭐ 4,688 | 2026-08-14 | 9 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 111,097 | 2026-08-05 | 31 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/bettergi-scripts-list](../repos/babalae/bettergi-scripts-list.md) | ⭐ 655 | 2026-08-16 | 2 |
+| [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 77,000 | 2026-08-09 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chuspeeism/dashi-ppt-skill](../repos/chuspeeism/dashi-ppt-skill.md) | ⭐ 10,051 | 2026-08-20 | 6 |
+| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 40,473 | 2026-08-14 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 60,381 | 2026-08-27 | 14 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 32,938 | 2026-08-16 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 48,379 | 2026-08-28 | 15 |
+| [YuJunZhiXue/dsh-purge](../repos/YuJunZhiXue/dsh-purge.md) | ⭐ 11,016 | 2026-10-19 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [OpenWhispr/openwhispr](../repos/OpenWhispr/openwhispr.md) | ⭐ 10,050 | 2026-08-29 | 9 |
+| [algorithm-visualizer/algorithm-visualizer](../repos/algorithm-visualizer/algorithm-visualizer.md) | ⭐ 49,214 | 2026-10-27 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xmanrui/dsh-im](../repos/xmanrui/dsh-im.md) | ⭐ 2,615 | 2026-10-21 | 2 |
+| [hanliang97/MatrixMedia](../repos/hanliang97/MatrixMedia.md) | ⭐ 1,132 | 2026-10-27 | 1 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [QCYTSN/dsh-dafeiyu](../repos/QCYTSN/dsh-dafeiyu.md) | ⭐ 527 | 2026-10-27 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mlmvpn/mlmvpn_windows](../repos/mlmvpn/mlmvpn_windows.md) | ⭐ 159 | 2026-09-27 | MLMVPN - Ultimate Anti-Filter &amp; IP Scanner |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [crocodilestick/Calibre-Web-Automated](../repos/crocodilestick/Calibre-Web-Automated.md) | ⭐ 6,345 | 2026-09-28 | Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook s... |
@@ -77,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kanoqwq/UFI-TOOLS](../repos/kanoqwq/UFI-TOOLS.md) | ⭐ 2,577 | 2026-10-06 | A functional tools for z*e devices (F50 | U30 Air) |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MobSF/Mobile-Security-Framework-MobSF](../repos/MobSF/Mobile-Security-Framework-MobSF.md) | ⭐ 21,899 | 2026-10-07 | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android&#x2F;iOS&#x2F;Win... |
 
 
 ---
@@ -90,21 +93,21 @@
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,211 | 2026-07-30 | 13 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 110,768 | 2026-08-05 | 30 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 111,097 | 2026-08-05 | 31 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 87,022 | 2026-08-04 | 21 |
-| [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 76,821 | 2026-08-09 | 1 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 90,383 | 2026-08-04 | 22 |
+| [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 77,000 | 2026-08-09 | 2 |
 | [expressjs/express](../repos/expressjs/express.md) | ⭐ 69,592 | 2026-08-04 | 3 |
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 66,612 | 2026-08-01 | 18 |
+| [byoungd/up](../repos/byoungd/up.md) | ⭐ 69,556 | 2026-08-01 | 19 |
 | [webpack/webpack](../repos/webpack/webpack.md) | ⭐ 65,985 | 2026-08-04 | 2 |
 | [lodash/lodash](../repos/lodash/lodash.md) | ⭐ 61,346 | 2026-08-11 | 4 |
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 60,381 | 2026-08-27 | 14 |
 | [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
+| [algorithm-visualizer/algorithm-visualizer](../repos/algorithm-visualizer/algorithm-visualizer.md) | ⭐ 49,214 | 2026-10-27 | 1 |
 | [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 48,379 | 2026-08-28 | 15 |
-| [usebruno/bruno](../repos/usebruno/bruno.md) | ⭐ 47,701 | 2026-08-08 | 5 |
 
 ---
 
@@ -112,9 +115,9 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 30 | ⭐ 110,768 | 2026-08-05 | 2026-10-26 |
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 21 | ⭐ 87,022 | 2026-08-04 | 2026-10-21 |
-| [byoungd/up](../repos/byoungd/up.md) | 18 | ⭐ 66,612 | 2026-08-01 | 2026-10-01 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 31 | ⭐ 111,097 | 2026-08-05 | 2026-10-27 |
+| [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
+| [byoungd/up](../repos/byoungd/up.md) | 19 | ⭐ 69,556 | 2026-08-01 | 2026-10-27 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
 | [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | 15 | ⭐ 48,379 | 2026-08-28 | 2026-10-26 |
 | [WorldFlowAI/everything-claude-code](../repos/WorldFlowAI/everything-claude-code.md) | 14 | ⭐ 5,119 | 2026-08-07 | 2026-10-20 |
@@ -136,7 +139,7 @@
 - [node-red/node-red](../repos/node-red/node-red.md) - Low-code programming for event-driven applications
 - [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) - Prompt as Code | GPT Image 2 &#x2F; 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与...
 - [nyxxbit/discord-quest-completer](../repos/nyxxbit/discord-quest-completer.md) - Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module...
-- [byoungd/up](../repos/byoungd/up.md) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的A...
+- [byoungd/up](../repos/byoungd/up.md) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
 - [pdone/lx-music-source](../repos/pdone/lx-music-source.md) - 洛雪音乐源
 - [SillyTavern/SillyTavern](../repos/SillyTavern/SillyTavern.md) - LLM Frontend for Power Users.
 - [openai/codex-plugin-cc](../repos/openai/codex-plugin-cc.md) - Use Codex from Claude Code to review code or delegate tasks.
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-26T21:01:57.755Z*
+*Last updated: 2026-10-27T21:01:40.545Z*

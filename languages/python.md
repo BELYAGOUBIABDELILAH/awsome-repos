@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 299
+- **Total Repositories**: 301
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-12
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/last30days-skill](../repos/mvanhorn/last30days-skill.md) | ⭐ 65,575 | 2026-08-01 | 7 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 104,830 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 103,394 | 2026-08-01 | 13 |
+| [SimplifyJobs/Summer2027-Internships](../repos/SimplifyJobs/Summer2027-Internships.md) | ⭐ 48,189 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 63,733 | 2026-08-03 | 14 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 117,234 | 2026-08-08 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
+| [AgriciDaniel/claude-seo](../repos/AgriciDaniel/claude-seo.md) | ⭐ 22,665 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 115,889 | 2026-08-08 | 14 |
+| [HKUDS/DeepTutor](../repos/HKUDS/DeepTutor.md) | ⭐ 45,667 | 2026-08-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AgriciDaniel/claude-seo](../repos/AgriciDaniel/claude-seo.md) | ⭐ 22,045 | 2026-08-08 | 5 |
+| [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) | ⭐ 23,899 | 2026-08-12 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [smicallef/spiderfoot](../repos/smicallef/spiderfoot.md) | ⭐ 23,863 | 2026-08-12 | 8 |
+| [NVIDIA/SkillSpector](../repos/NVIDIA/SkillSpector.md) | ⭐ 22,712 | 2026-09-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [home-assistant/core](../repos/home-assistant/core.md) | ⭐ 91,745 | 2026-08-27 | 5 |
+| [SnailSploit/Claude-Red](../repos/SnailSploit/Claude-Red.md) | ⭐ 9,621 | 2026-09-12 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/SkillSpector](../repos/NVIDIA/SkillSpector.md) | ⭐ 22,063 | 2026-09-01 | 5 |
+| [superdesigndev/treg](../repos/superdesigndev/treg.md) | ⭐ 6,379 | 2026-09-22 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AstrBotDevs/AstrBot](../repos/AstrBotDevs/AstrBot.md) | ⭐ 43,810 | 2026-10-25 | 2 |
+| [HKUDS/AutoSwarm](../repos/HKUDS/AutoSwarm.md) | ⭐ 2,029 | 2026-10-27 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [microsoft/data-formulator](../repos/microsoft/data-formulator.md) | ⭐ 17,425 | 2026-09-27 | 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, ex... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [microsoft/SkillOpt](../repos/microsoft/SkillOpt.md) | ⭐ 17,869 | 2026-09-28 | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM ag... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ifixai-ai/iFixAi](../repos/ifixai-ai/iFixAi.md) | ⭐ 28,720 | 2026-10-01 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial q... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [qbittorrent/search-plugins](../repos/qbittorrent/search-plugins.md) | ⭐ 7,079 | 2026-10-01 | Search plugins for qBittorrent search feature |
 
 
 ---
@@ -103,11 +103,11 @@
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 133,846 | 2026-08-03 | 11 |
 | [harry0703/MoneyPrinterTurbo](../repos/harry0703/MoneyPrinterTurbo.md) | ⭐ 132,098 | 2026-08-01 | 17 |
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 115,889 | 2026-08-08 | 14 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 117,234 | 2026-08-08 | 15 |
 | [browser-use/browser-use](../repos/browser-use/browser-use.md) | ⭐ 115,765 | 2026-08-20 | 9 |
 | [openai/whisper](../repos/openai/whisper.md) | ⭐ 108,616 | 2026-07-31 | 6 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 104,830 | 2026-08-01 | 14 |
 | [pytorch/pytorch](../repos/pytorch/pytorch.md) | ⭐ 104,706 | 2026-07-30 | 6 |
-| [fastapi/fastapi](../repos/fastapi/fastapi.md) | ⭐ 103,660 | 2026-10-19 | 2 |
 
 ---
 
@@ -119,11 +119,11 @@
 | [NousResearch/hermes-agent](../repos/NousResearch/hermes-agent.md) | 17 | ⭐ 243,012 | 2026-08-01 | 2026-09-07 |
 | [debpalash/VoiceStudio](../repos/debpalash/VoiceStudio.md) | 17 | ⭐ 65,960 | 2026-08-22 | 2026-10-14 |
 | [K-Dense-AI/scientific-agent-skills](../repos/K-Dense-AI/scientific-agent-skills.md) | 16 | ⭐ 52,636 | 2026-08-03 | 2026-10-18 |
+| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 15 | ⭐ 117,234 | 2026-08-08 | 2026-10-27 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 14 | ⭐ 104,830 | 2026-08-01 | 2026-10-27 |
 | [llm-d/llm-d](../repos/llm-d/llm-d.md) | 14 | ⭐ 4,651 | 2026-08-01 | 2026-09-24 |
 | [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | 14 | ⭐ 63,733 | 2026-08-03 | 2026-10-26 |
 | [anthropics/claude-plugins-official](../repos/anthropics/claude-plugins-official.md) | 14 | ⭐ 43,153 | 2026-08-07 | 2026-10-19 |
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | 14 | ⭐ 115,889 | 2026-08-08 | 2026-10-26 |
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | 13 | ⭐ 103,394 | 2026-08-01 | 2026-10-26 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | 13 | ⭐ 141,991 | 2026-08-05 | 2026-10-22 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-26T21:01:57.795Z*
+*Last updated: 2026-10-27T21:01:40.573Z*

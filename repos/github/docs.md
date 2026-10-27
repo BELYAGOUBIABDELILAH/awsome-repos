@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | CC-BY-4.0 |
-| **Stars** | ⭐ 21,078 |
-| **Forks** | 🍴 69,199 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 21,138 |
+| **Forks** | 🍴 69,293 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 9, 2026 |
-| **Last Seen** | Oct 22, 2026 |
+| **Last Seen** | Oct 27, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Average | Basic documentation available |
-| **Community** | Very Active | 21,078+ stars, strong contributor base |
+| **Community** | Very Active | 21,138+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-26T21:02:03.456Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-10-27T21:01:43.529Z*  
+*Data from 4 trending reports*

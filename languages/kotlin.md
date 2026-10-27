@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mihonapp/mihon](../repos/mihonapp/mihon.md) | ⭐ 24,746 | 2026-08-01 | 18 |
+| [nextcloud/android](../repos/nextcloud/android.md) | ⭐ 5,652 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | ⭐ 3,038 | 2026-08-02 | 19 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,508 | 2026-08-03 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,508 | 2026-08-03 | 15 |
+| [xororz/local-dream](../repos/xororz/local-dream.md) | ⭐ 3,818 | 2026-08-07 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,537 | 2026-08-05 | 8 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 32,269 | 2026-08-08 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rushiranpise/morphe-patches](../repos/rushiranpise/morphe-patches.md) | ⭐ 949 | 2026-08-08 | 9 |
+| [XayahSuSuSu/Android-DataBackup](../repos/XayahSuSuSu/Android-DataBackup.md) | ⭐ 7,499 | 2026-08-12 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SukiSU-Ultra/SukiSU-Ultra](../repos/SukiSU-Ultra/SukiSU-Ultra.md) | ⭐ 6,686 | 2026-08-09 | 12 |
+| [jellyfin/jellyfin-androidtv](../repos/jellyfin/jellyfin-androidtv.md) | ⭐ 4,668 | 2026-08-24 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [permissionlesstech/bitchat-android](../repos/permissionlesstech/bitchat-android.md) | ⭐ 7,888 | 2026-08-11 | 8 |
+| [nightscout/AndroidAPS](../repos/nightscout/AndroidAPS.md) | ⭐ 1,231 | 2026-08-27 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin-androidtv](../repos/jellyfin/jellyfin-androidtv.md) | ⭐ 4,663 | 2026-08-24 | 6 |
+| [aquamarine5/ChaoxingSignFaker](../repos/aquamarine5/ChaoxingSignFaker.md) | ⭐ 881 | 2026-09-24 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nightscout/AndroidAPS](../repos/nightscout/AndroidAPS.md) | ⭐ 1,228 | 2026-08-27 | 4 |
+| [Lelonio/Square](../repos/Lelonio/Square.md) | ⭐ 429 | 2026-10-08 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ahXN00/OwnTV](../repos/ahXN00/OwnTV.md) | ⭐ 673 | 2026-10-06 | 4 |
+| [jieapi/AiCode](../repos/jieapi/AiCode.md) | ⭐ 339 | 2026-10-22 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [tasks/tasks](../repos/tasks/tasks.md) | ⭐ 5,609 | 2026-09-27 | Bringing Astrid Tasks back from the dead |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Codename-11/hermes-relay](../repos/Codename-11/hermes-relay.md) | ⭐ 281 | 2026-09-28 | Hermes-Relay — Your Hermes AI agent, in your pocket — chat, voice, and control. |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 5,551 | 2026-10-06 | ✨一个安卓网盘解析下载app✨ |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [ahXN00/OwnTV](../repos/ahXN00/OwnTV.md) | ⭐ 673 | 2026-10-06 | Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker ... |
 
 
 ---
@@ -93,8 +93,8 @@
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 55,659 | 2026-08-06 | 15 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,504 | 2026-08-04 | 13 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | 2 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,269 | 2026-08-03 | 15 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 32,144 | 2026-08-08 | 19 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,508 | 2026-08-03 | 16 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 32,269 | 2026-08-08 | 20 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,537 | 2026-08-05 | 8 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,342 | 2026-08-11 | 5 |
 | [google-ai-edge/gallery](../repos/google-ai-edge/gallery.md) | ⭐ 25,103 | 2026-08-12 | 10 |
@@ -116,11 +116,11 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 20 | ⭐ 64,546 | 2026-08-02 | 2026-10-23 |
+| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 20 | ⭐ 32,269 | 2026-08-08 | 2026-10-27 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 19 | ⭐ 3,038 | 2026-08-02 | 2026-10-26 |
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 19 | ⭐ 32,144 | 2026-08-08 | 2026-10-25 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 18 | ⭐ 24,746 | 2026-08-01 | 2026-10-26 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 16 | ⭐ 43,508 | 2026-08-03 | 2026-10-27 |
 | [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 15 | ⭐ 63,508 | 2026-08-03 | 2026-10-26 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 15 | ⭐ 43,269 | 2026-08-03 | 2026-10-23 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 15 | ⭐ 55,659 | 2026-08-06 | 2026-10-20 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 14 | ⭐ 11,766 | 2026-08-02 | 2026-10-20 |
 | [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 13 | ⭐ 8,363 | 2026-08-02 | 2026-10-21 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-26T21:01:57.762Z*
+*Last updated: 2026-10-27T21:01:40.550Z*

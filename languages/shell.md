@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 146
+- **Total Repositories**: 147
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-23
 
@@ -16,31 +16,37 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,669 | 2026-08-01 | 41 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,677 | 2026-08-01 | 42 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [1N3/Sn1per](../repos/1N3/Sn1per.md) | ⭐ 11,486 | 2026-08-06 | 8 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,184 | 2026-08-07 | 7 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 3,309 | 2026-08-07 | 34 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [WhatsApp/proxy](../repos/WhatsApp/proxy.md) | ⭐ 2,390 | 2026-09-06 | 3 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,206 | 2026-08-07 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aditya-shri/VPN](../repos/aditya-shri/VPN.md) | ⭐ 2,354 | 2026-09-06 | 3 |
+| [DaoCloud/public-image-mirror](../repos/DaoCloud/public-image-mirror.md) | ⭐ 15,284 | 2026-08-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kharmanskyi/open-steps](../repos/kharmanskyi/open-steps.md) | ⭐ 1,236 | 2026-10-25 | 2 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,599 | 2026-08-20 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [233boy/sing-box](../repos/233boy/sing-box.md) | ⭐ 5,082 | 2026-09-01 | 12 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [fscarmen/sing-box](../repos/fscarmen/sing-box.md) | ⭐ 5,907 | 2026-09-21 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [BlackArch/blackarch](../repos/BlackArch/blackarch.md) | ⭐ 3,514 | 2026-09-27 | An ArchLinux based distribution for penetration testers and security researchers. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [AppImage/appimage.github.io](../repos/AppImage/appimage.github.io.md) | ⭐ 411 | 2026-10-01 | Given an URL to an AppImage, the GitHub action in this project inspects the AppImage and puts it ... |
@@ -68,6 +74,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [itsnotkubrick/3X-UI_KIT](../repos/itsnotkubrick/3X-UI_KIT.md) | ⭐ 444 | 2026-10-15 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nelvko/clashctl](../repos/nelvko/clashctl.md) | ⭐ 15,015 | 2026-10-15 | 😼 优雅地使用基于 clash&#x2F;mihomo 的代理环境 |
 
 
 ---
@@ -77,10 +86,11 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,793 | 2026-08-07 | 3 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,669 | 2026-08-01 | 41 |
+| [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,677 | 2026-08-01 | 42 |
 | [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,666 | 2026-08-04 | 8 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
-| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,679 | 2026-08-06 | 14 |
+| [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,855 | 2026-08-04 | 13 |
 | [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,683 | 2026-08-29 | 10 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
@@ -89,13 +99,12 @@
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,775 | 2026-09-02 | 4 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,137 | 2026-08-04 | 12 |
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,184 | 2026-08-07 | 7 |
+| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,206 | 2026-08-07 | 8 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
 | [jnMetaCode/agency-agents-zh](../repos/jnMetaCode/agency-agents-zh.md) | ⭐ 20,046 | 2026-08-12 | 6 |
 | [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) | ⭐ 19,680 | 2026-08-08 | 8 |
 | [thibmaek/awesome-raspberry-pi](../repos/thibmaek/awesome-raspberry-pi.md) | ⭐ 16,995 | 2026-09-08 | 3 |
-| [CISOfy/lynis](../repos/CISOfy/lynis.md) | ⭐ 16,492 | 2026-08-24 | 2 |
 
 ---
 
@@ -103,13 +112,13 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 41 | ⭐ 95,669 | 2026-08-01 | 2026-10-26 |
-| [expo/skills](../repos/expo/skills.md) | 33 | ⭐ 3,017 | 2026-08-07 | 2026-10-25 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 42 | ⭐ 95,677 | 2026-08-01 | 2026-10-27 |
+| [expo/skills](../repos/expo/skills.md) | 34 | ⭐ 3,309 | 2026-08-07 | 2026-10-27 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
 | [github/copilot-cli](../repos/github/copilot-cli.md) | 22 | ⭐ 11,292 | 2026-08-04 | 2026-10-22 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 19 | ⭐ 8,002 | 2026-08-12 | 2026-10-16 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 15 | ⭐ 3,172 | 2026-08-05 | 2026-10-25 |
-| [dockur/windows](../repos/dockur/windows.md) | 14 | ⭐ 53,679 | 2026-08-06 | 2026-10-25 |
+| [dockur/windows](../repos/dockur/windows.md) | 15 | ⭐ 53,702 | 2026-08-06 | 2026-10-27 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 13 | ⭐ 47,855 | 2026-08-04 | 2026-10-21 |
 | [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 12 | ⭐ 2,316 | 2026-08-02 | 2026-09-25 |
 | [a2aproject/A2A](../repos/a2aproject/A2A.md) | 12 | ⭐ 26,137 | 2026-08-04 | 2026-10-13 |
@@ -221,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-26T21:01:57.816Z*
+*Last updated: 2026-10-27T21:01:40.587Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 287
+- **Total Repositories**: 288
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-25
 
@@ -16,37 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 132,446 | 2026-08-01 | 33 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,523 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MaaAssistantArknights/MaaAssistantArknights](../repos/MaaAssistantArknights/MaaAssistantArknights.md) | ⭐ 24,008 | 2026-08-02 | 8 |
+| [react/react-native](../repos/react/react-native.md) | ⭐ 126,803 | 2026-08-04 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [azerothcore/azerothcore-wotlk](../repos/azerothcore/azerothcore-wotlk.md) | ⭐ 9,102 | 2026-08-03 | 9 |
+| [argotorg/solidity](../repos/argotorg/solidity.md) | ⭐ 25,761 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aseprite/aseprite](../repos/aseprite/aseprite.md) | ⭐ 40,405 | 2026-08-07 | 5 |
+| [MariaDB/server](../repos/MariaDB/server.md) | ⭐ 8,462 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xbmc/xbmc](../repos/xbmc/xbmc.md) | ⭐ 21,388 | 2026-08-10 | 4 |
+| [openvinotoolkit/openvino](../repos/openvinotoolkit/openvino.md) | ⭐ 11,079 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Z3Prover/z3](../repos/Z3Prover/z3.md) | ⭐ 12,842 | 2026-10-26 | 1 |
+| [apache/arrow](../repos/apache/arrow.md) | ⭐ 17,236 | 2026-08-12 | 6 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [ossrs/srs](../repos/ossrs/srs.md) | ⭐ 29,379 | 2026-08-14 | 4 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [isl-org/Open3D](../repos/isl-org/Open3D.md) | ⭐ 14,128 | 2026-10-27 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [The412Banner/winlator-contents](../repos/The412Banner/winlator-contents.md) | ⭐ 112 | 2026-09-27 | Component catalog index for BannerHub &#x2F; Winlator clients. Hosts contents.json (mirror of nightlie... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cataclysmbn/Cataclysm-BN](../repos/cataclysmbn/Cataclysm-BN.md) | ⭐ 1,245 | 2026-09-27 | Cataclysm: Bright Nights: A fork&#x2F;variant of Cataclysm:DDA by CleverRaven with a mod registry at h... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [gta-reversed/gta-reversed](../repos/gta-reversed/gta-reversed.md) | ⭐ 1,036 | 2026-09-27 | Reimplementation of GTA:SA 1.0 US |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ammaarreshi/Generals-Mac-iOS-iPad](../repos/ammaarreshi/Generals-Mac-iOS-iPad.md) | ⭐ 1,640 | 2026-09-28 | Command &amp; Conquer Generals: Zero Hour running natively on macOS, iPhone &amp; iPad — real engine (EA ... |
@@ -68,6 +65,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [hedge-dev/UnleashedRecomp](../repos/hedge-dev/UnleashedRecomp.md) | ⭐ 5,111 | 2026-10-03 | An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of s... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [zeldaret/tww](../repos/zeldaret/tww.md) | ⭐ 1,039 | 2026-10-03 | Decompilation of The Legend of Zelda: The Wind Waker |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [boykopovar/AnyPS5](../repos/boykopovar/AnyPS5.md) | ⭐ 31,495 | 2026-10-06 | Tool for automatic PS5 executables porting to Linux and Windows |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [M-Abozaid/esp32-c3-adblock](../repos/M-Abozaid/esp32-c3-adblock.md) | ⭐ 2,354 | 2026-10-06 | Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in... |
 
 
 ---
@@ -78,11 +84,11 @@
 |------------|-------|------------|---------------|
 | [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,245 | 2026-07-30 | 28 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 132,446 | 2026-08-01 | 33 |
-| [react/react-native](../repos/react/react-native.md) | ⭐ 126,773 | 2026-08-04 | 6 |
+| [react/react-native](../repos/react/react-native.md) | ⭐ 126,803 | 2026-08-04 | 7 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,480 | 2026-08-01 | 6 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 118,967 | 2026-08-01 | 11 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,211 | 2026-08-06 | 8 |
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,441 | 2026-08-02 | 10 |
+| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,523 | 2026-08-02 | 11 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,737 | 2026-08-08 | 17 |
 | [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,568 | 2026-08-12 | 6 |
 | [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,123 | 2026-08-01 | 18 |
@@ -221,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-26T21:01:57.710Z*
+*Last updated: 2026-10-27T21:01:40.509Z*

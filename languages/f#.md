@@ -14,13 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,346 | 2026-08-01 | 43 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [fsprojects/FAKE](../repos/fsprojects/FAKE.md) | ⭐ 1,325 | 2026-10-26 | 1 |
 
+*No F# repositories trending today*
 
 ---
 
@@ -76,4 +71,4 @@
 
 ---
 
-*Last updated: 2026-10-26T21:01:57.737Z*
+*Last updated: 2026-10-27T21:01:40.528Z*

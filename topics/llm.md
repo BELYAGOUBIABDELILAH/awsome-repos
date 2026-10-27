@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 519
+- **Total Repositories**: 521
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
-- **Average Stars**: 21799
+- **Average Stars**: 21774
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,616 | Go |  |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 104,830 | Python |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 103,394 | Python |  |
+| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,681 | Rust |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,374 | C |  |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 35,652 | Go |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,795 | Ruby |  |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,561 | C# |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,600 | Scala |  |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,604 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,325 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,342 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,304 | Lua |  |
+| [Kong/kong](../repos/Kong/kong.md) | ⭐ 44,309 | Lua |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,165 | HTML |  |
+| [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,205 | HTML |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,164 | Vim Script |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,166 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,287 | Nim |  |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,060 | V |  |
 
 
 ---
@@ -73,10 +73,13 @@
 | [golang/go](../repos/golang/go.md) | ⭐ 139,616 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 103,394 | Python | 1 |
+| [Panniantong/Agent-Reach](../repos/Panniantong/Agent-Reach.md) | ⭐ 104,830 | Python | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,528 | Rust | 2 |
+| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,681 | Rust | 1 |
+| Repository | Stars | Language | Days Trending |
+|------------|-------|----------|---------------|
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 35,652 | Go | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 184,741 | Go | 1 |
@@ -85,19 +88,16 @@
 | [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,374 | C | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,367 | C# | 1 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,561 | C# | 1 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,795 | Ruby | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,600 | Scala | 2 |
+| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,604 | Scala | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,325 | Scala | 2 |
-| Repository | Stars | Language | Days Trending |
-|------------|-------|----------|---------------|
-| [MightyPirates/OpenComputers](../repos/MightyPirates/OpenComputers.md) | ⭐ 1,743 | Scala | 6 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,342 | Scala | 3 |
 
 ---
 
@@ -105,13 +105,10 @@
 
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [arkime/arkime](../repos/arkime/arkime.md) | ⭐ 7,509 | C | 2026-09-27 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
 | [cs341-illinois/coursebook](../repos/cs341-illinois/coursebook.md) | ⭐ 3,042 | TeX | 2026-09-28 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
-| [ashhart/TensorFold](../repos/ashhart/TensorFold.md) | ⭐ 1,490 | Zig | 2026-09-28 |
+| [ashhart/TensorFold](../repos/ashhart/TensorFold.md) | ⭐ 1,503 | Zig | 2026-09-28 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [samugit83/redamon](../repos/samugit83/redamon.md) | ⭐ 2,745 | Python | 2026-09-28 |
@@ -133,10 +130,17 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [felinics/Memoh](../repos/felinics/Memoh.md) | ⭐ 2,590 | Go | 2026-09-29 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [actonlang/acton](../repos/actonlang/acton.md) | ⭐ 189 | Haskell | 2026-09-29 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-10-27](../archive/2026/10/2026-10-27.md)
+- 39 repositories trending
+- Top: TauricResearch&#x2F;TradingAgents
 
 ### [2026-10-26](../archive/2026/10/2026-10-26.md)
 - 38 repositories trending
@@ -158,10 +162,6 @@
 - 43 repositories trending
 - Top: ollama&#x2F;ollama
 
-### [2026-10-20](../archive/2026/10/2026-10-20.md)
-- 41 repositories trending
-- Top: Comfy-Org&#x2F;ComfyUI
-
 
 ---
 
@@ -171,12 +171,12 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 70 days | 2026-08-01 | 2026-10-26 |
-| [vlang/v](../repos/vlang/v.md) | 65 days | 2026-08-01 | 2026-10-26 |
-| [joernio/joern](../repos/joernio/joern.md) | 60 days | 2026-08-01 | 2026-10-26 |
-| [vim/vim](../repos/vim/vim.md) | 58 days | 2026-08-01 | 2026-10-26 |
+| [apache/spark](../repos/apache/spark.md) | 71 days | 2026-08-01 | 2026-10-27 |
+| [vlang/v](../repos/vlang/v.md) | 66 days | 2026-08-01 | 2026-10-27 |
+| [joernio/joern](../repos/joernio/joern.md) | 61 days | 2026-08-01 | 2026-10-27 |
+| [vim/vim](../repos/vim/vim.md) | 59 days | 2026-08-01 | 2026-10-27 |
 | [nim-lang/Nim](../repos/nim-lang/Nim.md) | 58 days | 2026-08-01 | 2026-10-26 |
-| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 50 days | 2026-08-04 | 2026-10-25 |
+| [wrf-model/WRF](../repos/wrf-model/WRF.md) | 51 days | 2026-08-04 | 2026-10-27 |
 | [OpenKore/openkore](../repos/OpenKore/openkore.md) | 41 days | 2026-08-01 | 2026-10-25 |
 | [facebook/infer](../repos/facebook/infer.md) | 41 days | 2026-08-02 | 2026-10-25 |
 | [ruby/ruby](../repos/ruby/ruby.md) | 39 days | 2026-08-01 | 2026-10-26 |
@@ -187,14 +187,14 @@
 ## 📊 Statistics
 
 ### Language Breakdown
-- **Python**: 112 repositories (22%)
-- **TypeScript**: 66 repositories (13%)
+- **Python**: 112 repositories (21%)
+- **TypeScript**: 67 repositories (13%)
 - **Go**: 49 repositories (9%)
 - **Rust**: 41 repositories (8%)
 - **C**: 41 repositories (8%)
 
 ### Trending Frequency
-- **Daily Average**: 42.5 repositories
+- **Daily Average**: 42.4 repositories
 - **Peak Day**: 2026-08-19 (64 repositories)
 - **Growth Rate**: 11% this month
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-10-26T21:01:57.354Z*
+*Last updated: 2026-10-27T21:01:40.164Z*

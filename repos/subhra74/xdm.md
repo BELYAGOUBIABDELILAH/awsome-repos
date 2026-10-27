@@ -1,6 +1,6 @@
 # subhra74&#x2F;xdm
 
-> Fast, reliable download accelerator and video downloader, trusted for 13+ years
+> Fast, reliable download accelerator and video downloader since 2013
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;subhra74&#x2F;xdm) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Kotlin |
 | **License** | GPL-3.0 |
-| **Stars** | ⭐ 8,104 |
+| **Stars** | ⭐ 8,121 |
 | **Forks** | 🍴 1,204 |
-| **Trending Days** | 2 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 25, 2026 |
-| **Last Seen** | Oct 26, 2026 |
+| **Last Seen** | Oct 27, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
-- **Longest Streak**: 2 days
+- **Trending Days**: 3
+- **Longest Streak**: 3 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 40&#x2F;100
+- **Trending Score**: 60&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-26T21:02:06.363Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-10-27T21:01:45.685Z*  
+*Data from 3 trending reports*

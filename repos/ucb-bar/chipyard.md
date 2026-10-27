@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Scala |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 2,429 |
-| **Forks** | 🍴 929 |
-| **Trending Days** | 22 |
+| **Stars** | ⭐ 2,438 |
+| **Forks** | 🍴 932 |
+| **Trending Days** | 23 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 3, 2026 |
-| **Last Seen** | Oct 22, 2026 |
+| **Last Seen** | Oct 27, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 22
+- **Trending Days**: 23
 - **Longest Streak**: 3 days
 
 ---
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 2,429+ stars, strong contributor base |
+| **Community** | Very Active | 2,438+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
 | **Maintenance** | Active | Regular updates |
 | **Learning Curve** | Medium | Moderate learning investment |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-26T21:02:02.526Z*  
-*Data from 22 trending reports*
+*Last updated: 2026-10-27T21:01:42.838Z*  
+*Data from 23 trending reports*

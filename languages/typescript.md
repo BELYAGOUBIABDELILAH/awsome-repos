@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 291
+- **Total Repositories**: 294
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Narcooo/inkos](../repos/Narcooo/inkos.md) | ⭐ 10,840 | 2026-08-02 | 2 |
+| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 14,334 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 38,340 | 2026-08-02 | 4 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 54,287 | 2026-08-01 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 137,822 | 2026-08-02 | 15 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 30,797 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CodebuffAI/freebuff](../repos/CodebuffAI/freebuff.md) | ⭐ 13,781 | 2026-08-07 | 5 |
+| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 39,232 | 2026-08-02 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 25,096 | 2026-08-14 | 9 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 137,929 | 2026-08-02 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [calcom/cal.diy](../repos/calcom/cal.diy.md) | ⭐ 49,402 | 2026-08-15 | 4 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 73,855 | 2026-08-08 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ed0ard/CS2-Bot-Improver](../repos/ed0ard/CS2-Bot-Improver.md) | ⭐ 1,313 | 2026-09-05 | 7 |
+| [github/docs](../repos/github/docs.md) | ⭐ 21,138 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [thesysdev/openui](../repos/thesysdev/openui.md) | ⭐ 14,173 | 2026-09-13 | 8 |
+| [remotion-dev/remotion](../repos/remotion-dev/remotion.md) | ⭐ 68,239 | 2026-08-16 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [makecindy/cindy](../repos/makecindy/cindy.md) | ⭐ 6,315 | 2026-10-09 | 3 |
+| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 9,702 | 2026-08-26 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ranxianglei/billion-context](../repos/ranxianglei/billion-context.md) | ⭐ 2,953 | 2026-10-12 | 5 |
+| [pablostanley/yoinks](../repos/pablostanley/yoinks.md) | ⭐ 6,360 | 2026-10-01 | 4 |
 
 
 ---
@@ -52,25 +52,13 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [vercel-labs/scriptc](../repos/vercel-labs/scriptc.md) | ⭐ 6,225 | 2026-09-27 | TypeScript-to-Native Compiler |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mobile-next/mobile-mcp](../repos/mobile-next/mobile-mcp.md) | ⭐ 8,403 | 2026-09-27 | Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simula... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SinaXhpm/Submarine](../repos/SinaXhpm/Submarine.md) | ⭐ 366 | 2026-09-27 | Modern SSH &amp; SFTP client — terminal, SFTP, port forwarding, folder mirror, encrypted sync. Window... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [freemocap/freemocap](../repos/freemocap/freemocap.md) | ⭐ 10,329 | 2026-09-27 | Free Motion Capture for Everyone 💀✨ |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [cloudflare/vinext](../repos/cloudflare/vinext.md) | ⭐ 9,057 | 2026-09-29 | Vite plugin that reimplements the Next.js API surface — deploy anywhere |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [OpenCTI-Platform/opencti](../repos/OpenCTI-Platform/opencti.md) | ⭐ 10,067 | 2026-09-29 | Open Cyber Threat Intelligence Platform |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [pablostanley/yoinks](../repos/pablostanley/yoinks.md) | ⭐ 3,805 | 2026-10-01 | yoink any video from your terminal. no shady ads. |
+| [pablostanley/yoinks](../repos/pablostanley/yoinks.md) | ⭐ 6,360 | 2026-10-01 | yoink any video from your terminal. no shady ads. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nyakang/nyaterm](../repos/nyakang/nyaterm.md) | ⭐ 1,722 | 2026-10-01 | A modern remote terminal workspace |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Effect-TS/effect](../repos/Effect-TS/effect.md) | ⭐ 16,783 | 2026-10-02 | Build production-ready applications in TypeScript |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mrifqidaffaaditya/WA-AKG](../repos/mrifqidaffaaditya/WA-AKG.md) | ⭐ 489 | 2026-10-02 | A self-hosted WhatsApp Gateway &amp; Dashboard built with Next.js 15, Baileys, and Prisma. Manage mul... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hicccc77/WeFlow](../repos/hicccc77/WeFlow.md) | ⭐ 14,649 | 2026-10-02 | WeFlow - 一个本地的微信聊天记录导出和年度报告应用 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [LuxAlgo/Vela](../repos/LuxAlgo/Vela.md) | ⭐ 645 | 2026-10-02 | Fast and modern interactive financial charts with their own native renderer powered by WebGL2 or ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [getsentry/toolkit](../repos/getsentry/toolkit.md) | ⭐ 909 | 2026-10-03 | Agentic tooling for Sentry |
 
 
 ---
@@ -96,7 +96,7 @@
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | ⭐ 152,634 | 2026-08-07 | 20 |
 | [iptv-org/iptv](../repos/iptv-org/iptv.md) | ⭐ 141,850 | 2026-08-02 | 8 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 137,822 | 2026-08-02 | 15 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 137,929 | 2026-08-02 | 16 |
 | [shadcn-ui/ui](../repos/shadcn-ui/ui.md) | ⭐ 123,301 | 2026-07-31 | 3 |
 | [earendil-works/pi](../repos/earendil-works/pi.md) | ⭐ 116,129 | 2026-08-07 | 12 |
 | [immich-app/immich](../repos/immich-app/immich.md) | ⭐ 114,136 | 2026-08-17 | 3 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [cursor/plugins](../repos/cursor/plugins.md) | 23 | ⭐ 13,024 | 2026-08-01 | 2026-10-19 |
+| [cursor/plugins](../repos/cursor/plugins.md) | 24 | ⭐ 14,334 | 2026-08-01 | 2026-10-27 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 23 | ⭐ 103,697 | 2026-08-11 | 2026-10-23 |
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 21 | ⭐ 65,234 | 2026-08-08 | 2026-10-16 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 22 | ⭐ 73,855 | 2026-08-08 | 2026-10-27 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 20 | ⭐ 152,634 | 2026-08-07 | 2026-10-20 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 19 | ⭐ 41,516 | 2026-08-07 | 2026-10-25 |
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 15 | ⭐ 29,418 | 2026-08-01 | 2026-10-22 |
-| [garrytan/gstack](../repos/garrytan/gstack.md) | 15 | ⭐ 137,822 | 2026-08-02 | 2026-10-26 |
+| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 16 | ⭐ 30,797 | 2026-08-01 | 2026-10-27 |
+| [garrytan/gstack](../repos/garrytan/gstack.md) | 16 | ⭐ 137,929 | 2026-08-02 | 2026-10-27 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 12 | ⭐ 53,536 | 2026-08-01 | 2026-10-14 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 13 | ⭐ 54,287 | 2026-08-01 | 2026-10-27 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-26T21:01:57.826Z*
+*Last updated: 2026-10-27T21:01:40.594Z*

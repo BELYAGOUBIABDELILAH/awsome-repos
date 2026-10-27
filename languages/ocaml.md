@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 23
+- **Total Repositories**: 24
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-25
 
@@ -16,28 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,243 | 2026-08-01 | 60 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,250 | 2026-08-01 | 61 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,634 | 2026-08-01 | 37 |
+| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,933 | 2026-08-01 | 40 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,933 | 2026-08-01 | 39 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,609 | 2026-08-01 | 57 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,609 | 2026-08-01 | 56 |
+| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,554 | 2026-08-07 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,319 | 2026-08-05 | 9 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,554 | 2026-08-07 | 27 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [savonet/liquidsoap](../repos/savonet/liquidsoap.md) | ⭐ 1,737 | 2026-08-10 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [rescript-lang/rescript](../repos/rescript-lang/rescript.md) | ⭐ 7,468 | 2026-10-03 | 5 |
+| [semgrep/semgrep-interfaces](../repos/semgrep/semgrep-interfaces.md) | ⭐ 20 | 2026-10-27 | 1 |
 
 
 ---
@@ -50,6 +41,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mirage/mirage](../repos/mirage/mirage.md) | ⭐ 3,006 | 2026-10-07 | MirageOS is a library operating system that constructs unikernels |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [semgrep/semgrep-interfaces](../repos/semgrep/semgrep-interfaces.md) | ⭐ 20 | 2026-10-27 | Store the ATD&#x2F;openapi&#x2F;protobuf&#x2F;... interfaces between semgrep components |
 
 
 ---
@@ -61,15 +55,15 @@
 | [facebook/infer](../repos/facebook/infer.md) | ⭐ 15,728 | 2026-08-02 | 41 |
 | [rescript-lang/rescript](../repos/rescript-lang/rescript.md) | ⭐ 7,468 | 2026-10-03 | 5 |
 | [facebook/pyre-check](../repos/facebook/pyre-check.md) | ⭐ 7,177 | 2026-09-02 | 3 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,609 | 2026-08-01 | 56 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | ⭐ 6,609 | 2026-08-01 | 57 |
 | [janestreet/magic-trace](../repos/janestreet/magic-trace.md) | ⭐ 6,319 | 2026-08-05 | 9 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | ⭐ 5,634 | 2026-08-01 | 37 |
-| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,554 | 2026-08-07 | 27 |
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,243 | 2026-08-01 | 60 |
+| [bcpierce00/unison](../repos/bcpierce00/unison.md) | ⭐ 5,554 | 2026-08-07 | 28 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | ⭐ 3,250 | 2026-08-01 | 61 |
 | [mirage/mirage](../repos/mirage/mirage.md) | ⭐ 3,006 | 2026-10-07 | 1 |
 | [CatalaLang/catala](../repos/CatalaLang/catala.md) | ⭐ 2,418 | 2026-08-02 | 4 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | ⭐ 2,128 | 2026-08-01 | 31 |
-| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,933 | 2026-08-01 | 39 |
+| [ocaml/dune](../repos/ocaml/dune.md) | ⭐ 1,933 | 2026-08-01 | 40 |
 | [savonet/liquidsoap](../repos/savonet/liquidsoap.md) | ⭐ 1,737 | 2026-08-10 | 3 |
 | [ocaml/opam](../repos/ocaml/opam.md) | ⭐ 1,385 | 2026-08-01 | 20 |
 | [janestreet/bonsai](../repos/janestreet/bonsai.md) | ⭐ 1,381 | 2026-08-05 | 3 |
@@ -85,14 +79,14 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 60 | ⭐ 3,243 | 2026-08-01 | 2026-10-26 |
-| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 56 | ⭐ 6,609 | 2026-08-01 | 2026-10-26 |
+| [opengrep/opengrep](../repos/opengrep/opengrep.md) | 61 | ⭐ 3,250 | 2026-08-01 | 2026-10-27 |
+| [ocaml/ocaml](../repos/ocaml/ocaml.md) | 57 | ⭐ 6,609 | 2026-08-01 | 2026-10-27 |
 | [facebook/infer](../repos/facebook/infer.md) | 41 | ⭐ 15,728 | 2026-08-02 | 2026-10-25 |
-| [ocaml/dune](../repos/ocaml/dune.md) | 39 | ⭐ 1,933 | 2026-08-01 | 2026-10-26 |
+| [ocaml/dune](../repos/ocaml/dune.md) | 40 | ⭐ 1,933 | 2026-08-01 | 2026-10-27 |
 | [AeneasVerif/aeneas](../repos/AeneasVerif/aeneas.md) | 38 | ⭐ 1,093 | 2026-08-01 | 2026-10-23 |
 | [rocq-prover/rocq](../repos/rocq-prover/rocq.md) | 37 | ⭐ 5,634 | 2026-08-01 | 2026-10-26 |
 | [MinaProtocol/mina](../repos/MinaProtocol/mina.md) | 31 | ⭐ 2,128 | 2026-08-01 | 2026-10-22 |
-| [bcpierce00/unison](../repos/bcpierce00/unison.md) | 27 | ⭐ 5,554 | 2026-08-07 | 2026-10-26 |
+| [bcpierce00/unison](../repos/bcpierce00/unison.md) | 28 | ⭐ 5,554 | 2026-08-07 | 2026-10-27 |
 | [semgrep/ocaml-tree-sitter-core](../repos/semgrep/ocaml-tree-sitter-core.md) | 24 | ⭐ 59 | 2026-08-01 | 2026-08-29 |
 | [ocaml/opam](../repos/ocaml/opam.md) | 20 | ⭐ 1,385 | 2026-08-01 | 2026-10-25 |
 
@@ -123,7 +117,8 @@
 - [xapi-project/xen-api](../repos/xapi-project/xen-api.md) - The Xapi Project&#39;s XenAPI Server
 - [rescript-lang/rescript](../repos/rescript-lang/rescript.md) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 - [mirage/mirage](../repos/mirage/mirage.md) - MirageOS is a library operating system that constructs unikernels
+- [semgrep/semgrep-interfaces](../repos/semgrep/semgrep-interfaces.md) - Store the ATD&#x2F;openapi&#x2F;protobuf&#x2F;... interfaces between semgrep components
 
 ---
 
-*Last updated: 2026-10-26T21:01:57.779Z*
+*Last updated: 2026-10-27T21:01:40.562Z*

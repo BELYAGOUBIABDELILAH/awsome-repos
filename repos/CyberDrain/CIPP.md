@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | PowerShell |
 | **License** | AGPL-3.0 |
-| **Stars** | ⭐ 85 |
-| **Forks** | 🍴 96 |
-| **Trending Days** | 3 |
+| **Stars** | ⭐ 96 |
+| **Forks** | 🍴 106 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 22, 2026 |
-| **Last Seen** | Oct 14, 2026 |
+| **Last Seen** | Oct 27, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
+- **Trending Days**: 4
 - **Longest Streak**: 1 days
 
 ---
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 85+ stars, strong contributor base |
+| **Community** | Very Active | 96+ stars, strong contributor base |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✗ No
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 65&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-26T21:02:05.609Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-10-27T21:01:45.139Z*  
+*Data from 4 trending reports*

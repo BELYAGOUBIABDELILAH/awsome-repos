@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 5
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-26
+- **Last Updated**: 2026-10-27
 
 ---
 
@@ -16,10 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,057 | 2026-08-01 | 65 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,060 | 2026-08-01 | 66 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,699 | 2026-09-09 | 23 |
+| [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,701 | 2026-09-09 | 24 |
 
 
 ---
@@ -40,8 +40,8 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,057 | 2026-08-01 | 65 |
-| [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,699 | 2026-09-09 | 23 |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,060 | 2026-08-01 | 66 |
+| [vlang/vinix](../repos/vlang/vinix.md) | ⭐ 2,701 | 2026-09-09 | 24 |
 | [vlang/vsl](../repos/vlang/vsl.md) | ⭐ 404 | 2026-10-15 | 2 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | ⭐ 206 | 2026-08-09 | 2 |
 | [vlang/vtl](../repos/vlang/vtl.md) | ⭐ 171 | 2026-10-12 | 1 |
@@ -52,8 +52,8 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [vlang/v](../repos/vlang/v.md) | 65 | ⭐ 38,057 | 2026-08-01 | 2026-10-26 |
-| [vlang/vinix](../repos/vlang/vinix.md) | 23 | ⭐ 2,699 | 2026-09-09 | 2026-10-26 |
+| [vlang/v](../repos/vlang/v.md) | 66 | ⭐ 38,060 | 2026-08-01 | 2026-10-27 |
+| [vlang/vinix](../repos/vlang/vinix.md) | 24 | ⭐ 2,701 | 2026-09-09 | 2026-10-27 |
 | [vlang/v-analyzer](../repos/vlang/v-analyzer.md) | 2 | ⭐ 206 | 2026-08-09 | 2026-08-11 |
 | [vlang/vsl](../repos/vlang/vsl.md) | 2 | ⭐ 404 | 2026-10-15 | 2026-10-16 |
 | [vlang/vtl](../repos/vlang/vtl.md) | 1 | ⭐ 171 | 2026-10-12 | 2026-10-12 |
@@ -70,4 +70,4 @@
 
 ---
 
-*Last updated: 2026-10-26T21:01:57.828Z*
+*Last updated: 2026-10-27T21:01:40.595Z*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 319
+- **Total Repositories**: 320
 - **First Seen**: 2026-07-31
 - **Last Updated**: 2026-10-25
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [golang/go](../repos/golang/go.md) | ⭐ 139,616 | 2026-07-31 | 17 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 54,002 | 2026-08-01 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gohugoio/hugo](../repos/gohugoio/hugo.md) | ⭐ 90,245 | 2026-08-03 | 4 |
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 35,652 | 2026-08-01 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YouROK/TorrServer](../repos/YouROK/TorrServer.md) | ⭐ 3,161 | 2026-08-06 | 3 |
+| [moby/moby](../repos/moby/moby.md) | ⭐ 72,214 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/gh-aw](../repos/github/gh-aw.md) | ⭐ 5,475 | 2026-08-10 | 9 |
+| [wailsapp/wails](../repos/wailsapp/wails.md) | ⭐ 36,765 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kedacore/keda](../repos/kedacore/keda.md) | ⭐ 10,670 | 2026-08-14 | 4 |
+| [rorkai/App-Store-Connect-CLI](../repos/rorkai/App-Store-Connect-CLI.md) | ⭐ 8,063 | 2026-08-09 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Gaurav-Gosain/tuios](../repos/Gaurav-Gosain/tuios.md) | ⭐ 6,099 | 2026-08-19 | 5 |
+| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 20,939 | 2026-08-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kunchenguid/no-mistakes](../repos/kunchenguid/no-mistakes.md) | ⭐ 8,976 | 2026-09-01 | 4 |
+| [Gaurav-Gosain/tuios](../repos/Gaurav-Gosain/tuios.md) | ⭐ 6,145 | 2026-08-19 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cockroachdb/cockroach](../repos/cockroachdb/cockroach.md) | ⭐ 32,585 | 2026-09-27 | 2 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 48,578 | 2026-08-20 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [slavakurilyak/awesome-ai-agents](../repos/slavakurilyak/awesome-ai-agents.md) | ⭐ 2,723 | 2026-10-06 | 3 |
+| [open-telemetry/opentelemetry-collector](../repos/open-telemetry/opentelemetry-collector.md) | ⭐ 7,709 | 2026-08-22 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [go-git/go-git](../repos/go-git/go-git.md) | ⭐ 7,830 | 2026-10-26 | 1 |
+| [grafana/mcp-grafana](../repos/grafana/mcp-grafana.md) | ⭐ 3,616 | 2026-08-26 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [git-bug/git-bug](../repos/git-bug/git-bug.md) | ⭐ 10,608 | 2026-09-27 | Distributed, offline-first bug tracker integrated in git |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [daeuniverse/dae](../repos/daeuniverse/dae.md) | ⭐ 6,255 | 2026-09-27 | eBPF-based Linux high-performance transparent proxy solution. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cockroachdb/cockroach](../repos/cockroachdb/cockroach.md) | ⭐ 32,585 | 2026-09-27 | CockroachDB — the cloud native, distributed SQL database designed for high availability, effortle... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Billionmail/BillionMail](../repos/Billionmail/BillionMail.md) | ⭐ 15,763 | 2026-09-27 | BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, d... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [londek/ipadecrypt](../repos/londek/ipadecrypt.md) | ⭐ 606 | 2026-09-28 | 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa&#39;s with minimal... |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [felinics/Memoh](../repos/felinics/Memoh.md) | ⭐ 2,590 | 2026-09-29 | ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [hashicorp/hcl](../repos/hashicorp/hcl.md) | ⭐ 5,809 | 2026-10-01 | HCL is the HashiCorp configuration language. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Autumn-27/ARTEX](../repos/Autumn-27/ARTEX.md) | ⭐ 1,940 | 2026-10-03 | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [open-telemetry/opentelemetry-go](../repos/open-telemetry/opentelemetry-go.md) | ⭐ 6,583 | 2026-10-03 | OpenTelemetry Go API and SDK |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [distribution/distribution](../repos/distribution/distribution.md) | ⭐ 10,642 | 2026-10-03 | The toolkit to pack, ship, store, and deliver container content |
 
 
 ---
@@ -97,12 +97,12 @@
 | [gin-gonic/gin](../repos/gin-gonic/gin.md) | ⭐ 89,404 | 2026-08-05 | 4 |
 | [netdata/netdata](../repos/netdata/netdata.md) | ⭐ 81,063 | 2026-08-12 | 8 |
 | [caddyserver/caddy](../repos/caddyserver/caddy.md) | ⭐ 77,476 | 2026-08-03 | 8 |
-| [moby/moby](../repos/moby/moby.md) | ⭐ 72,207 | 2026-08-04 | 5 |
+| [moby/moby](../repos/moby/moby.md) | ⭐ 72,214 | 2026-08-04 | 6 |
 | [nektos/act](../repos/nektos/act.md) | ⭐ 71,966 | 2026-08-07 | 2 |
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,720 | 2026-08-11 | 6 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 53,668 | 2026-08-01 | 21 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 54,002 | 2026-08-01 | 22 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,401 | 2026-08-22 | 5 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 50,580 | 2026-08-01 | 21 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 25 | ⭐ 35,652 | 2026-08-01 | 2026-10-27 |
 | [ollama/ollama](../repos/ollama/ollama.md) | 25 | ⭐ 184,741 | 2026-08-01 | 2026-10-25 |
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 24 | ⭐ 34,389 | 2026-08-01 | 2026-10-16 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 22 | ⭐ 54,002 | 2026-08-01 | 2026-10-27 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 21 | ⭐ 50,580 | 2026-08-01 | 2026-10-23 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 21 | ⭐ 53,668 | 2026-08-01 | 2026-10-23 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 21 | ⭐ 38,671 | 2026-08-01 | 2026-10-23 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 19 | ⭐ 44,261 | 2026-08-07 | 2026-10-17 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 18 | ⭐ 5,489 | 2026-08-02 | 2026-10-18 |
 | [golang/go](../repos/golang/go.md) | 17 | ⭐ 139,616 | 2026-07-31 | 2026-10-26 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 17 | ⭐ 880 | 2026-08-01 | 2026-10-21 |
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 15 | ⭐ 48,056 | 2026-08-20 | 2026-10-22 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 16 | ⭐ 48,578 | 2026-08-20 | 2026-10-27 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-26T21:01:57.742Z*
+*Last updated: 2026-10-27T21:01:40.535Z*

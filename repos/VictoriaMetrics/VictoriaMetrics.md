@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 17,639 |
-| **Forks** | 🍴 1,730 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 17,919 |
+| **Forks** | 🍴 1,784 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Sep 2, 2026 |
-| **Last Seen** | Sep 2, 2026 |
+| **Last Seen** | Oct 27, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`database`](../../topics/database.md) [`grafana`](../../topics/grafana.md) [`graphite`](../../topics/graphite.md) [`influxdb`](../../topics/influxdb.md) [`kubernetes`](../../topics/kubernetes.md) [`monitoring`](../../topics/monitoring.md) [`observability`](../../topics/observability.md) [`opentelemetry`](../../topics/opentelemetry.md) [`opentsdb`](../../topics/opentsdb.md) [`prometheus`](../../topics/prometheus.md) [`promql`](../../topics/promql.md) [`thanos`](../../topics/thanos.md) [`tsdb`](../../topics/tsdb.md) 
+[`database`](../../topics/database.md) [`grafana`](../../topics/grafana.md) [`graphite`](../../topics/graphite.md) [`influxdb`](../../topics/influxdb.md) [`kubernetes`](../../topics/kubernetes.md) [`metrics`](../../topics/metrics.md) [`monitoring`](../../topics/monitoring.md) [`observability`](../../topics/observability.md) [`opentelemetry`](../../topics/opentelemetry.md) [`opentsdb`](../../topics/opentsdb.md) [`otlp`](../../topics/otlp.md) [`prometheus`](../../topics/prometheus.md) [`promql`](../../topics/promql.md) [`thanos`](../../topics/thanos.md) [`tsdb`](../../topics/tsdb.md) 
 
 ### Curated Categories
 `Containers &amp; Orchestration` `Databases` `Systems Programming` 
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-26T21:02:04.916Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-27T21:01:44.594Z*  
+*Data from 2 trending reports*

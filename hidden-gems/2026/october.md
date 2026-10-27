@@ -7,7 +7,7 @@
 ## October 2026
 
 **Period**: 2026-10-01 to 2026-10-28  
-**Gems Found**: 604
+**Gems Found**: 616
 
 ---
 
@@ -177,13 +177,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,799 |
+| ⭐ **Stars** | 5,826 |
 | 💻 **Language** | HTML |
 | 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 15 |
+| 📈 **Trending Days** | 16 |
 | 📅 **First Seen** | Aug 11, 2026 |
 
-**Why it's a gem**: High growth velocity (+94 stars&#x2F;day) • Trending 15 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+90 stars&#x2F;day) • Trending 16 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -217,13 +217,13 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6,099 |
+| ⭐ **Stars** | 6,145 |
 | 💻 **Language** | Go |
 | 🏆 **Gem Score** | 94/100 |
-| 📈 **Trending Days** | 5 |
+| 📈 **Trending Days** | 6 |
 | 📅 **First Seen** | Aug 19, 2026 |
 
-**Why it's a gem**: High growth velocity (+151 stars&#x2F;day) • Trending 5 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+134 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
 
 **Best for**: 
 
@@ -231,7 +231,27 @@
 
 ---
 
-### 12. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
+### 12. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
+
+**OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6,379 |
+| 💻 **Language** | Python |
+| 🏆 **Gem Score** | 94/100 |
+| 📈 **Trending Days** | 7 |
+| 📅 **First Seen** | Sep 22, 2026 |
+
+**Why it's a gem**: High growth velocity (+365 stars&#x2F;day) • Trending 7 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/superdesigndev/treg.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superdesigndev&#x2F;treg)
+
+---
+
+### 13. [androoAGI&#x2F;starnet](../../repos/androoAGI/starnet.md)
 
 **A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.**
 
@@ -248,26 +268,6 @@
 **Best for**: 
 
 [View Passport](../../repos/androoAGI/starnet.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;androoAGI&#x2F;starnet)
-
----
-
-### 13. [apache&#x2F;maka](../../repos/apache/maka.md)
-
-**Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 5,811 |
-| 💻 **Language** | TypeScript |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 9 |
-| 📅 **First Seen** | Aug 20, 2026 |
-
-**Why it's a gem**: High growth velocity (+363 stars&#x2F;day) • Trending 9 times • Very active development • Strong community engagement
-
-**Best for**: 
-
-[View Passport](../../repos/apache/maka.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;apache&#x2F;maka)
 
 ---
 
@@ -311,23 +311,23 @@
 
 ---
 
-### 16. [superdesigndev&#x2F;treg](../../repos/superdesigndev/treg.md)
+### 16. [apache&#x2F;maka](../../repos/apache/maka.md)
 
-**OpenRouter for agent tools. Join community here: https:&#x2F;&#x2F;discord.gg&#x2F;6mQYYfFMAn**
+**Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.**
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5,749 |
-| 💻 **Language** | Python |
-| 🏆 **Gem Score** | 93/100 |
-| 📈 **Trending Days** | 6 |
-| 📅 **First Seen** | Sep 22, 2026 |
+| ⭐ **Stars** | 5,811 |
+| 💻 **Language** | TypeScript |
+| 🏆 **Gem Score** | 92/100 |
+| 📈 **Trending Days** | 9 |
+| 📅 **First Seen** | Aug 20, 2026 |
 
-**Why it's a gem**: High growth velocity (+382 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
+**Why it's a gem**: High growth velocity (+363 stars&#x2F;day) • Trending 9 times • Very active development • Strong community engagement
 
 **Best for**: 
 
-[View Passport](../../repos/superdesigndev/treg.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;superdesigndev&#x2F;treg)
+[View Passport](../../repos/apache/maka.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;apache&#x2F;maka)
 
 ---
 
@@ -351,27 +351,7 @@
 
 ---
 
-### 18. [ashhart&#x2F;TensorFold](../../repos/ashhart/TensorFold.md)
-
-**LLM Inference Engine for Metal, CUDA and Vulkan.**
-
-| | |
-|---|---|
-| ⭐ **Stars** | 1,490 |
-| 💻 **Language** | Zig |
-| 🏆 **Gem Score** | 92/100 |
-| 📈 **Trending Days** | 12 |
-| 📅 **First Seen** | Sep 28, 2026 |
-
-**Why it's a gem**: High growth velocity (+37 stars&#x2F;day) • Trending 12 times • Very active development • Strong community engagement • Underrated project
-
-**Best for**: 
-
-[View Passport](../../repos/ashhart/TensorFold.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;ashhart&#x2F;TensorFold)
-
----
-
-### 19. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
+### 18. [superplanehq&#x2F;superplane](../../repos/superplanehq/superplane.md)
 
 **Open source factory for one-shot engineering**
 
@@ -391,7 +371,7 @@
 
 ---
 
-### 20. [uber&#x2F;ADR](../../repos/uber/ADR.md)
+### 19. [uber&#x2F;ADR](../../repos/uber/ADR.md)
 
 **ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.**
 
@@ -411,6 +391,26 @@
 
 ---
 
+### 20. [chenyme&#x2F;grok2api](../../repos/chenyme/grok2api.md)
+
+**Multi-account API gateway for Grok Build, Grok Web, and Grok Console**
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7,848 |
+| 💻 **Language** | Go |
+| 🏆 **Gem Score** | 91/100 |
+| 📈 **Trending Days** | 6 |
+| 📅 **First Seen** | Aug 6, 2026 |
+
+**Why it's a gem**: High growth velocity (+59 stars&#x2F;day) • Trending 6 times • Very active development • Strong community engagement
+
+**Best for**: 
+
+[View Passport](../../repos/chenyme/grok2api.md) • [GitHub](https:&#x2F;&#x2F;github.com&#x2F;chenyme&#x2F;grok2api)
+
+---
+
 
 ## Scoring Methodology
 
@@ -427,5 +427,5 @@ Hidden Gems are identified using a weighted scoring algorithm:
 
 ---
 
-*Generated: 2026-10-26T21:02:06.702Z*  
+*Generated: 2026-10-27T21:01:45.944Z*  
 *Configuration: [hidden-gems.json](../../config/hidden-gems.json)*

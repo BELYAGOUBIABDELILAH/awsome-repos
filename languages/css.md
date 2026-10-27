@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 77
+- **Total Repositories**: 78
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-26
+- **Last Updated**: 2026-10-27
 
 ---
 
@@ -16,19 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,473 | 2026-08-01 | 54 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,471 | 2026-08-01 | 55 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 35,966 | 2026-08-02 | 37 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 38,784 | 2026-08-02 | 38 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,922 | 2026-08-06 | 24 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,927 | 2026-08-06 | 25 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SillyTavern/SillyTavern-Docs](../repos/SillyTavern/SillyTavern-Docs.md) | ⭐ 179 | 2026-09-08 | 2 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 6,563 | 2026-08-10 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jerrykuku/luci-theme-argon](../repos/jerrykuku/luci-theme-argon.md) | ⭐ 5,554 | 2026-10-17 | 4 |
+| [themesberg/flowbite-svelte](../repos/themesberg/flowbite-svelte.md) | ⭐ 2,791 | 2026-10-27 | 1 |
 
 
 ---
@@ -73,10 +73,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,922 | 2026-08-06 | 24 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,927 | 2026-08-06 | 25 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,503 | 2026-08-01 | 13 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,384 | 2026-08-04 | 29 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 35,966 | 2026-08-02 | 37 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 38,784 | 2026-08-02 | 38 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
@@ -100,15 +100,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 54 | ⭐ 1,473 | 2026-08-01 | 2026-10-26 |
+| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 55 | ⭐ 1,471 | 2026-08-01 | 2026-10-27 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 38 | ⭐ 38,784 | 2026-08-02 | 2026-10-27 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 37 | ⭐ 920 | 2026-08-01 | 2026-10-19 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 37 | ⭐ 35,966 | 2026-08-02 | 2026-10-26 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 29 | ⭐ 1,431 | 2026-08-01 | 2026-10-22 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 29 | ⭐ 45,384 | 2026-08-04 | 2026-10-23 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 28 | ⭐ 13,213 | 2026-08-02 | 2026-10-23 |
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 24 | ⭐ 82,922 | 2026-08-06 | 2026-10-26 |
+| [animate-css/animate.css](../repos/animate-css/animate.css.md) | 25 | ⭐ 82,927 | 2026-08-06 | 2026-10-27 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 24 | ⭐ 6,563 | 2026-08-10 | 2026-10-27 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 23 | ⭐ 12,511 | 2026-08-01 | 2026-10-09 |
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 23 | ⭐ 6,327 | 2026-08-10 | 2026-10-22 |
 | [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 20 | ⭐ 9,597 | 2026-08-05 | 2026-10-23 |
 
 ---
@@ -192,7 +192,8 @@
 - [jerrykuku/luci-theme-argon](../repos/jerrykuku/luci-theme-argon.md) - Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface...
 - [prakhar1989/docker-curriculum](../repos/prakhar1989/docker-curriculum.md) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [wso2/docs-is](../repos/wso2/docs-is.md) - 
+- [themesberg/flowbite-svelte](../repos/themesberg/flowbite-svelte.md) - Official Svelte components built for Flowbite and Tailwind CSS
 
 ---
 
-*Last updated: 2026-10-26T21:01:57.712Z*
+*Last updated: 2026-10-27T21:01:40.511Z*

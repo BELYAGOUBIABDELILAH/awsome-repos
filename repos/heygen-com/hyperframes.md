@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | TypeScript |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 65,234 |
-| **Forks** | 🍴 5,880 |
-| **Trending Days** | 21 |
+| **Stars** | ⭐ 73,855 |
+| **Forks** | 🍴 6,699 |
+| **Trending Days** | 22 |
 | **Peak Rank** | #1 |
 
 | **First Seen** | Aug 8, 2026 |
-| **Last Seen** | Oct 16, 2026 |
+| **Last Seen** | Oct 27, 2026 |
 
 
 ---
@@ -51,7 +51,7 @@
 ### Highlights
 
 - **Peak Rank**: #1
-- **Trending Days**: 21
+- **Trending Days**: 22
 - **Longest Streak**: 5 days
 
 ---
@@ -59,10 +59,10 @@
 ## Categories
 
 ### Topics
-[`ai`](../../topics/ai.md) [`animation`](../../topics/animation.md) [`ffmpeg`](../../topics/ffmpeg.md) [`framework`](../../topics/framework.md) [`gsap`](../../topics/gsap.md) [`html`](../../topics/html.md) [`mcp`](../../topics/mcp.md) [`puppeteer`](../../topics/puppeteer.md) [`rendering`](../../topics/rendering.md) [`typescript`](../../topics/typescript.md) [`video`](../../topics/video.md) 
+[`ai`](../../topics/ai.md) [`ai-agents`](../../topics/ai-agents.md) [`animation`](../../topics/animation.md) [`claude-code`](../../topics/claude-code.md) [`ffmpeg`](../../topics/ffmpeg.md) [`framework`](../../topics/framework.md) [`gsap`](../../topics/gsap.md) [`html`](../../topics/html.md) [`html-to-video`](../../topics/html-to-video.md) [`mcp`](../../topics/mcp.md) [`motion-graphics`](../../topics/motion-graphics.md) [`puppeteer`](../../topics/puppeteer.md) [`rendering`](../../topics/rendering.md) [`typescript`](../../topics/typescript.md) [`video-editor`](../../topics/video-editor.md) 
 
 ### Curated Categories
-`Artificial Intelligence` `Frontend Development` `Systems Programming` `Developer Tools` 
+`Artificial Intelligence` `Large Language Models` `Frontend Development` `Game Development` `Systems Programming` `Developer Tools` 
 
 ---
 
@@ -76,7 +76,7 @@
 | **Documentation** | Good | Well-maintained documentation |
 | **Community** | Active | Regular contributions and discussions |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
 
 #### Use Cases
@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-10-26T21:02:03.340Z*  
-*Data from 21 trending reports*
+*Last updated: 2026-10-27T21:01:43.438Z*  
+*Data from 22 trending reports*
