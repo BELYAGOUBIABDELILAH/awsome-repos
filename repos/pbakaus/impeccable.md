@@ -1,6 +1,6 @@
 # pbakaus&#x2F;impeccable
 
-> The design language that makes your AI harness better at design.
+> The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;pbakaus&#x2F;impeccable) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 90,367 |
-| **Forks** | 🍴 5,371 |
-| **Trending Days** | 26 |
+| **Stars** | ⭐ 92,397 |
+| **Forks** | 🍴 5,460 |
+| **Trending Days** | 27 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Aug 5, 2026 |
-| **Last Seen** | Oct 27, 2026 |
+| **Last Seen** | Oct 28, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Rust or similar-topics*
+*Similar: Check repositories in Rust or agent-skills*
 
 ---
 
@@ -51,11 +51,12 @@
 **Oct 25, 2026** — Rank #4 (+1113 ⭐)  
 **Oct 26, 2026** — Rank #6 (+1551 ⭐)  
 **Oct 27, 2026** — Rank #5 (+1458 ⭐)  
+**Oct 28, 2026** — Rank #7 (+1471 ⭐)  
 
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 26
+- **Trending Days**: 27
 - **Longest Streak**: 5 days
 
 ---
@@ -63,10 +64,10 @@
 ## Categories
 
 ### Topics
-
+[`agent-skills`](../../topics/agent-skills.md) [`ai`](../../topics/ai.md) [`anti-slop`](../../topics/anti-slop.md) [`design`](../../topics/design.md) [`slop`](../../topics/slop.md) 
 
 ### Curated Categories
-`General` 
+`Artificial Intelligence` 
 
 ---
 
@@ -99,5 +100,5 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:43.094Z*  
-*Data from 26 trending reports*
+*Last updated: 2026-10-28T21:02:03.569Z*  
+*Data from 27 trending reports*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 288
+- **Total Repositories**: 291
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-25
+- **Last Updated**: 2026-10-28
 
 ---
 
@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,523 | 2026-08-02 | 11 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,278 | 2026-07-30 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [react/react-native](../repos/react/react-native.md) | ⭐ 126,803 | 2026-08-04 | 7 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,137 | 2026-08-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [argotorg/solidity](../repos/argotorg/solidity.md) | ⭐ 25,761 | 2026-08-04 | 6 |
+| [google/googletest](../repos/google/googletest.md) | ⭐ 39,677 | 2026-08-04 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MariaDB/server](../repos/MariaDB/server.md) | ⭐ 8,462 | 2026-08-05 | 5 |
+| [wazuh/wazuh](../repos/wazuh/wazuh.md) | ⭐ 17,478 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openvinotoolkit/openvino](../repos/openvinotoolkit/openvino.md) | ⭐ 11,079 | 2026-08-07 | 7 |
+| [colmap/colmap](../repos/colmap/colmap.md) | ⭐ 13,089 | 2026-08-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/arrow](../repos/apache/arrow.md) | ⭐ 17,236 | 2026-08-12 | 6 |
+| [google/perfetto](../repos/google/perfetto.md) | ⭐ 6,712 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossrs/srs](../repos/ossrs/srs.md) | ⭐ 29,379 | 2026-08-14 | 4 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,272 | 2026-08-09 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [isl-org/Open3D](../repos/isl-org/Open3D.md) | ⭐ 14,128 | 2026-10-27 | 1 |
+| [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 77,216 | 2026-08-12 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [kvcache-ai/Mooncake](../repos/kvcache-ai/Mooncake.md) | ⭐ 6,908 | 2026-08-15 | 7 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [RxNaison/Epson-Waste-Reset](../repos/RxNaison/Epson-Waste-Reset.md) | ⭐ 429 | 2026-08-23 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ammaarreshi/Generals-Mac-iOS-iPad](../repos/ammaarreshi/Generals-Mac-iOS-iPad.md) | ⭐ 1,640 | 2026-09-28 | Command &amp; Conquer Generals: Zero Hour running natively on macOS, iPhone &amp; iPad — real engine (EA ... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Detanup01/gbe_fork](../repos/Detanup01/gbe_fork.md) | ⭐ 2,680 | 2026-09-28 | Fork of https:&#x2F;&#x2F;gitlab.com&#x2F;Mr_Goldberg&#x2F;goldberg_emulator |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [geode-sdk/geode](../repos/geode-sdk/geode.md) | ⭐ 3,023 | 2026-09-28 | The ultimate Geometry Dash modding framework |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SerenityOS/serenity](../repos/SerenityOS/serenity.md) | ⭐ 33,875 | 2026-09-28 | The Serenity Operating System 🐞 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [YesterMester/TheSimpsonsGameRecomp](../repos/YesterMester/TheSimpsonsGameRecomp.md) | ⭐ 280 | 2026-10-01 | A work in progress recomp of the The Simpsons Game 2007 from the Xbox 360 using the RexXGlue reco... |
@@ -74,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [M-Abozaid/esp32-c3-adblock](../repos/M-Abozaid/esp32-c3-adblock.md) | ⭐ 2,354 | 2026-10-06 | Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Confetti3/SF4-Ember-Netplay](../repos/Confetti3/SF4-Ember-Netplay.md) | ⭐ 91 | 2026-10-07 | Private rollback rooms and a controller-first overlay for Ultra Street Fighter IV. An unofficial ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [MAZHARMIK/Interview_DS_Algo](../repos/MAZHARMIK/Interview_DS_Algo.md) | ⭐ 5,231 | 2026-10-07 | Super Repository for Coding Interview Preperation |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [google/re2](../repos/google/re2.md) | ⭐ 9,817 | 2026-10-07 | RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [facebook/rebalancer](../repos/facebook/rebalancer.md) | ⭐ 353 | 2026-10-08 | Rebalancer is a domain-specific language and tool for specifying and solving assignment problems ... |
 
 
 ---
@@ -82,16 +88,16 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,245 | 2026-07-30 | 28 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | ⭐ 201,278 | 2026-07-30 | 29 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | ⭐ 132,446 | 2026-08-01 | 33 |
 | [react/react-native](../repos/react/react-native.md) | ⭐ 126,803 | 2026-08-04 | 7 |
 | [electron/electron](../repos/electron/electron.md) | ⭐ 123,480 | 2026-08-01 | 6 |
 | [godotengine/godot](../repos/godotengine/godot.md) | ⭐ 118,967 | 2026-08-01 | 11 |
 | [microsoft/terminal](../repos/microsoft/terminal.md) | ⭐ 105,211 | 2026-08-06 | 8 |
 | [bitcoin/bitcoin](../repos/bitcoin/bitcoin.md) | ⭐ 90,523 | 2026-08-02 | 11 |
+| [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 77,216 | 2026-08-12 | 7 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | ⭐ 76,737 | 2026-08-08 | 17 |
-| [tesseract-ocr/tesseract](../repos/tesseract-ocr/tesseract.md) | ⭐ 76,568 | 2026-08-12 | 6 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,123 | 2026-08-01 | 18 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | ⭐ 72,137 | 2026-08-01 | 19 |
 | [LadybirdBrowser/ladybird](../repos/LadybirdBrowser/ladybird.md) | ⭐ 66,676 | 2026-08-05 | 11 |
 | [ggml-org/whisper.cpp](../repos/ggml-org/whisper.cpp.md) | ⭐ 52,530 | 2026-08-02 | 1 |
 | [ClickHouse/ClickHouse](../repos/ClickHouse/ClickHouse.md) | ⭐ 50,543 | 2026-08-03 | 12 |
@@ -99,7 +105,7 @@
 | [grpc/grpc](../repos/grpc/grpc.md) | ⭐ 45,400 | 2026-08-02 | 9 |
 | [duckdb/duckdb](../repos/duckdb/duckdb.md) | ⭐ 42,460 | 2026-08-19 | 14 |
 | [aria2/aria2](../repos/aria2/aria2.md) | ⭐ 42,293 | 2026-09-06 | 2 |
-| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,156 | 2026-08-09 | 12 |
+| [microsoft/BitNet](../repos/microsoft/BitNet.md) | ⭐ 41,272 | 2026-08-09 | 13 |
 | [qbittorrent/qBittorrent](../repos/qbittorrent/qBittorrent.md) | ⭐ 41,019 | 2026-08-02 | 8 |
 | [facebookresearch/faiss](../repos/facebookresearch/faiss.md) | ⭐ 40,788 | 2026-08-06 | 4 |
 
@@ -111,10 +117,10 @@
 |------------|---------------|-------|------------|-----------|
 | [apple/swift-nio-ssl](../repos/apple/swift-nio-ssl.md) | 46 | ⭐ 439 | 2026-08-01 | 2026-10-09 |
 | [ggml-org/llama.cpp](../repos/ggml-org/llama.cpp.md) | 33 | ⭐ 132,446 | 2026-08-01 | 2026-10-26 |
-| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 28 | ⭐ 201,245 | 2026-07-30 | 2026-10-25 |
-| [google/googletest](../repos/google/googletest.md) | 22 | ⭐ 39,663 | 2026-08-04 | 2026-10-23 |
+| [tensorflow/tensorflow](../repos/tensorflow/tensorflow.md) | 29 | ⭐ 201,278 | 2026-07-30 | 2026-10-28 |
+| [google/googletest](../repos/google/googletest.md) | 23 | ⭐ 39,677 | 2026-08-04 | 2026-10-28 |
+| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 19 | ⭐ 72,137 | 2026-08-01 | 2026-10-28 |
 | [ROCm/rocm-systems](../repos/ROCm/rocm-systems.md) | 18 | ⭐ 539 | 2026-08-01 | 2026-10-21 |
-| [protocolbuffers/protobuf](../repos/protocolbuffers/protobuf.md) | 18 | ⭐ 72,123 | 2026-08-01 | 2026-10-21 |
 | [ocornut/imgui](../repos/ocornut/imgui.md) | 17 | ⭐ 76,737 | 2026-08-08 | 2026-10-19 |
 | [78/xiaozhi-esp32](../repos/78/xiaozhi-esp32.md) | 16 | ⭐ 31,282 | 2026-08-03 | 2026-10-16 |
 | [optiscaler/OptiScaler](../repos/optiscaler/OptiScaler.md) | 15 | ⭐ 11,986 | 2026-08-02 | 2026-10-22 |
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.509Z*
+*Last updated: 2026-10-28T21:02:00.270Z*

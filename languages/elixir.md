@@ -16,31 +16,22 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,698 | 2026-08-01 | 61 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,699 | 2026-08-01 | 62 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,834 | 2026-08-01 | 24 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,430 | 2026-08-01 | 53 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,423 | 2026-08-01 | 52 |
+| [operately/operately](../repos/operately/operately.md) | ⭐ 604 | 2026-08-02 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,191 | 2026-08-02 | 59 |
+| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,136 | 2026-08-02 | 49 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,130 | 2026-08-02 | 48 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,209 | 2026-08-03 | 51 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,207 | 2026-08-03 | 50 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,544 | 2026-09-01 | 20 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [Phineas/lanyard](../repos/Phineas/lanyard.md) | ⭐ 1,484 | 2026-09-02 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ash-project/ash_postgres](../repos/ash-project/ash_postgres.md) | ⭐ 191 | 2026-10-25 | 2 |
+| [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,546 | 2026-09-01 | 21 |
 
 
 ---
@@ -69,17 +60,17 @@
 |------------|-------|------------|---------------|
 | [anoma/anoma](../repos/anoma/anoma.md) | ⭐ 33,620 | 2026-09-04 | 4 |
 | [openai/symphony](../repos/openai/symphony.md) | ⭐ 27,756 | 2026-08-01 | 57 |
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,698 | 2026-08-01 | 61 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,207 | 2026-08-03 | 50 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | ⭐ 26,699 | 2026-08-01 | 62 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | ⭐ 23,209 | 2026-08-03 | 51 |
 | [h4cc/awesome-elixir](../repos/h4cc/awesome-elixir.md) | ⭐ 13,166 | 2026-09-08 | 1 |
 | [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | ⭐ 9,191 | 2026-08-02 | 59 |
-| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,130 | 2026-08-02 | 48 |
+| [firezone/firezone](../repos/firezone/firezone.md) | ⭐ 9,136 | 2026-08-02 | 49 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | ⭐ 6,834 | 2026-08-01 | 24 |
 | [elixir-ecto/ecto](../repos/elixir-ecto/ecto.md) | ⭐ 6,500 | 2026-08-06 | 6 |
 | [papercups-io/papercups](../repos/papercups-io/papercups.md) | ⭐ 6,113 | 2026-09-21 | 2 |
 | [livebook-dev/livebook](../repos/livebook-dev/livebook.md) | ⭐ 5,887 | 2026-08-05 | 8 |
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,423 | 2026-08-01 | 52 |
-| [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,544 | 2026-09-01 | 20 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | ⭐ 5,430 | 2026-08-01 | 53 |
+| [ash-project/ash](../repos/ash-project/ash.md) | ⭐ 2,546 | 2026-09-01 | 21 |
 | [expert-lsp/expert](../repos/expert-lsp/expert.md) | ⭐ 2,048 | 2026-08-01 | 6 |
 | [mtrudel/bandit](../repos/mtrudel/bandit.md) | ⭐ 1,922 | 2026-08-22 | 4 |
 | [semaphoreio/semaphore](../repos/semaphoreio/semaphore.md) | ⭐ 1,570 | 2026-08-09 | 1 |
@@ -94,16 +85,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 61 | ⭐ 26,698 | 2026-08-01 | 2026-10-27 |
+| [elixir-lang/elixir](../repos/elixir-lang/elixir.md) | 62 | ⭐ 26,699 | 2026-08-01 | 2026-10-28 |
 | [teslamate-org/teslamate](../repos/teslamate-org/teslamate.md) | 59 | ⭐ 9,191 | 2026-08-02 | 2026-10-27 |
 | [openai/symphony](../repos/openai/symphony.md) | 57 | ⭐ 27,756 | 2026-08-01 | 2026-10-20 |
-| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 52 | ⭐ 5,423 | 2026-08-01 | 2026-10-27 |
-| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 50 | ⭐ 23,207 | 2026-08-03 | 2026-10-27 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 48 | ⭐ 9,130 | 2026-08-02 | 2026-10-27 |
+| [kieraneglin/pinchflat](../repos/kieraneglin/pinchflat.md) | 53 | ⭐ 5,430 | 2026-08-01 | 2026-10-28 |
+| [phoenixframework/phoenix](../repos/phoenixframework/phoenix.md) | 51 | ⭐ 23,209 | 2026-08-03 | 2026-10-28 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 49 | ⭐ 9,136 | 2026-08-02 | 2026-10-28 |
 | [open-telemetry/opentelemetry-erlang-contrib](../repos/open-telemetry/opentelemetry-erlang-contrib.md) | 25 | ⭐ 219 | 2026-08-01 | 2026-09-09 |
 | [phoenixframework/phoenix_live_view](../repos/phoenixframework/phoenix_live_view.md) | 24 | ⭐ 6,834 | 2026-08-01 | 2026-10-27 |
-| [ash-project/ash](../repos/ash-project/ash.md) | 20 | ⭐ 2,544 | 2026-09-01 | 2026-10-27 |
-| [operately/operately](../repos/operately/operately.md) | 10 | ⭐ 593 | 2026-08-02 | 2026-10-25 |
+| [ash-project/ash](../repos/ash-project/ash.md) | 21 | ⭐ 2,546 | 2026-09-01 | 2026-10-28 |
+| [operately/operately](../repos/operately/operately.md) | 11 | ⭐ 604 | 2026-08-02 | 2026-10-28 |
 
 ---
 
@@ -160,4 +151,4 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.525Z*
+*Last updated: 2026-10-28T21:02:00.290Z*

@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,451 | 2026-08-01 | 23 |
+| [frappe/helpdesk](../repos/frappe/helpdesk.md) | ⭐ 3,451 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wux1an/wxapkg](../repos/wux1an/wxapkg.md) | ⭐ 4,319 | 2026-08-01 | 19 |
+| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,876 | 2026-08-01 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [frappe/crm](../repos/frappe/crm.md) | ⭐ 3,872 | 2026-08-01 | 38 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,484 | 2026-08-01 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,118 | 2026-08-01 | 21 |
+| [imsyy/home](../repos/imsyy/home.md) | ⭐ 4,552 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,473 | 2026-08-01 | 31 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,221 | 2026-08-01 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,163 | 2026-08-01 | 35 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 473 | 2026-08-02 | 41 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | ⭐ 474 | 2026-08-02 | 40 |
+| [Virtual-Browser/VirtualBrowser](../repos/Virtual-Browser/VirtualBrowser.md) | ⭐ 3,223 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,119 | 2026-08-02 | 37 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,912 | 2026-08-02 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [vuejs/docs](../repos/vuejs/docs.md) | ⭐ 3,243 | 2026-08-02 | 8 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 10,566 | 2026-08-04 | 22 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | ⭐ 6,909 | 2026-08-02 | 28 |
+| [yangzongzhuan/RuoYi-Vue3](../repos/yangzongzhuan/RuoYi-Vue3.md) | ⭐ 6,799 | 2026-08-12 | 9 |
 
 
 ---
@@ -91,11 +91,11 @@
 | [PanJiaChen/vue-element-admin](../repos/PanJiaChen/vue-element-admin.md) | ⭐ 90,118 | 2026-08-01 | 21 |
 | [ElemeFE/element](../repos/ElemeFE/element.md) | ⭐ 54,010 | 2026-08-01 | 12 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | ⭐ 33,587 | 2026-08-01 | 35 |
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,473 | 2026-08-01 | 31 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | ⭐ 33,484 | 2026-08-01 | 32 |
 | [requarks/wiki](../repos/requarks/wiki.md) | ⭐ 29,058 | 2026-08-01 | 36 |
 | [docmirror/dev-sidecar](../repos/docmirror/dev-sidecar.md) | ⭐ 24,737 | 2026-10-06 | 11 |
 | [iview/iview](../repos/iview/iview.md) | ⭐ 23,775 | 2026-08-22 | 2 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,163 | 2026-08-01 | 35 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | ⭐ 22,221 | 2026-08-01 | 36 |
 | [vueComponent/ant-design-vue](../repos/vueComponent/ant-design-vue.md) | ⭐ 21,685 | 2026-08-02 | 19 |
 | [zxwk1998/vue-admin-better](../repos/zxwk1998/vue-admin-better.md) | ⭐ 18,922 | 2026-08-07 | 3 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | ⭐ 17,119 | 2026-08-02 | 37 |
@@ -104,10 +104,10 @@
 | [tiny-craft/tiny-rdm](../repos/tiny-craft/tiny-rdm.md) | ⭐ 13,148 | 2026-08-20 | 5 |
 | [chaitin/xray](../repos/chaitin/xray.md) | ⭐ 11,764 | 2026-08-12 | 5 |
 | [zyronon/douyin](../repos/zyronon/douyin.md) | ⭐ 11,550 | 2026-08-17 | 5 |
-| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 10,551 | 2026-08-04 | 21 |
+| [zyronon/TypeWords](../repos/zyronon/TypeWords.md) | ⭐ 10,566 | 2026-08-04 | 22 |
 | [dicebear/dicebear](../repos/dicebear/dicebear.md) | ⭐ 9,917 | 2026-10-16 | 2 |
+| [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,438 | 2026-08-23 | 14 |
 | [crmeb/CRMEB](../repos/crmeb/CRMEB.md) | ⭐ 9,430 | 2026-08-03 | 24 |
-| [pipipi-pikachu/PPTist](../repos/pipipi-pikachu/PPTist.md) | ⭐ 9,427 | 2026-08-23 | 13 |
 
 ---
 
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 40 | ⭐ 474 | 2026-08-02 | 2026-10-27 |
-| [frappe/crm](../repos/frappe/crm.md) | 38 | ⭐ 3,872 | 2026-08-01 | 2026-10-27 |
+| [RikkaApps/websites](../repos/RikkaApps/websites.md) | 41 | ⭐ 473 | 2026-08-02 | 2026-10-28 |
+| [frappe/crm](../repos/frappe/crm.md) | 39 | ⭐ 3,876 | 2026-08-01 | 2026-10-28 |
 | [algerkong/AlgerMusicPlayer](../repos/algerkong/AlgerMusicPlayer.md) | 37 | ⭐ 17,119 | 2026-08-02 | 2026-10-27 |
 | [requarks/wiki](../repos/requarks/wiki.md) | 36 | ⭐ 29,058 | 2026-08-01 | 2026-10-20 |
-| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 35 | ⭐ 22,163 | 2026-08-01 | 2026-10-27 |
+| [FreeTubeApp/FreeTube](../repos/FreeTubeApp/FreeTube.md) | 36 | ⭐ 22,221 | 2026-08-01 | 2026-10-28 |
 | [vbenjs/vue-vben-admin](../repos/vbenjs/vue-vben-admin.md) | 35 | ⭐ 33,587 | 2026-08-01 | 2026-10-12 |
 | [keleus/BewlyCat](../repos/keleus/BewlyCat.md) | 32 | ⭐ 4,492 | 2026-08-01 | 2026-10-26 |
+| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 32 | ⭐ 33,484 | 2026-08-01 | 2026-10-28 |
 | [julyx10/lap](../repos/julyx10/lap.md) | 32 | ⭐ 4,078 | 2026-08-02 | 2026-10-26 |
-| [qier222/YesPlayMusic](../repos/qier222/YesPlayMusic.md) | 31 | ⭐ 33,473 | 2026-08-01 | 2026-10-27 |
-| [unovue/reka-ui](../repos/unovue/reka-ui.md) | 28 | ⭐ 6,909 | 2026-08-02 | 2026-10-27 |
+| [unovue/reka-ui](../repos/unovue/reka-ui.md) | 29 | ⭐ 6,912 | 2026-08-02 | 2026-10-28 |
 
 ---
 
@@ -231,4 +231,4 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.604Z*
+*Last updated: 2026-10-28T21:02:00.388Z*

@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 173
+- **Total Repositories**: 174
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-23
+- **Last Updated**: 2026-10-28
 
 ---
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nextcloud/android](../repos/nextcloud/android.md) | ⭐ 5,652 | 2026-08-02 | 8 |
+| [Tencent-TDS/KuiklyUI](../repos/Tencent-TDS/KuiklyUI.md) | ⭐ 3,609 | 2026-08-01 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,508 | 2026-08-03 | 16 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 64,880 | 2026-08-02 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xororz/local-dream](../repos/xororz/local-dream.md) | ⭐ 3,818 | 2026-08-07 | 5 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 16,248 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 32,269 | 2026-08-08 | 20 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,564 | 2026-08-03 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [XayahSuSuSu/Android-DataBackup](../repos/XayahSuSuSu/Android-DataBackup.md) | ⭐ 7,499 | 2026-08-12 | 3 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,581 | 2026-08-03 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin-androidtv](../repos/jellyfin/jellyfin-androidtv.md) | ⭐ 4,668 | 2026-08-24 | 7 |
+| [cwuom/NeriPlayer](../repos/cwuom/NeriPlayer.md) | ⭐ 3,965 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nightscout/AndroidAPS](../repos/nightscout/AndroidAPS.md) | ⭐ 1,231 | 2026-08-27 | 5 |
+| [agupta07505/SmartIsland](../repos/agupta07505/SmartIsland.md) | ⭐ 340 | 2026-10-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [aquamarine5/ChaoxingSignFaker](../repos/aquamarine5/ChaoxingSignFaker.md) | ⭐ 881 | 2026-09-24 | 3 |
+| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,249 | 2026-10-06 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Lelonio/Square](../repos/Lelonio/Square.md) | ⭐ 429 | 2026-10-08 | 4 |
+| [carlelieser/shizzi](../repos/carlelieser/shizzi.md) | ⭐ 227 | 2026-10-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jieapi/AiCode](../repos/jieapi/AiCode.md) | ⭐ 339 | 2026-10-22 | 2 |
+| [realidkroo/Mochy-Music](../repos/realidkroo/Mochy-Music.md) | ⭐ 282 | 2026-10-28 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Codename-11/hermes-relay](../repos/Codename-11/hermes-relay.md) | ⭐ 281 | 2026-09-28 | Hermes-Relay — Your Hermes AI agent, in your pocket — chat, voice, and control. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 551 | 2026-09-29 | Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE&#x2F;AmneziaWG, and the MLM... |
@@ -70,16 +67,19 @@
 | [GrapheneOS/Messaging](../repos/GrapheneOS/Messaging.md) | ⭐ 221 | 2026-10-02 | Messaging app |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [agupta07505/SmartIsland](../repos/agupta07505/SmartIsland.md) | ⭐ 253 | 2026-10-02 | Smart Island is a modern, open-source implementation of Android&#39;s Dynamic Island experience. It t... |
+| [agupta07505/SmartIsland](../repos/agupta07505/SmartIsland.md) | ⭐ 340 | 2026-10-02 | Smart Island is a modern, open-source implementation of Android&#39;s Dynamic Island experience. It t... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 1,932 | 2026-10-06 | Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map d... |
+| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,249 | 2026-10-06 | Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map d... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 5,551 | 2026-10-06 | ✨一个安卓网盘解析下载app✨ |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ahXN00/OwnTV](../repos/ahXN00/OwnTV.md) | ⭐ 673 | 2026-10-06 | Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker ... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [rmyndharis/VSCodroid](../repos/rmyndharis/VSCodroid.md) | ⭐ 188 | 2026-10-07 | VS Code ported to Android — a full IDE on-the-go for developers |
 
 
 ---
@@ -88,12 +88,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 64,546 | 2026-08-02 | 20 |
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,508 | 2026-08-03 | 15 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 64,880 | 2026-08-02 | 21 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,564 | 2026-08-03 | 16 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | ⭐ 55,659 | 2026-08-06 | 15 |
 | [JetBrains/kotlin](../repos/JetBrains/kotlin.md) | ⭐ 53,504 | 2026-08-04 | 13 |
 | [android/architecture-samples](../repos/android/architecture-samples.md) | ⭐ 45,876 | 2026-10-14 | 2 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,508 | 2026-08-03 | 16 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,581 | 2026-08-03 | 17 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | ⭐ 32,269 | 2026-08-08 | 20 |
 | [signalapp/Signal-Android](../repos/signalapp/Signal-Android.md) | ⭐ 29,537 | 2026-08-05 | 8 |
 | [pppscn/SmsForwarder](../repos/pppscn/SmsForwarder.md) | ⭐ 28,342 | 2026-08-11 | 5 |
@@ -105,7 +105,7 @@
 | [open-ani/animeko](../repos/open-ani/animeko.md) | ⭐ 20,731 | 2026-09-07 | 10 |
 | [JetBrains/compose-multiplatform](../repos/JetBrains/compose-multiplatform.md) | ⭐ 19,354 | 2026-08-12 | 4 |
 | [amir1376/ab-download-manager](../repos/amir1376/ab-download-manager.md) | ⭐ 18,495 | 2026-08-17 | 7 |
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 16,089 | 2026-08-02 | 11 |
+| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 16,248 | 2026-08-02 | 12 |
 | [ktorio/ktor](../repos/ktorio/ktor.md) | ⭐ 14,525 | 2026-09-12 | 1 |
 | [libre-tube/LibreTube](../repos/libre-tube/LibreTube.md) | ⭐ 12,644 | 2026-08-06 | 7 |
 
@@ -115,12 +115,12 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 20 | ⭐ 64,546 | 2026-08-02 | 2026-10-23 |
+| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | 21 | ⭐ 64,880 | 2026-08-02 | 2026-10-28 |
 | [RikkaApps/Shizuku](../repos/RikkaApps/Shizuku.md) | 20 | ⭐ 32,269 | 2026-08-08 | 2026-10-27 |
 | [andreknieriem/open-headunit](../repos/andreknieriem/open-headunit.md) | 19 | ⭐ 3,038 | 2026-08-02 | 2026-10-26 |
 | [mihonapp/mihon](../repos/mihonapp/mihon.md) | 18 | ⭐ 24,746 | 2026-08-01 | 2026-10-26 |
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 16 | ⭐ 43,508 | 2026-08-03 | 2026-10-27 |
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 15 | ⭐ 63,508 | 2026-08-03 | 2026-10-26 |
+| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | 17 | ⭐ 43,581 | 2026-08-03 | 2026-10-28 |
+| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | 16 | ⭐ 63,564 | 2026-08-03 | 2026-10-28 |
 | [bannedbook/fanqiang](../repos/bannedbook/fanqiang.md) | 15 | ⭐ 55,659 | 2026-08-06 | 2026-10-20 |
 | [breezy-weather/breezy-weather](../repos/breezy-weather/breezy-weather.md) | 14 | ⭐ 11,766 | 2026-08-02 | 2026-10-20 |
 | [rikkahub/rikkahub](../repos/rikkahub/rikkahub.md) | 13 | ⭐ 8,363 | 2026-08-02 | 2026-10-21 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.550Z*
+*Last updated: 2026-10-28T21:02:00.323Z*

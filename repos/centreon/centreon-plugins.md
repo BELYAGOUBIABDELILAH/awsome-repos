@@ -13,12 +13,12 @@
 | **Language** | Perl |
 | **License** | Apache-2.0 |
 | **Stars** | ⭐ 336 |
-| **Forks** | 🍴 309 |
-| **Trending Days** | 3 |
+| **Forks** | 🍴 311 |
+| **Trending Days** | 4 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 15, 2026 |
-| **Last Seen** | Oct 27, 2026 |
+| **Last Seen** | Oct 28, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 3
-- **Longest Streak**: 1 days
+- **Trending Days**: 4
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 50&#x2F;100
+- **Trending Score**: 70&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-27T21:01:43.959Z*  
-*Data from 3 trending reports*
+*Last updated: 2026-10-28T21:02:04.588Z*  
+*Data from 4 trending reports*

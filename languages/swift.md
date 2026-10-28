@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 139
+- **Total Repositories**: 142
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-27
 
@@ -16,49 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,552 | 2026-08-01 | 23 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,582 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | ⭐ 9,359 | 2026-08-02 | 17 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,996 | 2026-08-04 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zachlatta/freeflow](../repos/zachlatta/freeflow.md) | ⭐ 2,991 | 2026-08-03 | 10 |
+| [mattt/iMCP](../repos/mattt/iMCP.md) | ⭐ 1,901 | 2026-09-20 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift-syntax](../repos/swiftlang/swift-syntax.md) | ⭐ 3,714 | 2026-08-04 | 9 |
+| [ggml-org/Llama-macOS](../repos/ggml-org/Llama-macOS.md) | ⭐ 1,700 | 2026-10-06 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [swiftlang/swift](../repos/swiftlang/swift.md) | ⭐ 70,521 | 2026-08-05 | 16 |
+| [milika/SmartTubeIOS](../repos/milika/SmartTubeIOS.md) | ⭐ 508 | 2026-10-28 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [getsentry/sentry-cocoa](../repos/getsentry/sentry-cocoa.md) | ⭐ 1,135 | 2026-08-07 | 7 |
+| [carloslfu/slotstream](../repos/carloslfu/slotstream.md) | ⭐ 605 | 2026-10-28 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/CopilotForXcode](../repos/github/CopilotForXcode.md) | ⭐ 6,357 | 2026-08-11 | 11 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,920 | 2026-08-12 | 15 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [ronitsingh10/FineTune](../repos/ronitsingh10/FineTune.md) | ⭐ 9,905 | 2026-08-22 | 10 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [apple/swift-collections](../repos/apple/swift-collections.md) | ⭐ 4,526 | 2026-10-01 | 3 |
+| [cmagnussen/blitztext-app](../repos/cmagnussen/blitztext-app.md) | ⭐ 246 | 2026-10-28 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Nanako0129/syrtis](../repos/Nanako0129/syrtis.md) | ⭐ 380 | 2026-09-28 | AI token usage &amp; quota monitor for the macOS menu bar — native Swift, Liquid Glass, 3D contributi... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [jurplel/InstantSpaceSwitcher](../repos/jurplel/InstantSpaceSwitcher.md) | ⭐ 2,161 | 2026-09-28 | Native space switching on macOS with no animation |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [antigluten/amgi](../repos/antigluten/amgi.md) | ⭐ 259 | 2026-09-28 | An open-source, offline-first Anki-compatible iOS flashcard client with sync server support, powe... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [kaishi00/hermes-conduit](../repos/kaishi00/hermes-conduit.md) | ⭐ 399 | 2026-09-29 | Conduit — native SwiftUI iOS client for Hermes Agent |
@@ -76,10 +58,19 @@
 | [lab421/forel](../repos/lab421/forel.md) | ⭐ 707 | 2026-10-06 | File automation for macOS. The open source Hazel alternative for macOS. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [ggml-org/Llama-macOS](../repos/ggml-org/Llama-macOS.md) | ⭐ 1,647 | 2026-10-06 | A cosy home for your LLMs. |
+| [ggml-org/Llama-macOS](../repos/ggml-org/Llama-macOS.md) | ⭐ 1,700 | 2026-10-06 | A cosy home for your LLMs. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [BLeeEZ/amperfy](../repos/BLeeEZ/amperfy.md) | ⭐ 1,785 | 2026-10-06 | Amperfy is an iOS&#x2F;iPadOS&#x2F;macOS app to play songs from an Ampache or Subsonic server |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [scholay/rimes](../repos/scholay/rimes.md) | ⭐ 981 | 2026-10-08 | RIMES — modern macOS IME (rime-scholay): librime + buffer workbench |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [apple/swift-argument-parser](../repos/apple/swift-argument-parser.md) | ⭐ 3,793 | 2026-10-08 | Straightforward, type-safe argument parsing for Swift |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 1,756 | 2026-10-08 | 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备 |
 
 
 ---
@@ -93,7 +84,7 @@
 | [apple/container](../repos/apple/container.md) | ⭐ 50,809 | 2026-08-01 | 17 |
 | [permissionlesstech/bitchat](../repos/permissionlesstech/bitchat.md) | ⭐ 36,920 | 2026-08-12 | 15 |
 | [MonitorControl/MonitorControl](../repos/MonitorControl/MonitorControl.md) | ⭐ 34,277 | 2026-09-01 | 4 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,552 | 2026-08-01 | 23 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | ⭐ 28,582 | 2026-08-01 | 24 |
 | [ChartsOrg/Charts](../repos/ChartsOrg/Charts.md) | ⭐ 27,997 | 2026-08-04 | 4 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | ⭐ 26,918 | 2026-08-04 | 16 |
 | [ReactiveX/RxSwift](../repos/ReactiveX/RxSwift.md) | ⭐ 24,646 | 2026-08-15 | 1 |
@@ -104,8 +95,8 @@
 | [OpenEmu/OpenEmu](../repos/OpenEmu/OpenEmu.md) | ⭐ 17,766 | 2026-09-13 | 1 |
 | [dwarvesf/hidden](../repos/dwarvesf/hidden.md) | ⭐ 15,130 | 2026-08-03 | 4 |
 | [Whisky-App/Whisky](../repos/Whisky-App/Whisky.md) | ⭐ 15,107 | 2026-09-06 | 2 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,996 | 2026-08-04 | 21 |
 | [tisfeng/Easydict](../repos/tisfeng/Easydict.md) | ⭐ 14,987 | 2026-08-24 | 12 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | ⭐ 14,984 | 2026-08-04 | 20 |
 | [altstoreio/AltStore](../repos/altstoreio/AltStore.md) | ⭐ 14,686 | 2026-08-17 | 14 |
 | [palmier-io/palmier-pro](../repos/palmier-io/palmier-pro.md) | ⭐ 14,633 | 2026-08-08 | 9 |
 
@@ -116,8 +107,8 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [LiveContainer/LiveContainer](../repos/LiveContainer/LiveContainer.md) | 29 | ⭐ 13,231 | 2026-08-01 | 2026-10-20 |
-| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 23 | ⭐ 28,552 | 2026-08-01 | 2026-10-27 |
-| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 20 | ⭐ 14,984 | 2026-08-04 | 2026-10-23 |
+| [manaflow-ai/cmux](../repos/manaflow-ai/cmux.md) | 24 | ⭐ 28,582 | 2026-08-01 | 2026-10-28 |
+| [pointfreeco/swift-composable-architecture](../repos/pointfreeco/swift-composable-architecture.md) | 21 | ⭐ 14,996 | 2026-08-04 | 2026-10-28 |
 | [apple/container](../repos/apple/container.md) | 17 | ⭐ 50,809 | 2026-08-01 | 2026-10-19 |
 | [TelegramMessenger/Telegram-iOS](../repos/TelegramMessenger/Telegram-iOS.md) | 17 | ⭐ 9,359 | 2026-08-02 | 2026-10-27 |
 | [airbnb/lottie-ios](../repos/airbnb/lottie-ios.md) | 16 | ⭐ 26,918 | 2026-08-04 | 2026-10-23 |
@@ -233,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.590Z*
+*Last updated: 2026-10-28T21:02:00.372Z*

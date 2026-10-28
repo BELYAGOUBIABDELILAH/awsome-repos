@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 294
+- **Total Repositories**: 295
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cursor/plugins](../repos/cursor/plugins.md) | ⭐ 14,334 | 2026-08-01 | 24 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 54,366 | 2026-08-01 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 54,287 | 2026-08-01 | 13 |
+| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 39,939 | 2026-08-02 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | ⭐ 30,797 | 2026-08-01 | 16 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 74,642 | 2026-08-08 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 39,232 | 2026-08-02 | 5 |
+| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 208,895 | 2026-08-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [garrytan/gstack](../repos/garrytan/gstack.md) | ⭐ 137,929 | 2026-08-02 | 16 |
+| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 25,489 | 2026-08-14 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 73,855 | 2026-08-08 | 22 |
+| [upscayl/upscayl](../repos/upscayl/upscayl.md) | ⭐ 51,224 | 2026-08-14 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/docs](../repos/github/docs.md) | ⭐ 21,138 | 2026-08-09 | 4 |
+| [KeygraphHQ/shannon](../repos/KeygraphHQ/shannon.md) | ⭐ 50,084 | 2026-09-02 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [remotion-dev/remotion](../repos/remotion-dev/remotion.md) | ⭐ 68,239 | 2026-08-16 | 5 |
+| [makecindy/cindy](../repos/makecindy/cindy.md) | ⭐ 8,006 | 2026-10-09 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [backnotprop/plannotator](../repos/backnotprop/plannotator.md) | ⭐ 9,702 | 2026-08-26 | 5 |
+| [JetBrains/thinkrail](../repos/JetBrains/thinkrail.md) | ⭐ 4,940 | 2026-10-25 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pablostanley/yoinks](../repos/pablostanley/yoinks.md) | ⭐ 6,360 | 2026-10-01 | 4 |
+| [nightly-labs/openbot](../repos/nightly-labs/openbot.md) | ⭐ 3,155 | 2026-10-25 | 4 |
 
 
 ---
@@ -90,7 +90,7 @@
 |------------|-------|------------|---------------|
 | [morluto/rea](../repos/morluto/rea.md) | ⭐ 289,610 | 2026-10-06 | 10 |
 | [vuejs/vue](../repos/vuejs/vue.md) | ⭐ 210,192 | 2026-08-04 | 1 |
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 206,509 | 2026-08-11 | 6 |
+| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 208,895 | 2026-08-11 | 7 |
 | [firecrawl/firecrawl](../repos/firecrawl/firecrawl.md) | ⭐ 195,293 | 2026-08-07 | 8 |
 | [microsoft/vscode](../repos/microsoft/vscode.md) | ⭐ 193,792 | 2026-07-30 | 7 |
 | [langgenius/dify](../repos/langgenius/dify.md) | ⭐ 158,228 | 2026-09-01 | 4 |
@@ -116,15 +116,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [cursor/plugins](../repos/cursor/plugins.md) | 24 | ⭐ 14,334 | 2026-08-01 | 2026-10-27 |
+| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 23 | ⭐ 74,642 | 2026-08-08 | 2026-10-28 |
 | [stablyai/orca](../repos/stablyai/orca.md) | 23 | ⭐ 103,697 | 2026-08-11 | 2026-10-23 |
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | 22 | ⭐ 73,855 | 2026-08-08 | 2026-10-27 |
 | [anthropics/claude-code](../repos/anthropics/claude-code.md) | 20 | ⭐ 152,634 | 2026-08-07 | 2026-10-20 |
 | [ruvnet/ruflo](../repos/ruvnet/ruflo.md) | 20 | ⭐ 78,178 | 2026-08-10 | 2026-10-21 |
 | [tashfeenahmed/freellmapi](../repos/tashfeenahmed/freellmapi.md) | 19 | ⭐ 41,516 | 2026-08-07 | 2026-10-25 |
 | [pingdotgg/t3code](../repos/pingdotgg/t3code.md) | 16 | ⭐ 30,797 | 2026-08-01 | 2026-10-27 |
 | [garrytan/gstack](../repos/garrytan/gstack.md) | 16 | ⭐ 137,929 | 2026-08-02 | 2026-10-27 |
+| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 14 | ⭐ 54,366 | 2026-08-01 | 2026-10-28 |
 | [can1357/oh-my-pi](../repos/can1357/oh-my-pi.md) | 14 | ⭐ 34,200 | 2026-08-02 | 2026-10-03 |
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | 13 | ⭐ 54,287 | 2026-08-01 | 2026-10-27 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.594Z*
+*Last updated: 2026-10-28T21:02:00.376Z*

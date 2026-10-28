@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 9
+- **Total Repositories**: 10
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-26
 
@@ -14,15 +14,19 @@
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [nim-lang/nimony](../repos/nim-lang/nimony.md) | ⭐ 456 | 2026-10-28 | 1 |
 
-*No Nim repositories trending today*
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [nim-lang/nimony](../repos/nim-lang/nimony.md) | ⭐ 456 | 2026-10-28 | Nimony is a new Nim implementation that is in heavy development. |
 
-*No new Nim repositories in the last 30 days*
 
 ---
 
@@ -35,6 +39,7 @@
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 666 | 2026-08-02 | 23 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 634 | 2026-08-05 | 3 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 502 | 2026-08-01 | 16 |
+| [nim-lang/nimony](../repos/nim-lang/nimony.md) | ⭐ 456 | 2026-10-28 | 1 |
 | [crashappsec/chalk](../repos/crashappsec/chalk.md) | ⭐ 438 | 2026-08-05 | 1 |
 | [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | ⭐ 322 | 2026-08-06 | 5 |
 | [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | ⭐ 249 | 2026-08-05 | 15 |
@@ -55,6 +60,7 @@
 | [status-im/nim-stew](../repos/status-im/nim-stew.md) | 3 | ⭐ 154 | 2026-08-06 | 2026-08-08 |
 | [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | 2 | ⭐ 1,301 | 2026-08-14 | 2026-08-17 |
 | [crashappsec/chalk](../repos/crashappsec/chalk.md) | 1 | ⭐ 438 | 2026-08-05 | 2026-08-05 |
+| [nim-lang/nimony](../repos/nim-lang/nimony.md) | 1 | ⭐ 456 | 2026-10-28 | 2026-10-28 |
 
 ---
 
@@ -69,7 +75,8 @@
 - [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) - libp2p implementation in Nim
 - [status-im/nim-stew](../repos/status-im/nim-stew.md) - stew is collection of utilities, std library extensions and budding libraries that are frequently...
 - [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of program...
+- [nim-lang/nimony](../repos/nim-lang/nimony.md) - Nimony is a new Nim implementation that is in heavy development.
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.561Z*
+*Last updated: 2026-10-28T21:02:00.336Z*

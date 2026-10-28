@@ -6,10 +6,10 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 280
+- **Total Repositories**: 282
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
-- **Average Stars**: 14208
+- **Average Stars**: 14195
 
 ---
 
@@ -17,34 +17,34 @@
 
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,365 | Java |  |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,376 | Java |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,077 | Ruby |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,604 | Scala |  |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,358 | Scala |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,342 | Scala |  |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,904 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,872 | Clojure |  |
+| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,407 | Clojure |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [logseq/logseq](../repos/logseq/logseq.md) | ⭐ 45,402 | Clojure |  |
-| Repository | Stars | Language | Last Trending |
-|------------|-------|----------|---------------|
-| [vim/vim](../repos/vim/vim.md) | ⭐ 41,166 | Vim Script |  |
+| [vim/vim](../repos/vim/vim.md) | ⭐ 41,168 | Vim Script |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
 | [apple/swift-crypto](../repos/apple/swift-crypto.md) | ⭐ 1,738 | Assembly |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [vlang/v](../repos/vlang/v.md) | ⭐ 38,060 | V |  |
+| [vlang/v](../repos/vlang/v.md) | ⭐ 38,062 | V |  |
 | Repository | Stars | Language | Last Trending |
 |------------|-------|----------|---------------|
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,336 | Solidity |  |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | ⭐ 27,335 | Solidity |  |
+| Repository | Stars | Language | Last Trending |
+|------------|-------|----------|---------------|
+| [rstudio/shiny](../repos/rstudio/shiny.md) | ⭐ 5,707 | R |  |
 
 
 ---
@@ -54,7 +54,7 @@
 | Repository | Stars | Language | First Seen | Trending Days |
 |------------|-------|----------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,696 | C | 2026-08-07 | 17 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 100,266 | Rust | 2026-08-09 | 19 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 100,922 | Rust | 2026-08-09 | 20 |
 | [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 97,789 | TypeScript | 2026-10-15 | 1 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | TypeScript | 2026-08-22 | 1 |
 | [sherlock-project/sherlock](../repos/sherlock-project/sherlock.md) | ⭐ 91,449 | Python | 2026-08-02 | 4 |
@@ -73,7 +73,7 @@
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | ⭐ 38,671 | Go | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,365 | Java | 1 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,376 | Java | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [Cyan4973/xxHash](../repos/Cyan4973/xxHash.md) | ⭐ 11,374 | C | 2 |
@@ -88,36 +88,21 @@
 | [ruby/ruby](../repos/ruby/ruby.md) | ⭐ 23,795 | Ruby | 2 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,077 | Ruby | 3 |
+| [rubysec/ruby-advisory-db](../repos/rubysec/ruby-advisory-db.md) | ⭐ 1,077 | Ruby | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
 | [joernio/joern](../repos/joernio/joern.md) | ⭐ 3,604 | Scala | 3 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [apache/spark](../repos/apache/spark.md) | ⭐ 44,342 | Scala | 3 |
+| [apache/spark](../repos/apache/spark.md) | ⭐ 44,358 | Scala | 4 |
 | Repository | Stars | Language | Days Trending |
 |------------|-------|----------|---------------|
-| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,872 | Clojure | 3 |
+| [metabase/metabase](../repos/metabase/metabase.md) | ⭐ 49,904 | Clojure | 4 |
 
 ---
 
 ## 🆕 New This Month
 
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [cs341-illinois/coursebook](../repos/cs341-illinois/coursebook.md) | ⭐ 3,042 | TeX | 2026-09-28 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [samugit83/redamon](../repos/samugit83/redamon.md) | ⭐ 2,745 | Python | 2026-09-28 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [eloquent/phony](../repos/eloquent/phony.md) | ⭐ 194 | PHP | 2026-09-28 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [FinMind/FinMind](../repos/FinMind/FinMind.md) | ⭐ 2,820 | HTML | 2026-09-28 |
-| Repository | Stars | Language | First Seen |
-|------------|-------|----------|------------|
-| [seanhenry/SwiftMockGeneratorForXcode](../repos/seanhenry/SwiftMockGeneratorForXcode.md) | ⭐ 758 | Objective-C | 2026-09-28 |
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [OpenCTI-Platform/opencti](../repos/OpenCTI-Platform/opencti.md) | ⭐ 10,067 | TypeScript | 2026-09-29 |
@@ -133,10 +118,29 @@
 | Repository | Stars | Language | First Seen |
 |------------|-------|----------|------------|
 | [jepsen-io/maelstrom](../repos/jepsen-io/maelstrom.md) | ⭐ 3,706 | Clojure | 2026-10-01 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [martanne/vis](../repos/martanne/vis.md) | ⭐ 5,220 | C | 2026-10-02 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [phishdestroy/destroylist](../repos/phishdestroy/destroylist.md) | ⭐ 1,904 | HTML | 2026-10-02 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [owasp-amass/amass](../repos/owasp-amass/amass.md) | ⭐ 15,303 | Go | 2026-10-06 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [caido/caido](../repos/caido/caido.md) | ⭐ 2,658 | Shell | 2026-10-06 |
+| Repository | Stars | Language | First Seen |
+|------------|-------|----------|------------|
+| [aquasecurity/trivy-action](../repos/aquasecurity/trivy-action.md) | ⭐ 1,435 | Shell | 2026-10-06 |
 
 ---
 
 ## 📅 Recent History
+
+### [2026-10-28](../archive/2026/10/2026-10-28.md)
+- 28 repositories trending
+- Top: ruvnet&#x2F;RuView
 
 ### [2026-10-27](../archive/2026/10/2026-10-27.md)
 - 31 repositories trending
@@ -158,10 +162,6 @@
 - 31 repositories trending
 - Top: obsproject&#x2F;obs-studio
 
-### [2026-10-21](../archive/2026/10/2026-10-21.md)
-- 26 repositories trending
-- Top: usestrix&#x2F;strix
-
 
 ---
 
@@ -171,15 +171,15 @@
 
 | Repository | Trending Count | First Seen | Latest |
 |------------|----------------|------------|--------|
-| [apache/spark](../repos/apache/spark.md) | 71 days | 2026-08-01 | 2026-10-27 |
-| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 71 days | 2026-08-01 | 2026-10-27 |
-| [metabase/metabase](../repos/metabase/metabase.md) | 68 days | 2026-08-01 | 2026-10-27 |
-| [logseq/logseq](../repos/logseq/logseq.md) | 67 days | 2026-08-01 | 2026-10-27 |
-| [vlang/v](../repos/vlang/v.md) | 66 days | 2026-08-01 | 2026-10-27 |
+| [apache/spark](../repos/apache/spark.md) | 72 days | 2026-08-01 | 2026-10-28 |
+| [OpenZeppelin/openzeppelin-contracts](../repos/OpenZeppelin/openzeppelin-contracts.md) | 72 days | 2026-08-01 | 2026-10-28 |
+| [metabase/metabase](../repos/metabase/metabase.md) | 69 days | 2026-08-01 | 2026-10-28 |
+| [logseq/logseq](../repos/logseq/logseq.md) | 68 days | 2026-08-01 | 2026-10-28 |
+| [vlang/v](../repos/vlang/v.md) | 67 days | 2026-08-01 | 2026-10-28 |
 | [joernio/joern](../repos/joernio/joern.md) | 61 days | 2026-08-01 | 2026-10-27 |
-| [vim/vim](../repos/vim/vim.md) | 59 days | 2026-08-01 | 2026-10-27 |
-| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 54 days | 2026-08-01 | 2026-10-27 |
-| [firezone/firezone](../repos/firezone/firezone.md) | 48 days | 2026-08-02 | 2026-10-27 |
+| [vim/vim](../repos/vim/vim.md) | 60 days | 2026-08-01 | 2026-10-28 |
+| [apple/swift-crypto](../repos/apple/swift-crypto.md) | 55 days | 2026-08-01 | 2026-10-28 |
+| [firezone/firezone](../repos/firezone/firezone.md) | 49 days | 2026-08-02 | 2026-10-28 |
 | [facebook/infer](../repos/facebook/infer.md) | 41 days | 2026-08-02 | 2026-10-25 |
 
 ---
@@ -187,16 +187,16 @@
 ## 📊 Statistics
 
 ### Language Breakdown
-- **C**: 52 repositories (19%)
+- **C**: 52 repositories (18%)
 - **Go**: 41 repositories (15%)
-- **Python**: 21 repositories (8%)
+- **Python**: 22 repositories (8%)
 - **Java**: 15 repositories (5%)
 - **C++**: 15 repositories (5%)
 
 ### Trending Frequency
 - **Daily Average**: 29.8 repositories
 - **Peak Day**: 2026-08-19 (42 repositories)
-- **Growth Rate**: 13% this month
+- **Growth Rate**: 11% this month
 
 ---
 
@@ -310,4 +310,4 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.287Z*
+*Last updated: 2026-10-28T21:02:00.059Z*

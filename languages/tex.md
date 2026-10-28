@@ -21,10 +21,8 @@
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [cs341-illinois/coursebook](../repos/cs341-illinois/coursebook.md) | ⭐ 3,042 | 2026-09-28 | Open Source Introductory Systems Programming Textbook for the University of Illinois |
 
+*No new TeX repositories in the last 30 days*
 
 ---
 
@@ -50,4 +48,4 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.592Z*
+*Last updated: 2026-10-28T21:02:00.373Z*

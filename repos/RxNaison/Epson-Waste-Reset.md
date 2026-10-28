@@ -10,15 +10,15 @@
 
 | | |
 |---|---|
-| **Language** | C |
+| **Language** | C++ |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 146 |
-| **Forks** | 🍴 33 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 429 |
+| **Forks** | 🍴 76 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 23, 2026 |
-| **Last Seen** | Aug 23, 2026 |
+| **Last Seen** | Oct 28, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in C or epson-adjustment-program*
+*Similar: Check repositories in C++ or epson-adjustment-program*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -70,10 +70,10 @@
 |--------|--------|---------|
 | **Difficulty** | Advanced | Requires systems programming knowledge |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Active | Regular contributions and discussions |
+| **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
-| **Learning Curve** | Medium | Moderate learning investment |
+| **Maintenance** | Very Active | Updated within last week |
+| **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
 - General purpose
@@ -81,15 +81,15 @@
 #### Works Great With
 
 #### Alternatives
-- Check similar projects in C
+- Check similar projects in C++
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-27T21:01:44.293Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-28T21:02:04.995Z*  
+*Data from 2 trending reports*

@@ -8,14 +8,16 @@
 
 - **Total Repositories**: 6
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-26
+- **Last Updated**: 2026-10-28
 
 ---
 
 ## 🔥 Trending Today
 
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,346 | 2026-08-01 | 44 |
 
-*No F# repositories trending today*
 
 ---
 
@@ -38,7 +40,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,346 | 2026-08-01 | 43 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | ⭐ 4,346 | 2026-08-01 | 44 |
 | [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | ⭐ 3,154 | 2026-10-07 | 10 |
 | [fsprojects/Paket](../repos/fsprojects/Paket.md) | ⭐ 2,088 | 2026-08-09 | 15 |
 | [fsprojects/FAKE](../repos/fsprojects/FAKE.md) | ⭐ 1,325 | 2026-10-26 | 1 |
@@ -51,7 +53,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 43 | ⭐ 4,346 | 2026-08-01 | 2026-10-26 |
+| [dotnet/fsharp](../repos/dotnet/fsharp.md) | 44 | ⭐ 4,346 | 2026-08-01 | 2026-10-28 |
 | [fsprojects/Paket](../repos/fsprojects/Paket.md) | 15 | ⭐ 2,088 | 2026-08-09 | 2026-10-25 |
 | [fable-compiler/Fable](../repos/fable-compiler/Fable.md) | 10 | ⭐ 3,154 | 2026-10-07 | 2026-10-25 |
 | [dotnet/performance](../repos/dotnet/performance.md) | 1 | ⭐ 771 | 2026-08-07 | 2026-08-07 |
@@ -71,4 +73,4 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.528Z*
+*Last updated: 2026-10-28T21:02:00.294Z*

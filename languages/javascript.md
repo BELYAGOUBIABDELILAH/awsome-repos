@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 176
+- **Total Repositories**: 178
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-15
 
@@ -16,46 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [byoungd/up](../repos/byoungd/up.md) | ⭐ 69,556 | 2026-08-01 | 19 |
+| [decolua/9router](../repos/decolua/9router.md) | ⭐ 31,583 | 2026-08-02 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [tt-a1i/archify](../repos/tt-a1i/archify.md) | ⭐ 90,383 | 2026-08-04 | 22 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 111,436 | 2026-08-05 | 32 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 111,097 | 2026-08-05 | 31 |
+| [citrolabs/ego-lite](../repos/citrolabs/ego-lite.md) | ⭐ 20,378 | 2026-08-14 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [FortAwesome/Font-Awesome](../repos/FortAwesome/Font-Awesome.md) | ⭐ 77,000 | 2026-08-09 | 2 |
+| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 34,337 | 2026-08-16 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/awesome-copilot](../repos/github/awesome-copilot.md) | ⭐ 40,473 | 2026-08-14 | 10 |
+| [YuJunZhiXue/dsh-purge](../repos/YuJunZhiXue/dsh-purge.md) | ⭐ 12,117 | 2026-10-19 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hmjz100/LinkSwift](../repos/hmjz100/LinkSwift.md) | ⭐ 32,938 | 2026-08-16 | 11 |
+| [DavidHDev/react-bits](../repos/DavidHDev/react-bits.md) | ⭐ 50,534 | 2026-10-28 | 1 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [YuJunZhiXue/dsh-purge](../repos/YuJunZhiXue/dsh-purge.md) | ⭐ 11,016 | 2026-10-19 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [algorithm-visualizer/algorithm-visualizer](../repos/algorithm-visualizer/algorithm-visualizer.md) | ⭐ 49,214 | 2026-10-27 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [hanliang97/MatrixMedia](../repos/hanliang97/MatrixMedia.md) | ⭐ 1,132 | 2026-10-27 | 1 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [QCYTSN/dsh-dafeiyu](../repos/QCYTSN/dsh-dafeiyu.md) | ⭐ 527 | 2026-10-27 | 1 |
+| [mozilla-firefox/firefox](../repos/mozilla-firefox/firefox.md) | ⭐ 13,636 | 2026-10-28 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [crocodilestick/Calibre-Web-Automated](../repos/crocodilestick/Calibre-Web-Automated.md) | ⭐ 6,345 | 2026-09-28 | Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook s... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [huilang-me/CF-Server-Monitor](../repos/huilang-me/CF-Server-Monitor.md) | ⭐ 2,302 | 2026-09-28 | 一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [QwenAudio/qwen-audio-agent](../repos/QwenAudio/qwen-audio-agent.md) | ⭐ 2,819 | 2026-09-29 | A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtim... |
@@ -80,6 +65,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [MobSF/Mobile-Security-Framework-MobSF](../repos/MobSF/Mobile-Security-Framework-MobSF.md) | ⭐ 21,899 | 2026-10-07 | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android&#x2F;iOS&#x2F;Win... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [XCQ0607/lxserver](../repos/XCQ0607/lxserver.md) | ⭐ 928 | 2026-10-08 | LX Music 数据同步服务端，同时支持了部分lx-music-desktop的网页端实现。 |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [chuspeeism/dashi-taskboard](../repos/chuspeeism/dashi-taskboard.md) | ⭐ 3,313 | 2026-10-09 | 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness |
 
 
 ---
@@ -93,7 +84,7 @@
 | [Snailclimb/JavaGuide](../repos/Snailclimb/JavaGuide.md) | ⭐ 158,907 | 2026-08-06 | 4 |
 | [airbnb/javascript](../repos/airbnb/javascript.md) | ⭐ 148,139 | 2026-08-12 | 2 |
 | [vercel/next.js](../repos/vercel/next.js.md) | ⭐ 143,211 | 2026-07-30 | 13 |
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 111,097 | 2026-08-05 | 31 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | ⭐ 111,436 | 2026-08-05 | 32 |
 | [react/create-react-app](../repos/react/create-react-app.md) | ⭐ 103,296 | 2026-08-06 | 1 |
 | [microsoft/Web-Dev-For-Beginners](../repos/microsoft/Web-Dev-For-Beginners.md) | ⭐ 96,607 | 2026-08-06 | 3 |
 | [ryanmcdermott/clean-code-javascript](../repos/ryanmcdermott/clean-code-javascript.md) | ⭐ 94,755 | 2026-08-04 | 1 |
@@ -106,8 +97,8 @@
 | [bilawalsidhu/gods-eye-view](../repos/bilawalsidhu/gods-eye-view.md) | ⭐ 60,381 | 2026-08-27 | 14 |
 | [jquery/jquery](../repos/jquery/jquery.md) | ⭐ 59,798 | 2026-10-14 | 1 |
 | [poteto/hiring-without-whiteboards](../repos/poteto/hiring-without-whiteboards.md) | ⭐ 52,040 | 2026-08-26 | 4 |
+| [DavidHDev/react-bits](../repos/DavidHDev/react-bits.md) | ⭐ 50,534 | 2026-10-28 | 1 |
 | [algorithm-visualizer/algorithm-visualizer](../repos/algorithm-visualizer/algorithm-visualizer.md) | ⭐ 49,214 | 2026-10-27 | 1 |
-| [cloudflare/security-audit-skill](../repos/cloudflare/security-audit-skill.md) | ⭐ 48,379 | 2026-08-28 | 15 |
 
 ---
 
@@ -115,7 +106,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 31 | ⭐ 111,097 | 2026-08-05 | 2026-10-27 |
+| [addyosmani/agent-skills](../repos/addyosmani/agent-skills.md) | 32 | ⭐ 111,436 | 2026-08-05 | 2026-10-28 |
 | [tt-a1i/archify](../repos/tt-a1i/archify.md) | 22 | ⭐ 90,383 | 2026-08-04 | 2026-10-27 |
 | [byoungd/up](../repos/byoungd/up.md) | 19 | ⭐ 69,556 | 2026-08-01 | 2026-10-27 |
 | [freestylefly/awesome-gpt-image-2](../repos/freestylefly/awesome-gpt-image-2.md) | 15 | ⭐ 31,495 | 2026-08-01 | 2026-09-12 |
@@ -233,4 +224,4 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.545Z*
+*Last updated: 2026-10-28T21:02:00.316Z*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | MIT |
-| **Stars** | ⭐ 184,741 |
-| **Forks** | 🍴 18,576 |
-| **Trending Days** | 25 |
+| **Stars** | ⭐ 185,138 |
+| **Forks** | 🍴 18,697 |
+| **Trending Days** | 26 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 1, 2026 |
-| **Last Seen** | Oct 25, 2026 |
+| **Last Seen** | Oct 28, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 25
+- **Trending Days**: 26
 - **Longest Streak**: 4 days
 
 ---
@@ -55,7 +55,7 @@
 ## Categories
 
 ### Topics
-[`deepseek`](../../topics/deepseek.md) [`gemma`](../../topics/gemma.md) [`gemma3`](../../topics/gemma3.md) [`glm`](../../topics/glm.md) [`go`](../../topics/go.md) [`golang`](../../topics/golang.md) [`gpt-oss`](../../topics/gpt-oss.md) [`llama`](../../topics/llama.md) [`llama3`](../../topics/llama3.md) [`llm`](../../topics/llm.md) [`llms`](../../topics/llms.md) [`minimax`](../../topics/minimax.md) [`mistral`](../../topics/mistral.md) [`ollama`](../../topics/ollama.md) [`qwen`](../../topics/qwen.md) 
+[`deepseek`](../../topics/deepseek.md) [`gemma`](../../topics/gemma.md) [`glm`](../../topics/glm.md) [`go`](../../topics/go.md) [`golang`](../../topics/golang.md) [`gpt-oss`](../../topics/gpt-oss.md) [`llama`](../../topics/llama.md) [`llm`](../../topics/llm.md) [`llms`](../../topics/llms.md) [`minimax`](../../topics/minimax.md) [`mistral`](../../topics/mistral.md) [`muse`](../../topics/muse.md) [`ollama`](../../topics/ollama.md) [`qwen`](../../topics/qwen.md) 
 
 ### Curated Categories
 `Large Language Models` `Systems Programming` 
@@ -70,7 +70,7 @@
 |--------|--------|---------|
 | **Difficulty** | Intermediate | Well-documented but extensive API |
 | **Documentation** | Excellent | Comprehensive guides and examples |
-| **Community** | Very Active | 184,741+ stars, strong contributor base |
+| **Community** | Very Active | 185,138+ stars, strong contributor base |
 | **Maturity** | Stable | Mature with proven track record |
 | **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Easy | Beginner-friendly with tutorials |
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:42.129Z*  
-*Data from 25 trending reports*
+*Last updated: 2026-10-28T21:02:02.396Z*  
+*Data from 26 trending reports*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Unknown |
 | **License** | Not specified |
-| **Stars** | ⭐ 5,369 |
-| **Forks** | 🍴 811 |
-| **Trending Days** | 1 |
-| **Peak Rank** | #11 |
+| **Stars** | ⭐ 6,948 |
+| **Forks** | 🍴 999 |
+| **Trending Days** | 2 |
+| **Peak Rank** | #10 |
 
 | **First Seen** | Oct 27, 2026 |
-| **Last Seen** | Oct 27, 2026 |
+| **Last Seen** | Oct 28, 2026 |
 
 
 ---
@@ -43,12 +43,13 @@
 
 ## Trending Timeline
 
+**Oct 28, 2026** — Rank #10 (+1478 ⭐)  
 
 ### Highlights
 
-- **Peak Rank**: #11
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Peak Rank**: #10
+- **Trending Days**: 2
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +86,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
-- **Historical Rank**: Peak: #11
+- **Trending Score**: 40&#x2F;100
+- **Historical Rank**: Top 10 (Peak: #10)
 
 
 ---
 
-*Last updated: 2026-10-27T21:01:45.709Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-28T21:02:06.721Z*  
+*Data from 2 trending reports*

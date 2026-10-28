@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | BSD-3-Clause |
-| **Stars** | ⭐ 93 |
-| **Forks** | 🍴 13 |
-| **Trending Days** | 2 |
+| **Stars** | ⭐ 108 |
+| **Forks** | 🍴 14 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 26, 2026 |
-| **Last Seen** | Oct 27, 2026 |
+| **Last Seen** | Oct 28, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
-- **Longest Streak**: 2 days
+- **Trending Days**: 3
+- **Longest Streak**: 3 days
 
 ---
 
@@ -84,12 +84,12 @@
 - Check similar projects in Dart
 
 #### Metrics
-- **Hidden Gem**: ✗ No
-- **Trending Score**: 40&#x2F;100
+- **Hidden Gem**: ✓ Yes
+- **Trending Score**: 60&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-27T21:01:45.706Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-10-28T21:02:06.717Z*  
+*Data from 3 trending reports*

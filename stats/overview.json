@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-27T21:01:46.111Z",
-  "total_repositories": 4243,
-  "trending_today": 353,
-  "new_this_month": 606,
+  "generated_at": "2026-10-28T21:02:07.224Z",
+  "total_repositories": 4268,
+  "trending_today": 362,
+  "new_this_month": 596,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-10-27",
+  "last_collection": "2026-10-28",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 71,
+    "trending_days": 72,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "togg53192-cmd/jailbreaks",
-    "stars": 5369,
-    "first_seen": "2026-10-27"
+    "full_name": "xiaolai/the-craft-of-selfteaching",
+    "stars": 18454,
+    "first_seen": "2026-10-28"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 56877116,
-  "avg_stars": 13405,
-  "avg_trending_days": 6.5,
+  "total_stars": 57141186,
+  "avg_stars": 13388,
+  "avg_trending_days": 6.6,
   "language_count": 62,
-  "topic_count": 10621,
+  "topic_count": 10660,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

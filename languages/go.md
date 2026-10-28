@@ -6,9 +6,9 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 320
+- **Total Repositories**: 322
 - **First Seen**: 2026-07-31
-- **Last Updated**: 2026-10-25
+- **Last Updated**: 2026-10-28
 
 ---
 
@@ -16,52 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 54,002 | 2026-08-01 | 22 |
+| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,725 | 2026-08-01 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | ⭐ 35,652 | 2026-08-01 | 25 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 54,123 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [moby/moby](../repos/moby/moby.md) | ⭐ 72,214 | 2026-08-04 | 6 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 185,138 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wailsapp/wails](../repos/wailsapp/wails.md) | ⭐ 36,765 | 2026-08-05 | 7 |
+| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 8,356 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [rorkai/App-Store-Connect-CLI](../repos/rorkai/App-Store-Connect-CLI.md) | ⭐ 8,063 | 2026-08-09 | 4 |
+| [chaitin/SafeLine](../repos/chaitin/SafeLine.md) | ⭐ 23,073 | 2026-08-03 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 20,939 | 2026-08-11 | 7 |
+| [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) | ⭐ 4,433 | 2026-08-05 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Gaurav-Gosain/tuios](../repos/Gaurav-Gosain/tuios.md) | ⭐ 6,145 | 2026-08-19 | 6 |
+| [wailsapp/wails](../repos/wailsapp/wails.md) | ⭐ 36,793 | 2026-08-05 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | ⭐ 48,578 | 2026-08-20 | 16 |
+| [anchore/syft](../repos/anchore/syft.md) | ⭐ 9,783 | 2026-08-11 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-telemetry/opentelemetry-collector](../repos/open-telemetry/opentelemetry-collector.md) | ⭐ 7,709 | 2026-08-22 | 4 |
+| [mvanhorn/cli-printing-press](../repos/mvanhorn/cli-printing-press.md) | ⭐ 4,865 | 2026-08-17 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [grafana/mcp-grafana](../repos/grafana/mcp-grafana.md) | ⭐ 3,616 | 2026-08-26 | 4 |
+| [argoproj/argo-workflows](../repos/argoproj/argo-workflows.md) | ⭐ 17,063 | 2026-08-19 | 3 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [londek/ipadecrypt](../repos/londek/ipadecrypt.md) | ⭐ 606 | 2026-09-28 | 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa&#39;s with minimal... |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [ffuf/ffuf](../repos/ffuf/ffuf.md) | ⭐ 16,778 | 2026-09-28 | Fast web fuzzer written in Go |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [grafana/k6](../repos/grafana/k6.md) | ⭐ 31,695 | 2026-09-28 | A modern load testing tool, using Go and JavaScript |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [pingcap/tidb](../repos/pingcap/tidb.md) | ⭐ 40,600 | 2026-09-28 | TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native supp... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rakyll/hey](../repos/rakyll/hey.md) | ⭐ 20,614 | 2026-09-29 | HTTP load generator, ApacheBench (ab) replacement |
@@ -80,6 +68,18 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [distribution/distribution](../repos/distribution/distribution.md) | ⭐ 10,642 | 2026-10-03 | The toolkit to pack, ship, store, and deliver container content |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [urfave/cli](../repos/urfave/cli.md) | ⭐ 24,295 | 2026-10-03 | A declarative, simple, fast, and fun package for building command line tools in Go |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [slavakurilyak/awesome-ai-agents](../repos/slavakurilyak/awesome-ai-agents.md) | ⭐ 2,723 | 2026-10-06 | Awesome list of 300+ agentic AI resources |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [llm-d/llm-d-router](../repos/llm-d/llm-d-router.md) | ⭐ 418 | 2026-10-06 | llm-d Router: The intelligent entry point for inference requests |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [owasp-amass/amass](../repos/owasp-amass/amass.md) | ⭐ 15,303 | 2026-10-06 | In-depth attack surface mapping and asset discovery |
 
 
 ---
@@ -88,7 +88,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 184,741 | 2026-08-01 | 25 |
+| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 185,138 | 2026-08-01 | 26 |
 | [golang/go](../repos/golang/go.md) | ⭐ 139,616 | 2026-07-31 | 17 |
 | [kubernetes/kubernetes](../repos/kubernetes/kubernetes.md) | ⭐ 128,554 | 2026-08-04 | 11 |
 | [microsoft/TypeScript](../repos/microsoft/TypeScript.md) | ⭐ 111,572 | 2026-08-15 | 12 |
@@ -102,7 +102,7 @@
 | [prometheus/prometheus](../repos/prometheus/prometheus.md) | ⭐ 66,720 | 2026-08-11 | 6 |
 | [minio/minio](../repos/minio/minio.md) | ⭐ 61,365 | 2026-08-12 | 2 |
 | [pocketbase/pocketbase](../repos/pocketbase/pocketbase.md) | ⭐ 60,980 | 2026-08-24 | 2 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 54,002 | 2026-08-01 | 22 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 54,123 | 2026-08-01 | 23 |
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,401 | 2026-08-22 | 5 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 50,580 | 2026-08-01 | 21 |
@@ -115,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [ollama/ollama](../repos/ollama/ollama.md) | 26 | ⭐ 185,138 | 2026-08-01 | 2026-10-28 |
 | [Tencent/WeKnora](../repos/Tencent/WeKnora.md) | 25 | ⭐ 35,652 | 2026-08-01 | 2026-10-27 |
-| [ollama/ollama](../repos/ollama/ollama.md) | 25 | ⭐ 184,741 | 2026-08-01 | 2026-10-25 |
-| [multica-ai/multica](../repos/multica-ai/multica.md) | 22 | ⭐ 54,002 | 2026-08-01 | 2026-10-27 |
+| [multica-ai/multica](../repos/multica-ai/multica.md) | 23 | ⭐ 54,123 | 2026-08-01 | 2026-10-28 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 21 | ⭐ 50,580 | 2026-08-01 | 2026-10-23 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 21 | ⭐ 38,671 | 2026-08-01 | 2026-10-23 |
 | [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 19 | ⭐ 44,261 | 2026-08-07 | 2026-10-17 |
 | [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 18 | ⭐ 5,489 | 2026-08-02 | 2026-10-18 |
 | [golang/go](../repos/golang/go.md) | 17 | ⭐ 139,616 | 2026-07-31 | 2026-10-26 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 17 | ⭐ 880 | 2026-08-01 | 2026-10-21 |
-| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 16 | ⭐ 48,578 | 2026-08-20 | 2026-10-27 |
+| [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 17 | ⭐ 48,815 | 2026-08-20 | 2026-10-28 |
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.535Z*
+*Last updated: 2026-10-28T21:02:00.304Z*

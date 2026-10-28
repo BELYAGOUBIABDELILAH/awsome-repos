@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 228
+- **Total Repositories**: 227
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
 
@@ -16,34 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [redis/redis](../repos/redis/redis.md) | ⭐ 77,133 | 2026-08-04 | 9 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,154 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [git/git](../repos/git/git.md) | ⭐ 64,051 | 2026-08-05 | 9 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,752 | 2026-08-01 | 26 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 25,177 | 2026-08-05 | 6 |
+| [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 25,197 | 2026-08-05 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hashcat/hashcat](../repos/hashcat/hashcat.md) | ⭐ 27,156 | 2026-08-06 | 6 |
+| [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 27,549 | 2026-08-08 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | ⭐ 16,924 | 2026-08-06 | 28 |
+| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,518 | 2026-08-12 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [veracrypt/VeraCrypt](../repos/veracrypt/VeraCrypt.md) | ⭐ 11,980 | 2026-08-09 | 6 |
+| [yugabyte/yugabyte-db](../repos/yugabyte/yugabyte-db.md) | ⭐ 10,636 | 2026-08-20 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,207 | 2026-09-01 | 18 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,654 | 2026-09-01 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [snesrev/zelda3](../repos/snesrev/zelda3.md) | ⭐ 4,926 | 2026-09-22 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [martanne/vis](../repos/martanne/vis.md) | ⭐ 5,220 | 2026-10-02 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [DualCoder/vgpu_unlock](../repos/DualCoder/vgpu_unlock.md) | ⭐ 5,368 | 2026-10-27 | 1 |
+| [willfaust/Madeira](../repos/willfaust/Madeira.md) | ⭐ 2,932 | 2026-09-09 | 11 |
 
 
 ---
@@ -89,14 +83,14 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,696 | 2026-08-07 | 17 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 139,988 | 2026-08-01 | 22 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,154 | 2026-08-01 | 23 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 78,208 | 2026-08-02 | 18 |
 | [redis/redis](../repos/redis/redis.md) | ⭐ 77,133 | 2026-08-04 | 9 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,299 | 2026-08-01 | 25 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,752 | 2026-08-01 | 26 |
 | [git/git](../repos/git/git.md) | ⭐ 64,051 | 2026-08-05 | 9 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,207 | 2026-09-01 | 18 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,654 | 2026-09-01 | 19 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 41,534 | 2026-08-01 | 12 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
@@ -117,13 +111,13 @@
 |------------|---------------|-------|------------|-----------|
 | [semgrep/semgrep](../repos/semgrep/semgrep.md) | 39 | ⭐ 17,267 | 2026-08-01 | 2026-10-25 |
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 28 | ⭐ 16,924 | 2026-08-06 | 2026-10-27 |
+| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 26 | ⭐ 75,752 | 2026-08-01 | 2026-10-28 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 26 | ⭐ 47,337 | 2026-08-07 | 2026-10-23 |
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 25 | ⭐ 75,299 | 2026-08-01 | 2026-10-25 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 22 | ⭐ 139,988 | 2026-08-01 | 2026-10-26 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 23 | ⭐ 140,154 | 2026-08-01 | 2026-10-28 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 19 | ⭐ 7,021 | 2026-08-04 | 2026-10-23 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 19 | ⭐ 44,654 | 2026-09-01 | 2026-10-28 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 18 | ⭐ 78,208 | 2026-08-02 | 2026-10-25 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 18 | ⭐ 44,207 | 2026-09-01 | 2026-10-27 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 17 | ⭐ 151,696 | 2026-08-07 | 2026-10-09 |
 
 ---
@@ -233,4 +227,4 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.503Z*
+*Last updated: 2026-10-28T21:02:00.261Z*

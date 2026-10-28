@@ -16,28 +16,19 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | ⭐ 1,471 | 2026-08-01 | 55 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 40,552 | 2026-08-02 | 39 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 38,784 | 2026-08-02 | 38 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,613 | 2026-08-05 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,927 | 2026-08-06 | 25 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 6,563 | 2026-08-10 | 24 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [themesberg/flowbite-svelte](../repos/themesberg/flowbite-svelte.md) | ⭐ 2,791 | 2026-10-27 | 1 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | ⭐ 6,607 | 2026-08-10 | 25 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [woowacourse/java-http](../repos/woowacourse/java-http.md) | ⭐ 23 | 2026-09-28 |  |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [bwhtech/commera](../repos/bwhtech/commera.md) | ⭐ 60 | 2026-10-01 | Open Source E-commerce Platform, powered by ERPNext |
@@ -65,6 +56,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [wso2/docs-is](../repos/wso2/docs-is.md) | ⭐ 81 | 2026-10-20 |  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [themesberg/flowbite-svelte](../repos/themesberg/flowbite-svelte.md) | ⭐ 2,791 | 2026-10-27 | Official Svelte components built for Flowbite and Tailwind CSS |
 
 
 ---
@@ -76,7 +70,7 @@
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | ⭐ 82,927 | 2026-08-06 | 25 |
 | [necolas/normalize.css](../repos/necolas/normalize.css.md) | ⭐ 53,503 | 2026-08-01 | 13 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | ⭐ 45,384 | 2026-08-04 | 29 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 38,784 | 2026-08-02 | 38 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | ⭐ 40,552 | 2026-08-02 | 39 |
 | [adobe-fonts/source-code-pro](../repos/adobe-fonts/source-code-pro.md) | ⭐ 20,445 | 2026-09-07 | 1 |
 | [uvdesk/community-skeleton](../repos/uvdesk/community-skeleton.md) | ⭐ 19,612 | 2026-08-04 | 5 |
 | [picocss/pico](../repos/picocss/pico.md) | ⭐ 16,847 | 2026-08-08 | 2 |
@@ -88,7 +82,7 @@
 | [tachyons-css/tachyons](../repos/tachyons-css/tachyons.md) | ⭐ 11,724 | 2026-10-16 | 6 |
 | [jdan/98.css](../repos/jdan/98.css.md) | ⭐ 11,557 | 2026-08-09 | 3 |
 | [StylishThemes/GitHub-Dark](../repos/StylishThemes/GitHub-Dark.md) | ⭐ 9,966 | 2026-08-19 | 3 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,597 | 2026-08-05 | 20 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | ⭐ 9,613 | 2026-08-05 | 21 |
 | [troxler/awesome-css-frameworks](../repos/troxler/awesome-css-frameworks.md) | ⭐ 9,495 | 2026-08-23 | 2 |
 | [kmaasrud/awesome-obsidian](../repos/kmaasrud/awesome-obsidian.md) | ⭐ 9,461 | 2026-09-02 | 6 |
 | [vinceliuice/WhiteSur-gtk-theme](../repos/vinceliuice/WhiteSur-gtk-theme.md) | ⭐ 9,380 | 2026-08-01 | 18 |
@@ -101,15 +95,15 @@
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
 | [hkhcoder/vprofile-project](../repos/hkhcoder/vprofile-project.md) | 55 | ⭐ 1,471 | 2026-08-01 | 2026-10-27 |
-| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 38 | ⭐ 38,784 | 2026-08-02 | 2026-10-27 |
+| [Nutlope/hallmark](../repos/Nutlope/hallmark.md) | 39 | ⭐ 40,552 | 2026-08-02 | 2026-10-28 |
 | [opera-gaming/gxmods](../repos/opera-gaming/gxmods.md) | 37 | ⭐ 920 | 2026-08-01 | 2026-10-19 |
 | [jothepro/doxygen-awesome-css](../repos/jothepro/doxygen-awesome-css.md) | 29 | ⭐ 1,431 | 2026-08-01 | 2026-10-22 |
 | [isocpp/CppCoreGuidelines](../repos/isocpp/CppCoreGuidelines.md) | 29 | ⭐ 45,384 | 2026-08-04 | 2026-10-23 |
 | [ConardLi/garden-skills](../repos/ConardLi/garden-skills.md) | 28 | ⭐ 13,213 | 2026-08-02 | 2026-10-23 |
 | [animate-css/animate.css](../repos/animate-css/animate.css.md) | 25 | ⭐ 82,927 | 2026-08-06 | 2026-10-27 |
-| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 24 | ⭐ 6,563 | 2026-08-10 | 2026-10-27 |
+| [XiaomingX/ai-money-maker-handbook](../repos/XiaomingX/ai-money-maker-handbook.md) | 25 | ⭐ 6,607 | 2026-08-10 | 2026-10-28 |
 | [HackTricks-wiki/hacktricks](../repos/HackTricks-wiki/hacktricks.md) | 23 | ⭐ 12,511 | 2026-08-01 | 2026-10-09 |
-| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 20 | ⭐ 9,597 | 2026-08-05 | 2026-10-23 |
+| [spring-projects/spring-petclinic](../repos/spring-projects/spring-petclinic.md) | 21 | ⭐ 9,613 | 2026-08-05 | 2026-10-28 |
 
 ---
 
@@ -196,4 +190,4 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.511Z*
+*Last updated: 2026-10-28T21:02:00.273Z*

@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 224
 - **First Seen**: 2026-07-30
-- **Last Updated**: 2026-10-23
+- **Last Updated**: 2026-10-28
 
 ---
 
@@ -16,22 +16,31 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [agentgateway/agentgateway](../repos/agentgateway/agentgateway.md) | ⭐ 5,681 | 2026-08-01 | 10 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 131,433 | 2026-08-01 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 90,367 | 2026-08-05 | 26 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | ⭐ 28,035 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 100,266 | 2026-08-09 | 19 |
+| [cocoindex-io/cocoindex](../repos/cocoindex-io/cocoindex.md) | ⭐ 11,773 | 2026-08-01 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [xai-org/x-algorithm](../repos/xai-org/x-algorithm.md) | ⭐ 33,833 | 2026-09-03 | 4 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 44,774 | 2026-08-02 | 12 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pollen-robotics/microduck](../repos/pollen-robotics/microduck.md) | ⭐ 12,745 | 2026-10-16 | 6 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 92,397 | 2026-08-05 | 27 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ShayanAbbas1/dbdelve](../repos/ShayanAbbas1/dbdelve.md) | ⭐ 566 | 2026-10-27 | 1 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 100,922 | 2026-08-09 | 20 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [macro-inc/macro](../repos/macro-inc/macro.md) | ⭐ 5,356 | 2026-08-11 | 8 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [xai-org/x-algorithm](../repos/xai-org/x-algorithm.md) | ⭐ 33,870 | 2026-09-03 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [trymirai/uzu](../repos/trymirai/uzu.md) | ⭐ 2,990 | 2026-10-21 | 2 |
 
 
 ---
@@ -76,13 +85,13 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [openai/codex](../repos/openai/codex.md) | ⭐ 130,630 | 2026-08-01 | 17 |
+| [openai/codex](../repos/openai/codex.md) | ⭐ 131,433 | 2026-08-01 | 18 |
 | [rust-lang/rust](../repos/rust-lang/rust.md) | ⭐ 119,946 | 2026-07-30 | 11 |
 | [denoland/deno](../repos/denoland/deno.md) | ⭐ 108,322 | 2026-07-30 | 3 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 100,266 | 2026-08-09 | 19 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | ⭐ 100,922 | 2026-08-09 | 20 |
 | [oven-sh/bun](../repos/oven-sh/bun.md) | ⭐ 96,300 | 2026-08-11 | 9 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 92,397 | 2026-08-05 | 27 |
 | [astral-sh/uv](../repos/astral-sh/uv.md) | ⭐ 91,084 | 2026-07-31 | 7 |
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | ⭐ 90,367 | 2026-08-05 | 26 |
 | [tauri-apps/tauri](../repos/tauri-apps/tauri.md) | ⭐ 76,500 | 2026-07-30 | 3 |
 | [unionlabs/union](../repos/unionlabs/union.md) | ⭐ 73,859 | 2026-08-15 | 1 |
 | [warpdotdev/warp](../repos/warpdotdev/warp.md) | ⭐ 65,345 | 2026-08-20 | 5 |
@@ -94,7 +103,7 @@
 | [bevyengine/bevy](../repos/bevyengine/bevy.md) | ⭐ 48,449 | 2026-08-28 | 3 |
 | [helix-editor/helix](../repos/helix-editor/helix.md) | ⭐ 46,418 | 2026-08-28 | 2 |
 | [juspay/hyperswitch](../repos/juspay/hyperswitch.md) | ⭐ 45,253 | 2026-08-05 | 10 |
-| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 44,035 | 2026-08-02 | 11 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | ⭐ 44,774 | 2026-08-02 | 12 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | ⭐ 42,354 | 2026-08-10 | 17 |
 
 ---
@@ -103,16 +112,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 26 | ⭐ 90,367 | 2026-08-05 | 2026-10-27 |
+| [pbakaus/impeccable](../repos/pbakaus/impeccable.md) | 27 | ⭐ 92,397 | 2026-08-05 | 2026-10-28 |
 | [ayangweb/BongoCat](../repos/ayangweb/BongoCat.md) | 22 | ⭐ 24,202 | 2026-08-08 | 2026-10-25 |
-| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 19 | ⭐ 100,266 | 2026-08-09 | 2026-10-27 |
-| [openai/codex](../repos/openai/codex.md) | 17 | ⭐ 130,630 | 2026-08-01 | 2026-10-23 |
+| [ruvnet/RuView](../repos/ruvnet/RuView.md) | 20 | ⭐ 100,922 | 2026-08-09 | 2026-10-28 |
+| [openai/codex](../repos/openai/codex.md) | 18 | ⭐ 131,433 | 2026-08-01 | 2026-10-28 |
 | [tinyhumansai/openhuman](../repos/tinyhumansai/openhuman.md) | 17 | ⭐ 42,354 | 2026-08-10 | 2026-10-26 |
 | [akitaonrails/ai-memory](../repos/akitaonrails/ai-memory.md) | 16 | ⭐ 12,999 | 2026-08-17 | 2026-10-23 |
+| [t8y2/dbx](../repos/t8y2/dbx.md) | 15 | ⭐ 28,035 | 2026-08-01 | 2026-10-28 |
 | [nautechsystems/nautilus_trader](../repos/nautechsystems/nautilus_trader.md) | 15 | ⭐ 30,895 | 2026-08-03 | 2026-10-26 |
-| [t8y2/dbx](../repos/t8y2/dbx.md) | 14 | ⭐ 26,668 | 2026-08-01 | 2026-10-14 |
 | [max-sixty/worktrunk](../repos/max-sixty/worktrunk.md) | 14 | ⭐ 9,424 | 2026-08-26 | 2026-10-23 |
-| [Automattic/harper](../repos/Automattic/harper.md) | 12 | ⭐ 16,769 | 2026-08-10 | 2026-10-19 |
+| [vercel-labs/agent-browser](../repos/vercel-labs/agent-browser.md) | 12 | ⭐ 44,774 | 2026-08-02 | 2026-10-28 |
 
 ---
 
@@ -168,7 +177,7 @@
 - [PyO3/pyo3](../repos/PyO3/pyo3.md) - Rust bindings for the Python interpreter
 - [rerun-io/rerun](../repos/rerun-io/rerun.md) - Visualize, query, and stream to train on multimodal robotics data.
 - [zellij-org/zellij](../repos/zellij-org/zellij.md) - A terminal workspace with batteries included
-- [pbakaus/impeccable](../repos/pbakaus/impeccable.md) - The design language that makes your AI harness better at design.
+- [pbakaus/impeccable](../repos/pbakaus/impeccable.md) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique a...
 - [ovexro/dockpanel](../repos/ovexro/dockpanel.md) - Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git depl...
 - [juspay/hyperswitch](../repos/juspay/hyperswitch.md) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables ...
 - [pola-rs/polars](../repos/pola-rs/polars.md) - Extremely fast Query Engine for DataFrames, written in Rust
@@ -221,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.581Z*
+*Last updated: 2026-10-28T21:02:00.361Z*

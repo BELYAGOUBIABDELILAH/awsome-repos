@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Scala |
 | **License** | MIT |
-| **Stars** | ⭐ 268 |
-| **Forks** | 🍴 120 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 277 |
+| **Forks** | 🍴 126 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 12, 2026 |
-| **Last Seen** | Oct 12, 2026 |
+| **Last Seen** | Oct 28, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Scala or similar-topics*
+*Similar: Check repositories in Scala or agents*
 
 ---
 
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -55,10 +55,10 @@
 ## Categories
 
 ### Topics
-
+[`agents`](../../topics/agents.md) [`ai-agents`](../../topics/ai-agents.md) [`anthropic`](../../topics/anthropic.md) [`gemini`](../../topics/gemini.md) [`generative-ai`](../../topics/generative-ai.md) [`java`](../../topics/java.md) [`jvm`](../../topics/jvm.md) [`kotlin`](../../topics/kotlin.md) [`large-language-models`](../../topics/large-language-models.md) [`llm`](../../topics/llm.md) [`llm-framework`](../../topics/llm-framework.md) [`mcp`](../../topics/mcp.md) [`ollama`](../../topics/ollama.md) [`openai`](../../topics/openai.md) [`rag`](../../topics/rag.md) [`scala`](../../topics/scala.md) [`scala3`](../../topics/scala3.md) [`tool-calling`](../../topics/tool-calling.md) 
 
 ### Curated Categories
-`General` 
+`Artificial Intelligence` `Large Language Models` `Generative AI` `Mobile Development` `Systems Programming` 
 
 ---
 
@@ -70,9 +70,9 @@
 |--------|--------|---------|
 | **Difficulty** | Beginner | Approachable with good examples |
 | **Documentation** | Limited | May require reading source code |
-| **Community** | Very Active | 268+ stars, strong contributor base |
+| **Community** | Very Active | 277+ stars, strong contributor base |
 | **Maturity** | Stable | Established project |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-27T21:01:45.483Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-28T21:02:06.449Z*  
+*Data from 2 trending reports*

@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 6
+- **Total Repositories**: 7
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-08-04
 
@@ -16,10 +16,7 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [open-goal/jak-project](../repos/open-goal/jak-project.md) | ⭐ 3,619 | 2026-08-03 | 48 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 152 | 2026-10-26 | 2 |
+| [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) | ⭐ 42 | 2026-10-28 | 1 |
 
 
 ---
@@ -29,6 +26,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 152 | 2026-10-26 | A living agent organism in Lisp. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) | ⭐ 42 | 2026-10-28 | This is exercise for robot-programming. |
 
 
 ---
@@ -43,6 +43,7 @@
 | [sbcl/sbcl](../repos/sbcl/sbcl.md) | ⭐ 2,143 | 2026-08-24 | 4 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | ⭐ 1,734 | 2026-08-04 | 1 |
 | [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | ⭐ 152 | 2026-10-26 | 2 |
+| [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) | ⭐ 42 | 2026-10-28 | 1 |
 
 ---
 
@@ -56,6 +57,7 @@
 | [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) | 2 | ⭐ 152 | 2026-10-26 | 2026-10-27 |
 | [atlas-engineer/nyxt](../repos/atlas-engineer/nyxt.md) | 1 | ⭐ 10,986 | 2026-08-04 | 2026-08-04 |
 | [coalton-lang/coalton](../repos/coalton-lang/coalton.md) | 1 | ⭐ 1,734 | 2026-08-04 | 2026-08-04 |
+| [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) | 1 | ⭐ 42 | 2026-10-28 | 2026-10-28 |
 
 ---
 
@@ -67,7 +69,8 @@
 - [coalton-lang/coalton](../repos/coalton-lang/coalton.md) - Coalton is an efficient, statically typed functional programming language that supercharges Commo...
 - [sbcl/sbcl](../repos/sbcl/sbcl.md) - Mirror of Steel Bank Common Lisp (SBCL)&#39;s official repository
 - [nodecode-ai/nodecode](../repos/nodecode-ai/nodecode.md) - A living agent organism in Lisp.
+- [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) - This is exercise for robot-programming.
 
 ---
 
-*Last updated: 2026-10-27T21:01:40.516Z*
+*Last updated: 2026-10-28T21:02:00.279Z*
