@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [jsk-enshu/robot-programming](../repos/jsk-enshu/robot-programming.md) | ⭐ 42 | 2026-10-28 | 1 |
 
+*No Common Lisp repositories trending today*
 
 ---
 
@@ -73,4 +71,4 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:00.279Z*
+*Last updated: 2026-10-29T21:01:54.846Z*

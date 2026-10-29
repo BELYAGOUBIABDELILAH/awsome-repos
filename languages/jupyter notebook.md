@@ -14,10 +14,8 @@
 
 ## 🔥 Trending Today
 
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [xiaolai/the-craft-of-selfteaching](../repos/xiaolai/the-craft-of-selfteaching.md) | ⭐ 18,454 | 2026-10-28 | 1 |
 
+*No Jupyter Notebook repositories trending today*
 
 ---
 
@@ -61,4 +59,4 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:00.321Z*
+*Last updated: 2026-10-29T21:01:54.893Z*

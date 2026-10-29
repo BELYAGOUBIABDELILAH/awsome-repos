@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 295
+- **Total Repositories**: 297
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-16
 
@@ -16,34 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ChromeDevTools/chrome-devtools-mcp](../repos/ChromeDevTools/chrome-devtools-mcp.md) | ⭐ 54,366 | 2026-08-01 | 14 |
+| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 40,100 | 2026-08-02 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gitroomhq/postiz-app](../repos/gitroomhq/postiz-app.md) | ⭐ 39,939 | 2026-08-02 | 6 |
+| [CopilotKit/CopilotKit](../repos/CopilotKit/CopilotKit.md) | ⭐ 38,367 | 2026-08-07 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [heygen-com/hyperframes](../repos/heygen-com/hyperframes.md) | ⭐ 74,642 | 2026-08-08 | 23 |
+| [lfnovo/open-notebook](../repos/lfnovo/open-notebook.md) | ⭐ 40,913 | 2026-08-11 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [n8n-io/n8n](../repos/n8n-io/n8n.md) | ⭐ 208,895 | 2026-08-11 | 7 |
+| [anthropics/claude-code-action](../repos/anthropics/claude-code-action.md) | ⭐ 9,705 | 2026-08-29 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [every-app/open-seo](../repos/every-app/open-seo.md) | ⭐ 25,489 | 2026-08-14 | 10 |
+| [KeygraphHQ/shannon](../repos/KeygraphHQ/shannon.md) | ⭐ 50,378 | 2026-09-02 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [upscayl/upscayl](../repos/upscayl/upscayl.md) | ⭐ 51,224 | 2026-08-14 | 4 |
+| [chthollyphile/folia-major](../repos/chthollyphile/folia-major.md) | ⭐ 10,204 | 2026-10-11 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [KeygraphHQ/shannon](../repos/KeygraphHQ/shannon.md) | ⭐ 50,084 | 2026-09-02 | 2 |
+| [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 98,817 | 2026-10-15 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [makecindy/cindy](../repos/makecindy/cindy.md) | ⭐ 8,006 | 2026-10-09 | 5 |
+| [CopilotKit/OpenBot](../repos/CopilotKit/OpenBot.md) | ⭐ 8,031 | 2026-10-22 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JetBrains/thinkrail](../repos/JetBrains/thinkrail.md) | ⭐ 4,940 | 2026-10-25 | 4 |
+| [JetBrains/thinkrail](../repos/JetBrains/thinkrail.md) | ⭐ 5,934 | 2026-10-25 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nightly-labs/openbot](../repos/nightly-labs/openbot.md) | ⭐ 3,155 | 2026-10-25 | 4 |
+| [nightly-labs/openbot](../repos/nightly-labs/openbot.md) | ⭐ 3,806 | 2026-10-25 | 5 |
 
 
 ---
@@ -52,16 +52,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [cloudflare/vinext](../repos/cloudflare/vinext.md) | ⭐ 9,057 | 2026-09-29 | Vite plugin that reimplements the Next.js API surface — deploy anywhere |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [OpenCTI-Platform/opencti](../repos/OpenCTI-Platform/opencti.md) | ⭐ 10,067 | 2026-09-29 | Open Cyber Threat Intelligence Platform |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
 | [pablostanley/yoinks](../repos/pablostanley/yoinks.md) | ⭐ 6,360 | 2026-10-01 | yoink any video from your terminal. no shady ads. |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [nyakang/nyaterm](../repos/nyakang/nyaterm.md) | ⭐ 1,722 | 2026-10-01 | A modern remote terminal workspace |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [ag-ui-protocol/ag-ui](../repos/ag-ui-protocol/ag-ui.md) | ⭐ 16,207 | 2026-10-01 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
@@ -80,6 +71,15 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [getsentry/toolkit](../repos/getsentry/toolkit.md) | ⭐ 909 | 2026-10-03 | Agentic tooling for Sentry |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [mattermost/mattermost](../repos/mattermost/mattermost.md) | ⭐ 39,252 | 2026-10-03 | Mattermost is an open source platform for secure collaboration across the entire software develop... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [minghinmatthewlam/pi-gui](../repos/minghinmatthewlam/pi-gui.md) | ⭐ 1,140 | 2026-10-03 | Electron GUI app for the pi coding agent runtime |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tester-army/e2e](../repos/tester-army/e2e.md) | ⭐ 8,136 | 2026-10-06 | Next generation e2e testing framework for web and mobile apps. |
 
 
 ---
@@ -104,7 +104,7 @@
 | [stablyai/orca](../repos/stablyai/orca.md) | ⭐ 103,697 | 2026-08-11 | 23 |
 | [paperclipai/paperclip](../repos/paperclipai/paperclip.md) | ⭐ 102,669 | 2026-08-02 | 10 |
 | [angular/angular](../repos/angular/angular.md) | ⭐ 100,995 | 2026-08-04 | 4 |
-| [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 97,789 | 2026-10-15 | 1 |
+| [microsoft/playwright](../repos/microsoft/playwright.md) | ⭐ 98,817 | 2026-10-15 | 2 |
 | [tailwindlabs/tailwindcss](../repos/tailwindlabs/tailwindcss.md) | ⭐ 97,337 | 2026-08-04 | 3 |
 | [puppeteer/puppeteer](../repos/puppeteer/puppeteer.md) | ⭐ 95,488 | 2026-08-22 | 1 |
 | [OpenHands/OpenHands](../repos/OpenHands/OpenHands.md) | ⭐ 91,672 | 2026-08-14 | 4 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:00.376Z*
+*Last updated: 2026-10-29T21:01:54.950Z*

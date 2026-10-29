@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,592 | 2026-08-01 | 10 |
+| [github/copilot-sdk](../repos/github/copilot-sdk.md) | ⭐ 10,613 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,376 | 2026-08-01 | 14 |
+| [DependencyTrack/dependency-track](../repos/DependencyTrack/dependency-track.md) | ⭐ 4,384 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,425 | 2026-08-02 | 24 |
+| [opensearch-project/OpenSearch](../repos/opensearch-project/OpenSearch.md) | ⭐ 13,932 | 2026-08-01 | 15 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [trinodb/trino](../repos/trinodb/trino.md) | ⭐ 13,382 | 2026-08-04 | 12 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 95,821 | 2026-08-03 | 28 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 131,621 | 2026-08-04 | 16 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | ⭐ 6,181 | 2026-08-05 | 29 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,612 | 2026-08-04 | 10 |
+| [neo4j/neo4j](../repos/neo4j/neo4j.md) | ⭐ 17,377 | 2026-08-05 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [quarkusio/quarkus](../repos/quarkusio/quarkus.md) | ⭐ 15,970 | 2026-08-07 | 11 |
+| [StarRocks/starrocks](../repos/StarRocks/starrocks.md) | ⭐ 12,217 | 2026-08-05 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jeecgboot/JeecgBoot](../repos/jeecgboot/JeecgBoot.md) | ⭐ 48,307 | 2026-08-07 | 11 |
+| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,300 | 2026-08-08 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [apache/iceberg](../repos/apache/iceberg.md) | ⭐ 9,381 | 2026-08-12 | 11 |
+| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | ⭐ 7,345 | 2026-08-14 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kekingcn/kkFileView](../repos/kekingcn/kkFileView.md) | ⭐ 14,809 | 2026-08-19 | 5 |
+| [apache/dolphinscheduler](../repos/apache/dolphinscheduler.md) | ⭐ 14,539 | 2026-08-15 | 4 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [zed-0xff/ZombieBuddy](../repos/zed-0xff/ZombieBuddy.md) | ⭐ 250 | 2026-09-29 | Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [Azure/azure-sdk-for-java](../repos/Azure/azure-sdk-for-java.md) | ⭐ 2,563 | 2026-10-01 | This repository is for active development of the Azure SDK for Java. For consumers of the SDK we ... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [HbmMods/Hbm-s-Nuclear-Tech-GIT](../repos/HbmMods/Hbm-s-Nuclear-Tech-GIT.md) | ⭐ 974 | 2026-10-08 | A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Leclowndu93150/Thaumaturge](../repos/Leclowndu93150/Thaumaturge.md) | ⭐ 126 | 2026-10-09 |  |
 
 
 ---
@@ -89,13 +89,13 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [krahets/hello-algo](../repos/krahets/hello-algo.md) | ⭐ 131,621 | 2026-08-04 | 16 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 90,182 | 2026-08-03 | 27 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | ⭐ 95,821 | 2026-08-03 | 28 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | ⭐ 81,760 | 2026-08-04 | 20 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | ⭐ 78,425 | 2026-08-02 | 24 |
 | [MisterBooo/LeetCodeAnimation](../repos/MisterBooo/LeetCodeAnimation.md) | ⭐ 76,674 | 2026-08-06 | 1 |
 | [TheAlgorithms/Java](../repos/TheAlgorithms/Java.md) | ⭐ 66,612 | 2026-08-04 | 10 |
 | [kdn251/interviews](../repos/kdn251/interviews.md) | ⭐ 65,508 | 2026-08-08 | 3 |
-| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,295 | 2026-08-08 | 10 |
+| [spring-projects/spring-framework](../repos/spring-projects/spring-framework.md) | ⭐ 60,300 | 2026-08-08 | 11 |
 | [dbeaver/dbeaver](../repos/dbeaver/dbeaver.md) | ⭐ 52,224 | 2026-08-04 | 14 |
 | [google/guava](../repos/google/guava.md) | ⭐ 51,912 | 2026-08-02 | 12 |
 | [skylot/jadx](../repos/skylot/jadx.md) | ⭐ 51,037 | 2026-08-12 | 10 |
@@ -115,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 28 | ⭐ 6,138 | 2026-08-05 | 2026-10-27 |
-| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 27 | ⭐ 90,182 | 2026-08-03 | 2026-10-17 |
+| [agentscope-ai/agentscope-java](../repos/agentscope-ai/agentscope-java.md) | 29 | ⭐ 6,181 | 2026-08-05 | 2026-10-29 |
+| [NationalSecurityAgency/ghidra](../repos/NationalSecurityAgency/ghidra.md) | 28 | ⭐ 95,821 | 2026-08-03 | 2026-10-29 |
 | [elastic/elasticsearch](../repos/elastic/elasticsearch.md) | 24 | ⭐ 78,425 | 2026-08-02 | 2026-10-28 |
 | [kestra-io/kestra](../repos/kestra-io/kestra.md) | 23 | ⭐ 29,909 | 2026-08-04 | 2026-10-20 |
 | [spring-projects/spring-boot](../repos/spring-projects/spring-boot.md) | 20 | ⭐ 81,760 | 2026-08-04 | 2026-10-22 |
 | [ashishps1/awesome-low-level-design](../repos/ashishps1/awesome-low-level-design.md) | 19 | ⭐ 27,448 | 2026-08-02 | 2026-10-18 |
 | [ashishps1/awesome-system-design-resources](../repos/ashishps1/awesome-system-design-resources.md) | 19 | ⭐ 42,547 | 2026-08-05 | 2026-10-18 |
+| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 19 | ⭐ 7,345 | 2026-08-14 | 2026-10-29 |
 | [yuliskov/SmartTube](../repos/yuliskov/SmartTube.md) | 18 | ⭐ 35,578 | 2026-08-04 | 2026-10-26 |
-| [zhukunpenglinyutong/jetbrains-cc-gui](../repos/zhukunpenglinyutong/jetbrains-cc-gui.md) | 18 | ⭐ 7,231 | 2026-08-14 | 2026-10-23 |
 | [iflytek/skillhub](../repos/iflytek/skillhub.md) | 17 | ⭐ 5,277 | 2026-08-04 | 2026-10-23 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:00.314Z*
+*Last updated: 2026-10-29T21:01:54.886Z*

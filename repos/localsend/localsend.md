@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Dart |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 96,209 |
-| **Forks** | 🍴 5,432 |
-| **Trending Days** | 34 |
+| **Stars** | ⭐ 96,456 |
+| **Forks** | 🍴 5,456 |
+| **Trending Days** | 35 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 28, 2026 |
+| **Last Seen** | Oct 29, 2026 |
 
 
 ---
@@ -49,7 +49,7 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 34
+- **Trending Days**: 35
 - **Longest Streak**: 6 days
 
 ---
@@ -93,5 +93,5 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:02.991Z*  
-*Data from 34 trending reports*
+*Last updated: 2026-10-29T21:01:57.679Z*  
+*Data from 35 trending reports*

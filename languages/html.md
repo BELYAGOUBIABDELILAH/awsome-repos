@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 110
+- **Total Repositories**: 111
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-28
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 8,884 | 2026-08-01 | 8 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | ⭐ 10,061 | 2026-08-01 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [averygan/reclip](../repos/averygan/reclip.md) | ⭐ 11,040 | 2026-08-03 | 18 |
+| [lewislulu/html-ppt-skill](../repos/lewislulu/html-ppt-skill.md) | ⭐ 8,902 | 2026-08-01 | 9 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,467 | 2026-08-03 | 20 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,338 | 2026-08-01 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 140,408 | 2026-08-08 | 15 |
+| [Sjj1024/PakePlus](../repos/Sjj1024/PakePlus.md) | ⭐ 15,565 | 2026-08-07 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MengTo/Skills](../repos/MengTo/Skills.md) | ⭐ 7,092 | 2026-08-19 | 11 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 140,643 | 2026-08-08 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [baojie/shiji-kb](../repos/baojie/shiji-kb.md) | ⭐ 3,607 | 2026-09-19 | 7 |
+| [ultrasecurity/Storm-Breaker](../repos/ultrasecurity/Storm-Breaker.md) | ⭐ 6,247 | 2026-08-29 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TandoorRecipes/recipes](../repos/TandoorRecipes/recipes.md) | ⭐ 8,700 | 2026-09-20 | 3 |
+| [datawhalechina/Agent-Learning-Hub](../repos/datawhalechina/Agent-Learning-Hub.md) | ⭐ 9,118 | 2026-09-03 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alchaincyf/darwin-skill](../repos/alchaincyf/darwin-skill.md) | ⭐ 6,681 | 2026-10-08 | 3 |
+| [CoolDude2349/Offline-HTML-Games-Pack](../repos/CoolDude2349/Offline-HTML-Games-Pack.md) | ⭐ 237 | 2026-09-29 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 27,955 | 2026-10-09 | 7 |
+| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,168 | 2026-10-08 | 3 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [MengTo/threeui](../repos/MengTo/threeui.md) | ⭐ 6,907 | 2026-10-22 | 2 |
+| [yvoronoy/awesome-english](../repos/yvoronoy/awesome-english.md) | ⭐ 4,363 | 2026-10-14 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [CoolDude2349/Offline-HTML-Games-Pack](../repos/CoolDude2349/Offline-HTML-Games-Pack.md) | ⭐ 206 | 2026-09-29 | 352 offline HTML games, each on a single file |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [LingDong-/shan-shui-inf](../repos/LingDong-/shan-shui-inf.md) | ⭐ 6,137 | 2026-10-02 | Procedurally generated Chinese landscape painting. |
@@ -68,6 +65,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pedrohcgs/claude-code-my-workflow](../repos/pedrohcgs/claude-code-my-workflow.md) | ⭐ 1,644 | 2026-10-07 | A ready-to-fork Claude Code template for academics using LaTeX&#x2F;Beamer + R. Multi-agent review, qu... |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [HD838A/remote-mic-app](../repos/HD838A/remote-mic-app.md) | ⭐ 2,168 | 2026-10-08 | 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [alchaincyf/darwin-skill](../repos/alchaincyf/darwin-skill.md) | ⭐ 6,681 | 2026-10-08 | 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimizati... |
@@ -89,7 +89,7 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [ossu/computer-science](../repos/ossu/computer-science.md) | ⭐ 210,467 | 2026-08-03 | 20 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 140,408 | 2026-08-08 | 15 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | ⭐ 140,643 | 2026-08-08 | 16 |
 | [PKUFlyingPig/cs-self-learning](../repos/PKUFlyingPig/cs-self-learning.md) | ⭐ 76,193 | 2026-08-19 | 8 |
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | ⭐ 68,205 | 2026-08-01 | 20 |
 | [docker/awesome-compose](../repos/docker/awesome-compose.md) | ⭐ 46,544 | 2026-08-01 | 8 |
@@ -104,7 +104,7 @@
 | [alchaincyf/huashu-design](../repos/alchaincyf/huashu-design.md) | ⭐ 27,955 | 2026-10-09 | 7 |
 | [Tencent/weui](../repos/Tencent/weui.md) | ⭐ 27,434 | 2026-09-25 | 1 |
 | [liguodongiot/llm-action](../repos/liguodongiot/llm-action.md) | ⭐ 24,907 | 2026-08-19 | 1 |
-| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,085 | 2026-08-01 | 9 |
+| [hasaneyldrm/exercises-dataset](../repos/hasaneyldrm/exercises-dataset.md) | ⭐ 23,338 | 2026-08-01 | 10 |
 | [google/fonts](../repos/google/fonts.md) | ⭐ 20,644 | 2026-08-03 | 7 |
 | [Chuyu-Team/Dism-Multi-language](../repos/Chuyu-Team/Dism-Multi-language.md) | ⭐ 20,324 | 2026-09-05 | 1 |
 | [twitter/twemoji](../repos/twitter/twemoji.md) | ⭐ 17,781 | 2026-09-06 | 1 |
@@ -118,11 +118,11 @@
 | [shanraisshan/claude-code-best-practice](../repos/shanraisshan/claude-code-best-practice.md) | 20 | ⭐ 68,205 | 2026-08-01 | 2026-10-27 |
 | [ossu/computer-science](../repos/ossu/computer-science.md) | 20 | ⭐ 210,467 | 2026-08-03 | 2026-10-28 |
 | [averygan/reclip](../repos/averygan/reclip.md) | 18 | ⭐ 11,040 | 2026-08-03 | 2026-10-28 |
+| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 16 | ⭐ 10,061 | 2026-08-01 | 2026-10-29 |
 | [op7418/guizang-ppt-skill](../repos/op7418/guizang-ppt-skill.md) | 16 | ⭐ 28,016 | 2026-08-04 | 2026-10-15 |
+| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 16 | ⭐ 140,643 | 2026-08-08 | 2026-10-29 |
 | [wilsonfreitas/awesome-quant](../repos/wilsonfreitas/awesome-quant.md) | 16 | ⭐ 30,320 | 2026-08-09 | 2026-10-27 |
 | [Jakubantalik/transitions.dev](../repos/Jakubantalik/transitions.dev.md) | 16 | ⭐ 5,826 | 2026-08-11 | 2026-10-27 |
-| [home-assistant/home-assistant.io](../repos/home-assistant/home-assistant.io.md) | 15 | ⭐ 10,029 | 2026-08-01 | 2026-10-27 |
-| [ripienaar/free-for-dev](../repos/ripienaar/free-for-dev.md) | 15 | ⭐ 140,408 | 2026-08-08 | 2026-10-28 |
 | [web-platform-tests/wpt](../repos/web-platform-tests/wpt.md) | 14 | ⭐ 6,282 | 2026-08-05 | 2026-10-23 |
 | [gustavoguanabara/html-css](../repos/gustavoguanabara/html-css.md) | 13 | ⭐ 16,604 | 2026-08-04 | 2026-10-16 |
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:00.309Z*
+*Last updated: 2026-10-29T21:01:54.880Z*

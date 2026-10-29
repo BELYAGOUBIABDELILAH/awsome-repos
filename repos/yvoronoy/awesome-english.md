@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | HTML |
 | **License** | CC0-1.0 |
-| **Stars** | ⭐ 4,153 |
-| **Forks** | 🍴 426 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 4,363 |
+| **Forks** | 🍴 452 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 14, 2026 |
-| **Last Seen** | Oct 14, 2026 |
+| **Last Seen** | Oct 29, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-28T21:02:06.506Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-29T21:02:01.304Z*  
+*Data from 2 trending reports*

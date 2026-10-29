@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 193
+- **Total Repositories**: 195
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-28
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,714 | 2026-08-01 | 22 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | 2026-08-01 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/mcp](../repos/microsoft/mcp.md) | ⭐ 3,804 | 2026-08-01 | 20 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,759 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,850 | 2026-08-01 | 10 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,351 | 2026-08-01 | 17 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 119,367 | 2026-08-02 | 32 |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,865 | 2026-08-01 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,217 | 2026-08-02 | 36 |
+| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,764 | 2026-08-03 | 37 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,750 | 2026-08-02 | 24 |
+| [actions/runner](../repos/actions/runner.md) | ⭐ 6,363 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | ⭐ 17,296 | 2026-08-02 | 24 |
+| [git-ecosystem/git-credential-manager](../repos/git-ecosystem/git-credential-manager.md) | ⭐ 9,412 | 2026-08-04 | 18 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [dotnet/skills](../repos/dotnet/skills.md) | ⭐ 5,756 | 2026-08-03 | 36 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | ⭐ 18,395 | 2026-08-04 | 21 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,711 | 2026-08-05 | 14 |
+| [luolangaga/tubatools](../repos/luolangaga/tubatools.md) | ⭐ 5,899 | 2026-08-12 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [SmartlyDressedGames/U3-SDK](../repos/SmartlyDressedGames/U3-SDK.md) | ⭐ 4,005 | 2026-08-07 | 12 |
+| [sourcegit-scm/sourcegit](../repos/sourcegit-scm/sourcegit.md) | ⭐ 6,286 | 2026-08-19 | 10 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [MikuLeaks/MikuSB](../repos/MikuLeaks/MikuSB.md) | ⭐ 729 | 2026-09-29 | Open-source C#&#x2F;.NET research server emulator for local protocol and networking experimentation. |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [SteamRE/DepotDownloader](../repos/SteamRE/DepotDownloader.md) | ⭐ 3,462 | 2026-10-01 | Steam depot downloader utilizing the SteamKit2 library. |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pearlxcore/PS4PKGTool](../repos/pearlxcore/PS4PKGTool.md) | ⭐ 539 | 2026-10-09 | Manage and perform various operations on PS4 PKG.  |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [studyzy/imewlconverter](../repos/studyzy/imewlconverter.md) | ⭐ 10,488 | 2026-10-09 | ”深蓝词库转换“ 一款开源免费的输入法词库转换程序 |
 
 
 ---
@@ -91,22 +91,22 @@
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | ⭐ 119,367 | 2026-08-02 | 32 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | ⭐ 58,750 | 2026-08-02 | 24 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | ⭐ 56,004 | 2026-08-06 | 20 |
-| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,229 | 2026-08-01 | 16 |
+| [files-community/Files](../repos/files-community/Files.md) | ⭐ 46,351 | 2026-08-01 | 17 |
 | [ShareX/ShareX](../repos/ShareX/ShareX.md) | ⭐ 40,291 | 2026-08-14 | 6 |
 | [huiyadanli/RevokeMsgPatcher](../repos/huiyadanli/RevokeMsgPatcher.md) | ⭐ 38,965 | 2026-08-03 | 12 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | ⭐ 38,489 | 2026-08-01 | 20 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | ⭐ 33,217 | 2026-08-02 | 36 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,714 | 2026-08-01 | 22 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | ⭐ 32,757 | 2026-08-01 | 23 |
 | [DevToys-app/DevToys](../repos/DevToys-app/DevToys.md) | ⭐ 32,100 | 2026-08-22 | 5 |
 | [microsoft/calculator](../repos/microsoft/calculator.md) | ⭐ 31,082 | 2026-08-28 | 4 |
 | [dnSpy/dnSpy](../repos/dnSpy/dnSpy.md) | ⭐ 29,693 | 2026-08-08 | 2 |
 | [microsoft/semantic-kernel](../repos/microsoft/semantic-kernel.md) | ⭐ 28,711 | 2026-08-05 | 14 |
 | [BeyondDimension/SteamTools](../repos/BeyondDimension/SteamTools.md) | ⭐ 27,124 | 2026-08-10 | 7 |
-| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,850 | 2026-08-01 | 10 |
+| [icsharpcode/ILSpy](../repos/icsharpcode/ILSpy.md) | ⭐ 26,865 | 2026-08-01 | 11 |
 | [Devolutions/UniGetUI](../repos/Devolutions/UniGetUI.md) | ⭐ 26,527 | 2026-08-02 | 9 |
 | [QL-Win/QuickLook](../repos/QL-Win/QuickLook.md) | ⭐ 25,445 | 2026-08-27 | 9 |
 | [dotnet/maui](../repos/dotnet/maui.md) | ⭐ 23,316 | 2026-08-04 | 5 |
-| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,700 | 2026-08-01 | 10 |
+| [dotnet/roslyn](../repos/dotnet/roslyn.md) | ⭐ 20,759 | 2026-08-01 | 11 |
 | [bitwarden/server](../repos/bitwarden/server.md) | ⭐ 20,395 | 2026-08-01 | 13 |
 
 ---
@@ -115,15 +115,15 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
+| [dotnet/skills](../repos/dotnet/skills.md) | 37 | ⭐ 5,764 | 2026-08-03 | 2026-10-29 |
 | [k1tbyte/Wand-Enhancer](../repos/k1tbyte/Wand-Enhancer.md) | 36 | ⭐ 33,217 | 2026-08-02 | 2026-10-28 |
-| [dotnet/skills](../repos/dotnet/skills.md) | 36 | ⭐ 5,756 | 2026-08-03 | 2026-10-28 |
 | [2dust/v2rayN](../repos/2dust/v2rayN.md) | 32 | ⭐ 119,367 | 2026-08-02 | 2026-10-28 |
 | [jellyfin/jellyfin](../repos/jellyfin/jellyfin.md) | 24 | ⭐ 58,750 | 2026-08-02 | 2026-10-28 |
 | [babalae/better-genshin-impact](../repos/babalae/better-genshin-impact.md) | 24 | ⭐ 17,296 | 2026-08-02 | 2026-10-28 |
-| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 22 | ⭐ 32,714 | 2026-08-01 | 2026-10-28 |
+| [iOfficeAI/OfficeCLI](../repos/iOfficeAI/OfficeCLI.md) | 23 | ⭐ 32,757 | 2026-08-01 | 2026-10-29 |
+| [dotnet/runtime](../repos/dotnet/runtime.md) | 21 | ⭐ 18,395 | 2026-08-04 | 2026-10-29 |
 | [microsoft/mcp](../repos/microsoft/mcp.md) | 20 | ⭐ 3,804 | 2026-08-01 | 2026-10-28 |
 | [dotnet/aspnetcore](../repos/dotnet/aspnetcore.md) | 20 | ⭐ 38,489 | 2026-08-01 | 2026-10-23 |
-| [dotnet/runtime](../repos/dotnet/runtime.md) | 20 | ⭐ 18,395 | 2026-08-04 | 2026-10-27 |
 | [PowerShell/PowerShell](../repos/PowerShell/PowerShell.md) | 20 | ⭐ 56,004 | 2026-08-06 | 2026-10-27 |
 
 ---
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:00.266Z*
+*Last updated: 2026-10-29T21:01:54.832Z*

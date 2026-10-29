@@ -8,7 +8,7 @@
 
 - **Total Repositories**: 10
 - **First Seen**: 2026-08-01
-- **Last Updated**: 2026-10-26
+- **Last Updated**: 2026-10-29
 
 ---
 
@@ -16,7 +16,10 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/nimony](../repos/nim-lang/nimony.md) | ⭐ 456 | 2026-10-28 | 1 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,288 | 2026-08-01 | 59 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [nim-lang/nimony](../repos/nim-lang/nimony.md) | ⭐ 457 | 2026-10-28 | 2 |
 
 
 ---
@@ -25,7 +28,7 @@
 
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [nim-lang/nimony](../repos/nim-lang/nimony.md) | ⭐ 456 | 2026-10-28 | Nimony is a new Nim implementation that is in heavy development. |
+| [nim-lang/nimony](../repos/nim-lang/nimony.md) | ⭐ 457 | 2026-10-28 | Nimony is a new Nim implementation that is in heavy development. |
 
 
 ---
@@ -34,12 +37,12 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,287 | 2026-08-01 | 58 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | ⭐ 18,288 | 2026-08-01 | 59 |
 | [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | ⭐ 1,301 | 2026-08-14 | 2 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | ⭐ 666 | 2026-08-02 | 23 |
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | ⭐ 634 | 2026-08-05 | 3 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | ⭐ 502 | 2026-08-01 | 16 |
-| [nim-lang/nimony](../repos/nim-lang/nimony.md) | ⭐ 456 | 2026-10-28 | 1 |
+| [nim-lang/nimony](../repos/nim-lang/nimony.md) | ⭐ 457 | 2026-10-28 | 2 |
 | [crashappsec/chalk](../repos/crashappsec/chalk.md) | ⭐ 438 | 2026-08-05 | 1 |
 | [vacp2p/nim-libp2p](../repos/vacp2p/nim-libp2p.md) | ⭐ 322 | 2026-08-06 | 5 |
 | [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | ⭐ 249 | 2026-08-05 | 15 |
@@ -51,7 +54,7 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 58 | ⭐ 18,287 | 2026-08-01 | 2026-10-26 |
+| [nim-lang/Nim](../repos/nim-lang/Nim.md) | 59 | ⭐ 18,288 | 2026-08-01 | 2026-10-29 |
 | [status-im/nimbus-eth2](../repos/status-im/nimbus-eth2.md) | 23 | ⭐ 666 | 2026-08-02 | 2026-10-25 |
 | [nim-lang/packages](../repos/nim-lang/packages.md) | 16 | ⭐ 502 | 2026-08-01 | 2026-10-12 |
 | [logos-messaging/logos-delivery](../repos/logos-messaging/logos-delivery.md) | 15 | ⭐ 249 | 2026-08-05 | 2026-10-17 |
@@ -59,8 +62,8 @@
 | [status-im/nimbus-eth1](../repos/status-im/nimbus-eth1.md) | 3 | ⭐ 634 | 2026-08-05 | 2026-10-26 |
 | [status-im/nim-stew](../repos/status-im/nim-stew.md) | 3 | ⭐ 154 | 2026-08-06 | 2026-08-08 |
 | [metacraft-labs/codetracer](../repos/metacraft-labs/codetracer.md) | 2 | ⭐ 1,301 | 2026-08-14 | 2026-08-17 |
+| [nim-lang/nimony](../repos/nim-lang/nimony.md) | 2 | ⭐ 457 | 2026-10-28 | 2026-10-29 |
 | [crashappsec/chalk](../repos/crashappsec/chalk.md) | 1 | ⭐ 438 | 2026-08-05 | 2026-08-05 |
-| [nim-lang/nimony](../repos/nim-lang/nimony.md) | 1 | ⭐ 456 | 2026-10-28 | 2026-10-28 |
 
 ---
 
@@ -79,4 +82,4 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:00.336Z*
+*Last updated: 2026-10-29T21:01:54.909Z*

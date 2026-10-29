@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-28T21:02:07.224Z",
-  "total_repositories": 4268,
-  "trending_today": 362,
-  "new_this_month": 596,
+  "generated_at": "2026-10-29T21:02:02.074Z",
+  "total_repositories": 4293,
+  "trending_today": 427,
+  "new_this_month": 600,
   "first_collection": "2026-07-30",
-  "last_collection": "2026-10-28",
+  "last_collection": "2026-10-29",
   "most_starred": {
     "full_name": "codecrafters-io/build-your-own-x",
     "stars": 534798,
@@ -12,13 +12,13 @@
   },
   "most_frequent": {
     "full_name": "apache/spark",
-    "trending_days": 72,
+    "trending_days": 73,
     "first_seen": "2026-08-01"
   },
   "newest_discovery": {
-    "full_name": "xiaolai/the-craft-of-selfteaching",
-    "stars": 18454,
-    "first_seen": "2026-10-28"
+    "full_name": "ansible/ansible",
+    "stars": 71155,
+    "first_seen": "2026-10-29"
   },
   "fastest_growing": {
     "full_name": "different-ai/openwork",
@@ -26,11 +26,11 @@
     "growth_rate": 100,
     "first_seen": "2026-08-01"
   },
-  "total_stars": 57141186,
-  "avg_stars": 13388,
+  "total_stars": 57467549,
+  "avg_stars": 13386,
   "avg_trending_days": 6.6,
   "language_count": 62,
-  "topic_count": 10660,
+  "topic_count": 10712,
   "collection_success_rate": 100,
   "data_quality_score": 99
 }

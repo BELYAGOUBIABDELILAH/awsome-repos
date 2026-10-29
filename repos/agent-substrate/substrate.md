@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Go |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 5,489 |
-| **Forks** | 🍴 599 |
-| **Trending Days** | 18 |
+| **Stars** | ⭐ 5,954 |
+| **Forks** | 🍴 652 |
+| **Trending Days** | 19 |
 | **Peak Rank** | #2 |
 
 | **First Seen** | Aug 2, 2026 |
-| **Last Seen** | Oct 18, 2026 |
+| **Last Seen** | Oct 29, 2026 |
 
 
 ---
@@ -37,7 +37,7 @@
 
 ## Alternatives
 
-*Similar: Check repositories in Go or similar-topics*
+*Similar: Check repositories in Go or agents*
 
 ---
 
@@ -50,7 +50,7 @@
 ### Highlights
 
 - **Peak Rank**: #2
-- **Trending Days**: 18
+- **Trending Days**: 19
 - **Longest Streak**: 4 days
 
 ---
@@ -58,10 +58,10 @@
 ## Categories
 
 ### Topics
-
+[`agents`](../../topics/agents.md) [`cncf`](../../topics/cncf.md) [`sandboxing`](../../topics/sandboxing.md) 
 
 ### Curated Categories
-`General` 
+`Systems Programming` 
 
 ---
 
@@ -75,7 +75,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -94,5 +94,5 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:02.861Z*  
-*Data from 18 trending reports*
+*Last updated: 2026-10-29T21:01:57.553Z*  
+*Data from 19 trending reports*

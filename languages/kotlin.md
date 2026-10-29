@@ -16,43 +16,28 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Tencent-TDS/KuiklyUI](../repos/Tencent-TDS/KuiklyUI.md) | ⭐ 3,609 | 2026-08-01 | 3 |
+| [JetBrains/koog](../repos/JetBrains/koog.md) | ⭐ 4,645 | 2026-08-08 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [2dust/v2rayNG](../repos/2dust/v2rayNG.md) | ⭐ 64,880 | 2026-08-02 | 21 |
+| [capcom6/android-sms-gateway](../repos/capcom6/android-sms-gateway.md) | ⭐ 5,957 | 2026-08-11 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mobile-dev-inc/Maestro](../repos/mobile-dev-inc/Maestro.md) | ⭐ 16,248 | 2026-08-02 | 12 |
+| [shiaho777/web-to-app](../repos/shiaho777/web-to-app.md) | ⭐ 7,125 | 2026-08-16 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [topjohnwu/Magisk](../repos/topjohnwu/Magisk.md) | ⭐ 63,564 | 2026-08-03 | 16 |
+| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,279 | 2026-10-06 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [gkd-kit/gkd](../repos/gkd-kit/gkd.md) | ⭐ 43,581 | 2026-08-03 | 17 |
+| [mossyhub/openautolink](../repos/mossyhub/openautolink.md) | ⭐ 176 | 2026-10-16 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [cwuom/NeriPlayer](../repos/cwuom/NeriPlayer.md) | ⭐ 3,965 | 2026-08-05 | 7 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [agupta07505/SmartIsland](../repos/agupta07505/SmartIsland.md) | ⭐ 340 | 2026-10-02 | 3 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,249 | 2026-10-06 | 6 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [carlelieser/shizzi](../repos/carlelieser/shizzi.md) | ⭐ 227 | 2026-10-16 | 2 |
-| Repository | Stars | First Seen | Trending Days |
-|------------|-------|------------|---------------|
-| [realidkroo/Mochy-Music](../repos/realidkroo/Mochy-Music.md) | ⭐ 282 | 2026-10-28 | 1 |
+| [realidkroo/Mochy-Music](../repos/realidkroo/Mochy-Music.md) | ⭐ 347 | 2026-10-28 | 2 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [mlmvpn/mlmvpn_android](../repos/mlmvpn/mlmvpn_android.md) | ⭐ 551 | 2026-09-29 | Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE&#x2F;AmneziaWG, and the MLM... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [YuKongA/ghostlock-app](../repos/YuKongA/ghostlock-app.md) | ⭐ 1,825 | 2026-10-01 | GhostLock One-Tap Execution App (CVE-2026-43499) |
@@ -70,7 +55,7 @@
 | [agupta07505/SmartIsland](../repos/agupta07505/SmartIsland.md) | ⭐ 340 | 2026-10-02 | Smart Island is a modern, open-source implementation of Android&#39;s Dynamic Island experience. It t... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
-| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,249 | 2026-10-06 | Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map d... |
+| [PimpinPumpkin/Vela](../repos/PimpinPumpkin/Vela.md) | ⭐ 2,279 | 2026-10-06 | Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map d... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [CYQawa/YunX](../repos/CYQawa/YunX.md) | ⭐ 5,551 | 2026-10-06 | ✨一个安卓网盘解析下载app✨ |
@@ -80,6 +65,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [rmyndharis/VSCodroid](../repos/rmyndharis/VSCodroid.md) | ⭐ 188 | 2026-10-07 | VS Code ported to Android — a full IDE on-the-go for developers |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [Lelonio/Square](../repos/Lelonio/Square.md) | ⭐ 429 | 2026-10-08 | Unofficial YouTube Music &#x2F; Spotify Premium client for Android, built in Liquid Glass. Audio effec... |
 
 
 ---
@@ -233,4 +221,4 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:00.323Z*
+*Last updated: 2026-10-29T21:01:54.896Z*

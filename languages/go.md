@@ -16,46 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/gh-stack](../repos/github/gh-stack.md) | ⭐ 1,725 | 2026-08-01 | 6 |
+| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 8,384 | 2026-08-02 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [multica-ai/multica](../repos/multica-ai/multica.md) | ⭐ 54,123 | 2026-08-01 | 23 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | ⭐ 5,954 | 2026-08-02 | 19 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [ollama/ollama](../repos/ollama/ollama.md) | ⭐ 185,138 | 2026-08-01 | 26 |
+| [XTLS/Xray-core](../repos/XTLS/Xray-core.md) | ⭐ 42,443 | 2026-08-02 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [superplanehq/superplane](../repos/superplanehq/superplane.md) | ⭐ 8,356 | 2026-08-02 | 12 |
+| [docker/compose](../repos/docker/compose.md) | ⭐ 38,523 | 2026-08-04 | 6 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [chaitin/SafeLine](../repos/chaitin/SafeLine.md) | ⭐ 23,073 | 2026-08-03 | 6 |
+| [gastownhall/beads](../repos/gastownhall/beads.md) | ⭐ 28,289 | 2026-08-04 | 14 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [kubernetes-sigs/agent-sandbox](../repos/kubernetes-sigs/agent-sandbox.md) | ⭐ 4,433 | 2026-08-05 | 10 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 50,085 | 2026-08-06 | 11 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [wailsapp/wails](../repos/wailsapp/wails.md) | ⭐ 36,793 | 2026-08-05 | 8 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | ⭐ 45,097 | 2026-08-07 | 20 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [anchore/syft](../repos/anchore/syft.md) | ⭐ 9,783 | 2026-08-11 | 6 |
+| [gitleaks/gitleaks](../repos/gitleaks/gitleaks.md) | ⭐ 30,499 | 2026-08-11 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mvanhorn/cli-printing-press](../repos/mvanhorn/cli-printing-press.md) | ⭐ 4,865 | 2026-08-17 | 2 |
+| [nats-io/nats-server](../repos/nats-io/nats-server.md) | ⭐ 20,963 | 2026-08-11 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [argoproj/argo-workflows](../repos/argoproj/argo-workflows.md) | ⭐ 17,063 | 2026-08-19 | 3 |
+| [tailscale/tailcat](../repos/tailscale/tailcat.md) | ⭐ 8,682 | 2026-08-28 | 5 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [rakyll/hey](../repos/rakyll/hey.md) | ⭐ 20,614 | 2026-09-29 | HTTP load generator, ApacheBench (ab) replacement |
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [felinics/Memoh](../repos/felinics/Memoh.md) | ⭐ 2,590 | 2026-09-29 | ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and ... |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [hashicorp/hcl](../repos/hashicorp/hcl.md) | ⭐ 5,809 | 2026-10-01 | HCL is the HashiCorp configuration language. |
@@ -80,6 +74,12 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [owasp-amass/amass](../repos/owasp-amass/amass.md) | ⭐ 15,303 | 2026-10-06 | In-depth attack surface mapping and asset discovery |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [dundee/gdu](../repos/dundee/gdu.md) | ⭐ 6,077 | 2026-10-06 | Fast disk usage analyzer with console interface written in Go |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [prometheus/client_golang](../repos/prometheus/client_golang.md) | ⭐ 6,038 | 2026-10-06 | Prometheus instrumentation library for Go applications |
 
 
 ---
@@ -106,8 +106,8 @@
 | [etcd-io/etcd](../repos/etcd-io/etcd.md) | ⭐ 52,401 | 2026-08-22 | 5 |
 | [ethereum/go-ethereum](../repos/ethereum/go-ethereum.md) | ⭐ 51,305 | 2026-08-04 | 3 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | ⭐ 50,580 | 2026-08-01 | 21 |
+| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 50,085 | 2026-08-06 | 11 |
 | [AlistGo/alist](../repos/AlistGo/alist.md) | ⭐ 49,993 | 2026-08-03 | 1 |
-| [hashicorp/terraform](../repos/hashicorp/terraform.md) | ⭐ 49,972 | 2026-08-06 | 10 |
 
 ---
 
@@ -120,8 +120,8 @@
 | [multica-ai/multica](../repos/multica-ai/multica.md) | 23 | ⭐ 54,123 | 2026-08-01 | 2026-10-28 |
 | [QuantumNous/new-api](../repos/QuantumNous/new-api.md) | 21 | ⭐ 50,580 | 2026-08-01 | 2026-10-23 |
 | [aquasecurity/trivy](../repos/aquasecurity/trivy.md) | 21 | ⭐ 38,671 | 2026-08-01 | 2026-10-23 |
-| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 19 | ⭐ 44,261 | 2026-08-07 | 2026-10-17 |
-| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 18 | ⭐ 5,489 | 2026-08-02 | 2026-10-18 |
+| [Wei-Shaw/sub2api](../repos/Wei-Shaw/sub2api.md) | 20 | ⭐ 45,097 | 2026-08-07 | 2026-10-29 |
+| [agent-substrate/substrate](../repos/agent-substrate/substrate.md) | 19 | ⭐ 5,954 | 2026-08-02 | 2026-10-29 |
 | [golang/go](../repos/golang/go.md) | 17 | ⭐ 139,616 | 2026-07-31 | 2026-10-26 |
 | [ys-ll/uniterm](../repos/ys-ll/uniterm.md) | 17 | ⭐ 880 | 2026-08-01 | 2026-10-21 |
 | [alibaba/open-code-review](../repos/alibaba/open-code-review.md) | 17 | ⭐ 48,815 | 2026-08-20 | 2026-10-28 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:00.304Z*
+*Last updated: 2026-10-29T21:01:54.871Z*

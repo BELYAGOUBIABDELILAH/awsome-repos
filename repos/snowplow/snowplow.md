@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Scala |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 7,041 |
-| **Forks** | 🍴 1,171 |
-| **Trending Days** | 9 |
+| **Stars** | ⭐ 7,048 |
+| **Forks** | 🍴 1,170 |
+| **Trending Days** | 10 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 11, 2026 |
-| **Last Seen** | Oct 18, 2026 |
+| **Last Seen** | Oct 29, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 9
+- **Trending Days**: 10
 - **Longest Streak**: 2 days
 
 ---
@@ -91,5 +91,5 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:04.341Z*  
-*Data from 9 trending reports*
+*Last updated: 2026-10-29T21:01:59.080Z*  
+*Data from 10 trending reports*

@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Nim |
 | **License** | MIT |
-| **Stars** | ⭐ 456 |
-| **Forks** | 🍴 53 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 457 |
+| **Forks** | 🍴 54 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 28, 2026 |
-| **Last Seen** | Oct 28, 2026 |
+| **Last Seen** | Oct 29, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
-- **Longest Streak**: 1 days
+- **Trending Days**: 2
+- **Longest Streak**: 2 days
 
 ---
 
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 40&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-28T21:02:06.760Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-29T21:02:01.569Z*  
+*Data from 2 trending reports*

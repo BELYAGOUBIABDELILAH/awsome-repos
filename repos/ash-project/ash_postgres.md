@@ -13,12 +13,12 @@
 | **Language** | Elixir |
 | **License** | Not specified |
 | **Stars** | ⭐ 191 |
-| **Forks** | 🍴 182 |
-| **Trending Days** | 2 |
+| **Forks** | 🍴 184 |
+| **Trending Days** | 3 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Oct 25, 2026 |
-| **Last Seen** | Oct 27, 2026 |
+| **Last Seen** | Oct 29, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 2
+- **Trending Days**: 3
 - **Longest Streak**: 1 days
 
 ---
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 35&#x2F;100
+- **Trending Score**: 50&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-28T21:02:06.693Z*  
-*Data from 2 trending reports*
+*Last updated: 2026-10-29T21:02:01.504Z*  
+*Data from 3 trending reports*

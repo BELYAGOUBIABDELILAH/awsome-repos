@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 148
+- **Total Repositories**: 149
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-23
 
@@ -16,31 +16,34 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,695 | 2026-08-01 | 43 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,706 | 2026-08-01 | 44 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [StressOzz/Zapret-Manager](../repos/StressOzz/Zapret-Manager.md) | ⭐ 2,082 | 2026-08-01 | 11 |
+| [openshift/release](../repos/openshift/release.md) | ⭐ 330 | 2026-08-04 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,757 | 2026-08-04 | 9 |
+| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [expo/skills](../repos/expo/skills.md) | ⭐ 3,523 | 2026-08-07 | 35 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | ⭐ 11,309 | 2026-08-04 | 23 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,216 | 2026-08-07 | 9 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,341 | 2026-08-04 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,807 | 2026-09-02 | 5 |
+| [expo/skills](../repos/expo/skills.md) | ⭐ 3,754 | 2026-08-07 | 36 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [CachyOS/linux-cachyos](../repos/CachyOS/linux-cachyos.md) | ⭐ 4,716 | 2026-09-14 | 4 |
+| [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) | ⭐ 2,540 | 2026-08-08 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [fscarmen/sing-box](../repos/fscarmen/sing-box.md) | ⭐ 5,921 | 2026-09-21 | 5 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,866 | 2026-08-20 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [remote-android/redroid-doc](../repos/remote-android/redroid-doc.md) | ⭐ 7,051 | 2026-10-28 | 1 |
+| [microsoft/azure-skills](../repos/microsoft/azure-skills.md) | ⭐ 1,602 | 2026-08-20 | 13 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,909 | 2026-08-29 | 11 |
 
 
 ---
@@ -87,18 +90,18 @@
 |------------|-------|------------|---------------|
 | [d3/d3](../repos/d3/d3.md) | ⭐ 113,793 | 2026-08-07 | 3 |
 | [papers-we-love/papers-we-love](../repos/papers-we-love/papers-we-love.md) | ⭐ 110,960 | 2026-10-27 | 1 |
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,695 | 2026-08-01 | 43 |
-| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,757 | 2026-08-04 | 9 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | ⭐ 95,706 | 2026-08-01 | 44 |
+| [youngyangyang04/leetcode-master](../repos/youngyangyang04/leetcode-master.md) | ⭐ 62,756 | 2026-08-04 | 10 |
 | [romkatv/powerlevel10k](../repos/romkatv/powerlevel10k.md) | ⭐ 55,188 | 2026-08-07 | 3 |
 | [dockur/windows](../repos/dockur/windows.md) | ⭐ 53,702 | 2026-08-06 | 15 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | ⭐ 47,855 | 2026-08-04 | 13 |
-| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,683 | 2026-08-29 | 10 |
+| [omacom/omarchy](../repos/omacom/omarchy.md) | ⭐ 45,909 | 2026-08-29 | 11 |
 | [zsh-users/zsh-autosuggestions](../repos/zsh-users/zsh-autosuggestions.md) | ⭐ 36,028 | 2026-09-02 | 1 |
-| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,735 | 2026-08-20 | 12 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | ⭐ 33,866 | 2026-08-20 | 13 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | ⭐ 33,123 | 2026-08-02 | 22 |
 | [233boy/v2ray](../repos/233boy/v2ray.md) | ⭐ 29,807 | 2026-09-02 | 5 |
 | [mbadolato/iTerm2-Color-Schemes](../repos/mbadolato/iTerm2-Color-Schemes.md) | ⭐ 27,102 | 2026-08-02 | 1 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,137 | 2026-08-04 | 12 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | ⭐ 26,341 | 2026-08-04 | 13 |
 | [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) | ⭐ 22,216 | 2026-08-07 | 9 |
 | [lewagon/dotfiles](../repos/lewagon/dotfiles.md) | ⭐ 21,783 | 2026-08-25 | 1 |
 | [dockur/macos](../repos/dockur/macos.md) | ⭐ 21,260 | 2026-08-02 | 1 |
@@ -112,16 +115,16 @@
 
 | Repository | Trending Days | Stars | First Seen | Last Seen |
 |------------|---------------|-------|------------|-----------|
-| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 43 | ⭐ 95,695 | 2026-08-01 | 2026-10-28 |
-| [expo/skills](../repos/expo/skills.md) | 35 | ⭐ 3,523 | 2026-08-07 | 2026-10-28 |
+| [nvm-sh/nvm](../repos/nvm-sh/nvm.md) | 44 | ⭐ 95,706 | 2026-08-01 | 2026-10-29 |
+| [expo/skills](../repos/expo/skills.md) | 36 | ⭐ 3,754 | 2026-08-07 | 2026-10-29 |
+| [github/copilot-cli](../repos/github/copilot-cli.md) | 23 | ⭐ 11,309 | 2026-08-04 | 2026-10-29 |
 | [basecamp/omarchy](../repos/basecamp/omarchy.md) | 22 | ⭐ 33,123 | 2026-08-02 | 2026-08-28 |
-| [github/copilot-cli](../repos/github/copilot-cli.md) | 22 | ⭐ 11,292 | 2026-08-04 | 2026-10-22 |
 | [kunchenguid/firstmate](../repos/kunchenguid/firstmate.md) | 19 | ⭐ 8,002 | 2026-08-12 | 2026-10-16 |
 | [cloudflare/skills](../repos/cloudflare/skills.md) | 15 | ⭐ 3,172 | 2026-08-05 | 2026-10-25 |
 | [dockur/windows](../repos/dockur/windows.md) | 15 | ⭐ 53,702 | 2026-08-06 | 2026-10-27 |
 | [acmesh-official/acme.sh](../repos/acmesh-official/acme.sh.md) | 13 | ⭐ 47,855 | 2026-08-04 | 2026-10-21 |
-| [eugr/spark-vllm-docker](../repos/eugr/spark-vllm-docker.md) | 12 | ⭐ 2,316 | 2026-08-02 | 2026-09-25 |
-| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 12 | ⭐ 26,137 | 2026-08-04 | 2026-10-13 |
+| [a2aproject/A2A](../repos/a2aproject/A2A.md) | 13 | ⭐ 26,341 | 2026-08-04 | 2026-10-29 |
+| [VSCodium/vscodium](../repos/VSCodium/vscodium.md) | 13 | ⭐ 33,866 | 2026-08-20 | 2026-10-29 |
 
 ---
 
@@ -178,7 +181,7 @@
 - [mack-a/v2ray-agent](../repos/mack-a/v2ray-agent.md) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 - [docker-mailserver/docker-mailserver](../repos/docker-mailserver/docker-mailserver.md) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) r...
 - [RROrg/rr](../repos/RROrg/rr.md) - Redpill Recovery (arpl-i18n)
-- [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) - Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3
+- [assafdori/bypass-mdm](../repos/assafdori/bypass-mdm.md) - Bypass MDM Setup for MacOS, up to MacOS Golden Gate.
 - [testdouble/han](../repos/testdouble/han.md) - Han: AI skills and agents for &quot;Solo&quot; product engineers and small teams
 - [Steam-Headless/docker-steam-headless](../repos/Steam-Headless/docker-steam-headless.md) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [linux-surface/linux-surface](../repos/linux-surface/linux-surface.md) - Linux Kernel for Surface Devices
@@ -230,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:00.367Z*
+*Last updated: 2026-10-29T21:01:54.941Z*

@@ -1,6 +1,6 @@
 # screenpipe&#x2F;screenpipe
 
-> YC (S26) | Record your screen 24&#x2F;7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+> YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents&#39; context
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;screenpipe&#x2F;screenpipe) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Other |
-| **Stars** | ⭐ 20,883 |
-| **Forks** | 🍴 2,086 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 22,159 |
+| **Forks** | 🍴 2,260 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #N&#x2F;A |
 
 | **First Seen** | Aug 10, 2026 |
-| **Last Seen** | Aug 10, 2026 |
+| **Last Seen** | Oct 29, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #N&#x2F;A
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Average | Basic documentation available |
 | **Community** | Growing | Emerging community |
 | **Maturity** | Stable | Mature with proven track record |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: No ranking data
 
 
 ---
 
-*Last updated: 2026-10-28T21:02:04.205Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-29T21:01:58.933Z*  
+*Data from 2 trending reports*

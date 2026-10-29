@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 303
+- **Total Repositories**: 304
 - **First Seen**: 2026-07-30
 - **Last Updated**: 2026-10-12
 
@@ -16,43 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [Alishahryar1/free-claude-code](../repos/Alishahryar1/free-claude-code.md) | ⭐ 64,593 | 2026-08-03 | 15 |
+| [AgriciDaniel/claude-seo](../repos/AgriciDaniel/claude-seo.md) | ⭐ 23,932 | 2026-08-08 | 8 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [TauricResearch/TradingAgents](../repos/TauricResearch/TradingAgents.md) | ⭐ 117,829 | 2026-08-08 | 16 |
+| [vectorize-io/hindsight](../repos/vectorize-io/hindsight.md) | ⭐ 56,170 | 2026-08-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [AgriciDaniel/claude-seo](../repos/AgriciDaniel/claude-seo.md) | ⭐ 23,292 | 2026-08-08 | 7 |
+| [HKUDS/DeepTutor](../repos/HKUDS/DeepTutor.md) | ⭐ 49,792 | 2026-08-11 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [HKUDS/DeepTutor](../repos/HKUDS/DeepTutor.md) | ⭐ 47,810 | 2026-08-11 | 6 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 143,895 | 2026-08-14 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 143,631 | 2026-08-14 | 9 |
+| [volcengine/OpenViking](../repos/volcengine/OpenViking.md) | ⭐ 41,141 | 2026-08-14 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 36,974 | 2026-08-29 | 6 |
+| [p-e-w/heretic](../repos/p-e-w/heretic.md) | ⭐ 37,099 | 2026-08-29 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [NVIDIA/SkillSpector](../repos/NVIDIA/SkillSpector.md) | ⭐ 23,049 | 2026-09-01 | 7 |
+| [rlaope/oh-my-hermes](../repos/rlaope/oh-my-hermes.md) | ⭐ 4,771 | 2026-09-14 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [baidu/Unlimited-OCR](../repos/baidu/Unlimited-OCR.md) | ⭐ 29,499 | 2026-10-13 | 3 |
+| [baidu/Unlimited-OCR](../repos/baidu/Unlimited-OCR.md) | ⭐ 29,734 | 2026-10-13 | 4 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [beenuar/AiSOC](../repos/beenuar/AiSOC.md) | ⭐ 4,836 | 2026-10-28 | 1 |
+| [beenuar/AiSOC](../repos/beenuar/AiSOC.md) | ⭐ 5,119 | 2026-10-28 | 2 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [shitagaki-lab/see-through](../repos/shitagaki-lab/see-through.md) | ⭐ 5,091 | 2026-10-28 | 1 |
+| [ansible/ansible](../repos/ansible/ansible.md) | ⭐ 71,155 | 2026-10-29 | 1 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [SemiAnalysisAI/InferenceX](../repos/SemiAnalysisAI/InferenceX.md) | ⭐ 1,785 | 2026-09-29 | Open Source Inference Research Platform Standard &#x2F; 开源推理研究平台 |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [tile-ai/tilelang](../repos/tile-ai/tilelang.md) | ⭐ 8,237 | 2026-10-01 |  Domain-specific language designed to streamline the development of high-performance GPU&#x2F;CPU&#x2F;Acce... |
@@ -80,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [agno-agi/agno](../repos/agno-agi/agno.md) | ⭐ 42,533 | 2026-10-03 | Build, run, and manage agent platforms. |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [modelcontextprotocol/python-sdk](../repos/modelcontextprotocol/python-sdk.md) | ⭐ 24,471 | 2026-10-03 | The official Python SDK for Model Context Protocol servers and clients |
 
 
 ---
@@ -98,7 +98,7 @@
 | [Significant-Gravitas/AutoGPT](../repos/Significant-Gravitas/AutoGPT.md) | ⭐ 187,775 | 2026-08-06 | 9 |
 | [anthropics/skills](../repos/anthropics/skills.md) | ⭐ 178,249 | 2026-08-11 | 8 |
 | [huggingface/transformers](../repos/huggingface/transformers.md) | ⭐ 167,557 | 2026-07-31 | 9 |
-| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 143,631 | 2026-08-14 | 9 |
+| [github/spec-kit](../repos/github/spec-kit.md) | ⭐ 143,895 | 2026-08-14 | 10 |
 | [Shubhamsaboo/awesome-llm-apps](../repos/Shubhamsaboo/awesome-llm-apps.md) | ⭐ 143,038 | 2026-08-04 | 8 |
 | [Comfy-Org/ComfyUI](../repos/Comfy-Org/ComfyUI.md) | ⭐ 141,991 | 2026-08-05 | 13 |
 | [Graphify-Labs/graphify](../repos/Graphify-Labs/graphify.md) | ⭐ 133,846 | 2026-08-03 | 11 |
@@ -233,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:00.351Z*
+*Last updated: 2026-10-29T21:01:54.924Z*

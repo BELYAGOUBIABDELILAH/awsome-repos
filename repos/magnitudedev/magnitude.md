@@ -1,6 +1,6 @@
 # magnitudedev&#x2F;magnitude
 
-> Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.
+> Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;magnitudedev&#x2F;magnitude) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Rust |
 | **License** | Apache-2.0 |
-| **Stars** | ⭐ 7,060 |
-| **Forks** | 🍴 484 |
-| **Trending Days** | 11 |
+| **Stars** | ⭐ 7,557 |
+| **Forks** | 🍴 538 |
+| **Trending Days** | 12 |
 | **Peak Rank** | #9 |
 
 | **First Seen** | Aug 20, 2026 |
-| **Last Seen** | Oct 17, 2026 |
+| **Last Seen** | Oct 29, 2026 |
 
 
 ---
@@ -51,7 +51,7 @@
 ### Highlights
 
 - **Peak Rank**: #9
-- **Trending Days**: 11
+- **Trending Days**: 12
 - **Longest Streak**: 4 days
 
 ---
@@ -76,7 +76,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Active | Regular updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Hard | Requires domain expertise |
 
 #### Use Cases
@@ -95,5 +95,5 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:04.852Z*  
-*Data from 11 trending reports*
+*Last updated: 2026-10-29T21:01:59.623Z*  
+*Data from 12 trending reports*

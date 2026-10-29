@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-- **Total Repositories**: 227
+- **Total Repositories**: 228
 - **First Seen**: 2026-08-01
 - **Last Updated**: 2026-10-09
 
@@ -16,37 +16,40 @@
 
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,154 | 2026-08-01 | 23 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,224 | 2026-08-01 | 24 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,752 | 2026-08-01 | 26 |
+| [FreeRTOS/FreeRTOS-Kernel](../repos/FreeRTOS/FreeRTOS-Kernel.md) | ⭐ 4,624 | 2026-08-04 | 16 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [radareorg/radare2](../repos/radareorg/radare2.md) | ⭐ 25,197 | 2026-08-05 | 7 |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 77,090 | 2026-08-04 | 10 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 27,549 | 2026-08-08 | 6 |
+| [madler/zlib](../repos/madler/zlib.md) | ⭐ 7,179 | 2026-08-07 | 13 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,518 | 2026-08-12 | 10 |
+| [tianocore/edk2](../repos/tianocore/edk2.md) | ⭐ 6,374 | 2026-08-08 | 5 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [yugabyte/yugabyte-db](../repos/yugabyte/yugabyte-db.md) | ⭐ 10,636 | 2026-08-20 | 6 |
+| [valkey-io/valkey](../repos/valkey-io/valkey.md) | ⭐ 27,562 | 2026-08-08 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,654 | 2026-09-01 | 19 |
+| [arendst/Tasmota](../repos/arendst/Tasmota.md) | ⭐ 24,944 | 2026-08-09 | 7 |
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
-| [willfaust/Madeira](../repos/willfaust/Madeira.md) | ⭐ 2,932 | 2026-09-09 | 11 |
+| [pgvector/pgvector](../repos/pgvector/pgvector.md) | ⭐ 23,526 | 2026-08-12 | 11 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [capstone-engine/capstone](../repos/capstone-engine/capstone.md) | ⭐ 9,150 | 2026-08-29 | 5 |
+| Repository | Stars | First Seen | Trending Days |
+|------------|-------|------------|---------------|
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,945 | 2026-09-01 | 20 |
 
 
 ---
 
 ## 🆕 New Repositories (Last 30 Days)
 
-| Repository | Stars | First Seen | Description |
-|------------|-------|------------|-------------|
-| [Syllo/nvtop](../repos/Syllo/nvtop.md) | ⭐ 11,034 | 2026-09-29 | GPU &amp; Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm |
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [FoloToy/ai-passport](../repos/FoloToy/ai-passport.md) | ⭐ 710 | 2026-10-01 | FOLOTOY AI Passport develop resources for Agent |
@@ -74,6 +77,9 @@
 | Repository | Stars | First Seen | Description |
 |------------|-------|------------|-------------|
 | [pnggroup/libpng](../repos/pnggroup/libpng.md) | ⭐ 1,662 | 2026-10-09 | LIBPNG: Portable Network Graphics support, official libpng repository |
+| Repository | Stars | First Seen | Description |
+|------------|-------|------------|-------------|
+| [tarwin/tinyjsapp](../repos/tarwin/tinyjsapp.md) | ⭐ 1,278 | 2026-10-11 | Build native apps in JS. Backend, frontend. ~5Mb. |
 
 
 ---
@@ -83,14 +89,14 @@
 | Repository | Stars | First Seen | Trending Days |
 |------------|-------|------------|---------------|
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | ⭐ 151,696 | 2026-08-07 | 17 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,154 | 2026-08-01 | 23 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | ⭐ 140,224 | 2026-08-01 | 24 |
 | [ventoy/Ventoy](../repos/ventoy/Ventoy.md) | ⭐ 80,039 | 2026-08-24 | 4 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | ⭐ 78,208 | 2026-08-02 | 18 |
-| [redis/redis](../repos/redis/redis.md) | ⭐ 77,133 | 2026-08-04 | 9 |
+| [redis/redis](../repos/redis/redis.md) | ⭐ 77,090 | 2026-08-04 | 10 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | ⭐ 75,752 | 2026-08-01 | 26 |
 | [git/git](../repos/git/git.md) | ⭐ 64,051 | 2026-08-05 | 9 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | ⭐ 47,337 | 2026-08-07 | 26 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,654 | 2026-09-01 | 19 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | ⭐ 44,945 | 2026-09-01 | 20 |
 | [php/php-src](../repos/php/php-src.md) | ⭐ 41,534 | 2026-08-01 | 12 |
 | [pbatard/rufus](../repos/pbatard/rufus.md) | ⭐ 37,559 | 2026-08-08 | 4 |
 | [mpv-player/mpv](../repos/mpv-player/mpv.md) | ⭐ 37,044 | 2026-08-02 | 9 |
@@ -113,10 +119,10 @@
 | [zephyrproject-rtos/zephyr](../repos/zephyrproject-rtos/zephyr.md) | 28 | ⭐ 16,924 | 2026-08-06 | 2026-10-27 |
 | [colbymchenry/codegraph](../repos/colbymchenry/codegraph.md) | 26 | ⭐ 75,752 | 2026-08-01 | 2026-10-28 |
 | [DeusData/codebase-memory-mcp](../repos/DeusData/codebase-memory-mcp.md) | 26 | ⭐ 47,337 | 2026-08-07 | 2026-10-23 |
-| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 23 | ⭐ 140,154 | 2026-08-01 | 2026-10-28 |
+| [microsoft/PowerToys](../repos/microsoft/PowerToys.md) | 24 | ⭐ 140,224 | 2026-08-01 | 2026-10-29 |
 | [facebook/zstd](../repos/facebook/zstd.md) | 21 | ⭐ 28,089 | 2026-08-07 | 2026-10-23 |
+| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 20 | ⭐ 44,945 | 2026-09-01 | 2026-10-29 |
 | [Mbed-TLS/mbedtls](../repos/Mbed-TLS/mbedtls.md) | 19 | ⭐ 7,021 | 2026-08-04 | 2026-10-23 |
-| [JustVugg/colibri](../repos/JustVugg/colibri.md) | 19 | ⭐ 44,654 | 2026-09-01 | 2026-10-28 |
 | [obsproject/obs-studio](../repos/obsproject/obs-studio.md) | 18 | ⭐ 78,208 | 2026-08-02 | 2026-10-25 |
 | [Genymobile/scrcpy](../repos/Genymobile/scrcpy.md) | 17 | ⭐ 151,696 | 2026-08-07 | 2026-10-09 |
 
@@ -227,4 +233,4 @@
 
 ---
 
-*Last updated: 2026-10-28T21:02:00.261Z*
+*Last updated: 2026-10-29T21:01:54.827Z*

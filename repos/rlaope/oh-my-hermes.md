@@ -1,6 +1,6 @@
 # rlaope&#x2F;oh-my-hermes
 
-> All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
+> ⚚ The coding harness with Hermes Agent wired into IDE.
 
 [View on GitHub](https:&#x2F;&#x2F;github.com&#x2F;rlaope&#x2F;oh-my-hermes) 
 
@@ -12,13 +12,13 @@
 |---|---|
 | **Language** | Python |
 | **License** | MIT |
-| **Stars** | ⭐ 1,971 |
-| **Forks** | 🍴 159 |
-| **Trending Days** | 1 |
+| **Stars** | ⭐ 4,771 |
+| **Forks** | 🍴 372 |
+| **Trending Days** | 2 |
 | **Peak Rank** | #8 |
 
 | **First Seen** | Sep 14, 2026 |
-| **Last Seen** | Sep 14, 2026 |
+| **Last Seen** | Oct 29, 2026 |
 
 
 ---
@@ -47,7 +47,7 @@
 ### Highlights
 
 - **Peak Rank**: #8
-- **Trending Days**: 1
+- **Trending Days**: 2
 - **Longest Streak**: 1 days
 
 ---
@@ -72,7 +72,7 @@
 | **Documentation** | Limited | May require reading source code |
 | **Community** | Small | Niche but dedicated community |
 | **Maturity** | Experimental | New project, evolving rapidly |
-| **Maintenance** | Slow | Occasional updates |
+| **Maintenance** | Very Active | Updated within last week |
 | **Learning Curve** | Medium | Moderate learning investment |
 
 #### Use Cases
@@ -85,11 +85,11 @@
 
 #### Metrics
 - **Hidden Gem**: ✓ Yes
-- **Trending Score**: 20&#x2F;100
+- **Trending Score**: 35&#x2F;100
 - **Historical Rank**: Top 10 (Peak: #8)
 
 
 ---
 
-*Last updated: 2026-10-28T21:02:05.826Z*  
-*Data from 1 trending reports*
+*Last updated: 2026-10-29T21:02:00.584Z*  
+*Data from 2 trending reports*
